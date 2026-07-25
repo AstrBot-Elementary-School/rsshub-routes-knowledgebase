@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4795,
+  "heat": 4798,
   "location": "daily.ts",
   "maintainers": [
     "nczitzk",
@@ -73,7 +73,7 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "1. 月之暗面 Kimi 将以投前 500 亿美元估值洽谈 IPO 前最后一轮融资 2. OpenAI：Codex 和 ChatGPT Work 每周活跃用户已突破 1000 万人 3. 消息称腾讯整合 Workbuddy 与 QClaw 团队 4. 宇树科技王兴兴：具身智能的「ChatGPT 时刻」有望最快在两三年内到来 5. 苹果计划全面改版 MacBook 与 iMac，以应对 AI 需求 6. 阿里即将推出的「千问办公」系列产品已在内部小范围测试 7. 小红书回应 IPO 传闻：相关信息均不属实 8. 百度：香港主要上市申请已获联交所确认 9. 越疆回应「A 股招股书存在重大股权瑕疵」：前员工宋某内部争议不影响股权清晰及控股权稳定性 10. 腾讯 AI 创意智能体 Miora 全量上线 11. 微软被曝正评估将 Kimi K3 接入 Copilot，推理成本年降 6 亿美元 12. 苹果 iPhone 18 / Pro 系列已量产 富士康进入招工高峰期 13. OpenAI CEO 将向美国官员介绍下一代人工智能模型 14. OpenAI：Hugging Face 遭遇的安全漏洞事件由其旗下模型导致 15. AMD 将向 Anthropic 投资 50 亿美元 同步达成算力合作 16. 马斯克旗下脑机接口公司 Neuralink 最新估值突破 420 亿美元大关 - Powered by RSSHub",
+      "description": "1. 王虹、邓煜两位中国数学家首获菲尔兹奖 实现历史突破 2. 梁文锋 4 小时投资会讲话流出：DeepSeek 只赚取合理利润，克制、开源与低成本是实现 AGI 的核心策略 3. 阿里云：真武芯片超节点已成功适配 Qwen3.8 4. 黄仁勋：美国无需害怕中国开源 AI 模型，应警惕「封禁」呼声 5. DeepSeek 梁文锋：英伟达护城河正瓦解，华为超节点可完全平替 6. 长鑫科技：将于 7 月 27 日在科创板上市 7. 段永平：10 年内大概率不会卖泡泡玛特股票 8. 混元多模态理解负责人胡瀚离职创业 原团队或将聚焦世界模型 9. Alphabet 首席执行官反驳谷歌在 AI 竞赛中失势的说法 10. 欧盟委员会公告：谷歌因违反欧盟相关法规，合计被罚 8.9 亿欧元 11. 特斯拉警告称扩大 Optimus 产量将面临挑战 12. 腾讯云发布云端智能体 CodeBuddy NPC - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "52347176714948614",

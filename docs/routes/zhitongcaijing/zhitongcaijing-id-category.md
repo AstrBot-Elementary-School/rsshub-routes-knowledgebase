@@ -84,7 +84,7 @@ _None_
     {
       "description": "智通财经 - 推荐 - Powered by RSSHub",
       "errorAt": "2026-06-28T03:42:52.637Z",
-      "errorMessage": "502 \nAuthentication failed. Access denied.\n/zhitongcaijing\n502 \n[GET] \"https://www.zhitongcaijing.com/content/recommend.html?data_type=1&page=1\": 405 Not Allowed\n",
+      "errorMessage": "[GET] \"https://www.zhitongcaijing.com/content/recommend.html?data_type=1&page=1\": 405 Not Allowed\nAuthentication failed. Access denied.\n/zhitongcaijing\n502 \n[GET] \"https://www.zhitongcaijing.com/content/recommend.html?data_type=1&page=1\": 405 Not Allowed\n",
       "id": "63376992073142278",
       "image": null,
       "ownerUserId": null,

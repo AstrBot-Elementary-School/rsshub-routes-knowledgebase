@@ -63,7 +63,7 @@ _None_
     {
       "description": "年轻健壮，对主人家忠心耿耿的仆役-强石，某夜意外目睹大监夫人饥渴「自我安慰」的画面。明知眼前是个火坑，却义无反顾地跳了下去!「夫人，小的乐意填补妳空虚寂寞的心灵…」 - Powered by RSSHub",
       "errorAt": "2025-06-07T05:39:16.431Z",
-      "errorMessage": "[GET] \"https://bakamh.com/manga/最强家丁/\": 403 Forbidden\n",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "147664027379048448",
       "image": "https://bakamh.com/wp-content/uploads/2024/11/cover-5.jpg",
       "ownerUserId": null,

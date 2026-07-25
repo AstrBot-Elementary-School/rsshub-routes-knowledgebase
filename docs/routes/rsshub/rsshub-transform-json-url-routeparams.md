@@ -115,16 +115,16 @@ _None_
       "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fapi.github.com%2Frepos%2Fjava-decompiler%2Fjd-gui%2Freleases/title=jd-gui%20releases&itemTitle=tag_name&itemLink=html_url&itemDesc=body"
     },
     {
-      "description": "Proxy https://api.github.com/repos/chainreactors/gogo/releases - Powered by RSSHub",
+      "description": "Proxy https://api.github.com/repos/zed-industries/zed/releases - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "185695668595820544",
+      "id": "185694005069753344",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://api.github.com/repos/chainreactors/gogo/releases",
-      "title": "gogo releases",
+      "siteUrl": "https://api.github.com/repos/zed-industries/zed/releases",
+      "title": "zed releases",
       "type": "feed",
-      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fapi.github.com%2Frepos%2Fchainreactors%2Fgogo%2Freleases/title=gogo%20releases&itemTitle=tag_name&itemLink=html_url&itemDesc=body"
+      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fapi.github.com%2Frepos%2Fzed-industries%2Fzed%2Freleases/title=zed%20releases&itemTitle=tag_name&itemLink=html_url&itemDesc=body"
     }
   ]
 }

@@ -384,8 +384,8 @@
   "topFeeds": [
     {
       "description": "Free pre-installed PC games download. No speed limits, no installation required. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-23T16:13:19.734Z",
+      "errorMessage": "[GET] \"https://koyso.to/game/437\": 404 Not Found\n[GET] \"https://koyso.to/game/437\": 404 Not Found\n[GET] \"https://koyso.to/game/437\": 404 Not Found\n",
       "id": "186257019396793344",
       "image": null,
       "ownerUserId": null,

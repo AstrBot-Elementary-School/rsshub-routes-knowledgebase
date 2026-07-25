@@ -71,8 +71,8 @@ _None_
   "topFeeds": [
     {
       "description": "得物开放平台 - 技术变更 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-24T00:44:27.346Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "150079049005962240",
       "image": null,
       "ownerUserId": null,

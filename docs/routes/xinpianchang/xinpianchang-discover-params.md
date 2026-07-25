@@ -86,7 +86,7 @@ _None_
     {
       "description": "新片场社区汇聚全球优秀全球精选内容创作人和海量精选全球精选原创短视频作品,在线观看超高清和4K视频及全球精选作品创作教程,下载无水印视频案例和学习交流。 - Powered by RSSHub",
       "errorAt": "2025-08-15T22:14:30.949Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "[GET] \"https://www.xinpianchang.com/discover/article-9999-0\": 403 Forbidden\n",
       "id": "72472464679796736",
       "image": "https://oss-xpc0.xpccdn.com/Upload/edu/2022/06/02629881408a499.png",
       "ownerUserId": null,

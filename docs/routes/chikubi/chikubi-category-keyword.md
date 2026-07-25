@@ -55,7 +55,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 44,
+  "heat": 43,
   "location": "category.ts",
   "maintainers": [
     "SnowAgar25"
@@ -80,8 +80,8 @@ _None_
   "topFeeds": [
     {
       "description": "Category: 乳首レズ - chikubi.jp - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-24T06:58:50.220Z",
+      "errorMessage": "Unexpected token '<', \"<!DOCTYPE \"... is not valid JSON\n",
       "id": "61928846657635328",
       "image": null,
       "ownerUserId": null,

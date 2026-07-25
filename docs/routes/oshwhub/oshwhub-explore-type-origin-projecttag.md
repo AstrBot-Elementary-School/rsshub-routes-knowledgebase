@@ -1543,10 +1543,10 @@
     },
     {
       "description": "开源广场-EDA开源硬件平台，硬件工程师的电路家园 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-24T05:55:25.858Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "215454511119244288",
-      "image": "/_next/static/media/logo.e924b854.png",
+      "image": "https://static.oshwhub.com/web-assets/oshwhub/images/header-footer/logo.png?v=1784812525824",
       "ownerUserId": null,
       "siteUrl": "https://oshwhub.com/explore",
       "title": "立创开源广场 - 立创开源硬件平台",

@@ -75,8 +75,8 @@ _None_
   "topFeeds": [
     {
       "description": "Zed Industries - Blog - Powered by RSSHub",
-      "errorAt": "2026-07-23T01:57:38.664Z",
-      "errorMessage": "[GET] \"https://zed.dev/blog/parallel-agents\": 404 Not Found\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "148523846109257728",
       "image": null,
       "ownerUserId": null,

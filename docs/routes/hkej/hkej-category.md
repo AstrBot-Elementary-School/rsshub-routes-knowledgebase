@@ -79,7 +79,7 @@
     {
       "description": "信報網站(www.hkej.com)即時新聞，提供全天候即時港股、香港財經、國際金融和經濟新聞、中國經濟新聞資訊和分析。 - Powered by RSSHub",
       "errorAt": "2026-07-15T05:32:07.723Z",
-      "errorMessage": "[GET] \"https://www2.hkej.com/instantnews/current/article/4463160\": 429 Too Many Requests\n[GET] \"https://www2.hkej.com/instantnews/current/article/4463009\": 429 Too Many Requests\n",
+      "errorMessage": "[GET] \"https://www2.hkej.com/instantnews/current/article/4464441\": 429 Too Many Requests\n[GET] \"https://www2.hkej.com/instantnews/property/article/4464468\": 429 Too Many Requests\n",
       "id": "69975396806332416",
       "image": null,
       "ownerUserId": null,
@@ -90,8 +90,8 @@
     },
     {
       "description": "信報網站(www.hkej.com)即時新聞，提供全天候即時港股、香港財經、國際金融和經濟新聞、中國經濟新聞資訊和分析。 - Powered by RSSHub",
-      "errorAt": "2026-07-22T21:42:47.678Z",
-      "errorMessage": "[GET] \"https://www2.hkej.com/instantnews/international/article/4463544\": 429 Too Many Requests\n",
+      "errorAt": "2026-07-23T21:56:06.745Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "155622231834300416",
       "image": null,
       "ownerUserId": null,

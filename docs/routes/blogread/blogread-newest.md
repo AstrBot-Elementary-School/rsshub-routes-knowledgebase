@@ -38,7 +38,7 @@ _None_
     "programming"
   ],
   "example": "/blogread/newest",
-  "heat": 346,
+  "heat": 347,
   "location": "index.ts",
   "maintainers": [
     "fashioncj"

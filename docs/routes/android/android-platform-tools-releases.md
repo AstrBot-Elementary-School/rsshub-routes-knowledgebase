@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 26,
+  "heat": 27,
   "location": "platform-tools-releases.ts",
   "maintainers": [
     "nczitzk"

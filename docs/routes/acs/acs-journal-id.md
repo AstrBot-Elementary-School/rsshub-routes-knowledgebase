@@ -68,8 +68,8 @@ _None_
     },
     {
       "description": "Chemical Reviews - Powered by RSSHub",
-      "errorAt": "2026-07-23T04:58:09.634Z",
-      "errorMessage": "page.waitForSelector: Target page, context or browser has been closed\n",
+      "errorAt": "2026-07-21T10:08:13.370Z",
+      "errorMessage": "route.abort: route.continue: page.waitForSelector: Target page, context or browser has been closed\n",
       "id": "1164621930578182144",
       "image": null,
       "ownerUserId": null,

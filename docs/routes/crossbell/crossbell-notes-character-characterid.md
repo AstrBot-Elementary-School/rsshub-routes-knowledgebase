@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4,
+  "heat": 5,
   "location": "notes/character.ts",
   "maintainers": [
     "DIYgod"
@@ -89,8 +89,8 @@ _None_
     },
     {
       "description": "Crossbell Notes from 棒无 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-23T18:50:07.351Z",
+      "errorMessage": "[GET] \"https://indexer.crossbell.io/v1/notes?characterId=69522&includeCharacter=true\": <no response> fetch failed (Connect Timeout Error (attempted address: indexer.crossbell.io:443, timeout: 10000ms))\n",
       "id": "54887751043994624",
       "image": null,
       "ownerUserId": null,

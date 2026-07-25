@@ -52,7 +52,7 @@ smartlink.bio link in bio takes your audience from Instagram and TikTok to your 
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1,
+  "heat": 2,
   "location": "index.ts",
   "maintainers": [
     "nickyfoto"

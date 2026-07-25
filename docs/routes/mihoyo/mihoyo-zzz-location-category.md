@@ -95,8 +95,8 @@
     },
     {
       "description": "最新-绝区零 - Powered by RSSHub",
-      "errorAt": "2026-07-22T12:27:19.493Z",
-      "errorMessage": "[GET] \"https://api-takumi-static.mihoyo.com/content_v2_user/app/706fd13a87294881/getContentList?iPageSize=50&iPage=1&sLangKey=zh-cn&isPreview=0&iChanId=273\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 61.170.79.74:443, 61.170.79.73:443, 61.170.79.71:443, 61.170.79.72:443, 61.170.79.78:443, 61.170.79.77:443, 61.170.79.75:443, 61.170.79.76:443, timeout: 10000ms))\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "205175880713752576",
       "image": null,
       "ownerUserId": null,

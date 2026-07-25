@@ -49,7 +49,7 @@ _None_
     ],
     "requirePuppeteer": true
   },
-  "heat": 38,
+  "heat": 39,
   "location": "index.ts",
   "maintainers": [
     "KarasuShin",

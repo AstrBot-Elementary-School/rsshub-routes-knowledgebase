@@ -68,8 +68,8 @@ _None_
   "topFeeds": [
     {
       "description": "中南大学学校信箱 - 校长信箱 - Powered by RSSHub",
-      "errorAt": "2026-07-22T17:35:24.662Z",
-      "errorMessage": "Command timed out",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "81350858120764416",
       "image": null,
       "ownerUserId": null,

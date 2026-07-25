@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "低价优选 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-24T06:35:28.198Z",
+      "errorMessage": "502 \n[GET] \"https://srv.app.ikea.cn/content/recommendation/v2/product-group/products?processOutOfStock=SORT&groupId=cms_product_cn--zh--8b08af400ac511ec909ec36c6e99b004_0_0&page=1&size=200\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 220.113.153.51:443, 220.113.153.53:443, 220.113.153.79:443, 220.113.153.50:443, 220.113.153.52:443, 220.113.153.48:443, 220.113.153.49:443, 220.113.153.80:443, timeout: 10000ms))\n",
       "id": "55631357149139968",
       "image": null,
       "ownerUserId": null,

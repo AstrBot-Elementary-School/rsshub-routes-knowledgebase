@@ -72,7 +72,7 @@ _None_
     },
     {
       "description": "国外召回公告 - Powered by RSSHub",
-      "errorAt": "2026-06-06T00:37:39.844Z",
+      "errorAt": "2026-07-24T06:32:01.978Z",
       "errorMessage": "[GET] \"https://www.qiche365.org.cn/index/recall/index/item/3.html?loadmore=1\": 403 Forbidden\n[GET] \"https://www.qiche365.org.cn/index/recall/index/item/3.html?loadmore=1\": <no response> fetch failed (other side closed)\n",
       "id": "73385956001950720",
       "image": null,

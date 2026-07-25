@@ -75,26 +75,26 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "羊城晚报金羊网 - 广州要闻 - Powered by RSSHub",
+      "description": "羊城晚报金羊网 - - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "54807548014042128",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://news.ycwb.com/n_bd_gz.htm",
-      "title": "羊城晚报金羊网 - 广州要闻",
+      "siteUrl": "https://www.ycwb.com/",
+      "title": "羊城晚报金羊网 -",
       "type": "feed",
       "url": "rsshub://ycwb/5261"
     },
     {
-      "description": "羊城晚报金羊网 - - Powered by RSSHub",
+      "description": "羊城晚报金羊网 - 首页 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "65552639683390464",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.ycwb.com/",
-      "title": "羊城晚报金羊网 -",
+      "title": "羊城晚报金羊网 - 首页",
       "type": "feed",
       "url": "rsshub://ycwb/1"
     }

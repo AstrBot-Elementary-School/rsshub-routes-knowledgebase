@@ -44,7 +44,7 @@ _None_
   ],
   "description": "Edition\n\n| Taiwan | Thailand | Hong Kong |\n| ------ | -------- | --------- |\n| tw     | th       | hk        |",
   "example": "/line/today",
-  "heat": 89,
+  "heat": 90,
   "location": "today.ts",
   "maintainers": [
     "nczitzk"

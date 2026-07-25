@@ -76,7 +76,7 @@ _None_
     {
       "description": "The latest news, articles, and opinions around developer experience and remote development in the cloud. - Powered by RSSHub",
       "errorAt": "2024-12-09T13:56:05.950Z",
-      "errorMessage": "[GET] \"https://www.gitpod.ioundefined\": <no response> fetch failed\n",
+      "errorMessage": "[GET] \"https://www.gitpod.ioundefined\": <no response> fetch failed (getaddrinfo ENOTFOUND www.gitpod.ioundefined)\n",
       "id": "71838712700015616",
       "image": null,
       "ownerUserId": null,

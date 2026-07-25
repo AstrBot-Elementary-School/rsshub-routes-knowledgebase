@@ -54,7 +54,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 29,
+  "heat": 28,
   "location": "daily-ai-news.ts",
   "maintainers": [
     "redwood9"

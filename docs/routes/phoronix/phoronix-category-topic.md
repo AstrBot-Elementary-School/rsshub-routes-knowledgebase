@@ -79,7 +79,7 @@ _None_
     {
       "description": "Linux Hardware Reviews, Performance Benchmarks & Open-Source / Free Software News - Powered by RSSHub",
       "errorAt": "2026-05-19T22:33:02.755Z",
-      "errorMessage": "[GET] \"https://www.phoronix.com/rss.php\": <no response> fetch failed (Request was cancelled.) (Proxy response (503) !== 200 when HTTP Tunneling)\n[GET] \"https://www.phoronix.com/review/linux-72-epyc-9455p/2\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.phoronix.com/rss.php\": <no response> fetch failed (Request was cancelled.) (Proxy response (503) !== 200 when HTTP Tunneling)\n[GET] \"https://www.phoronix.com/review/linux-72-panther-lake/3\": 403 Forbidden\n",
       "id": "41582925280941056",
       "image": "https://www.phoronix.com/android-chrome-192x192.png",
       "ownerUserId": null,

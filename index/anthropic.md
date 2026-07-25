@@ -23,7 +23,7 @@
 - Route Path: `/anthropic/news`
 - File: `docs/routes/anthropic/anthropic-news.md`
 - File Name: `anthropic-news.md`
-- Categories: `programming`
+- Categories: `programming, popular`
 - Maintainers: `etShaw-zh, goestav`
 
 ### Frontier Red Team

@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 315,
+  "heat": 317,
   "location": "go.ts",
   "maintainers": [
     "nczitzk"
@@ -76,8 +76,8 @@ _None_
   "topFeeds": [
     {
       "description": "Go语言中文网 - Go周刊 - Powered by RSSHub",
-      "errorAt": "2026-07-23T05:22:16.437Z",
-      "errorMessage": "Authentication failed. Access denied.\n/studygolang/go\n[GET] \"https://studygolang.com/go/weekly\": 502 Bad Gateway\n[GET] \"https://studygolang.com/go/weekly\": 502 Bad Gateway\n[GET] \"https://studygolang.com/go/weekly\": 502 Bad Gateway\n[GET] \"https://studygolang.com/go/weekly\": 502 Bad Gateway\n",
+      "errorAt": "2026-07-16T17:15:45.072Z",
+      "errorMessage": "[GET] \"https://studygolang.com/go/weekly\": 502 Bad Gateway\nAuthentication failed. Access denied.\n/studygolang/go\n[GET] \"https://studygolang.com/go/weekly\": 502 Bad Gateway\n[GET] \"https://studygolang.com/go/weekly\": 502 Bad Gateway\n[GET] \"https://studygolang.com/go/weekly\": 502 Bad Gateway\n",
       "id": "56597687648785408",
       "image": null,
       "ownerUserId": null,
@@ -88,7 +88,7 @@ _None_
     },
     {
       "description": "Go语言中文网 - 每日一学 - Powered by RSSHub",
-      "errorAt": "2026-07-20T06:41:44.377Z",
+      "errorAt": "2026-07-24T01:09:06.257Z",
       "errorMessage": "Authentication failed. Access denied.\n/studygolang/go/daily\n[GET] \"https://studygolang.com/go/daily\": 502 Bad Gateway\n[GET] \"https://studygolang.com/go/daily\": 502 Bad Gateway\n",
       "id": "54846819419389955",
       "image": null,

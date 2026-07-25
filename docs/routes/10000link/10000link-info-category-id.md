@@ -158,14 +158,14 @@
   },
   "topFeeds": [
     {
-      "description": "地方版国资“46号令”新规再落一省！国企违规开展融资性贸易，为何会被“终身追责”？ - Powered by RSSHub",
+      "description": "一年连收四家！物流“国家队”最近又收编了东方物流，中国物流集团到底想干嘛？ - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "138893356640117760",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://info.10000link.com/newslists.aspx?chid=My01",
-      "title": "10000万联网 - 地方版国资“46号令”新规再落一省！国企违规开展融资性贸易，为何会被“终身追责”？",
+      "title": "10000万联网 - 一年连收四家！物流“国家队”最近又收编了东方物流，中国物流集团到底想干嘛？",
       "type": "feed",
       "url": "rsshub://10000link/info/newslists/My01"
     },

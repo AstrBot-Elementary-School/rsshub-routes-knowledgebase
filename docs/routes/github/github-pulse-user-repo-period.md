@@ -79,28 +79,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "wood3n/biu weekly Pulse - Powered by RSSHub",
+      "description": "facebookresearch/audiocraft weekly Pulse - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "215344700650354688",
+      "id": "220767323256864790",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/wood3n/biu/pulse/weekly",
-      "title": "wood3n/biu weekly Pulse",
+      "siteUrl": "https://github.com/facebookresearch/audiocraft/pulse/weekly",
+      "title": "facebookresearch/audiocraft weekly Pulse",
       "type": "feed",
-      "url": "rsshub://github/pulse/wood3n/biu"
+      "url": "rsshub://github/pulse/facebookresearch/audiocraft/weekly"
     },
     {
-      "description": "openai/whisper weekly Pulse - Powered by RSSHub",
+      "description": "massCodeIO/massCode weekly Pulse - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "220767323256864796",
+      "id": "215345311459391488",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/openai/whisper/pulse/weekly",
-      "title": "openai/whisper weekly Pulse",
+      "siteUrl": "https://github.com/massCodeIO/massCode/pulse/weekly",
+      "title": "massCodeIO/massCode weekly Pulse",
       "type": "feed",
-      "url": "rsshub://github/pulse/openai/whisper/weekly"
+      "url": "rsshub://github/pulse/massCodeIO/massCode"
     }
   ]
 }

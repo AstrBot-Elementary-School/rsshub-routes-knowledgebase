@@ -92,8 +92,8 @@
     },
     {
       "description": "轉角國際 udn Global - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-24T05:37:48.178Z",
+      "errorMessage": "[GET] \"https://global.udn.com/global_vision/index\": 403 Forbidden\n",
       "id": "157947335946852352",
       "image": null,
       "ownerUserId": null,

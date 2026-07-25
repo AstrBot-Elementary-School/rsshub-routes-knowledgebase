@@ -64,7 +64,7 @@ _None_
     {
       "description": "浙江大学可视分析小组博客 - Powered by RSSHub",
       "errorAt": "2025-05-20T17:01:20.315Z",
-      "errorMessage": "[GET] \"https://zjuvag.org/blog/\": <no response> fetch failed\n502 \n[GET] \"https://zjuvag.org/blog/\": <no response> fetch failed (getaddrinfo ENOTFOUND zjuvag.org)\n",
+      "errorMessage": "[GET] \"https://zjuvag.org/blog/\": <no response> fetch failed\n[GET] \"https://zjuvag.org/blog/\": <no response> fetch failed (getaddrinfo ENOTFOUND zjuvag.org)\n[GET] \"https://zjuvag.org/blog/\": <no response> fetch failed (getaddrinfo ENOTFOUND zjuvag.org)\n",
       "id": "41774679266456588",
       "image": null,
       "ownerUserId": null,

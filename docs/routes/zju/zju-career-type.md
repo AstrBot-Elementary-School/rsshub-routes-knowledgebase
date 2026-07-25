@@ -68,8 +68,8 @@ _None_
   "topFeeds": [
     {
       "description": "浙大就业服务平台 -- 新闻动态 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-23T22:22:45.165Z",
+      "errorMessage": "[GET] \"http://www.career.zju.edu.cn/jyxt/jygz/new/getContent.zf?minCount=0&maxCount=10&lmjdid=739BEBB72A072B25E0538713470A6C41&sjlmid=undefined&lmtype=2&lx=2\": <no response> fetch failed (Connect Timeout Error (attempted address: www.career.zju.edu.cn:80, timeout: 10000ms))\n",
       "id": "41965184796582002",
       "image": null,
       "ownerUserId": null,

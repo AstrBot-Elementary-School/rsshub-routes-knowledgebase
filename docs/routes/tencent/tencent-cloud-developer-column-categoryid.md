@@ -38,7 +38,7 @@ _None_
     "programming"
   ],
   "example": "/tencent/cloud/developer/column/1",
-  "heat": 139,
+  "heat": 140,
   "location": "cloud/developer/column.ts",
   "maintainers": [
     "lyling"
@@ -73,8 +73,8 @@ _None_
     },
     {
       "description": "后端 - 腾讯云开发者社区 - Powered by RSSHub",
-      "errorAt": "2026-07-22T23:54:16.214Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "57690304909571072",
       "image": null,
       "ownerUserId": null,

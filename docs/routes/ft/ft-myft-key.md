@@ -85,7 +85,7 @@ _None_
     {
       "description": null,
       "errorAt": "2026-05-20T01:13:07.457Z",
-      "errorMessage": "Status code 404\n",
+      "errorMessage": "Attribute without value\nLine: 11\nColumn: 75\nChar: d\n",
       "id": "1105989238660136960",
       "image": null,
       "ownerUserId": null,

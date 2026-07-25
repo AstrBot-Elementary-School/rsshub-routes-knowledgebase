@@ -76,8 +76,8 @@ _None_
   "topFeeds": [
     {
       "description": "Download | Anytxt Searcher - Powered by RSSHub",
-      "errorAt": "2026-07-22T10:25:51.724Z",
-      "errorMessage": "[GET] \"https://anytxt.net/download/\": 502 Bad Gateway\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "139875983124994048",
       "image": "https://anytxt.net/wp-content/uploads/2019/11/Anytxt-searcher-logo.png",
       "ownerUserId": null,

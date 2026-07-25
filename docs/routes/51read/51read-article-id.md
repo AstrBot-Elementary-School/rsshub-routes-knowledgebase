@@ -98,16 +98,16 @@ _None_
       "url": "rsshub://51read/article/152685"
     },
     {
-      "description": "冒姓琅琊小说阅读冒姓琅琊由作家东周公子南创作小兵提供冒姓琅琊免费最新章节冒姓琅琊最新更新章节0- - Powered by RSSHub",
-      "errorAt": "2026-06-23T13:31:03.182Z",
-      "errorMessage": "[GET] \"https://m.51read.org/zhangjiemulu/411029\": 403 Forbidden\n",
-      "id": "202284532302966784",
-      "image": "https://cdn.tongjiba.top/public/image/nocover.jpg",
+      "description": "宁尘暑假旅游，误入两千年开启一次的传送阵，意外穿越到修真界。修成元婴期后归来，本以为地球早已沧海桑田，没想到才过去一个暑假……于是，青州大学的这届新生里，迎来了一位元婴老怪。“你们对元婴期修士的力量一无所知。” - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "68841428950862848",
+      "image": "https://51read.org/public/image/nocover.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://m.51read.org/xiaoshuo/411029",
-      "title": "冒姓琅琊",
+      "siteUrl": "https://m.51read.org/xiaoshuo/366870",
+      "title": "我都元婴期了你跟我说开学宁尘许舒颜",
       "type": "feed",
-      "url": "rsshub://51read/article/411029"
+      "url": "rsshub://51read/article/366870"
     }
   ],
   "url": "m.51read.org"

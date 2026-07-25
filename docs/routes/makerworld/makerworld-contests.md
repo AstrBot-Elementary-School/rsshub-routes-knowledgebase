@@ -38,7 +38,7 @@ _None_
     "design"
   ],
   "example": "/makerworld/contests",
-  "heat": 3,
+  "heat": 4,
   "location": "contest.ts",
   "maintainers": [
     "TonyRL"

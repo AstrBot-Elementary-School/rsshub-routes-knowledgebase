@@ -64,7 +64,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 62,
+  "heat": 63,
   "location": "art.ts",
   "maintainers": [
     "TigerCubDen",
@@ -115,16 +115,16 @@ _None_
       "url": "rsshub://furaffinity/art/gallery/oddeyresproductions/nsfw"
     },
     {
-      "description": "Fur Affinity Gallery of chesshire88 - Powered by RSSHub",
+      "description": "Fur Affinity Gallery of foster-tony - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "191942200074407936",
+      "id": "146173788905921536",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.furaffinity.net/gallery/chesshire88",
-      "title": "Fur Affinity | Gallery of chesshire88",
+      "siteUrl": "https://www.furaffinity.net/gallery/foster-tony",
+      "title": "Fur Affinity | Gallery of foster-tony",
       "type": "feed",
-      "url": "rsshub://furaffinity/art/gallery/chesshire88/nsfw"
+      "url": "rsshub://furaffinity/art/gallery/foster-tony/nsfw"
     }
   ],
   "url": "furaffinity.net"

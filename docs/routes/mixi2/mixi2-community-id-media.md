@@ -62,7 +62,7 @@ _None_
     ],
     "supportRadar": true
   },
-  "heat": 4,
+  "heat": 5,
   "location": "community.ts",
   "maintainers": [
     "KarasuShin"

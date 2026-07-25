@@ -77,8 +77,8 @@ _None_
   "topFeeds": [
     {
       "description": "Liveuamap - ukraine - Powered by RSSHub",
-      "errorAt": "2026-07-22T20:59:59.571Z",
-      "errorMessage": "502 \n[GET] \"https://ukraine.liveuamap.com/\": 403 Forbidden\n[GET] \"https://ukraine.liveuamap.com/\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "59767594613902336",
       "image": null,
       "ownerUserId": null,

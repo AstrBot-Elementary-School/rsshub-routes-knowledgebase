@@ -79,16 +79,16 @@ _None_
       "url": "rsshub://baidu/tieba/user/dengchunlai"
     },
     {
-      "description": "在逃双皮奶 的贴吧 - Powered by RSSHub",
-      "errorAt": "2025-11-21T21:51:21.614Z",
-      "errorMessage": "[GET] \"https://tieba.baidu.com/home/main?un=在逃双皮奶🎀\": 403 Forbidden\n",
-      "id": "128277758834280448",
+      "description": "K盘音 的贴吧 - Powered by RSSHub",
+      "errorAt": "2025-11-16T04:13:10.675Z",
+      "errorMessage": "[GET] \"https://tieba.baidu.com/home/main?un=TheKickInside\": 403 Forbidden\n",
+      "id": "197372964709496832",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://tieba.baidu.com/home/main?un=%E5%9C%A8%E9%80%83%E5%8F%8C%E7%9A%AE%E5%A5%B6%F0%9F%8E%80",
-      "title": "在逃双皮奶 的贴吧",
+      "siteUrl": "https://tieba.baidu.com/home/main?un=TheKickInside",
+      "title": "K盘音 的贴吧",
       "type": "feed",
-      "url": "rsshub://baidu/tieba/user/%E5%9C%A8%E9%80%83%E5%8F%8C%E7%9A%AE%E5%A5%B6%F0%9F%8E%80"
+      "url": "rsshub://baidu/tieba/user/TheKickInside"
     }
   ]
 }

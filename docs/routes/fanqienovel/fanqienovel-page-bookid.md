@@ -72,16 +72,16 @@ _None_
       "url": "rsshub://fanqienovel/page/7251428606465805347"
     },
     {
-      "description": "延禧攻略璎珞，容音和明玉穿越并拯救如懿传世界 有系统但金手指不大，前期仅有看部分剧情和部分道具帮助 对如懿传原主角团不友好，不喜勿入 本文所有比喻，隐喻写法仅表达影视剧情，角色和台词吐槽，以及少量作者对文娱作品创作的个人看法，不上升演员！不上升演员！不上升演员！ - Powered by RSSHub",
-      "errorAt": "2025-12-13T10:00:25.474Z",
-      "errorMessage": "[GET] \"https://fanqienovel.com/page/7356782767855635481\": 404 Not Found\n",
-      "id": "69776058995578880",
-      "image": "https://p6-novel-sign.byteimg.com/novel-pic/p2o8b7f595cdf7dfce6953863d976ddcdb6~tplv-resize:225:300.image?lk3s=191c1ecc&x-expires=1765675631&x-signature=sWD%2FC%2F%2Bk1R6cw13zc10JQwlM%2B%2Fc%3D",
+      "description": "常言道，仕途即权谋，其中尔虞我诈，凶险远胜江湖。 刘浮生觉得，公职之路，在于权衡法度，明辨是非，守一世之正气，为百姓谋福祉。 曾经的他，唯唯诺诺，求稳反误，蒙冤受屈，壮志难酬。 如今的他，洞彻先机，步步为营，青云之路，尽在脚下！ - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "125208460025614336",
+      "image": "https://p9-novel-sign.byteimg.com/novel-pic/f4609ca1531bc6315f1876c9d50a1387~tplv-resize:225:300.image?lk3s=191c1ecc&x-expires=1784950601&x-signature=tA311hLSt0zt5zWbF9YseElbBk8%3D",
       "ownerUserId": null,
-      "siteUrl": "https://fanqienovel.com/page/7356782767855635481",
-      "title": "长春宫小分队穿越如懿传 - 长生试剂",
+      "siteUrl": "https://fanqienovel.com/page/7199473033239596087",
+      "title": "洞彻先机：从基层开始平步青云 - 弹剑听潮",
       "type": "feed",
-      "url": "rsshub://fanqienovel/page/7356782767855635481"
+      "url": "rsshub://fanqienovel/page/7199473033239596087"
     }
   ]
 }

@@ -78,7 +78,7 @@
   "topFeeds": [
     {
       "description": "通知公告-中国无线电协会业余无线电分会 - Powered by RSSHub",
-      "errorAt": "2026-07-22T20:13:12.408Z",
+      "errorAt": "2026-07-24T06:48:50.582Z",
       "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "83759460466149376",
       "image": null,

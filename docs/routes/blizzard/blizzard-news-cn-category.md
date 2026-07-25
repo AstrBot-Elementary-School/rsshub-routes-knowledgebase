@@ -100,8 +100,8 @@
   "topFeeds": [
     {
       "description": "守望先锋新闻 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-23T23:40:13.339Z",
+      "errorMessage": "[GET] \"https://shop.battlenet.com.cn/zh-cn/product/blizzcon-celebration-collection\": 401 \n[GET] \"https://shop.battlenet.com.cn/zh-cn/product/blizzcon-celebration-collection\": 401 \n",
       "id": "101228634856437760",
       "image": null,
       "ownerUserId": null,

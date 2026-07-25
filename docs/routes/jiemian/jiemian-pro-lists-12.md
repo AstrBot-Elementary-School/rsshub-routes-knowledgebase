@@ -60,8 +60,8 @@ _None_
   "topFeeds": [
     {
       "description": "界面新闻是中国具有影响力的原创财经新媒体，以财经、商业新闻为核心，布局近40个内容频道，旗下同时拥有正午故事、箭厂视频、歪楼等数个知名新媒体品牌。 - Powered by RSSHub",
-      "errorAt": "2026-07-21T22:30:14.568Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 140187769978723328",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "140187769978723328",
       "image": "https://www.jiemian.com/favicon.ico",
       "ownerUserId": null,

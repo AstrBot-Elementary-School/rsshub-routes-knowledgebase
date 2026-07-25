@@ -100,8 +100,8 @@
   "topFeeds": [
     {
       "description": "热点 - 珠海网 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-24T04:07:44.805Z",
+      "errorMessage": "[GET] \"https://www.hizh.cn/channels/zjyapp/columns/5dd92265e4b0bf88dd8c1175/stories.json\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 45.115.200.104:443, 45.115.200.105:443, 45.115.200.106:443, 45.115.200.99:443, 45.115.200.100:443, 45.115.200.101:443, 45.115.200.102:443, 45.115.200.103:443, timeout: 10000ms))\n",
       "id": "76267574626993152",
       "image": null,
       "ownerUserId": null,

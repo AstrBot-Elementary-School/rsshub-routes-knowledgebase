@@ -98,16 +98,16 @@
       "url": "rsshub://douyu/group/534"
     },
     {
-      "description": "BigYa44198的鱼吧 - Powered by RSSHub",
+      "description": "这是大家的朋友圈，快来介绍自己吧！ - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "63584364396372992",
+      "id": "191989376827201536",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://yuba.douyu.com/group/newself/1011",
-      "title": "斗鱼鱼吧 - BigYa44198",
+      "siteUrl": "https://yuba.douyu.com/group/newself/7386096",
+      "title": "斗鱼鱼吧 - icon的朋友圈",
       "type": "feed",
-      "url": "rsshub://douyu/group/1011"
+      "url": "rsshub://douyu/group/7386096"
     }
   ]
 }

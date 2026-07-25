@@ -67,7 +67,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 85,
+  "heat": 84,
   "location": "posts.ts",
   "maintainers": [
     "running-grass"

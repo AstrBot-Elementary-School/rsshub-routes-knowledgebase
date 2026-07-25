@@ -38,7 +38,7 @@ _None_
     "new-media"
   ],
   "example": "/trendforce/cn/presscenter/news",
-  "heat": 3,
+  "heat": 4,
   "location": "news-cn.ts",
   "maintainers": [
     "TonyRL"

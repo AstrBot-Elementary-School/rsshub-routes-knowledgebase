@@ -73,8 +73,8 @@ _None_
   "topFeeds": [
     {
       "description": "Latest Stories - Powered by RSSHub",
-      "errorAt": "2026-07-22T19:36:17.438Z",
-      "errorMessage": "Authentication failed. Access denied.\n/nationalgeographic/latest-stories\n502 \n[GET] \"https://www.nationalgeographic.com/pages/topic/latest-stories\": 403 Forbidden\n",
+      "errorAt": "2026-07-24T04:15:54.516Z",
+      "errorMessage": "Authentication failed. Access denied.\n/nationalgeographic/latest-stories\n502 \nFailed to fetch\n",
       "id": "47544732473072640",
       "image": null,
       "ownerUserId": null,

@@ -118,7 +118,7 @@
     {
       "description": "米游社-原神-同人榜-插画榜-日榜 - Powered by RSSHub",
       "errorAt": "2025-12-24T13:26:51.180Z",
-      "errorMessage": "502 \nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "41476070206969862",
       "image": null,
       "ownerUserId": null,

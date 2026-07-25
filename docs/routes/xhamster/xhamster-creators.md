@@ -80,8 +80,8 @@ _None_
   "topFeeds": [
     {
       "description": "Latest videos from Xxx on xHamster - Powered by RSSHub",
-      "errorAt": "2026-07-23T01:10:25.042Z",
-      "errorMessage": "[GET] \"https://xhamster.com/creators/Xxx/newest\": 451 Unavailable For Legal Reasons\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "1161921301883781120",
       "image": null,
       "ownerUserId": null,
