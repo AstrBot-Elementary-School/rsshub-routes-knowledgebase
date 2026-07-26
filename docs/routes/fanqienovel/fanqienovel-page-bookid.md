@@ -72,16 +72,16 @@ _None_
       "url": "rsshub://fanqienovel/page/7251428606465805347"
     },
     {
-      "description": "常言道，仕途即权谋，其中尔虞我诈，凶险远胜江湖。 刘浮生觉得，公职之路，在于权衡法度，明辨是非，守一世之正气，为百姓谋福祉。 曾经的他，唯唯诺诺，求稳反误，蒙冤受屈，壮志难酬。 如今的他，洞彻先机，步步为营，青云之路，尽在脚下！ - Powered by RSSHub",
+      "description": "24年番茄年度巅峰榜TOP1 | 2024 年度“中国网络文学影响力榜” | 2024 年度“中国好小说”奖 | 出版销售量超200万册 （不后宫，不套路，不无敌，不系统，不无脑，不爽文，介意者慎入。） 当我以为这只是寻常的一天时，却发现自己被捉到了终焉之地。 当我以为只需要不断的参加死亡游戏就可以逃脱时，却发现众人开始觉醒超自然之力。 当我以为这里是「造神之地」时，一切却又奔着湮灭走去。 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "125208460025614336",
-      "image": "https://p9-novel-sign.byteimg.com/novel-pic/f4609ca1531bc6315f1876c9d50a1387~tplv-resize:225:300.image?lk3s=191c1ecc&x-expires=1784950601&x-signature=tA311hLSt0zt5zWbF9YseElbBk8%3D",
+      "id": "83343016202188800",
+      "image": "https://p3-novel-sign.byteimg.com/novel-pic/4900f950c7af7f82fdc14cf528e0e288~tplv-resize:225:300.image?lk3s=191c1ecc&x-expires=1785007670&x-signature=%2B5ftlytiXd2xcXrWhPCqkOK9VlE%3D",
       "ownerUserId": null,
-      "siteUrl": "https://fanqienovel.com/page/7199473033239596087",
-      "title": "洞彻先机：从基层开始平步青云 - 弹剑听潮",
+      "siteUrl": "https://fanqienovel.com/page/7143038691944959011",
+      "title": "十日终焉 - 杀虫队队员",
       "type": "feed",
-      "url": "rsshub://fanqienovel/page/7199473033239596087"
+      "url": "rsshub://fanqienovel/page/7143038691944959011"
     }
   ]
 }

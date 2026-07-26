@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4,
+  "heat": 3,
   "location": "pair.tsx",
   "maintainers": [
     "HenryQW"

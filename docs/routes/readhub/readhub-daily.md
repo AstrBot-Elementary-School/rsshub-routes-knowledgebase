@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4798,
+  "heat": 4799,
   "location": "daily.ts",
   "maintainers": [
     "nczitzk",
@@ -73,7 +73,7 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "1. 王虹、邓煜两位中国数学家首获菲尔兹奖 实现历史突破 2. 梁文锋 4 小时投资会讲话流出：DeepSeek 只赚取合理利润，克制、开源与低成本是实现 AGI 的核心策略 3. 阿里云：真武芯片超节点已成功适配 Qwen3.8 4. 黄仁勋：美国无需害怕中国开源 AI 模型，应警惕「封禁」呼声 5. DeepSeek 梁文锋：英伟达护城河正瓦解，华为超节点可完全平替 6. 长鑫科技：将于 7 月 27 日在科创板上市 7. 段永平：10 年内大概率不会卖泡泡玛特股票 8. 混元多模态理解负责人胡瀚离职创业 原团队或将聚焦世界模型 9. Alphabet 首席执行官反驳谷歌在 AI 竞赛中失势的说法 10. 欧盟委员会公告：谷歌因违反欧盟相关法规，合计被罚 8.9 亿欧元 11. 特斯拉警告称扩大 Optimus 产量将面临挑战 12. 腾讯云发布云端智能体 CodeBuddy NPC - Powered by RSSHub",
+      "description": "1. 腾讯混元合并大语言模型与多模态团队，成立基础模型部 2. 宇树科技王兴兴登上《时代》封面 3. 小红书正私下联系员工和解遭当事人拒绝 4. 腾讯 317 万年终奖员工因泄密被辞退 5. Anthropic 推出 Claude Opus 5 6. SpaceX 押注星舰重大战略：拒绝猎鹰火箭新客户 7. 新晋菲尔兹奖得主 Jacob Tsimerman 当天宣布加入 OpenAI 8. OpenAI ChatGPT 桌面应用上线语音模式：用户口述需求，AI 推进多项任务 9. OpenAI 入侵 Hugging Face，引发美国国会提出「AI 紧急关停」法案 10. 智元创新：公司已启动赴港上市流程 11. 春秋航空就机票超售问题致歉：全面整改，杜绝类似情况再次发生 12. 微信上线新功能：可手动清除撤回记录提示 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "52347176714948614",

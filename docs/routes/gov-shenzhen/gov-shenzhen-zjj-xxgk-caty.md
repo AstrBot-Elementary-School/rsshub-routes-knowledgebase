@@ -54,7 +54,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 12,
+  "heat": 11,
   "location": "zjj/index.ts",
   "maintainers": [
     "lonn"

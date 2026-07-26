@@ -1778,6 +1778,12 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `1`
 - Index File: `index/chinaratings.md`
 
+## China National Silk Museum
+- Namespace: `chinasilkmuseum`
+- Aliases: `china national silk museum, chinasilkmuseum, chinasilkmuseum.com, www, www.chinasilkmuseum.com`
+- Route Count: `1`
+- Index File: `index/chinasilkmuseum.md`
+
 ## 中国智库网
 - Namespace: `chinathinktanks`
 - Aliases: `chinathinktanks, chinathinktanks.org.cn, www, www.chinathinktanks.org.cn, 中国智库网`

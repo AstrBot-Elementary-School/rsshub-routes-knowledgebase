@@ -77,16 +77,16 @@ _None_
       "url": "rsshub://wechat/sogou/gh_b3b43949212c"
     },
     {
-      "description": "七毛 的微信公众号 - Powered by RSSHub",
-      "errorAt": "2026-06-25T19:08:00.117Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
-      "id": "139239681617949696",
+      "description": "CJSW 的微信公众号 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "168490238563645440",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weixin.sogou.com/weixin?query=qimao0908",
-      "title": "七毛 的微信公众号",
+      "siteUrl": "https://weixin.sogou.com/weixin?query=china_socialwork",
+      "title": "CJSW 的微信公众号",
       "type": "feed",
-      "url": "rsshub://wechat/sogou/qimao0908"
+      "url": "rsshub://wechat/sogou/china_socialwork"
     }
   ]
 }

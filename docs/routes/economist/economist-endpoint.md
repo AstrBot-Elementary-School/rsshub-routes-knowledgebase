@@ -75,7 +75,7 @@ _None_
     {
       "description": "The most recent blogs and online articles from The Economist - Powered by RSSHub",
       "errorAt": "2025-09-05T18:15:19.885Z",
-      "errorMessage": "[GET] \"https://www.economist.com/finance-and-economics/2026/07/23/can-prediction-markets-win-over-wall-street\": 403 Forbidden\n[GET] \"https://www.economist.com/finance-and-economics/2026/07/23/can-china-dominate-ai-exports-too\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.economist.com/podcasts/2026/07/24/the-endgame-in-iran\": 403 Forbidden\n[GET] \"https://www.economist.com/podcasts/2026/07/24/the-endgame-in-iran\": 403 Forbidden\n",
       "id": "54859243036899328",
       "image": null,
       "ownerUserId": null,

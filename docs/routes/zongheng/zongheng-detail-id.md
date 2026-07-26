@@ -85,16 +85,16 @@ _None_
       "url": "rsshub://zongheng/detail/1280541"
     },
     {
-      "description": "34653.2 万总点击 394.4 万总推荐 819 周推荐 796.8 万字数 掌天毒之珠，承邪神之血，修逆天之力，一代邪神，君临天下！ 【添加微信公众号：火星引力】 - Powered by RSSHub",
+      "description": "1804 万总点击 363.8 万总推荐 565 周推荐 856.9 万字数 世纪之交，人类懵懂着踏入星空，就此暴露在诸神的视线之下。少年罗南背负着祖父的罪孽，走出实验室，且看他： 高举燃烧的笔记，脚踏诸神的尸骨； 书写万物的格式，增删宇宙的星图。 当知：万物皆备于我；必信：吾心即是宇宙。 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "157716376154595328",
-      "image": "https://static.zongheng.com/upload/cover/de/de/dedeaf9e9c9c0a2ce9c169220f69d6a71769065751767.jpeg",
+      "id": "251987885116490752",
+      "image": "https://static.zongheng.com/upload/cover/5e/92/5e92bc1fbd960a00a17aaff6b5a59e4d1740124513858.jpeg",
       "ownerUserId": null,
-      "siteUrl": "https://www.zongheng.com/detail/408586",
-      "title": "逆天邪神（火星引力）- 纵横中文网",
+      "siteUrl": "https://www.zongheng.com/detail/325639",
+      "title": "星辰之主（减肥专家）- 纵横中文网",
       "type": "feed",
-      "url": "rsshub://zongheng/detail/408586"
+      "url": "rsshub://zongheng/detail/325639"
     }
   ],
   "url": "www.zongheng.com"

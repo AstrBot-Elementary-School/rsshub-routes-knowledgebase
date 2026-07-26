@@ -81,7 +81,7 @@
     {
       "description": "德阳人事考试网 考试新闻发布 (新闻中心) - Powered by RSSHub",
       "errorAt": "2025-10-09T02:43:18.643Z",
-      "errorMessage": "[GET] \"https://www.dykszx.com\": <no response> fetch failed (Client network socket disconnected before secure TLS connection was established)\n",
+      "errorMessage": "[GET] \"https://www.dykszx.com\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 222.213.85.69:443, 240e:699:1c01:712:5298:3ab3:6d3:1b5b:443, timeout: 10000ms))\n",
       "id": "61102289930311680",
       "image": null,
       "ownerUserId": null,

@@ -87,16 +87,16 @@ _None_
       "url": "rsshub://cyzone/author/1736838"
     },
     {
-      "description": "幼年茂盛，童年饱满，少年错愕，青年踏上新的拐点。 - Powered by RSSHub",
+      "description": "让体育产业高效链接 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "120022882443320320",
-      "image": "https://oss.cyzone.cn/2018/1130/db8dcd20127a05e2a08b6381b2ea2b15.jpg",
+      "id": "114608698548852736",
+      "image": "https://oss.cyzone.cn/2019/0522/55532ea48039776e4f0a57c4fbcc24b8.png",
       "ownerUserId": null,
-      "siteUrl": "https://www.cyzone.cn/author/1225562",
-      "title": "夏弢 - 专栏作者 - 创业邦",
+      "siteUrl": "https://www.cyzone.cn/author/1373720",
+      "title": "懒熊体育 - 专栏作者 - 创业邦",
       "type": "feed",
-      "url": "rsshub://cyzone/author/1225562"
+      "url": "rsshub://cyzone/author/1373720"
     }
   ]
 }

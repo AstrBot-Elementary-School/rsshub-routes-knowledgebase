@@ -96,7 +96,7 @@ _None_
       "errorAt": null,
       "errorMessage": null,
       "id": "42176727619514386",
-      "image": "https://pica.zhimg.com/v2-c8dfe8a8e10713e1b094c7bba877d200_l.jpg?source=5a24d060&needBackground=1",
+      "image": "https://picx.zhimg.com/v2-c8dfe8a8e10713e1b094c7bba877d200_l.jpg?source=5a24d060&needBackground=1",
       "ownerUserId": "75467551039318016",
       "siteUrl": "https://www.zhihu.com/people/L.M.Sherlock/activities",
       "title": "Thoughts Memo的知乎动态",

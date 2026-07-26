@@ -659,8 +659,8 @@
   "topFeeds": [
     {
       "description": "艾瑞咨询 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-25T05:33:59.189Z",
+      "errorMessage": "[GET] \"https://www.iresearch.com.cn/api/products/GetReportList?pageSize=50&fee=0\": <no response> fetch failed (Connect Timeout Error (attempted address: www.iresearch.com.cn:443, timeout: 10000ms))\n[GET] \"https://www.iresearch.com.cn/api/products/GetReportList?pageSize=50&fee=0\": <no response> fetch failed\n[GET] \"https://www.iresearch.com.cn/api/products/GetReportList?pageSize=50&fee=0\": 502 Bad Gateway\n[GET] \"https://www.iresearch.com.cn/api/products/GetReportList?pageSize=50&fee=0\": <no response> fetch failed (Connect Timeout Error (attempted address: www.iresearch.com.cn:443, timeout: 10000ms))\n502 \n[GET] \"https://www.iresearch.com.cn/api/products/GetReportList?pageSize=50&fee=0\": <no response> fetch failed (Connect Timeout Error (attempted address: www.iresearch.com.cn:443, timeout: 10000ms))\n",
       "id": "65643152571614208",
       "image": null,
       "ownerUserId": null,

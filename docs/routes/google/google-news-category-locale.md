@@ -50,7 +50,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 20,
+  "heat": 22,
   "location": "news.tsx",
   "maintainers": [
     "zoenglinghou",

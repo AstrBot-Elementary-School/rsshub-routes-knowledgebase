@@ -61,8 +61,8 @@ _None_
   "topFeeds": [
     {
       "description": "皇家马德里 比赛结果 - Powered by RSSHub",
-      "errorAt": "2026-04-30T13:38:24.780Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'filter')\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "63132054928183296",
       "image": null,
       "ownerUserId": null,
@@ -73,8 +73,8 @@ _None_
     },
     {
       "description": "曼联 比赛结果 - Powered by RSSHub",
-      "errorAt": "2026-04-30T12:27:17.430Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'filter')\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "86597494578069504",
       "image": null,
       "ownerUserId": null,

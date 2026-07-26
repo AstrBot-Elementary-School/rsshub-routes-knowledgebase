@@ -70,7 +70,7 @@ _None_
   "topFeeds": [
     {
       "description": "豆瓣美剧频道书影音下的电视剧推荐 - Powered by RSSHub",
-      "errorAt": "2026-07-24T04:08:22.361Z",
+      "errorAt": "2026-07-22T13:38:05.829Z",
       "errorMessage": "[GET] \"https://m.douban.com/rexxar/api/v2/elessar/channel/27622657\": 500 Internal Server Error\n",
       "id": "76960076233678848",
       "image": null,

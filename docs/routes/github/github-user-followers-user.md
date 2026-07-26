@@ -86,16 +86,16 @@ _None_
       "url": "rsshub://github/user/followers/Shubxam"
     },
     {
-      "description": "cgw88's followers - Powered by RSSHub",
+      "description": "NotaKoala's followers - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "160995085476973568",
+      "id": "119686895280268288",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/cgw88",
-      "title": "cgw88's followers",
+      "siteUrl": "https://github.com/NotaKoala",
+      "title": "NotaKoala's followers",
       "type": "feed",
-      "url": "rsshub://github/user/followers/cgw88"
+      "url": "rsshub://github/user/followers/NotaKoala"
     }
   ]
 }

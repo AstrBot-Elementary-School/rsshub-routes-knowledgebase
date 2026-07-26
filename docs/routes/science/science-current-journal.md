@@ -64,7 +64,7 @@
     "supportPodcast": false,
     "supportScihub": true
   },
-  "heat": 7,
+  "heat": 8,
   "location": "current.ts",
   "maintainers": [
     "y9c",
@@ -92,7 +92,7 @@
     {
       "description": null,
       "errorAt": "2025-09-19T00:56:28.398Z",
-      "errorMessage": "[GET] \"https://www.science.org/toc/science/current\": 403 \n",
+      "errorMessage": "[GET] \"https://www.science.org/toc/science/current\": 403 Forbidden\n",
       "id": "191666157347082244",
       "image": null,
       "ownerUserId": null,

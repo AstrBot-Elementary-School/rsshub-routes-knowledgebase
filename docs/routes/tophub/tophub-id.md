@@ -58,7 +58,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 3144,
+  "heat": 3157,
   "location": "index.ts",
   "maintainers": [
     "LogicJake"
@@ -81,8 +81,8 @@ _None_
   "topFeeds": [
     {
       "description": "订阅数：33万+ - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-25T02:36:24.279Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 63099316103761920",
       "id": "63099316103761920",
       "image": "https://file.ipadown.com/tophub/assets/images/media/mp.weixin.qq.com.png_160x160.png",
       "ownerUserId": null,

@@ -100,8 +100,8 @@
   "topFeeds": [
     {
       "description": "守望先锋新闻 - Powered by RSSHub",
-      "errorAt": "2026-07-23T23:40:13.339Z",
-      "errorMessage": "[GET] \"https://shop.battlenet.com.cn/zh-cn/product/blizzcon-celebration-collection\": 401 \n[GET] \"https://shop.battlenet.com.cn/zh-cn/product/blizzcon-celebration-collection\": 401 \n",
+      "errorAt": "2026-07-25T01:46:53.958Z",
+      "errorMessage": "[GET] \"https://shop.battlenet.com.cn/zh-cn/product/blizzcon-celebration-collection\": 401 \nFailed to fetch\n",
       "id": "101228634856437760",
       "image": null,
       "ownerUserId": null,
@@ -112,7 +112,7 @@
     },
     {
       "description": "守望先锋新闻 - Powered by RSSHub",
-      "errorAt": "2026-07-23T00:58:12.178Z",
+      "errorAt": "2026-07-25T06:23:51.720Z",
       "errorMessage": "[GET] \"https://shop.battlenet.com.cn/zh-cn/product/blizzcon-celebration-collection\": 401 \n",
       "id": "102293253660793856",
       "image": null,

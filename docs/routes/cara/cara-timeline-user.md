@@ -76,16 +76,16 @@ _None_
       "url": "rsshub://cara/timeline/alonelee127"
     },
     {
-      "description": "Timeline - BingCheng - Powered by RSSHub",
-      "errorAt": "2025-11-26T13:49:32.277Z",
+      "description": "Timeline - Rodrigo Goulao de Sousa - Powered by RSSHub",
+      "errorAt": "2025-11-26T14:00:44.455Z",
       "errorMessage": "[GET] \"https://cara.app/explore\": 403 Forbidden\n",
-      "id": "127389325520108544",
-      "image": "https://cdn.cara.app/production/profiles/1e00f14e-3fb7-4509-90f8-90f65219b377/8256c108-c932-4439-a16e-8fddbb978daf.jpg",
+      "id": "127384139525444608",
+      "image": "https://cdn.cara.app/production/profiles/34966e18-5684-4d9d-afab-838babacdc30/465BAAB1-DDE7-42C3-9A1F-E078CF2DA69B.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://cara.app/bingcheng/all",
-      "title": "Timeline - BingCheng",
+      "siteUrl": "https://cara.app/rodrigogsousa/all",
+      "title": "Timeline - Rodrigo Goulao de Sousa",
       "type": "feed",
-      "url": "rsshub://cara/timeline/bingcheng"
+      "url": "rsshub://cara/timeline/rodrigogsousa"
     }
   ]
 }

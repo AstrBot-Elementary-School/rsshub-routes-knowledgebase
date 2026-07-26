@@ -75,7 +75,7 @@ _None_
     {
       "description": "undefined - 研报 - Powered by RSSHub",
       "errorAt": "2026-05-12T16:51:00.404Z",
-      "errorMessage": "[GET] \"https://www.jinse.com/blockchain/3735994.html\": <no response> fetch failed (Client network socket disconnected before secure TLS connection was established)\n",
+      "errorMessage": "[GET] \"https://www.jinse.com/blockchain/3736043.html\": <no response> fetch failed (Client network socket disconnected before secure TLS connection was established)\n",
       "id": "67468126492383233",
       "image": "https://staticn.jinse.cn/w/img/b6900fe.png",
       "ownerUserId": null,
@@ -87,7 +87,7 @@ _None_
     {
       "description": "金色财经是集行业新闻、资讯、行情、数据等一站式区块链产业服务平台，我们追求及时、全面、专业、准确的资讯与数据，致力于为区块链创业者以及数字货币投资者提供最好的产品和服务。 - Powered by RSSHub",
       "errorAt": "2025-12-23T11:28:11.575Z",
-      "errorMessage": "[GET] \"https://www.jinse.com/blockchain/3729820.html\": <no response> fetch failed (Hostname/IP does not match certificate's altnames: Host: www.jinse.com. is not in the cert's altnames: DNS:*.jinse.com.cn, DNS:jinse.com.cn)\n",
+      "errorMessage": "[GET] \"https://www.jinse.com/blockchain/3735949.html\": <no response> fetch failed (Client network socket disconnected before secure TLS connection was established)\n",
       "id": "73947446139746304",
       "image": "https://staticn.jinse.cn/w/img/b6900fe.png",
       "ownerUserId": null,

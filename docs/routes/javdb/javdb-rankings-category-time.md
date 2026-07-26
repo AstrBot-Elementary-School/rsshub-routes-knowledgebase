@@ -97,14 +97,14 @@
   },
   "topFeeds": [
     {
-      "description": "Daily censored movies ranking - JavDB - Powered by RSSHub",
+      "description": "有碼排行 - 日排行 - JavDB - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "41696949079348224",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://javdb.com/rankings/movies?p=daily&t=censored",
-      "title": "Daily censored movies ranking - JavDB",
+      "title": "有碼排行 - 日排行 - JavDB",
       "type": "feed",
       "url": "rsshub://javdb/rankings"
     },

@@ -78,16 +78,16 @@ _None_
       "url": "rsshub://bilibili/live/search/%E6%BC%AB%E5%B1%95/live_time"
     },
     {
-      "description": "哔哩哔哩直播-dota-人气直播 - Powered by RSSHub",
+      "description": "哔哩哔哩直播-独夫之心-人气直播 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "74349405577903104",
+      "id": "198041982872060928",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://search.bilibili.com/live?keyword=dota&order=online&coverType=user_cover&page=1&search_type=live",
-      "title": "哔哩哔哩直播-dota-人气直播",
+      "siteUrl": "https://search.bilibili.com/live?keyword=%E7%8B%AC%E5%A4%AB%E4%B9%8B%E5%BF%83&order=online&coverType=user_cover&page=1&search_type=live",
+      "title": "哔哩哔哩直播-独夫之心-人气直播",
       "type": "feed",
-      "url": "rsshub://bilibili/live/search/dota/online"
+      "url": "rsshub://bilibili/live/search/%E7%8B%AC%E5%A4%AB%E4%B9%8B%E5%BF%83/online"
     }
   ]
 }

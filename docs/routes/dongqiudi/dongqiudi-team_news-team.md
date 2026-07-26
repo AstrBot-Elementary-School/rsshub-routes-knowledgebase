@@ -61,8 +61,8 @@ _None_
   "topFeeds": [
     {
       "description": "曼联 - 相关新闻 - Powered by RSSHub",
-      "errorAt": "2026-04-30T15:42:05.079Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'base_info')\nCannot read properties of undefined (reading 'base_info')\nCannot read properties of undefined (reading 'base_info')\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "60882001172427787",
       "image": "https://sd.qunliao.info/fastdfs3/M00/B5/75/ChOxM1xC2FWAK5dCAAAmr0XTTPA012.png",
       "ownerUserId": null,

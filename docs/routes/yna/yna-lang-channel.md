@@ -86,8 +86,8 @@ _None_
   "topFeeds": [
     {
       "description": "韩国联合通讯社 | 滚动 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-24T22:52:05.057Z",
+      "errorMessage": "read ECONNRESET\nClient network socket disconnected before secure TLS connection was established\n",
       "id": "87238542461270016",
       "image": null,
       "ownerUserId": null,

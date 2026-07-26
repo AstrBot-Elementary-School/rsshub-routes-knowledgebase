@@ -57,13 +57,14 @@ _None_
   "name": "《社会》杂志当期目录",
   "path": "/journals/society/current",
   "test": {
-    "code": 0
+    "code": 1,
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at runNextTicks (node:internal/process/task_queues:69:3)\n    at listOnTimeout (node:internal/timers:567:9)\n    at processTimers (node:internal/timers:541:7)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
   "topFeeds": [
     {
       "description": "《社会》当期目录 - Powered by RSSHub",
-      "errorAt": "2026-07-10T21:46:30.711Z",
-      "errorMessage": "[GET] \"https://www.society.shu.edu.cn/CN/1004-8804/current.shtml\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 202.120.117.227:443, 2001:da8:8006:1:202:120:117:227:443, timeout: 10000ms))\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "149985207254076416",
       "image": null,
       "ownerUserId": null,

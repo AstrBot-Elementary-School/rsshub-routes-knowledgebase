@@ -80,7 +80,7 @@ Freebuf 的文章页面带有反爬虫机制，所以目前无法获取文章的
   "topFeeds": [
     {
       "description": "Freebuf web - Powered by RSSHub",
-      "errorAt": "2026-07-15T07:29:04.158Z",
+      "errorAt": "2026-07-24T23:16:38.501Z",
       "errorMessage": "Authentication failed. Access denied.\n/freebuf/articles/web\nCannot read properties of undefined (reading 'data_list')\n[GET] \"https://www.freebuf.com/fapi/frontend/category/list?name=web&page=1&limit=20&select=0&order=0&type=category\": 405 Not Allowed\n",
       "id": "52357479513292810",
       "image": null,
@@ -92,8 +92,8 @@ Freebuf 的文章页面带有反爬虫机制，所以目前无法获取文章的
     },
     {
       "description": "Freebuf system - Powered by RSSHub",
-      "errorAt": "2026-07-13T21:58:13.068Z",
-      "errorMessage": "[GET] \"https://www.freebuf.com/fapi/frontend/category/list?name=system&page=1&limit=20&select=0&order=0&type=category\": 405 Not Allowed\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "83007201386261504",
       "image": null,
       "ownerUserId": null,

@@ -82,28 +82,28 @@ UP 主关注用户现在需要 b 站登录后的 Cookie 值，所以只能自建
   ],
   "topFeeds": [
     {
-      "description": "Sakura酱です 的 bilibili 关注 - Powered by RSSHub",
-      "errorAt": "2026-01-30T03:43:24.653Z",
+      "description": "w小璃 的 bilibili 关注 - Powered by RSSHub",
+      "errorAt": "2026-01-30T03:43:23.009Z",
       "errorMessage": "缺少对应 loginUid 的 Bilibili 用户登录后的 Cookie 值 <a href=\"https://docs.rsshub.app/zh/deploy/config#route-specific-configurations\">bilibili 用户关注动态系列路由</a>\n缺少对应 loginUid 的 Bilibili 用户登录后的 Cookie 值 <a href=\"https://docs.rsshub.app/zh/deploy/config#route-specific-configurations\">bilibili 用户关注动态系列路由</a>\n",
-      "id": "198986334902707200",
+      "id": "198986045293407232",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://space.bilibili.com/10220425/#/fans/follow",
-      "title": "Sakura酱です 的 bilibili 关注",
+      "siteUrl": "https://space.bilibili.com/36084148/#/fans/follow",
+      "title": "w小璃 的 bilibili 关注",
       "type": "feed",
-      "url": "rsshub://bilibili/user/followings/10220425/114145696"
+      "url": "rsshub://bilibili/user/followings/36084148/114145696"
     },
     {
-      "description": "PH64E 的 bilibili 关注 - Powered by RSSHub",
-      "errorAt": "2026-01-30T03:44:41.001Z",
+      "description": "undefined 的 bilibili 关注 - Powered by RSSHub",
+      "errorAt": "2026-01-30T03:43:25.815Z",
       "errorMessage": "缺少对应 loginUid 的 Bilibili 用户登录后的 Cookie 值 <a href=\"https://docs.rsshub.app/zh/deploy/config#route-specific-configurations\">bilibili 用户关注动态系列路由</a>\n缺少对应 loginUid 的 Bilibili 用户登录后的 Cookie 值 <a href=\"https://docs.rsshub.app/zh/deploy/config#route-specific-configurations\">bilibili 用户关注动态系列路由</a>\n",
-      "id": "198984620760968192",
+      "id": "198986977401562112",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://space.bilibili.com/291241870/#/fans/follow",
-      "title": "PH64E 的 bilibili 关注",
+      "siteUrl": "https://space.bilibili.com/687354778/#/fans/follow",
+      "title": "undefined 的 bilibili 关注",
       "type": "feed",
-      "url": "rsshub://bilibili/user/followings/291241870/114145696"
+      "url": "rsshub://bilibili/user/followings/687354778/114145696"
     }
   ]
 }

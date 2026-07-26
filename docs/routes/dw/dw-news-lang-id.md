@@ -57,7 +57,7 @@ For the site <https://www.dw.com/de/deutschland/s-12321> the language code would
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 208,
+  "heat": 207,
   "location": "news.ts",
   "maintainers": [
     "quiniapiezoelectricity"

@@ -78,7 +78,7 @@ MSN News
   "topFeeds": [
     {
       "description": "Bloomberg - Powered by RSSHub",
-      "errorAt": "2026-07-19T07:58:45.756Z",
+      "errorAt": "2026-07-18T12:25:52.363Z",
       "errorMessage": "Cannot read properties of undefined (reading 'cards')\nCannot read properties of undefined (reading 'cards')\n",
       "id": "99576216016317440",
       "image": "https://www.msn.com/favicon.ico",

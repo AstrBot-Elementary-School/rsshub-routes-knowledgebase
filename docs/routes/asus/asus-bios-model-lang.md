@@ -104,28 +104,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "ASUS TUF Gaming A14 (2024) BIOS - Powered by RSSHub",
-      "errorAt": "2026-07-03T16:36:59.049Z",
-      "errorMessage": "Cannot read properties of null (reading 'Obj')\n",
-      "id": "190738676600295424",
-      "image": "https://dlcdnwebimgs.asus.com/gain/8ef79421-e9c6-4c8b-8529-0e0dc2a09952/w185",
-      "ownerUserId": null,
-      "siteUrl": "https://www.asus.com/Laptops/For-Gaming/TUF-Gaming/ASUS-TUF-Gaming-A14-2024/",
-      "title": "ASUS TUF Gaming A14 (2024) BIOS",
-      "type": "feed",
-      "url": "rsshub://asus/bios/FA401WV"
-    },
-    {
-      "description": "ROG Zephyrus G16 (2024) GA605 BIOS - Powered by RSSHub",
+      "description": "TUF GAMING B550M-PLUS WIFI II BIOS - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "84439902528045056",
-      "image": "https://dlcdnwebimgs.asus.com/gain/9A966AAE-B61A-41C5-AA2F-5B0B35E189A2/w185",
+      "id": "73745650488758272",
+      "image": "https://dlcdnwebimgs.asus.com/gain/22bd771c-1a57-439b-97d2-ef75363fe11a/w185",
       "ownerUserId": null,
-      "siteUrl": "https://rog.asus.com/laptops/rog-zephyrus/rog-zephyrus-g16-2024-ga605/",
-      "title": "ROG Zephyrus G16 (2024) GA605 BIOS",
+      "siteUrl": "https://www.asus.com.cn/Motherboards-Components/Motherboards/TUF-Gaming/TUF-GAMING-B550M-PLUS-WIFI-II/",
+      "title": "TUF GAMING B550M-PLUS WIFI II BIOS",
       "type": "feed",
-      "url": "rsshub://asus/bios/GA605WV"
+      "url": "rsshub://asus/bios/TUF-GAMING-B550M-PLUS-WIFI-II/zh"
+    },
+    {
+      "description": "ROG Strix OLED XG27UCDMG BIOS - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "213294544976304128",
+      "image": "https://dlcdnwebimgs.asus.com/gain/A1B38038-3616-4BD6-99CD-42025598FECF/w185",
+      "ownerUserId": null,
+      "siteUrl": "https://rog.asus.com/monitors/27-to-31-5-inches/rog-strix-oled-xg27ucdmg/",
+      "title": "ROG Strix OLED XG27UCDMG BIOS",
+      "type": "feed",
+      "url": "rsshub://asus/bios/XG27UCDMG"
     }
   ],
   "url": "www.asus.com"

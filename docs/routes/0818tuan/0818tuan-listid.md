@@ -81,8 +81,8 @@ _None_
     },
     {
       "description": "最新线报活动-最新线报活动/教程攻略-0818团 - Powered by RSSHub",
-      "errorAt": "2026-07-24T06:56:36.526Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "61413843131719680",
       "image": "http://www.0818tuan.com/favicon.ico",
       "ownerUserId": null,

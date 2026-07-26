@@ -77,8 +77,8 @@ _None_
     },
     {
       "description": "ZAKER新闻 - Powered by RSSHub",
-      "errorAt": "2026-07-24T05:40:51.652Z",
-      "errorMessage": "[GET] \"https://www.myzaker.com/channel/660\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 60.200.32.50:443, 60.200.32.49:443, 60.200.32.45:443, 60.200.32.47:443, 60.200.32.44:443, 60.200.32.43:443, 60.200.32.48:443, 60.200.32.46:443, timeout: 10000ms))\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "109858197894680576",
       "image": null,
       "ownerUserId": null,

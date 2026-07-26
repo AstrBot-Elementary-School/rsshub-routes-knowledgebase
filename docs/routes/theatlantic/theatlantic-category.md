@@ -57,7 +57,7 @@ More categories (except photo) can be found within the navigation bar at <https:
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1390,
+  "heat": 1391,
   "location": "news.ts",
   "maintainers": [
     "EthanWng97",
@@ -94,7 +94,7 @@ More categories (except photo) can be found within the navigation bar at <https:
     {
       "description": "The Atlantic - TECHNOLOGY - Powered by RSSHub",
       "errorAt": "2025-06-11T19:44:17.689Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'data')\nCannot read properties of undefined (reading 'data')\n",
+      "errorMessage": "Failed to fetch\nCannot read properties of undefined (reading 'data')\n",
       "id": "62408054287669248",
       "image": null,
       "ownerUserId": null,

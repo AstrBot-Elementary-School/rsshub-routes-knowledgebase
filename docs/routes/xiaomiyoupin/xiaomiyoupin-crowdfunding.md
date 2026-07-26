@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 887,
+  "heat": 886,
   "location": "crowdfunding.ts",
   "maintainers": [
     "bigfei"
