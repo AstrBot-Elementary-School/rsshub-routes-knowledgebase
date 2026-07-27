@@ -88,16 +88,16 @@ _None_
       "url": "rsshub://luma/langchain"
     },
     {
-      "description": "YieldNest - Powered by RSSHub",
-      "errorAt": "2024-09-19T13:27:52.604Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
-      "id": "59033014318436352",
+      "description": "Deep Tech Week - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "265966907590378496",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://lu.ma/yieldnest",
-      "title": "YieldNest",
+      "siteUrl": "https://lu.ma/deep-tech-week",
+      "title": "Deep Tech Week",
       "type": "feed",
-      "url": "rsshub://luma/yieldnest"
+      "url": "rsshub://luma/deep-tech-week"
     }
   ],
   "url": "lu.ma"

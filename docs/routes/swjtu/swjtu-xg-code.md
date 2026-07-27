@@ -90,7 +90,7 @@
   "topFeeds": [
     {
       "description": "西南交大-扬华素质网 - Powered by RSSHub",
-      "errorAt": "2026-07-23T16:34:51.141Z",
+      "errorAt": "2026-07-24T01:36:37.543Z",
       "errorMessage": "[GET] \"http://xg.swjtu.edu.cn/web/Home/PushNewsList?Lmk7LJw34Jmu=010j.shtml\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 180.85.38.124:80, 2001:da8:6005:6:b455:267c:::80, timeout: 10000ms))\n",
       "id": "72512219481102338",
       "image": null,

@@ -74,7 +74,7 @@ _None_
     {
       "description": "Latest Articles - CSS-Tricks - Powered by RSSHub",
       "errorAt": "2026-07-19T21:42:08.708Z",
-      "errorMessage": "[GET] \"https://css-tricks.com/wp-json/wp/v2/posts?include=396027,395508,395894,395223,394890,394364,395567,395752,395594,393676&_embed&per_page=10\": 401 Unauthorized\nl.map is not a function\n",
+      "errorMessage": "[GET] \"https://css-tricks.com/wp-json/wp/v2/posts?include=396027,395508,395894,395223,394890,394364,395567,395752,395594,393676&_embed&per_page=10\": 401 Unauthorized\n[GET] \"https://css-tricks.com/wp-json/wp/v2/posts?include=396027,395508,395894,395223,394890,394364,395567,395752,395594,393676&_embed&per_page=10\": 401 Unauthorized\n",
       "id": "165589306326151168",
       "image": null,
       "ownerUserId": null,

@@ -46,8 +46,8 @@ _None_
   "topFeeds": [
     {
       "description": "manga - E-Hentai Galleries - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-22T12:03:43.677Z",
+      "errorMessage": "[GET] \"https://e-hentai.org/manga\": 451 Unavailable For Legal Reasons\n",
       "id": "106841285260128256",
       "image": null,
       "ownerUserId": null,
@@ -58,8 +58,8 @@ _None_
     },
     {
       "description": "cosplay - E-Hentai Galleries - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-22T12:03:29.262Z",
+      "errorMessage": "[GET] \"https://e-hentai.org/cosplay\": 451 Unavailable For Legal Reasons\n",
       "id": "106841534145317888",
       "image": null,
       "ownerUserId": null,

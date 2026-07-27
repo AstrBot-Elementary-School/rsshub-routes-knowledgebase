@@ -107,8 +107,8 @@
   "topFeeds": [
     {
       "description": "Last 24 hours - konachan.com - Powered by RSSHub",
-      "errorAt": "2026-07-25T01:18:51.184Z",
-      "errorMessage": "[GET] \"https://konachan.com/post/popular_recent.json?period=1d\": 403 Forbidden\n502 \n404 Not Found\nAuthentication failed. Access denied.\n/konachan/post/popular_recent/1d\nterminated\n[GET] \"https://konachan.com/post/popular_recent.json?period=1d\": 403 Forbidden\n[GET] \"https://konachan.com/post/popular_recent.json?period=1d\": 403 Forbidden\n[GET] \"https://konachan.com/post/popular_recent.json?period=1d\": 403 \n[GET] \"https://konachan.com/post/popular_recent.json?period=1d\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "62201931989535744",
       "image": null,
       "ownerUserId": null,

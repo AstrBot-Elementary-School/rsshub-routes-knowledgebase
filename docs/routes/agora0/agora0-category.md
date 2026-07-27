@@ -83,7 +83,7 @@
     {
       "description": "muitinⒾ | 零博客 - Powered by RSSHub",
       "errorAt": "2024-12-17T17:08:27.527Z",
-      "errorMessage": "[GET] \"https://agora0.gitlab.io/blog/initium\": 403 Forbidden\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "52721325092269085",
       "image": null,
       "ownerUserId": null,

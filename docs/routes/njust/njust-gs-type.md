@@ -75,14 +75,13 @@
     }
   ],
   "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+    "code": 0
   },
   "topFeeds": [
     {
       "description": "南京理工大学研究生院 -- 首页通知公告 - Powered by RSSHub",
-      "errorAt": "2026-07-25T04:50:35.576Z",
-      "errorMessage": "[GET] \"https://gs.njust.edu.cn/sytzgg_4568/list.htm\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 202.119.80.178:443, 2001:da8:100e:80::178:443, timeout: 10000ms))\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "62889514707509248",
       "image": null,
       "ownerUserId": null,

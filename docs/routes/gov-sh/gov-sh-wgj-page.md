@@ -76,8 +76,8 @@ _None_
   "topFeeds": [
     {
       "description": "上海市文化和旅游局 - Powered by RSSHub",
-      "errorAt": "2026-07-25T03:24:57.884Z",
-      "errorMessage": "[POST] \"http://wsbs.wgj.sh.gov.cn/shwgj_ywtb/core/web/welcome/index!toResultNotice.action?flag=1&pageDoc.pageNo=1\": 500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "71029156450169856",
       "image": null,
       "ownerUserId": null,

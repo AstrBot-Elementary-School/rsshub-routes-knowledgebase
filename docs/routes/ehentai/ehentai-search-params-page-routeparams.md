@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 285,
+  "heat": 284,
   "location": "search.ts",
   "maintainers": [
     "yindaheng98",
@@ -84,8 +84,8 @@ _None_
     },
     {
       "description": "undefined - E-Hentai Search - Powered by RSSHub",
-      "errorAt": "2026-07-25T02:38:15.062Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 96502911354921984",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "96502911354921984",
       "image": null,
       "ownerUserId": null,

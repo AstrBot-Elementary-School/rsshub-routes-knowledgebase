@@ -78,16 +78,16 @@ _None_
       "url": "rsshub://themoviedb/tv/70593/seasons"
     },
     {
-      "description": "Ronny Bhaiya leads a double life - To the world he is the nephew of the MLA - and likes to think of himself as a Jann Neta, and at home he is the jobless 26 year old with no sense of responsibility to his family. The show explores Ronny's adventures as he gets stuck in multiple situations because of this big lie that precedes him. - Powered by RSSHub",
+      "description": "Georgie and Mandy raise their young family in Texas while navigating the challenges of adulthood, parenting, and marriage. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "84723957729495040",
-      "image": "https://image.tmdb.org/t/p/original/thMrz42QAhKOvf7dZu64LVvSeS4.jpg",
+      "id": "85974796356276224",
+      "image": "https://image.tmdb.org/t/p/original/3z2mYFxUkzanb2eeIcVyfJq0G3q.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://www.themoviedb.org/tv/99889/seasons",
-      "title": "Chacha Vidhayak Hain Humare - Seasons — TMDB",
+      "siteUrl": "https://www.themoviedb.org/tv/243875/seasons",
+      "title": "Georgie & Mandy's First Marriage - Seasons — TMDB",
       "type": "feed",
-      "url": "rsshub://themoviedb/tv/99889/seasons"
+      "url": "rsshub://themoviedb/tv/243875/seasons"
     }
   ],
   "view": 5

@@ -54,7 +54,7 @@ _None_
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 91,
+  "heat": 90,
   "location": "music/artist.ts",
   "maintainers": [
     "metowolf"
@@ -89,16 +89,16 @@ _None_
       "url": "rsshub://163/music/artist/32540734"
     },
     {
-      "description": "网易云音乐歌手专辑 - Cornelius - Powered by RSSHub",
+      "description": "网易云音乐歌手专辑 - 頭士奈生樹 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "93448817250868224",
-      "image": "https://p2.music.126.net/8S1C8M5lMYTDJhHnfn8_Xw==/812539092950497.jpg",
+      "id": "93470816698220544",
+      "image": "https://p1.music.126.net/dmj0q3izqGRAC2c3bUSHFA==/109951170035042801.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://music.163.com/#/artist/album?id=159549",
-      "title": "Cornelius",
+      "siteUrl": "https://music.163.com/#/artist/album?id=33497261",
+      "title": "頭士奈生樹",
       "type": "feed",
-      "url": "rsshub://163/music/artist/159549"
+      "url": "rsshub://163/music/artist/33497261"
     }
   ]
 }

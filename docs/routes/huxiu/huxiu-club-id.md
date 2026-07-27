@@ -50,7 +50,7 @@ _None_
     "supportPodcast": true,
     "supportScihub": false
   },
-  "heat": 5,
+  "heat": 6,
   "location": "club.ts",
   "maintainers": [
     "nczitzk",

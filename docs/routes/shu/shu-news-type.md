@@ -75,8 +75,7 @@
     }
   ],
   "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+    "code": 0
   },
   "topFeeds": [
     {
@@ -92,16 +91,16 @@
       "url": "rsshub://shu/news"
     },
     {
-      "description": "上海大学 - 重要新闻 - Powered by RSSHub",
+      "description": "上海大学 - 通知公告 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "84816968418040832",
+      "id": "84809908871103488",
       "image": "https://www.shu.edu.cn/__local/0/08/C6/1EABE492B0CF228A5564D6E6ABE_779D1EE3_5BF7.png",
       "ownerUserId": null,
-      "siteUrl": "https://www.shu.edu.cn/zyxw.htm",
-      "title": "上海大学 - 重要新闻",
+      "siteUrl": "https://www.shu.edu.cn/tzgg.htm",
+      "title": "上海大学 - 通知公告",
       "type": "feed",
-      "url": "rsshub://shu/news/zyxw"
+      "url": "rsshub://shu/news/tzgg"
     }
   ],
   "url": "www.shu.edu.cn/"

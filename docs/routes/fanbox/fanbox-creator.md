@@ -49,7 +49,7 @@ _None_
     ],
     "requirePuppeteer": true
   },
-  "heat": 39,
+  "heat": 38,
   "location": "index.ts",
   "maintainers": [
     "KarasuShin",
@@ -68,7 +68,7 @@ _None_
     {
       "description": "特はない。 - Powered by RSSHub",
       "errorAt": "2025-11-26T09:51:52.390Z",
-      "errorMessage": "u.body.map is not a function\n",
+      "errorMessage": "page.evaluate: TypeError: Failed to fetch\n    at eval (eval at evaluate (:303:30), <anonymous>:1:30)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)\n",
       "id": "140056726308777984",
       "image": "https://pixiv.pximg.net/c/160x160_90_a2_g5/fanbox/public/images/user/3326223/icon/MueHg8Ixy6zLRTamiarKT8xC.jpeg",
       "ownerUserId": null,
@@ -80,7 +80,7 @@ _None_
     {
       "description": "Fanbox - Feather - Powered by RSSHub",
       "errorAt": "2025-11-26T11:26:59.575Z",
-      "errorMessage": "u.body.map is not a function\n",
+      "errorMessage": "page.evaluate: TypeError: Failed to fetch\n    at eval (eval at evaluate (:303:30), <anonymous>:1:30)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)\n",
       "id": "82082879942475776",
       "image": "https://pixiv.pximg.net/c/160x160_90_a2_g5/fanbox/public/images/user/24059807/icon/aeWv4PxOsfgxu9I1n6OenEl5.jpeg",
       "ownerUserId": null,

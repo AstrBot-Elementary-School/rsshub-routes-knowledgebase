@@ -78,7 +78,7 @@ _None_
   "path": "/tag/:tag/:type/:option?",
   "test": {
     "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+    "message": "AssertionError: expected 346585548304 to be less than 311040000000\n    at checkDate (/home/runner/work/RSSHub/RSSHub/lib/app.test.ts:62:46)\n    at checkRSS (/home/runner/work/RSSHub/RSSHub/lib/app.test.ts:87:13)\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:106:17\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
   "topFeeds": [
     {
@@ -94,16 +94,16 @@ _None_
       "url": "rsshub://pingwest/tag/20327/1/fulltext"
     },
     {
-      "description": "品玩 - 电子书 - Powered by RSSHub",
-      "errorAt": "2026-05-25T11:32:16.079Z",
-      "errorMessage": "[GET] \"https://www.pingwest.com/api/tag_article_list?id=1326&type=0\": 405 Not Allowed\n",
-      "id": "121129408988533760",
+      "description": "品玩 - 腾讯元宝 - Powered by RSSHub",
+      "errorAt": "2026-05-25T06:13:11.446Z",
+      "errorMessage": "[GET] \"https://www.pingwest.com/api/tag_article_list?id=22218&type=0\": 405 Not Allowed\n",
+      "id": "128314253577785344",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.pingwest.com/tag/1326",
-      "title": "品玩 - 电子书",
+      "siteUrl": "https://www.pingwest.com/tag/22218",
+      "title": "品玩 - 腾讯元宝",
       "type": "feed",
-      "url": "rsshub://pingwest/tag/1326/1"
+      "url": "rsshub://pingwest/tag/22218/1"
     }
   ]
 }

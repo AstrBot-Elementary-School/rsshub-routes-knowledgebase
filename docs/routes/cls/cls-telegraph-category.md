@@ -57,7 +57,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1478,
+  "heat": 1480,
   "location": "telegraph.tsx",
   "maintainers": [
     "nczitzk"

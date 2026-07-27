@@ -38,7 +38,7 @@ _None_
     "sport"
   ],
   "example": "/dongqiudi/team_news/50001755",
-  "heat": 216,
+  "heat": 217,
   "location": "team-news.ts",
   "maintainers": [
     "HenryQW"
@@ -73,8 +73,8 @@ _None_
     },
     {
       "description": "阿森纳 - 相关新闻 - Powered by RSSHub",
-      "errorAt": "2026-04-30T13:01:21.446Z",
-      "errorMessage": "502 \nCannot read properties of undefined (reading 'base_info')\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "73340530520921095",
       "image": "https://sd.qunliao.info/fastdfs5/M00/04/C8/rB8BO15q_yaAdgetAABZZa53gBI322.png",
       "ownerUserId": null,

@@ -124,8 +124,8 @@ For other Yahoo News, this route's RSS provides the author field. You can use RS
     },
     {
       "description": "Yahoo 新聞 TW - 所有類別 - Powered by RSSHub",
-      "errorAt": "2026-07-25T02:34:01.709Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 58739494825370651",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "58739494825370651",
       "image": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
       "ownerUserId": null,

@@ -11,7 +11,7 @@
 - Example: `/bilibili/ranking/all`
 - URL: `www.bilibili.com`
 - Language: `_None_`
-- Categories: `social-media`
+- Categories: `social-media, popular`
 - Maintainers: `DIYgod, hyoban`
 - Source Location: `ranking.ts`
 - Source Module: `_None_`
@@ -39,10 +39,11 @@ _None_
 ```json
 {
   "categories": [
-    "social-media"
+    "social-media",
+    "popular"
   ],
   "example": "/bilibili/ranking/all",
-  "heat": 1275,
+  "heat": 8942,
   "location": "ranking.ts",
   "maintainers": [
     "DIYgod",
@@ -134,9 +135,21 @@ _None_
   },
   "topFeeds": [
     {
+      "description": "bilibili 排行榜-全站 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "78806242632741888",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.bilibili.com/v/popular/rank/all",
+      "title": "bilibili 排行榜-全站",
+      "type": "feed",
+      "url": "rsshub://bilibili/ranking/0"
+    },
+    {
       "description": "bilibili 排行榜-知识 - Powered by RSSHub",
       "errorAt": "2026-07-15T05:32:42.190Z",
-      "errorMessage": "-352\n-352\n-352\n-352\n",
+      "errorMessage": "-352\n-352\n请求错误\n-352\n",
       "id": "78844164657093632",
       "image": null,
       "ownerUserId": null,
@@ -144,18 +157,6 @@ _None_
       "title": "bilibili 排行榜-知识",
       "type": "feed",
       "url": "rsshub://bilibili/ranking/9"
-    },
-    {
-      "description": "bilibili 排行榜-全站 - Powered by RSSHub",
-      "errorAt": "2026-07-12T08:12:44.486Z",
-      "errorMessage": "-352\n-352\n",
-      "id": "79067786101345280",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.bilibili.com/v/popular/rank/all",
-      "title": "bilibili 排行榜-全站",
-      "type": "feed",
-      "url": "rsshub://bilibili/ranking/0/1"
     }
   ],
   "view": 3

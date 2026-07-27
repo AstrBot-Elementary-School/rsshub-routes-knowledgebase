@@ -235,8 +235,8 @@
     },
     {
       "description": "The hottest android apps from the last 24 hours, 7 days or all-time. - Powered by RSSHub",
-      "errorAt": "2026-07-25T02:43:53.812Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 198041481153666048",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "198041481153666048",
       "image": "https://www.app-sales.net/img/appsales_logo_claim.png",
       "ownerUserId": null,

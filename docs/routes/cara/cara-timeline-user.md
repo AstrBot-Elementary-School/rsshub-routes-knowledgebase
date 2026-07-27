@@ -40,7 +40,7 @@ _None_
     "social-media"
   ],
   "example": "/cara/timeline/fengz",
-  "heat": 15,
+  "heat": 9,
   "location": "timeline.ts",
   "maintainers": [
     "KarasuShin"

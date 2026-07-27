@@ -84,7 +84,7 @@ _None_
     },
     {
       "description": "Google Scholar Monitor Query: data+visualization - Powered by RSSHub",
-      "errorAt": "2026-07-22T01:41:26.542Z",
+      "errorAt": "2026-07-22T13:17:29.613Z",
       "errorMessage": "502 \n[GET] \"https://scholar.google.com/scholar?q=data+visualization\": 403 Forbidden\n",
       "id": "62187667735435337",
       "image": null,

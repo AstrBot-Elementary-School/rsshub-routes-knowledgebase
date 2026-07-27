@@ -60,7 +60,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 6,
+  "heat": 5,
   "location": "tv/coming.ts",
   "maintainers": [
     "honue"
@@ -76,7 +76,7 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "即将播出的剧集，请求参数: count=10, total=179, sortBy=hot, requestCount=10 - Powered by RSSHub",
+      "description": "即将播出的剧集，请求参数: count=10, total=172, sortBy=hot, requestCount=10 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "259521396346720256",

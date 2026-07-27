@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 851,
+  "heat": 850,
   "location": "msgalbum.ts",
   "maintainers": [
     "MisteryMonster"
@@ -69,7 +69,7 @@ _None_
     {
       "description": "PaperAgent|LLM热点Paper - Powered by RSSHub",
       "errorAt": "2025-07-23T12:13:10.406Z",
-      "errorMessage": "wechat-mp: request blocked by WAF: : ， . Video Mini Program ...: https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HOUKY2qjJjz6F2chn7wKS37gfOeKqjuPONbqhIBb&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzk0MTYzMzMxMA%3D%3D%26mid%3D2247509308%26idx%3D1%26sn%3D425df9ecac50e09afffec701c0f12f37\nwechat-mp: request blocked by WAF: : ， . Video Mini Program ...: https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HOkKY2qjFX7Q0OEORyrDcCm7BVdkydrBNXXfQt6-&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzk0MTYzMzMxMA%3D%3D%26mid%3D2247509140%26idx%3D1%26sn%3D65ae44841a568648e9a2bf1c1f9f8378\nwechat-mp: request blocked by WAF: : ， . Video Mini Program ...: https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HO4KY2qjFZbCFuUAc7OzKwcYAa_lDlFNIpl7WPP-&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzk0MTYzMzMxMA%3D%3D%26mid%3D2247509308%26idx%3D1%26sn%3D425df9ecac50e09afffec701c0f12f37\n",
+      "errorMessage": "wechat-mp: request blocked by WAF: : ， . Video Mini Program ...: https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HENmZGqjbWf04jtdI4CHeHIZYa9_G1rmd-L-WHHn&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzk0MTYzMzMxMA%3D%3D%26mid%3D2247509308%26idx%3D1%26sn%3D425df9ecac50e09afffec701c0f12f37\nwechat-mp: request blocked by WAF: : ， . Video Mini Program ...: https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HEZmZGqjnic95t0qNHq5dcDoEk5o1ZkDLtnourFh&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzk0MTYzMzMxMA%3D%3D%26mid%3D2247509061%26idx%3D1%26sn%3Dfc8077689e09fe68e4d2e458d5a29b33\nwechat-mp: request blocked by WAF: : ， . Video Mini Program ...: https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HEtmZGqjpCj3WX73WtLoBS6Ea6SN0K9uaDVqRf0N&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzk0MTYzMzMxMA%3D%3D%26mid%3D2247509305%26idx%3D1%26sn%3D18aa5f6440364af1553a3a379777dc09\n",
       "id": "55818057211386897",
       "image": null,
       "ownerUserId": null,
@@ -81,7 +81,7 @@ _None_
     {
       "description": "Ots安全|威胁分析 - Powered by RSSHub",
       "errorAt": "2025-07-23T05:08:30.331Z",
-      "errorMessage": "wechat-mp: request blocked by WAF: : ， . Video Mini Program ...: https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HDsIZGqjl0MK2WfVELUvvOO8QTKhCvOscvNxaKcw&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzAxMjYyMzkwOA%3D%3D%26mid%3D2247534948%26idx%3D2%26sn%3D98f8b22608d05e9c87cc7cc810e30af4\nwechat-mp: request blocked by WAF: : ， . Video Mini Program ...: https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HEEIZGqjuEIgL9wlLVQYkQIlR-uNHGYVe1KlbBLi&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzAxMjYyMzkwOA%3D%3D%26mid%3D2247534948%26idx%3D2%26sn%3D98f8b22608d05e9c87cc7cc810e30af4\n",
+      "errorMessage": "wechat-mp: request blocked by WAF: : ， . Video Mini Program ...: https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HNehZWqjus1aPDuHHYSqmqU1NwdbmC-cmmYBDa8U&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzAxMjYyMzkwOA%3D%3D%26mid%3D2247534610%26idx%3D1%26sn%3D81ace23c73957c249a6d772ef78db2ab\nwechat-mp: request blocked by WAF: : ， . Video Mini Program ...: https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HNyhZWqjGhffS0pTK3LVtej3d8d3eDjnyqYk65lO&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzAxMjYyMzkwOA%3D%3D%26mid%3D2247534504%26idx%3D1%26sn%3D97655c246c786ffd55c1366ddef41c79\n",
       "id": "57679399689810944",
       "image": null,
       "ownerUserId": null,

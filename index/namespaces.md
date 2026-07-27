@@ -3338,6 +3338,12 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `1`
 - Index File: `index/fortunechina.md`
 
+## Forward Future
+- Namespace: `forwardfuture`
+- Aliases: `forward future, forwardfuture, forwardfuture.com`
+- Route Count: `2`
+- Index File: `index/forwardfuture.md`
+
 ## FossHub
 - Namespace: `fosshub`
 - Aliases: `fosshub, fosshub.com`

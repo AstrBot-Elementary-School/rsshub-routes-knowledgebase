@@ -83,28 +83,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "New contributors for open-metadata/OpenMetadata - Powered by RSSHub",
+      "description": "New contributors for comfyanonymous/ComfyUI - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "78928360835988480",
+      "id": "80504153337164800",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/open-metadata/OpenMetadata/graphs/contributors",
-      "title": "open-metadata/OpenMetadata Contributors",
+      "siteUrl": "https://github.com/comfyanonymous/ComfyUI/graphs/contributors",
+      "title": "comfyanonymous/ComfyUI Contributors",
       "type": "feed",
-      "url": "rsshub://github/contributors/open-metadata/OpenMetadata"
+      "url": "rsshub://github/contributors/comfyanonymous/ComfyUI"
     },
     {
-      "description": "New contributors for piderking/vgmt-data - Powered by RSSHub",
+      "description": "New contributors for aigem/videos - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "119580771404221440",
+      "id": "145641760615368704",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/piderking/vgmt-data/graphs/contributors",
-      "title": "piderking/vgmt-data Contributors",
+      "siteUrl": "https://github.com/aigem/videos/graphs/contributors",
+      "title": "aigem/videos Contributors",
       "type": "feed",
-      "url": "rsshub://github/contributors/piderking/vgmt-data"
+      "url": "rsshub://github/contributors/aigem/videos"
     }
   ]
 }

@@ -44,18 +44,6 @@ _None_
   "path": "/:country/:city?",
   "topFeeds": [
     {
-      "description": "中国驻美国大使馆 -- 重要通知 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "103274970550038533",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "http://us.china-embassy.gov.cn/zytz/",
-      "title": "中国驻美国大使馆 -- 重要通知",
-      "type": "feed",
-      "url": "rsshub://embassy/us"
-    },
-    {
       "description": "中国驻新加坡大使馆 -- 重要通知 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -66,6 +54,18 @@ _None_
       "title": "中国驻新加坡大使馆 -- 重要通知",
       "type": "feed",
       "url": "rsshub://embassy/sg"
+    },
+    {
+      "description": "中国驻美国大使馆 -- 重要通知 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "103274970550038533",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "http://us.china-embassy.gov.cn/zytz/",
+      "title": "中国驻美国大使馆 -- 重要通知",
+      "type": "feed",
+      "url": "rsshub://embassy/us"
     }
   ]
 }

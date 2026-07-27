@@ -83,13 +83,14 @@
     }
   ],
   "test": {
-    "code": 0
+    "code": 1,
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
   "topFeeds": [
     {
       "description": "太平洋科技-全部 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-25T19:09:30.249Z",
+      "errorMessage": "[GET] \"https:\": <no response> Failed to parse URL from https: (Invalid URL)\n[GET] \"https:\": <no response> Failed to parse URL from https:\n[GET] \"https:\": <no response> Failed to parse URL from https: (Invalid URL)\n",
       "id": "84175249418008576",
       "image": null,
       "ownerUserId": null,

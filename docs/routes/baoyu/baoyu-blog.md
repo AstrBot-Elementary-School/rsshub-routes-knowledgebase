@@ -40,7 +40,7 @@ _None_
   ],
   "description": "宝玉 - 博客文章",
   "example": "/baoyu/blog",
-  "heat": 5423,
+  "heat": 5424,
   "location": "index.ts",
   "maintainers": [
     "liyaozhong",

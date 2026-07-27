@@ -116,16 +116,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "Base plugin for every Aurora project. Provides common utilities and functions. - Powered by RSSHub",
+      "description": "A lightweight but feature rich & multi-currency trade plugin with a simple configuration. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "114582395964709888",
+      "id": "114582838985083904",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/EzEMkR1u",
-      "title": "AuroraLib Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/nZSk44a8",
+      "title": "AxTrade Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/EzEMkR1u/versions"
+      "url": "rsshub://modrinth/project/nZSk44a8/versions"
     }
   ]
 }

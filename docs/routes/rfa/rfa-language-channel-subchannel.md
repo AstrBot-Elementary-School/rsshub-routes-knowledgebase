@@ -58,7 +58,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 30,
+  "heat": 31,
   "location": "index.ts",
   "maintainers": [
     "zphw"
@@ -88,8 +88,8 @@ _None_
     },
     {
       "description": "Radio Free Asia - Powered by RSSHub",
-      "errorAt": "2026-07-25T06:39:15.606Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "60960710409964544",
       "image": "https://cloudfront-us-east-1.images.arcpublishing.com/radiofreeasia/NG6VSBG6T5FE5G5WNXD66KOHTQ.png",
       "ownerUserId": null,

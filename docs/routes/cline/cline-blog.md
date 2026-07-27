@@ -54,7 +54,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 13,
+  "heat": 14,
   "location": "blog.ts",
   "maintainers": [
     "yeshan333"

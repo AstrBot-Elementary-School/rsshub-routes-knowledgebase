@@ -144,7 +144,7 @@ _None_
     },
     {
       "description": "Bloomberg - News - Powered by RSSHub",
-      "errorAt": "2026-07-15T06:43:58.356Z",
+      "errorAt": "2026-07-17T08:12:23.276Z",
       "errorMessage": "[GET] \"https://www.bloomberg.com/feeds/sitemap_news.xml\": 404 Not Found\n[GET] \"https://www.bloomberg.com/feeds/sitemap_news.xml\": 404 Not Found\nAuthentication failed. Access denied.\n/bloomberg\n[GET] \"https://www.bloomberg.com/feeds/sitemap_news.xml\": 404 Not Found\n[GET] \"https://www.bloomberg.com/feeds/sitemap_news.xml\": 404 Not Found\n[GET] \"https://www.bloomberg.com/feeds/sitemap_news.xml\": 404 Not Found\n[GET] \"https://www.bloomberg.com/feeds/sitemap_news.xml\": 404 Not Found\n[GET] \"https://www.bloomberg.com/feeds/sitemap_news.xml\": 404 Not Found\n[GET] \"https://www.bloomberg.com/feeds/sitemap_news.xml\": 404 Not Found\n",
       "id": "64731996464440320",
       "image": null,
