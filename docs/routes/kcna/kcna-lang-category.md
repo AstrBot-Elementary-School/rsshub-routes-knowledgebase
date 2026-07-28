@@ -23,15 +23,16 @@
 
 | Category                                                         | `:category`                        |
 | ---------------------------------------------------------------- | ---------------------------------- |
-| WPK General Secretary **Kim Jong Un**'s Revolutionary Activities | `54c0ca4ca013a92cc9cf95bd4004c61a` |
-| Latest News (default)                                            | `1ee9bdb7186944f765208f34ecfb5407` |
-| Top News                                                         | `5394b80bdae203fadef02522cfb578c0` |
-| Home News                                                        | `b2b3bcc1b0a4406ab0c36e45d5db58db` |
-| Documents                                                        | `a8754921399857ebdbb97a98a1e741f5` |
-| World                                                            | `593143484cf15d48ce85c26139582395` |
-| Society-Life                                                     | `93102e5a735d03979bc58a3a7aefb75a` |
-| External                                                         | `0f98b4623a3ef82aeea78df45c423fd0` |
-| News Commentary                                                  | `12c03a49f7dbe829bceea8ac77088c21` |
+| WPK General Secretary **Kim Jong Un**'s Revolutionary Activities | `b0721b9f23054ddc7fe56c2811a12715` |
+| Latest News (default)                                            | `a666dda1282180e0ee1b4427b0574ae7` |
+| Top News                                                         | `6a47505ba5268fd7749c0fe11e4b24b4` |
+| Home News                                                        | `2f7d854121ccbbfbe6feae9fdcc3556e` |
+| Documents                                                        | `1afa96195f9b303902490a126ab7285f` |
+| World                                                            | `ecc14533d88be93068af4178946b1b05` |
+| Social Life                                                      | `680e40b40899891bbe75a7072e3285e7` |
+| External                                                         | `e2f336db98b5e69c75e0da264e037e8d` |
+| Revolutionary Anecdote                                           | `503e9b606704f9b1c625fa5755928cd3` |
+| Always in Memory of People                                       | `7bc083f00425be6aadfb828fba1cb5a7` |
 
 ## Parameters
 - `lang`: Language, refer to the table below
@@ -50,9 +51,11 @@
 ### Rule 1
 - `source`:
   - `www.kcna.kp/:lang`
-  - `www.kcna.kp/:lang/category/articles/q/1ee9bdb7186944f765208f34ecfb5407.kcmsf`
-  - `www.kcna.kp/:lang/category/articles.kcmsf`
 - `target`: `/:lang`
+### Rule 2
+- `source`:
+  - `www.kcna.kp/:lang/article/list/:category`
+- `target`: `/:lang/:category`
 
 ## Raw JSON
 ```json
@@ -60,7 +63,7 @@
   "categories": [
     "traditional-media"
   ],
-  "description": "| Language | 조선어 | English | 中国语 | Русский | Español | 日本語 |\n| -------- | ------ | ------- | ------ | ------- | ------- | ------ |\n| `:lang`  | `kp`   | `en`    | `cn`   | `ru`    | `es`    | `jp`   |\n\n| Category                                                         | `:category`                        |\n| ---------------------------------------------------------------- | ---------------------------------- |\n| WPK General Secretary **Kim Jong Un**'s Revolutionary Activities | `54c0ca4ca013a92cc9cf95bd4004c61a` |\n| Latest News (default)                                            | `1ee9bdb7186944f765208f34ecfb5407` |\n| Top News                                                         | `5394b80bdae203fadef02522cfb578c0` |\n| Home News                                                        | `b2b3bcc1b0a4406ab0c36e45d5db58db` |\n| Documents                                                        | `a8754921399857ebdbb97a98a1e741f5` |\n| World                                                            | `593143484cf15d48ce85c26139582395` |\n| Society-Life                                                     | `93102e5a735d03979bc58a3a7aefb75a` |\n| External                                                         | `0f98b4623a3ef82aeea78df45c423fd0` |\n| News Commentary                                                  | `12c03a49f7dbe829bceea8ac77088c21` |",
+  "description": "| Language | 조선어 | English | 中国语 | Русский | Español | 日本語 |\n| -------- | ------ | ------- | ------ | ------- | ------- | ------ |\n| `:lang`  | `kp`   | `en`    | `cn`   | `ru`    | `es`    | `jp`   |\n\n| Category                                                         | `:category`                        |\n| ---------------------------------------------------------------- | ---------------------------------- |\n| WPK General Secretary **Kim Jong Un**'s Revolutionary Activities | `b0721b9f23054ddc7fe56c2811a12715` |\n| Latest News (default)                                            | `a666dda1282180e0ee1b4427b0574ae7` |\n| Top News                                                         | `6a47505ba5268fd7749c0fe11e4b24b4` |\n| Home News                                                        | `2f7d854121ccbbfbe6feae9fdcc3556e` |\n| Documents                                                        | `1afa96195f9b303902490a126ab7285f` |\n| World                                                            | `ecc14533d88be93068af4178946b1b05` |\n| Social Life                                                      | `680e40b40899891bbe75a7072e3285e7` |\n| External                                                         | `e2f336db98b5e69c75e0da264e037e8d` |\n| Revolutionary Anecdote                                           | `503e9b606704f9b1c625fa5755928cd3` |\n| Always in Memory of People                                       | `7bc083f00425be6aadfb828fba1cb5a7` |",
   "example": "/kcna/en",
   "features": {
     "antiCrawler": true,
@@ -84,11 +87,15 @@
   "radar": [
     {
       "source": [
-        "www.kcna.kp/:lang",
-        "www.kcna.kp/:lang/category/articles/q/1ee9bdb7186944f765208f34ecfb5407.kcmsf",
-        "www.kcna.kp/:lang/category/articles.kcmsf"
+        "www.kcna.kp/:lang"
       ],
       "target": "/:lang"
+    },
+    {
+      "source": [
+        "www.kcna.kp/:lang/article/list/:category"
+      ],
+      "target": "/:lang/:category"
     }
   ],
   "test": {

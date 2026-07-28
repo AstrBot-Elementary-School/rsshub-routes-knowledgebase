@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "政策法规 - 深圳市医疗器械行业协会 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-27T02:42:43.023Z",
+      "errorMessage": "[POST] \"https://www.samd.org.cn/home/GetNewsByTagId?page=1&rows=10&typeId=440&status=1\": <no response> fetch failed (certificate has expired)\n",
       "id": "85223407629952000",
       "image": null,
       "ownerUserId": null,

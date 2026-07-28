@@ -43,7 +43,7 @@ _None_
   ],
   "description": "| 精选 | 链游 | 元宇宙 | NFT | DeFi | 监管 | 央行数字货币 | 波卡 | Layer 2 | DAO | 融资 | 活动 |\n| ---- | ---- | ------ | --- | ---- | ---- | ------------ | ---- | ------- | --- | ---- | ---- |",
   "example": "/panewslab/profundity",
-  "heat": 134,
+  "heat": 133,
   "location": "profundity.ts",
   "maintainers": [
     "nczitzk"

@@ -11,9 +11,9 @@
 ## Routes
 
 ### Press releases
-- Route ID: `verfghbw:/verfghbw/press/:keyword?`
-- Route Path: `/verfghbw/press/:keyword?`
-- File: `docs/routes/verfghbw/verfghbw-press-keyword.md`
-- File Name: `verfghbw-press-keyword.md`
+- Route ID: `verfghbw:/verfghbw/press`
+- Route Path: `/verfghbw/press`
+- File: `docs/routes/verfghbw/verfghbw-press.md`
+- File Name: `verfghbw-press.md`
 - Categories: `government`
 - Maintainers: `quinn-dev`

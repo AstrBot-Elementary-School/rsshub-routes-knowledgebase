@@ -26,11 +26,11 @@
 - Categories: `game`
 - Maintainers: `TonyRL`
 
-### Unknown
-- Route ID: `indienova:/indienova/gamedb/recent`
-- Route Path: `/indienova/gamedb/recent`
-- File: `docs/routes/indienova/indienova-gamedb-recent.md`
-- File Name: `indienova-gamedb-recent.md`
+### GameDB 游戏库
+- Route ID: `indienova:/indienova/gamedb/recent/:platform?`
+- Route Path: `/indienova/gamedb/recent/:platform?`
+- File: `docs/routes/indienova/indienova-gamedb-recent-platform.md`
+- File Name: `indienova-gamedb-recent-platform.md`
 - Categories: `game`
 - Maintainers: `TonyRL`
 

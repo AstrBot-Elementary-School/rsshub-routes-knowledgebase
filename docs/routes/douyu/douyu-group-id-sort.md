@@ -98,16 +98,16 @@
       "url": "rsshub://douyu/group/534"
     },
     {
-      "description": "imxiaoxin的鱼吧 - Powered by RSSHub",
+      "description": "洞主的鱼吧 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "215017513790669824",
+      "id": "69260526927299584",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://yuba.douyu.com/group/newself/84675",
-      "title": "斗鱼鱼吧 - imxiaoxin",
+      "siteUrl": "https://yuba.douyu.com/group/newall/199511",
+      "title": "斗鱼鱼吧 - 洞主丨歌神洞庭湖",
       "type": "feed",
-      "url": "rsshub://douyu/group/84675"
+      "url": "rsshub://douyu/group/199511/1"
     }
   ]
 }

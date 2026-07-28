@@ -61,7 +61,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 116,
+  "heat": 117,
   "location": "xhu/activities.ts",
   "maintainers": [
     "JimenezLi"

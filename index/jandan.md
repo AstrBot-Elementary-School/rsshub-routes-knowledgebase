@@ -16,7 +16,7 @@
 - File: `docs/routes/jandan/jandan.md`
 - File Name: `jandan.md`
 - Categories: `other`
-- Maintainers: `nczitzk, bigfei, pseudoyu`
+- Maintainers: `lonelykid, nczitzk, bigfei, pseudoyu`
 
 ### Section
 - Route ID: `jandan:/jandan/:category/:type?`
@@ -24,4 +24,4 @@
 - File: `docs/routes/jandan/jandan-category-type.md`
 - File Name: `jandan-category-type.md`
 - Categories: `other`
-- Maintainers: `nczitzk, pseudoyu`
+- Maintainers: `kobemtl, Xuanwo, xyqfer, 9uanhuo, nczitzk, pseudoyu`

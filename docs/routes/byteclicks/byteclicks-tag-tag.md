@@ -24,12 +24,7 @@ _None_
 
 
 ## Features
-- `requireConfig`: false
-- `requirePuppeteer`: false
-- `antiCrawler`: false
-- `supportBT`: false
-- `supportPodcast`: false
-- `supportScihub`: false
+_None_
 
 ## Radar
 ### Rule 1
@@ -43,14 +38,6 @@ _None_
     "new-media"
   ],
   "example": "/byteclicks/tag/人工智能",
-  "features": {
-    "antiCrawler": false,
-    "requireConfig": false,
-    "requirePuppeteer": false,
-    "supportBT": false,
-    "supportPodcast": false,
-    "supportScihub": false
-  },
   "heat": 5,
   "location": "tag.ts",
   "maintainers": [

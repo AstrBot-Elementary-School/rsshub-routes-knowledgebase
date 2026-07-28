@@ -10,7 +10,7 @@
 
 ## Routes
 
-### 南京工程学院教务处
+### 教务处
 - Route ID: `njit:/njit/jwc/:type?`
 - Route Path: `/njit/jwc/:type?`
 - File: `docs/routes/njit/njit-jwc-type.md`
@@ -18,7 +18,7 @@
 - Categories: `university`
 - Maintainers: `zefengdaguo`
 
-### 南京工程学院通知公告
+### 通知公告
 - Route ID: `njit:/njit/tzgg`
 - Route Path: `/njit/tzgg`
 - File: `docs/routes/njit/njit-tzgg.md`

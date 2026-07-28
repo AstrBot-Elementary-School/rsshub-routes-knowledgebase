@@ -9,7 +9,7 @@
 - Route Path: `/hitwh/today`
 - Route Name: `今日工大 - 通知公告`
 - Example: `/hitwh/today`
-- URL: `hitwh.edu.cn/1024/list.htm`
+- URL: `today.hitwh.edu.cn/1024/list.htm`
 - Language: `_None_`
 - Categories: `university`
 - Maintainers: `raptazure`
@@ -34,8 +34,8 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `hitwh.edu.cn/1024/list.htm`
-  - `hitwh.edu.cn/`
+  - `today.hitwh.edu.cn/1024/list.htm`
+  - `today.hitwh.edu.cn/`
 
 ## Raw JSON
 ```json
@@ -63,8 +63,8 @@ _None_
   "radar": [
     {
       "source": [
-        "hitwh.edu.cn/1024/list.htm",
-        "hitwh.edu.cn/"
+        "today.hitwh.edu.cn/1024/list.htm",
+        "today.hitwh.edu.cn/"
       ]
     }
   ],
@@ -85,6 +85,6 @@ _None_
       "url": "rsshub://hitwh/today"
     }
   ],
-  "url": "hitwh.edu.cn/1024/list.htm"
+  "url": "today.hitwh.edu.cn/1024/list.htm"
 }
 ```

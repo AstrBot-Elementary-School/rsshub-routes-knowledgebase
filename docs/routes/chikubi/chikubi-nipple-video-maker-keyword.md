@@ -55,7 +55,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 193,
+  "heat": 194,
   "location": "nipple-video-maker.ts",
   "maintainers": [
     "SnowAgar25"

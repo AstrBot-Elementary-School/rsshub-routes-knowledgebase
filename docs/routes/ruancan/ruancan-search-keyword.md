@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "undefined - 搜索结果 - 软餐 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-27T03:36:54.634Z",
+      "errorMessage": "[GET] \"https://www.ruancan.com/?s=undefined\": 428 Precondition Required\n",
       "id": "88750451518989312",
       "image": null,
       "ownerUserId": null,

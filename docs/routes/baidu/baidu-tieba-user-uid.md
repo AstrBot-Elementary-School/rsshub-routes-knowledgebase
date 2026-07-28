@@ -79,16 +79,16 @@ _None_
       "url": "rsshub://baidu/tieba/user/dengchunlai"
     },
     {
-      "description": "狼獾赝月 的贴吧 - Powered by RSSHub",
-      "errorAt": "2025-11-02T19:26:02.118Z",
-      "errorMessage": "[GET] \"https://tieba.baidu.com/home/main?un=狼獾赝月\": 403 Forbidden\n",
-      "id": "102690853823372288",
+      "description": "林子君 的贴吧 - Powered by RSSHub",
+      "errorAt": "2026-07-26T02:15:19.346Z",
+      "errorMessage": "Authentication failed. Access denied.\n/baidu/tieba/user/%E6%9E%97%E5%AD%90%E2%97%8E%E5%90%9B\n[GET] \"https://tieba.baidu.com/home/main?un=林子◎君\": 403 Forbidden\n",
+      "id": "86267276958861312",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://tieba.baidu.com/home/main?un=%E7%8B%BC%E7%8D%BE%E8%B5%9D%E6%9C%88",
-      "title": "狼獾赝月 的贴吧",
+      "siteUrl": "https://tieba.baidu.com/home/main?un=%E6%9E%97%E5%AD%90%E2%97%8E%E5%90%9B",
+      "title": "林子君 的贴吧",
       "type": "feed",
-      "url": "rsshub://baidu/tieba/user/%E7%8B%BC%E7%8D%BE%E8%B5%9D%E6%9C%88"
+      "url": "rsshub://baidu/tieba/user/%E6%9E%97%E5%AD%90%E2%97%8E%E5%90%9B"
     }
   ]
 }

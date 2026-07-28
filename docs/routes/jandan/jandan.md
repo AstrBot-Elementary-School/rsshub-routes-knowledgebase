@@ -12,7 +12,7 @@
 - URL: `jandan.net`
 - Language: `_None_`
 - Categories: `other`
-- Maintainers: `nczitzk, bigfei, pseudoyu`
+- Maintainers: `lonelykid, nczitzk, bigfei, pseudoyu`
 - Source Location: `index.ts`
 - Source Module: `_None_`
 
@@ -55,6 +55,7 @@ _None_
   "heat": 0,
   "location": "index.ts",
   "maintainers": [
+    "lonelykid",
     "nczitzk",
     "bigfei",
     "pseudoyu"

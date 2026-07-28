@@ -1,4 +1,4 @@
-# 美麗島電子報 - 首页
+# 美麗島電子報 - 首頁
 
 ## Coverage
 `index-only`
@@ -7,9 +7,9 @@
 - Namespace: `my-formosa`
 - Namespace Name: `美麗島電子報`
 - Route Path: `/my-formosa/`
-- Route Name: `首页`
+- Route Name: `首頁`
 - Example: `/my-formosa`
-- URL: `my-formosa.com`
+- URL: `m.my-formosa.com.tw`
 - Language: `_None_`
 - Categories: `new-media`
 - Maintainers: `dzx-dzx`
@@ -34,7 +34,7 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `my-formosa.com/`
+  - `m.my-formosa.com.tw/`
 
 ## Raw JSON
 ```json
@@ -56,13 +56,13 @@ _None_
   "maintainers": [
     "dzx-dzx"
   ],
-  "name": "首页",
+  "name": "首頁",
   "parameters": {},
   "path": "/",
   "radar": [
     {
       "source": [
-        "my-formosa.com/"
+        "m.my-formosa.com.tw/"
       ]
     }
   ],
@@ -71,6 +71,6 @@ _None_
     "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
   "topFeeds": [],
-  "url": "my-formosa.com"
+  "url": "m.my-formosa.com.tw"
 }
 ```

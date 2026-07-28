@@ -88,8 +88,8 @@ _None_
   "topFeeds": [
     {
       "description": "《鸣潮》— 游戏公告、新闻和活动 - Powered by RSSHub",
-      "errorAt": "2026-07-25T22:00:24.651Z",
-      "errorMessage": "[GET] \"https://media-cdn-mingchao.kurogame.com/akiwebsite/website2.0/json/G152/zh/ArticleMenu.json?t=1785016792994\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 124.200.113.16:443, 124.200.113.50:443, 124.200.113.17:443, 124.200.113.18:443, 124.200.113.48:443, 124.200.113.49:443, 124.200.113.19:443, 124.200.113.20:443, timeout: 10000ms))\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41645808521081856",
       "image": null,
       "ownerUserId": null,

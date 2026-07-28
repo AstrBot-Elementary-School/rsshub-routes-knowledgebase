@@ -142,14 +142,14 @@
   },
   "topFeeds": [
     {
-      "description": "行业研究 - Powered by RSSHub",
-      "errorAt": "2026-07-06T13:36:00.029Z",
-      "errorMessage": "[GET] \"https://www.lhratings.com/research.html?type=3\": 404 Not Found\n",
+      "description": "联合资信评估股份有限公司 - 服务介绍 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "104824308798705664",
-      "image": "https://www.lhratings.com/static/imgs/logo.png",
+      "image": "https://www.lhratings.com/home/images/logo.png",
       "ownerUserId": null,
-      "siteUrl": "https://www.lhratings.com/research.html?type=3",
-      "title": "联合资信评估股份有限公司 - 行业研究",
+      "siteUrl": "https://www.lhratings.com/lists/3.html",
+      "title": "联合资信评估股份有限公司 - 服务介绍",
       "type": "feed",
       "url": "rsshub://lhratings/research/3"
     },

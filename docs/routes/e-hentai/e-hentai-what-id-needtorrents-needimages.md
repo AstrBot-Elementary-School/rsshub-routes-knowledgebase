@@ -59,7 +59,7 @@ _None_
     {
       "description": "cosplay - E-Hentai Galleries - Powered by RSSHub",
       "errorAt": "2026-07-22T12:03:29.262Z",
-      "errorMessage": "[GET] \"https://e-hentai.org/cosplay\": 451 Unavailable For Legal Reasons\n",
+      "errorMessage": "s.map is not a function\n",
       "id": "106841534145317888",
       "image": null,
       "ownerUserId": null,

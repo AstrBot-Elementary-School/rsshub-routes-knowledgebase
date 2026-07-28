@@ -91,16 +91,16 @@
       "url": "rsshub://shu/news"
     },
     {
-      "description": "上海大学 - 通知公告 - Powered by RSSHub",
+      "description": "上海大学 - 重要新闻 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "84809908871103488",
+      "id": "84816968418040832",
       "image": "https://www.shu.edu.cn/__local/0/08/C6/1EABE492B0CF228A5564D6E6ABE_779D1EE3_5BF7.png",
       "ownerUserId": null,
-      "siteUrl": "https://www.shu.edu.cn/tzgg.htm",
-      "title": "上海大学 - 通知公告",
+      "siteUrl": "https://www.shu.edu.cn/zyxw.htm",
+      "title": "上海大学 - 重要新闻",
       "type": "feed",
-      "url": "rsshub://shu/news/tzgg"
+      "url": "rsshub://shu/news/zyxw"
     }
   ],
   "url": "www.shu.edu.cn/"

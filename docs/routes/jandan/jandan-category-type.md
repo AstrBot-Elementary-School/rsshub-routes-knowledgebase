@@ -12,7 +12,7 @@
 - URL: `jandan.net`
 - Language: `_None_`
 - Categories: `other`
-- Maintainers: `nczitzk, pseudoyu`
+- Maintainers: `kobemtl, Xuanwo, xyqfer, 9uanhuo, nczitzk, pseudoyu`
 - Source Location: `section.ts`
 - Source Module: `_None_`
 
@@ -20,7 +20,7 @@
 _None_
 
 ## Parameters
-- `category`: {"description": "板块", "options": [{"label": "热榜", "value": "top"}, {"label": "问答", "value": "qa"}, {"label": "树洞", "value": "treehole"}, {"label": "随手拍", "value": "ooxx"}, {"label": "无聊图", "value": "pic"}, {"label": "鱼塘", "value": "bbs"}]}
+- `category`: {"description": "板块", "options": [{"label": "热榜", "value": "top"}, {"label": "问答", "value": "qa"}, {"label": "树洞", "value": "treehole"}, {"label": "随手拍", "value": "ooxx"}, {"label": "女装", "value": "beauty"}, {"label": "无聊图", "value": "pic"}, {"label": "鱼塘", "value": "bbs"}]}
 - `type`: {"default": "4hr", "description": "热榜类型，仅当 category 选择 `top` 时有效", "options": [{"label": "4小时热门", "value": "4hr"}, {"label": "3天内无聊图", "value": "pic3days"}, {"label": "7天内无聊图", "value": "pic7days"}]}
 
 
@@ -56,6 +56,10 @@ _None_
   "heat": 529,
   "location": "section.ts",
   "maintainers": [
+    "kobemtl",
+    "Xuanwo",
+    "xyqfer",
+    "9uanhuo",
     "nczitzk",
     "pseudoyu"
   ],
@@ -79,6 +83,10 @@ _None_
         {
           "label": "随手拍",
           "value": "ooxx"
+        },
+        {
+          "label": "女装",
+          "value": "beauty"
         },
         {
           "label": "无聊图",
@@ -124,8 +132,8 @@ _None_
   "topFeeds": [
     {
       "description": "热榜 - 4小时热门 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-26T19:50:39.836Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "42107730549411843",
       "image": null,
       "ownerUserId": null,

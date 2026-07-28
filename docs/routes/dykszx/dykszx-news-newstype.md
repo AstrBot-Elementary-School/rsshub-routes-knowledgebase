@@ -9,7 +9,7 @@
 - Route Path: `/dykszx/news/:newsType?`
 - Route Name: `考试新闻发布`
 - Example: `/dykszx/news`
-- URL: `www.dykszx.com`
+- URL: `www.dykszx.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `zytomorrow`
@@ -36,7 +36,7 @@
 ## Radar
 ### Rule 1
 - `source`:
-  - `www.dykszx.com/`
+  - `www.dykszx.cn/`
 - `target`: `/news/all`
 
 ## Raw JSON
@@ -68,7 +68,7 @@
   "radar": [
     {
       "source": [
-        "www.dykszx.com/"
+        "www.dykszx.cn/"
       ],
       "target": "/news/all"
     }
@@ -103,6 +103,6 @@
       "url": "rsshub://dykszx/news/other"
     }
   ],
-  "url": "www.dykszx.com"
+  "url": "www.dykszx.cn"
 }
 ```

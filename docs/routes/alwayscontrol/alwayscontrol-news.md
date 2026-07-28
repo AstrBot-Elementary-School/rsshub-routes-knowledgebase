@@ -34,7 +34,7 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `www.alwayscontrol.com.cn/zh-CN/news/list`
+  - `www.alwayscontrol.com.cn/zh-CN/about/news`
 - `target`: `/news`
 
 ## Raw JSON
@@ -63,7 +63,7 @@ _None_
   "radar": [
     {
       "source": [
-        "www.alwayscontrol.com.cn/zh-CN/news/list"
+        "www.alwayscontrol.com.cn/zh-CN/about/news"
       ],
       "target": "/news"
     }

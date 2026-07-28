@@ -29,7 +29,7 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `cee.ecnu.edu.cn`
+  - `ieeic.ecnu.edu.cn`
 - `target`: `/cee`
 
 ## Raw JSON
@@ -51,7 +51,7 @@ _None_
   "radar": [
     {
       "source": [
-        "cee.ecnu.edu.cn"
+        "ieeic.ecnu.edu.cn"
       ],
       "target": "/cee"
     }

@@ -76,16 +76,16 @@ _None_
       "url": "rsshub://cara/timeline/alonelee127"
     },
     {
-      "description": "Timeline - Rodrigo Goulao de Sousa - Powered by RSSHub",
-      "errorAt": "2025-11-26T14:00:44.455Z",
+      "description": "Timeline - Poltorykhina Anna - Powered by RSSHub",
+      "errorAt": "2025-11-26T14:15:25.443Z",
       "errorMessage": "[GET] \"https://cara.app/explore\": 403 Forbidden\n",
-      "id": "127384139525444608",
-      "image": "https://cdn.cara.app/production/profiles/34966e18-5684-4d9d-afab-838babacdc30/465BAAB1-DDE7-42C3-9A1F-E078CF2DA69B.jpg",
+      "id": "127388130140915712",
+      "image": "https://cdn.cara.app/production/profiles/b17122f7-1148-4a05-a9e4-8be52eb9b189/n5dm6Wqudi8-copy.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://cara.app/rodrigogsousa/all",
-      "title": "Timeline - Rodrigo Goulao de Sousa",
+      "siteUrl": "https://cara.app/polanya/all",
+      "title": "Timeline - Poltorykhina Anna",
       "type": "feed",
-      "url": "rsshub://cara/timeline/rodrigogsousa"
+      "url": "rsshub://cara/timeline/polanya"
     }
   ]
 }

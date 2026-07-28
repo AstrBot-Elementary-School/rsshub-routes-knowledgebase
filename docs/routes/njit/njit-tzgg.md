@@ -1,4 +1,4 @@
-# 南京工程学院 - 南京工程学院通知公告
+# 南京工程学院 - 通知公告
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `njit`
 - Namespace Name: `南京工程学院`
 - Route Path: `/njit/tzgg`
-- Route Name: `南京工程学院通知公告`
+- Route Name: `通知公告`
 - Example: `/njit/tzgg`
 - URL: `www.njit.edu.cn/`
 - Language: `_None_`
@@ -56,7 +56,7 @@ _None_
   "maintainers": [
     "zefengdaguo"
   ],
-  "name": "南京工程学院通知公告",
+  "name": "通知公告",
   "parameters": {},
   "path": "/tzgg",
   "radar": [

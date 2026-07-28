@@ -42,7 +42,7 @@
 - Categories: `university`
 - Maintainers: `TPOB`
 
-### Unknown
+### 信科公告通知
 - Route ID: `pku:/pku/eecs/:type?`
 - Route Path: `/pku/eecs/:type?`
 - File: `docs/routes/pku/pku-eecs-type.md`

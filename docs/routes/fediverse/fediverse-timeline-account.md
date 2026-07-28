@@ -67,8 +67,8 @@ _None_
   "topFeeds": [
     {
       "description": "Public posts from @pseudoyu@mas.to - Powered by RSSHub",
-      "errorAt": "2026-07-25T13:13:50.211Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "56548464220512256",
       "image": "https://media.mas.to/accounts/avatars/109/300/507/275/095/341/original/9a0abd8b35530714.jpeg",
       "ownerUserId": "41229460898486272",

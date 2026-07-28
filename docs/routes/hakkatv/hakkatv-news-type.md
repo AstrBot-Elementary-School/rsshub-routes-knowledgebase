@@ -13,7 +13,7 @@
 - Language: `_None_`
 - Categories: `traditional-media`
 - Maintainers: `TonyRL`
-- Source Location: `type.ts`
+- Source Location: `news.ts`
 - Source Module: `_None_`
 
 ## Description
@@ -56,7 +56,7 @@
     "supportScihub": false
   },
   "heat": 1,
-  "location": "type.ts",
+  "location": "news.ts",
   "maintainers": [
     "TonyRL"
   ],

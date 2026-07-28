@@ -80,7 +80,7 @@ _None_
     {
       "description": "软件改变生活 - Powered by RSSHub",
       "errorAt": "2025-03-06T22:40:32.067Z",
-      "errorMessage": "[GET] \"https://www.iplaysoft.com/wp-json/wp/v2/categories?slug=network\": 403 Forbidden\nAuthentication failed. Access denied.\n/iplaysoft/category/network\n[GET] \"https://www.iplaysoft.com/wp-json/wp/v2/categories?slug=network\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.iplaysoft.com/wp-json/wp/v2/categories?slug=network\": <no response> fetch failed (608452C1E1F80000:error:030000EA:digital envelope routines:EVP_DigestVerifyFinal:provider signature failure:../deps/openssl/openssl/crypto/evp/m_sigver.c:703:ECDSA digest_verify_final:\n)\nAuthentication failed. Access denied.\n/iplaysoft/category/network\n[GET] \"https://www.iplaysoft.com/wp-json/wp/v2/categories?slug=network\": <no response> fetch failed (C0824618297F0000:error:030000EA:digital envelope routines:EVP_DigestVerifyFinal:provider signature failure:../deps/openssl/openssl/crypto/evp/m_sigver.c:703:ECDSA digest_verify_final:\n)\n",
       "id": "117435061031429120",
       "image": null,
       "ownerUserId": null,

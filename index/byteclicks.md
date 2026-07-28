@@ -10,7 +10,7 @@
 
 ## Routes
 
-### Unknown
+### 首页
 - Route ID: `byteclicks:/byteclicks/`
 - Route Path: `/byteclicks/`
 - File: `docs/routes/byteclicks/byteclicks.md`

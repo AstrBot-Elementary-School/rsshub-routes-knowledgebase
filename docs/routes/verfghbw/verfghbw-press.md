@@ -6,10 +6,10 @@
 ## Route
 - Namespace: `verfghbw`
 - Namespace Name: `Constitutional Court of Baden-Württemberg (Germany)`
-- Route Path: `/verfghbw/press/:keyword?`
+- Route Path: `/verfghbw/press`
 - Route Name: `Press releases`
 - Example: `/verfghbw/press`
-- URL: `verfgh.baden-wuerttemberg.de/de/presse-und-service/pressemitteilungen/`
+- URL: `verfgh.baden-wuerttemberg.de/presse-und-service/pressemitteilungen/`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `quinn-dev`
@@ -20,7 +20,7 @@
 _None_
 
 ## Parameters
-- `keyword`: Keyword
+_None_
 
 
 ## Features
@@ -34,7 +34,7 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `verfgh.baden-wuerttemberg.de/de/presse-und-service/pressemitteilungen/`
+  - `verfgh.baden-wuerttemberg.de/presse-und-service/pressemitteilungen/`
 - `target`: `/press`
 
 ## Raw JSON
@@ -58,22 +58,16 @@ _None_
     "quinn-dev"
   ],
   "name": "Press releases",
-  "parameters": {
-    "keyword": "Keyword"
-  },
-  "path": "/press/:keyword?",
+  "path": "/press",
   "radar": [
     {
       "source": [
-        "verfgh.baden-wuerttemberg.de/de/presse-und-service/pressemitteilungen/"
+        "verfgh.baden-wuerttemberg.de/presse-und-service/pressemitteilungen/"
       ],
       "target": "/press"
     }
   ],
-  "test": {
-    "code": 1
-  },
   "topFeeds": [],
-  "url": "verfgh.baden-wuerttemberg.de/de/presse-und-service/pressemitteilungen/"
+  "url": "verfgh.baden-wuerttemberg.de/presse-und-service/pressemitteilungen/"
 }
 ```

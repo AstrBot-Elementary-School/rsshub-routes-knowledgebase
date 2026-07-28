@@ -102,7 +102,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1,
+  "heat": 2,
   "location": "en.ts",
   "maintainers": [
     "mlkgrnt"

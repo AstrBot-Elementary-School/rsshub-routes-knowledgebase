@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 850,
+  "heat": 848,
   "location": "msgalbum.ts",
   "maintainers": [
     "MisteryMonster"

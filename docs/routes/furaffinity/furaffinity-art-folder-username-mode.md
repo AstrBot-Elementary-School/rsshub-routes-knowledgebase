@@ -115,16 +115,16 @@ _None_
       "url": "rsshub://furaffinity/art/gallery/oddeyresproductions/nsfw"
     },
     {
-      "description": "Fur Affinity Gallery of davcr4zy - Powered by RSSHub",
-      "errorAt": "2026-05-25T13:07:16.524Z",
-      "errorMessage": "[GET] \"https://faexport.spangle.org.uk/user/davcr4zy/gallery.json?full=1\": 500 Internal Server Error\n[GET] \"https://faexport.spangle.org.uk/user/davcr4zy/gallery.json?full=1\": 500 Internal Server Error\n",
-      "id": "79207785434458112",
+      "description": "Fur Affinity Gallery of blackie94 - Powered by RSSHub",
+      "errorAt": "2026-05-25T19:27:44.234Z",
+      "errorMessage": "[GET] \"https://faexport.spangle.org.uk/user/blackie94/gallery.json?full=1\": 500 Internal Server Error\n[GET] \"https://faexport.spangle.org.uk/user/blackie94/gallery.json?full=1\": 500 Internal Server Error\n",
+      "id": "79208864117972992",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.furaffinity.net/gallery/davcr4zy",
-      "title": "Fur Affinity | Gallery of davcr4zy",
+      "siteUrl": "https://www.furaffinity.net/gallery/blackie94",
+      "title": "Fur Affinity | Gallery of blackie94",
       "type": "feed",
-      "url": "rsshub://furaffinity/art/gallery/davcr4zy/nsfw"
+      "url": "rsshub://furaffinity/art/gallery/blackie94/nsfw"
     }
   ],
   "url": "furaffinity.net"

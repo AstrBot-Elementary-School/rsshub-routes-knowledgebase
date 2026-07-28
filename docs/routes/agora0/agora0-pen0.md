@@ -71,7 +71,7 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "UNITE THE PUBLIC ♢ VOL.66 © MMXXVI - Powered by RSSHub",
+      "description": "UNITE THE PUBLIC ♢ VOL.67 © MMXXVI - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "122962171866874880",

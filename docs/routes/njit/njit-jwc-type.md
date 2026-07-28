@@ -1,4 +1,4 @@
-# 南京工程学院 - 南京工程学院教务处
+# 南京工程学院 - 教务处
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `njit`
 - Namespace Name: `南京工程学院`
 - Route Path: `/njit/jwc/:type?`
-- Route Name: `南京工程学院教务处`
+- Route Name: `教务处`
 - Example: `/njit/jwc/jx`
 - URL: `jwc.njit.edu.cn`
 - Language: `_None_`
@@ -57,7 +57,7 @@ _None_
   "maintainers": [
     "zefengdaguo"
   ],
-  "name": "南京工程学院教务处",
+  "name": "教务处",
   "parameters": {
     "type": "默认为 `jx`"
   },

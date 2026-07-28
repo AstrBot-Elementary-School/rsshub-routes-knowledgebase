@@ -34,7 +34,7 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `www.perplexity.ai/hub`
+  - `www.perplexity.ai/hub/blog`
 - `target`: `/blog`
 
 ## Raw JSON
@@ -64,7 +64,7 @@ _None_
   "radar": [
     {
       "source": [
-        "www.perplexity.ai/hub"
+        "www.perplexity.ai/hub/blog"
       ],
       "target": "/blog"
     }

@@ -50,7 +50,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 9,
+  "heat": 8,
   "location": "search.ts",
   "maintainers": [
     "CaoMeiYouRen"

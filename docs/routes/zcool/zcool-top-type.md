@@ -50,7 +50,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1927,
+  "heat": 1925,
   "location": "top.ts",
   "maintainers": [
     "yuuow"

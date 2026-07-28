@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 6,
+  "heat": 5,
   "location": "events.ts",
   "maintainers": [
     "heqi201255"

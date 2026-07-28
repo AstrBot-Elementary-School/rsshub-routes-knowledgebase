@@ -60,8 +60,8 @@ _None_
   "topFeeds": [
     {
       "description": "吉林大学教务处通知公告 - Powered by RSSHub",
-      "errorAt": "2026-07-25T19:07:23.865Z",
-      "errorMessage": "[GET] \"https://jwc.jlu.edu.cn\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 202.198.16.22:443, 2001:da8:b000::22:443, timeout: 10000ms))\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "75548213781861376",
       "image": null,
       "ownerUserId": null,

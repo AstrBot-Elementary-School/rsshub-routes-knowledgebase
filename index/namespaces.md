@@ -6268,7 +6268,7 @@ Use this file to select the target namespace before opening route documents.
 
 ## 美麗島電子報
 - Namespace: `my-formosa`
-- Aliases: `my-formosa, my-formosa.com, 美麗島電子報`
+- Aliases: `my-formosa, my-formosa.com.tw, 美麗島電子報`
 - Route Count: `1`
 - Index File: `index/my-formosa.md`
 

@@ -11,10 +11,10 @@
 ## Routes
 
 ### 界面号
-- Route ID: `jiemian:/jiemian/account/main/1`
-- Route Path: `/jiemian/account/main/1`
-- File: `docs/routes/jiemian/jiemian-account-main-1.md`
-- File Name: `jiemian-account-main-1.md`
+- Route ID: `jiemian:/jiemian/account/main/:id`
+- Route Path: `/jiemian/account/main/:id`
+- File: `docs/routes/jiemian/jiemian-account-main-id.md`
+- File Name: `jiemian-account-main-id.md`
 - Categories: `other`
 - Maintainers: `nczitzk, pseudoyu`
 
@@ -27,25 +27,25 @@
 - Maintainers: `WenhuWee, nczitzk, pseudoyu`
 
 ### VIP
-- Route ID: `jiemian:/jiemian/pro/lists/12`
-- Route Path: `/jiemian/pro/lists/12`
-- File: `docs/routes/jiemian/jiemian-pro-lists-12.md`
-- File Name: `jiemian-pro-lists-12.md`
+- Route ID: `jiemian:/jiemian/pro/lists/:id`
+- Route Path: `/jiemian/pro/lists/:id`
+- File: `docs/routes/jiemian/jiemian-pro-lists-id.md`
+- File Name: `jiemian-pro-lists-id.md`
 - Categories: `other`
 - Maintainers: `nczitzk, pseudoyu`
 
 ### 专题
-- Route ID: `jiemian:/jiemian/special/1192`
-- Route Path: `/jiemian/special/1192`
-- File: `docs/routes/jiemian/jiemian-special-1192.md`
-- File Name: `jiemian-special-1192.md`
+- Route ID: `jiemian:/jiemian/special/:id`
+- Route Path: `/jiemian/special/:id`
+- File: `docs/routes/jiemian/jiemian-special-id.md`
+- File Name: `jiemian-special-id.md`
 - Categories: `other`
 - Maintainers: `nczitzk, pseudoyu`
 
 ### 视频
-- Route ID: `jiemian:/jiemian/video/lists/258_1`
-- Route Path: `/jiemian/video/lists/258_1`
-- File: `docs/routes/jiemian/jiemian-video-lists-258_1.md`
-- File Name: `jiemian-video-lists-258_1.md`
+- Route ID: `jiemian:/jiemian/video/lists/:id`
+- Route Path: `/jiemian/video/lists/:id`
+- File: `docs/routes/jiemian/jiemian-video-lists-id.md`
+- File Name: `jiemian-video-lists-id.md`
 - Categories: `other`
 - Maintainers: `nczitzk, pseudoyu`

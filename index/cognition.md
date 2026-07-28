@@ -11,9 +11,9 @@
 ## Routes
 
 ### Blog
-- Route ID: `cognition:/cognition/blog/:category?`
-- Route Path: `/cognition/blog/:category?`
-- File: `docs/routes/cognition/cognition-blog-category.md`
-- File Name: `cognition-blog-category.md`
+- Route ID: `cognition:/cognition/blog`
+- Route Path: `/cognition/blog`
+- File: `docs/routes/cognition/cognition-blog.md`
+- File Name: `cognition-blog.md`
 - Categories: `programming`
 - Maintainers: `Loongphy, ttttmr`

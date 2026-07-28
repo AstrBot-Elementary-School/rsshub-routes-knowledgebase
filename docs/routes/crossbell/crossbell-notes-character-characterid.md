@@ -89,7 +89,7 @@ _None_
     },
     {
       "description": "Crossbell Notes from 棒无 - Powered by RSSHub",
-      "errorAt": "2026-07-25T03:19:57.628Z",
+      "errorAt": "2026-07-23T18:50:07.351Z",
       "errorMessage": "[GET] \"https://indexer.crossbell.io/v1/notes?characterId=69522&includeCharacter=true\": <no response> fetch failed (Connect Timeout Error (attempted address: indexer.crossbell.io:443, timeout: 10000ms))\n",
       "id": "54887751043994624",
       "image": null,

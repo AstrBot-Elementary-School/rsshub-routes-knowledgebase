@@ -1,4 +1,4 @@
-# 字节点击 - Unknown
+# 字节点击 - 首页
 
 ## Coverage
 `index-only`
@@ -7,8 +7,8 @@
 - Namespace: `byteclicks`
 - Namespace Name: `字节点击`
 - Route Path: `/byteclicks/`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `首页`
+- Example: `/byteclicks`
 - URL: `byteclicks.com/`
 - Language: `_None_`
 - Categories: `new-media`
@@ -30,7 +30,6 @@ _None_
 ### Rule 1
 - `source`:
   - `byteclicks.com/`
-- `target`: ``
 
 ## Raw JSON
 ```json
@@ -38,19 +37,19 @@ _None_
   "categories": [
     "new-media"
   ],
+  "example": "/byteclicks",
   "heat": 0,
   "location": "index.ts",
   "maintainers": [
     "TonyRL"
   ],
-  "name": "Unknown",
+  "name": "首页",
   "path": "/",
   "radar": [
     {
       "source": [
         "byteclicks.com/"
-      ],
-      "target": ""
+      ]
     }
   ],
   "topFeeds": [],

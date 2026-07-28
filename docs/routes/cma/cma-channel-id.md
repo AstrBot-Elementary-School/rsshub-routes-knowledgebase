@@ -51,7 +51,7 @@
 ## Features
 - `requireConfig`: false
 - `requirePuppeteer`: false
-- `antiCrawler`: false
+- `antiCrawler`: true
 - `supportBT`: false
 - `supportPodcast`: false
 - `supportScihub`: false
@@ -68,7 +68,7 @@ _None_
   "description": "#### 天气实况\n\n| 频道名称 | 频道 id                          |\n| -------- | -------------------------------- |\n| 卫星云图 | d3236549863e453aab0ccc4027105bad |\n| 单站雷达 | 103                              |\n| 降水量   | 18                               |\n| 气温     | 32                               |\n| 土壤水分 | 45                               |\n\n#### 气象公报\n\n| 频道名称       | 频道 id                          |\n| -------------- | -------------------------------- |\n| 每日天气提示   | 380                              |\n| 重要天气提示   | da5d55817ad5430fb9796a0780178533 |\n| 天气公报       | 3780                             |\n| 强对流天气预报 | 383                              |\n| 交通气象预报   | 423                              |\n| 森林火险预报   | 424                              |\n| 海洋天气公报   | 452                              |\n| 环境气象公报   | 467                              |\n\n::: tip\n订阅更多细分频道，请前往对应上级频道页，使用下拉菜单选择项目后跳转到目标频道页，查看其 URL 找到对应频道 id\n:::",
   "example": "/cma/channel/380",
   "features": {
-    "antiCrawler": false,
+    "antiCrawler": true,
     "requireConfig": false,
     "requirePuppeteer": false,
     "supportBT": false,
@@ -90,14 +90,14 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "中国气象局·天气预报 - 气象公报 > 每日天气提示 - Powered by RSSHub",
+      "description": "中国气象局·天气预报 - - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "57657957614035968",
-      "image": "https://weather.cma.cn/assets/cmalogo.png",
+      "image": "https://weather.cma.cn/undefined",
       "ownerUserId": null,
       "siteUrl": "https://weather.cma.cn/web/channel-380.html",
-      "title": "中国气象局·天气预报 - 气象公报 > 每日天气提示",
+      "title": "中国气象局·天气预报 -",
       "type": "feed",
       "url": "rsshub://cma/channel/380"
     },

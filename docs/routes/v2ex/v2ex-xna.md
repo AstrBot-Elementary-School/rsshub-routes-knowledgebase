@@ -50,7 +50,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 180,
+  "heat": 179,
   "location": "xna.ts",
   "maintainers": [
     "luckyscript"

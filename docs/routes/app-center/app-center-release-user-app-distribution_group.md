@@ -97,7 +97,7 @@ The parameters can be extracted from the Release page URL: `https://install.appc
     {
       "description": "Fluent Search (Alpha) (Exe) for Windows by Adir Hudayfi - App Center Releases - Powered by RSSHub",
       "errorAt": "2025-08-12T08:26:04.771Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "[GET] \"https://install.appcenter.ms/api/v0.1/apps/adirh3-gmail.com/fluent-search-alpha/distribution_groups/exe/releases/1196?is_install_page=true\": 410 Gone\n",
       "id": "68581349461664768",
       "image": "https://coreservicesstorgeprod.blob.core.windows.net/app-avatar-container/e258e325-a757-40c3-9a33-4bac28ddbe42?sv=2024-11-04&spr=https&st=2025-02-11T10%3A01%3A43Z&se=2025-02-18T10%3A06%3A43Z&skoid=05571020-ed2f-4af9-8176-0df11ddebe41&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2025-02-11T10%3A01%3A43Z&ske=2025-02-18T10%3A06%3A43Z&sks=b&skv=2024-11-04&sr=b&sp=r&sig=ckJfAuRk4ojBU22HZQSgIkYeL3%2FUTy9pq%2FOa%2BOeeXyQ%3D",
       "ownerUserId": null,
