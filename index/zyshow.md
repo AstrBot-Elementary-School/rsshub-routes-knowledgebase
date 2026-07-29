@@ -10,10 +10,10 @@
 
 ## Routes
 
-### Unknown
-- Route ID: `zyshow:/zyshow*`
-- Route Path: `/zyshow*`
-- File: `docs/routes/zyshow/zyshow.md`
-- File Name: `zyshow.md`
-- Categories: `other`
-- Maintainers: `None`
+### 综艺
+- Route ID: `zyshow:/zyshow/:path{.+}?`
+- Route Path: `/zyshow/:path{.+}?`
+- File: `docs/routes/zyshow/zyshow-path.md`
+- File Name: `zyshow-path.md`
+- Categories: `multimedia`
+- Maintainers: `pharaoh2012, nczitzk`

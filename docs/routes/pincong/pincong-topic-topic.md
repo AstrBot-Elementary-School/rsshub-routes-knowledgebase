@@ -1,4 +1,4 @@
-# 品葱 - Unknown
+# 品葱 - 话题
 
 ## Coverage
 `index-only`
@@ -7,8 +7,8 @@
 - Namespace: `pincong`
 - Namespace Name: `品葱`
 - Route Path: `/pincong/topic/:topic`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `话题`
+- Example: `/pincong/topic/美国`
 - URL: `pincong.rocks`
 - Language: `_None_`
 - Categories: `bbs`
@@ -20,11 +20,16 @@
 _None_
 
 ## Parameters
-_None_
+- `topic`: 话题，可在官网获取
 
 
 ## Features
-_None_
+- `requireConfig`: false
+- `requirePuppeteer`: true
+- `antiCrawler`: true
+- `supportBT`: false
+- `supportPodcast`: false
+- `supportScihub`: false
 
 ## Radar
 ### Rule 1
@@ -37,12 +42,24 @@ _None_
   "categories": [
     "bbs"
   ],
+  "example": "/pincong/topic/美国",
+  "features": {
+    "antiCrawler": true,
+    "requireConfig": false,
+    "requirePuppeteer": true,
+    "supportBT": false,
+    "supportPodcast": false,
+    "supportScihub": false
+  },
   "heat": 1,
   "location": "topic.ts",
   "maintainers": [
     "zphw"
   ],
-  "name": "Unknown",
+  "name": "话题",
+  "parameters": {
+    "topic": "话题，可在官网获取"
+  },
   "path": "/topic/:topic",
   "radar": [
     {

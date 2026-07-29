@@ -10,10 +10,10 @@
 
 ## Routes
 
-### Unknown
+### 首页
 - Route ID: `shuiguopai:/shuiguopai/`
 - Route Path: `/shuiguopai/`
 - File: `docs/routes/shuiguopai/shuiguopai.md`
 - File Name: `shuiguopai.md`
-- Categories: `other`
+- Categories: `new-media`
 - Maintainers: `nczitzk`

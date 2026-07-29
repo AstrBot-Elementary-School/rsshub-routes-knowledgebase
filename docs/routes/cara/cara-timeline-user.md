@@ -76,16 +76,16 @@ _None_
       "url": "rsshub://cara/timeline/alonelee127"
     },
     {
-      "description": "Timeline - Poltorykhina Anna - Powered by RSSHub",
-      "errorAt": "2025-11-26T14:15:25.443Z",
+      "description": "Timeline - NIKA LYNAS - Powered by RSSHub",
+      "errorAt": "2025-11-21T13:47:28.301Z",
       "errorMessage": "[GET] \"https://cara.app/explore\": 403 Forbidden\n",
-      "id": "127388130140915712",
-      "image": "https://cdn.cara.app/production/profiles/b17122f7-1148-4a05-a9e4-8be52eb9b189/n5dm6Wqudi8-copy.jpg",
+      "id": "127384810660678656",
+      "image": "https://cdn.cara.app/production/profiles/f771718b-26f2-4d08-bda8-ddfbdac6a995/sf.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://cara.app/polanya/all",
-      "title": "Timeline - Poltorykhina Anna",
+      "siteUrl": "https://cara.app/cyberpunkova/all",
+      "title": "Timeline - NIKA LYNAS",
       "type": "feed",
-      "url": "rsshub://cara/timeline/polanya"
+      "url": "rsshub://cara/timeline/cyberpunkova"
     }
   ]
 }

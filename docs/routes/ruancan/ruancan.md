@@ -1,4 +1,4 @@
-# 软餐 - Unknown
+# 软餐 - 首页
 
 ## Coverage
 `index-only`
@@ -7,12 +7,12 @@
 - Namespace: `ruancan`
 - Namespace Name: `软餐`
 - Route Path: `/ruancan/`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `首页`
+- Example: `/ruancan`
 - URL: `ruancan.com/`
 - Language: `_None_`
 - Categories: `new-media`
-- Maintainers: `None`
+- Maintainers: `nczitzk`
 - Source Location: `index.ts`
 - Source Module: `_None_`
 
@@ -38,10 +38,13 @@ _None_
   "categories": [
     "new-media"
   ],
+  "example": "/ruancan",
   "heat": 0,
   "location": "index.ts",
-  "maintainers": [],
-  "name": "Unknown",
+  "maintainers": [
+    "nczitzk"
+  ],
+  "name": "首页",
   "path": "/",
   "radar": [
     {

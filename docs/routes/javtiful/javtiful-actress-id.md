@@ -44,7 +44,7 @@ _None_
   "features": {
     "nsfw": true
   },
-  "heat": 12431,
+  "heat": 12430,
   "location": "actress.ts",
   "maintainers": [
     "huanfe1"

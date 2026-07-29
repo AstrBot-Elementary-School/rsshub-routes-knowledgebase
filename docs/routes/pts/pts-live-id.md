@@ -12,7 +12,7 @@
 - URL: `news.pts.org.tw`
 - Language: `_None_`
 - Categories: `traditional-media`
-- Maintainers: `None`
+- Maintainers: `nczitzk`
 - Source Location: `live.ts`
 - Source Module: `_None_`
 
@@ -54,7 +54,9 @@ _None_
   },
   "heat": 0,
   "location": "live.ts",
-  "maintainers": [],
+  "maintainers": [
+    "nczitzk"
+  ],
   "name": "整理報導",
   "parameters": {
     "id": "報導 id，可在对应整理報導页 URL 中找到"

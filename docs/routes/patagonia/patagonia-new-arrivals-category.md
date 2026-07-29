@@ -12,7 +12,7 @@
 - URL: `patagonia.com`
 - Language: `_None_`
 - Categories: `shopping`
-- Maintainers: `None`
+- Maintainers: `IvanWng97`
 - Source Location: `new-arrivals.tsx`
 - Source Module: `_None_`
 
@@ -54,7 +54,9 @@ _None_
   },
   "heat": 7,
   "location": "new-arrivals.tsx",
-  "maintainers": [],
+  "maintainers": [
+    "IvanWng97"
+  ],
   "name": "New Arrivals",
   "parameters": {
     "category": "category, see below"

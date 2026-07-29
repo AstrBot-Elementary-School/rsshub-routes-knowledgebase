@@ -78,8 +78,8 @@ _None_
   "topFeeds": [
     {
       "description": "CosplayTele - Top views in 30 days - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-28T03:46:36.766Z",
+      "errorMessage": "[POST] \"https://cosplaytele.com/wp-json/wordpress-popular-posts/v2/widget\": 500 Internal Server Error\n[POST] \"https://cosplaytele.com/wp-json/wordpress-popular-posts/v2/widget\": 500 Internal Server Error\n[POST] \"https://cosplaytele.com/wp-json/wordpress-popular-posts/v2/widget\": 500 Internal Server Error\n502 \n[POST] \"https://cosplaytele.com/wp-json/wordpress-popular-posts/v2/widget\": 500 Internal Server Error\n",
       "id": "107079632432448512",
       "image": null,
       "ownerUserId": null,
@@ -90,8 +90,8 @@ _None_
     },
     {
       "description": "CosplayTele - Top views in 3 days - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-28T04:28:54.001Z",
+      "errorMessage": "[POST] \"https://cosplaytele.com/wp-json/wordpress-popular-posts/v2/widget\": 500 Internal Server Error\n[POST] \"https://cosplaytele.com/wp-json/wordpress-popular-posts/v2/widget\": 500 Internal Server Error\n[POST] \"https://cosplaytele.com/wp-json/wordpress-popular-posts/v2/widget\": 500 Internal Server Error\n",
       "id": "108033837965102080",
       "image": null,
       "ownerUserId": null,

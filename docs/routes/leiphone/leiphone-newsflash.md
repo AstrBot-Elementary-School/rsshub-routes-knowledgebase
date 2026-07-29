@@ -12,7 +12,7 @@
 - URL: `leiphone.com/`
 - Language: `_None_`
 - Categories: `new-media`
-- Maintainers: `None`
+- Maintainers: `vlcheng`
 - Source Location: `newsflash.ts`
 - Source Module: `_None_`
 
@@ -35,6 +35,7 @@ _None_
 ### Rule 1
 - `source`:
   - `leiphone.com/`
+- `target`: `/newsflash`
 
 ## Raw JSON
 ```json
@@ -53,7 +54,9 @@ _None_
   },
   "heat": 23,
   "location": "newsflash.ts",
-  "maintainers": [],
+  "maintainers": [
+    "vlcheng"
+  ],
   "name": "业界资讯",
   "parameters": {},
   "path": "/newsflash",
@@ -61,7 +64,8 @@ _None_
     {
       "source": [
         "leiphone.com/"
-      ]
+      ],
+      "target": "/newsflash"
     }
   ],
   "test": {

@@ -12,7 +12,7 @@
 - URL: `xky.hunau.edu.cn/`
 - Language: `_None_`
 - Categories: `university`
-- Maintainers: `None`
+- Maintainers: `lcandy2`
 - Source Location: `gfxy/index.ts`
 - Source Module: `_None_`
 
@@ -60,7 +60,9 @@
   },
   "heat": 0,
   "location": "gfxy/index.ts",
-  "maintainers": [],
+  "maintainers": [
+    "lcandy2"
+  ],
   "name": "公共管理与法学学院",
   "parameters": {
     "category": "页面分类，默认为 `tzgg`",

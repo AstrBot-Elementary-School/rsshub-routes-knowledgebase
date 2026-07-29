@@ -1,4 +1,4 @@
-# QooApp - Unknown
+# QooApp - Hot Hashtags
 
 ## Coverage
 `index-only`
@@ -7,8 +7,8 @@
 - Namespace: `qoo-app`
 - Namespace Name: `QooApp`
 - Route Path: `/qoo-app/notes/:lang?/topic/:topic`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `Hot Hashtags`
+- Example: `/qoo-app/notes/en/topic/QooAppGacha`
 - URL: `apps.qoo-app.com`
 - Language: `_None_`
 - Categories: `anime`
@@ -20,11 +20,17 @@
 _None_
 
 ## Parameters
-_None_
+- `lang`: Language, see the table above, empty means `中文`
+- `topic`: Hashtag name without `#`
 
 
 ## Features
-_None_
+- `requireConfig`: false
+- `requirePuppeteer`: false
+- `antiCrawler`: false
+- `supportBT`: false
+- `supportPodcast`: false
+- `supportScihub`: false
 
 ## Radar
 _None_
@@ -35,12 +41,25 @@ _None_
   "categories": [
     "anime"
   ],
+  "example": "/qoo-app/notes/en/topic/QooAppGacha",
+  "features": {
+    "antiCrawler": false,
+    "requireConfig": false,
+    "requirePuppeteer": false,
+    "supportBT": false,
+    "supportPodcast": false,
+    "supportScihub": false
+  },
   "heat": 0,
   "location": "notes/topic.ts",
   "maintainers": [
     "TonyRL"
   ],
-  "name": "Unknown",
+  "name": "Hot Hashtags",
+  "parameters": {
+    "lang": "Language, see the table above, empty means `中文`",
+    "topic": "Hashtag name without `#`"
+  },
   "path": "/notes/:lang?/topic/:topic",
   "topFeeds": []
 }

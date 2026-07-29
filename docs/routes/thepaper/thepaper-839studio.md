@@ -8,10 +8,10 @@
 - Namespace Name: `澎湃新闻`
 - Route Path: `/thepaper/839studio`
 - Route Name: `澎湃美数课作品集`
-- Example: `_None_`
+- Example: `/thepaper/839studio`
 - URL: `thepaper.cn`
 - Language: `_None_`
-- Categories: `new-media`
+- Categories: `traditional-media`
 - Maintainers: `umm233`
 - Source Location: `839studio/studio.ts`
 - Source Module: `_None_`
@@ -33,8 +33,9 @@ _None_
 ```json
 {
   "categories": [
-    "new-media"
+    "traditional-media"
   ],
+  "example": "/thepaper/839studio",
   "heat": 0,
   "location": "839studio/studio.ts",
   "maintainers": [

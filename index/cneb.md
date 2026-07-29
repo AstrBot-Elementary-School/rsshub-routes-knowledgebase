@@ -18,10 +18,10 @@
 - Categories: `forecast`
 - Maintainers: `nczitzk`
 
-### Unknown
-- Route ID: `cneb:/cneb/yjxx/*`
-- Route Path: `/cneb/yjxx/*`
-- File: `docs/routes/cneb/cneb-yjxx.md`
-- File Name: `cneb-yjxx.md`
+### 预警信息
+- Route ID: `cneb:/cneb/yjxx/:level?/:province?/:city?`
+- Route Path: `/cneb/yjxx/:level?/:province?/:city?`
+- File: `docs/routes/cneb/cneb-yjxx-level-province-city.md`
+- File Name: `cneb-yjxx-level-province-city.md`
 - Categories: `forecast`
-- Maintainers: `None`
+- Maintainers: `muzea, nczitzk`

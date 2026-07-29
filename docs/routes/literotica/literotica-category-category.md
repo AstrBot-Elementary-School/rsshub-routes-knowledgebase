@@ -1,4 +1,4 @@
-# Literotica - Unknown
+# Literotica - Category
 
 ## Coverage
 `index-only`
@@ -7,8 +7,8 @@
 - Namespace: `literotica`
 - Namespace Name: `Literotica`
 - Route Path: `/literotica/category/:category`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `Category`
+- Example: `/literotica/category/anal-sex-stories`
 - URL: `literotica.com`
 - Language: `_None_`
 - Categories: `reading`
@@ -20,7 +20,7 @@
 _None_
 
 ## Parameters
-_None_
+- `category`: Category, can be found in URL
 
 
 ## Features
@@ -38,6 +38,7 @@ _None_
   "categories": [
     "reading"
   ],
+  "example": "/literotica/category/anal-sex-stories",
   "features": {
     "nsfw": true
   },
@@ -46,7 +47,10 @@ _None_
   "maintainers": [
     "nczitzk"
   ],
-  "name": "Unknown",
+  "name": "Category",
+  "parameters": {
+    "category": "Category, can be found in URL"
+  },
   "path": "/category/:category",
   "radar": [
     {

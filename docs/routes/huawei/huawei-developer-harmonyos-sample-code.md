@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 70,
+  "heat": 71,
   "location": "developer/harmonyos/samplecode.ts",
   "maintainers": [
     "JiZhi-Error"

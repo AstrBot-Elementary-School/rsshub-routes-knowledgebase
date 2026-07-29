@@ -16,4 +16,4 @@
 - File: `docs/routes/zhuwang/zhuwang-zhujia.md`
 - File Name: `zhuwang-zhujia.md`
 - Categories: `shopping`
-- Maintainers: `None`
+- Maintainers: `importcjj`

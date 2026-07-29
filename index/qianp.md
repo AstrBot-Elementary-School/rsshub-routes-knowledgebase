@@ -10,10 +10,10 @@
 
 ## Routes
 
-### Unknown
+### 知识库／资讯
 - Route ID: `qianp:/qianp/news/:path{.+}?`
 - Route Path: `/qianp/news/:path{.+}?`
 - File: `docs/routes/qianp/qianp-news-path.md`
 - File Name: `qianp-news-path.md`
-- Categories: `other`
-- Maintainers: `None`
+- Categories: `new-media`
+- Maintainers: `TonyRL`

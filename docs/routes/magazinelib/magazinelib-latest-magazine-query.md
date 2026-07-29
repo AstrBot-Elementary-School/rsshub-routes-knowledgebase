@@ -12,7 +12,7 @@
 - URL: `magazinelib.com`
 - Language: `_None_`
 - Categories: `reading`
-- Maintainers: `EthanWng97`
+- Maintainers: `IvanWng97`
 - Source Location: `latest-magazine.tsx`
 - Source Module: `_None_`
 
@@ -53,7 +53,7 @@ _None_
   "heat": 1,
   "location": "latest-magazine.tsx",
   "maintainers": [
-    "EthanWng97"
+    "IvanWng97"
   ],
   "name": "Latest Magazine",
   "parameters": {

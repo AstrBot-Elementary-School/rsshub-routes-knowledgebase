@@ -1,4 +1,4 @@
-# 龙空 - Unknown
+# 龙空 - 帖子
 
 ## Coverage
 `index-only`
@@ -7,11 +7,11 @@
 - Namespace: `lkong`
 - Namespace Name: `龙空`
 - Route Path: `/lkong/thread/:id`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `帖子`
+- Example: `/lkong/thread/3100275`
 - URL: `lkong.com`
 - Language: `_None_`
-- Categories: `other`
+- Categories: `bbs`
 - Maintainers: `nczitzk, ma6254`
 - Source Location: `thread.tsx`
 - Source Module: `_None_`
@@ -20,7 +20,7 @@
 _None_
 
 ## Parameters
-_None_
+- `id`: 帖子 id, 可在帖子的URL里找到
 
 
 ## Features
@@ -36,15 +36,19 @@ _None_
 ```json
 {
   "categories": [
-    "other"
+    "bbs"
   ],
+  "example": "/lkong/thread/3100275",
   "heat": 0,
   "location": "thread.tsx",
   "maintainers": [
     "nczitzk",
     "ma6254"
   ],
-  "name": "Unknown",
+  "name": "帖子",
+  "parameters": {
+    "id": "帖子 id, 可在帖子的URL里找到"
+  },
   "path": "/thread/:id",
   "radar": [
     {

@@ -12,7 +12,7 @@
 - URL: `nature.com`
 - Language: `_None_`
 - Categories: `journal`
-- Maintainers: `None`
+- Maintainers: `y9c, TonyRL`
 - Source Location: `highlight.ts`
 - Source Module: `_None_`
 
@@ -57,9 +57,12 @@ Only some journals are supported.
     "supportPodcast": false,
     "supportScihub": true
   },
-  "heat": 508,
+  "heat": 509,
   "location": "highlight.ts",
-  "maintainers": [],
+  "maintainers": [
+    "y9c",
+    "TonyRL"
+  ],
   "name": "Research Highlight",
   "parameters": {
     "journal": "short name for a journal, `nature` by default"

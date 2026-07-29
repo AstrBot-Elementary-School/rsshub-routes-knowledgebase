@@ -42,7 +42,7 @@
 - Categories: `new-media`
 - Maintainers: `Jeason0228`
 
-### Unknown
+### 风闻话题
 - Route ID: `guancha:/guancha/topic/:id/:order?`
 - Route Path: `/guancha/topic/:id/:order?`
 - File: `docs/routes/guancha/guancha-topic-id-order.md`

@@ -78,7 +78,7 @@ _None_
     {
       "description": "BaoBua - Category: xiuren - Powered by RSSHub",
       "errorAt": "2025-09-16T08:27:34.576Z",
-      "errorMessage": "Failed to fetch\nUnexpected end of JSON input\nUnexpected end of JSON input\n",
+      "errorMessage": "Unexpected end of JSON input\nUnexpected end of JSON input\nUnexpected end of JSON input\n",
       "id": "146189302661421056",
       "image": null,
       "ownerUserId": null,

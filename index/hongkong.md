@@ -10,7 +10,7 @@
 
 ## Routes
 
-### Unknown
+### Category
 - Route ID: `hongkong:/hongkong/chp/:category?/:language?`
 - Route Path: `/hongkong/chp/:category?/:language?`
 - File: `docs/routes/hongkong/hongkong-chp-category-language.md`

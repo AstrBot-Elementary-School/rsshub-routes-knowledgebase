@@ -1,4 +1,4 @@
-# 人人都是自媒体 - Unknown
+# 人人都是自媒体 - 发现
 
 ## Coverage
 `index-only`
@@ -7,11 +7,11 @@
 - Namespace: `iiilab`
 - Namespace Name: `人人都是自媒体`
 - Route Path: `/iiilab/`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `发现`
+- Example: `/iiilab`
 - URL: `www.iiilab.com/`
 - Language: `_None_`
-- Categories: `other`
+- Categories: `new-media`
 - Maintainers: `Joey`
 - Source Location: `index.ts`
 - Source Module: `_None_`
@@ -36,14 +36,15 @@ _None_
 ```json
 {
   "categories": [
-    "other"
+    "new-media"
   ],
+  "example": "/iiilab",
   "heat": 0,
   "location": "index.ts",
   "maintainers": [
     "Joey"
   ],
-  "name": "Unknown",
+  "name": "发现",
   "path": "/",
   "radar": [
     {

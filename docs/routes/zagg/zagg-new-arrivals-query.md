@@ -12,7 +12,7 @@
 - URL: `zagg.com`
 - Language: `_None_`
 - Categories: `shopping`
-- Maintainers: `EthanWng97`
+- Maintainers: `IvanWng97`
 - Source Location: `new-arrivals.tsx`
 - Source Module: `_None_`
 
@@ -53,7 +53,7 @@ _None_
   "heat": 0,
   "location": "new-arrivals.tsx",
   "maintainers": [
-    "EthanWng97"
+    "IvanWng97"
   ],
   "name": "New Arrivals",
   "parameters": {

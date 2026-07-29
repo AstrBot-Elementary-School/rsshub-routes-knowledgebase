@@ -26,10 +26,10 @@
 - Categories: `other`
 - Maintainers: `TonyRL`
 
-### Unknown
+### New Release
 - Route ID: `firefox:/firefox/release/:platform?`
 - Route Path: `/firefox/release/:platform?`
 - File: `docs/routes/firefox/firefox-release-platform.md`
 - File Name: `firefox-release-platform.md`
 - Categories: `program-update`
-- Maintainers: `None`
+- Maintainers: `fengkx`

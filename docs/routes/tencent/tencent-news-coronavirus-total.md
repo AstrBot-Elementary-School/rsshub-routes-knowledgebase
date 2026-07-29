@@ -1,4 +1,4 @@
-# 腾讯 - Unknown
+# 腾讯 - 新型冠状病毒肺炎疫情实时追踪 - 中国本土数据统计
 
 ## Coverage
 `index-only`
@@ -7,11 +7,11 @@
 - Namespace: `tencent`
 - Namespace Name: `腾讯`
 - Route Path: `/tencent/news/coronavirus/total`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `新型冠状病毒肺炎疫情实时追踪 - 中国本土数据统计`
+- Example: `/tencent/news/coronavirus/total`
 - URL: `new.qq.com/zt2020/page/feiyan.htm`
 - Language: `_None_`
-- Categories: `programming`
+- Categories: `other`
 - Maintainers: `CaoMeiYouRen`
 - Source Location: `news/coronavirus/total.tsx`
 - Source Module: `_None_`
@@ -35,14 +35,15 @@ _None_
 ```json
 {
   "categories": [
-    "programming"
+    "other"
   ],
+  "example": "/tencent/news/coronavirus/total",
   "heat": 0,
   "location": "news/coronavirus/total.tsx",
   "maintainers": [
     "CaoMeiYouRen"
   ],
-  "name": "Unknown",
+  "name": "新型冠状病毒肺炎疫情实时追踪 - 中国本土数据统计",
   "path": "/news/coronavirus/total",
   "radar": [
     {

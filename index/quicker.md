@@ -26,18 +26,18 @@
 - Categories: `programming`
 - Maintainers: `nczitzk`
 
-### Unknown
-- Route ID: `quicker:/quicker/update`
-- Route Path: `/quicker/update`
-- File: `docs/routes/quicker/quicker-update.md`
-- File Name: `quicker-update.md`
-- Categories: `programming`
-- Maintainers: `Cesaryuan, nczitzk`
-
 ### 用户更新
 - Route ID: `quicker:/quicker/user/:category/:id`
 - Route Path: `/quicker/user/:category/:id`
 - File: `docs/routes/quicker/quicker-user-category-id.md`
 - File Name: `quicker-user-category-id.md`
 - Categories: `programming`
+- Maintainers: `Cesaryuan, nczitzk`
+
+### 版本更新
+- Route ID: `quicker:/quicker/versions`
+- Route Path: `/quicker/versions`
+- File: `docs/routes/quicker/quicker-versions.md`
+- File Name: `quicker-versions.md`
+- Categories: `program-update`
 - Maintainers: `Cesaryuan, nczitzk`

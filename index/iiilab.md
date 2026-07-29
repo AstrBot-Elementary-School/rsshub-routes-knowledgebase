@@ -10,10 +10,10 @@
 
 ## Routes
 
-### Unknown
+### 发现
 - Route ID: `iiilab:/iiilab/`
 - Route Path: `/iiilab/`
 - File: `docs/routes/iiilab/iiilab.md`
 - File Name: `iiilab.md`
-- Categories: `other`
+- Categories: `new-media`
 - Maintainers: `Joey`

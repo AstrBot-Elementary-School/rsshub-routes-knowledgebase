@@ -15,7 +15,7 @@
 - Route Path: `/abskoop/`
 - File: `docs/routes/abskoop/abskoop.md`
 - File Name: `abskoop.md`
-- Categories: `other`
+- Categories: `multimedia`
 - Maintainers: `zhenhappy`
 
 ### 存档列表 - NSFW
@@ -23,5 +23,5 @@
 - Route Path: `/abskoop/nsfw`
 - File: `docs/routes/abskoop/abskoop-nsfw.md`
 - File Name: `abskoop-nsfw.md`
-- Categories: `other`
+- Categories: `multimedia`
 - Maintainers: `zhenhappy`

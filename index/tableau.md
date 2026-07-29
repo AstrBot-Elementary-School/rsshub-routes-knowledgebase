@@ -16,4 +16,4 @@
 - File: `docs/routes/tableau/tableau-viz-of-the-day.md`
 - File Name: `tableau-viz-of-the-day.md`
 - Categories: `study`
-- Maintainers: `None`
+- Maintainers: `KaiyoungYu`

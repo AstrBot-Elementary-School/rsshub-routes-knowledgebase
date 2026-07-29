@@ -12,7 +12,7 @@
 - URL: `people.com.cn/`
 - Language: `_None_`
 - Categories: `traditional-media`
-- Maintainers: `None`
+- Maintainers: `LogicJake`
 - Source Location: `xjpjh.ts`
 - Source Module: `_None_`
 
@@ -55,7 +55,9 @@ _None_
   },
   "heat": 17,
   "location": "xjpjh.ts",
-  "maintainers": [],
+  "maintainers": [
+    "LogicJake"
+  ],
   "name": "习近平系列重要讲话",
   "parameters": {
     "keyword": "关键词，默认不填",

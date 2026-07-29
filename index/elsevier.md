@@ -10,18 +10,18 @@
 
 ## Routes
 
-### Unknown
-- Route ID: `elsevier:/elsevier/:journal/latest`
-- Route Path: `/elsevier/:journal/latest`
-- File: `docs/routes/elsevier/elsevier-journal-latest.md`
-- File Name: `elsevier-journal-latest.md`
-- Categories: `other`
-- Maintainers: `None`
+### Journal
+- Route ID: `elsevier:/elsevier/:journal`
+- Route Path: `/elsevier/:journal`
+- File: `docs/routes/elsevier/elsevier-journal.md`
+- File Name: `elsevier-journal.md`
+- Categories: `journal`
+- Maintainers: `Derekmini, sunwolf-swb`
 
-### Unknown
-- Route ID: `elsevier:/elsevier/:journal/vol/:issue`
-- Route Path: `/elsevier/:journal/vol/:issue`
-- File: `docs/routes/elsevier/elsevier-journal-vol-issue.md`
-- File Name: `elsevier-journal-vol-issue.md`
-- Categories: `other`
-- Maintainers: `None`
+### Special Issue
+- Route ID: `elsevier:/elsevier/:journal/:issue`
+- Route Path: `/elsevier/:journal/:issue`
+- File: `docs/routes/elsevier/elsevier-journal-issue.md`
+- File Name: `elsevier-journal-issue.md`
+- Categories: `journal`
+- Maintainers: `Derekmini, sunwolf-swb`

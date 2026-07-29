@@ -18,13 +18,13 @@
 - Categories: `university`
 - Maintainers: `nczitzk`
 
-### Unknown
+### 遗传与发育生物学研究所
 - Route ID: `cas:/cas/genetics/:path{.+}`
 - Route Path: `/cas/genetics/:path{.+}`
 - File: `docs/routes/cas/cas-genetics-path.md`
 - File Name: `cas-genetics-path.md`
 - Categories: `university`
-- Maintainers: `None`
+- Maintainers: `panyq357`
 
 ### 自动化所
 - Route ID: `cas:/cas/ia/yjs`
@@ -42,13 +42,13 @@
 - Categories: `university`
 - Maintainers: `nczitzk`
 
-### Unknown
+### 软件研究所
 - Route ID: `cas:/cas/is/:path{.+}`
 - Route Path: `/cas/is/:path{.+}`
 - File: `docs/routes/cas/cas-is-path.md`
 - File Name: `cas-is-path.md`
 - Categories: `university`
-- Maintainers: `None`
+- Maintainers: `Misaka13514`
 
 ### 信息工程研究所 第二研究室 处理架构组 知识库
 - Route ID: `cas:/cas/mesalab/kb`

@@ -16,4 +16,4 @@
 - File: `docs/routes/dayanzai/dayanzai-category-fulltext.md`
 - File Name: `dayanzai-category-fulltext.md`
 - Categories: `blog`
-- Maintainers: `None`
+- Maintainers: `gl0zzy`

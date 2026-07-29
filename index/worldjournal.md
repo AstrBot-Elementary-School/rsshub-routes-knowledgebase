@@ -10,10 +10,10 @@
 
 ## Routes
 
-### Unknown
+### 新聞
 - Route ID: `worldjournal:/worldjournal/:path{.+}?`
 - Route Path: `/worldjournal/:path{.+}?`
 - File: `docs/routes/worldjournal/worldjournal-path.md`
 - File Name: `worldjournal-path.md`
-- Categories: `other`
-- Maintainers: `None`
+- Categories: `new-media`
+- Maintainers: `TonyRL`

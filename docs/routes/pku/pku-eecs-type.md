@@ -46,6 +46,9 @@ _None_
   ],
   "name": "信科公告通知",
   "path": "/eecs/:type?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

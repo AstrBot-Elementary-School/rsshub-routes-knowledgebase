@@ -1,4 +1,4 @@
-# KeePass - Unknown
+# KeePass - News
 
 ## Coverage
 `index-only`
@@ -7,11 +7,11 @@
 - Namespace: `keepass`
 - Namespace Name: `KeePass`
 - Route Path: `/keepass/`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `News`
+- Example: `/keepass`
 - URL: `keepass.info`
 - Language: `_None_`
-- Categories: `other`
+- Categories: `program-update`
 - Maintainers: `TonyRL`
 - Source Location: `news.ts`
 - Source Module: `_None_`
@@ -33,14 +33,15 @@ _None_
 ```json
 {
   "categories": [
-    "other"
+    "program-update"
   ],
+  "example": "/keepass",
   "heat": 0,
   "location": "news.ts",
   "maintainers": [
     "TonyRL"
   ],
-  "name": "Unknown",
+  "name": "News",
   "path": "/",
   "topFeeds": []
 }

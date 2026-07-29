@@ -1,4 +1,4 @@
-# Amazon - Unknown
+# Amazon - AWS Blogs
 
 ## Coverage
 `index-only`
@@ -7,20 +7,22 @@
 - Namespace: `amazon`
 - Namespace Name: `Amazon`
 - Route Path: `/amazon/awsblogs/:locale?`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `AWS Blogs`
+- Example: `/amazon/awsblogs`
 - URL: `amazon.com`
 - Language: `_None_`
-- Categories: `program-update`
+- Categories: `blog`
 - Maintainers: `HankChow`
 - Source Location: `awsblogs.ts`
 - Source Module: `_None_`
 
 ## Description
-_None_
+| zh\_CN  | en\_US  | fr\_FR | de\_DE | ja\_JP   | ko\_KR | pt\_BR     | es\_ES  | ru\_RU  | id\_ID     | tr\_TR  |
+| ------- | ------- | ------ | ------ | -------- | ------ | ---------- | ------- | ------- | ---------- | ------- |
+| Chinese | English | French | German | Japanese | Korean | Portuguese | Spanish | Russian | Indonesian | Turkish |
 
 ## Parameters
-_None_
+- `locale`: Blog posts in a specified language, only the following options are supported. Default `zh_CN`
 
 
 ## Features
@@ -33,14 +35,19 @@ _None_
 ```json
 {
   "categories": [
-    "program-update"
+    "blog"
   ],
+  "description": "| zh\\_CN  | en\\_US  | fr\\_FR | de\\_DE | ja\\_JP   | ko\\_KR | pt\\_BR     | es\\_ES  | ru\\_RU  | id\\_ID     | tr\\_TR  |\n| ------- | ------- | ------ | ------ | -------- | ------ | ---------- | ------- | ------- | ---------- | ------- |\n| Chinese | English | French | German | Japanese | Korean | Portuguese | Spanish | Russian | Indonesian | Turkish |",
+  "example": "/amazon/awsblogs",
   "heat": 12,
   "location": "awsblogs.ts",
   "maintainers": [
     "HankChow"
   ],
-  "name": "Unknown",
+  "name": "AWS Blogs",
+  "parameters": {
+    "locale": "Blog posts in a specified language, only the following options are supported. Default `zh_CN`"
+  },
   "path": "/awsblogs/:locale?",
   "topFeeds": [
     {

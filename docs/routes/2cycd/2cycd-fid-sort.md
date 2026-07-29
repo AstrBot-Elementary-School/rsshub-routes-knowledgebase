@@ -1,4 +1,4 @@
-# 二次元虫洞 - Unknown
+# 二次元虫洞 - 板块
 
 ## Coverage
 `index-only`
@@ -7,20 +7,31 @@
 - Namespace: `2cycd`
 - Namespace Name: `二次元虫洞`
 - Route Path: `/2cycd/:fid/:sort?`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `板块`
+- Example: `/2cycd/43/dateline`
 - URL: `2cycd.com`
 - Language: `_None_`
-- Categories: `other`
+- Categories: `bbs`
 - Maintainers: `shelken`
 - Source Location: `index.ts`
 - Source Module: `_None_`
 
 ## Description
-_None_
+板块（更多板块请自行 [查看](http://www.2cycd.com)）
+
+| 音乐下载（默认） | 动漫下载 | 游戏下载 |
+| ---------------- | -------- | -------- |
+| 43               | 53       | 42       |
+
+排序
+
+| 发布时间排序（默认） | 回复／查看 | 查看  |
+| -------------------- | ---------- | ----- |
+| dateline             | replies    | views |
 
 ## Parameters
-_None_
+- `fid`: 板块
+- `sort`: 排序
 
 
 ## Features
@@ -33,14 +44,20 @@ _None_
 ```json
 {
   "categories": [
-    "other"
+    "bbs"
   ],
+  "description": "板块（更多板块请自行 [查看](http://www.2cycd.com)）\n\n| 音乐下载（默认） | 动漫下载 | 游戏下载 |\n| ---------------- | -------- | -------- |\n| 43               | 53       | 42       |\n\n排序\n\n| 发布时间排序（默认） | 回复／查看 | 查看  |\n| -------------------- | ---------- | ----- |\n| dateline             | replies    | views |",
+  "example": "/2cycd/43/dateline",
   "heat": 0,
   "location": "index.ts",
   "maintainers": [
     "shelken"
   ],
-  "name": "Unknown",
+  "name": "板块",
+  "parameters": {
+    "fid": "板块",
+    "sort": "排序"
+  },
   "path": "/:fid/:sort?",
   "topFeeds": []
 }

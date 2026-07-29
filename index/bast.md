@@ -10,10 +10,10 @@
 
 ## Routes
 
-### Unknown
-- Route ID: `bast:/bast*`
-- Route Path: `/bast*`
-- File: `docs/routes/bast/bast.md`
-- File Name: `bast.md`
-- Categories: `other`
-- Maintainers: `None`
+### 通用
+- Route ID: `bast:/bast/:path{.+}?`
+- Route Path: `/bast/:path{.+}?`
+- File: `docs/routes/bast/bast-path.md`
+- File Name: `bast-path.md`
+- Categories: `new-media`
+- Maintainers: `nczitzk`

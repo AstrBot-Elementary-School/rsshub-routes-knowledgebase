@@ -12,7 +12,7 @@
 - URL: `newyorker.com`
 - Language: `_None_`
 - Categories: `traditional-media, popular`
-- Maintainers: `EthanWng97, pseudoyu`
+- Maintainers: `IvanWng97, pseudoyu`
 - Source Location: `news.ts`
 - Source Module: `_None_`
 
@@ -55,7 +55,7 @@ _None_
   "heat": 1636,
   "location": "news.ts",
   "maintainers": [
-    "EthanWng97",
+    "IvanWng97",
     "pseudoyu"
   ],
   "name": "Articles",

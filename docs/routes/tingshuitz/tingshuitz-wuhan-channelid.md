@@ -1,4 +1,4 @@
-# 停水通知 - Unknown
+# 停水通知 - 武汉市
 
 ## Coverage
 `index-only`
@@ -7,20 +7,23 @@
 - Namespace: `tingshuitz`
 - Namespace Name: `停水通知`
 - Route Path: `/tingshuitz/wuhan/:channelId?`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `武汉市`
+- Example: `/tingshuitz/wuhan`
 - URL: `whwater.com/IWater.shtml`
 - Language: `_None_`
 - Categories: `forecast`
-- Maintainers: `None`
+- Maintainers: `MoonBegonia`
 - Source Location: `wuhan.ts`
 - Source Module: `_None_`
 
 ## Description
-_None_
+| channelId | 分类       |
+| --------- | ---------- |
+| 68        | 计划性停水 |
+| 69        | 突发性停水 |
 
 ## Parameters
-_None_
+- `channelId`: 分类，见下表，默认为 68
 
 
 ## Features
@@ -39,10 +42,17 @@ _None_
   "categories": [
     "forecast"
   ],
+  "description": "| channelId | 分类       |\n| --------- | ---------- |\n| 68        | 计划性停水 |\n| 69        | 突发性停水 |",
+  "example": "/tingshuitz/wuhan",
   "heat": 0,
   "location": "wuhan.ts",
-  "maintainers": [],
-  "name": "Unknown",
+  "maintainers": [
+    "MoonBegonia"
+  ],
+  "name": "武汉市",
+  "parameters": {
+    "channelId": "分类，见下表，默认为 68"
+  },
   "path": "/wuhan/:channelId?",
   "radar": [
     {

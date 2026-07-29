@@ -1,4 +1,4 @@
-# 9To5 - Unknown
+# 9To5 - Sub-site
 
 ## Coverage
 `index-only`
@@ -7,20 +7,25 @@
 - Namespace: `9to5`
 - Namespace Name: `9To5`
 - Route Path: `/9to5/:subsite/:tag?`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `Sub-site`
+- Example: `/9to5/mac/aapl`
 - URL: `9to5toys.com`
 - Language: `_None_`
-- Categories: `other`
-- Maintainers: `None`
+- Categories: `new-media`
+- Maintainers: `HenryQW`
 - Source Location: `subsite.ts`
 - Source Module: `_None_`
 
 ## Description
-_None_
+Supported sub-sites：
+
+| 9To5Mac | 9To5Google | 9To5Toys |
+| ------- | ---------- | -------- |
+| Mac     | Google     | Toys     |
 
 ## Parameters
-_None_
+- `subsite`: Subsite name
+- `tag`: Tag name inside the url of the tag page
 
 
 ## Features
@@ -33,12 +38,20 @@ _None_
 ```json
 {
   "categories": [
-    "other"
+    "new-media"
   ],
+  "description": "Supported sub-sites：\n\n| 9To5Mac | 9To5Google | 9To5Toys |\n| ------- | ---------- | -------- |\n| Mac     | Google     | Toys     |",
+  "example": "/9to5/mac/aapl",
   "heat": 31,
   "location": "subsite.ts",
-  "maintainers": [],
-  "name": "Unknown",
+  "maintainers": [
+    "HenryQW"
+  ],
+  "name": "Sub-site",
+  "parameters": {
+    "subsite": "Subsite name",
+    "tag": "Tag name inside the url of the tag page"
+  },
   "path": "/:subsite/:tag?",
   "topFeeds": [
     {

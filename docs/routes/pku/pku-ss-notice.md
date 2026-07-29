@@ -1,4 +1,4 @@
-# 北京大学 - Unknown
+# 北京大学 - 软件与微电子学院 - 通知公告
 
 ## Coverage
 `index-only`
@@ -7,8 +7,8 @@
 - Namespace: `pku`
 - Namespace Name: `北京大学`
 - Route Path: `/pku/ss/notice`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `软件与微电子学院 - 通知公告`
+- Example: `/pku/ss/notice`
 - URL: `ss.pku.edu.cn/index.php/newscenter/notice`
 - Language: `_None_`
 - Categories: `university`
@@ -24,7 +24,12 @@ _None_
 
 
 ## Features
-_None_
+- `requireConfig`: false
+- `requirePuppeteer`: false
+- `antiCrawler`: true
+- `supportBT`: false
+- `supportPodcast`: false
+- `supportScihub`: false
 
 ## Radar
 ### Rule 1
@@ -38,12 +43,22 @@ _None_
   "categories": [
     "university"
   ],
+  "example": "/pku/ss/notice",
+  "features": {
+    "antiCrawler": true,
+    "requireConfig": false,
+    "requirePuppeteer": false,
+    "supportBT": false,
+    "supportPodcast": false,
+    "supportScihub": false
+  },
   "heat": 0,
   "location": "ss/notice.ts",
   "maintainers": [
     "legr4ndk"
   ],
-  "name": "Unknown",
+  "name": "软件与微电子学院 - 通知公告",
+  "parameters": {},
   "path": "/ss/notice",
   "radar": [
     {

@@ -10,10 +10,10 @@
 
 ## Routes
 
-### Unknown
+### 最新帖子
 - Route ID: `hackertalk:/hackertalk/`
 - Route Path: `/hackertalk/`
 - File: `docs/routes/hackertalk/hackertalk.md`
 - File Name: `hackertalk.md`
-- Categories: `other`
+- Categories: `bbs`
 - Maintainers: `hyoban`

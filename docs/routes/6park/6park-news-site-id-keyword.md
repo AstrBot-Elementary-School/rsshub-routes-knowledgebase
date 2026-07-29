@@ -8,24 +8,29 @@
 - Namespace Name: `留园网`
 - Route Path: `/6park/news/:site?/:id?/:keyword?`
 - Route Name: `新闻栏目`
-- Example: `_None_`
+- Example: `/6park/news`
 - URL: `club.6parkbbs.com`
 - Language: `_None_`
-- Categories: `other`
+- Categories: `new-media`
 - Maintainers: `nczitzk, cscnk52`
 - Source Location: `news.ts`
 - Source Module: `_None_`
 
 ## Description
+分站
+
+| newspark | local |
+| -------- | ----- |
+
 ::: tip 提示
 若订阅 [时政](https://www.6parknews.com/newspark/index.php?type=1)，其网址为 <https://www.6parknews.com/newspark/index.php?type=1>，其中 `newspark` 为分站，`1` 为栏目 id。
 若订阅 [美国](https://local.6parknews.com/index.php?type_id=1)，其网址为 <https://local.6parknews.com/index.php?type_id=1>，其中 `local` 为分站，`1` 为栏目 id。
 :::
 
 ## Parameters
-- `site`: 分站，可选newspark、local，默认为 newspark
-- `id`: 栏目 id，可选，默认为空
-- `keyword`: 关键词，可选，默认为空
+- `site`: 分站，见下表，默认为 newspark
+- `id`: 栏目 id
+- `keyword`: 关键字
 
 
 ## Features
@@ -42,9 +47,10 @@ _None_
 ```json
 {
   "categories": [
-    "other"
+    "new-media"
   ],
-  "description": "::: tip 提示\n若订阅 [时政](https://www.6parknews.com/newspark/index.php?type=1)，其网址为 <https://www.6parknews.com/newspark/index.php?type=1>，其中 `newspark` 为分站，`1` 为栏目 id。\n若订阅 [美国](https://local.6parknews.com/index.php?type_id=1)，其网址为 <https://local.6parknews.com/index.php?type_id=1>，其中 `local` 为分站，`1` 为栏目 id。\n:::",
+  "description": "分站\n\n| newspark | local |\n| -------- | ----- |\n\n::: tip 提示\n若订阅 [时政](https://www.6parknews.com/newspark/index.php?type=1)，其网址为 <https://www.6parknews.com/newspark/index.php?type=1>，其中 `newspark` 为分站，`1` 为栏目 id。\n若订阅 [美国](https://local.6parknews.com/index.php?type_id=1)，其网址为 <https://local.6parknews.com/index.php?type_id=1>，其中 `local` 为分站，`1` 为栏目 id。\n:::",
+  "example": "/6park/news",
   "heat": 5,
   "location": "news.ts",
   "maintainers": [
@@ -53,9 +59,9 @@ _None_
   ],
   "name": "新闻栏目",
   "parameters": {
-    "id": "栏目 id，可选，默认为空",
-    "keyword": "关键词，可选，默认为空",
-    "site": "分站，可选newspark、local，默认为 newspark"
+    "id": "栏目 id",
+    "keyword": "关键字",
+    "site": "分站，见下表，默认为 newspark"
   },
   "path": "/news/:site?/:id?/:keyword?",
   "radar": [

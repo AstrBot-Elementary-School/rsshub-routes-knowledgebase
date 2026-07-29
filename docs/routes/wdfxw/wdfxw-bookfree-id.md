@@ -281,7 +281,7 @@
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 14,
+  "heat": 15,
   "location": "bookfree.tsx",
   "maintainers": [
     "nczitzk"

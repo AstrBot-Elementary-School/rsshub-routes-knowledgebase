@@ -12,7 +12,7 @@
 - URL: `www.abmedia.io/`
 - Language: `_None_`
 - Categories: `new-media`
-- Maintainers: `None`
+- Maintainers: `Fatpandac`
 - Source Location: `index.ts`
 - Source Module: `_None_`
 
@@ -53,7 +53,9 @@ _None_
   },
   "heat": 7,
   "location": "index.ts",
-  "maintainers": [],
+  "maintainers": [
+    "Fatpandac"
+  ],
   "name": "首页最新新闻",
   "parameters": {},
   "path": "/index",

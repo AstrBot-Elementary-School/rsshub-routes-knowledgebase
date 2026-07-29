@@ -1,4 +1,4 @@
-# 龙空 - Unknown
+# 龙空 - 分区
 
 ## Coverage
 `index-only`
@@ -7,11 +7,11 @@
 - Namespace: `lkong`
 - Namespace Name: `龙空`
 - Route Path: `/lkong/forum/:id?/:digest?`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `分区`
+- Example: `/lkong/forum/60`
 - URL: `lkong.com`
 - Language: `_None_`
-- Categories: `other`
+- Categories: `bbs`
 - Maintainers: `nczitzk, ma6254`
 - Source Location: `forum.ts`
 - Source Module: `_None_`
@@ -20,7 +20,8 @@
 _None_
 
 ## Parameters
-_None_
+- `id`: 分区 id, 可在分区的URL里找到
+- `digest`: 默认获取全部主题，任意值则只获取精华主题
 
 
 ## Features
@@ -36,15 +37,20 @@ _None_
 ```json
 {
   "categories": [
-    "other"
+    "bbs"
   ],
+  "example": "/lkong/forum/60",
   "heat": 0,
   "location": "forum.ts",
   "maintainers": [
     "nczitzk",
     "ma6254"
   ],
-  "name": "Unknown",
+  "name": "分区",
+  "parameters": {
+    "digest": "默认获取全部主题，任意值则只获取精华主题",
+    "id": "分区 id, 可在分区的URL里找到"
+  },
   "path": "/forum/:id?/:digest?",
   "radar": [
     {

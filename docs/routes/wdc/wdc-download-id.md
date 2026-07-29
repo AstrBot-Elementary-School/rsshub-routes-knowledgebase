@@ -12,7 +12,7 @@
 - URL: `support.wdc.com`
 - Language: `_None_`
 - Categories: `program-update`
-- Maintainers: `None`
+- Maintainers: `nczitzk`
 - Source Location: `download.ts`
 - Source Module: `_None_`
 
@@ -51,7 +51,9 @@ _None_
   },
   "heat": 0,
   "location": "download.ts",
-  "maintainers": [],
+  "maintainers": [
+    "nczitzk"
+  ],
   "name": "Download",
   "parameters": {
     "id": "Software id, can be found in URL, 279 as Western Digital Dashboard by default"

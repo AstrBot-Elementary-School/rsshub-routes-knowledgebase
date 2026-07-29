@@ -10,10 +10,10 @@
 
 ## Routes
 
-### Unknown
+### User
 - Route ID: `curiouscat:/curiouscat/user/:id`
 - Route Path: `/curiouscat/user/:id`
 - File: `docs/routes/curiouscat/curiouscat-user-id.md`
 - File Name: `curiouscat-user-id.md`
-- Categories: `other`
+- Categories: `social-media`
 - Maintainers: `lucasew`

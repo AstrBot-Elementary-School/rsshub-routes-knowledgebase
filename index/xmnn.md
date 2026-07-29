@@ -18,10 +18,10 @@
 - Categories: `traditional-media`
 - Maintainers: `nczitzk`
 
-### Unknown
+### 新闻
 - Route ID: `xmnn:/xmnn/news/:category{.+}?`
 - Route Path: `/xmnn/news/:category{.+}?`
 - File: `docs/routes/xmnn/xmnn-news-category.md`
 - File Name: `xmnn-news-category.md`
 - Categories: `traditional-media`
-- Maintainers: `None`
+- Maintainers: `nczitzk`

@@ -1,4 +1,4 @@
-# 木木博客 - Unknown
+# 木木博客 - 网络营销
 
 ## Coverage
 `index-only`
@@ -7,20 +7,22 @@
 - Namespace: `liulinblog`
 - Namespace Name: `木木博客`
 - Route Path: `/liulinblog/itnews/:channel`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `网络营销`
+- Example: `/liulinblog/itnews/seo`
 - URL: `liulinblog.com`
 - Language: `_None_`
-- Categories: `other`
-- Maintainers: `None`
+- Categories: `new-media`
+- Maintainers: `Fatpandac, nczitzk`
 - Source Location: `itnews.ts`
 - Source Module: `_None_`
 
 ## Description
-_None_
+| 网络营销 | 电商运营  | 互联网早报 | 站长圈 |
+| -------- | --------- | ---------- | ------ |
+|          | dianshang | internet   | seo    |
 
 ## Parameters
-_None_
+- `channel`: 频道，见下表
 
 
 ## Features
@@ -33,12 +35,20 @@ _None_
 ```json
 {
   "categories": [
-    "other"
+    "new-media"
   ],
+  "description": "| 网络营销 | 电商运营  | 互联网早报 | 站长圈 |\n| -------- | --------- | ---------- | ------ |\n|          | dianshang | internet   | seo    |",
+  "example": "/liulinblog/itnews/seo",
   "heat": 0,
   "location": "itnews.ts",
-  "maintainers": [],
-  "name": "Unknown",
+  "maintainers": [
+    "Fatpandac",
+    "nczitzk"
+  ],
+  "name": "网络营销",
+  "parameters": {
+    "channel": "频道，见下表"
+  },
   "path": "/itnews/:channel",
   "topFeeds": []
 }

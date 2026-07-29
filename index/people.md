@@ -32,4 +32,4 @@
 - File: `docs/routes/people/people-xjpjh-keyword-year.md`
 - File Name: `people-xjpjh-keyword-year.md`
 - Categories: `traditional-media`
-- Maintainers: `None`
+- Maintainers: `LogicJake`

@@ -10,10 +10,10 @@
 
 ## Routes
 
-### Unknown
+### 专家文章
 - Route ID: `50forum:/50forum/`
 - Route Path: `/50forum/`
 - File: `docs/routes/50forum/50forum.md`
 - File Name: `50forum.md`
-- Categories: `other`
+- Categories: `study`
 - Maintainers: `sddiky`

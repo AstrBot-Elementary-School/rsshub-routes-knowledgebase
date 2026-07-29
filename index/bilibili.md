@@ -231,7 +231,7 @@
 - Route Path: `/bilibili/ranking/:rid?/:embed?/:redirect1?/:redirect2?`
 - File: `docs/routes/bilibili/bilibili-ranking-rid-embed-redirect1-redirect2.md`
 - File Name: `bilibili-ranking-rid-embed-redirect1-redirect2.md`
-- Categories: `social-media`
+- Categories: `social-media, popular`
 - Maintainers: `DIYgod, hyoban`
 
 ### 专栏文集
@@ -328,7 +328,7 @@
 - File: `docs/routes/bilibili/bilibili-user-video-all-uid-embed.md`
 - File Name: `bilibili-user-video-all-uid-embed.md`
 - Categories: `social-media`
-- Maintainers: `None`
+- Maintainers: `CcccFz`
 
 ### UP 主投稿
 - Route ID: `bilibili:/bilibili/user/video/:uid/:embed?`

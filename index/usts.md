@@ -16,4 +16,4 @@
 - File: `docs/routes/usts/usts-jwch-type.md`
 - File Name: `usts-jwch-type.md`
 - Categories: `university`
-- Maintainers: `None`
+- Maintainers: `Fatpandac`

@@ -34,7 +34,25 @@
 - `supportScihub`: false
 
 ## Radar
-_None_
+### Rule 1
+- `source`:
+  - `logclub.com/lc_report`
+- `target`: `/lc_report`
+### Rule 2
+- `title`: `报告 - 罗戈研究出品`
+- `source`:
+  - `logclub.com/lc_report`
+- `target`: `/lc_report/Report`
+### Rule 3
+- `title`: `报告 - 物流报告`
+- `source`:
+  - `logclub.com/lc_report`
+- `target`: `/lc_report/IndustryReport`
+### Rule 4
+- `title`: `报告 - 绿色双碳报告`
+- `source`:
+  - `logclub.com/lc_report`
+- `target`: `/lc_report/GreenDualCarbonReport`
 
 ## Raw JSON
 ```json
@@ -61,9 +79,35 @@ _None_
   "parameters": {
     "id": "报告 id，见下表，默认为罗戈研究出品"
   },
-  "path": [
-    "/lc_report/:id?",
-    "/report/:id?"
+  "path": "/lc_report/:id?",
+  "radar": [
+    {
+      "source": [
+        "logclub.com/lc_report"
+      ],
+      "target": "/lc_report"
+    },
+    {
+      "source": [
+        "logclub.com/lc_report"
+      ],
+      "target": "/lc_report/Report",
+      "title": "报告 - 罗戈研究出品"
+    },
+    {
+      "source": [
+        "logclub.com/lc_report"
+      ],
+      "target": "/lc_report/IndustryReport",
+      "title": "报告 - 物流报告"
+    },
+    {
+      "source": [
+        "logclub.com/lc_report"
+      ],
+      "target": "/lc_report/GreenDualCarbonReport",
+      "title": "报告 - 绿色双碳报告"
+    }
   ],
   "test": {
     "code": 0

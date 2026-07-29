@@ -16,4 +16,4 @@
 - File: `docs/routes/patagonia/patagonia-new-arrivals-category.md`
 - File Name: `patagonia-new-arrivals-category.md`
 - Categories: `shopping`
-- Maintainers: `None`
+- Maintainers: `IvanWng97`

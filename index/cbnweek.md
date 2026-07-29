@@ -10,10 +10,10 @@
 
 ## Routes
 
-### Unknown
+### 首页
 - Route ID: `cbnweek:/cbnweek/`
 - Route Path: `/cbnweek/`
 - File: `docs/routes/cbnweek/cbnweek.md`
 - File Name: `cbnweek.md`
-- Categories: `other`
+- Categories: `finance`
 - Maintainers: `nczitzk`

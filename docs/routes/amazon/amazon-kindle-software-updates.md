@@ -12,7 +12,7 @@
 - URL: `amazon.com`
 - Language: `_None_`
 - Categories: `program-update`
-- Maintainers: `EthanWng97`
+- Maintainers: `IvanWng97`
 - Source Location: `kindle-software-updates.tsx`
 - Source Module: `_None_`
 
@@ -52,7 +52,7 @@ _None_
   "heat": 20,
   "location": "kindle-software-updates.tsx",
   "maintainers": [
-    "EthanWng97"
+    "IvanWng97"
   ],
   "name": "Kindle Software Updates",
   "parameters": {},

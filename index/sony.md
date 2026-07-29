@@ -16,4 +16,4 @@
 - File: `docs/routes/sony/sony-downloads-producttype-productid.md`
 - File Name: `sony-downloads-producttype-productid.md`
 - Categories: `program-update`
-- Maintainers: `EthanWng97`
+- Maintainers: `IvanWng97`

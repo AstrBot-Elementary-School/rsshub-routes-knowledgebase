@@ -82,7 +82,7 @@ _None_
     {
       "description": "A Touhou related events calendar api from THBWiki - Powered by RSSHub",
       "errorAt": "2026-05-29T02:41:59.767Z",
-      "errorMessage": "[GET] \"https://calendar-serverless.thwiki.cc/api/events/2026-06-25/2026-08-24\": <no response> fetch failed (60B4C9C150F70000:error:0A000410:SSL routines:ssl3_read_bytes:ssl/tls alert handshake failure:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:918:SSL alert number 40\n)\n[GET] \"https://calendar-serverless.thwiki.cc/api/events/2026-06-25/2026-08-24\": <no response> fetch failed (C03210D7557F0000:error:0A000410:SSL routines:ssl3_read_bytes:ssl/tls alert handshake failure:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:918:SSL alert number 40\n)\n",
+      "errorMessage": "[GET] \"https://calendar-serverless.thwiki.cc/api/events/2026-06-28/2026-08-27\": <no response> fetch failed (608452C1E1F80000:error:0A000410:SSL routines:ssl3_read_bytes:ssl/tls alert handshake failure:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:918:SSL alert number 40\n)\n[GET] \"https://calendar-serverless.thwiki.cc/api/events/2026-06-28/2026-08-27\": <no response> fetch failed (C0F2A704437F0000:error:0A000410:SSL routines:ssl3_read_bytes:ssl/tls alert handshake failure:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:918:SSL alert number 40\n)\n",
       "id": "60280539896619008",
       "image": null,
       "ownerUserId": null,

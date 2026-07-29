@@ -8,7 +8,7 @@
 - Namespace Name: `上海大学`
 - Route Path: `/shu/jwb/:type?`
 - Route Name: `教务部`
-- Example: `_None_`
+- Example: `/shu/jwb/notice`
 - URL: `www.shu.edu.cn`
 - Language: `_None_`
 - Categories: `university`
@@ -22,7 +22,7 @@
 | notice   | news | policy         |
 
 ## Parameters
-_None_
+- `type`: 消息类型,默认为`notice`
 
 
 ## Features
@@ -41,6 +41,7 @@ _None_
     "university"
   ],
   "description": "| 通知通告 | 新闻 | 政策文件 (bug) |\n| -------- | ---- | -------------- |\n| notice   | news | policy         |",
+  "example": "/shu/jwb/notice",
   "heat": 3,
   "location": "jwb.ts",
   "maintainers": [
@@ -48,6 +49,9 @@ _None_
     "GhhG123"
   ],
   "name": "教务部",
+  "parameters": {
+    "type": "消息类型,默认为`notice`"
+  },
   "path": "/jwb/:type?",
   "radar": [
     {

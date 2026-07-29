@@ -16,4 +16,4 @@
 - File: `docs/routes/hafu/hafu-news-type.md`
 - File Name: `hafu-news-type.md`
 - Categories: `university`
-- Maintainers: `None`
+- Maintainers: `deep1nlife`

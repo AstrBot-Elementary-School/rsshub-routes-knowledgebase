@@ -1,4 +1,4 @@
-# Tribal Football - Unknown
+# Tribal Football - Latest News
 
 ## Coverage
 `index-only`
@@ -7,11 +7,11 @@
 - Namespace: `tribalfootball`
 - Namespace Name: `Tribal Football`
 - Route Path: `/tribalfootball/`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `Latest News`
+- Example: `/tribalfootball`
 - URL: `tribalfootball.com/`
 - Language: `_None_`
-- Categories: `other`
+- Categories: `new-media`
 - Maintainers: `Rongronggg9`
 - Source Location: `latest.tsx`
 - Source Module: `_None_`
@@ -36,14 +36,15 @@ _None_
 ```json
 {
   "categories": [
-    "other"
+    "new-media"
   ],
+  "example": "/tribalfootball",
   "heat": 0,
   "location": "latest.tsx",
   "maintainers": [
     "Rongronggg9"
   ],
-  "name": "Unknown",
+  "name": "Latest News",
   "path": "/",
   "radar": [
     {

@@ -10,10 +10,10 @@
 
 ## Routes
 
-### Unknown
+### 使领馆重要通知
 - Route ID: `embassy:/embassy/:country/:city?`
 - Route Path: `/embassy/:country/:city?`
 - File: `docs/routes/embassy/embassy-country-city.md`
 - File Name: `embassy-country-city.md`
-- Categories: `other`
+- Categories: `government`
 - Maintainers: `HenryQW`

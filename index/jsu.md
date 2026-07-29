@@ -10,7 +10,7 @@
 
 ## Routes
 
-### Unknown
+### 创新中心
 - Route ID: `jsu:/jsu/cxzx/:types?`
 - Route Path: `/jsu/cxzx/:types?`
 - File: `docs/routes/jsu/jsu-cxzx-types.md`

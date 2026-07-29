@@ -10,10 +10,10 @@
 
 ## Routes
 
-### Unknown
+### 最新文章
 - Route ID: `jiaoliudao:/jiaoliudao/`
 - Route Path: `/jiaoliudao/`
 - File: `docs/routes/jiaoliudao/jiaoliudao.md`
 - File Name: `jiaoliudao.md`
-- Categories: `other`
+- Categories: `blog`
 - Maintainers: `TonyRL`

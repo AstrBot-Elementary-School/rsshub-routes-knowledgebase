@@ -12,7 +12,7 @@
 - URL: `cse.sysu.edu.cn/`
 - Language: `_None_`
 - Categories: `university`
-- Maintainers: `None`
+- Maintainers: `MegrezZhu, Neutrino3316, nczitzk`
 - Source Location: `cse.ts`
 - Source Module: `_None_`
 
@@ -53,7 +53,11 @@ _None_
   },
   "heat": 0,
   "location": "cse.ts",
-  "maintainers": [],
+  "maintainers": [
+    "MegrezZhu",
+    "Neutrino3316",
+    "nczitzk"
+  ],
   "name": "数据科学与计算机学院动态",
   "parameters": {},
   "path": "/cse",

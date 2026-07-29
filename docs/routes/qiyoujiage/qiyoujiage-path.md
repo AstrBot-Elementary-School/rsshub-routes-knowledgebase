@@ -1,4 +1,4 @@
-# 汽油价格网 - Unknown
+# 汽油价格网 - 今日油价查询
 
 ## Coverage
 `index-only`
@@ -7,20 +7,24 @@
 - Namespace: `qiyoujiage`
 - Namespace Name: `汽油价格网`
 - Route Path: `/qiyoujiage/:path{.+}`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `今日油价查询`
+- Example: `/qiyoujiage/shanghai`
 - URL: `qiyoujiage.com`
 - Language: `_None_`
 - Categories: `other`
-- Maintainers: `None`
+- Maintainers: `TonyRL`
 - Source Location: `price.ts`
 - Source Module: `_None_`
 
 ## Description
-_None_
+::: tip
+路径处填写对应页面 URL 中 `http://www.qiyoujiage.com/` 和 `.shtml` 之间的字段。下面是一个例子。
+
+若订阅 [福建漳州龙海今日油价](http://www.qiyoujiage.com/fujian/zhangzhou/longhai.shtml) 则将对应页面 URL <http://www.qiyoujiage.com/fujian/zhangzhou/longhai.shtml> 中 `http://www.qiyoujiage.com/` 和 `.shtml` 之间的字段 `fujian/zhangzhou/longhai` 作为路径填入。此时路由为 [`/qiyoujiage/fujian/zhangzhou/longhai`](https://rsshub.app/qiyoujiage/fujian/zhangzhou/longhai)
+:::
 
 ## Parameters
-_None_
+- `path`: 路径
 
 
 ## Features
@@ -35,10 +39,17 @@ _None_
   "categories": [
     "other"
   ],
+  "description": "::: tip\n路径处填写对应页面 URL 中 `http://www.qiyoujiage.com/` 和 `.shtml` 之间的字段。下面是一个例子。\n\n若订阅 [福建漳州龙海今日油价](http://www.qiyoujiage.com/fujian/zhangzhou/longhai.shtml) 则将对应页面 URL <http://www.qiyoujiage.com/fujian/zhangzhou/longhai.shtml> 中 `http://www.qiyoujiage.com/` 和 `.shtml` 之间的字段 `fujian/zhangzhou/longhai` 作为路径填入。此时路由为 [`/qiyoujiage/fujian/zhangzhou/longhai`](https://rsshub.app/qiyoujiage/fujian/zhangzhou/longhai)\n:::",
+  "example": "/qiyoujiage/shanghai",
   "heat": 14,
   "location": "price.ts",
-  "maintainers": [],
-  "name": "Unknown",
+  "maintainers": [
+    "TonyRL"
+  ],
+  "name": "今日油价查询",
+  "parameters": {
+    "path": "路径"
+  },
   "path": "/:path{.+}",
   "topFeeds": [
     {

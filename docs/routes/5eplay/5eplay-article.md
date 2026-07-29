@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 14,
+  "heat": 13,
   "location": "index.ts",
   "maintainers": [
     "Dlouxgit"

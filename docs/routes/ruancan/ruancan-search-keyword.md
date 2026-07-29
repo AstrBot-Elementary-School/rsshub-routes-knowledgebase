@@ -12,7 +12,7 @@
 - URL: `ruancan.com/`
 - Language: `_None_`
 - Categories: `new-media`
-- Maintainers: `None`
+- Maintainers: `nczitzk`
 - Source Location: `search.ts`
 - Source Module: `_None_`
 
@@ -20,7 +20,7 @@
 _None_
 
 ## Parameters
-- `keyword`: 关键字，默认为空
+- `keyword`: 关键字
 
 
 ## Features
@@ -54,10 +54,12 @@ _None_
   },
   "heat": 1,
   "location": "search.ts",
-  "maintainers": [],
+  "maintainers": [
+    "nczitzk"
+  ],
   "name": "搜索",
   "parameters": {
-    "keyword": "关键字，默认为空"
+    "keyword": "关键字"
   },
   "path": "/search/:keyword?",
   "radar": [
@@ -74,8 +76,8 @@ _None_
   "topFeeds": [
     {
       "description": "undefined - 搜索结果 - 软餐 - Powered by RSSHub",
-      "errorAt": "2026-07-27T03:36:54.634Z",
-      "errorMessage": "[GET] \"https://www.ruancan.com/?s=undefined\": 428 Precondition Required\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "88750451518989312",
       "image": null,
       "ownerUserId": null,

@@ -12,7 +12,7 @@
 - URL: `codeforces.com/recent-actions`
 - Language: `_None_`
 - Categories: `programming`
-- Maintainers: `None`
+- Maintainers: `ftiasch`
 - Source Location: `recent-actions.ts`
 - Source Module: `_None_`
 
@@ -54,7 +54,9 @@ _None_
   },
   "heat": 3,
   "location": "recent-actions.ts",
-  "maintainers": [],
+  "maintainers": [
+    "ftiasch"
+  ],
   "name": "Recent actions",
   "parameters": {
     "minrating": "The minimum blog/comment rating required. Default: 1"

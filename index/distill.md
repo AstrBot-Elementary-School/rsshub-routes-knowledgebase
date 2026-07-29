@@ -10,10 +10,10 @@
 
 ## Routes
 
-### Unknown
+### Latest
 - Route ID: `distill:/distill/`
 - Route Path: `/distill/`
 - File: `docs/routes/distill/distill.md`
 - File Name: `distill.md`
-- Categories: `other`
+- Categories: `programming`
 - Maintainers: `nczitzk`

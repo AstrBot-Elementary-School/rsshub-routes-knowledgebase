@@ -34,7 +34,7 @@
 - Categories: `university`
 - Maintainers: `gylidian`
 
-### Unknown
+### 图书馆
 - Route ID: `nuist:/nuist/lib`
 - Route Path: `/nuist/lib`
 - File: `docs/routes/nuist/nuist-lib.md`
@@ -66,10 +66,10 @@
 - Categories: `university`
 - Maintainers: `gylidian`
 
-### Unknown
-- Route ID: `nuist:/nuist/yjs/*`
-- Route Path: `/nuist/yjs/*`
-- File: `docs/routes/nuist/nuist-yjs.md`
-- File Name: `nuist-yjs.md`
+### 研究生院学科建设处
+- Route ID: `nuist:/nuist/yjs/:path{.+}?`
+- Route Path: `/nuist/yjs/:path{.+}?`
+- File: `docs/routes/nuist/nuist-yjs-path.md`
+- File Name: `nuist-yjs-path.md`
 - Categories: `university`
-- Maintainers: `None`
+- Maintainers: `gylidian, nczitzk`

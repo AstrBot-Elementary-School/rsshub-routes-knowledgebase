@@ -12,7 +12,7 @@
 - URL: `instant.1point3acres.com/`
 - Language: `_None_`
 - Categories: `bbs`
-- Maintainers: `EthanWng97, DIYgod, nczitzk`
+- Maintainers: `IvanWng97, DIYgod, nczitzk`
 - Source Location: `thread.ts`
 - Source Module: `_None_`
 
@@ -51,7 +51,7 @@ _None_
   "heat": 168,
   "location": "thread.ts",
   "maintainers": [
-    "EthanWng97",
+    "IvanWng97",
     "DIYgod",
     "nczitzk"
   ],

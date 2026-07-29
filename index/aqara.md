@@ -10,29 +10,29 @@
 
 ## Routes
 
-### Unknown
-- Route ID: `aqara:/aqara*`
-- Route Path: `/aqara*`
-- File: `docs/routes/aqara/aqara.md`
-- File Name: `aqara.md`
+### 分类、标签
+- Route ID: `aqara:/aqara/:path{.+}?`
+- Route Path: `/aqara/:path{.+}?`
+- File: `docs/routes/aqara/aqara-path.md`
+- File Name: `aqara-path.md`
 - Categories: `other`
-- Maintainers: `None`
+- Maintainers: `nczitzk`
 
-### Unknown
+### 新闻、博客
 - Route ID: `aqara:/aqara/:region/:type?`
 - Route Path: `/aqara/:region/:type?`
 - File: `docs/routes/aqara/aqara-region-type.md`
 - File Name: `aqara-region-type.md`
 - Categories: `other`
-- Maintainers: `None`
+- Maintainers: `nczitzk`
 
-### Unknown
+### 新闻
 - Route ID: `aqara:/aqara/cn/news`
 - Route Path: `/aqara/cn/news`
 - File: `docs/routes/aqara/aqara-cn-news.md`
 - File Name: `aqara-cn-news.md`
 - Categories: `other`
-- Maintainers: `None`
+- Maintainers: `nczitzk`
 
 ### 社区
 - Route ID: `aqara:/aqara/community/:id?/:keyword?`

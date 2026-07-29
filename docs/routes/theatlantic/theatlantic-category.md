@@ -12,7 +12,7 @@
 - URL: `www.theatlantic.com`
 - Language: `_None_`
 - Categories: `traditional-media, popular`
-- Maintainers: `EthanWng97, pseudoyu`
+- Maintainers: `IvanWng97, pseudoyu`
 - Source Location: `news.ts`
 - Source Module: `_None_`
 
@@ -60,7 +60,7 @@ More categories (except photo) can be found within the navigation bar at <https:
   "heat": 1390,
   "location": "news.ts",
   "maintainers": [
-    "EthanWng97",
+    "IvanWng97",
     "pseudoyu"
   ],
   "name": "News",

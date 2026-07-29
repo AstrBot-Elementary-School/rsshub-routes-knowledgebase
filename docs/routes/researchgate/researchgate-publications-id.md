@@ -1,4 +1,4 @@
-# ResearchGate - Unknown
+# ResearchGate - Publications
 
 ## Coverage
 `index-only`
@@ -7,12 +7,12 @@
 - Namespace: `researchgate`
 - Namespace Name: `ResearchGate`
 - Route Path: `/researchgate/publications/:id`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `Publications`
+- Example: `/researchgate/publications/Somsak-Panha`
 - URL: `researchgate.net`
 - Language: `_None_`
-- Categories: `other`
-- Maintainers: `None`
+- Categories: `study`
+- Maintainers: `nczitzk`
 - Source Location: `publications.ts`
 - Source Module: `_None_`
 
@@ -20,11 +20,12 @@
 _None_
 
 ## Parameters
-_None_
+- `id`: Username, can be found in URL
 
 
 ## Features
-_None_
+- `requirePuppeteer`: true
+- `antiCrawler`: true
 
 ## Radar
 ### Rule 1
@@ -36,12 +37,22 @@ _None_
 ```json
 {
   "categories": [
-    "other"
+    "study"
   ],
+  "example": "/researchgate/publications/Somsak-Panha",
+  "features": {
+    "antiCrawler": true,
+    "requirePuppeteer": true
+  },
   "heat": 0,
   "location": "publications.ts",
-  "maintainers": [],
-  "name": "Unknown",
+  "maintainers": [
+    "nczitzk"
+  ],
+  "name": "Publications",
+  "parameters": {
+    "id": "Username, can be found in URL"
+  },
   "path": "/publications/:id",
   "radar": [
     {

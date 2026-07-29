@@ -24,4 +24,4 @@
 - File: `docs/routes/techcrunch/techcrunch-news.md`
 - File Name: `techcrunch-news.md`
 - Categories: `new-media`
-- Maintainers: `EthanWng97`
+- Maintainers: `IvanWng97`

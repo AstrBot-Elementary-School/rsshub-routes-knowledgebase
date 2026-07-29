@@ -1,4 +1,4 @@
-# Nintendo - Unknown
+# Nintendo - eShop New Game Releases (CN)
 
 ## Coverage
 `index-only`
@@ -7,12 +7,12 @@
 - Namespace: `nintendo`
 - Namespace Name: `Nintendo`
 - Route Path: `/nintendo/eshop/cn`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `eShop New Game Releases (CN)`
+- Example: `/nintendo/eshop/cn`
 - URL: `nintendoswitch.com.cn/software`
 - Language: `_None_`
 - Categories: `game`
-- Maintainers: `None`
+- Maintainers: `HFO4`
 - Source Location: `eshop-cn.ts`
 - Source Module: `_None_`
 
@@ -38,10 +38,13 @@ _None_
   "categories": [
     "game"
   ],
+  "example": "/nintendo/eshop/cn",
   "heat": 0,
   "location": "eshop-cn.ts",
-  "maintainers": [],
-  "name": "Unknown",
+  "maintainers": [
+    "HFO4"
+  ],
+  "name": "eShop New Game Releases (CN)",
   "path": "/eshop/cn",
   "radar": [
     {

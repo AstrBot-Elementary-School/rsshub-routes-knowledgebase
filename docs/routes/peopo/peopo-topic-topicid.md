@@ -12,7 +12,7 @@
 - URL: `peopo.org`
 - Language: `_None_`
 - Categories: `new-media`
-- Maintainers: `None`
+- Maintainers: `TonyRL`
 - Source Location: `topic.ts`
 - Source Module: `_None_`
 
@@ -73,7 +73,9 @@
   },
   "heat": 3,
   "location": "topic.ts",
-  "maintainers": [],
+  "maintainers": [
+    "TonyRL"
+  ],
   "name": "新聞分類",
   "parameters": {
     "topicId": "分類 ID，見下表，默認為社會關懷"

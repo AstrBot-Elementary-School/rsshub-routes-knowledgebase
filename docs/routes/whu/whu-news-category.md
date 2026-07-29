@@ -12,7 +12,7 @@
 - URL: `cs.whu.edu.cn`
 - Language: `_None_`
 - Categories: `university`
-- Maintainers: `None`
+- Maintainers: `SChen1024, nczitzk`
 - Source Location: `news.ts`
 - Source Module: `_None_`
 
@@ -26,7 +26,7 @@ category 参数可选，范围如下:
 此外 route 后可以加上 `?limit=n` 的查询参数，表示只获取前 n 条新闻；如果不指定默认为 10。
 
 ## Parameters
-- `category`: 新闻栏目，可选
+- `category`: 分类，见下表，默认为 `wdzx/wdyw`， 即 **武大要闻**
 
 
 ## Features
@@ -45,10 +45,13 @@ _None_
   "example": "/whu/news",
   "heat": 4,
   "location": "news.ts",
-  "maintainers": [],
+  "maintainers": [
+    "SChen1024",
+    "nczitzk"
+  ],
   "name": "新闻网",
   "parameters": {
-    "category": "新闻栏目，可选"
+    "category": "分类，见下表，默认为 `wdzx/wdyw`， 即 **武大要闻**"
   },
   "path": "/news/:category{.+}?",
   "test": {

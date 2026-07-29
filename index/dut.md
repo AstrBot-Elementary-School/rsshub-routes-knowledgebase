@@ -10,10 +10,10 @@
 
 ## Routes
 
-### Unknown
+### 通用
 - Route ID: `dut:/dut/*/*`
 - Route Path: `/dut/*/*`
 - File: `docs/routes/dut/dut.md`
 - File Name: `dut.md`
-- Categories: `other`
-- Maintainers: `None`
+- Categories: `university`
+- Maintainers: `beautyyuyanli, nczitzk, ueiu`

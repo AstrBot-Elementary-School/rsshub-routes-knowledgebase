@@ -12,7 +12,7 @@
 - URL: `ncwu.edu.cn/xxtz.htm`
 - Language: `_None_`
 - Categories: `university`
-- Maintainers: `None`
+- Maintainers: `vuhe`
 - Source Location: `notice.ts`
 - Source Module: `_None_`
 
@@ -53,7 +53,9 @@ _None_
   },
   "heat": 4,
   "location": "notice.ts",
-  "maintainers": [],
+  "maintainers": [
+    "vuhe"
+  ],
   "name": "学校通知",
   "parameters": {},
   "path": "/notice",

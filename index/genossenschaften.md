@@ -11,9 +11,9 @@
 ## Routes
 
 ### Immobiliensuche
-- Route ID: `genossenschaften:/genossenschaften*`
-- Route Path: `/genossenschaften*`
-- File: `docs/routes/genossenschaften/genossenschaften.md`
-- File Name: `genossenschaften.md`
+- Route ID: `genossenschaften:/genossenschaften/:path{.+}?`
+- Route Path: `/genossenschaften/:path{.+}?`
+- File: `docs/routes/genossenschaften/genossenschaften-path.md`
+- File Name: `genossenschaften-path.md`
 - Categories: `other`
 - Maintainers: `sk22`

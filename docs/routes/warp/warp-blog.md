@@ -76,7 +76,7 @@ _None_
     {
       "description": "Warp is an AI agent platform that lets you run multiple agents in parallel to complete any development task. - Powered by RSSHub",
       "errorAt": "2026-05-04T15:06:32.386Z",
-      "errorMessage": "Status code 404\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "148281493925245952",
       "image": null,
       "ownerUserId": null,

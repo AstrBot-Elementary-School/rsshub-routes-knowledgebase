@@ -12,7 +12,7 @@
 - URL: `arcteryx.com`
 - Language: `_None_`
 - Categories: `shopping`
-- Maintainers: `EthanWng97`
+- Maintainers: `IvanWng97`
 - Source Location: `outlet.ts`
 - Source Module: `_None_`
 
@@ -70,7 +70,7 @@ Parameter `country` can be found within the url of `Arcteryx` website.
   "heat": 0,
   "location": "outlet.ts",
   "maintainers": [
-    "EthanWng97"
+    "IvanWng97"
   ],
   "name": "Outlet",
   "parameters": {

@@ -12,7 +12,7 @@
 - URL: `bellroy.com/collection/new-releases`
 - Language: `_None_`
 - Categories: `shopping`
-- Maintainers: `EthanWng97`
+- Maintainers: `IvanWng97`
 - Source Location: `new-releases.ts`
 - Source Module: `_None_`
 
@@ -55,7 +55,7 @@ _None_
   "heat": 0,
   "location": "new-releases.ts",
   "maintainers": [
-    "EthanWng97"
+    "IvanWng97"
   ],
   "name": "New Releases",
   "parameters": {},

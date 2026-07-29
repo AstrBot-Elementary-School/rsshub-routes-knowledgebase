@@ -112,7 +112,7 @@
 - File: `docs/routes/zhihu/zhihu-question-questionid-sortby.md`
 - File Name: `zhihu-question-questionid-sortby.md`
 - Categories: `social-media`
-- Maintainers: `None`
+- Maintainers: `xyqfer, hacklu`
 
 ### 用户关注时间线
 - Route ID: `zhihu:/zhihu/timeline`

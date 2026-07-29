@@ -1,4 +1,4 @@
-# SupChina - Unknown
+# SupChina - Feed
 
 ## Coverage
 `index-only`
@@ -7,8 +7,8 @@
 - Namespace: `supchina`
 - Namespace Name: `SupChina`
 - Route Path: `/supchina/`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `Feed`
+- Example: `/supchina`
 - URL: `supchina.com/feed`
 - Language: `_None_`
 - Categories: `new-media`
@@ -39,12 +39,13 @@ _None_
   "categories": [
     "new-media"
   ],
+  "example": "/supchina",
   "heat": 0,
   "location": "index.ts",
   "maintainers": [
     "nczitzk"
   ],
-  "name": "Unknown",
+  "name": "Feed",
   "path": "/",
   "radar": [
     {

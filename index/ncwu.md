@@ -16,4 +16,4 @@
 - File: `docs/routes/ncwu/ncwu-notice.md`
 - File Name: `ncwu-notice.md`
 - Categories: `university`
-- Maintainers: `None`
+- Maintainers: `vuhe`

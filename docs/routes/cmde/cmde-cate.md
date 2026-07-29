@@ -1,4 +1,4 @@
-# 国家药品监督管理局医疗器械技术审评中心 - Unknown
+# 国家药品监督管理局医疗器械技术审评中心 - 通用
 
 ## Coverage
 `index-only`
@@ -7,20 +7,22 @@
 - Namespace: `cmde`
 - Namespace Name: `国家药品监督管理局医疗器械技术审评中心`
 - Route Path: `/cmde/:cate{.+}?`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `通用`
+- Example: `/cmde/xwdt/zxyw`
 - URL: `www.cmde.org.cn`
 - Language: `_None_`
-- Categories: `other`
-- Maintainers: `None`
+- Categories: `government`
+- Maintainers: `run-ze`
 - Source Location: `index.ts`
 - Source Module: `_None_`
 
 ## Description
-_None_
+路径处填写对应页面 URL 中 `https://www.cmde.org.cn/` 与 `/index.html` 之间的字段，下面是一个例子。
+
+若订阅 [最新要闻](https://www.cmde.org.cn/xwdt/zxyw/index.html) 则将对应页面 URL <https://www.cmde.org.cn/xwdt/zxyw/index.html> 中 `https://www.cmde.org.cn/` 和 `/index.html` 之间的字段 `xwdt/zxyw` 作为路径填入。此时路由为 [`/cmde/xwdt/zxyw`](https://rsshub.app/cmde/xwdt/zxyw)
 
 ## Parameters
-_None_
+- `cate`: 路径，默认为最新要闻
 
 
 ## Features
@@ -33,12 +35,19 @@ _None_
 ```json
 {
   "categories": [
-    "other"
+    "government"
   ],
+  "description": "路径处填写对应页面 URL 中 `https://www.cmde.org.cn/` 与 `/index.html` 之间的字段，下面是一个例子。\n\n若订阅 [最新要闻](https://www.cmde.org.cn/xwdt/zxyw/index.html) 则将对应页面 URL <https://www.cmde.org.cn/xwdt/zxyw/index.html> 中 `https://www.cmde.org.cn/` 和 `/index.html` 之间的字段 `xwdt/zxyw` 作为路径填入。此时路由为 [`/cmde/xwdt/zxyw`](https://rsshub.app/cmde/xwdt/zxyw)",
+  "example": "/cmde/xwdt/zxyw",
   "heat": 11,
   "location": "index.ts",
-  "maintainers": [],
-  "name": "Unknown",
+  "maintainers": [
+    "run-ze"
+  ],
+  "name": "通用",
+  "parameters": {
+    "cate": "路径，默认为最新要闻"
+  },
   "path": "/:cate{.+}?",
   "topFeeds": [
     {

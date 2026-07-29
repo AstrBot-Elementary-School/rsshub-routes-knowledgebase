@@ -1,4 +1,4 @@
-# v1tx - Unknown
+# v1tx - 最新文章
 
 ## Coverage
 `index-only`
@@ -7,11 +7,11 @@
 - Namespace: `v1tx`
 - Namespace Name: `v1tx`
 - Route Path: `/v1tx/`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `最新文章`
+- Example: `/v1tx`
 - URL: `v1tx.com/`
 - Language: `_None_`
-- Categories: `other`
+- Categories: `blog`
 - Maintainers: `TonyRL`
 - Source Location: `index.ts`
 - Source Module: `_None_`
@@ -36,14 +36,15 @@ _None_
 ```json
 {
   "categories": [
-    "other"
+    "blog"
   ],
+  "example": "/v1tx",
   "heat": 0,
   "location": "index.ts",
   "maintainers": [
     "TonyRL"
   ],
-  "name": "Unknown",
+  "name": "最新文章",
   "path": "/",
   "radar": [
     {

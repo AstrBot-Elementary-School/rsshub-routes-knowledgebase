@@ -1,4 +1,4 @@
-# 裏垢女子まとめ - Unknown
+# 裏垢女子まとめ - Homepage
 
 ## Coverage
 `index-only`
@@ -7,8 +7,8 @@
 - Namespace: `uraaka-joshi`
 - Namespace Name: `裏垢女子まとめ`
 - Route Path: `/uraaka-joshi/`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `Homepage`
+- Example: `/uraaka-joshi`
 - URL: `uraaka-joshi.com/`
 - Language: `_None_`
 - Categories: `other`
@@ -38,6 +38,7 @@ _None_
   "categories": [
     "other"
   ],
+  "example": "/uraaka-joshi",
   "features": {
     "nsfw": true
   },
@@ -47,7 +48,7 @@ _None_
     "SettingDust",
     "Halcao"
   ],
-  "name": "Unknown",
+  "name": "Homepage",
   "path": "/",
   "radar": [
     {

@@ -26,13 +26,13 @@
 - Categories: `university`
 - Maintainers: `Delreyaa`
 
-### Unknown
+### 弘毅学堂
 - Route ID: `whu:/whu/hyxt/:category{.+}?`
 - Route Path: `/whu/hyxt/:category{.+}?`
 - File: `docs/routes/whu/whu-hyxt-category.md`
 - File Name: `whu-hyxt-category.md`
 - Categories: `university`
-- Maintainers: `None`
+- Maintainers: `nczitzk`
 
 ### 新闻网
 - Route ID: `whu:/whu/news/:category{.+}?`
@@ -40,7 +40,7 @@
 - File: `docs/routes/whu/whu-news-category.md`
 - File Name: `whu-news-category.md`
 - Categories: `university`
-- Maintainers: `None`
+- Maintainers: `SChen1024, nczitzk`
 
 ### 武汉大学遥感信息工程学院
 - Route ID: `whu:/whu/rsgis/:type/:sub?`

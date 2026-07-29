@@ -15,7 +15,7 @@
 - Route Path: `/6park/index/:id?/:type?/:keyword?`
 - File: `docs/routes/6park/6park-index-id-type-keyword.md`
 - File Name: `6park-index-id-type-keyword.md`
-- Categories: `other`
+- Categories: `new-media`
 - Maintainers: `nczitzk, cscnk52`
 
 ### 新闻栏目
@@ -23,5 +23,5 @@
 - Route Path: `/6park/news/:site?/:id?/:keyword?`
 - File: `docs/routes/6park/6park-news-site-id-keyword.md`
 - File Name: `6park-news-site-id-keyword.md`
-- Categories: `other`
+- Categories: `new-media`
 - Maintainers: `nczitzk, cscnk52`

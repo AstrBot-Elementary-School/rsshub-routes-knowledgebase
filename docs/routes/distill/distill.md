@@ -1,4 +1,4 @@
-# Distill - Unknown
+# Distill - Latest
 
 ## Coverage
 `index-only`
@@ -7,11 +7,11 @@
 - Namespace: `distill`
 - Namespace Name: `Distill`
 - Route Path: `/distill/`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `Latest`
+- Example: `/distill`
 - URL: `distill.pub/`
 - Language: `_None_`
-- Categories: `other`
+- Categories: `programming`
 - Maintainers: `nczitzk`
 - Source Location: `index.ts`
 - Source Module: `_None_`
@@ -36,14 +36,15 @@ _None_
 ```json
 {
   "categories": [
-    "other"
+    "programming"
   ],
+  "example": "/distill",
   "heat": 0,
   "location": "index.ts",
   "maintainers": [
     "nczitzk"
   ],
-  "name": "Unknown",
+  "name": "Latest",
   "path": "/",
   "radar": [
     {

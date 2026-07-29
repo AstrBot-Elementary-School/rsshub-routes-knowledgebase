@@ -10,7 +10,7 @@
 
 ## Routes
 
-### Unknown
+### Feed
 - Route ID: `supchina:/supchina/`
 - Route Path: `/supchina/`
 - File: `docs/routes/supchina/supchina.md`

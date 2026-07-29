@@ -1,4 +1,4 @@
-# LeetCode - Unknown
+# LeetCode - 每日一题题解
 
 ## Coverage
 `index-only`
@@ -7,12 +7,12 @@
 - Namespace: `leetcode`
 - Namespace Name: `LeetCode`
 - Route Path: `/leetcode/dailyquestion/solution/cn`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `每日一题题解`
+- Example: `/leetcode/dailyquestion/solution/cn`
 - URL: `leetcode.cn/`
 - Language: `_None_`
 - Categories: `programming`
-- Maintainers: `None`
+- Maintainers: `woaidouya123`
 - Source Location: `dailyquestion-solution-cn.ts`
 - Source Module: `_None_`
 
@@ -37,10 +37,13 @@ _None_
   "categories": [
     "programming"
   ],
+  "example": "/leetcode/dailyquestion/solution/cn",
   "heat": 107,
   "location": "dailyquestion-solution-cn.ts",
-  "maintainers": [],
-  "name": "Unknown",
+  "maintainers": [
+    "woaidouya123"
+  ],
+  "name": "每日一题题解",
   "path": "/dailyquestion/solution/cn",
   "radar": [
     {
@@ -57,7 +60,7 @@ _None_
       "id": "56597410818564096",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://leetcode.cn/problems/maximum-product-of-two-elements-in-an-array/",
+      "siteUrl": "https://leetcode.cn/problems/smallest-palindromic-rearrangement-i/",
       "title": "LeetCode 每日一题题解",
       "type": "feed",
       "url": "rsshub://leetcode/dailyquestion/solution/cn"

@@ -116,16 +116,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "A redstone & optimization modpack for vanilla Minecraft servers. 一款红石优化的整合包，适用于原版Minecraft服务器。 - Powered by RSSHub",
+      "description": "This plugin makes spawners minable using SilkTouch tools - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "164180036830267392",
+      "id": "123852225922308096",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/redstone-optiunity",
-      "title": "Redstone OptiUnity一体化红石优化 Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/yqj3dcbL",
+      "title": "SilkSpawners Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/redstone-optiunity/versions"
+      "url": "rsshub://modrinth/project/yqj3dcbL/versions"
     }
   ]
 }

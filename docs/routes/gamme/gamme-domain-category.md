@@ -1,4 +1,4 @@
-# 卡卡洛普 - Unknown
+# 卡卡洛普 - 分類
 
 ## Coverage
 `index-only`
@@ -7,12 +7,12 @@
 - Namespace: `gamme`
 - Namespace Name: `卡卡洛普`
 - Route Path: `/gamme/:domain/:category?`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `分類`
+- Example: `/gamme/news`
 - URL: `news.gamme.com.tw`
 - Language: `_None_`
-- Categories: `other`
-- Maintainers: `None`
+- Categories: `new-media`
+- Maintainers: `TonyRL`
 - Source Location: `category.ts`
 - Source Module: `_None_`
 
@@ -20,7 +20,8 @@
 _None_
 
 ## Parameters
-_None_
+- `domain`: 網站，`news` 為宅宅新聞，`sexynews` 為西斯新聞
+- `category`: 分類名，可在 URL 找到，預設為全部
 
 
 ## Features
@@ -33,12 +34,19 @@ _None_
 ```json
 {
   "categories": [
-    "other"
+    "new-media"
   ],
+  "example": "/gamme/news",
   "heat": 27,
   "location": "category.ts",
-  "maintainers": [],
-  "name": "Unknown",
+  "maintainers": [
+    "TonyRL"
+  ],
+  "name": "分類",
+  "parameters": {
+    "category": "分類名，可在 URL 找到，預設為全部",
+    "domain": "網站，`news` 為宅宅新聞，`sexynews` 為西斯新聞"
+  },
   "path": "/:domain/:category?",
   "topFeeds": [
     {

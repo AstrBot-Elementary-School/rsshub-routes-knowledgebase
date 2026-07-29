@@ -132,12 +132,12 @@ _None_
   "topFeeds": [
     {
       "description": "热榜 - 4小时热门 - Powered by RSSHub",
-      "errorAt": "2026-07-26T19:50:39.836Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "42107730549411843",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "http://i.jandan.net/top",
+      "siteUrl": "https://i.jandan.net/top",
       "title": "热榜 - 4小时热门",
       "type": "feed",
       "url": "rsshub://jandan/top"

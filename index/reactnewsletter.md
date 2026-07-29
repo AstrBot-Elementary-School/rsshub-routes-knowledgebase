@@ -10,10 +10,10 @@
 
 ## Routes
 
-### Unknown
+### React Newsletter
 - Route ID: `reactnewsletter:/reactnewsletter/`
 - Route Path: `/reactnewsletter/`
 - File: `docs/routes/reactnewsletter/reactnewsletter.md`
 - File Name: `reactnewsletter.md`
-- Categories: `other`
+- Categories: `programming`
 - Maintainers: `meixger`

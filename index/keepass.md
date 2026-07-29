@@ -10,10 +10,10 @@
 
 ## Routes
 
-### Unknown
+### News
 - Route ID: `keepass:/keepass/`
 - Route Path: `/keepass/`
 - File: `docs/routes/keepass/keepass.md`
 - File Name: `keepass.md`
-- Categories: `other`
+- Categories: `program-update`
 - Maintainers: `TonyRL`

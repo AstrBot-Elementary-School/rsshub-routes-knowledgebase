@@ -10,10 +10,10 @@
 
 ## Routes
 
-### Unknown
+### Latest Article
 - Route ID: `deadline:/deadline/`
 - Route Path: `/deadline/`
 - File: `docs/routes/deadline/deadline.md`
 - File Name: `deadline.md`
-- Categories: `other`
+- Categories: `new-media`
 - Maintainers: `TonyRL`

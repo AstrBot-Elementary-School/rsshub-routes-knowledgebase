@@ -16,4 +16,4 @@
 - File: `docs/routes/aamacau/aamacau-category-id.md`
 - File Name: `aamacau-category-id.md`
 - Categories: `new-media`
-- Maintainers: `None`
+- Maintainers: `nczitzk`

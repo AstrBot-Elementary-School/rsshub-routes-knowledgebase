@@ -16,7 +16,7 @@
 - File: `docs/routes/abmedia/abmedia-category.md`
 - File Name: `abmedia-category.md`
 - Categories: `new-media`
-- Maintainers: `None`
+- Maintainers: `Fatpandac`
 
 ### 首页最新新闻
 - Route ID: `abmedia:/abmedia/index`
@@ -24,4 +24,4 @@
 - File: `docs/routes/abmedia/abmedia-index.md`
 - File Name: `abmedia-index.md`
 - Categories: `new-media`
-- Maintainers: `None`
+- Maintainers: `Fatpandac`

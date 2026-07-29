@@ -16,4 +16,4 @@
 - File: `docs/routes/bellroy/bellroy-new-releases.md`
 - File Name: `bellroy-new-releases.md`
 - Categories: `shopping`
-- Maintainers: `EthanWng97`
+- Maintainers: `IvanWng97`

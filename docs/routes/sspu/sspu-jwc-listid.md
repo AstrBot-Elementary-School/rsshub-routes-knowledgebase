@@ -1,4 +1,4 @@
-# 上海第二工业大学 - Unknown
+# 上海第二工业大学 - 教务处
 
 ## Coverage
 `index-only`
@@ -7,20 +7,22 @@
 - Namespace: `sspu`
 - Namespace Name: `上海第二工业大学`
 - Route Path: `/sspu/jwc/:listId`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `教务处`
+- Example: `/sspu/jwc/897`
 - URL: `jwc.sspu.edu.cn`
 - Language: `_None_`
-- Categories: `other`
+- Categories: `university`
 - Maintainers: `TonyRL`
 - Source Location: `jwc.ts`
 - Source Module: `_None_`
 
 ## Description
-_None_
+| 学生专栏 | 教师专栏 |
+| -------- | -------- |
+| 897      | 898      |
 
 ## Parameters
-_None_
+- `listId`: 专栏 ID，见下表
 
 
 ## Features
@@ -35,14 +37,19 @@ _None_
 ```json
 {
   "categories": [
-    "other"
+    "university"
   ],
+  "description": "| 学生专栏 | 教师专栏 |\n| -------- | -------- |\n| 897      | 898      |",
+  "example": "/sspu/jwc/897",
   "heat": 0,
   "location": "jwc.ts",
   "maintainers": [
     "TonyRL"
   ],
-  "name": "Unknown",
+  "name": "教务处",
+  "parameters": {
+    "listId": "专栏 ID，见下表"
+  },
   "path": "/jwc/:listId",
   "radar": [
     {

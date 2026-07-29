@@ -16,4 +16,4 @@
 - File: `docs/routes/zagg/zagg-new-arrivals-query.md`
 - File Name: `zagg-new-arrivals-query.md`
 - Categories: `shopping`
-- Maintainers: `EthanWng97`
+- Maintainers: `IvanWng97`

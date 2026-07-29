@@ -24,7 +24,7 @@
 - File: `docs/routes/nature/nature-highlight-journal.md`
 - File Name: `nature-highlight-journal.md`
 - Categories: `journal`
-- Maintainers: `None`
+- Maintainers: `y9c, TonyRL`
 
 ### Nature News
 - Route ID: `nature:/nature/news`
@@ -34,7 +34,7 @@
 - Categories: `journal`
 - Maintainers: `y9c, TonyRL`
 
-### Unknown
+### News & Comment
 - Route ID: `nature:/nature/news-and-comment/:journal?`
 - Route Path: `/nature/news-and-comment/:journal?`
 - File: `docs/routes/nature/nature-news-and-comment-journal.md`

@@ -32,7 +32,7 @@
 - File: `docs/routes/caixin/caixin-blog-column.md`
 - File Name: `caixin-blog-column.md`
 - Categories: `blog`
-- Maintainers: `None`
+- Maintainers: `Maecenas`
 
 ### 财新数据通
 - Route ID: `caixin:/caixin/database`

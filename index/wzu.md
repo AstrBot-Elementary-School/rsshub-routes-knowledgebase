@@ -10,10 +10,10 @@
 
 ## Routes
 
-### Unknown
+### 新闻
 - Route ID: `wzu:/wzu/news/:type?`
 - Route Path: `/wzu/news/:type?`
 - File: `docs/routes/wzu/wzu-news-type.md`
 - File Name: `wzu-news-type.md`
-- Categories: `other`
+- Categories: `university`
 - Maintainers: `Chandler-Lu`

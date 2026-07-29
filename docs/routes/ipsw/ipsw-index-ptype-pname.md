@@ -68,7 +68,7 @@ _None_
     {
       "description": "查看Apple-iPhone15,2- ipsws 固件-是否关闭验证 - Powered by RSSHub",
       "errorAt": "2026-07-04T10:38:09.962Z",
-      "errorMessage": "[GET] \"https://ipsw.me/window.location=%22/download/iPhone15,2/23F84%22\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://ipsw.me/window.location=%22/download/iPhone15,2/23E261%22\": 404 Not Found\n",
       "id": "156857634902037504",
       "image": null,
       "ownerUserId": null,

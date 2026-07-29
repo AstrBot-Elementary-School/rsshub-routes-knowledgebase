@@ -1,4 +1,4 @@
-# IELTS 雅思 - Unknown
+# IELTS 雅思 - 最新消息
 
 ## Coverage
 `index-only`
@@ -7,11 +7,11 @@
 - Namespace: `ielts`
 - Namespace Name: `IELTS 雅思`
 - Route Path: `/ielts/`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `最新消息`
+- Example: `/ielts`
 - URL: `ielts.neea.cn/allnews`
 - Language: `_None_`
-- Categories: `other`
+- Categories: `study`
 - Maintainers: `zenxds`
 - Source Location: `index.ts`
 - Source Module: `_None_`
@@ -36,14 +36,15 @@ _None_
 ```json
 {
   "categories": [
-    "other"
+    "study"
   ],
+  "example": "/ielts",
   "heat": 0,
   "location": "index.ts",
   "maintainers": [
     "zenxds"
   ],
-  "name": "Unknown",
+  "name": "最新消息",
   "path": "/",
   "radar": [
     {

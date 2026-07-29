@@ -10,7 +10,7 @@
 
 ## Routes
 
-### Unknown
+### 自动化学院
 - Route ID: `nuaa:/nuaa/cae/:type/:getDescription?`
 - Route Path: `/nuaa/cae/:type/:getDescription?`
 - File: `docs/routes/nuaa/nuaa-cae-type-getdescription.md`

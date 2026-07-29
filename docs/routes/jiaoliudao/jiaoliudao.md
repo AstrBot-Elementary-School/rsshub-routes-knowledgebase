@@ -1,4 +1,4 @@
-# 交流岛资源网 - Unknown
+# 交流岛资源网 - 最新文章
 
 ## Coverage
 `index-only`
@@ -7,11 +7,11 @@
 - Namespace: `jiaoliudao`
 - Namespace Name: `交流岛资源网`
 - Route Path: `/jiaoliudao/`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `最新文章`
+- Example: `/jiaoliudao`
 - URL: `jiaoliudao.com/`
 - Language: `_None_`
-- Categories: `other`
+- Categories: `blog`
 - Maintainers: `TonyRL`
 - Source Location: `index.ts`
 - Source Module: `_None_`
@@ -36,14 +36,15 @@ _None_
 ```json
 {
   "categories": [
-    "other"
+    "blog"
   ],
+  "example": "/jiaoliudao",
   "heat": 0,
   "location": "index.ts",
   "maintainers": [
     "TonyRL"
   ],
-  "name": "Unknown",
+  "name": "最新文章",
   "path": "/",
   "radar": [
     {

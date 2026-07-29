@@ -10,7 +10,7 @@
 
 ## Routes
 
-### Unknown
+### Homepage
 - Route ID: `uraaka-joshi:/uraaka-joshi/`
 - Route Path: `/uraaka-joshi/`
 - File: `docs/routes/uraaka-joshi/uraaka-joshi.md`

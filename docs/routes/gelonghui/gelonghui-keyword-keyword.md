@@ -76,7 +76,7 @@ _None_
       "url": "rsshub://gelonghui/keyword/%E8%B7%A8%E5%A2%83%E7%94%B5%E5%95%86"
     },
     {
-      "description": "找到关于 “ 早报 ”的文章，共3459个结果 - Powered by RSSHub",
+      "description": "找到关于 “ 早报 ”的文章，共3461个结果 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "74277698927007744",

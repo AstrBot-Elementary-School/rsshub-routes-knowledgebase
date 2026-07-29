@@ -1,4 +1,4 @@
-# 旅法师营地 - Unknown
+# 旅法师营地 - 分区
 
 ## Coverage
 `index-only`
@@ -7,9 +7,9 @@
 - Namespace: `lfsyd`
 - Namespace Name: `旅法师营地`
 - Route Path: `/lfsyd/tag/:tagId?`
-- Route Name: `Unknown`
-- Example: `_None_`
-- URL: `www.iyingdi.com`
+- Route Name: `分区`
+- Example: `/lfsyd/tag/17`
+- URL: `www.iyingdi.com/`
 - Language: `_None_`
 - Categories: `game`
 - Maintainers: `auto-bot-ty`
@@ -17,10 +17,16 @@
 - Source Module: `_None_`
 
 ## Description
-_None_
+| 炉石传说 | 万智牌 | 游戏王 | 昆特牌 | 影之诗 | 符文之地传奇 | 阴阳师百闻牌 |
+| :------: | :----: | :----: | :----: | :----: | :----------: | :----------: |
+|    17    |   18   |   16   |   19   |   20   |      329     |      221     |
+
+| 英雄联盟 | 电子游戏 | 桌面游戏 | 卡牌游戏 | 玩家杂谈 | 二次元 |
+| :------: | :------: | :------: | :------: | :------: | :----: |
+|    112   |    389   |    24    |    102   |    23    |   117  |
 
 ## Parameters
-_None_
+- `tagId`: 订阅分区类型
 
 
 ## Features
@@ -38,12 +44,17 @@ _None_
   "categories": [
     "game"
   ],
+  "description": "| 炉石传说 | 万智牌 | 游戏王 | 昆特牌 | 影之诗 | 符文之地传奇 | 阴阳师百闻牌 |\n| :------: | :----: | :----: | :----: | :----: | :----------: | :----------: |\n|    17    |   18   |   16   |   19   |   20   |      329     |      221     |\n\n| 英雄联盟 | 电子游戏 | 桌面游戏 | 卡牌游戏 | 玩家杂谈 | 二次元 |\n| :------: | :------: | :------: | :------: | :------: | :----: |\n|    112   |    389   |    24    |    102   |    23    |   117  |",
+  "example": "/lfsyd/tag/17",
   "heat": 90,
   "location": "tag.ts",
   "maintainers": [
     "auto-bot-ty"
   ],
-  "name": "Unknown",
+  "name": "分区",
+  "parameters": {
+    "tagId": "订阅分区类型"
+  },
   "path": "/tag/:tagId?",
   "radar": [
     {
@@ -78,6 +89,7 @@ _None_
       "type": "feed",
       "url": "rsshub://lfsyd/tag/16"
     }
-  ]
+  ],
+  "url": "www.iyingdi.com/"
 }
 ```

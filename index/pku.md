@@ -90,7 +90,7 @@
 - Categories: `university`
 - Maintainers: `legr4ndk`
 
-### Unknown
+### 软件与微电子学院 - 通知公告
 - Route ID: `pku:/pku/ss/notice`
 - Route Path: `/pku/ss/notice`
 - File: `docs/routes/pku/pku-ss-notice.md`

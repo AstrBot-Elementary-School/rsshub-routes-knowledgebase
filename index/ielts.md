@@ -10,10 +10,10 @@
 
 ## Routes
 
-### Unknown
+### 最新消息
 - Route ID: `ielts:/ielts/`
 - Route Path: `/ielts/`
 - File: `docs/routes/ielts/ielts.md`
 - File Name: `ielts.md`
-- Categories: `other`
+- Categories: `study`
 - Maintainers: `zenxds`

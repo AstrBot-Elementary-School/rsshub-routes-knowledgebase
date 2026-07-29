@@ -1,4 +1,4 @@
-# 链捕手 ChainCatcher - Unknown
+# 链捕手 ChainCatcher - 首页
 
 ## Coverage
 `index-only`
@@ -7,8 +7,8 @@
 - Namespace: `chaincatcher`
 - Namespace Name: `链捕手 ChainCatcher`
 - Route Path: `/chaincatcher/`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `首页`
+- Example: `/chaincatcher`
 - URL: `chaincatcher.com/`
 - Language: `_None_`
 - Categories: `new-media`
@@ -38,12 +38,13 @@ _None_
   "categories": [
     "new-media"
   ],
+  "example": "/chaincatcher",
   "heat": 0,
   "location": "home.tsx",
   "maintainers": [
     "TonyRL"
   ],
-  "name": "Unknown",
+  "name": "首页",
   "path": "/",
   "radar": [
     {

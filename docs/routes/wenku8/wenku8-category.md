@@ -1,4 +1,4 @@
-# 轻小说文库 - Unknown
+# 轻小说文库 - 首页分类
 
 ## Coverage
 `index-only`
@@ -7,8 +7,8 @@
 - Namespace: `wenku8`
 - Namespace Name: `轻小说文库`
 - Route Path: `/wenku8/:category?`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `首页分类`
+- Example: `/wenku8/lastupdate`
 - URL: `www.wenku8.net`
 - Language: `_None_`
 - Categories: `reading`
@@ -17,14 +17,16 @@
 - Source Module: `_None_`
 
 ## Description
-_None_
+|  今日更新  | 完结全本 | 新书一览 | 动画化作品 | 热门轻小说 |  轻小说列表 |
+| :--------: | :------: | :------: | :--------: | :--------: | :---------: |
+| lastupdate | fullflag | postdate |    anime   |  allvisit  | articlelist |
 
 ## Parameters
-_None_
+- `category`: 首页分类，见下表，默认为今日更新
 
 
 ## Features
-_None_
+- `requireConfig`: [{"description": "登陆轻小说文库后的 cookie", "name": "WENKU8_COOKIE"}]
 
 ## Radar
 _None_
@@ -35,12 +37,25 @@ _None_
   "categories": [
     "reading"
   ],
+  "description": "|  今日更新  | 完结全本 | 新书一览 | 动画化作品 | 热门轻小说 |  轻小说列表 |\n| :--------: | :------: | :------: | :--------: | :--------: | :---------: |\n| lastupdate | fullflag | postdate |    anime   |  allvisit  | articlelist |",
+  "example": "/wenku8/lastupdate",
+  "features": {
+    "requireConfig": [
+      {
+        "description": "登陆轻小说文库后的 cookie",
+        "name": "WENKU8_COOKIE"
+      }
+    ]
+  },
   "heat": 2,
   "location": "index.ts",
   "maintainers": [
     "Fatpandac"
   ],
-  "name": "Unknown",
+  "name": "首页分类",
+  "parameters": {
+    "category": "首页分类，见下表，默认为今日更新"
+  },
   "path": "/:category?",
   "topFeeds": [
     {

@@ -79,7 +79,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 68,
+  "heat": 67,
   "location": "index.tsx",
   "maintainers": [
     "xzzpig"
@@ -97,7 +97,7 @@ _None_
   "topFeeds": [
     {
       "description": "对不起，页面未找到 - Powered by RSSHub",
-      "errorAt": "2026-07-27T04:30:47.405Z",
+      "errorAt": "2026-07-28T07:11:51.113Z",
       "errorMessage": "[GET] \"https://www.3kns.com/forum.php?mod=forumdisplay&fid=2&filter=sortid&typeid=0&sortid=1&searchsort=1&orderbystr=0&dztgeshi=all&dztfenlei=all&nex_sg_tags=all&deanbgbs=all&nex_sg_stars=all\": <no response> fetch failed (certificate has expired)\n[GET] \"https://www.3kns.com/forum.php?mod=forumdisplay&fid=2&filter=sortid&typeid=0&sortid=1&searchsort=1&orderbystr=0&dztgeshi=all&dztfenlei=all&nex_sg_tags=all&deanbgbs=all&nex_sg_stars=all\": <no response> fetch failed (certificate has expired)\n",
       "id": "53315487909941248",
       "image": null,
@@ -109,7 +109,7 @@ _None_
     },
     {
       "description": "对不起，页面未找到 - Powered by RSSHub",
-      "errorAt": "2026-07-27T03:17:44.591Z",
+      "errorAt": "2026-07-28T03:15:14.940Z",
       "errorMessage": "[GET] \"https://www.3kns.com/forum.php?mod=forumdisplay&fid=2&filter=sortid&typeid=0&sortid=1&searchsort=1&orderbystr=0&dztgeshi=all&dztfenlei=all&nex_sg_tags=all&deanbgbs=all&nex_sg_stars=all\": <no response> fetch failed (certificate has expired)\n",
       "id": "86932236568616960",
       "image": null,

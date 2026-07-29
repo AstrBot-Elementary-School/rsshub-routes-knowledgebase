@@ -12,7 +12,7 @@
 - URL: `aamacau.com/`
 - Language: `_None_`
 - Categories: `new-media`
-- Maintainers: `None`
+- Maintainers: `nczitzk`
 - Source Location: `index.ts`
 - Source Module: `_None_`
 
@@ -65,7 +65,9 @@
   },
   "heat": 5,
   "location": "index.ts",
-  "maintainers": [],
+  "maintainers": [
+    "nczitzk"
+  ],
   "name": "话题",
   "parameters": {
     "category": "分类，见下表，默认为即時報道",

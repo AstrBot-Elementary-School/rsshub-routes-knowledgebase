@@ -10,10 +10,10 @@
 
 ## Routes
 
-### Unknown
+### 首页
 - Route ID: `medieval-china:/medieval-china/`
 - Route Path: `/medieval-china/`
 - File: `docs/routes/medieval-china/medieval-china.md`
 - File Name: `medieval-china.md`
-- Categories: `other`
+- Categories: `reading`
 - Maintainers: `artefaritaKuniklo`

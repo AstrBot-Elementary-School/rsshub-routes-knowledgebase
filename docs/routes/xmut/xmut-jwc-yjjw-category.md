@@ -1,4 +1,4 @@
-# 厦门理工大学 - Unknown
+# 厦门理工大学 - 研究生处
 
 ## Coverage
 `index-only`
@@ -7,20 +7,22 @@
 - Namespace: `xmut`
 - Namespace Name: `厦门理工大学`
 - Route Path: `/xmut/jwc/yjjw/:category?`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `研究生处`
+- Example: `/xmut/jwc/yjjw/tzgg`
 - URL: `jwc.xmut.edu.cn`
 - Language: `_None_`
-- Categories: `other`
-- Maintainers: `None`
+- Categories: `university`
+- Maintainers: `icecliffs`
 - Source Location: `jwc/yjs.ts`
 - Source Module: `_None_`
 
 ## Description
-_None_
+| 通知公告 | 新闻动态 | 学术研究 | 工作简讯 |
+| :------: | :------: | :------: | :------: |
+|   tzgg   |   xwdt   |   xstj   |   yjsjw  |
 
 ## Parameters
-_None_
+- `category`: 分类如下表
 
 
 ## Features
@@ -33,12 +35,19 @@ _None_
 ```json
 {
   "categories": [
-    "other"
+    "university"
   ],
+  "description": "| 通知公告 | 新闻动态 | 学术研究 | 工作简讯 |\n| :------: | :------: | :------: | :------: |\n|   tzgg   |   xwdt   |   xstj   |   yjsjw  |",
+  "example": "/xmut/jwc/yjjw/tzgg",
   "heat": 0,
   "location": "jwc/yjs.ts",
-  "maintainers": [],
-  "name": "Unknown",
+  "maintainers": [
+    "icecliffs"
+  ],
+  "name": "研究生处",
+  "parameters": {
+    "category": "分类如下表"
+  },
   "path": "/jwc/yjjw/:category?",
   "topFeeds": []
 }

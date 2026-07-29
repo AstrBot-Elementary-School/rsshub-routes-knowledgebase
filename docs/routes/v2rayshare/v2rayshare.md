@@ -1,4 +1,4 @@
-# V2rayShare - Unknown
+# V2rayShare - 免费节点
 
 ## Coverage
 `index-only`
@@ -7,8 +7,8 @@
 - Namespace: `v2rayshare`
 - Namespace Name: `V2rayShare`
 - Route Path: `/v2rayshare/`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `免费节点`
+- Example: `/v2rayshare`
 - URL: `v2rayshare.com/`
 - Language: `_None_`
 - Categories: `other`
@@ -17,7 +17,7 @@
 - Source Module: `_None_`
 
 ## Description
-_None_
+获取来自 V2rayShare 的免费节点，可以通过链接复制或下载
 
 ## Parameters
 _None_
@@ -38,12 +38,14 @@ _None_
   "categories": [
     "other"
   ],
+  "description": "获取来自 V2rayShare 的免费节点，可以通过链接复制或下载",
+  "example": "/v2rayshare",
   "heat": 0,
   "location": "index.ts",
   "maintainers": [
     "77taibai"
   ],
-  "name": "Unknown",
+  "name": "免费节点",
   "path": "/",
   "radar": [
     {

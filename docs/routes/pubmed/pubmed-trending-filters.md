@@ -1,4 +1,4 @@
-# PubMed - Unknown
+# PubMed - Trending articles
 
 ## Coverage
 `index-only`
@@ -7,20 +7,24 @@
 - Namespace: `pubmed`
 - Namespace Name: `PubMed`
 - Route Path: `/pubmed/trending/:filters?`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `Trending articles`
+- Example: `/pubmed/trending`
 - URL: `pubmed.ncbi.nlm.nih.gov`
 - Language: `_None_`
-- Categories: `other`
-- Maintainers: `nczitzk`
+- Categories: `journal`
+- Maintainers: `y9c, nczitzk`
 - Source Location: `trending.tsx`
 - Source Module: `_None_`
 
 ## Description
-_None_
+::: tip
+For the parameter **filter**, the `filter` parameter in the URL should be split into a string by `,`, here is an example.
+
+In `https://pubmed.ncbi.nlm.nih.gov/trending/?filter=simsearch1.fha&filter=pubt.clinicaltrial&filter=pubt.randomizedcontrolledtrial`, the filter parameters are `simsearch1.fha`, `pubt.clinicaltrial`, and `pubt.randomizedcontrolledtrial`. Therefore, the filter corresponding to the route should be filled with `simsearch1.fha,pubt.clinicaltrial,pubt.randomizedcontrolledtrial`, and the route is [`/pubmed/trending/simsearch1.fha,pubt.clinicaltrial,pubt.randomizedcontrolledtrial`](https://rsshub.app/pubmed/trending/simsearch1.fha,pubt.clinicaltrial,pubt.randomizedcontrolledtrial)
+:::
 
 ## Parameters
-_None_
+- `filters`: Filters, can be found in URL
 
 
 ## Features
@@ -33,14 +37,20 @@ _None_
 ```json
 {
   "categories": [
-    "other"
+    "journal"
   ],
+  "description": "::: tip\nFor the parameter **filter**, the `filter` parameter in the URL should be split into a string by `,`, here is an example.\n\nIn `https://pubmed.ncbi.nlm.nih.gov/trending/?filter=simsearch1.fha&filter=pubt.clinicaltrial&filter=pubt.randomizedcontrolledtrial`, the filter parameters are `simsearch1.fha`, `pubt.clinicaltrial`, and `pubt.randomizedcontrolledtrial`. Therefore, the filter corresponding to the route should be filled with `simsearch1.fha,pubt.clinicaltrial,pubt.randomizedcontrolledtrial`, and the route is [`/pubmed/trending/simsearch1.fha,pubt.clinicaltrial,pubt.randomizedcontrolledtrial`](https://rsshub.app/pubmed/trending/simsearch1.fha,pubt.clinicaltrial,pubt.randomizedcontrolledtrial)\n:::",
+  "example": "/pubmed/trending",
   "heat": 4,
   "location": "trending.tsx",
   "maintainers": [
+    "y9c",
     "nczitzk"
   ],
-  "name": "Unknown",
+  "name": "Trending articles",
+  "parameters": {
+    "filters": "Filters, can be found in URL"
+  },
   "path": "/trending/:filters?",
   "topFeeds": [
     {

@@ -10,18 +10,18 @@
 
 ## Routes
 
-### Unknown
+### 分類
 - Route ID: `gamme:/gamme/:domain/:category?`
 - Route Path: `/gamme/:domain/:category?`
 - File: `docs/routes/gamme/gamme-domain-category.md`
 - File Name: `gamme-domain-category.md`
-- Categories: `other`
-- Maintainers: `None`
+- Categories: `new-media`
+- Maintainers: `TonyRL`
 
-### Unknown
+### 標籤
 - Route ID: `gamme:/gamme/:domain/tag/:tag`
 - Route Path: `/gamme/:domain/tag/:tag`
 - File: `docs/routes/gamme/gamme-domain-tag-tag.md`
 - File Name: `gamme-domain-tag-tag.md`
-- Categories: `other`
-- Maintainers: `None`
+- Categories: `new-media`
+- Maintainers: `TonyRL`

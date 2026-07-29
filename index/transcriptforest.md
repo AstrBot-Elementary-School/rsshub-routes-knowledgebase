@@ -10,10 +10,10 @@
 
 ## Routes
 
-### Unknown
+### Channel
 - Route ID: `transcriptforest:/transcriptforest/:channel?`
 - Route Path: `/transcriptforest/:channel?`
 - File: `docs/routes/transcriptforest/transcriptforest-channel.md`
 - File Name: `transcriptforest-channel.md`
-- Categories: `other`
+- Categories: `multimedia`
 - Maintainers: `nczitzk`

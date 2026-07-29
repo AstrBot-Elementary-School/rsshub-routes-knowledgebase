@@ -16,4 +16,4 @@
 - File: `docs/routes/digitalcameraworld/digitalcameraworld-news.md`
 - File Name: `digitalcameraworld-news.md`
 - Categories: `new-media`
-- Maintainers: `EthanWng97`
+- Maintainers: `IvanWng97`

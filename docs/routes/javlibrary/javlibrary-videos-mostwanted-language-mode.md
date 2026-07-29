@@ -1,4 +1,4 @@
-# JAVLibrary - Unknown
+# JAVLibrary - Most Wanted Videos
 
 ## Coverage
 `index-only`
@@ -7,12 +7,12 @@
 - Namespace: `javlibrary`
 - Namespace Name: `JAVLibrary`
 - Route Path: `/javlibrary/videos/mostwanted/:language?/:mode?`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `Most Wanted Videos`
+- Example: `/javlibrary/mostwanted/en`
 - URL: `javlibrary.com`
 - Language: `_None_`
 - Categories: `multimedia`
-- Maintainers: `None`
+- Maintainers: `nczitzk`
 - Source Location: `mostwanted.ts`
 - Source Module: `_None_`
 
@@ -22,7 +22,8 @@
 | 1          | 2        |
 
 ## Parameters
-_None_
+- `language`: Language, see below, Japanese by default, as `ja`
+- `mode`: Mode, see below, Last Month by default, as `1`
 
 
 ## Features
@@ -38,13 +39,20 @@ _None_
     "multimedia"
   ],
   "description": "| Last Month | All Time |\n| ---------- | -------- |\n| 1          | 2        |",
+  "example": "/javlibrary/mostwanted/en",
   "features": {
     "nsfw": true
   },
   "heat": 0,
   "location": "mostwanted.ts",
-  "maintainers": [],
-  "name": "Unknown",
+  "maintainers": [
+    "nczitzk"
+  ],
+  "name": "Most Wanted Videos",
+  "parameters": {
+    "language": "Language, see below, Japanese by default, as `ja`",
+    "mode": "Mode, see below, Last Month by default, as `1`"
+  },
   "path": [
     "/videos/mostwanted/:language?/:mode?",
     "/mostwanted/:language?/:mode?"

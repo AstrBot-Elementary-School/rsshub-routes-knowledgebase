@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 60,
+  "heat": 59,
   "location": "blog.ts",
   "maintainers": [
     "KaiyoungYu"

@@ -98,13 +98,13 @@
 - Categories: `social-media`
 - Maintainers: `clarkzsd`
 
-### Unknown
+### 浏览发现分栏目
 - Route ID: `douban:/douban/explore/column/:id`
 - Route Path: `/douban/explore/column/:id`
 - File: `docs/routes/douban/douban-explore-column-id.md`
 - File Name: `douban-explore-column-id.md`
 - Categories: `social-media`
-- Maintainers: `None`
+- Maintainers: `LogicJake`
 
 ### 豆瓣小组
 - Route ID: `douban:/douban/group/:groupid/:type?`

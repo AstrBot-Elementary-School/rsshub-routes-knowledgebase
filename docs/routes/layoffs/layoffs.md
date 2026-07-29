@@ -8,7 +8,7 @@
 - Namespace Name: `Layoffs.fyi`
 - Route Path: `/layoffs/`
 - Route Name: `Layoff Data Tracker`
-- Example: `_None_`
+- Example: `/layoffs`
 - URL: `layoffs.fyi/`
 - Language: `_None_`
 - Categories: `other`
@@ -38,6 +38,7 @@ _None_
   "categories": [
     "other"
   ],
+  "example": "/layoffs",
   "heat": 0,
   "location": "index.ts",
   "maintainers": [

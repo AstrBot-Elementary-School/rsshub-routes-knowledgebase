@@ -432,7 +432,8 @@
     }
   ],
   "test": {
-    "code": 0
+    "code": 1,
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
   "topFeeds": [
     {
@@ -449,15 +450,15 @@
     },
     {
       "description": "华中科技大学研究生院 - Powered by RSSHub",
-      "errorAt": "2026-05-18T17:08:04.826Z",
-      "errorMessage": "[GET] \"https://gs.hust.edu.cn/gzzd/zhgl.htm\": <no response> fetch failed\n",
-      "id": "73885764596009984",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "73885667613418496",
       "image": "https://gs.hust.edu.cn/img/logo.png",
       "ownerUserId": null,
-      "siteUrl": "https://gs.hust.edu.cn/gzzd/zhgl.htm",
+      "siteUrl": "https://gs.hust.edu.cn/yjsfwzq.htm",
       "title": "华中科技大学研究生院",
       "type": "feed",
-      "url": "rsshub://hust/gs/gzzd/zhgl"
+      "url": "rsshub://hust/gs/yjsfwzq"
     }
   ],
   "url": "gs.hust.edu.cn"

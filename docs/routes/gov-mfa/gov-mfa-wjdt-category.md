@@ -8,7 +8,7 @@
 - Namespace Name: `中华人民共和国外交部`
 - Route Path: `/gov/mfa/wjdt/:category?`
 - Route Name: `外交动态`
-- Example: `_None_`
+- Example: `/gov/mfa/wjdt/fyrbt`
 - URL: `www.mfa.gov.cn`
 - Language: `_None_`
 - Categories: `government`
@@ -30,7 +30,7 @@
 | 政策解读   | zcjd     |
 
 ## Parameters
-_None_
+- `category`: 分类，见下表，默认为领导人活动
 
 
 ## Features
@@ -46,6 +46,7 @@ _None_
     "government"
   ],
   "description": "| 分类       | category |\n| ---------- | -------- |\n| 领导人活动 | gjldrhd  |\n| 外事日程   | wsrc     |\n| 部领导活动 | wjbxw    |\n| 业务动态   | sjxw     |\n| 发言人表态 | fyrbt    |\n| 吹风会     | cfhsl    |\n| 大使任免   | dsrm     |\n| 驻外报道   | zwbd     |\n| 政策解读   | zcjd     |",
+  "example": "/gov/mfa/wjdt/fyrbt",
   "heat": 78,
   "location": "wjdt.ts",
   "maintainers": [
@@ -53,6 +54,9 @@ _None_
     "nczitzk"
   ],
   "name": "外交动态",
+  "parameters": {
+    "category": "分类，见下表，默认为领导人活动"
+  },
   "path": "/wjdt/:category?",
   "topFeeds": [
     {

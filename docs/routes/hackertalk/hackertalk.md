@@ -1,4 +1,4 @@
-# HACKER TALK 黑客说 - Unknown
+# HACKER TALK 黑客说 - 最新帖子
 
 ## Coverage
 `index-only`
@@ -7,11 +7,11 @@
 - Namespace: `hackertalk`
 - Namespace Name: `HACKER TALK 黑客说`
 - Route Path: `/hackertalk/`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `最新帖子`
+- Example: `/hackertalk`
 - URL: `hackertalk.net/`
 - Language: `_None_`
-- Categories: `other`
+- Categories: `bbs`
 - Maintainers: `hyoban`
 - Source Location: `index.ts`
 - Source Module: `_None_`
@@ -36,14 +36,15 @@ _None_
 ```json
 {
   "categories": [
-    "other"
+    "bbs"
   ],
+  "example": "/hackertalk",
   "heat": 0,
   "location": "index.ts",
   "maintainers": [
     "hyoban"
   ],
-  "name": "Unknown",
+  "name": "最新帖子",
   "path": "/",
   "radar": [
     {

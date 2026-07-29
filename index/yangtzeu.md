@@ -10,10 +10,10 @@
 
 ## Routes
 
-### Unknown
-- Route ID: `yangtzeu:/yangtzeu/dongke/*`
-- Route Path: `/yangtzeu/dongke/*`
-- File: `docs/routes/yangtzeu/yangtzeu-dongke.md`
-- File Name: `yangtzeu-dongke.md`
-- Categories: `other`
-- Maintainers: `None`
+### 动物科学学院
+- Route ID: `yangtzeu:/yangtzeu/dongke/:path{.+}?`
+- Route Path: `/yangtzeu/dongke/:path{.+}?`
+- File: `docs/routes/yangtzeu/yangtzeu-dongke-path.md`
+- File Name: `yangtzeu-dongke-path.md`
+- Categories: `university`
+- Maintainers: `nczitzk`

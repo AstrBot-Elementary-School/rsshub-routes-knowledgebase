@@ -10,10 +10,10 @@
 
 ## Routes
 
-### Unknown
+### Publish
 - Route ID: `wmc-bj:/wmc-bj/publish/:category{.+}?`
 - Route Path: `/wmc-bj/publish/:category{.+}?`
 - File: `docs/routes/wmc-bj/wmc-bj-publish-category.md`
 - File Name: `wmc-bj-publish-category.md`
 - Categories: `other`
-- Maintainers: `None`
+- Maintainers: `nczitzk`

@@ -16,4 +16,4 @@
 - File: `docs/routes/newyorker/newyorker-category.md`
 - File Name: `newyorker-category.md`
 - Categories: `traditional-media, popular`
-- Maintainers: `EthanWng97, pseudoyu`
+- Maintainers: `IvanWng97, pseudoyu`

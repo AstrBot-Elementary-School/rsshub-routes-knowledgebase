@@ -10,10 +10,10 @@
 
 ## Routes
 
-### Unknown
+### Your weekly dose of JS
 - Route ID: `bytes:/bytes/`
 - Route Path: `/bytes/`
 - File: `docs/routes/bytes/bytes.md`
 - File Name: `bytes.md`
-- Categories: `other`
+- Categories: `programming`
 - Maintainers: `meixger`

@@ -18,37 +18,37 @@
 - Categories: `game`
 - Maintainers: `HFO4`
 
-### Unknown
+### eShop New Game Releases (CN)
 - Route ID: `nintendo:/nintendo/eshop/cn`
 - Route Path: `/nintendo/eshop/cn`
 - File: `docs/routes/nintendo/nintendo-eshop-cn.md`
 - File Name: `nintendo-eshop-cn.md`
 - Categories: `game`
-- Maintainers: `None`
+- Maintainers: `HFO4`
 
-### Unknown
+### eShop New Game Releases (HK)
 - Route ID: `nintendo:/nintendo/eshop/hk`
 - Route Path: `/nintendo/eshop/hk`
 - File: `docs/routes/nintendo/nintendo-eshop-hk.md`
 - File Name: `nintendo-eshop-hk.md`
 - Categories: `game`
-- Maintainers: `None`
+- Maintainers: `HFO4`
 
-### Unknown
+### eShop New Game Releases (JP)
 - Route ID: `nintendo:/nintendo/eshop/jp`
 - Route Path: `/nintendo/eshop/jp`
 - File: `docs/routes/nintendo/nintendo-eshop-jp.md`
 - File Name: `nintendo-eshop-jp.md`
 - Categories: `game`
-- Maintainers: `None`
+- Maintainers: `HFO4`
 
-### Unknown
+### eShop New Game Releases (US)
 - Route ID: `nintendo:/nintendo/eshop/us`
 - Route Path: `/nintendo/eshop/us`
 - File: `docs/routes/nintendo/nintendo-eshop-us.md`
 - File Name: `nintendo-eshop-us.md`
 - Categories: `game`
-- Maintainers: `None`
+- Maintainers: `HFO4`
 
 ### News（Hong Kong only）
 - Route ID: `nintendo:/nintendo/news`

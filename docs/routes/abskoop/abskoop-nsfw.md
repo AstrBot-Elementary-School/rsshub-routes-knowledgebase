@@ -8,10 +8,10 @@
 - Namespace Name: `A 姐分享`
 - Route Path: `/abskoop/nsfw`
 - Route Name: `存档列表 - NSFW`
-- Example: `_None_`
+- Example: `/abskoop/nsfw`
 - URL: `ahhhhfs.com/`
 - Language: `_None_`
-- Categories: `other`
+- Categories: `multimedia`
 - Maintainers: `zhenhappy`
 - Source Location: `nsfw.ts`
 - Source Module: `_None_`
@@ -36,8 +36,9 @@ _None_
 ```json
 {
   "categories": [
-    "other"
+    "multimedia"
   ],
+  "example": "/abskoop/nsfw",
   "features": {
     "nsfw": true
   },

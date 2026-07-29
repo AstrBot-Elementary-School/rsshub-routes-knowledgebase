@@ -12,7 +12,7 @@
 - URL: `danjuanapp.com`
 - Language: `_None_`
 - Categories: `finance`
-- Maintainers: `None`
+- Maintainers: `zytomorrow`
 - Source Location: `stock-comments.tsx`
 - Source Module: `_None_`
 
@@ -53,7 +53,9 @@ _None_
   },
   "heat": 8,
   "location": "stock-comments.tsx",
-  "maintainers": [],
+  "maintainers": [
+    "zytomorrow"
+  ],
   "name": "股票评论",
   "parameters": {
     "id": "股票代码（需要带上交易所）"

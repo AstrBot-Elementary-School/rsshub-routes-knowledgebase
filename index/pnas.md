@@ -10,10 +10,10 @@
 
 ## Routes
 
-### Unknown
+### Journal
 - Route ID: `pnas:/pnas/:topicPath{.+}?`
 - Route Path: `/pnas/:topicPath{.+}?`
 - File: `docs/routes/pnas/pnas-topicpath.md`
 - File Name: `pnas-topicpath.md`
-- Categories: `other`
-- Maintainers: `None`
+- Categories: `journal`
+- Maintainers: `emdoe, HenryQW, y9c`

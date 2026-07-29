@@ -16,4 +16,4 @@
 - File: `docs/routes/gdsrx/gdsrx-id.md`
 - File Name: `gdsrx-id.md`
 - Categories: `other`
-- Maintainers: `None`
+- Maintainers: `nczitzk`

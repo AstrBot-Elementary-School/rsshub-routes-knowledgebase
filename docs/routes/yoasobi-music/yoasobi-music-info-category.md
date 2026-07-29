@@ -12,7 +12,7 @@
 - URL: `www.yoasobi-music.jp/`
 - Language: `_None_`
 - Categories: `live`
-- Maintainers: `None`
+- Maintainers: `Kiotlin`
 - Source Location: `info.tsx`
 - Source Module: `_None_`
 
@@ -55,7 +55,9 @@ _None_
   },
   "heat": 7,
   "location": "info.tsx",
-  "maintainers": [],
+  "maintainers": [
+    "Kiotlin"
+  ],
   "name": "News & Biography",
   "parameters": {
     "category": "`news`, `biography`"

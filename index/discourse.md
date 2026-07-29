@@ -16,7 +16,7 @@
 - File: `docs/routes/discourse/discourse-configid-notifications-fulltext.md`
 - File Name: `discourse-configid-notifications-fulltext.md`
 - Categories: `bbs`
-- Maintainers: `None`
+- Maintainers: `dzx-dzx`
 
 ### Official RSS
 - Route ID: `discourse:/discourse/:configId/official/:path{.+}`

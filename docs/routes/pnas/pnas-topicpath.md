@@ -1,4 +1,4 @@
-# Proceedings of The National Academy of Sciences - Unknown
+# Proceedings of The National Academy of Sciences - Journal
 
 ## Coverage
 `index-only`
@@ -7,24 +7,28 @@
 - Namespace: `pnas`
 - Namespace Name: `Proceedings of The National Academy of Sciences`
 - Route Path: `/pnas/:topicPath{.+}?`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `Journal`
+- Example: `/pnas/latest`
 - URL: `pnas.org/*topicPath`
 - Language: `_None_`
-- Categories: `other`
-- Maintainers: `None`
+- Categories: `journal`
+- Maintainers: `emdoe, HenryQW, y9c`
 - Source Location: `index.tsx`
 - Source Module: `_None_`
 
 ## Description
-_None_
+::: tip
+Some topics require adding `topic/` to `topicPath` like [`/pnas/topic/app-math`](https://rsshub.app/pnas/topic/app-math) and some don't like [`/pnas/biophysics-and-computational-biology`](https://rsshub.app/pnas/biophysics-and-computational-biology)
+:::
 
 ## Parameters
-_None_
+- `topicPath`: Topic path, support **Featured Topics**, **Articles By Topic** and [**Collected Papers**](https://www.pnas.org/about/collected-papers), `latest` by default
 
 
 ## Features
-_None_
+- `requirePuppeteer`: true
+- `antiCrawler`: true
+- `supportScihub`: true
 
 ## Radar
 ### Rule 1
@@ -36,12 +40,26 @@ _None_
 ```json
 {
   "categories": [
-    "other"
+    "journal"
   ],
+  "description": "::: tip\nSome topics require adding `topic/` to `topicPath` like [`/pnas/topic/app-math`](https://rsshub.app/pnas/topic/app-math) and some don't like [`/pnas/biophysics-and-computational-biology`](https://rsshub.app/pnas/biophysics-and-computational-biology)\n:::",
+  "example": "/pnas/latest",
+  "features": {
+    "antiCrawler": true,
+    "requirePuppeteer": true,
+    "supportScihub": true
+  },
   "heat": 0,
   "location": "index.tsx",
-  "maintainers": [],
-  "name": "Unknown",
+  "maintainers": [
+    "emdoe",
+    "HenryQW",
+    "y9c"
+  ],
+  "name": "Journal",
+  "parameters": {
+    "topicPath": "Topic path, support **Featured Topics**, **Articles By Topic** and [**Collected Papers**](https://www.pnas.org/about/collected-papers), `latest` by default"
+  },
   "path": "/:topicPath{.+}?",
   "radar": [
     {

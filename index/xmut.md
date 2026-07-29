@@ -10,18 +10,18 @@
 
 ## Routes
 
-### Unknown
+### 本科生教务处
 - Route ID: `xmut:/xmut/jwc/bkjw/:category?`
 - Route Path: `/xmut/jwc/bkjw/:category?`
 - File: `docs/routes/xmut/xmut-jwc-bkjw-category.md`
 - File Name: `xmut-jwc-bkjw-category.md`
-- Categories: `other`
-- Maintainers: `None`
+- Categories: `university`
+- Maintainers: `icecliffs`
 
-### Unknown
+### 研究生处
 - Route ID: `xmut:/xmut/jwc/yjjw/:category?`
 - Route Path: `/xmut/jwc/yjjw/:category?`
 - File: `docs/routes/xmut/xmut-jwc-yjjw-category.md`
 - File Name: `xmut-jwc-yjjw-category.md`
-- Categories: `other`
-- Maintainers: `None`
+- Categories: `university`
+- Maintainers: `icecliffs`

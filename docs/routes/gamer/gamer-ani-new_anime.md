@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 270,
+  "heat": 271,
   "location": "ani/new-anime.ts",
   "maintainers": [
     "maple3142",

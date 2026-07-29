@@ -1,4 +1,4 @@
-# fish shell - Unknown
+# fish shell - Release Notes
 
 ## Coverage
 `index-only`
@@ -7,11 +7,11 @@
 - Namespace: `fishshell`
 - Namespace Name: `fish shell`
 - Route Path: `/fishshell/`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `Release Notes`
+- Example: `/fishshell`
 - URL: `fishshell.com/`
 - Language: `_None_`
-- Categories: `other`
+- Categories: `program-update`
 - Maintainers: `x2cf`
 - Source Location: `index.ts`
 - Source Module: `_None_`
@@ -36,14 +36,15 @@ _None_
 ```json
 {
   "categories": [
-    "other"
+    "program-update"
   ],
+  "example": "/fishshell",
   "heat": 0,
   "location": "index.ts",
   "maintainers": [
     "x2cf"
   ],
-  "name": "Unknown",
+  "name": "Release Notes",
   "path": "/",
   "radar": [
     {

@@ -12,7 +12,7 @@
 - URL: `sakurazaka46.com`
 - Language: `_None_`
 - Categories: `new-media`
-- Maintainers: `victor21813, nczitzk, akashigakki`
+- Maintainers: `victor21813, nczitzk, AkashiGakki`
 - Source Location: `blog.ts`
 - Source Module: `_None_`
 
@@ -93,7 +93,7 @@ _None_
   "maintainers": [
     "victor21813",
     "nczitzk",
-    "akashigakki"
+    "AkashiGakki"
   ],
   "name": "Sakurazaka46 Blog 櫻坂 46 博客",
   "parameters": {

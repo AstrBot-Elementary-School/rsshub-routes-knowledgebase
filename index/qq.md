@@ -10,13 +10,13 @@
 
 ## Routes
 
-### Unknown
+### 漫画
 - Route ID: `qq:/qq/ac/comic/:id?`
 - Route Path: `/qq/ac/comic/:id?`
 - File: `docs/routes/qq/qq-ac-comic-id.md`
 - File Name: `qq-ac-comic-id.md`
-- Categories: `new-media`
-- Maintainers: `None`
+- Categories: `anime`
+- Maintainers: `nczitzk`
 
 ### 排行榜
 - Route ID: `qq:/qq/ac/rank/:type?/:time?`

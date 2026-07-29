@@ -134,7 +134,7 @@ _None_
     {
       "description": "明報新聞網-每日明報 RSS - Powered by RSSHub",
       "errorAt": "2026-02-04T20:51:42.711Z",
-      "errorMessage": "[GET] \"https://news.mingpao.com/pns/%e8%a6%81%e8%81%9e/article/20260724/s00001/1784829689539/%e4%b8%ad%e5%9c%8b%e7%b1%8d%e6%95%b8%e5%ad%b8%e5%ae%b6%e3%80%8c%e9%9b%99%e9%9f%bf%e3%80%8d%e9%a6%96%e7%8d%b2%e8%8f%b2%e7%88%be%e8%8c%b2%e7%8d%8e-%e7%8e%8b%e8%99%b9%e7%a0%b4%e8%a7%a3%e3%80%8c%e4%b8%89%e7%b6%ad%e6%8e%9b%e8%b0%b7%e7%8c%9c%e6%83%b3%e3%80%8d-%e9%84%a7%e7%85%9c%e6%94%bb%e5%85%8b%e3%80%8c%e5%b8%8c%e7%88%be%e4%bc%af%e7%89%b9%e7%ac%ac%e5%85%ad%e5%95%8f%e9%a1%8c%e3%80%8d\": 403 Forbidden\n",
+      "errorMessage": "Status code 406\n",
       "id": "79131389613658112",
       "image": "https://news.mingpao.com/image/mingpaonews_logo2.png",
       "ownerUserId": null,

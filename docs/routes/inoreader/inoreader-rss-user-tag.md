@@ -12,7 +12,7 @@
 - URL: `inoreader.com`
 - Language: `_None_`
 - Categories: `reading`
-- Maintainers: `EthanWng97`
+- Maintainers: `IvanWng97`
 - Source Location: `rss.ts`
 - Source Module: `_None_`
 
@@ -53,7 +53,7 @@ _None_
   "heat": 9,
   "location": "rss.ts",
   "maintainers": [
-    "EthanWng97"
+    "IvanWng97"
   ],
   "name": "RSS",
   "parameters": {

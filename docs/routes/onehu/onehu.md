@@ -1,4 +1,4 @@
-# 我不是盐神 - Unknown
+# 我不是盐神 - 首页
 
 ## Coverage
 `index-only`
@@ -7,11 +7,11 @@
 - Namespace: `onehu`
 - Namespace Name: `我不是盐神`
 - Route Path: `/onehu/`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `首页`
+- Example: `/onehu`
 - URL: `onehu.xyz`
 - Language: `_None_`
-- Categories: `other`
+- Categories: `new-media`
 - Maintainers: `ruoshui9527`
 - Source Location: `common.ts`
 - Source Module: `_None_`
@@ -33,14 +33,15 @@ _None_
 ```json
 {
   "categories": [
-    "other"
+    "new-media"
   ],
+  "example": "/onehu",
   "heat": 0,
   "location": "common.ts",
   "maintainers": [
     "ruoshui9527"
   ],
-  "name": "Unknown",
+  "name": "首页",
   "path": "/",
   "topFeeds": []
 }

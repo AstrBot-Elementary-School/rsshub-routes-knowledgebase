@@ -10,12 +10,12 @@
 
 ## Routes
 
-### Unknown
+### AWS Blogs
 - Route ID: `amazon:/amazon/awsblogs/:locale?`
 - Route Path: `/amazon/awsblogs/:locale?`
 - File: `docs/routes/amazon/amazon-awsblogs-locale.md`
 - File Name: `amazon-awsblogs-locale.md`
-- Categories: `program-update`
+- Categories: `blog`
 - Maintainers: `HankChow`
 
 ### Kindle Software Updates
@@ -24,4 +24,4 @@
 - File: `docs/routes/amazon/amazon-kindle-software-updates.md`
 - File Name: `amazon-kindle-software-updates.md`
 - Categories: `program-update`
-- Maintainers: `EthanWng97`
+- Maintainers: `IvanWng97`

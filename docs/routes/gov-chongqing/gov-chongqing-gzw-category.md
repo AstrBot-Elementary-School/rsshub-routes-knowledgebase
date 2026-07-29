@@ -8,7 +8,7 @@
 - Namespace Name: `重庆市人民政府`
 - Route Path: `/gov/chongqing/gzw/:category{.+}?`
 - Route Name: `国有资产监督管理委员会`
-- Example: `_None_`
+- Example: `/gov/chongqing/gzw`
 - URL: `gzw.cq.gov.cn`
 - Language: `_None_`
 - Categories: `government`
@@ -40,6 +40,7 @@ _None_
     "government"
   ],
   "description": "| 通知公告  | 国企资讯 | 国企简介 | 国企招聘 |\n| --------- | -------- | -------- | -------- |\n| tzgg\\_191 | gqdj     | gqjj     | gqzp     |",
+  "example": "/gov/chongqing/gzw",
   "heat": 1,
   "location": "gzw.ts",
   "maintainers": [

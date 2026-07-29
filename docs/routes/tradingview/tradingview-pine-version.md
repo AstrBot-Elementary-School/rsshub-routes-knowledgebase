@@ -1,4 +1,4 @@
-# TradingView - Unknown
+# TradingView - Pine Script™ Release notes
 
 ## Coverage
 `index-only`
@@ -7,20 +7,21 @@
 - Namespace: `tradingview`
 - Namespace Name: `TradingView`
 - Route Path: `/tradingview/pine/:version?`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `Pine Script™ Release notes`
+- Example: `/tradingview/pine`
 - URL: `tradingview.com`
 - Language: `_None_`
 - Categories: `program-update`
-- Maintainers: `None`
+- Maintainers: `nczitzk`
 - Source Location: `pine.ts`
 - Source Module: `_None_`
 
 ## Description
-_None_
+| v5 | v4 |
+| -- | -- |
 
 ## Parameters
-_None_
+- `version`: Version, see below, `v5` by default
 
 
 ## Features
@@ -38,10 +39,17 @@ _None_
   "categories": [
     "program-update"
   ],
+  "description": "| v5 | v4 |\n| -- | -- |",
+  "example": "/tradingview/pine",
   "heat": 0,
   "location": "pine.ts",
-  "maintainers": [],
-  "name": "Unknown",
+  "maintainers": [
+    "nczitzk"
+  ],
+  "name": "Pine Script™ Release notes",
+  "parameters": {
+    "version": "Version, see below, `v5` by default"
+  },
   "path": "/pine/:version?",
   "radar": [
     {

@@ -1,4 +1,4 @@
-# 三联生活周刊 - Unknown
+# 三联生活周刊 - 标签
 
 ## Coverage
 `index-only`
@@ -7,20 +7,24 @@
 - Namespace: `lifeweek`
 - Namespace Name: `三联生活周刊`
 - Route Path: `/lifeweek/tag/:id`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `标签`
+- Example: `/lifeweek/tag/122`
 - URL: `lifeweek.com.cn`
 - Language: `_None_`
-- Categories: `other`
-- Maintainers: `None`
+- Categories: `traditional-media`
+- Maintainers: `changren-wcr`
 - Source Location: `tag.ts`
 - Source Module: `_None_`
 
 ## Description
-_None_
+提取文章全文，获得更好的阅读体验。支持所有标签，标签名称见 [全部标签](https://www.lifeweek.com.cn/classify?type=1)。例如 [社会调查标签](https://www.lifeweek.com.cn/articleList/122) URL 最后的数字为标签 ID
+
+| 社会调查 | 社会 | 经济 | 理财 | 热点 |
+| -------- | ---- | ---- | ---- | ---- |
+| 122      | 21   | 73   | 74   | 123  |
 
 ## Parameters
-_None_
+- `id`: 标签 ID
 
 
 ## Features
@@ -36,12 +40,19 @@ _None_
 ```json
 {
   "categories": [
-    "other"
+    "traditional-media"
   ],
+  "description": "提取文章全文，获得更好的阅读体验。支持所有标签，标签名称见 [全部标签](https://www.lifeweek.com.cn/classify?type=1)。例如 [社会调查标签](https://www.lifeweek.com.cn/articleList/122) URL 最后的数字为标签 ID\n\n| 社会调查 | 社会 | 经济 | 理财 | 热点 |\n| -------- | ---- | ---- | ---- | ---- |\n| 122      | 21   | 73   | 74   | 123  |",
+  "example": "/lifeweek/tag/122",
   "heat": 12,
   "location": "tag.ts",
-  "maintainers": [],
-  "name": "Unknown",
+  "maintainers": [
+    "changren-wcr"
+  ],
+  "name": "标签",
+  "parameters": {
+    "id": "标签 ID"
+  },
   "path": "/tag/:id",
   "radar": [
     {

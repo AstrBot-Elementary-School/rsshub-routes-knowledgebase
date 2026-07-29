@@ -1,4 +1,4 @@
-# Stratechery by Ben Thompson - Unknown
+# Stratechery by Ben Thompson - Blog
 
 ## Coverage
 `index-only`
@@ -7,11 +7,11 @@
 - Namespace: `stratechery`
 - Namespace Name: `Stratechery by Ben Thompson`
 - Route Path: `/stratechery/`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `Blog`
+- Example: `/stratechery`
 - URL: `blog.stratechery.com`
 - Language: `_None_`
-- Categories: `other`
+- Categories: `blog`
 - Maintainers: `chazeon`
 - Source Location: `index.ts`
 - Source Module: `_None_`
@@ -33,14 +33,15 @@ _None_
 ```json
 {
   "categories": [
-    "other"
+    "blog"
   ],
+  "example": "/stratechery",
   "heat": 0,
   "location": "index.ts",
   "maintainers": [
     "chazeon"
   ],
-  "name": "Unknown",
+  "name": "Blog",
   "path": "/",
   "topFeeds": []
 }

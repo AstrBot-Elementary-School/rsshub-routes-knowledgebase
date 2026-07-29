@@ -10,7 +10,7 @@
 
 ## Routes
 
-### Unknown
+### 南都客户端（按南都号 ID）
 - Route ID: `oeeee:/oeeee/app/channel/:id`
 - Route Path: `/oeeee/app/channel/:id`
 - File: `docs/routes/oeeee/oeeee-app-channel-id.md`

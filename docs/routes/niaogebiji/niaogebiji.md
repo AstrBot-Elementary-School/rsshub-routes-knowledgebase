@@ -1,4 +1,4 @@
-# 鸟哥笔记 - Unknown
+# 鸟哥笔记 - 首页
 
 ## Coverage
 `index-only`
@@ -7,8 +7,8 @@
 - Namespace: `niaogebiji`
 - Namespace Name: `鸟哥笔记`
 - Route Path: `/niaogebiji/`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `首页`
+- Example: `/niaogebiji`
 - URL: `niaogebiji.com/`
 - Language: `_None_`
 - Categories: `new-media`
@@ -39,12 +39,13 @@ _None_
   "categories": [
     "new-media"
   ],
+  "example": "/niaogebiji",
   "heat": 0,
   "location": "index.ts",
   "maintainers": [
     "WenryXu"
   ],
-  "name": "Unknown",
+  "name": "首页",
   "path": "/",
   "radar": [
     {

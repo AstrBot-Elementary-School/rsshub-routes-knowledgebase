@@ -10,10 +10,10 @@
 
 ## Routes
 
-### Unknown
+### Book Series
 - Route ID: `routledge:/routledge/:bookName/book-series/:bookId`
 - Route Path: `/routledge/:bookName/book-series/:bookId`
 - File: `docs/routes/routledge/routledge-bookname-book-series-bookid.md`
 - File Name: `routledge-bookname-book-series-bookid.md`
-- Categories: `other`
+- Categories: `journal`
 - Maintainers: `TonyRL`

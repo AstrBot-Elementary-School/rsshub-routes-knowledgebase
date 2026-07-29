@@ -1,4 +1,4 @@
-# 有据 - Unknown
+# 有据 - 最新文章列表
 
 ## Coverage
 `index-only`
@@ -7,8 +7,8 @@
 - Namespace: `chinafactcheck`
 - Namespace Name: `有据`
 - Route Path: `/chinafactcheck/`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `最新文章列表`
+- Example: `/chinafactcheck`
 - URL: `chinafactcheck.com/`
 - Language: `_None_`
 - Categories: `other`
@@ -38,12 +38,13 @@ _None_
   "categories": [
     "other"
   ],
+  "example": "/chinafactcheck",
   "heat": 0,
   "location": "index.ts",
   "maintainers": [
     "kdanfly"
   ],
-  "name": "Unknown",
+  "name": "最新文章列表",
   "path": "/",
   "radar": [
     {

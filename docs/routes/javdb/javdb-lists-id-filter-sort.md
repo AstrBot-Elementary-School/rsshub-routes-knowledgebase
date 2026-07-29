@@ -1,4 +1,4 @@
-# JavDB - Unknown
+# JavDB - 清单
 
 ## Coverage
 `index-only`
@@ -7,8 +7,8 @@
 - Namespace: `javdb`
 - Namespace Name: `JavDB`
 - Route Path: `/javdb/lists/:id/:filter?/:sort?`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `清单`
+- Example: `/javdb/lists/2GPgB`
 - URL: `javdb.com/`
 - Language: `_None_`
 - Categories: `multimedia`
@@ -17,10 +17,22 @@
 - Source Module: `_None_`
 
 ## Description
-_None_
+过滤
+
+| 全部 | 占位 | 可播放   | 單體作品 | 含磁链   | 含字幕 | 預覽圖  |
+| ---- | ---- | -------- | -------- | -------- | ------ | ------- |
+|      | none | playable | single   | download | cnsub  | preview |
+
+排序
+
+| 加入时间排序 | 发布时间排序 |
+| ------------ | ------------ |
+| 0            | 1            |
 
 ## Parameters
-_None_
+- `id`: 编号，可在清单页 URL 中找到
+- `filter`: 过滤，见下表，默认为 `全部`，需要占位时可设置为 `none`
+- `sort`: 排序，见下表，默认为 `加入时间排序`
 
 
 ## Features
@@ -38,6 +50,8 @@ _None_
   "categories": [
     "multimedia"
   ],
+  "description": "过滤\n\n| 全部 | 占位 | 可播放   | 單體作品 | 含磁链   | 含字幕 | 預覽圖  |\n| ---- | ---- | -------- | -------- | -------- | ------ | ------- |\n|      | none | playable | single   | download | cnsub  | preview |\n\n排序\n\n| 加入时间排序 | 发布时间排序 |\n| ------------ | ------------ |\n| 0            | 1            |",
+  "example": "/javdb/lists/2GPgB",
   "features": {
     "nsfw": true
   },
@@ -46,7 +60,12 @@ _None_
   "maintainers": [
     "dddepg"
   ],
-  "name": "Unknown",
+  "name": "清单",
+  "parameters": {
+    "filter": "过滤，见下表，默认为 `全部`，需要占位时可设置为 `none`",
+    "id": "编号，可在清单页 URL 中找到",
+    "sort": "排序，见下表，默认为 `加入时间排序`"
+  },
   "path": "/lists/:id/:filter?/:sort?",
   "radar": [
     {

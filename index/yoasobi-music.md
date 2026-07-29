@@ -16,7 +16,7 @@
 - File: `docs/routes/yoasobi-music/yoasobi-music-info-category.md`
 - File Name: `yoasobi-music-info-category.md`
 - Categories: `live`
-- Maintainers: `None`
+- Maintainers: `Kiotlin`
 
 ### Live
 - Route ID: `yoasobi-music:/yoasobi-music/live`

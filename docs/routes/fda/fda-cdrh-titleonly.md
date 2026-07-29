@@ -1,4 +1,4 @@
-# U.S. Food and Drug Administration - Unknown
+# U.S. Food and Drug Administration - CDRHNew
 
 ## Coverage
 `index-only`
@@ -7,12 +7,12 @@
 - Namespace: `fda`
 - Namespace Name: `U.S. Food and Drug Administration`
 - Route Path: `/fda/cdrh/:titleOnly?`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `CDRHNew`
+- Example: `/fda/cdrh`
 - URL: `fda.gov/medical-devices/news-events-medical-devices/cdrhnew-news-and-updates`
 - Language: `_None_`
-- Categories: `other`
-- Maintainers: `None`
+- Categories: `government`
+- Maintainers: `nczitzk`
 - Source Location: `cdrh.ts`
 - Source Module: `_None_`
 
@@ -20,7 +20,7 @@
 _None_
 
 ## Parameters
-_None_
+- `titleOnly`: Title only, empty by default which includes the full text, any other value shows the title only
 
 
 ## Features
@@ -37,12 +37,18 @@ _None_
 ```json
 {
   "categories": [
-    "other"
+    "government"
   ],
+  "example": "/fda/cdrh",
   "heat": 0,
   "location": "cdrh.ts",
-  "maintainers": [],
-  "name": "Unknown",
+  "maintainers": [
+    "nczitzk"
+  ],
+  "name": "CDRHNew",
+  "parameters": {
+    "titleOnly": "Title only, empty by default which includes the full text, any other value shows the title only"
+  },
   "path": "/cdrh/:titleOnly?",
   "radar": [
     {

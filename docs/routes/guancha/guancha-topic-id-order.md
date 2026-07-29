@@ -1,4 +1,4 @@
-# 观察者网 - Unknown
+# 观察者网 - 风闻话题
 
 ## Coverage
 `index-only`
@@ -7,8 +7,8 @@
 - Namespace: `guancha`
 - Namespace Name: `观察者网`
 - Route Path: `/guancha/topic/:id/:order?`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `风闻话题`
+- Example: `/guancha/topic/110/1`
 - URL: `guancha.cn/`
 - Language: `_None_`
 - Categories: `new-media`
@@ -17,14 +17,26 @@
 - Source Module: `_None_`
 
 ## Description
-_None_
+| 最新回复 | 最新发布 | 24 小时最热 | 3 天最热 | 7 天最热 | 3 个月最热 | 专栏文章 |
+| -------- | -------- | ----------- | -------- | -------- | ---------- | -------- |
+| 1        | 2        | 3           | 6        | 7        | 8          | 5        |
+
+::: tip
+仅在话题 id 为 0，即选择 全部 时，**3 个月最热**、**24 小时最热**、**3 天最热**、**7 天最热** 和 **专栏文章** 参数生效。
+:::
 
 ## Parameters
-_None_
+- `id`: 话题 id，可在URL中找到，默认为全部，即为 `0`
+- `order`: 排序参数，见下表
 
 
 ## Features
-_None_
+- `requireConfig`: false
+- `requirePuppeteer`: false
+- `antiCrawler`: false
+- `supportBT`: false
+- `supportPodcast`: false
+- `supportScihub`: false
 
 ## Radar
 ### Rule 1
@@ -38,13 +50,27 @@ _None_
   "categories": [
     "new-media"
   ],
+  "description": "| 最新回复 | 最新发布 | 24 小时最热 | 3 天最热 | 7 天最热 | 3 个月最热 | 专栏文章 |\n| -------- | -------- | ----------- | -------- | -------- | ---------- | -------- |\n| 1        | 2        | 3           | 6        | 7        | 8          | 5        |\n\n::: tip\n仅在话题 id 为 0，即选择 全部 时，**3 个月最热**、**24 小时最热**、**3 天最热**、**7 天最热** 和 **专栏文章** 参数生效。\n:::",
+  "example": "/guancha/topic/110/1",
+  "features": {
+    "antiCrawler": false,
+    "requireConfig": false,
+    "requirePuppeteer": false,
+    "supportBT": false,
+    "supportPodcast": false,
+    "supportScihub": false
+  },
   "heat": 3,
   "location": "topic.ts",
   "maintainers": [
     "occupy5",
     "nczitzk"
   ],
-  "name": "Unknown",
+  "name": "风闻话题",
+  "parameters": {
+    "id": "话题 id，可在URL中找到，默认为全部，即为 `0`",
+    "order": "排序参数，见下表"
+  },
   "path": "/topic/:id/:order?",
   "radar": [
     {

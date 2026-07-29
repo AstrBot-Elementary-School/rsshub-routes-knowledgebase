@@ -58,7 +58,7 @@
 - Categories: `anime`
 - Maintainers: `TonyRL`
 
-### Unknown
+### Hot Hashtags
 - Route ID: `qoo-app:/qoo-app/notes/:lang?/topic/:topic`
 - Route Path: `/qoo-app/notes/:lang?/topic/:topic`
 - File: `docs/routes/qoo-app/qoo-app-notes-lang-topic-topic.md`

@@ -10,10 +10,10 @@
 
 ## Routes
 
-### Unknown
+### 最新
 - Route ID: `chinanews:/chinanews/`
 - Route Path: `/chinanews/`
 - File: `docs/routes/chinanews/chinanews.md`
 - File Name: `chinanews.md`
-- Categories: `other`
+- Categories: `traditional-media`
 - Maintainers: `yuxinliu-alex`

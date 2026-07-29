@@ -16,7 +16,7 @@
 - File: `docs/routes/arcteryx/arcteryx-new-arrivals-country-gender.md`
 - File Name: `arcteryx-new-arrivals-country-gender.md`
 - Categories: `shopping`
-- Maintainers: `EthanWng97`
+- Maintainers: `IvanWng97`
 
 ### Outlet
 - Route ID: `arcteryx:/arcteryx/outlet/:country/:gender`
@@ -24,7 +24,7 @@
 - File: `docs/routes/arcteryx/arcteryx-outlet-country-gender.md`
 - File Name: `arcteryx-outlet-country-gender.md`
 - Categories: `shopping`
-- Maintainers: `EthanWng97`
+- Maintainers: `IvanWng97`
 
 ### Regear New Arrivals
 - Route ID: `arcteryx:/arcteryx/regear/new-arrivals`
@@ -32,4 +32,4 @@
 - File: `docs/routes/arcteryx/arcteryx-regear-new-arrivals.md`
 - File Name: `arcteryx-regear-new-arrivals.md`
 - Categories: `shopping`
-- Maintainers: `EthanWng97`
+- Maintainers: `IvanWng97`

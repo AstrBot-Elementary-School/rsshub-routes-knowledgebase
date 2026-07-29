@@ -1,4 +1,4 @@
-# OpenWrt - Unknown
+# OpenWrt - Releases
 
 ## Coverage
 `index-only`
@@ -7,12 +7,12 @@
 - Namespace: `openwrt`
 - Namespace Name: `OpenWrt`
 - Route Path: `/openwrt/releases/:brand/:model`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `Releases`
+- Example: `/openwrt/releases/xiaomi/xiaomi_redmi_router_ac2100`
 - URL: `openwrt.org`
 - Language: `_None_`
-- Categories: `other`
-- Maintainers: `None`
+- Categories: `program-update`
+- Maintainers: `DIYgod`
 - Source Location: `releases.ts`
 - Source Module: `_None_`
 
@@ -20,7 +20,8 @@
 _None_
 
 ## Parameters
-_None_
+- `brand`: Device Model, can be found in url of `Table of Hardware` -> `Device Page`
+- `model`: Same as above
 
 
 ## Features
@@ -36,12 +37,19 @@ _None_
 ```json
 {
   "categories": [
-    "other"
+    "program-update"
   ],
+  "example": "/openwrt/releases/xiaomi/xiaomi_redmi_router_ac2100",
   "heat": 0,
   "location": "releases.ts",
-  "maintainers": [],
-  "name": "Unknown",
+  "maintainers": [
+    "DIYgod"
+  ],
+  "name": "Releases",
+  "parameters": {
+    "brand": "Device Model, can be found in url of `Table of Hardware` -> `Device Page`",
+    "model": "Same as above"
+  },
   "path": "/releases/:brand/:model",
   "radar": [
     {

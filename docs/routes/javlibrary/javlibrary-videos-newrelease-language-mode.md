@@ -1,4 +1,4 @@
-# JAVLibrary - Unknown
+# JAVLibrary - New Releases
 
 ## Coverage
 `index-only`
@@ -7,12 +7,12 @@
 - Namespace: `javlibrary`
 - Namespace Name: `JAVLibrary`
 - Route Path: `/javlibrary/videos/newrelease/:language?/:mode?`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `New Releases`
+- Example: `/javlibrary/newrelease/en`
 - URL: `javlibrary.com`
 - Language: `_None_`
 - Categories: `multimedia`
-- Maintainers: `None`
+- Maintainers: `nczitzk`
 - Source Location: `newrelease.ts`
 - Source Module: `_None_`
 
@@ -22,7 +22,8 @@
 | 1                              | 2                    |
 
 ## Parameters
-_None_
+- `language`: Language, see below, Japanese by default, as `ja`
+- `mode`: Mode, see below, videos with comments (by date) by default, as `1`
 
 
 ## Features
@@ -38,13 +39,20 @@ _None_
     "multimedia"
   ],
   "description": "| videos with comments (by date) | everything (by date) |\n| ------------------------------ | -------------------- |\n| 1                              | 2                    |",
+  "example": "/javlibrary/newrelease/en",
   "features": {
     "nsfw": true
   },
   "heat": 2,
   "location": "newrelease.ts",
-  "maintainers": [],
-  "name": "Unknown",
+  "maintainers": [
+    "nczitzk"
+  ],
+  "name": "New Releases",
+  "parameters": {
+    "language": "Language, see below, Japanese by default, as `ja`",
+    "mode": "Mode, see below, videos with comments (by date) by default, as `1`"
+  },
   "path": [
     "/videos/newrelease/:language?/:mode?",
     "/newrelease/:language?/:mode?"

@@ -10,10 +10,10 @@
 
 ## Routes
 
-### Unknown
+### Publications
 - Route ID: `researchgate:/researchgate/publications/:id`
 - Route Path: `/researchgate/publications/:id`
 - File: `docs/routes/researchgate/researchgate-publications-id.md`
 - File Name: `researchgate-publications-id.md`
-- Categories: `other`
-- Maintainers: `None`
+- Categories: `study`
+- Maintainers: `nczitzk`

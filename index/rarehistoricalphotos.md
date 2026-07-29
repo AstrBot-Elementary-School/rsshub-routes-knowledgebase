@@ -10,10 +10,10 @@
 
 ## Routes
 
-### Unknown
+### Home
 - Route ID: `rarehistoricalphotos:/rarehistoricalphotos/`
 - Route Path: `/rarehistoricalphotos/`
 - File: `docs/routes/rarehistoricalphotos/rarehistoricalphotos.md`
 - File Name: `rarehistoricalphotos.md`
-- Categories: `other`
+- Categories: `picture`
 - Maintainers: `TonyRL`

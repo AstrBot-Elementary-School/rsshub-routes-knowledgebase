@@ -10,7 +10,7 @@
 
 ## Routes
 
-### Unknown
+### 外汇牌价 - 总览
 - Route ID: `cebbank:/cebbank/quotation/all`
 - Route Path: `/cebbank/quotation/all`
 - File: `docs/routes/cebbank/cebbank-quotation-all.md`

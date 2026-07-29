@@ -131,8 +131,8 @@
     },
     {
       "description": "中伦律师事务所官方网站 - ARTICLES 专业文章 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-27T22:43:26.717Z",
+      "errorMessage": "[GET] \"https://www.zhonglun.com/research/articles\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 60.200.32.43:443, 60.200.32.47:443, 60.200.32.49:443, 60.200.32.44:443, 60.200.32.45:443, 60.200.32.50:443, 60.200.32.46:443, 60.200.32.48:443, timeout: 10000ms))\n",
       "id": "166932773326277632",
       "image": "https://www.zhonglun.com/upload/static/images/logo.png",
       "ownerUserId": null,

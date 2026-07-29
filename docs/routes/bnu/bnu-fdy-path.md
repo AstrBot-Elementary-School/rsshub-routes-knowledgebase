@@ -1,4 +1,4 @@
-# 北京师范大学 - Unknown
+# 北京师范大学 - 党委学生工作部辅导员发展中心
 
 ## Coverage
 `index-only`
@@ -7,20 +7,22 @@
 - Namespace: `bnu`
 - Namespace Name: `北京师范大学`
 - Route Path: `/bnu/fdy/:path{.+}?`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `党委学生工作部辅导员发展中心`
+- Example: `/bnu/fdy/tzgg/dwjs`
 - URL: `bs.bnu.edu.cn`
 - Language: `_None_`
 - Categories: `university`
-- Maintainers: `None`
+- Maintainers: `TonyRL`
 - Source Location: `fdy.ts`
 - Source Module: `_None_`
 
 ## Description
-_None_
+路径处填写对应页面 URL 中 `https://fdy.bnu.edu.cn/` 和 `/index.htm` 之间的字段。下面是一个例子。
+
+若订阅 [通知公告 > 队伍建设](https://fdy.bnu.edu.cn/tzgg/dwjs/index.htm) 则将对应页面 URL <https://fdy.bnu.edu.cn/tzgg/dwjs/index.htm> 中 `https://fdy.bnu.edu.cn/` 和 `/index.htm` 之间的字段 `tzgg/dwjs` 作为路径填入。此时路由为 [`/bnu/fdy/tzgg/dwjs`](https://rsshub.app/bnu/fdy/tzgg/dwjs)
 
 ## Parameters
-_None_
+- `path`: 路径，默认为 `tzgg`
 
 
 ## Features
@@ -35,10 +37,17 @@ _None_
   "categories": [
     "university"
   ],
+  "description": "路径处填写对应页面 URL 中 `https://fdy.bnu.edu.cn/` 和 `/index.htm` 之间的字段。下面是一个例子。\n\n若订阅 [通知公告 > 队伍建设](https://fdy.bnu.edu.cn/tzgg/dwjs/index.htm) 则将对应页面 URL <https://fdy.bnu.edu.cn/tzgg/dwjs/index.htm> 中 `https://fdy.bnu.edu.cn/` 和 `/index.htm` 之间的字段 `tzgg/dwjs` 作为路径填入。此时路由为 [`/bnu/fdy/tzgg/dwjs`](https://rsshub.app/bnu/fdy/tzgg/dwjs)",
+  "example": "/bnu/fdy/tzgg/dwjs",
   "heat": 0,
   "location": "fdy.ts",
-  "maintainers": [],
-  "name": "Unknown",
+  "maintainers": [
+    "TonyRL"
+  ],
+  "name": "党委学生工作部辅导员发展中心",
+  "parameters": {
+    "path": "路径，默认为 `tzgg`"
+  },
   "path": "/fdy/:path{.+}?",
   "topFeeds": []
 }

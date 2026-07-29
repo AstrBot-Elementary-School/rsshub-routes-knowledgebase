@@ -26,7 +26,7 @@
 - Categories: `bbs`
 - Maintainers: `zphw`
 
-### Unknown
+### 话题
 - Route ID: `pincong:/pincong/topic/:topic`
 - Route Path: `/pincong/topic/:topic`
 - File: `docs/routes/pincong/pincong-topic-topic.md`

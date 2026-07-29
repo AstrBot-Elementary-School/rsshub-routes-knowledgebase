@@ -79,16 +79,16 @@ _None_
       "url": "rsshub://baidu/tieba/user/dengchunlai"
     },
     {
-      "description": "林子君 的贴吧 - Powered by RSSHub",
-      "errorAt": "2026-07-26T02:15:19.346Z",
-      "errorMessage": "Authentication failed. Access denied.\n/baidu/tieba/user/%E6%9E%97%E5%AD%90%E2%97%8E%E5%90%9B\n[GET] \"https://tieba.baidu.com/home/main?un=林子◎君\": 403 Forbidden\n",
-      "id": "86267276958861312",
+      "description": "在逃双皮奶 的贴吧 - Powered by RSSHub",
+      "errorAt": "2025-11-21T21:51:21.614Z",
+      "errorMessage": "[GET] \"https://tieba.baidu.com/home/main?un=在逃双皮奶🎀\": 403 Forbidden\n",
+      "id": "128277758834280448",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://tieba.baidu.com/home/main?un=%E6%9E%97%E5%AD%90%E2%97%8E%E5%90%9B",
-      "title": "林子君 的贴吧",
+      "siteUrl": "https://tieba.baidu.com/home/main?un=%E5%9C%A8%E9%80%83%E5%8F%8C%E7%9A%AE%E5%A5%B6%F0%9F%8E%80",
+      "title": "在逃双皮奶 的贴吧",
       "type": "feed",
-      "url": "rsshub://baidu/tieba/user/%E6%9E%97%E5%AD%90%E2%97%8E%E5%90%9B"
+      "url": "rsshub://baidu/tieba/user/%E5%9C%A8%E9%80%83%E5%8F%8C%E7%9A%AE%E5%A5%B6%F0%9F%8E%80"
     }
   ]
 }

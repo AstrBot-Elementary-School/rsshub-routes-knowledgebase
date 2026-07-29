@@ -26,7 +26,7 @@
 - Categories: `multimedia, popular`
 - Maintainers: `nczitzk`
 
-### Unknown
+### 清单
 - Route ID: `javdb:/javdb/lists/:id/:filter?/:sort?`
 - Route Path: `/javdb/lists/:id/:filter?/:sort?`
 - File: `docs/routes/javdb/javdb-lists-id-filter-sort.md`

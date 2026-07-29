@@ -16,7 +16,7 @@
 - File: `docs/routes/inoreader/inoreader-html_clip-user-tag.md`
 - File Name: `inoreader-html_clip-user-tag.md`
 - Categories: `reading`
-- Maintainers: `EthanWng97`
+- Maintainers: `IvanWng97`
 
 ### RSS
 - Route ID: `inoreader:/inoreader/rss/:user/:tag`
@@ -24,4 +24,4 @@
 - File: `docs/routes/inoreader/inoreader-rss-user-tag.md`
 - File Name: `inoreader-rss-user-tag.md`
 - Categories: `reading`
-- Maintainers: `EthanWng97`
+- Maintainers: `IvanWng97`

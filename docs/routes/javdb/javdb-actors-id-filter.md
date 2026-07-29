@@ -93,26 +93,26 @@
   },
   "topFeeds": [
     {
-      "description": "桃乃木かな - JavDB - Powered by RSSHub",
+      "description": "桃乃木香奈 - JavDB - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "58137945200229376",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://javdb.com/actors/0dKX",
-      "title": "桃乃木かな - JavDB",
+      "title": "桃乃木香奈 - JavDB",
       "type": "feed",
       "url": "rsshub://javdb/actors/0dKX"
     },
     {
-      "description": "Kawakita Saika - JavDB - Powered by RSSHub",
+      "description": "河北彩花 - JavDB - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "59231069957378048",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://javdb.com/actors/EvkJ",
-      "title": "Kawakita Saika - JavDB",
+      "title": "河北彩花 - JavDB",
       "type": "feed",
       "url": "rsshub://javdb/actors/EvkJ"
     }

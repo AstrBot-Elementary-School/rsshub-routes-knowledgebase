@@ -10,10 +10,10 @@
 
 ## Routes
 
-### Unknown
+### Wallpapers
 - Route ID: `wallpaperhub:/wallpaperhub/`
 - Route Path: `/wallpaperhub/`
 - File: `docs/routes/wallpaperhub/wallpaperhub.md`
 - File Name: `wallpaperhub.md`
-- Categories: `other`
+- Categories: `picture`
 - Maintainers: `nczitzk`

@@ -1,4 +1,4 @@
-# HackYourNews - Unknown
+# HackYourNews - Index
 
 ## Coverage
 `index-only`
@@ -7,11 +7,11 @@
 - Namespace: `hackyournews`
 - Namespace Name: `HackYourNews`
 - Route Path: `/hackyournews/`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `Index`
+- Example: `/hackyournews`
 - URL: `hackyournews.com/`
 - Language: `_None_`
-- Categories: `other`
+- Categories: `programming`
 - Maintainers: `ftiasch`
 - Source Location: `index.ts`
 - Source Module: `_None_`
@@ -36,14 +36,15 @@ _None_
 ```json
 {
   "categories": [
-    "other"
+    "programming"
   ],
+  "example": "/hackyournews",
   "heat": 0,
   "location": "index.ts",
   "maintainers": [
     "ftiasch"
   ],
-  "name": "Unknown",
+  "name": "Index",
   "path": "/",
   "radar": [
     {

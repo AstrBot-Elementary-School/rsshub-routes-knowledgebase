@@ -10,10 +10,10 @@
 
 ## Routes
 
-### Unknown
-- Route ID: `biquge:/biquge*`
-- Route Path: `/biquge*`
-- File: `docs/routes/biquge/biquge.md`
-- File Name: `biquge.md`
-- Categories: `other`
-- Maintainers: `None`
+### 小说
+- Route ID: `biquge:/biquge/:url{.+}`
+- Route Path: `/biquge/:url{.+}`
+- File: `docs/routes/biquge/biquge-url.md`
+- File Name: `biquge-url.md`
+- Categories: `reading`
+- Maintainers: `nczitzk`

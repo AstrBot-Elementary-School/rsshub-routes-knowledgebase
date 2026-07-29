@@ -1,4 +1,4 @@
-# 卡卡洛普 - Unknown
+# 卡卡洛普 - 標籤
 
 ## Coverage
 `index-only`
@@ -7,12 +7,12 @@
 - Namespace: `gamme`
 - Namespace Name: `卡卡洛普`
 - Route Path: `/gamme/:domain/tag/:tag`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `標籤`
+- Example: `/gamme/news/tag/歐派`
 - URL: `news.gamme.com.tw`
 - Language: `_None_`
-- Categories: `other`
-- Maintainers: `None`
+- Categories: `new-media`
+- Maintainers: `TonyRL`
 - Source Location: `tag.ts`
 - Source Module: `_None_`
 
@@ -20,7 +20,8 @@
 _None_
 
 ## Parameters
-_None_
+- `domain`: 網站，`news` 為宅宅新聞，`sexynews` 為西斯新聞
+- `tag`: 標籤，可在 URL 找到
 
 
 ## Features
@@ -33,12 +34,19 @@ _None_
 ```json
 {
   "categories": [
-    "other"
+    "new-media"
   ],
+  "example": "/gamme/news/tag/歐派",
   "heat": 0,
   "location": "tag.ts",
-  "maintainers": [],
-  "name": "Unknown",
+  "maintainers": [
+    "TonyRL"
+  ],
+  "name": "標籤",
+  "parameters": {
+    "domain": "網站，`news` 為宅宅新聞，`sexynews` 為西斯新聞",
+    "tag": "標籤，可在 URL 找到"
+  },
   "path": "/:domain/tag/:tag",
   "topFeeds": []
 }

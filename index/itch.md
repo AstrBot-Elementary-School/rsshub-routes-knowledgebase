@@ -10,13 +10,13 @@
 
 ## Routes
 
-### Unknown
-- Route ID: `itch:/itch*`
-- Route Path: `/itch*`
-- File: `docs/routes/itch/itch.md`
-- File Name: `itch.md`
+### Browse
+- Route ID: `itch:/itch/:path{.+}?`
+- Route Path: `/itch/:path{.+}?`
+- File: `docs/routes/itch/itch-path.md`
+- File Name: `itch-path.md`
 - Categories: `game`
-- Maintainers: `None`
+- Maintainers: `nczitzk`
 
 ### Developer Logs
 - Route ID: `itch:/itch/devlog/:user/:id`

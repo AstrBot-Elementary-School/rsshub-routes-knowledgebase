@@ -1,4 +1,4 @@
-# 中国的中古 - Unknown
+# 中国的中古 - 首页
 
 ## Coverage
 `index-only`
@@ -7,11 +7,11 @@
 - Namespace: `medieval-china`
 - Namespace Name: `中国的中古`
 - Route Path: `/medieval-china/`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `首页`
+- Example: `/medieval-china`
 - URL: `medieval-china.club/`
 - Language: `_None_`
-- Categories: `other`
+- Categories: `reading`
 - Maintainers: `artefaritaKuniklo`
 - Source Location: `post.ts`
 - Source Module: `_None_`
@@ -36,14 +36,15 @@ _None_
 ```json
 {
   "categories": [
-    "other"
+    "reading"
   ],
+  "example": "/medieval-china",
   "heat": 0,
   "location": "post.ts",
   "maintainers": [
     "artefaritaKuniklo"
   ],
-  "name": "Unknown",
+  "name": "首页",
   "path": "/",
   "radar": [
     {

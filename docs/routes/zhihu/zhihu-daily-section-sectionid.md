@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 50,
+  "heat": 51,
   "location": "daily-section.ts",
   "maintainers": [
     "ccbikai"

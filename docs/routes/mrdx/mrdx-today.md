@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 420,
+  "heat": 421,
   "location": "daily.ts",
   "maintainers": [
     "Dustin-Jiang"
@@ -74,7 +74,7 @@ _None_
     {
       "description": "中国报纸发行前三强。位列《人民日报》，《参考消息》之后。《新华每日电讯》是新华社出版的一份新闻电讯报，1993年创办，具有很高的权威性和准确性，有“一报在手，便知天下”之美誉。《新华每日电讯》为对开八版日报，集中刊登[新华社]每天向国内播发的电讯稿及图片稿。打开《新华每日电讯》，中国和全世界每天发生的重大事件便将一目了然。在人类生活节奏日益加快的当今世界，《新华每日电讯》以最便捷、最醒目的方式为公众提供最重要的新闻报道，受到公众的喜爱和拥护。 - Powered by RSSHub",
       "errorAt": "2026-07-01T16:32:53.006Z",
-      "errorMessage": "[GET] \"http://mrdx.cn/content/20260725/Page01DK.htm\": 404 Not Found\n[GET] \"http://mrdx.cn/content/20260725/Page01DK.htm\": 404 Not Found\n[GET] \"http://mrdx.cn/content/20260725/Page01DK.htm\": 404 Not Found\n",
+      "errorMessage": "[GET] \"http://mrdx.cn/content/20260727/Page01DK.htm\": 404 Not Found\n[GET] \"http://mrdx.cn/content/20260727/Page01DK.htm\": 404 Not Found\nFailed to fetch\n",
       "id": "64309222369856512",
       "image": null,
       "ownerUserId": null,

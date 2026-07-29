@@ -12,7 +12,7 @@
 - URL: `www.ulapia.com/`
 - Language: `_None_`
 - Categories: `finance`
-- Maintainers: `None`
+- Maintainers: `Fatpandac`
 - Source Location: `research.ts`
 - Source Module: `_None_`
 
@@ -53,7 +53,9 @@ _None_
   },
   "heat": 102,
   "location": "research.ts",
-  "maintainers": [],
+  "maintainers": [
+    "Fatpandac"
+  ],
   "name": "最新研报",
   "parameters": {},
   "path": "/research/latest",

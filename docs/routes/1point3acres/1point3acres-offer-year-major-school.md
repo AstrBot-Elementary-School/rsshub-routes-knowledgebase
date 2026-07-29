@@ -12,7 +12,7 @@
 - URL: `offer.1point3acres.com/`
 - Language: `_None_`
 - Categories: `bbs`
-- Maintainers: `EthanWng97`
+- Maintainers: `IvanWng97`
 - Source Location: `offer.tsx`
 - Source Module: `_None_`
 
@@ -67,7 +67,7 @@
   "heat": 1,
   "location": "offer.tsx",
   "maintainers": [
-    "EthanWng97"
+    "IvanWng97"
   ],
   "name": "录取结果",
   "parameters": {

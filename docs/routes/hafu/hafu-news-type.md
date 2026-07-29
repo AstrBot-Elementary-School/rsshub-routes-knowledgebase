@@ -12,7 +12,7 @@
 - URL: `www.hafu.edu.cn`
 - Language: `_None_`
 - Categories: `university`
-- Maintainers: `None`
+- Maintainers: `deep1nlife`
 - Source Location: `news.ts`
 - Source Module: `_None_`
 
@@ -54,7 +54,9 @@ _None_
   },
   "heat": 0,
   "location": "news.ts",
-  "maintainers": [],
+  "maintainers": [
+    "deep1nlife"
+  ],
   "name": "河南财政金融学院",
   "parameters": {
     "type": "分类，见下表（默认为 `ggtz`)"

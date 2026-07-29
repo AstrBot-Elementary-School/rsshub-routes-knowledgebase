@@ -1,4 +1,4 @@
-# 水果派 - Unknown
+# 水果派 - 首页
 
 ## Coverage
 `index-only`
@@ -7,11 +7,11 @@
 - Namespace: `shuiguopai`
 - Namespace Name: `水果派`
 - Route Path: `/shuiguopai/`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `首页`
+- Example: `/shuiguopai`
 - URL: `shuiguopai.com/`
 - Language: `_None_`
-- Categories: `other`
+- Categories: `new-media`
 - Maintainers: `nczitzk`
 - Source Location: `index.tsx`
 - Source Module: `_None_`
@@ -36,8 +36,9 @@ _None_
 ```json
 {
   "categories": [
-    "other"
+    "new-media"
   ],
+  "example": "/shuiguopai",
   "features": {
     "nsfw": true
   },
@@ -46,7 +47,7 @@ _None_
   "maintainers": [
     "nczitzk"
   ],
-  "name": "Unknown",
+  "name": "首页",
   "path": "/",
   "radar": [
     {

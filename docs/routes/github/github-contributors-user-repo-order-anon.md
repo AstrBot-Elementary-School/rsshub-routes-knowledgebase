@@ -83,18 +83,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "New contributors for piderking/vgmt-data - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "119580771404221440",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://github.com/piderking/vgmt-data/graphs/contributors",
-      "title": "piderking/vgmt-data Contributors",
-      "type": "feed",
-      "url": "rsshub://github/contributors/piderking/vgmt-data"
-    },
-    {
       "description": "New contributors for KrystalCJ/Conf - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -105,6 +93,18 @@ _None_
       "title": "KrystalCJ/Conf Contributors",
       "type": "feed",
       "url": "rsshub://github/contributors/KrystalCJ/Conf"
+    },
+    {
+      "description": "New contributors for obaby/baby-wechat - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "183741893306669056",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://github.com/obaby/baby-wechat/graphs/contributors",
+      "title": "obaby/baby-wechat Contributors",
+      "type": "feed",
+      "url": "rsshub://github/contributors/obaby/baby-wechat"
     }
   ]
 }

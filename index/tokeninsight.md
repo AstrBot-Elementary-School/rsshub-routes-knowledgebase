@@ -24,7 +24,7 @@
 - File: `docs/routes/tokeninsight/tokeninsight-bulletin-lang.md`
 - File Name: `tokeninsight-bulletin-lang.md`
 - Categories: `finance`
-- Maintainers: `None`
+- Maintainers: `fuergaosi233`
 
 ### Research
 - Route ID: `tokeninsight:/tokeninsight/report/:lang?`
@@ -32,4 +32,4 @@
 - File: `docs/routes/tokeninsight/tokeninsight-report-lang.md`
 - File Name: `tokeninsight-report-lang.md`
 - Categories: `finance`
-- Maintainers: `None`
+- Maintainers: `fuergaosi233`

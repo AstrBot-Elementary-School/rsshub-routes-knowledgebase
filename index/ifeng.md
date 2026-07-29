@@ -18,10 +18,10 @@
 - Categories: `new-media`
 - Maintainers: `Jamch`
 
-### Unknown
-- Route ID: `ifeng:/ifeng/news/*`
-- Route Path: `/ifeng/news/*`
-- File: `docs/routes/ifeng/ifeng-news.md`
-- File Name: `ifeng-news.md`
+### 资讯
+- Route ID: `ifeng:/ifeng/news/:path{.+}?`
+- Route Path: `/ifeng/news/:path{.+}?`
+- File: `docs/routes/ifeng/ifeng-news-path.md`
+- File Name: `ifeng-news-path.md`
 - Categories: `new-media`
-- Maintainers: `None`
+- Maintainers: `nczitzk`

@@ -1,4 +1,4 @@
-# 趨勢科技防詐達人 - Unknown
+# 趨勢科技防詐達人 - 最新詐騙情報
 
 ## Coverage
 `index-only`
@@ -7,11 +7,11 @@
 - Namespace: `getdr`
 - Namespace Name: `趨勢科技防詐達人`
 - Route Path: `/getdr/`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `最新詐騙情報`
+- Example: `/getdr`
 - URL: `getdr.com/`
 - Language: `_None_`
-- Categories: `other`
+- Categories: `new-media`
 - Maintainers: `nczitzk`
 - Source Location: `index.ts`
 - Source Module: `_None_`
@@ -36,14 +36,15 @@ _None_
 ```json
 {
   "categories": [
-    "other"
+    "new-media"
   ],
+  "example": "/getdr",
   "heat": 0,
   "location": "index.ts",
   "maintainers": [
     "nczitzk"
   ],
-  "name": "Unknown",
+  "name": "最新詐騙情報",
   "path": "/",
   "radar": [
     {

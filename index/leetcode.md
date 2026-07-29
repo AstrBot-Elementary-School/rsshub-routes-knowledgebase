@@ -18,34 +18,34 @@
 - Categories: `programming`
 - Maintainers: `LogicJake`
 
-### Unknown
+### 每日一题
 - Route ID: `leetcode:/leetcode/dailyquestion/cn`
 - Route Path: `/leetcode/dailyquestion/cn`
 - File: `docs/routes/leetcode/leetcode-dailyquestion-cn.md`
 - File Name: `leetcode-dailyquestion-cn.md`
 - Categories: `programming`
-- Maintainers: `None`
+- Maintainers: `IvanWng97`
 
-### Unknown
+### Daily Question
 - Route ID: `leetcode:/leetcode/dailyquestion/en`
 - Route Path: `/leetcode/dailyquestion/en`
 - File: `docs/routes/leetcode/leetcode-dailyquestion-en.md`
 - File Name: `leetcode-dailyquestion-en.md`
 - Categories: `programming`
-- Maintainers: `None`
+- Maintainers: `IvanWng97`
 
-### Unknown
+### 每日一题题解
 - Route ID: `leetcode:/leetcode/dailyquestion/solution/cn`
 - Route Path: `/leetcode/dailyquestion/solution/cn`
 - File: `docs/routes/leetcode/leetcode-dailyquestion-solution-cn.md`
 - File Name: `leetcode-dailyquestion-solution-cn.md`
 - Categories: `programming`
-- Maintainers: `None`
+- Maintainers: `woaidouya123`
 
-### Unknown
+### Daily Question Solution
 - Route ID: `leetcode:/leetcode/dailyquestion/solution/en`
 - Route Path: `/leetcode/dailyquestion/solution/en`
 - File: `docs/routes/leetcode/leetcode-dailyquestion-solution-en.md`
 - File Name: `leetcode-dailyquestion-solution-en.md`
 - Categories: `programming`
-- Maintainers: `None`
+- Maintainers: `woaidouya123`

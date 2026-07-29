@@ -75,7 +75,7 @@ _None_
     {
       "description": "The most recent blogs and online articles from The Economist - Powered by RSSHub",
       "errorAt": "2025-09-05T18:15:19.885Z",
-      "errorMessage": "[GET] \"https://www.economist.com/podcasts/2026/07/24/the-endgame-in-iran\": 403 Forbidden\n[GET] \"https://www.economist.com/podcasts/2026/07/24/the-endgame-in-iran\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.economist.com/china/2026/07/27/xi-jinping-pioneering-venture-capitalist\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/07/27/chinas-mightiest-river-is-coming-back-from-the-brink\": 403 Forbidden\n",
       "id": "54859243036899328",
       "image": null,
       "ownerUserId": null,
@@ -87,7 +87,7 @@ _None_
     {
       "description": "China - Powered by RSSHub",
       "errorAt": "2025-09-05T17:22:28.529Z",
-      "errorMessage": "[GET] \"https://www.economist.com/china/2026/07/23/the-chinese-economic-experiment-that-failed\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/07/20/why-criticism-of-the-qing-dynasty-scares-the-communist-party\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/07/13/a-squeezed-china-is-trying-to-wring-more-from-its-state-assets\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.economist.com/china/2026/07/15/xi-jinping-expels-another-leader-from-his-top-team\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/07/27/xi-jinping-pioneering-venture-capitalist\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/07/27/xi-jinping-pioneering-venture-capitalist\": 403 Forbidden\n",
       "id": "41461870197170199",
       "image": null,
       "ownerUserId": null,

@@ -16,4 +16,4 @@
 - File: `docs/routes/brooklynmuseum/brooklynmuseum-exhibitions-state.md`
 - File Name: `brooklynmuseum-exhibitions-state.md`
 - Categories: `travel`
-- Maintainers: `None`
+- Maintainers: `chazeon`

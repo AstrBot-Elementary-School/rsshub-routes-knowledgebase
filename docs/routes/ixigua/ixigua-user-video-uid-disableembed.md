@@ -94,7 +94,7 @@ _None_
     {
       "description": "以心智观察新质 - Powered by RSSHub",
       "errorAt": "2025-06-05T10:27:31.877Z",
-      "errorMessage": "502 \nFailed to find SSR_HYDRATED_DATA\n",
+      "errorMessage": "Failed to find SSR_HYDRATED_DATA\nFailed to find SSR_HYDRATED_DATA\n",
       "id": "55214863323976729",
       "image": null,
       "ownerUserId": null,

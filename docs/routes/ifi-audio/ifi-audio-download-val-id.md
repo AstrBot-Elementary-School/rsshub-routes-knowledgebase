@@ -12,7 +12,7 @@
 - URL: `ifi-audio.com`
 - Language: `_None_`
 - Categories: `program-update`
-- Maintainers: `EthanWng97`
+- Maintainers: `IvanWng97`
 - Source Location: `download.ts`
 - Source Module: `_None_`
 
@@ -60,7 +60,7 @@ _None_
   "heat": 0,
   "location": "download.ts",
   "maintainers": [
-    "EthanWng97"
+    "IvanWng97"
   ],
   "name": "Download Hub",
   "parameters": {

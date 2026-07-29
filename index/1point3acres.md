@@ -32,7 +32,7 @@
 - File: `docs/routes/1point3acres/1point3acres-offer-year-major-school.md`
 - File Name: `1point3acres-offer-year-major-school.md`
 - Categories: `bbs`
-- Maintainers: `EthanWng97`
+- Maintainers: `IvanWng97`
 
 ### 分区
 - Route ID: `1point3acres:/1point3acres/section/:id?/:type?/:order?`
@@ -48,7 +48,7 @@
 - File: `docs/routes/1point3acres/1point3acres-thread-type-order.md`
 - File Name: `1point3acres-thread-type-order.md`
 - Categories: `bbs`
-- Maintainers: `EthanWng97, DIYgod, nczitzk`
+- Maintainers: `IvanWng97, DIYgod, nczitzk`
 
 ### 用户回帖
 - Route ID: `1point3acres:/1point3acres/user/:id/posts`

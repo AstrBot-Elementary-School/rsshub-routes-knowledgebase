@@ -18,21 +18,21 @@
 - Categories: `university`
 - Maintainers: `tsinglinrain`
 
-### Unknown
+### 工学新闻 - 卡片页面
 - Route ID: `hrbeu:/hrbeu/gx/card/:column/:id?`
 - Route Path: `/hrbeu/gx/card/:column/:id?`
 - File: `docs/routes/hrbeu/hrbeu-gx-card-column-id.md`
 - File Name: `hrbeu-gx-card-column-id.md`
 - Categories: `university`
-- Maintainers: `None`
+- Maintainers: `Derekmini, XYenon`
 
-### Unknown
+### 工学新闻 - 列表页面
 - Route ID: `hrbeu:/hrbeu/gx/list/:column/:id?`
 - Route Path: `/hrbeu/gx/list/:column/:id?`
 - File: `docs/routes/hrbeu/hrbeu-gx-list-column-id.md`
 - File Name: `hrbeu-gx-list-column-id.md`
 - Categories: `university`
-- Maintainers: `None`
+- Maintainers: `Derekmini, XYenon`
 
 ### 大型招聘会
 - Route ID: `hrbeu:/hrbeu/job/bigemploy`
@@ -72,7 +72,7 @@
 - File: `docs/routes/hrbeu/hrbeu-uae-id.md`
 - File Name: `hrbeu-uae-id.md`
 - Categories: `university`
-- Maintainers: `None`
+- Maintainers: `Derekmini`
 
 ### 本科生院工作通知
 - Route ID: `hrbeu:/hrbeu/ugs/news/:author?/:category?`

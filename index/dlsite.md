@@ -10,13 +10,13 @@
 
 ## Routes
 
-### Unknown
-- Route ID: `dlsite:/dlsite*`
-- Route Path: `/dlsite*`
-- File: `docs/routes/dlsite/dlsite.md`
-- File Name: `dlsite.md`
+### General
+- Route ID: `dlsite:/dlsite/:path{.+}?`
+- Route Path: `/dlsite/:path{.+}?`
+- File: `docs/routes/dlsite/dlsite-path.md`
+- File Name: `dlsite-path.md`
 - Categories: `anime`
-- Maintainers: `None`
+- Maintainers: `nczitzk`
 
 ### Discounted Works
 - Route ID: `dlsite:/dlsite/campaign/:type/:free?`

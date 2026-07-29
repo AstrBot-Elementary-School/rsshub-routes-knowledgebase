@@ -1,4 +1,4 @@
-# 轻之国度 - Unknown
+# 轻之国度 - 文章更新阅读
 
 ## Coverage
 `index-only`
@@ -7,11 +7,11 @@
 - Namespace: `lightnovel`
 - Namespace Name: `轻之国度`
 - Route Path: `/lightnovel/:keywords/:security_key?`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `文章更新阅读`
+- Example: `/lightnovel/歡迎來到實力至上主義的教室/3cfc2dc63f3575ee42e12823188ad1b5:1709125:0`
 - URL: `lightNovel.us/`
 - Language: `_None_`
-- Categories: `other`
+- Categories: `anime`
 - Maintainers: `nightmare-mio`
 - Source Location: `light-novel.ts`
 - Source Module: `_None_`
@@ -20,7 +20,8 @@
 _None_
 
 ## Parameters
-_None_
+- `keywords`: 关键字，可以模糊匹配，但最好精确匹配
+- `security_key`: cookie,由于文章有防爬，所以必须携带cookie请求。route中的cookie优先级高于环境变量cookie，取token中的security_key值
 
 
 ## Features
@@ -36,14 +37,19 @@ _None_
 ```json
 {
   "categories": [
-    "other"
+    "anime"
   ],
+  "example": "/lightnovel/歡迎來到實力至上主義的教室/3cfc2dc63f3575ee42e12823188ad1b5:1709125:0",
   "heat": 0,
   "location": "light-novel.ts",
   "maintainers": [
     "nightmare-mio"
   ],
-  "name": "Unknown",
+  "name": "文章更新阅读",
+  "parameters": {
+    "keywords": "关键字，可以模糊匹配，但最好精确匹配",
+    "security_key": "cookie,由于文章有防爬，所以必须携带cookie请求。route中的cookie优先级高于环境变量cookie，取token中的security_key值"
+  },
   "path": "/:keywords/:security_key?",
   "radar": [
     {

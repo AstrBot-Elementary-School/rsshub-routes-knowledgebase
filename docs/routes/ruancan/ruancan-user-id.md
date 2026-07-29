@@ -1,4 +1,4 @@
-# 软餐 - Unknown
+# 软餐 - 用户文章
 
 ## Coverage
 `index-only`
@@ -7,12 +7,12 @@
 - Namespace: `ruancan`
 - Namespace Name: `软餐`
 - Route Path: `/ruancan/user/:id`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `用户文章`
+- Example: `/ruancan/user/72`
 - URL: `ruancan.com/`
 - Language: `_None_`
 - Categories: `new-media`
-- Maintainers: `None`
+- Maintainers: `nczitzk`
 - Source Location: `user.ts`
 - Source Module: `_None_`
 
@@ -20,7 +20,7 @@
 _None_
 
 ## Parameters
-_None_
+- `id`: 用户 id，可在对应用户页 URL 中找到
 
 
 ## Features
@@ -38,10 +38,16 @@ _None_
   "categories": [
     "new-media"
   ],
+  "example": "/ruancan/user/72",
   "heat": 0,
   "location": "user.ts",
-  "maintainers": [],
-  "name": "Unknown",
+  "maintainers": [
+    "nczitzk"
+  ],
+  "name": "用户文章",
+  "parameters": {
+    "id": "用户 id，可在对应用户页 URL 中找到"
+  },
   "path": "/user/:id",
   "radar": [
     {

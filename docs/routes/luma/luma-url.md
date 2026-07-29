@@ -88,16 +88,16 @@ _None_
       "url": "rsshub://luma/langchain"
     },
     {
-      "description": "Reading Rhythms Global - Powered by RSSHub",
+      "description": "Google Gemma - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "265967037132484608",
+      "id": "265966966744675328",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://lu.ma/readingrhythms-global",
-      "title": "Reading Rhythms Global",
+      "siteUrl": "https://lu.ma/gemma-events",
+      "title": "Google Gemma",
       "type": "feed",
-      "url": "rsshub://luma/readingrhythms-global"
+      "url": "rsshub://luma/gemma-events"
     }
   ],
   "url": "lu.ma"

@@ -10,13 +10,13 @@
 
 ## Routes
 
-### Unknown
+### Blog
 - Route ID: `tradingview:/tradingview/blog/:category{.+}?`
 - Route Path: `/tradingview/blog/:category{.+}?`
 - File: `docs/routes/tradingview/tradingview-blog-category.md`
 - File Name: `tradingview-blog-category.md`
 - Categories: `program-update`
-- Maintainers: `None`
+- Maintainers: `nczitzk`
 
 ### Desktop releases and release notes
 - Route ID: `tradingview:/tradingview/desktop`
@@ -26,10 +26,10 @@
 - Categories: `program-update`
 - Maintainers: `nczitzk`
 
-### Unknown
+### Pine Script™ Release notes
 - Route ID: `tradingview:/tradingview/pine/:version?`
 - Route Path: `/tradingview/pine/:version?`
 - File: `docs/routes/tradingview/tradingview-pine-version.md`
 - File Name: `tradingview-pine-version.md`
 - Categories: `program-update`
-- Maintainers: `None`
+- Maintainers: `nczitzk`

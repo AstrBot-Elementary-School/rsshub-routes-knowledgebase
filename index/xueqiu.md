@@ -56,7 +56,7 @@
 - File: `docs/routes/xueqiu/xueqiu-stock_comments-id.md`
 - File Name: `xueqiu-stock_comments-id.md`
 - Categories: `finance`
-- Maintainers: `None`
+- Maintainers: `zytomorrow`
 
 ### 股票信息
 - Route ID: `xueqiu:/xueqiu/stock_info/:id/:type?`

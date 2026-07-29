@@ -8,7 +8,7 @@
 - Namespace Name: `网易公开课`
 - Route Path: `/163/music/user/events/:id`
 - Route Name: `用户动态`
-- Example: `_None_`
+- Example: `/163/music/user/events/585804522`
 - URL: `163.com`
 - Language: `_None_`
 - Categories: `multimedia`
@@ -20,7 +20,7 @@
 _None_
 
 ## Parameters
-_None_
+- `id`: 用户 uid, 可在用户主页 URL 中找到
 
 
 ## Features
@@ -38,12 +38,16 @@ _None_
   "categories": [
     "multimedia"
   ],
+  "example": "/163/music/user/events/585804522",
   "heat": 8,
   "location": "music/userevents.tsx",
   "maintainers": [
     "Master-Hash"
   ],
   "name": "用户动态",
+  "parameters": {
+    "id": "用户 uid, 可在用户主页 URL 中找到"
+  },
   "path": "/music/user/events/:id",
   "radar": [
     {
@@ -55,28 +59,28 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": "网易云音乐用户动态 - 남우현 정대현 INFINITE B.A.P MONSTA X - Powered by RSSHub",
+      "description": "网易云音乐用户动态 - 🥰 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "164021701195543579",
-      "image": "http://p1.music.126.net/glmoO2q-Dh1rg76CquNNtQ==/109951162829303583.jpg",
+      "id": "244412623694721024",
+      "image": "http://p1.music.126.net/qnHZrQzJ3LsSJKytj4zSRw==/109951163753151047.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://music.163.com/#/user/event?id=296748652",
-      "title": "SungYoonJi的云村动态",
+      "siteUrl": "https://music.163.com/#/user/event?id=50557606",
+      "title": "VICTORIAANDHERLOVERS的云村动态",
       "type": "feed",
-      "url": "rsshub://163/music/user/events/296748652"
+      "url": "rsshub://163/music/user/events/50557606"
     },
     {
-      "description": "网易云音乐用户动态 - 不想温柔，也不想坚定 - Powered by RSSHub",
+      "description": "网易云音乐用户动态 - 而我不再觉得 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "66801413814601728",
-      "image": "http://p1.music.126.net/QEs-7T3hM-uQNKUrlY2l6A==/109951167949881205.jpg",
+      "id": "149116147665490944",
+      "image": "http://p1.music.126.net/j3JLGbJ3k7cV_k6fo9-zmg==/109951169986583600.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://music.163.com/#/user/event?id=395678483",
-      "title": "夏天-summer-5的云村动态",
+      "siteUrl": "https://music.163.com/#/user/event?id=398309610",
+      "title": "番茄鱼鱼酱日记的云村动态",
       "type": "feed",
-      "url": "rsshub://163/music/user/events/395678483"
+      "url": "rsshub://163/music/user/events/398309610"
     }
   ]
 }

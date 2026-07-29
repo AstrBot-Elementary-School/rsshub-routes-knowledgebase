@@ -1,4 +1,4 @@
-# 星洲网 - Unknown
+# 星洲网 - 首页
 
 ## Coverage
 `index-only`
@@ -6,13 +6,13 @@
 ## Route
 - Namespace: `sinchew`
 - Namespace Name: `星洲网`
-- Route Path: `/sinchew*`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Path: `/sinchew/`
+- Route Name: `首页`
+- Example: `/sinchew`
 - URL: `sinchew.com.my/`
 - Language: `_None_`
-- Categories: `other`
-- Maintainers: `None`
+- Categories: `traditional-media`
+- Maintainers: `nczitzk`
 - Source Location: `index.tsx`
 - Source Module: `_None_`
 
@@ -30,25 +30,28 @@ _None_
 ### Rule 1
 - `source`:
   - `sinchew.com.my/`
-- `target`: ``
+- `target`: `/`
 
 ## Raw JSON
 ```json
 {
   "categories": [
-    "other"
+    "traditional-media"
   ],
+  "example": "/sinchew",
   "heat": 0,
   "location": "index.tsx",
-  "maintainers": [],
-  "name": "Unknown",
-  "path": "*",
+  "maintainers": [
+    "nczitzk"
+  ],
+  "name": "首页",
+  "path": "/",
   "radar": [
     {
       "source": [
         "sinchew.com.my/"
       ],
-      "target": ""
+      "target": "/"
     }
   ],
   "topFeeds": [],

@@ -1,4 +1,4 @@
-# ACS Publications - Unknown
+# ACS Publications - Journal
 
 ## Coverage
 `index-only`
@@ -7,24 +7,26 @@
 - Namespace: `acs`
 - Namespace Name: `ACS Publications`
 - Route Path: `/acs/journal/:id`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `Journal`
+- Example: `/acs/journal/jacsat`
 - URL: `pubs.acs.org`
 - Language: `_None_`
-- Categories: `other`
+- Categories: `journal`
 - Maintainers: `nczitzk`
 - Source Location: `journal.tsx`
 - Source Module: `_None_`
 
 ## Description
-_None_
+::: tip
+See [Browse Content](https://pubs.acs.org)
+:::
 
 ## Parameters
-_None_
+- `id`: Journal id, can be found in URL
 
 
 ## Features
-_None_
+- `supportScihub`: true
 
 ## Radar
 ### Rule 1
@@ -36,14 +38,22 @@ _None_
 ```json
 {
   "categories": [
-    "other"
+    "journal"
   ],
+  "description": "::: tip\nSee [Browse Content](https://pubs.acs.org)\n:::",
+  "example": "/acs/journal/jacsat",
+  "features": {
+    "supportScihub": true
+  },
   "heat": 7,
   "location": "journal.tsx",
   "maintainers": [
     "nczitzk"
   ],
-  "name": "Unknown",
+  "name": "Journal",
+  "parameters": {
+    "id": "Journal id, can be found in URL"
+  },
   "path": "/journal/:id",
   "radar": [
     {
@@ -67,16 +77,16 @@ _None_
       "url": "rsshub://acs/journal/esthag"
     },
     {
-      "description": null,
-      "errorAt": "2025-09-19T00:56:58.043Z",
-      "errorMessage": "Waiting for selector `.toc` failed: waitForFunction failed: frame got detached.\n",
-      "id": "191666157347082242",
+      "description": "Journal of Chemical Theory and Computation - Powered by RSSHub",
+      "errorAt": "2026-07-25T15:56:09.934Z",
+      "errorMessage": "page.waitForSelector: Target page, context or browser has been closed\n",
+      "id": "1161502729202171904",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": null,
-      "title": "Importing",
+      "siteUrl": "https://pubs.acs.org/toc/jctcce/0/0",
+      "title": "Journal of Chemical Theory and Computation",
       "type": "feed",
-      "url": "rsshub://acs/journal/jacsat"
+      "url": "rsshub://acs/journal/jctcce"
     }
   ]
 }

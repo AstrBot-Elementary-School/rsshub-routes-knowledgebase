@@ -1,4 +1,4 @@
-# SecIN 信息安全技术社区 - Unknown
+# SecIN 信息安全技术社区 - 最新文章
 
 ## Coverage
 `index-only`
@@ -7,11 +7,11 @@
 - Namespace: `sec-in`
 - Namespace Name: `SecIN 信息安全技术社区`
 - Route Path: `/sec-in/`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `最新文章`
+- Example: `/sec-in`
 - URL: `sec-in.com`
 - Language: `_None_`
-- Categories: `other`
+- Categories: `bbs`
 - Maintainers: `p7e4`
 - Source Location: `index.ts`
 - Source Module: `_None_`
@@ -33,14 +33,15 @@ _None_
 ```json
 {
   "categories": [
-    "other"
+    "bbs"
   ],
+  "example": "/sec-in",
   "heat": 0,
   "location": "index.ts",
   "maintainers": [
     "p7e4"
   ],
-  "name": "Unknown",
+  "name": "最新文章",
   "path": "/",
   "topFeeds": []
 }

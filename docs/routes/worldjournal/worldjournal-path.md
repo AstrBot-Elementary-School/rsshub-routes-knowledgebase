@@ -1,4 +1,4 @@
-# 世界新聞網 - Unknown
+# 世界新聞網 - 新聞
 
 ## Coverage
 `index-only`
@@ -7,12 +7,12 @@
 - Namespace: `worldjournal`
 - Namespace Name: `世界新聞網`
 - Route Path: `/worldjournal/:path{.+}?`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `新聞`
+- Example: `/worldjournal`
 - URL: `worldjournal.com/wj/*path`
 - Language: `_None_`
-- Categories: `other`
-- Maintainers: `None`
+- Categories: `new-media`
+- Maintainers: `TonyRL`
 - Source Location: `index.ts`
 - Source Module: `_None_`
 
@@ -20,7 +20,7 @@
 _None_
 
 ## Parameters
-_None_
+- `path`: URL 中 `/wj/` 後的路徑，預設為 `cate/breaking`
 
 
 ## Features
@@ -36,12 +36,18 @@ _None_
 ```json
 {
   "categories": [
-    "other"
+    "new-media"
   ],
+  "example": "/worldjournal",
   "heat": 14,
   "location": "index.ts",
-  "maintainers": [],
-  "name": "Unknown",
+  "maintainers": [
+    "TonyRL"
+  ],
+  "name": "新聞",
+  "parameters": {
+    "path": "URL 中 `/wj/` 後的路徑，預設為 `cate/breaking`"
+  },
   "path": "/:path{.+}?",
   "radar": [
     {

@@ -12,7 +12,7 @@
 - URL: `admission.nju.edu.cn`
 - Language: `_None_`
 - Categories: `university`
-- Maintainers: `None`
+- Maintainers: `cqjjjzr`
 - Source Location: `exchangesys.ts`
 - Source Module: `_None_`
 
@@ -54,7 +54,9 @@ _None_
   },
   "heat": 0,
   "location": "exchangesys.ts",
-  "maintainers": [],
+  "maintainers": [
+    "cqjjjzr"
+  ],
   "name": "本科生交换生系统",
   "parameters": {
     "type": "分类名"

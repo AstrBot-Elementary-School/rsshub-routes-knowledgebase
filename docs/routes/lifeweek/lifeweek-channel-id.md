@@ -1,4 +1,4 @@
-# 三联生活周刊 - Unknown
+# 三联生活周刊 - 栏目
 
 ## Coverage
 `index-only`
@@ -7,20 +7,24 @@
 - Namespace: `lifeweek`
 - Namespace Name: `三联生活周刊`
 - Route Path: `/lifeweek/channel/:id`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `栏目`
+- Example: `/lifeweek/channel/9`
 - URL: `lifeweek.com.cn`
 - Language: `_None_`
-- Categories: `other`
-- Maintainers: `None`
+- Categories: `traditional-media`
+- Maintainers: `changren-wcr`
 - Source Location: `channel.ts`
 - Source Module: `_None_`
 
 ## Description
-_None_
+提取文章全文，获得更好的阅读体验。支持所有频道，频道名称见 [杂志栏目](https://www.lifeweek.com.cn/classify?type=2)。例如 [调查栏目](https://www.lifeweek.com.cn/column/9) URL 最后的数字为栏目 ID
+
+| 调查 | 热点 | 人物 | 社会 | 经济 | 文化 |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+| 9    | 6    | 10   | 2    | 3    | 4    |
 
 ## Parameters
-_None_
+- `id`: 栏目 ID
 
 
 ## Features
@@ -36,12 +40,19 @@ _None_
 ```json
 {
   "categories": [
-    "other"
+    "traditional-media"
   ],
+  "description": "提取文章全文，获得更好的阅读体验。支持所有频道，频道名称见 [杂志栏目](https://www.lifeweek.com.cn/classify?type=2)。例如 [调查栏目](https://www.lifeweek.com.cn/column/9) URL 最后的数字为栏目 ID\n\n| 调查 | 热点 | 人物 | 社会 | 经济 | 文化 |\n| ---- | ---- | ---- | ---- | ---- | ---- |\n| 9    | 6    | 10   | 2    | 3    | 4    |",
+  "example": "/lifeweek/channel/9",
   "heat": 135,
   "location": "channel.ts",
-  "maintainers": [],
-  "name": "Unknown",
+  "maintainers": [
+    "changren-wcr"
+  ],
+  "name": "栏目",
+  "parameters": {
+    "id": "栏目 ID"
+  },
   "path": "/channel/:id",
   "radar": [
     {

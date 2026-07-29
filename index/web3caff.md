@@ -10,10 +10,10 @@
 
 ## Routes
 
-### Unknown
-- Route ID: `web3caff:/web3caff*`
-- Route Path: `/web3caff*`
-- File: `docs/routes/web3caff/web3caff.md`
-- File Name: `web3caff.md`
-- Categories: `other`
-- Maintainers: `None`
+### 发现
+- Route ID: `web3caff:/web3caff/:path{.+}?`
+- Route Path: `/web3caff/:path{.+}?`
+- File: `docs/routes/web3caff/web3caff-path.md`
+- File Name: `web3caff-path.md`
+- Categories: `new-media`
+- Maintainers: `nczitzk`

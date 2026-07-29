@@ -10,10 +10,10 @@
 
 ## Routes
 
-### Unknown
+### Releases
 - Route ID: `openwrt:/openwrt/releases/:brand/:model`
 - Route Path: `/openwrt/releases/:brand/:model`
 - File: `docs/routes/openwrt/openwrt-releases-brand-model.md`
 - File Name: `openwrt-releases-brand-model.md`
-- Categories: `other`
-- Maintainers: `None`
+- Categories: `program-update`
+- Maintainers: `DIYgod`

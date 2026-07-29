@@ -10,7 +10,7 @@
 
 ## Routes
 
-### Unknown
+### 首页
 - Route ID: `niaogebiji:/niaogebiji/`
 - Route Path: `/niaogebiji/`
 - File: `docs/routes/niaogebiji/niaogebiji.md`

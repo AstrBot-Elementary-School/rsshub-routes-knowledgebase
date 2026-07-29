@@ -10,18 +10,18 @@
 
 ## Routes
 
-### Unknown
-- Route ID: `nenu:/nenu/sohac/*`
-- Route Path: `/nenu/sohac/*`
-- File: `docs/routes/nenu/nenu-sohac.md`
-- File Name: `nenu-sohac.md`
-- Categories: `other`
-- Maintainers: `None`
+### 历史文化学院
+- Route ID: `nenu:/nenu/sohac/:path{.+}?`
+- Route Path: `/nenu/sohac/:path{.+}?`
+- File: `docs/routes/nenu/nenu-sohac-path.md`
+- File Name: `nenu-sohac-path.md`
+- Categories: `university`
+- Maintainers: `nczitzk`
 
-### Unknown
-- Route ID: `nenu:/nenu/yjsy/*`
-- Route Path: `/nenu/yjsy/*`
-- File: `docs/routes/nenu/nenu-yjsy.md`
-- File Name: `nenu-yjsy.md`
-- Categories: `other`
-- Maintainers: `None`
+### 研究生院
+- Route ID: `nenu:/nenu/yjsy/:path{.+}?`
+- Route Path: `/nenu/yjsy/:path{.+}?`
+- File: `docs/routes/nenu/nenu-yjsy-path.md`
+- File Name: `nenu-yjsy-path.md`
+- Categories: `university`
+- Maintainers: `nczitzk`

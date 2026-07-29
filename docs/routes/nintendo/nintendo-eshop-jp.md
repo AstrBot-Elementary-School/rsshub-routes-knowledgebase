@@ -1,4 +1,4 @@
-# Nintendo - Unknown
+# Nintendo - eShop New Game Releases (JP)
 
 ## Coverage
 `index-only`
@@ -7,12 +7,12 @@
 - Namespace: `nintendo`
 - Namespace Name: `Nintendo`
 - Route Path: `/nintendo/eshop/jp`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `eShop New Game Releases (JP)`
+- Example: `/nintendo/eshop/jp`
 - URL: `nintendo.co.jp/software/switch/index.html`
 - Language: `_None_`
 - Categories: `game`
-- Maintainers: `None`
+- Maintainers: `HFO4`
 - Source Location: `eshop-jp.ts`
 - Source Module: `_None_`
 
@@ -38,10 +38,13 @@ _None_
   "categories": [
     "game"
   ],
+  "example": "/nintendo/eshop/jp",
   "heat": 7,
   "location": "eshop-jp.ts",
-  "maintainers": [],
-  "name": "Unknown",
+  "maintainers": [
+    "HFO4"
+  ],
+  "name": "eShop New Game Releases (JP)",
   "path": "/eshop/jp",
   "radar": [
     {

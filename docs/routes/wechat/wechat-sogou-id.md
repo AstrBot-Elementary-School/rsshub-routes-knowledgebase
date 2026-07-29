@@ -12,7 +12,7 @@
 - URL: `posts.careerengine.us`
 - Language: `_None_`
 - Categories: `new-media`
-- Maintainers: `EthanWng97, pseudoyu`
+- Maintainers: `IvanWng97, pseudoyu`
 - Source Location: `sogou.ts`
 - Source Module: `_None_`
 
@@ -52,7 +52,7 @@ _None_
   "heat": 60,
   "location": "sogou.ts",
   "maintainers": [
-    "EthanWng97",
+    "IvanWng97",
     "pseudoyu"
   ],
   "name": "公众号（搜狗来源）",

@@ -1,4 +1,4 @@
-# 环球法律评论 - Unknown
+# 环球法律评论 - 期刊
 
 ## Coverage
 `index-only`
@@ -7,11 +7,11 @@
 - Namespace: `globallawreview`
 - Namespace Name: `环球法律评论`
 - Route Path: `/globallawreview/`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `期刊`
+- Example: `/globallawreview`
 - URL: `globallawreview.org/Magazine/GetIssueContentList`
 - Language: `_None_`
-- Categories: `other`
+- Categories: `journal`
 - Maintainers: `nczitzk`
 - Source Location: `index.ts`
 - Source Module: `_None_`
@@ -37,14 +37,15 @@ _None_
 ```json
 {
   "categories": [
-    "other"
+    "journal"
   ],
+  "example": "/globallawreview",
   "heat": 0,
   "location": "index.ts",
   "maintainers": [
     "nczitzk"
   ],
-  "name": "Unknown",
+  "name": "期刊",
   "path": "/",
   "radar": [
     {

@@ -32,7 +32,7 @@
 - File: `docs/routes/nju/nju-exchangesys-type.md`
 - File Name: `nju-exchangesys-type.md`
 - Categories: `university`
-- Maintainers: `None`
+- Maintainers: `cqjjjzr`
 
 ### 研究生院
 - Route ID: `nju:/nju/gra`

@@ -1,4 +1,4 @@
-# 香港 01 - Unknown
+# 香港 01 - 标签
 
 ## Coverage
 `index-only`
@@ -7,12 +7,12 @@
 - Namespace: `hk01`
 - Namespace Name: `香港 01`
 - Route Path: `/hk01/tag/:id?`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `标签`
+- Example: `/hk01/tag/2787`
 - URL: `hk01.com`
 - Language: `_None_`
 - Categories: `new-media`
-- Maintainers: `None`
+- Maintainers: `hoilc, Fatpandac, nczitzk`
 - Source Location: `tag.ts`
 - Source Module: `_None_`
 
@@ -20,7 +20,7 @@
 _None_
 
 ## Parameters
-_None_
+- `id`: 标签 id, 可在 URL 中找到
 
 
 ## Features
@@ -38,10 +38,18 @@ _None_
   "categories": [
     "new-media"
   ],
+  "example": "/hk01/tag/2787",
   "heat": 11,
   "location": "tag.ts",
-  "maintainers": [],
-  "name": "Unknown",
+  "maintainers": [
+    "hoilc",
+    "Fatpandac",
+    "nczitzk"
+  ],
+  "name": "标签",
+  "parameters": {
+    "id": "标签 id, 可在 URL 中找到"
+  },
   "path": "/tag/:id?",
   "radar": [
     {

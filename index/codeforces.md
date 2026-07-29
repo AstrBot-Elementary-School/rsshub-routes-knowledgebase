@@ -24,4 +24,4 @@
 - File: `docs/routes/codeforces/codeforces-recent-actions-minrating.md`
 - File Name: `codeforces-recent-actions-minrating.md`
 - Categories: `programming`
-- Maintainers: `None`
+- Maintainers: `ftiasch`

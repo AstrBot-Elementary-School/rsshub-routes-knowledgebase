@@ -8,7 +8,7 @@
 - Namespace Name: `3DMGame`
 - Route Path: `/3dmgame/games/:name/:type?`
 - Route Name: `游戏资讯`
-- Example: `_None_`
+- Example: `/3dmgame/games/detroitbecomehuman/news`
 - URL: `3dmgame.com`
 - Language: `_None_`
 - Categories: `game`
@@ -17,10 +17,13 @@
 - Source Module: `_None_`
 
 ## Description
-_None_
+| 新闻 | 攻略 | 资源     |
+| ---- | ---- | -------- |
+| news | gl   | resource |
 
 ## Parameters
-_None_
+- `name`: 游戏名字，可以在专题页的 url 中找到
+- `type`: 资讯类型，见下表，默认为 `news`
 
 
 ## Features
@@ -37,6 +40,8 @@ _None_
   "categories": [
     "game"
   ],
+  "description": "| 新闻 | 攻略 | 资源     |\n| ---- | ---- | -------- |\n| news | gl   | resource |",
+  "example": "/3dmgame/games/detroitbecomehuman/news",
   "heat": 0,
   "location": "game.ts",
   "maintainers": [
@@ -46,6 +51,10 @@ _None_
     "lyqluis"
   ],
   "name": "游戏资讯",
+  "parameters": {
+    "name": "游戏名字，可以在专题页的 url 中找到",
+    "type": "资讯类型，见下表，默认为 `news`"
+  },
   "path": "/games/:name/:type?",
   "radar": [
     {

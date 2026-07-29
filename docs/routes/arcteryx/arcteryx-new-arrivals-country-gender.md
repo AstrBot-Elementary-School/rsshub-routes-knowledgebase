@@ -12,7 +12,7 @@
 - URL: `arcteryx.com`
 - Language: `_None_`
 - Categories: `shopping`
-- Maintainers: `EthanWng97`
+- Maintainers: `IvanWng97`
 - Source Location: `new-arrivals.ts`
 - Source Module: `_None_`
 
@@ -70,7 +70,7 @@ Parameter `country` can be found within the url of `Arcteryx` website.
   "heat": 0,
   "location": "new-arrivals.ts",
   "maintainers": [
-    "EthanWng97"
+    "IvanWng97"
   ],
   "name": "New Arrivals",
   "parameters": {

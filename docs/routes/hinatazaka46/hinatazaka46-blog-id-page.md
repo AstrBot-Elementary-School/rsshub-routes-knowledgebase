@@ -12,7 +12,7 @@
 - URL: `hinatazaka46.com`
 - Language: `_None_`
 - Categories: `new-media`
-- Maintainers: `None`
+- Maintainers: `yj-qin, AkashiGakki`
 - Source Location: `blog.ts`
 - Source Module: `_None_`
 
@@ -89,7 +89,10 @@ _None_
   },
   "heat": 7,
   "location": "blog.ts",
-  "maintainers": [],
+  "maintainers": [
+    "yj-qin",
+    "AkashiGakki"
+  ],
   "name": "Hinatazaka46 Blog 日向坂 46 博客",
   "parameters": {
     "id": "Member ID, see below, `all` by default",

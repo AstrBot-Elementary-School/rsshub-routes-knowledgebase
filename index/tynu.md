@@ -10,10 +10,10 @@
 
 ## Routes
 
-### Unknown
+### 通知公告
 - Route ID: `tynu:/tynu/`
 - Route Path: `/tynu/`
 - File: `docs/routes/tynu/tynu.md`
 - File Name: `tynu.md`
-- Categories: `other`
+- Categories: `university`
 - Maintainers: `2PoL`

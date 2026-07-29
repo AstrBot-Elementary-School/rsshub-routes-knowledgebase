@@ -12,7 +12,7 @@
 - URL: `www.abmedia.io`
 - Language: `_None_`
 - Categories: `new-media`
-- Maintainers: `None`
+- Maintainers: `Fatpandac`
 - Source Location: `category.ts`
 - Source Module: `_None_`
 
@@ -57,7 +57,9 @@
   },
   "heat": 0,
   "location": "category.ts",
-  "maintainers": [],
+  "maintainers": [
+    "Fatpandac"
+  ],
   "name": "类别",
   "parameters": {
     "category": "类别，默认为产品技术"

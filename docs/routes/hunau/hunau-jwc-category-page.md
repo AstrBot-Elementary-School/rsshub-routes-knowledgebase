@@ -12,7 +12,7 @@
 - URL: `xky.hunau.edu.cn/`
 - Language: `_None_`
 - Categories: `university`
-- Maintainers: `None`
+- Maintainers: `lcandy2`
 - Source Location: `jwc.ts`
 - Source Module: `_None_`
 
@@ -60,7 +60,9 @@
   },
   "heat": 0,
   "location": "jwc.ts",
-  "maintainers": [],
+  "maintainers": [
+    "lcandy2"
+  ],
   "name": "教务处",
   "parameters": {
     "category": "页面分类，默认为 `tzgg`",

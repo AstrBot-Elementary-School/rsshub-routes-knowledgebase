@@ -40,7 +40,7 @@
 - File: `docs/routes/gelonghui/gelonghui-live.md`
 - File Name: `gelonghui-live.md`
 - Categories: `finance, popular`
-- Maintainers: `None`
+- Maintainers: `TonyRL`
 
 ### 主题文章
 - Route ID: `gelonghui:/gelonghui/subject/:id`

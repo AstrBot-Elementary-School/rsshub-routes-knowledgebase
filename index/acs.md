@@ -10,10 +10,10 @@
 
 ## Routes
 
-### Unknown
+### Journal
 - Route ID: `acs:/acs/journal/:id`
 - Route Path: `/acs/journal/:id`
 - File: `docs/routes/acs/acs-journal-id.md`
 - File Name: `acs-journal-id.md`
-- Categories: `other`
+- Categories: `journal`
 - Maintainers: `nczitzk`

@@ -10,7 +10,7 @@
 
 ## Routes
 
-### Unknown
+### Category
 - Route ID: `literotica:/literotica/category/:category`
 - Route Path: `/literotica/category/:category`
 - File: `docs/routes/literotica/literotica-category-category.md`

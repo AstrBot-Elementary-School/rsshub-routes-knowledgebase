@@ -81,26 +81,26 @@
     {
       "description": "德阳人事考试网 考试新闻发布 (新闻中心) - Powered by RSSHub",
       "errorAt": "2025-10-09T02:43:18.643Z",
-      "errorMessage": "[GET] \"https://www.dykszx.com\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 222.213.85.69:443, 240e:699:1c01:712:5298:3ab3:6d3:1b5b:443, timeout: 10000ms))\n",
+      "errorMessage": "[GET] \"https://www.dykszx.cn\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 222.213.85.69:443, 240e:699:1c01:712:5298:3ab3:6d3:1b5b:443, timeout: 10000ms))\n",
       "id": "61102289930311680",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.dykszx.com/",
+      "siteUrl": "https://www.dykszx.cn/",
       "title": "考试新闻发布(新闻中心)",
       "type": "feed",
       "url": "rsshub://dykszx/news"
     },
     {
-      "description": "德阳人事考试网 考试新闻发布 (其他考试) - Powered by RSSHub",
-      "errorAt": "2025-10-09T01:22:44.835Z",
+      "description": "德阳人事考试网 考试新闻发布 (公务员考试) - Powered by RSSHub",
+      "errorAt": "2025-10-09T00:25:38.064Z",
       "errorMessage": "[GET] \"https://www.dykszx.com\": <no response> fetch failed\n",
-      "id": "161655081002352640",
+      "id": "161654225832322048",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.dykszx.com/",
-      "title": "考试新闻发布(其他考试)",
+      "title": "考试新闻发布(公务员考试)",
       "type": "feed",
-      "url": "rsshub://dykszx/news/other"
+      "url": "rsshub://dykszx/news/gwy"
     }
   ],
   "url": "www.dykszx.cn"

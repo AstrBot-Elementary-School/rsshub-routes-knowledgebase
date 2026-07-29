@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": true
   },
-  "heat": 314,
+  "heat": 315,
   "location": "news.ts",
   "maintainers": [
     "y9c",

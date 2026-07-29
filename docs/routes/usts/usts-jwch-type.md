@@ -12,7 +12,7 @@
 - URL: `jwch.usts.edu.cn`
 - Language: `_None_`
 - Categories: `university`
-- Maintainers: `None`
+- Maintainers: `Fatpandac`
 - Source Location: `jwch.ts`
 - Source Module: `_None_`
 
@@ -54,7 +54,9 @@ _None_
   },
   "heat": 0,
   "location": "jwch.ts",
-  "maintainers": [],
+  "maintainers": [
+    "Fatpandac"
+  ],
   "name": "教务处",
   "parameters": {
     "type": "类型，默认为教务动态"

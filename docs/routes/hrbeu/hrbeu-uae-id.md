@@ -12,7 +12,7 @@
 - URL: `yjsy.hrbeu.edu.cn`
 - Language: `_None_`
 - Categories: `university`
-- Maintainers: `None`
+- Maintainers: `Derekmini`
 - Source Location: `uae/news.ts`
 - Source Module: `_None_`
 
@@ -56,7 +56,9 @@
   },
   "heat": 0,
   "location": "uae/news.ts",
-  "maintainers": [],
+  "maintainers": [
+    "Derekmini"
+  ],
   "name": "水声工程学院",
   "parameters": {
     "id": "栏目编号，在 `URL` 中获取，如果有多级编号，将 `/` 替换为 `-`。"

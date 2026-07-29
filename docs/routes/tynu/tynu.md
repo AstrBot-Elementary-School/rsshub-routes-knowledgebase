@@ -1,4 +1,4 @@
-# 太原师范学院 - Unknown
+# 太原师范学院 - 通知公告
 
 ## Coverage
 `index-only`
@@ -7,11 +7,11 @@
 - Namespace: `tynu`
 - Namespace Name: `太原师范学院`
 - Route Path: `/tynu/`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `通知公告`
+- Example: `/tynu`
 - URL: `tynu.edu.cn/index/tzgg.htm`
 - Language: `_None_`
-- Categories: `other`
+- Categories: `university`
 - Maintainers: `2PoL`
 - Source Location: `tynu.ts`
 - Source Module: `_None_`
@@ -38,14 +38,15 @@ _None_
 ```json
 {
   "categories": [
-    "other"
+    "university"
   ],
+  "example": "/tynu",
   "heat": 0,
   "location": "tynu.ts",
   "maintainers": [
     "2PoL"
   ],
-  "name": "Unknown",
+  "name": "通知公告",
   "path": "/",
   "radar": [
     {

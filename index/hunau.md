@@ -16,7 +16,7 @@
 - File: `docs/routes/hunau/hunau-gfxy-category-page.md`
 - File Name: `hunau-gfxy-category-page.md`
 - Categories: `university`
-- Maintainers: `None`
+- Maintainers: `lcandy2`
 
 ### 国际交流与合作处、国际教育学院、港澳台事务办公室
 - Route ID: `hunau:/hunau/ied/:type?/:category?/:page?`
@@ -32,7 +32,7 @@
 - File: `docs/routes/hunau/hunau-jwc-category-page.md`
 - File Name: `hunau-jwc-category-page.md`
 - Categories: `university`
-- Maintainers: `None`
+- Maintainers: `lcandy2`
 
 ### 信息与智能科学学院
 - Route ID: `hunau:/hunau/xky/:category?/:page?`
@@ -40,4 +40,4 @@
 - File: `docs/routes/hunau/hunau-xky-category-page.md`
 - File Name: `hunau-xky-category-page.md`
 - Categories: `university`
-- Maintainers: `None`
+- Maintainers: `lcandy2`

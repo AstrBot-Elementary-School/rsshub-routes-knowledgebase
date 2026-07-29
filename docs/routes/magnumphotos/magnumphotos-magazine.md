@@ -12,7 +12,7 @@
 - URL: `magnumphotos.com/`
 - Language: `_None_`
 - Categories: `picture, popular`
-- Maintainers: `EthanWng97`
+- Maintainers: `IvanWng97`
 - Source Location: `magazine.ts`
 - Source Module: `_None_`
 
@@ -52,10 +52,10 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 44028,
+  "heat": 44011,
   "location": "magazine.ts",
   "maintainers": [
-    "EthanWng97"
+    "IvanWng97"
   ],
   "name": "Magazine",
   "parameters": {},

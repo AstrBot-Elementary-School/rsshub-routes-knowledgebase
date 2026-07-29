@@ -1,4 +1,4 @@
-# 观海新闻 - Unknown
+# 观海新闻 - 首页
 
 ## Coverage
 `index-only`
@@ -7,11 +7,11 @@
 - Namespace: `guanhai`
 - Namespace Name: `观海新闻`
 - Route Path: `/guanhai/`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `首页`
+- Example: `/guanhai`
 - URL: `guanhai.com.cn/`
 - Language: `_None_`
-- Categories: `other`
+- Categories: `new-media`
 - Maintainers: `TonyRL`
 - Source Location: `index.ts`
 - Source Module: `_None_`
@@ -36,14 +36,15 @@ _None_
 ```json
 {
   "categories": [
-    "other"
+    "new-media"
   ],
+  "example": "/guanhai",
   "heat": 0,
   "location": "index.ts",
   "maintainers": [
     "TonyRL"
   ],
-  "name": "Unknown",
+  "name": "首页",
   "path": "/",
   "radar": [
     {

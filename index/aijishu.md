@@ -16,4 +16,4 @@
 - File: `docs/routes/aijishu/aijishu-type-name.md`
 - File Name: `aijishu-type-name.md`
 - Categories: `programming`
-- Maintainers: `None`
+- Maintainers: `bigfei`

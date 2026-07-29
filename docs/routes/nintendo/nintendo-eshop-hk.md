@@ -1,4 +1,4 @@
-# Nintendo - Unknown
+# Nintendo - eShop New Game Releases (HK)
 
 ## Coverage
 `index-only`
@@ -7,12 +7,12 @@
 - Namespace: `nintendo`
 - Namespace Name: `Nintendo`
 - Route Path: `/nintendo/eshop/hk`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `eShop New Game Releases (HK)`
+- Example: `/nintendo/eshop/hk`
 - URL: `nintendo.com.hk/software/switch`
 - Language: `_None_`
 - Categories: `game`
-- Maintainers: `None`
+- Maintainers: `HFO4`
 - Source Location: `eshop-hk.ts`
 - Source Module: `_None_`
 
@@ -38,10 +38,13 @@ _None_
   "categories": [
     "game"
   ],
+  "example": "/nintendo/eshop/hk",
   "heat": 0,
   "location": "eshop-hk.ts",
-  "maintainers": [],
-  "name": "Unknown",
+  "maintainers": [
+    "HFO4"
+  ],
+  "name": "eShop New Game Releases (HK)",
   "path": "/eshop/hk",
   "radar": [
     {

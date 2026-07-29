@@ -1,4 +1,4 @@
-# Routledge - Unknown
+# Routledge - Book Series
 
 ## Coverage
 `index-only`
@@ -7,11 +7,11 @@
 - Namespace: `routledge`
 - Namespace Name: `Routledge`
 - Route Path: `/routledge/:bookName/book-series/:bookId`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `Book Series`
+- Example: `/routledge/A-Colour-Atlas/book-series/CRCACOLOATLA`
 - URL: `routledge.com`
 - Language: `_None_`
-- Categories: `other`
+- Categories: `journal`
 - Maintainers: `TonyRL`
 - Source Location: `book-series.tsx`
 - Source Module: `_None_`
@@ -20,7 +20,8 @@
 _None_
 
 ## Parameters
-_None_
+- `bookName`: Book name, can be found in URL
+- `bookId`: Book ID, can be found in URL
 
 
 ## Features
@@ -35,14 +36,19 @@ _None_
 ```json
 {
   "categories": [
-    "other"
+    "journal"
   ],
+  "example": "/routledge/A-Colour-Atlas/book-series/CRCACOLOATLA",
   "heat": 0,
   "location": "book-series.tsx",
   "maintainers": [
     "TonyRL"
   ],
-  "name": "Unknown",
+  "name": "Book Series",
+  "parameters": {
+    "bookId": "Book ID, can be found in URL",
+    "bookName": "Book name, can be found in URL"
+  },
   "path": "/:bookName/book-series/:bookId",
   "radar": [
     {

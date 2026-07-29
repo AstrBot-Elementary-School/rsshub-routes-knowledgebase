@@ -10,10 +10,10 @@
 
 ## Routes
 
-### Unknown
+### 栏目
 - Route ID: `cfmmc:/cfmmc/:id{.+}?`
 - Route Path: `/cfmmc/:id{.+}?`
 - File: `docs/routes/cfmmc/cfmmc-id.md`
 - File Name: `cfmmc-id.md`
-- Categories: `other`
-- Maintainers: `None`
+- Categories: `finance`
+- Maintainers: `nczitzk`

@@ -1,4 +1,4 @@
-# 中国光大银行 - Unknown
+# 中国光大银行 - 外汇牌价 - 总览
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `cebbank`
 - Namespace Name: `中国光大银行`
 - Route Path: `/cebbank/quotation/all`
-- Route Name: `Unknown`
+- Route Name: `外汇牌价 - 总览`
 - Example: `/cebbank/quotation/all`
 - URL: `cebbank.com/site/ygzx/whpj/index.html`
 - Language: `_None_`
@@ -58,8 +58,7 @@ _None_
   "maintainers": [
     "linbuxiao"
   ],
-  "name": "Unknown",
-  "parameters": {},
+  "name": "外汇牌价 - 总览",
   "path": "/quotation/all",
   "radar": [
     {

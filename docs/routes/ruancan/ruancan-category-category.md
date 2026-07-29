@@ -12,7 +12,7 @@
 - URL: `ruancan.com/`
 - Language: `_None_`
 - Categories: `new-media`
-- Maintainers: `None`
+- Maintainers: `nczitzk`
 - Source Location: `category.ts`
 - Source Module: `_None_`
 
@@ -20,7 +20,7 @@
 _None_
 
 ## Parameters
-- `category`: 分类 id，可在对应分类页 URL 中找到，默认为业界
+- `category`: 分类 id，可在对应分类页 URL 中找到
 
 
 ## Features
@@ -55,10 +55,12 @@ _None_
   },
   "heat": 0,
   "location": "category.ts",
-  "maintainers": [],
+  "maintainers": [
+    "nczitzk"
+  ],
   "name": "分类",
   "parameters": {
-    "category": "分类 id，可在对应分类页 URL 中找到，默认为业界"
+    "category": "分类 id，可在对应分类页 URL 中找到"
   },
   "path": "/category/:category?",
   "radar": [

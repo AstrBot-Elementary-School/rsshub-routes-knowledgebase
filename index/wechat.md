@@ -26,7 +26,7 @@
 - Categories: `new-media`
 - Maintainers: `HenryQW`
 
-### Unknown
+### 公众号（微阅读来源）
 - Route ID: `wechat:/wechat/data258/:id?`
 - Route Path: `/wechat/data258/:id?`
 - File: `docs/routes/wechat/wechat-data258-id.md`
@@ -64,7 +64,7 @@
 - File: `docs/routes/wechat/wechat-sogou-id.md`
 - File Name: `wechat-sogou-id.md`
 - Categories: `new-media`
-- Maintainers: `EthanWng97, pseudoyu`
+- Maintainers: `IvanWng97, pseudoyu`
 
 ### 公众号（Telegram 频道来源）
 - Route ID: `wechat:/wechat/tgchannel/:id/:mpName?/:searchQueryType?`

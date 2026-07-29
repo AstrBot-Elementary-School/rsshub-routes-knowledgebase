@@ -1,4 +1,4 @@
-# 中国新闻网 - Unknown
+# 中国新闻网 - 最新
 
 ## Coverage
 `index-only`
@@ -7,11 +7,11 @@
 - Namespace: `chinanews`
 - Namespace Name: `中国新闻网`
 - Route Path: `/chinanews/`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `最新`
+- Example: `/chinanews`
 - URL: `chinanews.com.cn/`
 - Language: `_None_`
-- Categories: `other`
+- Categories: `traditional-media`
 - Maintainers: `yuxinliu-alex`
 - Source Location: `index.ts`
 - Source Module: `_None_`
@@ -36,14 +36,15 @@ _None_
 ```json
 {
   "categories": [
-    "other"
+    "traditional-media"
   ],
+  "example": "/chinanews",
   "heat": 0,
   "location": "index.ts",
   "maintainers": [
     "yuxinliu-alex"
   ],
-  "name": "Unknown",
+  "name": "最新",
   "path": "/",
   "radar": [
     {

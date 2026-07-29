@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1325,
+  "heat": 1328,
   "location": "gnn-index.ts",
   "maintainers": [
     "Arracc",
@@ -144,13 +144,14 @@ _None_
   },
   "path": "/gnn/:category?",
   "test": {
-    "code": 0
+    "code": 1,
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
   "topFeeds": [
     {
       "description": "巴哈姆特-GNN新聞 - Powered by RSSHub",
-      "errorAt": "2026-07-27T06:17:46.919Z",
-      "errorMessage": "[GET] \"https://gnn.gamer.com.tw/\": 403 Forbidden\n[GET] \"https://gnn.gamer.com.tw/detail.php?sn=308833\": 429 Too Many Requests\n[GET] \"https://gnn.gamer.com.tw/\": 403 Forbidden\n[GET] \"https://gnn.gamer.com.tw/detail.php?sn=308834\": 429 Too Many Requests\n[GET] \"https://gnn.gamer.com.tw/detail.php?sn=308824\": 429 Too Many Requests\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "61373650705521664",
       "image": null,
       "ownerUserId": null,

@@ -1,4 +1,4 @@
-# 北京师范大学 - Unknown
+# 北京师范大学 - 图书馆通知
 
 ## Coverage
 `index-only`
@@ -7,8 +7,8 @@
 - Namespace: `bnu`
 - Namespace Name: `北京师范大学`
 - Route Path: `/bnu/lib/:category?`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `图书馆通知`
+- Example: `/bnu/lib/zydt`
 - URL: `bs.bnu.edu.cn`
 - Language: `_None_`
 - Categories: `university`
@@ -17,10 +17,12 @@
 - Source Module: `_None_`
 
 ## Description
-_None_
+| 资源动态 | 新闻动态 | 系列讲座 |
+| -------- | -------- | -------- |
+| zydt     | xwdt     | xljz1    |
 
 ## Parameters
-_None_
+- `category`: 分类，见下表，默认为 `zydt`
 
 
 ## Features
@@ -38,12 +40,17 @@ _None_
   "categories": [
     "university"
   ],
+  "description": "| 资源动态 | 新闻动态 | 系列讲座 |\n| -------- | -------- | -------- |\n| zydt     | xwdt     | xljz1    |",
+  "example": "/bnu/lib/zydt",
   "heat": 2,
   "location": "lib.ts",
   "maintainers": [
     "TonyRL"
   ],
-  "name": "Unknown",
+  "name": "图书馆通知",
+  "parameters": {
+    "category": "分类，见下表，默认为 `zydt`"
+  },
   "path": "/lib/:category?",
   "radar": [
     {

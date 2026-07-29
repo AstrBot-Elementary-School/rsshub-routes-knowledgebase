@@ -16,7 +16,7 @@
 - File: `docs/routes/nogizaka46/nogizaka46-blog-id.md`
 - File Name: `nogizaka46-blog-id.md`
 - Categories: `new-media`
-- Maintainers: `Kasper4649, akashigakki`
+- Maintainers: `Kasper4649, AkashiGakki`
 
 ### Nogizaka46 News 乃木坂 46 新闻
 - Route ID: `nogizaka46:/nogizaka46/news`

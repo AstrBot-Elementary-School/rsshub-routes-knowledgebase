@@ -26,13 +26,13 @@
 - Categories: `university`
 - Maintainers: `Fatpandac`
 
-### Unknown
+### 党委学生工作部辅导员发展中心
 - Route ID: `bnu:/bnu/fdy/:path{.+}?`
 - Route Path: `/bnu/fdy/:path{.+}?`
 - File: `docs/routes/bnu/bnu-fdy-path.md`
 - File Name: `bnu-fdy-path.md`
 - Categories: `university`
-- Maintainers: `None`
+- Maintainers: `TonyRL`
 
 ### 教育学部-培养动态
 - Route ID: `bnu:/bnu/fe/:category`
@@ -50,7 +50,7 @@
 - Categories: `university`
 - Maintainers: `ladeng07`
 
-### Unknown
+### 图书馆通知
 - Route ID: `bnu:/bnu/lib/:category?`
 - Route Path: `/bnu/lib/:category?`
 - File: `docs/routes/bnu/bnu-lib-category.md`

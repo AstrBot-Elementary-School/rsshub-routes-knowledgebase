@@ -85,16 +85,16 @@ _None_
       "url": "rsshub://dblp/knowledge%20tracing"
     },
     {
-      "description": "DBLP manipulation RSS - Powered by RSSHub",
+      "description": "DBLP robotics RSS - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "231673359707123712",
+      "id": "257777668080712704",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://dblp.org/search?q=manipulation",
-      "title": "【dblp】manipulation",
+      "siteUrl": "https://dblp.org/search?q=robotics",
+      "title": "【dblp】robotics",
       "type": "feed",
-      "url": "rsshub://dblp/manipulation"
+      "url": "rsshub://dblp/robotics"
     }
   ]
 }

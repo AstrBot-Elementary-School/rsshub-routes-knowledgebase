@@ -12,7 +12,7 @@
 - URL: `blog.nogizaka46.com/s/n46/diary/MEMBER`
 - Language: `_None_`
 - Categories: `new-media`
-- Maintainers: `Kasper4649, akashigakki`
+- Maintainers: `Kasper4649, AkashiGakki`
 - Source Location: `blog.ts`
 - Source Module: `_None_`
 
@@ -100,7 +100,7 @@ Member ID
   "location": "blog.ts",
   "maintainers": [
     "Kasper4649",
-    "akashigakki"
+    "AkashiGakki"
   ],
   "name": "Nogizaka46 Blog 乃木坂 46 博客",
   "parameters": {

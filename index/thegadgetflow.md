@@ -16,4 +16,4 @@
 - File: `docs/routes/thegadgetflow/thegadgetflow-category.md`
 - File Name: `thegadgetflow-category.md`
 - Categories: `shopping`
-- Maintainers: `EthanWng97`
+- Maintainers: `IvanWng97`

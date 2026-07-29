@@ -12,7 +12,7 @@
 - URL: `www.brooklynmuseum.org`
 - Language: `_None_`
 - Categories: `travel`
-- Maintainers: `None`
+- Maintainers: `chazeon`
 - Source Location: `exhibitions.ts`
 - Source Module: `_None_`
 
@@ -51,7 +51,9 @@ _None_
   },
   "heat": 0,
   "location": "exhibitions.ts",
-  "maintainers": [],
+  "maintainers": [
+    "chazeon"
+  ],
   "name": "Exhibitions",
   "parameters": {
     "state": "展览进行的状态：`current` 对应展览当前正在进行，`past` 对应过去的展览，`upcoming` 对应即将举办的展览，默认为 `current`"

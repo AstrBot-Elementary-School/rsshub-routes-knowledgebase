@@ -16,4 +16,4 @@
 - File: `docs/routes/magazinelib/magazinelib-latest-magazine-query.md`
 - File Name: `magazinelib-latest-magazine-query.md`
 - Categories: `reading`
-- Maintainers: `EthanWng97`
+- Maintainers: `IvanWng97`

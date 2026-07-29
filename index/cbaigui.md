@@ -10,10 +10,10 @@
 
 ## Routes
 
-### Unknown
-- Route ID: `cbaigui:/cbaigui*`
-- Route Path: `/cbaigui*`
-- File: `docs/routes/cbaigui/cbaigui.md`
-- File Name: `cbaigui.md`
-- Categories: `other`
-- Maintainers: `None`
+### 通用
+- Route ID: `cbaigui:/cbaigui/:path{.+}?`
+- Route Path: `/cbaigui/:path{.+}?`
+- File: `docs/routes/cbaigui/cbaigui-path.md`
+- File Name: `cbaigui-path.md`
+- Categories: `new-media`
+- Maintainers: `nczitzk`

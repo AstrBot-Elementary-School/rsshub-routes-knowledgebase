@@ -16,7 +16,7 @@
 - File: `docs/routes/sakurazaka46/sakurazaka46-blog-id-page.md`
 - File Name: `sakurazaka46-blog-id-page.md`
 - Categories: `new-media`
-- Maintainers: `victor21813, nczitzk, akashigakki`
+- Maintainers: `victor21813, nczitzk, AkashiGakki`
 
 ### Sakurazaka46 News 櫻坂 46 新闻
 - Route ID: `sakurazaka46:/sakurazaka46/news`

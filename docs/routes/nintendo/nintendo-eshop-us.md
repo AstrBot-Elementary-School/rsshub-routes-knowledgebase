@@ -1,4 +1,4 @@
-# Nintendo - Unknown
+# Nintendo - eShop New Game Releases (US)
 
 ## Coverage
 `index-only`
@@ -7,12 +7,12 @@
 - Namespace: `nintendo`
 - Namespace Name: `Nintendo`
 - Route Path: `/nintendo/eshop/us`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `eShop New Game Releases (US)`
+- Example: `/nintendo/eshop/us`
 - URL: `nintendo.com/store/games`
 - Language: `_None_`
 - Categories: `game`
-- Maintainers: `None`
+- Maintainers: `HFO4`
 - Source Location: `eshop-us.ts`
 - Source Module: `_None_`
 
@@ -38,10 +38,13 @@ _None_
   "categories": [
     "game"
   ],
+  "example": "/nintendo/eshop/us",
   "heat": 2,
   "location": "eshop-us.ts",
-  "maintainers": [],
-  "name": "Unknown",
+  "maintainers": [
+    "HFO4"
+  ],
+  "name": "eShop New Game Releases (US)",
   "path": "/eshop/us",
   "radar": [
     {

@@ -67,6 +67,9 @@ _None_
       "target": "/press"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "verfgh.baden-wuerttemberg.de/presse-und-service/pressemitteilungen/"
 }

@@ -10,10 +10,10 @@
 
 ## Routes
 
-### Unknown
+### Blog
 - Route ID: `stratechery:/stratechery/`
 - Route Path: `/stratechery/`
 - File: `docs/routes/stratechery/stratechery.md`
 - File Name: `stratechery.md`
-- Categories: `other`
+- Categories: `blog`
 - Maintainers: `chazeon`

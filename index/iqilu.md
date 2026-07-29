@@ -10,10 +10,10 @@
 
 ## Routes
 
-### Unknown
+### 电视节目
 - Route ID: `iqilu:/iqilu/v/:category{.+}?`
 - Route Path: `/iqilu/v/:category{.+}?`
 - File: `docs/routes/iqilu/iqilu-v-category.md`
 - File Name: `iqilu-v-category.md`
-- Categories: `other`
-- Maintainers: `None`
+- Categories: `traditional-media`
+- Maintainers: `nczitzk`

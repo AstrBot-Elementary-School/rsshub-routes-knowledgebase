@@ -12,7 +12,7 @@
 - URL: `zhujia.zhuwang.cc/`
 - Language: `_None_`
 - Categories: `shopping`
-- Maintainers: `None`
+- Maintainers: `importcjj`
 - Source Location: `index.ts`
 - Source Module: `_None_`
 
@@ -53,7 +53,9 @@ _None_
   },
   "heat": 266,
   "location": "index.ts",
-  "maintainers": [],
+  "maintainers": [
+    "importcjj"
+  ],
   "name": "全国今日生猪价格",
   "parameters": {},
   "path": "/zhujia",

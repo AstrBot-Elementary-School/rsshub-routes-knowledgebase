@@ -10,10 +10,10 @@
 
 ## Routes
 
-### Unknown
+### News Centre
 - Route ID: `kantarworldpanel:/kantarworldpanel/:region?/:category{.+}?`
 - Route Path: `/kantarworldpanel/:region?/:category{.+}?`
 - File: `docs/routes/kantarworldpanel/kantarworldpanel-region-category.md`
 - File Name: `kantarworldpanel-region-category.md`
-- Categories: `other`
-- Maintainers: `None`
+- Categories: `new-media`
+- Maintainers: `nczitzk`

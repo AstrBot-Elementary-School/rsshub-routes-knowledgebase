@@ -10,10 +10,10 @@
 
 ## Routes
 
-### Unknown
+### Index
 - Route ID: `netflav:/netflav/`
 - Route Path: `/netflav/`
 - File: `docs/routes/netflav/netflav.md`
 - File Name: `netflav.md`
-- Categories: `other`
+- Categories: `multimedia`
 - Maintainers: `TonyRL`

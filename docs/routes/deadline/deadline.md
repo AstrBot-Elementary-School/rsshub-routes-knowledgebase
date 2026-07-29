@@ -1,4 +1,4 @@
-# Deadline - Unknown
+# Deadline - Latest Article
 
 ## Coverage
 `index-only`
@@ -7,11 +7,11 @@
 - Namespace: `deadline`
 - Namespace Name: `Deadline`
 - Route Path: `/deadline/`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `Latest Article`
+- Example: `/deadline`
 - URL: `deadline.com/`
 - Language: `_None_`
-- Categories: `other`
+- Categories: `new-media`
 - Maintainers: `TonyRL`
 - Source Location: `posts.tsx`
 - Source Module: `_None_`
@@ -36,14 +36,15 @@ _None_
 ```json
 {
   "categories": [
-    "other"
+    "new-media"
   ],
+  "example": "/deadline",
   "heat": 0,
   "location": "posts.tsx",
   "maintainers": [
     "TonyRL"
   ],
-  "name": "Unknown",
+  "name": "Latest Article",
   "path": "/",
   "radar": [
     {

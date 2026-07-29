@@ -10,10 +10,10 @@
 
 ## Routes
 
-### Unknown
+### Release Notes
 - Route ID: `fishshell:/fishshell/`
 - Route Path: `/fishshell/`
 - File: `docs/routes/fishshell/fishshell.md`
 - File Name: `fishshell.md`
-- Categories: `other`
+- Categories: `program-update`
 - Maintainers: `x2cf`

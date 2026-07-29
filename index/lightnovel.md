@@ -10,10 +10,10 @@
 
 ## Routes
 
-### Unknown
+### 文章更新阅读
 - Route ID: `lightnovel:/lightnovel/:keywords/:security_key?`
 - Route Path: `/lightnovel/:keywords/:security_key?`
 - File: `docs/routes/lightnovel/lightnovel-keywords-security_key.md`
 - File Name: `lightnovel-keywords-security_key.md`
-- Categories: `other`
+- Categories: `anime`
 - Maintainers: `nightmare-mio`

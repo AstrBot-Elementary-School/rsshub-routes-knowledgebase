@@ -10,7 +10,7 @@
 
 ## Routes
 
-### Unknown
+### 分类
 - Route ID: `caam:/caam/:category?`
 - Route Path: `/caam/:category?`
 - File: `docs/routes/caam/caam-category.md`

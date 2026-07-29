@@ -15,7 +15,7 @@
 - Route Path: `/thepaper/839studio`
 - File: `docs/routes/thepaper/thepaper-839studio.md`
 - File Name: `thepaper-839studio.md`
-- Categories: `new-media`
+- Categories: `traditional-media`
 - Maintainers: `umm233`
 
 ### 澎湃美数课作品集 - 分类
@@ -23,7 +23,7 @@
 - Route Path: `/thepaper/839studio/:id`
 - File: `docs/routes/thepaper/thepaper-839studio-id.md`
 - File Name: `thepaper-839studio-id.md`
-- Categories: `new-media`
+- Categories: `traditional-media`
 - Maintainers: `umm233`
 
 ### 频道

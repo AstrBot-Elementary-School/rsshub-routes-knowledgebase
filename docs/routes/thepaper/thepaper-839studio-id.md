@@ -8,19 +8,21 @@
 - Namespace Name: `澎湃新闻`
 - Route Path: `/thepaper/839studio/:id`
 - Route Name: `澎湃美数课作品集 - 分类`
-- Example: `_None_`
+- Example: `/thepaper/839studio/2`
 - URL: `thepaper.cn/`
 - Language: `_None_`
-- Categories: `new-media`
+- Categories: `traditional-media`
 - Maintainers: `umm233`
 - Source Location: `839studio/category.ts`
 - Source Module: `_None_`
 
 ## Description
-_None_
+| 视频 | 交互 | 信息图 | 数据故事 |
+| ---- | ---- | ------ | -------- |
+| 2    | 4    | 3      | 453      |
 
 ## Parameters
-_None_
+- `id`: 分类 id，默认订阅全部分类
 
 
 ## Features
@@ -35,14 +37,19 @@ _None_
 ```json
 {
   "categories": [
-    "new-media"
+    "traditional-media"
   ],
+  "description": "| 视频 | 交互 | 信息图 | 数据故事 |\n| ---- | ---- | ------ | -------- |\n| 2    | 4    | 3      | 453      |",
+  "example": "/thepaper/839studio/2",
   "heat": 0,
   "location": "839studio/category.ts",
   "maintainers": [
     "umm233"
   ],
   "name": "澎湃美数课作品集 - 分类",
+  "parameters": {
+    "id": "分类 id，默认订阅全部分类"
+  },
   "path": "/839studio/:id",
   "radar": [
     {

@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 659,
+  "heat": 658,
   "location": "book.ts",
   "maintainers": [
     "melvinto",
@@ -127,7 +127,7 @@ _None_
   "topFeeds": [
     {
       "description": "The New York Times Best Sellers - Combined Print & E-Book Nonfiction- August 02, 2026 - Powered by RSSHub",
-      "errorAt": "2026-07-17T16:18:03.155Z",
+      "errorAt": "2026-07-25T14:14:30.583Z",
       "errorMessage": "[GET] \"https://www.nytimes.com/books/best-sellers/combined-print-and-e-book-nonfiction\": 403 Forbidden\nAuthentication failed. Access denied.\n/nytimes/book/combined-print-and-e-book-nonfiction\n502 \n[GET] \"https://www.nytimes.com/books/best-sellers/combined-print-and-e-book-nonfiction\": 403 Forbidden\n",
       "id": "56271356825466880",
       "image": null,

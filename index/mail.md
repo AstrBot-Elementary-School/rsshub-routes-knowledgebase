@@ -10,10 +10,10 @@
 
 ## Routes
 
-### Unknown
+### Inbox
 - Route ID: `mail:/mail/imap/:email/:folder{.+}?`
 - Route Path: `/mail/imap/:email/:folder{.+}?`
 - File: `docs/routes/mail/mail-imap-email-folder.md`
 - File Name: `mail-imap-email-folder.md`
 - Categories: `other`
-- Maintainers: `None`
+- Maintainers: `kt286`

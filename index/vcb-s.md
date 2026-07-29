@@ -10,7 +10,7 @@
 
 ## Routes
 
-### Unknown
+### 最新文章
 - Route ID: `vcb-s:/vcb-s/`
 - Route Path: `/vcb-s/`
 - File: `docs/routes/vcb-s/vcb-s.md`

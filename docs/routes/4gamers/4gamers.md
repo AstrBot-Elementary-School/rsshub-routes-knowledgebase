@@ -1,4 +1,4 @@
-# 4Gamers - Unknown
+# 4Gamers - 最新消息
 
 ## Coverage
 `index-only`
@@ -7,13 +7,13 @@
 - Namespace: `4gamers`
 - Namespace Name: `4Gamers`
 - Route Path: `/4gamers/`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `最新消息`
+- Example: `/4gamers`
 - URL: `www.4gamers.com.tw/news`
 - Language: `_None_`
 - Categories: `game`
 - Maintainers: `TonyRL`
-- Source Location: `category.ts`
+- Source Location: `index.ts`
 - Source Module: `_None_`
 
 ## Description
@@ -31,7 +31,7 @@ _None_
 - `source`:
   - `www.4gamers.com.tw/news`
   - `www.4gamers.com.tw/`
-- `target`: ``
+- `target`: `/`
 
 ## Raw JSON
 ```json
@@ -39,23 +39,21 @@ _None_
   "categories": [
     "game"
   ],
+  "example": "/4gamers",
   "heat": 0,
-  "location": "category.ts",
+  "location": "index.ts",
   "maintainers": [
     "TonyRL"
   ],
-  "name": "Unknown",
-  "path": [
-    "/",
-    "/category/:category"
-  ],
+  "name": "最新消息",
+  "path": "/",
   "radar": [
     {
       "source": [
         "www.4gamers.com.tw/news",
         "www.4gamers.com.tw/"
       ],
-      "target": ""
+      "target": "/"
     }
   ],
   "topFeeds": [],

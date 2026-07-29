@@ -12,7 +12,7 @@
 - URL: `cpuid.com/news.html`
 - Language: `_None_`
 - Categories: `program-update`
-- Maintainers: `None`
+- Maintainers: `TonyRL`
 - Source Location: `news.ts`
 - Source Module: `_None_`
 
@@ -54,7 +54,9 @@ _None_
   },
   "heat": 0,
   "location": "news.ts",
-  "maintainers": [],
+  "maintainers": [
+    "TonyRL"
+  ],
   "name": "News",
   "parameters": {},
   "path": "/news",

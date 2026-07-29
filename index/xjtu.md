@@ -26,13 +26,13 @@
 - Categories: `university`
 - Maintainers: `hoilc`
 
-### Unknown
+### 第一附属医院新闻
 - Route ID: `xjtu:/xjtu/dyyy/:path{.+}`
 - Route Path: `/xjtu/dyyy/:path{.+}`
 - File: `docs/routes/xjtu/xjtu-dyyy-path.md`
 - File Name: `xjtu-dyyy-path.md`
 - Categories: `university`
-- Maintainers: `None`
+- Maintainers: `TonyRL`
 
 ### 电气学院
 - Route ID: `xjtu:/xjtu/ee/:id?`
@@ -58,13 +58,13 @@
 - Categories: `university`
 - Maintainers: `nczitzk`
 
-### Unknown
+### 国际处通知
 - Route ID: `xjtu:/xjtu/international/:subpath{.+}`
 - Route Path: `/xjtu/international/:subpath{.+}`
 - File: `docs/routes/xjtu/xjtu-international-subpath.md`
 - File Name: `xjtu-international-subpath.md`
 - Categories: `university`
-- Maintainers: `None`
+- Maintainers: `guitaoliu`
 
 ### 就业创业中心
 - Route ID: `xjtu:/xjtu/job/:subpath?`

@@ -12,7 +12,7 @@
 - URL: `gq.com`
 - Language: `_None_`
 - Categories: `traditional-media`
-- Maintainers: `EthanWng97`
+- Maintainers: `IvanWng97`
 - Source Location: `news.ts`
 - Source Module: `_None_`
 
@@ -54,7 +54,7 @@ _None_
   "heat": 555,
   "location": "news.ts",
   "maintainers": [
-    "EthanWng97"
+    "IvanWng97"
   ],
   "name": "News",
   "parameters": {},

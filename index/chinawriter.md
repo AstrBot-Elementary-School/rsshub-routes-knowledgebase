@@ -10,10 +10,10 @@
 
 ## Routes
 
-### Unknown
+### 栏目
 - Route ID: `chinawriter:/chinawriter/:id{.+}?`
 - Route Path: `/chinawriter/:id{.+}?`
 - File: `docs/routes/chinawriter/chinawriter-id.md`
 - File Name: `chinawriter-id.md`
-- Categories: `other`
-- Maintainers: `None`
+- Categories: `new-media`
+- Maintainers: `nczitzk`

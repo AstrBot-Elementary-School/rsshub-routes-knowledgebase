@@ -1,4 +1,4 @@
-# Netflav - Unknown
+# Netflav - Index
 
 ## Coverage
 `index-only`
@@ -7,11 +7,11 @@
 - Namespace: `netflav`
 - Namespace Name: `Netflav`
 - Route Path: `/netflav/`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `Index`
+- Example: `/netflav`
 - URL: `netflav.com/`
 - Language: `_None_`
-- Categories: `other`
+- Categories: `multimedia`
 - Maintainers: `TonyRL`
 - Source Location: `index.tsx`
 - Source Module: `_None_`
@@ -36,8 +36,9 @@ _None_
 ```json
 {
   "categories": [
-    "other"
+    "multimedia"
   ],
+  "example": "/netflav",
   "features": {
     "nsfw": true
   },
@@ -46,7 +47,7 @@ _None_
   "maintainers": [
     "TonyRL"
   ],
-  "name": "Unknown",
+  "name": "Index",
   "path": "/",
   "radar": [
     {

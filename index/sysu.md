@@ -16,7 +16,7 @@
 - File: `docs/routes/sysu/sysu-cse.md`
 - File Name: `sysu-cse.md`
 - Categories: `university`
-- Maintainers: `None`
+- Maintainers: `MegrezZhu, Neutrino3316, nczitzk`
 
 ### 粤港澳发展研究院
 - Route ID: `sysu:/sysu/ygafz/:type?`

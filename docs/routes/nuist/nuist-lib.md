@@ -1,4 +1,4 @@
-# 南京信息工程大学 - Unknown
+# 南京信息工程大学 - 图书馆
 
 ## Coverage
 `index-only`
@@ -7,8 +7,8 @@
 - Namespace: `nuist`
 - Namespace Name: `南京信息工程大学`
 - Route Path: `/nuist/lib`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `图书馆`
+- Example: `/nuist/lib`
 - URL: `lib.nuist.edu.cn/`
 - Language: `_None_`
 - Categories: `university`
@@ -38,12 +38,13 @@ _None_
   "categories": [
     "university"
   ],
+  "example": "/nuist/lib",
   "heat": 1,
   "location": "library/lib.ts",
   "maintainers": [
     "gylidian"
   ],
-  "name": "Unknown",
+  "name": "图书馆",
   "path": "/lib",
   "radar": [
     {

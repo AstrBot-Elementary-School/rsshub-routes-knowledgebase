@@ -1,4 +1,4 @@
-# 南方都市报 - Unknown
+# 南方都市报 - 南都客户端（按南都号 ID）
 
 ## Coverage
 `index-only`
@@ -7,8 +7,8 @@
 - Namespace: `oeeee`
 - Namespace Name: `南方都市报`
 - Route Path: `/oeeee/app/channel/:id`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `南都客户端（按南都号 ID）`
+- Example: `/oeeee/app/channel/50`
 - URL: `oeeee.com`
 - Language: `_None_`
 - Categories: `traditional-media`
@@ -17,14 +17,19 @@
 - Source Module: `_None_`
 
 ## Description
-_None_
+南都号的 UID 可通过 `m.mp.oeeee.com` 下的文章页面获取。点击文章上方的南都号头像，进入该南都号的个人主页，即可从 url 中获取。
 
 ## Parameters
-_None_
+- `id`: 南都号 ID
 
 
 ## Features
-_None_
+- `requireConfig`: false
+- `requirePuppeteer`: false
+- `antiCrawler`: false
+- `supportBT`: false
+- `supportPodcast`: false
+- `supportScihub`: false
 
 ## Radar
 _None_
@@ -35,12 +40,25 @@ _None_
   "categories": [
     "traditional-media"
   ],
+  "description": "南都号的 UID 可通过 `m.mp.oeeee.com` 下的文章页面获取。点击文章上方的南都号头像，进入该南都号的个人主页，即可从 url 中获取。",
+  "example": "/oeeee/app/channel/50",
+  "features": {
+    "antiCrawler": false,
+    "requireConfig": false,
+    "requirePuppeteer": false,
+    "supportBT": false,
+    "supportPodcast": false,
+    "supportScihub": false
+  },
   "heat": 3,
   "location": "app/channel.ts",
   "maintainers": [
     "TimWu007"
   ],
-  "name": "Unknown",
+  "name": "南都客户端（按南都号 ID）",
+  "parameters": {
+    "id": "南都号 ID"
+  },
   "path": "/app/channel/:id",
   "topFeeds": [
     {

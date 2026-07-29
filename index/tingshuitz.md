@@ -66,13 +66,13 @@
 - Categories: `forecast`
 - Maintainers: `lilPiper`
 
-### Unknown
+### 武汉市
 - Route ID: `tingshuitz:/tingshuitz/wuhan/:channelId?`
 - Route Path: `/tingshuitz/wuhan/:channelId?`
 - File: `docs/routes/tingshuitz/tingshuitz-wuhan-channelid.md`
 - File Name: `tingshuitz-wuhan-channelid.md`
 - Categories: `forecast`
-- Maintainers: `None`
+- Maintainers: `MoonBegonia`
 
 ### 西安市
 - Route ID: `tingshuitz:/tingshuitz/xian`

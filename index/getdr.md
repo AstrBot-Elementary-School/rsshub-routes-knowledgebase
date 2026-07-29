@@ -10,10 +10,10 @@
 
 ## Routes
 
-### Unknown
+### 最新詐騙情報
 - Route ID: `getdr:/getdr/`
 - Route Path: `/getdr/`
 - File: `docs/routes/getdr/getdr.md`
 - File Name: `getdr.md`
-- Categories: `other`
+- Categories: `new-media`
 - Maintainers: `nczitzk`

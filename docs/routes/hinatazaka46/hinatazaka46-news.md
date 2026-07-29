@@ -12,7 +12,7 @@
 - URL: `hinatazaka46.com/s/official/news/list`
 - Language: `_None_`
 - Categories: `new-media`
-- Maintainers: `crispgm, akashigakki`
+- Maintainers: `crispgm, AkashiGakki`
 - Source Location: `news.ts`
 - Source Module: `_None_`
 
@@ -56,7 +56,7 @@ _None_
   "location": "news.ts",
   "maintainers": [
     "crispgm",
-    "akashigakki"
+    "AkashiGakki"
   ],
   "name": "Hinatazaka46 News 日向坂 46 新闻",
   "parameters": {},

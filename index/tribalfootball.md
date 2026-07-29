@@ -10,10 +10,10 @@
 
 ## Routes
 
-### Unknown
+### Latest News
 - Route ID: `tribalfootball:/tribalfootball/`
 - Route Path: `/tribalfootball/`
 - File: `docs/routes/tribalfootball/tribalfootball.md`
 - File Name: `tribalfootball.md`
-- Categories: `other`
+- Categories: `new-media`
 - Maintainers: `Rongronggg9`

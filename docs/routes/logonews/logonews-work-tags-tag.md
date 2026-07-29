@@ -1,4 +1,4 @@
-# LogoNews 标志情报局 - Unknown
+# LogoNews 标志情报局 - 作品标签
 
 ## Coverage
 `index-only`
@@ -6,21 +6,21 @@
 ## Route
 - Namespace: `logonews`
 - Namespace Name: `LogoNews 标志情报局`
-- Route Path: `/logonews/work/tags/:tag`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Path: `/logonews/work/tags/:tag?`
+- Route Name: `作品标签`
+- Example: `/logonews/work/tags/旅游`
 - URL: `logonews.cn/`
 - Language: `_None_`
-- Categories: `other`
+- Categories: `design`
 - Maintainers: `nczitzk`
-- Source Location: `index.tsx`
+- Source Location: `work-tag.ts`
 - Source Module: `_None_`
 
 ## Description
-如 [中国 - 标志情报局](https://www.logonews.cn/tag/china) 的 URL 为 `https://www.logonews.cn/tag/china`，可得路由为 [`/logonews/tag/china`](https://rsshub.app/logonews/tag/china)。
+如 [LOGO 标签：旅游 - 标志情报局](https://www.logonews.cn/work/tags/旅游) 的 URL 为 [https://www.logonews.cn/work/tags/ 旅游](https://www.logonews.cn/work/tags/旅游)，可得路由为 [`/logonews/work/tags/旅游`](https://rsshub.app/logonews/work/tags/旅游)。
 
 ## Parameters
-_None_
+- `tag`: 标签，可在对应标签页 URL 中找到
 
 
 ## Features
@@ -30,30 +30,32 @@ _None_
 ### Rule 1
 - `source`:
   - `logonews.cn/work/tags/:tag`
+- `target`: `/work/tags/:tag`
 
 ## Raw JSON
 ```json
 {
   "categories": [
-    "other"
+    "design"
   ],
-  "description": "如 [中国 - 标志情报局](https://www.logonews.cn/tag/china) 的 URL 为 `https://www.logonews.cn/tag/china`，可得路由为 [`/logonews/tag/china`](https://rsshub.app/logonews/tag/china)。",
+  "description": "如 [LOGO 标签：旅游 - 标志情报局](https://www.logonews.cn/work/tags/旅游) 的 URL 为 [https://www.logonews.cn/work/tags/ 旅游](https://www.logonews.cn/work/tags/旅游)，可得路由为 [`/logonews/work/tags/旅游`](https://rsshub.app/logonews/work/tags/旅游)。",
+  "example": "/logonews/work/tags/旅游",
   "heat": 0,
-  "location": "index.tsx",
+  "location": "work-tag.ts",
   "maintainers": [
     "nczitzk"
   ],
-  "name": "Unknown",
-  "path": [
-    "/work/tags/:tag",
-    "/tag/:tag",
-    "*"
-  ],
+  "name": "作品标签",
+  "parameters": {
+    "tag": "标签，可在对应标签页 URL 中找到"
+  },
+  "path": "/work/tags/:tag?",
   "radar": [
     {
       "source": [
         "logonews.cn/work/tags/:tag"
-      ]
+      ],
+      "target": "/work/tags/:tag"
     }
   ],
   "topFeeds": [],

@@ -12,7 +12,7 @@
 - URL: `tokeninsight.com`
 - Language: `_None_`
 - Categories: `finance`
-- Maintainers: `None`
+- Maintainers: `fuergaosi233`
 - Source Location: `bulletin.ts`
 - Source Module: `_None_`
 
@@ -54,7 +54,9 @@ _None_
   },
   "heat": 0,
   "location": "bulletin.ts",
-  "maintainers": [],
+  "maintainers": [
+    "fuergaosi233"
+  ],
   "name": "Latest",
   "parameters": {
     "lang": "Language, see below, Chinese by default"

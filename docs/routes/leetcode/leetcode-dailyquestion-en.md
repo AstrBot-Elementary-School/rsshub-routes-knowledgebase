@@ -1,4 +1,4 @@
-# LeetCode - Unknown
+# LeetCode - Daily Question
 
 ## Coverage
 `index-only`
@@ -7,12 +7,12 @@
 - Namespace: `leetcode`
 - Namespace Name: `LeetCode`
 - Route Path: `/leetcode/dailyquestion/en`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `Daily Question`
+- Example: `/leetcode/dailyquestion/en`
 - URL: `leetcode.com/`
 - Language: `_None_`
 - Categories: `programming`
-- Maintainers: `None`
+- Maintainers: `IvanWng97`
 - Source Location: `dailyquestion-en.ts`
 - Source Module: `_None_`
 
@@ -37,10 +37,13 @@ _None_
   "categories": [
     "programming"
   ],
+  "example": "/leetcode/dailyquestion/en",
   "heat": 18,
   "location": "dailyquestion-en.ts",
-  "maintainers": [],
-  "name": "Unknown",
+  "maintainers": [
+    "IvanWng97"
+  ],
+  "name": "Daily Question",
   "path": "/dailyquestion/en",
   "radar": [
     {

@@ -96,13 +96,14 @@ There is an optinal parameter **limit** which controls the number of posts to fe
     }
   ],
   "test": {
-    "code": 0
+    "code": 1,
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
   "topFeeds": [
     {
       "description": "Posts of hentai-tv from OnlyFans | Coomer - Powered by RSSHub",
       "errorAt": "2024-11-26T03:46:23.897Z",
-      "errorMessage": "[GET] \"https://coomer.st/api/v1/artist/user/hentai-tv/posts\": 404 NOT FOUND\n[GET] \"https://coomer.st/api/v1/artist/user/hentai-tv/posts\": 404 NOT FOUND\n",
+      "errorMessage": "[GET] \"https://coomer.st/api/v1/artist/user/hentai-tv/posts\": 503 Backend fetch failed\n[GET] \"https://coomer.st/api/v1/artist/user/hentai-tv/posts\": 503 Backend fetch failed\n",
       "id": "74486459000853504",
       "image": null,
       "ownerUserId": null,

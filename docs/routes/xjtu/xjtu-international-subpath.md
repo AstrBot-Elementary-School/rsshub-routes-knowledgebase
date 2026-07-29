@@ -1,4 +1,4 @@
-# 西安交通大学 - Unknown
+# 西安交通大学 - 国际处通知
 
 ## Coverage
 `index-only`
@@ -7,12 +7,12 @@
 - Namespace: `xjtu`
 - Namespace Name: `西安交通大学`
 - Route Path: `/xjtu/international/:subpath{.+}`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `国际处通知`
+- Example: `/xjtu/international/hzjl`
 - URL: `2yuan.xjtu.edu.cn`
 - Language: `_None_`
 - Categories: `university`
-- Maintainers: `None`
+- Maintainers: `guitaoliu`
 - Source Location: `international.ts`
 - Source Module: `_None_`
 
@@ -20,7 +20,7 @@
 _None_
 
 ## Parameters
-_None_
+- `subpath`: 栏目路径，支持多级，不包括末尾的`.htm`
 
 
 ## Features
@@ -35,10 +35,16 @@ _None_
   "categories": [
     "university"
   ],
+  "example": "/xjtu/international/hzjl",
   "heat": 1,
   "location": "international.ts",
-  "maintainers": [],
-  "name": "Unknown",
+  "maintainers": [
+    "guitaoliu"
+  ],
+  "name": "国际处通知",
+  "parameters": {
+    "subpath": "栏目路径，支持多级，不包括末尾的`.htm`"
+  },
   "path": "/international/:subpath{.+}",
   "topFeeds": [
     {

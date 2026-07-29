@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 284,
+  "heat": 285,
   "location": "search.ts",
   "maintainers": [
     "yindaheng98",
@@ -84,8 +84,8 @@ _None_
     },
     {
       "description": "undefined - E-Hentai Search - Powered by RSSHub",
-      "errorAt": "2026-07-27T02:30:39.135Z",
-      "errorMessage": "[GET] \"https://e-hentai.org/?undefined\": 451 Unavailable For Legal Reasons\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "96502911354921984",
       "image": null,
       "ownerUserId": null,

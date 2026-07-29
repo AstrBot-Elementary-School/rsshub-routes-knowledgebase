@@ -16,4 +16,4 @@
 - File: `docs/routes/gq/gq-news.md`
 - File Name: `gq-news.md`
 - Categories: `traditional-media`
-- Maintainers: `EthanWng97`
+- Maintainers: `IvanWng97`

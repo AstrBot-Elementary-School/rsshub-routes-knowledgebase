@@ -12,7 +12,7 @@
 - URL: `_None_`
 - Language: `_None_`
 - Categories: `bbs`
-- Maintainers: `None`
+- Maintainers: `dzx-dzx`
 - Source Location: `notifications.ts`
 - Source Module: `_None_`
 
@@ -60,7 +60,9 @@ _None_
   },
   "heat": 0,
   "location": "notifications.ts",
-  "maintainers": [],
+  "maintainers": [
+    "dzx-dzx"
+  ],
   "name": "Notifications",
   "parameters": {
     "configId": "Environment variable configuration id, see above",

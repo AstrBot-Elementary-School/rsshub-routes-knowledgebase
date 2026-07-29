@@ -12,7 +12,7 @@
 - URL: `thegadgetflow.com`
 - Language: `_None_`
 - Categories: `shopping`
-- Maintainers: `EthanWng97`
+- Maintainers: `IvanWng97`
 - Source Location: `rss.tsx`
 - Source Module: `_None_`
 
@@ -55,7 +55,7 @@ _None_
   "heat": 4,
   "location": "rss.tsx",
   "maintainers": [
-    "EthanWng97"
+    "IvanWng97"
   ],
   "name": "Category",
   "parameters": {

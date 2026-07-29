@@ -12,7 +12,7 @@
 - URL: `gelonghui.com/live`
 - Language: `_None_`
 - Categories: `finance, popular`
-- Maintainers: `None`
+- Maintainers: `TonyRL`
 - Source Location: `live.tsx`
 - Source Module: `_None_`
 
@@ -53,9 +53,11 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1413,
+  "heat": 1414,
   "location": "live.tsx",
-  "maintainers": [],
+  "maintainers": [
+    "TonyRL"
+  ],
   "name": "实时快讯",
   "parameters": {},
   "path": "/live",

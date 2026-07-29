@@ -16,4 +16,4 @@
 - File: `docs/routes/snowpeak/snowpeak-us-new-arrivals.md`
 - File Name: `snowpeak-us-new-arrivals.md`
 - Categories: `shopping`
-- Maintainers: `EthanWng97`
+- Maintainers: `IvanWng97`

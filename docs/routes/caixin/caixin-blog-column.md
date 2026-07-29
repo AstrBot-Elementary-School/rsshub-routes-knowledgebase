@@ -12,7 +12,7 @@
 - URL: `caixin.com`
 - Language: `_None_`
 - Categories: `blog`
-- Maintainers: `None`
+- Maintainers: `Maecenas`
 - Source Location: `blog.ts`
 - Source Module: `_None_`
 
@@ -52,7 +52,9 @@ _None_
   },
   "heat": 359,
   "location": "blog.ts",
-  "maintainers": [],
+  "maintainers": [
+    "Maecenas"
+  ],
   "name": "用户博客",
   "parameters": {
     "column": "博客名称，可在博客主页的 URL 找到"

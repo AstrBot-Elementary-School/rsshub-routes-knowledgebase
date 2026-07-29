@@ -89,16 +89,16 @@ _None_
       "url": "rsshub://bilibili/user/coin/549117578"
     },
     {
-      "description": "undefined 的 bilibili 投币视频 - Powered by RSSHub",
+      "description": "羽毛Dub 的 bilibili 投币视频 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "69594490737078272",
+      "id": "109225476581666828",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://space.bilibili.com/383426197",
-      "title": "undefined 的 bilibili 投币视频",
+      "siteUrl": "https://space.bilibili.com/12140997",
+      "title": "羽毛Dub 的 bilibili 投币视频",
       "type": "feed",
-      "url": "rsshub://bilibili/user/coin/383426197"
+      "url": "rsshub://bilibili/user/coin/12140997"
     }
   ]
 }

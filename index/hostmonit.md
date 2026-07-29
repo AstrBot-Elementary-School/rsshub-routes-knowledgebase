@@ -6,7 +6,7 @@
 - URL: `stock.hostmonit.com`
 - Language: `_None_`
 - Aliases: `hostmonit, stock, stock.hostmonit.com, 全球主机监控`
-- Route Count: `2`
+- Route Count: `1`
 
 ## Routes
 
@@ -17,11 +17,3 @@
 - File Name: `hostmonit-cloudflareyes-type.md`
 - Categories: `other`
 - Maintainers: `nczitzk`
-
-### Unknown
-- Route ID: `hostmonit:/hostmonit/cloudflareyesv6`
-- Route Path: `/hostmonit/cloudflareyesv6`
-- File: `docs/routes/hostmonit/hostmonit-cloudflareyesv6.md`
-- File Name: `hostmonit-cloudflareyesv6.md`
-- Categories: `other`
-- Maintainers: `None`

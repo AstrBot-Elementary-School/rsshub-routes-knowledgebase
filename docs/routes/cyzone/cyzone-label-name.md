@@ -12,7 +12,7 @@
 - URL: `cyzone.cn`
 - Language: `_None_`
 - Categories: `new-media`
-- Maintainers: `nczitzk`
+- Maintainers: `LogicJake, nczitzk`
 - Source Location: `label.ts`
 - Source Module: `_None_`
 
@@ -55,6 +55,7 @@ _None_
   "heat": 160,
   "location": "label.ts",
   "maintainers": [
+    "LogicJake",
     "nczitzk"
   ],
   "name": "标签",

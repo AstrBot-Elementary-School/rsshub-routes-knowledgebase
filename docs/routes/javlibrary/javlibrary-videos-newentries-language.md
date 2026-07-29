@@ -1,4 +1,4 @@
-# JAVLibrary - Unknown
+# JAVLibrary - Recently Inserted Videos
 
 ## Coverage
 `index-only`
@@ -7,12 +7,12 @@
 - Namespace: `javlibrary`
 - Namespace Name: `JAVLibrary`
 - Route Path: `/javlibrary/videos/newentries/:language?`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `Recently Inserted Videos`
+- Example: `/javlibrary/newentries/en`
 - URL: `javlibrary.com`
 - Language: `_None_`
 - Categories: `multimedia`
-- Maintainers: `None`
+- Maintainers: `nczitzk`
 - Source Location: `newentries.ts`
 - Source Module: `_None_`
 
@@ -20,7 +20,7 @@
 _None_
 
 ## Parameters
-_None_
+- `language`: Language, see below, Japanese by default, as `ja`
 
 
 ## Features
@@ -35,13 +35,19 @@ _None_
   "categories": [
     "multimedia"
   ],
+  "example": "/javlibrary/newentries/en",
   "features": {
     "nsfw": true
   },
   "heat": 0,
   "location": "newentries.ts",
-  "maintainers": [],
-  "name": "Unknown",
+  "maintainers": [
+    "nczitzk"
+  ],
+  "name": "Recently Inserted Videos",
+  "parameters": {
+    "language": "Language, see below, Japanese by default, as `ja`"
+  },
   "path": [
     "/videos/newentries/:language?",
     "/newentries/:language?"

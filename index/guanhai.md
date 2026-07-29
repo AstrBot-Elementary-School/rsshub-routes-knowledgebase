@@ -10,10 +10,10 @@
 
 ## Routes
 
-### Unknown
+### 首页
 - Route ID: `guanhai:/guanhai/`
 - Route Path: `/guanhai/`
 - File: `docs/routes/guanhai/guanhai.md`
 - File Name: `guanhai.md`
-- Categories: `other`
+- Categories: `new-media`
 - Maintainers: `TonyRL`

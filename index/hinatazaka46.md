@@ -16,7 +16,7 @@
 - File: `docs/routes/hinatazaka46/hinatazaka46-blog-id-page.md`
 - File Name: `hinatazaka46-blog-id-page.md`
 - Categories: `new-media`
-- Maintainers: `None`
+- Maintainers: `yj-qin, AkashiGakki`
 
 ### Hinatazaka46 News 日向坂 46 新闻
 - Route ID: `hinatazaka46:/hinatazaka46/news`
@@ -24,4 +24,4 @@
 - File: `docs/routes/hinatazaka46/hinatazaka46-news.md`
 - File Name: `hinatazaka46-news.md`
 - Categories: `new-media`
-- Maintainers: `crispgm, akashigakki`
+- Maintainers: `crispgm, AkashiGakki`

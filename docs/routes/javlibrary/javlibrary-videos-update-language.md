@@ -1,4 +1,4 @@
-# JAVLibrary - Unknown
+# JAVLibrary - Recently Discussed Videos
 
 ## Coverage
 `index-only`
@@ -7,12 +7,12 @@
 - Namespace: `javlibrary`
 - Namespace Name: `JAVLibrary`
 - Route Path: `/javlibrary/videos/update/:language?`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `Recently Discussed Videos`
+- Example: `/javlibrary/update/en`
 - URL: `javlibrary.com`
 - Language: `_None_`
 - Categories: `multimedia`
-- Maintainers: `None`
+- Maintainers: `nczitzk`
 - Source Location: `update.ts`
 - Source Module: `_None_`
 
@@ -20,7 +20,7 @@
 _None_
 
 ## Parameters
-_None_
+- `language`: Language, see below, Japanese by default, as `ja`
 
 
 ## Features
@@ -35,13 +35,19 @@ _None_
   "categories": [
     "multimedia"
   ],
+  "example": "/javlibrary/update/en",
   "features": {
     "nsfw": true
   },
   "heat": 0,
   "location": "update.ts",
-  "maintainers": [],
-  "name": "Unknown",
+  "maintainers": [
+    "nczitzk"
+  ],
+  "name": "Recently Discussed Videos",
+  "parameters": {
+    "language": "Language, see below, Japanese by default, as `ja`"
+  },
   "path": [
     "/videos/update/:language?",
     "/update/:language?"

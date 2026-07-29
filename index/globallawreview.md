@@ -10,10 +10,10 @@
 
 ## Routes
 
-### Unknown
+### 期刊
 - Route ID: `globallawreview:/globallawreview/`
 - Route Path: `/globallawreview/`
 - File: `docs/routes/globallawreview/globallawreview.md`
 - File Name: `globallawreview.md`
-- Categories: `other`
+- Categories: `journal`
 - Maintainers: `nczitzk`

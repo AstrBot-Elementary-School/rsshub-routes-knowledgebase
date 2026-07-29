@@ -1,4 +1,4 @@
-# 直播吧 - Unknown
+# 直播吧 - 录像
 
 ## Coverage
 `index-only`
@@ -7,20 +7,22 @@
 - Namespace: `zhibo8`
 - Namespace Name: `直播吧`
 - Route Path: `/zhibo8/luxiang/:category?`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `录像`
+- Example: `/zhibo8/luxiang/nba`
 - URL: `zhibo8.cc`
 - Language: `_None_`
-- Categories: `bbs`
+- Categories: `multimedia`
 - Maintainers: `TonyRL`
 - Source Location: `luxiang.ts`
 - Source Module: `_None_`
 
 ## Description
-_None_
+| NBA | 足球  |
+| --- | ----- |
+| nba | zuqiu |
 
 ## Parameters
-_None_
+- `category`: 分类，见下表，默认为 `nba`
 
 
 ## Features
@@ -36,14 +38,19 @@ _None_
 ```json
 {
   "categories": [
-    "bbs"
+    "multimedia"
   ],
+  "description": "| NBA | 足球  |\n| --- | ----- |\n| nba | zuqiu |",
+  "example": "/zhibo8/luxiang/nba",
   "heat": 4,
   "location": "luxiang.ts",
   "maintainers": [
     "TonyRL"
   ],
-  "name": "Unknown",
+  "name": "录像",
+  "parameters": {
+    "category": "分类，见下表，默认为 `nba`"
+  },
   "path": "/luxiang/:category?",
   "radar": [
     {

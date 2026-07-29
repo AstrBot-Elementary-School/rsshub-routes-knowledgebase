@@ -1,4 +1,4 @@
-# WallpaperHub - Unknown
+# WallpaperHub - Wallpapers
 
 ## Coverage
 `index-only`
@@ -7,11 +7,11 @@
 - Namespace: `wallpaperhub`
 - Namespace Name: `WallpaperHub`
 - Route Path: `/wallpaperhub/`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `Wallpapers`
+- Example: `/wallpaperhub`
 - URL: `wallpaperhub.app/wallpaperhub`
 - Language: `_None_`
-- Categories: `other`
+- Categories: `picture`
 - Maintainers: `nczitzk`
 - Source Location: `index.tsx`
 - Source Module: `_None_`
@@ -37,14 +37,15 @@ _None_
 ```json
 {
   "categories": [
-    "other"
+    "picture"
   ],
+  "example": "/wallpaperhub",
   "heat": 0,
   "location": "index.tsx",
   "maintainers": [
     "nczitzk"
   ],
-  "name": "Unknown",
+  "name": "Wallpapers",
   "path": "/",
   "radar": [
     {

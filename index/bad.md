@@ -10,10 +10,10 @@
 
 ## Routes
 
-### Unknown
-- Route ID: `bad:/bad*`
-- Route Path: `/bad*`
-- File: `docs/routes/bad/bad.md`
-- File Name: `bad.md`
-- Categories: `other`
-- Maintainers: `None`
+### 通用
+- Route ID: `bad:/bad/:path{.+}?`
+- Route Path: `/bad/:path{.+}?`
+- File: `docs/routes/bad/bad-path.md`
+- File Name: `bad-path.md`
+- Categories: `new-media`
+- Maintainers: `nczitzk`

@@ -12,7 +12,7 @@
 - URL: `public.tableau.com`
 - Language: `_None_`
 - Categories: `study`
-- Maintainers: `None`
+- Maintainers: `KaiyoungYu`
 - Source Location: `viz-of-the-day.ts`
 - Source Module: `_None_`
 
@@ -51,7 +51,9 @@ _None_
   },
   "heat": 0,
   "location": "viz-of-the-day.ts",
-  "maintainers": [],
+  "maintainers": [
+    "KaiyoungYu"
+  ],
   "name": "Viz of the day",
   "parameters": {},
   "path": "/viz-of-the-day",

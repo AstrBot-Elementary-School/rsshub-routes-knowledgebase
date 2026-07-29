@@ -1,4 +1,4 @@
-# Aqara - Unknown
+# Aqara - 新闻
 
 ## Coverage
 `index-only`
@@ -7,12 +7,12 @@
 - Namespace: `aqara`
 - Namespace Name: `Aqara`
 - Route Path: `/aqara/cn/news`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `新闻`
+- Example: `/aqara/cn/news`
 - URL: `aqara.com`
 - Language: `_None_`
 - Categories: `other`
-- Maintainers: `None`
+- Maintainers: `nczitzk`
 - Source Location: `news.ts`
 - Source Module: `_None_`
 
@@ -35,10 +35,13 @@ _None_
   "categories": [
     "other"
   ],
+  "example": "/aqara/cn/news",
   "heat": 0,
   "location": "news.ts",
-  "maintainers": [],
-  "name": "Unknown",
+  "maintainers": [
+    "nczitzk"
+  ],
+  "name": "新闻",
   "path": "/cn/news",
   "topFeeds": []
 }

@@ -10,10 +10,10 @@
 
 ## Routes
 
-### Unknown
+### Posts
 - Route ID: `grubstreet:/grubstreet/`
 - Route Path: `/grubstreet/`
 - File: `docs/routes/grubstreet/grubstreet.md`
 - File Name: `grubstreet.md`
-- Categories: `other`
+- Categories: `new-media`
 - Maintainers: `loganrockmore`

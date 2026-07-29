@@ -1,4 +1,4 @@
-# 豆瓣 - Unknown
+# 豆瓣 - 浏览发现分栏目
 
 ## Coverage
 `index-only`
@@ -7,12 +7,12 @@
 - Namespace: `douban`
 - Namespace Name: `豆瓣`
 - Route Path: `/douban/explore/column/:id`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `浏览发现分栏目`
+- Example: `/douban/explore/column/2`
 - URL: `www.douban.com`
 - Language: `_None_`
 - Categories: `social-media`
-- Maintainers: `None`
+- Maintainers: `LogicJake`
 - Source Location: `other/explore-column.ts`
 - Source Module: `_None_`
 
@@ -20,7 +20,7 @@
 _None_
 
 ## Parameters
-_None_
+- `id`: 分栏目id
 
 
 ## Features
@@ -35,10 +35,16 @@ _None_
   "categories": [
     "social-media"
   ],
+  "example": "/douban/explore/column/2",
   "heat": 3,
   "location": "other/explore-column.ts",
-  "maintainers": [],
-  "name": "Unknown",
+  "maintainers": [
+    "LogicJake"
+  ],
+  "name": "浏览发现分栏目",
+  "parameters": {
+    "id": "分栏目id"
+  },
   "path": "/explore/column/:id",
   "topFeeds": [
     {

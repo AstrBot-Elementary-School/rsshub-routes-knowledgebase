@@ -69,7 +69,7 @@ _None_
     {
       "description": "中国主流财经全媒体平台。 - Powered by RSSHub",
       "errorAt": "2026-07-25T19:52:44.523Z",
-      "errorMessage": "[GET] \"https://dy.163.com/v2/article/list.do?pageNo=1&wemediaId=W7833496354712145699&size=10\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 218.244.8.27:443, 218.244.8.32:443, 218.244.8.29:443, 218.244.8.30:443, 218.244.8.26:443, 218.244.8.28:443, 218.244.8.25:443, 218.244.8.31:443, timeout: 10000ms))\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "130488664186003456",
       "image": "https://nimg.ws.126.net/?url=http://dingyue.ws.126.net/2021/0510/e3aaf33fj00qsvpi60003c0004g004gc.jpg&thumbnail=160y160&quality=80&type=jpg",
       "ownerUserId": null,

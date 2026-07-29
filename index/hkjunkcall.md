@@ -10,10 +10,10 @@
 
 ## Routes
 
-### Unknown
+### 近期資訊
 - Route ID: `hkjunkcall:/hkjunkcall/`
 - Route Path: `/hkjunkcall/`
 - File: `docs/routes/hkjunkcall/hkjunkcall.md`
 - File Name: `hkjunkcall.md`
-- Categories: `other`
+- Categories: `new-media`
 - Maintainers: `nczitzk`

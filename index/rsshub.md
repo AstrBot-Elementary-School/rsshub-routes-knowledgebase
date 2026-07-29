@@ -34,10 +34,10 @@
 - Categories: `other`
 - Maintainers: `ttttmr`
 
-### Unknown
+### Transformation - Sitemap
 - Route ID: `rsshub:/rsshub/transform/sitemap/:url/:routeParams?`
 - Route Path: `/rsshub/transform/sitemap/:url/:routeParams?`
 - File: `docs/routes/rsshub/rsshub-transform-sitemap-url-routeparams.md`
 - File Name: `rsshub-transform-sitemap-url-routeparams.md`
-- Categories: `program-update`
+- Categories: `other`
 - Maintainers: `flrngel`

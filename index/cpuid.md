@@ -16,4 +16,4 @@
 - File: `docs/routes/cpuid/cpuid-news.md`
 - File Name: `cpuid-news.md`
 - Categories: `program-update`
-- Maintainers: `None`
+- Maintainers: `TonyRL`

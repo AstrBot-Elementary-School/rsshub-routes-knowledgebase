@@ -12,7 +12,7 @@
 - URL: `javlibrary.com`
 - Language: `_None_`
 - Categories: `multimedia`
-- Maintainers: `None`
+- Maintainers: `Huzhixin00`
 - Source Location: `maker.ts`
 - Source Module: `_None_`
 
@@ -58,7 +58,9 @@ _None_
   },
   "heat": 0,
   "location": "maker.ts",
-  "maintainers": [],
+  "maintainers": [
+    "Huzhixin00"
+  ],
   "name": "Videos by makers",
   "parameters": {
     "language": "Language, see below, Japanese by default, as `ja`",

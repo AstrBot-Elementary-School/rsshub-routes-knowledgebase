@@ -10,10 +10,10 @@
 
 ## Routes
 
-### Unknown
-- Route ID: `dgjyw:/dgjyw*`
-- Route Path: `/dgjyw*`
-- File: `docs/routes/dgjyw/dgjyw.md`
-- File Name: `dgjyw.md`
-- Categories: `other`
-- Maintainers: `None`
+### 分类
+- Route ID: `dgjyw:/dgjyw/:category{.+}?`
+- Route Path: `/dgjyw/:category{.+}?`
+- File: `docs/routes/dgjyw/dgjyw-category.md`
+- File Name: `dgjyw-category.md`
+- Categories: `study`
+- Maintainers: `nczitzk`

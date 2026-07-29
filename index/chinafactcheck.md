@@ -10,7 +10,7 @@
 
 ## Routes
 
-### Unknown
+### 最新文章列表
 - Route ID: `chinafactcheck:/chinafactcheck/`
 - Route Path: `/chinafactcheck/`
 - File: `docs/routes/chinafactcheck/chinafactcheck.md`

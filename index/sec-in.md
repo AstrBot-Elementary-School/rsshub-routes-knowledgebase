@@ -10,10 +10,10 @@
 
 ## Routes
 
-### Unknown
+### 最新文章
 - Route ID: `sec-in:/sec-in/`
 - Route Path: `/sec-in/`
 - File: `docs/routes/sec-in/sec-in.md`
 - File Name: `sec-in.md`
-- Categories: `other`
+- Categories: `bbs`
 - Maintainers: `p7e4`

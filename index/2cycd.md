@@ -10,10 +10,10 @@
 
 ## Routes
 
-### Unknown
+### 板块
 - Route ID: `2cycd:/2cycd/:fid/:sort?`
 - Route Path: `/2cycd/:fid/:sort?`
 - File: `docs/routes/2cycd/2cycd-fid-sort.md`
 - File Name: `2cycd-fid-sort.md`
-- Categories: `other`
+- Categories: `bbs`
 - Maintainers: `shelken`

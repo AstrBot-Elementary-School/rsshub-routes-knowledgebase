@@ -18,12 +18,12 @@
 - Categories: `bbs`
 - Maintainers: `LogicJake`
 
-### Unknown
+### 录像
 - Route ID: `zhibo8:/zhibo8/luxiang/:category?`
 - Route Path: `/zhibo8/luxiang/:category?`
 - File: `docs/routes/zhibo8/zhibo8-luxiang-category.md`
 - File Name: `zhibo8-luxiang-category.md`
-- Categories: `bbs`
+- Categories: `multimedia`
 - Maintainers: `TonyRL`
 
 ### 滚动新闻

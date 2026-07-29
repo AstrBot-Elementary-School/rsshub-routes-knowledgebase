@@ -16,4 +16,4 @@
 - File: `docs/routes/fx-markets/fx-markets-channel.md`
 - File Name: `fx-markets-channel.md`
 - Categories: `finance`
-- Maintainers: `None`
+- Maintainers: `mikkkee`

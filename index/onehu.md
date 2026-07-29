@@ -10,10 +10,10 @@
 
 ## Routes
 
-### Unknown
+### 首页
 - Route ID: `onehu:/onehu/`
 - Route Path: `/onehu/`
 - File: `docs/routes/onehu/onehu.md`
 - File Name: `onehu.md`
-- Categories: `other`
+- Categories: `new-media`
 - Maintainers: `ruoshui9527`

@@ -1,4 +1,4 @@
-# 经济 50 人论坛 - Unknown
+# 经济 50 人论坛 - 专家文章
 
 ## Coverage
 `index-only`
@@ -7,11 +7,11 @@
 - Namespace: `50forum`
 - Namespace Name: `经济 50 人论坛`
 - Route Path: `/50forum/`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `专家文章`
+- Example: `/50forum`
 - URL: `https://www.50forum.org.cn/portal/list/index.html?id=6`
 - Language: `_None_`
-- Categories: `other`
+- Categories: `study`
 - Maintainers: `sddiky`
 - Source Location: `zhuanjia.ts`
 - Source Module: `_None_`
@@ -40,14 +40,15 @@ _None_
 ```json
 {
   "categories": [
-    "other"
+    "study"
   ],
+  "example": "/50forum",
   "heat": 0,
   "location": "zhuanjia.ts",
   "maintainers": [
     "sddiky"
   ],
-  "name": "Unknown",
+  "name": "专家文章",
   "path": "/",
   "radar": [
     {

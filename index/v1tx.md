@@ -10,10 +10,10 @@
 
 ## Routes
 
-### Unknown
+### 最新文章
 - Route ID: `v1tx:/v1tx/`
 - Route Path: `/v1tx/`
 - File: `docs/routes/v1tx/v1tx.md`
 - File Name: `v1tx.md`
-- Categories: `other`
+- Categories: `blog`
 - Maintainers: `TonyRL`

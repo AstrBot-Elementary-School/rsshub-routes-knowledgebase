@@ -1,4 +1,4 @@
-# 第一财经杂志 - Unknown
+# 第一财经杂志 - 首页
 
 ## Coverage
 `index-only`
@@ -7,11 +7,11 @@
 - Namespace: `cbnweek`
 - Namespace Name: `第一财经杂志`
 - Route Path: `/cbnweek/`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `首页`
+- Example: `/cbnweek`
 - URL: `cbnweek.com/`
 - Language: `_None_`
-- Categories: `other`
+- Categories: `finance`
 - Maintainers: `nczitzk`
 - Source Location: `index.ts`
 - Source Module: `_None_`
@@ -36,14 +36,15 @@ _None_
 ```json
 {
   "categories": [
-    "other"
+    "finance"
   ],
+  "example": "/cbnweek",
   "heat": 0,
   "location": "index.ts",
   "maintainers": [
     "nczitzk"
   ],
-  "name": "Unknown",
+  "name": "首页",
   "path": "/",
   "radar": [
     {

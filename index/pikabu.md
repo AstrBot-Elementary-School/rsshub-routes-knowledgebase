@@ -6,17 +6,25 @@
 - URL: `pikabu.ru`
 - Language: `_None_`
 - Aliases: `pikabu, pikabu.ru`
-- Route Count: `2`
+- Route Count: `3`
 
 ## Routes
 
-### Unknown
-- Route ID: `pikabu:/pikabu/:type/:name`
-- Route Path: `/pikabu/:type/:name`
-- File: `docs/routes/pikabu/pikabu-type-name.md`
-- File Name: `pikabu-type-name.md`
+### Community
+- Route ID: `pikabu:/pikabu/community/:name`
+- Route Path: `/pikabu/community/:name`
+- File: `docs/routes/pikabu/pikabu-community-name.md`
+- File Name: `pikabu-community-name.md`
 - Categories: `bbs`
-- Maintainers: `None`
+- Maintainers: `TonyRL`
+
+### Tag
+- Route ID: `pikabu:/pikabu/tag/:name`
+- Route Path: `/pikabu/tag/:name`
+- File: `docs/routes/pikabu/pikabu-tag-name.md`
+- File Name: `pikabu-tag-name.md`
+- Categories: `bbs`
+- Maintainers: `TonyRL`
 
 ### User
 - Route ID: `pikabu:/pikabu/user/:name`

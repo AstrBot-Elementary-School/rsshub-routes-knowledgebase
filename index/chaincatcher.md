@@ -10,7 +10,7 @@
 
 ## Routes
 
-### Unknown
+### 首页
 - Route ID: `chaincatcher:/chaincatcher/`
 - Route Path: `/chaincatcher/`
 - File: `docs/routes/chaincatcher/chaincatcher.md`

@@ -12,7 +12,7 @@
 - URL: `snowpeak.com/collections/new-arrivals`
 - Language: `_None_`
 - Categories: `shopping`
-- Maintainers: `EthanWng97`
+- Maintainers: `IvanWng97`
 - Source Location: `us-new-arrivals.tsx`
 - Source Module: `_None_`
 
@@ -55,7 +55,7 @@ _None_
   "heat": 3,
   "location": "us-new-arrivals.tsx",
   "maintainers": [
-    "EthanWng97"
+    "IvanWng97"
   ],
   "name": "New Arrivals(USA)",
   "parameters": {},

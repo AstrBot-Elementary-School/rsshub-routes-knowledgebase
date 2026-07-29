@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2508,
+  "heat": 2510,
   "location": "index.ts",
   "maintainers": [
     "laampui"

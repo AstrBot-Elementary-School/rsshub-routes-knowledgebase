@@ -85,16 +85,16 @@ _None_
       "url": "rsshub://bilibili/manga/update/26551"
     },
     {
-      "description": "【此漫画的翻译由杭州翻翻公司提供】被骗得负债累累，过着贫困生活的少年电次，与链锯恶魔波奇塔一起做恶魔猎人勉强活了下去。最底层的生活，因为一次残忍的背叛全都改变了！！让恶魔寄宿在自己的身体去狩猎恶魔，新时代黑暗英雄故事，开幕！！ - Powered by RSSHub",
+      "description": "在打倒了魔王的勇者一行人当中，魔法使芙莉莲是精灵，她和其他三人有不一样的地方。 生活在“之后”的世界里，她感受到了什么—— 留下来的人们所编织的葬送与祈祷又意味着什么—— 故事从“冒险的结束”开始。 这是讲述英雄们的活法的，后日谈奇幻作品！ - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "52425851550270464",
-      "image": "https://i0.hdslb.com/bfs/manga-static/fef4e807325510365fb87389a4e2c1695360249a.jpg",
+      "id": "81498058940083200",
+      "image": "https://i0.hdslb.com/bfs/manga-static/b85cfd1921ba7e74ff8cbbbc5f102191b6045c92.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://manga.bilibili.com/detail/mc28376",
-      "title": "Chainsaw Man（电锯人） - 哔哩哔哩漫画",
+      "siteUrl": "https://manga.bilibili.com/detail/mc30460",
+      "title": "葬送的芙莉莲 - 哔哩哔哩漫画",
       "type": "feed",
-      "url": "rsshub://bilibili/manga/update/28376"
+      "url": "rsshub://bilibili/manga/update/30460"
     }
   ]
 }

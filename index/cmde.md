@@ -10,10 +10,10 @@
 
 ## Routes
 
-### Unknown
+### 通用
 - Route ID: `cmde:/cmde/:cate{.+}?`
 - Route Path: `/cmde/:cate{.+}?`
 - File: `docs/routes/cmde/cmde-cate.md`
 - File Name: `cmde-cate.md`
-- Categories: `other`
-- Maintainers: `None`
+- Categories: `government`
+- Maintainers: `run-ze`

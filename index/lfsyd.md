@@ -26,7 +26,7 @@
 - Categories: `game`
 - Maintainers: `auto-bot-ty`
 
-### Unknown
+### 分区
 - Route ID: `lfsyd:/lfsyd/tag/:tagId?`
 - Route Path: `/lfsyd/tag/:tagId?`
 - File: `docs/routes/lfsyd/lfsyd-tag-tagid.md`
@@ -34,7 +34,7 @@
 - Categories: `game`
 - Maintainers: `auto-bot-ty`
 
-### Unknown
+### 用户的帖子
 - Route ID: `lfsyd:/lfsyd/user/:id?`
 - Route Path: `/lfsyd/user/:id?`
 - File: `docs/routes/lfsyd/lfsyd-user-id.md`

@@ -24,4 +24,4 @@
 - File: `docs/routes/ulapia/ulapia-research-latest.md`
 - File Name: `ulapia-research-latest.md`
 - Categories: `finance`
-- Maintainers: `None`
+- Maintainers: `Fatpandac`

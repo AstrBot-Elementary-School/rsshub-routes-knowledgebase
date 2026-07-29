@@ -1,4 +1,4 @@
-# Mozilla - Unknown
+# Mozilla - New Release
 
 ## Coverage
 `index-only`
@@ -7,20 +7,22 @@
 - Namespace: `firefox`
 - Namespace Name: `Mozilla`
 - Route Path: `/firefox/release/:platform?`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `New Release`
+- Example: `/firefox/release/desktop`
 - URL: `monitor.firefox.com`
 - Language: `_None_`
 - Categories: `program-update`
-- Maintainers: `None`
+- Maintainers: `fengkx`
 - Source Location: `release.ts`
 - Source Module: `_None_`
 
 ## Description
-_None_
+| Desktop | Android | Beta | Nightly | iOS |
+| ------- | ------- | ---- | ------- | --- |
+| desktop | android | beta | nightly | ios |
 
 ## Parameters
-_None_
+- `platform`: the platform
 
 
 ## Features
@@ -35,10 +37,17 @@ _None_
   "categories": [
     "program-update"
   ],
+  "description": "| Desktop | Android | Beta | Nightly | iOS |\n| ------- | ------- | ---- | ------- | --- |\n| desktop | android | beta | nightly | ios |",
+  "example": "/firefox/release/desktop",
   "heat": 3,
   "location": "release.ts",
-  "maintainers": [],
-  "name": "Unknown",
+  "maintainers": [
+    "fengkx"
+  ],
+  "name": "New Release",
+  "parameters": {
+    "platform": "the platform"
+  },
   "path": "/release/:platform?",
   "topFeeds": [
     {
@@ -54,16 +63,16 @@ _None_
       "url": "rsshub://firefox/release/nightly"
     },
     {
-      "description": "Firefox beta release notes - Powered by RSSHub",
+      "description": "Firefox desktop release notes - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "72287537564742660",
+      "id": "134365629543286784",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.mozilla.org/en-US/firefox/beta/notes",
-      "title": "Firefox beta release notes",
+      "siteUrl": "https://www.mozilla.org/en-US/firefox/releasenotes",
+      "title": "Firefox desktop release notes",
       "type": "feed",
-      "url": "rsshub://firefox/release/beta"
+      "url": "rsshub://firefox/release"
     }
   ]
 }

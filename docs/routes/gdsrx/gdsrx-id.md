@@ -12,7 +12,7 @@
 - URL: `gdsrx.org.cn`
 - Language: `_None_`
 - Categories: `other`
-- Maintainers: `None`
+- Maintainers: `nczitzk`
 - Source Location: `index.ts`
 - Source Module: `_None_`
 
@@ -60,7 +60,9 @@ _None_
   },
   "heat": 0,
   "location": "index.ts",
-  "maintainers": [],
+  "maintainers": [
+    "nczitzk"
+  ],
   "name": "栏目",
   "parameters": {
     "id": "栏目 id，可在对应栏目页 URL 中找到，见下表，默认为法规文库"

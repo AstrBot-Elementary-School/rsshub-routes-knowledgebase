@@ -10,10 +10,10 @@
 
 ## Routes
 
-### Unknown
+### Index
 - Route ID: `hackyournews:/hackyournews/`
 - Route Path: `/hackyournews/`
 - File: `docs/routes/hackyournews/hackyournews.md`
 - File Name: `hackyournews.md`
-- Categories: `other`
+- Categories: `programming`
 - Maintainers: `ftiasch`

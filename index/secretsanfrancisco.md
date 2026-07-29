@@ -16,4 +16,4 @@
 - File: `docs/routes/secretsanfrancisco/secretsanfrancisco-category.md`
 - File Name: `secretsanfrancisco-category.md`
 - Categories: `new-media`
-- Maintainers: `EthanWng97`
+- Maintainers: `IvanWng97`

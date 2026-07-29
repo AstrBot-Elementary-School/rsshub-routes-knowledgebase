@@ -12,7 +12,7 @@
 - URL: `inoreader.com`
 - Language: `_None_`
 - Categories: `reading`
-- Maintainers: `EthanWng97`
+- Maintainers: `IvanWng97`
 - Source Location: `index.ts`
 - Source Module: `_None_`
 
@@ -20,7 +20,8 @@
 _None_
 
 ## Parameters
-_None_
+- `user`: User id, can be found in the HTML clip URL
+- `tag`: Tag name, can be found in the HTML clip URL
 
 
 ## Features
@@ -39,9 +40,13 @@ _None_
   "heat": 10,
   "location": "index.ts",
   "maintainers": [
-    "EthanWng97"
+    "IvanWng97"
   ],
   "name": "HTML Clip",
+  "parameters": {
+    "tag": "Tag name, can be found in the HTML clip URL",
+    "user": "User id, can be found in the HTML clip URL"
+  },
   "path": "/html_clip/:user/:tag",
   "test": {
     "code": 1,

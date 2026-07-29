@@ -1,4 +1,4 @@
-# CuriousCat - Unknown
+# CuriousCat - User
 
 ## Coverage
 `index-only`
@@ -7,11 +7,11 @@
 - Namespace: `curiouscat`
 - Namespace Name: `CuriousCat`
 - Route Path: `/curiouscat/user/:id`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `User`
+- Example: `/curiouscat/user/username`
 - URL: `curiouscat.live`
 - Language: `_None_`
-- Categories: `other`
+- Categories: `social-media`
 - Maintainers: `lucasew`
 - Source Location: `user.ts`
 - Source Module: `_None_`
@@ -20,7 +20,7 @@
 _None_
 
 ## Parameters
-_None_
+- `id`: username that is in the URL
 
 
 ## Features
@@ -35,14 +35,18 @@ _None_
 ```json
 {
   "categories": [
-    "other"
+    "social-media"
   ],
+  "example": "/curiouscat/user/username",
   "heat": 0,
   "location": "user.ts",
   "maintainers": [
     "lucasew"
   ],
-  "name": "Unknown",
+  "name": "User",
+  "parameters": {
+    "id": "username that is in the URL"
+  },
   "path": "/user/:id",
   "radar": [
     {

@@ -1,4 +1,4 @@
-# VCB-Studio - Unknown
+# VCB-Studio - 最新文章
 
 ## Coverage
 `index-only`
@@ -7,8 +7,8 @@
 - Namespace: `vcb-s`
 - Namespace Name: `VCB-Studio`
 - Route Path: `/vcb-s/`
-- Route Name: `Unknown`
-- Example: `_None_`
+- Route Name: `最新文章`
+- Example: `/vcb-s`
 - URL: `vcb-s.com/`
 - Language: `_None_`
 - Categories: `anime`
@@ -38,12 +38,13 @@ _None_
   "categories": [
     "anime"
   ],
+  "example": "/vcb-s",
   "heat": 0,
   "location": "index.ts",
   "maintainers": [
     "cxfksword"
   ],
-  "name": "Unknown",
+  "name": "最新文章",
   "path": "/",
   "radar": [
     {

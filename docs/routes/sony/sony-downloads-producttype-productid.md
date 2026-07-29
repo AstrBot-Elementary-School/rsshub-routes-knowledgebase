@@ -12,7 +12,7 @@
 - URL: `sony.com`
 - Language: `_None_`
 - Categories: `program-update`
-- Maintainers: `EthanWng97`
+- Maintainers: `IvanWng97`
 - Source Location: `downloads.ts`
 - Source Module: `_None_`
 
@@ -58,7 +58,7 @@ Open `https://www.sony.com/electronics/support` and search for the corresponding
   "heat": 0,
   "location": "downloads.ts",
   "maintainers": [
-    "EthanWng97"
+    "IvanWng97"
   ],
   "name": "Software Downloads",
   "parameters": {

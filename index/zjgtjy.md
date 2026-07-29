@@ -10,10 +10,10 @@
 
 ## Routes
 
-### Unknown
+### 公告信息
 - Route ID: `zjgtjy:/zjgtjy/:type?`
 - Route Path: `/zjgtjy/:type?`
 - File: `docs/routes/zjgtjy/zjgtjy-type.md`
 - File Name: `zjgtjy-type.md`
-- Categories: `other`
+- Categories: `government`
 - Maintainers: `Fatpandac`

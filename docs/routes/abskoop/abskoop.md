@@ -8,10 +8,10 @@
 - Namespace Name: `A 姐分享`
 - Route Path: `/abskoop/`
 - Route Name: `存档列表`
-- Example: `_None_`
+- Example: `/abskoop`
 - URL: `ahhhhfs.com/`
 - Language: `_None_`
-- Categories: `other`
+- Categories: `multimedia`
 - Maintainers: `zhenhappy`
 - Source Location: `index.ts`
 - Source Module: `_None_`
@@ -36,8 +36,9 @@ _None_
 ```json
 {
   "categories": [
-    "other"
+    "multimedia"
   ],
+  "example": "/abskoop",
   "features": {
     "nsfw": true
   },

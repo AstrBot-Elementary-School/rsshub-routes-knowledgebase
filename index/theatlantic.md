@@ -16,4 +16,4 @@
 - File: `docs/routes/theatlantic/theatlantic-category.md`
 - File Name: `theatlantic-category.md`
 - Categories: `traditional-media, popular`
-- Maintainers: `EthanWng97, pseudoyu`
+- Maintainers: `IvanWng97, pseudoyu`

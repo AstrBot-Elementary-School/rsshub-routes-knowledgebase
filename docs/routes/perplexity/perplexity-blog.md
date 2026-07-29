@@ -81,7 +81,7 @@ _None_
       "id": "257997849784109056",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.perplexity.ai/hub",
+      "siteUrl": "https://www.perplexity.ai/hub/blog",
       "title": "Perplexity Blog",
       "type": "feed",
       "url": "rsshub://perplexity/blog"

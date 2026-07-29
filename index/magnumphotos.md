@@ -16,4 +16,4 @@
 - File: `docs/routes/magnumphotos/magnumphotos-magazine.md`
 - File Name: `magnumphotos-magazine.md`
 - Categories: `picture, popular`
-- Maintainers: `EthanWng97`
+- Maintainers: `IvanWng97`

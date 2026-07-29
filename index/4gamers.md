@@ -6,15 +6,23 @@
 - URL: `www.4gamers.com.tw`
 - Language: `_None_`
 - Aliases: `4gamers, 4gamers.com.tw, www, www.4gamers.com.tw`
-- Route Count: `3`
+- Route Count: `4`
 
 ## Routes
 
-### Unknown
+### 最新消息
 - Route ID: `4gamers:/4gamers/`
 - Route Path: `/4gamers/`
 - File: `docs/routes/4gamers/4gamers.md`
 - File Name: `4gamers.md`
+- Categories: `game`
+- Maintainers: `TonyRL`
+
+### 分类
+- Route ID: `4gamers:/4gamers/category/:category`
+- Route Path: `/4gamers/category/:category`
+- File: `docs/routes/4gamers/4gamers-category-category.md`
+- File Name: `4gamers-category-category.md`
 - Categories: `game`
 - Maintainers: `TonyRL`
 
