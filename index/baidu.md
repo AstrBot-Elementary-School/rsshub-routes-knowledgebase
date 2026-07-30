@@ -32,7 +32,7 @@
 - File: `docs/routes/baidu/baidu-tieba-forum-good-kw-cid-sortby.md`
 - File Name: `baidu-tieba-forum-good-kw-cid-sortby.md`
 - Categories: `bbs`
-- Maintainers: `u3u`
+- Maintainers: `u3u, FlanChanXwO`
 
 ### 帖子动态
 - Route ID: `baidu:/baidu/tieba/post/:id`
@@ -40,7 +40,7 @@
 - File: `docs/routes/baidu/baidu-tieba-post-id.md`
 - File Name: `baidu-tieba-post-id.md`
 - Categories: `bbs`
-- Maintainers: `u3u`
+- Maintainers: `u3u, FlanChanXwO`
 
 ### 贴吧搜索
 - Route ID: `baidu:/baidu/tieba/search/:qw/:routeParams?`
@@ -48,7 +48,7 @@
 - File: `docs/routes/baidu/baidu-tieba-search-qw-routeparams.md`
 - File Name: `baidu-tieba-search-qw-routeparams.md`
 - Categories: `bbs`
-- Maintainers: `JimenezLi`
+- Maintainers: `JimenezLi, FlanChanXwO`
 
 ### 用户帖子
 - Route ID: `baidu:/baidu/tieba/user/:uid`
@@ -56,7 +56,7 @@
 - File: `docs/routes/baidu/baidu-tieba-user-uid.md`
 - File Name: `baidu-tieba-user-uid.md`
 - Categories: `bbs`
-- Maintainers: `igxlin, nczitzk`
+- Maintainers: `igxlin, nczitzk, FlanChanXwO`
 
 ### 热搜榜单
 - Route ID: `baidu:/baidu/top/:board?`

@@ -154,14 +154,14 @@
       "url": "rsshub://lhratings/research/3"
     },
     {
-      "description": "宏观经济 - Powered by RSSHub",
-      "errorAt": "2026-07-06T08:12:08.247Z",
-      "errorMessage": "[GET] \"https://www.lhratings.com/research.html?type=1\": 404 Not Found\n",
+      "description": "联合资信评估股份有限公司 - 非金融企业 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "101364983690255360",
-      "image": "https://www.lhratings.com/static/imgs/logo.png",
+      "image": "https://www.lhratings.com/home/images/logo.png",
       "ownerUserId": null,
-      "siteUrl": "https://www.lhratings.com/research.html?type=1",
-      "title": "联合资信评估股份有限公司 - 宏观经济",
+      "siteUrl": "https://www.lhratings.com/lists/1.html",
+      "title": "联合资信评估股份有限公司 - 非金融企业",
       "type": "feed",
       "url": "rsshub://lhratings/research/1"
     }

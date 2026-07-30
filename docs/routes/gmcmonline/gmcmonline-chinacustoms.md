@@ -75,8 +75,8 @@ _None_
   "topFeeds": [
     {
       "description": "中国海关 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-28T12:12:16.082Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "68456027452279808",
       "image": "http://chinacustoms.gmcmonline.com/upload/2020/04/01/logofile.png",
       "ownerUserId": null,

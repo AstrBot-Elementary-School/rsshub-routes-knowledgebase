@@ -54,7 +54,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 30,
+  "heat": 31,
   "location": "wechat.ts",
   "maintainers": [
     "lessmoe",

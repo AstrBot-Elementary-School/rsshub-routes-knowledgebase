@@ -64,7 +64,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 5523,
+  "heat": 5519,
   "location": "index.ts",
   "maintainers": [
     "bigfei"
@@ -133,7 +133,7 @@ _None_
     {
       "description": "Bloomberg - News - Powered by RSSHub",
       "errorAt": "2026-07-15T12:52:21.257Z",
-      "errorMessage": "[GET] \"https://www.bloomberg.com/feeds///sitemap_news.xml\": 404 Not Found\n[GET] \"https://www.bloomberg.com/feeds///sitemap_news.xml\": 404 \n[GET] \"https://www.bloomberg.com/feeds///sitemap_news.xml\": 404 Not Found\nAuthentication failed. Access denied.\n/bloomberg/%2F\n[GET] \"https://www.bloomberg.com/feeds///sitemap_news.xml\": <no response> fetch failed\n502 \n[GET] \"https://www.bloomberg.com/feeds///sitemap_news.xml\": 404 Not Found\n[GET] \"https://www.bloomberg.com/feeds///sitemap_news.xml\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://www.bloomberg.com/feeds///sitemap_news.xml\": 404 Not Found\n[GET] \"https://www.bloomberg.com/feeds///sitemap_news.xml\": 404 \n[GET] \"https://www.bloomberg.com/feeds///sitemap_news.xml\": 404 Not Found\nAuthentication failed. Access denied.\n/bloomberg/%2F\n[GET] \"https://www.bloomberg.com/feeds///sitemap_news.xml\": <no response> fetch failed\n502 \n[GET] \"https://www.bloomberg.com/feeds///sitemap_news.xml\": 404 Not Found\n",
       "id": "72541421314282496",
       "image": null,
       "ownerUserId": null,
@@ -145,7 +145,7 @@ _None_
     {
       "description": "Bloomberg - News - Powered by RSSHub",
       "errorAt": "2026-07-17T08:12:23.276Z",
-      "errorMessage": "[GET] \"https://www.bloomberg.com/feeds/sitemap_news.xml\": 404 Not Found\n[GET] \"https://www.bloomberg.com/feeds/sitemap_news.xml\": 404 Not Found\nAuthentication failed. Access denied.\n/bloomberg\n[GET] \"https://www.bloomberg.com/feeds/sitemap_news.xml\": 404 Not Found\n[GET] \"https://www.bloomberg.com/feeds/sitemap_news.xml\": 404 Not Found\n[GET] \"https://www.bloomberg.com/feeds/sitemap_news.xml\": 404 Not Found\n[GET] \"https://www.bloomberg.com/feeds/sitemap_news.xml\": 404 Not Found\n[GET] \"https://www.bloomberg.com/feeds/sitemap_news.xml\": 404 Not Found\n[GET] \"https://www.bloomberg.com/feeds/sitemap_news.xml\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://www.bloomberg.com/feeds/sitemap_news.xml\": 404 Not Found\n[GET] \"https://www.bloomberg.com/feeds/sitemap_news.xml\": 404 Not Found\nAuthentication failed. Access denied.\n/bloomberg\n[GET] \"https://www.bloomberg.com/feeds/sitemap_news.xml\": 404 Not Found\n502 \n[GET] \"https://www.bloomberg.com/feeds/sitemap_news.xml\": 404 Not Found\n[GET] \"https://www.bloomberg.com/feeds/sitemap_news.xml\": 404 Not Found\n[GET] \"https://www.bloomberg.com/feeds/sitemap_news.xml\": 404 Not Found\n[GET] \"https://www.bloomberg.com/feeds/sitemap_news.xml\": 404 Not Found\n",
       "id": "64731996464440320",
       "image": null,
       "ownerUserId": null,

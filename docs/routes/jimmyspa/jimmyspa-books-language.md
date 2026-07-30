@@ -43,7 +43,7 @@ _None_
   ],
   "description": "| language | Description |\n| -------- | ----------- |\n| tw       | 臺灣正體    |\n| en       | English     |\n| jp       | 日本語      |",
   "example": "/jimmyspa/books/tw",
-  "heat": 16,
+  "heat": 17,
   "location": "books.ts",
   "maintainers": [
     "Cedaric"

@@ -66,7 +66,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 75,
+  "heat": 73,
   "location": "discount.tsx",
   "maintainers": [
     "zytomorrow"

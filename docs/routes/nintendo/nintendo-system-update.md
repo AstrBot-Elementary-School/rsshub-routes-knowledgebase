@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "Nintendo Switch 本体更新情報 - Powered by RSSHub",
-      "errorAt": "2026-07-28T01:10:55.116Z",
-      "errorMessage": "500 \n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "60263446472040455",
       "image": null,
       "ownerUserId": null,

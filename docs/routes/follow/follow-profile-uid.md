@@ -43,7 +43,7 @@ _None_
   "features": {
     "supportRadar": true
   },
-  "heat": 5146,
+  "heat": 5145,
   "location": "profile.ts",
   "maintainers": [
     "KarasuShin",
@@ -71,7 +71,7 @@ _None_
     {
       "description": "Follow's subscriptions - Powered by RSSHub",
       "errorAt": "2026-05-02T05:07:24.820Z",
-      "errorMessage": "502 \n[GET] \"https://api.follow.is/subscriptions?userId=41469671337837568\": 401 Unauthorized\n[GET] \"https://api.follow.is/subscriptions?userId=41469671337837568\": 401 Unauthorized\n[GET] \"https://api.follow.is/subscriptions?userId=41469671337837568\": 401 Unauthorized\n[GET] \"https://api.follow.is/subscriptions?userId=41469671337837568\": 401 \n[GET] \"https://api.follow.is/subscriptions?userId=41469671337837568\": 401 Unauthorized\n",
+      "errorMessage": "[GET] \"https://api.follow.is/subscriptions?userId=41469671337837568\": 401 Unauthorized\n[GET] \"https://api.follow.is/subscriptions?userId=41469671337837568\": 401 Unauthorized\n502 \n[GET] \"https://api.follow.is/subscriptions?userId=41469671337837568\": 401 \n[GET] \"https://api.follow.is/subscriptions?userId=41469671337837568\": 401 Unauthorized\n",
       "id": "73371743844601856",
       "image": "https://avatars.githubusercontent.com/u/47667850?v=4",
       "ownerUserId": null,
@@ -83,7 +83,7 @@ _None_
     {
       "description": "DIYgod's subscriptions - Powered by RSSHub",
       "errorAt": "2026-05-02T04:58:02.716Z",
-      "errorMessage": "[GET] \"https://api.follow.is/subscriptions?userId=41125409313095680\": 401 Unauthorized\n502 \n[GET] \"https://api.follow.is/subscriptions?userId=41125409313095680\": 401 Unauthorized\n[GET] \"https://api.follow.is/subscriptions?userId=41125409313095680\": 401 Unauthorized\n[GET] \"https://api.follow.is/subscriptions?userId=41125409313095680\": 401 Unauthorized\nAuthentication failed. Access denied.\n/follow/profile/41125409313095680\n[GET] \"https://api.follow.is/subscriptions?userId=41125409313095680\": 401 Unauthorized\n[GET] \"https://api.follow.is/subscriptions?userId=41125409313095680\": 401 Unauthorized\n",
+      "errorMessage": "[GET] \"https://api.follow.is/subscriptions?userId=41125409313095680\": 401 Unauthorized\n[GET] \"https://api.follow.is/subscriptions?userId=41125409313095680\": 401 Unauthorized\n[GET] \"https://api.follow.is/subscriptions?userId=41125409313095680\": 401 Unauthorized\n[GET] \"https://api.follow.is/subscriptions?userId=41125409313095680\": 401 Unauthorized\nAuthentication failed. Access denied.\n/follow/profile/41125409313095680\n[GET] \"https://api.follow.is/subscriptions?userId=41125409313095680\": 401 Unauthorized\n[GET] \"https://api.follow.is/subscriptions?userId=41125409313095680\": 401 Unauthorized\n",
       "id": "58564329155994624",
       "image": "https://assets.folo.is/avatars/fb375d2d6d76367584300836196333fd.jpg",
       "ownerUserId": null,

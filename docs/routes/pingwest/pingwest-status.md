@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "品玩 - 实时要闻 - Powered by RSSHub",
-      "errorAt": "2026-05-25T06:27:49.864Z",
-      "errorMessage": "[GET] \"https://www.pingwest.com/api/state/list?page=1\": 405 Not Allowed\nAuthentication failed. Access denied.\n/pingwest/status\n[GET] \"https://www.pingwest.com/api/state/list?page=1\": 405 Not Allowed\n502 \n[GET] \"https://www.pingwest.com/api/state/list?page=1\": 405 Not Allowed\n[GET] \"https://www.pingwest.com/api/state/list?page=1\": 405 Not Allowed\n[GET] \"https://www.pingwest.com/api/state/list?page=1\": 405 Not Allowed\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41390414693046277",
       "image": null,
       "ownerUserId": null,

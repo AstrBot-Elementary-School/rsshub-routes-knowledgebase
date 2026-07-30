@@ -12,7 +12,7 @@
 - URL: `www.baidu.com`
 - Language: `_None_`
 - Categories: `bbs`
-- Maintainers: `JimenezLi`
+- Maintainers: `JimenezLi, FlanChanXwO`
 - Source Location: `tieba/search.tsx`
 - Source Module: `_None_`
 
@@ -32,9 +32,9 @@
 
 
 ## Features
-- `requireConfig`: false
-- `requirePuppeteer`: false
-- `antiCrawler`: false
+- `requireConfig`: [{"description": "百度 cookie 值，用于需要登录的贴吧页面", "name": "BAIDU_COOKIE", "optional": false}]
+- `requirePuppeteer`: true
+- `antiCrawler`: true
 - `supportBT`: false
 - `supportPodcast`: false
 - `supportScihub`: false
@@ -51,9 +51,15 @@ _None_
   "description": "| 键           | 含义                                                       | 接受的值      | 默认值 |\n| ------------ | ---------------------------------------------------------- | ------------- | ------ |\n| kw           | 在名为 kw 的贴吧中搜索                                     | 任意名称 / 无 | 无     |\n| only\\_thread | 只看主题帖，默认为 0 关闭                                  | 0/1           | 0      |\n| rn           | 返回条目的数量                                             | 1-20          | 20     |\n| sm           | 排序方式，0 为按时间顺序，1 为按时间倒序，2 为按相关性顺序 | 0/1/2         | 1      |\n\n用例：`/baidu/tieba/search/neuro/kw=neurosama&only_thread=1&sm=2`",
   "example": "/baidu/tieba/search/neuro",
   "features": {
-    "antiCrawler": false,
-    "requireConfig": false,
-    "requirePuppeteer": false,
+    "antiCrawler": true,
+    "requireConfig": [
+      {
+        "description": "百度 cookie 值，用于需要登录的贴吧页面",
+        "name": "BAIDU_COOKIE",
+        "optional": false
+      }
+    ],
+    "requirePuppeteer": true,
     "supportBT": false,
     "supportPodcast": false,
     "supportScihub": false
@@ -61,7 +67,8 @@ _None_
   "heat": 38,
   "location": "tieba/search.tsx",
   "maintainers": [
-    "JimenezLi"
+    "JimenezLi",
+    "FlanChanXwO"
   ],
   "name": "贴吧搜索",
   "parameters": {

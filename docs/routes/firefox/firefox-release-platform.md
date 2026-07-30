@@ -63,16 +63,16 @@ _None_
       "url": "rsshub://firefox/release/nightly"
     },
     {
-      "description": "Firefox desktop release notes - Powered by RSSHub",
+      "description": "Firefox beta release notes - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "134365629543286784",
+      "id": "72287537564742660",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.mozilla.org/en-US/firefox/releasenotes",
-      "title": "Firefox desktop release notes",
+      "siteUrl": "https://www.mozilla.org/en-US/firefox/beta/notes",
+      "title": "Firefox beta release notes",
       "type": "feed",
-      "url": "rsshub://firefox/release"
+      "url": "rsshub://firefox/release/beta"
     }
   ]
 }

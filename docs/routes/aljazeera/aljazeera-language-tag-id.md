@@ -60,7 +60,7 @@ _None_
   ],
   "description": "Language\n\n| Arabic | Chinese | English |\n| ------ | ------- | ------- |\n| arabic | chinese | english |\n\n::: tip\nIf you subscribe to [Al Jazeera English - Science and Technology](https://www.aljazeera.com/tag/science-and-technology), whose language is `english` and whose path is `science-and-technology`, you can get the route as [`/aljazeera/english/tag/science-and-technology`](https://rsshub.app/aljazeera/english/tag/science-and-technology)\n:::",
   "example": "/aljazeera/english/tag/science-and-technology",
-  "heat": 0,
+  "heat": 2,
   "location": "tag.ts",
   "maintainers": [
     "nczitzk"
@@ -94,6 +94,19 @@ _None_
       "target": "/chinese/tag/:id"
     }
   ],
-  "topFeeds": []
+  "topFeeds": [
+    {
+      "description": "Science and Technology | Today's latest from Al Jazeera - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "259957908309947405",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.aljazeera.com/tag/science-and-technology",
+      "title": "Science and Technology | Today's latest from Al Jazeera",
+      "type": "feed",
+      "url": "rsshub://aljazeera/english/tag/science-and-technology"
+    }
+  ]
 }
 ```

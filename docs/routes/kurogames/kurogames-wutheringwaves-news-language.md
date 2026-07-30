@@ -83,7 +83,8 @@ _None_
     }
   ],
   "test": {
-    "code": 0
+    "code": 1,
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
   "topFeeds": [
     {
@@ -100,8 +101,8 @@ _None_
     },
     {
       "description": "《鸣潮》— 游戏公告、新闻和活动 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-28T22:21:51.278Z",
+      "errorMessage": "[GET] \"https://media-cdn-mingchao.kurogame.com/akiwebsite/website2.0/json/G152/zh/ArticleMenu.json?t=1785277273027\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 111.208.52.36:443, 111.208.52.37:443, 111.208.52.38:443, 111.208.52.39:443, 111.208.52.18:443, 111.208.52.19:443, 111.208.52.20:443, 111.208.52.35:443, timeout: 10000ms))\n",
       "id": "134789849205955584",
       "image": null,
       "ownerUserId": null,

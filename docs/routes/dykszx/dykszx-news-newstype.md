@@ -74,8 +74,7 @@
     }
   ],
   "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+    "code": 0
   },
   "topFeeds": [
     {
@@ -91,16 +90,16 @@
       "url": "rsshub://dykszx/news"
     },
     {
-      "description": "德阳人事考试网 考试新闻发布 (公务员考试) - Powered by RSSHub",
-      "errorAt": "2025-10-09T00:25:38.064Z",
+      "description": "德阳人事考试网 考试新闻发布 (执（职）业资格、职称考试) - Powered by RSSHub",
+      "errorAt": "2025-10-09T02:19:22.169Z",
       "errorMessage": "[GET] \"https://www.dykszx.com\": <no response> fetch failed\n",
-      "id": "161654225832322048",
+      "id": "161654936649409536",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.dykszx.com/",
-      "title": "考试新闻发布(公务员考试)",
+      "title": "考试新闻发布(执（职）业资格、职称考试)",
       "type": "feed",
-      "url": "rsshub://dykszx/news/gwy"
+      "url": "rsshub://dykszx/news/zyzc"
     }
   ],
   "url": "www.dykszx.cn"

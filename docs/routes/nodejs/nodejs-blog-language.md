@@ -69,7 +69,7 @@ Official RSS Source: <https://nodejs.org/en/feed/blog.xml>
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 47,
+  "heat": 48,
   "location": "blog.ts",
   "maintainers": [
     "nczitzk"

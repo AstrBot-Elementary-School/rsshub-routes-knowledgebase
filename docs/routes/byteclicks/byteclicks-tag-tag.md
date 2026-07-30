@@ -56,12 +56,13 @@ _None_
     }
   ],
   "test": {
-    "code": 0
+    "code": 1,
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
   "topFeeds": [
     {
       "description": "人工智能 - 字节点击 - Powered by RSSHub",
-      "errorAt": "2025-08-10T14:10:25.018Z",
+      "errorAt": "2026-07-28T23:54:42.407Z",
       "errorMessage": "[GET] \"https://byteclicks.com/wp-json/wp/v2/tags?search=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD&per_page=100\": 403 Forbidden\n[GET] \"https://byteclicks.com/tag/人工智能\": 403 Forbidden\n",
       "id": "63118600077338624",
       "image": "https://byteclicks.com/img/byte01.ico",

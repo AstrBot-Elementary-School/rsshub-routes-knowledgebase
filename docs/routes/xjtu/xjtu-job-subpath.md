@@ -83,7 +83,7 @@ _None_
     {
       "description": "西安交通大学学生就业创业信息网 - 选调生 - Powered by RSSHub",
       "errorAt": "2026-01-30T15:42:32.693Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "[POST] \"https://job.xjtu.edu.cn/xsfw/sys/jyxtgktapp/modules/jywzManage/getTzgg.do\": 404 \n",
       "id": "76603138476628992",
       "image": null,
       "ownerUserId": null,

@@ -185,8 +185,8 @@ _None_
     },
     {
       "description": "Today's News - Cybercrime Magazine - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-28T12:00:00.384Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "83099263306649600",
       "image": null,
       "ownerUserId": null,

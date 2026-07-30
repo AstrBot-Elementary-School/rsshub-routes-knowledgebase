@@ -12,7 +12,7 @@
 - URL: `www.baidu.com`
 - Language: `_None_`
 - Categories: `bbs`
-- Maintainers: `u3u`
+- Maintainers: `u3u, FlanChanXwO`
 - Source Location: `tieba/post.tsx`
 - Source Module: `_None_`
 
@@ -24,9 +24,9 @@ _None_
 
 
 ## Features
-- `requireConfig`: false
-- `requirePuppeteer`: false
-- `antiCrawler`: false
+- `requireConfig`: [{"description": "百度 cookie 值，用于需要登录的贴吧页面", "name": "BAIDU_COOKIE", "optional": false}]
+- `requirePuppeteer`: true
+- `antiCrawler`: true
 - `supportBT`: false
 - `supportPodcast`: false
 - `supportScihub`: false
@@ -44,9 +44,15 @@ _None_
   ],
   "example": "/baidu/tieba/post/686961453",
   "features": {
-    "antiCrawler": false,
-    "requireConfig": false,
-    "requirePuppeteer": false,
+    "antiCrawler": true,
+    "requireConfig": [
+      {
+        "description": "百度 cookie 值，用于需要登录的贴吧页面",
+        "name": "BAIDU_COOKIE",
+        "optional": false
+      }
+    ],
+    "requirePuppeteer": true,
     "supportBT": false,
     "supportPodcast": false,
     "supportScihub": false
@@ -54,7 +60,8 @@ _None_
   "heat": 6,
   "location": "tieba/post.tsx",
   "maintainers": [
-    "u3u"
+    "u3u",
+    "FlanChanXwO"
   ],
   "name": "帖子动态",
   "parameters": {
@@ -77,16 +84,16 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "回复：【推书】推书＋记录我看过的无男主的最新回复 - Powered by RSSHub",
-      "errorAt": "2025-11-02T01:15:28.587Z",
-      "errorMessage": "[GET] \"https://tieba.baidu.com/p/8993611867?see_lz=0&pn=7000000&ajax=1\": 403 Forbidden\n",
-      "id": "116742777462552576",
+      "description": "回复：【模组汉化发布】重铸整合发布的最新回复 - Powered by RSSHub",
+      "errorAt": "2026-05-30T00:41:37.252Z",
+      "errorMessage": "[GET] \"https://tieba.baidu.com/p/9208385243?see_lz=0&pn=7000000&ajax=1\": 403 Forbidden\n",
+      "id": "105885254821548032",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://tieba.baidu.com/p/8993611867?see_lz=0",
-      "title": "回复：【推书】推书＋记录我看过的无男主",
+      "siteUrl": "https://tieba.baidu.com/p/9208385243?see_lz=0",
+      "title": "回复：【模组汉化发布】重铸整合发布",
       "type": "feed",
-      "url": "rsshub://baidu/tieba/post/8993611867"
+      "url": "rsshub://baidu/tieba/post/9208385243"
     },
     {
       "description": "回复：【纯心相依】 快了 plus........的最新回复 - Powered by RSSHub",

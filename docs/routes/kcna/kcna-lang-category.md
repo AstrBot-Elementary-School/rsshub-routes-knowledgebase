@@ -104,14 +104,14 @@
   },
   "topFeeds": [
     {
-      "description": "朝鲜中央通讯 | 新闻 | 最新新闻 - Powered by RSSHub",
-      "errorAt": "2026-07-01T13:42:05.311Z",
-      "errorMessage": "[GET] \"http://www.kcna.kp/cn/category/articles/q/1ee9bdb7186944f765208f34ecfb5407.kcmsf\": 404 Not Found\n[GET] \"http://www.kcna.kp/cn/category/articles/q/1ee9bdb7186944f765208f34ecfb5407.kcmsf\": 404 Not Found\n[GET] \"http://www.kcna.kp/cn/category/articles/q/1ee9bdb7186944f765208f34ecfb5407.kcmsf\": 404 Not Found\n",
+      "description": "朝鲜中央通讯 | 最新新闻 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "213406943351213061",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "http://www.kcna.kp/cn/category/articles/q/1ee9bdb7186944f765208f34ecfb5407.kcmsf",
-      "title": "朝鲜中央通讯 | 新闻 | 最新新闻",
+      "siteUrl": "http://www.kcna.kp/cn/article/list/a666dda1282180e0ee1b4427b0574ae7",
+      "title": "朝鲜中央通讯 | 最新新闻",
       "type": "feed",
       "url": "rsshub://kcna/cn"
     },

@@ -81,7 +81,7 @@ _None_
     {
       "description": "Albums of Taylor Swift - Powered by RSSHub",
       "errorAt": "2026-03-10T15:04:10.929Z",
-      "errorMessage": "502 \n[GET] \"https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02\": 403 Forbidden\n",
       "id": "55152034158156800",
       "image": "https://i.scdn.co/image/ab6761610000e5ebe2e8e7ff002a4afda1c7147e",
       "ownerUserId": null,

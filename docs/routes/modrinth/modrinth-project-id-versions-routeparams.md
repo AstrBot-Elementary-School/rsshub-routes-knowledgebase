@@ -116,16 +116,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "This plugin makes spawners minable using SilkTouch tools - Powered by RSSHub",
+      "description": "A modern shader pack loader for Minecraft intended to be compatible with existing OptiFine shader packs - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "123852225922308096",
+      "id": "120292957898624000",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/yqj3dcbL",
-      "title": "SilkSpawners Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/iris",
+      "title": "Iris Shaders Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/yqj3dcbL/versions"
+      "url": "rsshub://modrinth/project/iris/versions"
     }
   ]
 }

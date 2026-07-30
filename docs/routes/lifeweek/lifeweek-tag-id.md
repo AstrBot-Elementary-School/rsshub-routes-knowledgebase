@@ -77,8 +77,8 @@ _None_
     },
     {
       "description": "文学 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-28T09:56:21.620Z",
+      "errorMessage": "[GET] \"https://www.lifeweek.com.cn/api/userWebFollow/getFollowTagContentList?type=4&sort=2&tagId=4\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 211.162.170.18:443, 211.162.170.11:443, 211.162.170.12:443, 211.162.170.13:443, 211.162.170.14:443, 211.162.170.15:443, 211.162.170.16:443, 211.162.170.17:443, timeout: 10000ms))\n",
       "id": "152614384793012224",
       "image": null,
       "ownerUserId": null,

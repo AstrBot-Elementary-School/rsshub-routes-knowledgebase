@@ -78,16 +78,16 @@ _None_
       "url": "rsshub://themoviedb/tv/70593/seasons"
     },
     {
-      "description": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm. - Powered by RSSHub",
+      "description": "The Message was a surreal comedy series which spoofs current practices in the television industry. It originally aired in 2006 on BBC Three. It consisted of six episodes, and was not renewed after the first season. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "82918240259880960",
-      "image": "https://image.tmdb.org/t/p/original/oxmdHR5Ka28HAJuMmS2hk5K6QQY.jpg",
+      "id": "90020177225086976",
+      "image": "https://image.tmdb.org/t/p/original/wK9h8FwbmOWlMyW6fT2C6yFPvSu.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://www.themoviedb.org/tv/94997/seasons",
-      "title": "House of the Dragon - Seasons — TMDB",
+      "siteUrl": "https://www.themoviedb.org/tv/3/seasons",
+      "title": "The Message - Seasons — TMDB",
       "type": "feed",
-      "url": "rsshub://themoviedb/tv/94997-house-of-the-dragon/seasons"
+      "url": "rsshub://themoviedb/tv/3/seasons"
     }
   ],
   "view": 5

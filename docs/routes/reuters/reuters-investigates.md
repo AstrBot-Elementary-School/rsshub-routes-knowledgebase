@@ -65,7 +65,7 @@ _None_
     {
       "description": "Special Reports from Reuters journalists around the world - Powered by RSSHub",
       "errorAt": "2025-07-29T12:13:51.981Z",
-      "errorMessage": "Authentication failed. Access denied.\n/reuters/investigates\n[GET] \"https://www.reuters.com/investigates/\": 401 HTTP Forbidden\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "Authentication failed. Access denied.\n/reuters/investigates\n[GET] \"https://www.reuters.com/investigates/\": 401 HTTP Forbidden\n[GET] \"https://www.reuters.com/investigates/\": 401 HTTP Forbidden\n",
       "id": "55135298544041995",
       "image": "https://www.reuters.com/pf/resources/images/reuters/logo-vertical-default-512x512.png?d=116",
       "ownerUserId": null,

@@ -77,16 +77,16 @@ See [Browse Content](https://pubs.acs.org)
       "url": "rsshub://acs/journal/esthag"
     },
     {
-      "description": "Journal of Chemical Theory and Computation - Powered by RSSHub",
-      "errorAt": "2026-07-25T15:56:09.934Z",
+      "description": "Chemical Reviews - Powered by RSSHub",
+      "errorAt": "2026-07-21T10:08:13.370Z",
       "errorMessage": "page.waitForSelector: Target page, context or browser has been closed\n",
-      "id": "1161502729202171904",
+      "id": "1164621930578182144",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://pubs.acs.org/toc/jctcce/0/0",
-      "title": "Journal of Chemical Theory and Computation",
+      "siteUrl": "https://pubs.acs.org/toc/chreay/0/0",
+      "title": "Chemical Reviews",
       "type": "feed",
-      "url": "rsshub://acs/journal/jctcce"
+      "url": "rsshub://acs/journal/chreay"
     }
   ]
 }

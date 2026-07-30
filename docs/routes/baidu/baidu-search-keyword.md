@@ -64,16 +64,16 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "符号学 - 百度搜索 - Powered by RSSHub",
+      "description": "广州教师 - 百度搜索 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "177651896288583681",
+      "id": "177651896288583683",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.baidu.com/s?wd=%E7%AC%A6%E5%8F%B7%E5%AD%A6",
-      "title": "符号学 - 百度搜索",
+      "siteUrl": "https://www.baidu.com/s?wd=%E5%B9%BF%E5%B7%9E%E6%95%99%E5%B8%88",
+      "title": "广州教师 - 百度搜索",
       "type": "feed",
-      "url": "rsshub://baidu/search/%E7%AC%A6%E5%8F%B7%E5%AD%A6"
+      "url": "rsshub://baidu/search/%E5%B9%BF%E5%B7%9E%E6%95%99%E5%B8%88"
     },
     {
       "description": "佛山教师 - 百度搜索 - Powered by RSSHub",

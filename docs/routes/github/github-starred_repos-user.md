@@ -47,7 +47,7 @@ _None_
       }
     ]
   },
-  "heat": 141,
+  "heat": 142,
   "location": "starred-repos.ts",
   "maintainers": [
     "LanceZhu"

@@ -12,7 +12,7 @@
 - URL: `www.baidu.com`
 - Language: `_None_`
 - Categories: `bbs`
-- Maintainers: `u3u`
+- Maintainers: `u3u, FlanChanXwO`
 - Source Location: `tieba/forum.tsx`
 - Source Module: `_None_`
 
@@ -26,9 +26,9 @@ _None_
 
 
 ## Features
-- `requireConfig`: false
+- `requireConfig`: [{"description": "百度 cookie 值，用于需要登录的贴吧页面", "name": "BAIDU_COOKIE", "optional": false}]
 - `requirePuppeteer`: false
-- `antiCrawler`: false
+- `antiCrawler`: true
 - `supportBT`: false
 - `supportPodcast`: false
 - `supportScihub`: false
@@ -44,8 +44,14 @@ _None_
   ],
   "example": "/baidu/tieba/forum/good/女图",
   "features": {
-    "antiCrawler": false,
-    "requireConfig": false,
+    "antiCrawler": true,
+    "requireConfig": [
+      {
+        "description": "百度 cookie 值，用于需要登录的贴吧页面",
+        "name": "BAIDU_COOKIE",
+        "optional": false
+      }
+    ],
     "requirePuppeteer": false,
     "supportBT": false,
     "supportPodcast": false,
@@ -54,7 +60,8 @@ _None_
   "heat": 85,
   "location": "tieba/forum.tsx",
   "maintainers": [
-    "u3u"
+    "u3u",
+    "FlanChanXwO"
   ],
   "name": "精品帖子",
   "parameters": {

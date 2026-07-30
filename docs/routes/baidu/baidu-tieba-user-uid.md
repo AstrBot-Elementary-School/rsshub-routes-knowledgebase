@@ -12,8 +12,8 @@
 - URL: `www.baidu.com`
 - Language: `_None_`
 - Categories: `bbs`
-- Maintainers: `igxlin, nczitzk`
-- Source Location: `tieba/user.ts`
+- Maintainers: `igxlin, nczitzk, FlanChanXwO`
+- Source Location: `tieba/user.tsx`
 - Source Module: `_None_`
 
 ## Description
@@ -24,9 +24,9 @@
 
 
 ## Features
-- `requireConfig`: false
-- `requirePuppeteer`: false
-- `antiCrawler`: false
+- `requireConfig`: [{"description": "百度 cookie 值，用于需要登录的贴吧页面", "name": "BAIDU_COOKIE", "optional": false}]
+- `requirePuppeteer`: true
+- `antiCrawler`: true
 - `supportBT`: false
 - `supportPodcast`: false
 - `supportScihub`: false
@@ -43,18 +43,25 @@ _None_
   "description": "用户 ID 可以通过打开用户的主页后查看地址栏的 `un` 字段来获取。",
   "example": "/baidu/tieba/user/斗鱼游戏君",
   "features": {
-    "antiCrawler": false,
-    "requireConfig": false,
-    "requirePuppeteer": false,
+    "antiCrawler": true,
+    "requireConfig": [
+      {
+        "description": "百度 cookie 值，用于需要登录的贴吧页面",
+        "name": "BAIDU_COOKIE",
+        "optional": false
+      }
+    ],
+    "requirePuppeteer": true,
     "supportBT": false,
     "supportPodcast": false,
     "supportScihub": false
   },
   "heat": 12,
-  "location": "tieba/user.ts",
+  "location": "tieba/user.tsx",
   "maintainers": [
     "igxlin",
-    "nczitzk"
+    "nczitzk",
+    "FlanChanXwO"
   ],
   "name": "用户帖子",
   "parameters": {
@@ -79,16 +86,16 @@ _None_
       "url": "rsshub://baidu/tieba/user/dengchunlai"
     },
     {
-      "description": "在逃双皮奶 的贴吧 - Powered by RSSHub",
-      "errorAt": "2025-11-21T21:51:21.614Z",
-      "errorMessage": "[GET] \"https://tieba.baidu.com/home/main?un=在逃双皮奶🎀\": 403 Forbidden\n",
-      "id": "128277758834280448",
+      "description": "天马失望 的贴吧 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "200148619577121792",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://tieba.baidu.com/home/main?un=%E5%9C%A8%E9%80%83%E5%8F%8C%E7%9A%AE%E5%A5%B6%F0%9F%8E%80",
-      "title": "在逃双皮奶 的贴吧",
+      "siteUrl": "https://tieba.baidu.com/home/main?un=%E5%A4%A9%E9%A9%AC%E5%A4%B1%E6%9C%9B",
+      "title": "天马失望 的贴吧",
       "type": "feed",
-      "url": "rsshub://baidu/tieba/user/%E5%9C%A8%E9%80%83%E5%8F%8C%E7%9A%AE%E5%A5%B6%F0%9F%8E%80"
+      "url": "rsshub://baidu/tieba/user/%E5%A4%A9%E9%A9%AC%E5%A4%B1%E6%9C%9B"
     }
   ]
 }

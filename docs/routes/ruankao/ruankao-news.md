@@ -81,8 +81,8 @@ _None_
   "topFeeds": [
     {
       "description": "计算机职业技术资格考试（软考）消息推送 - Powered by RSSHub",
-      "errorAt": "2026-07-27T04:16:08.631Z",
-      "errorMessage": "404 \n[GET] \"https://www.ruankao.org.cn/article/content/2604141656059313900690012.html\": 405 Not Allowed\n[GET] \"https://www.ruankao.org.cn/index/work.html\": <no response> fetch failed (getaddrinfo ENOTFOUND www.ruankao.org.cn)\n",
+      "errorAt": "2026-07-24T06:37:24.111Z",
+      "errorMessage": "404 \n[GET] \"https://www.ruankao.org.cn/article/content/2607101313553992270690004.html\": 405 Not Allowed\n[GET] \"https://www.ruankao.org.cn/index/work.html\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 103.78.127.140:443, 103.78.127.141:443, 103.78.127.142:443, 103.78.127.143:443, 103.78.127.144:443, 103.78.127.145:443, 103.78.127.146:443, 103.78.127.206:443, timeout: 10000ms))\n",
       "id": "97983929811275776",
       "image": "https://bm.ruankao.org.cn/asset/image/public/logo.png",
       "ownerUserId": null,

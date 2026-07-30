@@ -57,7 +57,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 21,
+  "heat": 20,
   "location": "prime-community.ts",
   "maintainers": [
     "mintyfrankie"

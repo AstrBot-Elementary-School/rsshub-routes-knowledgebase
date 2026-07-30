@@ -42,7 +42,7 @@ _None_
   ],
   "description": "| Top 250 Movies | Most Popular Movies | Top 250 TV Shows | Most Popular TV Shows |\n| -------------- | ------------------- | ---------------- | --------------------- |\n| top            | moviemeter          | toptv            | tvmeter               |",
   "example": "/imdb/chart",
-  "heat": 1421,
+  "heat": 1420,
   "location": "chart.tsx",
   "maintainers": [
     "TonyRL"

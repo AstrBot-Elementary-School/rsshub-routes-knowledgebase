@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4802,
+  "heat": 4803,
   "location": "daily.ts",
   "maintainers": [
     "nczitzk",
@@ -73,7 +73,7 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "1. 长鑫科技市值一度超腾讯、英特尔 2. 阿里巴巴投资长鑫科技浮盈超 1600 亿元 3. 合肥 A 股市值跃居全国第四 4. 苹果眼镜或亮相明年 WWDC 5. Claude 对话分享链接意外被谷歌收录，用户隐私聊天内容曝光 6. 腾讯「QQ 宠物」正式回归，升级为 3D 毛茸茸形象 7. 小米汽车技术发布会定档 7 月 30 日 8. 美宣称拟对中国人工智能企业开展调查并实施制裁 商务部回应 9. 英伟达正与 OpenAI 洽谈，拟为数据中心项目提供 2500 亿美元融资担保 10. 美团辟谣 LongCat 模型负责人离职 11. 苹果总市值再次超越英伟达 成为全球第一 - Powered by RSSHub",
+      "description": "1. 苹果市值首次突破 5 万亿美元 2. OpenAI CEO 将与美国高级官员预览该公司最新大模型 3. ​LVMH 集团回应在华诉讼争议：不止在中国，在全球均定期处理商标侵权 4. SpaceX 较 IPO 发行价跌 20% 市值蒸发 1.2 万亿美元 5. 亚马逊据报调整 AI 战略，逐步停止大部分旗舰模型 6. 比亚迪：人形机器人计划八月发布 7. 微软发布首款网络安全 AI 模型 MAI-Cyber-1-Flash 8. 特朗普政府即将敲定 AI 自愿监管框架 9. Hugging Face 向 OpenAI 索赔 1 亿美元算力 10. 苹果候任 CEO 特努斯：将延续影视业务发展势头 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "52347176714948614",

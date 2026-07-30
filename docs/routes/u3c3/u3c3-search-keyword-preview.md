@@ -50,7 +50,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 48,
+  "heat": 49,
   "location": "index.ts",
   "maintainers": [
     "storytellerF"
@@ -87,7 +87,7 @@ _None_
       "id": "131696291531404288",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.u3c3.com/?search2=gbchoasb&search=U3C3",
+      "siteUrl": "https://www.u3c3.com/?search2=t5cx4nko&search=U3C3",
       "title": "search U3C3 - u3c3",
       "type": "feed",
       "url": "rsshub://u3c3/search/U3C3"

@@ -40,7 +40,7 @@ _None_
   ],
   "description": "| 中国  | 新加坡    | 国际  | 财经     |\n| ----- | --------- | ----- | -------- |\n| china | singapore | world | zfinance |",
   "example": "/zaobao/realtime/china",
-  "heat": 8942,
+  "heat": 8943,
   "location": "realtime.ts",
   "maintainers": [
     "shunf4"
@@ -68,8 +68,8 @@ _None_
     },
     {
       "description": "新加坡、中国、亚洲和国际的即时、评论、商业、体育、生活、科技与多媒体新闻，尽在联合早报。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-29T06:12:28.593Z",
+      "errorMessage": "Unexpected non-whitespace character after JSON at position 870 (line 1 column 871)\nUnexpected non-whitespace character after JSON at position 870 (line 1 column 871)\n502 \nUnexpected non-whitespace character after JSON at position 870 (line 1 column 871)\nUnexpected non-whitespace character after JSON at position 870 (line 1 column 871)\n[GET] \"https://www.zaobao.com/realtime/world\": <no response> fetch failed\nUnexpected non-whitespace character after JSON at position 870 (line 1 column 871)\nUnexpected non-whitespace character after JSON at position 870 (line 1 column 871)\nUnexpected non-whitespace character after JSON at position 870 (line 1 column 871)\nUnexpected non-whitespace character after JSON at position 870 (line 1 column 871)\nUnexpected non-whitespace character after JSON at position 870 (line 1 column 871)\n",
       "id": "41461870201364483",
       "image": "https://www.zaobao.com.sg/favicon.ico",
       "ownerUserId": null,

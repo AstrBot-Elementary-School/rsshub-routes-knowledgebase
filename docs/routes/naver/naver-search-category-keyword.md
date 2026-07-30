@@ -99,32 +99,32 @@ _None_
   ],
   "test": {
     "code": 1,
-    "message": "AssertionError: expected NaN to be greater than -432000000\n    at checkDate (/home/runner/work/RSSHub/RSSHub/lib/app.test.ts:61:46)\n    at checkRSS (/home/runner/work/RSSHub/RSSHub/lib/app.test.ts:87:13)\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:106:17\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+    "message": "AssertionError: expected [ …(2) ] to not include 'https://www.m-i.kr/news/articleView.h…'\n    at Proxy.<anonymous> (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+expect@4.1.10/node_modules/@vitest/expect/dist/index.js:1319:15)\n    at Proxy.<anonymous> (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+expect@4.1.10/node_modules/@vitest/expect/dist/index.js:1156:15)\n    at Proxy.methodWrapper (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/chai@6.2.2/node_modules/chai/index.js:1700:25)\n    at checkRSS (/home/runner/work/RSSHub/RSSHub/lib/app.test.ts:91:27)\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:106:17\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
   "topFeeds": [
     {
-      "description": "송소희의 네이버 블로그 검색 결과입니다. - Powered by RSSHub",
+      "description": "송소희의 네이버 뉴스 검색 결과입니다. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1147950450062786560",
+      "id": "1147950696889188352",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://m.search.naver.com/search.naver?ssc=tab.m_blog.all&sm=mtb_jum&query=%EC%86%A1%EC%86%8C%ED%9D%AC&nso=so%3Add",
-      "title": "송소희 - 네이버 블로그",
+      "siteUrl": "https://m.search.naver.com/search.naver?ssc=tab.m_news.all&where=m_news&sm=mtb_jum&query=%EC%86%A1%EC%86%8C%ED%9D%AC&nso=so%3Add",
+      "title": "송소희 - 네이버 뉴스",
       "type": "feed",
-      "url": "rsshub://naver/search/blog/%EC%86%A1%EC%86%8C%ED%9D%AC"
+      "url": "rsshub://naver/search/news/%EC%86%A1%EC%86%8C%ED%9D%AC"
     },
     {
-      "description": "송소희의 네이버 통합검색 검색 결과입니다. - Powered by RSSHub",
+      "description": "송소희의 네이버 동영상 검색 결과입니다. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1147948156013379584",
+      "id": "1147952700474654720",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://m.search.naver.com/search.naver?ssc=tab.m.all&where=m&sm=mtb_opt&query=%EC%86%A1%EC%86%8C%ED%9D%AC&nso=so%3Add&nso_open=1",
-      "title": "송소희 - 네이버 통합검색",
+      "siteUrl": "https://m.search.naver.com/search.naver?ssc=tab.m_video.all&where=m_video&sm=mtb_jum&query=%EC%86%A1%EC%86%8C%ED%9D%AC&nso=so%3Add",
+      "title": "송소희 - 네이버 동영상",
       "type": "feed",
-      "url": "rsshub://naver/search/all/%EC%86%A1%EC%86%8C%ED%9D%AC"
+      "url": "rsshub://naver/search/video/%EC%86%A1%EC%86%8C%ED%9D%AC"
     }
   ]
 }

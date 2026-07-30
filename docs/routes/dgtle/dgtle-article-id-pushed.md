@@ -508,8 +508,8 @@
   "topFeeds": [
     {
       "description": "致力于分享美好数字生活体验，囊括你闻所未闻的最丰富数码资讯，触所未触最抢鲜产品评测，随时随地感受尾巴们各式数字生活精彩图文、摄影感悟、旅行游记、爱物分享。旗下产品：精品电商平台「尾巴良品」 ；移动客户端「数字尾巴」 ，覆盖 iOS、Android 两大主流平台。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-28T15:15:28.415Z",
+      "errorMessage": "[GET] \"https://www.dgtle.com/article\": <no response> fetch failed (Connect Timeout Error (attempted address: www.dgtle.com:443, timeout: 10000ms))\n",
       "id": "218636383991437312",
       "image": null,
       "ownerUserId": null,

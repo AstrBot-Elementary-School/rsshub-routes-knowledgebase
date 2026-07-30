@@ -62,7 +62,7 @@ _None_
     {
       "description": "后续 - 跟踪 - Powered by RSSHub",
       "errorAt": "2025-12-22T08:11:45.061Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "[GET] \"https://houxu.app/api/1/lives/updated?limit=50\": <no response> fetch failed (redirect count exceeded)\n",
       "id": "55873602868576335",
       "image": null,
       "ownerUserId": null,

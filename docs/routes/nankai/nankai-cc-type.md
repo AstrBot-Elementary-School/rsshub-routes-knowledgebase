@@ -76,22 +76,9 @@
     }
   ],
   "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+    "code": 0
   },
   "topFeeds": [
-    {
-      "description": "南开大学计算机学院-学院公告 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "168824709558666240",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://cc.nankai.edu.cn/13292/list.htm",
-      "title": "南开大学计算机学院-学院公告",
-      "type": "feed",
-      "url": "rsshub://nankai/cc/13292"
-    },
     {
       "description": "南开大学计算机学院-科研信息 - Powered by RSSHub",
       "errorAt": null,
@@ -103,6 +90,18 @@
       "title": "南开大学计算机学院-科研信息",
       "type": "feed",
       "url": "rsshub://nankai/cc/13294"
+    },
+    {
+      "description": "南开大学计算机学院-学院公告 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "168824709558666240",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://cc.nankai.edu.cn/13292/list.htm",
+      "title": "南开大学计算机学院-学院公告",
+      "type": "feed",
+      "url": "rsshub://nankai/cc/13292"
     }
   ],
   "url": "cc.nankai.edu.cn"

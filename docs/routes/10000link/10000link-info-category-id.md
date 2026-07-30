@@ -159,14 +159,14 @@
   },
   "topFeeds": [
     {
-      "description": "供应链江湖的冰与火：苏美达2026年上半年净利同比增6.62%至近7亿，*ST瑞茂预亏超9亿-13亿面临退市! - Powered by RSSHub",
+      "description": "从“六张网”到“十五五”规划：物流网如何从战略蓝图走向施工图？ - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "138893356640117760",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://info.10000link.com/newslists.aspx?chid=My01",
-      "title": "10000万联网 - 供应链江湖的冰与火：苏美达2026年上半年净利同比增6.62%至近7亿，*ST瑞茂预亏超9亿-13亿面临退市!",
+      "title": "10000万联网 - 从“六张网”到“十五五”规划：物流网如何从战略蓝图走向施工图？",
       "type": "feed",
       "url": "rsshub://10000link/info/newslists/My01"
     },

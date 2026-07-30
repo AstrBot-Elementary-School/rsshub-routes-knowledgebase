@@ -53,7 +53,7 @@ For example, the category for <https://www.washingtonpost.com/national/investiga
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 301,
+  "heat": 303,
   "location": "app.tsx",
   "maintainers": [
     "quiniapiezoelectricity"

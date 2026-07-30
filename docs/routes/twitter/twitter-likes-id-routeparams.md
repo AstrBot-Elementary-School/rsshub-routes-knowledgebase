@@ -97,7 +97,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 33,
+  "heat": 34,
   "location": "likes.ts",
   "maintainers": [
     "xyqfer"
@@ -111,7 +111,7 @@ _None_
   "topFeeds": [
     {
       "description": "Twitter Likes - DIYgod - Powered by RSSHub",
-      "errorAt": "2026-07-26T12:58:53.840Z",
+      "errorAt": "2026-07-29T04:32:52.787Z",
       "errorMessage": "No valid Twitter token found\n",
       "id": "54122407526122496",
       "image": null,

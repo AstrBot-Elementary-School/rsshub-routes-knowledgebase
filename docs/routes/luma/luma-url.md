@@ -88,16 +88,16 @@ _None_
       "url": "rsshub://luma/langchain"
     },
     {
-      "description": "Google Gemma - Powered by RSSHub",
+      "description": "Comunidad de Innovación LATAM - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "265966966744675328",
+      "id": "265966889769333760",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://lu.ma/gemma-events",
-      "title": "Google Gemma",
+      "siteUrl": "https://lu.ma/comunidadinnovacion",
+      "title": "Comunidad de Innovación LATAM",
       "type": "feed",
-      "url": "rsshub://luma/gemma-events"
+      "url": "rsshub://luma/comunidadinnovacion"
     }
   ],
   "url": "lu.ma"
