@@ -57,7 +57,7 @@ _None_
     {
       "description": "极品性感美女搜索 - candy - Powered by RSSHub",
       "errorAt": "2026-01-18T22:36:30.826Z",
-      "errorMessage": "[GET] \"http:///plus/search/index.asp?keyword=candy\": <no response> fetch failed (getaddrinfo ENOTFOUND plus)\n[GET] \"http://mei8.vip/\": <no response> fetch failed\n[GET] \"http:///plus/search/index.asp?keyword=candy\": <no response> fetch failed\n[GET] \"http:///plus/search/index.asp?keyword=candy\": <no response> fetch failed (getaddrinfo ENOTFOUND plus)\n",
+      "errorMessage": "[GET] \"http:///plus/search/index.asp?keyword=candy\": <no response> fetch failed (getaddrinfo ENOTFOUND plus)\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n[GET] \"http:///plus/search/index.asp?keyword=candy\": <no response> fetch failed\n[GET] \"http:///plus/search/index.asp?keyword=candy\": <no response> fetch failed (getaddrinfo ENOTFOUND plus)\n",
       "id": "69003017605357568",
       "image": null,
       "ownerUserId": null,
@@ -69,7 +69,7 @@ _None_
     {
       "description": "极品性感美女搜索 - anran - Powered by RSSHub",
       "errorAt": "2026-01-22T06:41:20.679Z",
-      "errorMessage": "[GET] \"http:///plus/search/index.asp?keyword=anran\": <no response> fetch failed (getaddrinfo ENOTFOUND plus)\n[GET] \"http://mei8.vip/\": <no response> fetch failed\n[GET] \"http:///plus/search/index.asp?keyword=anran\": <no response> fetch failed (getaddrinfo ENOTFOUND plus)\n",
+      "errorMessage": "[GET] \"http:///plus/search/index.asp?keyword=anran\": <no response> fetch failed (getaddrinfo ENOTFOUND plus)\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n[GET] \"http:///plus/search/index.asp?keyword=anran\": <no response> fetch failed (getaddrinfo ENOTFOUND plus)\n",
       "id": "81201697850492928",
       "image": null,
       "ownerUserId": null,

@@ -36,7 +36,7 @@ _None_
     "finance"
   ],
   "example": "/hexun/pe/news",
-  "heat": 30,
+  "heat": 31,
   "location": "index.ts",
   "maintainers": [
     "p3psi-boo"

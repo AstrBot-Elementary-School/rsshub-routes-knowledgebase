@@ -96,7 +96,7 @@ _None_
     {
       "description": "北京航空航天大学图书馆新书速递 - Powered by RSSHub",
       "errorAt": "2026-01-30T23:58:57.626Z",
-      "errorMessage": "502 \n[GET] \"https://space.lib.buaa.edu.cn/meta-local/opac/new/100/bysubject?pageSize=100&page=1&dcpCode=nolimit\": <no response> fetch failed (unable to verify the first certificate; if the root CA is installed locally, try running Node.js with --use-system-ca)\n",
+      "errorMessage": "[GET] \"https://space.lib.buaa.edu.cn/meta-local/opac/new/100/bysubject?pageSize=100&page=1&dcpCode=nolimit\": <no response> fetch failed (unable to verify the first certificate; if the root CA is installed locally, try running Node.js with --use-system-ca)\n",
       "id": "62129102955320320",
       "image": "https://lib.buaa.edu.cn/apple-touch-icon.png",
       "ownerUserId": null,

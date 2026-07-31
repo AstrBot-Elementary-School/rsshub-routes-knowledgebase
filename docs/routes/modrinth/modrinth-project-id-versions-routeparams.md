@@ -116,16 +116,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "A modern shader pack loader for Minecraft intended to be compatible with existing OptiFine shader packs - Powered by RSSHub",
+      "description": "The ULTIMATE plugin to reward AFK players by creating AFK zones / pools - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "120292957898624000",
+      "id": "123847807916844032",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/iris",
-      "title": "Iris Shaders Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/6dJ1xToi",
+      "title": "AxAFKZone Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/iris/versions"
+      "url": "rsshub://modrinth/project/6dJ1xToi/versions"
     }
   ]
 }

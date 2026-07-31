@@ -39,7 +39,7 @@ _None_
     "multimedia"
   ],
   "example": "/xyzrank/hot-episodes-new",
-  "heat": 0,
+  "heat": 24,
   "location": "hot-episodes-new.ts",
   "maintainers": [
     "nczitzk"
@@ -54,7 +54,20 @@ _None_
       "target": "/hot-episodes-new"
     }
   ],
-  "topFeeds": [],
+  "topFeeds": [
+    {
+      "description": "榜单只是一种维度，愿你找到喜欢的节目 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "68855551484634217",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://xyzrank.com/#/hot-episodes-new",
+      "title": "中文播客榜 - 新锐节目",
+      "type": "feed",
+      "url": "rsshub://xyzrank/hot-episodes-new"
+    }
+  ],
   "url": "xyzrank.com/"
 }
 ```

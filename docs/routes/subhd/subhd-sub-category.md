@@ -43,7 +43,7 @@ _None_
   ],
   "description": "| 最新字幕 | 热门字幕 | 剧集字幕 | 电影字幕 |\n| -------- | -------- | -------- | -------- |\n| new      | top      | tv       | movie    |",
   "example": "/subhd/sub/new",
-  "heat": 0,
+  "heat": 17,
   "location": "index.ts",
   "maintainers": [
     "laampui",
@@ -63,6 +63,19 @@ _None_
       "target": "/sub/:category?"
     }
   ],
-  "topFeeds": []
+  "topFeeds": [
+    {
+      "description": "最新字幕 分享交流下载字幕平台 - SubHD - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "70777567210160142",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://subhd.tv/sub/new",
+      "title": "最新字幕 分享交流下载字幕平台 - SubHD",
+      "type": "feed",
+      "url": "rsshub://subhd/sub/new"
+    }
+  ]
 }
 ```

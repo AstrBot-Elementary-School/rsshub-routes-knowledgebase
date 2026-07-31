@@ -86,16 +86,16 @@ _None_
       "url": "rsshub://baidu/tieba/user/dengchunlai"
     },
     {
-      "description": "天马失望 的贴吧 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "200148619577121792",
+      "description": "米利阿鲁德 的贴吧 - Powered by RSSHub",
+      "errorAt": "2026-05-26T01:17:33.906Z",
+      "errorMessage": "Authentication failed. Access denied.\n/baidu/tieba/user/%E7%B1%B3%E5%88%A9%E9%98%BF%E9%B2%81%E5%BE%B7\n[GET] \"https://tieba.baidu.com/home/main?un=米利阿鲁德\": 403 Forbidden\n",
+      "id": "86266828598569984",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://tieba.baidu.com/home/main?un=%E5%A4%A9%E9%A9%AC%E5%A4%B1%E6%9C%9B",
-      "title": "天马失望 的贴吧",
+      "siteUrl": "https://tieba.baidu.com/home/main?un=%E7%B1%B3%E5%88%A9%E9%98%BF%E9%B2%81%E5%BE%B7",
+      "title": "米利阿鲁德 的贴吧",
       "type": "feed",
-      "url": "rsshub://baidu/tieba/user/%E5%A4%A9%E9%A9%AC%E5%A4%B1%E6%9C%9B"
+      "url": "rsshub://baidu/tieba/user/%E7%B1%B3%E5%88%A9%E9%98%BF%E9%B2%81%E5%BE%B7"
     }
   ]
 }

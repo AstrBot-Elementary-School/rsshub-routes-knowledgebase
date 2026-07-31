@@ -60,8 +60,8 @@ _None_
   "topFeeds": [
     {
       "description": "4Gamers - 成人限定🔞 - Powered by RSSHub",
-      "errorAt": "2025-05-12T06:15:43.841Z",
-      "errorMessage": "[GET] \"https://www.4gamers.com.tw/site/api/news/by-category/1119?nextStart=0&pageSize=25\": 404 Not Found\n[GET] \"https://www.4gamers.com.tw/site/api/news/by-category/1119?nextStart=0&pageSize=25\": 404 Not Found\n[GET] \"https://www.4gamers.com.tw/site/api/news/by-category/1119?nextStart=0&pageSize=25\": 404 Not Found\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "72578894783772672",
       "image": null,
       "ownerUserId": null,
@@ -72,8 +72,8 @@ _None_
     },
     {
       "description": "4Gamers - 深度專題 - Powered by RSSHub",
-      "errorAt": "2025-05-12T07:57:36.682Z",
-      "errorMessage": "[GET] \"https://www.4gamers.com.tw/site/api/news/by-category/359?nextStart=0&pageSize=25\": 404 Not Found\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "66771599303537672",
       "image": null,
       "ownerUserId": null,

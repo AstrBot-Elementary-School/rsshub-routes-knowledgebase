@@ -82,8 +82,8 @@ _None_
     },
     {
       "description": "时刻新闻 全部 - Powered by RSSHub",
-      "errorAt": "2026-07-29T03:38:12.340Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "70038083495587840",
       "image": null,
       "ownerUserId": null,

@@ -89,15 +89,15 @@ _None_
     },
     {
       "description": null,
-      "errorAt": "2026-06-30T06:05:34.874Z",
-      "errorMessage": "[GET] \"https://www.sciencedirect.com/journal/computer-methods-in-applied-mechanics-and-engineering/articles-in-press\": 403 Forbidden\n",
-      "id": "1178645011650969617",
+      "errorAt": "2026-06-30T06:04:20.489Z",
+      "errorMessage": "[GET] \"https://www.sciencedirect.com/journal/physics-reports/articles-in-press\": 403 Forbidden\n",
+      "id": "1178645011650969600",
       "image": null,
       "ownerUserId": null,
       "siteUrl": null,
       "title": "Importing",
       "type": "feed",
-      "url": "rsshub://sciencedirect/journal/computer-methods-in-applied-mechanics-and-engineering"
+      "url": "rsshub://sciencedirect/journal/physics-reports"
     }
   ]
 }

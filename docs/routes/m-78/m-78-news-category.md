@@ -134,8 +134,8 @@ _None_
     },
     {
       "description": "ニュース | ニュース - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-30T04:25:53.109Z",
+      "errorMessage": "m.map is not a function\n",
       "id": "82624813968150528",
       "image": null,
       "ownerUserId": null,

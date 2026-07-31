@@ -38,7 +38,7 @@ _None_
     "programming"
   ],
   "example": "/leetcode/dailyquestion/cn",
-  "heat": 127,
+  "heat": 128,
   "location": "dailyquestion-cn.ts",
   "maintainers": [
     "IvanWng97"
@@ -55,8 +55,8 @@ _None_
   "topFeeds": [
     {
       "description": "Leetcode 每日一题 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-29T19:31:41.720Z",
+      "errorMessage": "[POST] \"https://leetcode.cn/graphql\": 403 Forbidden\nAuthentication failed. Access denied.\n/leetcode/dailyquestion/cn\n502 \n[POST] \"https://leetcode.cn/graphql\": 403 Forbidden\n",
       "id": "56597363378754560",
       "image": null,
       "ownerUserId": null,

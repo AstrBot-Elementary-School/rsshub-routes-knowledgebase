@@ -118,7 +118,7 @@
     {
       "description": "米游社-原神-同人榜-插画榜-日榜 - Powered by RSSHub",
       "errorAt": "2025-12-24T13:26:51.180Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n[GET] \"https://bbs-api.miyoushe.com/post/wapi/getImagePostList?gids=2&forum_id=29&cate_id=4&type=1&page_size=20&last_id=\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 124.193.244.22:443, 124.193.244.23:443, 124.193.244.24:443, 124.193.244.25:443, 124.193.244.26:443, 124.193.244.27:443, 124.193.244.20:443, 124.193.244.21:443, timeout: 10000ms))\n",
+      "errorMessage": "[GET] \"https://bbs-api.miyoushe.com/post/wapi/getImagePostList?gids=2&forum_id=29&cate_id=4&type=1&page_size=20&last_id=\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 117.180.231.39:443, 117.180.231.38:443, 117.180.231.44:443, 117.180.231.50:443, 117.180.231.49:443, 117.180.231.37:443, 117.180.231.43:443, 117.180.231.40:443, timeout: 10000ms))\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "41476070206969862",
       "image": null,
       "ownerUserId": null,
@@ -129,8 +129,8 @@
     },
     {
       "description": "米游社-崩坏：星穹铁道-同人榜-日榜 - Powered by RSSHub",
-      "errorAt": "2026-07-27T21:25:58.530Z",
-      "errorMessage": "[GET] \"https://bbs-api.miyoushe.com/post/wapi/getImagePostList?gids=6&forum_id=56&cate_id=0&type=1&page_size=20&last_id=\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 103.78.127.140:443, 103.78.127.144:443, 103.78.127.145:443, 103.78.127.146:443, 103.78.127.141:443, 103.78.127.143:443, 103.78.127.142:443, 103.78.127.206:443, timeout: 10000ms))\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "74617383214838784",
       "image": null,
       "ownerUserId": null,

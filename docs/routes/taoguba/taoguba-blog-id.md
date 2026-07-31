@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 717,
+  "heat": 712,
   "location": "blog.ts",
   "maintainers": [
     "nczitzk"
@@ -78,7 +78,7 @@ _None_
     {
       "description": "淘股吧幽兰行天下的博客,幽兰行天下为所有投资者提供股票、证券、金融、港股、行情、基金、实盘、期货等极具价值的实用参考信息。欢迎访问幽兰行天下淘股吧博客! - Powered by RSSHub",
       "errorAt": "2026-06-24T17:27:22.482Z",
-      "errorMessage": "[GET] \"https://www.tgb.cn//a/2tf5ioVmhxQ\": 404 Not Found\n[GET] \"https://www.tgb.cn//a/2tKyjN7bOIE\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://www.tgb.cn//a/2s943BjpvgC\": 404 Not Found\n[GET] \"https://www.tgb.cn//a/2tKyjN7bOIE\": 404 Not Found\n",
       "id": "69384991748864007",
       "image": "https://image.tgb.cn/img/user_icon_60.png_80wh.png",
       "ownerUserId": null,
@@ -90,7 +90,7 @@ _None_
     {
       "description": "淘股吧湖南人的博客,湖南人为所有投资者提供股票、证券、金融、港股、行情、基金、实盘、期货等极具价值的实用参考信息。欢迎访问湖南人淘股吧博客! - Powered by RSSHub",
       "errorAt": "2026-06-24T19:17:56.818Z",
-      "errorMessage": "[GET] \"https://www.tgb.cn/blog/444409\": 405 Not Allowed\n[GET] \"https://www.tgb.cn//a/2tNGSu2WSSN\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://www.tgb.cn//a/2tDNd3zOTPi\": 404 Not Found\n[GET] \"https://www.tgb.cn//a/2tPnCn1JGfJ\": 404 Not Found\n",
       "id": "69384991748864006",
       "image": "https://image.tgb.cn/img/2016/02/02/bfi12304d7t6.jpg_80wh.png",
       "ownerUserId": null,

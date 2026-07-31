@@ -116,6 +116,18 @@
   },
   "topFeeds": [
     {
+      "description": "杭州电子科技大学自动化学院 - 学生工作 - Powered by RSSHub",
+      "errorAt": "2025-06-17T09:37:23.810Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "id": "98947982682335232",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://auto.hdu.edu.cn/3726/list.htm",
+      "title": "杭州电子科技大学自动化学院 - 学生工作",
+      "type": "feed",
+      "url": "rsshub://hdu/auto/student"
+    },
+    {
       "description": "杭州电子科技大学自动化学院 - 通知公告 - Powered by RSSHub",
       "errorAt": "2025-06-17T10:13:19.934Z",
       "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
@@ -126,18 +138,6 @@
       "title": "杭州电子科技大学自动化学院 - 通知公告",
       "type": "feed",
       "url": "rsshub://hdu/auto"
-    },
-    {
-      "description": "杭州电子科技大学自动化学院 - 本科教学 - Powered by RSSHub",
-      "errorAt": "2025-06-17T09:23:02.999Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
-      "id": "98948106785051648",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://auto.hdu.edu.cn/3745/list.htm",
-      "title": "杭州电子科技大学自动化学院 - 本科教学",
-      "type": "feed",
-      "url": "rsshub://hdu/auto/undergraduate"
     }
   ]
 }

@@ -88,16 +88,16 @@ _None_
       "url": "rsshub://luma/langchain"
     },
     {
-      "description": "Comunidad de Innovación LATAM - Powered by RSSHub",
+      "description": "Deep Tech Week - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "265966889769333760",
+      "id": "265966907590378496",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://lu.ma/comunidadinnovacion",
-      "title": "Comunidad de Innovación LATAM",
+      "siteUrl": "https://lu.ma/deep-tech-week",
+      "title": "Deep Tech Week",
       "type": "feed",
-      "url": "rsshub://luma/comunidadinnovacion"
+      "url": "rsshub://luma/deep-tech-week"
     }
   ],
   "url": "lu.ma"

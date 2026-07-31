@@ -79,8 +79,8 @@
   "topFeeds": [
     {
       "description": "观学院 - 精选 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-29T21:54:44.427Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "83419287598017536",
       "image": null,
       "ownerUserId": null,

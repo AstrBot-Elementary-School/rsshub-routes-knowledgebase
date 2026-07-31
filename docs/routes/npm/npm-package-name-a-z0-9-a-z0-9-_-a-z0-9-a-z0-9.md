@@ -57,18 +57,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "@antfu/eslint-config - npm - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "175925709458059264",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.npmjs.com/package/@antfu/eslint-config",
-      "title": "@antfu/eslint-config - npm",
-      "type": "feed",
-      "url": "rsshub://npm/package/@antfu/eslint-config"
-    },
-    {
       "description": "vue - npm - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -79,6 +67,18 @@ _None_
       "title": "vue - npm",
       "type": "feed",
       "url": "rsshub://npm/package/vue"
+    },
+    {
+      "description": "@vue/language-server - npm - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "175923362558744576",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.npmjs.com/package/@vue/language-server",
+      "title": "@vue/language-server - npm",
+      "type": "feed",
+      "url": "rsshub://npm/package/@vue/language-server"
     }
   ]
 }

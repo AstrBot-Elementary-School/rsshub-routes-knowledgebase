@@ -219,15 +219,15 @@
     },
     {
       "description": "这里有来自 TiDB 社区用户分享的管理与运维、实践案例、架构选型、原理解读、应用开发、社区动态等一系列技术文章，也期待你的分享~ - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "185620323735260160",
+      "errorAt": "2026-02-11T18:16:37.716Z",
+      "errorMessage": "[GET] \"https://tidb.net/blog/c/architecture-selection\": <no response> fetch failed\n",
+      "id": "190044636715360256",
       "image": "https://img1.tidb.net/favicons/android-chrome-512x512.png",
       "ownerUserId": null,
-      "siteUrl": "https://tidb.net/blog",
-      "title": "博客 - 首页 | TiDB 社区",
+      "siteUrl": "https://tidb.net/blog/c/architecture-selection",
+      "title": "博客 - 架构选型 | TiDB 社区",
       "type": "feed",
-      "url": "rsshub://tidb/blog/c"
+      "url": "rsshub://tidb/blog/c/architecture-selection"
     }
   ],
   "url": "tidb.net",

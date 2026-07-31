@@ -95,16 +95,16 @@ _None_
       "url": "rsshub://github/contributors/yang991178/fluent-reader"
     },
     {
-      "description": "New contributors for aigem/videos - Powered by RSSHub",
+      "description": "New contributors for infiniflow/ragflow - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "145641760615368704",
+      "id": "84430164607162368",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/aigem/videos/graphs/contributors",
-      "title": "aigem/videos Contributors",
+      "siteUrl": "https://github.com/infiniflow/ragflow/graphs/contributors",
+      "title": "infiniflow/ragflow Contributors",
       "type": "feed",
-      "url": "rsshub://github/contributors/aigem/videos"
+      "url": "rsshub://github/contributors/infiniflow/ragflow"
     }
   ]
 }

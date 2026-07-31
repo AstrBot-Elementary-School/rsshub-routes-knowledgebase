@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 14,
+  "heat": 13,
   "location": "tag.ts",
   "maintainers": [
     "TonyRL"
@@ -76,8 +76,8 @@ _None_
   "topFeeds": [
     {
       "description": "#china - Fansly - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-30T03:11:32.264Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "79121801531701248",
       "image": "https://fansly.com/assets/images/icons/apple-touch-icon.png",
       "ownerUserId": null,

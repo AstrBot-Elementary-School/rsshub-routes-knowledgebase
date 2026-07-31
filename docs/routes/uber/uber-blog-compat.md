@@ -75,7 +75,7 @@ _None_
     {
       "description": "The technology behind Uber Engineering - Powered by RSSHub",
       "errorAt": "2026-04-01T00:07:14.390Z",
-      "errorMessage": "[GET] \"https://www.uber.com/en-HK/blog/engineering/rss/\": 404 Not Found\n502 \n[GET] \"https://www.uber.com/en-HK/blog/engineering/rss/\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://www.uber.com/en-HK/blog/engineering/rss/\": 404 Not Found\n[GET] \"https://www.uber.com/en-HK/blog/engineering/rss/\": 404 Not Found\n",
       "id": "56764323854292992",
       "image": null,
       "ownerUserId": null,

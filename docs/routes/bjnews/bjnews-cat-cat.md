@@ -74,8 +74,8 @@ _None_
     },
     {
       "description": "新京报 - 分类 - 文化 - Powered by RSSHub",
-      "errorAt": "2026-07-28T16:37:45.258Z",
-      "errorMessage": "[GET] \"https://www.bjnews.com.cn/culture\": <no response> fetch failed (Connect Timeout Error (attempted address: www.bjnews.com.cn:443, timeout: 10000ms))\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "84161318721934339",
       "image": null,
       "ownerUserId": null,

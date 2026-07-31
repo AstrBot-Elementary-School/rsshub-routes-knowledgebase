@@ -60,7 +60,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 314,
+  "heat": 313,
   "location": "focus.ts",
   "maintainers": [
     "CH563"
@@ -89,8 +89,8 @@
   "topFeeds": [
     {
       "description": "太平洋科技-全部 - Powered by RSSHub",
-      "errorAt": "2026-07-26T07:46:29.915Z",
-      "errorMessage": "[GET] \"https:\": <no response> Failed to parse URL from https: (Invalid URL)\n[GET] \"https:\": <no response> Failed to parse URL from https:\n[GET] \"https:\": <no response> Failed to parse URL from https: (Invalid URL)\n",
+      "errorAt": "2026-07-26T20:34:30.471Z",
+      "errorMessage": "[GET] \"https:\": <no response> Failed to parse URL from https: (Invalid URL)\n[GET] \"https:\": <no response> Failed to parse URL from https:\nFailed to fetch\n",
       "id": "84175249418008576",
       "image": null,
       "ownerUserId": null,

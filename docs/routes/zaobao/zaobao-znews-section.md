@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2085,
+  "heat": 2087,
   "location": "znews.ts",
   "maintainers": [
     "shunf4"
@@ -72,7 +72,7 @@ _None_
       "errorAt": null,
       "errorMessage": null,
       "id": "41511702474276898",
-      "image": "https://rsstt-img-relay-8ee.pages.dev/https://www.zaobao.com.sg/favicon.ico",
+      "image": "https://www.zaobao.com.sg/favicon.ico",
       "ownerUserId": null,
       "siteUrl": "https://www.zaobao.com/news/china",
       "title": "《联合早报》-中国-新闻",
@@ -81,8 +81,8 @@ _None_
     },
     {
       "description": "新加坡、中国、亚洲和国际的即时、评论、商业、体育、生活、科技与多媒体新闻，尽在联合早报。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-29T23:56:10.259Z",
+      "errorMessage": "Unexpected non-whitespace character after JSON at position 870 (line 1 column 871)\nUnexpected non-whitespace character after JSON at position 870 (line 1 column 871)\n530 \nAuthentication failed. Access denied.\n/zaobao/znews/world\nUnexpected non-whitespace character after JSON at position 870 (line 1 column 871)\nUnexpected non-whitespace character after JSON at position 870 (line 1 column 871)\n",
       "id": "41511702474276899",
       "image": "https://rsstt-img-relay-8ee.pages.dev/https://www.zaobao.com.sg/favicon.ico",
       "ownerUserId": null,

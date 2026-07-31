@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 0,
+  "heat": 11,
   "location": "index.ts",
   "maintainers": [
     "nczitzk"
@@ -68,7 +68,20 @@ _None_
       ]
     }
   ],
-  "topFeeds": [],
+  "topFeeds": [
+    {
+      "description": "即時 ｜ 公視新聞網 PNN - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "67490527781761030",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://news.pts.org.tw/dailynews",
+      "title": "即時 ｜ 公視新聞網 PNN",
+      "type": "feed",
+      "url": "rsshub://pts/dailynews"
+    }
+  ],
   "url": "news.pts.org.tw/dailynews"
 }
 ```

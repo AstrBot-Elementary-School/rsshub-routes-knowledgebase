@@ -39,7 +39,7 @@ _None_
     "finance"
   ],
   "example": "/aicaijing/latest",
-  "heat": 3,
+  "heat": 4,
   "location": "index.tsx",
   "maintainers": [
     "nczitzk"

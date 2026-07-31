@@ -69,7 +69,7 @@ _None_
     {
       "description": "通知公告-西安财经大学 教务处（招生办公室） - Powered by RSSHub",
       "errorAt": "2025-06-03T15:17:09.543Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "[GET] \"http://jiaowu.xaufe.edu.cn/index/tzgg.htm\": <no response> fetch failed (other side closed)\n",
       "id": "88758023569371137",
       "image": null,
       "ownerUserId": null,

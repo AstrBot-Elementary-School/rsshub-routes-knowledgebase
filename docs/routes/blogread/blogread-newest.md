@@ -60,7 +60,7 @@ _None_
     {
       "description": "技术头条 - Powered by RSSHub",
       "errorAt": "2026-01-13T07:18:16.148Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "[GET] \"https://blogread.cn/news/newest.php\": <no response> fetch failed\n[GET] \"https://blogread.cn/news/newest.php\": <no response> fetch failed (certificate has expired)\n",
       "id": "56599674652552192",
       "image": null,
       "ownerUserId": null,

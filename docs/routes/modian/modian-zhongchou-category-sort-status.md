@@ -106,8 +106,8 @@ _None_
     },
     {
       "description": "桌游 - 众筹中 - 最新上线 - 摩点众筹 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-30T04:33:17.230Z",
+      "errorMessage": "[GET] \"https://zhongchou.modian.com/tablegames/top_time/going\": 522 Connect origin timed out\n",
       "id": "82230096897464320",
       "image": null,
       "ownerUserId": null,

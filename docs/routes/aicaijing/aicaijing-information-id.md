@@ -57,7 +57,7 @@ _None_
   ],
   "description": "| 栏目 id | 栏目        |\n| ------- | ----------- |\n| 14      | 热点 - 最新 |\n| 5       | 热点 - 科技 |\n| 9       | 热点 - 消费 |\n| 7       | 热点 - 出行 |\n| 13      | 热点 - 文娱 |\n| 10      | 热点 - 教育 |\n| 25      | 热点 - 地产 |\n| 11      | 热点 - 更多 |\n| 28      | 深度 - 出行 |\n| 29      | 深度 - 科技 |\n| 31      | 深度 - 消费 |\n| 33      | 深度 - 教育 |\n| 34      | 深度 - 更多 |\n| 8       | 深度 - 地产 |\n| 6       | 深度 - 文娱 |",
   "example": "/aicaijing/information/14",
-  "heat": 0,
+  "heat": 4,
   "location": "information.ts",
   "maintainers": [
     "nczitzk"
@@ -76,6 +76,19 @@ _None_
       "target": "/information/:id?"
     }
   ],
-  "topFeeds": []
+  "topFeeds": [
+    {
+      "description": null,
+      "errorAt": "2025-05-21T04:38:12.931Z",
+      "errorMessage": "Cannot read properties of undefined (reading 'items')\n",
+      "id": "147826498738685974",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": null,
+      "title": "Importing",
+      "type": "feed",
+      "url": "rsshub://aicaijing/information/14"
+    }
+  ]
 }
 ```

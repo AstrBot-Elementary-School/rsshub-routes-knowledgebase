@@ -54,7 +54,7 @@ _None_
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 12,
+  "heat": 13,
   "location": "kuaixun.ts",
   "maintainers": [
     "nczitzk"

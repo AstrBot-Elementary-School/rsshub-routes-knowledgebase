@@ -232,7 +232,7 @@
     {
       "description": "通知 由于可以抗拒的非技术原因，网站已迁至 https://river.to/occasus 几天前，我们已经给你发送相关邮件。刚才，我们才收到邮件系统反馈：由于群发，频次异常，导致 Gmail、Tutanota 等邮箱大面积拒收，并且，将在一段时间内持续拒收。 鉴于此，我们在此再次通知。 随着地址变更，原有邮箱也将不适用。新旧问题请改用 occasus@river.to 联系我们。 对于造成的任何麻烦和不便，我们表示……新网站就是我们的表示。 祝你一切都好。 - Powered by RSSHub",
       "errorAt": "2025-09-26T07:13:00.884Z",
-      "errorMessage": "502 \n[GET] \"https://river.to/occasus/:filter{.+}\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://river.to/occasus/:filter{.+}\": 404 Not Found\n",
       "id": "68495421901898752",
       "image": "https://the.bi/wp-content/uploads/site_logo.png",
       "ownerUserId": null,
@@ -246,7 +246,7 @@
       "errorAt": null,
       "errorMessage": null,
       "id": "43417089717578752",
-      "image": "https://mississippi.river.to/dight/07/zYkxFTAzGv0442.jpg",
+      "image": "https://mississippi.river.to/dight/07/zYkxFTAzGv0314.jpg",
       "ownerUserId": null,
       "siteUrl": "https://river.to/occasus/",
       "title": "江河日下 – 日下无有新事 - 江河日下",

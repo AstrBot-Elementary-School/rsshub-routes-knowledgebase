@@ -64,7 +64,7 @@ If you subscribe to [Wildlife Published](https://1x.com/gallery/wildlife/publish
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 43498,
+  "heat": 43480,
   "location": "index.tsx",
   "maintainers": [
     "nczitzk"
@@ -89,8 +89,8 @@ If you subscribe to [Wildlife Published](https://1x.com/gallery/wildlife/publish
   "topFeeds": [
     {
       "description": "1x.com is the world's biggest curated photo gallery online. Each photo is selected by professional curators. 1x.com • In Pursuit of the Sublime - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-30T07:12:00.392Z",
+      "errorMessage": "[GET] \"https://1x.com/gallery/latest/awarded\": 522 <none>\n[GET] \"https://1x.com/gallery/latest/awarded\": 522 <none>\n[GET] \"https://1x.com/backend/lm2.php?style=normal&mode=latest:all:awarded\": 502 \n[GET] \"https://1x.com/gallery/latest/awarded\": 502 Bad Gateway\n[GET] \"https://1x.com/gallery/latest/awarded\": 502 Bad Gateway\n[GET] \"https://1x.com/gallery/latest/awarded\": 502 Bad Gateway\n[GET] \"https://1x.com/gallery/latest/awarded\": 502 Bad Gateway\nAuthentication failed. Access denied.\n/1x\n[GET] \"https://1x.com/gallery/latest/awarded\": 502 Bad Gateway\n[GET] \"https://1x.com/gallery/latest/awarded\": 502 Bad Gateway\n[GET] \"https://1x.com/gallery/latest/awarded\": 502 Bad Gateway\n[GET] \"https://1x.com/gallery/latest/awarded\": 502 Bad Gateway\n[GET] \"https://1x.com/gallery/latest/awarded\": 502 Bad Gateway\n[GET] \"https://1x.com/gallery/latest/awarded\": 502 Bad Gateway\n[GET] \"https://1x.com/gallery/latest/awarded\": 502 Bad Gateway\nAuthentication failed. Access denied.\n/1x\nFailed to fetch\n[GET] \"https://1x.com/gallery/latest/awarded\": 502 Bad Gateway\n[GET] \"https://1x.com/gallery/latest/awarded\": 502 Bad Gateway\n[GET] \"https://1x.com/gallery/latest/awarded\": 502 \n[GET] \"https://1x.com/gallery/latest/awarded\": 502 Bad Gateway\n[GET] \"https://1x.com/gallery/latest/awarded\": 502 Bad Gateway\n[GET] \"https://1x.com/gallery/latest/awarded\": 502 Bad Gateway\n[GET] \"https://1x.com/gallery/latest/awarded\": 502 Bad Gateway\n[GET] \"https://1x.com/gallery/latest/awarded\": 502 Bad Gateway\n[GET] \"https://1x.com/gallery/latest/awarded\": 502 Bad Gateway\n[GET] \"https://1x.com/gallery/latest/awarded\": 502 Bad Gateway\n[GET] \"https://1x.com/gallery/latest/awarded\": 502 Bad Gateway\n[GET] \"https://1x.com/gallery/latest/awarded\": 502 Bad Gateway\n[GET] \"https://1x.com/gallery/latest/awarded\": 502 Bad Gateway\n[GET] \"https://1x.com/gallery/latest/awarded\": 502 Bad Gateway\n[GET] \"https://1x.com/gallery/latest/awarded\": 502 Bad Gateway\n[GET] \"https://1x.com/gallery/latest/awarded\": 502 Bad Gateway\n[GET] \"https://1x.com/gallery/latest/awarded\": 502 Bad Gateway\n[GET] \"https://1x.com/gallery/latest/awarded\": 502 Bad Gateway\n[GET] \"https://1x.com/gallery/latest/awarded\": 502 Bad Gateway\n[GET] \"https://1x.com/gallery/latest/awarded\": 502 Bad Gateway\n",
       "id": "59581478522199040",
       "image": "https://1x.com/assets/img/1x-logo-1.png",
       "ownerUserId": null,

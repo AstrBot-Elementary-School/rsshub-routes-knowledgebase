@@ -36,7 +36,7 @@ _None_
     "traditional-media"
   ],
   "example": "/people",
-  "heat": 348,
+  "heat": 349,
   "location": "index.ts",
   "maintainers": [
     "nczitzk",
@@ -62,8 +62,8 @@ _None_
     },
     {
       "description": "首页头条--人民网 - Powered by RSSHub",
-      "errorAt": "2026-07-28T21:35:16.265Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "59474368564173825",
       "image": null,
       "ownerUserId": null,

@@ -40,7 +40,7 @@ _None_
     "popular"
   ],
   "example": "/gov/zhengce/zuixin",
-  "heat": 2178,
+  "heat": 2177,
   "location": "zuixin.ts",
   "maintainers": [
     "SettingDust",

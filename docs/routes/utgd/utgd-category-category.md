@@ -93,8 +93,8 @@
     },
     {
       "description": "来自本站作者们的方法型文章。 - Powered by RSSHub",
-      "errorAt": "2026-07-28T21:48:38.512Z",
-      "errorMessage": "[GET] \"https://api.utgd.net/api/v2/category/slug/method/\": <no response> fetch failed (Connect Timeout Error (attempted address: api.utgd.net:443, timeout: 10000ms))\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "84874523594988544",
       "image": "https://cdn.utgd.net",
       "ownerUserId": null,

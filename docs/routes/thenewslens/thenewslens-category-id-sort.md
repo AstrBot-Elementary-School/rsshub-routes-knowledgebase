@@ -41,7 +41,7 @@ _None_
     "new-media"
   ],
   "example": "/thenewslens/category/politics",
-  "heat": 0,
+  "heat": 1,
   "location": "category.ts",
   "maintainers": [
     "nczitzk"
@@ -61,6 +61,19 @@ _None_
       "target": "/category/:id/:sort?"
     }
   ],
-  "topFeeds": []
+  "topFeeds": [
+    {
+      "description": null,
+      "errorAt": "2025-08-11T10:10:21.927Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "id": "177651896292778021",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": null,
+      "title": "Importing",
+      "type": "feed",
+      "url": "rsshub://thenewslens/category/music"
+    }
+  ]
 }
 ```

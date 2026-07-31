@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "天下雜誌每日精選財經、國際、管理、教育、經濟學人、評論、時尚，深入解讀世界脈動。 - Powered by RSSHub",
-      "errorAt": "2026-07-29T06:03:58.928Z",
-      "errorMessage": "route.abort: route.continue: route.abort: route.abort: route.continue: route.continue: page.evaluate: route.continue: route.continue: route.abort: route.continue: route.continue: route.continue: route.continue: route.continue: route.continue: route.continue: route.continue: route.continue: route.abort: route.abort: route.abort: route.abort: route.abort: route.abort: route.abort: route.continue: route.abort: route.abort: route.abort: route.abort: route.abort: route.abort: route.abort: route.abort: route.continue: route.abort: page.evaluate: route.continue: route.continue: route.abort: route.abort: route.abort: route.continue: route.abort: route.abort: route.abort: route.abort: route.abort: page.evaluate: page.goto: page.goto: page.goto: page.goto: page.goto: page.goto: page.goto: page.goto: Target page, context or browser has been closed\n",
+      "errorAt": "2026-07-27T17:18:23.274Z",
+      "errorMessage": "page.goto: page.goto: page.goto: page.goto: page.goto: page.goto: page.goto: page.goto: page.goto: page.goto: page.goto: page.goto: page.goto: page.goto: page.goto: page.goto: page.goto: page.goto: page.goto: page.goto: page.goto: page.goto: Target page, context or browser has been closed\n",
       "id": "60230426333120512",
       "image": "https://www.cw.com.tw/assets_new/img/fbshare.jpg",
       "ownerUserId": null,

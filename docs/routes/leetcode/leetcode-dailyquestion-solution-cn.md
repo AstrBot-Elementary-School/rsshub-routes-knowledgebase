@@ -38,7 +38,7 @@ _None_
     "programming"
   ],
   "example": "/leetcode/dailyquestion/solution/cn",
-  "heat": 107,
+  "heat": 108,
   "location": "dailyquestion-solution-cn.ts",
   "maintainers": [
     "woaidouya123"
@@ -60,7 +60,7 @@ _None_
       "id": "56597410818564096",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://leetcode.cn/problems/smallest-palindromic-rearrangement-ii/",
+      "siteUrl": "https://leetcode.cn/problems/minimum-number-of-pushes-to-type-word-i/",
       "title": "LeetCode 每日一题题解",
       "type": "feed",
       "url": "rsshub://leetcode/dailyquestion/solution/cn"
