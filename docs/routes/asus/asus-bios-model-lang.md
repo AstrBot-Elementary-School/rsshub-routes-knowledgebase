@@ -104,16 +104,16 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "ROG Strix OLED XG27UCDMG BIOS - Powered by RSSHub",
+      "description": "TUF GAMING B560-PLUS WIFI BIOS - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "213294544976304128",
-      "image": "https://dlcdnwebimgs.asus.com/gain/A1B38038-3616-4BD6-99CD-42025598FECF/w185",
+      "id": "73279691433742336",
+      "image": "https://dlcdnwebimgs.asus.com/gain/93a33099-7d95-44b2-b43f-ff3fc22b16fa/w185",
       "ownerUserId": null,
-      "siteUrl": "https://rog.asus.com/monitors/27-to-31-5-inches/rog-strix-oled-xg27ucdmg/",
-      "title": "ROG Strix OLED XG27UCDMG BIOS",
+      "siteUrl": "https://www.asus.com.cn/Motherboards-Components/Motherboards/TUF-Gaming/TUF-GAMING-B560-PLUS-WIFI/",
+      "title": "TUF GAMING B560-PLUS WIFI BIOS",
       "type": "feed",
-      "url": "rsshub://asus/bios/XG27UCDMG"
+      "url": "rsshub://asus/bios/rog-strix-b560-i-gaming-wifi-model/zh"
     },
     {
       "description": "TUF GAMING B550M-PLUS WIFI II BIOS - Powered by RSSHub",

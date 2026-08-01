@@ -103,28 +103,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Proxy https://api.github.com/repos/zed-industries/zed/releases - Powered by RSSHub",
+      "description": "Proxy https://api.github.com/repos/chainreactors/gogo/releases - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "185694005069753344",
+      "id": "185695668595820544",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://api.github.com/repos/zed-industries/zed/releases",
-      "title": "zed releases",
+      "siteUrl": "https://api.github.com/repos/chainreactors/gogo/releases",
+      "title": "gogo releases",
       "type": "feed",
-      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fapi.github.com%2Frepos%2Fzed-industries%2Fzed%2Freleases/title=zed%20releases&itemTitle=tag_name&itemLink=html_url&itemDesc=body"
+      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fapi.github.com%2Frepos%2Fchainreactors%2Fgogo%2Freleases/title=gogo%20releases&itemTitle=tag_name&itemLink=html_url&itemDesc=body"
     },
     {
-      "description": "Proxy https://api.github.com/repos/dbeaver/dbeaver/releases - Powered by RSSHub",
+      "description": "Proxy https://api.github.com/repos/nodauf/GoMapEnum/releases - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "185694635969967104",
+      "id": "185695848672577536",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://api.github.com/repos/dbeaver/dbeaver/releases",
-      "title": "dbeaver releases",
+      "siteUrl": "https://api.github.com/repos/nodauf/GoMapEnum/releases",
+      "title": "GoMapEnum releases",
       "type": "feed",
-      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fapi.github.com%2Frepos%2Fdbeaver%2Fdbeaver%2Freleases/title=dbeaver%20releases&itemTitle=tag_name&itemLink=html_url&itemDesc=body"
+      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fapi.github.com%2Frepos%2Fnodauf%2FGoMapEnum%2Freleases/title=GoMapEnum%20releases&itemTitle=tag_name&itemLink=html_url&itemDesc=body"
     }
   ]
 }

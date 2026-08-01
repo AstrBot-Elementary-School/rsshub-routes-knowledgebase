@@ -74,7 +74,7 @@ _None_
     {
       "description": "色花堂 - 高清中文字幕 - Powered by RSSHub",
       "errorAt": "2026-07-29T17:02:12.139Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "[GET] \"https://www.sehuatang.net/\": 403 Forbidden\n",
       "id": "65327819580054528",
       "image": null,
       "ownerUserId": null,

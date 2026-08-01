@@ -76,7 +76,7 @@ _None_
     {
       "description": "当季新品推荐 - Powered by RSSHub",
       "errorAt": "2025-09-15T03:51:42.607Z",
-      "errorMessage": "502 \nFailed to fetch\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "66834743977124868",
       "image": null,
       "ownerUserId": null,

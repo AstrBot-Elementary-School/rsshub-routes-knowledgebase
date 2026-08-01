@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 246,
+  "heat": 247,
   "location": "news.ts",
   "maintainers": [
     "goestav",

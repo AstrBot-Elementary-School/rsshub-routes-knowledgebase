@@ -75,7 +75,7 @@ _None_
     {
       "description": "undefined - 研报 - Powered by RSSHub",
       "errorAt": "2026-05-12T16:51:00.404Z",
-      "errorMessage": "[GET] \"https://www.jinse.com/blockchain/3736200.html\": <no response> fetch failed (Client network socket disconnected before secure TLS connection was established)\n",
+      "errorMessage": "[GET] \"https://www.jinse.com/blockchain/3736387.html\": <no response> fetch failed (Hostname/IP does not match certificate's altnames: Host: www.jinse.com. is not in the cert's altnames: DNS:*.jinse.com.cn, DNS:jinse.com.cn)\n",
       "id": "67468126492383233",
       "image": "https://staticn.jinse.cn/w/img/b6900fe.png",
       "ownerUserId": null,

@@ -79,16 +79,16 @@ _None_
       "url": "rsshub://zju/career/1"
     },
     {
-      "description": "浙大就业服务平台 -- 告示通告 - Powered by RSSHub",
+      "description": "浙大就业服务平台 -- 学院动态 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "41965184796582024",
+      "id": "41965184796582025",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "http://www.career.zju.edu.cn/jyxt/jygz/new/getContent.zf?minCount=0&maxCount=10&lmjdid=739BEBB72A252B25E0538713470A6C41&sjlmid=undefined&lmtype=2&lx=2",
-      "title": "浙大就业服务平台 -- 告示通告",
+      "siteUrl": "http://www.career.zju.edu.cn/jyxt/jygz/new/getContent.zf?minCount=0&maxCount=10&lmjdid=739BEBB72A0C2B25E0538713470A6C41&sjlmid=undefined&lmtype=2&lx=2",
+      "title": "浙大就业服务平台 -- 学院动态",
       "type": "feed",
-      "url": "rsshub://zju/career/4"
+      "url": "rsshub://zju/career/3"
     }
   ]
 }

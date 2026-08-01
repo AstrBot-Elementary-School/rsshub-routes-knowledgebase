@@ -77,7 +77,7 @@ _None_
       "url": "rsshub://xueqiu/fund/019305"
     },
     {
-      "description": "基金代码 017093 <br> 今日净值(2026-07-28) ¥2.6552 <br> 日跌跌 -1.0546% - Powered by RSSHub",
+      "description": "基金代码 017093 <br> 今日净值(2026-07-29) ¥2.5997 <br> 日跌跌 -2.0902% - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "64899487882088448",

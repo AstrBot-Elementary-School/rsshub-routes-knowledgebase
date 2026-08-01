@@ -11,8 +11,8 @@
 ## Routes
 
 ### 专辑
-- Route ID: `ximalaya:/ximalaya/:type/:id/:all/:shownote?`
-- Route Path: `/ximalaya/:type/:id/:all/:shownote?`
+- Route ID: `ximalaya:/ximalaya/:type/:id/:all?/:shownote?`
+- Route Path: `/ximalaya/:type/:id/:all?/:shownote?`
 - File: `docs/routes/ximalaya/ximalaya-type-id-all-shownote.md`
 - File Name: `ximalaya-type-id-all-shownote.md`
 - Categories: `multimedia`

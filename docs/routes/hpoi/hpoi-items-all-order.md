@@ -105,8 +105,8 @@ _None_
   "topFeeds": [
     {
       "description": "Hpoi 手办维基 - 全部周边 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-31T07:17:46.861Z",
+      "errorMessage": "[GET] \"https://www.hpoi.net/hobby/all?order=add&r18=-1\": <no response> fetch failed (connect ECONNREFUSED 8.149.141.155:443)\nFailed to fetch\n",
       "id": "58853176014049280",
       "image": null,
       "ownerUserId": null,

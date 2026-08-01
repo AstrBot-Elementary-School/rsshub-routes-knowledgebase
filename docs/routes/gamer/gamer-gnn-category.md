@@ -150,8 +150,8 @@ _None_
   "topFeeds": [
     {
       "description": "巴哈姆特-GNN新聞 - Powered by RSSHub",
-      "errorAt": "2026-07-30T06:31:01.392Z",
-      "errorMessage": "[GET] \"https://gnn.gamer.com.tw/\": 403 Forbidden\n[GET] \"https://gnn.gamer.com.tw/detail.php?sn=309050\": 429 Too Many Requests\n[GET] \"https://gnn.gamer.com.tw/\": 403 Forbidden\n[GET] \"https://gnn.gamer.com.tw/detail.php?sn=309050\": 429 Too Many Requests\n[GET] \"https://gnn.gamer.com.tw/detail.php?sn=309065\": 429 Too Many Requests\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "61373650705521664",
       "image": null,
       "ownerUserId": null,

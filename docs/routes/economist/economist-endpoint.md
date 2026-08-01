@@ -75,7 +75,7 @@ _None_
     {
       "description": "The most recent blogs and online articles from The Economist - Powered by RSSHub",
       "errorAt": "2025-09-05T18:15:19.885Z",
-      "errorMessage": "[GET] \"https://www.economist.com/business/2026/07/29/selling-stakes-in-the-beautiful-game-what-could-go-wrong\": 403 Forbidden\n[GET] \"https://www.economist.com/podcasts/2026/07/29/openais-alarming-escape\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.economist.com/graphic-detail/2026/07/30/our-estimated-death-toll-for-this-years-wildfires\": 403 Forbidden\n[GET] \"https://www.economist.com/graphic-detail/2026/07/30/our-estimated-death-toll-for-this-years-wildfires\": 403 Forbidden\n",
       "id": "54859243036899328",
       "image": null,
       "ownerUserId": null,

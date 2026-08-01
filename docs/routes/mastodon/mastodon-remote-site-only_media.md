@@ -92,16 +92,16 @@ _None_
       "url": "rsshub://mastodon/remote/pawoo.net/true"
     },
     {
-      "description": "Federated Public Timeline on pawoo.net - Powered by RSSHub",
+      "description": "Federated Public Timeline on baraag.net - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "83530831395657728",
+      "id": "111448345272221696",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://pawoo.net/",
-      "title": "Federated Public Timeline on pawoo.net",
+      "siteUrl": "https://baraag.net/",
+      "title": "Federated Public Timeline on baraag.net",
       "type": "feed",
-      "url": "rsshub://mastodon/remote/pawoo.net/false"
+      "url": "rsshub://mastodon/remote/baraag.net/false"
     }
   ],
   "view": 1

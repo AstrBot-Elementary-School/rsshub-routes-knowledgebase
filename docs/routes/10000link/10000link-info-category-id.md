@@ -159,14 +159,14 @@
   },
   "topFeeds": [
     {
-      "description": "明确不兜底！贵州某地一纸文件刷屏：国企举债借钱自己还，政府不承担偿债责任 - Powered by RSSHub",
+      "description": "国资委最新要求：将合规嵌入业务，对虚假贸易、违规支付佣金等开展源头治理 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "138893356640117760",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://info.10000link.com/newslists.aspx?chid=My01",
-      "title": "10000万联网 - 明确不兜底！贵州某地一纸文件刷屏：国企举债借钱自己还，政府不承担偿债责任",
+      "title": "10000万联网 - 国资委最新要求：将合规嵌入业务，对虚假贸易、违规支付佣金等开展源头治理",
       "type": "feed",
       "url": "rsshub://10000link/info/newslists/My01"
     },

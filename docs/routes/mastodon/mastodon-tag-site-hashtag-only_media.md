@@ -81,8 +81,8 @@ _None_
     },
     {
       "description": "#长毛象安利大会 Media Timeline on gochisou.photo - Powered by RSSHub",
-      "errorAt": "2026-07-30T06:53:00.075Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "173588946787373056",
       "image": null,
       "ownerUserId": null,

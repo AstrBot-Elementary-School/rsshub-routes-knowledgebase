@@ -6890,6 +6890,12 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `2`
 - Index File: `index/ollama.md`
 
+## Omega Scans
+- Namespace: `omegascans`
+- Aliases: `omega scans, omegascans, omegascans.org`
+- Route Count: `1`
+- Index File: `index/omegascans.md`
+
 ## 东网
 - Namespace: `oncc`
 - Aliases: `hk, hk.on.cc, oncc, 东网`

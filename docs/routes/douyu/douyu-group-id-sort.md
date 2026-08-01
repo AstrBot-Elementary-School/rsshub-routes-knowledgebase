@@ -98,16 +98,16 @@
       "url": "rsshub://douyu/group/534"
     },
     {
-      "description": "目黒川i的鱼吧 - Powered by RSSHub",
+      "description": "BigYa44198的鱼吧 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "191990328080228352",
+      "id": "63584364396372992",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://yuba.douyu.com/group/newself/7133482",
-      "title": "斗鱼鱼吧 - 目黒川i",
+      "siteUrl": "https://yuba.douyu.com/group/newself/1011",
+      "title": "斗鱼鱼吧 - BigYa44198",
       "type": "feed",
-      "url": "rsshub://douyu/group/7133482"
+      "url": "rsshub://douyu/group/1011"
     }
   ]
 }

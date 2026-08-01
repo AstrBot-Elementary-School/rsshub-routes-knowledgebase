@@ -65,7 +65,7 @@ _None_
     {
       "description": "豆瓣-浏览发现 - Powered by RSSHub",
       "errorAt": "2024-10-29T09:52:15.307Z",
-      "errorMessage": "[GET] \"https://www.douban.com/explore\": 403 Forbidden\n",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "53908061985105943",
       "image": null,
       "ownerUserId": null,

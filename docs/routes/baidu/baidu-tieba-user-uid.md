@@ -86,16 +86,16 @@ _None_
       "url": "rsshub://baidu/tieba/user/dengchunlai"
     },
     {
-      "description": "米利阿鲁德 的贴吧 - Powered by RSSHub",
-      "errorAt": "2026-05-26T01:17:33.906Z",
-      "errorMessage": "Authentication failed. Access denied.\n/baidu/tieba/user/%E7%B1%B3%E5%88%A9%E9%98%BF%E9%B2%81%E5%BE%B7\n[GET] \"https://tieba.baidu.com/home/main?un=米利阿鲁德\": 403 Forbidden\n",
-      "id": "86266828598569984",
+      "description": "双鱼座73 的贴吧 - Powered by RSSHub",
+      "errorAt": "2025-11-18T07:31:14.501Z",
+      "errorMessage": "[GET] \"https://tieba.baidu.com/home/main?un=18p2pmimi\": 403 Forbidden\n",
+      "id": "197374238844610560",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://tieba.baidu.com/home/main?un=%E7%B1%B3%E5%88%A9%E9%98%BF%E9%B2%81%E5%BE%B7",
-      "title": "米利阿鲁德 的贴吧",
+      "siteUrl": "https://tieba.baidu.com/home/main?un=18p2pmimi",
+      "title": "双鱼座73 的贴吧",
       "type": "feed",
-      "url": "rsshub://baidu/tieba/user/%E7%B1%B3%E5%88%A9%E9%98%BF%E9%B2%81%E5%BE%B7"
+      "url": "rsshub://baidu/tieba/user/18p2pmimi"
     }
   ]
 }

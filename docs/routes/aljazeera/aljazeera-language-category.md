@@ -62,7 +62,7 @@ _None_
   ],
   "description": "Language\n\n| Arabic | Chinese | English |\n| ------ | ------- | ------- |\n| arabic | chinese | english |\n\n::: tip\nIf you subscribe to [Al Jazeera English - Economy](https://www.aljazeera.com/economy), whose language is `english` and whose path is `economy`, you can get the route as [`/aljazeera/english/economy`](https://rsshub.app/aljazeera/english/economy)\n\nIf you subscribe to [Al Jazeera Chinese - Political](https://chinese.aljazeera.net/news/political) with language `chinese` and path `news/political`, you can get the route as [`/aljazeera/chinese/news/political`](https://rsshub.app/aljazeera/chinese/news/political)\n:::",
   "example": "/aljazeera/english/news",
-  "heat": 16,
+  "heat": 170,
   "location": "index.tsx",
   "maintainers": [
     "nczitzk"
@@ -98,6 +98,18 @@ _None_
   ],
   "topFeeds": [
     {
+      "description": "新闻 | 半岛电视台今日最新资讯 - Powered by RSSHub",
+      "errorAt": "2025-12-30T17:17:58.172Z",
+      "errorMessage": "Cannot read properties of null (reading '1')\nCannot read properties of null (reading '1')\nCannot read properties of null (reading '1')\n",
+      "id": "41572238273905695",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://chinese.aljazeera.net/news",
+      "title": "新闻 | 半岛电视台今日最新资讯",
+      "type": "feed",
+      "url": "rsshub://aljazeera/chinese/news"
+    },
+    {
       "description": "News | News | Today's latest from Al Jazeera - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -108,18 +120,6 @@ _None_
       "title": "News | News | Today's latest from Al Jazeera",
       "type": "feed",
       "url": "rsshub://aljazeera/english/news"
-    },
-    {
-      "description": "Asia Pacific | Today's latest from Al Jazeera - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "54804360514968576",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.aljazeera.com/asia-pacific",
-      "title": "Asia Pacific | Today's latest from Al Jazeera",
-      "type": "feed",
-      "url": "rsshub://aljazeera/english/asia-pacific"
     }
   ]
 }

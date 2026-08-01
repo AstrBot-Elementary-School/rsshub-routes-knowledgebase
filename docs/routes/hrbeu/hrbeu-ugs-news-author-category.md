@@ -127,8 +127,8 @@ category 列表：
   "topFeeds": [
     {
       "description": "哈尔滨工程大学本科生院工作通知 - Powered by RSSHub",
-      "errorAt": "2026-07-29T18:10:35.454Z",
-      "errorMessage": "[GET] \"http://ugs.hrbeu.edu.cn/jwc/list.htm\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 218.7.43.28:80, 2001:da8:b807:0:202:118:176:28:80, timeout: 10000ms))\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "82712133983555608",
       "image": null,
       "ownerUserId": null,

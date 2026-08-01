@@ -340,8 +340,8 @@ If you subscribe to [Data Points](https://www.deeplearning.ai/the-batch/tag/data
   "topFeeds": [
     {
       "description": "Weekly AI news for engineers, executives, and enthusiasts. - Powered by RSSHub",
-      "errorAt": "2026-07-29T22:50:25.662Z",
-      "errorMessage": "Unexpected end of JSON input\nUnexpected end of JSON input\nUnexpected end of JSON input\n",
+      "errorAt": "2026-07-29T17:13:32.729Z",
+      "errorMessage": "Failed to fetch\nUnexpected end of JSON input\nUnexpected end of JSON input\n",
       "id": "78440096914505728",
       "image": "https://www.deeplearning.ai/site-meta.png",
       "ownerUserId": null,
@@ -352,7 +352,7 @@ If you subscribe to [Data Points](https://www.deeplearning.ai/the-batch/tag/data
     },
     {
       "description": "Personal messages to the AI community. - Powered by RSSHub",
-      "errorAt": "2026-07-30T06:43:23.776Z",
+      "errorAt": "2026-07-31T06:43:33.414Z",
       "errorMessage": "Unexpected end of JSON input\n",
       "id": "85236272491798528",
       "image": "https://www.deeplearning.ai/site-meta.png",

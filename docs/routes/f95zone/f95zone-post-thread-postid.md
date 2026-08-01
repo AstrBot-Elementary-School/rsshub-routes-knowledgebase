@@ -82,28 +82,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "[F95zone] Collection GIF Video theobrobine Collection [2026-06-24] [THEOBROBINE/theobrobine/ておぶろびん] - Powered by RSSHub",
+      "description": "[F95zone] Collection Video ViciNeko collection [2025-06-14] [ViciNeko] - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "250523835077907456",
+      "id": "242895914631755776",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://f95zone.to/threads/theobrobine-collection-2025-12-28-theobrobine-theobrobine-teoburobin.93491/#post-6520658",
-      "title": "[F95zone] Collection GIF Video theobrobine Collection [2026-06-24] [THEOBROBINE/theobrobine/ておぶろびん]",
+      "siteUrl": "https://f95zone.to/threads/vicineko-collection-2025-06-14-vicineko.84596/#post-5909830",
+      "title": "[F95zone] Collection Video ViciNeko collection [2025-06-14] [ViciNeko]",
       "type": "feed",
-      "url": "rsshub://f95zone/post/theobrobine-collection-2025-12-28-theobrobine-theobrobine-teoburobin.93491/post-6520658"
+      "url": "rsshub://f95zone/post/vicineko-collection-2025-06-14-vicineko.84596/post-5909830"
     },
     {
-      "description": "[F95zone] Collection Video Wildeer Studio Collection [2026-01-13] [WildeerStudio] - Powered by RSSHub",
-      "errorAt": "2026-07-07T21:43:05.931Z",
-      "errorMessage": "[GET] \"https://f95zone.to/threads/wildeer-studio-collection-2026-01-13-wildeerstudio.44606/#post-2953877\": 451 Unavailable For Legal Reasons\n",
-      "id": "250523893545644032",
+      "description": "[F95zone] Collection Video HydraFXX Collection [2026-05-09] [HydraFXX] - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "250523949050013696",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://f95zone.to/threads/wildeer-studio-collection-2026-01-13-wildeerstudio.44606/#post-2953877",
-      "title": "[F95zone] Collection Video Wildeer Studio Collection [2026-01-13] [WildeerStudio]",
+      "siteUrl": "https://f95zone.to/threads/hydrafxx-collection-2026-01-01-hydrafxx.25063/#post-1544334",
+      "title": "[F95zone] Collection Video HydraFXX Collection [2026-05-09] [HydraFXX]",
       "type": "feed",
-      "url": "rsshub://f95zone/post/wildeer-studio-collection-2026-01-13-wildeerstudio.44606/post-2953877"
+      "url": "rsshub://f95zone/post/hydrafxx-collection-2026-01-01-hydrafxx.25063/post-1544334"
     }
   ]
 }

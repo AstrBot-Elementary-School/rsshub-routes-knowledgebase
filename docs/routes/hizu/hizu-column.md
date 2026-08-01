@@ -101,7 +101,7 @@
     {
       "description": "热点 - 珠海网 - Powered by RSSHub",
       "errorAt": "2026-07-25T22:00:23.739Z",
-      "errorMessage": "[GET] \"https://www.hizh.cn/channels/zjyapp/columns/5dd92265e4b0bf88dd8c1175/stories.json\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 113.215.232.202:443, 113.215.232.195:443, 113.215.232.196:443, 113.215.232.197:443, 113.215.232.198:443, 113.215.232.199:443, 113.215.232.200:443, 113.215.232.201:443, timeout: 10000ms))\n",
+      "errorMessage": "[GET] \"https://pub-zhtb.hizh.cn/a/202607/31/AP6a6c0f2ee4b0d58931365767.json\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 43.248.231.31:443, 43.248.231.34:443, 43.248.231.32:443, 43.248.231.30:443, 43.248.231.35:443, 43.248.231.33:443, 43.248.231.29:443, 43.248.231.28:443, timeout: 10000ms))\n",
       "id": "76267574626993152",
       "image": null,
       "ownerUserId": null,

@@ -67,7 +67,7 @@ _None_
     {
       "description": "小Lin说 的 bilibili 所有视频 - Powered by RSSHub",
       "errorAt": "2026-07-08T13:33:11.591Z",
-      "errorMessage": "Failed to fetch\nFailed to fetch\n502 \nCannot read properties of undefined (reading 'vlist')\n",
+      "errorMessage": "Failed to fetch\nFailed to fetch\nCannot read properties of undefined (reading 'vlist')\n",
       "id": "69028952282503168",
       "image": null,
       "ownerUserId": null,

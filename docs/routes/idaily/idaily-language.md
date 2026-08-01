@@ -41,7 +41,7 @@ _None_
   ],
   "description": "| 简体中文 | 繁体中文 |\n| -------- | -------- |\n| zh-hans  | zh-hant  |",
   "example": "/idaily",
-  "heat": 576,
+  "heat": 577,
   "location": "index.tsx",
   "maintainers": [
     "zphw",

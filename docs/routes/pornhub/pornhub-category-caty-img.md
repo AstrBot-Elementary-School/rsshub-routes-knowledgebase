@@ -84,7 +84,7 @@ _None_
     {
       "description": "Pornhub - japanese - Powered by RSSHub",
       "errorAt": "2026-03-20T06:59:47.706Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'category')\nAuthentication failed. Access denied.\n/pornhub/category/japanese\n502 \nCannot read properties of undefined (reading 'category')\n",
+      "errorMessage": "Cannot read properties of undefined (reading 'category')\nAuthentication failed. Access denied.\n/pornhub/category/japanese\nCannot read properties of undefined (reading 'category')\n",
       "id": "60650857313055744",
       "image": null,
       "ownerUserId": null,

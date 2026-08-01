@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "7x24小时快讯 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-31T00:37:42.761Z",
+      "errorMessage": "[GET] \"https://vip.fx678.com/special/202607310813082466\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 125.210.225.37:443, 125.210.225.20:443, 125.210.225.33:443, 125.210.225.31:443, 125.210.225.32:443, 125.210.225.35:443, 125.210.225.36:443, 125.210.225.34:443, timeout: 10000ms))\nAuthentication failed. Access denied.\n/fx678/kx\n[GET] \"https://vip.fx678.com/special/202607310813082466\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 124.200.113.79:443, 124.200.113.72:443, 124.200.113.73:443, 124.200.113.74:443, 124.200.113.75:443, 124.200.113.76:443, 124.200.113.77:443, 124.200.113.78:443, timeout: 10000ms))\n",
       "id": "57678974871415816",
       "image": null,
       "ownerUserId": null,

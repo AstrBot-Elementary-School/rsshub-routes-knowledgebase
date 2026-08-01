@@ -81,8 +81,8 @@
   "topFeeds": [
     {
       "description": "政策文件 - 中华人民共和国财政部 - Powered by RSSHub",
-      "errorAt": "2026-07-29T15:51:38.213Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://gss.mof.gov.cn/gzdt/zhengcefabu/202602/t20260227_3984176.htm\": 502 Bad Gateway\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "133069318957962240",
       "image": null,
       "ownerUserId": null,
@@ -93,8 +93,8 @@
     },
     {
       "description": "政策解读 - 中华人民共和国财政部 - Powered by RSSHub",
-      "errorAt": "2026-07-29T17:02:53.637Z",
-      "errorMessage": "[GET] \"https://gss.mof.gov.cn/gzdt/zhengcejiedu/\": 502 Bad Gateway\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "145117484898967552",
       "image": null,
       "ownerUserId": null,

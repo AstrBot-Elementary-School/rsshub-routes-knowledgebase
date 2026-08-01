@@ -102,7 +102,7 @@
     {
       "description": "太平洋科技-全部 - Powered by RSSHub",
       "errorAt": "2026-07-25T04:09:35.980Z",
-      "errorMessage": "[GET] \"https:\": <no response> Failed to parse URL from https: (Invalid URL)\n[GET] \"https:\": <no response> Failed to parse URL from https: (Invalid URL)\n",
+      "errorMessage": "[GET] \"https:\": <no response> Failed to parse URL from https: (Invalid URL)\nFailed to fetch\n",
       "id": "59139256789618688",
       "image": null,
       "ownerUserId": null,

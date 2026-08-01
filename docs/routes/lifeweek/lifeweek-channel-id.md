@@ -65,8 +65,8 @@ _None_
   "topFeeds": [
     {
       "description": "文化 - Powered by RSSHub",
-      "errorAt": "2026-07-30T02:38:54.561Z",
-      "errorMessage": "[GET] \"https://www.lifeweek.com.cn/api/userWebFollow/getFollowTagContentList?type=3&sort=2&tagId=4\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 117.59.168.27:443, 117.59.168.28:443, 117.59.168.29:443, 117.59.168.30:443, 117.59.168.23:443, 117.59.168.24:443, 117.59.168.25:443, 117.59.168.26:443, timeout: 10000ms))\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "74705665643397120",
       "image": null,
       "ownerUserId": null,

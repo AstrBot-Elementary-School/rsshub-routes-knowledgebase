@@ -84,7 +84,7 @@ _None_
     {
       "description": "孙笑川吧 - 百度贴吧搜索 - Powered by RSSHub",
       "errorAt": "2025-11-28T22:53:21.188Z",
-      "errorMessage": "[GET] \"https://tieba.baidu.com/f/search/res?ie=utf-8&qw=%E5%AD%99%E7%AC%91%E5%B7%9D%E5%90%A7&rn=20\": 403 Forbidden\n",
+      "errorMessage": "Baidu Tieba RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#baidu\">BAIDU_COOKIE</a>\n",
       "id": "86933542129623040",
       "image": null,
       "ownerUserId": null,
@@ -96,7 +96,7 @@ _None_
     {
       "description": "生存狂 - 百度贴吧搜索 - Powered by RSSHub",
       "errorAt": "2026-03-13T01:37:42.182Z",
-      "errorMessage": "[GET] \"https://tieba.baidu.com/f/search/res?ie=utf-8&qw=%E7%94%9F%E5%AD%98%E7%8B%82&rn=20\": 403 Forbidden\n",
+      "errorMessage": "Baidu Tieba RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#baidu\">BAIDU_COOKIE</a>\n",
       "id": "82761206638000128",
       "image": null,
       "ownerUserId": null,

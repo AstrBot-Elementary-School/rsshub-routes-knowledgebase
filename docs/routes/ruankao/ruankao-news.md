@@ -81,8 +81,8 @@ _None_
   "topFeeds": [
     {
       "description": "计算机职业技术资格考试（软考）消息推送 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-27T04:16:08.631Z",
+      "errorMessage": "404 \n[GET] \"https://www.ruankao.org.cn/article/content/2602061810136986440700001.html\": 405 Not Allowed\n[GET] \"https://www.ruankao.org.cn/index/work.html\": 403 Forbidden\n",
       "id": "97983929811275776",
       "image": "https://bm.ruankao.org.cn/asset/image/public/logo.png",
       "ownerUserId": null,

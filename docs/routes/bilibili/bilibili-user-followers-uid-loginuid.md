@@ -84,7 +84,7 @@ UP 主粉丝现在需要 b 站登录后的 Cookie 值，所以只能自建，详
     {
       "description": "CnGal资料站 的 bilibili 粉丝 - Powered by RSSHub",
       "errorAt": "2026-01-30T03:38:49.224Z",
-      "errorMessage": "缺少对应 loginUid 的 Bilibili 用户登录后的 Cookie 值 <a href=\"https://docs.rsshub.app/zh/deploy/config#route-specific-configurations\">bilibili 用户关注动态系列路由</a>\n缺少对应 loginUid 的 Bilibili 用户登录后的 Cookie 值 <a href=\"https://docs.rsshub.app/zh/deploy/config#route-specific-configurations\">bilibili 用户关注动态系列路由</a>\n",
+      "errorMessage": "缺少对应 loginUid 的 Bilibili 用户登录后的 Cookie 值 <a href=\"https://docs.rsshub.app/zh/deploy/config#route-specific-configurations\">bilibili 用户关注动态系列路由</a>\nFailed to fetch\n",
       "id": "198983365616493568",
       "image": null,
       "ownerUserId": null,

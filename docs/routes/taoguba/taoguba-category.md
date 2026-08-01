@@ -57,7 +57,7 @@ _None_
     {
       "description": "淘股吧股票论坛总版 - Powered by RSSHub",
       "errorAt": "2026-06-24T21:12:43.752Z",
-      "errorMessage": "[GET] \"https://www.tgb.cn//a/2tK4Sgz79i9\": 404 Not Found\n[GET] \"https://www.tgb.cn/zongban/\": 405 \n[GET] \"https://www.tgb.cn//a/2tK4Sgz79i9\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://www.tgb.cn//a/2tC3oXpd4rH\": 404 Not Found\n[GET] \"https://www.tgb.cn//a/2tC3oXpd4rH\": 404 \n[GET] \"https://www.tgb.cn//a/2tQYYOPDcxQ\": 404 Not Found\n",
       "id": "101439531051305984",
       "image": null,
       "ownerUserId": null,

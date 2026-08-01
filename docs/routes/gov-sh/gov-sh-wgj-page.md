@@ -76,8 +76,8 @@ _None_
   "topFeeds": [
     {
       "description": "上海市文化和旅游局 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-31T03:03:56.404Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "71029156450169856",
       "image": null,
       "ownerUserId": null,

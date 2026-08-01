@@ -39,7 +39,7 @@ _None_
     "multimedia"
   ],
   "example": "/podwise/explore",
-  "heat": 232,
+  "heat": 231,
   "location": "collections.ts",
   "maintainers": [
     "lyling"
@@ -62,7 +62,7 @@ _None_
     {
       "description": "Excellent themed episodes selected by Podwise. - Powered by RSSHub",
       "errorAt": "2025-09-15T11:17:50.392Z",
-      "errorMessage": "502 \nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "67116246290787328",
       "image": null,
       "ownerUserId": null,

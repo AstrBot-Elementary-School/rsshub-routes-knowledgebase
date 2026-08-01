@@ -76,16 +76,16 @@ _None_
       "url": "rsshub://cara/timeline/alonelee127"
     },
     {
-      "description": "Timeline - Rodrigo Goulao de Sousa - Powered by RSSHub",
-      "errorAt": "2025-11-26T14:00:44.455Z",
-      "errorMessage": "[GET] \"https://cara.app/explore\": 403 Forbidden\n",
-      "id": "127384139525444608",
-      "image": "https://cdn.cara.app/production/profiles/34966e18-5684-4d9d-afab-838babacdc30/465BAAB1-DDE7-42C3-9A1F-E078CF2DA69B.jpg",
+      "description": "Timeline - Victor Sales - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "131925929537537024",
+      "image": "https://cdn.cara.app/production/profiles/c0bf0283-3381-4128-81e1-706b580b8ddf/The_Dhow_Rostos7.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://cara.app/rodrigogsousa/all",
-      "title": "Timeline - Rodrigo Goulao de Sousa",
+      "siteUrl": "https://cara.app/vsalesv/all",
+      "title": "Timeline - Victor Sales",
       "type": "feed",
-      "url": "rsshub://cara/timeline/rodrigogsousa"
+      "url": "rsshub://cara/timeline/vsalesv"
     }
   ]
 }

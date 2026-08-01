@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 7205,
+  "heat": 7203,
   "location": "index.ts",
   "maintainers": [
     "nczitzk"
@@ -71,7 +71,7 @@ _None_
     {
       "description": "晚一点，好一点 Later better - Powered by RSSHub",
       "errorAt": "2026-07-26T08:20:13.504Z",
-      "errorMessage": "[GET] \"https://www.latepost.com/site/get-column\": <no response> fetch failed (unable to get local issuer certificate)\n[GET] \"https://www.latepost.com/site/get-column\": <no response> fetch failed\nAuthentication failed. Access denied.\n/latepost/4\n[GET] \"https://www.latepost.com/site/get-column\": <no response> fetch failed (unable to get local issuer certificate)\n[GET] \"https://www.latepost.com/site/get-column\": <no response> fetch failed (unable to get local issuer certificate)\n[GET] \"https://www.latepost.com/site/get-column\": <no response> fetch failed (unable to get local issuer certificate)\n[GET] \"https://www.latepost.com/site/get-column\": <no response> fetch failed\n[GET] \"https://www.latepost.com/site/get-column\": <no response> fetch failed\n[GET] \"https://www.latepost.com/site/get-column\": <no response> fetch failed\n[GET] \"https://www.latepost.com/site/get-column\": <no response> fetch failed (unable to get local issuer certificate)\n[GET] \"https://www.latepost.com/site/get-column\": <no response> fetch failed\n[GET] \"https://www.latepost.com/site/get-column\": <no response> fetch failed (unable to get local issuer certificate)\n[GET] \"https://www.latepost.com/site/get-column\": <no response> fetch failed\n[GET] \"https://www.latepost.com/site/get-column\": <no response> fetch failed\n[GET] \"https://www.latepost.com/site/get-column\": <no response> fetch failed\n[GET] \"https://www.latepost.com/site/get-column\": <no response> fetch failed (unable to get local issuer certificate)\n",
+      "errorMessage": "[GET] \"https://www.latepost.com/site/get-column\": <no response> fetch failed (unable to get local issuer certificate)\n[GET] \"https://www.latepost.com/site/get-column\": <no response> fetch failed\nAuthentication failed. Access denied.\n/latepost/4\n[GET] \"https://www.latepost.com/site/get-column\": <no response> fetch failed (unable to get local issuer certificate)\n[GET] \"https://www.latepost.com/site/get-column\": <no response> fetch failed (unable to get local issuer certificate)\n[GET] \"https://www.latepost.com/site/get-column\": <no response> fetch failed (unable to get local issuer certificate)\n[GET] \"https://www.latepost.com/site/get-column\": <no response> fetch failed\n[GET] \"https://www.latepost.com/site/get-column\": <no response> fetch failed\n[GET] \"https://www.latepost.com/site/get-column\": <no response> fetch failed\nFailed to fetch\n[GET] \"https://www.latepost.com/site/get-column\": <no response> fetch failed\n[GET] \"https://www.latepost.com/site/get-column\": <no response> fetch failed (unable to get local issuer certificate)\n[GET] \"https://www.latepost.com/site/get-column\": <no response> fetch failed\n[GET] \"https://www.latepost.com/site/get-column\": <no response> fetch failed\nFailed to fetch\n[GET] \"https://www.latepost.com/site/get-column\": <no response> fetch failed (unable to get local issuer certificate)\n",
       "id": "57976037240744981",
       "image": "https://www.latepost.com/images/logo_txt_header.png",
       "ownerUserId": null,

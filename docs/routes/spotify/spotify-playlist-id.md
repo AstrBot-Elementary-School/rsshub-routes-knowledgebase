@@ -84,7 +84,7 @@ Due to [limitations by Spotify](https://developer.spotify.com/blog/2024-11-27-ch
     {
       "description": "80后最愛流行歌曲 - Powered by RSSHub",
       "errorAt": "2026-03-10T02:36:28.213Z",
-      "errorMessage": "Spotify public RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\n502 \n[GET] \"https://api.spotify.com/v1/playlists/1dHPmj7pko81BDKJKtbZI0?si=jiiWKPZvQkqPgY_2__fhzA&pi=a-V-doWJgCTrKF\": 403 Forbidden\n",
+      "errorMessage": "Spotify public RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\n[GET] \"https://api.spotify.com/v1/playlists/1dHPmj7pko81BDKJKtbZI0?si=jiiWKPZvQkqPgY_2__fhzA&pi=a-V-doWJgCTrKF\": 403 Forbidden\n",
       "id": "67455875316275200",
       "image": "https://mosaic.scdn.co/640/ab67616d00001e021666422b2fc0d7d9a0358996ab67616d00001e02736efd28176769a88b7bf474ab67616d00001e02a0156e5ccc688a02353c1a38ab67616d00001e02a7bd9c9f48507bacf9561077",
       "ownerUserId": null,
