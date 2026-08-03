@@ -68,6 +68,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "深度報導 ｜ 公視新聞網 PNN - Powered by RSSHub",

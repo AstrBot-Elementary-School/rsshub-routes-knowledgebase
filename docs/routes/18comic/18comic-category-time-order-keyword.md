@@ -78,7 +78,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 482,
+  "heat": 484,
   "location": "index.ts",
   "maintainers": [
     "nczitzk",
@@ -117,7 +117,7 @@
     },
     {
       "description": "最新的 A漫 - 禁漫天堂 - Powered by RSSHub",
-      "errorAt": "2026-07-30T04:54:55.457Z",
+      "errorAt": "2026-08-02T04:31:37.303Z",
       "errorMessage": "[GET] \"https://jmcomic1.me/albums\": 403 \n[GET] \"https://jmcomic1.me/albums\": 403 Forbidden\n",
       "id": "181646966076518400",
       "image": null,

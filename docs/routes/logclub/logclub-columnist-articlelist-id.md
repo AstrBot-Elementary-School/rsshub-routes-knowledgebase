@@ -144,6 +144,9 @@ _None_
       "target": "/columnist/articleList/:id"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

@@ -172,6 +172,10 @@ _None_
     "id": "栏目 id，见下表，默认为首页"
   },
   "path": "/:id{.+}?",
+  "test": {
+    "code": 1,
+    "message": "AssertionError: expected [ Array(1) ] to not include 'https://www.chinawriter.com.cn/n1/202…'\n    at Proxy.<anonymous> (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+expect@4.1.10/node_modules/@vitest/expect/dist/index.js:1319:15)\n    at Proxy.<anonymous> (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+expect@4.1.10/node_modules/@vitest/expect/dist/index.js:1156:15)\n    at Proxy.methodWrapper (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/chai@6.2.2/node_modules/chai/index.js:1700:25)\n    at checkRSS (/home/runner/work/RSSHub/RSSHub/lib/app.test.ts:91:27)\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:106:17\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+  },
   "topFeeds": [
     {
       "description": "新作品栏目主要发表小说、诗歌、散文、纪实文学等不同类型的文学作品，同时开设原创作品平台，接受中国作家网注册会员的投稿。新作品下设文学内刊、作家群和鲁院学员作品以及报刊在线等特色板块，拥有曹文轩、周大新、乔叶、蒋胜男、孑与2等驻站作家，并定期推荐优秀原创作品和名家新作。 - Powered by RSSHub",

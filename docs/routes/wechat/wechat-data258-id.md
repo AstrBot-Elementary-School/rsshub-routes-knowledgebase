@@ -75,6 +75,9 @@
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "mp.data258.com/"
 }

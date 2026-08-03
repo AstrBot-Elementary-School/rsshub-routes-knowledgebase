@@ -91,16 +91,16 @@
       "url": "rsshub://ustc/news/gl"
     },
     {
-      "description": "中国科学技术大学 - 管理类通知 - Powered by RSSHub",
+      "description": "中国科学技术大学 - 教学类通知 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "134914934896593920",
+      "id": "78281841504610304",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://ustc.edu.cn/tzgg/glltz.htm",
-      "title": "中国科学技术大学 - 管理类通知",
+      "siteUrl": "https://ustc.edu.cn/tzgg/jxltz.htm",
+      "title": "中国科学技术大学 - 教学类通知",
       "type": "feed",
-      "url": "rsshub://ustc/news"
+      "url": "rsshub://ustc/news/jx"
     }
   ],
   "url": "ustc.edu.cn/"

@@ -70,6 +70,9 @@
       "target": "/category/:id"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "asiantolick.com/"
 }

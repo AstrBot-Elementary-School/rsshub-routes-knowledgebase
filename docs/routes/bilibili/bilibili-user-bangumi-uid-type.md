@@ -92,13 +92,13 @@ _None_
       "description": "undefined 的追番列表 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "147826498734491650",
+      "id": "99225620807175168",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://space.bilibili.com/11675531/bangumi",
+      "siteUrl": "https://space.bilibili.com/318135371/bangumi",
       "title": "undefined 的追番列表",
       "type": "feed",
-      "url": "rsshub://bilibili/user/bangumi/11675531/1"
+      "url": "rsshub://bilibili/user/bangumi/318135371"
     }
   ]
 }

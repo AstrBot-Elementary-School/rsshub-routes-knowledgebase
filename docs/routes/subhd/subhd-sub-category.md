@@ -63,6 +63,9 @@ _None_
       "target": "/sub/:category?"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "最新字幕 分享交流下载字幕平台 - SubHD - Powered by RSSHub",

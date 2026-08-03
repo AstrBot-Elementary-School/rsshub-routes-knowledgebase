@@ -80,6 +80,9 @@ _None_
       "target": "/arabic/rss"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

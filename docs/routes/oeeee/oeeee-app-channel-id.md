@@ -60,6 +60,9 @@ _None_
     "id": "南都号 ID"
   },
   "path": "/app/channel/:id",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "南方都市报客户端 - 南都广州 - Powered by RSSHub",

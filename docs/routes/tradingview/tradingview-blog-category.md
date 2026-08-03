@@ -89,6 +89,9 @@ _None_
     "category": "Language, see below, `en` as English by default"
   },
   "path": "/blog/:category{.+}?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "我们几乎每周都会发布新的更新。随时了解我们所有最新的公司新闻和观点。 - Powered by RSSHub",

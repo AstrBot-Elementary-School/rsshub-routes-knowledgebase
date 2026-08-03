@@ -71,6 +71,9 @@
       "target": "/tag/:tag"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

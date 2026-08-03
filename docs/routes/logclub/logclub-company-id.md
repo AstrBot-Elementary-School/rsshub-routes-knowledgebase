@@ -183,6 +183,9 @@
       "target": "/company/:id"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

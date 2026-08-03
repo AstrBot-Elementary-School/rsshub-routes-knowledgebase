@@ -82,18 +82,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "[F95zone] Collection Video ViciNeko collection [2025-06-14] [ViciNeko] - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "242895914631755776",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://f95zone.to/threads/vicineko-collection-2025-06-14-vicineko.84596/#post-5909830",
-      "title": "[F95zone] Collection Video ViciNeko collection [2025-06-14] [ViciNeko]",
-      "type": "feed",
-      "url": "rsshub://f95zone/post/vicineko-collection-2025-06-14-vicineko.84596/post-5909830"
-    },
-    {
       "description": "[F95zone] Collection Video HydraFXX Collection [2026-05-09] [HydraFXX] - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -104,6 +92,18 @@ _None_
       "title": "[F95zone] Collection Video HydraFXX Collection [2026-05-09] [HydraFXX]",
       "type": "feed",
       "url": "rsshub://f95zone/post/hydrafxx-collection-2026-01-01-hydrafxx.25063/post-1544334"
+    },
+    {
+      "description": "[F95zone] Collection Video RadRoachHD Collection [2026-05-13] [RadRoachHD] - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "250524222304441344",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://f95zone.to/threads/radroachhd-collection-2025-08-08-radroachhd.140965/#post-9617214",
+      "title": "[F95zone] Collection Video RadRoachHD Collection [2026-05-13] [RadRoachHD]",
+      "type": "feed",
+      "url": "rsshub://f95zone/post/radroachhd-collection-2025-08-08-radroachhd.140965/post-9617214"
     }
   ]
 }

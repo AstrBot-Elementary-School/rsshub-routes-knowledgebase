@@ -74,6 +74,9 @@ _None_
       "target": "/news/:id"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

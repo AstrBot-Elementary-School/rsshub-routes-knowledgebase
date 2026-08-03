@@ -19,6 +19,8 @@
 ## Description
 ::: tip
 Freebuf 的文章页面带有反爬虫机制，所以目前无法获取文章的完整内容。
+
+站点位于阿里云 WAF 之后，请求频繁的 IP 可能触发 405 JS 质询，此时路由会自动计算 `acw_sc__v2` Cookie 并重试。
 :::
 
 ## Parameters
@@ -28,7 +30,7 @@ Freebuf 的文章页面带有反爬虫机制，所以目前无法获取文章的
 ## Features
 - `requireConfig`: false
 - `requirePuppeteer`: false
-- `antiCrawler`: false
+- `antiCrawler`: true
 - `supportBT`: false
 - `supportPodcast`: false
 - `supportScihub`: false
@@ -45,10 +47,10 @@ Freebuf 的文章页面带有反爬虫机制，所以目前无法获取文章的
   "categories": [
     "blog"
   ],
-  "description": "::: tip\nFreebuf 的文章页面带有反爬虫机制，所以目前无法获取文章的完整内容。\n:::",
+  "description": "::: tip\nFreebuf 的文章页面带有反爬虫机制，所以目前无法获取文章的完整内容。\n\n站点位于阿里云 WAF 之后，请求频繁的 IP 可能触发 405 JS 质询，此时路由会自动计算 `acw_sc__v2` Cookie 并重试。\n:::",
   "example": "/freebuf/articles/web",
   "features": {
-    "antiCrawler": false,
+    "antiCrawler": true,
     "requireConfig": false,
     "requirePuppeteer": false,
     "supportBT": false,
@@ -81,7 +83,7 @@ Freebuf 的文章页面带有反爬虫机制，所以目前无法获取文章的
     {
       "description": "Freebuf web - Powered by RSSHub",
       "errorAt": "2026-07-25T17:23:12.305Z",
-      "errorMessage": "Authentication failed. Access denied.\n/freebuf/articles/web\n[GET] \"https://www.freebuf.com/fapi/frontend/category/list?name=web&page=1&limit=20&select=0&order=0&type=category\": 405 Not Allowed\n[GET] \"https://www.freebuf.com/fapi/frontend/category/list?name=web&page=1&limit=20&select=0&order=0&type=category\": 405 Not Allowed\n",
+      "errorMessage": "Authentication failed. Access denied.\n/freebuf/articles/web\nCannot read properties of undefined (reading 'data_list')\n[GET] \"https://www.freebuf.com/fapi/frontend/category/list?name=web&page=1&limit=20&select=0&order=0&type=category\": 405 Not Allowed\n",
       "id": "52357479513292810",
       "image": null,
       "ownerUserId": null,

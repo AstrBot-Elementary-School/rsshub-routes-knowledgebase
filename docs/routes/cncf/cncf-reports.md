@@ -52,6 +52,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "CNCF - Reports - Powered by RSSHub",

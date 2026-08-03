@@ -58,6 +58,9 @@ _None_
       "target": "/tag/:tag"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "logonews.cn/"
 }

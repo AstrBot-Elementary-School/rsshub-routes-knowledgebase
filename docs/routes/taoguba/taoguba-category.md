@@ -57,7 +57,7 @@ _None_
     {
       "description": "淘股吧股票论坛总版 - Powered by RSSHub",
       "errorAt": "2026-06-24T21:12:43.752Z",
-      "errorMessage": "[GET] \"https://www.tgb.cn//a/2tC3oXpd4rH\": 404 Not Found\n[GET] \"https://www.tgb.cn//a/2tC3oXpd4rH\": 404 \n[GET] \"https://www.tgb.cn//a/2tQYYOPDcxQ\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://www.tgb.cn//a/2tTZ5wm3g7C\": 404 Not Found\n[GET] \"https://www.tgb.cn//a/2tC3oXpd4rH\": 404 \n[GET] \"https://www.tgb.cn//a/2f3NYnSGBw9\": 404 Not Found\n",
       "id": "101439531051305984",
       "image": null,
       "ownerUserId": null,
@@ -69,7 +69,7 @@ _None_
     {
       "description": "淘股吧散户炒股交流点赞牛贴 - Powered by RSSHub",
       "errorAt": "2026-07-02T22:09:34.740Z",
-      "errorMessage": "[GET] \"https://www.tgb.cn//a/2tMmyG51jBY\": 404 Not Found\n[GET] \"https://www.tgb.cn//a/2qncDcjKaIT\": 404 \n[GET] \"https://www.tgb.cn//a/2tMmyG51jBY\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://www.tgb.cn//a/2tVGWRFGyPj\": 404 Not Found\n[GET] \"https://www.tgb.cn//a/2tpSwBq3N9I\": 404 \n[GET] \"https://www.tgb.cn//a/2tTTRMYbJut\": 404 Not Found\n",
       "id": "115961018043937792",
       "image": null,
       "ownerUserId": null,

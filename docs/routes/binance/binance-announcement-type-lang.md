@@ -42,7 +42,7 @@ _None_
   ],
   "description": "Announcement list from Binance message center with language and type selection.",
   "example": "/binance/announcement/new-cryptocurrency-listing",
-  "heat": 1727,
+  "heat": 1728,
   "location": "announcement.ts",
   "maintainers": [
     "enpitsulin",

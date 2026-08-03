@@ -62,6 +62,9 @@ _None_
       "target": "/zu/:category?"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

@@ -67,6 +67,9 @@ _None_
       "target": "/mil/:category"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "mil.m4.cn"
 }

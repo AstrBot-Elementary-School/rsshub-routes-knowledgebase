@@ -60,6 +60,9 @@ _None_
       "target": "/search/:keyword"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "asiantolick.com/"
 }

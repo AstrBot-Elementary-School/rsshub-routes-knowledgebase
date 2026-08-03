@@ -60,6 +60,9 @@ _None_
       "target": "/category/:category/:type?"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "logonews.cn/"
 }

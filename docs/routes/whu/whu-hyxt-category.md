@@ -86,6 +86,9 @@ _None_
     "category": "分类，见下表，默认为 `tzgg`， 即 **通知公告**"
   },
   "path": "/hyxt/:category{.+}?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

@@ -48,6 +48,9 @@ _None_
     "path": "Listing page (`immobiliensuche` by default), optionally followed by the query parameters, see the description below"
   },
   "path": "/:path{.+}?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

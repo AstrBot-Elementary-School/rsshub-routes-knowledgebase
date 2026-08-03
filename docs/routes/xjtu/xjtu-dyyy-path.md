@@ -46,6 +46,9 @@ _None_
     "path": "栏目路径，支持多级，不包括末尾的`.htm`"
   },
   "path": "/dyyy/:path{.+}",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

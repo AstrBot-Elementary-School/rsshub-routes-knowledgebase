@@ -52,6 +52,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "LeetCode DailyQuestion Solution - Powered by RSSHub",

@@ -57,6 +57,9 @@ _None_
     "/videos/newrelease/:language?/:mode?",
     "/newrelease/:language?/:mode?"
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": null,

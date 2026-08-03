@@ -67,6 +67,9 @@ _None_
       "target": "/news/:category"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "news.m4.cn"
 }

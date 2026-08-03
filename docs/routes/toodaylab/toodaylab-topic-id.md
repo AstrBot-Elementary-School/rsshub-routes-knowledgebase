@@ -63,6 +63,9 @@
       "target": "/topic/:id"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

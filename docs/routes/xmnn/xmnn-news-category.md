@@ -81,6 +81,9 @@
       "target": "/news/:category"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

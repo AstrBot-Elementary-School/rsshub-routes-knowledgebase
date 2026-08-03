@@ -49,6 +49,9 @@ _None_
     "category": "分类如下表"
   },
   "path": "/jwc/yjjw/:category?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

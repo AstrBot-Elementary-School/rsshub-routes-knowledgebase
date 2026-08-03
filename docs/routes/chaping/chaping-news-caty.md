@@ -89,7 +89,7 @@ _None_
     {
       "description": "差评资讯 - 科技新鲜事 - Powered by RSSHub",
       "errorAt": "2025-05-11T04:02:59.828Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://chaping.cn/api/official/information/news?page=1&limit=16&cate=3\": 502 Bad Gateway\n",
+      "errorMessage": "[GET] \"https://chaping.cn/api/official/information/news?page=1&limit=16&cate=3\": 502 Bad Gateway\n[GET] \"https://chaping.cn/api/official/information/news?page=1&limit=16&cate=3\": 502 Bad Gateway\n",
       "id": "59933051315126274",
       "image": null,
       "ownerUserId": null,

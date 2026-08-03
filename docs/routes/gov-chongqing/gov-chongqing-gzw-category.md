@@ -57,6 +57,9 @@ _None_
       "target": "/gzw/*category"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "重庆市国有资产监督管理委员会网站-通知公告栏目,主要展示-通知公告相关的内容,是-通知公告的信息展示窗口 - Powered by RSSHub",

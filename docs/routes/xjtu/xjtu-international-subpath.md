@@ -46,6 +46,9 @@ _None_
     "subpath": "栏目路径，支持多级，不包括末尾的`.htm`"
   },
   "path": "/international/:subpath{.+}",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "西安交通大学国际处 - 海外学习 - Powered by RSSHub",

@@ -73,11 +73,11 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Cognition builds autonomous software engineering agents - Powered by RSSHub",
+      "description": "News, research, and engineering deep dives from Cognition, the team behind Devin, the autonomous software engineer. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "207531896770078720",
-      "image": "https://cognition.com/opengraph-image.jpg?opengraph-image.0mzhc99j4lsox.jpg?dpl=dpl_BFToFNmAXxbGJCERBbKw531CyxRS",
+      "image": "https://cognition.com/opengraph-image.jpg?opengraph-image.0mzhc99j4lsox.jpg?dpl=dpl_AASEKeoF9ZJnCG357pnhLauKAcme",
       "ownerUserId": null,
       "siteUrl": "https://cognition.com/blog",
       "title": "Blog | Cognition",

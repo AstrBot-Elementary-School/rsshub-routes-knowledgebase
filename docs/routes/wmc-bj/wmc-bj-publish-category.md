@@ -51,6 +51,9 @@ _None_
     "category": "Category, can be found in URL, `CRA-Reanalysis/2m-Temperature/6-hour/index.html` by default"
   },
   "path": "/publish/:category{.+}?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

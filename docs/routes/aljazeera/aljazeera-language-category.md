@@ -62,7 +62,7 @@ _None_
   ],
   "description": "Language\n\n| Arabic | Chinese | English |\n| ------ | ------- | ------- |\n| arabic | chinese | english |\n\n::: tip\nIf you subscribe to [Al Jazeera English - Economy](https://www.aljazeera.com/economy), whose language is `english` and whose path is `economy`, you can get the route as [`/aljazeera/english/economy`](https://rsshub.app/aljazeera/english/economy)\n\nIf you subscribe to [Al Jazeera Chinese - Political](https://chinese.aljazeera.net/news/political) with language `chinese` and path `news/political`, you can get the route as [`/aljazeera/chinese/news/political`](https://rsshub.app/aljazeera/chinese/news/political)\n:::",
   "example": "/aljazeera/english/news",
-  "heat": 170,
+  "heat": 181,
   "location": "index.tsx",
   "maintainers": [
     "nczitzk"
@@ -96,6 +96,9 @@ _None_
       "target": "/chinese/:category"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "新闻 | 半岛电视台今日最新资讯 - Powered by RSSHub",
@@ -110,16 +113,16 @@ _None_
       "url": "rsshub://aljazeera/chinese/news"
     },
     {
-      "description": "News | News | Today's latest from Al Jazeera - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "108905968685986819",
+      "description": "俄罗斯-乌克兰战争 | 半岛电视台今日最新资讯 - Powered by RSSHub",
+      "errorAt": "2025-12-30T21:45:14.570Z",
+      "errorMessage": "Cannot read properties of null (reading '1')\nCannot read properties of null (reading '1')\n",
+      "id": "88577770971737095",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.aljazeera.com/news",
-      "title": "News | News | Today's latest from Al Jazeera",
+      "siteUrl": "https://chinese.aljazeera.net/news/war-in-ukraine/",
+      "title": "俄罗斯-乌克兰战争 | 半岛电视台今日最新资讯",
       "type": "feed",
-      "url": "rsshub://aljazeera/english/news"
+      "url": "rsshub://aljazeera/chinese/news/war-in-ukraine/"
     }
   ]
 }

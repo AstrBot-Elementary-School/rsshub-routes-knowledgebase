@@ -57,7 +57,7 @@ _None_
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 31,
+  "heat": 32,
   "location": "news.ts",
   "maintainers": [
     "PrinOrange"
@@ -82,7 +82,7 @@ _None_
     {
       "description": "计算机职业技术资格考试（软考）消息推送 - Powered by RSSHub",
       "errorAt": "2026-07-27T04:16:08.631Z",
-      "errorMessage": "404 \n[GET] \"https://www.ruankao.org.cn/article/content/2602061810136986440700001.html\": 405 Not Allowed\n[GET] \"https://www.ruankao.org.cn/index/work.html\": 403 Forbidden\n",
+      "errorMessage": "404 \n[GET] \"https://www.ruankao.org.cn/index/work.html\": 405 Not Allowed\n[GET] \"https://www.ruankao.org.cn/index/work.html\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 45.253.17.19:443, 45.253.17.16:443, 45.253.17.15:443, 45.253.17.18:443, 45.253.17.13:443, 45.253.17.17:443, 45.253.17.20:443, 45.253.17.14:443, timeout: 10000ms))\n",
       "id": "97983929811275776",
       "image": "https://bm.ruankao.org.cn/asset/image/public/logo.png",
       "ownerUserId": null,

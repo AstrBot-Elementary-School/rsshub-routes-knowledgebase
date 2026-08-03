@@ -51,6 +51,9 @@ _None_
     "path": "路径"
   },
   "path": "/:path{.+}",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "提供最新广东汽油价格,广东92号汽油价格,广东90号汽油价格,广东95号汽油价格,广东0号柴油价格等今日最新油价查询 - Powered by RSSHub",

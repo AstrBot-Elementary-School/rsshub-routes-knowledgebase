@@ -55,7 +55,7 @@
   "features": {
     "nsfw": true
   },
-  "heat": 39,
+  "heat": 38,
   "location": "lists.ts",
   "maintainers": [
     "dddepg"
@@ -75,6 +75,9 @@
       "target": ""
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "神片列表 - JavDB 加入时间排序 - Powered by RSSHub",

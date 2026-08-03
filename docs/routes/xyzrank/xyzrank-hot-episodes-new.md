@@ -54,6 +54,9 @@ _None_
       "target": "/hot-episodes-new"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "榜单只是一种维度，愿你找到喜欢的节目 - Powered by RSSHub",

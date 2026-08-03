@@ -55,6 +55,9 @@ _None_
     "path": "综艺 id，综艺详情对应页 URL 中找到"
   },
   "path": "/:path{.+}?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

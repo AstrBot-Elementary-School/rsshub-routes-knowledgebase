@@ -76,13 +76,14 @@
     }
   ],
   "test": {
-    "code": 0
+    "code": 1,
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
   "topFeeds": [
     {
       "description": "南开大学人工智能学院-最新动态 - Powered by RSSHub",
-      "errorAt": "2026-07-30T19:36:11.187Z",
-      "errorMessage": "[GET] \"https://ai.nankai.edu.cn/xwzx/zxdt.htm\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 222.30.45.190:443, 2001:250:401:d450::190:443, timeout: 10000ms))\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "188273958932923392",
       "image": null,
       "ownerUserId": null,

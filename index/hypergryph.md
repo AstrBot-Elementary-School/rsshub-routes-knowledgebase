@@ -6,17 +6,9 @@
 - URL: `www.hypergryph.com`
 - Language: `_None_`
 - Aliases: `hypergryph, hypergryph.com, www, www.hypergryph.com, 鹰角网络`
-- Route Count: `5`
+- Route Count: `4`
 
 ## Routes
-
-### 明日方舟 - 游戏内公告
-- Route ID: `hypergryph:/hypergryph/arknights/announce/:platform?/:group?`
-- Route Path: `/hypergryph/arknights/announce/:platform?/:group?`
-- File: `docs/routes/hypergryph/hypergryph-arknights-announce-platform-group.md`
-- File Name: `hypergryph-arknights-announce-platform-group.md`
-- Categories: `game`
-- Maintainers: `swwind`
 
 ### 回归线
 - Route ID: `hypergryph:/hypergryph/arknights/arktca`

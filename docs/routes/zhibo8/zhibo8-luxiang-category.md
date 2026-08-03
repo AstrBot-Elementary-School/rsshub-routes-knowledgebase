@@ -60,6 +60,9 @@ _None_
       "target": "/luxiang/:category"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "NBA篮球录像-直播吧 - Powered by RSSHub",

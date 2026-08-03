@@ -67,6 +67,9 @@ _None_
       "target": "/category/:category"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "头条 | 星洲网最新马来西亚头条新闻 Latest Malaysia Headlines - Powered by RSSHub",

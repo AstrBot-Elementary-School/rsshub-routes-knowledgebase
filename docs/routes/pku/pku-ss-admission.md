@@ -75,7 +75,7 @@ _None_
     {
       "description": "北京大学软件与微电子学院 - 招生通知 - Powered by RSSHub",
       "errorAt": "2026-01-12T07:12:25.617Z",
-      "errorMessage": "[GET] \"https://www.ss.pku.edu.cn/admission/admnotice/\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 162.105.239.11:443, 2001:da8:201:5008:5054:ff:fe51:ef0a:443, timeout: 10000ms))\n",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "66455824135092226",
       "image": null,
       "ownerUserId": null,

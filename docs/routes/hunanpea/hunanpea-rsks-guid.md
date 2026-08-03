@@ -69,7 +69,8 @@ _None_
     }
   ],
   "test": {
-    "code": 0
+    "code": 1,
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
   "topFeeds": [
     {
@@ -86,8 +87,8 @@ _None_
     },
     {
       "description": "公务员及事业单位考试 - 湖南人事考试网 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-01T10:28:09.079Z",
+      "errorMessage": "[GET] \"http://rsks.hunanpea.com/Category/c5a6f516-fd54-4578-90bd-0cb6a1c95570/ArticlesByCategory.do?PageIndex=1\": 404 Not Found\n",
       "id": "62787884154546176",
       "image": null,
       "ownerUserId": null,

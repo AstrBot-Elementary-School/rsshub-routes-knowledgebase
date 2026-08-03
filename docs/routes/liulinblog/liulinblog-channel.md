@@ -82,6 +82,9 @@ _None_
       "target": "/:channel"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

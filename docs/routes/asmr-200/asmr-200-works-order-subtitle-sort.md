@@ -59,7 +59,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 262,
+  "heat": 261,
   "location": "index.tsx",
   "maintainers": [
     "hualiong"

@@ -81,8 +81,8 @@
   "topFeeds": [
     {
       "description": "第一财经主题 - 一财早报 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-01T10:52:11.491Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "57265298134029312",
       "image": null,
       "ownerUserId": null,
@@ -93,8 +93,8 @@
     },
     {
       "description": "第一财经主题 - 一财早报 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-01T19:52:17.875Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "149537784167521280",
       "image": null,
       "ownerUserId": null,

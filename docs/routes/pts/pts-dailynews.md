@@ -68,6 +68,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "即時 ｜ 公視新聞網 PNN - Powered by RSSHub",

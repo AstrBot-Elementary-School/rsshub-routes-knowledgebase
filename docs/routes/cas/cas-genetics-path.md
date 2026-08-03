@@ -53,6 +53,9 @@ _None_
     "path": "路径，可在 URL 找到"
   },
   "path": "/genetics/:path{.+}",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

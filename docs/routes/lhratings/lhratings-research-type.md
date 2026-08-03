@@ -143,8 +143,8 @@
   "topFeeds": [
     {
       "description": "联合资信评估股份有限公司 - 服务介绍 - Powered by RSSHub",
-      "errorAt": "2026-07-31T04:00:07.052Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "104824308798705664",
       "image": "https://www.lhratings.com/home/images/logo.png",
       "ownerUserId": null,
@@ -155,8 +155,8 @@
     },
     {
       "description": "联合资信评估股份有限公司 - 非金融企业 - Powered by RSSHub",
-      "errorAt": "2026-07-31T04:04:39.362Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "101364983690255360",
       "image": "https://www.lhratings.com/home/images/logo.png",
       "ownerUserId": null,

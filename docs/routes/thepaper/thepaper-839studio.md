@@ -43,6 +43,9 @@ _None_
   ],
   "name": "澎湃美数课作品集",
   "path": "/839studio",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

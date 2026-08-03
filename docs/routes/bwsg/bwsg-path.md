@@ -56,6 +56,9 @@ _None_
     "path": "Query parameters of the search, without the leading `?`, see the description below"
   },
   "path": "/:path{.+}?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

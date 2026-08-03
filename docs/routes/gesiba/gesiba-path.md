@@ -49,6 +49,9 @@ _None_
     "path": "Search filter parameters, see the description below"
   },
   "path": "/:path{.+}?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

@@ -70,7 +70,7 @@ _None_
     {
       "description": "Search \"author_id:496877594676035615\" in FFXIV Mobile EN - Discord - Powered by RSSHub",
       "errorAt": "2025-11-26T09:21:26.681Z",
-      "errorMessage": "Discord RSS is disabled due to the lack of authorization config\nDiscord RSS is disabled due to the lack of authorization config\n",
+      "errorMessage": "522 \nDiscord RSS is disabled due to the lack of authorization config\n",
       "id": "168547397384130560",
       "image": null,
       "ownerUserId": null,

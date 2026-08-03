@@ -62,6 +62,9 @@ _None_
       "target": "/news/:sort?"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

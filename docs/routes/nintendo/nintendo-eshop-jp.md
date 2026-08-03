@@ -54,6 +54,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "Nintendo eShop（日服）新上架的游戏 - Powered by RSSHub",

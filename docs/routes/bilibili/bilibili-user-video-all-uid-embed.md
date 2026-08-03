@@ -37,7 +37,7 @@ _None_
     "social-media"
   ],
   "example": "/bilibili/user/video-all/2267573",
-  "heat": 1269,
+  "heat": 1268,
   "location": "video-all.ts",
   "maintainers": [
     "CcccFz"
@@ -54,7 +54,7 @@ _None_
   "topFeeds": [
     {
       "description": "技术爬爬虾 的 bilibili 所有视频 - Powered by RSSHub",
-      "errorAt": "2026-07-23T22:49:08.636Z",
+      "errorAt": "2026-07-25T01:46:14.857Z",
       "errorMessage": "Failed to fetch\nCannot read properties of undefined (reading 'vlist')\n",
       "id": "82801159002601472",
       "image": null,

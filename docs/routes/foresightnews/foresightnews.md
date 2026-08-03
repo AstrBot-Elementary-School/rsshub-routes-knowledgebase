@@ -24,7 +24,12 @@ _None_
 
 
 ## Features
-_None_
+- `requireConfig`: false
+- `requirePuppeteer`: true
+- `antiCrawler`: false
+- `supportBT`: false
+- `supportPodcast`: false
+- `supportScihub`: false
 
 ## Radar
 ### Rule 1
@@ -39,6 +44,14 @@ _None_
     "new-media"
   ],
   "example": "/foresightnews",
+  "features": {
+    "antiCrawler": false,
+    "requireConfig": false,
+    "requirePuppeteer": true,
+    "supportBT": false,
+    "supportPodcast": false,
+    "supportScihub": false
+  },
   "heat": 0,
   "location": "index.ts",
   "maintainers": [

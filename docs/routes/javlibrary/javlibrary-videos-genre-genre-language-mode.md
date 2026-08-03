@@ -63,6 +63,9 @@ _None_
     "/videos/genre/:genre?/:language?/:mode?",
     "/genre/:genre?/:language?/:mode?"
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

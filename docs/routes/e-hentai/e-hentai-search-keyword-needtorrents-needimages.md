@@ -71,6 +71,9 @@
       "target": "/search/:keyword"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

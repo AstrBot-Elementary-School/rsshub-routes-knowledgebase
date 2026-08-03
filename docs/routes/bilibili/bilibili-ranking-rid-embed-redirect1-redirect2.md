@@ -43,7 +43,7 @@ _None_
     "popular"
   ],
   "example": "/bilibili/ranking/all",
-  "heat": 8945,
+  "heat": 8944,
   "location": "ranking.ts",
   "maintainers": [
     "DIYgod",
@@ -149,7 +149,7 @@ _None_
     {
       "description": "bilibili 排行榜-知识 - Powered by RSSHub",
       "errorAt": "2026-07-15T05:32:42.190Z",
-      "errorMessage": "-352\n-352\n-352\n-352\n",
+      "errorMessage": "请求错误\n请求错误\n-352\n请求错误\n",
       "id": "78844164657093632",
       "image": null,
       "ownerUserId": null,

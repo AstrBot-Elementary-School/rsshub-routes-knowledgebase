@@ -62,6 +62,9 @@ _None_
       "target": "/series/:id"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

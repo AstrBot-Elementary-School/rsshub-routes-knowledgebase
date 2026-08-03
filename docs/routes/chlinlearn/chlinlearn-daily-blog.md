@@ -69,13 +69,13 @@ _None_
   ],
   "test": {
     "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at runNextTicks (node:internal/process/task_queues:69:3)\n    at processImmediate (node:internal/timers:472:9)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
   "topFeeds": [
     {
       "description": "值得一读技术博客 - Powered by RSSHub",
       "errorAt": "2025-11-15T17:37:54.148Z",
-      "errorMessage": "Authentication failed. Access denied.\n/chlinlearn/daily-blog\n[GET] \"https://daily-blog.chlinlearn.top/api/daily-blog/getBlogs/new?type=new&pageNum=1&pageSize=20\": <no response> fetch failed (Connect Timeout Error (attempted address: daily-blog.chlinlearn.top:443, timeout: 10000ms))\n[GET] \"https://daily-blog.chlinlearn.top/api/daily-blog/getBlogs/new?type=new&pageNum=1&pageSize=20\": <no response> fetch failed (Connect Timeout Error (attempted address: daily-blog.chlinlearn.top:443, timeout: 10000ms))\n502 \n[GET] \"https://daily-blog.chlinlearn.top/api/daily-blog/getBlogs/new?type=new&pageNum=1&pageSize=20\": <no response> fetch failed (Connect Timeout Error (attempted address: daily-blog.chlinlearn.top:443, timeout: 10000ms))\n",
+      "errorMessage": "Authentication failed. Access denied.\n/chlinlearn/daily-blog\n[GET] \"https://daily-blog.chlinlearn.top/api/daily-blog/getBlogs/new?type=new&pageNum=1&pageSize=20\": <no response> fetch failed (Connect Timeout Error (attempted address: daily-blog.chlinlearn.top:443, timeout: 10000ms))\n[GET] \"https://daily-blog.chlinlearn.top/api/daily-blog/getBlogs/new?type=new&pageNum=1&pageSize=20\": <no response> fetch failed (Connect Timeout Error (attempted address: daily-blog.chlinlearn.top:443, timeout: 10000ms))\n[GET] \"https://daily-blog.chlinlearn.top/api/daily-blog/getBlogs/new?type=new&pageNum=1&pageSize=20\": <no response> fetch failed (Connect Timeout Error (attempted address: daily-blog.chlinlearn.top:443, timeout: 10000ms))\n[GET] \"https://daily-blog.chlinlearn.top/api/daily-blog/getBlogs/new?type=new&pageNum=1&pageSize=20\": <no response> fetch failed (Connect Timeout Error (attempted address: daily-blog.chlinlearn.top:443, timeout: 10000ms))\n",
       "id": "55155355881001984",
       "image": null,
       "ownerUserId": null,

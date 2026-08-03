@@ -8,7 +8,7 @@
 - Namespace Name: `Bloomberg`
 - Route Path: `/bloomberg/:site?`
 - Route Name: `Bloomberg Site`
-- Example: `/bloomberg/bbiz`
+- Example: `/bloomberg/business`
 - URL: `www.bloomberg.com`
 - Language: `_None_`
 - Categories: `finance, popular`
@@ -20,20 +20,21 @@
 | Site ID      | Title        |
 | ------------ | ------------ |
 | /            | News         |
-| bpol         | Politics     |
-| bbiz         | Business     |
+| politics     | Politics     |
+| business     | Business     |
 | markets      | Markets      |
 | technology   | Technology   |
-| green        | Green        |
 | wealth       | Wealth       |
-| pursuits     | Pursuits     |
 | bview        | Opinion      |
-| equality     | Equality     |
 | businessweek | Businessweek |
-| citylab      | CityLab      |
+| economics    | Economics    |
+| industries   | Industries   |
+| crypto       | Crypto       |
+
+Legacy site IDs `bpol` and `bbiz` still work as aliases of `politics` and `business`.
 
 ## Parameters
-- `site`: {"description": "Site ID, can be found below", "options": [{"label": "News", "value": "/"}, {"label": "Politics", "value": "bpol"}, {"label": "Business", "value": "bbiz"}, {"label": "Markets", "value": "markets"}, {"label": "Technology", "value": "technology"}, {"label": "Green", "value": "green"}, {"label": "Wealth", "value": "wealth"}, {"label": "Pursuits", "value": "pursuits"}, {"label": "Opinion", "value": "bview"}, {"label": "Equality", "value": "equality"}, {"label": "Businessweek", "value": "businessweek"}, {"label": "CityLab", "value": "citylab"}]}
+- `site`: {"description": "Site ID, can be found below", "options": [{"label": "News", "value": "/"}, {"label": "Politics", "value": "politics"}, {"label": "Business", "value": "business"}, {"label": "Markets", "value": "markets"}, {"label": "Technology", "value": "technology"}, {"label": "Wealth", "value": "wealth"}, {"label": "Opinion", "value": "bview"}, {"label": "Businessweek", "value": "businessweek"}, {"label": "Economics", "value": "economics"}, {"label": "Industries", "value": "industries"}, {"label": "Crypto", "value": "crypto"}]}
 
 
 ## Features
@@ -54,8 +55,8 @@ _None_
     "finance",
     "popular"
   ],
-  "description": "| Site ID      | Title        |\n| ------------ | ------------ |\n| /            | News         |\n| bpol         | Politics     |\n| bbiz         | Business     |\n| markets      | Markets      |\n| technology   | Technology   |\n| green        | Green        |\n| wealth       | Wealth       |\n| pursuits     | Pursuits     |\n| bview        | Opinion      |\n| equality     | Equality     |\n| businessweek | Businessweek |\n| citylab      | CityLab      |",
-  "example": "/bloomberg/bbiz",
+  "description": "| Site ID      | Title        |\n| ------------ | ------------ |\n| /            | News         |\n| politics     | Politics     |\n| business     | Business     |\n| markets      | Markets      |\n| technology   | Technology   |\n| wealth       | Wealth       |\n| bview        | Opinion      |\n| businessweek | Businessweek |\n| economics    | Economics    |\n| industries   | Industries   |\n| crypto       | Crypto       |\n\nLegacy site IDs `bpol` and `bbiz` still work as aliases of `politics` and `business`.",
+  "example": "/bloomberg/business",
   "features": {
     "antiCrawler": true,
     "requireConfig": false,
@@ -80,11 +81,11 @@ _None_
         },
         {
           "label": "Politics",
-          "value": "bpol"
+          "value": "politics"
         },
         {
           "label": "Business",
-          "value": "bbiz"
+          "value": "business"
         },
         {
           "label": "Markets",
@@ -95,32 +96,28 @@ _None_
           "value": "technology"
         },
         {
-          "label": "Green",
-          "value": "green"
-        },
-        {
           "label": "Wealth",
           "value": "wealth"
-        },
-        {
-          "label": "Pursuits",
-          "value": "pursuits"
         },
         {
           "label": "Opinion",
           "value": "bview"
         },
         {
-          "label": "Equality",
-          "value": "equality"
-        },
-        {
           "label": "Businessweek",
           "value": "businessweek"
         },
         {
-          "label": "CityLab",
-          "value": "citylab"
+          "label": "Economics",
+          "value": "economics"
+        },
+        {
+          "label": "Industries",
+          "value": "industries"
+        },
+        {
+          "label": "Crypto",
+          "value": "crypto"
         }
       ]
     }
@@ -145,7 +142,7 @@ _None_
     {
       "description": "Bloomberg - News - Powered by RSSHub",
       "errorAt": "2026-07-17T08:12:23.276Z",
-      "errorMessage": "[GET] \"https://www.bloomberg.com/feeds/sitemap_news.xml\": 404 Not Found\n[GET] \"https://www.bloomberg.com/feeds/sitemap_news.xml\": 404 Not Found\nAuthentication failed. Access denied.\n/bloomberg\n[GET] \"https://www.bloomberg.com/feeds/sitemap_news.xml\": 404 Not Found\n[GET] \"https://www.bloomberg.com/feeds/sitemap_news.xml\": 404 Not Found\n[GET] \"https://www.bloomberg.com/feeds/sitemap_news.xml\": 404 Not Found\n[GET] \"https://www.bloomberg.com/feeds/sitemap_news.xml\": 404 Not Found\n[GET] \"https://www.bloomberg.com/feeds/sitemap_news.xml\": 404 Not Found\n[GET] \"https://www.bloomberg.com/feeds/sitemap_news.xml\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://www.bloomberg.com/feeds/sitemap_news.xml\": 404 Not Found\n[GET] \"https://www.bloomberg.com/feeds/sitemap_news.xml\": 404 Not Found\nAuthentication failed. Access denied.\n/bloomberg\n[GET] \"https://www.bloomberg.com/feeds/sitemap_news.xml\": 404 Not Found\n[GET] \"https://www.bloomberg.com/feeds/sitemap_news.xml\": 404 Not Found\n[GET] \"https://www.bloomberg.com/feeds/sitemap_news.xml\": 404 Not Found\n[GET] \"https://www.bloomberg.com/feeds/sitemap_news.xml\": 404 Not Found\n521 \n[GET] \"https://www.bloomberg.com/feeds/sitemap_news.xml\": 404 Not Found\n",
       "id": "64731996464440320",
       "image": null,
       "ownerUserId": null,

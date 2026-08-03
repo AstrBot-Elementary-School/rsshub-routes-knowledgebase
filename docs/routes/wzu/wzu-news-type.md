@@ -49,6 +49,9 @@ _None_
     "type": "分类，见下表 默认为`0`"
   },
   "path": "/news/:type?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

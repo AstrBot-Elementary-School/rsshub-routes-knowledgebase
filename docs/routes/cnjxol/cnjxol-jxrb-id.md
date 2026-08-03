@@ -79,6 +79,9 @@
       "target": "/jxrb/:id"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

@@ -56,6 +56,9 @@ _None_
     "path": "Path, `/home/new` by default, as Release Calendar"
   },
   "path": "/:path{.+}?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

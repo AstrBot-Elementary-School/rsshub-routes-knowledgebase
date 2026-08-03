@@ -58,6 +58,9 @@ _None_
     "category": "分类，见下表，默认为领导人活动"
   },
   "path": "/wjdt/:category?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "领导人活动_中华人民共和国外交部 - Powered by RSSHub",

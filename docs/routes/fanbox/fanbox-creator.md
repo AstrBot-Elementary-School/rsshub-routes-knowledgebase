@@ -67,8 +67,8 @@ _None_
   "topFeeds": [
     {
       "description": "特はない。 - Powered by RSSHub",
-      "errorAt": "2025-11-26T09:51:52.390Z",
-      "errorMessage": "page.evaluate: TypeError: Failed to fetch\n    at eval (eval at evaluate (:303:30), <anonymous>:1:30)\n    at UtilityScript.evaluate (<anonymous>:305:16)\n    at UtilityScript.<anonymous> (<anonymous>:1:44)\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "140056726308777984",
       "image": "https://pixiv.pximg.net/c/160x160_90_a2_g5/fanbox/public/images/user/3326223/icon/MueHg8Ixy6zLRTamiarKT8xC.jpeg",
       "ownerUserId": null,

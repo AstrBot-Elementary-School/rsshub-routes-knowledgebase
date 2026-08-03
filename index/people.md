@@ -6,7 +6,7 @@
 - URL: `people.com.cn`
 - Language: `_None_`
 - Aliases: `people, people.com.cn, 人民网`
-- Route Count: `3`
+- Route Count: `4`
 
 ## Routes
 
@@ -19,12 +19,20 @@
 - Maintainers: `nczitzk, pseudoyu`
 
 ### 领导留言板
-- Route ID: `people:/people/liuyan/:id/:state?`
-- Route Path: `/people/liuyan/:id/:state?`
+- Route ID: `people:/people/liuyan/:id?/:state?`
+- Route Path: `/people/liuyan/:id?/:state?`
 - File: `docs/routes/people/people-liuyan-id-state.md`
 - File Name: `people-liuyan-id-state.md`
 - Categories: `traditional-media`
-- Maintainers: `nczitzk`
+- Maintainers: `nczitzk, pseudoyu`
+
+### 人民日报电子版
+- Route ID: `people:/people/paper/:page?`
+- Route Path: `/people/paper/:page?`
+- File: `docs/routes/people/people-paper-page.md`
+- File Name: `people-paper-page.md`
+- Categories: `traditional-media`
+- Maintainers: `pseudoyu`
 
 ### 习近平系列重要讲话
 - Route ID: `people:/people/xjpjh/:keyword?/:year?`

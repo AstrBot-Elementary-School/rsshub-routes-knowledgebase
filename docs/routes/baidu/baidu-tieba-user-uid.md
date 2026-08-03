@@ -68,15 +68,11 @@ _None_
     "uid": "用户 ID"
   },
   "path": "/tieba/user/:uid",
-  "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
-  },
   "topFeeds": [
     {
       "description": "dengchunlai 的贴吧 - Powered by RSSHub",
       "errorAt": "2026-06-28T17:36:38.883Z",
-      "errorMessage": "[GET] \"https://tieba.baidu.com/home/main?un=dengchunlai\": 403 Forbidden\n",
+      "errorMessage": "Baidu Tieba RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#baidu\">BAIDU_COOKIE</a>\n",
       "id": "104695101579488257",
       "image": null,
       "ownerUserId": null,
@@ -86,16 +82,16 @@ _None_
       "url": "rsshub://baidu/tieba/user/dengchunlai"
     },
     {
-      "description": "双鱼座73 的贴吧 - Powered by RSSHub",
-      "errorAt": "2025-11-18T07:31:14.501Z",
-      "errorMessage": "[GET] \"https://tieba.baidu.com/home/main?un=18p2pmimi\": 403 Forbidden\n",
-      "id": "197374238844610560",
+      "description": "ryan_knight_12 的贴吧 - Powered by RSSHub",
+      "errorAt": "2026-04-24T05:52:29.901Z",
+      "errorMessage": "Baidu Tieba RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#baidu\">BAIDU_COOKIE</a>\n",
+      "id": "86949667680527360",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://tieba.baidu.com/home/main?un=18p2pmimi",
-      "title": "双鱼座73 的贴吧",
+      "siteUrl": "https://tieba.baidu.com/home/main?un=ryan_knight_12",
+      "title": "ryan_knight_12 的贴吧",
       "type": "feed",
-      "url": "rsshub://baidu/tieba/user/18p2pmimi"
+      "url": "rsshub://baidu/tieba/user/ryan_knight_12"
     }
   ]
 }

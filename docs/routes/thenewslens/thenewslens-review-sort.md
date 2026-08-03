@@ -59,6 +59,9 @@ _None_
       "target": "/review/:sort?"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

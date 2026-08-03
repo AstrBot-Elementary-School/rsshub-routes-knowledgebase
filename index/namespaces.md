@@ -4673,7 +4673,7 @@ Use this file to select the target namespace before opening route documents.
 ## 鹰角网络
 - Namespace: `hypergryph`
 - Aliases: `hypergryph, hypergryph.com, www, www.hypergryph.com, 鹰角网络`
-- Route Count: `5`
+- Route Count: `4`
 - Index File: `index/hypergryph.md`
 
 ## 有線新聞
@@ -7091,7 +7091,7 @@ Use this file to select the target namespace before opening route documents.
 ## 人民网
 - Namespace: `people`
 - Aliases: `people, people.com.cn, 人民网`
-- Route Count: `3`
+- Route Count: `4`
 - Index File: `index/people.md`
 
 ## PeoPo 公民新聞

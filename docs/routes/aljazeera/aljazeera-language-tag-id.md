@@ -94,6 +94,9 @@ _None_
       "target": "/chinese/tag/:id"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "Science and Technology | Today's latest from Al Jazeera - Powered by RSSHub",

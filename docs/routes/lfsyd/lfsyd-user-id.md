@@ -62,6 +62,9 @@ _None_
       "target": "/user/:id"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "www.iyingdi.com/"
 }

@@ -64,7 +64,7 @@ _None_
     "supportPodcast": true,
     "supportScihub": false
   },
-  "heat": 0,
+  "heat": 15,
   "location": "album.ts",
   "maintainers": [
     "lengthmin",
@@ -79,6 +79,31 @@ _None_
     "type": "专辑类型, 通常可以使用 `album`，可在对应专辑页面的 URL 中找到"
   },
   "path": "/:type/:id/:all?/:shownote?",
-  "topFeeds": []
+  "topFeeds": [
+    {
+      "description": "梁文道播客《八分》每周三、周五晚8点更新，欢迎留言说出你的问题和建议。 - Powered by RSSHub",
+      "errorAt": "2025-08-19T13:07:24.786Z",
+      "errorMessage": "Cannot read properties of undefined (reading 'albumPageMainInfo')\n",
+      "id": "53322153570297860",
+      "image": "https://imagev2.xmcdn.com/storages/3c93-audiofreehighqps/FB/D1/GKwRIRwHXJrWAATrWgHYPYcT.jpeg",
+      "ownerUserId": null,
+      "siteUrl": "https://www.ximalaya.com/album/51101122",
+      "title": "梁文道 · 八分",
+      "type": "feed",
+      "url": "rsshub://ximalaya/album/51101122/0/shownote"
+    },
+    {
+      "description": "不定期地和大家分享自己听的歌曲 - Powered by RSSHub",
+      "errorAt": "2026-05-05T13:15:46.997Z",
+      "errorMessage": "Cannot read properties of undefined (reading 'maxPageId')\n",
+      "id": "176104771918096384",
+      "image": "https://imagev2.xmcdn.com/storages/9c63-audiofreehighqps/32/A1/GAqh1QQMaQLtAA4vqgPya4ky.jpeg",
+      "ownerUserId": null,
+      "siteUrl": "https://www.ximalaya.com/album/101007301",
+      "title": "一些音乐故事的分享",
+      "type": "feed",
+      "url": "rsshub://ximalaya/album/101007301/all"
+    }
+  ]
 }
 ```

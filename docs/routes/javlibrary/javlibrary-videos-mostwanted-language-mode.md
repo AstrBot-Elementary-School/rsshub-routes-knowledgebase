@@ -57,6 +57,9 @@ _None_
     "/videos/mostwanted/:language?/:mode?",
     "/mostwanted/:language?/:mode?"
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

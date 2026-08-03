@@ -57,6 +57,9 @@ _None_
       "target": "/kuaixun"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

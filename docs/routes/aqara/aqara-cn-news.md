@@ -43,6 +43,9 @@ _None_
   ],
   "name": "新闻",
   "path": "/cn/news",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

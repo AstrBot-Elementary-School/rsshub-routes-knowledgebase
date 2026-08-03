@@ -86,16 +86,16 @@ _None_
       "url": "rsshub://gitee/events/silencedream"
     },
     {
-      "description": "lylsgit - 公开动态 - Powered by RSSHub",
-      "errorAt": "2025-11-03T11:22:13.725Z",
-      "errorMessage": "Failed to fetch\n",
-      "id": "180953239401500672",
+      "description": "callmer - 公开动态 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "158419992977388544",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://gitee.com/lylsgit",
-      "title": "lylsgit - 公开动态",
+      "siteUrl": "https://gitee.com/callmer",
+      "title": "callmer - 公开动态",
       "type": "feed",
-      "url": "rsshub://gitee/events/lylsgit"
+      "url": "rsshub://gitee/events/callmer"
     }
   ]
 }

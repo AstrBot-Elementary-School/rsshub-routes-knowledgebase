@@ -80,7 +80,7 @@ _None_
     {
       "description": "@policiadecolombia 828.9k Followers, 13 Following, 8.2m Likes - Watch awesome short videos created by Policía de Colombia - Powered by RSSHub",
       "errorAt": "2026-05-20T00:38:28.972Z",
-      "errorMessage": "page.goto: Target page, context or browser has been closed\n",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "1118368279467786240",
       "image": "https://p16-common-sign.tiktokcdn.com/tos-maliva-avt-0068/b0997e2e6fe717f31736b97de7253aa4~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=b8d90eb6&x-expires=1779379200&x-signature=TzthJcVwd65eQaFN%2BM7aodDqaN0%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
       "ownerUserId": null,

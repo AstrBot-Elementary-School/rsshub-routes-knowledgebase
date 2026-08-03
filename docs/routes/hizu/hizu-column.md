@@ -95,13 +95,14 @@
     }
   ],
   "test": {
-    "code": 0
+    "code": 1,
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
   "topFeeds": [
     {
       "description": "热点 - 珠海网 - Powered by RSSHub",
-      "errorAt": "2026-07-25T22:00:23.739Z",
-      "errorMessage": "[GET] \"https://pub-zhtb.hizh.cn/a/202607/31/AP6a6c0f2ee4b0d58931365767.json\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 43.248.231.31:443, 43.248.231.34:443, 43.248.231.32:443, 43.248.231.30:443, 43.248.231.35:443, 43.248.231.33:443, 43.248.231.29:443, 43.248.231.28:443, timeout: 10000ms))\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "76267574626993152",
       "image": null,
       "ownerUserId": null,

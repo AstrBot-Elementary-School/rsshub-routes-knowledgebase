@@ -51,6 +51,9 @@ _None_
     "path": "路径，默认为学院新闻"
   },
   "path": "/dongke/:path{.+}?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

@@ -60,6 +60,9 @@ _None_
       "target": "/column/:id"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

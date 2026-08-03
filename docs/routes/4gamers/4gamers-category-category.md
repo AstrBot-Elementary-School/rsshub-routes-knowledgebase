@@ -57,6 +57,9 @@ _None_
       "target": "/category/:category"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "4Gamers - 成人限定🔞 - Powered by RSSHub",

@@ -58,6 +58,9 @@ _None_
     "/:ver{[7x]}/:link{.+}",
     "/:link{.+}"
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

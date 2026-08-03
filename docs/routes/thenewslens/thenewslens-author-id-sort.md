@@ -61,6 +61,9 @@ _None_
       "target": "/author/:id/:sort?"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

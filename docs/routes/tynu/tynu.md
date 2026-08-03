@@ -58,6 +58,9 @@ _None_
       "target": ""
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "tynu.edu.cn/index/tzgg.htm"
 }

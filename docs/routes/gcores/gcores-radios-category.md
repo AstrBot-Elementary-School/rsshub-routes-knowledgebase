@@ -52,7 +52,7 @@ _None_
     "supportPodcast": true,
     "supportScihub": false
   },
-  "heat": 436,
+  "heat": 435,
   "location": "radio.tsx",
   "maintainers": [
     "eternasuno"

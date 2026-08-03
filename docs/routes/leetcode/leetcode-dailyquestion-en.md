@@ -38,7 +38,7 @@ _None_
     "programming"
   ],
   "example": "/leetcode/dailyquestion/en",
-  "heat": 18,
+  "heat": 19,
   "location": "dailyquestion-en.ts",
   "maintainers": [
     "IvanWng97"
@@ -52,6 +52,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "Leetcode Daily Question - Powered by RSSHub",

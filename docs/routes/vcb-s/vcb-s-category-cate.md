@@ -54,7 +54,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 73,
+  "heat": 72,
   "location": "category.ts",
   "maintainers": [
     "cxfksword"

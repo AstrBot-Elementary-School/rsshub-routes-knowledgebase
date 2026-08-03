@@ -55,7 +55,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 6,
+  "heat": 2,
   "location": "news.ts",
   "maintainers": [
     "zytomorrow"
@@ -74,7 +74,8 @@
     }
   ],
   "test": {
-    "code": 0
+    "code": 1,
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
   "topFeeds": [
     {
@@ -90,16 +91,16 @@
       "url": "rsshub://dykszx/news"
     },
     {
-      "description": "德阳人事考试网 考试新闻发布 (执（职）业资格、职称考试) - Powered by RSSHub",
-      "errorAt": "2025-10-09T02:19:22.169Z",
-      "errorMessage": "[GET] \"https://www.dykszx.com\": <no response> fetch failed\n",
-      "id": "161654936649409536",
+      "description": "德阳人事考试网 考试新闻发布 (公务员考试) - Powered by RSSHub",
+      "errorAt": "2025-10-09T00:25:38.064Z",
+      "errorMessage": "[GET] \"https://www.dykszx.cn\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 222.213.85.69:443, 240e:699:1c01:712:5298:3ab3:6d3:1b5b:443, timeout: 10000ms))\n",
+      "id": "161654225832322048",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.dykszx.com/",
-      "title": "考试新闻发布(执（职）业资格、职称考试)",
+      "title": "考试新闻发布(公务员考试)",
       "type": "feed",
-      "url": "rsshub://dykszx/news/zyzc"
+      "url": "rsshub://dykszx/news/gwy"
     }
   ],
   "url": "www.dykszx.cn"

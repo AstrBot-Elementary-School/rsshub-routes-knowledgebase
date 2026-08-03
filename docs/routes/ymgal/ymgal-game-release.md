@@ -79,7 +79,7 @@ _None_
       "id": "41467081627747333",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.ymgal.games/release-list/2026/7",
+      "siteUrl": "https://www.ymgal.games/release-list/2026/8",
       "title": "月幕 Galgame - 本月新作",
       "type": "feed",
       "url": "rsshub://ymgal/game/release"

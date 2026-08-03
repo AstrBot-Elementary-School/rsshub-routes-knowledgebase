@@ -112,6 +112,9 @@
       "target": ""
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "www.transcriptforest.com/en/channel"
 }

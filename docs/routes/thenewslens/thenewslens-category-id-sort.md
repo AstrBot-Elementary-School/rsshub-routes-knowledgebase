@@ -61,6 +61,9 @@ _None_
       "target": "/category/:id/:sort?"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": null,

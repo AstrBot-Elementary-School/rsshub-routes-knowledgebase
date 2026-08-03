@@ -57,6 +57,9 @@ _None_
     "/videos/bestrated/:language?/:mode?",
     "/bestrated/:language?/:mode?"
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

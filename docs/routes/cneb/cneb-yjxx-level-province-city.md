@@ -98,6 +98,9 @@
       "target": "/yjxx"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "国家应急广播 - 预警信息 - Powered by RSSHub",

@@ -52,6 +52,9 @@ _None_
     "/videos/newentries/:language?",
     "/newentries/:language?"
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

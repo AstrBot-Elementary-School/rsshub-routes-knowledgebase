@@ -61,6 +61,9 @@ _None_
     "/users/:id/:type/:language?",
     "/:type/:id/:language?"
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

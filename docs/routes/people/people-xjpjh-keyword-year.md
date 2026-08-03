@@ -9,7 +9,7 @@
 - Route Path: `/people/xjpjh/:keyword?/:year?`
 - Route Name: `习近平系列重要讲话`
 - Example: `/people/xjpjh`
-- URL: `people.com.cn/`
+- URL: `jhsjk.people.cn`
 - Language: `_None_`
 - Categories: `traditional-media`
 - Maintainers: `LogicJake`
@@ -35,8 +35,8 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `people.com.cn/`
-- `target`: `/:site?/:category?`
+  - `jhsjk.people.cn/`
+- `target`: `/xjpjh`
 
 ## Raw JSON
 ```json
@@ -67,9 +67,9 @@ _None_
   "radar": [
     {
       "source": [
-        "people.com.cn/"
+        "jhsjk.people.cn/"
       ],
-      "target": "/:site?/:category?"
+      "target": "/xjpjh"
     }
   ],
   "test": {
@@ -90,6 +90,6 @@ _None_
       "url": "rsshub://people/xjpjh"
     }
   ],
-  "url": "people.com.cn/"
+  "url": "jhsjk.people.cn"
 }
 ```

@@ -54,6 +54,9 @@ _None_
       "target": "/recruit"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

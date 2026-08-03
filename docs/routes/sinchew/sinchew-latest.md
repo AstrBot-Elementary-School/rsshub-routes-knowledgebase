@@ -56,6 +56,9 @@ _None_
       "target": "/latest"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

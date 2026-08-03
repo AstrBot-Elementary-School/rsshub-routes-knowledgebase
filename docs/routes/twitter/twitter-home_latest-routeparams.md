@@ -99,7 +99,7 @@ Currently supported authentication methods:
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 76,
+  "heat": 77,
   "location": "home-latest.ts",
   "maintainers": [
     "DIYgod",

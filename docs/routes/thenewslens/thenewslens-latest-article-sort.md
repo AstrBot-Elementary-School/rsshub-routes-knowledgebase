@@ -62,6 +62,9 @@ _None_
       "target": "/latest-article/:sort?"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

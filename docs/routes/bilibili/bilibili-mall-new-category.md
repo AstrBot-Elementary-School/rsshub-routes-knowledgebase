@@ -79,16 +79,16 @@ _None_
       "url": "rsshub://bilibili/mall/new/1"
     },
     {
-      "description": "会员购新品上架-全部 - Powered by RSSHub",
+      "description": "会员购新品上架-周边 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "60873113485072384",
+      "id": "76101766062304256",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://mall.bilibili.com/newdate.html?noTitleBar=1&page=new&from=new_product&loadingShow=1",
-      "title": "会员购新品上架-全部",
+      "title": "会员购新品上架-周边",
       "type": "feed",
-      "url": "rsshub://bilibili/mall/new"
+      "url": "rsshub://bilibili/mall/new/3"
     }
   ]
 }

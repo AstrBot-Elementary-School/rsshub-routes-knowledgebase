@@ -153,6 +153,9 @@ _None_
     "category": "分类，见下表，默认为首页"
   },
   "path": "/:category?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

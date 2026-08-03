@@ -64,7 +64,7 @@ _None_
     {
       "description": "小黑盒游戏新闻 - Powered by RSSHub",
       "errorAt": "2026-04-03T12:44:54.464Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'content')\nCannot read properties of undefined (reading 'content')\nCannot read properties of undefined (reading 'content')\nCannot read properties of undefined (reading 'content')\nCannot read properties of undefined (reading 'content')\nCannot read properties of undefined (reading 'content')\nCannot read properties of undefined (reading 'content')\n",
+      "errorMessage": "Cannot read properties of undefined (reading 'content')\nCannot read properties of undefined (reading 'content')\nCannot read properties of undefined (reading 'content')\nCannot read properties of undefined (reading 'content')\n[GET] \"https://api.xiaoheihe.cn/bbs/app/feeds/news?os_type=web&app=heybox&client_type=mobile&version=999.0.3&x_client_type=web&x_os_type=Mac&x_app=heybox&heybox_id=-1&appid=900018355&offset=0&limit=20&hkey=T2RHJ22&_time=1785616486&nonce=E1DBED96BB471D3CA08F92814A4B5C9D\": 500 Internal Server Error\nCannot read properties of undefined (reading 'content')\nCannot read properties of undefined (reading 'content')\n",
       "id": "41374762779449344",
       "image": null,
       "ownerUserId": null,

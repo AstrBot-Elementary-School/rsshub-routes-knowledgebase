@@ -66,6 +66,9 @@ _None_
     "category": "节目 id，可在对应节目页 URL 中找到，见下表，默认为 `sdws/sdxwlb`，即山东新闻联播"
   },
   "path": "/v/:category{.+}?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "404 - Powered by RSSHub",

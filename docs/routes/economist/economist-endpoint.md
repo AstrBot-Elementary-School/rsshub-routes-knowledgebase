@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 920,
+  "heat": 919,
   "location": "full.ts",
   "maintainers": [
     "ImSingee"
@@ -75,7 +75,7 @@ _None_
     {
       "description": "The most recent blogs and online articles from The Economist - Powered by RSSHub",
       "errorAt": "2025-09-05T18:15:19.885Z",
-      "errorMessage": "[GET] \"https://www.economist.com/graphic-detail/2026/07/30/our-estimated-death-toll-for-this-years-wildfires\": 403 Forbidden\n[GET] \"https://www.economist.com/graphic-detail/2026/07/30/our-estimated-death-toll-for-this-years-wildfires\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.economist.com/britain/2026/08/01/andy-burnham-passes-his-first-test\": 403 Forbidden\n[GET] \"https://www.economist.com/britain/2026/08/01/andy-burnham-passes-his-first-test\": 403 Forbidden\n",
       "id": "54859243036899328",
       "image": null,
       "ownerUserId": null,
@@ -87,7 +87,7 @@ _None_
     {
       "description": "China - Powered by RSSHub",
       "errorAt": "2025-09-05T17:22:28.529Z",
-      "errorMessage": "[GET] \"https://www.economist.com/china/2026/07/27/xi-jinping-pioneering-venture-capitalist\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/07/28/sex-blood-and-communist-party-virtues\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/07/28/sex-blood-and-communist-party-virtues\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.economist.com/interactive/china/2026/07/21/chinas-shadowy-maritime-militia-is-worryingly-active\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/07/30/the-curious-never-ending-crackdown-on-hong-kongs-booksellers\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/07/30/the-curious-never-ending-crackdown-on-hong-kongs-booksellers\": 403 Forbidden\n",
       "id": "41461870197170199",
       "image": null,
       "ownerUserId": null,

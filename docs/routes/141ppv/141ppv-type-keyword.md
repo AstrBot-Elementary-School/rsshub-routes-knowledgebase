@@ -85,6 +85,9 @@ _None_
     "type": "类型，可查看下表的类型说明"
   },
   "path": "/:type/:keyword{.+}?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "141PPV - Popular (30 days) - Powered by RSSHub",

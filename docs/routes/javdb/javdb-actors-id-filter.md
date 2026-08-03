@@ -69,7 +69,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4895,
+  "heat": 4896,
   "location": "actors.ts",
   "maintainers": [
     "nczitzk"
@@ -105,14 +105,14 @@
       "url": "rsshub://javdb/actors/0dKX"
     },
     {
-      "description": "河北彩花 - JavDB - Powered by RSSHub",
+      "description": "Kawakita Saika - JavDB - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "59231069957378048",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://javdb.com/actors/EvkJ",
-      "title": "河北彩花 - JavDB",
+      "title": "Kawakita Saika - JavDB",
       "type": "feed",
       "url": "rsshub://javdb/actors/EvkJ"
     }

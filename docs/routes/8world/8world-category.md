@@ -46,7 +46,7 @@ _None_
   ],
   "description": "| 分类                   | id             |\n| ---------------------- | -------------- |\n| 即时 REALTIME          | realtime       |\n| 新加坡 SINGAPORE       | singapore      |\n| 东南亚 SOUTH-EAST ASIA | southeast-asia |\n| 中港台 GREATER CHINA   | greater-china  |\n| 国际 WORLD             | world          |\n| 财经 FINANCE           | finance        |\n| 体育 SPORTS            | sports         |\n| 社团 COMMUNITY         | community      |",
   "example": "/8world/realtime",
-  "heat": 13,
+  "heat": 16,
   "location": "index.ts",
   "maintainers": [
     "nczitzk"
@@ -56,6 +56,9 @@ _None_
     "category": "分类 id，见下表，默认为即时 REALTIME"
   },
   "path": "/:category?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "即时新闻 - 掌握新加坡、东南亚和国际新闻，一览最新新闻大事 - 8world - Powered by RSSHub",

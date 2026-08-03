@@ -69,6 +69,9 @@ _None_
       "target": "/game"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

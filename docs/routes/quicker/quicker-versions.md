@@ -44,6 +44,9 @@ _None_
   ],
   "name": "版本更新",
   "path": "/versions",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "Quicker版本历史 - Quicker - Powered by RSSHub",

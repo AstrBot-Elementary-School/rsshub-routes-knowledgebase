@@ -72,7 +72,7 @@ _None_
     {
       "description": "[个人翻译][长篇][羽田宇佐]一周一次买下同班同学的那些事（2026.6.7更新至第419话） - 轻小说/译文区 - Powered by RSSHub",
       "errorAt": "2026-06-09T06:57:01.888Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "521 \nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "99377084384904192",
       "image": null,
       "ownerUserId": null,

@@ -61,6 +61,9 @@ _None_
     "id": "Series ID, can be found in API get request on series page"
   },
   "path": "/series/:id",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [],
   "url": "omegascans.org"
 }

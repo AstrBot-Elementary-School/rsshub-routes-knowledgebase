@@ -67,6 +67,9 @@ _None_
       "target": "/category/:id"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "getitfree.cn"
 }

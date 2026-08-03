@@ -105,6 +105,9 @@ _None_
       "target": "/tag/:id"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "getitfree.cn"
 }

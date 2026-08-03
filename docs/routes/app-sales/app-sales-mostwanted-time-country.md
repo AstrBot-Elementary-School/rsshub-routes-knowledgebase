@@ -222,18 +222,6 @@
   "topFeeds": [
     {
       "description": "The hottest android apps from the last 24 hours, 7 days or all-time. - Powered by RSSHub",
-      "errorAt": "2026-07-01T02:45:42.679Z",
-      "errorMessage": "[GET] \"https://www.app-sales.net/mostwanted/\": <no response> fetch failed\n",
-      "id": "272254035724080128",
-      "image": "https://www.app-sales.net/img/appsales_logo_claim.png",
-      "ownerUserId": null,
-      "siteUrl": "https://www.app-sales.net/mostwanted/",
-      "title": "Watchlist Charts | AppSales - Last Week",
-      "type": "feed",
-      "url": "rsshub://app-sales/mostwanted/week/us"
-    },
-    {
-      "description": "The hottest android apps from the last 24 hours, 7 days or all-time. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "198041481153666048",
@@ -243,6 +231,18 @@
       "title": "Watchlist Charts | AppSales - Last 24h",
       "type": "feed",
       "url": "rsshub://app-sales/mostwanted/24h/us"
+    },
+    {
+      "description": "The hottest android apps from the last 24 hours, 7 days or all-time. - Powered by RSSHub",
+      "errorAt": "2026-07-01T02:45:42.679Z",
+      "errorMessage": "[GET] \"https://www.app-sales.net/mostwanted/\": <no response> fetch failed\n",
+      "id": "272254035724080128",
+      "image": "https://www.app-sales.net/img/appsales_logo_claim.png",
+      "ownerUserId": null,
+      "siteUrl": "https://www.app-sales.net/mostwanted/",
+      "title": "Watchlist Charts | AppSales - Last Week",
+      "type": "feed",
+      "url": "rsshub://app-sales/mostwanted/week/us"
     }
   ],
   "url": "app-sales.net",

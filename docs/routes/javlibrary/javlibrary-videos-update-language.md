@@ -52,6 +52,9 @@ _None_
     "/videos/update/:language?",
     "/update/:language?"
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

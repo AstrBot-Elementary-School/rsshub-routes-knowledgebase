@@ -50,6 +50,9 @@ _None_
     "channel": "频道，见下表"
   },
   "path": "/itnews/:channel",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

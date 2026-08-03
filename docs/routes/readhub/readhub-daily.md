@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4803,
+  "heat": 4804,
   "location": "daily.ts",
   "maintainers": [
     "nczitzk",
@@ -73,7 +73,7 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "1. 宇树科技：初步询价日为 8 月 5 日，网上网下申购日为 8 月 10 日 2. 字节跳动启动 AI 业务组织调整：飞书与豆包火山团队整合 3. 影视飓风给员工发 N 倍月薪当奖金，初代员工可获 15 万 4. 携程回应 1.5 万元国际机票仅退 432 元：已补偿 14727 元 5. 诺奖级 AlphaFold 团队被拆散，DeepMind 科研战略迎重大调整 6. 听泉赏宝否认炒股亏光父母半生积蓄 7. OpenAI CEO 与美国立法者探讨下一代 AI 模型 8. OpenAI 首席财务官透露：公司 7 月年化收入超过整个第二季度 9. 特斯拉全球第 1000 万辆电动车下线 10. 高通宣布 9 月 1 日起上调手机芯片价格，涨幅或达两位数 11. 马斯克再放模型路线图：Grok 4.6 定档 8 月 7 日 12. 谷歌发布 Gemini 机器人 AI 模型，旨在解决机器人「灵巧性」难题 - Powered by RSSHub",
+      "description": "1. 蔡崇信与妻子结束近 30 年婚姻 2. OpenAI 或将推迟至明年启动上市 3. 亚马逊完成对 OpenAI 总计 500 亿美元全额投资 4. TikTok Shop 新加坡 GMV 同比增长 1.7 倍 5. OpenAI 本周向美国决策者演示新模型系列 Astra 6. OpenAI 发现更多智能体逃逸案例 但目前尚未公开发布完整的内部调查细节 7. 长鑫科技 LPDDR6 接近研发验证尾声 8. GPT-5.6 今起大降价，最大幅度 80% - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "52347176714948614",

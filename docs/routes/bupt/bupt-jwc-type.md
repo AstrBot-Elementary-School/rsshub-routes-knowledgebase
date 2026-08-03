@@ -92,7 +92,7 @@ _None_
     {
       "description": "北京邮电大学教务处 - 通知公告 - Powered by RSSHub",
       "errorAt": "2025-06-17T10:59:36.247Z",
-      "errorMessage": "[GET] \"https://jwc.bupt.edu.cn/tzgg1.htm\": 412 Precondition Failed\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "60007690824851456",
       "image": null,
       "ownerUserId": null,

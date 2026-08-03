@@ -49,6 +49,9 @@ _None_
     "locale": "Blog posts in a specified language, only the following options are supported. Default `zh_CN`"
   },
   "path": "/awsblogs/:locale?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "AWS Blog 更新 - Powered by RSSHub",

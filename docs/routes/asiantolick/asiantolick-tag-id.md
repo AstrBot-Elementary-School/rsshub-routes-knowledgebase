@@ -99,6 +99,9 @@
       "target": "/tag/:id"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "asiantolick.com/"
 }

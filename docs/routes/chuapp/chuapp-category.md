@@ -62,7 +62,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 12,
+  "heat": 13,
   "location": "chuapp.ts",
   "maintainers": [
     "dousha"
@@ -91,18 +91,6 @@
   },
   "topFeeds": [
     {
-      "description": "触乐 - 每日聚焦 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "128265220294458368",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.chuapp.com/category/daily",
-      "title": "触乐 - 每日聚焦",
-      "type": "feed",
-      "url": "rsshub://chuapp/daily"
-    },
-    {
       "description": "触乐 - 触乐夜话 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -113,6 +101,18 @@
       "title": "触乐 - 触乐夜话",
       "type": "feed",
       "url": "rsshub://chuapp/night"
+    },
+    {
+      "description": "触乐 - 每日聚焦 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "128265220294458368",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.chuapp.com/category/daily",
+      "title": "触乐 - 每日聚焦",
+      "type": "feed",
+      "url": "rsshub://chuapp/daily"
     }
   ]
 }

@@ -53,6 +53,9 @@ _None_
     "tag": "Tag name inside the url of the tag page"
   },
   "path": "/:subsite/:tag?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "Apple News & Mac Rumors Breaking All Day - Powered by RSSHub",
