@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 748,
+  "heat": 749,
   "location": "topics.ts",
   "maintainers": [
     "zoenglinghou",
@@ -96,8 +96,8 @@ _None_
     },
     {
       "description": "Associated Press News: Breaking News, Latest Headlines and Videos | AP News - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-03T06:01:55.471Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 41648644680942592",
       "id": "41648644680942592",
       "image": null,
       "ownerUserId": null,

@@ -63,7 +63,7 @@
     "nsfw": true,
     "requirePuppeteer": true
   },
-  "heat": 1335,
+  "heat": 1336,
   "location": "index.ts",
   "maintainers": [
     "nczitzk"
@@ -88,8 +88,8 @@
   "topFeeds": [
     {
       "description": "有碼 - JavDB - 可下载 | 磁鏈更新排序 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-03T05:30:38.839Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 73931561418737664",
       "id": "73931561418737664",
       "image": null,
       "ownerUserId": null,

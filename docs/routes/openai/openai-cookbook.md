@@ -60,7 +60,7 @@ _None_
     {
       "description": "OpenAI Cookbook - Powered by RSSHub",
       "errorAt": "2025-11-14T02:06:39.966Z",
-      "errorMessage": "[GET] \"https://cookbook.openai.com/\": 403 Forbidden\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "[GET] \"https://cookbook.openai.com/\": 403 Forbidden\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n[GET] \"https://cookbook.openai.com/\": 403 Forbidden\n",
       "id": "74337787033297920",
       "image": null,
       "ownerUserId": null,

@@ -40,7 +40,7 @@ _None_
   ],
   "description": "| 中国  | 新加坡    | 国际  | 财经     |\n| ----- | --------- | ----- | -------- |\n| china | singapore | world | zfinance |",
   "example": "/zaobao/realtime/china",
-  "heat": 8959,
+  "heat": 8963,
   "location": "realtime.ts",
   "maintainers": [
     "shunf4"

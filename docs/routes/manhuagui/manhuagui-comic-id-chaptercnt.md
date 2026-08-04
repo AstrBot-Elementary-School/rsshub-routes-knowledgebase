@@ -89,7 +89,7 @@ _None_
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.manhuagui.com/comic/1128/",
-      "title": "看漫画 - ONE PIECE航海王",
+      "title": "看漫画 - ONE PIECE航海王 已下架",
       "type": "feed",
       "url": "rsshub://manhuagui/comic/1128"
     },

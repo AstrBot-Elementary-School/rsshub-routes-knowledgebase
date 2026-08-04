@@ -87,7 +87,7 @@ _None_
     },
     {
       "description": "公务员及事业单位考试 - 湖南人事考试网 - Powered by RSSHub",
-      "errorAt": "2026-08-01T10:28:09.079Z",
+      "errorAt": "2026-07-31T11:39:58.051Z",
       "errorMessage": "[GET] \"http://rsks.hunanpea.com/Category/c5a6f516-fd54-4578-90bd-0cb6a1c95570/ArticlesByCategory.do?PageIndex=1\": 404 Not Found\n",
       "id": "62787884154546176",
       "image": null,

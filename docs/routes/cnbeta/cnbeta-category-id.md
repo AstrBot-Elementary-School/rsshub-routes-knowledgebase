@@ -64,8 +64,8 @@ _None_
   "topFeeds": [
     {
       "description": "cnBeta.COM - 中文业界资讯站 - Powered by RSSHub",
-      "errorAt": "2026-08-02T01:31:21.810Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 61806357094007808",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "61806357094007808",
       "image": null,
       "ownerUserId": null,

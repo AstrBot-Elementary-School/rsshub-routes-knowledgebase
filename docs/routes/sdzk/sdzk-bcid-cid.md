@@ -87,13 +87,13 @@ _None_
       "description": "工作动态_山东省教育招生考试院 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "57309725932286976",
+      "id": "108788523729788928",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.sdzk.cn/NewsList.aspx?BCID=1&CID=16",
       "title": "工作动态_山东省教育招生考试院",
       "type": "feed",
-      "url": "rsshub://sdzk"
+      "url": "rsshub://sdzk/1"
     }
   ]
 }

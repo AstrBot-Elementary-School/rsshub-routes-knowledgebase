@@ -19,8 +19,8 @@
 - Maintainers: `nczitzk, pseudoyu`
 
 ### 领导留言板
-- Route ID: `people:/people/liuyan/:id?/:state?`
-- Route Path: `/people/liuyan/:id?/:state?`
+- Route ID: `people:/people/liuyan/:id/:state?`
+- Route Path: `/people/liuyan/:id/:state?`
 - File: `docs/routes/people/people-liuyan-id-state.md`
 - File Name: `people-liuyan-id-state.md`
 - Categories: `traditional-media`

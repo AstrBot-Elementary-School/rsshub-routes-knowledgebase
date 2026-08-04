@@ -9536,6 +9536,12 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `1`
 - Index File: `index/wufazhuce.md`
 
+## Museum of Wu
+- Namespace: `wuzhongmuseum`
+- Aliases: `museum of wu, wuzhongmuseum, wuzhongmuseum.com, www, www.wuzhongmuseum.com`
+- Route Count: `1`
+- Index File: `index/wuzhongmuseum.md`
+
 ## 乌有之乡
 - Namespace: `wyzxwk`
 - Aliases: `wyzxwk, wyzxwk.com, 乌有之乡`

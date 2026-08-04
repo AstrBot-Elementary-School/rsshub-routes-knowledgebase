@@ -59,7 +59,7 @@ _None_
     {
       "description": "石之家 - 逆光喵w@白金幻象 的游戏近况 - Powered by RSSHub",
       "errorAt": "2026-06-09T11:52:28.184Z",
-      "errorMessage": "ff14risingstones RSS is disabled due to the lack of relevant config\nff14risingstones RSS is disabled due to the lack of relevant config\n",
+      "errorMessage": "521 \nff14risingstones RSS is disabled due to the lack of relevant config\n",
       "id": "188043959662886912",
       "image": "https://ff14risingstones.gcloud.com.cn/posts/20231219/10008214/63190f76d3e6434697bcad93f08c6993/1702954251708_9261a34a1702954251708.gif",
       "ownerUserId": null,

@@ -91,16 +91,16 @@ _None_
       "url": "rsshub://github/pulse/haoheliu/AudioLDM/weekly"
     },
     {
-      "description": "wood3n/biu weekly Pulse - Powered by RSSHub",
+      "description": "RVC-Project/Retrieval-based-Voice-Conversion-WebUI weekly Pulse - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "215344700650354688",
+      "id": "220767323256864795",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/wood3n/biu/pulse/weekly",
-      "title": "wood3n/biu weekly Pulse",
+      "siteUrl": "https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/pulse/weekly",
+      "title": "RVC-Project/Retrieval-based-Voice-Conversion-WebUI weekly Pulse",
       "type": "feed",
-      "url": "rsshub://github/pulse/wood3n/biu"
+      "url": "rsshub://github/pulse/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/weekly"
     }
   ]
 }

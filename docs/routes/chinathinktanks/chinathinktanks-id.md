@@ -114,7 +114,7 @@ _None_
     {
       "description": "中国智库网 —— 智库要闻 - Powered by RSSHub",
       "errorAt": "2026-01-01T08:00:14.789Z",
-      "errorMessage": "[GET] \"https://www.chinathinktanks.org.cn/content/list?id=57&pt=1\": 404 Not Found\n[GET] \"https://www.chinathinktanks.org.cn/content/list?id=57&pt=1\": 404 Not Found\n",
+      "errorMessage": "502 \n[GET] \"https://www.chinathinktanks.org.cn/content/list?id=57&pt=1\": 404 Not Found\n",
       "id": "63858618178298974",
       "image": null,
       "ownerUserId": null,

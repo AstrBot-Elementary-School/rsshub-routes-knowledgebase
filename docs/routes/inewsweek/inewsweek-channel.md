@@ -57,7 +57,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 401,
+  "heat": 395,
   "location": "index.ts",
   "maintainers": [
     "changren-wcr"
@@ -93,8 +93,8 @@
     },
     {
       "description": "中国新闻周刊--国际 - Powered by RSSHub",
-      "errorAt": "2026-08-01T13:41:49.154Z",
-      "errorMessage": "[GET] \"http://news.inewsweek.cn/world\": <no response> fetch failed (getaddrinfo ENOTFOUND news.inewsweek.cn)\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "66134229854672896",
       "image": null,
       "ownerUserId": null,

@@ -79,16 +79,16 @@ _None_
       "url": "rsshub://tongji/sem/academic-paper"
     },
     {
-      "description": "视点 - Powered by RSSHub",
+      "description": "新闻 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "79123105460402176",
+      "id": "79122535436852224",
       "image": "https://upload.wikimedia.org/wikipedia/zh/f/f8/Tongji_University_Emblem.svg",
       "ownerUserId": null,
       "siteUrl": "https://sem.tongji.edu.cn/semch",
       "title": "同济大学经济与管理学院",
       "type": "feed",
-      "url": "rsshub://tongji/sem/focus"
+      "url": "rsshub://tongji/sem/news"
     }
   ],
   "url": "sem.tongji.edu.cn/semch"

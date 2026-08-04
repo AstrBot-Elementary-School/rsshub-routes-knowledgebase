@@ -39,7 +39,7 @@ _None_
     "program-update"
   ],
   "example": "/android/pixel-update-bulletin",
-  "heat": 1,
+  "heat": 2,
   "location": "pixel-update-bulletin.ts",
   "maintainers": [
     "TonyRL"

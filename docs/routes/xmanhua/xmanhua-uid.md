@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 32,
+  "heat": 31,
   "location": "index.ts",
   "maintainers": [
     "Ye11"

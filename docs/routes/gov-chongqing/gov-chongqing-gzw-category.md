@@ -30,7 +30,8 @@ _None_
 
 ## Radar
 ### Rule 1
-- `source`: `gzw.cq.gov.cn/*category`
+- `source`:
+  - `gzw.cq.gov.cn/*category`
 - `target`: `/gzw/*category`
 
 ## Raw JSON
@@ -53,7 +54,9 @@ _None_
   "path": "/gzw/:category{.+}?",
   "radar": [
     {
-      "source": "gzw.cq.gov.cn/*category",
+      "source": [
+        "gzw.cq.gov.cn/*category"
+      ],
       "target": "/gzw/*category"
     }
   ],

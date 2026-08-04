@@ -95,8 +95,8 @@ _None_
   "topFeeds": [
     {
       "description": "Twitch - Riot Games - Recent highlights and uploads - Powered by RSSHub",
-      "errorAt": "2026-06-18T01:29:07.679Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'user')\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "59281409354376192",
       "image": null,
       "ownerUserId": null,

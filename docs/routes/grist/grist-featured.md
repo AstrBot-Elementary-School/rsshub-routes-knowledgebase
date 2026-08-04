@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 22,
+  "heat": 23,
   "location": "featured.ts",
   "maintainers": [
     "Rjnishant530"

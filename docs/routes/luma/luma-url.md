@@ -88,16 +88,16 @@ _None_
       "url": "rsshub://luma/langchain"
     },
     {
-      "description": "Comunidad de Innovación LATAM - Powered by RSSHub",
+      "description": "Eventos Ignia - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "265966889769333760",
+      "id": "265966934845992960",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://lu.ma/comunidadinnovacion",
-      "title": "Comunidad de Innovación LATAM",
+      "siteUrl": "https://lu.ma/ignia",
+      "title": "Eventos Ignia",
       "type": "feed",
-      "url": "rsshub://luma/comunidadinnovacion"
+      "url": "rsshub://luma/ignia"
     }
   ],
   "url": "lu.ma"

@@ -33,7 +33,8 @@ _None_
 
 ## Radar
 ### Rule 1
-source
+- `source`:
+  - `www.tmtpost.com`
 
 ## Raw JSON
 ```json
@@ -58,11 +59,13 @@ source
   "name": "快报",
   "parameters": {},
   "path": "/nictation",
-  "radar": {
-    "source": [
-      "www.tmtpost.com"
-    ]
-  },
+  "radar": [
+    {
+      "source": [
+        "www.tmtpost.com"
+      ]
+    }
+  ],
   "test": {
     "code": 1
   },

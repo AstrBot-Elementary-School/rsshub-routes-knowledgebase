@@ -33,7 +33,12 @@
 
 
 ## Features
-_None_
+- `requireConfig`: false
+- `requirePuppeteer`: false
+- `antiCrawler`: false
+- `supportBT`: false
+- `supportPodcast`: false
+- `supportScihub`: false
 
 ## Radar
 ### Rule 1
@@ -49,6 +54,14 @@ _None_
   ],
   "description": "学校可能会因为 IP 来源非学校而做出一定的限制，建议在校内网络环境下使用 RSS 阅读器订阅。\n\n| 类型     | 参数           | 可能需要校内访问 |\n| -------- | -------------- | ---------------- |\n| 部处简讯 | department     | 是               |\n| 学院简讯 | academy        | 是               |\n| 校内通知 | notice         | 是               |\n| 公示公告 | announcement   | 是               |\n| 招标结果 | tender\\_result | 否               |\n| 招标公告 | tender\\_invite | 否               |",
   "example": "/gdut/oa_news/notice",
+  "features": {
+    "antiCrawler": false,
+    "requireConfig": false,
+    "requirePuppeteer": false,
+    "supportBT": false,
+    "supportPodcast": false,
+    "supportScihub": false
+  },
   "heat": 0,
   "location": "oa-news.ts",
   "maintainers": [

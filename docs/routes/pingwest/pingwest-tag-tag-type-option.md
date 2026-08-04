@@ -94,16 +94,16 @@ _None_
       "url": "rsshub://pingwest/tag/20327/1/fulltext"
     },
     {
-      "description": "品玩 - ChinaJoy - Powered by RSSHub",
+      "description": "品玩 - 新零售 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "69704836086005760",
+      "id": "86387422106570752",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.pingwest.com/tag/ChinaJoy",
-      "title": "品玩 - ChinaJoy",
+      "siteUrl": "https://www.pingwest.com/tag/12279",
+      "title": "品玩 - 新零售",
       "type": "feed",
-      "url": "rsshub://pingwest/tag/ChinaJoy/1"
+      "url": "rsshub://pingwest/tag/12279/1"
     }
   ]
 }

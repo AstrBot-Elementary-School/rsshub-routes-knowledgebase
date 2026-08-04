@@ -64,8 +64,8 @@ _None_
   "topFeeds": [
     {
       "description": "中国科技网 - 科技日报 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-03T06:09:50.319Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 63118600077338629",
       "id": "63118600077338629",
       "image": "https://www.stdaily.com/favicon.ico",
       "ownerUserId": null,

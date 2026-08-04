@@ -116,16 +116,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "A high-performance rendering engine replacement for Minecraft, which greatly improves frame rates and reduces micro-stutter. - Powered by RSSHub",
+      "description": "Add unlimited crates to your server with 11 different crate types to choose from! - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "120292750977081344",
+      "id": "114584532715532288",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/sodium",
-      "title": "Sodium Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/r3BBZyf3",
+      "title": "CrazyCrates Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/sodium/versions"
+      "url": "rsshub://modrinth/project/r3BBZyf3/versions"
     }
   ]
 }

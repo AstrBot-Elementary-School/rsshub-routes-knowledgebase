@@ -83,18 +83,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "New contributors for KrystalCJ/Conf - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "64129774135370752",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://github.com/KrystalCJ/Conf/graphs/contributors",
-      "title": "KrystalCJ/Conf Contributors",
-      "type": "feed",
-      "url": "rsshub://github/contributors/KrystalCJ/Conf"
-    },
-    {
       "description": "New contributors for yang991178/fluent-reader - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -105,6 +93,18 @@ _None_
       "title": "yang991178/fluent-reader Contributors",
       "type": "feed",
       "url": "rsshub://github/contributors/yang991178/fluent-reader"
+    },
+    {
+      "description": "New contributors for PixarAnimationStudios/OpenUSD - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "84958270281030656",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://github.com/PixarAnimationStudios/OpenUSD/graphs/contributors",
+      "title": "PixarAnimationStudios/OpenUSD Contributors",
+      "type": "feed",
+      "url": "rsshub://github/contributors/PixarAnimationStudios/OpenUSD"
     }
   ]
 }

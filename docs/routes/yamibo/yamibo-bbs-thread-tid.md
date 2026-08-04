@@ -84,7 +84,7 @@ _None_
     {
       "description": "百合小说生肉安利专楼 - 轻小说/译文区 - Powered by RSSHub",
       "errorAt": "2026-06-08T21:31:45.653Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "521 \nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "97881720287716352",
       "image": null,
       "ownerUserId": null,

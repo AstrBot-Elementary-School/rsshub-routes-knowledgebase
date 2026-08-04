@@ -177,8 +177,8 @@
   "topFeeds": [
     {
       "description": "提供最新國際新聞、香港新聞、財經新聞、地產樓市新聞, 美股即時新聞、即時夜期、中國新聞及科技新聞等。 - Powered by RSSHub",
-      "errorAt": "2026-08-02T00:42:12.942Z",
-      "errorMessage": "[GET] \"https://inews.hket.com/sran001\": 405 Not Allowed\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "70034910422682624",
       "image": null,
       "ownerUserId": null,
@@ -189,7 +189,7 @@
     },
     {
       "description": "提供最新國際新聞、香港新聞、財經新聞、地產樓市新聞, 美股即時新聞、即時夜期、中國新聞及科技新聞等。 - Powered by RSSHub",
-      "errorAt": "2026-07-30T23:43:40.809Z",
+      "errorAt": "2026-07-30T06:41:02.805Z",
       "errorMessage": "[GET] \"https://inews.hket.com/sran001\": 405 Not Allowed\n",
       "id": "94630255063479296",
       "image": null,

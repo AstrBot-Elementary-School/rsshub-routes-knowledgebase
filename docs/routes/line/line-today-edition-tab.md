@@ -68,8 +68,8 @@ _None_
   "topFeeds": [
     {
       "description": "焦點 - Line Today - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-03T03:09:21.591Z",
+      "errorMessage": "502 \nFailed to fetch\n",
       "id": "59767191179278336",
       "image": null,
       "ownerUserId": null,

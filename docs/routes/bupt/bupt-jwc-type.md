@@ -20,7 +20,7 @@
 _None_
 
 ## Parameters
-- `type`: {"description": "信息类型，可选值：tzgg（通知公告），xwzx（新闻资讯）", "optional": false, "type": "string"}
+- `type`: {"description": "信息类型，可选值：tzgg（通知公告），xwzx（新闻资讯）"}
 
 
 ## Features
@@ -64,9 +64,7 @@ _None_
   "name": "教务处",
   "parameters": {
     "type": {
-      "description": "信息类型，可选值：tzgg（通知公告），xwzx（新闻资讯）",
-      "optional": false,
-      "type": "string"
+      "description": "信息类型，可选值：tzgg（通知公告），xwzx（新闻资讯）"
     }
   },
   "path": "/jwc/:type",

@@ -64,8 +64,8 @@ _None_
   "topFeeds": [
     {
       "description": "<p>40年來，天下文化持續傳播進步觀念。 <br /> <br />在「天下文化‧相信閱讀」頻道中，我們每周皆會與您分享好書與具啟發性的精采觀點。商業趨勢、科普新知、工作美學、教育教養……等多元話題，將陪伴您利用零散時間自我成長、擴大視野。 <br /> <br />邀請您訂閱我們的節目，無論您身在何處，「天下文化‧相信閱讀」Podcast將會是您充實自己的最佳夥伴！ <br /> <br />Believe in Reading <br />Believe in Learning <br /> <br /> <br/>Powered by <a href=\"https://firstory.me/zh\">Firstory Hosting</a></p> - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-02T16:31:55.571Z",
+      "errorMessage": "[GET] \"https://api.soundon.fm/v2/client/podcasts/56705a9a-54de-49f9-af3e-5d488f48345a\": <no response> fetch failed\nFailed to fetch\n",
       "id": "82060848430457856",
       "image": "https://d3mww1g1pfq2pt.cloudfront.net/Avatar/ckisg2rhv5d3h0822wojrdcqs/1694595612060.jpg",
       "ownerUserId": null,

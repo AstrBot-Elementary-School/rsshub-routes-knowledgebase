@@ -77,8 +77,8 @@ _None_
   "topFeeds": [
     {
       "description": "CBC News - Latest Canada, World, Entertainment and Business NewsMenu - Powered by RSSHub",
-      "errorAt": "2026-08-02T06:33:45.029Z",
-      "errorMessage": "[GET] \"https://www.cbc.ca/radio/podcasts/first-person-sobriety-dog-9.7291094\": 404 Not Found\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "165818925513194496",
       "image": null,
       "ownerUserId": null,

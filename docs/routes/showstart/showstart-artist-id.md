@@ -88,16 +88,16 @@
       "url": "rsshub://showstart/artist/19760"
     },
     {
-      "description": "内地独立流行乐团，由主唱乔西、词曲创作刘冠南组成。代表作《呼吸决定》、《忘了我》、《没有人不比我快乐》。 - Powered by RSSHub",
+      "description": "成员： 老梁 / 佳明 / 赵鑫 / 亦真 流派：说唱 Rap 风格： Jazz ITSOGOO ITSOGOO是一个来自北京的爵士说唱团体 由Snarelop/ 佳明/ AlienKey/ 周士爵组成 长年活跃于音乐国 ITSOGOO接受了各种音乐带来的教养 并将多样的元素融合进入自己的创作 做出了中国少有的说唱风格 团队认为一切都很好 并相信美好的可能性 故取名ITSOGOO 即\"IT'S ALL GOOD\" 至今已发行两张专辑《It’s All Good》和《It’s No Good》 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "73918360042176532",
+      "id": "59223475853337600",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.showstart.com/artist/992554",
-      "title": "秀动网 - Fine乐团",
+      "siteUrl": "https://www.showstart.com/artist/205470",
+      "title": "秀动网 - ITSOGOO",
       "type": "feed",
-      "url": "rsshub://showstart/artist/992554"
+      "url": "rsshub://showstart/artist/205470"
     }
   ]
 }

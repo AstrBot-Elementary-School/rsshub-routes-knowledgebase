@@ -65,7 +65,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 5514,
+  "heat": 5511,
   "location": "index.ts",
   "maintainers": [
     "bigfei"
@@ -129,24 +129,24 @@ _None_
   "topFeeds": [
     {
       "description": "Bloomberg - News - Powered by RSSHub",
-      "errorAt": "2026-07-15T12:52:21.257Z",
-      "errorMessage": "[GET] \"https://www.bloomberg.com/feeds///sitemap_news.xml\": 404 Not Found\n[GET] \"https://www.bloomberg.com/feeds///sitemap_news.xml\": 404 \n[GET] \"https://www.bloomberg.com/feeds///sitemap_news.xml\": 404 Not Found\nAuthentication failed. Access denied.\n/bloomberg/%2F\n[GET] \"https://www.bloomberg.com/feeds///sitemap_news.xml\": <no response> fetch failed\n[GET] \"https://www.bloomberg.com/feeds///sitemap_news.xml\": 404 Not Found\n[GET] \"https://www.bloomberg.com/feeds///sitemap_news.xml\": 404 Not Found\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "72541421314282496",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.bloomberg.com/feeds///sitemap_news.xml",
+      "siteUrl": "http://www.bloomberg.com/",
       "title": "Bloomberg - News",
       "type": "feed",
       "url": "rsshub://bloomberg/%2F"
     },
     {
       "description": "Bloomberg - News - Powered by RSSHub",
-      "errorAt": "2026-07-17T08:12:23.276Z",
-      "errorMessage": "[GET] \"https://www.bloomberg.com/feeds/sitemap_news.xml\": 404 Not Found\n[GET] \"https://www.bloomberg.com/feeds/sitemap_news.xml\": 404 Not Found\nAuthentication failed. Access denied.\n/bloomberg\n[GET] \"https://www.bloomberg.com/feeds/sitemap_news.xml\": 404 Not Found\n[GET] \"https://www.bloomberg.com/feeds/sitemap_news.xml\": 404 Not Found\n[GET] \"https://www.bloomberg.com/feeds/sitemap_news.xml\": 404 Not Found\n[GET] \"https://www.bloomberg.com/feeds/sitemap_news.xml\": 404 Not Found\n521 \n[GET] \"https://www.bloomberg.com/feeds/sitemap_news.xml\": 404 Not Found\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "64731996464440320",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.bloomberg.com/feeds/sitemap_news.xml",
+      "siteUrl": "http://www.bloomberg.com/",
       "title": "Bloomberg - News",
       "type": "feed",
       "url": "rsshub://bloomberg"

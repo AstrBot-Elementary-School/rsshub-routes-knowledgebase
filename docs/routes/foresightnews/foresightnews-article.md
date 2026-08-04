@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 167,
+  "heat": 168,
   "location": "article.ts",
   "maintainers": [
     "nczitzk"
@@ -73,8 +73,8 @@ _None_
   "topFeeds": [
     {
       "description": "文章 - Foresight News - Powered by RSSHub",
-      "errorAt": "2026-03-25T07:02:11.981Z",
-      "errorMessage": "[GET] \"https://api.foresightnews.pro/v1/articles?size=50\": 403 Forbidden\n[GET] \"https://api.foresightnews.pro/v1/articles?size=50\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41756159863260160",
       "image": "https://img.foresightnews.pro/vertical_logo.png",
       "ownerUserId": null,

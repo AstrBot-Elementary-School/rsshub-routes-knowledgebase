@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 90,
+  "heat": 91,
   "location": "news.ts",
   "maintainers": [
     "pseudoyu"
@@ -75,8 +75,8 @@ _None_
   "topFeeds": [
     {
       "description": "Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-03T06:02:19.515Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 126922928969806848",
       "id": "126922928969806848",
       "image": null,
       "ownerUserId": null,

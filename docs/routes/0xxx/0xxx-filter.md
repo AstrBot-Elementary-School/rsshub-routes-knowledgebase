@@ -33,7 +33,7 @@ To subscribe to [Movie HD 1080p](https://0xxx.ws?category=Movie-HD-1080p), where
 - `supportBT`: false
 - `supportPodcast`: false
 - `supportScihub`: false
-- `nfsw`: true
+- `nsfw`: true
 
 ## Radar
 ### Rule 1
@@ -50,7 +50,7 @@ To subscribe to [Movie HD 1080p](https://0xxx.ws?category=Movie-HD-1080p), where
   "example": "/0xxx/category=Movie-HD-1080p",
   "features": {
     "antiCrawler": false,
-    "nfsw": true,
+    "nsfw": true,
     "requireConfig": false,
     "requirePuppeteer": false,
     "supportBT": false,

@@ -58,8 +58,8 @@ _None_
   "topFeeds": [
     {
       "description": "Leetcode 每日一题 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-03T04:20:11.363Z",
+      "errorMessage": "[POST] \"https://leetcode.cn/graphql\": 403 Forbidden\nAuthentication failed. Access denied.\n/leetcode/dailyquestion/cn\n502 \n[POST] \"https://leetcode.cn/graphql\": 403 Forbidden\n",
       "id": "56597363378754560",
       "image": null,
       "ownerUserId": null,

@@ -81,8 +81,8 @@ _None_
     },
     {
       "description": "经济 - Powered by RSSHub",
-      "errorAt": "2026-08-02T07:40:18.219Z",
-      "errorMessage": "[GET] \"https://www.lifeweek.com.cn/api/userWebFollow/getFollowTagContentList?type=3&sort=2&tagId=3\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 60.255.154.100:443, 60.255.154.102:443, 60.255.154.103:443, 60.255.154.104:443, 60.255.154.94:443, 60.255.154.95:443, 60.255.154.96:443, 60.255.154.99:443, timeout: 10000ms))\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "77268471866082304",
       "image": null,
       "ownerUserId": null,

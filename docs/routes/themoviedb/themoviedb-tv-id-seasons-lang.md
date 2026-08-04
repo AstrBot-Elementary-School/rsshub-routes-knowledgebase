@@ -78,16 +78,16 @@ _None_
       "url": "rsshub://themoviedb/tv/70593/seasons"
     },
     {
-      "description": "The story centers on a little girl called Sana, who is one of the children that holds the power of \"Alice's Dream,\" an ability that enables her to materialize anything she imagines. After escaping a lab where she was a test subject, Sana ends up in a normal world where she encounters an old man named Zouroku, but will he help her? - Powered by RSSHub",
+      "description": "Rumi, Tamoko and their mother are being blackmailed by Mr. Nogawa and his son. They must learn to fight back just enough to be able to take revenge when the time is right. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "97909208124315648",
-      "image": "https://image.tmdb.org/t/p/original/aHYmjLTc5niV7uuTBmIz4oTrSx6.jpg",
+      "id": "146311702677387264",
+      "image": "https://image.tmdb.org/t/p/original/uA2zWEasPhJLe6rs8NlU1qlHYJv.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://www.themoviedb.org/tv/70594/seasons",
-      "title": "Alice & Zoroku - Seasons — TMDB",
+      "siteUrl": "https://www.themoviedb.org/tv/60593/seasons",
+      "title": "Immoral Sisters - Seasons — TMDB",
       "type": "feed",
-      "url": "rsshub://themoviedb/tv/70594/seasons"
+      "url": "rsshub://themoviedb/tv/60593/seasons"
     }
   ],
   "view": 5

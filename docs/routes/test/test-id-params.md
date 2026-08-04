@@ -8,7 +8,7 @@
 - Namespace Name: `RSSHub Test`
 - Route Path: `/test/:id/:params?`
 - Route Name: `Test`
-- Example: `_None_`
+- Example: `/test/1`
 - URL: `_None_`
 - Language: `_None_`
 - Categories: `other`
@@ -35,6 +35,7 @@ _None_
   "categories": [
     "other"
   ],
+  "example": "/test/1",
   "heat": 0,
   "location": "index.ts",
   "maintainers": [

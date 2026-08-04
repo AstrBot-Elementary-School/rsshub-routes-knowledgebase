@@ -107,8 +107,8 @@
   "topFeeds": [
     {
       "description": "Last 24 hours - konachan.com - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-03T07:31:23.517Z",
+      "errorMessage": "[GET] \"https://konachan.com/post/popular_recent.json?period=1d\": 403 Forbidden\n404 Not Found\nAuthentication failed. Access denied.\n/konachan/post/popular_recent/1d\n[GET] \"https://konachan.com/post/popular_recent.json?period=1d\": 403 Forbidden\n[GET] \"https://konachan.com/post/popular_recent.json?period=1d\": 403 Forbidden\n[GET] \"https://konachan.com/post/popular_recent.json?period=1d\": 403 Forbidden\n[GET] \"https://konachan.com/post/popular_recent.json?period=1d\": 403 \n[GET] \"https://konachan.com/post/popular_recent.json?period=1d\": 403 Forbidden\n",
       "id": "62201931989535744",
       "image": null,
       "ownerUserId": null,
@@ -119,8 +119,8 @@
     },
     {
       "description": "Last week - konachan.com - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-03T06:43:51.187Z",
+      "errorMessage": "[GET] \"https://konachan.com/post/popular_recent.json?period=1w\": 403 Forbidden\n[GET] \"https://konachan.com/post/popular_recent.json?period=1w\": 403 Forbidden\n[GET] \"https://konachan.com/post/popular_recent.json?period=1w\": 403 Forbidden\n",
       "id": "62202498728230912",
       "image": null,
       "ownerUserId": null,
