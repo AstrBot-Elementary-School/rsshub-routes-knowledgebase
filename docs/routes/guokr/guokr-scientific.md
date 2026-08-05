@@ -39,7 +39,7 @@ _None_
     "new-media"
   ],
   "example": "/guokr/scientific",
-  "heat": 898,
+  "heat": 899,
   "location": "scientific.ts",
   "maintainers": [
     "alphardex",

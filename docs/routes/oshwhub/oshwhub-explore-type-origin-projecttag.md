@@ -1543,8 +1543,8 @@
     },
     {
       "description": "开源广场-EDA开源硬件平台，硬件工程师的电路家园 - Powered by RSSHub",
-      "errorAt": "2026-08-03T05:26:27.539Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 215454511119244288",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "215454511119244288",
       "image": "https://static.oshwhub.com/web-assets/oshwhub/images/header-footer/logo.png?v=1785234777933",
       "ownerUserId": null,

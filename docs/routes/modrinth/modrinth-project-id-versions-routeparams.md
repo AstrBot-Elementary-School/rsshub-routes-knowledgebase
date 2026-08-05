@@ -116,16 +116,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "Add unlimited crates to your server with 11 different crate types to choose from! - Powered by RSSHub",
+      "description": "Modern desktop graphics application framework and low-level 3D graphics engine - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "114584532715532288",
+      "id": "120292329928510464",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/r3BBZyf3",
-      "title": "CrazyCrates Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/modern-ui",
+      "title": "Modern UI Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/r3BBZyf3/versions"
+      "url": "rsshub://modrinth/project/modern-ui/versions"
     }
   ]
 }

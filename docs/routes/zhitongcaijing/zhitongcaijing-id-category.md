@@ -96,7 +96,7 @@ _None_
     {
       "description": "智通财经 - 推荐 - Powered by RSSHub",
       "errorAt": "2026-06-03T14:02:14.769Z",
-      "errorMessage": "[GET] \"https://www.zhitongcaijing.com/content/recommend.html?data_type=1&page=1\": 405 Not Allowed\n",
+      "errorMessage": "[GET] \"https://www.zhitongcaijing.com/content/detail/1475578.html\": 503 Service Temporarily Unavailable\n",
       "id": "72559122759839744",
       "image": null,
       "ownerUserId": null,

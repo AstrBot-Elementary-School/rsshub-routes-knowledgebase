@@ -81,16 +81,16 @@ _None_
       "url": "rsshub://vimeo/user/loocreative"
     },
     {
-      "description": "Filmsupply is the global leader in cinematic footage licensing. With a roster of acclaimed filmmakers from M ss ng P eces, Biscuit, Anonymous Content, and more, our exclusive story-driven footage makes us the go-to creative partner for the world’s top brands. Experience the standard of footage licensing. Create your free account: https://www.filmsupply.com/register - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "82816508674583552",
+      "description": "Solid VFX lab is the best post-production company in Korea established in May 2012 by the most talented artists. We are specializing in the VFX, motion graphic and composite. Address: 26, Hakdong-ro 41-gil, Gangnam-gu, Seoul, Republic of Korea 06058 Office: 82 (2) 3447-9733 Fax: 82 (2) 3447 9737 Contact: solid@solidvfx.com - Powered by RSSHub",
+      "errorAt": "2026-03-26T16:06:33.856Z",
+      "errorMessage": "[GET] \"https://api.vimeo.com/users/solidvfx?fields=name,gender,bio,uri,link,categories&fetch_user_profile=1\": 406 Not Acceptable\n",
+      "id": "72504444961615872",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://vimeo.com/filmsupply",
-      "title": "Filmsupply | Vimeo",
+      "siteUrl": "https://vimeo.com/solidvfx",
+      "title": "SOLID | Vimeo",
       "type": "feed",
-      "url": "rsshub://vimeo/user/filmsupply"
+      "url": "rsshub://vimeo/user/solidvfx"
     }
   ],
   "view": 3

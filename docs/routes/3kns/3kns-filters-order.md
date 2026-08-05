@@ -109,7 +109,7 @@ _None_
     },
     {
       "description": "对不起，页面未找到 - Powered by RSSHub",
-      "errorAt": "2026-07-27T09:40:20.328Z",
+      "errorAt": "2026-07-29T18:53:05.597Z",
       "errorMessage": "[GET] \"https://www.3kns.com/forum.php?mod=forumdisplay&fid=2&filter=sortid&typeid=0&sortid=1&searchsort=1&orderbystr=0&dztgeshi=all&dztfenlei=all&nex_sg_tags=all&deanbgbs=all&nex_sg_stars=all\": <no response> fetch failed (certificate has expired)\n",
       "id": "86932236568616960",
       "image": null,

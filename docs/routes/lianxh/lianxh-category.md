@@ -80,7 +80,7 @@ _None_
   ],
   "description": "| 分类                 | id  |\n| -------------------- | --- |\n| 全部                 | all |\n| Stata 入门           | 16  |\n| Stata 教程           | 17  |\n| 计量专题             | 18  |\n| 内生性 - 因果推断    | 19  |\n| 面板数据             | 20  |\n| 交乘项 - 调节 - 中介 | 21  |\n| 结果输出             | 22  |\n| 工具软件             | 23  |\n| Stata 绘图           | 24  |\n| 数据处理             | 25  |\n| Stata 程序           | 26  |\n| Probit-Logit         | 27  |\n| 时间序列             | 28  |\n| 空间计量 - 网络分析  | 29  |\n| Markdown-LaTeX       | 30  |\n| 论文写作             | 31  |\n| 回归分析             | 32  |\n| 其它                 | 33  |\n| 数据分享             | 34  |\n| Stata 资源           | 35  |\n| 文本分析 - 爬虫      | 36  |\n| Python-R-Matlab      | 37  |\n| IV-GMM               | 38  |\n| 倍分法 DID           | 39  |\n| 断点回归 RDD         | 40  |\n| PSM-Matching         | 41  |\n| 合成控制法           | 42  |\n| Stata 命令           | 43  |\n| 专题课程             | 44  |\n| 风险管理             | 45  |\n| 生存分析             | 46  |\n| 机器学习             | 47  |\n| 分位数回归           | 48  |\n| SFA-DEA - 效率分析   | 49  |\n| 答疑 - 板书          | 50  |\n| 论文重现             | 51  |\n| 最新课程             | 52  |\n| 公开课               | 53  |",
   "example": "/lianxh",
-  "heat": 22,
+  "heat": 23,
   "location": "index.ts",
   "maintainers": [
     "nczitzk"

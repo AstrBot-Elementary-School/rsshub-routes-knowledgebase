@@ -76,8 +76,8 @@ _None_
   "topFeeds": [
     {
       "description": "可爱的小cherry-什么值得买 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-03T16:00:45.763Z",
+      "errorMessage": "什么值得买排行榜 is disabled due to the lack of SMZDM_COOKIE\n[GET] \"https://zhiyou.smzdm.com/member/9674309982/article/\": <no response> fetch failed (Connect Timeout Error (attempted address: zhiyou.smzdm.com:443, timeout: 10000ms))\n",
       "id": "70353182008669184",
       "image": null,
       "ownerUserId": null,

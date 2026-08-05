@@ -39,7 +39,7 @@ _None_
     "blog"
   ],
   "example": "/mashiro/en",
-  "heat": 4,
+  "heat": 5,
   "location": "index.ts",
   "maintainers": [
     "MuenYu"

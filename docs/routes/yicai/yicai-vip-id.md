@@ -91,7 +91,7 @@ _None_
     {
       "description": "第一财经VIP频道 - 一元点金 | 即时热点 单篇精选 - Powered by RSSHub",
       "errorAt": "2026-01-06T15:11:39.949Z",
-      "errorMessage": "[GET] \"https://www.yicai.com/vip/product/428\": 404 Not Found\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "62792430599606272",
       "image": null,
       "ownerUserId": null,

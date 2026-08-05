@@ -141,8 +141,8 @@ _None_
     },
     {
       "description": "最新公告 - Powered by RSSHub",
-      "errorAt": "2026-08-03T07:44:20.344Z",
-      "errorMessage": "Empty RSSHub items from 147936360793227264\n500 \n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "113827262636876800",
       "image": null,
       "ownerUserId": null,

@@ -81,7 +81,7 @@ _None_
       "image": "https://devin.ai/assets/images/devin-og.png",
       "ownerUserId": null,
       "siteUrl": "https://windsurf.com/blog",
-      "title": "Blog | Devin",
+      "title": "Blog: Product Updates, News & Research | Devin",
       "type": "feed",
       "url": "rsshub://windsurf/blog"
     }

@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 250,
+  "heat": 251,
   "location": "pin/daily.ts",
   "maintainers": [
     "xyqfer"

@@ -76,7 +76,7 @@ _None_
       "url": "rsshub://qq/kg/639f9a822525378c3d4d"
     },
     {
-      "description": "作品: 0; 粉丝: 1499; 关注: 17 - Powered by RSSHub",
+      "description": "作品: 0; 粉丝: 1498; 关注: 17 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "1187131973412192256",

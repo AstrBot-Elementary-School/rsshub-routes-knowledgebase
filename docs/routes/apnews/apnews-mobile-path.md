@@ -77,8 +77,8 @@ _None_
   "topFeeds": [
     {
       "description": "TopNews - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-03T22:12:23.523Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "135162752276972544",
       "image": null,
       "ownerUserId": null,

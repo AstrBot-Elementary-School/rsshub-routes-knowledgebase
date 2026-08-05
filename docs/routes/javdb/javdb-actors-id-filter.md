@@ -69,7 +69,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4896,
+  "heat": 4897,
   "location": "actors.ts",
   "maintainers": [
     "nczitzk"
@@ -93,14 +93,14 @@
   },
   "topFeeds": [
     {
-      "description": "桃乃木香奈 - JavDB - Powered by RSSHub",
+      "description": "桃乃木かな - JavDB - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "58137945200229376",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://javdb.com/actors/0dKX",
-      "title": "桃乃木香奈 - JavDB",
+      "title": "桃乃木かな - JavDB",
       "type": "feed",
       "url": "rsshub://javdb/actors/0dKX"
     },

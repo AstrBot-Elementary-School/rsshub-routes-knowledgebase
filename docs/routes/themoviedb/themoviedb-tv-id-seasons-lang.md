@@ -78,16 +78,16 @@ _None_
       "url": "rsshub://themoviedb/tv/70593/seasons"
     },
     {
-      "description": "Rumi, Tamoko and their mother are being blackmailed by Mr. Nogawa and his son. They must learn to fight back just enough to be able to take revenge when the time is right. - Powered by RSSHub",
+      "description": "Hilarious, totally-irreverent, near-slanderous political quiz show, based mainly on news stories from the last week or so, that leaves no party, personality or action unscathed in pursuit of laughs. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "146311702677387264",
-      "image": "https://image.tmdb.org/t/p/original/uA2zWEasPhJLe6rs8NlU1qlHYJv.jpg",
+      "id": "83787519319912448",
+      "image": "https://image.tmdb.org/t/p/original/917ZwaLnDX5A5iVotS8NGObNtgO.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://www.themoviedb.org/tv/60593/seasons",
-      "title": "Immoral Sisters - Seasons — TMDB",
+      "siteUrl": "https://www.themoviedb.org/tv/797/seasons",
+      "title": "Have I Got News for You - Seasons — TMDB",
       "type": "feed",
-      "url": "rsshub://themoviedb/tv/60593/seasons"
+      "url": "rsshub://themoviedb/tv/797-persona/seasons"
     }
   ],
   "view": 5

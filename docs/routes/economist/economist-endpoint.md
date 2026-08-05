@@ -75,7 +75,7 @@ _None_
     {
       "description": "The most recent blogs and online articles from The Economist - Powered by RSSHub",
       "errorAt": "2025-09-05T18:15:19.885Z",
-      "errorMessage": "[GET] \"https://www.economist.com/united-states/2026/08/02/can-america-retrain-workers-before-ai-leaves-them-behind\": 403 Forbidden\n[GET] \"https://www.economist.com/united-states/2026/08/02/can-america-retrain-workers-before-ai-leaves-them-behind\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.economist.com/podcasts/2026/08/03/the-big-mac-index-turns-40\": 403 Forbidden\n[GET] \"https://www.economist.com/science-and-technology/2026/08/01/the-climate-issue-newsletter-the-deadly-cost-of-wildfires\": 403 Forbidden\n",
       "id": "54859243036899328",
       "image": null,
       "ownerUserId": null,

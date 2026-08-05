@@ -69,7 +69,7 @@ _None_
     {
       "description": "ulapia - 宏观研报 - Powered by RSSHub",
       "errorAt": "2026-08-02T18:34:53.661Z",
-      "errorMessage": "[GET] \"http://www.ulapia.com/reports/macro_research\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 117.126.128.16:80, 117.126.128.9:80, 117.126.128.10:80, 117.126.128.11:80, 117.126.128.12:80, 117.126.128.13:80, 117.126.128.14:80, 117.126.128.15:80, timeout: 10000ms))\n",
+      "errorMessage": "[GET] \"http://www.ulapia.com/reports/macro_research\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 103.239.45.233:80, 103.239.45.234:80, 103.239.45.235:80, 103.239.45.236:80, 103.239.45.229:80, 103.239.45.230:80, 103.239.45.231:80, 103.239.45.232:80, timeout: 10000ms))\n",
       "id": "60865831498850371",
       "image": null,
       "ownerUserId": null,

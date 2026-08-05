@@ -49,8 +49,8 @@ _None_
   "topFeeds": [
     {
       "description": "Obsidian Themes - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-03T20:40:17.156Z",
+      "errorMessage": "[GET] \"https://community.obsidian.md/api/search/collections/entries/documents/search?filter_by=type:=theme&per_page=54&q=*&query_by=name,authors,short_desc&sort_by=github_created_at:desc\": 404 Not Found\n",
       "id": "1118235261310730240",
       "image": null,
       "ownerUserId": null,

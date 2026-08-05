@@ -158,14 +158,14 @@
   },
   "topFeeds": [
     {
-      "description": "国资委最新要求：将合规嵌入业务，对虚假贸易、违规支付佣金等开展源头治理 - Powered by RSSHub",
+      "description": "建发入局，怡亚通探路！供应链巨头扎堆卷进AI万亿赛道：谁在上游“搬砖”，谁在下游“抢滩”？ - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "138893356640117760",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://info.10000link.com/newslists.aspx?chid=My01",
-      "title": "10000万联网 - 国资委最新要求：将合规嵌入业务，对虚假贸易、违规支付佣金等开展源头治理",
+      "title": "10000万联网 - 建发入局，怡亚通探路！供应链巨头扎堆卷进AI万亿赛道：谁在上游“搬砖”，谁在下游“抢滩”？",
       "type": "feed",
       "url": "rsshub://10000link/info/newslists/My01"
     },

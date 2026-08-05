@@ -80,18 +80,6 @@
   },
   "topFeeds": [
     {
-      "description": "南开大学计算机学院-科研信息 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "168826180092668928",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://cc.nankai.edu.cn/13294/list.htm",
-      "title": "南开大学计算机学院-科研信息",
-      "type": "feed",
-      "url": "rsshub://nankai/cc/13294"
-    },
-    {
       "description": "南开大学计算机学院-学院公告 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -102,6 +90,18 @@
       "title": "南开大学计算机学院-学院公告",
       "type": "feed",
       "url": "rsshub://nankai/cc/13292"
+    },
+    {
+      "description": "南开大学计算机学院-科研信息 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "168826180092668928",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://cc.nankai.edu.cn/13294/list.htm",
+      "title": "南开大学计算机学院-科研信息",
+      "type": "feed",
+      "url": "rsshub://nankai/cc/13294"
     }
   ],
   "url": "cc.nankai.edu.cn"

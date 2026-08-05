@@ -81,14 +81,14 @@ _None_
       "url": "rsshub://douban/topic/48823"
     },
     {
-      "description": "收集一切触动过你的评论-豆瓣话题 - Powered by RSSHub",
+      "description": "人该如何学会与自己相处-豆瓣话题 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "84419327283379200",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.douban.com/gallery/topic/3379063/?sort=new",
-      "title": "收集一切触动过你的评论-豆瓣话题",
+      "title": "人该如何学会与自己相处-豆瓣话题",
       "type": "feed",
       "url": "rsshub://douban/topic/3379063"
     }

@@ -134,7 +134,7 @@ _None_
     {
       "description": "哔嘀影视 - Powered by RSSHub",
       "errorAt": "2025-02-20T13:50:10.262Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "[GET] \"https://www.bdys01.com/s/all?&order=0\": 429 Too Many Requests\n",
       "id": "112474437722406912",
       "image": null,
       "ownerUserId": null,

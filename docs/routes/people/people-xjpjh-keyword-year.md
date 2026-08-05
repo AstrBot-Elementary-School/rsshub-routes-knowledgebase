@@ -78,14 +78,14 @@ _None_
   },
   "topFeeds": [
     {
-      "description": null,
-      "errorAt": "2025-06-23T10:14:49.196Z",
-      "errorMessage": "[GET] \"http://jhsjk.people.cn/undefined\": 404 Not Found\n[GET] \"http://jhsjk.people.cn/undefined\": 404 Not Found\n",
+      "description": "习近平系列重要讲话-all-all - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "159914682433828881",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": null,
-      "title": "Importing",
+      "siteUrl": "http://jhsjk.people.cn/result?keywords=&year=0",
+      "title": "习近平系列重要讲话-all-all",
       "type": "feed",
       "url": "rsshub://people/xjpjh"
     }

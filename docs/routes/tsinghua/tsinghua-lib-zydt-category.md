@@ -75,7 +75,7 @@
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 2,
+  "heat": 3,
   "location": "lib/zydt.ts",
   "maintainers": [
     "nczitzk"

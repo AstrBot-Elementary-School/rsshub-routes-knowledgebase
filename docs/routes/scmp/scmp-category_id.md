@@ -52,7 +52,7 @@ See the [official RSS page](https://www.scmp.com/rss) to get the ID of each cate
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 174,
+  "heat": 173,
   "location": "index.ts",
   "maintainers": [
     "proletarius101"
@@ -75,7 +75,7 @@ See the [official RSS page](https://www.scmp.com/rss) to get the ID of each cate
   "topFeeds": [
     {
       "description": "The latest breaking news from China. - Powered by RSSHub",
-      "errorAt": "2026-08-03T05:15:10.734Z",
+      "errorAt": "2026-08-01T21:28:13.357Z",
       "errorMessage": "Cannot read properties of undefined (reading 'summary')\n",
       "id": "58381798255721484",
       "image": "https://assets.i-scmp.com/static/img/icons/scmp-meta-1200x630.png",

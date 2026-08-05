@@ -148,16 +148,16 @@ _None_
       "url": "rsshub://github/feed/ardubev16/all"
     },
     {
-      "description": "GitHub events received by lsy223622 - includes private events - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "171233521959285760",
+      "description": "GitHub events received by moeru-ai (filtered: release) - includes private events - Powered by RSSHub",
+      "errorAt": "2025-10-12T19:18:22.702Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "id": "188306769764888576",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/lsy223622",
-      "title": "lsy223622's GitHub Private Feed - All Events",
+      "siteUrl": "https://github.com/moeru-ai",
+      "title": "moeru-ai's GitHub Private Feed - Events: release",
       "type": "feed",
-      "url": "rsshub://github/feed/lsy223622/all"
+      "url": "rsshub://github/feed/moeru-ai/release"
     }
   ],
   "view": 5

@@ -91,8 +91,8 @@
   "topFeeds": [
     {
       "description": "用户脚本 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-04T03:29:46.437Z",
+      "errorMessage": "[GET] \"https://greasyfork.org/zh-CN/scripts?filter_locale=1&sort=updated\": 403 Forbidden\n",
       "id": "70371597455258625",
       "image": null,
       "ownerUserId": null,

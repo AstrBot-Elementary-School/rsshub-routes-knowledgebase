@@ -64,16 +64,16 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "符号学 - 百度搜索 - Powered by RSSHub",
+      "description": "人才引进 - 百度搜索 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "177651896288583681",
+      "id": "177651896288583684",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.baidu.com/s?wd=%E7%AC%A6%E5%8F%B7%E5%AD%A6",
-      "title": "符号学 - 百度搜索",
+      "siteUrl": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%89%8D%E5%BC%95%E8%BF%9B",
+      "title": "人才引进 - 百度搜索",
       "type": "feed",
-      "url": "rsshub://baidu/search/%E7%AC%A6%E5%8F%B7%E5%AD%A6"
+      "url": "rsshub://baidu/search/%E4%BA%BA%E6%89%8D%E5%BC%95%E8%BF%9B"
     },
     {
       "description": "佛山教师 - 百度搜索 - Powered by RSSHub",

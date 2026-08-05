@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "文化 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-04T05:55:10.360Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "74705665643397120",
       "image": null,
       "ownerUserId": null,
