@@ -71,14 +71,14 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "DropCatch.com - Powered by RSSHub",
-      "errorAt": "2026-01-29T01:16:30.459Z",
-      "errorMessage": "[GET] \"https://www.56kog.com/class/7_1.html\": <no response> fetch failed (getaddrinfo ENOTFOUND www.56kog.com)\n",
+      "description": "Loading... - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "164538769126922240",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.56kog.com/class/7_1.html",
-      "title": "DropCatch.com",
+      "title": "Loading...",
       "type": "feed",
       "url": "rsshub://56kog/class/7_1"
     }

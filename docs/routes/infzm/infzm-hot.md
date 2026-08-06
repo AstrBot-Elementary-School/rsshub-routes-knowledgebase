@@ -38,7 +38,7 @@ _None_
     "traditional-media"
   ],
   "example": "/infzm/hot",
-  "heat": 413,
+  "heat": 416,
   "location": "hot.ts",
   "maintainers": [
     "KarasuShin",

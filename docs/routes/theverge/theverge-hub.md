@@ -95,7 +95,7 @@ Provides a better reading experience (full text articles) over the official one.
     {
       "description": "The Verge - Powered by RSSHub",
       "errorAt": "2025-09-24T13:58:17.013Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'map')\n",
+      "errorMessage": "Cannot read properties of undefined (reading 'html')\nCannot read properties of undefined (reading 'map')\n",
       "id": "56165613279845376",
       "image": null,
       "ownerUserId": null,

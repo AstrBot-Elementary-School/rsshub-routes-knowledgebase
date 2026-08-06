@@ -78,16 +78,16 @@ _None_
       "url": "rsshub://themoviedb/tv/70593/seasons"
     },
     {
-      "description": "Hilarious, totally-irreverent, near-slanderous political quiz show, based mainly on news stories from the last week or so, that leaves no party, personality or action unscathed in pursuit of laughs. - Powered by RSSHub",
+      "description": "In this zombie thriller set in Korea's medieval Joseon dynasty which has been defeated by corruption and famine, a mysterious rumor of the king’s death spreads, as does a strange plague that renders the infected immune to death and hungry for flesh. The crown prince, fallen victim to a conspiracy, sets out on a journey to unveil the evil scheme and save his people. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "83787519319912448",
-      "image": "https://image.tmdb.org/t/p/original/917ZwaLnDX5A5iVotS8NGObNtgO.jpg",
+      "id": "72474878233372672",
+      "image": "https://image.tmdb.org/t/p/original/AsICtiVtz4icMQQRwDvOzfaTzjK.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://www.themoviedb.org/tv/797/seasons",
-      "title": "Have I Got News for You - Seasons — TMDB",
+      "siteUrl": "https://www.themoviedb.org/tv/70593/seasons",
+      "title": "Kingdom - Seasons — TMDB",
       "type": "feed",
-      "url": "rsshub://themoviedb/tv/797-persona/seasons"
+      "url": "rsshub://themoviedb/tv/70593/seasons/en-US"
     }
   ],
   "view": 5

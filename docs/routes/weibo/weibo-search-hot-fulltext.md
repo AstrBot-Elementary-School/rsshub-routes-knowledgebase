@@ -58,7 +58,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 6844,
+  "heat": 6846,
   "location": "search/hot.tsx",
   "maintainers": [
     "xyqfer",
@@ -96,8 +96,8 @@ _None_
     },
     {
       "description": "实时热点，每分钟更新一次 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-05T05:33:31.956Z",
+      "errorMessage": "Authentication failed. Access denied.\n/weibo/search/hot/fulltext\nCannot read properties of undefined (reading 'cards')\nFailed to fetch\nFailed to fetch\n",
       "id": "57266422630121472",
       "image": null,
       "ownerUserId": null,

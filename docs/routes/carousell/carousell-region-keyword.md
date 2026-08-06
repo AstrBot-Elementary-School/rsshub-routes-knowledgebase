@@ -187,18 +187,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Carousell SG Search - NAS - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "1182663070510350336",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://docs.rsshub.app/",
-      "title": "Carousell SG Search - NAS",
-      "type": "feed",
-      "url": "rsshub://carousell/sg/NAS"
-    },
-    {
       "description": "Carousell SG Search - GPU - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -209,6 +197,18 @@ _None_
       "title": "Carousell SG Search - GPU",
       "type": "feed",
       "url": "rsshub://carousell/sg/GPU"
+    },
+    {
+      "description": "Carousell SG Search - NAS - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "1182663070510350336",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://docs.rsshub.app/",
+      "title": "Carousell SG Search - NAS",
+      "type": "feed",
+      "url": "rsshub://carousell/sg/NAS"
     }
   ]
 }

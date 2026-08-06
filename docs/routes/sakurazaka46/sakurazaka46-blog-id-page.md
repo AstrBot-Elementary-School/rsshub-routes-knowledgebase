@@ -118,14 +118,14 @@ _None_
       "url": "rsshub://sakurazaka46/blog/69"
     },
     {
-      "description": "櫻坂46公式サイト - 佐藤 愛桜 - Powered by RSSHub",
+      "description": "櫻坂46公式サイト - 幸阪 茉里乃 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "82765728227921920",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://sakurazaka46.com/s/s46/diary/blog/list?page=0",
-      "title": "櫻坂46公式サイト - 佐藤 愛桜",
+      "title": "櫻坂46公式サイト - 幸阪 茉里乃",
       "type": "feed",
       "url": "rsshub://sakurazaka46/blog"
     }

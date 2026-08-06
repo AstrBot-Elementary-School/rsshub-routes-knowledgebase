@@ -92,13 +92,13 @@ _None_
       "description": "hentai - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "55635543915975680",
+      "id": "55275502392080384",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://nhentai.net/language/chinese/",
       "title": "nhentai - language - chinese",
       "type": "feed",
-      "url": "rsshub://nhentai/index/language/chinese/detail"
+      "url": "rsshub://nhentai/index/language/chinese"
     }
   ]
 }

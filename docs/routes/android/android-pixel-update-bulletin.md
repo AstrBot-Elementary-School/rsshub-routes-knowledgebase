@@ -63,7 +63,7 @@ _None_
       "errorAt": null,
       "errorMessage": null,
       "id": "267496788860551168",
-      "image": "https://www.gstatic.com/devrel-devsite/prod/vf667a9fd586ec573473a76e7c76b3edb8ab0c1db42d0ede8e8f66ff6cc9d7f08/androidsource/images/touchicon-180.png",
+      "image": "https://www.gstatic.com/devrel-devsite/prod/ve0d554c649da312a5f3235a85a2ecc2ee18faae4fdd6d97b91d2addcd93a62a0/androidsource/images/touchicon-180.png",
       "ownerUserId": null,
       "siteUrl": "https://source.android.com/docs/security/bulletin/pixel",
       "title": "Pixel Update Bulletins | Android Open Source Project",

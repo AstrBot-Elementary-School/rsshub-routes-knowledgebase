@@ -76,7 +76,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 39,
+  "heat": 40,
   "location": "yjxx.ts",
   "maintainers": [
     "muzea",
@@ -104,8 +104,8 @@
   "topFeeds": [
     {
       "description": "国家应急广播 - 预警信息 - Powered by RSSHub",
-      "errorAt": "2026-08-03T09:47:25.645Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 62187667731240974",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "62187667731240974",
       "image": null,
       "ownerUserId": null,

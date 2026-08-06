@@ -71,8 +71,8 @@ _None_
   "topFeeds": [
     {
       "description": "ePrice.HK 提供您最新的手機新聞，包括最新上市的手機、最詳細的手機評測、或是手機促銷，讓您輕鬆掌握手機的最新資訊。 - Powered by RSSHub",
-      "errorAt": "2026-08-04T05:21:46.420Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "64107781491090432",
       "image": "https://img.eprice.com.hk/img/hk/common/header/logo.filpboard.png",
       "ownerUserId": null,
@@ -83,8 +83,8 @@ _None_
     },
     {
       "description": "ePrice 比價王 提供您最新的手機、相機、平板與筆電新聞，包括最新上市的手機、相機、平板與筆電詳細産品評測或是促銷資訊，讓您輕鬆掌握手機、相機、筆電與平板的最新資訊。 - Powered by RSSHub",
-      "errorAt": "2026-08-04T03:20:17.907Z",
-      "errorMessage": "getaddrinfo ENOTFOUND www.eprice.com.tw\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "55863624174764032",
       "image": "https://img.eprice.com.tw/img/tw/common/header/logo.filpboard.png",
       "ownerUserId": null,

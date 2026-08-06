@@ -94,7 +94,7 @@ _None_
     {
       "description": "Algorithms and Data Structures - Free Computer, Programming, Mathematics, Technical Books, Lecture Notes and Tutorials - Powered by RSSHub",
       "errorAt": "2026-07-07T00:02:17.573Z",
-      "errorMessage": "[GET] \"https://freecomputerbooks.com/Planning-Algorithms-1.html\": 404 Not Found\n[GET] \"https://freecomputerbooks.com/Planning-Algorithms-1.html\": 404 Not Found\n[GET] \"https://freecomputerbooks.com/Planning-Algorithms-1.html\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://freecomputerbooks.com/Planning-Algorithms-1.html\": 404 Not Found\n[GET] \"https://freecomputerbooks.com/Planning-Algorithms-1.html\": 404 Not Found\nFailed to fetch\n",
       "id": "59843947513404416",
       "image": null,
       "ownerUserId": null,

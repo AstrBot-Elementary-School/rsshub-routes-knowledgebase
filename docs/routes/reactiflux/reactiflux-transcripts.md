@@ -59,7 +59,7 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Read transcripts of our past text-based Q&A events, most recently with TMiR 2025-12: Year in review, React2Shell (RCE, DOS, SCE, oh my) on Friday December 19th, 2025 - Powered by RSSHub",
+      "description": "Read transcripts of our past text-based Q&A events, most recently with TMiR 2026-06: React Compiler is getting rusty, what does AI mean for engineering culture on Thursday June 25th, 2026 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "67735913358783488",

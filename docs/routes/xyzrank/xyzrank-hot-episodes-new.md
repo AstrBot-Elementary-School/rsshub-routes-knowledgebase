@@ -39,7 +39,7 @@ _None_
     "multimedia"
   ],
   "example": "/xyzrank/hot-episodes-new",
-  "heat": 24,
+  "heat": 26,
   "location": "hot-episodes-new.ts",
   "maintainers": [
     "nczitzk"

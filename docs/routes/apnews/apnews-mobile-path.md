@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 7,
+  "heat": 8,
   "location": "mobile-api.ts",
   "maintainers": [
     "dzx-dzx"
@@ -77,8 +77,8 @@ _None_
   "topFeeds": [
     {
       "description": "TopNews - Powered by RSSHub",
-      "errorAt": "2026-08-03T22:12:23.523Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "135162752276972544",
       "image": null,
       "ownerUserId": null,

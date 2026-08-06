@@ -69,16 +69,16 @@ _None_
       "url": "rsshub://npm/package/vite"
     },
     {
-      "description": "vue - npm - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "175925053805877248",
+      "description": "@antfu/eslint-config - npm - Powered by RSSHub",
+      "errorAt": "2026-08-05T04:56:05.232Z",
+      "errorMessage": "Failed to fetch\n",
+      "id": "175925709458059264",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.npmjs.com/package/vue",
-      "title": "vue - npm",
+      "siteUrl": "https://www.npmjs.com/package/@antfu/eslint-config",
+      "title": "@antfu/eslint-config - npm",
       "type": "feed",
-      "url": "rsshub://npm/package/vue"
+      "url": "rsshub://npm/package/@antfu/eslint-config"
     }
   ]
 }

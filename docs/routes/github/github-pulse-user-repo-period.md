@@ -79,6 +79,18 @@ _None_
   },
   "topFeeds": [
     {
+      "description": "wood3n/biu weekly Pulse - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "215344700650354688",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://github.com/wood3n/biu/pulse/weekly",
+      "title": "wood3n/biu weekly Pulse",
+      "type": "feed",
+      "url": "rsshub://github/pulse/wood3n/biu"
+    },
+    {
       "description": "datawhalechina/llm-universe weekly Pulse - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -89,18 +101,6 @@ _None_
       "title": "datawhalechina/llm-universe weekly Pulse",
       "type": "feed",
       "url": "rsshub://github/pulse/datawhalechina/llm-universe"
-    },
-    {
-      "description": "facebookresearch/audiocraft weekly Pulse - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "220767323256864790",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://github.com/facebookresearch/audiocraft/pulse/weekly",
-      "title": "facebookresearch/audiocraft weekly Pulse",
-      "type": "feed",
-      "url": "rsshub://github/pulse/facebookresearch/audiocraft/weekly"
     }
   ]
 }

@@ -83,16 +83,16 @@ _None_
       "url": "rsshub://southcn/nfapp/column"
     },
     {
-      "description": "南方+ - 汕尾 - Powered by RSSHub",
-      "errorAt": "2025-08-15T07:03:37.676Z",
-      "errorMessage": "[GET] \"https://api.nfapp.southcn.com/nanfang_if/getColumn?columnId=74\": 405 Not Allowed\n",
-      "id": "177651896288583690",
+      "description": "南方+ - 顺德 - Powered by RSSHub",
+      "errorAt": "2025-08-15T07:00:48.017Z",
+      "errorMessage": "[GET] \"https://api.nfapp.southcn.com/nanfang_if/getColumn?columnId=2329\": 405 Not Allowed\n",
+      "id": "177651896288583687",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://m.nfapp.southcn.com/74",
-      "title": "南方+ - 汕尾",
+      "siteUrl": "https://m.nfapp.southcn.com/2329",
+      "title": "南方+ - 顺德",
       "type": "feed",
-      "url": "rsshub://southcn/nfapp/column/74"
+      "url": "rsshub://southcn/nfapp/column/2329"
     }
   ]
 }

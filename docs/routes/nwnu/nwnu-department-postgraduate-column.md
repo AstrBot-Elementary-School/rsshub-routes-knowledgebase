@@ -83,18 +83,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "研究生院工作动态 - Powered by RSSHub",
-      "errorAt": "2025-10-29T13:16:18.599Z",
-      "errorMessage": "[GET] \"https://yjsy.nwnu.edu.cn/2738/list.htm\": 412 Precondition Failed\n",
-      "id": "130513898874565632",
-      "image": "https://www.nwnu.edu.cn/_upload/tpl/02/d9/729/template729/favicon.ico",
-      "ownerUserId": null,
-      "siteUrl": "https://yjsy.nwnu.edu.cn/2738/list.htm",
-      "title": "工作动态",
-      "type": "feed",
-      "url": "rsshub://nwnu/department/postgraduate/2738"
-    },
-    {
       "description": "研究生院硕士研究生招生信息 - Powered by RSSHub",
       "errorAt": "2026-04-07T06:22:35.209Z",
       "errorMessage": "[GET] \"https://yjsy.nwnu.edu.cn/2713/list.htm\": 412 Precondition Failed\n",
@@ -105,6 +93,18 @@ _None_
       "title": "硕士招生",
       "type": "feed",
       "url": "rsshub://nwnu/department/postgraduate/2713"
+    },
+    {
+      "description": "研究生院工作动态 - Powered by RSSHub",
+      "errorAt": "2025-10-29T13:16:18.599Z",
+      "errorMessage": "[GET] \"https://yjsy.nwnu.edu.cn/2738/list.htm\": 412 Precondition Failed\n",
+      "id": "130513898874565632",
+      "image": "https://www.nwnu.edu.cn/_upload/tpl/02/d9/729/template729/favicon.ico",
+      "ownerUserId": null,
+      "siteUrl": "https://yjsy.nwnu.edu.cn/2738/list.htm",
+      "title": "工作动态",
+      "type": "feed",
+      "url": "rsshub://nwnu/department/postgraduate/2738"
     }
   ]
 }

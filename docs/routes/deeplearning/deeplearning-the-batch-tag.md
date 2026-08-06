@@ -340,7 +340,7 @@ If you subscribe to [Data Points](https://www.deeplearning.ai/the-batch/tag/data
   "topFeeds": [
     {
       "description": "Weekly AI news for engineers, executives, and enthusiasts. - Powered by RSSHub",
-      "errorAt": "2026-08-01T02:44:00.419Z",
+      "errorAt": "2026-07-29T22:50:25.662Z",
       "errorMessage": "Unexpected end of JSON input\nUnexpected end of JSON input\nUnexpected end of JSON input\n",
       "id": "78440096914505728",
       "image": "https://www.deeplearning.ai/site-meta.png",

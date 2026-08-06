@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 13,
+  "heat": 14,
   "location": "other/explore.tsx",
   "maintainers": [
     "clarkzsd"

@@ -79,7 +79,7 @@
     {
       "description": "作品项目 | VCB-Studio - Powered by RSSHub",
       "errorAt": "2025-10-22T23:44:19.894Z",
-      "errorMessage": "[GET] \"https://vcb-s.com/wp-json/wp/v2/categories?slug=works\": 403 Forbidden\n502 \n[GET] \"https://vcb-s.com/wp-json/wp/v2/categories?slug=works\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://vcb-s.com/wp-json/wp/v2/categories?slug=works\": 403 Forbidden\n[GET] \"https://vcb-s.com/wp-json/wp/v2/categories?slug=works\": 403 Forbidden\n[GET] \"https://vcb-s.com/wp-json/wp/v2/categories?slug=works\": 403 Forbidden\n",
       "id": "58936907408117760",
       "image": null,
       "ownerUserId": null,

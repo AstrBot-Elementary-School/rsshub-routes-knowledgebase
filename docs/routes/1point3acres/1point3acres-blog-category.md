@@ -79,7 +79,7 @@
     {
       "description": "美国留学就业生活攻略 - Powered by RSSHub",
       "errorAt": "2026-07-16T19:11:56.919Z",
-      "errorMessage": "[GET] \"https://blog.1point3acres.com/wp-json/wp/v2/posts?per_page=100\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://blog.1point3acres.com/wp-json/wp/v2/posts?per_page=100\": 404 Not Found\n",
       "id": "82671443591248896",
       "image": null,
       "ownerUserId": null,

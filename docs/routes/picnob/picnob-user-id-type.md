@@ -58,7 +58,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 401380,
+  "heat": 401382,
   "location": "user.ts",
   "maintainers": [
     "TonyRL",
@@ -108,7 +108,7 @@ _None_
     {
       "description": "🧣：琳铛 🇨🇳🇨🇳 No other ins accounts‼️‼️ More content 👇👇 - Powered by RSSHub",
       "errorAt": "2026-01-20T01:20:00.752Z",
-      "errorMessage": "browserType.connect: WebSocket error: ws://browserless:3000/ 429 Too Many Requests\n\r\nToo Many Requests\nCall log:\n  - <ws connecting> ws://browserless:3000/\n  - <ws unexpected response> ws://browserless:3000/ 429 Too Many Requests\n\r\nToo Many Requests\n  - <ws error> ws://browserless:3000/ error WebSocket was closed before the connection was established\n  - <ws connect error> ws://browserless:3000/ WebSocket was closed before the connection was established\n  - <ws disconnected> ws://browserless:3000/ code=1006 reason=\n\nAuthentication failed. Access denied.\n/picnob/user/peppapig6077\nFailed to fetch\n522 \n503 \nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "Failed to fetch\nAuthentication failed. Access denied.\n/picnob/user/peppapig6077\nFailed to fetch\n522 \n503 \nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "62461951970682880",
       "image": "https://sp1.pixnoy.com/a/a_66595339937_3438151834381512121225_8794553825c4d7abe3aff1d0de99fab5.jpg?o=aHR0cHM6Ly9zY29udGVudC1pYWQzLTIuY2RuaW5zdGFncmFtLmNvbS92L3Q1MS4yODg1LTE5LzQ1ODE2OTAwMV83OTMzMDIyNDQwMTYwMDQ1XzEyNDc1MzUwODM1MDg0NzEwMjJfbi5qcGc/c3RwPWRzdC1qcGdfczE1MHgxNTBfdHQ2JmVmZz1leUoyWlc1amIyUmxYM1JoWnlJNkluQnliMlpwYkdWZmNHbGpMbVJxWVc1bmJ5NDVORFF1WXpJaWZRJl9uY19odD1zY29udGVudC1pYWQzLTIuY2RuaW5zdGFncmFtLmNvbSZfbmNfY2F0PTEwNSZfbmNfb2M9UTZjWjJRRzRWVVh1c0xRdnRvRlp6YmxheGtreXQ2ZHNIOXl6WHViM3B6a2Q4aDdtVW9Oc25SenNvMHVLZzJYWmlrVHlLVkt0N0dmQWd2LTZqMS1YeDd6YUNHYmImX25jX29oYz1ZWE1tN3lUM25BNFE3a052d0d0M0xScSZfbmNfZ2lkPTMtNkpCZTFpNW92M1BWRWtKNmhGU2cmZWRtPUFMR2JKUE1CQUFBQSZjY2I9Ny01Jm9oPTAwX0FmcXBYMG5Sb0dmU19nRkg5MDBOb19oeFI0V0I3UXIwTTQ2LTRKbEgyVnBJdGcmb2U9Njk3MjBGRDkmX25jX3NpZD03ZDNhYzU=&h=bb970d4a02046b507a95edfff5e5d824",
       "ownerUserId": null,

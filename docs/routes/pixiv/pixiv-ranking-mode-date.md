@@ -130,7 +130,7 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "2026年8月4日 pixiv 日排行 - Powered by RSSHub",
+      "description": "2026年8月5日 pixiv 日排行 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "41427688948323328",
@@ -142,7 +142,7 @@ _None_
       "url": "rsshub://pixiv/ranking/day"
     },
     {
-      "description": "2026年8月4日 pixiv 周排行 - Powered by RSSHub",
+      "description": "2026年8月5日 pixiv 周排行 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "41147805276726317",

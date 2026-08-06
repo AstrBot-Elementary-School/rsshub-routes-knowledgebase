@@ -134,8 +134,8 @@ _None_
     },
     {
       "description": "四川广播电视台 - 四川新闻联播 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-04T20:11:53.981Z",
+      "errorMessage": "[GET] \"https://kscgc.sctv-tf.com/sctv/lookback/1/date.json\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 45.253.60.141:443, 45.253.60.139:443, 45.253.60.146:443, 45.253.60.142:443, 45.253.60.143:443, 45.253.60.145:443, 45.253.60.140:443, 45.253.60.144:443, timeout: 10000ms))\n",
       "id": "163898423688988672",
       "image": "/sctv/1/image/public/202101/20210118094118_abbi6fxq9i.jpg",
       "ownerUserId": null,

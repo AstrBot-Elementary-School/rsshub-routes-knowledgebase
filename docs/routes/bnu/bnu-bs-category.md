@@ -91,16 +91,16 @@
       "url": "rsshub://bnu/bs/xzjz"
     },
     {
-      "description": "学院新闻 - 北京师范大学经济与工商管理学院 - Powered by RSSHub",
+      "description": "学术成果 - 北京师范大学经济与工商管理学院 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1121871309890781184",
+      "id": "1166229989536694272",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "http://bs.bnu.edu.cn/xw/index.html",
-      "title": "学院新闻 - 北京师范大学经济与工商管理学院",
+      "siteUrl": "http://bs.bnu.edu.cn/xzcg/index.html",
+      "title": "学术成果 - 北京师范大学经济与工商管理学院",
       "type": "feed",
-      "url": "rsshub://bnu/bs/xw"
+      "url": "rsshub://bnu/bs/xzcg"
     }
   ]
 }

@@ -40,7 +40,7 @@ _None_
   ],
   "description": "最近一期的文章汇总",
   "example": "/yilinzazhi/latest",
-  "heat": 518,
+  "heat": 517,
   "location": "latest.ts",
   "maintainers": [
     "g0ngjie"
@@ -62,7 +62,7 @@ _None_
     {
       "description": "意林 - 近期文章汇总 - Powered by RSSHub",
       "errorAt": "2024-10-08T03:58:34.168Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'link')\n502 \nCannot read properties of undefined (reading 'link')\n",
+      "errorMessage": "Cannot read properties of undefined (reading 'link')\nCannot read properties of undefined (reading 'link')\nCannot read properties of undefined (reading 'link')\n",
       "id": "60546375521699840",
       "image": null,
       "ownerUserId": null,

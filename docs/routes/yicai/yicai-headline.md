@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 790,
+  "heat": 791,
   "location": "headline.ts",
   "maintainers": [
     "nczitzk"
@@ -72,8 +72,8 @@ _None_
   "topFeeds": [
     {
       "description": "第一财经 - 头条 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-05T01:07:04.128Z",
+      "errorMessage": "Command timed out",
       "id": "54806809341165585",
       "image": null,
       "ownerUserId": null,

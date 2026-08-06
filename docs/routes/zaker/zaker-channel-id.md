@@ -65,8 +65,8 @@ _None_
   "topFeeds": [
     {
       "description": "科技 - ZAKER新闻 - Powered by RSSHub",
-      "errorAt": "2026-08-04T07:19:53.084Z",
-      "errorMessage": "Authentication failed. Access denied.\n/zaker/channel/13\n[GET] \"https://www.myzaker.com/article/6a7162cb8e9f0930e107bf8c\": 429 Too Many Requests\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "56326657469609999",
       "image": null,
       "ownerUserId": null,
@@ -77,8 +77,8 @@ _None_
     },
     {
       "description": "ZAKER新闻 - Powered by RSSHub",
-      "errorAt": "2026-08-03T21:31:36.632Z",
-      "errorMessage": "[GET] \"https://www.myzaker.com/article/6a70a7438e9f09265b5c6182\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 124.14.14.54:443, 124.14.14.53:443, 124.14.14.50:443, 124.14.14.55:443, 124.14.14.52:443, 124.14.14.51:443, 124.14.14.57:443, 124.14.14.56:443, timeout: 10000ms))\n",
+      "errorAt": "2026-08-05T00:54:55.610Z",
+      "errorMessage": "[GET] \"https:https://app.myzaker.com/news/topic.php?topic_id=6a72704c8e9f0970b215fe6e\": <no response> fetch failed (getaddrinfo ENOTFOUND https)\n",
       "id": "109858197894680576",
       "image": null,
       "ownerUserId": null,

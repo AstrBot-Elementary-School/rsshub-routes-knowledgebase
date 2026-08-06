@@ -55,7 +55,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1039,
+  "heat": 1038,
   "location": "huati.ts",
   "maintainers": [
     "xizeyoupan"

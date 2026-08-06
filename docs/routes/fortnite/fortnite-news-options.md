@@ -54,7 +54,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 5,
+  "heat": 6,
   "location": "news.ts",
   "maintainers": [
     "lyqluis"

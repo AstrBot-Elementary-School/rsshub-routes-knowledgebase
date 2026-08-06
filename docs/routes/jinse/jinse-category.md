@@ -75,7 +75,7 @@ _None_
     {
       "description": "undefined - 研报 - Powered by RSSHub",
       "errorAt": "2026-05-12T16:51:00.404Z",
-      "errorMessage": "[GET] \"https://www.jinse.com/blockchain/3736402.html\": <no response> fetch failed (Client network socket disconnected before secure TLS connection was established)\n",
+      "errorMessage": "[GET] \"https://www.jinse.com/blockchain/3736576.html\": <no response> fetch failed (Client network socket disconnected before secure TLS connection was established)\n",
       "id": "67468126492383233",
       "image": "https://staticn.jinse.cn/w/img/b6900fe.png",
       "ownerUserId": null,

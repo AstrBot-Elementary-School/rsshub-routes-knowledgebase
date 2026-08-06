@@ -114,7 +114,7 @@ There is an optinal parameter **limit** which controls the number of posts to fe
     },
     {
       "description": "Coomer Posts - Powered by RSSHub",
-      "errorAt": "2026-08-04T06:29:44.130Z",
+      "errorAt": "2026-08-02T17:30:20.147Z",
       "errorMessage": "[GET] \"https://coomer.st/api/v1/posts\": 503 Backend fetch failed\n",
       "id": "59850686115931136",
       "image": "https://coomer.st/favicon.ico",

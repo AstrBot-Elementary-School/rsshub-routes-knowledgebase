@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2093,
+  "heat": 2095,
   "location": "znews.ts",
   "maintainers": [
     "shunf4"

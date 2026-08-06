@@ -77,8 +77,8 @@ _None_
   "topFeeds": [
     {
       "description": "金十数据 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-05T06:38:29.594Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 44366244616936448",
       "id": "44366244616936448",
       "image": null,
       "ownerUserId": null,
@@ -89,8 +89,8 @@ _None_
     },
     {
       "description": "金十数据 - Powered by RSSHub",
-      "errorAt": "2026-08-03T17:40:02.134Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "72573375336611840",
       "image": null,
       "ownerUserId": null,

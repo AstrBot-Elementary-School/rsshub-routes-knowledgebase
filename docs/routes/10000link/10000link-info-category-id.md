@@ -158,14 +158,14 @@
   },
   "topFeeds": [
     {
-      "description": "建发入局，怡亚通探路！供应链巨头扎堆卷进AI万亿赛道：谁在上游“搬砖”，谁在下游“抢滩”？ - Powered by RSSHub",
+      "description": "合规成紧箍咒？国企一刀切管控逼疯一线：守规丢市场，灵活丢饭碗，业务团队陷入“生死局”！ - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "138893356640117760",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://info.10000link.com/newslists.aspx?chid=My01",
-      "title": "10000万联网 - 建发入局，怡亚通探路！供应链巨头扎堆卷进AI万亿赛道：谁在上游“搬砖”，谁在下游“抢滩”？",
+      "title": "10000万联网 - 合规成紧箍咒？国企一刀切管控逼疯一线：守规丢市场，灵活丢饭碗，业务团队陷入“生死局”！",
       "type": "feed",
       "url": "rsshub://10000link/info/newslists/My01"
     },

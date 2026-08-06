@@ -82,28 +82,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "[F95zone] Collection Video Nyl Collection [2026-01-31] [Nyl2] - Powered by RSSHub",
+      "description": "[F95zone] Collection Pinup Ecksoh Collection [2026-05-02] [xoxo] - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "250524266322800640",
+      "id": "243703193927277568",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://f95zone.to/threads/nyl-collection-2026-01-01-nyl2.46099/#post-3049831",
-      "title": "[F95zone] Collection Video Nyl Collection [2026-01-31] [Nyl2]",
+      "siteUrl": "https://f95zone.to/threads/ecksoh-collection-2026-01-01-xoxo.136515/#post-9343108",
+      "title": "[F95zone] Collection Pinup Ecksoh Collection [2026-05-02] [xoxo]",
       "type": "feed",
-      "url": "rsshub://f95zone/post/nyl-collection-2026-01-01-nyl2.46099/post-3049831"
+      "url": "rsshub://f95zone/post/ecksoh-collection-2026-01-01-xoxo.136515/post-9343108"
     },
     {
-      "description": "[F95zone] Collection Video Nagoonimation Collection [2026-05-05] [Nagoonimation] - Powered by RSSHub",
+      "description": "[F95zone] Collection Video Bamh3D Collection [2026-07-05] [Bamhor] - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "250523390007444480",
+      "id": "243703331756301312",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://f95zone.to/threads/nagoonimation-collection-2025-11-14-nagoonimation.52702/#post-3510810",
-      "title": "[F95zone] Collection Video Nagoonimation Collection [2026-05-05] [Nagoonimation]",
+      "siteUrl": "https://f95zone.to/threads/bamh3d-collection-2026-01-04-bamhor.181609/#post-12203185",
+      "title": "[F95zone] Collection Video Bamh3D Collection [2026-07-05] [Bamhor]",
       "type": "feed",
-      "url": "rsshub://f95zone/post/nagoonimation-collection-2025-11-14-nagoonimation.52702/post-3510810"
+      "url": "rsshub://f95zone/post/bamh3d-collection-2026-01-04-bamhor.181609/post-12203185"
     }
   ]
 }

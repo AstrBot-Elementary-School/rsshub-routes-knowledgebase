@@ -90,14 +90,14 @@ _None_
       "url": "rsshub://maccms/moduzy.net/6"
     },
     {
-      "description": "最新日韩动漫 - moduzy.net - Powered by RSSHub",
+      "description": "最新里番动漫 - moduzy.net - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "63376654120875008",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://moduzy.net/",
-      "title": "最新日韩动漫 - moduzy.net",
+      "title": "最新里番动漫 - moduzy.net",
       "type": "feed",
       "url": "rsshub://maccms/moduzy.net/2"
     }
