@@ -120,8 +120,8 @@ _None_
     },
     {
       "description": "心血管 - MedSci.cn - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-06T06:26:11.870Z",
+      "errorMessage": "[GET] \"https://www.medsci.cn/department/details?s_id=2&module=article\": <no response> fetch failed (Connect Timeout Error (attempted address: www.medsci.cn:443, timeout: 10000ms))\n",
       "id": "66942767614244865",
       "image": null,
       "ownerUserId": null,

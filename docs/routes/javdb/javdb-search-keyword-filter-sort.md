@@ -99,8 +99,8 @@
   "topFeeds": [
     {
       "description": "關鍵字 按相关度排序 搜索結果 - JavDB - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-06T05:59:44.560Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "67212739482473472",
       "image": null,
       "ownerUserId": null,

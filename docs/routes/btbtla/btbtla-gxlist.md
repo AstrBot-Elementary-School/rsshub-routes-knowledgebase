@@ -50,8 +50,8 @@ _None_
   "topFeeds": [
     {
       "description": "BTBTLA | 最近更新列表 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-05T15:28:33.084Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "225750137949784064",
       "image": null,
       "ownerUserId": null,

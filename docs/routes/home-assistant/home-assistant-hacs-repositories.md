@@ -50,8 +50,8 @@ _None_
   "topFeeds": [
     {
       "description": "HACS Repositories - Powered by RSSHub",
-      "errorAt": "2026-08-04T23:12:35.343Z",
-      "errorMessage": "Failed to fetch\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "93963481590744064",
       "image": null,
       "ownerUserId": null,

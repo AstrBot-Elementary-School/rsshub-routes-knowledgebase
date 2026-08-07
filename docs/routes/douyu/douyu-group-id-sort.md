@@ -98,16 +98,16 @@
       "url": "rsshub://douyu/group/534"
     },
     {
-      "description": "BigYa44198的鱼吧 - Powered by RSSHub",
+      "description": "imxiaoxin的鱼吧 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "63584364396372992",
+      "id": "215017513790669824",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://yuba.douyu.com/group/newself/1011",
-      "title": "斗鱼鱼吧 - BigYa44198",
+      "siteUrl": "https://yuba.douyu.com/group/newself/84675",
+      "title": "斗鱼鱼吧 - imxiaoxin",
       "type": "feed",
-      "url": "rsshub://douyu/group/1011"
+      "url": "rsshub://douyu/group/84675"
     }
   ]
 }

@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 150,
+  "heat": 149,
   "location": "latest-stories.tsx",
   "maintainers": [
     "miles170"

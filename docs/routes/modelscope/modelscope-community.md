@@ -74,7 +74,7 @@ _None_
     {
       "description": "ModelScope魔搭社区 DevPress官方社区-ModelScope旨在打造下一代开源的模型即服务共享平台，为泛AI开发者提供灵活、易用、低成本的一站式模型服务产品，让模型应用更简单。 - Powered by RSSHub",
       "errorAt": "2025-06-20T06:52:23.117Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'content')\nCannot read properties of undefined (reading 'content')\nCannot read properties of undefined (reading 'content')\nCannot read properties of undefined (reading 'content')\n",
+      "errorMessage": "Cannot read properties of undefined (reading 'content')\nCannot read properties of undefined (reading 'content')\n[POST] \"https://community.modelscope.cn/v1/namespace_page/article\": <no response> fetch failed\nCannot read properties of undefined (reading 'content')\n",
       "id": "63118600077338625",
       "image": "https://g.alicdn.com/sail-web/maas/0.8.10/favicon/128.ico",
       "ownerUserId": null,

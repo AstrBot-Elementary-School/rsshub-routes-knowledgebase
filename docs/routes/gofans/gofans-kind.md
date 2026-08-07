@@ -50,7 +50,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2717,
+  "heat": 2718,
   "location": "index.tsx",
   "maintainers": [
     "HenryQW"

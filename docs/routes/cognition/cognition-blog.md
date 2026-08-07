@@ -77,7 +77,7 @@ _None_
       "errorAt": null,
       "errorMessage": null,
       "id": "207531896770078720",
-      "image": "https://cognition.com/opengraph-image.jpg?opengraph-image.0mzhc99j4lsox.jpg?dpl=dpl_9xeLVefdpSSgTvzBD4Z9oMz2FasT",
+      "image": "https://cognition.com/opengraph-image.jpg?opengraph-image.0mzhc99j4lsox.jpg?dpl=dpl_DgW1onHbVr3TDkEzC94JLTx7Pwi5",
       "ownerUserId": null,
       "siteUrl": "https://cognition.com/blog",
       "title": "Blog | Cognition",

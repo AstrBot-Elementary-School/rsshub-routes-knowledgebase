@@ -91,8 +91,8 @@
   "topFeeds": [
     {
       "description": "S1 NO.1 STYLE - JavDB - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-06T05:10:06.392Z",
+      "errorMessage": "Failed to fetch\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "41699114741173248",
       "image": null,
       "ownerUserId": null,
@@ -103,8 +103,8 @@
     },
     {
       "description": "MOODYZ - JavDB - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-06T04:22:02.680Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "73162555663082522",
       "image": null,
       "ownerUserId": null,

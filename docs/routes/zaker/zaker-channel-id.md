@@ -77,8 +77,8 @@ _None_
     },
     {
       "description": "ZAKER新闻 - Powered by RSSHub",
-      "errorAt": "2026-08-05T00:54:55.610Z",
-      "errorMessage": "[GET] \"https:https://app.myzaker.com/news/topic.php?topic_id=6a72704c8e9f0970b215fe6e\": <no response> fetch failed (getaddrinfo ENOTFOUND https)\n",
+      "errorAt": "2026-08-03T21:31:36.632Z",
+      "errorMessage": "[GET] \"https://www.myzaker.com/channel/660\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 124.200.113.73:443, 124.200.113.74:443, 124.200.113.77:443, 124.200.113.76:443, 124.200.113.72:443, 124.200.113.78:443, 124.200.113.75:443, 124.200.113.79:443, timeout: 10000ms))\n",
       "id": "109858197894680576",
       "image": null,
       "ownerUserId": null,

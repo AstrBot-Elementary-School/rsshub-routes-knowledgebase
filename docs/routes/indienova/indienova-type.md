@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 307,
+  "heat": 308,
   "location": "article.ts",
   "maintainers": [
     "GensouSakuya",

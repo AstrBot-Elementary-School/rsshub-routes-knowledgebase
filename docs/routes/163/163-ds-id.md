@@ -85,16 +85,16 @@ _None_
       "url": "rsshub://163/ds/d26787c432064c578e87b977aa7b30aa"
     },
     {
-      "description": "魔兽客服公告 的动态 - Powered by RSSHub",
+      "description": "暴雪大神 的动态 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "166489281655090183",
+      "id": "92101048147198999",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://ds.163.com/user/a3d082651b054b4d8a79dd327f893a94",
-      "title": "魔兽客服公告 的动态",
+      "siteUrl": "https://ds.163.com/user/13be30b3f5204a17b3e52eaf9f0e44aa",
+      "title": "暴雪大神 的动态",
       "type": "feed",
-      "url": "rsshub://163/ds/a3d082651b054b4d8a79dd327f893a94"
+      "url": "rsshub://163/ds/13be30b3f5204a17b3e52eaf9f0e44aa"
     }
   ]
 }

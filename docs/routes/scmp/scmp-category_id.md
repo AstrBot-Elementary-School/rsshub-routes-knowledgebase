@@ -75,8 +75,8 @@ See the [official RSS page](https://www.scmp.com/rss) to get the ID of each cate
   "topFeeds": [
     {
       "description": "The latest breaking news from China. - Powered by RSSHub",
-      "errorAt": "2026-08-03T05:15:10.734Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 58381798255721484",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "58381798255721484",
       "image": "https://assets.i-scmp.com/static/img/icons/scmp-meta-1200x630.png",
       "ownerUserId": null,

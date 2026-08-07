@@ -85,16 +85,16 @@ _None_
       "url": "rsshub://dblp/knowledge%20tracing"
     },
     {
-      "description": "DBLP manipulation RSS - Powered by RSSHub",
+      "description": "DBLP software testing RSS - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "231673359707123712",
+      "id": "84441761514554368",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://dblp.org/search?q=manipulation",
-      "title": "【dblp】manipulation",
+      "siteUrl": "https://dblp.org/search?q=software%20testing",
+      "title": "【dblp】software testing",
       "type": "feed",
-      "url": "rsshub://dblp/manipulation"
+      "url": "rsshub://dblp/software%20testing"
     }
   ]
 }

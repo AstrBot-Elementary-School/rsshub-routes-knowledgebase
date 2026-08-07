@@ -62,8 +62,8 @@ _None_
   "topFeeds": [
     {
       "description": "Typeless app release notes - Powered by RSSHub",
-      "errorAt": "2026-07-08T07:21:33.539Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'features')\nCannot read properties of null (reading 'features')\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "240142130688096256",
       "image": "https://www.typeless.com/logo_500.png",
       "ownerUserId": null,

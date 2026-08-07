@@ -225,7 +225,7 @@
     {
       "description": "macOS 标签下的所有主题 - Powered by RSSHub",
       "errorAt": "2026-03-03T02:50:45.460Z",
-      "errorMessage": "d.included is not iterable\n",
+      "errorMessage": "[GET] \"https://yuanliao.info/t/macos\": <no response> fetch failed (Client network socket disconnected before secure TLS connection was established)\n",
       "id": "150754386348295168",
       "image": "https://yuanliao.info/assets/logo-f9tlxmqd.png",
       "ownerUserId": null,

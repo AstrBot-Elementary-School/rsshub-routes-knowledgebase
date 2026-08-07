@@ -78,7 +78,7 @@ _None_
     {
       "description": "新着の最新記事 | ゲーム・エンタメ最新情報のファミ通.com - Powered by RSSHub",
       "errorAt": "2026-03-26T05:02:18.083Z",
-      "errorMessage": "Cannot read properties of null (reading 'nameJa')\n",
+      "errorMessage": "Unhandle type: ARTICLE_AD\n",
       "id": "172851805999353856",
       "image": "https://www.famitsu.com/img/1812/favicons/apple-touch-icon.png",
       "ownerUserId": null,

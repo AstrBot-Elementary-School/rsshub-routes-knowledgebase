@@ -91,8 +91,8 @@ For example, the category for the page <https://www.koreaherald.com/Business> an
     },
     {
       "description": "The Korea Herald - National - Powered by RSSHub",
-      "errorAt": "2026-08-05T03:37:29.401Z",
-      "errorMessage": "[GET] \"https://www.koreaherald.com/National\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "97651779609807872",
       "image": null,
       "ownerUserId": null,

@@ -83,28 +83,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "New contributors for yang991178/fluent-reader - Powered by RSSHub",
+      "description": "New contributors for infiniflow/ragflow - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "83366105549031424",
+      "id": "84430164607162368",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/yang991178/fluent-reader/graphs/contributors",
-      "title": "yang991178/fluent-reader Contributors",
+      "siteUrl": "https://github.com/infiniflow/ragflow/graphs/contributors",
+      "title": "infiniflow/ragflow Contributors",
       "type": "feed",
-      "url": "rsshub://github/contributors/yang991178/fluent-reader"
+      "url": "rsshub://github/contributors/infiniflow/ragflow"
     },
     {
-      "description": "New contributors for PixarAnimationStudios/OpenUSD - Powered by RSSHub",
+      "description": "New contributors for open-metadata/OpenMetadata - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "84958270281030656",
+      "id": "78928360835988480",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/PixarAnimationStudios/OpenUSD/graphs/contributors",
-      "title": "PixarAnimationStudios/OpenUSD Contributors",
+      "siteUrl": "https://github.com/open-metadata/OpenMetadata/graphs/contributors",
+      "title": "open-metadata/OpenMetadata Contributors",
       "type": "feed",
-      "url": "rsshub://github/contributors/PixarAnimationStudios/OpenUSD"
+      "url": "rsshub://github/contributors/open-metadata/OpenMetadata"
     }
   ]
 }

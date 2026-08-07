@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 39,
+  "heat": 40,
   "location": "archive.ts",
   "maintainers": [
     "Levix"

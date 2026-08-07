@@ -50,7 +50,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1919,
+  "heat": 1917,
   "location": "top.ts",
   "maintainers": [
     "yuuow"
@@ -79,7 +79,7 @@ _None_
     {
       "description": "站酷总榜设计_创意作品榜_站酷ZCOOL,中国设计师互动平台.深耕设计领域十八年,站酷聚集了1800万设计师_摄影师_插画师_艺术家_创意人_设计创意群体中具有较高的影响力与号召力. - Powered by RSSHub",
       "errorAt": "2026-06-15T20:02:12.999Z",
-      "errorMessage": "Unexpected end of JSON input\nUnexpected end of JSON input\nAuthentication failed. Access denied.\n/zcool/top/design\nUnexpected end of JSON input\nMISCONF Redis is configured to save RDB snapshots, but it's currently unable to persist to disk. Commands that may modify the data set are disabled, because this instance is configured to report errors during writes if RDB snapshotting fails (stop-writes-on-bgsave-error option). Please check the Redis logs for details about the RDB error.\nUnexpected end of JSON input\nUnexpected end of JSON input\nUnexpected end of JSON input\nUnexpected end of JSON input\nUnexpected end of JSON input\nUnexpected end of JSON input\nAuthentication failed. Access denied.\n/zcool/top/design\n503 \nUnexpected end of JSON input\n",
+      "errorMessage": "Unexpected end of JSON input\nUnexpected end of JSON input\nAuthentication failed. Access denied.\n/zcool/top/design\nUnexpected end of JSON input\nMISCONF Redis is configured to save RDB snapshots, but it's currently unable to persist to disk. Commands that may modify the data set are disabled, because this instance is configured to report errors during writes if RDB snapshotting fails (stop-writes-on-bgsave-error option). Please check the Redis logs for details about the RDB error.\nUnexpected end of JSON input\nUnexpected end of JSON input\n[GET] \"https://www.zcool.com.cn/top/index.do\": <no response> fetch failed\nUnexpected end of JSON input\nUnexpected end of JSON input\nUnexpected end of JSON input\nAuthentication failed. Access denied.\n/zcool/top/design\n503 \nUnexpected end of JSON input\n",
       "id": "43301307059705856",
       "image": null,
       "ownerUserId": null,

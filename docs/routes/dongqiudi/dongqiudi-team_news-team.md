@@ -38,7 +38,7 @@ _None_
     "sport"
   ],
   "example": "/dongqiudi/team_news/50001755",
-  "heat": 217,
+  "heat": 216,
   "location": "team-news.ts",
   "maintainers": [
     "HenryQW"
@@ -73,8 +73,8 @@ _None_
     },
     {
       "description": "阿森纳 - 相关新闻 - Powered by RSSHub",
-      "errorAt": "2026-08-05T05:42:10.830Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "73340530520921095",
       "image": "https://sd.qunliao.info/fastdfs5/M00/04/C8/rB8BO15q_yaAdgetAABZZa53gBI322.png",
       "ownerUserId": null,

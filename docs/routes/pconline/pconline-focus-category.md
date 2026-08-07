@@ -88,8 +88,8 @@
   "topFeeds": [
     {
       "description": "太平洋科技-全部 - Powered by RSSHub",
-      "errorAt": "2026-08-05T02:27:51.902Z",
-      "errorMessage": "[GET] \"https:\": <no response> Failed to parse URL from https: (Invalid URL)\n[GET] \"https:\": <no response> Failed to parse URL from https:\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "84175249418008576",
       "image": null,
       "ownerUserId": null,
@@ -100,8 +100,8 @@
     },
     {
       "description": "太平洋科技-全部 - Powered by RSSHub",
-      "errorAt": "2026-08-05T02:33:49.956Z",
-      "errorMessage": "[GET] \"https:\": <no response> Failed to parse URL from https: (Invalid URL)\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "59139256789618688",
       "image": null,
       "ownerUserId": null,

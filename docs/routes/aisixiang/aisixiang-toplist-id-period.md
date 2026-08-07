@@ -71,8 +71,8 @@ _None_
     },
     {
       "description": "爱思想 - 一周文章点击排行 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-05T08:06:56.743Z",
+      "errorMessage": "[GET] \"https://www.aisixiang.com/toplist?id=1&period=7\": <no response> fetch failed (Client network socket disconnected before secure TLS connection was established)\n",
       "id": "75338776503090177",
       "image": "https://oss.aisixiang.com/images/logo_toplist.jpg",
       "ownerUserId": null,

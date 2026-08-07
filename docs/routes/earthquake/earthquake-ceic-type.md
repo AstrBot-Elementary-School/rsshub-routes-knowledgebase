@@ -91,7 +91,7 @@
     {
       "description": "最近24小时地震信息 - Powered by RSSHub",
       "errorAt": "2024-09-29T07:49:59.550Z",
-      "errorMessage": "Unexpected token '!', \"!doctype h\"... is not valid JSON\n",
+      "errorMessage": "[GET] \"http://www.ceic.ac.cn/ajax/speedsearch?num=1\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 117.59.168.26:80, 117.59.168.27:80, 117.59.168.28:80, 117.59.168.30:80, 117.59.168.29:80, 117.59.168.23:80, 117.59.168.24:80, 117.59.168.25:80, timeout: 10000ms))\n",
       "id": "55611775416893440",
       "image": null,
       "ownerUserId": null,

@@ -144,8 +144,8 @@
   "topFeeds": [
     {
       "description": "游侠网资讯中心是国内资深、全面的单机新闻发布站点之一，24小时报道国内、全球单机新闻以及各类游戏相关资讯！ - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-07-04T09:02:02.124Z",
+      "errorMessage": "[GET] \"https://mp.ali213.net/ajax/newslist?type=new\": <no response> fetch failed (Connect Timeout Error (attempted address: mp.ali213.net:443, timeout: 10000ms))\n",
       "id": "122926847767308288",
       "image": "https://www.ali213.net/news/images/dxhlogo.png",
       "ownerUserId": null,

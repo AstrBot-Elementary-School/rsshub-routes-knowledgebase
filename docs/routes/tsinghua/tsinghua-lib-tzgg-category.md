@@ -6,13 +6,13 @@
 ## Route
 - Namespace: `tsinghua`
 - Namespace Name: `清华大学`
-- Route Path: `/tsinghua/lib/tzgg/:category`
+- Route Path: `/tsinghua/lib/tzgg/:category?`
 - Route Name: `图书馆通知公告`
 - Example: `/tsinghua/lib/tzgg/qtkx`
-- URL: `tsinghua.edu.cn`
+- URL: `lib.tsinghua.edu.cn`
 - Language: `_None_`
 - Categories: `university`
-- Maintainers: `linsenwang`
+- Maintainers: `linsenwang, Aquarius-Situla`
 - Source Location: `lib/tzgg.ts`
 - Source Module: `_None_`
 
@@ -20,7 +20,7 @@
 _None_
 
 ## Parameters
-- `category`: 分类，可在对应分类页 URL 中找到
+- `category`: 分类，可在对应分类页 URL 中找到，留空则获取全局通知公告
 
 
 ## Features
@@ -35,6 +35,7 @@ _None_
 ### Rule 1
 - `source`:
   - `lib.tsinghua.edu.cn/tzgg/:category`
+  - `lib.tsinghua.edu.cn/tzgg.htm`
 
 ## Raw JSON
 ```json
@@ -54,23 +55,23 @@ _None_
   "heat": 0,
   "location": "lib/tzgg.ts",
   "maintainers": [
-    "linsenwang"
+    "linsenwang",
+    "Aquarius-Situla"
   ],
   "name": "图书馆通知公告",
   "parameters": {
-    "category": "分类，可在对应分类页 URL 中找到"
+    "category": "分类，可在对应分类页 URL 中找到，留空则获取全局通知公告"
   },
-  "path": "/lib/tzgg/:category",
+  "path": "/lib/tzgg/:category?",
   "radar": [
     {
       "source": [
-        "lib.tsinghua.edu.cn/tzgg/:category"
+        "lib.tsinghua.edu.cn/tzgg/:category",
+        "lib.tsinghua.edu.cn/tzgg.htm"
       ]
     }
   ],
-  "test": {
-    "code": 1
-  },
-  "topFeeds": []
+  "topFeeds": [],
+  "url": "lib.tsinghua.edu.cn"
 }
 ```

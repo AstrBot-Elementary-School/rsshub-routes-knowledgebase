@@ -87,14 +87,14 @@ _None_
       "url": "rsshub://ycwb/5261"
     },
     {
-      "description": "羊城晚报金羊网 - 首页 - Powered by RSSHub",
+      "description": "羊城晚报金羊网 - - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "65552639683390464",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.ycwb.com/",
-      "title": "羊城晚报金羊网 - 首页",
+      "title": "羊城晚报金羊网 -",
       "type": "feed",
       "url": "rsshub://ycwb/1"
     }

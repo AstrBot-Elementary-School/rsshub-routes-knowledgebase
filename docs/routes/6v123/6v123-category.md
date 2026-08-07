@@ -631,16 +631,16 @@
       "url": "rsshub://6v123/dy"
     },
     {
-      "description": "最新欧剧.美剧连载，好看的欧剧.美剧连载免费下载是由6v电影下载网整理和收录，欢迎欧剧.美剧连载爱好者下载观看，并推荐给你的好友一起分享吧。 - Powered by RSSHub",
+      "description": "最新2026最新电影，好看的2026最新电影免费下载是由6v电影下载网整理和收录，欢迎2026最新电影爱好者下载观看，并推荐给你的好友一起分享吧。 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "197350875582414848",
+      "id": "185647754679929856",
       "image": "https://www.hao6v.me/images/logo.gif",
       "ownerUserId": null,
-      "siteUrl": "https://www.hao6v.me/mj",
-      "title": "6v电影网 - 欧剧.美剧连载",
+      "siteUrl": "https://www.hao6v.me/dy",
+      "title": "6v电影网 - 2026最新电影",
       "type": "feed",
-      "url": "rsshub://6v123/mj"
+      "url": "rsshub://6v123"
     }
   ],
   "url": "www.hao6v.me",

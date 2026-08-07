@@ -97,8 +97,8 @@
     },
     {
       "description": "24小时教育热闻 - 东方资讯 - Powered by RSSHub",
-      "errorAt": "2026-08-05T01:11:12.915Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "177651896288583692",
       "image": null,
       "ownerUserId": null,

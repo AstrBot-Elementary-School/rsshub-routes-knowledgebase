@@ -63,7 +63,7 @@ Due to [limitations by Spotify](https://developer.spotify.com/blog/2024-11-27-ch
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 225,
+  "heat": 224,
   "location": "playlist.ts",
   "maintainers": [
     "outloudvi"

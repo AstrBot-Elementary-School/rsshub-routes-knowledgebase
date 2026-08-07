@@ -40,7 +40,7 @@ _None_
   ],
   "description": "获取当日《人民日报》全部版面或指定版面的文章。",
   "example": "/people/paper",
-  "heat": 0,
+  "heat": 1,
   "location": "paper.ts",
   "maintainers": [
     "pseudoyu"

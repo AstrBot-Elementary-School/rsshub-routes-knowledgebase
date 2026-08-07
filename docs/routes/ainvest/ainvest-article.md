@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "AInvest - Latest Articles - Powered by RSSHub",
-      "errorAt": "2026-08-05T06:36:14.031Z",
-      "errorMessage": "[GET] \"https://news.ainvest.com/content-page/v1/page/johnson-johnson-10-rich-strong-run-key-pharma-handover-2608\": 404 \n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "165445337069434882",
       "image": null,
       "ownerUserId": null,

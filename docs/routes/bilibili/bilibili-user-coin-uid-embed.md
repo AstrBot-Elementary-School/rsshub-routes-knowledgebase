@@ -89,16 +89,16 @@ _None_
       "url": "rsshub://bilibili/user/coin/549117578"
     },
     {
-      "description": "undefined 的 bilibili 投币视频 - Powered by RSSHub",
-      "errorAt": "2025-10-10T12:34:35.139Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
-      "id": "156121534429763584",
+      "description": "CLS班长 的 bilibili 投币视频 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "73238754758254592",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://space.bilibili.com/3546738526784312",
-      "title": "undefined 的 bilibili 投币视频",
+      "siteUrl": "https://space.bilibili.com/3546587043203707",
+      "title": "CLS班长 的 bilibili 投币视频",
       "type": "feed",
-      "url": "rsshub://bilibili/user/coin/3546738526784312"
+      "url": "rsshub://bilibili/user/coin/3546587043203707"
     }
   ]
 }

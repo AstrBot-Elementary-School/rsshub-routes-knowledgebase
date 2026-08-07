@@ -91,8 +91,8 @@
   "topFeeds": [
     {
       "description": "New - pixivision - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-06T01:05:58.286Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 58887079850550272",
       "id": "58887079850550272",
       "image": null,
       "ownerUserId": null,

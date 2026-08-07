@@ -77,7 +77,7 @@ _None_
     {
       "description": null,
       "errorAt": "2025-05-15T12:16:26.855Z",
-      "errorMessage": "[GET] \"http://sousuo.gov.cn/list.htm?n=20&sort=pubtime&t=paper&pcodeJiguan\": <no response> fetch failed (getaddrinfo EAI_AGAIN sousuo.gov.cn)\n",
+      "errorMessage": "[GET] \"http://sousuo.gov.cn/list.htm?n=20&sort=pubtime&t=paper&pcodeJiguan\": <no response> fetch failed (Connect Timeout Error (attempted address: sousuo.gov.cn:80, timeout: 10000ms))\n",
       "id": "145767488928582665",
       "image": null,
       "ownerUserId": null,

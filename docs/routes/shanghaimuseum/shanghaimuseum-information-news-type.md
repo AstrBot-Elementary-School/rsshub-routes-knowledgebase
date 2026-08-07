@@ -64,8 +64,8 @@ _None_
   "topFeeds": [
     {
       "description": "上海博物馆 - 新闻与公告 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-06T03:56:34.826Z",
+      "errorMessage": "[POST] \"https://www.shanghaimuseum.net/mu/frontend/pg/infomation/search-info\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 101.227.180.64:443, 240e:96c:5100:a:65:e3b4:4000:0:443, timeout: 10000ms))\n",
       "id": "1153239806356881408",
       "image": null,
       "ownerUserId": null,

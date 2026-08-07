@@ -136,8 +136,8 @@ _None_
     },
     {
       "description": "权威徒步知识传播,帮助户外爱好者尽快掌握徒步技术,8264户外 - Powered by RSSHub",
-      "errorAt": "2026-08-05T07:31:22.239Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'trim')\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "74023089976071168",
       "image": null,
       "ownerUserId": null,

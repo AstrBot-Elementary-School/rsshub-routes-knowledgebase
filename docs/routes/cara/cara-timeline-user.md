@@ -76,16 +76,16 @@ _None_
       "url": "rsshub://cara/timeline/alonelee127"
     },
     {
-      "description": "Timeline - Nathan Fowkes - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "131922100224243712",
-      "image": "https://cdn.cara.app/production/profiles/e3934f00-3471-41dc-9700-11b58cfd4044/facebook-profile2.jpg",
+      "description": "Timeline - Rodrigo Goulao de Sousa - Powered by RSSHub",
+      "errorAt": "2025-11-26T14:00:44.455Z",
+      "errorMessage": "[GET] \"https://cara.app/explore\": 403 Forbidden\n",
+      "id": "127384139525444608",
+      "image": "https://cdn.cara.app/production/profiles/34966e18-5684-4d9d-afab-838babacdc30/465BAAB1-DDE7-42C3-9A1F-E078CF2DA69B.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://cara.app/nathanfowkesart/all",
-      "title": "Timeline - Nathan Fowkes",
+      "siteUrl": "https://cara.app/rodrigogsousa/all",
+      "title": "Timeline - Rodrigo Goulao de Sousa",
       "type": "feed",
-      "url": "rsshub://cara/timeline/nathanfowkesart"
+      "url": "rsshub://cara/timeline/rodrigogsousa"
     }
   ]
 }
