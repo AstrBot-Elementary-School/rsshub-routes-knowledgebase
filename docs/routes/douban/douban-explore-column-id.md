@@ -54,7 +54,7 @@ _None_
     {
       "description": "旅行-豆瓣发现 - Powered by RSSHub",
       "errorAt": "2024-11-05T09:41:38.827Z",
-      "errorMessage": "[GET] \"https://www.douban.com/explore/column/2\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.douban.com/explore/column/2\": 404 Not Found\n",
       "id": "68923387494636578",
       "image": null,
       "ownerUserId": null,

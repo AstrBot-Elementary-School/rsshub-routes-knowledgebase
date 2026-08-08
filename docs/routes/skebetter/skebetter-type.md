@@ -73,7 +73,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 27,
+  "heat": 29,
   "location": "index.ts",
   "maintainers": [
     "SnowAgar25"
@@ -131,8 +131,8 @@
     },
     {
       "description": "Skebetter - 新着 - Powered by RSSHub",
-      "errorAt": "2026-07-06T03:08:17.486Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "76931600411487232",
       "image": null,
       "ownerUserId": null,

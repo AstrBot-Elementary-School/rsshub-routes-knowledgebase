@@ -38,7 +38,7 @@ _None_
     "reading"
   ],
   "example": "/p-articles/section/critics",
-  "heat": 37,
+  "heat": 38,
   "location": "section.ts",
   "maintainers": [
     "Insomnia1437"

@@ -50,7 +50,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 128,
+  "heat": 126,
   "location": "shxyj.ts",
   "maintainers": [
     "CNYoki"

@@ -91,8 +91,8 @@
   "topFeeds": [
     {
       "description": "中出し 射精執行官 - JavDB - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-06T16:46:16.468Z",
+      "errorMessage": "Failed to fetch\nAuthentication failed. Access denied.\n/javdb/series/3aZz\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "84865535466264576",
       "image": null,
       "ownerUserId": null,
@@ -103,8 +103,8 @@
     },
     {
       "description": "絶対忠実秘書 - JavDB - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-07T04:51:36.991Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "85160035655452672",
       "image": null,
       "ownerUserId": null,

@@ -63,7 +63,7 @@
     "nsfw": true,
     "requirePuppeteer": true
   },
-  "heat": 1337,
+  "heat": 1334,
   "location": "index.ts",
   "maintainers": [
     "nczitzk"
@@ -88,7 +88,7 @@
   "topFeeds": [
     {
       "description": "有碼 - JavDB - 可下载 | 磁鏈更新排序 - Powered by RSSHub",
-      "errorAt": "2026-08-06T07:01:29.546Z",
+      "errorAt": "2026-08-06T04:07:06.780Z",
       "errorMessage": "Failed to fetch\nFailed to fetch\nFailed to fetch\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "73931561418737664",
       "image": null,
@@ -100,8 +100,8 @@
     },
     {
       "description": "有碼 - JavDB - 可下载 | 磁鏈更新排序 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-07T04:29:31.559Z",
+      "errorMessage": "Failed to fetch\nAuthentication failed. Access denied.\n/javdb/home\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "55906664666988544",
       "image": null,
       "ownerUserId": null,

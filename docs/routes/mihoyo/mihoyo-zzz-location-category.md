@@ -83,8 +83,8 @@
   "topFeeds": [
     {
       "description": "最新-绝区零 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-06T21:25:12.083Z",
+      "errorMessage": "[GET] \"https://api-takumi-static.mihoyo.com/content_v2_user/app/706fd13a87294881/getContentList?iPageSize=50&iPage=1&sLangKey=zh-cn&isPreview=0&iChanId=273\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 124.14.14.51:443, 124.14.14.50:443, 124.14.14.55:443, 124.14.14.53:443, 124.14.14.52:443, 124.14.14.54:443, 124.14.14.56:443, 124.14.14.57:443, timeout: 10000ms))\n",
       "id": "182164256051058688",
       "image": null,
       "ownerUserId": null,

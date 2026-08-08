@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 918,
+  "heat": 919,
   "location": "full.ts",
   "maintainers": [
     "ImSingee"
@@ -87,7 +87,7 @@ _None_
     {
       "description": "China - Powered by RSSHub",
       "errorAt": "2025-09-05T17:22:28.529Z",
-      "errorMessage": "[GET] \"https://www.economist.com/china/2026/08/03/china-wont-apologise-for-overcapacity\": 403 Forbidden\ngetaddrinfo EAI_AGAIN www.economist.com\n[GET] \"https://www.economist.com/china/2026/08/03/china-wont-apologise-for-overcapacity\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.economist.com/china/2026/08/06/chinas-superstitious-mayors\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/08/06/chinas-superstitious-mayors\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/08/06/why-ever-fewer-young-chinese-study-abroad\": 403 Forbidden\n",
       "id": "41461870197170199",
       "image": null,
       "ownerUserId": null,

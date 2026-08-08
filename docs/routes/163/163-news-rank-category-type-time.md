@@ -83,7 +83,7 @@ _None_
     {
       "description": "网易新闻24小时点击榜 - 全站 - Powered by RSSHub",
       "errorAt": "2026-05-08T11:48:10.437Z",
-      "errorMessage": "Cannot create property 'link' on string '\"\"'\n",
+      "errorMessage": "Cannot create property 'description' on string '\"\"'\n",
       "id": "155624244600445952",
       "image": null,
       "ownerUserId": null,
@@ -95,7 +95,7 @@ _None_
     {
       "description": "网易新闻24小时点击榜 - 全站 - Powered by RSSHub",
       "errorAt": "2026-07-03T07:41:31.858Z",
-      "errorMessage": "Cannot create property 'link' on string '\"\"'\n",
+      "errorMessage": "Cannot create property 'description' on string '\"\"'\n",
       "id": "63981069772459008",
       "image": null,
       "ownerUserId": null,

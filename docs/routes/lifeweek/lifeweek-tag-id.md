@@ -80,16 +80,16 @@ _None_
       "url": "rsshub://lifeweek/tag/6"
     },
     {
-      "description": "生活方式 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "152614722583832576",
+      "description": "文学 - Powered by RSSHub",
+      "errorAt": "2026-08-07T06:22:47.452Z",
+      "errorMessage": "[GET] \"https://www.lifeweek.com.cn/api/userWebFollow/getFollowTagContentList?type=4&sort=2&tagId=4\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 60.200.32.43:443, 60.200.32.44:443, 60.200.32.45:443, 60.200.32.46:443, 60.200.32.47:443, 60.200.32.48:443, 60.200.32.49:443, 60.200.32.50:443, timeout: 10000ms))\n",
+      "id": "152614384793012224",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.lifeweek.com.cn/articleList/7",
-      "title": "生活方式",
+      "siteUrl": "https://www.lifeweek.com.cn/articleList/4",
+      "title": "文学",
       "type": "feed",
-      "url": "rsshub://lifeweek/tag/7"
+      "url": "rsshub://lifeweek/tag/4"
     }
   ]
 }

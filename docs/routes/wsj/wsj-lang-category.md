@@ -63,7 +63,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 115,
+  "heat": 116,
   "location": "news.ts",
   "maintainers": [
     "oppilate"
@@ -93,7 +93,7 @@ _None_
     {
       "description": null,
       "errorAt": "2025-05-29T11:39:04.736Z",
-      "errorMessage": "Cannot read properties of null (reading '0')\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "150876888307287071",
       "image": null,
       "ownerUserId": null,

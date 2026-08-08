@@ -83,7 +83,7 @@ _None_
     {
       "description": "Spotify: My Top Tracks - Powered by RSSHub",
       "errorAt": "2026-03-12T15:51:13.296Z",
-      "errorMessage": "[GET] \"https://api.spotify.com/v1/me/top/tracks\": 403 Forbidden\n",
+      "errorMessage": "[POST] \"https://accounts.spotify.com/api/token\": 400 Bad Request\n",
       "id": "57248628577921024",
       "image": null,
       "ownerUserId": null,

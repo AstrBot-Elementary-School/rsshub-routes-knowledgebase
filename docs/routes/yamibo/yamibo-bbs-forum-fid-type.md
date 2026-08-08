@@ -56,7 +56,7 @@ _None_
       }
     ]
   },
-  "heat": 65,
+  "heat": 64,
   "location": "bbs/forum.ts",
   "maintainers": [
     "KarasuShin"

@@ -77,7 +77,7 @@ _None_
   "topFeeds": [
     {
       "description": "Daily Briefing - The New York Times - Powered by RSSHub",
-      "errorAt": "2026-08-01T14:44:43.944Z",
+      "errorAt": "2026-08-07T06:35:46.694Z",
       "errorMessage": "[GET] \"https://www.nytimes.com/zh-hans/series/daily-briefing-chinese\": 403 Forbidden\n[GET] \"https://www.nytimes.com/zh-hans/series/daily-briefing-chinese\": 403 Forbidden\n",
       "id": "148631391178206293",
       "image": null,

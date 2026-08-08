@@ -101,7 +101,7 @@ Currently supported authentication methods:
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 537833,
+  "heat": 537831,
   "location": "media.ts",
   "maintainers": [
     "DIYgod",
@@ -124,7 +124,7 @@ Currently supported authentication methods:
   ],
   "topFeeds": [
     {
-      "description": "原创女摄，坐标杭州。可带拍、代拍模特。不卖图和视频。未经允许禁止搬运到墙内，推止于推。有收费粉丝群/模特群，粉丝和模特都可以私信我进群。防丢小号@Aka_1127QQ。 - Powered by RSSHub",
+      "description": "Twitter @IES - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "57247782311076864",
@@ -136,7 +136,7 @@ Currently supported authentication methods:
       "url": "rsshub://twitter/media/IES_anh"
     },
     {
-      "description": "another acc：@yummyforw ig：yummychiyow ⛔️订阅只有fantia与Patreon ⛔️其余账号、其余平台都是盗图仿冒⛔️ Cosplay Subscribe :https://t.co/GE0vafd6NH🍒 - Powered by RSSHub",
+      "description": "Twitter @小倉ちよ - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "61071487909769216",

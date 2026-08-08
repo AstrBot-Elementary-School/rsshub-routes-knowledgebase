@@ -76,16 +76,16 @@ _None_
       "url": "rsshub://cara/timeline/alonelee127"
     },
     {
-      "description": "Timeline - Rodrigo Goulao de Sousa - Powered by RSSHub",
-      "errorAt": "2025-11-26T14:00:44.455Z",
+      "description": "Timeline - NIKA LYNAS - Powered by RSSHub",
+      "errorAt": "2025-11-21T13:47:28.301Z",
       "errorMessage": "[GET] \"https://cara.app/explore\": 403 Forbidden\n",
-      "id": "127384139525444608",
-      "image": "https://cdn.cara.app/production/profiles/34966e18-5684-4d9d-afab-838babacdc30/465BAAB1-DDE7-42C3-9A1F-E078CF2DA69B.jpg",
+      "id": "127384810660678656",
+      "image": "https://cdn.cara.app/production/profiles/f771718b-26f2-4d08-bda8-ddfbdac6a995/sf.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://cara.app/rodrigogsousa/all",
-      "title": "Timeline - Rodrigo Goulao de Sousa",
+      "siteUrl": "https://cara.app/cyberpunkova/all",
+      "title": "Timeline - NIKA LYNAS",
       "type": "feed",
-      "url": "rsshub://cara/timeline/rodrigogsousa"
+      "url": "rsshub://cara/timeline/cyberpunkova"
     }
   ]
 }

@@ -51,7 +51,7 @@ _None_
     "supportPodcast": true,
     "supportScihub": false
   },
-  "heat": 40,
+  "heat": 41,
   "location": "search.ts",
   "maintainers": [
     "xyqfer",
@@ -76,8 +76,8 @@ _None_
   "topFeeds": [
     {
       "description": "虎嗅 - Powered by RSSHub",
-      "errorAt": "2026-08-05T19:38:48.477Z",
-      "errorMessage": "Failed to fetch\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "66332234198832151",
       "image": null,
       "ownerUserId": null,

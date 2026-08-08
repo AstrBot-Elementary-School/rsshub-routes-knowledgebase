@@ -311,8 +311,8 @@
   "topFeeds": [
     {
       "description": "中文互联网数据研究资讯中心是一个专注于互联网数据研究、互联网数据调研、IT数据分析、互联网咨询机构数据、互联网权威机构，并致力为中国互联网研究和咨询及IT行业数据专业人员和决策者提供一个数据共享平台。这里是最新 | - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-07T05:09:06.020Z",
+      "errorMessage": "[GET] \"https://www.199it.com/newly\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 103.151.149.15:443, 103.151.149.16:443, 103.151.149.17:443, 103.151.149.18:443, 103.151.149.19:443, 103.151.149.20:443, 103.151.149.13:443, 103.151.149.14:443, timeout: 10000ms))\n",
       "id": "109510016354217993",
       "image": "//www.199it.com/199itlogo.png",
       "ownerUserId": null,
@@ -323,8 +323,8 @@
     },
     {
       "description": "中文互联网数据研究资讯中心是一个专注于互联网数据研究、互联网数据调研、IT数据分析、互联网咨询机构数据、互联网权威机构，并致力为中国互联网研究和咨询及IT行业数据专业人员和决策者提供一个数据共享平台。这里是最新 | - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-07T05:02:36.147Z",
+      "errorMessage": "[GET] \"https://www.199it.com/newly\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 103.158.16.142:443, 103.158.16.143:443, 103.158.16.144:443, 103.158.16.145:443, 103.158.16.146:443, 103.158.16.147:443, 103.158.16.140:443, 103.158.16.141:443, timeout: 10000ms))\n",
       "id": "132133310851759104",
       "image": "//www.199it.com/199itlogo.png",
       "ownerUserId": null,

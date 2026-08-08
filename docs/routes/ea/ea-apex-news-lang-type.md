@@ -97,18 +97,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Apex Legends 官网资讯（最新消息） - Powered by RSSHub",
-      "errorAt": "2025-10-02T17:55:45.883Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'featured')\n",
-      "id": "143374026862942208",
-      "image": "https://drop-assets.ea.com/images/F1GeiHWipvvKj7GtUVP3U/31bb122451e2dea6d14c9b497f8e09d4/apex-white-nav-logo.svg",
-      "ownerUserId": null,
-      "siteUrl": "https://www.ea.com/zh-hant/games/apex-legends/apex-legends/news?type=news-article",
-      "title": "Apex Legends 官网资讯（最新消息）",
-      "type": "feed",
-      "url": "rsshub://ea/apex-news/zh-hant/news-article"
-    },
-    {
       "description": "Apex Legends 官网资讯（游戏更新） - Powered by RSSHub",
       "errorAt": "2025-10-02T19:48:59.917Z",
       "errorMessage": "Cannot read properties of undefined (reading 'featured')\n",
@@ -119,6 +107,18 @@ _None_
       "title": "Apex Legends 官网资讯（游戏更新）",
       "type": "feed",
       "url": "rsshub://ea/apex-news/zh-hant/game-updates"
+    },
+    {
+      "description": "Apex Legends 官网资讯（最新消息） - Powered by RSSHub",
+      "errorAt": "2025-10-02T17:55:45.883Z",
+      "errorMessage": "Cannot read properties of undefined (reading 'featured')\n",
+      "id": "143374026862942208",
+      "image": "https://drop-assets.ea.com/images/F1GeiHWipvvKj7GtUVP3U/31bb122451e2dea6d14c9b497f8e09d4/apex-white-nav-logo.svg",
+      "ownerUserId": null,
+      "siteUrl": "https://www.ea.com/zh-hant/games/apex-legends/apex-legends/news?type=news-article",
+      "title": "Apex Legends 官网资讯（最新消息）",
+      "type": "feed",
+      "url": "rsshub://ea/apex-news/zh-hant/news-article"
     }
   ],
   "view": 0

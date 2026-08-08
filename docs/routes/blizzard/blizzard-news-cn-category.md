@@ -63,7 +63,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 21,
+  "heat": 20,
   "location": "news-cn.ts",
   "maintainers": [
     "zhangpeng2k"

@@ -92,16 +92,16 @@ _None_
       "url": "rsshub://mastodon/remote/pawoo.net/true"
     },
     {
-      "description": "Federated Public Timeline on baraag.net - Powered by RSSHub",
+      "description": "Federated Public Timeline on social.slat.org/ - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "111448345272221696",
+      "id": "77714219922888704",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://baraag.net/",
-      "title": "Federated Public Timeline on baraag.net",
+      "siteUrl": "https://social.slat.org/",
+      "title": "Federated Public Timeline on social.slat.org/",
       "type": "feed",
-      "url": "rsshub://mastodon/remote/baraag.net/false"
+      "url": "rsshub://mastodon/remote/social.slat.org%2F/false"
     }
   ],
   "view": 1

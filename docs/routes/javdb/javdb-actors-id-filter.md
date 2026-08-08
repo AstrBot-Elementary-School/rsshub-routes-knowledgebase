@@ -94,8 +94,8 @@
   "topFeeds": [
     {
       "description": "桃乃木香奈 - JavDB - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-06T16:29:20.614Z",
+      "errorMessage": "Failed to fetch\n[GET] \"https://javdb.com/actors/0dKX\": 403 Forbidden\nAuthentication failed. Access denied.\n/javdb/actors/0dKX\n[GET] \"https://javdb.com/actors/0dKX\": 403 Forbidden\nFailed to fetch\n[GET] \"https://javdb.com/actors/0dKX\": 403 Forbidden\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "58137945200229376",
       "image": null,
       "ownerUserId": null,
@@ -106,8 +106,8 @@
     },
     {
       "description": "河北彩花 - JavDB - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-07T06:15:38.741Z",
+      "errorMessage": "Failed to fetch\nFailed to fetch\nAuthentication failed. Access denied.\n/javdb/actors/EvkJ\nFailed to fetch\n[GET] \"https://javdb.com/actors/EvkJ\": 403 Forbidden\n[GET] \"https://javdb.com/actors/EvkJ\": 403 Forbidden\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "59231069957378048",
       "image": null,
       "ownerUserId": null,

@@ -91,7 +91,7 @@
     {
       "description": "最近24小时地震信息 - Powered by RSSHub",
       "errorAt": "2024-09-29T07:49:59.550Z",
-      "errorMessage": "[GET] \"http://www.ceic.ac.cn/ajax/speedsearch?num=1\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 117.59.168.26:80, 117.59.168.27:80, 117.59.168.28:80, 117.59.168.30:80, 117.59.168.29:80, 117.59.168.23:80, 117.59.168.24:80, 117.59.168.25:80, timeout: 10000ms))\n",
+      "errorMessage": "[GET] \"http://www.ceic.ac.cn/ajax/speedsearch?num=1\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 103.228.211.103:80, 103.228.211.104:80, 103.228.211.105:80, 103.228.211.106:80, 103.228.211.99:80, 103.228.211.100:80, 103.228.211.101:80, 103.228.211.102:80, timeout: 10000ms))\n",
       "id": "55611775416893440",
       "image": null,
       "ownerUserId": null,

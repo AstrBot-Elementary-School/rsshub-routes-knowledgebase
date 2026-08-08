@@ -65,8 +65,8 @@ _None_
   "topFeeds": [
     {
       "description": "科技 - ZAKER新闻 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-04T07:19:53.084Z",
+      "errorMessage": "Authentication failed. Access denied.\n/zaker/channel/13\n[GET] \"https://www.myzaker.com/channel/13\": 429 Too Many Requests\n[GET] \"https://www.myzaker.com/channel/13\": 429 Too Many Requests\n",
       "id": "56326657469609999",
       "image": null,
       "ownerUserId": null,
@@ -77,8 +77,8 @@ _None_
     },
     {
       "description": "ZAKER新闻 - Powered by RSSHub",
-      "errorAt": "2026-08-03T21:31:36.632Z",
-      "errorMessage": "[GET] \"https://www.myzaker.com/channel/660\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 124.200.113.73:443, 124.200.113.74:443, 124.200.113.77:443, 124.200.113.76:443, 124.200.113.72:443, 124.200.113.78:443, 124.200.113.75:443, 124.200.113.79:443, timeout: 10000ms))\n",
+      "errorAt": "2026-08-07T07:47:46.478Z",
+      "errorMessage": "[GET] \"https://www.myzaker.com/article/6a758301b15ec05c7c47094d\": 429 Too Many Requests\n",
       "id": "109858197894680576",
       "image": null,
       "ownerUserId": null,

@@ -89,15 +89,15 @@ _None_
     },
     {
       "description": null,
-      "errorAt": "2026-06-30T06:04:20.958Z",
-      "errorMessage": "[GET] \"https://www.sciencedirect.com/journal/cell-reports-physical-science/articles-in-press\": 403 Forbidden\n",
-      "id": "1178645011650969613",
+      "errorAt": "2026-06-30T06:04:20.489Z",
+      "errorMessage": "[GET] \"https://www.sciencedirect.com/journal/physics-reports/articles-in-press\": 403 Forbidden\n",
+      "id": "1178645011650969600",
       "image": null,
       "ownerUserId": null,
       "siteUrl": null,
       "title": "Importing",
       "type": "feed",
-      "url": "rsshub://sciencedirect/journal/cell-reports-physical-science"
+      "url": "rsshub://sciencedirect/journal/physics-reports"
     }
   ]
 }

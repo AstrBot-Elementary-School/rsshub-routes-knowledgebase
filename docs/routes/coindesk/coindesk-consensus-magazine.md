@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 38,
+  "heat": 37,
   "location": "consensus-magazine.ts",
   "maintainers": [
     "jameshih"

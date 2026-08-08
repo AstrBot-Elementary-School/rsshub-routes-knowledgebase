@@ -41,7 +41,7 @@ _None_
   ],
   "description": "| 全部 | 公告    | 活动   | 新闻 |\n| ---- | ------- | ------ | ---- |\n| ALL  | notices | events | news |",
   "example": "/hypergryph/endfield/news",
-  "heat": 1,
+  "heat": 2,
   "location": "endfield/news.ts",
   "maintainers": [
     "E-larex"

@@ -93,8 +93,8 @@
     },
     {
       "description": "CATTI 考试要闻动态 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-07T03:36:17.748Z",
+      "errorMessage": "[GET] \"https://www.catticenter.com/ywdt\": 502 Bad Gateway\n",
       "id": "101928092390409216",
       "image": "https://www.catticenter.com/img/applogo.png",
       "ownerUserId": null,

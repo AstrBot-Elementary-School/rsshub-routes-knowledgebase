@@ -56,7 +56,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1140,
+  "heat": 1139,
   "location": "keyword.ts",
   "maintainers": [
     "DIYgod",
@@ -86,8 +86,8 @@ _None_
     },
     {
       "description": "又有人在微博提到RSSHub了 - Powered by RSSHub",
-      "errorAt": "2026-08-05T22:04:15.045Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'cards')\nbrowserType.connect: WebSocket error: socket hang up\nCall log:\n  - <ws connecting> ws://browserless:3000/\n  - <ws error> ws://browserless:3000/ error socket hang up\n  - <ws connect error> ws://browserless:3000/ socket hang up\n  - <ws disconnected> ws://browserless:3000/ code=1006 reason=\n\nCooling down before new visitor Cookies from https://m.weibo.cn/ may be fetched\nAuthentication failed. Access denied.\n/weibo/keyword/RSSHub\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41147805276726295",
       "image": null,
       "ownerUserId": null,

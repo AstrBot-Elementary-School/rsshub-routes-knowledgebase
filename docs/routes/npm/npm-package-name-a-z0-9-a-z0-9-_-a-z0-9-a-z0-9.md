@@ -57,18 +57,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "vue - npm - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "175925053805877248",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.npmjs.com/package/vue",
-      "title": "vue - npm",
-      "type": "feed",
-      "url": "rsshub://npm/package/vue"
-    },
-    {
       "description": "pnpm - npm - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -79,6 +67,18 @@ _None_
       "title": "pnpm - npm",
       "type": "feed",
       "url": "rsshub://npm/package/pnpm"
+    },
+    {
+      "description": "vite - npm - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "175925939002251264",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.npmjs.com/package/vite",
+      "title": "vite - npm",
+      "type": "feed",
+      "url": "rsshub://npm/package/vite"
     }
   ]
 }

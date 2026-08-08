@@ -116,16 +116,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "Highly customizable, global player leveling plugin with many integrations. - Powered by RSSHub",
+      "description": "Transforming the visuals of Minecraft with exceptional quality, detail, and performance. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "113662012738039808",
+      "id": "120303120316993536",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/86biV1Ic",
-      "title": "AuroraLevels Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/complementary-unbound",
+      "title": "Complementary Shaders - Unbound Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/86biV1Ic/versions"
+      "url": "rsshub://modrinth/project/complementary-unbound/versions"
     }
   ]
 }

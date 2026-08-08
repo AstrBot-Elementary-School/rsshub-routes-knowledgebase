@@ -73,7 +73,7 @@ _None_
   "topFeeds": [
     {
       "description": "科学直播(live.kepu.net.cn) - Powered by RSSHub",
-      "errorAt": "2026-08-01T00:24:12.083Z",
+      "errorAt": "2026-08-07T01:07:31.777Z",
       "errorMessage": "[POST] \"https://live.kepu.net.cn:8089/index.php/front/live/replay_url\": 500 Internal Server Error\n",
       "id": "63118600077338630",
       "image": null,

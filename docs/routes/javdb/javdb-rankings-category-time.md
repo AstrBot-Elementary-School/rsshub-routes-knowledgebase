@@ -73,7 +73,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2427,
+  "heat": 2430,
   "location": "rankings.ts",
   "maintainers": [
     "nczitzk"
@@ -99,7 +99,7 @@
     {
       "description": "有碼排行 - 日排行 - JavDB - Powered by RSSHub",
       "errorAt": "2026-08-06T06:33:04.192Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://javdb.com/rankings/movies?p=daily&t=censored\": 403 Forbidden\n[GET] \"https://javdb.com/rankings/movies?p=daily&t=censored\": 403 Forbidden\nAuthentication failed. Access denied.\n/javdb/rankings\n[GET] \"https://javdb.com/rankings/movies?p=daily&t=censored\": <no response> fetch failed\n[GET] \"https://javdb.com/rankings/movies?p=daily&t=censored\": 403 Forbidden\n[GET] \"https://javdb.com/rankings/movies?p=daily&t=censored\": <no response> fetch failed\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "Failed to fetch\n[GET] \"https://javdb.com/rankings/movies?p=daily&t=censored\": 403 Forbidden\n[GET] \"https://javdb.com/rankings/movies?p=daily&t=censored\": 403 Forbidden\nAuthentication failed. Access denied.\n/javdb/rankings\n[GET] \"https://javdb.com/rankings/movies?p=daily&t=censored\": <no response> fetch failed\n[GET] \"https://javdb.com/rankings/movies?p=daily&t=censored\": 403 Forbidden\n[GET] \"https://javdb.com/rankings/movies?p=daily&t=censored\": 403 Forbidden\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "41696949079348224",
       "image": null,
       "ownerUserId": null,
@@ -110,8 +110,8 @@
     },
     {
       "description": "有碼排行 - 月排行 - JavDB - Powered by RSSHub",
-      "errorAt": "2026-08-06T05:38:18.714Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://javdb.com/rankings/movies?p=monthly&t=censored\": <no response> fetch failed\nFailed to fetch\nFailed to fetch\n[GET] \"https://javdb.com/rankings/movies?p=monthly&t=censored\": <no response> fetch failed\nFailed to fetch\nFailed to fetch\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorAt": "2026-08-06T19:28:48.068Z",
+      "errorMessage": "Failed to fetch\n[GET] \"https://javdb.com/rankings/movies?p=monthly&t=censored\": 403 Forbidden\nFailed to fetch\nFailed to fetch\n[GET] \"https://javdb.com/rankings/movies?p=monthly&t=censored\": <no response> fetch failed\nFailed to fetch\nFailed to fetch\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "57074574176806917",
       "image": null,
       "ownerUserId": null,

@@ -88,7 +88,7 @@
     {
       "description": "通知公告 - 事业单位考试 - Powered by RSSHub",
       "errorAt": "2026-02-06T05:27:14.779Z",
-      "errorMessage": "[GET] \"https://www.scpta.com.cn/front/News/List/67\": <no response> fetch failed (Connect Timeout Error (attempted address: www.scpta.com.cn:443, timeout: 10000ms))\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "178439059880655872",
       "image": null,
       "ownerUserId": null,

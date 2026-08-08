@@ -76,8 +76,8 @@ _None_
   "topFeeds": [
     {
       "description": "JunHe, founded in Beijing in 1989, was one of the first private partnership law firms in China. Since its establishment, JunHe has grown to be one of the largest and most recognized Chinese law firms. The firm has nine offices around the world and a team comprised of more than 600 professionals, including over 180 partners and legal counsel, as well as over 420 associates and legal translators. - Powered by RSSHub",
-      "errorAt": "2026-08-05T23:50:42.704Z",
-      "errorMessage": "[GET] \"https://junhe.com/legal-updates\": <no response> fetch failed (Connect Timeout Error (attempted address: junhe.com:443, timeout: 10000ms))\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "64312946924391424",
       "image": "https://junhe.com/images/site-logo.png",
       "ownerUserId": null,

@@ -64,18 +64,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "米游社 - 初代 的发帖 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "169381097732121600",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=76089447",
-      "title": "米游社 - 初代 的发帖",
-      "type": "feed",
-      "url": "rsshub://mihoyo/bbs/user-post/76089447"
-    },
-    {
       "description": "米游社 - MRYU 的发帖 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -86,6 +74,18 @@ _None_
       "title": "米游社 - MRYU 的发帖",
       "type": "feed",
       "url": "rsshub://mihoyo/bbs/user-post/82959572"
+    },
+    {
+      "description": "米游社 - 墨色长安 的发帖 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "198688672265496576",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=5756223",
+      "title": "米游社 - 墨色长安 的发帖",
+      "type": "feed",
+      "url": "rsshub://mihoyo/bbs/user-post/5756223"
     }
   ]
 }

@@ -50,7 +50,7 @@
     ],
     "supportPodcast": true
   },
-  "heat": 53,
+  "heat": 52,
   "location": "podcast.ts",
   "maintainers": [
     "RookieZoe",

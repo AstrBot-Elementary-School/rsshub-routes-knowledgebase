@@ -59,7 +59,7 @@ _None_
     {
       "description": "Join the contest to showcase your creativity and win substantial rewards - Powered by RSSHub",
       "errorAt": "2026-07-15T16:20:54.712Z",
-      "errorMessage": "Unexpected non-whitespace character after JSON at position 4 (line 1 column 5)\n",
+      "errorMessage": "Unexpected token 'J', \"Just a mom\"... is not valid JSON\n",
       "id": "159773347494824960",
       "image": "https://makerworld.com/favicon_new.png",
       "ownerUserId": null,

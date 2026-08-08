@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 592,
+  "heat": 591,
   "location": "debut.ts",
   "maintainers": [
     "Fatpandac"
@@ -76,7 +76,7 @@ _None_
     {
       "description": "软件学报 - 全网首发 - Powered by RSSHub",
       "errorAt": "2026-01-14T10:25:00.992Z",
-      "errorMessage": "[POST] \"https://chn.oversea.cnki.net/knavi/JournalDetail/GetnfAllOutline\": 404 Not Found\n[GET] \"https://chn.oversea.cnki.net/knavi/JournalDetail?pcode=CjFD&pykm=RJXB\": 522 Connection Timeout with Origin Server\n[GET] \"https://chn.oversea.cnki.net/knavi/JournalDetail?pcode=CjFD&pykm=RJXB\": 404 Not Found\n[GET] \"https://chn.oversea.cnki.net/knavi/JournalDetail?pcode=CjFD&pykm=RJXB\": <no response> fetch failed\n[POST] \"https://chn.oversea.cnki.net/knavi/JournalDetail/GetnfAllOutline\": 404 Not Found\n",
+      "errorMessage": "[POST] \"https://chn.oversea.cnki.net/knavi/JournalDetail/GetnfAllOutline\": 404 Not Found\n[GET] \"https://chn.oversea.cnki.net/knavi/JournalDetail?pcode=CjFD&pykm=RJXB\": 522 Connection Timeout with Origin Server\n[GET] \"https://chn.oversea.cnki.net/knavi/JournalDetail?pcode=CjFD&pykm=RJXB\": 404 Not Found\n[GET] \"https://chn.oversea.cnki.net/knavi/JournalDetail?pcode=CjFD&pykm=RJXB\": 404 Not Found\n[POST] \"https://chn.oversea.cnki.net/knavi/JournalDetail/GetnfAllOutline\": 404 Not Found\n",
       "id": "71804585523221504",
       "image": null,
       "ownerUserId": null,
