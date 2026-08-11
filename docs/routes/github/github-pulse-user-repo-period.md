@@ -79,6 +79,18 @@ _None_
   },
   "topFeeds": [
     {
+      "description": "facebookresearch/audiocraft weekly Pulse - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "220767323256864790",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://github.com/facebookresearch/audiocraft/pulse/weekly",
+      "title": "facebookresearch/audiocraft weekly Pulse",
+      "type": "feed",
+      "url": "rsshub://github/pulse/facebookresearch/audiocraft/weekly"
+    },
+    {
       "description": "datawhalechina/llm-universe weekly Pulse - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -89,18 +101,6 @@ _None_
       "title": "datawhalechina/llm-universe weekly Pulse",
       "type": "feed",
       "url": "rsshub://github/pulse/datawhalechina/llm-universe"
-    },
-    {
-      "description": null,
-      "errorAt": "2025-12-08T08:14:07.792Z",
-      "errorMessage": "[GET] \"https://github.com/tencent-ailab/cosyvoice/pulse/weekly\": 404 Not Found\n[GET] \"https://github.com/tencent-ailab/cosyvoice/pulse/weekly\": 404 Not Found\n",
-      "id": "220767323256864793",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": null,
-      "title": "Importing",
-      "type": "feed",
-      "url": "rsshub://github/pulse/tencent-ailab/cosyvoice/weekly"
     }
   ]
 }

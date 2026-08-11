@@ -39,7 +39,7 @@ _None_
   ],
   "description": "`sciencedirect.com/browse/calls-for-papers?subject=education` -> `/sciencedirect/call-for-paper/education`",
   "example": "/sciencedirect/call-for-paper/education",
-  "heat": 36,
+  "heat": 37,
   "location": "call-for-paper.tsx",
   "maintainers": [
     "etShaw-zh"

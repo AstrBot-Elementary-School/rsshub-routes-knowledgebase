@@ -599,8 +599,8 @@
   "topFeeds": [
     {
       "description": "AIBase产品库 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-10T02:04:47.579Z",
+      "errorMessage": "Authentication failed. Access denied.\n/aibase/discover\nAuthentication failed. Access denied.\n/aibase/discover\nExpected ',' or ']' after array element in JSON at position 18 (line 1 column 19)\nExpected ',' or ']' after array element in JSON at position 18 (line 1 column 19)\nExpected ',' or ']' after array element in JSON at position 18 (line 1 column 19)\nExpected ',' or ']' after array element in JSON at position 18 (line 1 column 19)\nExpected ',' or ']' after array element in JSON at position 18 (line 1 column 19)\n",
       "id": "68516220717982720",
       "image": "https://top.aibase.com/_static/img/Frame@2x.eddfa3e.png",
       "ownerUserId": null,

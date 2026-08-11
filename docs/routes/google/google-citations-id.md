@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 720,
+  "heat": 721,
   "location": "citations.ts",
   "maintainers": [
     "KellyHwong",
@@ -81,8 +81,8 @@ _None_
     },
     {
       "description": "Google Scholar Citation Monitor: Yan Meng; Profile: School of Computer Science; HomePage: http://yan4meng.github.io/ - Powered by RSSHub",
-      "errorAt": "2026-01-20T08:57:27.374Z",
-      "errorMessage": "[GET] \"https://scholar.google.com/citations?user=mlmE4JMAAAAJ\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "65416235395226624",
       "image": null,
       "ownerUserId": null,

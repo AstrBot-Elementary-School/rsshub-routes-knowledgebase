@@ -38,7 +38,7 @@ _None_
     "finance"
   ],
   "example": "/binance/launchpool",
-  "heat": 12,
+  "heat": 13,
   "location": "launchpool.ts",
   "maintainers": [
     "zhenlohuang"

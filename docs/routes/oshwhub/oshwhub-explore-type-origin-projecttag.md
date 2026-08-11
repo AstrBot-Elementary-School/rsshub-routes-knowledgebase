@@ -584,7 +584,7 @@
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 16,
+  "heat": 19,
   "location": "explore.ts",
   "maintainers": [
     "tylinux",

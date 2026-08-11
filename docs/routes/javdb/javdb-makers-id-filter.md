@@ -66,7 +66,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 411,
+  "heat": 413,
   "location": "makers.ts",
   "maintainers": [
     "nczitzk"
@@ -91,8 +91,8 @@
   "topFeeds": [
     {
       "description": "S1 NO.1 STYLE - JavDB - Powered by RSSHub",
-      "errorAt": "2026-08-06T11:44:42.384Z",
-      "errorMessage": "Failed to fetch\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41699114741173248",
       "image": null,
       "ownerUserId": null,

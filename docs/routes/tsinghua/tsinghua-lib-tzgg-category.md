@@ -17,7 +17,9 @@
 - Source Module: `_None_`
 
 ## Description
-_None_
+| 全部 | 开馆通知 | 施工维修 | 服务通知 | 违规通报 | 清图快讯 | 馆际通知 |
+| ---- | -------- | -------- | -------- | -------- | -------- | -------- |
+| 留空 | kgtz     | sgwx     | fwtz     | wgtb     | qtkx     | gjtz     |
 
 ## Parameters
 - `category`: 分类，可在对应分类页 URL 中找到，留空则获取全局通知公告
@@ -43,6 +45,7 @@ _None_
   "categories": [
     "university"
   ],
+  "description": "| 全部 | 开馆通知 | 施工维修 | 服务通知 | 违规通报 | 清图快讯 | 馆际通知 |\n| ---- | -------- | -------- | -------- | -------- | -------- | -------- |\n| 留空 | kgtz     | sgwx     | fwtz     | wgtb     | qtkx     | gjtz     |",
   "example": "/tsinghua/lib/tzgg/qtkx",
   "features": {
     "antiCrawler": false,
@@ -71,6 +74,9 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "lib.tsinghua.edu.cn"
 }

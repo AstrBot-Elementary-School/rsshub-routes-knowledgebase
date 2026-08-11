@@ -63,14 +63,13 @@ _None_
     }
   ],
   "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at runNextTicks (node:internal/process/task_queues:69:3)\n    at processImmediate (node:internal/timers:472:9)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+    "code": 0
   },
   "topFeeds": [
     {
       "description": "人物 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-10T07:49:37.163Z",
+      "errorMessage": "[GET] \"https://www.lifeweek.com.cn/api/userWebFollow/getFollowTagContentList?type=4&sort=2&tagId=6\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 211.162.170.14:443, 211.162.170.16:443, 211.162.170.17:443, 211.162.170.15:443, 211.162.170.18:443, 211.162.170.11:443, 211.162.170.13:443, 211.162.170.12:443, timeout: 10000ms))\n",
       "id": "104794039452750848",
       "image": null,
       "ownerUserId": null,
@@ -80,16 +79,16 @@ _None_
       "url": "rsshub://lifeweek/tag/6"
     },
     {
-      "description": "文学 - Powered by RSSHub",
-      "errorAt": "2026-08-07T06:22:47.452Z",
-      "errorMessage": "[GET] \"https://www.lifeweek.com.cn/api/userWebFollow/getFollowTagContentList?type=4&sort=2&tagId=4\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 60.200.32.43:443, 60.200.32.44:443, 60.200.32.45:443, 60.200.32.46:443, 60.200.32.47:443, 60.200.32.48:443, 60.200.32.49:443, 60.200.32.50:443, timeout: 10000ms))\n",
-      "id": "152614384793012224",
+      "description": "生活方式 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "152614722583832576",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.lifeweek.com.cn/articleList/4",
-      "title": "文学",
+      "siteUrl": "https://www.lifeweek.com.cn/articleList/7",
+      "title": "生活方式",
       "type": "feed",
-      "url": "rsshub://lifeweek/tag/4"
+      "url": "rsshub://lifeweek/tag/7"
     }
   ]
 }

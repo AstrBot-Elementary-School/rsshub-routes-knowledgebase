@@ -58,6 +58,9 @@ _None_
       "target": "/paper"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [],
   "url": "paper.people.com.cn/rmrb/pc/layout/index.html"
 }

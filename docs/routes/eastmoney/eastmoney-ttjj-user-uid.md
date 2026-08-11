@@ -76,14 +76,14 @@ _None_
       "url": "rsshub://eastmoney/ttjj/user/7185105344679198"
     },
     {
-      "description": "不存在的用户 的动态 - Powered by RSSHub",
+      "description": "herorose 的动态 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "73927094898480128",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://fundbarmob.eastmoney.com/index.html?goPage=personDetailView&userid=5262112004185016",
-      "title": "天天基金-不存在的用户的主页",
+      "title": "天天基金-herorose的主页",
       "type": "feed",
       "url": "rsshub://eastmoney/ttjj/user/5262112004185016"
     }

@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 60,
+  "heat": 58,
   "location": "timeline.ts",
   "maintainers": [
     "DIYgod",

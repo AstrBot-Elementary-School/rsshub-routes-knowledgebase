@@ -11,12 +11,12 @@
 ## Routes
 
 ### 首页指数
-- Route ID: `baidu:/baidu/gushitong/index`
-- Route Path: `/baidu/gushitong/index`
-- File: `docs/routes/baidu/baidu-gushitong-index.md`
-- File Name: `baidu-gushitong-index.md`
+- Route ID: `baidu:/baidu/gushitong/index/:market?`
+- Route Path: `/baidu/gushitong/index/:market?`
+- File: `docs/routes/baidu/baidu-gushitong-index-market.md`
+- File Name: `baidu-gushitong-index-market.md`
 - Categories: `finance`
-- Maintainers: `CaoMeiYouRen`
+- Maintainers: `CaoMeiYouRen, hutianyu2006`
 
 ### 搜索
 - Route ID: `baidu:/baidu/search/:keyword`

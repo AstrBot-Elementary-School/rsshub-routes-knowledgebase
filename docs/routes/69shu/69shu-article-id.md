@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 33,
+  "heat": 32,
   "location": "article.ts",
   "maintainers": [
     "eternasuno"
@@ -90,7 +90,7 @@ _None_
     {
       "description": "老者：“你想报仇？” 少年：“我被强者反复侮辱，被师尊视为垃圾，我怎么可能不想报仇？” 老者摸了摸少年的脑袋，叹道：“好孩子，我来传功给你吧。” 少年惊道：“前辈！这怎么行？” 老者伸出手：“把你手机给我。” 少年看着手机上的变化，震惊道：“前辈！这哪里来的百年功力？” 老者微微一笑：“好孩子，这是你在天庭的备用功力，以后急用的时候随用随取，别再被人侮辱了。” 少年皱眉：“这不是法力贷吗？我怕……” 老者：“天庭是大平台，新用户借百年功力有30天免息，日息最低半天功力，还没你吐纳一周天多。” …… 张羽冷哼一声，关掉了上面的广告。 - Powered by RSSHub",
       "errorAt": "2025-04-08T13:37:17.784Z",
-      "errorMessage": "[GET] \"https://www.69shuba.cx/book/85122.htm\": 403 Forbidden\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "86390076499397632",
       "image": "https://static.69shuba.com/files/article/image/85/85122/85122s.jpg",
       "ownerUserId": null,

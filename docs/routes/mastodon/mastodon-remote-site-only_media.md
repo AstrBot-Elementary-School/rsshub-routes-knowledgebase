@@ -76,7 +76,8 @@ _None_
   },
   "path": "/remote/:site/:only_media?",
   "test": {
-    "code": 0
+    "code": 1,
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
   "topFeeds": [
     {
@@ -92,16 +93,16 @@ _None_
       "url": "rsshub://mastodon/remote/pawoo.net/true"
     },
     {
-      "description": "Federated Public Timeline on social.slat.org/ - Powered by RSSHub",
+      "description": "Federated Public Timeline on baraag.net - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "77714219922888704",
+      "id": "111448345272221696",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://social.slat.org/",
-      "title": "Federated Public Timeline on social.slat.org/",
+      "siteUrl": "https://baraag.net/",
+      "title": "Federated Public Timeline on baraag.net",
       "type": "feed",
-      "url": "rsshub://mastodon/remote/social.slat.org%2F/false"
+      "url": "rsshub://mastodon/remote/baraag.net/false"
     }
   ],
   "view": 1

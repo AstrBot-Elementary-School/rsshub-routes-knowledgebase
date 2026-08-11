@@ -78,7 +78,7 @@ _None_
     {
       "description": "Virtual Reality - Powered by RSSHub",
       "errorAt": "2026-02-03T17:46:17.963Z",
-      "errorMessage": "[GET] \"https://link.springer.comundefined\": <no response> fetch failed (getaddrinfo ENOTFOUND link.springer.comundefined)\n",
+      "errorMessage": "[GET] \"https://link.springer.comundefined\": <no response> fetch failed\n[GET] \"https://link.springer.comundefined\": <no response> fetch failed (getaddrinfo ENOTFOUND link.springer.comundefined)\n",
       "id": "70715894280141824",
       "image": null,
       "ownerUserId": null,

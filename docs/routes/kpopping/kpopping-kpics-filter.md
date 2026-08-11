@@ -98,7 +98,7 @@ If you subscribe to [All male photo albums](https://kpopping.com/kpics/gender-ma
       "image": "https://kpopping.com/build/images/kpopping-default-detailed.jpg",
       "ownerUserId": null,
       "siteUrl": "https://kpopping.com/kpics",
-      "title": "HQ K-pop Photos — Concept Photos, Teasers & Photoshoots (2026) | kpopping",
+      "title": "HQ Kpop Photos — Concept Photos, Teasers & Photoshoots (2026) | kpopping",
       "type": "feed",
       "url": "rsshub://kpopping/kpics"
     }

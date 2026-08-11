@@ -63,7 +63,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 116,
+  "heat": 115,
   "location": "news.ts",
   "maintainers": [
     "oppilate"
@@ -93,7 +93,7 @@ _None_
     {
       "description": null,
       "errorAt": "2025-05-29T11:39:04.736Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "[GET] \"https://cn.wsj.com/zh-hans/news/opinion\": 401 HTTP Forbidden\n",
       "id": "150876888307287071",
       "image": null,
       "ownerUserId": null,

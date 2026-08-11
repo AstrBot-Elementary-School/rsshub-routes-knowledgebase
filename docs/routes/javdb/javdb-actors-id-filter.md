@@ -69,7 +69,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4860,
+  "heat": 4869,
   "location": "actors.ts",
   "maintainers": [
     "nczitzk"
@@ -106,7 +106,7 @@
     },
     {
       "description": "河北彩花 - JavDB - Powered by RSSHub",
-      "errorAt": "2026-08-07T06:15:38.741Z",
+      "errorAt": "2026-08-06T17:57:02.528Z",
       "errorMessage": "Failed to fetch\nFailed to fetch\nAuthentication failed. Access denied.\n/javdb/actors/EvkJ\nFailed to fetch\n[GET] \"https://javdb.com/actors/EvkJ\": 403 Forbidden\n[GET] \"https://javdb.com/actors/EvkJ\": 403 Forbidden\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "59231069957378048",
       "image": null,

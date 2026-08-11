@@ -103,28 +103,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Proxy https://api.github.com/repos/Macmod/ldapx/releases - Powered by RSSHub",
+      "description": "Proxy https://api.github.com/repos/dbeaver/dbeaver/releases - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "185694935800580096",
+      "id": "185694635969967104",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://api.github.com/repos/Macmod/ldapx/releases",
-      "title": "ldapx releases",
+      "siteUrl": "https://api.github.com/repos/dbeaver/dbeaver/releases",
+      "title": "dbeaver releases",
       "type": "feed",
-      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fapi.github.com%2Frepos%2FMacmod%2Fldapx%2Freleases/title=ldapx%20releases&itemTitle=tag_name&itemLink=html_url&itemDesc=body"
+      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fapi.github.com%2Frepos%2Fdbeaver%2Fdbeaver%2Freleases/title=dbeaver%20releases&itemTitle=tag_name&itemLink=html_url&itemDesc=body"
     },
     {
-      "description": "Proxy https://api.github.com/repos/Macmod/godap/releases - Powered by RSSHub",
+      "description": "Proxy https://api.github.com/repos/zed-industries/zed/releases - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "185695094733155328",
+      "id": "185694005069753344",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://api.github.com/repos/Macmod/godap/releases",
-      "title": "godap releases",
+      "siteUrl": "https://api.github.com/repos/zed-industries/zed/releases",
+      "title": "zed releases",
       "type": "feed",
-      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fapi.github.com%2Frepos%2FMacmod%2Fgodap%2Freleases/title=godap%20releases&itemTitle=tag_name&itemLink=html_url&itemDesc=body"
+      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fapi.github.com%2Frepos%2Fzed-industries%2Fzed%2Freleases/title=zed%20releases&itemTitle=tag_name&itemLink=html_url&itemDesc=body"
     }
   ]
 }

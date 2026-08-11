@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 919,
+  "heat": 916,
   "location": "full.ts",
   "maintainers": [
     "ImSingee"
@@ -75,7 +75,7 @@ _None_
     {
       "description": "The most recent blogs and online articles from The Economist - Powered by RSSHub",
       "errorAt": "2025-09-05T18:15:19.885Z",
-      "errorMessage": "[GET] \"https://www.economist.com/business/2026/08/05/investors-are-having-doubts-about-elon-musks-grandiose-ambitions\": 403 Forbidden\n[GET] \"https://www.economist.com/business/2026/08/05/investors-are-having-doubts-about-elon-musks-grandiose-ambitions\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.economist.com/united-states/2026/08/08/checks-and-balance-newsletter-the-real-future-of-the-democratic-party\": 403 Forbidden\n[GET] \"https://www.economist.com/united-states/2026/08/08/checks-and-balance-newsletter-the-real-future-of-the-democratic-party\": 403 Forbidden\n",
       "id": "54859243036899328",
       "image": null,
       "ownerUserId": null,
@@ -87,7 +87,7 @@ _None_
     {
       "description": "China - Powered by RSSHub",
       "errorAt": "2025-09-05T17:22:28.529Z",
-      "errorMessage": "[GET] \"https://www.economist.com/china/2026/08/06/chinas-superstitious-mayors\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/08/06/chinas-superstitious-mayors\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/08/06/why-ever-fewer-young-chinese-study-abroad\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.economist.com/china/2026/08/06/chinas-superstitious-mayors\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/08/06/chinas-superstitious-mayors\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/08/06/chinas-superstitious-mayors\": 403 Forbidden\n",
       "id": "41461870197170199",
       "image": null,
       "ownerUserId": null,

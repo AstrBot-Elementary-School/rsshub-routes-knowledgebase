@@ -53,7 +53,7 @@ _None_
     "supportPodcast": true,
     "supportScihub": false
   },
-  "heat": 0,
+  "heat": 1,
   "location": "news/user.ts",
   "maintainers": [
     "hualiong"

@@ -78,7 +78,7 @@ _None_
     {
       "description": "你那么孤单却要说着一个人真好 - 唱吧 - Powered by RSSHub",
       "errorAt": "2026-07-08T13:02:09.054Z",
-      "errorMessage": "Cannot create property 'link' on string 'null'\n",
+      "errorMessage": "Cannot create property 'description' on string 'null'\n",
       "id": "71352051843670016",
       "image": "https://aliimg.changba.com/cache/photo/53525835_200_200.jpg",
       "ownerUserId": null,

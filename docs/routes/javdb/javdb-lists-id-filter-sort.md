@@ -55,7 +55,7 @@
   "features": {
     "nsfw": true
   },
-  "heat": 39,
+  "heat": 40,
   "location": "lists.ts",
   "maintainers": [
     "dddepg"
@@ -81,8 +81,8 @@
   "topFeeds": [
     {
       "description": "神片列表 - JavDB 加入时间排序 - Powered by RSSHub",
-      "errorAt": "2026-08-07T05:00:11.539Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://javdb.com/lists/gVQq?lst=0\": 403 Forbidden\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "129737927519721472",
       "image": null,
       "ownerUserId": null,
@@ -93,7 +93,7 @@
     },
     {
       "description": "幼嫩白涩 - JavDB 加入时间排序 - Powered by RSSHub",
-      "errorAt": "2026-08-07T07:24:29.020Z",
+      "errorAt": "2026-08-06T06:30:58.966Z",
       "errorMessage": "[GET] \"https://javdb.com/lists/ZdrJv?lst=0\": 403 Forbidden\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "129738038308376576",
       "image": null,

@@ -58,7 +58,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 57,
+  "heat": 58,
   "location": "ys/news.ts",
   "maintainers": [
     "nczitzk"
@@ -95,8 +95,8 @@
     },
     {
       "description": "原神 - 最新 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-09T20:15:50.947Z",
+      "errorMessage": "[GET] \"https://api-takumi-static.mihoyo.com/content_v2_user/app/16471662a82d418a/getContentList?iPage=1&sLangKey=zh-cn&iChanId=719&iPageSize=50\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 125.210.225.35:443, 125.210.225.36:443, 125.210.225.37:443, 125.210.225.20:443, 125.210.225.31:443, 125.210.225.32:443, 125.210.225.33:443, 125.210.225.34:443, timeout: 10000ms))\n",
       "id": "156266162055355392",
       "image": null,
       "ownerUserId": null,

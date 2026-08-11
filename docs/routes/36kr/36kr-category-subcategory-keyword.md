@@ -74,7 +74,7 @@ _None_
     {
       "description": "36氪 - 最新资讯频道 - Powered by RSSHub",
       "errorAt": "2026-08-05T08:37:18.440Z",
-      "errorMessage": "Cannot read properties of null (reading '1')\nCannot read properties of null (reading '1')\nCannot read properties of null (reading '1')\nCannot read properties of null (reading '1')\nCannot read properties of null (reading '1')\nCannot read properties of null (reading '1')\n",
+      "errorMessage": "Cannot read properties of null (reading '1')\nCannot read properties of null (reading '1')\nFailed to fetch\nCannot read properties of null (reading '1')\nCannot read properties of null (reading '1')\n",
       "id": "66129443815812096",
       "image": null,
       "ownerUserId": null,

@@ -103,7 +103,7 @@ There is an optinal parameter **limit** which controls the number of posts to fe
     {
       "description": "Posts of hentai-tv from OnlyFans | Coomer - Powered by RSSHub",
       "errorAt": "2024-11-26T03:46:23.897Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://coomer.st/api/v1/artist/user/hentai-tv/posts\": 503 Backend fetch failed\n",
+      "errorMessage": "[GET] \"https://coomer.st/api/v1/artist/user/hentai-tv/posts\": 503 Backend fetch failed\n[GET] \"https://coomer.st/api/v1/artist/user/hentai-tv/posts\": 503 Backend fetch failed\n",
       "id": "74486459000853504",
       "image": null,
       "ownerUserId": null,
@@ -114,7 +114,7 @@ There is an optinal parameter **limit** which controls the number of posts to fe
     },
     {
       "description": "Coomer Posts - Powered by RSSHub",
-      "errorAt": "2026-08-02T17:30:20.147Z",
+      "errorAt": "2026-08-04T12:38:46.523Z",
       "errorMessage": "[GET] \"https://coomer.st/api/v1/posts\": 503 Backend fetch failed\n",
       "id": "59850686115931136",
       "image": "https://coomer.st/favicon.ico",

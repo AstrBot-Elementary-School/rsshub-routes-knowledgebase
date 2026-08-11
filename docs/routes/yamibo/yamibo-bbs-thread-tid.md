@@ -72,7 +72,7 @@ _None_
     {
       "description": "[个人翻译][长篇][羽田宇佐]一周一次买下同班同学的那些事（2026.6.7更新至第419话） - 轻小说/译文区 - Powered by RSSHub",
       "errorAt": "2026-06-09T06:57:01.888Z",
-      "errorMessage": "521 \nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "521 \n[GET] \"https://bbs.yamibo.com/forum.php?mod=viewthread&tid=521519&ordertype=1\": 503 Service Unavailable\n",
       "id": "99377084384904192",
       "image": null,
       "ownerUserId": null,
@@ -84,7 +84,7 @@ _None_
     {
       "description": "百合小说生肉安利专楼 - 轻小说/译文区 - Powered by RSSHub",
       "errorAt": "2026-06-08T21:31:45.653Z",
-      "errorMessage": "521 \nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "521 \n[GET] \"https://bbs.yamibo.com/forum.php?mod=viewthread&tid=535989&ordertype=1\": 503 Service Unavailable\n",
       "id": "97881720287716352",
       "image": null,
       "ownerUserId": null,

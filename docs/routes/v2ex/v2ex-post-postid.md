@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 502,
+  "heat": 501,
   "location": "post.ts",
   "maintainers": [
     "kt286"

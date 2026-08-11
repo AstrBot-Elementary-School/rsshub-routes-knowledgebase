@@ -2014,7 +2014,7 @@
     {
       "description": "21财经客户端是南方财经全媒体集团的官方客户端，内容充分融合集团旗下《21世纪经济报道》、《经济科教》、《股市广播》等优质财经媒体资源，实现文字、图片、视频、音频、直播等内容形态的全覆盖。 - Powered by RSSHub",
       "errorAt": "2026-02-27T03:47:47.714Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'split')\n[GET] \"https://static.21jingji.com/m/webMenu.json\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 124.200.113.79:443, 124.200.113.74:443, 124.200.113.72:443, 124.200.113.73:443, 124.200.113.75:443, 124.200.113.76:443, 124.200.113.77:443, 124.200.113.78:443, timeout: 10000ms))\n",
+      "errorMessage": "Cannot read properties of undefined (reading 'split')\nCannot read properties of undefined (reading 'split')\n",
       "id": "99622100491802624",
       "image": null,
       "ownerUserId": null,

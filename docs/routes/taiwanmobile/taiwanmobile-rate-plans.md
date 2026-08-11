@@ -60,7 +60,7 @@ _None_
     {
       "description": "台灣大哥大 - 資費公告 - Powered by RSSHub",
       "errorAt": "2026-04-09T04:07:18.517Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nFailed to fetch\n",
       "id": "86492633104432128",
       "image": null,
       "ownerUserId": null,

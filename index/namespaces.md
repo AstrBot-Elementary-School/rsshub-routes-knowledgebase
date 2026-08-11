@@ -470,6 +470,12 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `1`
 - Index File: `index/ahjzu.md`
 
+## 安徽科技工程大学
+- Namespace: `ahstu`
+- Aliases: `ahstu, ahstu.edu.cn, 安徽科技工程大学`
+- Route Count: `1`
+- Index File: `index/ahstu.md`
+
 ## AI工具集
 - Namespace: `ai-bot`
 - Aliases: `ai-bot, ai-bot.cn, ai工具集`
@@ -6065,7 +6071,7 @@ Use this file to select the target namespace before opening route documents.
 ## 小米
 - Namespace: `mi`
 - Aliases: `mi, mi.com, 小米`
-- Route Count: `2`
+- Route Count: `3`
 - Index File: `index/mi.md`
 
 ## Microsoft

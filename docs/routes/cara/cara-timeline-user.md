@@ -40,7 +40,7 @@ _None_
     "social-media"
   ],
   "example": "/cara/timeline/fengz",
-  "heat": 9,
+  "heat": 5,
   "location": "timeline.ts",
   "maintainers": [
     "KarasuShin"
@@ -76,16 +76,16 @@ _None_
       "url": "rsshub://cara/timeline/alonelee127"
     },
     {
-      "description": "Timeline - NIKA LYNAS - Powered by RSSHub",
-      "errorAt": "2025-11-21T13:47:28.301Z",
-      "errorMessage": "[GET] \"https://cara.app/explore\": 403 Forbidden\n",
-      "id": "127384810660678656",
-      "image": "https://cdn.cara.app/production/profiles/f771718b-26f2-4d08-bda8-ddfbdac6a995/sf.jpg",
+      "description": "Timeline - Nathan Fowkes - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "131922100224243712",
+      "image": "https://cdn.cara.app/production/profiles/e3934f00-3471-41dc-9700-11b58cfd4044/facebook-profile2.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://cara.app/cyberpunkova/all",
-      "title": "Timeline - NIKA LYNAS",
+      "siteUrl": "https://cara.app/nathanfowkesart/all",
+      "title": "Timeline - Nathan Fowkes",
       "type": "feed",
-      "url": "rsshub://cara/timeline/cyberpunkova"
+      "url": "rsshub://cara/timeline/nathanfowkesart"
     }
   ]
 }

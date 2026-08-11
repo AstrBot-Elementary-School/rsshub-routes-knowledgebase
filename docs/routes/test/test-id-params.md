@@ -44,6 +44,9 @@ _None_
   ],
   "name": "Test",
   "path": "/:id/:params?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

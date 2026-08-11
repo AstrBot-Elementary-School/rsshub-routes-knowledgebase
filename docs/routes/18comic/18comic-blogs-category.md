@@ -58,7 +58,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 21,
+  "heat": 22,
   "location": "blogs.ts",
   "maintainers": [
     "nczitzk",
@@ -82,7 +82,7 @@
   "topFeeds": [
     {
       "description": "最新的 Blogs - 免費成人H漫線上看 - Powered by RSSHub",
-      "errorAt": "2026-07-13T18:03:01.673Z",
+      "errorAt": "2026-08-09T01:00:38.429Z",
       "errorMessage": "[GET] \"https://jmcomic1.me/blogs\": 403 Forbidden\n",
       "id": "181721376290441216",
       "image": null,

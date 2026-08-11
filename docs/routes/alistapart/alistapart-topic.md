@@ -99,7 +99,7 @@ You have the option to utilize the main heading or use individual categories as 
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 15,
+  "heat": 16,
   "location": "topic.ts",
   "maintainers": [
     "Rjnishant530"
@@ -135,8 +135,8 @@ You have the option to utilize the main heading or use individual categories as 
     },
     {
       "description": "Code Articles on aListApart.com - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-09T16:35:38.197Z",
+      "errorMessage": "[GET] \"https://alistapart.com/wp-json/wp/v2/article?categories=2&_embed\": 403 Forbidden\n",
       "id": "68624257371529216",
       "image": null,
       "ownerUserId": null,

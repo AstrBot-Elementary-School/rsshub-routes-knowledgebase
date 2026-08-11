@@ -76,7 +76,7 @@ _None_
     {
       "description": "商品住房购买登记 - Powered by RSSHub",
       "errorAt": "2026-06-19T03:02:10.303Z",
-      "errorMessage": "[GET] \"https://zw.cdzjryb.com/lottery/accept/projectList\": <no response> fetch failed\n",
+      "errorMessage": "[GET] \"https://zw.cdzjryb.com/lottery/accept/projectList\": <no response> fetch failed (Connect Timeout Error (attempted address: zw.cdzjryb.com:443, timeout: 10000ms))\n",
       "id": "92760180202994688",
       "image": null,
       "ownerUserId": null,

@@ -64,7 +64,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 36,
+  "heat": 37,
   "location": "tieba/search.tsx",
   "maintainers": [
     "JimenezLi",

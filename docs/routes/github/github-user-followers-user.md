@@ -86,16 +86,16 @@ _None_
       "url": "rsshub://github/user/followers/Shubxam"
     },
     {
-      "description": "larsiusprime's followers - Powered by RSSHub",
+      "description": "FerrisChi's followers - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "83036321290281984",
+      "id": "126208930954814464",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/larsiusprime",
-      "title": "larsiusprime's followers",
+      "siteUrl": "https://github.com/FerrisChi",
+      "title": "FerrisChi's followers",
       "type": "feed",
-      "url": "rsshub://github/user/followers/larsiusprime"
+      "url": "rsshub://github/user/followers/FerrisChi"
     }
   ]
 }

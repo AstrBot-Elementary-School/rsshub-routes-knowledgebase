@@ -64,28 +64,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "米游社 - MRYU 的发帖 - Powered by RSSHub",
+      "description": "米游社 - 初始镜像OriginMirror 的发帖 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "164612226252672000",
+      "id": "198686272342260736",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=82959572",
-      "title": "米游社 - MRYU 的发帖",
+      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=159117584",
+      "title": "米游社 - 初始镜像OriginMirror 的发帖",
       "type": "feed",
-      "url": "rsshub://mihoyo/bbs/user-post/82959572"
+      "url": "rsshub://mihoyo/bbs/user-post/159117584"
     },
     {
-      "description": "米游社 - 墨色长安 的发帖 - Powered by RSSHub",
+      "description": "米游社 - 初代 的发帖 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "198688672265496576",
+      "id": "169381097732121600",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=5756223",
-      "title": "米游社 - 墨色长安 的发帖",
+      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=76089447",
+      "title": "米游社 - 初代 的发帖",
       "type": "feed",
-      "url": "rsshub://mihoyo/bbs/user-post/5756223"
+      "url": "rsshub://mihoyo/bbs/user-post/76089447"
     }
   ]
 }

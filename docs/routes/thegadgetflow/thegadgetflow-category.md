@@ -76,8 +76,8 @@ _None_
   "topFeeds": [
     {
       "description": "Gadget Flow - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-09T18:05:27.518Z",
+      "errorMessage": "(intermediate value).data.map is not a function\n",
       "id": "186353461477534720",
       "image": null,
       "ownerUserId": null,

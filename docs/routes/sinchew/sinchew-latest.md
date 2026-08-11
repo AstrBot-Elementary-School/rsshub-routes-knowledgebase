@@ -40,7 +40,7 @@ _None_
     "traditional-media"
   ],
   "example": "/sinchew/latest",
-  "heat": 1,
+  "heat": 0,
   "location": "latest.ts",
   "maintainers": [
     "nczitzk"

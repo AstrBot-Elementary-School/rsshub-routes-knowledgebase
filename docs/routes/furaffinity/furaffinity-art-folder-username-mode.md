@@ -115,16 +115,16 @@ _None_
       "url": "rsshub://furaffinity/art/gallery/oddeyresproductions/nsfw"
     },
     {
-      "description": "Fur Affinity Gallery of eleode - Powered by RSSHub",
-      "errorAt": "2026-05-25T17:17:50.359Z",
-      "errorMessage": "[GET] \"https://faexport.spangle.org.uk/user/eleode/gallery.json?full=1\": 500 Internal Server Error\n",
-      "id": "105952843219328000",
+      "description": "Fur Affinity Gallery of pandafromjaf - Powered by RSSHub",
+      "errorAt": "2026-05-26T00:42:53.098Z",
+      "errorMessage": "[GET] \"https://faexport.spangle.org.uk/user/pandafromjaf/gallery.json?full=1\": 500 Internal Server Error\n[GET] \"https://faexport.spangle.org.uk/user/pandafromjaf/gallery.json?full=1\": 500 Internal Server Error\n",
+      "id": "79208182218361856",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.furaffinity.net/gallery/eleode",
-      "title": "Fur Affinity | Gallery of eleode",
+      "siteUrl": "https://www.furaffinity.net/gallery/pandafromjaf",
+      "title": "Fur Affinity | Gallery of pandafromjaf",
       "type": "feed",
-      "url": "rsshub://furaffinity/art/gallery/eleode/nsfw"
+      "url": "rsshub://furaffinity/art/gallery/pandafromjaf/nsfw"
     }
   ],
   "url": "furaffinity.net"

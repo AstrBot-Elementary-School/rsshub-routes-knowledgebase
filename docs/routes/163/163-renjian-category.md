@@ -55,7 +55,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 25,
+  "heat": 24,
   "location": "renjian.ts",
   "maintainers": [
     "nczitzk"

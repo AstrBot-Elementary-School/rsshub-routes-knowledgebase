@@ -6,7 +6,7 @@
 - URL: `mi.com`
 - Language: `_None_`
 - Aliases: `mi, mi.com, 小米`
-- Route Count: `2`
+- Route Count: `3`
 
 ## Routes
 
@@ -25,3 +25,11 @@
 - File Name: `mi-golden.md`
 - Categories: `program-update`
 - Maintainers: `nczitzk`
+
+### 小米上新
+- Route ID: `mi:/mi/newproducts`
+- Route Path: `/mi/newproducts`
+- File: `docs/routes/mi/mi-newproducts.md`
+- File Name: `mi-newproducts.md`
+- Categories: `shopping`
+- Maintainers: `nuomi1`

@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "同济大学研究生院通知公告 - Powered by RSSHub",
-      "errorAt": "2026-08-07T00:02:06.490Z",
-      "errorMessage": "[GET] \"https://gs.tongji.edu.cn/tzgg.htm\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 202.120.189.175:443, 2001:da8:b8:80:192:168:80:60:443, timeout: 10000ms))\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "104772158131144704",
       "image": "https://upload.wikimedia.org/wikipedia/zh/f/f8/Tongji_University_Emblem.svg",
       "ownerUserId": null,

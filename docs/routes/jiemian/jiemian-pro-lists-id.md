@@ -60,8 +60,8 @@ _None_
   "topFeeds": [
     {
       "description": "界面是极受中国中产阶级欢迎的新闻及商业社交平台，旗下拥有精品新闻业务界面新闻、专业投资资讯平台摩尔金融及独立设计师电商网站尤物。 - Powered by RSSHub",
-      "errorAt": "2026-08-07T01:38:21.330Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "140187769978723328",
       "image": "https://www.jiemian.com/favicon.ico",
       "ownerUserId": null,

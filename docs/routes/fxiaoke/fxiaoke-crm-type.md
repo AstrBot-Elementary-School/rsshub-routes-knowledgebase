@@ -67,7 +67,7 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "为企业提供CRM系统、数字化转型等方面的专业知识，帮您用好数字化工具开启企业新增长之路。 - Powered by RSSHub",
+      "description": "全部文章 - 纷享销客 CRM - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "73991220743306240",

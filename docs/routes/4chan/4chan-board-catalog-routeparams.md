@@ -99,7 +99,7 @@ Specify options (in the format of query string) in parameter `routeParams` to co
     {
       "description": "4chan's /r/ - Powered by RSSHub",
       "errorAt": "2026-06-05T08:02:48.597Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "[GET] \"https://a.4cdn.org/r/catalog.json\": 404 Not Found\n",
       "id": "257165688284952576",
       "image": null,
       "ownerUserId": null,

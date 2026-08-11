@@ -55,7 +55,7 @@ _None_
     ],
     "requirePuppeteer": true
   },
-  "heat": 1394260,
+  "heat": 1394220,
   "location": "user.ts",
   "maintainers": [
     "lotosbin",
@@ -102,7 +102,7 @@ _None_
     {
       "description": "喜欢穿搭👗 随意分享🩰 📮3790381790@qq.com 白羊座 重庆南岸 3 关注 1万+ 粉丝 1万+ 获赞与收藏 - Powered by RSSHub",
       "errorAt": "2026-07-13T17:19:40.144Z",
-      "errorMessage": "Failed to fetch\nAuthentication failed. Access denied.\n/xiaohongshu/user/5db011250000000001002502/notes\nFailed to fetch\nWaiting for selector `div.reds-tab-item:nth-child(2), #red-captcha` failed: waitForFunction failed: frame got detached.\nFailed to fetch\n",
+      "errorMessage": "Failed to fetch\nAuthentication failed. Access denied.\n/xiaohongshu/user/5db011250000000001002502/notes\nFailed to fetch\n502 \nFailed to fetch\n",
       "id": "67448641547187200",
       "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo319cmu4i06c005ndg24ig8982rj4drug?imageView2/2/w/540/format/webp",
       "ownerUserId": null,
@@ -114,7 +114,7 @@ _None_
     {
       "description": "女摄/杭州 10+ 关注 1万+ 粉丝 1万+ 获赞与收藏 - Powered by RSSHub",
       "errorAt": "2025-12-09T12:40:34.349Z",
-      "errorMessage": "Failed to fetch\n522 \nFailed to fetch\nFailed to fetch\n",
+      "errorMessage": "Failed to fetch\n522 \nFailed to fetch\n[GET] \"https://cloudflarebypassforscraping.rss3.workers.dev/html?url=https%3A%2F%2Fwww.xiaohongshu.com%2Fuser%2Fprofile%2F652baa23000000002a034939\": 500 Internal Server Error\n",
       "id": "68661468126774272",
       "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30q8atfr8n6005p9bl8hqmi9p1q1h18o?imageView2/2/w/540/format/webp",
       "ownerUserId": null,
