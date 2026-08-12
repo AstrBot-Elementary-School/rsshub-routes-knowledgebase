@@ -73,7 +73,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2433,
+  "heat": 2432,
   "location": "rankings.ts",
   "maintainers": [
     "nczitzk"
@@ -98,8 +98,8 @@
   "topFeeds": [
     {
       "description": "有碼排行 - 日排行 - JavDB - Powered by RSSHub",
-      "errorAt": "2026-08-06T17:56:11.763Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://javdb.com/rankings/movies?p=daily&t=censored\": 403 Forbidden\n[GET] \"https://javdb.com/rankings/movies?p=daily&t=censored\": 403 Forbidden\nAuthentication failed. Access denied.\n/javdb/rankings\n[GET] \"https://javdb.com/rankings/movies?p=daily&t=censored\": <no response> fetch failed\n[GET] \"https://javdb.com/rankings/movies?p=daily&t=censored\": 403 Forbidden\n[GET] \"https://javdb.com/rankings/movies?p=daily&t=censored\": 403 Forbidden\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41696949079348224",
       "image": null,
       "ownerUserId": null,

@@ -6,7 +6,7 @@
 - URL: `www.tsinghua.edu.cn`
 - Language: `_None_`
 - Aliases: `tsinghua, tsinghua.edu.cn, www, www.tsinghua.edu.cn, 清华大学`
-- Route Count: `3`
+- Route Count: `4`
 
 ## Routes
 
@@ -33,3 +33,11 @@
 - File Name: `tsinghua-news-category.md`
 - Categories: `university`
 - Maintainers: `TonyRL`
+
+### 附属中学
+- Route ID: `tsinghua:/tsinghua/thuhs/:category?`
+- Route Path: `/tsinghua/thuhs/:category?`
+- File: `docs/routes/tsinghua/tsinghua-thuhs-category.md`
+- File Name: `tsinghua-thuhs-category.md`
+- Categories: `university`
+- Maintainers: `Aquarius-Situla`

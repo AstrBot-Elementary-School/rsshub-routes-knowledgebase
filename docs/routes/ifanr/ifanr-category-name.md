@@ -107,8 +107,8 @@
     },
     {
       "description": "产品 更新推送 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-11T04:04:06.257Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "113269047681741824",
       "image": null,
       "ownerUserId": null,

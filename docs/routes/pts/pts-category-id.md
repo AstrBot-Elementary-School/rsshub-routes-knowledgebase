@@ -64,7 +64,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 0,
+  "heat": 7,
   "location": "category.ts",
   "maintainers": [
     "nczitzk"
@@ -85,6 +85,19 @@
   "test": {
     "code": 1
   },
-  "topFeeds": []
+  "topFeeds": [
+    {
+      "description": "全球 ｜ 公視新聞網 PNN - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "69916583666985995",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://news.pts.org.tw/category/4",
+      "title": "全球 ｜ 公視新聞網 PNN",
+      "type": "feed",
+      "url": "rsshub://pts/category/4"
+    }
+  ]
 }
 ```

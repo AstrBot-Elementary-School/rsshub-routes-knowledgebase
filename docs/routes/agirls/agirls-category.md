@@ -91,8 +91,8 @@
     },
     {
       "description": "電獺少女是一群女生組成的團隊，主要分享敗家心得、App軟體介紹、科技快訊及一些新3C酷品、周邊商品的介紹和測試、iPhone手機、Android手機教學，當然還有女孩的生活吃喝玩樂紀錄，歡迎洽談合作或產品測試！聰明網址：aottergirls.com - Powered by RSSHub",
-      "errorAt": "2026-08-10T05:16:24.527Z",
-      "errorMessage": "Failed to fetch\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "65288670568498176",
       "image": null,
       "ownerUserId": null,

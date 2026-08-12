@@ -78,18 +78,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "火炬之光：无限 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "171550461815962624",
-      "image": "https://img-tc.tapimg.com/market/images/a395edeea4e8c60315097a7472c7393c.jpg",
-      "ownerUserId": null,
-      "siteUrl": "https://www.taptap.cn/app/172664",
-      "title": "TapTap 更新记录 火炬之光：无限",
-      "type": "feed",
-      "url": "rsshub://taptap/changelog/172664"
-    },
-    {
       "description": "燕云十六声 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -100,6 +88,18 @@ _None_
       "title": "TapTap 更新记录 燕云十六声",
       "type": "feed",
       "url": "rsshub://taptap/changelog/239372"
+    },
+    {
+      "description": "Phigros - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "165028264825545728",
+      "image": "https://img-tc.tapimg.com/market/images/9000b8b031deabbd424b7f2f530ee162.png",
+      "ownerUserId": null,
+      "siteUrl": "https://www.taptap.cn/app/165287",
+      "title": "TapTap 更新记录 Phigros",
+      "type": "feed",
+      "url": "rsshub://taptap/changelog/165287"
     }
   ]
 }

@@ -72,16 +72,16 @@ _None_
       "url": "rsshub://fanqienovel/page/7251428606465805347"
     },
     {
-      "description": "常言道，仕途即权谋，其中尔虞我诈，凶险远胜江湖。 刘浮生觉得，公职之路，在于权衡法度，明辨是非，守一世之正气，为百姓谋福祉。 曾经的他，唯唯诺诺，求稳反误，蒙冤受屈，壮志难酬。 如今的他，洞彻先机，步步为营，青云之路，尽在脚下！ - Powered by RSSHub",
+      "description": "【轻松搞笑】+【架空历史】+【单女主】+【半无敌】 我叫凌晨，人在古代，为了获得大周朝的公民身份，被迫自愿加入了先锋营，去战场上砍人。 机缘巧合之下，我从敌军手里救回了一个老登。 那是我最成功的一次投资，我觉得我傍上大腿了。 可是…… 为什么结算画面一出来，我是MVP？ 我这才明白过来，陛下就是躺赢狗！ - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "125208460025614336",
-      "image": "https://p3-novel-sign.byteimg.com/novel-pic/f4609ca1531bc6315f1876c9d50a1387~tplv-resize:225:300.image?lk3s=191c1ecc&x-expires=1786428792&x-signature=3dkK9k5eGRaabM38pj%2F08tGARfE%3D",
+      "id": "132359626630124544",
+      "image": "https://p9-novel-sign.byteimg.com/novel-pic/p2o6d5bcf49e4b01cbe341955be118b7292~tplv-resize:225:300.image?lk3s=191c1ecc&x-expires=1777830638&x-signature=qPyMLCphrHgFI3CgXiWzOa0vEK0%3D",
       "ownerUserId": null,
-      "siteUrl": "https://fanqienovel.com/page/7199473033239596087",
-      "title": "洞彻先机：从基层开始平步青云 - 弹剑听潮",
+      "siteUrl": "https://fanqienovel.com/page/7479983044103769112",
+      "title": "陛下就是躺赢狗 - 知向谁边",
       "type": "feed",
-      "url": "rsshub://fanqienovel/page/7199473033239596087"
+      "url": "rsshub://fanqienovel/page/7479983044103769112"
     }
   ]
 }

@@ -58,7 +58,7 @@ _None_
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 1,
+  "heat": 0,
   "location": "routes/department/academic-affairs.ts",
   "maintainers": [
     "PrinOrange"
@@ -77,19 +77,6 @@ _None_
     "code": 1,
     "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
-  "topFeeds": [
-    {
-      "description": "西北师范大学教务处通知公告 - Powered by RSSHub",
-      "errorAt": "2025-10-29T13:20:46.613Z",
-      "errorMessage": "[GET] \"https://jwc.nwnu.edu.cn/tzgg/list.htm\": 412 Precondition Failed\n",
-      "id": "130747779142325248",
-      "image": "https://www.nwnu.edu.cn/_upload/tpl/02/d9/729/template729/favicon.ico",
-      "ownerUserId": null,
-      "siteUrl": "https://jwc.nwnu.edu.cn/tzgg/list.htm",
-      "title": "通知公告",
-      "type": "feed",
-      "url": "rsshub://nwnu/department/academic-affairs/tzgg"
-    }
-  ]
+  "topFeeds": []
 }
 ```

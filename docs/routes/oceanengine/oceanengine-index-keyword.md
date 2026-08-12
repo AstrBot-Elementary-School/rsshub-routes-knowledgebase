@@ -42,7 +42,7 @@ _None_
     "antiCrawler": true,
     "requirePuppeteer": true
   },
-  "heat": 0,
+  "heat": 2,
   "location": "arithmetic-index.tsx",
   "maintainers": [
     "Jkker"

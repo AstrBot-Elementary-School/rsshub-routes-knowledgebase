@@ -8921,7 +8921,7 @@ Use this file to select the target namespace before opening route documents.
 ## 清华大学
 - Namespace: `tsinghua`
 - Aliases: `tsinghua, tsinghua.edu.cn, www, www.tsinghua.edu.cn, 清华大学`
-- Route Count: `3`
+- Route Count: `4`
 - Index File: `index/tsinghua.md`
 
 ## 台視新聞網

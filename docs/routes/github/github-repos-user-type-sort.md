@@ -89,16 +89,16 @@ _None_
       "url": "rsshub://github/repos/Quorafind"
     },
     {
-      "description": "CLIMADA-project's GitHub repositories - Powered by RSSHub",
+      "description": "tc39's GitHub repositories - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "201677821604291584",
+      "id": "73205313547297792",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/CLIMADA-project",
-      "title": "CLIMADA-project's GitHub repositories",
+      "siteUrl": "https://github.com/tc39",
+      "title": "tc39's GitHub repositories",
       "type": "feed",
-      "url": "rsshub://github/repos/CLIMADA-project"
+      "url": "rsshub://github/repos/tc39"
     }
   ]
 }

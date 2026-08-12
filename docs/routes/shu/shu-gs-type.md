@@ -55,7 +55,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 7,
+  "heat": 8,
   "location": "gs.ts",
   "maintainers": [
     "GhhG123"
@@ -90,16 +90,16 @@
       "url": "rsshub://shu/gs/pygl"
     },
     {
-      "description": "上海大学研究生院-综合新闻 - Powered by RSSHub",
+      "description": "上海大学研究生院-国际交流 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "84820888260427776",
+      "id": "84824362495888384",
       "image": "https://www.shu.edu.cn/__local/0/08/C6/1EABE492B0CF228A5564D6E6ABE_779D1EE3_5BF7.png",
       "ownerUserId": null,
-      "siteUrl": "https://gs.shu.edu.cn/xwlb/zh.htm",
-      "title": "上海大学研究生院-综合新闻",
+      "siteUrl": "https://gs.shu.edu.cn/xwlb/gjjl.htm",
+      "title": "上海大学研究生院-国际交流",
       "type": "feed",
-      "url": "rsshub://shu/gs/zhxw"
+      "url": "rsshub://shu/gs/gjjl"
     }
   ],
   "url": "gs.shu.edu.cn/"

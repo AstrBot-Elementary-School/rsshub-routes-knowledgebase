@@ -57,7 +57,7 @@ _None_
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 32,
+  "heat": 31,
   "location": "news.ts",
   "maintainers": [
     "PrinOrange"
@@ -81,8 +81,8 @@ _None_
   "topFeeds": [
     {
       "description": "计算机职业技术资格考试（软考）消息推送 - Powered by RSSHub",
-      "errorAt": "2026-08-07T18:18:35.392Z",
-      "errorMessage": "404 \n[GET] \"https://www.ruankao.org.cn/index/work.html\": 405 Not Allowed\n[GET] \"https://www.ruankao.org.cn/index/work.html\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "97983929811275776",
       "image": "https://bm.ruankao.org.cn/asset/image/public/logo.png",
       "ownerUserId": null,

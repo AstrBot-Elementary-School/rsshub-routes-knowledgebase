@@ -72,8 +72,8 @@ _None_
   "topFeeds": [
     {
       "description": "ITSC-公告通知 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-11T07:36:55.105Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "62659849228123136",
       "image": null,
       "ownerUserId": null,

@@ -90,8 +90,8 @@ _None_
     },
     {
       "description": "网易云音乐歌手专辑 - The 1999 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-10T17:23:25.591Z",
+      "errorMessage": "Cannot read properties of undefined (reading 'name')\n",
       "id": "65815290747943936",
       "image": "https://p1.music.126.net/X40wljeqXKFEpv0ueZoSjg==/109951169215159176.jpg",
       "ownerUserId": null,

@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 602,
+  "heat": 601,
   "location": "chuangshiji.ts",
   "maintainers": [
     "xapool"

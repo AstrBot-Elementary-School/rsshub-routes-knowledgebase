@@ -36,7 +36,7 @@ _None_
     "journal"
   ],
   "example": "/linkresearcher/category=theses&columns=Nature%20导读&subject=生物",
-  "heat": 150,
+  "heat": 151,
   "location": "index.tsx",
   "maintainers": [
     "y9c",

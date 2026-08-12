@@ -62,7 +62,7 @@ Examples:
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 6633,
+  "heat": 6637,
   "location": "index.ts",
   "maintainers": [
     "nczitzk",

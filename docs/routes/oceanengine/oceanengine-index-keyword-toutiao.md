@@ -42,7 +42,7 @@ _None_
     "antiCrawler": true,
     "requirePuppeteer": true
   },
-  "heat": 0,
+  "heat": 3,
   "location": "arithmetic-index-toutiao.ts",
   "maintainers": [
     "Jkker"

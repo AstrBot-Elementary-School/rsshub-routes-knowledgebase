@@ -146,7 +146,7 @@ _None_
     {
       "description": "Bitget | All - Powered by RSSHub",
       "errorAt": "2026-06-06T06:32:19.917Z",
-      "errorMessage": "Unexpected end of JSON input\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "72615354761558016",
       "image": null,
       "ownerUserId": null,

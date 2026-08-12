@@ -54,7 +54,7 @@ _None_
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 29,
+  "heat": 30,
   "location": "index.ts",
   "maintainers": [
     "Loongphy"

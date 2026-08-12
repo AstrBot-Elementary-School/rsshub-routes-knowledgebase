@@ -158,14 +158,14 @@
   },
   "topFeeds": [
     {
-      "description": "2026上半年国企利润超2.2万亿！下半年怎么干？国资委划了六大重点 - Powered by RSSHub",
+      "description": "货没动、票乱飞？广东两部门重拳纠治“开票经济” ：空转走单、虚假贸易等这种账面繁荣，彻底凉了！ - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "138893356640117760",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://info.10000link.com/newslists.aspx?chid=My01",
-      "title": "10000万联网 - 2026上半年国企利润超2.2万亿！下半年怎么干？国资委划了六大重点",
+      "title": "10000万联网 - 货没动、票乱飞？广东两部门重拳纠治“开票经济” ：空转走单、虚假贸易等这种账面繁荣，彻底凉了！",
       "type": "feed",
       "url": "rsshub://10000link/info/newslists/My01"
     },

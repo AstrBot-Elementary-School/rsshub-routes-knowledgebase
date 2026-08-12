@@ -74,7 +74,7 @@ _None_
     {
       "description": "This is the blog of K.C. - Powered by RSSHub",
       "errorAt": "2026-06-12T10:02:45.852Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://plausible.io/js/pa-gp2qGRbvWIdmvc_WKuFYr.js.map\": 404 Not Found\n[GET] \"https://plausible.io/js/pa-gp2qGRbvWIdmvc_WKuFYr.js.map\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://plausible.io/js/pa-gp2qGRbvWIdmvc_WKuFYr.js.map\": 404 Not Found\n[GET] \"https://plausible.io/js/pa-gp2qGRbvWIdmvc_WKuFYr.js.map\": 404 Not Found\n[GET] \"https://plausible.io/js/pa-gp2qGRbvWIdmvc_WKuFYr.js.map\": 404 Not Found\n",
       "id": "56942077048280065",
       "image": "https://www.kunchengblog.com/architect_icon.png",
       "ownerUserId": null,

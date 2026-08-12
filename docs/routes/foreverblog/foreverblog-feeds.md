@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 621,
+  "heat": 620,
   "location": "feeds.ts",
   "maintainers": [
     "7Wate",

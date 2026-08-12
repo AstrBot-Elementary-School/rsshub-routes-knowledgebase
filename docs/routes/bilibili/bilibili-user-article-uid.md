@@ -87,14 +87,14 @@ _None_
       "url": "rsshub://bilibili/user/article/316183842"
     },
     {
-      "description": "undefined 的 bilibili 图文 - Powered by RSSHub",
+      "description": "Ayb爱莹宝 的 bilibili 图文 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "55126637717323776",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://space.bilibili.com/57276677/article",
-      "title": "undefined 的 bilibili 图文",
+      "title": "Ayb爱莹宝 的 bilibili 图文",
       "type": "feed",
       "url": "rsshub://bilibili/user/article/57276677"
     }

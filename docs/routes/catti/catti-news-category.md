@@ -58,7 +58,7 @@
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 6,
+  "heat": 3,
   "location": "news.ts",
   "maintainers": [
     "PrinOrange"

@@ -55,7 +55,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 0,
+  "heat": 1,
   "location": "xxgk.ts",
   "maintainers": [
     "GhhG123"

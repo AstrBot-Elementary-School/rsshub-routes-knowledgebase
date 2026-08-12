@@ -62,7 +62,7 @@ _None_
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 2,
+  "heat": 0,
   "location": "routes/department/postgraduate.ts",
   "maintainers": [
     "PrinOrange"
@@ -81,31 +81,6 @@ _None_
     "code": 1,
     "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
-  "topFeeds": [
-    {
-      "description": "研究生院硕士研究生招生信息 - Powered by RSSHub",
-      "errorAt": "2026-04-07T06:22:35.209Z",
-      "errorMessage": "[GET] \"https://yjsy.nwnu.edu.cn/2713/list.htm\": 412 Precondition Failed\n",
-      "id": "130512331000963072",
-      "image": "https://www.nwnu.edu.cn/_upload/tpl/02/d9/729/template729/favicon.ico",
-      "ownerUserId": null,
-      "siteUrl": "https://yjsy.nwnu.edu.cn/2713/list.htm",
-      "title": "硕士招生",
-      "type": "feed",
-      "url": "rsshub://nwnu/department/postgraduate/2713"
-    },
-    {
-      "description": "研究生院工作动态 - Powered by RSSHub",
-      "errorAt": "2025-10-29T13:16:18.599Z",
-      "errorMessage": "[GET] \"https://yjsy.nwnu.edu.cn/2738/list.htm\": 412 Precondition Failed\n",
-      "id": "130513898874565632",
-      "image": "https://www.nwnu.edu.cn/_upload/tpl/02/d9/729/template729/favicon.ico",
-      "ownerUserId": null,
-      "siteUrl": "https://yjsy.nwnu.edu.cn/2738/list.htm",
-      "title": "工作动态",
-      "type": "feed",
-      "url": "rsshub://nwnu/department/postgraduate/2738"
-    }
-  ]
+  "topFeeds": []
 }
 ```

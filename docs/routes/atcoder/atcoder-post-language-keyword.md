@@ -67,8 +67,8 @@ _None_
   "topFeeds": [
     {
       "description": "Post Archive - AtCoder - Powered by RSSHub",
-      "errorAt": "2026-08-10T08:00:01.713Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://atcoder.jp/posts?lang=en\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "66281194474129408",
       "image": null,
       "ownerUserId": null,

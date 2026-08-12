@@ -93,26 +93,26 @@
   },
   "topFeeds": [
     {
-      "description": "桃乃木香奈 - JavDB - Powered by RSSHub",
-      "errorAt": "2026-08-06T16:29:20.614Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://javdb.com/actors/0dKX\": 403 Forbidden\nAuthentication failed. Access denied.\n/javdb/actors/0dKX\n[GET] \"https://javdb.com/actors/0dKX\": 403 Forbidden\nFailed to fetch\n[GET] \"https://javdb.com/actors/0dKX\": 403 Forbidden\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "description": "桃乃木かな - JavDB - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "58137945200229376",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://javdb.com/actors/0dKX",
-      "title": "桃乃木香奈 - JavDB",
+      "title": "桃乃木かな - JavDB",
       "type": "feed",
       "url": "rsshub://javdb/actors/0dKX"
     },
     {
-      "description": "河北彩花 - JavDB - Powered by RSSHub",
-      "errorAt": "2026-08-06T17:57:02.528Z",
-      "errorMessage": "Failed to fetch\nFailed to fetch\nAuthentication failed. Access denied.\n/javdb/actors/EvkJ\nFailed to fetch\n[GET] \"https://javdb.com/actors/EvkJ\": 403 Forbidden\n[GET] \"https://javdb.com/actors/EvkJ\": 403 Forbidden\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "description": "Kawakita Saika - JavDB - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "59231069957378048",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://javdb.com/actors/EvkJ",
-      "title": "河北彩花 - JavDB",
+      "title": "Kawakita Saika - JavDB",
       "type": "feed",
       "url": "rsshub://javdb/actors/EvkJ"
     }

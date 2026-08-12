@@ -138,14 +138,14 @@ _None_
       "url": "rsshub://nytimes/book/combined-print-and-e-book-nonfiction"
     },
     {
-      "description": "The New York Times Best Sellers - Combined Print & E-Book Fiction- August 02, 2026 - Powered by RSSHub",
-      "errorAt": "2026-07-22T07:38:03.952Z",
-      "errorMessage": "Authentication failed. Access denied.\n/nytimes/book/combined-print-and-e-book-fiction\n[GET] \"https://www.nytimes.com/books/best-sellers/combined-print-and-e-book-fiction\": 403 Forbidden\n",
+      "description": "The New York Times Best Sellers - Combined Print & E-Book Fiction- August 16, 2026 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "62036724352164864",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.nytimes.com/books/best-sellers/combined-print-and-e-book-fiction",
-      "title": "The New York Times Best Sellers - Combined Print & E-Book Fiction- August 02, 2026",
+      "title": "The New York Times Best Sellers - Combined Print & E-Book Fiction- August 16, 2026",
       "type": "feed",
       "url": "rsshub://nytimes/book/combined-print-and-e-book-fiction"
     }

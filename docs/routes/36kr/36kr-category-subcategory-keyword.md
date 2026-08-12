@@ -42,7 +42,7 @@ _None_
   ],
   "description": "| 最新资讯频道 | 快讯        | 推荐资讯  | 生活 | 房产   | 职场      | 搜索文章                | 搜索快讯                |\n| ------------ | ----------- | --------- | ---- | ------ | --------- | ----------------------- | ----------------------- |\n| news         | newsflashes | recommend | life | estate | workplace | search/articles/ 关键词 | search/articles/ 关键词 |",
   "example": "/36kr/newsflashes",
-  "heat": 2520,
+  "heat": 2519,
   "location": "index.ts",
   "maintainers": [
     "nczitzk",
@@ -73,8 +73,8 @@ _None_
     },
     {
       "description": "36氪 - 最新资讯频道 - Powered by RSSHub",
-      "errorAt": "2026-08-05T08:37:18.440Z",
-      "errorMessage": "Cannot read properties of null (reading '1')\nCannot read properties of null (reading '1')\nFailed to fetch\nCannot read properties of null (reading '1')\nCannot read properties of null (reading '1')\n",
+      "errorAt": "2026-08-06T00:32:51.823Z",
+      "errorMessage": "Cannot read properties of null (reading '1')\nCannot read properties of null (reading '1')\nCannot read properties of null (reading '1')\nCannot read properties of null (reading '1')\nCannot read properties of null (reading '1')\n",
       "id": "66129443815812096",
       "image": null,
       "ownerUserId": null,

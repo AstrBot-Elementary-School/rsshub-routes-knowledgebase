@@ -48,7 +48,7 @@ _None_
   ],
   "description": "分类\n\n| 热门帖子 | 最新帖子 |\n| -------- | -------- |\n| hot      | new      |\n\n排序方式\n\n| 最新回复 | 最新发布 |\n| -------- | -------- |\n|          | post     |",
   "example": "/1point3acres/thread/hot",
-  "heat": 169,
+  "heat": 168,
   "location": "thread.ts",
   "maintainers": [
     "IvanWng97",

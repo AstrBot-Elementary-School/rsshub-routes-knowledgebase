@@ -61,7 +61,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 378,
+  "heat": 377,
   "location": "news.ts",
   "maintainers": [
     "nczitzk"
@@ -98,7 +98,7 @@
     {
       "description": "深圳本地宝焦点资讯 - Powered by RSSHub",
       "errorAt": "2026-08-04T05:22:00.348Z",
-      "errorMessage": "Cannot create property 'description' on string ''\nCannot create property 'link' on string ''\n[GET] \"http://sz.bendibao.com\": 502 Bad Gateway\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "Cannot create property 'description' on string ''\nCannot create property 'link' on string ''\nCannot create property 'link' on string ''\nCannot create property 'description' on string ''\n",
       "id": "55050469790023681",
       "image": null,
       "ownerUserId": null,

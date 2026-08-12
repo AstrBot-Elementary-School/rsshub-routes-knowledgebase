@@ -94,28 +94,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "秀动网 - 搜城市 - 成都 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "138149010608228352",
+      "description": "秀动网 - 搜城市 - 上海 - Powered by RSSHub",
+      "errorAt": "2026-08-02T21:00:09.499Z",
+      "errorMessage": "e[t].localeCompare is not a function\n",
+      "id": "67428435443757056",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.showstart.com/",
-      "title": "秀动网 - 搜城市 - 成都",
+      "title": "秀动网 - 搜城市 - 上海",
       "type": "feed",
-      "url": "rsshub://showstart/search/city/%20%E6%88%90%E9%83%BD"
+      "url": "rsshub://showstart/search/city/%E4%B8%8A%E6%B5%B7"
     },
     {
-      "description": "秀动网 - 搜演出 - Fine乐团 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "73918360042176533",
+      "description": "秀动网 - 搜城市 - 苏州 - Powered by RSSHub",
+      "errorAt": "2026-08-02T16:57:18.143Z",
+      "errorMessage": "e[t].localeCompare is not a function\n",
+      "id": "175967172586634240",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.showstart.com/",
-      "title": "秀动网 - 搜演出 - Fine乐团",
+      "title": "秀动网 - 搜城市 - 苏州",
       "type": "feed",
-      "url": "rsshub://showstart/search/Fine%E4%B9%90%E5%9B%A2"
+      "url": "rsshub://showstart/search/city/%E8%8B%8F%E5%B7%9E"
     }
   ]
 }

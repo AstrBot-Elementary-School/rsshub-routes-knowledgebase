@@ -56,7 +56,7 @@ Category of news
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 38,
+  "heat": 36,
   "location": "news/highlights/news.ts",
   "maintainers": [
     "jiaaoMario"

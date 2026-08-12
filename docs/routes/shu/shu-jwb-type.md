@@ -42,7 +42,7 @@ _None_
   ],
   "description": "| 通知通告 | 新闻 | 政策文件 (bug) |\n| -------- | ---- | -------------- |\n| notice   | news | policy         |",
   "example": "/shu/jwb/notice",
-  "heat": 3,
+  "heat": 4,
   "location": "jwb.ts",
   "maintainers": [
     "tuxinghuan",

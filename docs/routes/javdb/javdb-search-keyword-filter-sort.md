@@ -99,8 +99,8 @@
   "topFeeds": [
     {
       "description": "關鍵字 按相关度排序 搜索結果 - JavDB - Powered by RSSHub",
-      "errorAt": "2026-08-07T12:13:26.702Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "67212739482473472",
       "image": null,
       "ownerUserId": null,
@@ -111,8 +111,8 @@
     },
     {
       "description": "關鍵字 巨乳 按相关度排序 搜索結果 - JavDB - Powered by RSSHub",
-      "errorAt": "2026-08-08T14:01:32.447Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "62403400668747776",
       "image": null,
       "ownerUserId": null,

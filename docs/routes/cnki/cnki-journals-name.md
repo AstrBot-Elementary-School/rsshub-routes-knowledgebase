@@ -77,8 +77,8 @@ _None_
   "topFeeds": [
     {
       "description": "微纳电子技术 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-10T17:12:59.517Z",
+      "errorMessage": "[GET] \"https://rss.cnki.net/kns/rss.aspx?Journal=BDTQ&Virtual=knavi\": <no response> fetch failed (Hostname/IP does not match certificate's altnames: Host: rss.cnki.net. is not in the cert's altnames: DNS:*.cdn.myqcloud.com, DNS:*.2144.cn, DNS:*.2144.com, DNS:*.4399.com, DNS:*.5054399.com, DNS:*.58cdn.com.cn, DNS:*.bldimg.com, DNS:*.cdn-go.cn, DNS:*.cntv.qcloudcdn.com, DNS:*.danmu.com, DNS:*.dd.cdntips.net, DNS:*.dd.qq.com, DNS:*.dianping.com, DNS:*.dl.txcdns.com, DNS:*.dlied1.cdntips.net, DNS:*.dpfile.com, DNS:*.ffnews.cn, DNS:*.file.myqcloud.com, DNS:*.flash.2144.com, DNS:*.flash.cn, DNS:*.geetest.com, DNS:*.gtimg.cn, DNS:*.gtimg.com, DNS:*.hls.cdn.myqcloud.com, DNS:*.image.myqcloud.com, DNS:*.img4399.com, DNS:*.jsbchina.cn, DNS:*.lof3.xyz, DNS:*.meituan.net, DNS:*.myapp.com, DNS:*.mykeeta.net, DNS:*.qcloudcdn.com, DNS:*.qpic.cn, DNS:*.sogoucdn.com, DNS:*.suyinwealth.com, DNS:*.ugdtimg.com, DNS:*.uniqlo.cn, DNS:*.vda.v.qcloudcdn.com, DNS:*.video.myqcloud.com, DNS:*.vip.cdngot.com, DNS:*.vod-qcloud.com, DNS:*.vod.cdn.myqcloud.com, DNS:*.vod.myqcloud.com, DNS:*.vod2.myqcloud.com, DNS:*.wanyabox.com, DNS:*.weishi.qq.com, DNS:*.wx.qq.com, DNS:*.zhongcheng818.com, DNS:*.zservey.net, DNS:cdn.myqcloud.com, DNS:flash.cn, DNS:nitrome.com.4399.com, DNS:www.miniclip.com.4399pk.com, DNS:www.tencentwm.com, DNS:www.txfund.com, DNS:xpdl999.aiwan4399.com)\n",
       "id": "159265390001661952",
       "image": null,
       "ownerUserId": null,

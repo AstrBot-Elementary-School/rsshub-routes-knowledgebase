@@ -93,8 +93,8 @@
     },
     {
       "description": "幼嫩白涩 - JavDB 加入时间排序 - Powered by RSSHub",
-      "errorAt": "2026-08-06T06:30:58.966Z",
-      "errorMessage": "[GET] \"https://javdb.com/lists/ZdrJv?lst=0\": 403 Forbidden\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "129738038308376576",
       "image": null,
       "ownerUserId": null,

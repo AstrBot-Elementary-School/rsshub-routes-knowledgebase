@@ -92,7 +92,7 @@ _None_
       "errorAt": null,
       "errorMessage": null,
       "id": "62335921117247488",
-      "image": "https://rpic.douyucdn.cn/asrpic/260802/9999_src_2319.avif/dy4",
+      "image": "https://rpic.douyucdn.cn/asrpic/260811/9999_src_0842.avif/dy4",
       "ownerUserId": null,
       "siteUrl": "https://www.douyu.com/9999",
       "title": "yyfyyf的斗鱼直播间",

@@ -94,7 +94,7 @@ _None_
   ],
   "description": "- 主栏目\n\n| 业界         | 人工智能 | 智能驾驶       | 数智化          | 金融科技 | 医疗科技 | 芯片  | 政企安全   | 智慧城市  | 行业云        | 工业互联网         | AIoT |\n| ------------ | -------- | -------------- | --------------- | -------- | -------- | ----- | ---------- | --------- | ------------- | ------------------ | ---- |\n| industrynews | ai       | transportation | digitalindustry | fintech  | aihealth | chips | gbsecurity | smartcity | industrycloud | IndustrialInternet | iot  |\n\n- 子栏目\n\n- 人工智能\n\n| 学术     | 开发者   |\n| -------- | -------- |\n| academic | yanxishe |\n\n- 数智化\n\n| 零售数智化 | 金融数智化 | 工业数智化 | 医疗数智化 | 城市数智化  |\n| ---------- | ---------- | ---------- | ---------- | ----------- |\n| redigital  | findigital | mandigital | medigital  | citydigital |\n\n- 金融科技\n\n| 科技巨头 | 银行 AI | 金融云       | 风控与安全   |\n| -------- | ------- | ------------ | ------------ |\n| BigTech  | bank    | FinanceCloud | DataSecurity |\n\n- 医疗科技\n\n| 医疗 AI  | 投融资 | 医疗器械 | 互联网医疗       | 生物医药     | 健康险       |\n| -------- | ------ | -------- | ---------------- | ------------ | ------------ |\n| healthai | touzi  | qixie    | hulianwangyiliao | shengwuyiyao | jiankangxian |\n\n- 芯片\n\n| 材料设备  | 芯片设计   | 晶圆代工      | 封装测试  |\n| --------- | ---------- | ------------- | --------- |\n| materials | chipdesign | manufacturing | packaging |\n\n- 智慧城市\n\n| 智慧安防      | 智慧教育       | 智慧交通            | 智慧社区       | 智慧零售       | 智慧政务        | 智慧地产 |\n| ------------- | -------------- | ------------------- | -------------- | -------------- | --------------- | -------- |\n| smartsecurity | smarteducation | smarttransportation | smartcommunity | smartretailing | smartgovernment | proptech |\n\n- 工业互联网\n\n| 工业软件   | 工业安全 | 5G 工业互联网 | 工业转型实践 |\n| ---------- | -------- | ------------- | ------------ |\n| gysoftware | gysafety | 5ggy          | gypratice    |\n\n- AIoT\n\n| 物联网 | 智能硬件 | 机器人 | 智能家居  |\n| ------ | -------- | ------ | --------- |\n| 5G     | arvr     | robot  | smarthome |",
   "example": "/leiphone/category/industrynews",
-  "heat": 2,
+  "heat": 7,
   "location": "category.ts",
   "maintainers": [
     "vlcheng"
@@ -116,6 +116,18 @@ _None_
     "code": 1
   },
   "topFeeds": [
+    {
+      "description": "雷峰网 - 读懂智能&未来 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "142763127907131396",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.leiphone.com/category/ai",
+      "title": "雷峰网 ai",
+      "type": "feed",
+      "url": "rsshub://leiphone/category/ai"
+    },
     {
       "description": "雷峰网 - 读懂智能&未来 - Powered by RSSHub",
       "errorAt": null,

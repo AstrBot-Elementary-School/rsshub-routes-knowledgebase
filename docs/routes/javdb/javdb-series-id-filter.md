@@ -103,8 +103,8 @@
     },
     {
       "description": "絶対忠実秘書 - JavDB - Powered by RSSHub",
-      "errorAt": "2026-08-06T19:34:52.884Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "85160035655452672",
       "image": null,
       "ownerUserId": null,

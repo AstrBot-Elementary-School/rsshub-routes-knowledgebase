@@ -56,7 +56,7 @@ _None_
     {
       "description": "Web3Caff - 以深度视角探索 Web3 产业创新 - Powered by RSSHub",
       "errorAt": "2026-01-19T10:52:21.578Z",
-      "errorMessage": "[GET] \"https://web3caff.com\": <no response> fetch failed (C0E232750B7F0000:error:0A000410:SSL routines:ssl3_read_bytes:ssl/tls alert handshake failure:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:918:SSL alert number 40\n)\n",
+      "errorMessage": "[GET] \"https://web3caff.com\": <no response> fetch failed (C072F26B9B7F0000:error:0A000410:SSL routines:ssl3_read_bytes:ssl/tls alert handshake failure:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:918:SSL alert number 40\n)\n",
       "id": "54902946701684736",
       "image": null,
       "ownerUserId": null,

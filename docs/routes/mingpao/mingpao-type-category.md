@@ -122,7 +122,7 @@ _None_
     {
       "description": "明報新聞網-即時新聞 RSS - Powered by RSSHub",
       "errorAt": "2025-11-13T23:43:50.376Z",
-      "errorMessage": "[GET] \"https://news.mingpao.com/ins/%e9%ab%94%e8%82%b2/article/20260809/s00006/1786279202827/%e7%b1%83%e7%90%83-%e9%a6%99%e6%b8%af%e7%90%83%e9%9a%8a%e9%a6%96%e6%ac%a1%e6%b4%be%e9%9a%8a%e5%8f%83%e6%88%b0%e5%9c%8b%e5%85%a7%e9%9d%92%e5%b9%b4%e8%bb%8d%e8%b3%bd%e4%ba%8b-%e9%87%91%e7%89%9b%e5%85%a8%e5%9c%8bu19%e9%9d%92%e5%b9%b4%e7%b1%83%e7%90%83%e8%81%af%e8%b3%bd%e5%8f%96%e7%ac%ac6%e6%94%b6%e5%ae%98%e5%af%ab%e9%87%8c%e7%a8%8b%e7%a2%91\": 403 Forbidden\nStatus code 403\n",
+      "errorMessage": "[GET] \"https://news.mingpao.com/ins/%e5%9c%8b%e9%9a%9b/article/20260811/s00005/1786419341473/%e4%bc%8a%e6%9c%97%e7%b8%bd%e7%b5%b1-%e6%9c%80%e9%ab%98%e9%a0%98%e8%a2%96%e7%a9%86%e5%82%91%e5%a1%94%e5%b7%b4%e5%81%a5%e5%ba%b7%e5%be%88%e5%a5%bd-%e4%bf%83%e5%9c%8b%e5%ae%b6%e5%9c%98%e7%b5%90\": 403 Forbidden\nStatus code 403\n",
       "id": "67446046265380864",
       "image": "https://news.mingpao.com/image/mingpaonews_logo2.png",
       "ownerUserId": null,
@@ -134,7 +134,7 @@ _None_
     {
       "description": "明報新聞網-每日明報 RSS - Powered by RSSHub",
       "errorAt": "2026-02-04T20:51:42.711Z",
-      "errorMessage": "[GET] \"https://news.mingpao.com/pns/%e8%a6%81%e8%81%9e/article/20260808/s00001/1786125075912/%e8%b6%85%e7%b4%9a%e7%8b%80%e5%85%83-%e8%ae%80%e6%96%87%e7%a7%91%e3%80%8c%e9%81%b8%e5%b0%8d%e8%b7%af%e3%80%8d-%e5%8a%a9%e8%a7%80%e5%a4%a9%e5%9c%b0%e5%af%9f%e4%ba%ba%e4%ba%8b%e6%98%8e%e8%87%aa%e8%ba%ab%e3%80%90%e5%b0%88%e8%a8%aa%e3%80%91\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://news.mingpao.com/pns/%e8%a6%81%e8%81%9e/article/20260811/s00001/1786385592467/%e5%88%80%e6%bc%a2%e8%bf%bd%e6%96%ac%e5%85%a9%e4%ba%ba-%e9%80%94%e4%ba%ba%e4%bf%9d%e5%ae%89%e5%8b%87%e6%95%91-%e9%9d%9e%e6%b4%b2%e7%94%b7%e5%ad%90%e4%bb%a5%e8%ba%ab%e8%ad%b7%e4%b8%ad%e5%88%80%e5%a4%96%e5%82%ad-%e7%96%91%e5%85%87%e8%a2%ab%e6%8d%95\": 403 Forbidden\n",
       "id": "79131389613658112",
       "image": "https://news.mingpao.com/image/mingpaonews_logo2.png",
       "ownerUserId": null,

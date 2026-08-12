@@ -185,8 +185,8 @@ _None_
     },
     {
       "description": "Today's News - Cybercrime Magazine - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-10T22:50:10.808Z",
+      "errorMessage": "[GET] \"https://us-east-1-renderer-read.knack.com/v1/scenes/scene_12/views/view_14/records?format=raw&page=1&rows_per_page=20&sort_field=field_2&sort_order=desc\": 403 Forbidden\n",
       "id": "83099263306649600",
       "image": null,
       "ownerUserId": null,
