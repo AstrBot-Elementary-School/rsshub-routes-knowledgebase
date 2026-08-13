@@ -55,7 +55,7 @@ _None_
     ],
     "requirePuppeteer": true
   },
-  "heat": 1394201,
+  "heat": 1394205,
   "location": "user.ts",
   "maintainers": [
     "lotosbin",
@@ -102,7 +102,7 @@ _None_
     {
       "description": "喜欢穿搭👗 随意分享🩰 📮3790381790@qq.com 白羊座 重庆南岸 3 关注 1万+ 粉丝 1万+ 获赞与收藏 - Powered by RSSHub",
       "errorAt": "2026-07-13T17:19:40.144Z",
-      "errorMessage": "Failed to fetch\nAuthentication failed. Access denied.\n/xiaohongshu/user/5db011250000000001002502/notes\nFailed to fetch\n502 \nFailed to fetch\n",
+      "errorMessage": "Failed to fetch\nAuthentication failed. Access denied.\n/xiaohongshu/user/5db011250000000001002502/notes\nFailed to fetch\nWaiting for selector `div.reds-tab-item:nth-child(2), #red-captcha` failed: waitForFunction failed: frame got detached.\nFailed to fetch\n",
       "id": "67448641547187200",
       "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo319cmu4i06c005ndg24ig8982rj4drug?imageView2/2/w/540/format/webp",
       "ownerUserId": null,

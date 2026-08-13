@@ -108,8 +108,8 @@ _None_
   "topFeeds": [
     {
       "description": "推荐 - MedSci.cn - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-11T20:35:00.326Z",
+      "errorMessage": "[GET] \"https://www.medsci.cnhttps://rare.medsci.cn/news/detail/cfb194663239\": <no response> fetch failed (getaddrinfo ENOTFOUND www.medsci.cnhttps)\n[GET] \"https://www.medsci.cnhttps://rare.medsci.cn/news/detail/cfb194663239\": <no response> fetch failed (getaddrinfo ENOTFOUND www.medsci.cnhttps)\n",
       "id": "70825962351576064",
       "image": null,
       "ownerUserId": null,

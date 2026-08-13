@@ -149,13 +149,13 @@
       "description": "英雄联盟官方网站，海量风格各异的英雄，丰富、便捷的物品合成系统，游戏内置的匹配、排行和竞技系统，独创的“召唤师”系统及技能、符文、天赋等系统组合，必将带你进入一个崭新而又丰富多彩的游戏世界。 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "206218993552190464",
+      "id": "150692054407907328",
       "image": "https://game.gtimg.cn/images/lol/v3/logo-public.png",
       "ownerUserId": null,
       "siteUrl": "https://lol.qq.com/news/index.shtml",
-      "title": "英雄联盟首页新闻列表 - 综合",
+      "title": "英雄联盟首页新闻列表 - 公告",
       "type": "feed",
-      "url": "rsshub://qq/lol/news/23"
+      "url": "rsshub://qq/lol/news/24"
     }
   ],
   "url": "lol.qq.com",

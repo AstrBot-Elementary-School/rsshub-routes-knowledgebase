@@ -139,8 +139,8 @@ _None_
     },
     {
       "description": "The New York Times Best Sellers - Combined Print & E-Book Fiction- August 16, 2026 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-11T15:37:56.961Z",
+      "errorMessage": "Authentication failed. Access denied.\n/nytimes/book/combined-print-and-e-book-fiction\n[GET] \"https://www.nytimes.com/books/best-sellers/combined-print-and-e-book-fiction\": 403 Forbidden\n",
       "id": "62036724352164864",
       "image": null,
       "ownerUserId": null,

@@ -81,7 +81,7 @@
     {
       "description": "創新拿鐵 - Powered by RSSHub",
       "errorAt": "2026-02-21T11:08:57.570Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n500 \n",
       "id": "61252688943239172",
       "image": null,
       "ownerUserId": null,

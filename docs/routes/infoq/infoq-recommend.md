@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2607,
+  "heat": 2606,
   "location": "recommend.ts",
   "maintainers": [
     "brilon"

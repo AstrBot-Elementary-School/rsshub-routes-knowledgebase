@@ -81,7 +81,7 @@ _None_
       "errorAt": null,
       "errorMessage": null,
       "id": "65815027588922368",
-      "image": "https://p1.music.126.net/J8mrQPu9oKSva8ziYrGmJQ==/109951164481886292.jpg",
+      "image": "https://p2.music.126.net/J8mrQPu9oKSva8ziYrGmJQ==/109951164481886292.jpg",
       "ownerUserId": null,
       "siteUrl": "https://music.163.com/#/artist/album?id=32540734",
       "title": "塞壬唱片-MSR",
@@ -89,16 +89,16 @@ _None_
       "url": "rsshub://163/music/artist/32540734"
     },
     {
-      "description": "网易云音乐歌手专辑 - The 1999 - Powered by RSSHub",
-      "errorAt": "2026-08-10T17:23:25.591Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'name')\n",
-      "id": "65815290747943936",
-      "image": "https://p1.music.126.net/X40wljeqXKFEpv0ueZoSjg==/109951169215159176.jpg",
+      "description": "网易云音乐歌手专辑 - Cornelius - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "93448817250868224",
+      "image": "https://p2.music.126.net/8S1C8M5lMYTDJhHnfn8_Xw==/812539092950497.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://music.163.com/#/artist/album?id=59573590",
-      "title": "The 1999",
+      "siteUrl": "https://music.163.com/#/artist/album?id=159549",
+      "title": "Cornelius",
       "type": "feed",
-      "url": "rsshub://163/music/artist/59573590"
+      "url": "rsshub://163/music/artist/159549"
     }
   ]
 }

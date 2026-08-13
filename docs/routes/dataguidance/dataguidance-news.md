@@ -58,8 +58,8 @@ _None_
   "topFeeds": [
     {
       "description": "Data Guidance News - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-12T08:12:15.026Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "67733611004811264",
       "image": null,
       "ownerUserId": null,

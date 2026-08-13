@@ -78,7 +78,7 @@ e.g.: `/gelbooru/post?limit=20&`
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 22,
+  "heat": 21,
   "location": "post.ts",
   "maintainers": [
     "magicFeirl"

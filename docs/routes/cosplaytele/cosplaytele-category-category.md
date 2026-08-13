@@ -54,7 +54,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 324,
+  "heat": 322,
   "location": "category.ts",
   "maintainers": [
     "AiraNadih"

@@ -37,7 +37,7 @@ _None_
     "reading"
   ],
   "example": "/inoreader/html_clip/1005137674/user-favorites",
-  "heat": 10,
+  "heat": 9,
   "location": "index.ts",
   "maintainers": [
     "IvanWng97"

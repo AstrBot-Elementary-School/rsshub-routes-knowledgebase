@@ -63,25 +63,25 @@ _None_
       "description": "Literature Search - INSPIRE - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "69965125338796056",
+      "id": "67195512624501760",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20X.Dong.1",
+      "siteUrl": "https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=Physics",
       "title": "Literature Search - INSPIRE",
       "type": "feed",
-      "url": "rsshub://inspirehep/literature/a%20X.Dong.1"
+      "url": "rsshub://inspirehep/literature/Physics"
     },
     {
       "description": "Literature Search - INSPIRE - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "69965125338796048",
+      "id": "69965125338796040",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20R.C.Myers.1",
+      "siteUrl": "https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20H.Ooguri.1",
       "title": "Literature Search - INSPIRE",
       "type": "feed",
-      "url": "rsshub://inspirehep/literature/a%20R.C.Myers.1"
+      "url": "rsshub://inspirehep/literature/a%20H.Ooguri.1"
     }
   ]
 }

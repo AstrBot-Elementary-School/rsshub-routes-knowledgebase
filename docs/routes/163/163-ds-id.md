@@ -73,18 +73,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "暴雪大神 的动态 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "92101048147198999",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://ds.163.com/user/13be30b3f5204a17b3e52eaf9f0e44aa",
-      "title": "暴雪大神 的动态",
-      "type": "feed",
-      "url": "rsshub://163/ds/13be30b3f5204a17b3e52eaf9f0e44aa"
-    },
-    {
       "description": "DatahunterSora 的动态 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -95,6 +83,18 @@ _None_
       "title": "DatahunterSora 的动态",
       "type": "feed",
       "url": "rsshub://163/ds/6d8b6fe852fe4dda86723c6fa24a266f"
+    },
+    {
+      "description": "二萌Alice 的动态 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "92101048147199003",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://ds.163.com/user/3ccb247ef47a4a8480ad9d1b7a239a05",
+      "title": "二萌Alice 的动态",
+      "type": "feed",
+      "url": "rsshub://163/ds/3ccb247ef47a4a8480ad9d1b7a239a05"
     }
   ]
 }

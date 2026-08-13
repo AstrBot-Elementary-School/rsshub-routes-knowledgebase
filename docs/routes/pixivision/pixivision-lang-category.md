@@ -60,7 +60,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 313,
+  "heat": 311,
   "location": "index.ts",
   "maintainers": [
     "SnowAgar25"
@@ -103,8 +103,8 @@
     },
     {
       "description": "New - pixivision - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-12T06:05:00.749Z",
+      "errorMessage": "500 \n",
       "id": "72857212239056896",
       "image": null,
       "ownerUserId": null,

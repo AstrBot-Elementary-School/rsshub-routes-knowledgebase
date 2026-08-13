@@ -79,8 +79,8 @@
   "topFeeds": [
     {
       "description": "今日推荐 - 游民星空 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-12T07:54:30.725Z",
+      "errorMessage": "Cannot read properties of undefined (reading 'substring')\nCannot read properties of undefined (reading 'substring')\nCannot read properties of undefined (reading 'substring')\nCannot read properties of undefined (reading 'substring')\nCannot read properties of undefined (reading 'substring')\n",
       "id": "57683409701121024",
       "image": null,
       "ownerUserId": null,

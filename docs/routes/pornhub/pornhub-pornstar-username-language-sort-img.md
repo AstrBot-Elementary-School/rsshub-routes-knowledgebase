@@ -114,7 +114,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 3970,
+  "heat": 3971,
   "location": "pornstar.ts",
   "maintainers": [
     "I2IMk",
@@ -307,7 +307,7 @@ _None_
       "url": "rsshub://pornhub/pornstar/june-liu"
     },
     {
-      "description": "About Hey! I'm a young Siberian girl and I want to play a game with you) Rules are simple: you cum, I win ^_^ Stop wasting your time - my tiny pussy is waiting for your sweet hot cum. - Powered by RSSHub",
+      "description": "About Elfieverse is out now! Go talk to me and see how far you can get. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "60908916797167616",

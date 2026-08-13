@@ -58,7 +58,7 @@ _None_
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 197,
+  "heat": 196,
   "location": "changelog.ts",
   "maintainers": [
     "p3psi-boo",

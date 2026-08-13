@@ -63,7 +63,7 @@ _None_
       "id": "56597410818564096",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://leetcode.cn/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/",
+      "siteUrl": "https://leetcode.cn/problems/length-of-longest-subarray-with-at-most-k-frequency/",
       "title": "LeetCode 每日一题题解",
       "type": "feed",
       "url": "rsshub://leetcode/dailyquestion/solution/cn"

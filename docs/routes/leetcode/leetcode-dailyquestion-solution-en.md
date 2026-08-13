@@ -63,7 +63,7 @@ _None_
       "id": "68717343449750552",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://leetcode.com/problems/complement-of-base-10-integer/",
+      "siteUrl": "https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum/",
       "title": "LeetCode DailyQuestion Solution",
       "type": "feed",
       "url": "rsshub://leetcode/dailyquestion/solution/en"

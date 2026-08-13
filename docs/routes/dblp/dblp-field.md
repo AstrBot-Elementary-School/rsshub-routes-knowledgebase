@@ -86,8 +86,8 @@ _None_
     },
     {
       "description": "DBLP robotics RSS - Powered by RSSHub",
-      "errorAt": "2026-08-11T06:55:11.448Z",
-      "errorMessage": "[GET] \"https://dblp.org/search/publ/api?q=robotics&format=json&h=10\": 503 Service Unavailable\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "257777668080712704",
       "image": null,
       "ownerUserId": null,

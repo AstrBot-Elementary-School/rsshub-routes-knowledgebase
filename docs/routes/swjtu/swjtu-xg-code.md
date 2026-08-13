@@ -61,7 +61,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4,
+  "heat": 3,
   "location": "xg.ts",
   "maintainers": [
     "mobyw"

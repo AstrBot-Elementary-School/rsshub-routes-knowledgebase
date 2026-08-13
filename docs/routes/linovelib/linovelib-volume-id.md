@@ -62,8 +62,8 @@ _None_
   "topFeeds": [
     {
       "description": "魔法禁书目录 - 哔哩轻小说 - Powered by RSSHub",
-      "errorAt": "2026-08-10T20:41:53.829Z",
-      "errorMessage": "[GET] \"https://www.linovelib.com/novel/824/catalog\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "126699050007148544",
       "image": null,
       "ownerUserId": null,

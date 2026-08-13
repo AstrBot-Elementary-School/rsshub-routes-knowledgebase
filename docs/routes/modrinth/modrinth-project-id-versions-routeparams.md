@@ -116,16 +116,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "A versatile, GUI-based quest plugin featuring customizable quest pools, leaderboards, leveling, and extensive plugin integrations. - Powered by RSSHub",
+      "description": "An all-in-one solution that works - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "114582569332071424",
+      "id": "123852430344537088",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/NBlPi66Y",
-      "title": "AuroraQuests Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/gG7VFbG0",
+      "title": "TAB Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/NBlPi66Y/versions"
+      "url": "rsshub://modrinth/project/gG7VFbG0/versions"
     }
   ]
 }

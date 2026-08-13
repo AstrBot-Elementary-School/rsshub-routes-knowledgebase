@@ -112,8 +112,8 @@
     },
     {
       "description": "苏州市政府 - 苏州要闻 - Powered by RSSHub",
-      "errorAt": "2026-08-11T07:11:12.905Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "105467750186756096",
       "image": null,
       "ownerUserId": null,

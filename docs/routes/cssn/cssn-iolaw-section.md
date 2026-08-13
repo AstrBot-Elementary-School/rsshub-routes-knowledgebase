@@ -65,8 +65,8 @@ _None_
   "topFeeds": [
     {
       "description": "中国法学网 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-12T04:34:30.306Z",
+      "errorMessage": "[GET] \"http://iolaw.cssn.cn/zxzp/\": <no response> fetch failed (getaddrinfo ENOTFOUND iolaw.cssn.cn)\n",
       "id": "56957441693996032",
       "image": null,
       "ownerUserId": null,

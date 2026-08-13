@@ -89,16 +89,16 @@ _None_
       "url": "rsshub://github/repos/Quorafind"
     },
     {
-      "description": "tc39's GitHub repositories - Powered by RSSHub",
+      "description": "opendatalab's GitHub repositories - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "73205313547297792",
+      "id": "59875311102368768",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/tc39",
-      "title": "tc39's GitHub repositories",
+      "siteUrl": "https://github.com/opendatalab",
+      "title": "opendatalab's GitHub repositories",
       "type": "feed",
-      "url": "rsshub://github/repos/tc39"
+      "url": "rsshub://github/repos/opendatalab"
     }
   ]
 }

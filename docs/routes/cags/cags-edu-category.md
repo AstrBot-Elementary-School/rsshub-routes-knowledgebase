@@ -77,8 +77,8 @@
   "topFeeds": [
     {
       "description": "通知公告 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-11T21:09:46.003Z",
+      "errorMessage": "[GET] \"https://edu.cags.ac.cn/api/cms/cmsNews/pageByCmsNavBarId/tzgg/1/10/0\": <no response> fetch failed (Connect Timeout Error (attempted address: edu.cags.ac.cn:443, timeout: 10000ms))\n",
       "id": "77888993877532672",
       "image": null,
       "ownerUserId": null,

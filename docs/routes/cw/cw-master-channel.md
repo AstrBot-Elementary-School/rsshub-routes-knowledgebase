@@ -92,8 +92,8 @@ _None_
     },
     {
       "description": "天下雜誌提供最新國際等重要資訊報導。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-11T23:11:36.045Z",
+      "errorMessage": "Authentication failed. Access denied.\n/cw/master/9\n500 \n",
       "id": "84170446829198336",
       "image": "https://www.cw.com.tw/assets_new/img/fbshare.jpg",
       "ownerUserId": null,

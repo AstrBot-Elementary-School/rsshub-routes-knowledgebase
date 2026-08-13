@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4,
+  "heat": 3,
   "location": "oasis/user.ts",
   "maintainers": [
     "kt286"

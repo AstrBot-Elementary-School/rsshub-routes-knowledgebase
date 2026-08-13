@@ -55,7 +55,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 6,
+  "heat": 5,
   "location": "gs.ts",
   "maintainers": [
     "MilkShakeYoung",

@@ -39,7 +39,7 @@ _None_
     "bbs"
   ],
   "example": "/deepin/threads/latest",
-  "heat": 20,
+  "heat": 19,
   "location": "thread.ts",
   "maintainers": [
     "myml"

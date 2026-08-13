@@ -76,8 +76,8 @@ _None_
   "topFeeds": [
     {
       "description": "Perplexity Blog - Powered by RSSHub",
-      "errorAt": "2026-08-09T15:23:01.978Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "257997849784109056",
       "image": null,
       "ownerUserId": null,

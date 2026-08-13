@@ -86,7 +86,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 13,
+  "heat": 14,
   "location": "transform/json.ts",
   "maintainers": [
     "ttttmr"
@@ -103,28 +103,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Proxy https://api.github.com/repos/zema1/suo5/releases - Powered by RSSHub",
+      "description": "Proxy https://api.github.com/repos/Macmod/godap/releases - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "185696056303208448",
+      "id": "185695094733155328",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://api.github.com/repos/zema1/suo5/releases",
-      "title": "suo5 releases",
+      "siteUrl": "https://api.github.com/repos/Macmod/godap/releases",
+      "title": "godap releases",
       "type": "feed",
-      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fapi.github.com%2Frepos%2Fzema1%2Fsuo5%2Freleases/title=suo5%20releases&itemTitle=tag_name&itemLink=html_url&itemDesc=body"
+      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fapi.github.com%2Frepos%2FMacmod%2Fgodap%2Freleases/title=godap%20releases&itemTitle=tag_name&itemLink=html_url&itemDesc=body"
     },
     {
-      "description": "Proxy https://api.github.com/repos/ginuerzh/gost/releases - Powered by RSSHub",
+      "description": "Proxy https://api.github.com/repos/Macmod/ldapx/releases - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "185687225196835840",
+      "id": "185694935800580096",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://api.github.com/repos/ginuerzh/gost/releases",
-      "title": "Gost releases",
+      "siteUrl": "https://api.github.com/repos/Macmod/ldapx/releases",
+      "title": "ldapx releases",
       "type": "feed",
-      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fapi.github.com%2Frepos%2Fginuerzh%2Fgost%2Freleases/title=Gost%20releases&itemTitle=tag_name&itemLink=html_url&itemDesc=body"
+      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fapi.github.com%2Frepos%2FMacmod%2Fldapx%2Freleases/title=ldapx%20releases&itemTitle=tag_name&itemLink=html_url&itemDesc=body"
     }
   ]
 }

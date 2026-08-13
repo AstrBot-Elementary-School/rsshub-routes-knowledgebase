@@ -54,7 +54,7 @@ _None_
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 85,
+  "heat": 87,
   "location": "kx.ts",
   "maintainers": [
     "nczitzk"

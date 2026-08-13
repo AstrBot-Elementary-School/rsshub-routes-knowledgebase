@@ -87,7 +87,7 @@ _None_
     {
       "description": "China - Powered by RSSHub",
       "errorAt": "2025-09-05T17:22:28.529Z",
-      "errorMessage": "[GET] \"https://www.economist.com/china/2026/08/06/chinas-superstitious-mayors\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/08/06/chinas-superstitious-mayors\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/08/06/chinas-superstitious-mayors\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.economist.com/china/2026/08/10/chinas-officials-are-obsessed-with-safety-theatre\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/08/10/chinas-officials-are-obsessed-with-safety-theatre\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/08/10/chinas-officials-are-obsessed-with-safety-theatre\": 403 Forbidden\n",
       "id": "41461870197170199",
       "image": null,
       "ownerUserId": null,

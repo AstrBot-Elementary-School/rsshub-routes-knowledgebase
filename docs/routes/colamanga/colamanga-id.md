@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 147,
+  "heat": 148,
   "location": "manga.ts",
   "maintainers": [
     "machsix"

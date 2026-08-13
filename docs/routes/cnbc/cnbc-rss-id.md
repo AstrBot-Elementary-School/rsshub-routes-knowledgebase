@@ -55,7 +55,7 @@ Support all channels, refer to [CNBC RSS feeds](https://www.cnbc.com/rss-feeds/)
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 334,
+  "heat": 335,
   "location": "rss.ts",
   "maintainers": [
     "TonyRL"

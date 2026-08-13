@@ -63,8 +63,8 @@ _None_
   "topFeeds": [
     {
       "description": "《社会》当期目录 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-12T07:53:42.478Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "149985207254076416",
       "image": null,
       "ownerUserId": null,
