@@ -67,8 +67,8 @@ _None_
   "topFeeds": [
     {
       "description": "NPR news, audio, and podcasts. Coverage of breaking stories, national and world news, politics, business, science, technology, and extended coverage of major national and world events. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-13T02:47:39.269Z",
+      "errorMessage": "[GET] \"https://www.npr.org/sections/the-picture-show/2026/08/12/nx-s1-5929788/photos-best-photos-from-solar-eclipse\": 402 Payment Required\n",
       "id": "152995209828799488",
       "image": null,
       "ownerUserId": null,

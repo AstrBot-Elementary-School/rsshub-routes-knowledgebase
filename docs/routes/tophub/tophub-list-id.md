@@ -83,8 +83,8 @@
   "topFeeds": [
     {
       "description": "订阅数：38万+ - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-13T05:07:30.492Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "76104512239628288",
       "image": "https://file.ipadown.com/tophub/assets/images/media/s.weibo.com.png_160x160.png",
       "ownerUserId": null,

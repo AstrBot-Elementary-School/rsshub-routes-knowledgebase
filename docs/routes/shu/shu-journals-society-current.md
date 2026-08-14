@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 57,
+  "heat": 56,
   "location": "society.ts",
   "maintainers": [
     "CNYoki"
@@ -63,7 +63,7 @@ _None_
   "topFeeds": [
     {
       "description": "《社会》当期目录 - Powered by RSSHub",
-      "errorAt": "2026-08-12T07:53:42.478Z",
+      "errorAt": "2026-08-11T15:02:23.851Z",
       "errorMessage": "Failed to fetch\n",
       "id": "149985207254076416",
       "image": null,

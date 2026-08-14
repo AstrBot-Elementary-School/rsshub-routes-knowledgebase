@@ -99,7 +99,7 @@ To subscribe to [Highlights](https://www.app-sales.net/highlights/), where the s
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 6,
+  "heat": 7,
   "location": "index.ts",
   "maintainers": [
     "nczitzk"

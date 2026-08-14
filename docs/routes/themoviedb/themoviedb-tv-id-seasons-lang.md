@@ -78,16 +78,16 @@ _None_
       "url": "rsshub://themoviedb/tv/70593/seasons"
     },
     {
-      "description": "A missing child causes four families to help each other for answers. What they could not imagine is that this mystery would be connected to innumerable other secrets of the small town. - Powered by RSSHub",
+      "description": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "82918388383633408",
-      "image": "https://image.tmdb.org/t/p/original/apbrbWs8M9lyOpJYU5WXrpFbk1Z.jpg",
+      "id": "82918240259880960",
+      "image": "https://image.tmdb.org/t/p/original/oxmdHR5Ka28HAJuMmS2hk5K6QQY.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://www.themoviedb.org/tv/70523/seasons",
-      "title": "Dark - Seasons — TMDB",
+      "siteUrl": "https://www.themoviedb.org/tv/94997/seasons",
+      "title": "House of the Dragon - Seasons — TMDB",
       "type": "feed",
-      "url": "rsshub://themoviedb/tv/70523-dark/seasons"
+      "url": "rsshub://themoviedb/tv/94997-house-of-the-dragon/seasons"
     }
   ],
   "view": 5

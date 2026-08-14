@@ -91,8 +91,8 @@
     },
     {
       "description": "合肥工业大学 - 通知公告 - Powered by RSSHub",
-      "errorAt": "2026-01-17T05:19:54.488Z",
-      "errorMessage": "[GET] \"https://news.hfut.edu.cn/tzgg2.htm\": <no response> fetch failed\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "70797096799977472",
       "image": null,
       "ownerUserId": null,

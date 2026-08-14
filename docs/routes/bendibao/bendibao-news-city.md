@@ -98,7 +98,7 @@
     {
       "description": "深圳本地宝焦点资讯 - Powered by RSSHub",
       "errorAt": "2026-08-04T05:22:00.348Z",
-      "errorMessage": "Cannot create property 'description' on string ''\nCannot create property 'link' on string ''\nCannot create property 'link' on string ''\nCannot create property 'description' on string ''\n",
+      "errorMessage": "Failed to fetch\nCannot create property 'link' on string ''\nCannot create property 'link' on string ''\nCannot create property 'description' on string '\"\"'\n",
       "id": "55050469790023681",
       "image": null,
       "ownerUserId": null,

@@ -55,7 +55,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 466,
+  "heat": 459,
   "location": "news.ts",
   "maintainers": [
     "yy4382"
@@ -79,8 +79,8 @@
   "topFeeds": [
     {
       "description": "今日推荐 - 游民星空 - Powered by RSSHub",
-      "errorAt": "2026-08-12T07:54:30.725Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'substring')\nCannot read properties of undefined (reading 'substring')\nCannot read properties of undefined (reading 'substring')\nCannot read properties of undefined (reading 'substring')\nCannot read properties of undefined (reading 'substring')\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "57683409701121024",
       "image": null,
       "ownerUserId": null,

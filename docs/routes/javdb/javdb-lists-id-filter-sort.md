@@ -55,7 +55,7 @@
   "features": {
     "nsfw": true
   },
-  "heat": 40,
+  "heat": 41,
   "location": "lists.ts",
   "maintainers": [
     "dddepg"

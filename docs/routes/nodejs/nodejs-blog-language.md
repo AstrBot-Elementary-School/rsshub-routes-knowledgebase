@@ -69,7 +69,7 @@ Official RSS Source: <https://nodejs.org/en/feed/blog.xml>
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 48,
+  "heat": 47,
   "location": "blog.ts",
   "maintainers": [
     "nczitzk"
@@ -105,8 +105,8 @@ Official RSS Source: <https://nodejs.org/en/feed/blog.xml>
     },
     {
       "description": "News - Node.js - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-12T22:20:59.017Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "72473659742656512",
       "image": null,
       "ownerUserId": null,

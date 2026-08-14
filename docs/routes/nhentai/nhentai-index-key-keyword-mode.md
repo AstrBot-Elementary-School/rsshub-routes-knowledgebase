@@ -78,8 +78,8 @@ _None_
   "topFeeds": [
     {
       "description": "hentai - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-13T05:09:36.837Z",
+      "errorMessage": "[GET] \"https://nhentai.net/artist/doji-ro/\": 451 Unavailable For Legal Reasons\n",
       "id": "56236591640943616",
       "image": null,
       "ownerUserId": null,

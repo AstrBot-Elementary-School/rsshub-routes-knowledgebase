@@ -37,7 +37,7 @@ _None_
     "popular"
   ],
   "example": "/500px/tribe/set/f5de0b8aa6d54ec486f5e79616418001",
-  "heat": 7685,
+  "heat": 7692,
   "location": "tribe-set.tsx",
   "maintainers": [
     "TonyRL"

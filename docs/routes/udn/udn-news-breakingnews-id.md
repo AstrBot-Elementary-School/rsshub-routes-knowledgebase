@@ -92,8 +92,8 @@
     },
     {
       "description": "udn.com 提供即時新聞以及豐富的政治、社會、地方、兩岸、國際、財經、數位、運動、NBA、娛樂、生活、健康、旅遊新聞，以最即時、多元的內容，滿足行動世代的需求 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-13T04:57:57.218Z",
+      "errorMessage": "Cannot read properties of undefined (reading 'includes')\n",
       "id": "62014591710445580",
       "image": null,
       "ownerUserId": null,

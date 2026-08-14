@@ -60,7 +60,7 @@ _None_
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 314,
+  "heat": 313,
   "location": "music/playlist.ts",
   "maintainers": [
     "DIYgod"

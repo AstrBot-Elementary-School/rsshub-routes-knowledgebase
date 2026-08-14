@@ -97,8 +97,8 @@ For example:
     },
     {
       "description": "blue_archive - Powered by RSSHub",
-      "errorAt": "2026-08-11T07:09:59.044Z",
-      "errorMessage": "[GET] \"https://mmda.booru.org/index.php?page=post&s=list&tags=blue_archive\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "84529539746481152",
       "image": null,
       "ownerUserId": null,

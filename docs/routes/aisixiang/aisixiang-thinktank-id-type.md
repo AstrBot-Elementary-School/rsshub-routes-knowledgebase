@@ -71,8 +71,8 @@ _None_
   "topFeeds": [
     {
       "description": "陈嘉映，1952年出生于上海。宾夕法尼亚州立大学博士。曾任教于北京大学、华东师范大学，现为首都师范大学哲学系特聘教授，外国哲学学科专业负责人。主要研究领域为分析哲学、现象学和科学哲学。著有《海德格尔哲学概论》、《语言哲学》、《思远道》、《泠风集》、《哲学 科学 常识》等。（<a href=\"http://www.aisixiang.com/data/detail.php?id=22792\" target=\"_blank\"><font color=#990033><u>陈嘉映简介</u></font></a>） - Powered by RSSHub",
-      "errorAt": "2026-08-11T23:07:29.808Z",
-      "errorMessage": "[GET] \"https://www.aisixiang.com/thinktank/chenjiaying.html\": <no response> fetch failed (Connect Timeout Error (attempted address: www.aisixiang.com:443, timeout: 10000ms))\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "98011535417850905",
       "image": "https://oss.aisixiang.com/images/logo_thinktank.jpg",
       "ownerUserId": null,

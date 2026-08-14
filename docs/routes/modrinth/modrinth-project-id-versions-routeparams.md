@@ -116,16 +116,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "An all-in-one solution that works - Powered by RSSHub",
+      "description": "Modern desktop graphics application framework and low-level 3D graphics engine - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "123852430344537088",
+      "id": "120292329928510464",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/gG7VFbG0",
-      "title": "TAB Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/modern-ui",
+      "title": "Modern UI Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/gG7VFbG0/versions"
+      "url": "rsshub://modrinth/project/modern-ui/versions"
     }
   ]
 }

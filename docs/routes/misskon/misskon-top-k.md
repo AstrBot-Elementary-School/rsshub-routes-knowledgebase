@@ -70,7 +70,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 372,
+  "heat": 373,
   "location": "top.ts",
   "maintainers": [
     "Urabartin"
@@ -116,8 +116,8 @@ _None_
   "topFeeds": [
     {
       "description": "The most viewed photos in the past 2 months. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-13T06:32:21.378Z",
+      "errorMessage": "[GET] \"https://misskon.com/top60/\": 403 Forbidden\n[GET] \"https://misskon.com/top60/\": 403 Forbidden\n[GET] \"https://misskon.com/top60/\": 403 Forbidden\n[GET] \"https://misskon.com/top60/\": 403 Forbidden\n",
       "id": "70259303892775936",
       "image": null,
       "ownerUserId": null,
@@ -128,8 +128,8 @@ _None_
     },
     {
       "description": "The most viewed photos of the past week. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-13T06:29:39.760Z",
+      "errorMessage": "[GET] \"https://misskon.com/top7/\": 403 Forbidden\n[GET] \"https://misskon.com/top7/\": 403 Forbidden\n[GET] \"https://misskon.com/top7/\": 403 Forbidden\n",
       "id": "75526635626105856",
       "image": null,
       "ownerUserId": null,

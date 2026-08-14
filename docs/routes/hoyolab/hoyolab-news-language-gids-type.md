@@ -75,7 +75,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 54,
+  "heat": 75,
   "location": "news.tsx",
   "maintainers": [
     "ZenoTian"

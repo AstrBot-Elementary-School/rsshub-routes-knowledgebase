@@ -70,12 +70,12 @@ _None_
   "topFeeds": [
     {
       "description": "search 新片速递 - u3c3 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-12T15:00:37.581Z",
+      "errorMessage": "[GET] \"https://www.u3c3.com\": 502 Bad Gateway\n",
       "id": "68549075258311680",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.u3c3.com/?search2=milo8uri&search=%E6%96%B0%E7%89%87%E9%80%9F%E9%80%92",
+      "siteUrl": "https://www.u3c3.com/?search2=jpcz01ev&search=%E6%96%B0%E7%89%87%E9%80%9F%E9%80%92",
       "title": "search 新片速递 - u3c3",
       "type": "feed",
       "url": "rsshub://u3c3/search/%E6%96%B0%E7%89%87%E9%80%9F%E9%80%92"
@@ -87,7 +87,7 @@ _None_
       "id": "131696291531404288",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.u3c3.com/?search2=mmzt6n6c&search=U3C3",
+      "siteUrl": "https://www.u3c3.com/?search2=iqwebdgt&search=U3C3",
       "title": "search U3C3 - u3c3",
       "type": "feed",
       "url": "rsshub://u3c3/search/U3C3"

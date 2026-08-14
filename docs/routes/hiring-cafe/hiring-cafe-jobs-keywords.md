@@ -74,18 +74,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Job search results for \"C++\" on HiringCafe - Powered by RSSHub",
-      "errorAt": "2025-10-16T18:47:23.809Z",
-      "errorMessage": "[POST] \"https://hiring.cafe/api/search-jobs\": 429 Too Many Requests\n",
-      "id": "111907108448833536",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://hiring.cafe/jobs?q=C%2B%2B",
-      "title": "HiringCafe Jobs: C++",
-      "type": "feed",
-      "url": "rsshub://hiring.cafe/jobs/C++"
-    },
-    {
       "description": "Job search results for \"opengl\" on HiringCafe - Powered by RSSHub",
       "errorAt": "2025-10-16T18:35:35.661Z",
       "errorMessage": "[POST] \"https://hiring.cafe/api/search-jobs\": 429 Too Many Requests\n",
@@ -96,6 +84,18 @@ _None_
       "title": "HiringCafe Jobs: opengl",
       "type": "feed",
       "url": "rsshub://hiring.cafe/jobs/opengl"
+    },
+    {
+      "description": "Job search results for \"C++\" on HiringCafe - Powered by RSSHub",
+      "errorAt": "2025-10-16T18:47:23.809Z",
+      "errorMessage": "[POST] \"https://hiring.cafe/api/search-jobs\": 429 Too Many Requests\n",
+      "id": "111907108448833536",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://hiring.cafe/jobs?q=C%2B%2B",
+      "title": "HiringCafe Jobs: C++",
+      "type": "feed",
+      "url": "rsshub://hiring.cafe/jobs/C++"
     }
   ]
 }

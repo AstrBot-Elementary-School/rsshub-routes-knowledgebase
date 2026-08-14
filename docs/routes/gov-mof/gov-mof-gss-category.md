@@ -93,8 +93,8 @@
     },
     {
       "description": "政策解读 - 中华人民共和国财政部 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-12T16:16:02.760Z",
+      "errorMessage": "[GET] \"https://gss.mof.gov.cn/gzdt/zhengcejiedu/\": 502 Bad Gateway\n",
       "id": "145117484898967552",
       "image": null,
       "ownerUserId": null,

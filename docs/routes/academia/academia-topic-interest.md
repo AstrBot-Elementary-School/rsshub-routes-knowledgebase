@@ -39,7 +39,7 @@ _None_
     "journal"
   ],
   "example": "/academia/topic/Urban_History",
-  "heat": 443,
+  "heat": 442,
   "location": "topics.ts",
   "maintainers": [
     "K33k0",

@@ -63,7 +63,7 @@ _None_
       "id": "56597410818564096",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://leetcode.cn/problems/length-of-longest-subarray-with-at-most-k-frequency/",
+      "siteUrl": "https://leetcode.cn/problems/longest-substring-of-one-repeating-character/",
       "title": "LeetCode 每日一题题解",
       "type": "feed",
       "url": "rsshub://leetcode/dailyquestion/solution/cn"

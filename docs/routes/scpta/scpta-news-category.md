@@ -98,16 +98,16 @@
       "url": "rsshub://scpta/news/67"
     },
     {
-      "description": "通知公告 - 工作动态 - Powered by RSSHub",
-      "errorAt": "2026-02-06T08:05:22.521Z",
-      "errorMessage": "[GET] \"https://www.scpta.com.cn/front/News/List/33\": <no response> fetch failed (Connect Timeout Error (attempted address: www.scpta.com.cn:443, timeout: 10000ms))\n",
-      "id": "178439478979079168",
+      "description": "通知公告 - 公务员考试 - Powered by RSSHub",
+      "errorAt": "2026-02-01T16:35:50.258Z",
+      "errorMessage": "[GET] \"https://www.scpta.com.cn/front/News/List/56\": <no response> fetch failed (Connect Timeout Error (attempted address: www.scpta.com.cn:443, timeout: 10000ms))\n",
+      "id": "178439737513011200",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.scpta.com.cn/front/News/List/33",
-      "title": "通知公告 - 工作动态",
+      "siteUrl": "https://www.scpta.com.cn/front/News/List/56",
+      "title": "通知公告 - 公务员考试",
       "type": "feed",
-      "url": "rsshub://scpta/news/33"
+      "url": "rsshub://scpta/news/56"
     }
   ]
 }

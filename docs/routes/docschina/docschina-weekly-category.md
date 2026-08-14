@@ -84,8 +84,8 @@ _None_
     },
     {
       "description": "印记中文 - 深入挖掘国外前端新领域，为国内 Web 前端开发人员提供优质文档！ - Powered by RSSHub",
-      "errorAt": "2026-07-05T11:50:31.390Z",
-      "errorMessage": "[GET] \"https://docschina.org/news/weekly/node\": <no response> fetch failed (certificate has expired)\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "70318276834867203",
       "image": null,
       "ownerUserId": null,

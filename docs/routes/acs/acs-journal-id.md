@@ -81,16 +81,16 @@ See [Browse Content](https://pubs.acs.org)
       "url": "rsshub://acs/journal/esthag"
     },
     {
-      "description": "Journal of Chemical Theory and Computation - Powered by RSSHub",
-      "errorAt": "2026-07-27T09:43:52.187Z",
-      "errorMessage": "Failed to fetch\n",
-      "id": "1161502729202171904",
+      "description": null,
+      "errorAt": "2025-09-19T00:56:58.043Z",
+      "errorMessage": "Waiting for selector `.toc` failed: waitForFunction failed: frame got detached.\n",
+      "id": "191666157347082242",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://pubs.acs.org/toc/jctcce/0/0",
-      "title": "Journal of Chemical Theory and Computation",
+      "siteUrl": null,
+      "title": "Importing",
       "type": "feed",
-      "url": "rsshub://acs/journal/jctcce"
+      "url": "rsshub://acs/journal/jacsat"
     }
   ]
 }

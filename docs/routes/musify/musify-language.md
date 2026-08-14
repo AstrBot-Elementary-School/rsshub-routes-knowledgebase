@@ -117,8 +117,8 @@ To subscribe to [Latest](https://musify.club/en), where the source URL is `https
   "topFeeds": [
     {
       "description": "Проверка браузера… - Powered by RSSHub",
-      "errorAt": "2026-08-11T18:26:15.060Z",
-      "errorMessage": "200 ",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "164874302196685824",
       "image": "https://s.musify.club/images/logo.png",
       "ownerUserId": null,

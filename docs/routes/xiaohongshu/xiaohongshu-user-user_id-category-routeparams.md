@@ -55,7 +55,7 @@ _None_
     ],
     "requirePuppeteer": true
   },
-  "heat": 1394205,
+  "heat": 1394204,
   "location": "user.ts",
   "maintainers": [
     "lotosbin",
@@ -114,7 +114,7 @@ _None_
     {
       "description": "女摄/杭州 10+ 关注 1万+ 粉丝 1万+ 获赞与收藏 - Powered by RSSHub",
       "errorAt": "2025-12-09T12:40:34.349Z",
-      "errorMessage": "Failed to fetch\n522 \nFailed to fetch\n[GET] \"https://cloudflarebypassforscraping.rss3.workers.dev/html?url=https%3A%2F%2Fwww.xiaohongshu.com%2Fuser%2Fprofile%2F652baa23000000002a034939\": 500 Internal Server Error\n",
+      "errorMessage": "Failed to fetch\n522 \nFailed to fetch\nFailed to fetch\n",
       "id": "68661468126774272",
       "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo30q8atfr8n6005p9bl8hqmi9p1q1h18o?imageView2/2/w/540/format/webp",
       "ownerUserId": null,

@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 166,
+  "heat": 165,
   "location": "author.ts",
   "maintainers": [
     "SunShinenny",

@@ -79,8 +79,8 @@
   "topFeeds": [
     {
       "description": "合肥工业大学宣城校区 - 通知公告 - Powered by RSSHub",
-      "errorAt": "2026-01-17T05:19:55.494Z",
-      "errorMessage": "[GET] \"https://xc.hfut.edu.cn/1955/list.htm\": <no response> fetch failed\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "70743382882009088",
       "image": null,
       "ownerUserId": null,

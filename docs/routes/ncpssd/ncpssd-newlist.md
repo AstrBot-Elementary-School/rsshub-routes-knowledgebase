@@ -39,7 +39,7 @@ _None_
     "study"
   ],
   "example": "/ncpssd/newlist",
-  "heat": 30,
+  "heat": 28,
   "location": "newlist.ts",
   "maintainers": [
     "LyleLee"

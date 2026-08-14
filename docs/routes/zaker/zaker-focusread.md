@@ -39,7 +39,7 @@ _None_
     "other"
   ],
   "example": "/zaker/focusread",
-  "heat": 300,
+  "heat": 299,
   "location": "focus.ts",
   "maintainers": [
     "AlexdanerZe",

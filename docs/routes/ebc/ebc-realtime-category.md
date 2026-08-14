@@ -77,8 +77,8 @@ _None_
   "topFeeds": [
     {
       "description": "東森新聞|即時 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-13T06:48:59.010Z",
+      "errorMessage": "Authentication failed. Access denied.\n/ebc/realtime/politics\nBad control character in string literal in JSON at position 1505 (line 23 column 30)\n",
       "id": "105752020320057344",
       "image": null,
       "ownerUserId": null,
@@ -89,8 +89,8 @@ _None_
     },
     {
       "description": "東森新聞|即時 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-12T19:18:30.439Z",
+      "errorMessage": "Bad control character in string literal in JSON at position 1505 (line 23 column 30)\n",
       "id": "105751285441409024",
       "image": null,
       "ownerUserId": null,
