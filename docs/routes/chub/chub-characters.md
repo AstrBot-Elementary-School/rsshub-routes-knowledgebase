@@ -39,7 +39,7 @@ _None_
   "features": {
     "nsfw": true
   },
-  "heat": 42,
+  "heat": 43,
   "location": "characters.ts",
   "maintainers": [
     "flameleaf"

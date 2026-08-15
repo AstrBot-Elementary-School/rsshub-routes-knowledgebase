@@ -84,7 +84,7 @@ Fetches the Locals content library with an authenticated session cookie. By defa
     {
       "description": "Locals content feed for Matt Fradd (video) - Powered by RSSHub",
       "errorAt": "2026-05-28T09:11:34.821Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nLocals RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\n",
+      "errorMessage": "Unable to locate the current Locals serverApi asset.\nLocals RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\n",
       "id": "261276499558545408",
       "image": "https://media3.locals.com/images/groups/52374/52374_ceunm7ccudql7dr_big.jpeg",
       "ownerUserId": null,

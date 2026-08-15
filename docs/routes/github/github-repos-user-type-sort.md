@@ -89,16 +89,16 @@ _None_
       "url": "rsshub://github/repos/Quorafind"
     },
     {
-      "description": "ZHO-ZHO-ZHO's GitHub repositories - Powered by RSSHub",
+      "description": "opendatalab's GitHub repositories - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "135939109364459520",
+      "id": "59875311102368768",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/ZHO-ZHO-ZHO",
-      "title": "ZHO-ZHO-ZHO's GitHub repositories",
+      "siteUrl": "https://github.com/opendatalab",
+      "title": "opendatalab's GitHub repositories",
       "type": "feed",
-      "url": "rsshub://github/repos/ZHO-ZHO-ZHO"
+      "url": "rsshub://github/repos/opendatalab"
     }
   ]
 }

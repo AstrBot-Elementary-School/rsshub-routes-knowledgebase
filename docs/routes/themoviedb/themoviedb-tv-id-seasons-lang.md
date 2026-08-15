@@ -78,16 +78,16 @@ _None_
       "url": "rsshub://themoviedb/tv/70593/seasons"
     },
     {
-      "description": "The Targaryen dynasty is at the absolute apex of its power, with more than 15 dragons under their yoke. Most empires crumble from such heights. In the case of the Targaryens, their slow fall begins when King Viserys breaks with a century of tradition by naming his daughter Rhaenyra heir to the Iron Throne. But when Viserys later fathers a son, the court is shocked when Rhaenyra retains her status as his heir, and seeds of division sow friction across the realm. - Powered by RSSHub",
+      "description": "The story centers on a little girl called Sana, who is one of the children that holds the power of \"Alice's Dream,\" an ability that enables her to materialize anything she imagines. After escaping a lab where she was a test subject, Sana ends up in a normal world where she encounters an old man named Zouroku, but will he help her? - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "82918240259880960",
-      "image": "https://image.tmdb.org/t/p/original/oxmdHR5Ka28HAJuMmS2hk5K6QQY.jpg",
+      "id": "97909208124315648",
+      "image": "https://image.tmdb.org/t/p/original/aHYmjLTc5niV7uuTBmIz4oTrSx6.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://www.themoviedb.org/tv/94997/seasons",
-      "title": "House of the Dragon - Seasons — TMDB",
+      "siteUrl": "https://www.themoviedb.org/tv/70594/seasons",
+      "title": "Alice & Zoroku - Seasons — TMDB",
       "type": "feed",
-      "url": "rsshub://themoviedb/tv/94997-house-of-the-dragon/seasons"
+      "url": "rsshub://themoviedb/tv/70594/seasons"
     }
   ],
   "view": 5

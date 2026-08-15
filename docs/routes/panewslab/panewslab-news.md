@@ -60,7 +60,7 @@ _None_
     {
       "description": "PANews - 快讯 - Powered by RSSHub",
       "errorAt": "2026-03-19T16:21:55.279Z",
-      "errorMessage": "[GET] \"https://panewslab.com/webapi/flashnews?LId=1&Rn=50&tw=0\": 404 Not Found\n[GET] \"https://panewslab.com/webapi/flashnews?LId=1&Rn=50&tw=0\": <no response> fetch failed (Connect Timeout Error (attempted address: panewslab.com:443, timeout: 10000ms))\n",
+      "errorMessage": "[GET] \"https://panewslab.com/webapi/flashnews?LId=1&Rn=50&tw=0\": 404 Not Found\n[GET] \"https://panewslab.com/webapi/flashnews?LId=1&Rn=50&tw=0\": 404 Not Found\n",
       "id": "56552117750210620",
       "image": null,
       "ownerUserId": null,

@@ -948,8 +948,8 @@
   "topFeeds": [
     {
       "description": "行政处罚决定 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-13T18:37:47.083Z",
+      "errorMessage": "[GET] \"http://www.csrc.gov.cn/getLocalList?channelCode=c101971\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 60.200.32.44:80, 60.200.32.50:80, 60.200.32.43:80, 60.200.32.48:80, 60.200.32.45:80, 60.200.32.46:80, 60.200.32.49:80, 60.200.32.47:80, timeout: 10000ms))\n",
       "id": "65722745603688448",
       "image": "http://www.csrc.gov.cn/csrc/xhtml/images/zfxxgk/icons_logo.png?v=1.0?v=1.0",
       "ownerUserId": null,
@@ -960,8 +960,8 @@
     },
     {
       "description": "综合政务 - Powered by RSSHub",
-      "errorAt": "2026-08-12T19:03:38.518Z",
-      "errorMessage": "[GET] \"http://www.csrc.gov.cn/getLocalList?channelCode=c101794\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 117.126.128.9:80, 117.126.128.13:80, 117.126.128.15:80, 117.126.128.16:80, 117.126.128.14:80, 117.126.128.11:80, 117.126.128.12:80, 117.126.128.10:80, timeout: 10000ms))\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "66728516715627520",
       "image": "http://www.csrc.gov.cn/csrc/xhtml/images/zfxxgk/icons_logo.png?v=1.0?v=1.0",
       "ownerUserId": null,

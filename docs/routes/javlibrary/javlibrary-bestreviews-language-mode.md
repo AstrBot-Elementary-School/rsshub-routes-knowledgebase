@@ -55,7 +55,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 77,
+  "heat": 76,
   "location": "bestreviews.ts",
   "maintainers": [
     "nczitzk"

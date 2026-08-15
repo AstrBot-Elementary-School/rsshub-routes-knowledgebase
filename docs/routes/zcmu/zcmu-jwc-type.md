@@ -67,18 +67,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "教务处 -- 选课管理 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "84227265299092493",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://jwc.zcmu.edu.cn/jwgl/xkgl",
-      "title": "教务处 -- 选课管理",
-      "type": "feed",
-      "url": "rsshub://zcmu/jwc/4"
-    },
-    {
       "description": "教务处 -- 教务管理 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -89,6 +77,18 @@ _None_
       "title": "教务处 -- 教务管理",
       "type": "feed",
       "url": "rsshub://zcmu/jwc/0"
+    },
+    {
+      "description": "教务处 -- 选课管理 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "84227265299092493",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://jwc.zcmu.edu.cn/jwgl/xkgl",
+      "title": "教务处 -- 选课管理",
+      "type": "feed",
+      "url": "rsshub://zcmu/jwc/4"
     }
   ]
 }

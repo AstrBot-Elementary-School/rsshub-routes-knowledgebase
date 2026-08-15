@@ -40,7 +40,7 @@ _None_
     "popular"
   ],
   "example": "/anthropic/research",
-  "heat": 2942,
+  "heat": 2959,
   "location": "research.ts",
   "maintainers": [
     "ttttmr"
@@ -63,8 +63,8 @@ _None_
   "topFeeds": [
     {
       "description": "Latest research from Anthropic - Powered by RSSHub",
-      "errorAt": "2026-08-13T04:10:44.665Z",
-      "errorMessage": "200 ",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "160743780570397696",
       "image": null,
       "ownerUserId": null,

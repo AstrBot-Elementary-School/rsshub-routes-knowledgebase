@@ -78,8 +78,8 @@ _None_
   "topFeeds": [
     {
       "description": "hentai - Powered by RSSHub",
-      "errorAt": "2026-08-13T05:09:36.837Z",
-      "errorMessage": "[GET] \"https://nhentai.net/artist/doji-ro/\": 451 Unavailable For Legal Reasons\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "56236591640943616",
       "image": null,
       "ownerUserId": null,
@@ -92,13 +92,13 @@ _None_
       "description": "hentai - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "55635543915975680",
+      "id": "55275502392080384",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://nhentai.net/language/chinese/",
       "title": "nhentai - language - chinese",
       "type": "feed",
-      "url": "rsshub://nhentai/index/language/chinese/detail"
+      "url": "rsshub://nhentai/index/language/chinese"
     }
   ]
 }

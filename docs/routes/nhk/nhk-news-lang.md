@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1123,
+  "heat": 1122,
   "location": "news.tsx",
   "maintainers": [
     "TonyRL",

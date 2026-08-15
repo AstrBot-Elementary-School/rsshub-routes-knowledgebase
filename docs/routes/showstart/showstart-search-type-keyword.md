@@ -106,16 +106,16 @@ _None_
       "url": "rsshub://showstart/search/city/%E4%B8%8A%E6%B5%B7"
     },
     {
-      "description": "秀动网 - 搜演出 - Fine乐团 - Powered by RSSHub",
+      "description": "秀动网 - 搜艺人 - 声音玩具 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "73918360042176533",
+      "id": "220803179682283520",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.showstart.com/",
-      "title": "秀动网 - 搜演出 - Fine乐团",
+      "title": "秀动网 - 搜艺人 - 声音玩具",
       "type": "feed",
-      "url": "rsshub://showstart/search/Fine%E4%B9%90%E5%9B%A2"
+      "url": "rsshub://showstart/search/artist/%E5%A3%B0%E9%9F%B3%E7%8E%A9%E5%85%B7"
     }
   ]
 }

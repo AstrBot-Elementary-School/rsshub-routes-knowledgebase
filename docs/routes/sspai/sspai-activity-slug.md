@@ -89,8 +89,8 @@ _None_
     },
     {
       "description": "少数派用户「西郊次生林」的动态更新 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-14T02:13:14.466Z",
+      "errorMessage": "502 Bad Gateway\nUnknown action key: community_reply_topic_comment_reply\n",
       "id": "143174175969882112",
       "image": null,
       "ownerUserId": null,

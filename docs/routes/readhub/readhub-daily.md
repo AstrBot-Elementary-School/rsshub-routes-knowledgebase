@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4809,
+  "heat": 4811,
   "location": "daily.ts",
   "maintainers": [
     "nczitzk",
@@ -73,7 +73,7 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "1. DeepSeek V4 Pro 正式上线 2. SpaceXAI 发布 Grok 4.6 模型 剑指 GPT-5.6 Sol 3. 阿里千问前技术负责人林俊旸宣布创办 Pragmatik，获腾讯等投资 4. 腾讯控股：二季度录得负自由现金流人民币 138 亿元 5. 腾讯总裁刘炽平：微信将成为以 AI 为先的生态系统，未来能转化为巨大价值 6. 马斯克：AI 收入下月将超越 SpaceX 全部其他业务 7. 封禁 3 年后 美国政府设备重新允许使用 TikTok 8. 机构称长江存储市占率首次跻身全球第三 9. 谷歌：Gemini 月活用户数超过 10 亿 10. 黄仁勋澄清 5000 亿美元融资计划细节，英伟达信用风险回落 11. 豆包宣布推出学生优惠活动 12. 上半年中国人形机器人出货量全球占比超 97% 13. 三星在半导体研发中引入 Claude 模型 耗时一月的设计验证缩短至两天 14. OpenAI 正式发布 Linux 版 ChatGPT 预览应用 15. 星巴克回应「蜜雪冰城代工」：对市场传闻和猜测不作评论 16. 西湖机器人半年 4 轮融资、总额 5 亿元，押注具身智能「GPT 时刻」 - Powered by RSSHub",
+      "description": "1. DeepSeek Harness 开发者预览版开放测试 2. 长鑫科技超越腾讯，成中国市值最大上市公司 3. Anthropic 或将于 10 月上市，或将成史上最大 IPO 4. SpaceXAI 发布 Grok 4.6 模型 剑指 GPT-5.6 Sol 5. GPT-5.6 Sol 超高速模式已向部分客户群体开放有限预览 6. 腾讯启动顶尖 AI 产品人才招聘专项 7. 和硕间接确认：苹果 iPhone 18 Pro 今秋发布，标准版推迟至明年发布 8. 网传英伟达欲投资中际旭创、新易盛 9. 苹果洽谈向出版商付费，优化人工智能 Siri 10. Anthropico 据悉正在洽谈以 60 亿美元收购人工智能初创公司 DeCart 11. DeepSeek 调价方案公布 8 月 17 日生效 12. 维基百科遭恶意篡改，谷歌误报 OpenAI CEO 奥尔特曼死讯 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "52347176714948614",

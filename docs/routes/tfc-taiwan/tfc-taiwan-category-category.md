@@ -39,7 +39,7 @@ _None_
   ],
   "description": "| 謠言風向球 | 議題觀察室        | TOP10                 | 名家專欄       | 國際視野             |\n| ---------- | ----------------- | --------------------- | -------------- | -------------------- |\n| rumor-mill | issue-observatory | weekly-top-ten-rumors | expert-columns | research-and-updates |",
   "example": "/tfc-taiwan/category/weekly-top-ten-rumors",
-  "heat": 3,
+  "heat": 2,
   "location": "category.ts",
   "maintainers": [
     "TonyRL"

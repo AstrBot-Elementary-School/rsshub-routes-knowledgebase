@@ -63,6 +63,18 @@ _None_
       "description": "Literature Search - INSPIRE - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
+      "id": "69965125338796044",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20Geoffrey.R.Penington.",
+      "title": "Literature Search - INSPIRE",
+      "type": "feed",
+      "url": "rsshub://inspirehep/literature/a%20Geoffrey.R.Penington."
+    },
+    {
+      "description": "Literature Search - INSPIRE - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "69965125338796048",
       "image": null,
       "ownerUserId": null,
@@ -70,18 +82,6 @@ _None_
       "title": "Literature Search - INSPIRE",
       "type": "feed",
       "url": "rsshub://inspirehep/literature/a%20R.C.Myers.1"
-    },
-    {
-      "description": "Literature Search - INSPIRE - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "69965125338796037",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20T.Takayanagi.1",
-      "title": "Literature Search - INSPIRE",
-      "type": "feed",
-      "url": "rsshub://inspirehep/literature/a%20T.Takayanagi.1"
     }
   ]
 }

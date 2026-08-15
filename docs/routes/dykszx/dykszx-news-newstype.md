@@ -79,8 +79,8 @@
   "topFeeds": [
     {
       "description": "德阳人事考试网 考试新闻发布 (新闻中心) - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-14T00:09:43.496Z",
+      "errorMessage": "[GET] \"https://www.dykszx.cn/index.php?id=3132\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 222.213.85.69:443, 240e:699:1c01:712:5298:3ab3:6d3:1b5b:443, timeout: 10000ms))\n",
       "id": "61102289930311680",
       "image": null,
       "ownerUserId": null,

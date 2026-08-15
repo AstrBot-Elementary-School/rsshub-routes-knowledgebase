@@ -158,14 +158,14 @@
   },
   "topFeeds": [
     {
-      "description": "千亿级铁矿石贸易巨头伪造票据/融资文件？！多家中国贸易商和钢厂已叫停合作 - Powered by RSSHub",
+      "description": "3大痛点催生出海新变局！央企苏美达牵手南京国资成立国际贸易公司，蹚出地方国贸突围新路径 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "138893356640117760",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://info.10000link.com/newslists.aspx?chid=My01",
-      "title": "10000万联网 - 千亿级铁矿石贸易巨头伪造票据/融资文件？！多家中国贸易商和钢厂已叫停合作",
+      "title": "10000万联网 - 3大痛点催生出海新变局！央企苏美达牵手南京国资成立国际贸易公司，蹚出地方国贸突围新路径",
       "type": "feed",
       "url": "rsshub://10000link/info/newslists/My01"
     },

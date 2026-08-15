@@ -72,8 +72,8 @@ _None_
   "topFeeds": [
     {
       "description": "Loading... - Powered by RSSHub",
-      "errorAt": "2026-08-12T23:06:21.548Z",
-      "errorMessage": "[GET] \"https://www.56kog.com/class/7_1.html\": <no response> fetch failed (self-signed certificate; if the root CA is installed locally, try running Node.js with --use-system-ca)\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "164538769126922240",
       "image": null,
       "ownerUserId": null,

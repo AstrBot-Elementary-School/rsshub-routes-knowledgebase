@@ -69,7 +69,7 @@ _None_
     {
       "description": "文化 - Powered by RSSHub",
       "errorAt": "2026-08-13T04:17:22.172Z",
-      "errorMessage": "[GET] \"https://www.lifeweek.com.cn/api/userWebFollow/getFollowTagContentList?type=3&sort=2&tagId=4\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 182.51.127.57:443, 182.51.127.54:443, 182.51.127.63:443, 182.51.127.61:443, 182.51.127.60:443, 182.51.127.55:443, 182.51.127.62:443, 182.51.127.56:443, timeout: 10000ms))\n",
+      "errorMessage": "[GET] \"https://www.lifeweek.com.cn/api/userWebFollow/getFollowTagContentList?type=3&sort=2&tagId=4\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 45.253.17.15:443, 45.253.17.13:443, 45.253.17.19:443, 45.253.17.18:443, 45.253.17.16:443, 45.253.17.20:443, 45.253.17.17:443, 45.253.17.14:443, timeout: 10000ms))\n",
       "id": "74705665643397120",
       "image": null,
       "ownerUserId": null,

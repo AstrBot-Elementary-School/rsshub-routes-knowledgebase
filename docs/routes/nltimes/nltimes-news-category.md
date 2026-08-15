@@ -91,16 +91,16 @@
       "url": "rsshub://nltimes/news/top-stories"
     },
     {
-      "description": "NL Times -- Top Stories - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "187417269928465408",
+      "description": "NL Times -- Politics - Powered by RSSHub",
+      "errorAt": "2026-08-14T06:36:42.282Z",
+      "errorMessage": "[GET] \"https://www.nltimes.nl/categories/politics\": 403 Forbidden\n",
+      "id": "180670433614968832",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.nltimes.nl/top-stories",
-      "title": "NL Times -- Top Stories",
+      "siteUrl": "https://www.nltimes.nl/categories/politics",
+      "title": "NL Times -- Politics",
       "type": "feed",
-      "url": "rsshub://nltimes/news"
+      "url": "rsshub://nltimes/news/politics"
     }
   ]
 }

@@ -115,16 +115,16 @@ _None_
       "url": "rsshub://furaffinity/art/gallery/oddeyresproductions/nsfw"
     },
     {
-      "description": "Fur Affinity Gallery of smellslikejavier - Powered by RSSHub",
-      "errorAt": "2026-05-25T23:32:52.338Z",
-      "errorMessage": "[GET] \"https://faexport.spangle.org.uk/user/smellslikejavier/gallery.json?full=1\": 500 Internal Server Error\n[GET] \"https://faexport.spangle.org.uk/user/smellslikejavier/gallery.json?full=1\": 500 Internal Server Error\n",
-      "id": "79208716709173248",
+      "description": "Fur Affinity Gallery of chesshire88 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "191942200074407936",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.furaffinity.net/gallery/smellslikejavier",
-      "title": "Fur Affinity | Gallery of smellslikejavier",
+      "siteUrl": "https://www.furaffinity.net/gallery/chesshire88",
+      "title": "Fur Affinity | Gallery of chesshire88",
       "type": "feed",
-      "url": "rsshub://furaffinity/art/gallery/smellslikejavier/nsfw"
+      "url": "rsshub://furaffinity/art/gallery/chesshire88/nsfw"
     }
   ],
   "url": "furaffinity.net"

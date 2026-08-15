@@ -88,16 +88,16 @@ _None_
       "url": "rsshub://luma/langchain"
     },
     {
-      "description": "Eventos Ignia - Powered by RSSHub",
+      "description": "Google Gemma - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "265966934845992960",
+      "id": "265966966744675328",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://lu.ma/ignia",
-      "title": "Eventos Ignia",
+      "siteUrl": "https://lu.ma/gemma-events",
+      "title": "Google Gemma",
       "type": "feed",
-      "url": "rsshub://luma/ignia"
+      "url": "rsshub://luma/gemma-events"
     }
   ],
   "url": "lu.ma"

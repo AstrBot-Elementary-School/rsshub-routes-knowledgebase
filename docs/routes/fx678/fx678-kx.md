@@ -73,8 +73,8 @@ _None_
   "topFeeds": [
     {
       "description": "7x24小时快讯 - Powered by RSSHub",
-      "errorAt": "2026-08-13T06:56:03.763Z",
-      "errorMessage": "Cannot read properties of null (reading 'trim')\nAuthentication failed. Access denied.\n/fx678/kx\nCannot read properties of null (reading 'trim')\nCannot read properties of null (reading 'trim')\n",
+      "errorAt": "2026-08-14T07:14:19.475Z",
+      "errorMessage": "[GET] \"https://vip.fx678.com/special/202608141446009063\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 125.210.229.31:443, 125.210.229.34:443, 125.210.229.20:443, 125.210.229.17:443, 125.210.229.18:443, 125.210.229.19:443, 125.210.229.33:443, 125.210.229.32:443, timeout: 10000ms))\nAuthentication failed. Access denied.\n/fx678/kx\nCannot read properties of null (reading 'trim')\nCannot read properties of null (reading 'trim')\n",
       "id": "57678974871415816",
       "image": null,
       "ownerUserId": null,

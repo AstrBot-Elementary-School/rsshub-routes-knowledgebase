@@ -77,8 +77,8 @@ _None_
   "topFeeds": [
     {
       "description": "Liveuamap - ukraine - Powered by RSSHub",
-      "errorAt": "2026-07-31T00:53:12.045Z",
-      "errorMessage": "[GET] \"https://ukraine.liveuamap.com/\": 403 Forbidden\n[GET] \"https://ukraine.liveuamap.com/\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "59767594613902336",
       "image": null,
       "ownerUserId": null,
@@ -89,8 +89,8 @@ _None_
     },
     {
       "description": "Liveuamap - china - Powered by RSSHub",
-      "errorAt": "2026-08-10T18:47:20.017Z",
-      "errorMessage": "[GET] \"https://china.liveuamap.com/\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "85175414937704448",
       "image": null,
       "ownerUserId": null,

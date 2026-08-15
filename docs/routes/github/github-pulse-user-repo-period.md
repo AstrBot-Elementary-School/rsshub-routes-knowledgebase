@@ -79,16 +79,16 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "datawhalechina/llm-universe weekly Pulse - Powered by RSSHub",
+      "description": "2noise/ChatTTS weekly Pulse - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "137417584044606464",
+      "id": "220767323256864792",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/datawhalechina/llm-universe/pulse/weekly",
-      "title": "datawhalechina/llm-universe weekly Pulse",
+      "siteUrl": "https://github.com/2noise/ChatTTS/pulse/weekly",
+      "title": "2noise/ChatTTS weekly Pulse",
       "type": "feed",
-      "url": "rsshub://github/pulse/datawhalechina/llm-universe"
+      "url": "rsshub://github/pulse/2noise/ChatTTS/weekly"
     },
     {
       "description": null,

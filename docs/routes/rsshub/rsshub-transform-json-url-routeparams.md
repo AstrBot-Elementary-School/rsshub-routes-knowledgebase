@@ -103,28 +103,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Proxy https://www.jiqizhixin.com/api/article_library/articles.json - Powered by RSSHub",
+      "description": "Proxy https://api.github.com/repos/dbeaver/dbeaver/releases - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "207824007092203520",
+      "id": "185694635969967104",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.jiqizhixin.com/api/article_library/articles.json",
-      "title": "机器之心",
+      "siteUrl": "https://api.github.com/repos/dbeaver/dbeaver/releases",
+      "title": "dbeaver releases",
       "type": "feed",
-      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fwww.jiqizhixin.com%2Fapi%2Farticle_library%2Farticles.json/title%3D%E6%9C%BA%E5%99%A8%E4%B9%8B%E5%BF%83%26item%3Darticles%26itemTitle%3Dtitle%26itemLink%3Dslug%26itemLinkPrefix%3D%2Farticles%2F%26itemDesc%3Dcontent%26itemPubDate%3DpublishedAt%26itemContent%3Dcontent%26itemJSONPrefix%3D%2Fapi%2Farticle_library%2Farticles%2F"
+      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fapi.github.com%2Frepos%2Fdbeaver%2Fdbeaver%2Freleases/title=dbeaver%20releases&itemTitle=tag_name&itemLink=html_url&itemDesc=body"
     },
     {
-      "description": "Proxy https://api.github.com/repos/zed-industries/zed/releases - Powered by RSSHub",
+      "description": "Proxy https://api.github.com/repos/chainreactors/malice-network/releases - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "185694005069753344",
+      "id": "185693700405294080",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://api.github.com/repos/zed-industries/zed/releases",
-      "title": "zed releases",
+      "siteUrl": "https://api.github.com/repos/chainreactors/malice-network/releases",
+      "title": "IOM releases",
       "type": "feed",
-      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fapi.github.com%2Frepos%2Fzed-industries%2Fzed%2Freleases/title=zed%20releases&itemTitle=tag_name&itemLink=html_url&itemDesc=body"
+      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fapi.github.com%2Frepos%2Fchainreactors%2Fmalice-network%2Freleases/title=IOM%20releases&itemTitle=tag_name&itemLink=html_url&itemDesc=body"
     }
   ]
 }

@@ -50,7 +50,7 @@ _None_
   ],
   "description": "| 供应链 | 快递 | 快运 / 运输 | 仓储 / 地产 | 物流综合 | 国际与跨境物流 | 科技创新 |\n| ------ | ---- | ----------- | ----------- | -------- | -------------- | -------- |\n| 10-16  | 11   | 30          | 9           | 32       | 114            | 107      |\n\n| 绿色供应链 | 低碳物流 | 碳中和碳达峰 |\n| ---------- | -------- | ------------ |\n| 213        | 214      | 215          |",
   "example": "/logclub/news",
-  "heat": 2,
+  "heat": 5,
   "location": "index.ts",
   "maintainers": [
     "nczitzk"
@@ -78,6 +78,18 @@ _None_
     "code": 1
   },
   "topFeeds": [
+    {
+      "description": "罗戈网（www.logclub.com）-物流商业伙伴, - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "114943650671060992",
+      "image": "https://www.logclub.com/public/static/front/images/pc_logo.svg",
+      "ownerUserId": null,
+      "siteUrl": "https://www.logclub.com/news/114",
+      "title": "【罗戈网】国际与跨境物流",
+      "type": "feed",
+      "url": "rsshub://logclub/news/114"
+    },
     {
       "description": "罗戈网（www.logclub.com）-物流商业伙伴, - Powered by RSSHub",
       "errorAt": null,

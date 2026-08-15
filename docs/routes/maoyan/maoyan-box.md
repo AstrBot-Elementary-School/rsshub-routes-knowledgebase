@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "猫眼电影实时票房排行榜 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-13T16:07:34.803Z",
+      "errorMessage": "[GET] \"https://piaofang.maoyan.com/dashboard-ajax\": 403 Forbidden\n[GET] \"https://piaofang.maoyan.com/dashboard-ajax\": 403 Forbidden\n",
       "id": "237791467801829376",
       "image": null,
       "ownerUserId": null,

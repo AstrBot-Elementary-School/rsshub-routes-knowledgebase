@@ -87,8 +87,8 @@ _None_
     },
     {
       "description": "Top dev.to posts - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-14T08:30:01.987Z",
+      "errorMessage": "Authentication failed. Access denied.\n/dev.to/top/month\nFailed to fetch\n",
       "id": "145315249048801291",
       "image": null,
       "ownerUserId": null,

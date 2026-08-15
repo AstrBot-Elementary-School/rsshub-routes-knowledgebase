@@ -79,8 +79,8 @@ _None_
     },
     {
       "description": "哔哩哔哩直播-鲁班-人气直播 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-13T23:28:28.531Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "257475092137511936",
       "image": null,
       "ownerUserId": null,

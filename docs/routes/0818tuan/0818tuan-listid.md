@@ -80,8 +80,8 @@ _None_
     },
     {
       "description": "最新线报活动-最新线报活动/教程攻略-0818团 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-14T07:37:22.797Z",
+      "errorMessage": "[GET] \"http://www.0818tuan.com/xbhd/2733726.html\": 550 Response Reset by EdgeOne\n",
       "id": "61413843131719680",
       "image": "http://www.0818tuan.com/favicon.ico",
       "ownerUserId": null,

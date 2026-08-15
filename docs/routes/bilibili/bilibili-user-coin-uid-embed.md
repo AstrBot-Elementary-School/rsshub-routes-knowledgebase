@@ -89,16 +89,16 @@ _None_
       "url": "rsshub://bilibili/user/coin/549117578"
     },
     {
-      "description": "hanser 的 bilibili 投币视频 - Powered by RSSHub",
+      "description": "DIYgod 的 bilibili 投币视频 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "202945335506028544",
+      "id": "71192404720008192",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://space.bilibili.com/11073",
-      "title": "hanser 的 bilibili 投币视频",
+      "siteUrl": "https://space.bilibili.com/2267573",
+      "title": "DIYgod 的 bilibili 投币视频",
       "type": "feed",
-      "url": "rsshub://bilibili/user/coin/11073"
+      "url": "rsshub://bilibili/user/coin/2267573"
     }
   ]
 }

@@ -75,8 +75,8 @@ _None_
     },
     {
       "description": "LA UOSC-最新帖子 - Powered by RSSHub",
-      "errorAt": "2026-08-12T22:16:57.318Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "92079131400677376",
       "image": null,
       "ownerUserId": null,
