@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 46,
+  "heat": 45,
   "location": "book.ts",
   "maintainers": [
     "nczitzk"

@@ -63,8 +63,8 @@ _None_
   "topFeeds": [
     {
       "description": "世界新聞網提供全球華人關心的即時新聞；除美、中、台與港澳等地的政經、社會、生活、理財等新聞與深度報導外，更關切國際現勢與紐約、洛杉磯、舊金山等美國主要城市的社區動態。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-15T03:24:55.324Z",
+      "errorMessage": "200 ",
       "id": "101992545694702592",
       "image": "https://www.worldjournal.com/static/img/icons/icon-144x144.png",
       "ownerUserId": null,

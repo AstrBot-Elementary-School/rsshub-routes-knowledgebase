@@ -69,7 +69,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4868,
+  "heat": 4867,
   "location": "actors.ts",
   "maintainers": [
     "nczitzk"
@@ -94,8 +94,8 @@
   "topFeeds": [
     {
       "description": "桃乃木かな - JavDB - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-15T05:04:27.890Z",
+      "errorMessage": "200 ",
       "id": "58137945200229376",
       "image": null,
       "ownerUserId": null,

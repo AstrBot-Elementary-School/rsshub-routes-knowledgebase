@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 57,
+  "heat": 56,
   "location": "lfyjzj.ts",
   "maintainers": [
     "la3rence"

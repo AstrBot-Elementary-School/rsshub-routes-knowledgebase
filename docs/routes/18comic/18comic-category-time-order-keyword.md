@@ -118,7 +118,7 @@
     {
       "description": "最新的 A漫 - 禁漫天堂 - Powered by RSSHub",
       "errorAt": "2026-08-05T21:40:19.434Z",
-      "errorMessage": "[GET] \"https://jmcomic1.me/albums\": <no response> fetch failed (Client network socket disconnected before secure TLS connection was established)\n[GET] \"https://jmcomic1.me/albums\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://jmcomic1.me/albums\": 403 \n[GET] \"https://jmcomic1.me/albums\": 403 Forbidden\n",
       "id": "181646966076518400",
       "image": null,
       "ownerUserId": null,

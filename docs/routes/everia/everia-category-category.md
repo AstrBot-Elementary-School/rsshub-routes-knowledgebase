@@ -79,8 +79,8 @@ _None_
   "topFeeds": [
     {
       "description": "EVERIA.CLUB - Category: chinese - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-16T07:17:17.722Z",
+      "errorMessage": "[GET] \"https://everia.club/category/chinese/\": 404 Not Found\n[GET] \"https://everia.club/category/chinese/\": 404 Not Found\n[GET] \"https://everia.club/category/chinese/\": 404 Not Found\n[GET] \"https://everia.club/category/chinese/\": 404 Not Found\n[GET] \"https://everia.club/category/chinese/\": 404 Not Found\n",
       "id": "160206686101994527",
       "image": null,
       "ownerUserId": null,

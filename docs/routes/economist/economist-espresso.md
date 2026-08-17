@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2169,
+  "heat": 2171,
   "location": "espresso.ts",
   "maintainers": [
     "TonyRL"
@@ -76,7 +76,7 @@ _None_
     {
       "description": "Catch up quickly on the global stories that matter - Powered by RSSHub",
       "errorAt": "2025-09-07T13:19:15.831Z",
-      "errorMessage": "[GET] \"https://www.economist.com/the-world-in-brief\": 403 Forbidden\nAuthentication failed. Access denied.\n/economist/espresso\n[GET] \"https://www.economist.com/the-world-in-brief\": 403 Forbidden\n[GET] \"https://www.economist.com/the-world-in-brief\": 403 Forbidden\n[GET] \"https://www.economist.com/the-world-in-brief\": 403 Forbidden\nAuthentication failed. Access denied.\n/economist/espresso\n[GET] \"https://www.economist.com/the-world-in-brief\": 403 Forbidden\n[GET] \"https://www.economist.com/the-world-in-brief\": <no response> fetch failed\n[GET] \"https://www.economist.com/the-world-in-brief\": 403 Forbidden\n[GET] \"https://www.economist.com/the-world-in-brief\": 403 Forbidden\n",
+      "errorMessage": "200 ",
       "id": "41572238278099968",
       "image": "https://www.economist.com/engassets/World-OG-image.png",
       "ownerUserId": null,

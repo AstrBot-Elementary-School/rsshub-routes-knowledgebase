@@ -53,7 +53,7 @@ To subscribe to [IN THE PIPELINE by Derek Lowe’s](https://science.org/blogs/pi
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 267,
+  "heat": 269,
   "location": "blogs.ts",
   "maintainers": [
     "TomHodson"
@@ -90,8 +90,8 @@ To subscribe to [IN THE PIPELINE by Derek Lowe’s](https://science.org/blogs/pi
     },
     {
       "description": "A Science.org blog called In the Pipeline - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-15T03:07:47.051Z",
+      "errorMessage": "200 ",
       "id": "65419023785781248",
       "image": "https://www.science.org/apple-touch-icon.png",
       "ownerUserId": null,

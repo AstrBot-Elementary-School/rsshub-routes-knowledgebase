@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2528,
+  "heat": 2527,
   "location": "forum.ts",
   "maintainers": [
     "TonyRL"
@@ -82,7 +82,7 @@ _None_
     {
       "description": "仅用于第一会所新片账号发布最新日本AV BT资源【全员可见 1级回复】 SiS001! Board - [第一会所 关闭注册] - Powered by RSSHub",
       "errorAt": "2025-08-22T19:01:45.676Z",
-      "errorMessage": "[GET] \"https://sis001.com/forum/forum-561-1.html\": 403 Forbidden\nAuthentication failed. Access denied.\n/sis001/forum/561\n[GET] \"https://sis001.com/forum/forum-561-1.html\": 403 \n[GET] \"https://sis001.com/forum/forum-561-1.html\": 403 Forbidden\n",
+      "errorMessage": "200 ",
       "id": "57370193871711232",
       "image": null,
       "ownerUserId": null,

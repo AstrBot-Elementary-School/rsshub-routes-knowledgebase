@@ -80,7 +80,7 @@
     {
       "description": "中英双语美文欣赏，感受聆听文学之美，享受学习语言之乐。 - Powered by RSSHub",
       "errorAt": "2026-03-08T16:29:16.624Z",
-      "errorMessage": "Authentication failed. Access denied.\n/cgtn/podcast/ezfm/4\nCannot read properties of undefined (reading 'content')\n",
+      "errorMessage": "200 ",
       "id": "86255766295882752",
       "image": null,
       "ownerUserId": null,

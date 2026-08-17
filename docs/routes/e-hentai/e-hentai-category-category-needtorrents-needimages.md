@@ -103,8 +103,8 @@
     },
     {
       "description": "manga - E-Hentai Galleries - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-16T02:47:07.565Z",
+      "errorMessage": "[GET] \"https://e-hentai.org/manga\": 451 Unavailable For Legal Reasons\n",
       "id": "106841285260128256",
       "image": null,
       "ownerUserId": null,

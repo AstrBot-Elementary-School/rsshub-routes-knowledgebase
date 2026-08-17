@@ -171,14 +171,14 @@
   },
   "topFeeds": [
     {
-      "description": " - Powered by RSSHub",
+      "description": "欢迎大家在机核分享交流 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "79737750822299648",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.gcores.com/collections/64",
-      "title": "RSSHub",
+      "title": "游戏开发设计心得分享 | 机核 GCORES",
       "type": "feed",
       "url": "rsshub://gcores/collections/64"
     },

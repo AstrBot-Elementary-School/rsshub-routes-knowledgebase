@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "人工智能的英文简称 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-15T19:28:34.351Z",
+      "errorMessage": "200 ",
       "id": "111032291110780928",
       "image": "",
       "ownerUserId": null,

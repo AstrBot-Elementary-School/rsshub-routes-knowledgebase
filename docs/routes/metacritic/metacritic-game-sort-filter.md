@@ -49,7 +49,7 @@ _None_
   ],
   "description": "| Metascore | User Score | Most Popular | Newest Releases |\n| --------- | ---------- | ------------ | --------------- |\n| metascore | userscore  | popular      | new             |\n\n::: tip\nThe Filter parameter comes from the corresponding page URL. The following is an example:\n\nThe URL of [Action Games to Play on PS5](https://www.metacritic.com/browse/game/all/all/all-time/new/?platform=ps5\\&genre=action) is `https://www.metacritic.com/browse/game/all/all/all-time/new/?platform=ps5&genre=action`. The Filter parameter is `platform=ps5&genre=action` and the route is [`/metacritic/game/new/platform=ps5&genre=action`](https://rsshub.app/metacritic/game/new/platform=ps5\\&genre=action)\n:::",
   "example": "/metacritic/game",
-  "heat": 0,
+  "heat": 1,
   "location": "index.tsx",
   "maintainers": [
     "HenryQW",

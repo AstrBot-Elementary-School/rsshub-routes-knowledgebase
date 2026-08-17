@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 659,
+  "heat": 660,
   "location": "book.ts",
   "maintainers": [
     "melvinto",
@@ -128,7 +128,7 @@ _None_
     {
       "description": "The New York Times Best Sellers - Combined Print & E-Book Nonfiction- August 16, 2026 - Powered by RSSHub",
       "errorAt": "2026-08-10T07:17:05.822Z",
-      "errorMessage": "[GET] \"https://www.nytimes.com/books/best-sellers/combined-print-and-e-book-nonfiction\": 403 Forbidden\nAuthentication failed. Access denied.\n/nytimes/book/combined-print-and-e-book-nonfiction\n[GET] \"https://www.nytimes.com/books/best-sellers/combined-print-and-e-book-nonfiction\": 403 Forbidden\n",
+      "errorMessage": "200 ",
       "id": "56271356825466880",
       "image": null,
       "ownerUserId": null,
@@ -140,7 +140,7 @@ _None_
     {
       "description": "The New York Times Best Sellers - Combined Print & E-Book Fiction- August 16, 2026 - Powered by RSSHub",
       "errorAt": "2026-08-11T15:37:56.961Z",
-      "errorMessage": "Authentication failed. Access denied.\n/nytimes/book/combined-print-and-e-book-fiction\n[GET] \"https://www.nytimes.com/books/best-sellers/combined-print-and-e-book-fiction\": 403 Forbidden\n",
+      "errorMessage": "200 ",
       "id": "62036724352164864",
       "image": null,
       "ownerUserId": null,

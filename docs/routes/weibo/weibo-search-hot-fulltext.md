@@ -58,7 +58,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 6851,
+  "heat": 6852,
   "location": "search/hot.tsx",
   "maintainers": [
     "xyqfer",
@@ -84,8 +84,8 @@ _None_
   "topFeeds": [
     {
       "description": "实时热点，每分钟更新一次 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-15T12:16:09.955Z",
+      "errorMessage": "200 ",
       "id": "41358830592746496",
       "image": null,
       "ownerUserId": null,
@@ -96,8 +96,8 @@ _None_
     },
     {
       "description": "实时热点，每分钟更新一次 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-15T06:44:53.288Z",
+      "errorMessage": "200 ",
       "id": "57266422630121472",
       "image": null,
       "ownerUserId": null,

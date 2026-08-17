@@ -39,7 +39,7 @@ _None_
     "new-media"
   ],
   "example": "/rebase/geekdaily",
-  "heat": 53,
+  "heat": 54,
   "location": "geekdaily.ts",
   "maintainers": [
     "gaoyifan"

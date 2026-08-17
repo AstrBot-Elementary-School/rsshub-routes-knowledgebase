@@ -95,8 +95,8 @@ _None_
     },
     {
       "description": "正面连接 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-15T06:36:54.588Z",
+      "errorMessage": "200 ",
       "id": "41473172365329515",
       "image": null,
       "ownerUserId": null,

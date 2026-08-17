@@ -84,7 +84,7 @@
     {
       "description": "NAS存储 - 什么值得买好文分类 - Powered by RSSHub",
       "errorAt": "2025-04-23T01:49:36.639Z",
-      "errorMessage": "什么值得买排行榜 is disabled due to the lack of SMZDM_COOKIE\nAuthentication failed. Access denied.\n/smzdm/haowen/fenlei/nascunchufuwuqi\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "200 ",
       "id": "63960223947361280",
       "image": null,
       "ownerUserId": null,

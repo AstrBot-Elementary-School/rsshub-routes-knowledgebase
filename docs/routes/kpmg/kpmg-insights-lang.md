@@ -43,7 +43,7 @@ _None_
     "other"
   ],
   "example": "/kpmg/insights",
-  "heat": 17,
+  "heat": 18,
   "location": "insights.tsx",
   "maintainers": [
     "LogicJake"

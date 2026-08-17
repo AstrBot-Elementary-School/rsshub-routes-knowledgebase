@@ -104,16 +104,16 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "ROG Strix OLED XG27UCDMG BIOS - Powered by RSSHub",
+      "description": "ROG Zephyrus G16 (2024) GA605 BIOS - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "213294544976304128",
-      "image": "https://dlcdnwebimgs.asus.com/gain/A1B38038-3616-4BD6-99CD-42025598FECF/w185",
+      "id": "84439902528045056",
+      "image": "https://dlcdnwebimgs.asus.com/gain/9A966AAE-B61A-41C5-AA2F-5B0B35E189A2/w185",
       "ownerUserId": null,
-      "siteUrl": "https://rog.asus.com/monitors/27-to-31-5-inches/rog-strix-oled-xg27ucdmg/",
-      "title": "ROG Strix OLED XG27UCDMG BIOS",
+      "siteUrl": "https://rog.asus.com/laptops/rog-zephyrus/rog-zephyrus-g16-2024-ga605/",
+      "title": "ROG Zephyrus G16 (2024) GA605 BIOS",
       "type": "feed",
-      "url": "rsshub://asus/bios/XG27UCDMG"
+      "url": "rsshub://asus/bios/GA605WV"
     },
     {
       "description": "ASUS TUF Gaming A14 (2024) BIOS - Powered by RSSHub",

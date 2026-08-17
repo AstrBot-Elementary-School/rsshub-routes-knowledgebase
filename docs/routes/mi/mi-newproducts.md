@@ -58,6 +58,9 @@ _None_
   ],
   "name": "小米上新",
   "path": "/newproducts",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [],
   "view": 5
 }

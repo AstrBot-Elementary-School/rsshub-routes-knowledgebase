@@ -63,8 +63,8 @@ _None_
   "topFeeds": [
     {
       "description": "發掘更多有關fashion的文章 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-16T03:03:05.728Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "91721307275758592",
       "image": "https://api.esquirehk.com/assets/images/ogImages/default.jpeg",
       "ownerUserId": null,

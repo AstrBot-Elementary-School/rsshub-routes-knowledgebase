@@ -158,14 +158,14 @@
   },
   "topFeeds": [
     {
-      "description": "3大痛点催生出海新变局！央企苏美达牵手南京国资成立国际贸易公司，蹚出地方国贸突围新路径 - Powered by RSSHub",
+      "description": "广东首家！地方国资化身超级“连接器”，华发“粤融易”供应链票据重塑产业生态 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "138893356640117760",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://info.10000link.com/newslists.aspx?chid=My01",
-      "title": "10000万联网 - 3大痛点催生出海新变局！央企苏美达牵手南京国资成立国际贸易公司，蹚出地方国贸突围新路径",
+      "title": "10000万联网 - 广东首家！地方国资化身超级“连接器”，华发“粤融易”供应链票据重塑产业生态",
       "type": "feed",
       "url": "rsshub://10000link/info/newslists/My01"
     },

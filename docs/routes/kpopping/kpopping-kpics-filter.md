@@ -91,7 +91,7 @@ If you subscribe to [All male photo albums](https://kpopping.com/kpics/gender-ma
       "url": "rsshub://kpopping/kpics/gender-female/category-all/idol-any/group-any/order"
     },
     {
-      "description": "Browse thousands of high quality Kpop photos. Concept photos, teasers, photoshoots, and more. - Powered by RSSHub",
+      "description": "Browse thousands of high quality K-pop photos. Concept photos, teasers, photoshoots, and more. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "160056537743224832",

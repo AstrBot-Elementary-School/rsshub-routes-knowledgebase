@@ -105,7 +105,7 @@ _None_
     {
       "description": "Fur Affinity Gallery of oddeyresproductions - Powered by RSSHub",
       "errorAt": "2026-05-25T18:57:48.549Z",
-      "errorMessage": "502 \n[GET] \"https://faexport.spangle.org.uk/user/oddeyresproductions/gallery.json?full=1\": 500 Internal Server Error\n",
+      "errorMessage": "[GET] \"https://faexport.spangle.org.uk/user/oddeyresproductions/gallery.json?full=1\": 500 Internal Server Error\n[GET] \"https://faexport.spangle.org.uk/user/oddeyresproductions/gallery.json?full=1\": 500 Internal Server Error\n",
       "id": "79207337889916928",
       "image": null,
       "ownerUserId": null,
@@ -115,16 +115,16 @@ _None_
       "url": "rsshub://furaffinity/art/gallery/oddeyresproductions/nsfw"
     },
     {
-      "description": "Fur Affinity Gallery of chesshire88 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "191942200074407936",
+      "description": "Fur Affinity Gallery of husdingo - Powered by RSSHub",
+      "errorAt": "2026-05-26T01:22:35.630Z",
+      "errorMessage": "[GET] \"https://faexport.spangle.org.uk/user/husdingo/gallery.json?full=1\": 500 Internal Server Error\n",
+      "id": "105952146370269184",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.furaffinity.net/gallery/chesshire88",
-      "title": "Fur Affinity | Gallery of chesshire88",
+      "siteUrl": "https://www.furaffinity.net/gallery/husdingo",
+      "title": "Fur Affinity | Gallery of husdingo",
       "type": "feed",
-      "url": "rsshub://furaffinity/art/gallery/chesshire88/nsfw"
+      "url": "rsshub://furaffinity/art/gallery/husdingo/nsfw"
     }
   ],
   "url": "furaffinity.net"

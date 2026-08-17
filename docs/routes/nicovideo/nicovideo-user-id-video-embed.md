@@ -63,21 +63,9 @@ _None_
   ],
   "test": {
     "code": 1,
-    "message": "AssertionError: expected 352584611540 to be less than 311040000000\n    at checkDate (/home/runner/work/RSSHub/RSSHub/lib/app.test.ts:62:46)\n    at checkRSS (/home/runner/work/RSSHub/RSSHub/lib/app.test.ts:87:13)\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:106:17\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+    "message": "AssertionError: expected 353189054228 to be less than 311040000000\n    at checkDate (/home/runner/work/RSSHub/RSSHub/lib/app.test.ts:62:46)\n    at checkRSS (/home/runner/work/RSSHub/RSSHub/lib/app.test.ts:87:13)\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:106:17\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
   "topFeeds": [
-    {
-      "description": "ピノキオピー - ニコニコ - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "67834533653006336",
-      "image": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/86/865591.jpg?1692257539",
-      "ownerUserId": null,
-      "siteUrl": "https://www.nicovideo.jp/user/865591/video",
-      "title": "ピノキオピー - ニコニコ",
-      "type": "feed",
-      "url": "rsshub://nicovideo/user/865591/video"
-    },
     {
       "description": "十六夜カズヤP - ニコニコ - Powered by RSSHub",
       "errorAt": null,
@@ -89,6 +77,18 @@ _None_
       "title": "十六夜カズヤP - ニコニコ",
       "type": "feed",
       "url": "rsshub://nicovideo/user/3219731/video"
+    },
+    {
+      "description": "ピノキオピー - ニコニコ - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "67834533653006336",
+      "image": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/86/865591.jpg?1692257539",
+      "ownerUserId": null,
+      "siteUrl": "https://www.nicovideo.jp/user/865591/video",
+      "title": "ピノキオピー - ニコニコ",
+      "type": "feed",
+      "url": "rsshub://nicovideo/user/865591/video"
     }
   ]
 }

@@ -76,7 +76,7 @@ _None_
     {
       "description": "Mashiro's Baumkuchen - Powered by RSSHub",
       "errorAt": "2026-05-20T18:37:13.189Z",
-      "errorMessage": "[GET] \"https://mashiro.best/zh-cn/archives/\": 404 Not Found\n[GET] \"https://mashiro.best/zh-cn/archives/\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://mashiro.best/zh-cn/archives/\": <no response> fetch failed\n[GET] \"https://mashiro.best/zh-cn/archives/\": 404 Not Found\n",
       "id": "113613880452673536",
       "image": null,
       "ownerUserId": null,

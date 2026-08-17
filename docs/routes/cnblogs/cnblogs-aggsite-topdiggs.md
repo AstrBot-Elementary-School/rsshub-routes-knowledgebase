@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 405,
+  "heat": 404,
   "location": "common.ts",
   "maintainers": [
     "hujingnb"

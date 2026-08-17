@@ -49,7 +49,7 @@ _None_
     "requirePuppeteer": false,
     "supportBT": true
   },
-  "heat": 179,
+  "heat": 182,
   "location": "search.ts",
   "maintainers": [
     "MegrezZhu",
@@ -76,8 +76,8 @@ _None_
   "topFeeds": [
     {
       "description": "nhentai - search - chinese - Powered by RSSHub",
-      "errorAt": "2026-08-14T04:25:52.728Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://nhentai.net/search/?q=chinese\": 451 Unavailable For Legal Reasons\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "65322834478863360",
       "image": null,
       "ownerUserId": null,
@@ -88,8 +88,8 @@ _None_
     },
     {
       "description": "nhentai - search - chinese+stockings - Powered by RSSHub",
-      "errorAt": "2026-08-13T02:13:02.312Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://nhentai.net/search/?q=chinese+stockings\": 451 Unavailable For Legal Reasons\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "54875188593719296",
       "image": null,
       "ownerUserId": null,

@@ -72,13 +72,14 @@ _None_
     }
   ],
   "test": {
-    "code": 0
+    "code": 1,
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
   "topFeeds": [
     {
       "description": "東森新聞|即時 - Powered by RSSHub",
-      "errorAt": "2026-08-13T06:48:59.010Z",
-      "errorMessage": "Authentication failed. Access denied.\n/ebc/realtime/politics\nBad control character in string literal in JSON at position 1456 (line 23 column 30)\n",
+      "errorAt": "2026-08-15T07:22:54.842Z",
+      "errorMessage": "200 ",
       "id": "105752020320057344",
       "image": null,
       "ownerUserId": null,

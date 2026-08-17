@@ -76,8 +76,8 @@ _None_
   "topFeeds": [
     {
       "description": "ESPN NBA News - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-15T13:41:02.728Z",
+      "errorMessage": "200 ",
       "id": "60547975805774848",
       "image": null,
       "ownerUserId": null,

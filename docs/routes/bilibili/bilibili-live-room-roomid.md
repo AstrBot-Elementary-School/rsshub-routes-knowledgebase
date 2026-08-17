@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "泛式 直播间开播状态 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-16T05:14:08.885Z",
+      "errorMessage": "500 \n",
       "id": "55242372435247104",
       "image": "https://i0.hdslb.com/bfs/face/2608aaa45309c77ac88fbfaa40e160b8c7892985.jpg",
       "ownerUserId": null,

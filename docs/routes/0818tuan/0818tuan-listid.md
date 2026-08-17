@@ -63,13 +63,14 @@ _None_
   },
   "path": "/:listId?",
   "test": {
-    "code": 0
+    "code": 1,
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
   "topFeeds": [
     {
       "description": "最新线报活动-最新线报活动/教程攻略-0818团 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-15T10:37:12.051Z",
+      "errorMessage": "200 ",
       "id": "65670452855599106",
       "image": "http://www.0818tuan.com/favicon.ico",
       "ownerUserId": null,
@@ -80,8 +81,8 @@ _None_
     },
     {
       "description": "最新线报活动-最新线报活动/教程攻略-0818团 - Powered by RSSHub",
-      "errorAt": "2026-08-14T07:37:22.797Z",
-      "errorMessage": "[GET] \"http://www.0818tuan.com/xbhd/2733726.html\": 550 Response Reset by EdgeOne\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "61413843131719680",
       "image": "http://www.0818tuan.com/favicon.ico",
       "ownerUserId": null,

@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1327,
+  "heat": 1326,
   "location": "gnn-index.ts",
   "maintainers": [
     "Arracc",

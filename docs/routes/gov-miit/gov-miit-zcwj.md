@@ -12,7 +12,7 @@
 - URL: `www.miit.gov.cn`
 - Language: `_None_`
 - Categories: `government`
-- Maintainers: `Yoge-Code`
+- Maintainers: `Yoge-Code, hutianyu2006`
 - Source Location: `zcwj.ts`
 - Source Module: `_None_`
 
@@ -52,7 +52,8 @@ _None_
   "heat": 0,
   "location": "zcwj.ts",
   "maintainers": [
-    "Yoge-Code"
+    "Yoge-Code",
+    "hutianyu2006"
   ],
   "name": "政策文件",
   "parameters": {},

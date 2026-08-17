@@ -72,8 +72,8 @@ _None_
   "topFeeds": [
     {
       "description": "观点 - 北京大学国家发展研究院 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-15T21:27:56.768Z",
+      "errorMessage": "[GET] \"https://nsd.pku.edu.cn/sylm/gd/\": <no response> fetch failed\n[GET] \"https://nsd.pku.edu.cn/sylm/gd/\": <no response> fetch failed (Connect Timeout Error (attempted address: nsd.pku.edu.cn:443, timeout: 10000ms))\n",
       "id": "62140885913688088",
       "image": null,
       "ownerUserId": null,

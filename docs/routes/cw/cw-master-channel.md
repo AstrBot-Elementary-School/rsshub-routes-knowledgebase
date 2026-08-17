@@ -92,8 +92,8 @@ _None_
     },
     {
       "description": "天下雜誌提供最新國際等重要資訊報導。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-15T14:59:31.465Z",
+      "errorMessage": "200 ",
       "id": "84170446829198336",
       "image": "https://www.cw.com.tw/assets_new/img/fbshare.jpg",
       "ownerUserId": null,

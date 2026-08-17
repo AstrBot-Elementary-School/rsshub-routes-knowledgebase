@@ -90,13 +90,13 @@ _None_
   ],
   "test": {
     "code": 1,
-    "message": "AssertionError: expected -3433297593 to be greater than -432000000\n    at checkDate (/home/runner/work/RSSHub/RSSHub/lib/app.test.ts:61:46)\n    at checkRSS (/home/runner/work/RSSHub/RSSHub/lib/app.test.ts:87:13)\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:106:17\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+    "message": "AssertionError: expected -2544564533 to be greater than -432000000\n    at checkDate (/home/runner/work/RSSHub/RSSHub/lib/app.test.ts:61:46)\n    at checkRSS (/home/runner/work/RSSHub/RSSHub/lib/app.test.ts:87:13)\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:106:17\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
   "topFeeds": [
     {
       "description": "全部 - 全部状态 - 最新上线 - 摩点众筹 - Powered by RSSHub",
-      "errorAt": "2026-08-14T04:24:44.670Z",
-      "errorMessage": "[GET] \"https://zhongchou.modian.com/all/top_time/all\": 522 Connection Timeout with Origin Server\n",
+      "errorAt": "2026-08-16T05:48:15.798Z",
+      "errorMessage": "[GET] \"https://zhongchou.modian.com/all/top_time/all\": 522 Connect origin timed out\n",
       "id": "59241270393578496",
       "image": null,
       "ownerUserId": null,

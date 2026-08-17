@@ -44,7 +44,7 @@ _None_
     "programming"
   ],
   "example": "/github/issue/DIYgod/RSSHub/open",
-  "heat": 625,
+  "heat": 626,
   "location": "issue.ts",
   "maintainers": [
     "HenryQW",
@@ -103,8 +103,8 @@ _None_
     },
     {
       "description": "Geekhyt/weekly Issues - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-16T04:32:21.863Z",
+      "errorMessage": "200 ",
       "id": "53505290474416128",
       "image": null,
       "ownerUserId": null,

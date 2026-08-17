@@ -48,4 +48,4 @@
 - File: `docs/routes/gov-miit/gov-miit-zcwj.md`
 - File Name: `gov-miit-zcwj.md`
 - Categories: `government`
-- Maintainers: `Yoge-Code`
+- Maintainers: `Yoge-Code, hutianyu2006`

@@ -85,7 +85,7 @@ More could be found in the URL of the category/topic page.
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 6017,
+  "heat": 6018,
   "location": "common.tsx",
   "maintainers": [
     "LyleLee",
@@ -164,8 +164,8 @@ More could be found in the URL of the category/topic page.
     },
     {
       "description": "Reuters.com is your online source for the latest China news stories and current events, ensuring our readers up to date with any breaking news developments - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-15T08:53:52.964Z",
+      "errorMessage": "200 ",
       "id": "41479290346361856",
       "image": "https://www.reuters.com/pf/resources/images/reuters/logo-vertical-default-512x512.png?d=116",
       "ownerUserId": null,

@@ -71,7 +71,7 @@ _None_
     {
       "description": "Hanime1 搜索结果 | 类型: 全部 | 标签: 扶他 - Powered by RSSHub",
       "errorAt": "2026-01-14T05:24:14.256Z",
-      "errorMessage": "[GET] \"https://hanime1.me/search?query=&genre=全部&broad=&sort=&year=&month=&tags[]=扶他\": 403 Forbidden\n[GET] \"https://hanime1.me/search?query=&genre=全部&broad=&sort=&year=&month=&tags[]=扶他\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://hanime1.me/search?query=&genre=全部&broad=&sort=&year=&month=&tags[]=扶他\": 403 \n[GET] \"https://hanime1.me/search?query=&genre=全部&broad=&sort=&year=&month=&tags[]=扶他\": 403 Forbidden\n",
       "id": "143852106817588235",
       "image": null,
       "ownerUserId": null,

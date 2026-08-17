@@ -90,16 +90,16 @@ Note: If you want to track a specific post's content changes (e.g., first post w
   },
   "topFeeds": [
     {
-      "description": "[F95zone] Collection Video RDreamer Collection [2025-07-05] [RDreamer] - Powered by RSSHub",
+      "description": "[F95zone] Collection Video Bamh3D Collection [2026-07-05] [Bamhor] - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "250523197875333120",
+      "id": "243703275624360960",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://f95zone.to/threads/rdreamer-collection-2025-07-05-rdreamer.253184/",
-      "title": "[F95zone] Collection Video RDreamer Collection [2025-07-05] [RDreamer]",
+      "siteUrl": "https://f95zone.to/threads/bamh3d-collection-2026-01-04-bamhor.181609/",
+      "title": "[F95zone] Collection Video Bamh3D Collection [2026-07-05] [Bamhor]",
       "type": "feed",
-      "url": "rsshub://f95zone/thread/rdreamer-collection-2025-07-05-rdreamer.253184"
+      "url": "rsshub://f95zone/thread/bamh3d-collection-2026-01-04-bamhor.181609"
     },
     {
       "description": "[F95zone] Collection GIF Video theobrobine Collection [2026-06-24] [THEOBROBINE/theobrobine/ておぶろびん] - Powered by RSSHub",

@@ -39,7 +39,7 @@ _None_
     "game"
   ],
   "example": "/4gamers/category/352",
-  "heat": 184,
+  "heat": 185,
   "location": "category.ts",
   "maintainers": [
     "TonyRL"

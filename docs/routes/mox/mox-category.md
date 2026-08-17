@@ -85,7 +85,7 @@
     {
       "description": "Mox.moe - Powered by RSSHub",
       "errorAt": "2025-02-09T11:32:24.615Z",
-      "errorMessage": "[GET] \"https://mox.moe\": <no response> fetch failed (Client network socket disconnected before secure TLS connection was established)\n",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "41865613055386624",
       "image": null,
       "ownerUserId": null,

@@ -83,7 +83,7 @@ _None_
     {
       "description": "澎湃新闻频道 - 科技 - Powered by RSSHub",
       "errorAt": "2026-03-08T00:02:40.912Z",
-      "errorMessage": "cheerio.load() expects a string\nAuthentication failed. Access denied.\n/thepaper/channel/119908\n[GET] \"https://m.thepaper.cn/channel/119908\": <no response> fetch failed\ncheerio.load() expects a string\ncheerio.load() expects a string\n",
+      "errorMessage": "200 ",
       "id": "42176727615320069",
       "image": "https://m.thepaper.cn/_next/static/media/logo.8d76cf45.png",
       "ownerUserId": null,
@@ -95,7 +95,7 @@ _None_
     {
       "description": "澎湃新闻频道 - 时事 - Powered by RSSHub",
       "errorAt": "2026-03-07T16:41:03.202Z",
-      "errorMessage": "Authentication failed. Access denied.\n/thepaper/channel/25950\ncheerio.load() expects a string\ncheerio.load() expects a string\n",
+      "errorMessage": "200 ",
       "id": "63980505820024832",
       "image": "https://m.thepaper.cn/_next/static/media/logo.8d76cf45.png",
       "ownerUserId": null,

@@ -57,7 +57,7 @@ If you subscribe to [InfoQ Live Jan 2024](https://www.infoq.com/infoq-live-jan-2
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 184,
+  "heat": 183,
   "location": "presentations.ts",
   "maintainers": [
     "nczitzk"

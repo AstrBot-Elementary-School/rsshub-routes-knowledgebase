@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 5,
+  "heat": 4,
   "location": "mail.ts",
   "maintainers": [
     "j1g5awi"

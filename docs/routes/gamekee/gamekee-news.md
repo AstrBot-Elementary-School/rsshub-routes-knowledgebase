@@ -40,7 +40,7 @@ _None_
     "game"
   ],
   "example": "/gamekee/news",
-  "heat": 28,
+  "heat": 27,
   "location": "news.ts",
   "maintainers": [
     "ueiu"

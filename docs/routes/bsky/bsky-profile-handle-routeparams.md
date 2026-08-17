@@ -65,7 +65,7 @@ Example:
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 43814,
+  "heat": 43786,
   "location": "posts.ts",
   "maintainers": [
     "TonyRL"
@@ -101,8 +101,8 @@ Example:
     },
     {
       "description": "A ship in harbor is safe, but that is not what ships are built for. creator → @sli.dev • @unocss.dev • @vueuse.org • @vitest.dev • elk.zone core team → @nuxt.com • @vite.dev • vuejs.org maintainer → @shiki.style • eslint.style he/him → antfu.me - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-15T19:52:58.490Z",
+      "errorMessage": "200 ",
       "id": "74659719211441152",
       "image": "https://cdn.bsky.app/img/avatar/plain/did:plc:2pdiyh6lip2aomv7kia3f2jo/bafkreidhcyovthsjjrmh34glopiixwi6fkzp4br7es4osfduux4ajvk7vy",
       "ownerUserId": null,

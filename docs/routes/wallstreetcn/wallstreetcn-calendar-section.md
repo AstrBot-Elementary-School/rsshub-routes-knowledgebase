@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "财经日历 - 华尔街见闻 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-16T03:01:19.066Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "80430906726720512",
       "image": "https://static.wscn.net/wscn/_static/favicon.png",
       "ownerUserId": null,

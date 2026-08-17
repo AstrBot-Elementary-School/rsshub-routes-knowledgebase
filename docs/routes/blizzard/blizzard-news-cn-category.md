@@ -101,7 +101,7 @@
     {
       "description": "守望先锋新闻 - Powered by RSSHub",
       "errorAt": "2026-07-26T09:22:26.073Z",
-      "errorMessage": "[GET] \"https://shop.battlenet.com.cn/zh-cn/product/blizzcon-celebration-collection\": 401 \nFailed to fetch\n",
+      "errorMessage": "[GET] \"https://shop.battlenet.com.cn/zh-cn/product/blizzcon-celebration-collection\": 401 \n[GET] \"https://shop.battlenet.com.cn/zh-cn/product/blizzcon-celebration-collection\": 401 \n",
       "id": "101228634856437760",
       "image": null,
       "ownerUserId": null,

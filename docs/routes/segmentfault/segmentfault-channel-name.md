@@ -76,7 +76,7 @@ _None_
     {
       "description": null,
       "errorAt": "2025-07-09T12:41:51.095Z",
-      "errorMessage": "[GET] \"https://segmentfault.com/channel/backend\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://segmentfault.com/gateway/articles?query=channel&slug=backend&offset=0&size=20&mode=scrollLoad\": 403 Forbidden\n",
       "id": "165721162973752332",
       "image": null,
       "ownerUserId": null,

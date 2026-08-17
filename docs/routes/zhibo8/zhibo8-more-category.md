@@ -55,7 +55,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 228,
+  "heat": 229,
   "location": "more.ts",
   "maintainers": [
     "nczitzk"
@@ -91,8 +91,8 @@
     },
     {
       "description": "NBA - 直播吧 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-15T02:35:28.718Z",
+      "errorMessage": "200 ",
       "id": "63118600077338626",
       "image": null,
       "ownerUserId": null,

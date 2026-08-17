@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 3,
+  "heat": 4,
   "location": "gb/new.tsx",
   "maintainers": [
     "HenryQW"
@@ -76,7 +76,7 @@ _None_
     {
       "description": "New products released by IKEA UK. - Powered by RSSHub",
       "errorAt": "2026-07-01T04:14:43.705Z",
-      "errorMessage": "[GET] \"https://sik.search.blue.cdtapps.com/gb/en/special/more-products?special=new_product&start=24&end=1294\": 400 Bad Request\n",
+      "errorMessage": "[GET] \"https://sik.search.blue.cdtapps.com/gb/en/special/more-products?special=new_product&start=24&end=1277\": 400 Bad Request\n",
       "id": "93829994856769536",
       "image": null,
       "ownerUserId": null,

@@ -89,16 +89,16 @@ _None_
       "url": "rsshub://bilibili/user/bangumi/208259"
     },
     {
-      "description": "undefined 的追番列表 - Powered by RSSHub",
+      "description": "咯弗弗 的追番列表 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "66424560658630656",
+      "id": "87692193894050817",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://space.bilibili.com/10730895/bangumi",
-      "title": "undefined 的追番列表",
+      "siteUrl": "https://space.bilibili.com/24656192/bangumi",
+      "title": "咯弗弗 的追番列表",
       "type": "feed",
-      "url": "rsshub://bilibili/user/bangumi/10730895"
+      "url": "rsshub://bilibili/user/bangumi/24656192"
     }
   ]
 }

@@ -72,16 +72,16 @@ _None_
       "url": "rsshub://fanqienovel/page/7251428606465805347"
     },
     {
-      "description": "延禧攻略璎珞，容音和明玉穿越并拯救如懿传世界 有系统但金手指不大，前期仅有看部分剧情和部分道具帮助 对如懿传原主角团不友好，不喜勿入 本文所有比喻，隐喻写法仅表达影视剧情，角色和台词吐槽，以及少量作者对文娱作品创作的个人看法，不上升演员！不上升演员！不上升演员！ - Powered by RSSHub",
-      "errorAt": "2025-12-13T10:00:25.474Z",
-      "errorMessage": "[GET] \"https://fanqienovel.com/page/7356782767855635481\": 404 Not Found\n",
-      "id": "69776058995578880",
-      "image": "https://p6-novel-sign.byteimg.com/novel-pic/p2o8b7f595cdf7dfce6953863d976ddcdb6~tplv-resize:225:300.image?lk3s=191c1ecc&x-expires=1765675631&x-signature=sWD%2FC%2F%2Bk1R6cw13zc10JQwlM%2B%2Fc%3D",
+      "description": "【轻松搞笑】+【架空历史】+【单女主】+【半无敌】 我叫凌晨，人在古代，为了获得大周朝的公民身份，被迫自愿加入了先锋营，去战场上砍人。 机缘巧合之下，我从敌军手里救回了一个老登。 那是我最成功的一次投资，我觉得我傍上大腿了。 可是…… 为什么结算画面一出来，我是MVP？ 我这才明白过来，陛下就是躺赢狗！ - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "132359626630124544",
+      "image": "https://p9-novel-sign.byteimg.com/novel-pic/p2o6d5bcf49e4b01cbe341955be118b7292~tplv-resize:225:300.image?lk3s=191c1ecc&x-expires=1777830638&x-signature=qPyMLCphrHgFI3CgXiWzOa0vEK0%3D",
       "ownerUserId": null,
-      "siteUrl": "https://fanqienovel.com/page/7356782767855635481",
-      "title": "长春宫小分队穿越如懿传 - 长生试剂",
+      "siteUrl": "https://fanqienovel.com/page/7479983044103769112",
+      "title": "陛下就是躺赢狗 - 知向谁边",
       "type": "feed",
-      "url": "rsshub://fanqienovel/page/7356782767855635481"
+      "url": "rsshub://fanqienovel/page/7479983044103769112"
     }
   ]
 }

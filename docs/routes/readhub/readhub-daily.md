@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4811,
+  "heat": 4818,
   "location": "daily.ts",
   "maintainers": [
     "nczitzk",
@@ -73,7 +73,7 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "1. DeepSeek Harness 开发者预览版开放测试 2. 长鑫科技超越腾讯，成中国市值最大上市公司 3. Anthropic 或将于 10 月上市，或将成史上最大 IPO 4. SpaceXAI 发布 Grok 4.6 模型 剑指 GPT-5.6 Sol 5. GPT-5.6 Sol 超高速模式已向部分客户群体开放有限预览 6. 腾讯启动顶尖 AI 产品人才招聘专项 7. 和硕间接确认：苹果 iPhone 18 Pro 今秋发布，标准版推迟至明年发布 8. 网传英伟达欲投资中际旭创、新易盛 9. 苹果洽谈向出版商付费，优化人工智能 Siri 10. Anthropico 据悉正在洽谈以 60 亿美元收购人工智能初创公司 DeCart 11. DeepSeek 调价方案公布 8 月 17 日生效 12. 维基百科遭恶意篡改，谷歌误报 OpenAI CEO 奥尔特曼死讯 - Powered by RSSHub",
+      "description": "1. 阿里正式开源 Qwen3.8 系列模型 2. 中央汇金、证金公司退出贵州茅台前十大股东 3. Anthropic 发布博客解释 Claude 文本水印技术细节 4. 全网吐槽带火《牛来》票房暴涨 1000 倍 5. 苹果 HomePod mini 2 今秋有望亮相：六年磨一剑，AI 芯片成换代核心 6. Anthropic 报告泄露 Model 2，比 Mythos 5 更强的内部模型 7. 华为启动 2027 届应届生招聘 8. 上市 27 个月，理想 L6 累计交付突破 40 万辆 9. Anthropic 预计 2028 年收入将达到 1900 亿至 2000 亿美元 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "52347176714948614",

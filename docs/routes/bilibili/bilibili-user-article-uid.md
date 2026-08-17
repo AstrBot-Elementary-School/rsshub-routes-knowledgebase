@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 887,
+  "heat": 888,
   "location": "article.ts",
   "maintainers": [
     "lengthmin",
@@ -88,8 +88,8 @@ _None_
     },
     {
       "description": "undefined 的 bilibili 图文 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-16T01:45:37.472Z",
+      "errorMessage": "200 ",
       "id": "55126637717323776",
       "image": null,
       "ownerUserId": null,

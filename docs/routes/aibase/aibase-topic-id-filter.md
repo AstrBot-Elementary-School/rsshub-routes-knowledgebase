@@ -1325,8 +1325,8 @@
     },
     {
       "description": "AiBase产品库 | AI - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-15T20:15:32.618Z",
+      "errorMessage": "[GET] \"https://top.aibase.com/topic/AI\": 404 Not Found\n[GET] \"https://top.aibase.com/topic/AI\": 404 Not Found\n",
       "id": "69243554696193024",
       "image": "https://top.aibase.com/_static/img/Frame@2x.eddfa3e.png",
       "ownerUserId": null,

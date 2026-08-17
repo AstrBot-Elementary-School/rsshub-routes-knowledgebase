@@ -56,7 +56,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1136,
+  "heat": 1137,
   "location": "keyword.ts",
   "maintainers": [
     "DIYgod",
@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "又有人在微博提到obsidian了 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-14T21:00:37.363Z",
+      "errorMessage": "200 ",
       "id": "55288652424312832",
       "image": null,
       "ownerUserId": null,
@@ -86,8 +86,8 @@ _None_
     },
     {
       "description": "又有人在微博提到RSSHub了 - Powered by RSSHub",
-      "errorAt": "2026-08-12T14:41:31.993Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'cards')\nCooling down before new visitor Cookies from https://m.weibo.cn/ may be fetched\nCooling down before new visitor Cookies from https://m.weibo.cn/ may be fetched\nAuthentication failed. Access denied.\n/weibo/keyword/RSSHub\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorAt": "2026-08-15T05:54:21.938Z",
+      "errorMessage": "200 ",
       "id": "41147805276726295",
       "image": null,
       "ownerUserId": null,

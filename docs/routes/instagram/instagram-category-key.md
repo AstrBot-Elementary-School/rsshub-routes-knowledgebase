@@ -93,7 +93,7 @@ _None_
     {
       "description": "undefined (@stefaniejoosten) - Instagram - Powered by RSSHub",
       "errorAt": "2024-12-25T02:49:15.475Z",
-      "errorMessage": "Authentication failed. Access denied.\n/instagram/user/stefaniejoosten\nPOST /api/v1/accounts/login/ - 400 Bad Request; challenge_required\n",
+      "errorMessage": "200 ",
       "id": "70631931772977152",
       "image": "https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/387739978_181173168359511_7722211169329121600_n.jpg?stp=dst-jpg_e0_s150x150&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=103&_nc_ohc=-J4UemQ3dPsQ7kNvgFFvACb&_nc_gid=a20d273ebe7148119c1abd93d6d45d4b&edm=AEF8tYYBAAAA&ccb=7-5&oh=00_AYBVycUmjMnx2eGiiQ4dX2PDkPrT1XFznkh369Uxv2hV9A&oe=6706D955&_nc_sid=1e20d2",
       "ownerUserId": null,

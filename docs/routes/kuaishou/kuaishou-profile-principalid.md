@@ -68,7 +68,7 @@ _None_
     {
       "description": "youbao5266的作品 - 快手 - Powered by RSSHub",
       "errorAt": "2026-06-09T00:03:38.791Z",
-      "errorMessage": "Navigating frame was detached\nFailed to fetch\npage.goto: Target page, context or browser has been closed\n",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nFailed to fetch\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "147602391664470016",
       "image": null,
       "ownerUserId": null,
@@ -78,16 +78,16 @@ _None_
       "url": "rsshub://kuaishou/profile/youbao5266"
     },
     {
-      "description": "3xiijsed725wjfa的作品 - 快手 - Powered by RSSHub",
-      "errorAt": "2025-05-27T16:58:13.637Z",
-      "errorMessage": "502 Bad Gateway\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
-      "id": "129051882573463552",
+      "description": "再无晚安了8 - Powered by RSSHub",
+      "errorAt": "2025-03-17T13:35:14.200Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "id": "124386287235780608",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://docs.rsshub.app/",
-      "title": "3xiijsed725wjfa的作品 - 快手",
+      "title": "再无晚安了8",
       "type": "feed",
-      "url": "rsshub://kuaishou/profile/3xiijsed725wjfa"
+      "url": "rsshub://kuaishou/profile/hmy2053629"
     }
   ],
   "url": "kuaishou.com/profile/:principalId"
