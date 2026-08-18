@@ -72,7 +72,7 @@ YouTube provides official RSS feeds for channels, for instance <https://www.yout
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 3022,
+  "heat": 3025,
   "location": "channel.ts",
   "maintainers": [
     "DIYgod",

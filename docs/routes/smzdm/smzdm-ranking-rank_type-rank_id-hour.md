@@ -57,7 +57,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 5028,
+  "heat": 5030,
   "location": "ranking.ts",
   "maintainers": [
     "DIYgod"

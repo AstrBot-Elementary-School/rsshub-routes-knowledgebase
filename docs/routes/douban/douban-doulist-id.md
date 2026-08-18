@@ -78,16 +78,16 @@ _None_
       "url": "rsshub://douban/doulist/159237128"
     },
     {
-      "description": "生活常识 - Powered by RSSHub",
+      "description": "通向牛逼之路。 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "218331825094149120",
+      "id": "74703252055644160",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.douban.com/doulist/153767244",
-      "title": "生活常识",
+      "siteUrl": "https://www.douban.com/doulist/37716774",
+      "title": "记住这些我觉得你就应该很牛掰了",
       "type": "feed",
-      "url": "rsshub://douban/doulist/153767244"
+      "url": "rsshub://douban/doulist/37716774"
     }
   ]
 }

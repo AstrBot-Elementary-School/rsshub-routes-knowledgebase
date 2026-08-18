@@ -36,7 +36,7 @@ _None_
     "program-update"
   ],
   "example": "/mi/golden",
-  "heat": 55,
+  "heat": 54,
   "location": "golden.ts",
   "maintainers": [
     "nczitzk"

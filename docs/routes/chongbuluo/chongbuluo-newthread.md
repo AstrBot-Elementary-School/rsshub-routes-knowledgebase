@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 105,
+  "heat": 106,
   "location": "index.ts",
   "maintainers": [
     "qiye45"

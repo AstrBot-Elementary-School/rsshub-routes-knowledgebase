@@ -68,7 +68,7 @@ _None_
     {
       "description": "youbao5266的作品 - 快手 - Powered by RSSHub",
       "errorAt": "2026-06-09T00:03:38.791Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nFailed to fetch\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nFailed to fetch\nFailed to fetch\n",
       "id": "147602391664470016",
       "image": null,
       "ownerUserId": null,
@@ -78,16 +78,16 @@ _None_
       "url": "rsshub://kuaishou/profile/youbao5266"
     },
     {
-      "description": "再无晚安了8 - Powered by RSSHub",
-      "errorAt": "2025-03-17T13:35:14.200Z",
+      "description": "3xe5h7ecz25ddn4的作品 - 快手 - Powered by RSSHub",
+      "errorAt": "2025-04-04T18:17:54.132Z",
       "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
-      "id": "124386287235780608",
+      "id": "90277166035281920",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://docs.rsshub.app/",
-      "title": "再无晚安了8",
+      "title": "3xe5h7ecz25ddn4的作品 - 快手",
       "type": "feed",
-      "url": "rsshub://kuaishou/profile/hmy2053629"
+      "url": "rsshub://kuaishou/profile/3xe5h7ecz25ddn4"
     }
   ],
   "url": "kuaishou.com/profile/:principalId"

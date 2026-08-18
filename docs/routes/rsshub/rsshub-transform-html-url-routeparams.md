@@ -87,7 +87,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 7617,
+  "heat": 7606,
   "location": "transform/html.ts",
   "maintainers": [
     "ttttmr",
@@ -106,7 +106,7 @@ _None_
   "topFeeds": [
     {
       "description": "Proxy https://imnks.com/ - Powered by RSSHub",
-      "errorAt": "2026-08-15T09:15:05.586Z",
+      "errorAt": "2026-08-16T17:44:04.030Z",
       "errorMessage": "This RSS is disabled unless 'ALLOW_USER_SUPPLY_UNSAFE_DOMAIN' is set to 'true'.\nAuthentication failed. Access denied.\n/rsshub/transform/html/https%3A%2F%2Fimnks.com%2F/item=article&itemTitle=span%5Bclass=entry-title%5D&itemLink=span%5Bclass=entry-title%5D+a&itemDesc=div%5Bclass*=entry-summary%5D&itemPubDate=div%5Bclass=entry-meta%5D+time&itemPubDateAttr=datetime\nThis RSS is disabled unless 'ALLOW_USER_SUPPLY_UNSAFE_DOMAIN' is set to 'true'.\n[GET] \"https://imnks.com/\": 522 Origin Connection Time-out\n",
       "id": "68731140035191863",
       "image": null,
@@ -118,8 +118,8 @@ _None_
     },
     {
       "description": "Proxy https://javdb.com/uncensored - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-17T03:16:55.366Z",
+      "errorMessage": "This RSS is disabled unless 'ALLOW_USER_SUPPLY_UNSAFE_DOMAIN' is set to 'true'.\nAuthentication failed. Access denied.\n/rsshub/transform/html/https%3A%2F%2Fjavdb.com%2Funcensored/title%3DjavDB%E6%97%A0%E7%A0%81\n[GET] \"https://javdb.com/uncensored\": 451 Unavailable For Legal Reasons\n",
       "id": "70337524894135296",
       "image": null,
       "ownerUserId": null,

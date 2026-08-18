@@ -103,7 +103,7 @@ _None_
     {
       "description": "新闻 | 半岛电视台今日最新资讯 - Powered by RSSHub",
       "errorAt": "2025-12-30T17:17:58.172Z",
-      "errorMessage": "Failed to fetch\nCannot read properties of null (reading '1')\nCannot read properties of null (reading '1')\n",
+      "errorMessage": "Cannot read properties of null (reading '1')\nCannot read properties of null (reading '1')\nCannot read properties of null (reading '1')\n",
       "id": "41572238273905695",
       "image": null,
       "ownerUserId": null,

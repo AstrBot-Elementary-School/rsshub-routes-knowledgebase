@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 14,
+  "heat": 15,
   "location": "hot.ts",
   "maintainers": [
     "JackyST0"

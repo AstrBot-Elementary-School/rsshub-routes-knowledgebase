@@ -93,7 +93,7 @@ _None_
       "errorAt": null,
       "errorMessage": null,
       "id": "129229946062307328",
-      "image": "https://p2.music.126.net/lrJiX7k6gV4GJorJUj8-zw==/109951171287877555.jpg",
+      "image": "https://p1.music.126.net/lrJiX7k6gV4GJorJUj8-zw==/109951171287877555.jpg",
       "ownerUserId": null,
       "siteUrl": "https://music.163.com/#/artist/album?id=30986109",
       "title": "betcover!!",

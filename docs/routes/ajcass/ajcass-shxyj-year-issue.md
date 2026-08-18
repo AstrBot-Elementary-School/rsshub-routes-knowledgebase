@@ -50,7 +50,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 125,
+  "heat": 126,
   "location": "shxyj.ts",
   "maintainers": [
     "CNYoki"
@@ -69,7 +69,7 @@ _None_
     {
       "description": "社会学研究 2026年第3期 - Powered by RSSHub",
       "errorAt": "2026-07-08T05:53:03.219Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nAuthentication failed. Access denied.\n/ajcass/shxyj\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "200 ",
       "id": "83506691980410880",
       "image": null,
       "ownerUserId": null,

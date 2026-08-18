@@ -82,16 +82,16 @@ _None_
       "url": "rsshub://baidu/tieba/user/dengchunlai"
     },
     {
-      "description": "ryan_knight_12 的贴吧 - Powered by RSSHub",
-      "errorAt": "2026-04-24T05:52:29.901Z",
-      "errorMessage": "Baidu Tieba RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#baidu\">BAIDU_COOKIE</a>\n",
-      "id": "86949667680527360",
+      "description": "双鱼座73 的贴吧 - Powered by RSSHub",
+      "errorAt": "2025-11-18T07:31:14.501Z",
+      "errorMessage": "[GET] \"https://tieba.baidu.com/home/main?un=18p2pmimi\": 403 Forbidden\n",
+      "id": "197374238844610560",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://tieba.baidu.com/home/main?un=ryan_knight_12",
-      "title": "ryan_knight_12 的贴吧",
+      "siteUrl": "https://tieba.baidu.com/home/main?un=18p2pmimi",
+      "title": "双鱼座73 的贴吧",
       "type": "feed",
-      "url": "rsshub://baidu/tieba/user/ryan_knight_12"
+      "url": "rsshub://baidu/tieba/user/18p2pmimi"
     }
   ]
 }

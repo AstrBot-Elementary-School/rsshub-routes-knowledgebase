@@ -123,8 +123,8 @@ For example:
   "topFeeds": [
     {
       "description": "This feed gets LinkedIn job posts - Powered by RSSHub",
-      "errorAt": "2026-08-16T07:45:16.167Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 72488728159150080",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "72488728159150080",
       "image": null,
       "ownerUserId": null,

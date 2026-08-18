@@ -82,8 +82,8 @@
   "topFeeds": [
     {
       "description": "讨论话题包括编辑器、终端、Git、VSCode、PHPStorm、VIM 等开发者工具相关话题。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-16T21:37:10.521Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "58746729811026944",
       "image": null,
       "ownerUserId": null,

@@ -67,7 +67,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 422,
+  "heat": 421,
   "location": "hot.ts",
   "maintainers": [
     "xizeyoupan"

@@ -73,7 +73,7 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "1. 阿里正式开源 Qwen3.8 系列模型 2. 中央汇金、证金公司退出贵州茅台前十大股东 3. Anthropic 发布博客解释 Claude 文本水印技术细节 4. 全网吐槽带火《牛来》票房暴涨 1000 倍 5. 苹果 HomePod mini 2 今秋有望亮相：六年磨一剑，AI 芯片成换代核心 6. Anthropic 报告泄露 Model 2，比 Mythos 5 更强的内部模型 7. 华为启动 2027 届应届生招聘 8. 上市 27 个月，理想 L6 累计交付突破 40 万辆 9. Anthropic 预计 2028 年收入将达到 1900 亿至 2000 亿美元 - Powered by RSSHub",
+      "description": "1. 美商务部长：政府不希望苹果采购中国存储芯片 2. 千问办公首发上线 GLM-5.3、DeepSeek V4 Pro 两款模型 3. Anthropic 发布博客解释 Claude 文本水印技术细节 4. 哈佛持有 22 亿美元 SpaceX 股权 多所美国高校基金斩获巨额回报 5. 段永平二季度减持英伟达、谷歌，新建阿里巴巴仓位 6. 中微半导：上半年净利润同比增长 98.48% 7. 卢伟冰发文庆祝小米手机 15 周岁生日，称未来全面拥抱 AI 8. 微信下架多部违规微短剧并处置违规小程序 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "52347176714948614",

@@ -39,7 +39,7 @@ _None_
     "picture"
   ],
   "example": "/voronoiapp/latest",
-  "heat": 12,
+  "heat": 13,
   "location": "latest.ts",
   "maintainers": [
     "Cesaryuan"

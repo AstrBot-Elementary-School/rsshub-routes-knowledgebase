@@ -10,18 +10,18 @@
 
 ## Routes
 
+### Community
+- Route ID: `kpopping:/kpopping/community/:filter{.+}?`
+- Route Path: `/kpopping/community/:filter{.+}?`
+- File: `docs/routes/kpopping/kpopping-community-filter.md`
+- File Name: `kpopping-community-filter.md`
+- Categories: `new-media`
+- Maintainers: `nczitzk, pinapelz`
+
 ### Pics
 - Route ID: `kpopping:/kpopping/kpics/:filter{.+}?`
 - Route Path: `/kpopping/kpics/:filter{.+}?`
 - File: `docs/routes/kpopping/kpopping-kpics-filter.md`
 - File Name: `kpopping-kpics-filter.md`
 - Categories: `picture`
-- Maintainers: `nczitzk`
-
-### News
-- Route ID: `kpopping:/kpopping/news/:filter{.+}?`
-- Route Path: `/kpopping/news/:filter{.+}?`
-- File: `docs/routes/kpopping/kpopping-news-filter.md`
-- File Name: `kpopping-news-filter.md`
-- Categories: `new-media`
-- Maintainers: `nczitzk`
+- Maintainers: `nczitzk, pinapelz`

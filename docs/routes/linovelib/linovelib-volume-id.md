@@ -74,7 +74,7 @@ _None_
     },
     {
       "description": "败北女角太多了！ - 哔哩轻小说 - Powered by RSSHub",
-      "errorAt": "2026-08-16T08:33:55.784Z",
+      "errorAt": "2026-08-17T01:38:40.123Z",
       "errorMessage": "[GET] \"https://www.linovelib.com/novel/3095/catalog\": 403 Forbidden\n",
       "id": "58014655249591296",
       "image": null,

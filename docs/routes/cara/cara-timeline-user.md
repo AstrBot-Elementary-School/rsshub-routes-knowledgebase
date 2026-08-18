@@ -76,16 +76,16 @@ _None_
       "url": "rsshub://cara/timeline/alonelee127"
     },
     {
-      "description": "Timeline - Olevus Art - Powered by RSSHub",
-      "errorAt": "2025-11-26T13:56:41.091Z",
-      "errorMessage": "[GET] \"https://cara.app/explore\": 403 Forbidden\n",
-      "id": "127387927078266880",
-      "image": "https://cdn.cara.app/production/profiles/328e10c7-adef-4eba-b86a-d847a0c7cb6a/17BE1A54-C420-41BC-954C-EB9123B82F2D.jpg",
+      "description": "Timeline - Victor Sales - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "131925929537537024",
+      "image": "https://cdn.cara.app/production/profiles/c0bf0283-3381-4128-81e1-706b580b8ddf/The_Dhow_Rostos7.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://cara.app/olevusart/all",
-      "title": "Timeline - Olevus Art",
+      "siteUrl": "https://cara.app/vsalesv/all",
+      "title": "Timeline - Victor Sales",
       "type": "feed",
-      "url": "rsshub://cara/timeline/olevusart"
+      "url": "rsshub://cara/timeline/vsalesv"
     }
   ]
 }

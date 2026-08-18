@@ -50,7 +50,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1737,
+  "heat": 1736,
   "location": "zcjd.ts",
   "maintainers": [
     "Yoge-Code"

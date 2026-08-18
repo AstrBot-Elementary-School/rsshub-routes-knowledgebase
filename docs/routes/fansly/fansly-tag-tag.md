@@ -78,7 +78,7 @@ _None_
     {
       "description": "#china - Fansly - Powered by RSSHub",
       "errorAt": "2026-08-08T20:53:00.485Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "Cannot read properties of undefined (reading 'find')\n",
       "id": "79121801531701248",
       "image": "https://fansly.com/assets/images/icons/apple-touch-icon.png",
       "ownerUserId": null,

@@ -158,14 +158,14 @@
   },
   "topFeeds": [
     {
-      "description": "广东首家！地方国资化身超级“连接器”，华发“粤融易”供应链票据重塑产业生态 - Powered by RSSHub",
+      "description": "8月刚判！因融资性贸易获刑一年半，武汉某国企总经理20多年职业生涯一夜清零 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "138893356640117760",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://info.10000link.com/newslists.aspx?chid=My01",
-      "title": "10000万联网 - 广东首家！地方国资化身超级“连接器”，华发“粤融易”供应链票据重塑产业生态",
+      "title": "10000万联网 - 8月刚判！因融资性贸易获刑一年半，武汉某国企总经理20多年职业生涯一夜清零",
       "type": "feed",
       "url": "rsshub://10000link/info/newslists/My01"
     },

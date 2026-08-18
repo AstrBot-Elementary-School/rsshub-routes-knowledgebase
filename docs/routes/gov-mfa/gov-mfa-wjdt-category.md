@@ -47,7 +47,7 @@ _None_
   ],
   "description": "| 分类       | category |\n| ---------- | -------- |\n| 领导人活动 | gjldrhd  |\n| 外事日程   | wsrc     |\n| 部领导活动 | wjbxw    |\n| 业务动态   | sjxw     |\n| 发言人表态 | fyrbt    |\n| 吹风会     | cfhsl    |\n| 大使任免   | dsrm     |\n| 驻外报道   | zwbd     |\n| 政策解读   | zcjd     |",
   "example": "/gov/mfa/wjdt/fyrbt",
-  "heat": 78,
+  "heat": 79,
   "location": "wjdt.ts",
   "maintainers": [
     "nicolaszf",

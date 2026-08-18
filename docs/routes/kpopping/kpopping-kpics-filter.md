@@ -8,21 +8,21 @@
 - Namespace Name: `kpopping`
 - Route Path: `/kpopping/kpics/:filter{.+}?`
 - Route Name: `Pics`
-- Example: `/kpopping/kpics/gender-male/category-all/idol-any/group-any/order`
+- Example: `/kpopping/kpics/gender=female&category=musicshow&idolId=a1664634-5caf-45d3-a57f-49d99d929aa9`
 - URL: `kpopping.com`
 - Language: `_None_`
 - Categories: `picture`
-- Maintainers: `nczitzk`
+- Maintainers: `nczitzk, pinapelz`
 - Source Location: `kpics.ts`
 - Source Module: `_None_`
 
 ## Description
 ::: tip
-If you subscribe to [All male photo albums](https://kpopping.com/kpics/gender-male/category-all/idol-any/group-any/order)，where the URL is `https://kpopping.com/kpics/gender-male/category-all/idol-any/group-any/order`, extract the part `https://kpopping.com/kpics/` to the end, which is `gender-male/category-all/idol-any/group-any/order`, and use it as the parameter to fill in. Therefore, the route will be [`/kpopping/kpics/gender-male/category-all/idol-any/group-any/order`](https://rsshub.app/kpopping/kpics/gender-male/category-all/idol-any/group-any/order).
+Query photos using filter parameters found on kpopping such as `idolId`, `groupId`, `gender`, `category`, `sort`, etc.
 :::
 
 ## Parameters
-- `filter`: Filter
+- `filter`: Filter parameters in `key=value&key2=value2` format. Supported keys: `category`, `gender`, `sort`, `entityType`, `idolId`, `groupId`
 
 
 ## Features
@@ -37,7 +37,8 @@ If you subscribe to [All male photo albums](https://kpopping.com/kpics/gender-ma
 ## Radar
 ### Rule 1
 - `source`:
-  - `kpopping.com/kpics/:filter`
+  - `kpopping.com/kpics`
+- `target`: `/kpics`
 
 ## Raw JSON
 ```json
@@ -45,8 +46,8 @@ If you subscribe to [All male photo albums](https://kpopping.com/kpics/gender-ma
   "categories": [
     "picture"
   ],
-  "description": "::: tip\nIf you subscribe to [All male photo albums](https://kpopping.com/kpics/gender-male/category-all/idol-any/group-any/order)，where the URL is `https://kpopping.com/kpics/gender-male/category-all/idol-any/group-any/order`, extract the part `https://kpopping.com/kpics/` to the end, which is `gender-male/category-all/idol-any/group-any/order`, and use it as the parameter to fill in. Therefore, the route will be [`/kpopping/kpics/gender-male/category-all/idol-any/group-any/order`](https://rsshub.app/kpopping/kpics/gender-male/category-all/idol-any/group-any/order).\n:::",
-  "example": "/kpopping/kpics/gender-male/category-all/idol-any/group-any/order",
+  "description": "::: tip\nQuery photos using filter parameters found on kpopping such as `idolId`, `groupId`, `gender`, `category`, `sort`, etc.\n:::",
+  "example": "/kpopping/kpics/gender=female&category=musicshow&idolId=a1664634-5caf-45d3-a57f-49d99d929aa9",
   "features": {
     "antiCrawler": false,
     "requireConfig": false,
@@ -59,18 +60,20 @@ If you subscribe to [All male photo albums](https://kpopping.com/kpics/gender-ma
   "heat": 39,
   "location": "kpics.ts",
   "maintainers": [
-    "nczitzk"
+    "nczitzk",
+    "pinapelz"
   ],
   "name": "Pics",
   "parameters": {
-    "filter": "Filter"
+    "filter": "Filter parameters in `key=value&key2=value2` format. Supported keys: `category`, `gender`, `sort`, `entityType`, `idolId`, `groupId`"
   },
   "path": "/kpics/:filter{.+}?",
   "radar": [
     {
       "source": [
-        "kpopping.com/kpics/:filter"
-      ]
+        "kpopping.com/kpics"
+      ],
+      "target": "/kpics"
     }
   ],
   "test": {
@@ -104,12 +107,12 @@ If you subscribe to [All male photo albums](https://kpopping.com/kpics/gender-ma
     }
   ],
   "url": "kpopping.com",
-  "view": 0,
+  "view": 2,
   "zh": {
-    "description": "::: tip\n若订阅 [All male photo albums](https://kpopping.com/kpics/gender-male/category-all/idol-any/group-any/order)，网址为 `https://kpopping.com/kpics/gender-male/category-all/idol-any/group-any/order`，请截取 `https://kpopping.com/kpics/` 到末尾的部分 `gender-male/category-all/idol-any/group-any/order` 作为 `filter` 参数填入，此时目标路由为 [`/kpopping/kpics/gender-male/category-all/idol-any/group-any/order`](https://rsshub.app/kpopping/kpics/gender-male/category-all/idol-any/group-any/order)。\n:::",
+    "description": "::: tip\n支持通过 `idolId`、`groupId`、`gender`、`category`、`sort` 等过滤条件获取照片。\n:::",
     "name": "Pics",
     "parameters": {
-      "filter": "筛选，可在对应分类页 URL 中找到"
+      "filter": "以 `key=value&key2=value2` 格式传递的过滤参数。支持的 key 包括 `category`、`gender`、`sort`、`entityType`、`idolId`、`groupId`"
     }
   }
 }

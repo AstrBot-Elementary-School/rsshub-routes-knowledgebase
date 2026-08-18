@@ -63,7 +63,7 @@ If you subscibe to [arXiv Paper queryed by Detection](https://papers.cool/arxiv/
     "supportRadar": true,
     "supportScihub": true
   },
-  "heat": 22,
+  "heat": 23,
   "location": "query.ts",
   "maintainers": [
     "Muyun99"
@@ -89,8 +89,8 @@ If you subscibe to [arXiv Paper queryed by Detection](https://papers.cool/arxiv/
   "topFeeds": [
     {
       "description": "llms for scientific discovery - Powered by RSSHub",
-      "errorAt": "2026-08-15T16:43:24.350Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "191737387979350016",
       "image": null,
       "ownerUserId": null,

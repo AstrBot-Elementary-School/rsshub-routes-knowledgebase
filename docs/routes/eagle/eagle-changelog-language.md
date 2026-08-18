@@ -72,7 +72,7 @@ _None_
     {
       "description": "Eagle 更新日志 - Powered by RSSHub",
       "errorAt": "2025-06-01T01:52:40.601Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://cn.eagle.cool/changelog\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://cn.eagle.cool/changelog\": 404 Not Found\n[GET] \"https://cn.eagle.cool/changelog\": 404 Not Found\n",
       "id": "41147805276726367",
       "image": null,
       "ownerUserId": null,

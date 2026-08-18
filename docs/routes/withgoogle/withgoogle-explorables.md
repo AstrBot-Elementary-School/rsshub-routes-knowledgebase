@@ -39,7 +39,7 @@ _None_
     "blog"
   ],
   "example": "/withgoogle/explorables",
-  "heat": 66,
+  "heat": 67,
   "location": "explorables.ts",
   "maintainers": [
     "cesaryuan"

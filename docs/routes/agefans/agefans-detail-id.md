@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 28,
+  "heat": 26,
   "location": "detail.ts",
   "maintainers": [
     "s2marine"

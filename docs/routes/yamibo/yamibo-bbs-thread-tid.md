@@ -71,8 +71,8 @@ _None_
   "topFeeds": [
     {
       "description": "[个人翻译][长篇][羽田宇佐]一周一次买下同班同学的那些事（2026.7.26更新至第425话） - 轻小说/译文区 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-16T21:44:24.267Z",
+      "errorMessage": "200 ",
       "id": "99377084384904192",
       "image": null,
       "ownerUserId": null,

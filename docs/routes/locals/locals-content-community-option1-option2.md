@@ -60,7 +60,7 @@ Fetches the Locals content library with an authenticated session cookie. By defa
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2,
+  "heat": 3,
   "location": "feed.ts",
   "maintainers": [
     "luckycold"

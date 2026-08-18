@@ -116,16 +116,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "A powerful plugin to manage various PvP combat features - Powered by RSSHub",
+      "description": "Simple, lightweight and fast NPC plugin using packets - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "123852126561305600",
+      "id": "123850149068689408",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/1Ffl2uIq",
-      "title": "PvPManager Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/EeyAn23L",
+      "title": "FancyNpcs Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/1Ffl2uIq/versions"
+      "url": "rsshub://modrinth/project/EeyAn23L/versions"
     }
   ]
 }

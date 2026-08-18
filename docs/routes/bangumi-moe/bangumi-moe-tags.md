@@ -38,7 +38,7 @@ _None_
     "anime"
   ],
   "example": "/bangumi.moe",
-  "heat": 10,
+  "heat": 9,
   "location": "index.ts",
   "maintainers": [
     "nczitzk"

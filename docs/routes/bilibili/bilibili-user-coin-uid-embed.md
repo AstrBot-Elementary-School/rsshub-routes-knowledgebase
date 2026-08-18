@@ -90,15 +90,15 @@ _None_
     },
     {
       "description": "undefined 的 bilibili 投币视频 - Powered by RSSHub",
-      "errorAt": "2025-09-13T10:57:44.073Z",
-      "errorMessage": "用户隐私设置未公开\n",
-      "id": "175034446806131712",
+      "errorAt": "2025-10-10T12:34:35.139Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "id": "156121534429763584",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://space.bilibili.com/3546856711784901",
+      "siteUrl": "https://space.bilibili.com/3546738526784312",
       "title": "undefined 的 bilibili 投币视频",
       "type": "feed",
-      "url": "rsshub://bilibili/user/coin/3546856711784901"
+      "url": "rsshub://bilibili/user/coin/3546738526784312"
     }
   ]
 }

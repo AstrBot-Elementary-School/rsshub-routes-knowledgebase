@@ -88,7 +88,7 @@ _None_
     {
       "description": "游戏葡萄 | 自由微信 | FreeWeChat - Powered by RSSHub",
       "errorAt": "2025-11-26T10:25:21.045Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "[GET] \"https://freewechat.com/a/MjM5OTc2ODUxMw==/2649992634/1\": 403 Forbidden\n",
       "id": "77190515673860096",
       "image": "https://freewechat.com/favicon.ico",
       "ownerUserId": null,

@@ -93,8 +93,8 @@
     },
     {
       "description": "ACM信息 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-16T18:58:49.385Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "184150422654729217",
       "image": null,
       "ownerUserId": null,

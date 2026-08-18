@@ -644,8 +644,8 @@
   "topFeeds": [
     {
       "description": "股票交易 | 上海证券交易所 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-17T07:20:09.702Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "72506899888155648",
       "image": "https://www.sse.com.cn/undefined",
       "ownerUserId": null,
@@ -656,8 +656,8 @@
     },
     {
       "description": "最新规则 | 上海证券交易所 - Powered by RSSHub",
-      "errorAt": "2026-08-16T05:58:46.892Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "60582720391817216",
       "image": "https://www.sse.com.cn/undefined",
       "ownerUserId": null,

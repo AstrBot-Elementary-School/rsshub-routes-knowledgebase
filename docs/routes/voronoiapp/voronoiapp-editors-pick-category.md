@@ -39,7 +39,7 @@ _None_
     "picture"
   ],
   "example": "/voronoiapp/editors-pick",
-  "heat": 16,
+  "heat": 17,
   "location": "editors-pick.ts",
   "maintainers": [
     "Cesaryuan"

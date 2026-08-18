@@ -96,7 +96,7 @@ _None_
     },
     {
       "description": "实时热点，每分钟更新一次 - Powered by RSSHub",
-      "errorAt": "2026-08-15T06:44:53.288Z",
+      "errorAt": "2026-08-15T14:04:46.833Z",
       "errorMessage": "200 ",
       "id": "57266422630121472",
       "image": null,

@@ -82,28 +82,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "[F95zone] Collection Video ViciNeko collection [2025-06-14] [ViciNeko] - Powered by RSSHub",
+      "description": "[F95zone] Collection Video Nyl Collection [2026-01-31] [Nyl2] - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "242895914631755776",
+      "id": "250524266322800640",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://f95zone.to/threads/vicineko-collection-2025-06-14-vicineko.84596/#post-5909830",
-      "title": "[F95zone] Collection Video ViciNeko collection [2025-06-14] [ViciNeko]",
+      "siteUrl": "https://f95zone.to/threads/nyl-collection-2026-01-01-nyl2.46099/#post-3049831",
+      "title": "[F95zone] Collection Video Nyl Collection [2026-01-31] [Nyl2]",
       "type": "feed",
-      "url": "rsshub://f95zone/post/vicineko-collection-2025-06-14-vicineko.84596/post-5909830"
+      "url": "rsshub://f95zone/post/nyl-collection-2026-01-01-nyl2.46099/post-3049831"
     },
     {
-      "description": "[F95zone] Collection Video Lazy Procrastinator Collection [2026-06-28] [LazyProcrastinator/LazyProcrast] - Powered by RSSHub",
+      "description": "[F95zone] Collection Pinup Ecksoh Collection [2026-05-02] [xoxo] - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "250523611655439360",
+      "id": "243703193927277568",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://f95zone.to/threads/lazy-procrastinator-collection-2025-04-18-lazyprocrastinator-lazyprocrast.50685/#post-3358507",
-      "title": "[F95zone] Collection Video Lazy Procrastinator Collection [2026-06-28] [LazyProcrastinator/LazyProcrast]",
+      "siteUrl": "https://f95zone.to/threads/ecksoh-collection-2026-01-01-xoxo.136515/#post-9343108",
+      "title": "[F95zone] Collection Pinup Ecksoh Collection [2026-05-02] [xoxo]",
       "type": "feed",
-      "url": "rsshub://f95zone/post/lazy-procrastinator-collection-2025-04-18-lazyprocrastinator-lazyprocrast.50685/post-3358507"
+      "url": "rsshub://f95zone/post/ecksoh-collection-2026-01-01-xoxo.136515/post-9343108"
     }
   ]
 }
