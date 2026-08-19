@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 8,
+  "heat": 7,
   "location": "news.ts",
   "maintainers": [
     "williamgateszhao"

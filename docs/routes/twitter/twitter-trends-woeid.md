@@ -109,7 +109,7 @@ _None_
     {
       "description": null,
       "errorAt": "2026-04-09T04:31:55.150Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "Twitter RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\n",
       "id": "262497529995269123",
       "image": null,
       "ownerUserId": null,

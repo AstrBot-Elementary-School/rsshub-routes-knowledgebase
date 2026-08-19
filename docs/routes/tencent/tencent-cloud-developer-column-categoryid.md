@@ -38,7 +38,7 @@ _None_
     "programming"
   ],
   "example": "/tencent/cloud/developer/column/1",
-  "heat": 140,
+  "heat": 141,
   "location": "cloud/developer/column.ts",
   "maintainers": [
     "lyling"

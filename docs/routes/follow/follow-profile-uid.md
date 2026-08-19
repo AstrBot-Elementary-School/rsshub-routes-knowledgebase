@@ -43,7 +43,7 @@ _None_
   "features": {
     "supportRadar": true
   },
-  "heat": 5120,
+  "heat": 5118,
   "location": "profile.ts",
   "maintainers": [
     "KarasuShin",
@@ -71,7 +71,7 @@ _None_
     {
       "description": "Follow's subscriptions - Powered by RSSHub",
       "errorAt": "2026-05-02T05:07:24.820Z",
-      "errorMessage": "[GET] \"https://api.follow.is/subscriptions?userId=41469671337837568\": 401 Unauthorized\nFailed to fetch\n[GET] \"https://api.follow.is/subscriptions?userId=41469671337837568\": 401 \n[GET] \"https://api.follow.is/subscriptions?userId=41469671337837568\": 401 Unauthorized\n",
+      "errorMessage": "[GET] \"https://api.follow.is/subscriptions?userId=41469671337837568\": 401 Unauthorized\n[GET] \"https://api.follow.is/subscriptions?userId=41469671337837568\": 401 Unauthorized\n[GET] \"https://api.follow.is/subscriptions?userId=41469671337837568\": 401 \n[GET] \"https://api.follow.is/subscriptions?userId=41469671337837568\": 401 Unauthorized\n",
       "id": "73371743844601856",
       "image": "https://avatars.githubusercontent.com/u/47667850?v=4",
       "ownerUserId": null,

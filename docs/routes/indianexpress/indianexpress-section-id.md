@@ -57,7 +57,7 @@ To subscribe to [Section](https://indianexpress.com/), where the source URL is `
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 6,
+  "heat": 7,
   "location": "section.ts",
   "maintainers": [
     "nczitzk"

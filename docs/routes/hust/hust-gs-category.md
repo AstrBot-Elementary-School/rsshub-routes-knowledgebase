@@ -449,16 +449,16 @@
       "url": "rsshub://hust/gs/xwdt"
     },
     {
-      "description": "课程及考试安排 - Powered by RSSHub",
+      "description": "其他 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "66343158574786560",
+      "id": "73886148848932864",
       "image": "https://gs.hust.edu.cn/img/logo.png",
       "ownerUserId": null,
-      "siteUrl": "https://gs.hust.edu.cn/tzgg/kcjksap.htm",
-      "title": "华中科技大学研究生院 - 课程及考试安排",
+      "siteUrl": "https://gs.hust.edu.cn/tzgg/qt.htm",
+      "title": "华中科技大学研究生院 - 其他",
       "type": "feed",
-      "url": "rsshub://hust/gs/tzgg/kcjksap"
+      "url": "rsshub://hust/gs/tzgg/qt"
     }
   ],
   "url": "gs.hust.edu.cn"

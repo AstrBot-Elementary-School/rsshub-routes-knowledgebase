@@ -87,8 +87,8 @@ _None_
     },
     {
       "description": "欢迎来到JJ斗地主的抖音直播间，JJ斗地主与大家一起记录美好生活 - 抖音直播 - Powered by RSSHub",
-      "errorAt": "2026-08-14T20:46:47.210Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'status_code')\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "59212657080258560",
       "image": "https://p11.douyinpic.com/origin/aweme-avatar/tos-cn-avt-0015_970a4d312023de54cbac3d0f9e0e77f8.jpeg",
       "ownerUserId": null,

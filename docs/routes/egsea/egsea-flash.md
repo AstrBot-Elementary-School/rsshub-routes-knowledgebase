@@ -72,8 +72,8 @@ _None_
   "topFeeds": [
     {
       "description": "快讯 - e 公司 - Powered by RSSHub",
-      "errorAt": "2026-08-17T06:42:47.466Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://www.egsea.com/news/flash-list?per-page=30\": <no response> fetch failed (Connect Timeout Error (attempted address: www.egsea.com:443, timeout: 10000ms))\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "71834563973302272",
       "image": null,
       "ownerUserId": null,

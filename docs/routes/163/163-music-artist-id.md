@@ -89,16 +89,16 @@ _None_
       "url": "rsshub://163/music/artist/32540734"
     },
     {
-      "description": "网易云音乐歌手专辑 - betcover!! - Powered by RSSHub",
+      "description": "网易云音乐歌手专辑 - 小沢健二 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "129229946062307328",
-      "image": "https://p1.music.126.net/lrJiX7k6gV4GJorJUj8-zw==/109951171287877555.jpg",
+      "id": "93474365887536128",
+      "image": "https://p2.music.126.net/2Fj_USVdgznJ57GD7bsauw==/109951164421213518.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://music.163.com/#/artist/album?id=30986109",
-      "title": "betcover!!",
+      "siteUrl": "https://music.163.com/#/artist/album?id=15136",
+      "title": "小沢健二",
       "type": "feed",
-      "url": "rsshub://163/music/artist/30986109"
+      "url": "rsshub://163/music/artist/15136"
     }
   ]
 }

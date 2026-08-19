@@ -71,14 +71,14 @@ _None_
   },
   "topFeeds": [
     {
-      "description": null,
-      "errorAt": "2025-08-18T08:30:02.233Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'set-cookie')\n",
+      "description": "工业和信息化部 - 意见征集 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "180157875378420750",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": null,
-      "title": "Importing",
+      "siteUrl": "https://www.miit.gov.cn/gzcy/yjzj/index.html",
+      "title": "工业和信息化部 - 意见征集",
       "type": "feed",
       "url": "rsshub://gov/miit/yjzj"
     }

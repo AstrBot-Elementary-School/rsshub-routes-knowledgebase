@@ -79,18 +79,6 @@
   },
   "topFeeds": [
     {
-      "description": "上海大学 - 文化信息 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "84819966471031808",
-      "image": "https://www.shu.edu.cn/__local/0/08/C6/1EABE492B0CF228A5564D6E6ABE_779D1EE3_5BF7.png",
-      "ownerUserId": null,
-      "siteUrl": "https://www.shu.edu.cn/xnrc/whxx.htm",
-      "title": "上海大学 - 文化信息",
-      "type": "feed",
-      "url": "rsshub://shu/xykd/whxx"
-    },
-    {
       "description": "上海大学 - 学术报告 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -101,6 +89,18 @@
       "title": "上海大学 - 学术报告",
       "type": "feed",
       "url": "rsshub://shu/xykd/xsbg"
+    },
+    {
+      "description": "上海大学 - 文化信息 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "84819966471031808",
+      "image": "https://www.shu.edu.cn/__local/0/08/C6/1EABE492B0CF228A5564D6E6ABE_779D1EE3_5BF7.png",
+      "ownerUserId": null,
+      "siteUrl": "https://www.shu.edu.cn/xnrc/whxx.htm",
+      "title": "上海大学 - 文化信息",
+      "type": "feed",
+      "url": "rsshub://shu/xykd/whxx"
     }
   ],
   "url": "www.shu.edu.cn/"

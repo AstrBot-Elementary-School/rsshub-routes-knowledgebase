@@ -76,16 +76,16 @@ _None_
       "url": "rsshub://cara/timeline/alonelee127"
     },
     {
-      "description": "Timeline - Victor Sales - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "131925929537537024",
-      "image": "https://cdn.cara.app/production/profiles/c0bf0283-3381-4128-81e1-706b580b8ddf/The_Dhow_Rostos7.jpg",
+      "description": "Timeline - Feng Zhu - Powered by RSSHub",
+      "errorAt": "2025-11-26T12:33:50.034Z",
+      "errorMessage": "[GET] \"https://cara.app/explore\": 403 Forbidden\n",
+      "id": "63189426042807297",
+      "image": "https://cdn.cara.app/production/profiles/d5ba55be-a9af-4ce4-9b3a-0747165de742/feng_headshot_01.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://cara.app/vsalesv/all",
-      "title": "Timeline - Victor Sales",
+      "siteUrl": "https://cara.app/fengz/all",
+      "title": "Timeline - Feng Zhu",
       "type": "feed",
-      "url": "rsshub://cara/timeline/vsalesv"
+      "url": "rsshub://cara/timeline/fengz"
     }
   ]
 }

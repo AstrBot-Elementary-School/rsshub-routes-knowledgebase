@@ -41,7 +41,7 @@ _None_
   ],
   "description": "| 简体中文 | 繁体中文 |\n| -------- | -------- |\n| zh-hans  | zh-hant  |",
   "example": "/kaopu/news/zh-hans",
-  "heat": 40,
+  "heat": 39,
   "location": "news.ts",
   "maintainers": [
     "fashioncj"

@@ -39,7 +39,7 @@ _None_
     "programming"
   ],
   "example": "/meta/ai/blog",
-  "heat": 214,
+  "heat": 213,
   "location": "ai-blog.ts",
   "maintainers": [
     "TonyRL"
@@ -60,8 +60,8 @@ _None_
   "topFeeds": [
     {
       "description": "Stay up to date on the latest artificial intelligence news from Meta. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-18T08:11:15.387Z",
+      "errorMessage": "200 ",
       "id": "152655705119827968",
       "image": "https://static.xx.fbcdn.net/rsrc.php/yv/r/-kpAMqWYv41.webp",
       "ownerUserId": null,

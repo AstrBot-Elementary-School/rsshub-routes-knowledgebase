@@ -113,8 +113,8 @@
     },
     {
       "description": "香洲 - 珠海网 - Powered by RSSHub",
-      "errorAt": "2026-08-17T08:02:09.644Z",
-      "errorMessage": "[GET] \"https://pub-zhtb.hizh.cn/a/202608/17/AP6a81e7dde4b07ba18ee921e8.json\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 60.200.32.50:443, 60.200.32.46:443, 60.200.32.44:443, 60.200.32.49:443, 60.200.32.48:443, 60.200.32.45:443, 60.200.32.47:443, 60.200.32.43:443, timeout: 10000ms))\n",
+      "errorAt": "2026-08-17T11:42:19.286Z",
+      "errorMessage": "[GET] \"https://www.hizh.cn/channels/zjyapp/columns/5f86a3f5e4b09d75f99dde7d/stories.json\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 45.253.17.16:443, 45.253.17.14:443, 45.253.17.13:443, 45.253.17.20:443, 45.253.17.18:443, 45.253.17.17:443, 45.253.17.19:443, 45.253.17.15:443, timeout: 10000ms))\n",
       "id": "114507281667054592",
       "image": null,
       "ownerUserId": null,

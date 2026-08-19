@@ -116,16 +116,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "Simple, lightweight and fast NPC plugin using packets - Powered by RSSHub",
+      "description": "A modern shader pack loader for Minecraft intended to be compatible with existing OptiFine shader packs - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "123850149068689408",
+      "id": "120292957898624000",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/EeyAn23L",
-      "title": "FancyNpcs Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/iris",
+      "title": "Iris Shaders Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/EeyAn23L/versions"
+      "url": "rsshub://modrinth/project/iris/versions"
     }
   ]
 }

@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 3204,
+  "heat": 3203,
   "location": "forum.ts",
   "maintainers": [
     "xyqfer"
@@ -69,7 +69,7 @@ _None_
   "topFeeds": [
     {
       "description": "NGA是国内专业的游戏玩家社区,魔兽世界,英雄联盟,炉石传说,风暴英雄,暗黑破坏神3(D3)游戏攻略讨论,以及其他热门游戏玩家社区 - Powered by RSSHub",
-      "errorAt": "2026-08-15T10:17:31.279Z",
+      "errorAt": "2026-08-15T12:45:22.144Z",
       "errorMessage": "200 ",
       "id": "42244008445359104",
       "image": null,

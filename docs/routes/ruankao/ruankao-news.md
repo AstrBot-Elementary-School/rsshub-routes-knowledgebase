@@ -81,8 +81,8 @@ _None_
   "topFeeds": [
     {
       "description": "计算机职业技术资格考试（软考）消息推送 - Powered by RSSHub",
-      "errorAt": "2026-08-16T08:28:38.023Z",
-      "errorMessage": "404 \n[GET] \"https://www.ruankao.org.cn/index/work.html\": 405 Not Allowed\n[GET] \"https://www.ruankao.org.cn/index/work.html\": 403 Forbidden\n",
+      "errorAt": "2026-08-18T08:31:41.394Z",
+      "errorMessage": "Failed to fetch\n[GET] \"https://www.ruankao.org.cn/article/content/2512051441404279400700007.html\": 405 Not Allowed\n[GET] \"https://www.ruankao.org.cn/index/work.html\": 403 Forbidden\n",
       "id": "97983929811275776",
       "image": "https://bm.ruankao.org.cn/asset/image/public/logo.png",
       "ownerUserId": null,

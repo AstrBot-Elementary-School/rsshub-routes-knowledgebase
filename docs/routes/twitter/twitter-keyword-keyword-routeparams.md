@@ -128,8 +128,8 @@ Currently supported authentication methods:
   "topFeeds": [
     {
       "description": "Twitter Keyword - AI - Powered by RSSHub",
-      "errorAt": "2026-08-16T22:59:28.648Z",
-      "errorMessage": "200 ",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "53226580778291200",
       "image": null,
       "ownerUserId": null,

@@ -88,7 +88,7 @@ _None_
     {
       "description": "As rated by regular IMDb voters. - Powered by RSSHub",
       "errorAt": "2026-03-19T21:35:56.023Z",
-      "errorMessage": "Unexpected end of JSON input\nUnexpected end of JSON input\nUnexpected end of JSON input\nUnexpected end of JSON input\n",
+      "errorMessage": "Unexpected end of JSON input\nUnexpected end of JSON input\nUnexpected end of JSON input\n[GET] \"https://www.imdb.com/chart/top/\": 403 Forbidden\n",
       "id": "69670759328198656",
       "image": null,
       "ownerUserId": null,

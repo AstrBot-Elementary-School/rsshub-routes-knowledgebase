@@ -76,8 +76,8 @@ _None_
   "topFeeds": [
     {
       "description": "nhentai - search - chinese - Powered by RSSHub",
-      "errorAt": "2026-08-17T02:48:15.173Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://nhentai.net/search/?q=chinese\": 451 Unavailable For Legal Reasons\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "65322834478863360",
       "image": null,
       "ownerUserId": null,

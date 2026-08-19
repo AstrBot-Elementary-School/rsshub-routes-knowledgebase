@@ -78,8 +78,8 @@
   "topFeeds": [
     {
       "description": "信報網站(www.hkej.com)即時新聞，提供全天候即時港股、香港財經、國際金融和經濟新聞、中國經濟新聞資訊和分析。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-18T08:42:55.204Z",
+      "errorMessage": "[GET] \"https://www2.hkej.com/instantnews/current/article/4486347\": 429 Too Many Requests\n[GET] \"https://www2.hkej.com/instantnews/hongkong/article/4486339\": 429 Too Many Requests\n",
       "id": "69975396806332416",
       "image": null,
       "ownerUserId": null,
@@ -90,8 +90,8 @@
     },
     {
       "description": "信報網站(www.hkej.com)即時新聞，提供全天候即時港股、香港財經、國際金融和經濟新聞、中國經濟新聞資訊和分析。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-18T07:04:32.798Z",
+      "errorMessage": "[GET] \"https://www2.hkej.com/instantnews/current/article/4486298\": 429 Too Many Requests\n",
       "id": "155622231834300416",
       "image": null,
       "ownerUserId": null,

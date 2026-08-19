@@ -95,8 +95,8 @@
     },
     {
       "description": "原神 - 最新 - Powered by RSSHub",
-      "errorAt": "2026-08-17T04:30:40.370Z",
-      "errorMessage": "[GET] \"https://api-takumi-static.mihoyo.com/content_v2_user/app/16471662a82d418a/getContentList?iPage=1&sLangKey=zh-cn&iChanId=719&iPageSize=50\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 103.228.211.240:443, 103.228.211.241:443, 103.228.211.242:443, 103.228.211.249:443, 103.228.211.239:443, 103.228.211.248:443, 103.228.211.243:443, 103.228.211.244:443, timeout: 10000ms))\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "156266162055355392",
       "image": null,
       "ownerUserId": null,
