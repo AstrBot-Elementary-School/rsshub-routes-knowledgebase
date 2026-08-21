@@ -76,8 +76,8 @@ _None_
   "topFeeds": [
     {
       "description": "Latest updates from Rule34 Video - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-18T23:12:57.368Z",
+      "errorMessage": "[GET] \"https://www.rule34video.com/latest-updates/\": 502 Bad Gateway\n",
       "id": "1094754492298952704",
       "image": null,
       "ownerUserId": null,

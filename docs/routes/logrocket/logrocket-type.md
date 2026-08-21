@@ -38,7 +38,7 @@ _None_
     "blog"
   ],
   "example": "/logrocket/dev",
-  "heat": 9,
+  "heat": 8,
   "location": "index.ts",
   "maintainers": [
     "findwei"

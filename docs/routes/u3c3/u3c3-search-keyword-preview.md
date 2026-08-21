@@ -75,7 +75,7 @@ _None_
       "id": "68549075258311680",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.u3c3.com/?search2=fpzon1qq&search=%E6%96%B0%E7%89%87%E9%80%9F%E9%80%92",
+      "siteUrl": "https://www.u3c3.com/?search2=legtbtp6&search=%E6%96%B0%E7%89%87%E9%80%9F%E9%80%92",
       "title": "search 新片速递 - u3c3",
       "type": "feed",
       "url": "rsshub://u3c3/search/%E6%96%B0%E7%89%87%E9%80%9F%E9%80%92"
@@ -87,7 +87,7 @@ _None_
       "id": "131696291531404288",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.u3c3.com/?search2=e7j6h6tb&search=U3C3",
+      "siteUrl": "https://www.u3c3.com/?search2=awl3myj6&search=U3C3",
       "title": "search U3C3 - u3c3",
       "type": "feed",
       "url": "rsshub://u3c3/search/U3C3"

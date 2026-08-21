@@ -88,16 +88,16 @@ _None_
       "url": "rsshub://luma/langchain"
     },
     {
-      "description": "Comunidad de Innovación LATAM - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "265966889769333760",
+      "description": "MenteX - Powered by RSSHub",
+      "errorAt": "2026-08-11T04:31:52.936Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "id": "265966986896278528",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://lu.ma/comunidadinnovacion",
-      "title": "Comunidad de Innovación LATAM",
+      "siteUrl": "https://lu.ma/mentex_ecosistema",
+      "title": "MenteX",
       "type": "feed",
-      "url": "rsshub://luma/comunidadinnovacion"
+      "url": "rsshub://luma/mentex_ecosistema"
     }
   ],
   "url": "lu.ma"

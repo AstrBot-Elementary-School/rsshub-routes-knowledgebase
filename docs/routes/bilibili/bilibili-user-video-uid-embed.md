@@ -54,7 +54,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 179587,
+  "heat": 179600,
   "location": "video.ts",
   "maintainers": [
     "DIYgod",
@@ -93,7 +93,7 @@ _None_
     },
     {
       "description": "技术爬爬虾 的 bilibili 空间 - Powered by RSSHub",
-      "errorAt": "2026-08-16T03:27:05.306Z",
+      "errorAt": "2026-08-19T04:40:40.577Z",
       "errorMessage": "200 ",
       "id": "58463916731079680",
       "image": "https://i0.hdslb.com/bfs/face/333b1b477f1ac1b40091b70afcfd4444e646a7d3.jpg",

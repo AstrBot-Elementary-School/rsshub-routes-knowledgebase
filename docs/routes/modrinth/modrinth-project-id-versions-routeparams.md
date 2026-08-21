@@ -116,16 +116,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "A modern shader pack loader for Minecraft intended to be compatible with existing OptiFine shader packs - Powered by RSSHub",
+      "description": "An all-in-one solution that works - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "120292957898624000",
+      "id": "123852430344537088",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/iris",
-      "title": "Iris Shaders Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/gG7VFbG0",
+      "title": "TAB Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/iris/versions"
+      "url": "rsshub://modrinth/project/gG7VFbG0/versions"
     }
   ]
 }

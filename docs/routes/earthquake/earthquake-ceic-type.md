@@ -64,7 +64,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 22,
+  "heat": 21,
   "location": "ceic.ts",
   "maintainers": [
     "SettingDust"

@@ -97,7 +97,7 @@
     {
       "description": "大眼仔旭 android RSS - Powered by RSSHub",
       "errorAt": "2025-09-26T01:57:15.388Z",
-      "errorMessage": "Failed to fetch\nFailed to fetch\n",
+      "errorMessage": "[GET] \"http://www.dayanzai.me/android\": <no response> fetch failed (Connect Timeout Error (attempted address: www.dayanzai.me:80, timeout: 10000ms))\n[GET] \"http://www.dayanzai.me/android\": <no response> fetch failed (Connect Timeout Error (attempted address: www.dayanzai.me:80, timeout: 10000ms))\n",
       "id": "66737530237513741",
       "image": null,
       "ownerUserId": null,

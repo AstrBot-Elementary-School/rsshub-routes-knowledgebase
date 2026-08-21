@@ -67,8 +67,8 @@ _None_
   "topFeeds": [
     {
       "description": "youbao5266的作品 - 快手 - Powered by RSSHub",
-      "errorAt": "2026-06-09T00:03:38.791Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nFailed to fetch\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "147602391664470016",
       "image": null,
       "ownerUserId": null,

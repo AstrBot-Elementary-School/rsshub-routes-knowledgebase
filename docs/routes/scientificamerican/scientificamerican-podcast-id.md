@@ -71,7 +71,7 @@ If you subscribe to [Science Quickly](https://www.scientificamerican.com/podcast
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 21,
+  "heat": 22,
   "location": "podcast.ts",
   "maintainers": [
     "nczitzk"

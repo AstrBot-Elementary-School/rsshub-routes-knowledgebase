@@ -232,7 +232,7 @@
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 8,
+  "heat": 9,
   "location": "gs.ts",
   "maintainers": [
     "nczitzk"

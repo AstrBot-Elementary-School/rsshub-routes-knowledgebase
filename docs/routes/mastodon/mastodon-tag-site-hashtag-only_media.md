@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "#长毛象安利交换大会 Media Timeline on gochisou.photo - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-18T17:20:40.853Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "173609057249857536",
       "image": null,
       "ownerUserId": null,

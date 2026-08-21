@@ -70,7 +70,7 @@ _None_
       "id": "71077918646278144",
       "image": "https://5b0988e595225.cdn.sohucs.com/a_auto,c_cut,x_21,y_36,w_295,h_295/images/20190430/4d25b8b62da3483db8c7b676b03e948e.png",
       "ownerUserId": null,
-      "siteUrl": "http://mp.sohu.com/profile?xpt=MWJmNTdjZjYtMTRiMi00NWI2LWE2ZDMtY2I1NmRhNTNmNDQ0",
+      "siteUrl": "https://docs.rsshub.app/",
       "title": "搜狐号 - 极昼的个人主页",
       "type": "feed",
       "url": "rsshub://sohu/mp/MWJmNTdjZjYtMTRiMi00NWI2LWE2ZDMtY2I1NmRhNTNmNDQ0"

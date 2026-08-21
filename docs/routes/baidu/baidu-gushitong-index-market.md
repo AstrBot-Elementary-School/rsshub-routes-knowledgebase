@@ -103,8 +103,8 @@ _None_
   "topFeeds": [
     {
       "description": "FinScope，汇聚全球金融市场的股票、基金、外汇、期货等实时行情，7*24小时覆盖专业财经资讯，提供客观、准确、及时、全面的沪深港美上市公司股价、财务、股东、分红等信息，让用户在复杂的金融市场，更简单的获取投资信息。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-17T12:06:04.794Z",
+      "errorMessage": "Cannot read properties of undefined (reading 'map')\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nCannot read properties of undefined (reading 'map')\n",
       "id": "64898003762100224",
       "image": null,
       "ownerUserId": null,

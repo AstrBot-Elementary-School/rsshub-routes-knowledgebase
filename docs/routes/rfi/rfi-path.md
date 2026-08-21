@@ -72,8 +72,8 @@ _None_
   "topFeeds": [
     {
       "description": "同步、随时跟踪法广政治、文化、体育新闻，了解法国、中国与世界各地大事 - Powered by RSSHub",
-      "errorAt": "2026-08-17T13:19:17.938Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "58701529235465216",
       "image": "https://s.rfi.fr/media/display/020b8dae-e6c1-11ee-a196-005056bfb2b6/w:1280/p:16x9/img-default-RFI.jpg",
       "ownerUserId": null,
@@ -84,8 +84,8 @@ _None_
     },
     {
       "description": "Suivez toute l'information politique, culturelle, sportive en direct et en continu sur RFI. Les dernières informations, news et actualités en France et à l'international. - Powered by RSSHub",
-      "errorAt": "2026-08-14T23:32:20.995Z",
-      "errorMessage": "Unexpected end of JSON input\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "76670519253188608",
       "image": "https://s.rfi.fr/media/display/020b8dae-e6c1-11ee-a196-005056bfb2b6/w:1280/p:16x9/img-default-RFI.jpg",
       "ownerUserId": null,

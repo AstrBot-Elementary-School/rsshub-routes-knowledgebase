@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 832,
+  "heat": 831,
   "location": "news.ts",
   "maintainers": [
     "TonyRL"
@@ -97,8 +97,8 @@ _None_
   "topFeeds": [
     {
       "description": "News - Followin - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-19T08:47:53.875Z",
+      "errorMessage": "[GET] \"https://followin.io\": 429 Too Many Requests\n530 \n[GET] \"https://followin.io\": 429 Too Many Requests\n",
       "id": "64124473013636098",
       "image": "https://followin.io/favicon.ico",
       "ownerUserId": null,

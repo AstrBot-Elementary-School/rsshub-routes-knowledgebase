@@ -68,8 +68,8 @@ _None_
   "topFeeds": [
     {
       "description": "文化 - Powered by RSSHub",
-      "errorAt": "2026-08-18T08:49:38.001Z",
-      "errorMessage": "[GET] \"https://www.lifeweek.com.cn/api/userWebFollow/getFollowTagContentList?type=3&sort=2&tagId=4\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 218.244.8.24:443, 218.244.8.27:443, 218.244.8.26:443, 218.244.8.23:443, 218.244.8.28:443, 218.244.8.22:443, 218.244.8.25:443, 218.244.8.21:443, timeout: 10000ms))\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "74705665643397120",
       "image": null,
       "ownerUserId": null,
@@ -80,8 +80,8 @@ _None_
     },
     {
       "description": "经济 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-18T12:26:58.771Z",
+      "errorMessage": "[GET] \"https://www.lifeweek.com.cn/api/userWebFollow/getFollowTagContentList?type=3&sort=2&tagId=3\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 103.151.149.18:443, 103.151.149.15:443, 103.151.149.17:443, 103.151.149.20:443, 103.151.149.19:443, 103.151.149.14:443, 103.151.149.13:443, 103.151.149.16:443, timeout: 10000ms))\n",
       "id": "77268471866082304",
       "image": null,
       "ownerUserId": null,

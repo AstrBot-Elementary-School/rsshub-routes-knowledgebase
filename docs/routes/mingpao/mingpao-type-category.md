@@ -122,7 +122,7 @@ _None_
     {
       "description": "明報新聞網-即時新聞 RSS - Powered by RSSHub",
       "errorAt": "2025-11-13T23:43:50.376Z",
-      "errorMessage": "[GET] \"https://news.mingpao.com/ins/%e9%ab%94%e8%82%b2/article/20260815/s00006/1786802623999/%e6%8e%92%e7%90%83-%e9%a6%99%e6%b8%af%e5%a5%b3%e6%8e%92%e4%ba%9e%e6%9d%b1%e8%b3%bd4%e5%bc%b7%e7%9b%b4%e8%90%bd3%e5%b1%80%e4%b8%8d%e6%95%b5%e4%b8%ad%e5%9c%8b%e5%a5%b3%e6%8e%92-%e6%98%8e%e5%8d%88%e9%ac%a5%e9%9f%93%e5%9c%8b%e7%88%ad%e5%ad%a3%e8%bb%8d\": 403 Forbidden\nStatus code 403\n",
+      "errorMessage": "[GET] \"https://finance.mingpao.com/fin/instantp/20260819/1787125822144/one-jardine-s-lookout%e3%80%8c%e7%82%92%e4%b8%8a%e7%82%92%e3%80%8d-3%e6%88%bf1265%e8%90%ac%e6%b2%bd%e5%85%a9%e5%b9%b4%e7%b4%af%e5%8d%8737\\\" target=\\\"blank\": 403 Forbidden\nStatus code 403\n",
       "id": "67446046265380864",
       "image": "https://news.mingpao.com/image/mingpaonews_logo2.png",
       "ownerUserId": null,

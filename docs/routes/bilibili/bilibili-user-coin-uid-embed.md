@@ -89,16 +89,16 @@ _None_
       "url": "rsshub://bilibili/user/coin/549117578"
     },
     {
-      "description": "DIYgod 的 bilibili 投币视频 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "71192404720008192",
+      "description": "undefined 的 bilibili 投币视频 - Powered by RSSHub",
+      "errorAt": "2025-09-13T10:57:44.073Z",
+      "errorMessage": "用户隐私设置未公开\n",
+      "id": "175034446806131712",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://space.bilibili.com/2267573",
-      "title": "DIYgod 的 bilibili 投币视频",
+      "siteUrl": "https://space.bilibili.com/3546856711784901",
+      "title": "undefined 的 bilibili 投币视频",
       "type": "feed",
-      "url": "rsshub://bilibili/user/coin/2267573"
+      "url": "rsshub://bilibili/user/coin/3546856711784901"
     }
   ]
 }

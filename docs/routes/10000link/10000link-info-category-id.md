@@ -69,7 +69,7 @@
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 11,
+  "heat": 10,
   "location": "info.ts",
   "maintainers": [
     "nczitzk"
@@ -158,14 +158,14 @@
   },
   "topFeeds": [
     {
-      "description": "8月刚判！因融资性贸易获刑一年半，武汉某国企总经理20多年职业生涯一夜清零 - Powered by RSSHub",
+      "description": "单据全齐照样被罚5328万！这家国企栽的跟头，给所有做国际贸易的企业提了个醒 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "138893356640117760",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://info.10000link.com/newslists.aspx?chid=My01",
-      "title": "10000万联网 - 8月刚判！因融资性贸易获刑一年半，武汉某国企总经理20多年职业生涯一夜清零",
+      "title": "10000万联网 - 单据全齐照样被罚5328万！这家国企栽的跟头，给所有做国际贸易的企业提了个醒",
       "type": "feed",
       "url": "rsshub://10000link/info/newslists/My01"
     },

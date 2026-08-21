@@ -130,8 +130,8 @@ _None_
     },
     {
       "description": "雷峰网 - 读懂智能&未来 - Powered by RSSHub",
-      "errorAt": "2026-08-18T06:32:04.953Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "149642094386478114",
       "image": null,
       "ownerUserId": null,

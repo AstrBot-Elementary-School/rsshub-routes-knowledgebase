@@ -129,8 +129,8 @@
     },
     {
       "description": "米游社-崩坏：星穹铁道-同人榜-日榜 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-19T05:34:14.672Z",
+      "errorMessage": "[GET] \"https://bbs-api.miyoushe.com/post/wapi/getImagePostList?gids=6&forum_id=56&cate_id=0&type=1&page_size=20&last_id=\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 60.255.162.15:443, 60.255.162.9:443, 60.255.162.10:443, 60.255.162.14:443, 60.255.162.13:443, 60.255.162.16:443, 60.255.162.11:443, 60.255.162.12:443, timeout: 10000ms))\n",
       "id": "74617383214838784",
       "image": null,
       "ownerUserId": null,

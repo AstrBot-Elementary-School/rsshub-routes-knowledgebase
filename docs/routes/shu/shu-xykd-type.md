@@ -80,8 +80,8 @@
   "topFeeds": [
     {
       "description": "上海大学 - 学术报告 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-19T01:23:06.266Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "84658986070627328",
       "image": "https://www.shu.edu.cn/__local/0/08/C6/1EABE492B0CF228A5564D6E6ABE_779D1EE3_5BF7.png",
       "ownerUserId": null,

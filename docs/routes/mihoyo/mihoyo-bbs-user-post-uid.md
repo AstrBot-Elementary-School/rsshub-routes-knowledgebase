@@ -65,28 +65,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "米游社 - 墨色长安 的发帖 - Powered by RSSHub",
+      "description": "米游社 - HoYo青枫 的发帖 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "198688672265496576",
+      "id": "198686370602166272",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=5756223",
-      "title": "米游社 - 墨色长安 的发帖",
+      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=285802042",
+      "title": "米游社 - HoYo青枫 的发帖",
       "type": "feed",
-      "url": "rsshub://mihoyo/bbs/user-post/5756223"
+      "url": "rsshub://mihoyo/bbs/user-post/285802042"
     },
     {
-      "description": "米游社 - 鸦居丶 的发帖 - Powered by RSSHub",
+      "description": "米游社 - 猫冬 的发帖 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "198688274828765184",
+      "id": "198685663556975616",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=75259669",
-      "title": "米游社 - 鸦居丶 的发帖",
+      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=74019947",
+      "title": "米游社 - 猫冬 的发帖",
       "type": "feed",
-      "url": "rsshub://mihoyo/bbs/user-post/75259669"
+      "url": "rsshub://mihoyo/bbs/user-post/74019947"
     }
   ]
 }

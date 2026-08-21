@@ -60,7 +60,7 @@ Click here to view [All Topics](https://hbr.org/topics)
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 75,
+  "heat": 76,
   "location": "topic.ts",
   "maintainers": [
     "nczitzk",

@@ -72,7 +72,7 @@ _None_
   "topFeeds": [
     {
       "description": "Codeforces - Contests - Powered by RSSHub",
-      "errorAt": "2026-08-18T04:16:30.306Z",
+      "errorAt": "2026-08-19T02:52:44.368Z",
       "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "56948849407992838",
       "image": null,

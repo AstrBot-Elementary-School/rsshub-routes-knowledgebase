@@ -81,8 +81,8 @@ More categories (except photo) can be found within the navigation bar at <https:
   "topFeeds": [
     {
       "description": "The Atlantic - LATEST - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-19T00:54:08.486Z",
+      "errorMessage": "Cannot read properties of undefined (reading 'filter')\n[GET] \"https://www.theatlantic.com/latest/\": <no response> fetch failed\nCannot read properties of undefined (reading 'filter')\nCannot read properties of undefined (reading 'filter')\nCannot read properties of undefined (reading 'filter')\nCannot read properties of undefined (reading 'filter')\n",
       "id": "61228164717836288",
       "image": null,
       "ownerUserId": null,

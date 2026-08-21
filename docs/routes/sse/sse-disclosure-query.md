@@ -65,21 +65,21 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "上海证券交易所 - 上市公司信息 - 白云机场最新公告 - Powered by RSSHub",
+      "description": "上海证券交易所 - 上市公司信息 - 华能国际最新公告 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "115958109880213504",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.sse.com.cn/assortment/stock/list/info/announcement/index.shtml?productId=undefined",
-      "title": "上海证券交易所 - 上市公司信息 - 白云机场最新公告",
+      "title": "上海证券交易所 - 上市公司信息 - 华能国际最新公告",
       "type": "feed",
       "url": "rsshub://sse/disclosure"
     },
     {
       "description": "上海证券交易所 - 上市公司信息 - 公牛集团最新公告 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-19T01:32:59.748Z",
+      "errorMessage": "[GET] \"https://query.sse.com.cn/security/stock/queryCompanyBulletin.do?isPagination=true&securityType=0101,120100,020100,020200,120200&reportType=ALL&pageHelp.pageSize=25&pageHelp.pageCount=50&pageHelp.pageNo=1&pageHelp.beginPage=1&pageHelp.cacheSize=1&pageHelp.endPage=5&_=1787103141951&productId=603195\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 202.122.113.77:443, 2400:8200:8000:110:0:127:0:19:443, timeout: 10000ms))\n",
       "id": "64944303082021888",
       "image": null,
       "ownerUserId": null,

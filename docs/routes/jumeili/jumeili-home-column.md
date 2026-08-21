@@ -87,8 +87,8 @@
   "topFeeds": [
     {
       "description": "聚美丽 - 首页资讯 - Powered by RSSHub",
-      "errorAt": "2026-08-18T08:36:58.241Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "142472750016837632",
       "image": null,
       "ownerUserId": null,

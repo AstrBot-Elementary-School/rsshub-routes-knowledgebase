@@ -43,7 +43,7 @@ _None_
   "features": {
     "nsfw": true
   },
-  "heat": 1,
+  "heat": 2,
   "location": "bestrated.ts",
   "maintainers": [
     "nczitzk"

@@ -76,16 +76,16 @@ _None_
       "url": "rsshub://cara/timeline/alonelee127"
     },
     {
-      "description": "Timeline - Feng Zhu - Powered by RSSHub",
-      "errorAt": "2025-11-26T12:33:50.034Z",
+      "description": "Timeline - NIKA LYNAS - Powered by RSSHub",
+      "errorAt": "2025-11-21T13:47:28.301Z",
       "errorMessage": "[GET] \"https://cara.app/explore\": 403 Forbidden\n",
-      "id": "63189426042807297",
-      "image": "https://cdn.cara.app/production/profiles/d5ba55be-a9af-4ce4-9b3a-0747165de742/feng_headshot_01.jpg",
+      "id": "127384810660678656",
+      "image": "https://cdn.cara.app/production/profiles/f771718b-26f2-4d08-bda8-ddfbdac6a995/sf.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://cara.app/fengz/all",
-      "title": "Timeline - Feng Zhu",
+      "siteUrl": "https://cara.app/cyberpunkova/all",
+      "title": "Timeline - NIKA LYNAS",
       "type": "feed",
-      "url": "rsshub://cara/timeline/fengz"
+      "url": "rsshub://cara/timeline/cyberpunkova"
     }
   ]
 }

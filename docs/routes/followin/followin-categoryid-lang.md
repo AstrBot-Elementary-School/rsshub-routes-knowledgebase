@@ -140,8 +140,8 @@ _None_
   "topFeeds": [
     {
       "description": "Followin - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-19T02:43:20.698Z",
+      "errorMessage": "530 \n[GET] \"https://followin.io\": 429 Too Many Requests\n",
       "id": "72596134870584320",
       "image": "https://followin.io/favicon.ico",
       "ownerUserId": null,

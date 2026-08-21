@@ -64,7 +64,7 @@
   "features": {
     "nsfw": true
   },
-  "heat": 5,
+  "heat": 4,
   "location": "index.tsx",
   "maintainers": [
     "nczitzk"
@@ -91,8 +91,8 @@
   "topFeeds": [
     {
       "description": "cosplay - E-Hentai Galleries - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-19T04:06:26.041Z",
+      "errorMessage": "[GET] \"https://e-hentai.org/cosplay\": 451 Unavailable For Legal Reasons\n",
       "id": "106841534145317888",
       "image": null,
       "ownerUserId": null,
@@ -103,8 +103,8 @@
     },
     {
       "description": "manga - E-Hentai Galleries - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-19T04:50:47.808Z",
+      "errorMessage": "n.map is not a function\n",
       "id": "106841285260128256",
       "image": null,
       "ownerUserId": null,

@@ -75,8 +75,8 @@ _None_
   "topFeeds": [
     {
       "description": "Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates. - Powered by RSSHub",
-      "errorAt": "2026-08-18T05:49:53.058Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'url')\nCannot read properties of undefined (reading 'url')\n",
+      "errorAt": "2026-08-17T18:29:32.646Z",
+      "errorMessage": "[GET] \"https://www.coindesk.com/markets/2026/08/18/kraken-adds-u-s-stocks-in-europe-as-tradfi-crypto-divide-blurs\": 429 Too Many Requests\n[GET] \"https://www.coindesk.com/markets/2026/08/18/kraken-adds-u-s-stocks-in-europe-as-tradfi-crypto-divide-blurs\": 429 Too Many Requests\n",
       "id": "126922928969806848",
       "image": null,
       "ownerUserId": null,

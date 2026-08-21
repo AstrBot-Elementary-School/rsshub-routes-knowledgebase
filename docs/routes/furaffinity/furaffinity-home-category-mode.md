@@ -96,13 +96,13 @@ _None_
       "description": "Fur Affinity Index - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "85914165909319680",
+      "id": "141655371304511488",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.furaffinity.net/",
       "title": "Fur Affinity | Home",
       "type": "feed",
-      "url": "rsshub://furaffinity/home/home"
+      "url": "rsshub://furaffinity/home/nsfw/nsfw"
     }
   ],
   "url": "furaffinity.net"

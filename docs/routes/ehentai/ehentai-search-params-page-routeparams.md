@@ -84,8 +84,8 @@ _None_
     },
     {
       "description": "undefined - E-Hentai Search - Powered by RSSHub",
-      "errorAt": "2026-08-17T22:05:07.596Z",
-      "errorMessage": "[GET] \"https://e-hentai.org/?undefined\": 451 Unavailable For Legal Reasons\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "96502911354921984",
       "image": null,
       "ownerUserId": null,

@@ -102,16 +102,16 @@
       "url": "rsshub://zjut/jwc/1850"
     },
     {
-      "description": "新闻动态 - 浙江工业大学教务处 - Powered by RSSHub",
+      "description": "办事指南 - 浙江工业大学教务处 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "76972290386665472",
+      "id": "71058207767217152",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "http://www.jwc.zjut.edu.cn/1838/list.htm",
-      "title": "新闻动态 - 浙江工业大学教务处",
+      "siteUrl": "http://www.jwc.zjut.edu.cn/1839/list.htm",
+      "title": "办事指南 - 浙江工业大学教务处",
       "type": "feed",
-      "url": "rsshub://zjut/jwc/1838"
+      "url": "rsshub://zjut/jwc/1839"
     }
   ],
   "url": "www.jwc.zjut.edu.cn"

@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 9,
+  "heat": 8,
   "location": "other/doulist.ts",
   "maintainers": [
     "LogicJake",
@@ -66,21 +66,21 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "通向牛逼之路。 - Powered by RSSHub",
+      "description": "赚钱！ - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "74703252055644160",
+      "id": "218332020877377536",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.douban.com/doulist/37716774",
-      "title": "记住这些我觉得你就应该很牛掰了",
+      "siteUrl": "https://www.douban.com/doulist/159237128",
+      "title": "赚钱！",
       "type": "feed",
-      "url": "rsshub://douban/doulist/37716774"
+      "url": "rsshub://douban/doulist/159237128"
     },
     {
       "description": "生活常识 - Powered by RSSHub",
-      "errorAt": "2026-08-18T05:37:55.630Z",
-      "errorMessage": "[GET] \"https://www.douban.com/doulist/153767244\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "218331825094149120",
       "image": null,
       "ownerUserId": null,

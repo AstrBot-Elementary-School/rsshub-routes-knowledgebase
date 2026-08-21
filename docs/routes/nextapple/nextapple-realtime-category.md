@@ -95,8 +95,8 @@
     },
     {
       "description": "最新新聞即時報：24小時不間斷直擊真相｜壹蘋新聞網 - Powered by RSSHub",
-      "errorAt": "2026-08-18T06:08:07.836Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "101860421509435392",
       "image": null,
       "ownerUserId": null,
