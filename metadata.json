@@ -2,7 +2,7 @@
   "files": [
     {
       "path": "index/namespaces.md",
-      "sha256": "2df21b1b4d8f13149d85a972a80f8376a5f2128c27c2844d88ebddee19cafe12"
+      "sha256": "ebf30454b7b0d7be8ab74792a480f9665d650b6e440db935c8a8d168a3e30634"
     },
     {
       "path": "index/005.md",
@@ -2781,6 +2781,10 @@
       "sha256": "2b9ebc7be84099e9c83fb0de11fe63a565709a22991793add99caeca6d35635b"
     },
     {
+      "path": "index/grandcanalmuseum.md",
+      "sha256": "efb0bd2a2d9dc00ccacbec6dc42b0b4db5146274117dc51fdb036557e7f22aa0"
+    },
+    {
       "path": "index/greasyfork.md",
       "sha256": "bcc5d6142d14c2fd3f495d4e0cb144ac6cf47872461824b1394305df7e9f753f"
     },
@@ -5139,6 +5143,10 @@
     {
       "path": "index/rule34video.md",
       "sha256": "2f34328d24ebb6d793dc096bad358b15257816530619b974836fc7f87a48da03"
+    },
+    {
+      "path": "index/rumble.md",
+      "sha256": "adc6c6125376053e0c31519c3b485bc30da193fbca6c78a097904981c3eb5f33"
     },
     {
       "path": "index/runyeah.md",
@@ -12001,6 +12009,14 @@
       "sha256": "1b11d09a4bf21ffc10298422a1df33833caef099c5101ea37d4d3219e48e1a95"
     },
     {
+      "path": "docs/routes/grandcanalmuseum/grandcanalmuseum-linzhantezhan.md",
+      "sha256": "08299d771420f36d9e6c381549bfcf2243e0ae87e7b1ebe5b6b1382ba5466c07"
+    },
+    {
+      "path": "docs/routes/grandcanalmuseum/grandcanalmuseum-yunboxinwen.md",
+      "sha256": "0c06a99205b2c6853f6acfa2e0dcf18e95d79054c8b3420831ceb6085c696722"
+    },
+    {
       "path": "docs/routes/greasyfork/greasyfork-language-domain.md",
       "sha256": "1eeff171869e3e25f34f5de00593dedf106ca81de312c88f1acd26b161099ec6"
     },
@@ -16505,6 +16521,10 @@
       "sha256": "5a6dfdb39676d1ba383749845ee315d7445e5562c3a984c75691f89ae830e8f2"
     },
     {
+      "path": "docs/routes/rumble/rumble-c-channel-embed.md",
+      "sha256": "0e2c3c0af66404c86e0abafdd61d751104e8c817d72adc066f87f186d8ec5076"
+    },
+    {
       "path": "docs/routes/runyeah/runyeah.md",
       "sha256": "fb58625c2770071edf1158fe6002ff7dc50aaed8197678ab30bfd6b2a4d2ad2d"
     },
@@ -20055,13 +20075,13 @@
   ],
   "source": {
     "repo": "https://github.com/DIYgod/RSSHub",
-    "revision": "5850f584426fa666f70bba7c5934b3cbd8b34059"
+    "revision": "7f958db83eab5dc61b48e8da40ae9f742927225c"
   },
   "stats": {
     "categories": 25,
-    "documents": 3323,
-    "files": 5013,
-    "namespaces": 1689
+    "documents": 3326,
+    "files": 5018,
+    "namespaces": 1691
   },
   "version": 1
 }

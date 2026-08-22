@@ -4166,6 +4166,12 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `1`
 - Index File: `index/grainoil.md`
 
+## China Grand Canal Museum
+- Namespace: `grandcanalmuseum`
+- Aliases: `china grand canal museum, grandcanalmuseum, grandcanalmuseum.cn, www, www.grandcanalmuseum.cn`
+- Route Count: `2`
+- Index File: `index/grandcanalmuseum.md`
+
 ## Greasy Fork
 - Namespace: `greasyfork`
 - Aliases: `greasy fork, greasyfork, greasyfork.org`
@@ -7705,6 +7711,12 @@ Use this file to select the target namespace before opening route documents.
 - Aliases: `rule34video, rule34video.com`
 - Route Count: `1`
 - Index File: `index/rule34video.md`
+
+## Rumble
+- Namespace: `rumble`
+- Aliases: `rumble, rumble.com`
+- Route Count: `1`
+- Index File: `index/rumble.md`
 
 ## 跑野大爆炸
 - Namespace: `runyeah`
