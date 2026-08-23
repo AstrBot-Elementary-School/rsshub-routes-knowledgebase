@@ -12,7 +12,7 @@
 - URL: `www.iplaysoft.com`
 - Language: `_None_`
 - Categories: `program-update`
-- Maintainers: `williamgateszhao, cscnk52, LokHsu`
+- Maintainers: `kimi360, williamgateszhao, cscnk52, LokHsu`
 - Source Location: `index.ts`
 - Source Module: `_None_`
 
@@ -57,6 +57,7 @@ _None_
   "heat": 0,
   "location": "index.ts",
   "maintainers": [
+    "kimi360",
     "williamgateszhao",
     "cscnk52",
     "LokHsu"

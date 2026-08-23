@@ -12,7 +12,7 @@
 - URL: `gihyo.jp`
 - Language: `_None_`
 - Categories: `programming`
-- Maintainers: `masakichi`
+- Maintainers: `yuanji-dev`
 - Source Location: `group.ts`
 - Source Module: `_None_`
 
@@ -54,7 +54,7 @@ _None_
   "heat": 1,
   "location": "group.ts",
   "maintainers": [
-    "masakichi"
+    "yuanji-dev"
   ],
   "name": "Series",
   "parameters": {

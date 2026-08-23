@@ -12,7 +12,7 @@
 - URL: `nyaa.si`
 - Language: `_None_`
 - Categories: `multimedia`
-- Maintainers: `Lava-Swimmer, noname1776, camera-2018, Q16KBreak`
+- Maintainers: `LandonLi, noname1776, camera-2018, Q16KBreak`
 - Source Location: `main.ts`
 - Source Module: `_None_`
 
@@ -52,7 +52,7 @@ _None_
   "heat": 11,
   "location": "main.ts",
   "maintainers": [
-    "Lava-Swimmer",
+    "LandonLi",
     "noname1776",
     "camera-2018",
     "Q16KBreak"

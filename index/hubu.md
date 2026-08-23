@@ -16,7 +16,7 @@
 - File: `docs/routes/hubu/hubu-www-category.md`
 - File Name: `hubu-www-category.md`
 - Categories: `university`
-- Maintainers: `nczitzk`
+- Maintainers: `cijiugechu, nczitzk`
 
 ### 资源环境学院
 - Route ID: `hubu:/hubu/zhxy/:category{.+}?`

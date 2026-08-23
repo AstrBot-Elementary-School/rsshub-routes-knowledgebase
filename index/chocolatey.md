@@ -6,7 +6,7 @@
 - URL: `chocolatey.org`
 - Language: `_None_`
 - Aliases: `chocolatey, chocolatey.org`
-- Route Count: `1`
+- Route Count: `2`
 
 ## Routes
 
@@ -17,3 +17,11 @@
 - File Name: `chocolatey-packages-id.md`
 - Categories: `program-update`
 - Maintainers: `nczitzk`
+
+### Software Update
+- Route ID: `chocolatey:/chocolatey/software/:name?`
+- Route Path: `/chocolatey/software/:name?`
+- File: `docs/routes/chocolatey/chocolatey-software-name.md`
+- File Name: `chocolatey-software-name.md`
+- Categories: `program-update`
+- Maintainers: `woodgear`

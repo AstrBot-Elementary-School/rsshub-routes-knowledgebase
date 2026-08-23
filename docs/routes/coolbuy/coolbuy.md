@@ -12,7 +12,7 @@
 - URL: `coolbuy.com`
 - Language: `_None_`
 - Categories: `shopping`
-- Maintainers: `nczitzk`
+- Maintainers: `xyqfer, nczitzk`
 - Source Location: `index.tsx`
 - Source Module: `_None_`
 
@@ -57,6 +57,7 @@ _None_
   "heat": 0,
   "location": "index.tsx",
   "maintainers": [
+    "xyqfer",
     "nczitzk"
   ],
   "name": "产品",

@@ -6,7 +6,7 @@
 - URL: `genshin.hoyoverse.com`
 - Language: `_None_`
 - Aliases: `genshin, genshin.hoyoverse.com, mihoyo, 米哈游`
-- Route Count: `8`
+- Route Count: `10`
 
 ## Routes
 
@@ -49,6 +49,22 @@
 - File Name: `mihoyo-bbs-user-post-uid.md`
 - Categories: `game`
 - Maintainers: `CaoMeiYouRen`
+
+### 崩坏 2 - 游戏公告
+- Route ID: `mihoyo:/mihoyo/bh2/:type?`
+- Route Path: `/mihoyo/bh2/:type?`
+- File: `docs/routes/mihoyo/mihoyo-bh2-type.md`
+- File Name: `mihoyo-bh2-type.md`
+- Categories: `game`
+- Maintainers: `deepred5`
+
+### 崩坏 3 - 游戏公告
+- Route ID: `mihoyo:/mihoyo/bh3/:type`
+- Route Path: `/mihoyo/bh3/:type`
+- File: `docs/routes/mihoyo/mihoyo-bh3-type.md`
+- File Name: `mihoyo-bh3-type.md`
+- Categories: `game`
+- Maintainers: `deepred5, nczitzk`
 
 ### 崩坏：星穹铁道
 - Route ID: `mihoyo:/mihoyo/sr/:location?/:category?`

@@ -16,4 +16,4 @@
 - File: `docs/routes/biquge/biquge-url.md`
 - File Name: `biquge-url.md`
 - Categories: `reading`
-- Maintainers: `nczitzk`
+- Maintainers: `jjeejj, machsix, nczitzk`

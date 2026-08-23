@@ -12,7 +12,7 @@
 - URL: `maoyan.com`
 - Language: `_None_`
 - Categories: `multimedia`
-- Maintainers: `JackyST0`
+- Maintainers: `HenryQW, JackyST0`
 - Source Location: `hot.ts`
 - Source Module: `_None_`
 
@@ -55,6 +55,7 @@ _None_
   "heat": 15,
   "location": "hot.ts",
   "maintainers": [
+    "HenryQW",
     "JackyST0"
   ],
   "name": "正在热映",

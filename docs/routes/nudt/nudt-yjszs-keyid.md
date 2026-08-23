@@ -12,7 +12,7 @@
 - URL: `yjszs.nudt.edu.cn/`
 - Language: `_None_`
 - Categories: `university`
-- Maintainers: `Blank0120`
+- Maintainers: `nczitzk, Blank0120`
 - Source Location: `yjszs.ts`
 - Source Module: `_None_`
 
@@ -57,6 +57,7 @@
   "heat": 3,
   "location": "yjszs.ts",
   "maintainers": [
+    "nczitzk",
     "Blank0120"
   ],
   "name": "研究生院",

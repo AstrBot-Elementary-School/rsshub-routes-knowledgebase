@@ -16,4 +16,4 @@
 - File: `docs/routes/chinadaily/chinadaily-language-category.md`
 - File Name: `chinadaily-language-category.md`
 - Categories: `traditional-media`
-- Maintainers: `nczitzk`
+- Maintainers: `sanmmm, nczitzk`

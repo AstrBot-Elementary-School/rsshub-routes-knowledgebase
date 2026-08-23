@@ -40,7 +40,7 @@
 - File: `docs/routes/nankai/nankai-jwc.md`
 - File Name: `nankai-jwc.md`
 - Categories: `university`
-- Maintainers: `vicguo0724`
+- Maintainers: `zhongweili, vicguo0724`
 
 ### 通知公告
 - Route ID: `nankai:/nankai/notice`

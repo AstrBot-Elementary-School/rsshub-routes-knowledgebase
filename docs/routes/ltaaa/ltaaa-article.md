@@ -12,7 +12,7 @@
 - URL: `www.ltaaa.cn`
 - Language: `_None_`
 - Categories: `new-media`
-- Maintainers: `nczitzk`
+- Maintainers: `sgqy, nczitzk`
 - Source Location: `article.ts`
 - Source Module: `_None_`
 
@@ -57,6 +57,7 @@ _None_
   "heat": 12,
   "location": "article.ts",
   "maintainers": [
+    "sgqy",
     "nczitzk"
   ],
   "name": "网站翻译",

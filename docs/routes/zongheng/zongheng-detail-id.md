@@ -12,7 +12,7 @@
 - URL: `www.zongheng.com`
 - Language: `_None_`
 - Categories: `reading`
-- Maintainers: `TonyRL`
+- Maintainers: `georeth, TonyRL`
 - Source Location: `detail.ts`
 - Source Module: `_None_`
 
@@ -54,6 +54,7 @@ _None_
   "heat": 5,
   "location": "detail.ts",
   "maintainers": [
+    "georeth",
     "TonyRL"
   ],
   "name": "章节更新",

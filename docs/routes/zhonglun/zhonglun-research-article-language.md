@@ -12,7 +12,7 @@
 - URL: `zhonglun.com`
 - Language: `_None_`
 - Categories: `new-media`
-- Maintainers: `nczitzk`
+- Maintainers: `snipersteve, nczitzk`
 - Source Location: `index.ts`
 - Source Module: `_None_`
 
@@ -76,6 +76,7 @@
   "heat": 48,
   "location": "index.ts",
   "maintainers": [
+    "snipersteve",
     "nczitzk"
   ],
   "name": "中伦研究专业文章",

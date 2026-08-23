@@ -12,7 +12,7 @@
 - URL: `junhe.com`
 - Language: `_None_`
 - Categories: `new-media`
-- Maintainers: `nczitzk`
+- Maintainers: `snipersteve, nczitzk`
 - Source Location: `legal-updates.ts`
 - Source Module: `_None_`
 
@@ -58,6 +58,7 @@ _None_
   "heat": 59,
   "location": "legal-updates.ts",
   "maintainers": [
+    "snipersteve",
     "nczitzk"
   ],
   "name": "君合法评",

@@ -12,7 +12,7 @@
 - URL: `005.tv`
 - Language: `_None_`
 - Categories: `anime`
-- Maintainers: `nczitzk`
+- Maintainers: `junfengP, nczitzk`
 - Source Location: `index.tsx`
 - Source Module: `_None_`
 
@@ -79,6 +79,7 @@
   "heat": 2,
   "location": "index.tsx",
   "maintainers": [
+    "junfengP",
     "nczitzk"
   ],
   "name": "资讯",

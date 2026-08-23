@@ -12,7 +12,7 @@
 - URL: `199it.com`
 - Language: `_None_`
 - Categories: `new-media`
-- Maintainers: `nczitzk`
+- Maintainers: `salviox, nczitzk`
 - Source Location: `index.tsx`
 - Source Module: `_None_`
 
@@ -144,6 +144,7 @@
   "heat": 39,
   "location": "index.tsx",
   "maintainers": [
+    "salviox",
     "nczitzk"
   ],
   "name": "资讯",

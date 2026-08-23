@@ -16,4 +16,4 @@
 - File: `docs/routes/zhonglun/zhonglun-research-article-language.md`
 - File Name: `zhonglun-research-article-language.md`
 - Categories: `new-media`
-- Maintainers: `nczitzk`
+- Maintainers: `snipersteve, nczitzk`

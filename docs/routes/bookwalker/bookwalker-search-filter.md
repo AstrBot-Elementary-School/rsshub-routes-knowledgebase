@@ -1,18 +1,18 @@
-# BOOKWALKER電子書 - 搜尋
+# BOOK☆WALKER - 搜尋
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `bookwalker`
-- Namespace Name: `BOOKWALKER電子書`
+- Namespace Name: `BOOK☆WALKER`
 - Route Path: `/bookwalker/search/:filter?`
 - Route Name: `搜尋`
 - Example: `/bookwalker/search/order=sell_desc&s=34`
 - URL: `www.bookwalker.com.tw`
 - Language: `_None_`
 - Categories: `shopping`
-- Maintainers: `nczitzk`
+- Maintainers: `wushijishan, nczitzk`
 - Source Location: `search.tsx`
 - Source Module: `_None_`
 
@@ -60,6 +60,7 @@
   "heat": 1,
   "location": "search.tsx",
   "maintainers": [
+    "wushijishan",
     "nczitzk"
   ],
   "name": "搜尋",

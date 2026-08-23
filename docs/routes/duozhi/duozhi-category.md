@@ -12,7 +12,7 @@
 - URL: `www.duozhi.com`
 - Language: `_None_`
 - Categories: `new-media`
-- Maintainers: `nczitzk`
+- Maintainers: `WenryXu, nczitzk`
 - Source Location: `index.ts`
 - Source Module: `_None_`
 
@@ -139,6 +139,7 @@
   "heat": 0,
   "location": "index.ts",
   "maintainers": [
+    "WenryXu",
     "nczitzk"
   ],
   "name": "分类",

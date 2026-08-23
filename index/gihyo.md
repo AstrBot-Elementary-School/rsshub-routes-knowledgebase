@@ -16,4 +16,4 @@
 - File: `docs/routes/gihyo/gihyo-list-group-id.md`
 - File Name: `gihyo-list-group-id.md`
 - Categories: `programming`
-- Maintainers: `masakichi`
+- Maintainers: `yuanji-dev`

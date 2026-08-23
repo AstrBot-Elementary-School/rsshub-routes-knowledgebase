@@ -12,7 +12,7 @@
 - URL: `sspai.com`
 - Language: `_None_`
 - Categories: `new-media`
-- Maintainers: `SunShinenny, hoilc`
+- Maintainers: `sunshinenny, hoilc`
 - Source Location: `author.ts`
 - Source Module: `_None_`
 
@@ -54,7 +54,7 @@ _None_
   "heat": 166,
   "location": "author.ts",
   "maintainers": [
-    "SunShinenny",
+    "sunshinenny",
     "hoilc"
   ],
   "name": "作者",

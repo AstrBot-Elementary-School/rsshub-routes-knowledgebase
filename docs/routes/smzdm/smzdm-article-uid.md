@@ -12,7 +12,7 @@
 - URL: `post.smzdm.com`
 - Language: `_None_`
 - Categories: `shopping`
-- Maintainers: `xfangbao`
+- Maintainers: `salviox`
 - Source Location: `article.ts`
 - Source Module: `_None_`
 
@@ -59,7 +59,7 @@ _None_
   "heat": 141,
   "location": "article.ts",
   "maintainers": [
-    "xfangbao"
+    "salviox"
   ],
   "name": "用户文章",
   "parameters": {

@@ -8,7 +8,7 @@
 - Namespace Name: `今日头条`
 - Route Path: `/toutiao/user/token/:token`
 - Route Name: `头条主页`
-- Example: `/toutiao/user/token/MS4wLjABAAAAEmbqJP2CmC8XXv1BpMvQ3sQHKAxFsq8wHxj8XVIQWja6tMcB-QEbFkzkRNgMl12M`
+- Example: `/toutiao/user/token/MS4wLjABAAAApOspM7AnWqplD9FIBGnhJRfUjFT_msD1KZMfNPBZa-c`
 - URL: `www.toutiao.com`
 - Language: `_None_`
 - Categories: `new-media`
@@ -37,7 +37,7 @@ _None_
   "categories": [
     "new-media"
   ],
-  "example": "/toutiao/user/token/MS4wLjABAAAAEmbqJP2CmC8XXv1BpMvQ3sQHKAxFsq8wHxj8XVIQWja6tMcB-QEbFkzkRNgMl12M",
+  "example": "/toutiao/user/token/MS4wLjABAAAApOspM7AnWqplD9FIBGnhJRfUjFT_msD1KZMfNPBZa-c",
   "features": {
     "antiCrawler": true
   },

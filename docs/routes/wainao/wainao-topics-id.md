@@ -12,7 +12,7 @@
 - URL: `wainao.me`
 - Language: `_None_`
 - Categories: `new-media`
-- Maintainers: `nczitzk`
+- Maintainers: `shuiRong, nczitzk`
 - Source Location: `topics.tsx`
 - Source Module: `_None_`
 
@@ -109,6 +109,7 @@
   "heat": 3,
   "location": "topics.tsx",
   "maintainers": [
+    "shuiRong",
     "nczitzk"
   ],
   "name": "主题",

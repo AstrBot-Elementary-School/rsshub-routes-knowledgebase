@@ -6,9 +6,17 @@
 - URL: `naver.com`
 - Language: `_None_`
 - Aliases: `naver, naver.com, 네이버`
-- Route Count: `1`
+- Route Count: `2`
 
 ## Routes
+
+### Comic
+- Route ID: `naver:/naver/comic/:id`
+- Route Path: `/naver/comic/:id`
+- File: `docs/routes/naver/naver-comic-id.md`
+- File Name: `naver-comic-id.md`
+- Categories: `anime`
+- Maintainers: `zfanta`
 
 ### 검색
 - Route ID: `naver:/naver/search/:category/:keyword`

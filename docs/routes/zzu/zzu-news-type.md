@@ -12,7 +12,7 @@
 - URL: `www.zzu.edu.cn`
 - Language: `_None_`
 - Categories: `university`
-- Maintainers: `amandus1990`
+- Maintainers: `nia3y, amandus1990`
 - Source Location: `news.ts`
 - Source Module: `_None_`
 
@@ -57,6 +57,7 @@
   "heat": 0,
   "location": "news.ts",
   "maintainers": [
+    "nia3y",
     "amandus1990"
   ],
   "name": "郑大新闻网",

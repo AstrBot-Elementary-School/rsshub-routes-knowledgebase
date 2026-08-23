@@ -6,7 +6,7 @@
 - URL: `www.zzu.edu.cn`
 - Language: `_None_`
 - Aliases: `www, www.zzu.edu.cn, zzu, zzu.edu.cn, 郑州大学`
-- Route Count: `15`
+- Route Count: `16`
 
 ## Routes
 
@@ -64,7 +64,7 @@
 - File: `docs/routes/zzu/zzu-news-type.md`
 - File Name: `zzu-news-type.md`
 - Categories: `university`
-- Maintainers: `amandus1990`
+- Maintainers: `nia3y, amandus1990`
 
 ### 郑大人事部
 - Route ID: `zzu:/zzu/rsc/:type`
@@ -73,6 +73,14 @@
 - File Name: `zzu-rsc-type.md`
 - Categories: `university`
 - Maintainers: `amandus1990`
+
+### 计算机与人工智能学院（软件学院）
+- Route ID: `zzu:/zzu/soft/news/:type?`
+- Route Path: `/zzu/soft/news/:type?`
+- File: `docs/routes/zzu/zzu-soft-news-type.md`
+- File Name: `zzu-soft-news-type.md`
+- Categories: `university`
+- Maintainers: `nia3y`
 
 ### 郑大社科院
 - Route ID: `zzu:/zzu/ss/:type`

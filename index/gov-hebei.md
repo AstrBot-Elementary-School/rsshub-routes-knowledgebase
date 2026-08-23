@@ -6,7 +6,7 @@
 - URL: `www.hebei.gov.cn`
 - Language: `_None_`
 - Aliases: `gov/hebei, hebei.gov.cn, www, www.hebei.gov.cn, 河北省人民政府`
-- Route Count: `1`
+- Route Count: `2`
 
 ## Routes
 
@@ -17,3 +17,11 @@
 - File Name: `gov-hebei-czt-xwdt-category.md`
 - Categories: `government`
 - Maintainers: `nczitzk`
+
+### 退役军人事务厅
+- Route ID: `gov/hebei:/gov/hebei/tyjrswt/:type`
+- Route Path: `/gov/hebei/tyjrswt/:type`
+- File: `docs/routes/gov-hebei/gov-hebei-tyjrswt-type.md`
+- File Name: `gov-hebei-tyjrswt-type.md`
+- Categories: `government`
+- Maintainers: `sunshinenny`

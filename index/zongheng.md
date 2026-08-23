@@ -16,4 +16,4 @@
 - File: `docs/routes/zongheng/zongheng-detail-id.md`
 - File Name: `zongheng-detail-id.md`
 - Categories: `reading`
-- Maintainers: `TonyRL`
+- Maintainers: `georeth, TonyRL`

@@ -16,4 +16,4 @@
 - File: `docs/routes/nyaa/nyaa-search-query.md`
 - File Name: `nyaa-search-query.md`
 - Categories: `multimedia`
-- Maintainers: `Lava-Swimmer, noname1776, camera-2018, Q16KBreak`
+- Maintainers: `LandonLi, noname1776, camera-2018, Q16KBreak`

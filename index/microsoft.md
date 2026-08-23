@@ -6,7 +6,7 @@
 - URL: `microsoft.com`
 - Language: `_None_`
 - Aliases: `microsoft, microsoft.com`
-- Route Count: `2`
+- Route Count: `3`
 
 ## Routes
 
@@ -25,3 +25,11 @@
 - File Name: `microsoft-mcr-product.md`
 - Categories: `program-update`
 - Maintainers: `margani`
+
+### Store Updates
+- Route ID: `microsoft:/microsoft/store/updates/:productid/:market?`
+- Route Path: `/microsoft/store/updates/:productid/:market?`
+- File: `docs/routes/microsoft/microsoft-store-updates-productid-market.md`
+- File Name: `microsoft-store-updates-productid-market.md`
+- Categories: `program-update`
+- Maintainers: `hellodword`

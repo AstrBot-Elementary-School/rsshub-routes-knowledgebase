@@ -1,11 +1,11 @@
-# Massachusetts Institute of Technology - Scratch User Projects
+# Massachusetts Institute of Technology (MIT) - Scratch User Projects
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `mit`
-- Namespace Name: `Massachusetts Institute of Technology`
+- Namespace Name: `Massachusetts Institute of Technology (MIT)`
 - Route Path: `/mit/scratch/user-projects/:username`
 - Route Name: `Scratch User Projects`
 - Example: `/mit/scratch/user-projects/abee`

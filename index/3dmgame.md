@@ -16,7 +16,7 @@
 - File: `docs/routes/3dmgame/3dmgame-games-name-type.md`
 - File Name: `3dmgame-games-name-type.md`
 - Categories: `game`
-- Maintainers: `sinchang, jacky2001114, HenryQW, lyqluis`
+- Maintainers: `sinchang, yangkghjh, HenryQW, lyqluis`
 
 ### 新闻中心
 - Route ID: `3dmgame:/3dmgame/news/:category?`

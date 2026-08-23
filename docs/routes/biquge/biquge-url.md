@@ -12,7 +12,7 @@
 - URL: `xbiquwx.la`
 - Language: `_None_`
 - Categories: `reading`
-- Maintainers: `nczitzk`
+- Maintainers: `jjeejj, machsix, nczitzk`
 - Source Location: `index.ts`
 - Source Module: `_None_`
 
@@ -62,6 +62,8 @@ _None_
   "heat": 0,
   "location": "index.ts",
   "maintainers": [
+    "jjeejj",
+    "machsix",
     "nczitzk"
   ],
   "name": "小说",

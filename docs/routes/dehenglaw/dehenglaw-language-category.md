@@ -12,7 +12,7 @@
 - URL: `dehenglaw.com`
 - Language: `_None_`
 - Categories: `new-media`
-- Maintainers: `nczitzk`
+- Maintainers: `snipersteve, nczitzk`
 - Source Location: `index.ts`
 - Source Module: `_None_`
 
@@ -77,6 +77,7 @@
   "heat": 27,
   "location": "index.ts",
   "maintainers": [
+    "snipersteve",
     "nczitzk"
   ],
   "name": "德恒探索",

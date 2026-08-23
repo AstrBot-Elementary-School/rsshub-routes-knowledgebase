@@ -1,11 +1,11 @@
-# Massachusetts Institute of Technology - HAN Lab Blog
+# Massachusetts Institute of Technology (MIT) - HAN Lab Blog
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `mit`
-- Namespace Name: `Massachusetts Institute of Technology`
+- Namespace Name: `Massachusetts Institute of Technology (MIT)`
 - Route Path: `/mit/hanlab/blog`
 - Route Name: `HAN Lab Blog`
 - Example: `/mit/hanlab/blog`

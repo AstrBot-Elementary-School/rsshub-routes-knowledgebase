@@ -24,4 +24,4 @@
 - File: `docs/routes/neea/neea-local-type.md`
 - File Name: `neea-local-type.md`
 - Categories: `study`
-- Maintainers: `SunShinenny`
+- Maintainers: `sunshinenny`

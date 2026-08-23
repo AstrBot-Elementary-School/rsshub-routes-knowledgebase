@@ -12,7 +12,7 @@
 - URL: `language.chinadaily.com.cn`
 - Language: `_None_`
 - Categories: `traditional-media`
-- Maintainers: `nczitzk`
+- Maintainers: `sanmmm, nczitzk`
 - Source Location: `language.ts`
 - Source Module: `_None_`
 
@@ -41,7 +41,7 @@
 </details>
 
 ## Parameters
-- `category`: {"description": "分类，默认为 `thelatest`，即精彩推荐，可在对应分类页 URL 中找到, Category, `thelatest`，即精彩推荐  by default", "options": [{"label": "精彩推荐", "value": "thelatest"}, {"label": "每日一词", "value": "news_hotwords/word_of_the_day"}, {"label": "双语新闻", "value": "news_bilingual"}, {"label": "新闻热词", "value": "news_hotwords"}, {"label": "实用口语", "value": "practice_tongue"}, {"label": "译词课堂", "value": "trans_collect"}, {"label": "图片新闻", "value": "news_photo"}, {"label": "视频精选", "value": "video_links"}, {"label": "新闻播报", "value": "audio_cd"}, {"label": "专栏作家", "value": "columnist"}, {"label": "权威发布", "value": "5af95d44a3103f6866ee845c"}]}
+- `category`: {"description": "分类，默认为 `thelatest`，即精彩推荐，可在对应分类页 URL 中找到, Category, `thelatest`，即精彩推荐  by default", "options": [{"label": "精彩推荐", "value": "thelatest"}, {"label": "每日一词", "value": "news_hotwords/word_of_the_day"}, {"label": "双语新闻", "value": "news_bilingual"}, {"label": "新闻热词", "value": "news_hotwords"}, {"label": "实用口语", "value": "practice_tongue"}, {"label": "译词课堂", "value": "trans_collect"}, {"label": "图片新闻", "value": "news_photo"}, {"label": "视频精选", "value": "video_links"}, {"label": "新闻播报", "value": "audio_cd"}, {"label": "专栏作家", "value": "columnist"}, {"label": "权威发布", "value": "5af95d44a3103f6866ee845c"}, {"label": "考试培训", "value": "englishexams"}]}
 
 
 ## Features
@@ -133,6 +133,7 @@
   "heat": 39,
   "location": "language.ts",
   "maintainers": [
+    "sanmmm",
     "nczitzk"
   ],
   "name": "英语点津",
@@ -183,6 +184,10 @@
         {
           "label": "权威发布",
           "value": "5af95d44a3103f6866ee845c"
+        },
+        {
+          "label": "考试培训",
+          "value": "englishexams"
         }
       ]
     }

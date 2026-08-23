@@ -16,4 +16,4 @@
 - File: `docs/routes/junhe/junhe-legal-updates.md`
 - File Name: `junhe-legal-updates.md`
 - Categories: `new-media`
-- Maintainers: `nczitzk`
+- Maintainers: `snipersteve, nczitzk`

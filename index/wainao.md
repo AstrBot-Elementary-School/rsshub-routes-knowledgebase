@@ -16,7 +16,7 @@
 - File: `docs/routes/wainao/wainao-topics-id.md`
 - File Name: `wainao-topics-id.md`
 - Categories: `new-media`
-- Maintainers: `nczitzk`
+- Maintainers: `shuiRong, nczitzk`
 
 ### 歪脑读
 - Route ID: `wainao:/wainao/wainao-reads`

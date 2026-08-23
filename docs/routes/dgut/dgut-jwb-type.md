@@ -12,7 +12,7 @@
 - URL: `www.dgut.edu.cn`
 - Language: `_None_`
 - Categories: `university`
-- Maintainers: `1200522928`
+- Maintainers: `korokor0, 1200522928`
 - Source Location: `jwb.ts`
 - Source Module: `_None_`
 
@@ -58,6 +58,7 @@
   "heat": 1,
   "location": "jwb.ts",
   "maintainers": [
+    "korokor0",
     "1200522928"
   ],
   "name": "教务部通知公告",

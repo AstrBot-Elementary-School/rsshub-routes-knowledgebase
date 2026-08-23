@@ -12,7 +12,7 @@
 - URL: `sspai.com/topics`
 - Language: `_None_`
 - Categories: `new-media`
-- Maintainers: `SunShinenny`
+- Maintainers: `sunshinenny`
 - Source Location: `topics.ts`
 - Source Module: `_None_`
 
@@ -55,7 +55,7 @@ _None_
   "heat": 33,
   "location": "topics.ts",
   "maintainers": [
-    "SunShinenny"
+    "sunshinenny"
   ],
   "name": "专题",
   "parameters": {},

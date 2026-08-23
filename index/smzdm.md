@@ -16,7 +16,7 @@
 - File: `docs/routes/smzdm/smzdm-article-uid.md`
 - File Name: `smzdm-article-uid.md`
 - Categories: `shopping`
-- Maintainers: `xfangbao`
+- Maintainers: `salviox`
 
 ### 用户爆料
 - Route ID: `smzdm:/smzdm/baoliao/:uid`

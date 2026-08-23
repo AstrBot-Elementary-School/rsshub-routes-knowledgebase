@@ -6,7 +6,7 @@
 - URL: `tencent.com`
 - Language: `_None_`
 - Aliases: `tencent, tencent.com, 腾讯`
-- Route Count: `6`
+- Route Count: `7`
 
 ## Routes
 
@@ -49,6 +49,14 @@
 - File Name: `tencent-pvp-newsindex-type.md`
 - Categories: `game`
 - Maintainers: `Jeason0228, HenryQW`
+
+### 腾讯云移动直播 SDK 更新日志
+- Route ID: `tencent:/tencent/qcloud/mlvb/changelog`
+- Route Path: `/tencent/qcloud/mlvb/changelog`
+- File: `docs/routes/tencent/tencent-qcloud-mlvb-changelog.md`
+- File Name: `tencent-qcloud-mlvb-changelog.md`
+- Categories: `program-update`
+- Maintainers: `EkkoG`
 
 ### 更新日志
 - Route ID: `tencent:/tencent/qq/sdk/changelog/:platform`

@@ -6,7 +6,7 @@
 - URL: `yz.chsi.com.cn`
 - Language: `_None_`
 - Aliases: `chsi, yz, yz.chsi.com.cn, 中国研究生招生信息网`
-- Route Count: `3`
+- Route Count: `4`
 
 ## Routes
 
@@ -33,3 +33,11 @@
 - File Name: `chsi-kyzx-type.md`
 - Categories: `study`
 - Maintainers: `yanbot-team`
+
+### 教育部阳光高考信息公开平台招生政策规定
+- Route ID: `chsi:/chsi/zszcgd/:category?`
+- Route Path: `/chsi/zszcgd/:category?`
+- File: `docs/routes/chsi/chsi-zszcgd-category.md`
+- File Name: `chsi-zszcgd-category.md`
+- Categories: `study`
+- Maintainers: `nczitzk`

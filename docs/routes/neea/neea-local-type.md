@@ -12,7 +12,7 @@
 - URL: `www.neea.edu.cn`
 - Language: `_None_`
 - Categories: `study`
-- Maintainers: `SunShinenny`
+- Maintainers: `sunshinenny`
 - Source Location: `index.ts`
 - Source Module: `_None_`
 
@@ -175,7 +175,7 @@
   "heat": 51,
   "location": "index.ts",
   "maintainers": [
-    "SunShinenny"
+    "sunshinenny"
   ],
   "name": "国内考试动态",
   "parameters": {

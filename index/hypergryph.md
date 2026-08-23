@@ -6,7 +6,7 @@
 - URL: `www.hypergryph.com`
 - Language: `_None_`
 - Aliases: `hypergryph, hypergryph.com, www, www.hypergryph.com, 鹰角网络`
-- Route Count: `4`
+- Route Count: `5`
 
 ## Routes
 
@@ -41,3 +41,11 @@
 - File Name: `hypergryph-endfield-news-group.md`
 - Categories: `game`
 - Maintainers: `E-larex`
+
+### 塞壬唱片
+- Route ID: `hypergryph:/hypergryph/siren/news`
+- Route Path: `/hypergryph/siren/news`
+- File: `docs/routes/hypergryph/hypergryph-siren-news.md`
+- File Name: `hypergryph-siren-news.md`
+- Categories: `game`
+- Maintainers: `rikkablue`

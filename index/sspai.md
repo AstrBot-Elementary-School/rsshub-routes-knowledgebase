@@ -24,7 +24,7 @@
 - File: `docs/routes/sspai/sspai-author-id.md`
 - File Name: `sspai-author-id.md`
 - Categories: `new-media`
-- Maintainers: `SunShinenny, hoilc`
+- Maintainers: `sunshinenny, hoilc`
 
 ### 用户收藏
 - Route ID: `sspai:/sspai/bookmarks/:slug`
@@ -104,7 +104,7 @@
 - File: `docs/routes/sspai/sspai-topic-id.md`
 - File Name: `sspai-topic-id.md`
 - Categories: `new-media`
-- Maintainers: `SunShinenny`
+- Maintainers: `sunshinenny`
 
 ### 专题
 - Route ID: `sspai:/sspai/topics`
@@ -112,4 +112,4 @@
 - File: `docs/routes/sspai/sspai-topics.md`
 - File Name: `sspai-topics.md`
 - Categories: `new-media`
-- Maintainers: `SunShinenny`
+- Maintainers: `sunshinenny`

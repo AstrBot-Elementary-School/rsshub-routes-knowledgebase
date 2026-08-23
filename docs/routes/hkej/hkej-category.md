@@ -1,4 +1,4 @@
-# 信报财经新闻 - 即时新闻
+# 信报财经新闻 - 即時新聞
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `hkej`
 - Namespace Name: `信报财经新闻`
 - Route Path: `/hkej/:category?`
-- Route Name: `即时新闻`
+- Route Name: `即時新聞`
 - Example: `/hkej/index`
 - URL: `hkej.com/`
 - Language: `_None_`
@@ -17,12 +17,12 @@
 - Source Module: `_None_`
 
 ## Description
-| index    | stock    | hongkong | china    | international | property | current  |
-| -------- | -------- | -------- | -------- | ------------- | -------- | -------- |
-| 全部新闻 | 港股直击 | 香港财经 | 中国财经 | 国际财经      | 地产新闻 | 时事脉搏 |
+| index    | stock    | hongkong | property | china    | international | current  | market   | announcement | hkex       |
+| -------- | -------- | -------- | -------- | -------- | ------------- | -------- | -------- | ------------ | ---------- |
+| 全部新闻 | 港股直擊 | 香港財經 | 地產新聞 | 中國財經 | 國際財經      | 時事脈搏 | 即巿股評 | 重要通告     | 港交所通告 |
 
 ## Parameters
-- `category`: 分类，默认为全部新闻
+- `category`: 分類，預設為全部新聞
 
 
 ## Features
@@ -36,7 +36,8 @@
 ## Radar
 ### Rule 1
 - `source`:
-  - `hkej.com/`
+  - `www.hkej.com/instantnews/:category`
+  - `www.hkej.com/instantnews`
 
 ## Raw JSON
 ```json
@@ -44,7 +45,7 @@
   "categories": [
     "traditional-media"
   ],
-  "description": "| index    | stock    | hongkong | china    | international | property | current  |\n| -------- | -------- | -------- | -------- | ------------- | -------- | -------- |\n| 全部新闻 | 港股直击 | 香港财经 | 中国财经 | 国际财经      | 地产新闻 | 时事脉搏 |",
+  "description": "| index    | stock    | hongkong | property | china    | international | current  | market   | announcement | hkex       |\n| -------- | -------- | -------- | -------- | -------- | ------------- | -------- | -------- | ------------ | ---------- |\n| 全部新闻 | 港股直擊 | 香港財經 | 地產新聞 | 中國財經 | 國際財經      | 時事脈搏 | 即巿股評 | 重要通告     | 港交所通告 |",
   "example": "/hkej/index",
   "features": {
     "antiCrawler": true,
@@ -59,15 +60,16 @@
   "maintainers": [
     "TonyRL"
   ],
-  "name": "即时新闻",
+  "name": "即時新聞",
   "parameters": {
-    "category": "分类，默认为全部新闻"
+    "category": "分類，預設為全部新聞"
   },
   "path": "/:category?",
   "radar": [
     {
       "source": [
-        "hkej.com/"
+        "www.hkej.com/instantnews/:category",
+        "www.hkej.com/instantnews"
       ]
     }
   ],

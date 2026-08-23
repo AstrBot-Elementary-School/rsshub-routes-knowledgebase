@@ -16,7 +16,7 @@
 - File: `docs/routes/iplaysoft/iplaysoft.md`
 - File Name: `iplaysoft.md`
 - Categories: `program-update`
-- Maintainers: `williamgateszhao, cscnk52, LokHsu`
+- Maintainers: `kimi360, williamgateszhao, cscnk52, LokHsu`
 
 ### 分类
 - Route ID: `iplaysoft:/iplaysoft/category/:slug`

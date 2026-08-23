@@ -12,7 +12,7 @@
 - URL: `cqu.edu.cn`
 - Language: `_None_`
 - Categories: `university`
-- Maintainers: `AhsokaTano26`
+- Maintainers: `El-Chiang, Hagb, AhsokaTano26`
 - Source Location: `index.ts`
 - Source Module: `_None_`
 
@@ -55,6 +55,8 @@ _None_
   "heat": 0,
   "location": "index.ts",
   "maintainers": [
+    "El-Chiang",
+    "Hagb",
     "AhsokaTano26"
   ],
   "name": "本科教学信息网通知",

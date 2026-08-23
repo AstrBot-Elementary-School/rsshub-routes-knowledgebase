@@ -12,7 +12,7 @@
 - URL: `jwc.nankai.edu.cn`
 - Language: `_None_`
 - Categories: `university`
-- Maintainers: `vicguo0724`
+- Maintainers: `zhongweili, vicguo0724`
 - Source Location: `jwc.ts`
 - Source Module: `_None_`
 
@@ -56,6 +56,7 @@ _None_
   "heat": 3,
   "location": "jwc.ts",
   "maintainers": [
+    "zhongweili",
     "vicguo0724"
   ],
   "name": "教务处通知公告",

@@ -6,9 +6,17 @@
 - URL: `news.yahoo.com`
 - Language: `_None_`
 - Aliases: `news, news.yahoo.com, yahoo`
-- Route Count: `4`
+- Route Count: `5`
 
 ## Routes
+
+### News By Author
+- Route ID: `yahoo:/yahoo/author/:author`
+- Route Path: `/yahoo/author/:author`
+- File: `docs/routes/yahoo/yahoo-author-author.md`
+- File Name: `yahoo-author-author.md`
+- Categories: `traditional-media`
+- Maintainers: `loganrockmore`
 
 ### News
 - Route ID: `yahoo:/yahoo/news/:region/:category?`

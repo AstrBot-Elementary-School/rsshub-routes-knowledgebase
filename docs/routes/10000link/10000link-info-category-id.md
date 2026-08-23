@@ -12,7 +12,7 @@
 - URL: `info.10000link.com`
 - Language: `_None_`
 - Categories: `new-media`
-- Maintainers: `nczitzk`
+- Maintainers: `kt286, nczitzk`
 - Source Location: `info.ts`
 - Source Module: `_None_`
 
@@ -72,6 +72,7 @@
   "heat": 10,
   "location": "info.ts",
   "maintainers": [
+    "kt286",
     "nczitzk"
   ],
   "name": "新闻",

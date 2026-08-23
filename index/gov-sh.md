@@ -6,7 +6,7 @@
 - URL: `sh.gov.cn`
 - Language: `_None_`
 - Aliases: `gov/sh, sh, sh.gov.cn, 上海市人民政府`
-- Route Count: `5`
+- Route Count: `6`
 
 ## Routes
 
@@ -25,6 +25,14 @@
 - File Name: `gov-sh-rsj-ksxm.md`
 - Categories: `government`
 - Maintainers: `Fatpandac`
+
+### 空气质量
+- Route ID: `gov/sh:/gov/sh/sthj`
+- Route Path: `/gov/sh/sthj`
+- File: `docs/routes/gov-sh/gov-sh-sthj.md`
+- File Name: `gov-sh-sthj.md`
+- Categories: `forecast`
+- Maintainers: `nczitzk`
 
 ### 文旅局审批公告
 - Route ID: `gov/sh:/gov/sh/wgj/:page?`

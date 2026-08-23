@@ -6,7 +6,7 @@
 - URL: `dbaplus.cn`
 - Language: `_None_`
 - Aliases: `dbaplus, dbaplus.cn, dbaplus社群`
-- Route Count: `2`
+- Route Count: `3`
 
 ## Routes
 
@@ -17,6 +17,14 @@
 - File Name: `dbaplus.md`
 - Categories: `programming`
 - Maintainers: `cnkmmk`
+
+### 活动
+- Route ID: `dbaplus:/dbaplus/activity/:type?`
+- Route Path: `/dbaplus/activity/:type?`
+- File: `docs/routes/dbaplus/dbaplus-activity-type.md`
+- File Name: `dbaplus-activity-type.md`
+- Categories: `programming`
+- Maintainers: `nczitzk`
 
 ### 资讯
 - Route ID: `dbaplus:/dbaplus/news/:id?`

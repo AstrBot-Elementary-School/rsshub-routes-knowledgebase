@@ -6,7 +6,7 @@
 - URL: `qq.com`
 - Language: `_None_`
 - Aliases: `qq, qq.com, 腾讯网`
-- Route Count: `10`
+- Route Count: `17`
 
 ## Routes
 
@@ -66,6 +66,22 @@
 - Categories: `game`
 - Maintainers: `nczitzk`
 
+### 掌上英雄联盟用户文章
+- Route ID: `qq:/qq/mlol/article/:uuid`
+- Route Path: `/qq/mlol/article/:uuid`
+- File: `docs/routes/qq/qq-mlol-article-uuid.md`
+- File Name: `qq-mlol-article-uuid.md`
+- Categories: `game`
+- Maintainers: `ztmzzz`
+
+### 掌上英雄联盟推荐
+- Route ID: `qq:/qq/mlol/recommend`
+- Route Path: `/qq/mlol/recommend`
+- File: `docs/routes/qq/qq-mlol-recommend.md`
+- File Name: `qq-mlol-recommend.md`
+- Categories: `game`
+- Maintainers: `alizeegod`
+
 ### 用户主页列表
 - Route ID: `qq:/qq/news/:uid/:detail?`
 - Route Path: `/qq/news/:uid/:detail?`
@@ -81,6 +97,46 @@
 - File Name: `qq-pd-guild-id-sub-sort.md`
 - Categories: `bbs`
 - Maintainers: `mobyw`
+
+### 兔小巢新帖
+- Route ID: `qq:/qq/txc/post/:project`
+- Route Path: `/qq/txc/post/:project`
+- File: `docs/routes/qq/qq-txc-post-project.md`
+- File Name: `qq-txc-post-project.md`
+- Categories: `program-update`
+- Maintainers: `Qixingchen`
+
+### 开发者工具更新日志
+- Route ID: `qq:/qq/weixin/miniprogram/devtools`
+- Route Path: `/qq/weixin/miniprogram/devtools`
+- File: `docs/routes/qq/qq-weixin-miniprogram-devtools.md`
+- File Name: `qq-weixin-miniprogram-devtools.md`
+- Categories: `programming`
+- Maintainers: `nczitzk`
+
+### 基础库更新日志
+- Route ID: `qq:/qq/weixin/miniprogram/framework`
+- Route Path: `/qq/weixin/miniprogram/framework`
+- File: `docs/routes/qq/qq-weixin-miniprogram-framework.md`
+- File Name: `qq-weixin-miniprogram-framework.md`
+- Categories: `programming`
+- Maintainers: `magicLaLa, nczitzk`
+
+### 云开发更新日志
+- Route ID: `qq:/qq/weixin/miniprogram/wxcloud/:caty?`
+- Route Path: `/qq/weixin/miniprogram/wxcloud/:caty?`
+- File: `docs/routes/qq/qq-weixin-miniprogram-wxcloud-caty.md`
+- File Name: `qq-weixin-miniprogram-wxcloud-caty.md`
+- Categories: `programming`
+- Maintainers: `nczitzk`
+
+### 微信支付 - 商户平台公告
+- Route ID: `qq:/qq/weixin/pay/announce`
+- Route Path: `/qq/weixin/pay/announce`
+- File: `docs/routes/qq/qq-weixin-pay-announce.md`
+- File Name: `qq-weixin-pay-announce.md`
+- Categories: `programming`
+- Maintainers: `phantomk`
 
 ### 微信读书榜单
 - Route ID: `qq:/qq/weread/:category`

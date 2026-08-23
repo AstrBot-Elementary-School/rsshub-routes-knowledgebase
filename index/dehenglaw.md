@@ -16,4 +16,4 @@
 - File: `docs/routes/dehenglaw/dehenglaw-language-category.md`
 - File Name: `dehenglaw-language-category.md`
 - Categories: `new-media`
-- Maintainers: `nczitzk`
+- Maintainers: `snipersteve, nczitzk`

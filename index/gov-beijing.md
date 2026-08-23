@@ -6,7 +6,7 @@
 - URL: `www.beijing.gov.cn`
 - Language: `_None_`
 - Aliases: `beijing.gov.cn, gov/beijing, www, www.beijing.gov.cn, 北京市人民政府`
-- Route Count: `4`
+- Route Count: `5`
 
 ## Routes
 
@@ -41,3 +41,11 @@
 - File Name: `gov-beijing-kw-channel.md`
 - Categories: `government`
 - Maintainers: `Fatpandac`
+
+### 卫生健康委员会 - 新闻中心
+- Route ID: `gov/beijing:/gov/beijing/mhc/:caty`
+- Route Path: `/gov/beijing/mhc/:caty`
+- File: `docs/routes/gov-beijing/gov-beijing-mhc-caty.md`
+- File Name: `gov-beijing-mhc-caty.md`
+- Categories: `government`
+- Maintainers: `luyuhuang`

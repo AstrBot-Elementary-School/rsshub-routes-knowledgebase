@@ -12,7 +12,7 @@
 - URL: `wufazhuce.com`
 - Language: `_None_`
 - Categories: `new-media`
-- Maintainers: `sicheng1806`
+- Maintainers: `fengkx, sicheng1806`
 - Source Location: `one.ts`
 - Source Module: `_None_`
 
@@ -55,6 +55,7 @@ _None_
   "heat": 190,
   "location": "one.ts",
   "maintainers": [
+    "fengkx",
     "sicheng1806"
   ],
   "name": "「ONE · 一个」",

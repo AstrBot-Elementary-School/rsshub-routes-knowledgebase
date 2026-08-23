@@ -6,9 +6,17 @@
 - URL: `www.zjut.edu.cn`
 - Language: `_None_`
 - Aliases: `www, www.zjut.edu.cn, zjut, zjut.edu.cn, 浙江工业大学`
-- Route Count: `5`
+- Route Count: `7`
 
 ## Routes
+
+### 浙江工业大学
+- Route ID: `zjut:/zjut/:type?`
+- Route Path: `/zjut/:type?`
+- File: `docs/routes/zjut/zjut-type.md`
+- File Name: `zjut-type.md`
+- Categories: `university`
+- Maintainers: `junbaor`
 
 ### 浙江工业大学计算机科学与技术学院、软件学院
 - Route ID: `zjut:/zjut/cs/:type`
@@ -23,6 +31,14 @@
 - Route Path: `/zjut/da/:type`
 - File: `docs/routes/zjut/zjut-da-type.md`
 - File Name: `zjut-da-type.md`
+- Categories: `university`
+- Maintainers: `yikZero`
+
+### 设计与建筑学院
+- Route ID: `zjut:/zjut/design/:type`
+- Route Path: `/zjut/design/:type`
+- File: `docs/routes/zjut/zjut-design-type.md`
+- File Name: `zjut-design-type.md`
 - Categories: `university`
 - Maintainers: `yikZero`
 

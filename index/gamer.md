@@ -6,7 +6,7 @@
 - URL: `acg.gamer.com.tw`
 - Language: `_None_`
 - Aliases: `acg, acg.gamer.com.tw, gamer, 巴哈姆特電玩資訊站`
-- Route Count: `4`
+- Route Count: `6`
 
 ## Routes
 
@@ -25,6 +25,22 @@
 - File Name: `gamer-ani-new_anime.md`
 - Categories: `anime`
 - Maintainers: `maple3142, pseudoyu`
+
+### 个人小屋
+- Route ID: `gamer:/gamer/creation/:author/:folder?`
+- Route Path: `/gamer/creation/:author/:folder?`
+- File: `docs/routes/gamer/gamer-creation-author-folder.md`
+- File Name: `gamer-creation-author-folder.md`
+- Categories: `social-media`
+- Maintainers: `hoilc`
+
+### 创作大厅
+- Route ID: `gamer:/gamer/creation_index/:category?/:subcategory?/:type?`
+- Route Path: `/gamer/creation_index/:category?/:subcategory?/:type?`
+- File: `docs/routes/gamer/gamer-creation_index-category-subcategory-type.md`
+- File Name: `gamer-creation_index-category-subcategory-type.md`
+- Categories: `social-media`
+- Maintainers: `hoilc`
 
 ### GNN 新聞
 - Route ID: `gamer:/gamer/gnn/:category?`

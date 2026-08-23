@@ -6,9 +6,25 @@
 - URL: `www.tsinghua.edu.cn`
 - Language: `_None_`
 - Aliases: `tsinghua, tsinghua.edu.cn, www, www.tsinghua.edu.cn, 清华大学`
-- Route Count: `4`
+- Route Count: `6`
 
 ## Routes
+
+### 招聘信息
+- Route ID: `tsinghua:/tsinghua/career`
+- Route Path: `/tsinghua/career`
+- File: `docs/routes/tsinghua/tsinghua-career.md`
+- File Name: `tsinghua-career.md`
+- Categories: `university`
+- Maintainers: `Halcao, DylanXie123`
+
+### 校内信息发布平台
+- Route ID: `tsinghua:/tsinghua/info/:type`
+- Route Path: `/tsinghua/info/:type`
+- File: `docs/routes/tsinghua/tsinghua-info-type.md`
+- File Name: `tsinghua-info-type.md`
+- Categories: `university`
+- Maintainers: `prnake`
 
 ### 图书馆通知公告
 - Route ID: `tsinghua:/tsinghua/lib/tzgg/:category?`

@@ -16,4 +16,4 @@
 - File: `docs/routes/wufazhuce/wufazhuce-one.md`
 - File Name: `wufazhuce-one.md`
 - Categories: `new-media`
-- Maintainers: `sicheng1806`
+- Maintainers: `fengkx, sicheng1806`

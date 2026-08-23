@@ -1,11 +1,11 @@
-# Massachusetts Institute of Technology - Scratch User Comments
+# Massachusetts Institute of Technology (MIT) - Scratch User Comments
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `mit`
-- Namespace Name: `Massachusetts Institute of Technology`
+- Namespace Name: `Massachusetts Institute of Technology (MIT)`
 - Route Path: `/mit/scratch/user-comments/:username`
 - Route Name: `Scratch User Comments`
 - Example: `/mit/scratch/user-comments/skota11`

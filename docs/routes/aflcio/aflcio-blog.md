@@ -1,11 +1,11 @@
-# AFL-CIO - Blog
+# American Federation of Labor and Congress of Industrial Organizations (AFL-CIO) - Blog
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `aflcio`
-- Namespace Name: `AFL-CIO`
+- Namespace Name: `American Federation of Labor and Congress of Industrial Organizations (AFL-CIO)`
 - Route Path: `/aflcio/blog`
 - Route Name: `Blog`
 - Example: `/aflcio/blog`

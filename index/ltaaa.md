@@ -16,4 +16,4 @@
 - File: `docs/routes/ltaaa/ltaaa-article.md`
 - File Name: `ltaaa-article.md`
 - Categories: `new-media`
-- Maintainers: `nczitzk`
+- Maintainers: `sgqy, nczitzk`

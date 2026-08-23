@@ -1,11 +1,11 @@
-# AFL-CIO Route Index
+# American Federation of Labor and Congress of Industrial Organizations (AFL-CIO) Route Index
 
 ## Namespace
 - Namespace: `aflcio`
-- Display Name: `AFL-CIO`
+- Display Name: `American Federation of Labor and Congress of Industrial Organizations (AFL-CIO)`
 - URL: `aflcio.org`
 - Language: `_None_`
-- Aliases: `afl-cio, aflcio, aflcio.org`
+- Aliases: `aflcio, aflcio.org, american federation of labor and congress of industrial organizations (afl-cio)`
 - Route Count: `1`
 
 ## Routes

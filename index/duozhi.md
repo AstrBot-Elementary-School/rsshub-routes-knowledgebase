@@ -16,4 +16,4 @@
 - File: `docs/routes/duozhi/duozhi-category.md`
 - File Name: `duozhi-category.md`
 - Categories: `new-media`
-- Maintainers: `nczitzk`
+- Maintainers: `WenryXu, nczitzk`

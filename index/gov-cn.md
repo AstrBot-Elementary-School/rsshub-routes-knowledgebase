@@ -6,7 +6,7 @@
 - URL: `www.gov.cn/`
 - Language: `_None_`
 - Aliases: `gov.cn/, gov/cn, www, www.gov.cn/, 中国政府网`
-- Route Count: `1`
+- Route Count: `2`
 
 ## Routes
 
@@ -17,3 +17,11 @@
 - File Name: `gov-cn-news-uid.md`
 - Categories: `government`
 - Maintainers: `EsuRt, howfool`
+
+### 图解
+- Route ID: `gov/cn:/gov/cn/xinwen/tujie/:caty`
+- Route Path: `/gov/cn/xinwen/tujie/:caty`
+- File: `docs/routes/gov-cn/gov-cn-xinwen-tujie-caty.md`
+- File Name: `gov-cn-xinwen-tujie-caty.md`
+- Categories: `government`
+- Maintainers: `nczitzk`

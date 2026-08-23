@@ -12,7 +12,7 @@
 - URL: `aqicn.org`
 - Language: `_None_`
 - Categories: `other`
-- Maintainers: `ladeng07`
+- Maintainers: `xapool, ladeng07`
 - Source Location: `aqi.ts`
 - Source Module: `_None_`
 
@@ -56,6 +56,7 @@ _None_
   "heat": 12,
   "location": "aqi.ts",
   "maintainers": [
+    "xapool",
     "ladeng07"
   ],
   "name": "实时 AQI",

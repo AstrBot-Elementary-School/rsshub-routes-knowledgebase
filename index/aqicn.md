@@ -16,4 +16,4 @@
 - File: `docs/routes/aqicn/aqicn-city-pollution.md`
 - File Name: `aqicn-city-pollution.md`
 - Categories: `other`
-- Maintainers: `ladeng07`
+- Maintainers: `xapool, ladeng07`

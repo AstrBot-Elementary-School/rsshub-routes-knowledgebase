@@ -10,7 +10,7 @@
 
 ## Routes
 
-### 即时新闻
+### 即時新聞
 - Route ID: `hkej:/hkej/:category?`
 - Route Path: `/hkej/:category?`
 - File: `docs/routes/hkej/hkej-category.md`

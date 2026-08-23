@@ -1,11 +1,11 @@
-# BOOKWALKER電子書 Route Index
+# BOOK☆WALKER Route Index
 
 ## Namespace
 - Namespace: `bookwalker`
-- Display Name: `BOOKWALKER電子書`
+- Display Name: `BOOK☆WALKER`
 - URL: `bookwalker.com.tw`
 - Language: `_None_`
-- Aliases: `bookwalker, bookwalker.com.tw, bookwalker電子書`
+- Aliases: `bookwalker, bookwalker.com.tw, book☆walker`
 - Route Count: `1`
 
 ## Routes
@@ -16,4 +16,4 @@
 - File: `docs/routes/bookwalker/bookwalker-search-filter.md`
 - File Name: `bookwalker-search-filter.md`
 - Categories: `shopping`
-- Maintainers: `nczitzk`
+- Maintainers: `wushijishan, nczitzk`

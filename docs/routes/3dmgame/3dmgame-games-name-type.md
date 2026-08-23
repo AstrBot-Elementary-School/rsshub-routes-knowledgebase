@@ -12,7 +12,7 @@
 - URL: `3dmgame.com`
 - Language: `_None_`
 - Categories: `game`
-- Maintainers: `sinchang, jacky2001114, HenryQW, lyqluis`
+- Maintainers: `sinchang, yangkghjh, HenryQW, lyqluis`
 - Source Location: `game.ts`
 - Source Module: `_None_`
 
@@ -46,7 +46,7 @@ _None_
   "location": "game.ts",
   "maintainers": [
     "sinchang",
-    "jacky2001114",
+    "yangkghjh",
     "HenryQW",
     "lyqluis"
   ],

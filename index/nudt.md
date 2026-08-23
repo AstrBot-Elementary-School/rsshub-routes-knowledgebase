@@ -16,4 +16,4 @@
 - File: `docs/routes/nudt/nudt-yjszs-keyid.md`
 - File Name: `nudt-yjszs-keyid.md`
 - Categories: `university`
-- Maintainers: `Blank0120`
+- Maintainers: `nczitzk, Blank0120`
