@@ -161,6 +161,9 @@ _None_
       "target": "/course/list"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

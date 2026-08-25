@@ -43,6 +43,9 @@ _None_
   ],
   "name": "思想理论",
   "path": "/idea",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

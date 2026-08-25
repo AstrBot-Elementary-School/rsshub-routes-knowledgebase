@@ -43,6 +43,9 @@ _None_
   ],
   "name": "金诚同达",
   "path": "/",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

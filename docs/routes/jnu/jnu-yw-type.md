@@ -49,6 +49,9 @@ _None_
     "type": "栏目，默认为 `col2`"
   },
   "path": "/yw/:type?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

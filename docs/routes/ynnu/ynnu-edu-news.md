@@ -54,6 +54,9 @@ _None_
       "target": "/edu/news"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "jxjy.ynnu.edu.cn"
 }

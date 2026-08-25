@@ -46,6 +46,9 @@ _None_
     "id": "用户 id, 分享用户主页时的 URL 的 userIdEcpt 参数"
   },
   "path": "/:id",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

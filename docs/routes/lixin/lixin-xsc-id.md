@@ -46,6 +46,9 @@ _None_
     "id": "类别 ID，`info/iList.jsp?cat_id=` 后方数字"
   },
   "path": "/xsc/:id",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

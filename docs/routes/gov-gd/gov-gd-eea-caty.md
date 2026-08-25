@@ -49,6 +49,9 @@ _None_
     "caty": "资讯类别"
   },
   "path": "/eea/:caty",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

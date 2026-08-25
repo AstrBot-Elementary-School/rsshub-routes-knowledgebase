@@ -57,6 +57,9 @@ _None_
       "target": "/user/:uid"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [],
   "url": "www.meipai.com"
 }

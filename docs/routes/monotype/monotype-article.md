@@ -43,6 +43,9 @@ _None_
   ],
   "name": "Featured Article",
   "path": "/article",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

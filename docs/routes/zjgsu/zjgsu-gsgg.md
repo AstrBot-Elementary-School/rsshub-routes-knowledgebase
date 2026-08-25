@@ -43,6 +43,9 @@ _None_
   ],
   "name": "教务处 - 公示公告",
   "path": "/gsgg",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "jww.zjgsu.edu.cn/1380/list.htm"
 }

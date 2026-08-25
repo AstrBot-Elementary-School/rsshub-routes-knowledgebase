@@ -48,6 +48,9 @@ _None_
   ],
   "name": "权威数据",
   "path": "/qwsj",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "www.caict.ac.cn/kxyj/qwfb/qwsj/"
 }

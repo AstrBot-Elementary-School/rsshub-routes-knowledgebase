@@ -43,6 +43,9 @@ _None_
   ],
   "name": "硕士研究生招生动态",
   "path": "/ssszs",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

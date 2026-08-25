@@ -43,6 +43,9 @@ _None_
   ],
   "name": "监管动态",
   "path": "/jgdt",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

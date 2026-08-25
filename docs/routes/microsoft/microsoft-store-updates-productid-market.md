@@ -48,6 +48,9 @@ _None_
     "productid": "`Share` - `Copy Link` in the Store"
   },
   "path": "/store/updates/:productid/:market?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

@@ -44,6 +44,9 @@ _None_
   ],
   "name": "基础库更新日志",
   "path": "/weixin/miniprogram/framework",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

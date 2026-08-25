@@ -118,6 +118,9 @@ _None_
       "target": "/news"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [],
   "url": "web.shanbay.com/reading/web-news"
 }

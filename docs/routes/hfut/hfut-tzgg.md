@@ -43,6 +43,9 @@ _None_
   ],
   "name": "通知公告",
   "path": "/tzgg",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

@@ -49,6 +49,9 @@ _None_
     "lang": "language code, all languages by default"
   },
   "path": "/mindmap/:lang?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

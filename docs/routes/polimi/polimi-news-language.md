@@ -46,6 +46,9 @@ _None_
     "language": "English language code en"
   },
   "path": "/news/:language?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

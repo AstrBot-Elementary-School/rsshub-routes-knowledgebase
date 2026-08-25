@@ -43,6 +43,9 @@ _None_
   ],
   "name": "Changelog",
   "path": "/release",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

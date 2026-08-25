@@ -43,6 +43,9 @@ _None_
   ],
   "name": "庭审回顾",
   "path": "/",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "tingshen.court.gov.cn"
 }

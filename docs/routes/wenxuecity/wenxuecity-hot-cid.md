@@ -46,6 +46,9 @@ _None_
     "cid": "版面 ID, 可在 URL 中找到"
   },
   "path": "/hot/:cid",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

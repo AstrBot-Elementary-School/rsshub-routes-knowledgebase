@@ -43,6 +43,9 @@ _None_
   ],
   "name": "诗词日历",
   "path": "/today",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

@@ -46,6 +46,9 @@ _None_
     "cid": "专栏 id，可从[全部专栏](https://time.geekbang.org/paid-content)进入专栏介绍页，在 URL 中找到"
   },
   "path": "/column/:cid",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

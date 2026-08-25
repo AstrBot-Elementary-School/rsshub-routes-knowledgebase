@@ -43,6 +43,9 @@ _None_
   ],
   "name": "每日精选",
   "path": "/selected",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

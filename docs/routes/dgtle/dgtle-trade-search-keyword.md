@@ -47,6 +47,9 @@ _None_
     "keyword": "搜索关键词"
   },
   "path": "/trade/search/:keyword",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

@@ -49,6 +49,9 @@ _None_
     "caty": "Category, see below, all by default"
   },
   "path": "/:caty?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

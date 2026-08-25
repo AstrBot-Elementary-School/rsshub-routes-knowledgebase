@@ -46,6 +46,9 @@ _None_
   ],
   "name": "计算机科学与工程学院通知",
   "path": "/computer",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

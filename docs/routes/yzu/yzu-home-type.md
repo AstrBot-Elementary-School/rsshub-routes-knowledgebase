@@ -65,6 +65,9 @@
       "target": "/home/:type"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

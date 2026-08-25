@@ -43,6 +43,9 @@ _None_
   ],
   "name": "学术信息",
   "path": "/xsxx",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

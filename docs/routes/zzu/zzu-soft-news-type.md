@@ -49,6 +49,9 @@ _None_
     "type": "可选，默认为 `xyxw`"
   },
   "path": "/soft/news/:type?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

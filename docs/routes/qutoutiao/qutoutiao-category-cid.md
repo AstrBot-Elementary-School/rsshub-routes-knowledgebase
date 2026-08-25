@@ -52,6 +52,9 @@ _None_
     "cid": "分类 id"
   },
   "path": "/category/:cid",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

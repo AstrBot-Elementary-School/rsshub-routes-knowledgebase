@@ -49,6 +49,9 @@ _None_
     "category": "分类名"
   },
   "path": "/:category",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

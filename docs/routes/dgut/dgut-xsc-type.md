@@ -49,6 +49,9 @@ _None_
     "type": "默认为 `2`"
   },
   "path": "/xsc/:type?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

@@ -43,6 +43,9 @@ _None_
   ],
   "name": "热点推荐",
   "path": "/hot",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

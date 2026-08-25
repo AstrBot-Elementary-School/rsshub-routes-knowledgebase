@@ -49,6 +49,9 @@ _None_
     "category": "分类名"
   },
   "path": "/rst/:category",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

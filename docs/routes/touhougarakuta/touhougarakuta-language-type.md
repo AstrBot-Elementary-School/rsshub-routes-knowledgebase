@@ -65,6 +65,9 @@ _None_
     "type": "article type"
   },
   "path": "/:language/:type",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

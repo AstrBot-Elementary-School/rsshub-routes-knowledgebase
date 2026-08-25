@@ -43,6 +43,9 @@ _None_
   ],
   "name": "主题帖（全站）",
   "path": "/threads",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

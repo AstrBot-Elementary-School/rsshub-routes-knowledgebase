@@ -48,6 +48,9 @@ _None_
   ],
   "name": "蓝皮书",
   "path": "/bps",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "www.caict.ac.cn/kxyj/qwfb/bps/"
 }

@@ -51,6 +51,9 @@ _None_
     "type": "类型, 默认为 `mv` 电影"
   },
   "path": "/:type?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

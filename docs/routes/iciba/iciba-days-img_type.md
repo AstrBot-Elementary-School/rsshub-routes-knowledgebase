@@ -54,6 +54,9 @@ _None_
     "img_type": "image style"
   },
   "path": "/:days?/:img_type?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

@@ -85,6 +85,9 @@ _None_
     "sort": "排序方式，`DESC` 指 降序，`ASC` 指 升序，默认为 `DESC` 即 降序"
   },
   "path": "/mindmap/:classId?/:order?/:sort?/:lang?/:price?/:search?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

@@ -61,6 +61,9 @@ _None_
     }
   },
   "path": "/user/:id/:type?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

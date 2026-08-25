@@ -43,6 +43,9 @@ _None_
   ],
   "name": "Press conference",
   "path": "/",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

@@ -73,6 +73,9 @@ _None_
       "target": "/explore/:type"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [],
   "url": "gitlab.com/explore/projects"
 }

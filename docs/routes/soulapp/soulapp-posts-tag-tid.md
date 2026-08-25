@@ -47,6 +47,9 @@ _None_
     "tid": "话题 id, 分享话题时的 URL 的 tagIdEcpt 参数"
   },
   "path": "/posts/tag/:tid{.+}",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

@@ -43,6 +43,9 @@ _None_
   ],
   "name": "文章",
   "path": "/guide",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

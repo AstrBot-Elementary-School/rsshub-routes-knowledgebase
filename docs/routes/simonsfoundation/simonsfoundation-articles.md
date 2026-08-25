@@ -43,6 +43,9 @@ _None_
   ],
   "name": "Articles",
   "path": "/articles",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

@@ -43,6 +43,9 @@ _None_
   ],
   "name": "更新日志",
   "path": "/history",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

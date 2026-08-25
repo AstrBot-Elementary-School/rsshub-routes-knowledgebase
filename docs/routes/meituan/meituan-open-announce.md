@@ -43,6 +43,9 @@ _None_
   ],
   "name": "技术服务合作中心平台公告",
   "path": "/open/announce",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

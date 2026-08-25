@@ -49,6 +49,9 @@ _None_
     "caty": "图解分类，见下表"
   },
   "path": "/xinwen/tujie/:caty",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

@@ -43,6 +43,9 @@ _None_
   ],
   "name": "推荐文章",
   "path": "/article",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

@@ -43,6 +43,9 @@ _None_
   ],
   "name": "通知",
   "path": "/zxtz",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

@@ -50,6 +50,9 @@ _None_
     "project": "project name"
   },
   "path": "/release/:namespace/:project/:host?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

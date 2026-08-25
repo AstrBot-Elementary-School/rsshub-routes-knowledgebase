@@ -59,6 +59,9 @@ _None_
     "watch_type": "手环型号, 默认为 `小米手环4`"
   },
   "path": "/:watch_type?/:list_type?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

@@ -49,6 +49,9 @@ _None_
     "caty": "类别"
   },
   "path": "/mhc/:caty",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

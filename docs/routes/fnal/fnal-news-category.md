@@ -49,6 +49,9 @@ _None_
     "category": "Category, see below, All News by default"
   },
   "path": "/news/:category?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

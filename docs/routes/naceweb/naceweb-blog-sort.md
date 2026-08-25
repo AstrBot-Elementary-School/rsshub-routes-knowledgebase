@@ -49,6 +49,9 @@ _None_
     "sort": "Sort, see below, Most Recent by default"
   },
   "path": "/blog/:sort?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

@@ -49,6 +49,9 @@ _None_
     "caty": "日志分类"
   },
   "path": "/weixin/miniprogram/wxcloud/:caty?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

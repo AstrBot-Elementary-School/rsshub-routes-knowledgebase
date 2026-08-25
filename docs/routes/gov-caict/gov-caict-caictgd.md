@@ -48,6 +48,9 @@ _None_
   ],
   "name": "CAICT 观点",
   "path": "/caictgd",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "www.caict.ac.cn/kxyj/caictgd/"
 }

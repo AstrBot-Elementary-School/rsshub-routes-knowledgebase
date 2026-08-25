@@ -46,6 +46,9 @@ _None_
     "type": "目前支持两种, `hot` 代表热门游记, `latest` 代表最新游记"
   },
   "path": "/note/:type",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

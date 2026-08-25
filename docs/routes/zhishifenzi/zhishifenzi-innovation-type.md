@@ -56,6 +56,9 @@ _None_
     "type": "type，eg. company"
   },
   "path": "/innovation/:type?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

@@ -43,6 +43,9 @@ _None_
   ],
   "name": "资讯",
   "path": "/report",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

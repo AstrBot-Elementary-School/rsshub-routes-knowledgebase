@@ -49,6 +49,9 @@ _None_
     "category": "分类名（可用 + 连接多个分类）"
   },
   "path": "/cn/:category",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

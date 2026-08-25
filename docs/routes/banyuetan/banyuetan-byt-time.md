@@ -49,6 +49,9 @@ _None_
     "time": "时间，见下表，默认为每周"
   },
   "path": "/byt/:time?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

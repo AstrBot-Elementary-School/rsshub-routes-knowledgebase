@@ -46,6 +46,9 @@ _None_
     "name": "应用名, 可在应用页 URL 中找到"
   },
   "path": "/app/:name",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

@@ -173,6 +173,9 @@ _None_
       "target": "/:category"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [],
   "url": "www.kuai.media"
 }

@@ -44,6 +44,9 @@ _None_
   ],
   "name": "招聘信息",
   "path": "/career",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

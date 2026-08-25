@@ -85,6 +85,9 @@ _None_
     "type": "子分类，见下表，默认为首页"
   },
   "path": "/:category?/:type?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

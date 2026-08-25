@@ -55,6 +55,9 @@ _None_
     "forum": "forum, disqus name of the target website"
   },
   "path": "/posts/:forum",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

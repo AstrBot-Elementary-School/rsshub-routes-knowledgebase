@@ -43,6 +43,9 @@ _None_
   ],
   "name": "新版本发布",
   "path": "/releases",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

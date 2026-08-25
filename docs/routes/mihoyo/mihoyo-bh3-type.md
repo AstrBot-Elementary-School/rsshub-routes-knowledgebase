@@ -50,6 +50,9 @@ _None_
     "type": "公告种类"
   },
   "path": "/bh3/:type",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

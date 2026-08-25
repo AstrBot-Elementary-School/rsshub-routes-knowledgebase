@@ -46,6 +46,9 @@ _None_
     "bookid": "图书ID，可在链接中获取"
   },
   "path": "/book/:bookid",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

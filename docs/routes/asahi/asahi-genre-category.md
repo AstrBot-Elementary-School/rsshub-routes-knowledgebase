@@ -115,6 +115,9 @@ _None_
     "genre": "类型，见下表，默认为トップ"
   },
   "path": "/:genre?/:category?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

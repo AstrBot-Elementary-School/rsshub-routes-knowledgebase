@@ -53,6 +53,9 @@ _None_
     "type": "子类别 id，可在板块页导航栏中找到，默认为 `all` 即 全部"
   },
   "path": "/:id/:type?/:sort?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

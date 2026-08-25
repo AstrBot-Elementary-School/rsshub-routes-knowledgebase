@@ -57,6 +57,9 @@ _None_
     "category": "分类名，见下表"
   },
   "path": "/:category",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

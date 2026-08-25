@@ -49,6 +49,9 @@ _None_
     "caty": "分类 id，默认为 `1`"
   },
   "path": "/:caty?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

@@ -50,6 +50,9 @@ _None_
     "type": "work type, can be `music`,`illust`,`text`"
   },
   "path": "/public/:type/:tag?/:category?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

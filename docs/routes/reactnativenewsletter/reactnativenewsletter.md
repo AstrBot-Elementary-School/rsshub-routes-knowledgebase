@@ -56,6 +56,9 @@ _None_
       "target": ""
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [],
   "url": "reactnativenewsletter.com/past-issues"
 }

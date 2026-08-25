@@ -43,6 +43,9 @@ _None_
   ],
   "name": "开发者工具更新日志",
   "path": "/weixin/miniprogram/devtools",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

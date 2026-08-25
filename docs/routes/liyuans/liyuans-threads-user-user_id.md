@@ -46,6 +46,9 @@ _None_
     "user_id": "用户 ID (仅支持数字 ID), 支持多个, 使用英文逗号分隔"
   },
   "path": "/threads/user/:user_id",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

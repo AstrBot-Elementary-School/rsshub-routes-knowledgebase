@@ -43,6 +43,9 @@ _None_
   ],
   "name": "行业动态",
   "path": "/hydt",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

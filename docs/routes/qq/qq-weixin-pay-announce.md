@@ -43,6 +43,9 @@ _None_
   ],
   "name": "微信支付 - 商户平台公告",
   "path": "/weixin/pay/announce",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

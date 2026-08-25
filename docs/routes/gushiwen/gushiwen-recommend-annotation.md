@@ -51,6 +51,9 @@ _None_
     "annotation": "添加哪些附加信息"
   },
   "path": "/recommend/:annotation?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

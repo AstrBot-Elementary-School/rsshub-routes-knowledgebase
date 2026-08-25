@@ -43,6 +43,9 @@ _None_
   ],
   "name": "教务处通知",
   "path": "/jwc",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

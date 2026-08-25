@@ -60,6 +60,9 @@ _None_
       "target": "/:type"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "www.zjut.edu.cn"
 }

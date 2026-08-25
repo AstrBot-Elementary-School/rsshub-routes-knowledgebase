@@ -43,6 +43,9 @@ _None_
   ],
   "name": "数英网最新文章",
   "path": "/index",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

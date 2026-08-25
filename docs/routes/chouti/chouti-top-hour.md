@@ -46,6 +46,9 @@ _None_
     "hour": "排行榜周期，可选 24 72 168 三种，默认 24"
   },
   "path": "/top/:hour?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

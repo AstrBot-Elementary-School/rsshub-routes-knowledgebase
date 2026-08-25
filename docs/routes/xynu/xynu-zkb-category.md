@@ -51,6 +51,9 @@ _None_
     "category": "分类ID"
   },
   "path": "/zkb/:category",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

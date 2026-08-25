@@ -43,6 +43,9 @@ _None_
   ],
   "name": "众测",
   "path": "/mtest",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

@@ -62,7 +62,7 @@ _None_
   },
   "path": "/hot/:bsn",
   "test": {
-    "code": 0
+    "code": 1
   },
   "topFeeds": [
     {

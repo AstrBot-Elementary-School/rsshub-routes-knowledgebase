@@ -46,6 +46,9 @@ _None_
     "forum_id": "板块 ID, 支持多个, 使用英文逗号分隔"
   },
   "path": "/threads/forum/:forum_id",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

@@ -43,6 +43,9 @@ _None_
   ],
   "name": "Security Council Vetoed a Resolution",
   "path": "/scveto",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

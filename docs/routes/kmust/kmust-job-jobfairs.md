@@ -43,6 +43,9 @@ _None_
   ],
   "name": "双选会",
   "path": "/job/jobfairs",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

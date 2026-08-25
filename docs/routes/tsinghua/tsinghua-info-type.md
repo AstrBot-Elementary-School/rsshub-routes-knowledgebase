@@ -53,6 +53,9 @@ _None_
     "type": "默认为重要公告"
   },
   "path": "/info/:type",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

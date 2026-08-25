@@ -46,6 +46,9 @@ _None_
     "topic_id": "专题 ID, 支持多个, 使用英文逗号分隔"
   },
   "path": "/threads/topic/:topic_id",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

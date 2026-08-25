@@ -49,6 +49,9 @@ _None_
     "type": "默认为 `inner`"
   },
   "path": "/job/careers/:type?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

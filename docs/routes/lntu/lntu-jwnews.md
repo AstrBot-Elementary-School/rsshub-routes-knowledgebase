@@ -43,6 +43,9 @@ _None_
   ],
   "name": "教务公告",
   "path": "/jwnews",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

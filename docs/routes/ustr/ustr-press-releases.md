@@ -43,6 +43,9 @@ _None_
   ],
   "name": "Press Releases",
   "path": "/press-releases",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

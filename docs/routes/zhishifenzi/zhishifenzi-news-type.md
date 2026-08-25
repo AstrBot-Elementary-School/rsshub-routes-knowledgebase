@@ -57,6 +57,9 @@ _None_
     "type": "type，eg. ai"
   },
   "path": "/news/:type?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

@@ -46,6 +46,9 @@ _None_
     "id": "Patch ID"
   },
   "path": "/comments/:id",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

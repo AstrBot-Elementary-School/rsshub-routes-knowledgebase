@@ -43,6 +43,9 @@ _None_
   ],
   "name": "最新帖子",
   "path": "/latest",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

@@ -43,6 +43,9 @@ _None_
   ],
   "name": "Challenge 列表",
   "path": "/challenges",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

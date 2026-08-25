@@ -43,6 +43,9 @@ _None_
   ],
   "name": "各省新闻",
   "path": "/province-news",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

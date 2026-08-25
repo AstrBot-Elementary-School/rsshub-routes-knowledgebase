@@ -53,6 +53,9 @@ _None_
     "tag": "The sub-site name"
   },
   "path": "/:tag/:excludetags?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

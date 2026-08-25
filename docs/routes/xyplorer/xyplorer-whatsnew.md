@@ -43,6 +43,9 @@ _None_
   ],
   "name": "What's New",
   "path": "/whatsnew",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

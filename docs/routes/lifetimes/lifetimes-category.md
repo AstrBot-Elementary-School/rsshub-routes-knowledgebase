@@ -49,6 +49,9 @@ _None_
     "category": "栏目，见下表，默认为新闻"
   },
   "path": "/:category?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

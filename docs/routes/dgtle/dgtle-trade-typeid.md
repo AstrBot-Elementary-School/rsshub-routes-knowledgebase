@@ -50,6 +50,9 @@ _None_
     "typeId": "分类 id，默认为全部"
   },
   "path": "/trade/:typeId?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

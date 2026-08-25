@@ -54,6 +54,9 @@ _None_
       "target": "/updates"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [],
   "url": "www.sketch.com/changelog"
 }

@@ -49,6 +49,9 @@ _None_
     "category": "Category, see below, 24H by default"
   },
   "path": "/chart/:category?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

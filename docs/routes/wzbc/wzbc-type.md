@@ -49,6 +49,9 @@ _None_
     "type": "分类，见下表"
   },
   "path": "/:type?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

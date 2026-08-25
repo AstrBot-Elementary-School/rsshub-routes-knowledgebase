@@ -119,6 +119,9 @@ _None_
     }
   },
   "path": "/notice/:type?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

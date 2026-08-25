@@ -57,6 +57,9 @@ _None_
       "target": "/collection/:username"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

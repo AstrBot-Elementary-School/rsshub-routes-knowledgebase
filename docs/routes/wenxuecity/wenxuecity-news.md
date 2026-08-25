@@ -43,6 +43,9 @@ _None_
   ],
   "name": "焦点新闻",
   "path": "/news",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

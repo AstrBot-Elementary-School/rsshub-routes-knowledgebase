@@ -63,6 +63,9 @@ _None_
     "type": "排行类型, 即为 URL 中 `vt` 参数, 0 或置空为達人專欄"
   },
   "path": "/creation_index/:category?/:subcategory?/:type?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

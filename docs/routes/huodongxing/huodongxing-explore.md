@@ -43,6 +43,9 @@ _None_
   ],
   "name": "最新活动",
   "path": "/explore",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

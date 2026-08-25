@@ -43,6 +43,9 @@ _None_
   ],
   "name": "腾讯云移动直播 SDK 更新日志",
   "path": "/qcloud/mlvb/changelog",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

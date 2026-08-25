@@ -49,6 +49,9 @@ _None_
     "category": "默认为 energy"
   },
   "path": "/industries/:category?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

@@ -43,6 +43,9 @@ _None_
   ],
   "name": "政务公开",
   "path": "/kjj",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

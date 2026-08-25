@@ -52,6 +52,9 @@ _None_
     "caty": "分类，见下表，默认为全部新闻"
   },
   "path": "/hangye/:caty?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

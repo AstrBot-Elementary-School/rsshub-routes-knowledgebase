@@ -26,8 +26,8 @@ _None_
 
 ## Features
 - `requireConfig`: false
-- `requirePuppeteer`: true
-- `antiCrawler`: false
+- `requirePuppeteer`: false
+- `antiCrawler`: true
 - `supportBT`: false
 - `supportPodcast`: false
 - `supportScihub`: false
@@ -46,9 +46,9 @@ _None_
   ],
   "example": "/tiktok/user/@linustech/true",
   "features": {
-    "antiCrawler": false,
+    "antiCrawler": true,
     "requireConfig": false,
-    "requirePuppeteer": true,
+    "requirePuppeteer": false,
     "supportBT": false,
     "supportPodcast": false,
     "supportScihub": false

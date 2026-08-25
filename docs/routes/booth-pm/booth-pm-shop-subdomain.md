@@ -46,6 +46,9 @@ _None_
     "subdomain": "Shop subdomain"
   },
   "path": "/shop/:subdomain",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

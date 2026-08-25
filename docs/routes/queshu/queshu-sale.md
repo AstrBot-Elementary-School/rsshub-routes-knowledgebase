@@ -43,6 +43,9 @@ _None_
   ],
   "name": "促销",
   "path": "/sale",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

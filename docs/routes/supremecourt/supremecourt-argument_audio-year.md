@@ -46,6 +46,9 @@ _None_
     "year": "Year, current year by default"
   },
   "path": "/argument_audio/:year?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

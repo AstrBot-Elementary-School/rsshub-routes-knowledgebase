@@ -67,6 +67,9 @@ _None_
       "target": "/:category_name"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [],
   "url": "www.technologyreview.com"
 }

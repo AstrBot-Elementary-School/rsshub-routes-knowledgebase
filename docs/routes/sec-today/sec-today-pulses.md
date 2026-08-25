@@ -46,6 +46,9 @@ _None_
   ],
   "name": "推送",
   "path": "/pulses",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

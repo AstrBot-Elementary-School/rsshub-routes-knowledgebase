@@ -51,6 +51,9 @@ _None_
     "recommend": "1 为按推荐排序，0 为按最新排序，默认为 0"
   },
   "path": "/:categoryUuid?/:recommend?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

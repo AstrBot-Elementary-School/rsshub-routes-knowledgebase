@@ -61,6 +61,9 @@ _None_
     "language": "語言"
   },
   "path": "/:language/:channel?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

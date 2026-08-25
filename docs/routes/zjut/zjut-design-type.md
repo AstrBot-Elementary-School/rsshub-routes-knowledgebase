@@ -93,6 +93,9 @@ _None_
     "type": "栏目 id，可在栏目页 URL `#/category?id=` 中找到"
   },
   "path": "/design/:type",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "www.design.zjut.edu.cn"
 }

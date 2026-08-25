@@ -43,6 +43,9 @@ _None_
   ],
   "name": "空气质量",
   "path": "/sthj",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

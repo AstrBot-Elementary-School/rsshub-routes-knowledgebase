@@ -49,6 +49,9 @@ _None_
     "id": "分类 id，可在分类页的 URL 中找到，默认为本网专区"
   },
   "path": "/news/:id?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

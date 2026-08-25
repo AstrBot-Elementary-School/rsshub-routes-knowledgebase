@@ -43,6 +43,9 @@ _None_
   ],
   "name": "はてな匿名ダイアリー - 人気記事アーカイブ",
   "path": "/anonymous_diary/archive",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

@@ -49,6 +49,9 @@ _None_
     "type": "默认为 `sszs`"
   },
   "path": "/graduate/:type?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

@@ -43,6 +43,9 @@ _None_
   ],
   "name": "化学化工学院通知",
   "path": "/chem",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

@@ -46,6 +46,9 @@ _None_
     "id": "RSS 抓取地址：https://wangwusiwj.blogspot.com/:id?，默认为当前年份"
   },
   "path": "/:id?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

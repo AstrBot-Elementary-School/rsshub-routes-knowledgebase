@@ -43,6 +43,9 @@ _None_
   ],
   "name": "Keyakizaka46 News 欅坂 46 新闻",
   "path": "/news",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

@@ -53,6 +53,9 @@ _None_
     "name": "Name"
   },
   "path": "/:lang/:category/:name/:id",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

@@ -49,6 +49,9 @@ _None_
     "category": "分类 id"
   },
   "path": "/whale/category/:category",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

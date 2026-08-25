@@ -43,6 +43,9 @@ _None_
   ],
   "name": "ROM Releases",
   "path": "/releases",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

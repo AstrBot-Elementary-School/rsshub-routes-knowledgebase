@@ -49,6 +49,9 @@ _None_
     "cateid": "类别"
   },
   "path": "/index/:cateid",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

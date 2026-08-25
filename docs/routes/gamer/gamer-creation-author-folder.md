@@ -48,6 +48,9 @@ _None_
     "folder": "资料夹 ID, 即为创作资料夹 URL 中 `folder` 参数"
   },
   "path": "/creation/:author/:folder?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

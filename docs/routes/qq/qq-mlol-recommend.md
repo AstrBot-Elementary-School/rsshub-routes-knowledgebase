@@ -43,6 +43,9 @@ _None_
   ],
   "name": "掌上英雄联盟推荐",
   "path": "/mlol/recommend",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

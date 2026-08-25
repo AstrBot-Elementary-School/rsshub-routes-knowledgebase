@@ -51,6 +51,9 @@ _None_
     "type": "板块类型, 默认为`热门`, 具体参见下表"
   },
   "path": "/discovery/:type?/:category?",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

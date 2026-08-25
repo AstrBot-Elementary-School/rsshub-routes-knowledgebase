@@ -49,6 +49,9 @@ _None_
     "type": "公告种类，默认为 `all`"
   },
   "path": "/bh2/:type?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [],
   "url": "www.benghuai.com/index/"
 }

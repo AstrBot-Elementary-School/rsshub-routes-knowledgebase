@@ -57,6 +57,9 @@ _None_
     "subcate": "hot 分类下的子类"
   },
   "path": "/articles/:category/:subcate?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

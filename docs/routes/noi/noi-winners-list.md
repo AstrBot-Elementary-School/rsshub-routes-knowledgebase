@@ -43,6 +43,9 @@ _None_
   ],
   "name": "获奖名单",
   "path": "/winners-list",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

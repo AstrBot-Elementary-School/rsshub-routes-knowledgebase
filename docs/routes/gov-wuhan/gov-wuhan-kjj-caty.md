@@ -49,6 +49,9 @@ _None_
     "caty": "类别"
   },
   "path": "/kjj/:caty",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

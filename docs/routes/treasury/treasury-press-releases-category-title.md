@@ -53,6 +53,9 @@ _None_
     "title": "Title keywords, empty by default"
   },
   "path": "/press-releases/:category?/:title?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

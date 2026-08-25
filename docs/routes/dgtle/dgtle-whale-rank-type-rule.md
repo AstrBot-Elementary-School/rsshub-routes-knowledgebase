@@ -59,6 +59,9 @@ _None_
     "type": "排行榜类型"
   },
   "path": "/whale/rank/:type/:rule",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

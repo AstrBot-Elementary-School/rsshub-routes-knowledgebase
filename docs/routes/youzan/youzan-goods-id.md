@@ -46,6 +46,9 @@ _None_
     "id": "商铺 id"
   },
   "path": "/goods/:id",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

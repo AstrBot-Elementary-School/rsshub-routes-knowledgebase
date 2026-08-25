@@ -50,6 +50,9 @@ _None_
     "caty": "分类，见下表，默认为最新"
   },
   "path": "/jx3/:caty?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [],
   "url": "jx3.xoyo.com"
 }

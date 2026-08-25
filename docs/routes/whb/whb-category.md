@@ -46,6 +46,9 @@ _None_
     "category": "文汇报分类名，可在该分类的 URL 中找到（即 https://www.whb.cn/zhuzhan/:category/index.html)"
   },
   "path": "/:category",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

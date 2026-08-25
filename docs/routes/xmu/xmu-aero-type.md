@@ -49,6 +49,9 @@ _None_
     "type": "分类见下表"
   },
   "path": "/aero/:type",
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

@@ -48,6 +48,9 @@ _None_
     "type": "Type, `read` as most read, `share` as most share, `read` by default"
   },
   "path": "/most/:type?/:time?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

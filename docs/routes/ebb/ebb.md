@@ -43,6 +43,9 @@ _None_
   ],
   "name": "新番連載",
   "path": "/",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```
