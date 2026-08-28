@@ -2,7 +2,7 @@
   "files": [
     {
       "path": "index/namespaces.md",
-      "sha256": "c970fdac8865c1a867351b634bfcaae838e34bb23d27a9df1818c39c328c9ad4"
+      "sha256": "2e2069a79ad7326179f23dad34cce0253a001f8da0f2d90252df08e96511d2ee"
     },
     {
       "path": "index/005.md",
@@ -6226,7 +6226,7 @@
     },
     {
       "path": "index/shopify.md",
-      "sha256": "19f046361ffbd11c7038ae2fdc0681eb25fc789e437cf045cbaaa317a1b9742e"
+      "sha256": "1b4c140adb0d5004ee91cadb3aae007681678a34ee3524e633ff20c45ee459ae"
     },
     {
       "path": "index/shoppingdesign.md",
@@ -19554,11 +19554,15 @@
     },
     {
       "path": "docs/routes/shopify/shopify-apps-handle-reviews-page.md",
-      "sha256": "f4dcfc315ded2a37fcba2a60de0f4ded0fa1ed11406b95c0ed851001f5311e84"
+      "sha256": "0f6c131878aabe0fc60304658a83719cab7e1e9b6fbbf63b21cd1c8250b1fbbb"
     },
     {
       "path": "docs/routes/shopify/shopify-apps-search-q.md",
-      "sha256": "44b8140c8f4ec836ffa695068fc3f677c3883c074aeec75ac093ed920bfb68bc"
+      "sha256": "1cef2386e841718a6c3daf52f506b0106e80f54ec98a49f9ef21f88306b0c1df"
+    },
+    {
+      "path": "docs/routes/shopify/shopify-engineering-topic.md",
+      "sha256": "e5a0dca5f2c3129408859bc06a68730713022cbb934606056cfc99e03ad752af"
     },
     {
       "path": "docs/routes/shoppingdesign/shoppingdesign-posts.md",
@@ -23119,12 +23123,12 @@
   ],
   "source": {
     "repo": "https://github.com/DIYgod/RSSHub",
-    "revision": "b1d942b0ad3c04d0503bfb064c1a791e71c2556d"
+    "revision": "86516b33a52b25dec092b43ba2c263f43510af06"
   },
   "stats": {
     "categories": 25,
-    "documents": 3799,
-    "files": 5779,
+    "documents": 3800,
+    "files": 5780,
     "namespaces": 1979
   },
   "version": 1

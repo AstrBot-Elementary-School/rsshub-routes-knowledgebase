@@ -11,7 +11,7 @@
 - Example: `/shopify/apps/search/flow`
 - URL: `shopify.com`
 - Language: `_None_`
-- Categories: `other`
+- Categories: `programming`
 - Maintainers: `PrintNow`
 - Source Location: `apps/search.ts`
 - Source Module: `_None_`
@@ -35,7 +35,7 @@ _None_
 ```json
 {
   "categories": [
-    "other"
+    "programming"
   ],
   "example": "/shopify/apps/search/flow",
   "heat": 0,

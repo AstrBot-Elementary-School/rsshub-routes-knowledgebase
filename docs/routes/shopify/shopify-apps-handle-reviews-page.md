@@ -11,7 +11,7 @@
 - Example: `/shopify/apps/flow/reviews`
 - URL: `shopify.com`
 - Language: `_None_`
-- Categories: `other`
+- Categories: `programming`
 - Maintainers: `PrintNow`
 - Source Location: `apps/[handle].reviews.ts`
 - Source Module: `_None_`
@@ -35,7 +35,7 @@ _None_
 ```json
 {
   "categories": [
-    "other"
+    "programming"
   ],
   "example": "/shopify/apps/flow/reviews",
   "heat": 0,
