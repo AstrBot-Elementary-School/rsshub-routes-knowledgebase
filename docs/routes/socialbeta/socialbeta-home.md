@@ -36,7 +36,7 @@ _None_
     "new-media"
   ],
   "example": "/socialbeta/home",
-  "heat": 0,
+  "heat": 1,
   "location": "home.ts",
   "maintainers": [
     "nczitzk"
@@ -46,6 +46,19 @@ _None_
   "test": {
     "code": 0
   },
-  "topFeeds": []
+  "topFeeds": [
+    {
+      "description": "SocialBeta - 首页 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "147232123511812104",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://socialbeta.com/",
+      "title": "SocialBeta - 首页",
+      "type": "feed",
+      "url": "rsshub://socialbeta/home"
+    }
+  ]
 }
 ```

@@ -95,7 +95,7 @@ Enhance the official EN RSS feed
     {
       "description": "NYT > Top Stories - Powered by RSSHub",
       "errorAt": "2025-06-11T21:30:37.105Z",
-      "errorMessage": "[GET] \"https://www.nytimes.com/2026/08/18/well/family/forty-first-dates-and-still-searching.html\": 403 Forbidden\n[GET] \"https://www.nytimes.com/2026/08/18/world/canada/tariffs-trade-trump-carney.html\": 403 Forbidden\n",
+      "errorMessage": "502 \n[GET] \"https://www.nytimes.com/2026/08/25/us/nashville-mourns-dolly-parton.html\": 403 Forbidden\n",
       "id": "76533237937860608",
       "image": "{\"link\":\"https://www.nytimes.com\",\"url\":\"https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png\",\"title\":\"NYT > Top Stories\"}",
       "ownerUserId": null,

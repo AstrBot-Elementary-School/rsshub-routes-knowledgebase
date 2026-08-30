@@ -73,7 +73,7 @@
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 48,
+  "heat": 49,
   "location": "index.ts",
   "maintainers": [
     "snipersteve",

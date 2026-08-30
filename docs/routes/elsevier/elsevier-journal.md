@@ -39,7 +39,7 @@ _None_
     "journal"
   ],
   "example": "/elsevier/signal-processing",
-  "heat": 2,
+  "heat": 3,
   "location": "journal.ts",
   "maintainers": [
     "Derekmini",

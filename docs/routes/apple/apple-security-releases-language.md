@@ -56,7 +56,7 @@ To subscribe to [Apple security releases](https://support.apple.com/en-us/100100
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 45,
+  "heat": 47,
   "location": "security-releases.ts",
   "maintainers": [
     "nczitzk"
@@ -92,14 +92,14 @@ To subscribe to [Apple security releases](https://support.apple.com/en-us/100100
       "url": "rsshub://apple/security-releases"
     },
     {
-      "description": "This document lists security updates for Apple software. - Powered by RSSHub",
+      "description": "这篇文稿列出了 Apple 软件的安全性更新。 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "172636149124995072",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://support.apple.com/zh-cn/100100",
-      "title": "Apple security releases - Apple Support (IE)",
+      "title": "Apple 安全性发布 - 官方 Apple 支持 (中国)",
       "type": "feed",
       "url": "rsshub://apple/security-releases/zh-cn"
     }

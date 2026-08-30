@@ -63,7 +63,7 @@ _None_
       "errorAt": null,
       "errorMessage": null,
       "id": "63474398493291530",
-      "image": "//static.toodaylab.com/static/images/logo-3-3.png",
+      "image": "//static.toodaylab.com/static/images/logo-17th.gif",
       "ownerUserId": null,
       "siteUrl": "https://www.toodaylab.com/posts",
       "title": "滚动 | 理想生活实验室",

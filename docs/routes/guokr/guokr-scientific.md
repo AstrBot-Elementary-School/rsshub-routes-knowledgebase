@@ -39,7 +39,7 @@ _None_
     "new-media"
   ],
   "example": "/guokr/scientific",
-  "heat": 901,
+  "heat": 899,
   "location": "scientific.ts",
   "maintainers": [
     "alphardex",
@@ -61,8 +61,8 @@ _None_
   "topFeeds": [
     {
       "description": "果壳网 科学人 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-24T06:02:12.297Z",
+      "errorMessage": "200 ",
       "id": "41511702474276871",
       "image": null,
       "ownerUserId": null,

@@ -51,7 +51,7 @@ _None_
     "supportPodcast": true,
     "supportScihub": false
   },
-  "heat": 548,
+  "heat": 551,
   "location": "article.ts",
   "maintainers": [
     "EsuRt"

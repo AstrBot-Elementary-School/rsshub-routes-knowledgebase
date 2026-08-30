@@ -36,7 +36,7 @@ _None_
     "study"
   ],
   "example": "/bbc/learningenglish/take-away-english",
-  "heat": 87,
+  "heat": 86,
   "location": "learningenglish.ts",
   "maintainers": [
     "Blank0120"

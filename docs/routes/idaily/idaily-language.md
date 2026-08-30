@@ -41,7 +41,7 @@ _None_
   ],
   "description": "| 简体中文 | 繁体中文 |\n| -------- | -------- |\n| zh-hans  | zh-hant  |",
   "example": "/idaily",
-  "heat": 581,
+  "heat": 577,
   "location": "index.tsx",
   "maintainers": [
     "zphw",
@@ -65,8 +65,8 @@ _None_
   "topFeeds": [
     {
       "description": "iDaily · 每日环球视野 | Your Global Point of View - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-25T11:15:03.810Z",
+      "errorMessage": "200 ",
       "id": "53257967622553618",
       "image": "https://idai.ly/img/idaily/logo_2x.png",
       "ownerUserId": null,
@@ -77,8 +77,8 @@ _None_
     },
     {
       "description": "iDaily · 每日环球视野 | Your Global Point of View - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-26T17:14:05.051Z",
+      "errorMessage": "200 ",
       "id": "56593152747053056",
       "image": "https://idai.ly/img/idaily/logo_2x.png",
       "ownerUserId": null,

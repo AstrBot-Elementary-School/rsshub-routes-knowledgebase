@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 83,
+  "heat": 82,
   "location": "new.tsx",
   "maintainers": [
     "wenzhenl"

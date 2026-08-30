@@ -80,8 +80,8 @@
   "topFeeds": [
     {
       "description": "NL Times -- Top Stories - Powered by RSSHub",
-      "errorAt": "2026-08-18T07:04:03.868Z",
-      "errorMessage": "[GET] \"https://www.nltimes.nl/top-stories\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "59769816692412416",
       "image": null,
       "ownerUserId": null,

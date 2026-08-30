@@ -94,14 +94,14 @@ Query photos using filter parameters found on kpopping such as `idolId`, `groupI
       "url": "rsshub://kpopping/kpics/gender-female/category-all/idol-any/group-any/order"
     },
     {
-      "description": "Browse thousands of high quality K-pop photos. Concept photos, teasers, photoshoots, and more. - Powered by RSSHub",
+      "description": "kpics - kpopping - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "160056537743224832",
       "image": "https://kpopping.com/build/images/kpopping-default-detailed.jpg",
       "ownerUserId": null,
       "siteUrl": "https://kpopping.com/kpics",
-      "title": "HQ Kpop Photos — Concept Photos, Teasers & Photoshoots (2026) | kpopping",
+      "title": "kpics - kpopping",
       "type": "feed",
       "url": "rsshub://kpopping/kpics"
     }

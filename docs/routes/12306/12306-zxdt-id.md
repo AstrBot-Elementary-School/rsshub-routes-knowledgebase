@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 11,
+  "heat": 10,
   "location": "zxdt.ts",
   "maintainers": [
     "LogicJake"
@@ -79,8 +79,8 @@ _None_
   "topFeeds": [
     {
       "description": "最新动态 - Powered by RSSHub",
-      "errorAt": "2026-08-16T00:42:36.213Z",
-      "errorMessage": "200 ",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "68654231072089088",
       "image": null,
       "ownerUserId": null,

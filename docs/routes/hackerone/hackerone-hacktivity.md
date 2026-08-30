@@ -38,7 +38,7 @@ _None_
     "other"
   ],
   "example": "/hackerone/hacktivity",
-  "heat": 0,
+  "heat": 4,
   "location": "hacktivity.ts",
   "maintainers": [
     "imlonghao"
@@ -55,6 +55,19 @@ _None_
   "test": {
     "code": 0
   },
-  "topFeeds": []
+  "topFeeds": [
+    {
+      "description": "HackerOne Hacker Activity - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "154479685635981327",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://hackerone.com/hacktivity",
+      "title": "HackerOne Hacker Activity",
+      "type": "feed",
+      "url": "rsshub://hackerone/hacktivity"
+    }
+  ]
 }
 ```

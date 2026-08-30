@@ -43,7 +43,7 @@ _None_
   ],
   "description": "| `:img_type` | image style    |\n| ----------- | -------------- |\n| original    | Original size  |\n| medium      | Medium size    |\n| thumbnail   | Thumbnail size |\n| poster      | Art poster     |",
   "example": "/iciba/7/poster",
-  "heat": 0,
+  "heat": 4,
   "location": "index.ts",
   "maintainers": [
     "mashirozx"
@@ -57,6 +57,19 @@ _None_
   "test": {
     "code": 0
   },
-  "topFeeds": []
+  "topFeeds": [
+    {
+      "description": "金山词霸每日一句 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "67903541381404672",
+      "image": "https://staticedu-wps-cache.iciba.com/image/8dfaca8e3532f733cbfd68aabb81caea.jpg",
+      "ownerUserId": null,
+      "siteUrl": "https://news.iciba.com/",
+      "title": "金山词霸每日一句",
+      "type": "feed",
+      "url": "rsshub://iciba/7/poster"
+    }
+  ]
 }
 ```

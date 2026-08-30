@@ -66,7 +66,7 @@ _None_
     {
       "description": "微信公众号 - 很帅的投资客 - Powered by RSSHub",
       "errorAt": "2024-10-25T04:23:39.154Z",
-      "errorMessage": "[GET] \"https://www.cimidata.com/a/zQm0e5jN\": 404 Not Found\n[GET] \"https://www.cimidata.com/a/zQm0e5jN\": 404 Not Found\n",
+      "errorMessage": "502 \n[GET] \"https://www.cimidata.com/a/zQm0e5jN\": 404 Not Found\n",
       "id": "41628847686926336",
       "image": null,
       "ownerUserId": null,

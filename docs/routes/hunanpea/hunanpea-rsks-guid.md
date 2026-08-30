@@ -88,7 +88,7 @@ _None_
     {
       "description": "公务员及事业单位考试 - 湖南人事考试网 - Powered by RSSHub",
       "errorAt": "2026-07-31T11:39:58.051Z",
-      "errorMessage": "[GET] \"http://rsks.hunanpea.com/Category/c5a6f516-fd54-4578-90bd-0cb6a1c95570/ArticlesByCategory.do?PageIndex=1\": 404 Not Found\n",
+      "errorMessage": "[GET] \"http://rsks.hunanpea.com/Category/c5a6f516-fd54-4578-90bd-0cb6a1c95570/ArticlesByCategory.do?PageIndex=1\": <no response> fetch failed (Connect Timeout Error (attempted address: rsks.hunanpea.com:80, timeout: 10000ms))\n",
       "id": "62787884154546176",
       "image": null,
       "ownerUserId": null,

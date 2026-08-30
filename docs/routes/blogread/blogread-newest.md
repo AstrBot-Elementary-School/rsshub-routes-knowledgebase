@@ -38,7 +38,7 @@ _None_
     "programming"
   ],
   "example": "/blogread/newest",
-  "heat": 347,
+  "heat": 346,
   "location": "index.ts",
   "maintainers": [
     "fashioncj"
@@ -60,7 +60,7 @@ _None_
     {
       "description": "技术头条 - Powered by RSSHub",
       "errorAt": "2026-01-13T07:18:16.148Z",
-      "errorMessage": "[GET] \"https://blogread.cn/news/newest.php\": <no response> fetch failed\n[GET] \"https://blogread.cn/news/newest.php\": <no response> fetch failed (certificate has expired)\n",
+      "errorMessage": "[GET] \"https://blogread.cn/news/newest.php\": <no response> fetch failed (certificate has expired)\n",
       "id": "56599674652552192",
       "image": null,
       "ownerUserId": null,

@@ -36,7 +36,7 @@ _None_
     "blog"
   ],
   "example": "/latexstudio/home",
-  "heat": 0,
+  "heat": 4,
   "location": "home.ts",
   "maintainers": [
     "kt286",
@@ -47,6 +47,19 @@ _None_
   "test": {
     "code": 0
   },
-  "topFeeds": []
+  "topFeeds": [
+    {
+      "description": "LaTeX 开源小屋 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "170417934462211075",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.latexstudio.net/articles/",
+      "title": "LaTeX 开源小屋",
+      "type": "feed",
+      "url": "rsshub://latexstudio/home"
+    }
+  ]
 }
 ```

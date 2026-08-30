@@ -38,7 +38,7 @@ _None_
     "university"
   ],
   "example": "/mit/csail/news",
-  "heat": 0,
+  "heat": 2,
   "location": "csail/news.ts",
   "maintainers": [
     "nczitzk"
@@ -55,7 +55,20 @@ _None_
   "test": {
     "code": 0
   },
-  "topFeeds": [],
+  "topFeeds": [
+    {
+      "description": "News - MIT CSAIL - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "173219456534843419",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.csail.mit.edu/news/",
+      "title": "News - MIT CSAIL",
+      "type": "feed",
+      "url": "rsshub://mit/csail/news"
+    }
+  ],
   "url": "www.csail.mit.edu/news"
 }
 ```

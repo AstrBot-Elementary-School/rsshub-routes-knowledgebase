@@ -36,7 +36,7 @@ _None_
     "bbs"
   ],
   "example": "/wenxuecity/news",
-  "heat": 0,
+  "heat": 3,
   "location": "news.ts",
   "maintainers": [
     "nczitzk"
@@ -46,6 +46,19 @@ _None_
   "test": {
     "code": 1
   },
-  "topFeeds": []
+  "topFeeds": [
+    {
+      "description": "焦点新闻 - 文学城 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "153405207895366664",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.wenxuecity.com/news/",
+      "title": "焦点新闻 - 文学城",
+      "type": "feed",
+      "url": "rsshub://wenxuecity/news"
+    }
+  ]
 }
 ```

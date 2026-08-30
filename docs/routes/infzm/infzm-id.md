@@ -44,7 +44,7 @@ _None_
   ],
   "description": "下面给出部分参考：\n\n| 推荐 | 新闻 | 观点 | 文化 | 人物 | 影像 | 专题 | 生活 | 视频 |\n| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |\n| 1    | 2    | 3    | 4    | 7    | 8    | 6    | 5    | 131  |",
   "example": "/infzm/1",
-  "heat": 2919,
+  "heat": 2917,
   "location": "index.ts",
   "maintainers": [
     "KarasuShin",
@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "南方周末-新闻 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-24T07:03:52.760Z",
+      "errorMessage": "200 ",
       "id": "52508301310328842",
       "image": "https://www.infzm.com/favicon.ico",
       "ownerUserId": null,
@@ -81,8 +81,8 @@ _None_
     },
     {
       "description": "南方周末-南方人物周刊 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-23T20:43:47.666Z",
+      "errorMessage": "200 ",
       "id": "53873114655474703",
       "image": "https://www.infzm.com/favicon.ico",
       "ownerUserId": null,

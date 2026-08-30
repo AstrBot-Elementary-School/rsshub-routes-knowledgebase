@@ -74,7 +74,7 @@ _None_
     {
       "description": null,
       "errorAt": "2025-09-07T21:05:40.512Z",
-      "errorMessage": "[GET] \"https://leetcode.com/articles/\": 403 Forbidden\n[GET] \"https://leetcode.com/articles/\": 403 Forbidden\n",
+      "errorMessage": "502 \n[GET] \"https://leetcode.com/articles/\": 403 Forbidden\n",
       "id": "187621803897127940",
       "image": null,
       "ownerUserId": null,

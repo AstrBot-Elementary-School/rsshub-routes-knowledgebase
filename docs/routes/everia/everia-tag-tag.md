@@ -54,7 +54,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 20,
+  "heat": 19,
   "location": "tag.ts",
   "maintainers": [
     "KTachibanaM",
@@ -91,8 +91,8 @@ _None_
     },
     {
       "description": "EVERIA.CLUB - Tag: hinatazaka46-日向坂46 - Powered by RSSHub",
-      "errorAt": "2026-06-17T02:28:19.716Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "153295667919122432",
       "image": null,
       "ownerUserId": null,

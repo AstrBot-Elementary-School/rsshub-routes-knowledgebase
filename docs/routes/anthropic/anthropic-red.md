@@ -38,7 +38,7 @@ _None_
     "programming"
   ],
   "example": "/anthropic/red",
-  "heat": 13,
+  "heat": 14,
   "location": "red.ts",
   "maintainers": [
     "shoeper"

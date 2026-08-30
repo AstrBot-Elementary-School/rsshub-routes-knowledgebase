@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 319,
+  "heat": 317,
   "location": "go.ts",
   "maintainers": [
     "nczitzk"
@@ -76,8 +76,8 @@ _None_
   "topFeeds": [
     {
       "description": "Go语言中文网 - Go周刊 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-25T11:15:00.314Z",
+      "errorMessage": "200 ",
       "id": "56597687648785408",
       "image": null,
       "ownerUserId": null,
@@ -88,8 +88,8 @@ _None_
     },
     {
       "description": "Go语言中文网 - 每日一学 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-27T06:55:08.982Z",
+      "errorMessage": "200 ",
       "id": "54846819419389955",
       "image": null,
       "ownerUserId": null,

@@ -112,7 +112,7 @@ Wikipedia Portal: Current events - Latest news and events from the past 7 days
     {
       "description": "Current events from Wikipedia - Latest news and events - Powered by RSSHub",
       "errorAt": "2026-08-09T03:16:10.806Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n502 \nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "192777430745038848",
       "image": null,
       "ownerUserId": null,

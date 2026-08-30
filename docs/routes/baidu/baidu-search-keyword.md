@@ -64,18 +64,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "符号学 - 百度搜索 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "177651896288583681",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.baidu.com/s?wd=%E7%AC%A6%E5%8F%B7%E5%AD%A6",
-      "title": "符号学 - 百度搜索",
-      "type": "feed",
-      "url": "rsshub://baidu/search/%E7%AC%A6%E5%8F%B7%E5%AD%A6"
-    },
-    {
       "description": "广州教师 - 百度搜索 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -86,6 +74,18 @@ _None_
       "title": "广州教师 - 百度搜索",
       "type": "feed",
       "url": "rsshub://baidu/search/%E5%B9%BF%E5%B7%9E%E6%95%99%E5%B8%88"
+    },
+    {
+      "description": "人才引进 - 百度搜索 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "177651896288583684",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%89%8D%E5%BC%95%E8%BF%9B",
+      "title": "人才引进 - 百度搜索",
+      "type": "feed",
+      "url": "rsshub://baidu/search/%E4%BA%BA%E6%89%8D%E5%BC%95%E8%BF%9B"
     }
   ]
 }

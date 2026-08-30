@@ -60,7 +60,7 @@ _None_
   "topFeeds": [
     {
       "description": "Stay up to date on the latest artificial intelligence news from Meta. - Powered by RSSHub",
-      "errorAt": "2026-08-18T08:11:15.387Z",
+      "errorAt": "2026-08-29T05:47:58.662Z",
       "errorMessage": "200 ",
       "id": "152655705119827968",
       "image": "https://static.xx.fbcdn.net/rsrc.php/yv/r/-kpAMqWYv41.webp",

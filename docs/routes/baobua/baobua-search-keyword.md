@@ -78,7 +78,7 @@ _None_
     {
       "description": "BaoBua - Search: cos - Powered by RSSHub",
       "errorAt": "2025-09-16T08:49:09.640Z",
-      "errorMessage": "[GET] \"https://baobua.com/search?q=cos\": 404 Not Found\n[GET] \"https://baobua.com/search?q=cos\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://baobua.com/search?q=cos\": 404 Not Found\n",
       "id": "131498387978345472",
       "image": null,
       "ownerUserId": null,

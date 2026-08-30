@@ -65,14 +65,14 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Bestblogs.dev - Powered by RSSHub",
-      "errorAt": "2026-04-11T18:12:10.660Z",
-      "errorMessage": "[POST] \"https://api.bestblogs.dev/api/resource/list\": 403 \n[POST] \"https://api.bestblogs.dev/api/resource/list\": 403 \n[POST] \"https://api.bestblogs.dev/api/resource/list\": 403 \n",
+      "description": "BestBlogs.dev 精选文章期刊",
+      "errorAt": "2026-08-26T03:49:40.540Z",
+      "errorMessage": "401 \nFailed to fetch\n[POST] \"https://api.bestblogs.dev/api/resource/list\": 403 \n",
       "id": "55765580939819008",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.bestblogs.dev/feeds",
-      "title": "Bestblogs.dev",
+      "siteUrl": "https://www.bestblogs.dev/zh/feeds/newsletter",
+      "title": "BestBlogs.dev 精选文章期刊",
       "type": "feed",
       "url": "rsshub://bestblogs/feeds/featured"
     },

@@ -39,7 +39,7 @@ _None_
   ],
   "description": "| 正在流行 | 24 小时最佳 | 本周最受欢迎 | 新秀菜谱 | 月度最佳   |\n| -------- | ----------- | ------------ | -------- | ---------- |\n| hot      | pop         | week         | rising   | monthhonor |",
   "example": "/xiachufang/popular/hot",
-  "heat": 0,
+  "heat": 1,
   "location": "popular.ts",
   "maintainers": [
     "xyqfer"

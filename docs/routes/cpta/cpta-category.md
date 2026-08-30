@@ -102,7 +102,7 @@
     {
       "description": "中国人事考试网 考试通知公告汇总 - Powered by RSSHub",
       "errorAt": "2025-11-06T18:02:50.011Z",
-      "errorMessage": "[GET] \"http://www.cpta.com.cn/notice.html\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 113.215.230.99:80, 113.215.230.100:80, 113.215.230.101:80, 113.215.230.102:80, 113.215.230.103:80, 113.215.230.104:80, 113.215.230.105:80, 113.215.230.106:80, timeout: 10000ms))\n",
+      "errorMessage": "[GET] \"http://www.cpta.com.cn/notice.html\": 405 Not Allowed\n",
       "id": "101869703891043328",
       "image": "https://www.gov.cn/images/gtrs_logo_lt.png",
       "ownerUserId": null,

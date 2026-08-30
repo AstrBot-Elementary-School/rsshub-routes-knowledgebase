@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 91,
+  "heat": 93,
   "location": "news.ts",
   "maintainers": [
     "pseudoyu"
@@ -75,8 +75,8 @@ _None_
   "topFeeds": [
     {
       "description": "Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates. - Powered by RSSHub",
-      "errorAt": "2026-08-17T18:29:32.646Z",
-      "errorMessage": "[GET] \"https://www.coindesk.com/markets/2026/08/18/kraken-adds-u-s-stocks-in-europe-as-tradfi-crypto-divide-blurs\": 429 Too Many Requests\n[GET] \"https://www.coindesk.com/markets/2026/08/18/kraken-adds-u-s-stocks-in-europe-as-tradfi-crypto-divide-blurs\": 429 Too Many Requests\n",
+      "errorAt": "2026-08-18T05:49:53.058Z",
+      "errorMessage": "[GET] \"https://www.coindesk.com/business/2026/08/27/binance-co-founders-changpeng-cz-zhao-and-yi-he-used-the-simpsons-cartoon-aliases-homer-and-marge-in-company-meetings\": 429 Too Many Requests\n[GET] \"https://www.coindesk.com/opinion/2026/08/25/the-evidence-doesn-t-support-the-banks-case-against-stablecoin-rewards\": 429 Too Many Requests\n",
       "id": "126922928969806848",
       "image": null,
       "ownerUserId": null,

@@ -77,8 +77,8 @@ _None_
     },
     {
       "description": "ZAKER新闻 - Powered by RSSHub",
-      "errorAt": "2026-08-17T17:03:16.956Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "109858197894680576",
       "image": null,
       "ownerUserId": null,

@@ -42,7 +42,7 @@ _None_
   "features": {
     "nsfw": true
   },
-  "heat": 128,
+  "heat": 130,
   "location": "vodlist.ts",
   "maintainers": [
     "fang63625"

@@ -64,7 +64,7 @@
   "features": {
     "nsfw": true
   },
-  "heat": 4,
+  "heat": 6,
   "location": "index.tsx",
   "maintainers": [
     "nczitzk"
@@ -90,21 +90,9 @@
   },
   "topFeeds": [
     {
-      "description": "cosplay - E-Hentai Galleries - Powered by RSSHub",
-      "errorAt": "2026-08-19T04:06:26.041Z",
-      "errorMessage": "[GET] \"https://e-hentai.org/cosplay\": 451 Unavailable For Legal Reasons\n",
-      "id": "106841534145317888",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://e-hentai.org/cosplay",
-      "title": "cosplay - E-Hentai Galleries",
-      "type": "feed",
-      "url": "rsshub://e-hentai/category/cosplay"
-    },
-    {
       "description": "manga - E-Hentai Galleries - Powered by RSSHub",
-      "errorAt": "2026-08-19T04:50:47.808Z",
-      "errorMessage": "n.map is not a function\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "106841285260128256",
       "image": null,
       "ownerUserId": null,
@@ -112,6 +100,18 @@
       "title": "manga - E-Hentai Galleries",
       "type": "feed",
       "url": "rsshub://e-hentai/category/manga"
+    },
+    {
+      "description": "cosplay - E-Hentai Galleries - Powered by RSSHub",
+      "errorAt": "2026-08-29T09:31:56.844Z",
+      "errorMessage": "n.map is not a function\n",
+      "id": "106841534145317888",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://e-hentai.org/cosplay",
+      "title": "cosplay - E-Hentai Galleries",
+      "type": "feed",
+      "url": "rsshub://e-hentai/category/cosplay"
     }
   ]
 }

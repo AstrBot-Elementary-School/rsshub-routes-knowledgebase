@@ -42,7 +42,7 @@ _None_
   ],
   "description": "搜狐号 ID 可以通过以下方式获取：\n\n1. 通过浏览器搜索相关搜狐号 `果壳 site: mp.sohu.com`。\n2. 通过浏览器控制台执行 `window.globalConst.mkeyConst_mkey`，返回的即为搜狐号 ID。",
   "example": "/sohu/mp/c29odXptdGhnbjZ3NEBzb2h1LmNvbQ==",
-  "heat": 122,
+  "heat": 123,
   "location": "mp.tsx",
   "maintainers": [
     "HenryQW"

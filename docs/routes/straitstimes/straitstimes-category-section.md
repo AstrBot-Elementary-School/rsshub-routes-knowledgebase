@@ -121,7 +121,7 @@
     {
       "description": "The Strait Times - WORLD - Powered by RSSHub",
       "errorAt": "2025-11-06T09:45:21.790Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "Failed to fetch\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "70061661043605504",
       "image": null,
       "ownerUserId": null,

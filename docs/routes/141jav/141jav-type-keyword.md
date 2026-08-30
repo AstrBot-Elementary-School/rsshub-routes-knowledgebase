@@ -92,8 +92,8 @@ _None_
   "topFeeds": [
     {
       "description": "141JAV - Popular (30 days) - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-25T04:57:10.771Z",
+      "errorMessage": "200 ",
       "id": "54839446413188096",
       "image": null,
       "ownerUserId": null,
@@ -104,8 +104,8 @@ _None_
     },
     {
       "description": "141JAV - New - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-29T09:35:06.640Z",
+      "errorMessage": "Failed to fetch\n[GET] \"https://www.141jav.com/new\": 403 Forbidden\n",
       "id": "53022189134482432",
       "image": null,
       "ownerUserId": null,

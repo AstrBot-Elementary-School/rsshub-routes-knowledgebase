@@ -81,7 +81,7 @@ _None_
     {
       "description": "FTChinese RSS - All Feed - Powered by RSSHub",
       "errorAt": "2026-07-09T06:29:25.553Z",
-      "errorMessage": "[GET] \"https://www.ftchinese.com/story/001110652?full=y&archive\": 429 Too Many Requests\n[GET] \"https://www.ftchinese.com/story/001110651?full=y&archive\": 429 Too Many Requests\n[GET] \"https://www.ftchinese.com/story/001110650?full=y&archive\": 429 Too Many Requests\n530 \n[GET] \"https://www.ftchinese.com/story/001110643?full=y&archive\": 429 \n[GET] \"https://www.ftchinese.com/story/001110652?full=y&archive\": 429 Too Many Requests\n",
+      "errorMessage": "502 \n[GET] \"https://www.ftchinese.com/story/001110715?full=y&archive\": 429 Too Many Requests\n502 \n530 \n[GET] \"https://www.ftchinese.com/story/001110696?full=y&archive\": 429 \n[GET] \"https://www.ftchinese.com/story/001110713?full=y&archive\": 429 Too Many Requests\n",
       "id": "61693185811247104",
       "image": null,
       "ownerUserId": null,
@@ -93,7 +93,7 @@ _None_
     {
       "description": "FTChinese RSS - Hot Weekly - Powered by RSSHub",
       "errorAt": "2026-07-05T00:21:03.547Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'title')\nFailed to fetch\nCannot read properties of undefined (reading 'title')\n",
+      "errorMessage": "Failed to fetch\nFailed to fetch\n[GET] \"https://www.ftchinese.com/interactive/292196?full=y&archive\": 429 Too Many Requests\n",
       "id": "41377818806739968",
       "image": null,
       "ownerUserId": null,

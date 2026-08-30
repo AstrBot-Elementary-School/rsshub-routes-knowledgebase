@@ -78,26 +78,26 @@
   },
   "topFeeds": [
     {
-      "description": "信報網站(www.hkej.com)即時新聞，提供全天候即時港股、香港財經、國際金融和經濟新聞、中國經濟新聞資訊和分析。 - Powered by RSSHub",
-      "errorAt": "2026-08-19T05:45:46.853Z",
-      "errorMessage": "[GET] \"https://www2.hkej.com/instantnews/stock/article/4487518\": 429 Too Many Requests\n[GET] \"https://www2.hkej.com/instantnews/current/article/4487471\": 429 Too Many Requests\n",
+      "description": "即時新聞 - 全部 - 信報網站 - 即時香港中國 國際金融 股市經濟新聞 - hkej.com - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "69975396806332416",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www2.hkej.com/instantnews/",
-      "title": "信報網站 - 即時香港中國 國際金融 股市經濟新聞 - 信報網站 hkej.com",
+      "siteUrl": "https://www.hkej.com/instantnews",
+      "title": "即時新聞 - 全部 - 信報網站 - 即時香港中國 國際金融 股市經濟新聞 - hkej.com",
       "type": "feed",
       "url": "rsshub://hkej/index"
     },
     {
-      "description": "信報網站(www.hkej.com)即時新聞，提供全天候即時港股、香港財經、國際金融和經濟新聞、中國經濟新聞資訊和分析。 - Powered by RSSHub",
-      "errorAt": "2026-08-17T15:32:45.840Z",
-      "errorMessage": "[GET] \"https://www2.hkej.com/instantnews/international/article/4487194\": 429 Too Many Requests\n",
+      "description": "即時新聞 - 全部 - 信報網站 - 即時香港中國 國際金融 股市經濟新聞 - hkej.com - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "155622231834300416",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www2.hkej.com/instantnews/",
-      "title": "信報網站 - 即時香港中國 國際金融 股市經濟新聞 - 信報網站 hkej.com",
+      "siteUrl": "https://www.hkej.com/instantnews",
+      "title": "即時新聞 - 全部 - 信報網站 - 即時香港中國 國際金融 股市經濟新聞 - hkej.com",
       "type": "feed",
       "url": "rsshub://hkej"
     }

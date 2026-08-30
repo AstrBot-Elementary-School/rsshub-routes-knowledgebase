@@ -76,7 +76,7 @@ _None_
     {
       "description": "快讯 - Odaily星球日报 - Powered by RSSHub",
       "errorAt": "2025-07-24T19:45:12.725Z",
-      "errorMessage": "[GET] \"https://www.odaily.news/api/pp/api/info-flow/newsflash_columns/newsflashes?b_id=&per_page=100\": 404 Not Found\n[GET] \"https://www.odaily.news/api/pp/api/info-flow/newsflash_columns/newsflashes?b_id=&per_page=100\": 404 \n[GET] \"https://www.odaily.news/api/pp/api/info-flow/newsflash_columns/newsflashes?b_id=&per_page=100\": 404 Not Found\n[GET] \"https://www.odaily.news/api/pp/api/info-flow/newsflash_columns/newsflashes?b_id=&per_page=100\": 404 Not Found\n",
+      "errorMessage": "502 \n[GET] \"https://www.odaily.news/api/pp/api/info-flow/newsflash_columns/newsflashes?b_id=&per_page=100\": 404 \n[GET] \"https://www.odaily.news/api/pp/api/info-flow/newsflash_columns/newsflashes?b_id=&per_page=100\": 404 Not Found\n[GET] \"https://www.odaily.news/api/pp/api/info-flow/newsflash_columns/newsflashes?b_id=&per_page=100\": 404 Not Found\n",
       "id": "41572238273905688",
       "image": null,
       "ownerUserId": null,

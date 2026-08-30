@@ -96,7 +96,7 @@ _None_
     {
       "description": "Bloomberg - mark-gurman - Powered by RSSHub",
       "errorAt": "2025-02-04T03:11:54.228Z",
-      "errorMessage": "[GET] \"https://www.bloomberg.com/lineup/api/lazy_load_author_stories?slug=AS7Hj1mBMGM/mark-gurman&authorType=default&page=1\": 403 Forbidden\n[GET] \"https://www.bloomberg.com/lineup/api/lazy_load_author_stories?slug=AS7Hj1mBMGM/mark-gurman&authorType=default&page=1\": 403 Forbidden\n",
+      "errorMessage": "502 \n[GET] \"https://www.bloomberg.com/lineup/api/lazy_load_author_stories?slug=AS7Hj1mBMGM/mark-gurman&authorType=default&page=1\": 403 Forbidden\n",
       "id": "69567457875551232",
       "image": null,
       "ownerUserId": null,

@@ -39,7 +39,7 @@ _None_
   ],
   "description": "| 全部 | 每周项目精选 | 每月项目精选 | 海外项目精选  | 近期热门项目 | 近期最多收藏 |\n| ---- | ------------ | ------------ | ------------- | ------------ | ------------ |\n| all  | weekly       | monthly      | international | hot          | favorite     |",
   "example": "/digitaling/projects/all",
-  "heat": 0,
+  "heat": 1,
   "location": "project.ts",
   "maintainers": [
     "occupy5"
@@ -52,6 +52,19 @@ _None_
   "test": {
     "code": 0
   },
-  "topFeeds": []
+  "topFeeds": [
+    {
+      "description": "数英网-项目专题-每周项目精选 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "180794735208561673",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.digitaling.com/projects/weekly",
+      "title": "数英网-项目专题-每周项目精选",
+      "type": "feed",
+      "url": "rsshub://digitaling/projects/weekly"
+    }
+  ]
 }
 ```

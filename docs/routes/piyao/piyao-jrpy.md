@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 127,
+  "heat": 126,
   "location": "jrpy.ts",
   "maintainers": [
     "Fatpandac"

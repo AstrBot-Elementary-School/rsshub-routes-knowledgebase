@@ -78,7 +78,7 @@ _None_
     {
       "description": " - Powered by RSSHub",
       "errorAt": "2026-05-21T12:52:55.903Z",
-      "errorMessage": "[GET] \"https://www.cyzone.cn/label/%E5%88%9B%E4%B8%9A%E9%82%A6%E5%91%A8%E6%8A%A5\": 404 Not Found\n[GET] \"https://www.cyzone.cn/label/%E5%88%9B%E4%B8%9A%E9%82%A6%E5%91%A8%E6%8A%A5\": 404 Not Found\nAuthentication failed. Access denied.\n/cyzone/label/%E5%88%9B%E4%B8%9A%E9%82%A6%E5%91%A8%E6%8A%A5\n[GET] \"https://www.cyzone.cn/label/%E5%88%9B%E4%B8%9A%E9%82%A6%E5%91%A8%E6%8A%A5\": 404 Not Found\n",
+      "errorMessage": "502 \n[GET] \"https://www.cyzone.cn/label/%E5%88%9B%E4%B8%9A%E9%82%A6%E5%91%A8%E6%8A%A5\": 404 Not Found\nAuthentication failed. Access denied.\n/cyzone/label/%E5%88%9B%E4%B8%9A%E9%82%A6%E5%91%A8%E6%8A%A5\n[GET] \"https://www.cyzone.cn/label/%E5%88%9B%E4%B8%9A%E9%82%A6%E5%91%A8%E6%8A%A5\": 404 Not Found\n",
       "id": "65378254242899968",
       "image": "https://www.cyzone.cn/undefined",
       "ownerUserId": null,

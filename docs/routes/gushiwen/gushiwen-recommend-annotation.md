@@ -41,7 +41,7 @@ _None_
   ],
   "description": "`annotation` 字段为添加哪些附加信息。可从以下表格中选择值后按顺序拼接。例如如果需要注释和赏析，则为`zhushang`。\n\n| 翻译 | 注释 | 赏析  |\n| ---- | ---- | ----- |\n| yi   | zhu  | shang |",
   "example": "/gushiwen/recommend/zhushang",
-  "heat": 0,
+  "heat": 1,
   "location": "recommend.ts",
   "maintainers": [
     "LogicJake"
@@ -54,6 +54,19 @@ _None_
   "test": {
     "code": 0
   },
-  "topFeeds": []
+  "topFeeds": [
+    {
+      "description": "古诗文推荐 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "177651896292778067",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.gushiwen.cn/",
+      "title": "古诗文推荐",
+      "type": "feed",
+      "url": "rsshub://gushiwen/recommend/yizhushang"
+    }
+  ]
 }
 ```

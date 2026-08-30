@@ -66,8 +66,8 @@ _None_
   "topFeeds": [
     {
       "description": "独立游戏资讯 | indienova 独立游戏 - Powered by RSSHub",
-      "errorAt": "2026-08-19T08:36:18.828Z",
-      "errorMessage": "[GET] \"https://indienova.com/indie-game-news/\": <no response> fetch failed (Connect Timeout Error (attempted address: indienova.com:443, timeout: 10000ms))\n[GET] \"https://indienova.com/indie-game-review/doloc-town-review/\": <no response> fetch failed (Connect Timeout Error (attempted address: indienova.com:443, timeout: 10000ms))\n530 \n[GET] \"https://indienova.com/indie-game-news/\": <no response> fetch failed (Connect Timeout Error (attempted address: indienova.com:443, timeout: 10000ms))\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "55619197325901824",
       "image": null,
       "ownerUserId": null,

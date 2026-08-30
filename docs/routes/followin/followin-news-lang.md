@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 831,
+  "heat": 829,
   "location": "news.ts",
   "maintainers": [
     "TonyRL"
@@ -97,8 +97,8 @@ _None_
   "topFeeds": [
     {
       "description": "News - Followin - Powered by RSSHub",
-      "errorAt": "2026-08-19T08:47:53.875Z",
-      "errorMessage": "[GET] \"https://followin.io\": 429 Too Many Requests\n530 \n[GET] \"https://followin.io\": 429 Too Many Requests\n",
+      "errorAt": "2026-08-20T01:29:45.299Z",
+      "errorMessage": "Failed to fetch\n530 \n[GET] \"https://followin.io\": 429 Too Many Requests\n",
       "id": "64124473013636098",
       "image": "https://followin.io/favicon.ico",
       "ownerUserId": null,
@@ -109,8 +109,8 @@ _None_
     },
     {
       "description": "快讯 - Followin - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-19T09:54:04.768Z",
+      "errorMessage": "[GET] \"https://followin.io\": 429 Too Many Requests\n",
       "id": "41419133062574080",
       "image": "https://followin.io/favicon.ico",
       "ownerUserId": null,

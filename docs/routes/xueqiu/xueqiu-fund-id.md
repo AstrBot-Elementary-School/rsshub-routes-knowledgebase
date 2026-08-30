@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 30,
+  "heat": 29,
   "location": "fund.ts",
   "maintainers": [
     "HenryQW",
@@ -65,7 +65,7 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "基金代码 019305 <br> 今日净值(2026-08-17) ¥1.7038 <br> 日跌跌 -0.479% - Powered by RSSHub",
+      "description": "基金代码 019305 <br> 今日净值(2026-08-27) ¥1.7012 <br> 日涨跌 0.7223% - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "64899751385970688",
@@ -77,7 +77,7 @@ _None_
       "url": "rsshub://xueqiu/fund/019305"
     },
     {
-      "description": "基金代码 017093 <br> 今日净值(2026-08-17) ¥2.8677 <br> 日跌跌 -0.2713% - Powered by RSSHub",
+      "description": "基金代码 017093 <br> 今日净值(2026-08-27) ¥2.8491 <br> 日涨跌 2.2833% - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "64899487882088448",

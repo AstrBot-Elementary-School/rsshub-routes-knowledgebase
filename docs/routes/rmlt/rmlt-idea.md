@@ -36,7 +36,7 @@ _None_
     "new-media"
   ],
   "example": "/rmlt/idea",
-  "heat": 0,
+  "heat": 1,
   "location": "idea.ts",
   "maintainers": [
     "nczitzk"
@@ -46,6 +46,19 @@ _None_
   "test": {
     "code": 0
   },
-  "topFeeds": []
+  "topFeeds": [
+    {
+      "description": "理论_理论_人民论坛网 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "150755089712076834",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.rmlt.com.cn/idea/",
+      "title": "理论_理论_人民论坛网",
+      "type": "feed",
+      "url": "rsshub://rmlt/idea"
+    }
+  ]
 }
 ```

@@ -41,7 +41,7 @@ _None_
   ],
   "description": "| 新闻大爆炸 | 懂球帝十佳球 | 懂球帝本周 MVP |\n| ---------- | ------------ | -------------- |\n| 41         | 52           | 53             |",
   "example": "/dongqiudi/special/41",
-  "heat": 437,
+  "heat": 433,
   "location": "special.ts",
   "maintainers": [
     "dxmpalb"
@@ -64,8 +64,8 @@ _None_
   "topFeeds": [
     {
       "description": "足坛今天都发生了哪些事？ - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-27T11:18:04.285Z",
+      "errorMessage": "200 ",
       "id": "61424740780593152",
       "image": null,
       "ownerUserId": null,

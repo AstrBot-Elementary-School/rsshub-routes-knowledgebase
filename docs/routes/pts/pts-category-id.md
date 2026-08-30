@@ -64,7 +64,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 7,
+  "heat": 10,
   "location": "category.ts",
   "maintainers": [
     "nczitzk"
@@ -97,6 +97,18 @@
       "title": "全球 ｜ 公視新聞網 PNN",
       "type": "feed",
       "url": "rsshub://pts/category/4"
+    },
+    {
+      "description": "兩岸 ｜ 公視新聞網 PNN - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "69916583666985994",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://news.pts.org.tw/category/9",
+      "title": "兩岸 ｜ 公視新聞網 PNN",
+      "type": "feed",
+      "url": "rsshub://pts/category/9"
     }
   ]
 }

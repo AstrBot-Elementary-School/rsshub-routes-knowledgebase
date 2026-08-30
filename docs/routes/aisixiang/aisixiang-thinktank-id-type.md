@@ -83,8 +83,8 @@ _None_
     },
     {
       "description": "秦晖，1953年12月生，清华大学人文社会科学学院教授。1981年作为中国文革后首批硕士毕业于兰州大学(研究生)，曾任陕西师范大学教授(1992年起)、中国农村发展信托投资公司研究员(1994年)，现为中国经济史学会理事、中国农民史研究会理事。中国青少年发展基金会理事、青基会社区文化委员会委员、研究委员会委员、北京天则经济研究所特邀研究员、《方法》、《开放时代》、《中国学术》和《中国社会科学季刊》等学术刊物的编委。(<a href=\"http://www.aisixiang.com/data/detail.php?id=18368\" target=\"_blank\"><u>秦晖学术简历</u></a>) - Powered by RSSHub",
-      "errorAt": "2026-08-19T02:43:57.762Z",
-      "errorMessage": "[GET] \"https://www.aisixiang.com/thinktank/qinhui.html\": <no response> fetch failed (Connect Timeout Error (attempted address: www.aisixiang.com:443, timeout: 10000ms))\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "55135298544042022",
       "image": "https://oss.aisixiang.com/images/logo_thinktank.jpg",
       "ownerUserId": null,

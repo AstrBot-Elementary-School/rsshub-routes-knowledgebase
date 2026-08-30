@@ -94,16 +94,16 @@ _None_
       "url": "rsshub://pingwest/tag/20327/1/fulltext"
     },
     {
-      "description": "品玩 - App - Powered by RSSHub",
+      "description": "品玩 - 电子书 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "121129481487078400",
+      "id": "121129408988533760",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.pingwest.com/tag/349",
-      "title": "品玩 - App",
+      "siteUrl": "https://www.pingwest.com/tag/1326",
+      "title": "品玩 - 电子书",
       "type": "feed",
-      "url": "rsshub://pingwest/tag/349/1"
+      "url": "rsshub://pingwest/tag/1326/1"
     }
   ]
 }

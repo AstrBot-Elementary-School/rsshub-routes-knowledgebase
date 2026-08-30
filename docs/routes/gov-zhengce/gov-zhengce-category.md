@@ -80,7 +80,7 @@
     {
       "description": "中国政府网政策与法主栏目下解读国务院法规,政策,部门规章等有关文件的栏目页 - Powered by RSSHub",
       "errorAt": "2026-01-26T16:57:03.541Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "Failed to fetch\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "85521092373168149",
       "image": "https://www.gov.cn/images/gtrs_logo_rt.png",
       "ownerUserId": null,

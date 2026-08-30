@@ -54,7 +54,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 290,
+  "heat": 291,
   "location": "hot-search.ts",
   "maintainers": [
     "CaoMeiYouRen"
@@ -85,7 +85,7 @@ _None_
       "id": "54831663495804928",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://api.bilibili.com/x/web-interface/wbi/search/square?limit=10&platform=web&w_rid=4927163cc37cccf7e2cda020e8a72635&wts=1787105543",
+      "siteUrl": "https://api.bilibili.com/x/web-interface/wbi/search/square?limit=10&platform=web&w_rid=d6985a151c2b6853d6f84af73534380f&wts=1787995188",
       "title": "bilibili热搜",
       "type": "feed",
       "url": "rsshub://bilibili/hot-search"

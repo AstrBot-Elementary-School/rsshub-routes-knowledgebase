@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 134,
+  "heat": 136,
   "location": "news-web-easy.tsx",
   "maintainers": [
     "Andiedie"

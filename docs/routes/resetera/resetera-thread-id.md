@@ -39,7 +39,7 @@ _None_
     "bbs"
   ],
   "example": "/resetera/thread/1076160",
-  "heat": 1,
+  "heat": 2,
   "location": "thread.ts",
   "maintainers": [
     "ZEN-GUO"

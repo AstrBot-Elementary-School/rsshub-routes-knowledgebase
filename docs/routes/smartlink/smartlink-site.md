@@ -75,8 +75,8 @@ smartlink.bio link in bio takes your audience from Instagram and TikTok to your 
   "topFeeds": [
     {
       "description": "@bloombergpursuits SmartLink - Powered by RSSHub",
-      "errorAt": "2026-08-19T06:12:16.478Z",
-      "errorMessage": "500 \n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "154498823602214912",
       "image": null,
       "ownerUserId": null,

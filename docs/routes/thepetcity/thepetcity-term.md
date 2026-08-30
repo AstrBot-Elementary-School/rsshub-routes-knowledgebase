@@ -77,7 +77,7 @@ _None_
   ],
   "description": "| Column Name           | TermID |\n| --------------------- | ------ |\n| Knowledge 飼養大全    | 3      |\n| Funny News 毛孩趣聞   | 2      |\n| Raise Pets 養寵物新手 | 5      |\n| Hot Spot 毛孩打卡點   | 4      |\n| Pet Staff 毛孩好物    | 1      |",
   "example": "/thepetcity",
-  "heat": 48,
+  "heat": 47,
   "location": "index.ts",
   "maintainers": [
     "TonyRL",

@@ -38,7 +38,7 @@ _None_
     "sport"
   ],
   "example": "/dongqiudi/result/50001755",
-  "heat": 54,
+  "heat": 53,
   "location": "result.ts",
   "maintainers": [
     "HenryQW"

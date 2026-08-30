@@ -50,7 +50,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1694,
+  "heat": 1690,
   "location": "column.ts",
   "maintainers": [
     "HenryQW",
@@ -67,8 +67,8 @@ _None_
   "topFeeds": [
     {
       "description": "爱思想 - [国际关系时评] - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-25T06:03:29.423Z",
+      "errorMessage": "200 ",
       "id": "69571398918375452",
       "image": "https://oss.aisixiang.com/images/logo.jpg",
       "ownerUserId": null,

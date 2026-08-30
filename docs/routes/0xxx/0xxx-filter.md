@@ -96,8 +96,8 @@ To subscribe to [Movie HD 1080p](https://0xxx.ws?category=Movie-HD-1080p), where
     },
     {
       "description": "Latest high quality 0day porn available for free download. Home of scene and P2P releases - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-29T08:56:25.826Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "196817673683011584",
       "image": "https://0xxx.ws/images/logo.png",
       "ownerUserId": null,

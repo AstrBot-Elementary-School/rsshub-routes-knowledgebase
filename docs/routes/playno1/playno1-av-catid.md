@@ -59,7 +59,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1707,
+  "heat": 1710,
   "location": "av.ts",
   "maintainers": [
     "TonyRL"
@@ -87,8 +87,8 @@ _None_
     },
     {
       "description": "新聞-AVNo.1-PLAYNO.1玩樂達人 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-24T04:21:54.654Z",
+      "errorMessage": "200 ",
       "id": "55955399997421568",
       "image": null,
       "ownerUserId": null,

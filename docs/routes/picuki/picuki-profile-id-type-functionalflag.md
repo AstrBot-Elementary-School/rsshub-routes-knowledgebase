@@ -59,7 +59,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 10690,
+  "heat": 10694,
   "location": "profile.ts",
   "maintainers": [
     "hoilc",
@@ -122,7 +122,7 @@ _None_
     {
       "description": "7 posts - Powered by RSSHub",
       "errorAt": "2025-12-01T11:31:13.832Z",
-      "errorMessage": "Failed to fetch\n522 \n530 \nContent does not exist.\n",
+      "errorMessage": "Failed to fetch\n522 \n530 \nbrowserType.connect: WebSocket error: wss://cloudflare-patchright.rss3.workers.dev/playwright 428 Precondition Required\n╔════════════════════════════════════════════════════╗\n║ Playwright version mismatch:                       ║\n║   - server version: v1.61                          ║\n║   - client version: v1.62                          ║\n║                                                    ║\n║ If you are using VSCode extension, restart VSCode. ║\n║                                                    ║\n║ If you are connecting to a remote service,         ║\n║ keep your local Playwright version in sync         ║\n║ with the remote service version.                   ║\n║                                                    ║\n║ <3 Playwright Team                                 ║\n╚════════════════════════════════════════════════════╝\nCall log:\n  - <ws connecting> wss://cloudflare-patchright.rss3.workers.dev/playwright\n  - <ws unexpected response> wss://cloudflare-patchright.rss3.workers.dev/playwright 428 Precondition Required\n╔════════════════════════════════════════════════════╗\n║ Playwright version mismatch:                       ║\n║   - server version: v1.61                          ║\n║   - client version: v1.62                          ║\n║                                                    ║\n║ If you are using VSCode extension, restart VSCode. ║\n║                                                    ║\n║ If you are connecting to a remote service,         ║\n║ keep your local Playwright version in sync         ║\n║ with the remote service version.                   ║\n║                                                    ║\n║ <3 Playwright Team                                 ║\n╚════════════════════════════════════════════════════╝\n  - <ws error> wss://cloudflare-patchright.rss3.workers.dev/playwright error WebSocket was closed before the connection was established\n  - <ws connect error> wss://cloudflare-patchright.rss3.workers.dev/playwright WebSocket was closed before the connection was established\n  - <ws disconnected> wss://cloudflare-patchright.rss3.workers.dev/playwright code=1006 reason=\n\n",
       "id": "68868134910057472",
       "image": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/20f0f3b9dca2307c0d9e928f5a31e787~tplv-tiktokx-cropcenter:720:720.jpeg?dr=10399&refresh_token=c2635a64&x-expires=1763265600&x-signature=ZbrX%2BEgQnxUC4x4myuI%2FM5Za0xg%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=no1a",
       "ownerUserId": null,

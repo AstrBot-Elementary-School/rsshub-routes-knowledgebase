@@ -172,8 +172,8 @@
   "topFeeds": [
     {
       "description": "萃嶺网 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-27T13:14:41.512Z",
+      "errorMessage": "[GET] \"https://www.cuilingmag.com/\": <no response> fetch failed (Connect Timeout Error (attempted address: www.cuilingmag.com:443, timeout: 10000ms))\n[GET] \"https://www.cuilingmag.com/\": <no response> fetch failed (Connect Timeout Error (attempted address: www.cuilingmag.com:443, timeout: 10000ms))\n",
       "id": "72920871518882824",
       "image": "https://www.cuilingmag.com/cuiling/icon/latest-logo.svg",
       "ownerUserId": null,

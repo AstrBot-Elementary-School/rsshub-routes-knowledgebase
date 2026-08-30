@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 75,
+  "heat": 74,
   "location": "realtime.ts",
   "maintainers": [
     "quiniapiezoelectricity"

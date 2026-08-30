@@ -74,7 +74,7 @@
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 27,
+  "heat": 28,
   "location": "index.ts",
   "maintainers": [
     "snipersteve",
@@ -127,8 +127,8 @@
     },
     {
       "description": "北京德恒律师事务所 - Powered by RSSHub",
-      "errorAt": "2026-08-19T06:11:49.576Z",
-      "errorMessage": "500 \n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "174674333066488832",
       "image": "https://www.dehenglaw.com/images/logo_deheng.png",
       "ownerUserId": null,

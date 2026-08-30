@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 120,
+  "heat": 119,
   "location": "latest-tvseries.ts",
   "maintainers": [
     "tc9011"
@@ -75,7 +75,7 @@ _None_
     {
       "description": "6v最新电影RSS - Powered by RSSHub",
       "errorAt": "2026-01-08T04:57:10.678Z",
-      "errorMessage": "[GET] \"https://www.hao6v.tv/gvod/dsj.html\": <no response> fetch failed (certificate has expired)\n[GET] \"https://www.hao6v.tv/gvod/dsj.html\": <no response> fetch failed (certificate has expired)\n",
+      "errorMessage": "502 \n[GET] \"https://www.hao6v.tv/gvod/dsj.html\": <no response> fetch failed (certificate has expired)\n",
       "id": "59838106508034048",
       "image": null,
       "ownerUserId": null,

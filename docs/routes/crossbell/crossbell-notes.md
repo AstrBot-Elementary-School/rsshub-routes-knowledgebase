@@ -74,7 +74,7 @@ _None_
     {
       "description": "Crossbell Notes - Powered by RSSHub",
       "errorAt": "2026-01-27T09:38:45.841Z",
-      "errorMessage": "[GET] \"https://indexer.crossbell.io/v1/notes?includeCharacter=true\": <no response> fetch failed (Connect Timeout Error (attempted address: indexer.crossbell.io:443, timeout: 10000ms))\n",
+      "errorMessage": "[GET] \"https://indexer.crossbell.io/v1/notes?includeCharacter=true\": <no response> fetch failed (getaddrinfo ENOTFOUND indexer.crossbell.io)\n",
       "id": "72809817072434176",
       "image": null,
       "ownerUserId": null,

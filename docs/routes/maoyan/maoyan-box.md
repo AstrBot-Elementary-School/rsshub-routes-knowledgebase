@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 8,
+  "heat": 9,
   "location": "box.ts",
   "maintainers": [
     "JackyST0"
@@ -76,7 +76,7 @@ _None_
     {
       "description": "猫眼电影实时票房排行榜 - Powered by RSSHub",
       "errorAt": "2026-08-13T16:07:34.803Z",
-      "errorMessage": "[GET] \"https://piaofang.maoyan.com/dashboard-ajax\": 403 Forbidden\n[GET] \"https://piaofang.maoyan.com/dashboard-ajax\": 403 Forbidden\n",
+      "errorMessage": "502 \n[GET] \"https://piaofang.maoyan.com/dashboard-ajax\": 403 Forbidden\n",
       "id": "237791467801829376",
       "image": null,
       "ownerUserId": null,

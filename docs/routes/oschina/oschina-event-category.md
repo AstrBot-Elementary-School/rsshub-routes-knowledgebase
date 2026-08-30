@@ -70,7 +70,7 @@
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 3,
+  "heat": 2,
   "location": "event.ts",
   "maintainers": [
     "nczitzk"
@@ -109,7 +109,7 @@
     {
       "description": "活动专区, OSCHINA 社区 - Powered by RSSHub",
       "errorAt": "2025-04-03T10:57:18.137Z",
-      "errorMessage": "[POST] \"https://www.oschina.net/action/ajax/get_more_event_list\": 404 Not Found\n",
+      "errorMessage": "200 ",
       "id": "105058878886147072",
       "image": null,
       "ownerUserId": null,

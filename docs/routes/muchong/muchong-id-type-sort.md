@@ -41,7 +41,7 @@ _None_
   ],
   "description": "::: tip\n尚不支持需要登录访问的版块\n:::",
   "example": "/muchong/290",
-  "heat": 0,
+  "heat": 4,
   "location": "index.ts",
   "maintainers": [
     "nczitzk"
@@ -56,6 +56,31 @@ _None_
   "test": {
     "code": 0
   },
-  "topFeeds": []
+  "topFeeds": [
+    {
+      "description": "论文投稿 - 学术交流区 - 小木虫论坛 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "177651896292777999",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://muchong.com/f-125-1",
+      "title": "论文投稿 - 学术交流区 - 小木虫论坛",
+      "type": "feed",
+      "url": "rsshub://muchong/125"
+    },
+    {
+      "description": "海归之家 - 出国留学区 - 小木虫论坛 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "177651896292777998",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://muchong.com/f-428-1",
+      "title": "海归之家 - 出国留学区 - 小木虫论坛",
+      "type": "feed",
+      "url": "rsshub://muchong/428"
+    }
+  ]
 }
 ```

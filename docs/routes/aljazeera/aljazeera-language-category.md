@@ -62,7 +62,7 @@ _None_
   ],
   "description": "Language\n\n| Arabic | Chinese | English |\n| ------ | ------- | ------- |\n| arabic | chinese | english |\n\n::: tip\nIf you subscribe to [Al Jazeera English - Economy](https://www.aljazeera.com/economy), whose language is `english` and whose path is `economy`, you can get the route as [`/aljazeera/english/economy`](https://rsshub.app/aljazeera/english/economy)\n\nIf you subscribe to [Al Jazeera Chinese - Political](https://chinese.aljazeera.net/news/political) with language `chinese` and path `news/political`, you can get the route as [`/aljazeera/chinese/news/political`](https://rsshub.app/aljazeera/chinese/news/political)\n:::",
   "example": "/aljazeera/english/news",
-  "heat": 180,
+  "heat": 179,
   "location": "index.tsx",
   "maintainers": [
     "nczitzk"
@@ -103,7 +103,7 @@ _None_
     {
       "description": "新闻 | 半岛电视台今日最新资讯 - Powered by RSSHub",
       "errorAt": "2025-12-30T17:17:58.172Z",
-      "errorMessage": "Cannot read properties of null (reading '1')\nCannot read properties of null (reading '1')\nCannot read properties of null (reading '1')\n",
+      "errorMessage": "Failed to fetch\nCannot read properties of null (reading '1')\nCannot read properties of null (reading '1')\n",
       "id": "41572238273905695",
       "image": null,
       "ownerUserId": null,
@@ -115,7 +115,7 @@ _None_
     {
       "description": "俄罗斯-乌克兰战争 | 半岛电视台今日最新资讯 - Powered by RSSHub",
       "errorAt": "2025-12-30T21:45:14.570Z",
-      "errorMessage": "Cannot read properties of null (reading '1')\nCannot read properties of null (reading '1')\n",
+      "errorMessage": "Failed to fetch\nCannot read properties of null (reading '1')\n",
       "id": "88577770971737095",
       "image": null,
       "ownerUserId": null,

@@ -1112,7 +1112,7 @@ To subscribe to [Artificial Intelligence (cs.AI)](https://papers.cool/arxiv/cs.A
     "supportRadar": true,
     "supportScihub": true
   },
-  "heat": 48,
+  "heat": 46,
   "location": "category.ts",
   "maintainers": [
     "nczitzk",

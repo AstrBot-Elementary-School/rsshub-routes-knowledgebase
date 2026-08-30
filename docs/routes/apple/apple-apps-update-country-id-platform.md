@@ -111,7 +111,7 @@ For example, the URL of [GarageBand](https://apps.apple.com/us/app/garageband/id
       "errorAt": null,
       "errorMessage": null,
       "id": "55304675781277696",
-      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/89/55/5b/89555b1d-1b1c-12bb-5dbc-707c47b52b54/Placeholder.mill/3000x3000bb.webp",
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cf/a2/89/cfa289c7-e8aa-410b-4944-8d9bffc2933b/Placeholder.mill/3000x3000bb.webp",
       "ownerUserId": null,
       "siteUrl": "https://apps.apple.com/cn/app/id414478124",
       "title": "微信 for iOS - Apple App Store",

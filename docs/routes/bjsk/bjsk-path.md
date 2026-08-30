@@ -54,7 +54,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1,
+  "heat": 0,
   "location": "index.ts",
   "maintainers": [
     "TonyRL"
@@ -67,19 +67,6 @@ _None_
   "test": {
     "code": 0
   },
-  "topFeeds": [
-    {
-      "description": "北京社科网_社科资讯_社科要闻 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "84143691704495104",
-      "image": "https://www.bjsk.org.cn/favicon.ico",
-      "ownerUserId": null,
-      "siteUrl": "https://www.bjsk.org.cn/newslist-1394-1474-0.html",
-      "title": "北京社科网_社科资讯_社科要闻",
-      "type": "feed",
-      "url": "rsshub://bjsk/newslist-1394-1474-0"
-    }
-  ]
+  "topFeeds": []
 }
 ```

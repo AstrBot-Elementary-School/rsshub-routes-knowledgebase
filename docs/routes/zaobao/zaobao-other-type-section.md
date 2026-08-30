@@ -67,7 +67,7 @@ _None_
     },
     {
       "description": "新加坡、中国、亚洲和国际的即时、评论、商业、体育、生活、科技与多媒体新闻，尽在联合早报。 - Powered by RSSHub",
-      "errorAt": "2026-08-15T08:35:24.834Z",
+      "errorAt": "2026-08-23T20:43:50.122Z",
       "errorMessage": "200 ",
       "id": "114855620432737280",
       "image": "https://www.zaobao.com.sg/favicon.ico",

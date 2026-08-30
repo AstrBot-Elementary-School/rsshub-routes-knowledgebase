@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2589,
+  "heat": 2592,
   "location": "dailyphoto.tsx",
   "maintainers": [
     "LogicJake",
@@ -78,8 +78,8 @@ _None_
   "topFeeds": [
     {
       "description": "Nat Geo Photo of the Day - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-24T15:22:27.315Z",
+      "errorMessage": "200 ",
       "id": "41699925856588800",
       "image": null,
       "ownerUserId": null,

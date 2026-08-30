@@ -78,7 +78,7 @@ _None_
       "errorAt": null,
       "errorMessage": null,
       "id": "128821228935856128",
-      "image": "https://magazine.raspberrypi.com/storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTE0MjUsInB1ciI6ImJsb2JfaWQifX0=--dd598ddf25217252cc32099c04f140d0e29b03ee/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTIwMCw2MzBdfSwicHVyIjoidmFyaWF0aW9uIn19--d672719dc1e39d5124317a96745efdd8005f6b08/RPOM168-grey-flat.png",
+      "image": "https://magazine.raspberrypi.com/storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTE0OTAsInB1ciI6ImJsb2JfaWQifX0=--b803fc3f17b1e2560c6f2441441f3a972923247d/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTIwMCw2MzBdfSwicHVyIjoidmFyaWF0aW9uIn19--d672719dc1e39d5124317a96745efdd8005f6b08/RPOM169-grey-flat.png",
       "ownerUserId": null,
       "siteUrl": "https://magazine.raspberrypi.com/issues",
       "title": "Issues — Raspberry Pi Official MagazineRaspberry PiRaspberry Pi Official Magazine",

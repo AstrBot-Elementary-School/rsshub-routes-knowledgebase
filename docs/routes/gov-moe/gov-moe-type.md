@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 166,
+  "heat": 165,
   "location": "moe.ts",
   "maintainers": [
     "Crawler995"

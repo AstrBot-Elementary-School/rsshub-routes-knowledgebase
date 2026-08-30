@@ -57,7 +57,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1554,
+  "heat": 1556,
   "location": "playlist.ts",
   "maintainers": [
     "HenryQW"
@@ -77,7 +77,7 @@ _None_
       "errorAt": null,
       "errorMessage": null,
       "id": "63845323989307392",
-      "image": "https://i.ytimg.com/pl_c/PL3bAfMXyZjrPfLIHtd6Phb4R1gBswybSq/studio_square_thumbnail.jpg?sqp=CLzjlNQG-oaymwEICNAFENAFSFqi85f_AwYImOKvqwY=&rs=AOn4CLCMkmcX6mNxaV994m7L0PbH0IZmLg",
+      "image": "https://i.ytimg.com/pl_c/PL3bAfMXyZjrPfLIHtd6Phb4R1gBswybSq/studio_square_thumbnail.jpg?sqp=CJGHydQG-oaymwEICNAFENAFSFqi85f_AwYImOKvqwY=&rs=AOn4CLADRQmQrxSeIu-bk_42ZAK-_D6NoQ",
       "ownerUserId": null,
       "siteUrl": "https://www.youtube.com/playlist?list=PL3bAfMXyZjrPfLIHtd6Phb4R1gBswybSq",
       "title": "王局拍案 by 王志安 - YouTube",
@@ -86,8 +86,8 @@ _None_
     },
     {
       "description": "付鹏说 by Since1982 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-29T07:53:14.996Z",
+      "errorMessage": "Failed to fetch\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nfetch failed\n530 \nFailed to fetch\n",
       "id": "93660941816522752",
       "image": "https://i.ytimg.com/vi/m7tfUrsJsrw/hqdefault.jpg?sqp=-oaymwExCNACELwBSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYYyBjKGMwDw==&rs=AOn4CLAzP1etQerVVHfma9Gn-2IH3klTkA",
       "ownerUserId": null,

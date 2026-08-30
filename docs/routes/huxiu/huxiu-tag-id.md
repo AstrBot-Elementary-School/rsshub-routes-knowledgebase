@@ -81,8 +81,8 @@ _None_
     },
     {
       "description": "虎嗅标签-日本 - Powered by RSSHub",
-      "errorAt": "2026-08-17T23:31:20.103Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "126557871055055872",
       "image": "https://img.huxiucdn.com/tag/201507/17/170023452331.jpg",
       "ownerUserId": null,

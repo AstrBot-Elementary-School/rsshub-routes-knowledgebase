@@ -61,7 +61,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 168,
+  "heat": 167,
   "location": "index.ts",
   "maintainers": [
     "TonyRL"
@@ -152,8 +152,8 @@ _None_
     },
     {
       "description": "Followin - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-20T07:10:32.583Z",
+      "errorMessage": "[GET] \"https://followin.io\": 429 Too Many Requests\n",
       "id": "62849148807841792",
       "image": "https://followin.io/favicon.ico",
       "ownerUserId": null,

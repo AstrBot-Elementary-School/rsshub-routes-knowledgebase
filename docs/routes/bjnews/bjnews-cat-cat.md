@@ -39,7 +39,7 @@ _None_
   ],
   "example": "/bjnews/cat/depth",
   "features": {},
-  "heat": 113,
+  "heat": 111,
   "location": "cat.ts",
   "maintainers": [
     "dzx-dzx"
@@ -74,8 +74,8 @@ _None_
     },
     {
       "description": "新京报 - 分类 - 文化 - Powered by RSSHub",
-      "errorAt": "2026-08-18T18:41:00.436Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "84161318721934339",
       "image": null,
       "ownerUserId": null,

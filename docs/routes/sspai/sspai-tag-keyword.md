@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 540,
+  "heat": 537,
   "location": "tag.ts",
   "maintainers": [
     "Jeason0228"
@@ -86,8 +86,8 @@ _None_
     },
     {
       "description": "本周看什么 更新推送 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-22T14:10:31.671Z",
+      "errorMessage": "200 ",
       "id": "56232529208193024",
       "image": null,
       "ownerUserId": null,

@@ -42,7 +42,7 @@ _None_
   ],
   "description": "| 所有新聞 | 攝影器材 | 手機通訊 | 汽車熱話 | 攝影文化    | 影片攝錄    | 測試報告 | 生活科技 | 攝影技巧  |\n| -------- | -------- | -------- | -------- | ----------- | ----------- | -------- | -------- | --------- |\n|          | camera   | mobile   | auto     | photography | videography | reviews  | gadget   | technique |",
   "example": "/dcfever/news",
-  "heat": 156,
+  "heat": 155,
   "location": "news.ts",
   "maintainers": [
     "TonyRL"

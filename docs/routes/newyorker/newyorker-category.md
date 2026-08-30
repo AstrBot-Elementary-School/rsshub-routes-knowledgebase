@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1641,
+  "heat": 1643,
   "location": "news.ts",
   "maintainers": [
     "IvanWng97",
@@ -76,8 +76,8 @@ _None_
   "topFeeds": [
     {
       "description": "Reporting, Profiles, breaking news, cultural coverage, podcasts, videos, and cartoons from The New Yorker. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-23T19:25:45.217Z",
+      "errorMessage": "200 ",
       "id": "49394735648572416",
       "image": null,
       "ownerUserId": null,
@@ -88,8 +88,8 @@ _None_
     },
     {
       "description": "Reporting, Profiles, breaking news, cultural coverage, podcasts, videos, and cartoons from The New Yorker. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-26T11:45:02.518Z",
+      "errorMessage": "200 ",
       "id": "62040507105143808",
       "image": null,
       "ownerUserId": null,

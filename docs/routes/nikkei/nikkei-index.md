@@ -36,7 +36,7 @@ _None_
     "traditional-media"
   ],
   "example": "/nikkei/index",
-  "heat": 28,
+  "heat": 29,
   "location": "index.ts",
   "maintainers": [
     "zjysdhr"

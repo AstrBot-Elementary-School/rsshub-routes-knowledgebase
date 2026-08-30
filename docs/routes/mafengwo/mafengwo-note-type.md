@@ -36,7 +36,7 @@ _None_
     "travel"
   ],
   "example": "/mafengwo/note/hot",
-  "heat": 0,
+  "heat": 5,
   "location": "note.ts",
   "maintainers": [
     "sinchang"
@@ -49,6 +49,19 @@ _None_
   "test": {
     "code": 0
   },
-  "topFeeds": []
+  "topFeeds": [
+    {
+      "description": "马蜂窝!靠谱的旅游攻略,自由行,自助游分享社区,海量旅游景点图片、游记、交通、美食、购物等自由行旅游攻略信息,马蜂窝旅游网获取自由行,自助游攻略信息更全面 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "146103826078083077",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.mafengwo.cn/",
+      "title": "马蜂窝游记",
+      "type": "feed",
+      "url": "rsshub://mafengwo/note/hot"
+    }
+  ]
 }
 ```

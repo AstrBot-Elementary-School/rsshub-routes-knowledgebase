@@ -55,7 +55,7 @@ _None_
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 1646,
+  "heat": 1645,
   "location": "zfxxgk.ts",
   "maintainers": [
     "howfool",

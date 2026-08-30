@@ -104,8 +104,8 @@ _None_
     },
     {
       "description": "141PPV - New - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-29T05:44:50.220Z",
+      "errorMessage": "Failed to fetch\n[GET] \"https://www.141ppv.com/new\": 403 Forbidden\n",
       "id": "53022498131722240",
       "image": null,
       "ownerUserId": null,

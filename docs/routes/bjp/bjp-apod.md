@@ -54,7 +54,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4282,
+  "heat": 4279,
   "location": "apod.ts",
   "maintainers": [
     "HenryQW"
@@ -77,8 +77,8 @@ _None_
   "topFeeds": [
     {
       "description": "探索宇宙！每天发布一张迷人宇宙的影像，以及由专业天文学家撰写的简要说明。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-25T21:31:21.439Z",
+      "errorMessage": "200 ",
       "id": "55304291112288259",
       "image": null,
       "ownerUserId": null,

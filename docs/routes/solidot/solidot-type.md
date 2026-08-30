@@ -50,7 +50,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2570,
+  "heat": 2560,
   "location": "main.ts",
   "maintainers": [
     "sgqy",
@@ -141,8 +141,8 @@ _None_
   "topFeeds": [
     {
       "description": "奇客的资讯，重要的东西 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-23T19:16:32.017Z",
+      "errorMessage": "200 ",
       "id": "58477260865774592",
       "image": null,
       "ownerUserId": null,

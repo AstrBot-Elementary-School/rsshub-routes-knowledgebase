@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 32117,
+  "heat": 32032,
   "location": "index.ts",
   "maintainers": [
     "HenryQW",
@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "少数派首页 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-23T23:06:07.516Z",
+      "errorMessage": "200 ",
       "id": "41147805276726272",
       "image": null,
       "ownerUserId": null,

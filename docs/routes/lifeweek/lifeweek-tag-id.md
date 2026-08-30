@@ -68,8 +68,8 @@ _None_
   "topFeeds": [
     {
       "description": "人物 - Powered by RSSHub",
-      "errorAt": "2026-08-18T20:15:29.242Z",
-      "errorMessage": "[GET] \"https://www.lifeweek.com.cn/api/userWebFollow/getFollowTagContentList?type=4&sort=2&tagId=6\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 218.244.8.27:443, 218.244.8.28:443, 218.244.8.21:443, 218.244.8.22:443, 218.244.8.23:443, 218.244.8.24:443, 218.244.8.25:443, 218.244.8.26:443, timeout: 10000ms))\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "104794039452750848",
       "image": null,
       "ownerUserId": null,

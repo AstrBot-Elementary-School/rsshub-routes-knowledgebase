@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 112,
+  "heat": 114,
   "location": "thereaddown.ts",
   "maintainers": [
     "StevenRCE0"

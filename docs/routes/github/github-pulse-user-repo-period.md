@@ -91,16 +91,16 @@ _None_
       "url": "rsshub://github/pulse/2noise/ChatTTS/weekly"
     },
     {
-      "description": null,
-      "errorAt": "2025-12-08T08:14:07.373Z",
-      "errorMessage": "[GET] \"https://github.com/fun-asr/funasr/pulse/weekly\": 404 Not Found\n[GET] \"https://github.com/fun-asr/funasr/pulse/weekly\": 404 Not Found\n",
-      "id": "220767323256864794",
+      "description": "RVC-Project/Retrieval-based-Voice-Conversion-WebUI weekly Pulse - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "220767323256864795",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": null,
-      "title": "Importing",
+      "siteUrl": "https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/pulse/weekly",
+      "title": "RVC-Project/Retrieval-based-Voice-Conversion-WebUI weekly Pulse",
       "type": "feed",
-      "url": "rsshub://github/pulse/fun-asr/funasr/weekly"
+      "url": "rsshub://github/pulse/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/weekly"
     }
   ]
 }

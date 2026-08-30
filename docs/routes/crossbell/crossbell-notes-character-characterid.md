@@ -78,7 +78,7 @@ _None_
     {
       "description": "Crossbell Notes from 云野阁 - Powered by RSSHub",
       "errorAt": "2026-01-27T15:26:50.187Z",
-      "errorMessage": "[GET] \"https://indexer.crossbell.io/v1/notes?characterId=73369&includeCharacter=true\": <no response> fetch failed (Connect Timeout Error (attempted address: indexer.crossbell.io:443, timeout: 10000ms))\n",
+      "errorMessage": "[GET] \"https://indexer.crossbell.io/v1/notes?characterId=73369&includeCharacter=true\": <no response> fetch failed (getaddrinfo ENOTFOUND indexer.crossbell.io)\n",
       "id": "146868883707305984",
       "image": null,
       "ownerUserId": null,

@@ -62,7 +62,7 @@ _None_
     {
       "description": "国家哲学社会科学文献中心 - Powered by RSSHub",
       "errorAt": "2025-07-30T03:03:07.439Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'showwriter')\nCannot read properties of undefined (reading 'showwriter')\n",
+      "errorMessage": "Failed to fetch\nCannot read properties of undefined (reading 'showwriter')\n",
       "id": "65678435360570368",
       "image": null,
       "ownerUserId": null,

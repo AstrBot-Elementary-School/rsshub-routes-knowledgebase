@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2,
+  "heat": 3,
   "location": "user.ts",
   "maintainers": [
     "TonyRL"
@@ -78,14 +78,14 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "@policiadecolombia 828.9k Followers, 13 Following, 8.2m Likes - Watch awesome short videos created by Policía de Colombia - Powered by RSSHub",
-      "errorAt": "2026-05-20T00:38:28.972Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "description": "Cuenta oficial de TikTok Policía Nacional de Colombia. 🇨🇴👮🏻‍♂️👮🏻‍♀️ - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "1118368279467786240",
-      "image": "https://p16-common-sign.tiktokcdn.com/tos-maliva-avt-0068/b0997e2e6fe717f31736b97de7253aa4~tplv-tiktokx-cropcenter:1080:1080.jpeg?dr=14579&refresh_token=b8d90eb6&x-expires=1779379200&x-signature=TzthJcVwd65eQaFN%2BM7aodDqaN0%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
+      "image": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/3282e877c0ed5a7e1d7bac9f192e7033~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=9feae868&x-expires=1788159600&x-signature=qCBDqZdxAUWbLrP1OsEc2tX57wg%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
       "ownerUserId": null,
       "siteUrl": "https://www.tiktok.com/@policiadecolombia",
-      "title": "Policía de Colombia on TikTok",
+      "title": "Policía de Colombia (@policiadecolombia) | TikTok",
       "type": "feed",
       "url": "rsshub://tiktok/user/@policiadecolombia"
     }

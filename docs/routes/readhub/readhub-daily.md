@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4824,
+  "heat": 4832,
   "location": "daily.ts",
   "maintainers": [
     "nczitzk",
@@ -73,7 +73,7 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "1. Anthropic 7 月年化营收据称超 650 亿美元，较去年年底增超 7 倍 2. 苹果最快本月底前对 iPhone 17 系列全球涨价：最高涨价近千元 3. 微信更新：朋友圈可 AI 点评、AI 帮写 4. 公积金条例修改：拓宽提取和使用范围 5. 蚂蚁健康收购头部医疗服务商风石健康 6. 特斯拉据悉准备 8 月面向公众推出 CyberCab 7. OpenRouter 砍半 OpenAI 最强模型 GPT-5.6 Sol 调用费 8. 字节跳动与美国电影协会签署协议，加强 AI 模型版权保护 9. 消息称谷歌考虑明年将所有 Pixel 产品生产转移出中国 10. Cursor 推出 Origin 代码托管平台，支持与 GitHub 双向同步 11. 红杉中国寻求为其单飞以来的首支美元基金募资 12 亿美元 12. 小米集团：第二季度经调整净利润为 62 亿元 13. 百度 Q2 财报：总营收 313 亿元 AI 业务收入占比连续过半 14. GPT-5.6 Sol 视觉能力大幅提升，测试得分暴涨 3 倍 - Powered by RSSHub",
+      "description": "1. Anthropic 拟 9 月上旬公布招股书 2. 腾讯混元 Hy4 preview 发布并开源 3. iPhone 18 Pro 预购或延至 9 月 12 日开启 较往年推后一天 4. 长鑫科技：2026 年上半年净利润 776.05 亿元，同比扭亏为盈 5. Anthropic 发布物理 MCP：Claude 开始接管真实世界 6. 阿里 Qoder 产品技术负责人离职，结束 15 年阿里生涯 7. 消息称美团 LongCat 通用 Agent 团队负责人顾奇将离职创业 8. Anthropic 考虑收购 AI 芯片初创公司 MatX 9. 英伟达暂停与多家人工智能企业的收益分成协议 10. 蚂蚁集团发布 Ling-3.0-flash-Fin 金融大模型 聚焦投研核心能力 11. 软银寻求再获 100 亿美元贷款，用于 OpenAI 股权投资 12. SHEIN 通过港股 IPO 筹资 17 亿美元 13. 马斯克：猜测 SpaceX 到 2033 年左右营收将达到 3.5 万亿美元 14. 威科集团与蚂蚁健康达成战略合作，JCO 等 28 本医学顶刊上线阿福医生版 15. 天猫宣布将直播苹果 iPhone 18 Pro 发布会 16. SK 海力士 CEO：预计内存短缺将持续到 2030 年底 17. 华为轮值董事长徐直军：预计鸿蒙生态今年年底突破 1 亿用户 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "52347176714948614",

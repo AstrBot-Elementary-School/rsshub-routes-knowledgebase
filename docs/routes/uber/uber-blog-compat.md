@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 96,
+  "heat": 97,
   "location": "blog.ts",
   "maintainers": [
     "hulb"

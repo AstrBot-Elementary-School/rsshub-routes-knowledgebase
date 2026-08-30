@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 245,
+  "heat": 246,
   "location": "category.ts",
   "maintainers": [
     "XinRoom",

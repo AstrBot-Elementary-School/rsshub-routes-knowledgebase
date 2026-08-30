@@ -44,7 +44,7 @@ _None_
   ],
   "description": "提取文章全文，获得更好的阅读体验。支持所有频道，频道名称见 [杂志栏目](https://www.lifeweek.com.cn/classify?type=2)。例如 [调查栏目](https://www.lifeweek.com.cn/column/9) URL 最后的数字为栏目 ID\n\n| 调查 | 热点 | 人物 | 社会 | 经济 | 文化 |\n| ---- | ---- | ---- | ---- | ---- | ---- |\n| 9    | 6    | 10   | 2    | 3    | 4    |",
   "example": "/lifeweek/channel/9",
-  "heat": 139,
+  "heat": 141,
   "location": "channel.ts",
   "maintainers": [
     "changren-wcr"
@@ -68,8 +68,8 @@ _None_
   "topFeeds": [
     {
       "description": "文化 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-29T00:53:32.887Z",
+      "errorMessage": "[GET] \"https://www.lifeweek.com.cn/api/userWebFollow/getFollowTagContentList?type=3&sort=2&tagId=4\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 220.113.153.50:443, 220.113.153.49:443, 220.113.153.48:443, 220.113.153.51:443, 220.113.153.79:443, 220.113.153.52:443, 220.113.153.53:443, 220.113.153.80:443, timeout: 10000ms))\n",
       "id": "74705665643397120",
       "image": null,
       "ownerUserId": null,
@@ -80,8 +80,8 @@ _None_
     },
     {
       "description": "经济 - Powered by RSSHub",
-      "errorAt": "2026-08-18T12:26:58.771Z",
-      "errorMessage": "[GET] \"https://www.lifeweek.com.cn/api/userWebFollow/getFollowTagContentList?type=3&sort=2&tagId=3\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 103.151.149.18:443, 103.151.149.15:443, 103.151.149.17:443, 103.151.149.20:443, 103.151.149.19:443, 103.151.149.14:443, 103.151.149.13:443, 103.151.149.16:443, timeout: 10000ms))\n",
+      "errorAt": "2026-08-29T07:32:58.123Z",
+      "errorMessage": "[GET] \"https://www.lifeweek.com.cn/api/userWebFollow/getFollowTagContentList?type=3&sort=2&tagId=3\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 43.248.231.27:443, 43.248.231.28:443, 43.248.231.29:443, 43.248.231.30:443, 43.248.231.31:443, 43.248.231.20:443, 43.248.231.25:443, 43.248.231.26:443, timeout: 10000ms))\n",
       "id": "77268471866082304",
       "image": null,
       "ownerUserId": null,

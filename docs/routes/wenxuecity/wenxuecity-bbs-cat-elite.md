@@ -45,7 +45,7 @@ _None_
     "bbs"
   ],
   "example": "/wenxuecity/bbs/tzlc",
-  "heat": 0,
+  "heat": 4,
   "location": "bbs.ts",
   "maintainers": [
     "changlan"
@@ -74,6 +74,31 @@ _None_
   "test": {
     "code": 1
   },
-  "topFeeds": []
+  "topFeeds": [
+    {
+      "description": "文学城 | 移民论坛（immigration） - Powered by RSSHub",
+      "errorAt": "2026-08-28T07:00:33.976Z",
+      "errorMessage": "[GET] \"https://bbs.wenxuecity.com/immigration/?elite=1\": 403 Forbidden\n",
+      "id": "177651896288583713",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://bbs.wenxuecity.com/immigration/?elite=1",
+      "title": "文学城 | 移民论坛（immigration）",
+      "type": "feed",
+      "url": "rsshub://wenxuecity/bbs/immigration/1"
+    },
+    {
+      "description": "文学城 | 职场生涯（career） - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "177651896288583714",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://bbs.wenxuecity.com/career/?elite=1",
+      "title": "文学城 | 职场生涯（career）",
+      "type": "feed",
+      "url": "rsshub://wenxuecity/bbs/career/1"
+    }
+  ]
 }
 ```

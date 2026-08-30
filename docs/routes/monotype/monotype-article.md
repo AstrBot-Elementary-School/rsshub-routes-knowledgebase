@@ -36,7 +36,7 @@ _None_
     "design"
   ],
   "example": "/monotype/article",
-  "heat": 0,
+  "heat": 1,
   "location": "article.ts",
   "maintainers": [
     "nczitzk"
@@ -46,6 +46,19 @@ _None_
   "test": {
     "code": 0
   },
-  "topFeeds": []
+  "topFeeds": [
+    {
+      "description": "Monotype - Feature Articles - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "171296086587288587",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.monotype.com/resources",
+      "title": "Monotype - Feature Articles",
+      "type": "feed",
+      "url": "rsshub://monotype/article"
+    }
+  ]
 }
 ```

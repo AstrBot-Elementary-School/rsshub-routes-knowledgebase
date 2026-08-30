@@ -105,7 +105,7 @@ Click here to view [All Topics](https://hbr.org/topics)
     {
       "description": "Leadership - HBR - Popular - Powered by RSSHub",
       "errorAt": "2025-03-06T20:21:02.722Z",
-      "errorMessage": "[GET] \"https://hbr.org/topic/Leadership\": 404 Not Found\n",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "87319836309791744",
       "image": null,
       "ownerUserId": null,

@@ -98,7 +98,7 @@ Only some journals are supported.
     {
       "description": "Browse the archive of articles on Nature - Powered by RSSHub",
       "errorAt": "2026-06-19T22:03:13.377Z",
-      "errorMessage": "Unexpected end of JSON input\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "502 \nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "121071135298905088",
       "image": null,
       "ownerUserId": null,

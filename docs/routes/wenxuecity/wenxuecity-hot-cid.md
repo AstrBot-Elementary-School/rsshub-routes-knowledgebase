@@ -36,7 +36,7 @@ _None_
     "bbs"
   ],
   "example": "/wenxuecity/hot/9",
-  "heat": 0,
+  "heat": 2,
   "location": "hot.ts",
   "maintainers": [
     "changlan"
@@ -49,6 +49,19 @@ _None_
   "test": {
     "code": 1
   },
-  "topFeeds": []
+  "topFeeds": [
+    {
+      "description": "文学城 | 论坛频道 bbs.wenxuecity.com - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "157918896325148676",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://bbs.wenxuecity.com/?cid=9/",
+      "title": "文学城 | 论坛频道 bbs.wenxuecity.com",
+      "type": "feed",
+      "url": "rsshub://wenxuecity/hot/9"
+    }
+  ]
 }
 ```

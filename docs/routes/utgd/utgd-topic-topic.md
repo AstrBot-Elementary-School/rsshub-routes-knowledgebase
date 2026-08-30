@@ -94,8 +94,8 @@
     },
     {
       "description": "在线阅读如同一场狩猎，所涉搜寻信息、过滤标记、翻译解释、剪藏收集和高亮批注等环节，均值得深入讨论。 - Powered by RSSHub",
-      "errorAt": "2026-08-19T06:59:40.475Z",
-      "errorMessage": "[GET] \"https://api.utgd.net/api/v2/topic/\": <no response> fetch failed (Connect Timeout Error (attempted address: api.utgd.net:443, timeout: 10000ms))\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "84480433803877376",
       "image": null,
       "ownerUserId": null,

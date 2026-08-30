@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 917,
+  "heat": 918,
   "location": "full.ts",
   "maintainers": [
     "ImSingee"
@@ -75,7 +75,7 @@ _None_
     {
       "description": "The most recent blogs and online articles from The Economist - Powered by RSSHub",
       "errorAt": "2025-09-05T18:15:19.885Z",
-      "errorMessage": "[GET] \"https://www.economist.com/by-invitation/2026/08/17/donald-trumps-deregulatory-drive-will-cause-another-financial-crisis\": 403 Forbidden\n[GET] \"https://www.economist.com/business/2026/08/16/america-inc-has-a-tight-grip-on-allied-governments\": 403 Forbidden\n",
+      "errorMessage": "502 \n[GET] \"https://www.economist.com/podcasts/2026/08/28/bots-on-the-ground-china-leads-humanoid-race\": 403 Forbidden\n",
       "id": "54859243036899328",
       "image": null,
       "ownerUserId": null,
@@ -87,7 +87,7 @@ _None_
     {
       "description": "China - Powered by RSSHub",
       "errorAt": "2025-09-05T17:22:28.529Z",
-      "errorMessage": "[GET] \"https://www.economist.com/china/2026/08/17/a-glum-china-pines-for-the-1990s\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/08/17/a-glum-china-pines-for-the-1990s\": 403 Forbidden\n[GET] \"https://www.economist.com/china/2026/08/10/chinas-officials-are-obsessed-with-safety-theatre\": 403 Forbidden\n",
+      "errorMessage": "502 \n530 \n[GET] \"https://www.economist.com/china/2026/08/24/chinese-women-are-falling-behind-in-the-office\": 403 Forbidden\n",
       "id": "41461870197170199",
       "image": null,
       "ownerUserId": null,

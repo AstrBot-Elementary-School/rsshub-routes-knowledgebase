@@ -54,7 +54,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 6026,
+  "heat": 6008,
   "location": "other/group.ts",
   "maintainers": [
     "DIYgod"
@@ -96,8 +96,8 @@ _None_
   "topFeeds": [
     {
       "description": "豆瓣小组-无用美学 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-23T22:09:48.119Z",
+      "errorMessage": "200 ",
       "id": "41147805268337664",
       "image": null,
       "ownerUserId": null,

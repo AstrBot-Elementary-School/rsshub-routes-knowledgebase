@@ -55,7 +55,7 @@ _None_
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 257,
+  "heat": 261,
   "location": "index.tsx",
   "maintainers": [
     "cubroe"
@@ -94,7 +94,7 @@ _None_
     {
       "description": "Algorithms and Data Structures - Free Computer, Programming, Mathematics, Technical Books, Lecture Notes and Tutorials - Powered by RSSHub",
       "errorAt": "2026-07-07T00:02:17.573Z",
-      "errorMessage": "[GET] \"https://freecomputerbooks.com/Planning-Algorithms-1.html\": 404 Not Found\n[GET] \"https://freecomputerbooks.com/Planning-Algorithms-1.html\": 404 Not Found\n[GET] \"https://freecomputerbooks.com/Planning-Algorithms-1.html\": 404 Not Found\n",
+      "errorMessage": "502 \n530 \n[GET] \"https://freecomputerbooks.com/Planning-Algorithms-1.html\": 404 Not Found\n",
       "id": "59843947513404416",
       "image": null,
       "ownerUserId": null,

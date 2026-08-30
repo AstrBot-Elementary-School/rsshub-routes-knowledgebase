@@ -56,7 +56,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1137,
+  "heat": 1136,
   "location": "keyword.ts",
   "maintainers": [
     "DIYgod",
@@ -74,7 +74,7 @@ _None_
   "topFeeds": [
     {
       "description": "又有人在微博提到obsidian了 - Powered by RSSHub",
-      "errorAt": "2026-08-14T21:00:37.363Z",
+      "errorAt": "2026-08-25T23:21:26.099Z",
       "errorMessage": "200 ",
       "id": "55288652424312832",
       "image": null,

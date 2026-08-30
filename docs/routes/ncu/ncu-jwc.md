@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4,
+  "heat": 3,
   "location": "jwc.ts",
   "maintainers": [
     "ywh555hhh",

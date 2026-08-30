@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 44,
+  "heat": 43,
   "location": "search.ts",
   "maintainers": [
     "kjasn"

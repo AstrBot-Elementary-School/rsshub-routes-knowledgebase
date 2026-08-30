@@ -36,7 +36,7 @@ _None_
     "university"
   ],
   "example": "/zjgsu/tzgg",
-  "heat": 0,
+  "heat": 1,
   "location": "tzgg.ts",
   "maintainers": [
     "nicolaszf"
@@ -46,6 +46,19 @@ _None_
   "test": {
     "code": 1
   },
-  "topFeeds": []
+  "topFeeds": [
+    {
+      "description": null,
+      "errorAt": "2025-08-14T14:48:56.097Z",
+      "errorMessage": "[GET] \"http://news.zjgsu.edu.cn/18/\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 202.96.99.58:80, 2001:250:6401::58:80, timeout: 10000ms))\n",
+      "id": "178816855084860422",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": null,
+      "title": "Importing",
+      "type": "feed",
+      "url": "rsshub://zjgsu/tzgg"
+    }
+  ]
 }
 ```

@@ -77,8 +77,8 @@ _None_
     },
     {
       "description": "感谢大家的关注和投蕉，谢谢！！！ - Powered by RSSHub",
-      "errorAt": "2026-08-18T06:11:26.659Z",
-      "errorMessage": "[GET] \"https://www.acfun.cn/u/2176158\": 404 Not Found\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "72885134656350208",
       "image": "https://imgs.aixifan.com/style/image/201907/Pt1GipJtiUHE0rnGckcm5gHzJeTRxjJh.jpg",
       "ownerUserId": null,

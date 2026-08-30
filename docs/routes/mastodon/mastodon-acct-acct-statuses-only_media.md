@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 172,
+  "heat": 168,
   "location": "acct.ts",
   "maintainers": [
     "notofoe"

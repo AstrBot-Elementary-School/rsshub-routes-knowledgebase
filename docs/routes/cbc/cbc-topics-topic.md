@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 49,
+  "heat": 50,
   "location": "topics.ts",
   "maintainers": [
     "wb14123"
@@ -75,26 +75,26 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "CBC News - Latest Canada, World, Entertainment and Business NewsMenu - Powered by RSSHub",
+      "description": "CBC News - Latest Canada, World, Entertainment and Business NewsMenuTelevisionheadphonePrevious itemNext item - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "165818925513194496",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.cbc.ca/news",
-      "title": "CBC News - Latest Canada, World, Entertainment and Business NewsMenu",
+      "title": "CBC News - Latest Canada, World, Entertainment and Business NewsMenuTelevisionheadphonePrevious itemNext item",
       "type": "feed",
       "url": "rsshub://cbc/topics"
     },
     {
-      "description": "Ottawa - CBC NewsMenu - Powered by RSSHub",
+      "description": "Ottawa - CBC NewsMenuTelevisionheadphone - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "60766614420573184",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.cbc.ca/news/canada/ottawa",
-      "title": "Ottawa - CBC NewsMenu",
+      "title": "Ottawa - CBC NewsMenuTelevisionheadphone",
       "type": "feed",
       "url": "rsshub://cbc/topics/canada-ottawa"
     }

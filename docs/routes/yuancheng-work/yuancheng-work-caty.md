@@ -41,7 +41,7 @@ _None_
   ],
   "description": "| All Jobs | Development | Design | Operation | Product | Function | Other | Marketing | Sales |\n| :------: | :---------: | :----: | :-------: | :-----: | :------: | :---: | :-------: | :---: |\n|    all   | development | design | operation | product | function | other | marketing | sales |",
   "example": "/yuancheng.work/all",
-  "heat": 0,
+  "heat": 1,
   "location": "index.ts",
   "maintainers": [
     "luyuhuang"

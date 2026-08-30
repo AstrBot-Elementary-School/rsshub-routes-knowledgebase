@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 284,
+  "heat": 285,
   "location": "newsflash.ts",
   "maintainers": [
     "Fatpandac"
@@ -74,7 +74,7 @@ _None_
     {
       "description": "差评 快讯 - Powered by RSSHub",
       "errorAt": "2025-05-11T00:29:28.699Z",
-      "errorMessage": "[GET] \"https://chaping.cn/api/official/information/newsflash?page=1&limit=21\": 502 Bad Gateway\n[GET] \"https://chaping.cn/api/official/information/newsflash?page=1&limit=21\": 502 Bad Gateway\n[GET] \"https://chaping.cn/api/official/information/newsflash?page=1&limit=21\": 502 Bad Gateway\n",
+      "errorMessage": "Failed to fetch\n[GET] \"https://chaping.cn/api/official/information/newsflash?page=1&limit=21\": 502 Bad Gateway\n[GET] \"https://chaping.cn/api/official/information/newsflash?page=1&limit=21\": 502 Bad Gateway\n",
       "id": "42594386603806720",
       "image": null,
       "ownerUserId": null,

@@ -36,7 +36,7 @@ _None_
     "shopping"
   ],
   "example": "/weidian/goods/431508863",
-  "heat": 0,
+  "heat": 55,
   "location": "goods.ts",
   "maintainers": [
     "LogicJake"

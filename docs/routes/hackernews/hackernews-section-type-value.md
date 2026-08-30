@@ -62,7 +62,7 @@ Examples:
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 6636,
+  "heat": 6635,
   "location": "index.ts",
   "maintainers": [
     "nczitzk",
@@ -96,8 +96,8 @@ Examples:
   "topFeeds": [
     {
       "description": "Hacker News - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-23T14:43:44.570Z",
+      "errorMessage": "200 ",
       "id": "52325519371718656",
       "image": null,
       "ownerUserId": null,

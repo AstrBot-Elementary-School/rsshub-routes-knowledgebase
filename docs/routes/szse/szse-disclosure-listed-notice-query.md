@@ -54,7 +54,7 @@ _None_
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 52,
+  "heat": 53,
   "location": "disclosure/listed-notice.ts",
   "maintainers": [
     "nczitzk"

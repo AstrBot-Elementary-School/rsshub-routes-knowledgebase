@@ -55,7 +55,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 441,
+  "heat": 437,
   "location": "previews.ts",
   "maintainers": [
     "kjasn"
@@ -84,7 +84,7 @@ _None_
     {
       "description": "Hanime1 202602 新番 - Powered by RSSHub",
       "errorAt": "2026-02-18T16:19:29.168Z",
-      "errorMessage": "[GET] \"https://hanime1.me/previews/202608\": 403 Forbidden\n[GET] \"https://hanime1.me/previews/202608\": 403 \n[GET] \"https://hanime1.me/previews/202608\": 403 Forbidden\n",
+      "errorMessage": "502 \n[GET] \"https://hanime1.me/previews/202608\": 403 \n[GET] \"https://hanime1.me/previews/202608\": 403 Forbidden\n",
       "id": "141164425462660096",
       "image": null,
       "ownerUserId": null,

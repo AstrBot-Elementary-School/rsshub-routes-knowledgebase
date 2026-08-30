@@ -39,7 +39,7 @@ _None_
     "multimedia"
   ],
   "example": "/163/music/user/events/585804522",
-  "heat": 9,
+  "heat": 7,
   "location": "music/userevents.tsx",
   "maintainers": [
     "Master-Hash"
@@ -62,18 +62,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "网易云音乐用户动态 - LOFTER轻博客昵称是 臆 (moonit) 欢迎大家来~谢谢谢谢 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "114722269609891848",
-      "image": "http://p1.music.126.net/HA9eqywliuX5My4fCcxF0w==/18814842976688349.jpg",
-      "ownerUserId": null,
-      "siteUrl": "https://music.163.com/#/user/event?id=29330164",
-      "title": "臆丿的云村动态",
-      "type": "feed",
-      "url": "rsshub://163/music/user/events/29330164"
-    },
-    {
       "description": "网易云音乐用户动态 - I love you three thousand times - Powered by RSSHub",
       "errorAt": "2025-11-04T02:37:40.370Z",
       "errorMessage": "Failed to fetch\n",
@@ -84,6 +72,18 @@ _None_
       "title": "我在那一角落患过伤风啊的云村动态",
       "type": "feed",
       "url": "rsshub://163/music/user/events/253142666"
+    },
+    {
+      "description": "网易云音乐用户动态 - 清水如泉 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "114722269609891849",
+      "image": "http://p1.music.126.net/5LdymLqUBetGf6sdLJgmaw==/109951164484071083.jpg",
+      "ownerUserId": null,
+      "siteUrl": "https://music.163.com/#/user/event?id=96331715",
+      "title": "某蓝姓潜水艇的云村动态",
+      "type": "feed",
+      "url": "rsshub://163/music/user/events/96331715"
     }
   ]
 }

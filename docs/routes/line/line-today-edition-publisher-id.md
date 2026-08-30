@@ -75,7 +75,7 @@ _None_
     },
     {
       "description": "國際 on LINE - Line Today - Powered by RSSHub",
-      "errorAt": "2026-08-18T06:51:00.116Z",
+      "errorAt": "2026-08-18T17:23:51.355Z",
       "errorMessage": "Failed to fetch\n",
       "id": "79814217269594112",
       "image": "https://obs.line-scdn.net/0hRVlHgnY2DXlRMR9CkgdyLgVnDhZiXR56NQdcZg5fWx1-B0IuZAJeHSA4UVV5UksucV8SGXMtVxp0Ahp7bFcWH3EyUEopVk8mKFdCF31mV018",

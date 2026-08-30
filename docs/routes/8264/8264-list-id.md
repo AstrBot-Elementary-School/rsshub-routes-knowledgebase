@@ -107,7 +107,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 79,
+  "heat": 78,
   "location": "list.tsx",
   "maintainers": [
     "nczitzk"
@@ -124,8 +124,8 @@ _None_
   "topFeeds": [
     {
       "description": "户外圈热点信息阅读，内容包含户外徒步、露营、登山、攀岩、绳降、骑行、摩旅等信息,8264户外 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-25T03:21:38.166Z",
+      "errorMessage": "Cannot read properties of undefined (reading 'trim')\n",
       "id": "62962524793659392",
       "image": null,
       "ownerUserId": null,
@@ -136,8 +136,8 @@ _None_
     },
     {
       "description": "权威徒步知识传播,帮助户外爱好者尽快掌握徒步技术,8264户外 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-20T08:51:31.539Z",
+      "errorMessage": "Cannot read properties of undefined (reading 'trim')\n",
       "id": "74023089976071168",
       "image": null,
       "ownerUserId": null,

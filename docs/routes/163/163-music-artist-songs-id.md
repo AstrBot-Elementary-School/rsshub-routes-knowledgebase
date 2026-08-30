@@ -54,7 +54,7 @@ _None_
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 57,
+  "heat": 56,
   "location": "music/artist-songs.ts",
   "maintainers": [
     "ZhongMingKun"

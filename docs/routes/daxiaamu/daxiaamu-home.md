@@ -38,7 +38,7 @@ _None_
     "blog"
   ],
   "example": "/daxiaamu/home",
-  "heat": 0,
+  "heat": 2,
   "location": "home.ts",
   "maintainers": [
     "kt286"
@@ -55,7 +55,20 @@ _None_
   "test": {
     "code": 0
   },
-  "topFeeds": [],
+  "topFeeds": [
+    {
+      "description": "杂七杂八技术博客 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "143599904853816320",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.daxiaamu.com/",
+      "title": "大侠阿木博客",
+      "type": "feed",
+      "url": "rsshub://daxiaamu/home"
+    }
+  ],
   "url": "www.daxiaamu.com/"
 }
 ```

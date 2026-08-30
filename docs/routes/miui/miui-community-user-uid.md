@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 25,
+  "heat": 24,
   "location": "community/user.ts",
   "maintainers": [
     "abc1763613206"

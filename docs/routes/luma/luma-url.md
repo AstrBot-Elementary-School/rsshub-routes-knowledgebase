@@ -88,16 +88,16 @@ _None_
       "url": "rsshub://luma/langchain"
     },
     {
-      "description": "MenteX - Powered by RSSHub",
-      "errorAt": "2026-08-11T04:31:52.936Z",
+      "description": "YieldNest - Powered by RSSHub",
+      "errorAt": "2024-09-19T13:27:52.604Z",
       "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
-      "id": "265966986896278528",
+      "id": "59033014318436352",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://lu.ma/mentex_ecosistema",
-      "title": "MenteX",
+      "siteUrl": "https://lu.ma/yieldnest",
+      "title": "YieldNest",
       "type": "feed",
-      "url": "rsshub://luma/mentex_ecosistema"
+      "url": "rsshub://luma/yieldnest"
     }
   ],
   "url": "lu.ma"

@@ -43,7 +43,7 @@ _None_
     "bbs"
   ],
   "example": "/dxy/bbs/board/46",
-  "heat": 13,
+  "heat": 11,
   "location": "board.ts",
   "maintainers": [
     "TonyRL"

@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 300,
+  "heat": 299,
   "location": "index.ts",
   "maintainers": [
     "KotoriK"
@@ -74,7 +74,7 @@ _None_
     {
       "description": "最新新闻 - 维基新闻 - Powered by RSSHub",
       "errorAt": "2026-05-07T03:28:43.140Z",
-      "errorMessage": "[GET] \"https://zh.wikinews.org/wiki/Special:%E6%96%B0%E9%97%BB%E8%AE%A2%E9%98%85\": 404 Not Found\n[GET] \"https://zh.wikinews.org/wiki/Special:%E6%96%B0%E9%97%BB%E8%AE%A2%E9%98%85\": <no response> fetch failed\n[GET] \"https://zh.wikinews.org/wiki/Special:%E6%96%B0%E9%97%BB%E8%AE%A2%E9%98%85\": 404 Not Found\n",
+      "errorMessage": "502 \n[GET] \"https://zh.wikinews.org/wiki/Special:%E6%96%B0%E9%97%BB%E8%AE%A2%E9%98%85\": <no response> fetch failed\n[GET] \"https://zh.wikinews.org/wiki/Special:%E6%96%B0%E9%97%BB%E8%AE%A2%E9%98%85\": 404 Not Found\n",
       "id": "59950235586305030",
       "image": null,
       "ownerUserId": null,

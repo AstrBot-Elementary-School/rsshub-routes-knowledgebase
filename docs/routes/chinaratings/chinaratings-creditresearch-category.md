@@ -95,7 +95,7 @@
       "errorAt": null,
       "errorMessage": null,
       "id": "126552501015293952",
-      "image": "https://www.chinaratings.com.cn/",
+      "image": "https://www.chinaratings.com.cn/news/1913.html",
       "ownerUserId": null,
       "siteUrl": "https://www.chinaratings.com.cn/CreditResearch/Industry/TopicReport/",
       "title": "专题报告-中债资信评估有限责任公司",

@@ -68,8 +68,8 @@ _None_
   "topFeeds": [
     {
       "description": "中国主流财经全媒体平台。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-28T02:17:17.950Z",
+      "errorMessage": "[GET] \"https://dy.163.com/v2/article/list.do?pageNo=1&wemediaId=W7833496354712145699&size=10\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 45.116.154.14:443, 45.116.154.15:443, 45.116.154.16:443, 45.116.154.17:443, 45.116.154.18:443, 45.116.154.11:443, 45.116.154.12:443, 45.116.154.13:443, timeout: 10000ms))\n",
       "id": "130488664186003456",
       "image": "https://nimg.ws.126.net/?url=http://dingyue.ws.126.net/2021/0510/e3aaf33fj00qsvpi60003c0004g004gc.jpg&thumbnail=160y160&quality=80&type=jpg",
       "ownerUserId": null,
@@ -79,16 +79,16 @@ _None_
       "url": "rsshub://163/dy/W7833496354712145699"
     },
     {
-      "description": "基本就是讲游戏 - Powered by RSSHub",
+      "description": "洞察金融市场，传播中国价值——《中国基金报》社官方账号（《中国基金报》社有限公司运营管理） - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "75380151210504192",
-      "image": "https://nimg.ws.126.net/?url=http://dingyue.ws.126.net/rWGD5AEjpGC44D1S3QW1RMpLS=WvMkP1e2eAIAFhUurxv1494839069359.jpg&thumbnail=160y160&quality=80&type=jpg",
+      "id": "90404597556258816",
+      "image": "https://nimg.ws.126.net/?url=http://dingyue.ws.126.net/4E3QRJTKUFVkkRk3sTGwvwDrPoMmLKnFWQvGQcsdCXjSB1507602600796.png&thumbnail=160y160&quality=80&type=jpg",
       "ownerUserId": null,
-      "siteUrl": "https://www.163.com/dy/media/T1494839070435.html",
-      "title": "网易号 - BB姬",
+      "siteUrl": "https://www.163.com/dy/media/T1507602601760.html",
+      "title": "网易号 - 中国基金报",
       "type": "feed",
-      "url": "rsshub://163/dy/W7415853145461076134"
+      "url": "rsshub://163/dy/W6166609319991491580"
     }
   ]
 }

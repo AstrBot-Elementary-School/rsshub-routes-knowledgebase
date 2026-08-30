@@ -43,7 +43,7 @@ _None_
   ],
   "description": "| 最新文章 | 最多觀看 | 最多分享 | 本日      | 本週     | 本月      | 今年     | 去年         | 有史以來    |\n| -------- | -------- | -------- | --------- | -------- | --------- | -------- | ------------ | ----------- |\n|          | hot      | social   | hot/today | hot/week | hot/month | hot/year | hot/lastYear | hot/history |",
   "example": "/thenewslens/latest-article",
-  "heat": 0,
+  "heat": 7,
   "location": "index.ts",
   "maintainers": [
     "nczitzk"
@@ -65,6 +65,19 @@ _None_
   "test": {
     "code": 1
   },
-  "topFeeds": []
+  "topFeeds": [
+    {
+      "description": "最新文章 - TNL The News Lens 關鍵評論網 - Powered by RSSHub",
+      "errorAt": "2024-09-03T06:55:48.842Z",
+      "errorMessage": "[GET] \"https://www.thenewslens.com/latest-article\": 403 Forbidden\n",
+      "id": "41572238273905690",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.thenewslens.com/latest-article",
+      "title": "最新文章 - TNL The News Lens 關鍵評論網",
+      "type": "feed",
+      "url": "rsshub://thenewslens/latest-article"
+    }
+  ]
 }
 ```

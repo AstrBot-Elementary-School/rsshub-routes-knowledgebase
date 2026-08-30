@@ -36,7 +36,7 @@ _None_
     "new-media"
   ],
   "example": "/chouti/top/24",
-  "heat": 0,
+  "heat": 51,
   "location": "top.ts",
   "maintainers": [
     "DIYgod"
@@ -49,6 +49,31 @@ _None_
   "test": {
     "code": 0
   },
-  "topFeeds": []
+  "topFeeds": [
+    {
+      "description": "抽屉新热榜，汇聚每日搞笑段子、热门图片、有趣新闻。它将微博、门户、社区、bbs、社交网站等海量内容聚合在一起，通过用户推荐生成最热榜单。看抽屉新热榜，每日热门、有趣资讯尽收眼底。 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "141585309912660994",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://dig.ichouti.cn/",
+      "title": "抽屉新热榜-168小时最热榜",
+      "type": "feed",
+      "url": "rsshub://chouti/top/168"
+    },
+    {
+      "description": "抽屉新热榜，汇聚每日搞笑段子、热门图片、有趣新闻。它将微博、门户、社区、bbs、社交网站等海量内容聚合在一起，通过用户推荐生成最热榜单。看抽屉新热榜，每日热门、有趣资讯尽收眼底。 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "152863349458399264",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://dig.ichouti.cn/",
+      "title": "抽屉新热榜-24小时最热榜",
+      "type": "feed",
+      "url": "rsshub://chouti/top/24"
+    }
+  ]
 }
 ```

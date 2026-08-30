@@ -63,7 +63,7 @@ _None_
       "errorAt": null,
       "errorMessage": null,
       "id": "69195662895897603",
-      "image": "//static.toodaylab.com/static/images/logo-3-3.png",
+      "image": "//static.toodaylab.com/static/images/logo-17th.gif",
       "ownerUserId": null,
       "siteUrl": "https://www.toodaylab.com/posts",
       "title": "最热 | 理想生活实验室",

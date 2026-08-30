@@ -72,7 +72,7 @@ YouTube provides official RSS feeds for channels, for instance <https://www.yout
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 3025,
+  "heat": 3027,
   "location": "channel.ts",
   "maintainers": [
     "DIYgod",
@@ -97,7 +97,7 @@ YouTube provides official RSS feeds for channels, for instance <https://www.yout
   },
   "topFeeds": [
     {
-      "description": "My name is Lewis. I am on a mission to inspire developers and tech enthusiasts. 🧑‍💻 Professionally coding since 2016! Business: sydney@lewismenelaws.com - Powered by RSSHub",
+      "description": "YouTube channel Coding with Lewis - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "143637676052105216",
@@ -109,14 +109,14 @@ YouTube provides official RSS feeds for channels, for instance <https://www.yout
       "url": "rsshub://youtube/channel/UCWI-ohtRu8eEeDj93hmUsUQ"
     },
     {
-      "description": "Hello, I'm Johnny, a passionate backpacker currently based in Africa. My journey has taken me to 39 countries worldwide, including 23 in Africa. My dream is ... - Powered by RSSHub",
+      "description": "YouTube channel 小钟Johnny - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "62110731608091648",
       "image": "https://yt3.googleusercontent.com/ytc/AIdro_nLxOCT7qrhIe50CgsatjLIkcALBlBA5b6phRdsYEH9MA=s900-c-k-c0x00ffffff-no-rj",
       "ownerUserId": null,
       "siteUrl": "https://www.youtube.com/channel/UCxr75Ze604OZsLKEAJ4jqAg",
-      "title": "Johnny's Vlog - YouTube",
+      "title": "小钟Johnny - YouTube",
       "type": "feed",
       "url": "rsshub://youtube/channel/UCxr75Ze604OZsLKEAJ4jqAg"
     }

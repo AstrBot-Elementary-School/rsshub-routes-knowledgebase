@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2606,
+  "heat": 2595,
   "location": "recommend.ts",
   "maintainers": [
     "brilon"
@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "InfoQ 推荐 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-23T23:01:52.822Z",
+      "errorMessage": "200 ",
       "id": "41572238273905683",
       "image": null,
       "ownerUserId": null,

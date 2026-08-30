@@ -77,8 +77,8 @@ _None_
   "topFeeds": [
     {
       "description": "知乎专栏-体验碎周报 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-23T10:30:18.161Z",
+      "errorMessage": "[GET] \"https://www.zhihu.com/api/v4/columns/c_1186819163765649408/items\": 403 Forbidden\nFailed to fetch\n[GET] \"https://www.zhihu.com/api/v4/columns/c_1186819163765649408/items\": 403 Forbidden\n",
       "id": "41359836954400791",
       "image": null,
       "ownerUserId": null,
@@ -90,7 +90,7 @@ _None_
     {
       "description": "知乎专栏-玉树芝兰 - Powered by RSSHub",
       "errorAt": "2025-10-29T05:43:58.029Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'substring')\nCannot read properties of undefined (reading 'substring')\n",
+      "errorMessage": "Failed to fetch\n[GET] \"https://www.zhihu.com/api/v4/columns/yushuzhilan/items\": 403 Forbidden\n",
       "id": "57215618626397184",
       "image": null,
       "ownerUserId": null,

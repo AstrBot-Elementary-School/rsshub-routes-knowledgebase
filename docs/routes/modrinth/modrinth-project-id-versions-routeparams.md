@@ -116,16 +116,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "An all-in-one solution that works - Powered by RSSHub",
+      "description": "A redstone & optimization modpack for vanilla Minecraft servers. 一款红石优化的整合包，适用于原版Minecraft服务器。 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "123852430344537088",
+      "id": "164180036830267392",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/gG7VFbG0",
-      "title": "TAB Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/redstone-optiunity",
+      "title": "Redstone OptiUnity一体化红石优化 Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/gG7VFbG0/versions"
+      "url": "rsshub://modrinth/project/redstone-optiunity/versions"
     }
   ]
 }

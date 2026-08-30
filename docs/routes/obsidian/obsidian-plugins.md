@@ -37,7 +37,7 @@ _None_
     "popular"
   ],
   "example": "/obsidian/plugins",
-  "heat": 1593,
+  "heat": 1590,
   "location": "plugins.ts",
   "maintainers": [
     "DIYgod"
@@ -52,7 +52,7 @@ _None_
     {
       "description": "Obsidian Plugins - Powered by RSSHub",
       "errorAt": "2026-08-05T23:46:54.763Z",
-      "errorMessage": "[GET] \"https://community.obsidian.md/api/search/collections/entries/documents/search?filter_by=type:=plugin&per_page=54&q=*&query_by=name,authors,short_desc&sort_by=github_created_at:desc\": 404 Not Found\n[GET] \"https://community.obsidian.md/api/search/collections/entries/documents/search?filter_by=type:=plugin&per_page=54&q=*&query_by=name,authors,short_desc&sort_by=github_created_at:desc\": 404 Not Found\nCannot read properties of undefined (reading 'downloads')\nFailed to fetch\n[GET] \"https://community.obsidian.md/api/search/collections/entries/documents/search?filter_by=type:=plugin&per_page=54&q=*&query_by=name,authors,short_desc&sort_by=github_created_at:desc\": 404 Not Found\n[GET] \"https://community.obsidian.md/api/search/collections/entries/documents/search?filter_by=type:=plugin&per_page=54&q=*&query_by=name,authors,short_desc&sort_by=github_created_at:desc\": 404 Not Found\nCannot read properties of undefined (reading 'downloads')\n[GET] \"https://community.obsidian.md/api/search/collections/entries/documents/search?filter_by=type:=plugin&per_page=54&q=*&query_by=name,authors,short_desc&sort_by=github_created_at:desc\": 404 Not Found\n",
+      "errorMessage": "502 \n[GET] \"https://community.obsidian.md/api/search/collections/entries/documents/search?filter_by=type:=plugin&per_page=54&q=*&query_by=name,authors,short_desc&sort_by=github_created_at:desc\": 404 Not Found\nCannot read properties of undefined (reading 'downloads')\nFailed to fetch\n[GET] \"https://community.obsidian.md/api/search/collections/entries/documents/search?filter_by=type:=plugin&per_page=54&q=*&query_by=name,authors,short_desc&sort_by=github_created_at:desc\": 404 Not Found\n[GET] \"https://community.obsidian.md/api/search/collections/entries/documents/search?filter_by=type:=plugin&per_page=54&q=*&query_by=name,authors,short_desc&sort_by=github_created_at:desc\": 404 Not Found\nCannot read properties of undefined (reading 'downloads')\n[GET] \"https://community.obsidian.md/api/search/collections/entries/documents/search?filter_by=type:=plugin&per_page=54&q=*&query_by=name,authors,short_desc&sort_by=github_created_at:desc\": 404 Not Found\n",
       "id": "93966003665247232",
       "image": null,
       "ownerUserId": null,

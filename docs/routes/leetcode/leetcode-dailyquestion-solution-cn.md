@@ -63,7 +63,7 @@ _None_
       "id": "56597410818564096",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://leetcode.cn/problems/cinema-seat-allocation/",
+      "siteUrl": "https://leetcode.cn/problems/make-lexicographically-smallest-array-by-swapping-elements/",
       "title": "LeetCode 每日一题题解",
       "type": "feed",
       "url": "rsshub://leetcode/dailyquestion/solution/cn"

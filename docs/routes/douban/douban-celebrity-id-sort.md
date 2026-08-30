@@ -69,7 +69,7 @@ _None_
     {
       "description": "豆瓣电影人 - 贾樟柯 Zhangke Jia - Powered by RSSHub",
       "errorAt": "2026-03-07T18:33:37.510Z",
-      "errorMessage": "[GET] \"https://movie.douban.com/celebrity/1274261/movies?sortby=time\": 403 Forbidden\n",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "70731857289574400",
       "image": null,
       "ownerUserId": null,
@@ -79,16 +79,16 @@ _None_
       "url": "rsshub://douban/celebrity/1274261"
     },
     {
-      "description": "豆瓣电影人 - 小林聪美 Satomi Kobayashi - Powered by RSSHub",
+      "description": "豆瓣电影人 - 杰里米·克拉克森 Jeremy Clarkson - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "195039420078972928",
+      "id": "195040470044503040",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://movie.douban.com/celebrity/1019714/movies?sortby=time",
-      "title": "豆瓣电影人 - 小林聪美 Satomi Kobayashi",
+      "siteUrl": "https://movie.douban.com/celebrity/1078759/movies?sortby=time",
+      "title": "豆瓣电影人 - 杰里米·克拉克森 Jeremy Clarkson",
       "type": "feed",
-      "url": "rsshub://douban/celebrity/1019714"
+      "url": "rsshub://douban/celebrity/1078759"
     }
   ]
 }

@@ -50,7 +50,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 3736,
+  "heat": 3753,
   "location": "weekly-recommend.ts",
   "maintainers": [
     "ttttmr"
@@ -66,7 +66,7 @@ _None_
   "topFeeds": [
     {
       "description": "B站每周必看 - Powered by RSSHub",
-      "errorAt": "2026-08-19T08:09:06.422Z",
+      "errorAt": "2026-08-23T05:32:19.674Z",
       "errorMessage": "200 ",
       "id": "41461870197170192",
       "image": null,

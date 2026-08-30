@@ -54,7 +54,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 846,
+  "heat": 845,
   "location": "category.ts",
   "maintainers": [
     "idealclover",
@@ -78,8 +78,8 @@
   "topFeeds": [
     {
       "description": "央视新闻 world - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-25T08:26:58.537Z",
+      "errorMessage": "200 ",
       "id": "41965184796581988",
       "image": null,
       "ownerUserId": null,

@@ -188,8 +188,8 @@
   "topFeeds": [
     {
       "description": "北京价格网是北京市价格监测中心门户网站 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-28T23:22:31.857Z",
+      "errorMessage": "[GET] \"https://www.beijingprice.cn/jgzx/xwzx/\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 61.48.81.177:443, 2408:8607:1880::3d30:51b1:443, timeout: 10000ms))\n",
       "id": "65788338627183616",
       "image": "https://www.beijingprice.cn/images/common/common-header-logo.png",
       "ownerUserId": null,
