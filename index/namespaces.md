@@ -8066,6 +8066,12 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `1`
 - Index File: `index/onet.md`
 
+## OnlyFans
+- Namespace: `onlyfans`
+- Aliases: `onlyfans, onlyfans.com`
+- Route Count: `1`
+- Index File: `index/onlyfans.md`
+
 ## O&O Software
 - Namespace: `oo-software`
 - Aliases: `o&o software, oo-software, oo-software.com`

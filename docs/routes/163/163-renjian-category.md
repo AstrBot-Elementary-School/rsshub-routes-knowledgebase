@@ -91,8 +91,8 @@
     },
     {
       "description": "人间 - 特写 - 网易新闻 - Powered by RSSHub",
-      "errorAt": "2026-08-29T08:27:27.212Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "67446303963867136",
       "image": null,
       "ownerUserId": null,

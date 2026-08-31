@@ -89,16 +89,16 @@ _None_
       "url": "rsshub://bilibili/user/coin/549117578"
     },
     {
-      "description": "papersnake 的 bilibili 投币视频 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "73906655693700096",
+      "description": null,
+      "errorAt": "2025-08-01T02:09:52.147Z",
+      "errorMessage": "用户隐私设置未公开\n",
+      "id": "173927273945055233",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://space.bilibili.com/35480266",
-      "title": "papersnake 的 bilibili 投币视频",
+      "siteUrl": null,
+      "title": "Importing",
       "type": "feed",
-      "url": "rsshub://bilibili/user/coin/35480266"
+      "url": "rsshub://bilibili/user/coin/90361813"
     }
   ]
 }

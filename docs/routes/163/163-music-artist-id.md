@@ -89,16 +89,16 @@ _None_
       "url": "rsshub://163/music/artist/32540734"
     },
     {
-      "description": "网易云音乐歌手专辑 - 张震岳 - Powered by RSSHub",
+      "description": "网易云音乐歌手专辑 - The 1999 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "103886421708829696",
-      "image": "https://p2.music.126.net/lZkH6tfmc9de2skBTfNNng==/109951170927210866.jpg",
+      "id": "65815290747943936",
+      "image": "https://p2.music.126.net/X40wljeqXKFEpv0ueZoSjg==/109951169215159176.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://music.163.com/#/artist/album?id=6453",
-      "title": "张震岳",
+      "siteUrl": "https://music.163.com/#/artist/album?id=59573590",
+      "title": "The 1999",
       "type": "feed",
-      "url": "rsshub://163/music/artist/6453"
+      "url": "rsshub://163/music/artist/59573590"
     }
   ]
 }

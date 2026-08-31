@@ -61,7 +61,7 @@ _None_
     {
       "description": "LOGO作品 - 标志情报局 - Powered by RSSHub",
       "errorAt": "2026-01-12T04:46:20.446Z",
-      "errorMessage": "502 \n[GET] \"https://www.logonews.cn/work\": 403 Forbidden\n",
+      "errorMessage": "Failed to fetch\n[GET] \"https://www.logonews.cn/work\": 403 Forbidden\n",
       "id": "121126048237158400",
       "image": null,
       "ownerUserId": null,

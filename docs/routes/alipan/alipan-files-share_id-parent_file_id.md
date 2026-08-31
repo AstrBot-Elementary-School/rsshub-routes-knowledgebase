@@ -61,7 +61,7 @@ _None_
   ],
   "test": {
     "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
   "topFeeds": [
     {
@@ -77,16 +77,16 @@ _None_
       "url": "rsshub://alipan/files/jcuRG1PKsTn/678b1f0e38bfbaa0650a49049919f34ce7e2678e"
     },
     {
-      "description": "斗.破.苍.穹. 年.番（2022）-阿里云盘 - Powered by RSSHub",
-      "errorAt": "2025-06-16T12:02:14.349Z",
-      "errorMessage": "[POST] \"https://api.aliyundrive.com/adrive/v3/share_link/get_share_by_anonymous?share_id=9oByhi5hWMf\": 400 Bad Request\n",
-      "id": "136440876874277888",
+      "description": "4.0测试版微信-阿里云盘 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "121801819696485376",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.aliyundrive.com/s/9oByhi5hWMf/folder/67d562a5ab81f2fd70044791be413fea0fad3d4a",
-      "title": "斗.破.苍.穹. 年.番（2022）-阿里云盘",
+      "siteUrl": "https://www.aliyundrive.com/s/xjhGXVkj7sR/folder/67127019bf7dce75647c4e718f7e108f076583f2",
+      "title": "4.0测试版微信-阿里云盘",
       "type": "feed",
-      "url": "rsshub://alipan/files/9oByhi5hWMf/67d562a5ab81f2fd70044791be413fea0fad3d4a"
+      "url": "rsshub://alipan/files/xjhGXVkj7sR/67127019bf7dce75647c4e718f7e108f076583f2"
     }
   ],
   "url": "www.alipan.com/s"

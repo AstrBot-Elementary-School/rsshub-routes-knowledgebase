@@ -119,7 +119,7 @@ For backward compatibility reasons, invalid `routeParams` will be treated as `se
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 302430,
+  "heat": 302415,
   "location": "channel.ts",
   "maintainers": [
     "DIYgod",
@@ -159,10 +159,10 @@ For backward compatibility reasons, invalid `routeParams` will be treated as `se
     },
     {
       "description": "本群组主要分享白嫖机场、白嫖资源、白嫖线报、以及存放一些信息，嫖友聚居地哦频道的灌水群https://t.me/anranbpbbs需要真实邮箱怎么办对于需要真实邮箱验证的，大家可以下载手机版的网易邮箱大师，可以不限量注册163的邮箱各种超低价会员：Anran杂货铺， 优酷月仅需3元，百度网盘svip 1元起，52bp.icu阿里网盘资源搜索：公众号：彳亍说，发送 阿里 资源名称 即可百度网盘、迅雷、优酷会员分享：小程序：彳亍说小屋测试 - Powered by RSSHub",
-      "errorAt": "2026-08-24T02:26:23.579Z",
+      "errorAt": "2026-08-23T14:43:48.810Z",
       "errorMessage": "200 ",
       "id": "65367894677815296",
-      "image": "https://cdn5.telesco.pe/file/cmHb5Y0_CXGkDxsczHyVtUbRYH3K-zTU0RLaJc3JdS4UnRt2vFJ_DYvkerEPaO3GkWtUhU7zrcAkag3loCZ5F56K2t1gq5dKXvMu6d4uV3zKfBtWRpe6W-_FMnPjXL9kacwOVSYmUad9TVy0eVodtYM9vU2gNkWvHO72GvukSzrLcVbYAy6-VCZcdro1rw1KA_fDc9sa2Cw8CVQja9V_H03d2DPWcHGucl6RSA66k-e5XSPDLRoIEFWuC85D5jInH8j4Fvw9lo-JKrlQkVvSWREPTsaDrKNeCh_hcD_ptkJP-REf2mPnoYFAPmKbPN1LNxTQnD5shrmajzbo_zHsbg.jpg",
+      "image": "https://cdn5.telesco.pe/file/eMYKIBg-VOEQaycYpy41FynrTehH7lBk-gqkV22KJYGWuvnYZrG2tbnDxjYyVxBjo9vdXqePT92E_3dYOeizQWFq9UUQwHJJBQLvDqeLi4L_KTx2YdFUxlWiAO2qChvuQSKY_NWmSN0NbrqFR3Cv4hvuzobyScQm1Cs5m5P_GGXVkwIwk9tyrkC7sLvg_F5A8FA7Lek_gsU0cE2GcCJrLicRU5rVi9bXe7RE72pjP5HqtOQ9HK4gXAE0FDI_fBF80HebMezyYDNWfrI_KnfA1yn60aH3gPyiJOJ8MuUlkUJzglBB0Z3Mckqe2d9NRrnkHFZIURpiMhxanusUHIBVfA.jpg",
       "ownerUserId": "181859263110382592",
       "siteUrl": "https://t.me/s/anranbp",
       "title": "我爱白嫖 - Telegram Channel",

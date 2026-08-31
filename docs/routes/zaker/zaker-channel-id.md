@@ -77,8 +77,8 @@ _None_
     },
     {
       "description": "ZAKER新闻 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-29T23:28:13.010Z",
+      "errorMessage": "Cannot read properties of undefined (reading 'article')\n",
       "id": "109858197894680576",
       "image": null,
       "ownerUserId": null,

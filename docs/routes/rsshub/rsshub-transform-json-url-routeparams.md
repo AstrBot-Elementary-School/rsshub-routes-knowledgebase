@@ -99,20 +99,20 @@ _None_
   "path": "/transform/json/:url/:routeParams",
   "test": {
     "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
   "topFeeds": [
     {
-      "description": "Proxy https://api.github.com/repos/java-decompiler/jd-gui/releases - Powered by RSSHub",
+      "description": "Proxy https://api.github.com/repos/Macmod/ldapx/releases - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "185694472030917632",
+      "id": "185694935800580096",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://api.github.com/repos/java-decompiler/jd-gui/releases",
-      "title": "jd-gui releases",
+      "siteUrl": "https://api.github.com/repos/Macmod/ldapx/releases",
+      "title": "ldapx releases",
       "type": "feed",
-      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fapi.github.com%2Frepos%2Fjava-decompiler%2Fjd-gui%2Freleases/title=jd-gui%20releases&itemTitle=tag_name&itemLink=html_url&itemDesc=body"
+      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fapi.github.com%2Frepos%2FMacmod%2Fldapx%2Freleases/title=ldapx%20releases&itemTitle=tag_name&itemLink=html_url&itemDesc=body"
     },
     {
       "description": "Proxy https://api.github.com/repos/zema1/suo5/releases - Powered by RSSHub",

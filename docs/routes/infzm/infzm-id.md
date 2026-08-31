@@ -81,7 +81,7 @@ _None_
     },
     {
       "description": "南方周末-南方人物周刊 - Powered by RSSHub",
-      "errorAt": "2026-08-23T20:43:47.666Z",
+      "errorAt": "2026-08-27T05:59:05.451Z",
       "errorMessage": "200 ",
       "id": "53873114655474703",
       "image": "https://www.infzm.com/favicon.ico",

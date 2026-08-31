@@ -960,8 +960,8 @@
     },
     {
       "description": "综合政务 - Powered by RSSHub",
-      "errorAt": "2026-08-29T00:53:10.344Z",
-      "errorMessage": "[GET] \"http://www.csrc.gov.cn/getLocalList?channelCode=c101794\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 211.162.167.10:80, 211.162.167.11:80, 211.162.167.12:80, 211.162.167.13:80, 211.162.167.14:80, 211.162.167.15:80, 211.162.167.16:80, 211.162.167.9:80, timeout: 10000ms))\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "66728516715627520",
       "image": "http://www.csrc.gov.cn/csrc/xhtml/images/zfxxgk/icons_logo.png?v=1.0?v=1.0",
       "ownerUserId": null,

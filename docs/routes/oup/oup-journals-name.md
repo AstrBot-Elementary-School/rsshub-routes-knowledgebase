@@ -72,7 +72,7 @@ _None_
   ],
   "test": {
     "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
   "topFeeds": [
     {
@@ -88,16 +88,16 @@ _None_
       "url": "rsshub://oup/journals/qje"
     },
     {
-      "description": "OUP - adaptation - Powered by RSSHub",
-      "errorAt": "2025-07-18T10:38:49.798Z",
-      "errorMessage": "[GET] \"https://academic.oup.com/adaptation/issue\": 403 Forbidden\n",
-      "id": "150382870590088192",
+      "description": "OUP - restud - Powered by RSSHub",
+      "errorAt": "2025-07-18T14:31:43.383Z",
+      "errorMessage": "[GET] \"https://academic.oup.com/restud/issue\": 403 \n",
+      "id": "73543481897669632",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://academic.oup.com/adaptation/issue",
-      "title": "OUP - adaptation",
+      "siteUrl": "https://academic.oup.com/restud/issue",
+      "title": "OUP - restud",
       "type": "feed",
-      "url": "rsshub://oup/journals/adaptation"
+      "url": "rsshub://oup/journals/restud"
     }
   ],
   "url": "academic.oup.com/"

@@ -72,16 +72,16 @@ _None_
       "url": "rsshub://fanqienovel/page/7251428606465805347"
     },
     {
-      "description": "【胡一天、张婧仪领衔主演同名电视剧原著】藏拙十五年，花芷原以为自己可以做一个最合格的世家千金安稳一辈子，可当花家大厦将倾，她不得不展露锋芒出面撑起这个风雨飘摇的家，抛头露脸是常态，打马飞奔也常有，过不去了甚至带着弟妹背着棺材以绝户相逼，不好惹的名声传遍京城，她做好了家族一朝反目戳她刀子的心理建设，也做好了孤独终老的准备，独独没想到会有人在出征前盔甲着身向她许终身！好稀奇，这世上竟然还有人敢娶她！？ - Powered by RSSHub",
+      "description": "【争霸+种田+大唐30k+群像】 原名《爱你老妈，玄武门见》 李唯穿越到了女频世界的大唐，成了李世民嫡孙，却被女帝送去草原做和亲驸马。 武氏将军卖国求荣，朝中栋梁与门阀世家蒙蔽在女频天道的厌胜之术中乐不思蜀。 他们高呼‘是武周终结了贞观乱世，是女帝拯救了天下苍生’！ 穆穆大唐，邦之神器，岂容女频天道如此亵渎？ 我从未想过要同室操戈， 太宗皇帝曾驱逐蒙昧的混乱时代， 带领我们走向了贞观盛世。 但你，武曌，你背叛了李唐皇室，背叛了我们所有人。 你窃取了皇帝的龙椅，对你的臣子们撒了谎。 大唐只有一次复兴的机会， 如果你没有能力抓住它，那就让我来完成。 ——让战争开启吧 从草原的边际，到中原的腹地。 让黄河燃烧！ 让长安陨落！ 如果我不能从你的失败中拯救它，那就让中原燃烧吧。 女频？武周？女帝？ 厌胜？伪周？妖妇？ 我将率领三军，兵临城下，玄武门见，妖妇别跑。 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "59072159589978112",
-      "image": "https://p9-novel-sign.byteimg.com/fe8500000545c2da4951~tplv-resize:225:300.image?lk3s=191c1ecc&x-expires=1763630126&x-signature=Qf0q1c1K9VL1SBYhvvVK2iARTjM%3D",
+      "id": "132362353112244224",
+      "image": "https://p3-novel-sign.byteimg.com/novel-pic/p2o35efb89f35a48a0878f40016dd90c4cb~tplv-resize:225:300.image?lk3s=191c1ecc&x-expires=1777853504&x-signature=1QhJ27sg%2B%2BAHw4hz67r7Vu%2B8kDs%3D",
       "ownerUserId": null,
-      "siteUrl": "https://fanqienovel.com/page/6621052928482348040",
-      "title": "惜花芷 - 空留",
+      "siteUrl": "https://fanqienovel.com/page/7471572297443200025",
+      "title": "爱你老妈，玄武门见 - 墨色染秋",
       "type": "feed",
-      "url": "rsshub://fanqienovel/page/6621052928482348040"
+      "url": "rsshub://fanqienovel/page/7471572297443200025"
     }
   ]
 }

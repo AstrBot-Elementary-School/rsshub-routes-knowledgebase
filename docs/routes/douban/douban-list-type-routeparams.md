@@ -88,7 +88,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1692,
+  "heat": 1696,
   "location": "other/list.ts",
   "maintainers": [
     "5upernova-heng",
@@ -127,7 +127,7 @@
     {
       "description": "每周一更新；关注榜单，第一时间了解最新好书 - Powered by RSSHub",
       "errorAt": "2025-03-04T07:16:45.428Z",
-      "errorMessage": "502 \n[GET] \"https://m.douban.com/rexxar/api/v2/subject_collection/EC645NBAI/items?playable=0&start=0&count=50\": 404 Not Found\n[GET] \"https://m.douban.com/rexxar/api/v2/subject_collection/EC645NBAI/items?playable=0&start=0&count=50\": 404 Not Found\n[GET] \"https://m.douban.com/rexxar/api/v2/subject_collection/EC645NBAI/items?playable=0&start=0&count=50\": 404 Not Found\n",
+      "errorMessage": "Failed to fetch\n[GET] \"https://m.douban.com/rexxar/api/v2/subject_collection/EC645NBAI/items?playable=0&start=0&count=50\": 404 Not Found\n[GET] \"https://m.douban.com/rexxar/api/v2/subject_collection/EC645NBAI/items?playable=0&start=0&count=50\": 404 Not Found\n[GET] \"https://m.douban.com/rexxar/api/v2/subject_collection/EC645NBAI/items?playable=0&start=0&count=50\": 404 Not Found\n",
       "id": "55621048231294976",
       "image": null,
       "ownerUserId": null,

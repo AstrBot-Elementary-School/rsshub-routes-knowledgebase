@@ -104,28 +104,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "ROG Zephyrus G16 (2024) GA605 BIOS - Powered by RSSHub",
+      "description": "ROG Strix OLED XG27UCDMG BIOS - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "84439902528045056",
-      "image": "https://dlcdnwebimgs.asus.com/gain/9A966AAE-B61A-41C5-AA2F-5B0B35E189A2/w185",
+      "id": "213294544976304128",
+      "image": "https://dlcdnwebimgs.asus.com/gain/A1B38038-3616-4BD6-99CD-42025598FECF/w185",
       "ownerUserId": null,
-      "siteUrl": "https://rog.asus.com/laptops/rog-zephyrus/rog-zephyrus-g16-2024-ga605/",
-      "title": "ROG Zephyrus G16 (2024) GA605 BIOS",
+      "siteUrl": "https://rog.asus.com/monitors/27-to-31-5-inches/rog-strix-oled-xg27ucdmg/",
+      "title": "ROG Strix OLED XG27UCDMG BIOS",
       "type": "feed",
-      "url": "rsshub://asus/bios/GA605WV"
+      "url": "rsshub://asus/bios/XG27UCDMG"
     },
     {
-      "description": "RT-BE88U BIOS - Powered by RSSHub",
+      "description": "TUF GAMING B560-PLUS WIFI BIOS - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "126962011544488963",
-      "image": "https://dlcdnwebimgs.asus.com/gain/e1b78b1a-0011-4ec7-bd84-bcbaa489ecbf/w185",
+      "id": "73279691433742336",
+      "image": "https://dlcdnwebimgs.asus.com/gain/93a33099-7d95-44b2-b43f-ff3fc22b16fa/w185",
       "ownerUserId": null,
-      "siteUrl": "https://www.asus.com/Networking-IoT-Servers/WiFi-Routers/ASUS-Gaming-Routers/RT-BE88U/",
-      "title": "RT-BE88U BIOS",
+      "siteUrl": "https://www.asus.com.cn/Motherboards-Components/Motherboards/TUF-Gaming/TUF-GAMING-B560-PLUS-WIFI/",
+      "title": "TUF GAMING B560-PLUS WIFI BIOS",
       "type": "feed",
-      "url": "rsshub://asus/bios/rt-be88u"
+      "url": "rsshub://asus/bios/rog-strix-b560-i-gaming-wifi-model/zh"
     }
   ],
   "url": "www.asus.com"

@@ -78,7 +78,7 @@ _None_
   "path": "/tag/:tag/:type/:option?",
   "test": {
     "code": 1,
-    "message": "AssertionError: expected 348916993637 to be less than 311040000000\n    at checkDate (/home/runner/work/RSSHub/RSSHub/lib/app.test.ts:62:46)\n    at checkRSS (/home/runner/work/RSSHub/RSSHub/lib/app.test.ts:87:13)\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:106:17\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+    "message": "AssertionError: expected 349523554781 to be less than 311040000000\n    at checkDate (/home/runner/work/RSSHub/RSSHub/lib/app.test.ts:62:46)\n    at checkRSS (/home/runner/work/RSSHub/RSSHub/lib/app.test.ts:87:13)\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:106:17\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
   "topFeeds": [
     {
@@ -94,16 +94,16 @@ _None_
       "url": "rsshub://pingwest/tag/20327/1/fulltext"
     },
     {
-      "description": "品玩 - 电子书 - Powered by RSSHub",
+      "description": "品玩 - 豆包 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "121129408988533760",
+      "id": "128313509223043072",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.pingwest.com/tag/1326",
-      "title": "品玩 - 电子书",
+      "siteUrl": "https://www.pingwest.com/tag/22158",
+      "title": "品玩 - 豆包",
       "type": "feed",
-      "url": "rsshub://pingwest/tag/1326/1"
+      "url": "rsshub://pingwest/tag/22158/1"
     }
   ]
 }

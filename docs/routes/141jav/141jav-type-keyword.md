@@ -73,7 +73,7 @@ _None_
   "features": {
     "nsfw": true
   },
-  "heat": 816,
+  "heat": 814,
   "location": "index.tsx",
   "maintainers": [
     "cgkings",
@@ -87,12 +87,12 @@ _None_
   "path": "/:type/:keyword{.+}?",
   "test": {
     "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
   "topFeeds": [
     {
       "description": "141JAV - Popular (30 days) - Powered by RSSHub",
-      "errorAt": "2026-08-25T04:57:10.771Z",
+      "errorAt": "2026-08-23T17:39:03.001Z",
       "errorMessage": "200 ",
       "id": "54839446413188096",
       "image": null,
@@ -104,8 +104,8 @@ _None_
     },
     {
       "description": "141JAV - New - Powered by RSSHub",
-      "errorAt": "2026-08-29T09:35:06.640Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://www.141jav.com/new\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "53022189134482432",
       "image": null,
       "ownerUserId": null,

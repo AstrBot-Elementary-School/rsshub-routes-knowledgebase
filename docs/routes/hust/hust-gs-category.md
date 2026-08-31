@@ -432,8 +432,7 @@
     }
   ],
   "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+    "code": 0
   },
   "topFeeds": [
     {
@@ -449,16 +448,16 @@
       "url": "rsshub://hust/gs/xwdt"
     },
     {
-      "description": "其他 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "73886148848932864",
+      "description": "学位工作 - Powered by RSSHub",
+      "errorAt": "2026-05-18T13:27:59.677Z",
+      "errorMessage": "Failed to fetch\n",
+      "id": "73885326299630592",
       "image": "https://gs.hust.edu.cn/img/logo.png",
       "ownerUserId": null,
-      "siteUrl": "https://gs.hust.edu.cn/tzgg/qt.htm",
-      "title": "华中科技大学研究生院 - 其他",
+      "siteUrl": "https://gs.hust.edu.cn/tzgg/xwgz.htm",
+      "title": "华中科技大学研究生院 - 学位工作",
       "type": "feed",
-      "url": "rsshub://hust/gs/tzgg/qt"
+      "url": "rsshub://hust/gs/tzgg/xwgz"
     }
   ],
   "url": "gs.hust.edu.cn"

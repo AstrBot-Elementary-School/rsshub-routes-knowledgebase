@@ -54,8 +54,8 @@ _None_
   "topFeeds": [
     {
       "description": "技术爬爬虾 的 bilibili 所有视频 - Powered by RSSHub",
-      "errorAt": "2026-08-25T07:54:26.811Z",
-      "errorMessage": "502 \nCannot read properties of undefined (reading 'vlist')\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "82801159002601472",
       "image": null,
       "ownerUserId": null,
@@ -66,8 +66,8 @@ _None_
     },
     {
       "description": "小Lin说 的 bilibili 所有视频 - Powered by RSSHub",
-      "errorAt": "2026-08-26T23:43:23.393Z",
-      "errorMessage": "502 \nFailed to fetch\nCannot read properties of undefined (reading 'vlist')\n",
+      "errorAt": "2026-08-19T09:48:04.139Z",
+      "errorMessage": "Failed to fetch\nFailed to fetch\nCannot read properties of undefined (reading 'vlist')\n",
       "id": "69028952282503168",
       "image": null,
       "ownerUserId": null,

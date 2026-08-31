@@ -97,8 +97,8 @@
   "topFeeds": [
     {
       "description": "Yahoo 新聞 - 法新社 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-29T17:05:27.136Z",
+      "errorMessage": "Failed to fetch\n[GET] \"https://hk.news.yahoo.com/_td-news/api/resource/StreamService;category=LISTID%3A1cc44280-facb-11e9-ad7c-f3ba971275c8;useNCP=true\": 404 Not Found\n",
       "id": "78795698559475712",
       "image": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
       "ownerUserId": null,

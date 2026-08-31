@@ -54,7 +54,7 @@ _None_
   },
   "path": "/press-releases/:category?/:title?",
   "test": {
-    "code": 0
+    "code": 1
   },
   "topFeeds": []
 }

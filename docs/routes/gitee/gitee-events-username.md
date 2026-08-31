@@ -70,32 +70,32 @@ _None_
   ],
   "test": {
     "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
   "topFeeds": [
     {
-      "description": "silencedream - 公开动态 - Powered by RSSHub",
+      "description": "zepc-hhy - 公开动态 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "140336243023671296",
+      "id": "1161384219914403840",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://gitee.com/silencedream",
-      "title": "silencedream - 公开动态",
+      "siteUrl": "https://gitee.com/zepc-hhy",
+      "title": "zepc-hhy - 公开动态",
       "type": "feed",
-      "url": "rsshub://gitee/events/silencedream"
+      "url": "rsshub://gitee/events/zepc-hhy"
     },
     {
-      "description": "callmer - 公开动态 - Powered by RSSHub",
+      "description": "NanGePlus - 公开动态 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "158419992977388544",
+      "id": "163616006553730048",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://gitee.com/callmer",
-      "title": "callmer - 公开动态",
+      "siteUrl": "https://gitee.com/NanGePlus",
+      "title": "NanGePlus - 公开动态",
       "type": "feed",
-      "url": "rsshub://gitee/events/callmer"
+      "url": "rsshub://gitee/events/NanGePlus"
     }
   ]
 }

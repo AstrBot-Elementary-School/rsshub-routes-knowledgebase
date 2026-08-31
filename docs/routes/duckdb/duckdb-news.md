@@ -59,13 +59,13 @@ _None_
   "path": "/news",
   "test": {
     "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
   "topFeeds": [
     {
       "description": "DuckDB News - Powered by RSSHub",
       "errorAt": "2025-10-07T17:37:20.808Z",
-      "errorMessage": "[GET] \"https://duckdb.orghttps://ducklake.select/2026/04/13/ducklake-10/\": <no response> fetch failed (getaddrinfo ENOTFOUND duckdb.orghttps)\n",
+      "errorMessage": "[GET] \"https://duckdb.orghttps://ducklake.select/2026/05/04/ducklake-dataframe/\": <no response> fetch failed (getaddrinfo ENOTFOUND duckdb.orghttps)\n",
       "id": "69641222629419008",
       "image": null,
       "ownerUserId": null,

@@ -84,7 +84,7 @@ UP 主关注用户现在需要 b 站登录后的 Cookie 值，所以只能自建
     {
       "description": "undefined 的 bilibili 关注 - Powered by RSSHub",
       "errorAt": "2026-01-30T03:43:25.815Z",
-      "errorMessage": "缺少对应 loginUid 的 Bilibili 用户登录后的 Cookie 值 <a href=\"https://docs.rsshub.app/zh/deploy/config#route-specific-configurations\">bilibili 用户关注动态系列路由</a>\n缺少对应 loginUid 的 Bilibili 用户登录后的 Cookie 值 <a href=\"https://docs.rsshub.app/zh/deploy/config#route-specific-configurations\">bilibili 用户关注动态系列路由</a>\n",
+      "errorMessage": "200 ",
       "id": "198986977401562112",
       "image": null,
       "ownerUserId": null,
@@ -94,16 +94,16 @@ UP 主关注用户现在需要 b 站登录后的 Cookie 值，所以只能自建
       "url": "rsshub://bilibili/user/followings/687354778/114145696"
     },
     {
-      "description": "家宁丰 的 bilibili 关注 - Powered by RSSHub",
-      "errorAt": "2026-01-30T03:43:24.044Z",
+      "description": "PH64E 的 bilibili 关注 - Powered by RSSHub",
+      "errorAt": "2026-01-30T03:44:41.001Z",
       "errorMessage": "200 ",
-      "id": "198985692469705728",
+      "id": "198984620760968192",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://space.bilibili.com/341651253/#/fans/follow",
-      "title": "家宁丰 的 bilibili 关注",
+      "siteUrl": "https://space.bilibili.com/291241870/#/fans/follow",
+      "title": "PH64E 的 bilibili 关注",
       "type": "feed",
-      "url": "rsshub://bilibili/user/followings/341651253/114145696"
+      "url": "rsshub://bilibili/user/followings/291241870/114145696"
     }
   ]
 }

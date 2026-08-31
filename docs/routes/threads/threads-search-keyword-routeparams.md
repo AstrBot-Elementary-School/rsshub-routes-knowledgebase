@@ -50,6 +50,9 @@ _None_
     }
   },
   "path": "/search/:keyword/:routeParams?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [],
   "view": 1
 }

@@ -58,13 +58,14 @@ _None_
     }
   ],
   "test": {
-    "code": 0
+    "code": 1,
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
   "topFeeds": [
     {
       "description": "産経新聞社のニュースサイト。政治、経済、国際、社会、スポーツ、エンタメ、生活、健康、災害情報などの速報記事と解説記事を新着順に一覧できます。 - Powered by RSSHub",
-      "errorAt": "2026-08-26T11:13:21.823Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://www.sankei.comhttps://www.sankei.com/article/20260829-ZLZ3UIRCK5OQZBU3AWEARXZL5U/\": <no response> fetch failed (getaddrinfo ENOTFOUND www.sankei.comhttps)\n",
+      "errorAt": "2026-08-27T11:50:16.203Z",
+      "errorMessage": "Failed to fetch\n[GET] \"https://www.sankei.comhttps://www.sankei.com/article/20260830-O62BVXU73FNIPC4EVNGK6OXSMY/\": <no response> fetch failed (getaddrinfo ENOTFOUND www.sankei.comhttps)\n",
       "id": "157150339579158528",
       "image": "https://www.sankei.com/common/images/ogp_default.jpg",
       "ownerUserId": null,

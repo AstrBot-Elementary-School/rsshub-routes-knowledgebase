@@ -48,14 +48,14 @@ _None_
   },
   "topFeeds": [
     {
-      "description": null,
-      "errorAt": "2025-08-14T14:48:56.097Z",
-      "errorMessage": "[GET] \"http://news.zjgsu.edu.cn/18/\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 202.96.99.58:80, 2001:250:6401::58:80, timeout: 10000ms))\n",
+      "description": "浙江工商大学新闻网-通知公告 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "178816855084860422",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": null,
-      "title": "Importing",
+      "siteUrl": "http://news.zjgsu.edu.cn/18/",
+      "title": "浙江工商大学新闻网-通知公告",
       "type": "feed",
       "url": "rsshub://zjgsu/tzgg"
     }

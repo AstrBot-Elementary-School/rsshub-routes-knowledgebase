@@ -89,8 +89,8 @@ For example, the category for <https://www.washingtonpost.com/national/investiga
     },
     {
       "description": "The Washington Post - Breaking news and latest headlines, U.S. news, world news, and video - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-29T14:56:11.500Z",
+      "errorMessage": "[GET] \"https://jsonapp1.washingtonpost.com/fusion_prod/v2/\": <no response> fetch failed\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "74046907703950336",
       "image": null,
       "ownerUserId": null,

@@ -62,7 +62,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 987,
+  "heat": 988,
   "location": "channel.ts",
   "maintainers": [
     "HenryQW",
@@ -93,7 +93,7 @@ _None_
     {
       "description": "FTChinese RSS - Hot Weekly - Powered by RSSHub",
       "errorAt": "2026-07-05T00:21:03.547Z",
-      "errorMessage": "Failed to fetch\nFailed to fetch\n[GET] \"https://www.ftchinese.com/interactive/292196?full=y&archive\": 429 Too Many Requests\n",
+      "errorMessage": "Failed to fetch\nFailed to fetch\n[GET] \"https://www.ftchinese.com/interactive/292455?full=y&archive\": 403 Forbidden\nCannot read properties of undefined (reading 'title')\n",
       "id": "41377818806739968",
       "image": null,
       "ownerUserId": null,

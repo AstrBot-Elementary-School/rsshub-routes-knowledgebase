@@ -73,8 +73,7 @@ _None_
     }
   ],
   "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+    "code": 0
   },
   "topFeeds": [
     {
@@ -82,7 +81,7 @@ _None_
       "errorAt": null,
       "errorMessage": null,
       "id": "1118368279467786240",
-      "image": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/3282e877c0ed5a7e1d7bac9f192e7033~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=9feae868&x-expires=1788159600&x-signature=qCBDqZdxAUWbLrP1OsEc2tX57wg%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+      "image": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/3282e877c0ed5a7e1d7bac9f192e7033~tplv-tiktokx-cropcenter:100:100.jpeg?dr=9640&refresh_token=ec454f21&x-expires=1788181200&x-signature=09kkTQ6AnnDkjMw%2B3zYpBEbb9VM%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
       "ownerUserId": null,
       "siteUrl": "https://www.tiktok.com/@policiadecolombia",
       "title": "Policía de Colombia (@policiadecolombia) | TikTok",

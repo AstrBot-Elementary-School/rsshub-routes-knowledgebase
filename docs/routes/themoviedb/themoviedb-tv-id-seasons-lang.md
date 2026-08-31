@@ -78,16 +78,16 @@ _None_
       "url": "rsshub://themoviedb/tv/70593/seasons"
     },
     {
-      "description": "The story centers on a little girl called Sana, who is one of the children that holds the power of \"Alice's Dream,\" an ability that enables her to materialize anything she imagines. After escaping a lab where she was a test subject, Sana ends up in a normal world where she encounters an old man named Zouroku, but will he help her? - Powered by RSSHub",
+      "description": "Georgie and Mandy raise their young family in Texas while navigating the challenges of adulthood, parenting, and marriage. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "97909208124315648",
-      "image": "https://image.tmdb.org/t/p/original/aHYmjLTc5niV7uuTBmIz4oTrSx6.jpg",
+      "id": "85974796356276224",
+      "image": "https://image.tmdb.org/t/p/original/3z2mYFxUkzanb2eeIcVyfJq0G3q.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://www.themoviedb.org/tv/70594/seasons",
-      "title": "Alice & Zoroku - Seasons — TMDB",
+      "siteUrl": "https://www.themoviedb.org/tv/243875/seasons",
+      "title": "Georgie & Mandy's First Marriage - Seasons — TMDB",
       "type": "feed",
-      "url": "rsshub://themoviedb/tv/70594/seasons"
+      "url": "rsshub://themoviedb/tv/243875/seasons"
     }
   ],
   "view": 5

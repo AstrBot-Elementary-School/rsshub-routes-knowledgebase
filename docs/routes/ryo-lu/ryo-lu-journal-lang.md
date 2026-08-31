@@ -89,6 +89,9 @@ _None_
       "target": "/journal"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "ryo.lu/journal",
   "view": 0

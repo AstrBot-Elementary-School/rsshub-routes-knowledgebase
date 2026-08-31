@@ -53,7 +53,7 @@ _None_
     {
       "description": "博士一分钟，姿势涨不停！ - Powered by RSSHub",
       "errorAt": "2025-07-18T10:22:41.247Z",
-      "errorMessage": "502 \n[GET] \"https://m.thepaper.cn\": 403 Forbidden\n",
+      "errorMessage": "Failed to fetch\n[GET] \"https://m.thepaper.cn\": 403 Forbidden\n",
       "id": "82575195705120768",
       "image": "https://image.thepaper.cn/publish/interaction/image/3/326/801.jpg",
       "ownerUserId": null,

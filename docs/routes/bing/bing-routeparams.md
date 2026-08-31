@@ -48,7 +48,7 @@ _None_
   ],
   "description": "| 参数  | 含义                                | 接受的值                                                   | 默认值    | 备注                                                                              |\n| ----- | ----------------------------------- | ---------------------------------------------------------- | --------- | --------------------------------------------------------------------------------- |\n| type  | 输出壁纸的像素类型                  | UHD/1920x1080/1920x1200/768x1366/1080x1920/1080x1920\\_logo | 1920x1080 | 1920x1200 与 1080x1920\\_logo 带有水印，输入的值不在接受范围内都会输出成 1920x1080 |\n| story | 是否输出壁纸的故事                  | 1/0                                                        | 0         | 输入的值不为 1 都不会输出故事                                                     |\n| lang  | 输出壁纸图文的地区 (中文或者是英文) | zh/en                                                      | zh        | zh/en 输出的壁纸图文不一定是一样的；如果 en 不生效，试着部署到其他地方            |",
   "example": "/bing/type=UHD&story=1&lang=zh-CN",
-  "heat": 1125,
+  "heat": 1123,
   "location": "daily-wallpaper.ts",
   "maintainers": [
     "FHYunCai",
@@ -75,7 +75,7 @@ _None_
   ],
   "test": {
     "code": 1,
-    "message": "AssertionError: expected NaN to be greater than -432000000\n    at checkDate (/home/runner/work/RSSHub/RSSHub/lib/app.test.ts:61:46)\n    at checkRSS (/home/runner/work/RSSHub/RSSHub/lib/app.test.ts:87:13)\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:106:17\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.10/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+    "message": "AssertionError: expected NaN to be greater than -432000000\n    at checkDate (/home/runner/work/RSSHub/RSSHub/lib/app.test.ts:61:46)\n    at checkRSS (/home/runner/work/RSSHub/RSSHub/lib/app.test.ts:87:13)\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:106:17\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
   "topFeeds": [
     {

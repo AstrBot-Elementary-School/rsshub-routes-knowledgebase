@@ -68,8 +68,8 @@ _None_
   "topFeeds": [
     {
       "description": "東網產經 - 新聞總覽 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-30T08:41:08.748Z",
+      "errorMessage": "[GET] \"https://money18.on.cc/finnews/content/exp/bkn-20260830163543085-0830_00842_001.html\": 404 Not Found\n",
       "id": "149880667170940928",
       "image": null,
       "ownerUserId": null,
