@@ -78,16 +78,16 @@ _None_
       "url": "rsshub://themoviedb/tv/70593/seasons"
     },
     {
-      "description": "Georgie and Mandy raise their young family in Texas while navigating the challenges of adulthood, parenting, and marriage. - Powered by RSSHub",
+      "description": "A missing child causes four families to help each other for answers. What they could not imagine is that this mystery would be connected to innumerable other secrets of the small town. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "85974796356276224",
-      "image": "https://image.tmdb.org/t/p/original/3z2mYFxUkzanb2eeIcVyfJq0G3q.jpg",
+      "id": "82918388383633408",
+      "image": "https://image.tmdb.org/t/p/original/apbrbWs8M9lyOpJYU5WXrpFbk1Z.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://www.themoviedb.org/tv/243875/seasons",
-      "title": "Georgie & Mandy's First Marriage - Seasons — TMDB",
+      "siteUrl": "https://www.themoviedb.org/tv/70523/seasons",
+      "title": "Dark - Seasons — TMDB",
       "type": "feed",
-      "url": "rsshub://themoviedb/tv/243875/seasons"
+      "url": "rsshub://themoviedb/tv/70523-dark/seasons"
     }
   ],
   "view": 5

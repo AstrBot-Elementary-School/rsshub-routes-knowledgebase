@@ -105,7 +105,7 @@ _None_
     {
       "description": "undefined (@arrriiaa_w) - Instagram - Powered by RSSHub",
       "errorAt": "2025-12-11T11:45:24.669Z",
-      "errorMessage": "POST /api/v1/accounts/login/ - 429 Too Many Requests; Please wait a few minutes before you try again.\nPOST /api/v1/accounts/login/ - 400 Bad Request; challenge_required\n",
+      "errorMessage": "POST /api/v1/accounts/login/ - 400 Bad Request; We can send you an email to help you get back into your account.\nPOST /api/v1/accounts/login/ - 400 Bad Request; challenge_required\n",
       "id": "62147426956831744",
       "image": "https://scontent-lax3-2.cdninstagram.com/v/t51.2885-19/279747740_420453782772871_6986839216162999403_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-lax3-2.cdninstagram.com&_nc_cat=107&_nc_oc=Q6cZ2QGdZ_iENXEPn3OpzQQo0OYdf3Y3tfr2djTnFy3QSF7xZA-stNQTPT9hWlyFKFiRpng&_nc_ohc=P1f0w8MXen4Q7kNvwEAWqvY&_nc_gid=Sv_9hZ32tlXXC_LZ_100hg&edm=AEF8tYYBAAAA&ccb=7-5&oh=00_AfmvZx4fq_tU13sGypV6ChjMru8t8FbGpn8NjhYrWxD5Jg&oe=694045FB&_nc_sid=1e20d2",
       "ownerUserId": null,

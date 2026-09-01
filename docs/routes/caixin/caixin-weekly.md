@@ -39,7 +39,7 @@ _None_
     "traditional-media"
   ],
   "example": "/caixin/weekly",
-  "heat": 1189,
+  "heat": 1190,
   "location": "weekly.ts",
   "maintainers": [
     "TonyRL"
@@ -60,7 +60,7 @@ _None_
   "topFeeds": [
     {
       "description": "《财新周刊》-财新网 - Powered by RSSHub",
-      "errorAt": "2026-08-24T03:01:20.784Z",
+      "errorAt": "2026-08-25T05:08:56.608Z",
       "errorMessage": "200 ",
       "id": "41572238273905698",
       "image": null,

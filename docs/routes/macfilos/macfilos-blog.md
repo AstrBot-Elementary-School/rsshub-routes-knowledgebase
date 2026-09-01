@@ -75,8 +75,8 @@ _None_
   "topFeeds": [
     {
       "description": "Blog page - Macfilos - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-30T10:06:50.455Z",
+      "errorMessage": "[GET] \"https://www.macfilos.com/blog\": 401 Unauthorized\n",
       "id": "73534875400660992",
       "image": null,
       "ownerUserId": null,

@@ -95,7 +95,7 @@ Enhance the official EN RSS feed
     {
       "description": "NYT > Top Stories - Powered by RSSHub",
       "errorAt": "2025-06-11T21:30:37.105Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://www.nytimes.com/2026/08/29/us/alaska-governor-candidates.html\": 403 Forbidden\n",
+      "errorMessage": "Failed to fetch\n[GET] \"https://www.nytimes.com/2026/08/30/world/asia/nepal-floods-mass-burials-missing.html\": 403 Forbidden\n",
       "id": "76533237937860608",
       "image": "{\"link\":\"https://www.nytimes.com\",\"url\":\"https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png\",\"title\":\"NYT > Top Stories\"}",
       "ownerUserId": null,

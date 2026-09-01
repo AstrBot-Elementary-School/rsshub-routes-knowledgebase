@@ -39,7 +39,7 @@ _None_
     "other"
   ],
   "example": "/zaker/channel/13",
-  "heat": 49,
+  "heat": 48,
   "location": "channel.ts",
   "maintainers": [
     "LogicJake",
@@ -77,8 +77,8 @@ _None_
     },
     {
       "description": "ZAKER新闻 - Powered by RSSHub",
-      "errorAt": "2026-08-29T23:28:13.010Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'article')\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "109858197894680576",
       "image": null,
       "ownerUserId": null,

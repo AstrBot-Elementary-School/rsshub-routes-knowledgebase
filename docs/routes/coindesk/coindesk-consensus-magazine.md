@@ -73,7 +73,7 @@ _None_
     {
       "description": "CoinDesk Consensus Magazine - Powered by RSSHub",
       "errorAt": "2026-08-18T17:27:27.727Z",
-      "errorMessage": "502 \n[GET] \"https://www.coindesk.com/consensus-magazine\": <no response> fetch failed\n[GET] \"https://www.coindesk.com/consensus-magazine\": 429 Too Many Requests\n",
+      "errorMessage": "Failed to fetch\n[GET] \"https://www.coindesk.com/consensus-magazine\": <no response> fetch failed\n[GET] \"https://www.coindesk.com/consensus-magazine\": 429 Too Many Requests\n",
       "id": "41690378215457792",
       "image": null,
       "ownerUserId": null,

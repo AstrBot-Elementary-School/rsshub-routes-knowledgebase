@@ -98,16 +98,16 @@
       "url": "rsshub://douyu/group/534"
     },
     {
-      "description": "寅子的鱼吧 - Powered by RSSHub",
+      "description": "小300TwT的鱼吧 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "185721495210266624",
+      "id": "191988995179091968",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://yuba.douyu.com/group/newself/561",
-      "title": "斗鱼鱼吧 - 寅子",
+      "siteUrl": "https://yuba.douyu.com/group/newself/7187033",
+      "title": "斗鱼鱼吧 - 火枪俱乐部",
       "type": "feed",
-      "url": "rsshub://douyu/group/561"
+      "url": "rsshub://douyu/group/7187033"
     }
   ]
 }

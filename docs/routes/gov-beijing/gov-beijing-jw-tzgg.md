@@ -72,8 +72,8 @@ _None_
   "topFeeds": [
     {
       "description": "北京市教育委员会门户网站由北京市教育委员会主办，北京教育网络和信息中心负责运行维护，是北京市教育委员会在互联网上发布教育相关信息和提供在线服务的综合平台，权威发布北京市教育重大决策部署和重要政策文件以及各类便民提示，搭建北京教育与公众互动的交流渠道，展示北京教育风貌等。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-31T06:19:24.232Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "61219411365452800",
       "image": null,
       "ownerUserId": null,

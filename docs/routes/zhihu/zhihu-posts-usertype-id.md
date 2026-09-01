@@ -90,7 +90,7 @@
     {
       "description": "学校≠教育≠技能；文凭溢价=80%信号传递+20%人力资本 - Powered by RSSHub",
       "errorAt": "2025-04-22T11:31:51.374Z",
-      "errorMessage": "502 \n[GET] \"https://www.zhihu.com/api/v4/members/L.M.Sherlock\": 403 Forbidden\n",
+      "errorMessage": "Failed to fetch\n[GET] \"https://www.zhihu.com/api/v4/members/L.M.Sherlock\": 403 Forbidden\n",
       "id": "55435352270993409",
       "image": "https://pic1.zhimg.com/v2-c78eb026231e976049e9105170140ce3_l.jpg",
       "ownerUserId": null,

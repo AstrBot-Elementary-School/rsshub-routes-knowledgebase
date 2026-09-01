@@ -83,7 +83,7 @@ Freebuf 的文章页面带有反爬虫机制，所以目前无法获取文章的
     {
       "description": "Freebuf web - Powered by RSSHub",
       "errorAt": "2026-08-19T13:04:13.612Z",
-      "errorMessage": "Authentication failed. Access denied.\n/freebuf/articles/web\n[GET] \"https://www.freebuf.com/fapi/frontend/category/list?name=web&page=1&limit=20&select=0&order=0&type=category\": <no response> fetch failed\n[GET] \"https://www.freebuf.com/fapi/frontend/category/list?name=web&page=1&limit=20&select=0&order=0&type=category\": 405 Not Allowed\n",
+      "errorMessage": "Authentication failed. Access denied.\n/freebuf/articles/web\n[GET] \"https://www.freebuf.com/fapi/frontend/category/list?name=web&page=1&limit=20&select=0&order=0&type=category\": 405 Not Allowed\n[GET] \"https://www.freebuf.com/fapi/frontend/category/list?name=web&page=1&limit=20&select=0&order=0&type=category\": 405 Not Allowed\n",
       "id": "52357479513292810",
       "image": null,
       "ownerUserId": null,

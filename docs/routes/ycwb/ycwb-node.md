@@ -60,7 +60,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 33,
+  "heat": 34,
   "location": "index.tsx",
   "maintainers": [
     "TimWu007"
@@ -75,26 +75,26 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "羊城晚报金羊网 - - Powered by RSSHub",
+      "description": "羊城晚报金羊网 - 广州要闻 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "54807548014042128",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.ycwb.com/",
-      "title": "羊城晚报金羊网 -",
+      "title": "羊城晚报金羊网 - 广州要闻",
       "type": "feed",
       "url": "rsshub://ycwb/5261"
     },
     {
-      "description": "羊城晚报金羊网 - 首页 - Powered by RSSHub",
+      "description": "羊城晚报金羊网 - - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "65552639683390464",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.ycwb.com/",
-      "title": "羊城晚报金羊网 - 首页",
+      "title": "羊城晚报金羊网 -",
       "type": "feed",
       "url": "rsshub://ycwb/1"
     }

@@ -180,7 +180,7 @@ If you subscribe to [Data Points](https://www.deeplearning.ai/the-batch/tag/data
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 246,
+  "heat": 244,
   "location": "the-batch.ts",
   "maintainers": [
     "nczitzk",
@@ -351,14 +351,14 @@ If you subscribe to [Data Points](https://www.deeplearning.ai/the-batch/tag/data
       "url": "rsshub://deeplearning/the-batch"
     },
     {
-      "description": "Personal messages to the AI community. - Powered by RSSHub",
-      "errorAt": "2026-07-31T09:12:53.938Z",
-      "errorMessage": "Unexpected end of JSON input\n",
+      "description": "Learn AI with DeepLearning.AI - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "85236272491798528",
-      "image": "https://www.deeplearning.ai/site-meta.png",
+      "image": "https://www.deeplearning.ai/favicon.ico",
       "ownerUserId": null,
-      "siteUrl": "https://www.deeplearning.ai/the-batch/tag/letters/",
-      "title": "Letters from Andrew Ng | The Batch",
+      "siteUrl": "https://www.deeplearning.ai/the-batch/tag/letters",
+      "title": "Letters from Andrew Ng | The Batch | DeepLearning.AI",
       "type": "feed",
       "url": "rsshub://deeplearning/the-batch/letters"
     }

@@ -80,18 +80,6 @@
   "topFeeds": [
     {
       "description": "教学通知 - 四川农业大学教务处 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "114192527916693504",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://jiaowu.sicau.edu.cn/web/web/web/gwmore.asp",
-      "title": "教学通知 - 四川农业大学教务处",
-      "type": "feed",
-      "url": "rsshub://sicau/jiaowu/jxtz"
-    },
-    {
-      "description": "教学通知 - 四川农业大学教务处 - Powered by RSSHub",
       "errorAt": "2025-10-19T01:59:29.617Z",
       "errorMessage": "[GET] \"https://jiaowu.sicau.edu.cn/web/web/web/gwmore.asp\": <no response> fetch failed\n",
       "id": "169257483441609728",
@@ -101,6 +89,18 @@
       "title": "教学通知 - 四川农业大学教务处",
       "type": "feed",
       "url": "rsshub://sicau/jiaowu/jxtz/detail"
+    },
+    {
+      "description": "教学通知 - 四川农业大学教务处 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "114192527916693504",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://jiaowu.sicau.edu.cn/web/web/web/gwmore.asp",
+      "title": "教学通知 - 四川农业大学教务处",
+      "type": "feed",
+      "url": "rsshub://sicau/jiaowu/jxtz"
     }
   ],
   "url": "jiaowu.sicau.edu.cn/"

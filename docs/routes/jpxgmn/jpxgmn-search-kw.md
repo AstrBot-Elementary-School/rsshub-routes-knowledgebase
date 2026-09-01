@@ -69,7 +69,7 @@ _None_
     {
       "description": "极品性感美女搜索 - anran - Powered by RSSHub",
       "errorAt": "2026-01-22T06:41:20.679Z",
-      "errorMessage": "502 \nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n[GET] \"http:///plus/search/index.asp?keyword=anran\": <no response> fetch failed (getaddrinfo ENOTFOUND plus)\n",
+      "errorMessage": "Failed to fetch\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n[GET] \"http:///plus/search/index.asp?keyword=anran\": <no response> fetch failed (getaddrinfo ENOTFOUND plus)\n",
       "id": "81201697850492928",
       "image": null,
       "ownerUserId": null,

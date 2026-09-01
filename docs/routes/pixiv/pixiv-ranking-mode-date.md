@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 7710,
+  "heat": 7709,
   "location": "ranking.ts",
   "maintainers": [
     "EYHN"

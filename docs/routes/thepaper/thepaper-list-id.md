@@ -177,8 +177,8 @@ _None_
     },
     {
       "description": "澎湃新闻栏目 - 上海书评 - Powered by RSSHub",
-      "errorAt": "2026-08-30T08:11:04.651Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://m.thepaper.cn/list/26878\": 502 Bad Gateway\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "65685705337799701",
       "image": "https://image.thepaper.cn/depository/image/5/352/565.jpg",
       "ownerUserId": null,

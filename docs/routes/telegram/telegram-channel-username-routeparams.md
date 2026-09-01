@@ -119,7 +119,7 @@ For backward compatibility reasons, invalid `routeParams` will be treated as `se
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 302415,
+  "heat": 302387,
   "location": "channel.ts",
   "maintainers": [
     "DIYgod",
@@ -162,7 +162,7 @@ For backward compatibility reasons, invalid `routeParams` will be treated as `se
       "errorAt": "2026-08-23T14:43:48.810Z",
       "errorMessage": "200 ",
       "id": "65367894677815296",
-      "image": "https://cdn5.telesco.pe/file/eMYKIBg-VOEQaycYpy41FynrTehH7lBk-gqkV22KJYGWuvnYZrG2tbnDxjYyVxBjo9vdXqePT92E_3dYOeizQWFq9UUQwHJJBQLvDqeLi4L_KTx2YdFUxlWiAO2qChvuQSKY_NWmSN0NbrqFR3Cv4hvuzobyScQm1Cs5m5P_GGXVkwIwk9tyrkC7sLvg_F5A8FA7Lek_gsU0cE2GcCJrLicRU5rVi9bXe7RE72pjP5HqtOQ9HK4gXAE0FDI_fBF80HebMezyYDNWfrI_KnfA1yn60aH3gPyiJOJ8MuUlkUJzglBB0Z3Mckqe2d9NRrnkHFZIURpiMhxanusUHIBVfA.jpg",
+      "image": "https://cdn5.telesco.pe/file/qmxa3MAOjTpQK6XMZA6aNE3eiO2MgLC5-E6--LZcsh1FDFeHd02McYhiX4fg_7oB_JPVAl1OwSN6agWVnHA8HzhVXF_12Z-1MX7pcgkdCoDnL5FZJ9ZQJmQ9z0hXcSJ-nTy_vNL14WlOZoahKTYpnU03m0YoZ5p2rsVxK_7icdyAJVOT9tbzSneeZsOvOU_rRv-7R_l4As7sI-o3MCdPFSbU1CclAcBHRsvTIgnPq5jZVWjz9kK0ndsW6xS92tHhNKICPBBVGItD94Nxvw4WDQ9upZKfRl4cwkUMPa9r5Krm11FkZury0AFJRx79_P5gCmhomZbxcGW_lwi9bN5luw.jpg",
       "ownerUserId": "181859263110382592",
       "siteUrl": "https://t.me/s/anranbp",
       "title": "我爱白嫖 - Telegram Channel",

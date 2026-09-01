@@ -62,7 +62,7 @@ Examples:
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 6633,
+  "heat": 6544,
   "location": "index.ts",
   "maintainers": [
     "nczitzk",
@@ -95,7 +95,7 @@ Examples:
   "topFeeds": [
     {
       "description": "Hacker News - Powered by RSSHub",
-      "errorAt": "2026-08-27T02:53:11.005Z",
+      "errorAt": "2026-08-23T14:43:44.570Z",
       "errorMessage": "200 ",
       "id": "52325519371718656",
       "image": null,
@@ -109,13 +109,13 @@ Examples:
       "description": "Hacker News - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "61780263784145920",
+      "id": "54068749119767552",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://news.ycombinator.com/",
+      "siteUrl": "https://news.ycombinator.com/news",
       "title": "Hacker News",
       "type": "feed",
-      "url": "rsshub://hackernews/index"
+      "url": "rsshub://hackernews/news"
     }
   ],
   "view": 0

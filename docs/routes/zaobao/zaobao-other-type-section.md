@@ -55,8 +55,8 @@ _None_
   "topFeeds": [
     {
       "description": "新加坡、中国、亚洲和国际的即时、评论、商业、体育、生活、科技与多媒体新闻，尽在联合早报。 - Powered by RSSHub",
-      "errorAt": "2026-08-30T02:54:33.542Z",
-      "errorMessage": "[GET] \"https://www.zaobao.com/special/cnpol\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "149086131447585792",
       "image": "https://www.zaobao.com.sg/favicon.ico",
       "ownerUserId": null,

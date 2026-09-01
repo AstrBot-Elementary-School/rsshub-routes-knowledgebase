@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 818,
+  "heat": 819,
   "location": "news.ts",
   "maintainers": [
     "tssujt"
@@ -64,7 +64,7 @@ _None_
     {
       "description": "小黑盒游戏新闻 - Powered by RSSHub",
       "errorAt": "2026-04-03T12:44:54.464Z",
-      "errorMessage": "502 \nCannot read properties of undefined (reading 'content')\nCannot read properties of undefined (reading 'content')\nCannot read properties of undefined (reading 'content')\nCannot read properties of undefined (reading 'content')\nCannot read properties of undefined (reading 'content')\nCannot read properties of undefined (reading 'content')\n",
+      "errorMessage": "Failed to fetch\nCannot read properties of undefined (reading 'content')\nCannot read properties of undefined (reading 'content')\nCannot read properties of undefined (reading 'content')\nCannot read properties of undefined (reading 'content')\nCannot read properties of undefined (reading 'content')\nCannot read properties of undefined (reading 'content')\n",
       "id": "41374762779449344",
       "image": null,
       "ownerUserId": null,

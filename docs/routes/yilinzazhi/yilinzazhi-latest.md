@@ -40,7 +40,7 @@ _None_
   ],
   "description": "最近一期的文章汇总",
   "example": "/yilinzazhi/latest",
-  "heat": 517,
+  "heat": 518,
   "location": "latest.ts",
   "maintainers": [
     "g0ngjie"

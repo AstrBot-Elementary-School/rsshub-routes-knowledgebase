@@ -76,16 +76,16 @@ _None_
       "url": "rsshub://cara/timeline/alonelee127"
     },
     {
-      "description": "Timeline - NIKA LYNAS - Powered by RSSHub",
-      "errorAt": "2025-11-21T13:47:28.301Z",
-      "errorMessage": "[GET] \"https://cara.app/explore\": 403 Forbidden\n",
-      "id": "127384810660678656",
-      "image": "https://cdn.cara.app/production/profiles/f771718b-26f2-4d08-bda8-ddfbdac6a995/sf.jpg",
+      "description": "Timeline - Victor Sales - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "131925929537537024",
+      "image": "https://cdn.cara.app/production/profiles/c0bf0283-3381-4128-81e1-706b580b8ddf/The_Dhow_Rostos7.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://cara.app/cyberpunkova/all",
-      "title": "Timeline - NIKA LYNAS",
+      "siteUrl": "https://cara.app/vsalesv/all",
+      "title": "Timeline - Victor Sales",
       "type": "feed",
-      "url": "rsshub://cara/timeline/cyberpunkova"
+      "url": "rsshub://cara/timeline/vsalesv"
     }
   ]
 }

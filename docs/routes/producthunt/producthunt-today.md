@@ -74,7 +74,7 @@ _None_
     {
       "description": "Product Hunt Today Popular - Powered by RSSHub",
       "errorAt": "2025-10-28T05:52:00.116Z",
-      "errorMessage": "Authentication failed. Access denied.\n/producthunt/today\nUnexpected non-whitespace character after JSON at position 70040 (line 1 column 70041)\n[GET] \"https://www.producthunt.com/\": 403 Forbidden\nUnexpected non-whitespace character after JSON at position 70040 (line 1 column 70041)\n",
+      "errorMessage": "Authentication failed. Access denied.\n/producthunt/today\nUnexpected non-whitespace character after JSON at position 70040 (line 1 column 70041)\n[GET] \"https://www.producthunt.com/\": 403 Forbidden\nCannot read properties of undefined (reading 'post')\n",
       "id": "41369544201246720",
       "image": null,
       "ownerUserId": null,

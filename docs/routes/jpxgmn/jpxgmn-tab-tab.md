@@ -81,7 +81,7 @@ _None_
     {
       "description": "极品性感美女 - 热门美女 - Powered by RSSHub",
       "errorAt": "2025-10-09T03:44:04.191Z",
-      "errorMessage": "502 \n530 \n[GET] \"http:///hot.html\": <no response> fetch failed\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n[GET] \"http:///hot.html\": <no response> fetch failed (getaddrinfo ENOTFOUND hot.html)\n",
+      "errorMessage": "Failed to fetch\n530 \n[GET] \"http:///hot.html\": <no response> fetch failed\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n[GET] \"http:///hot.html\": <no response> fetch failed (getaddrinfo ENOTFOUND hot.html)\n",
       "id": "57074574176806959",
       "image": null,
       "ownerUserId": null,

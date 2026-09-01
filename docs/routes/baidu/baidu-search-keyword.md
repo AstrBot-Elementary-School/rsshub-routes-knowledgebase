@@ -64,6 +64,18 @@ _None_
   },
   "topFeeds": [
     {
+      "description": "人才引进 - 百度搜索 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "177651896288583684",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%89%8D%E5%BC%95%E8%BF%9B",
+      "title": "人才引进 - 百度搜索",
+      "type": "feed",
+      "url": "rsshub://baidu/search/%E4%BA%BA%E6%89%8D%E5%BC%95%E8%BF%9B"
+    },
+    {
       "description": "广州教师 - 百度搜索 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -74,18 +86,6 @@ _None_
       "title": "广州教师 - 百度搜索",
       "type": "feed",
       "url": "rsshub://baidu/search/%E5%B9%BF%E5%B7%9E%E6%95%99%E5%B8%88"
-    },
-    {
-      "description": "佛山教师 - 百度搜索 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "177651896288583680",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.baidu.com/s?wd=%E4%BD%9B%E5%B1%B1%E6%95%99%E5%B8%88",
-      "title": "佛山教师 - 百度搜索",
-      "type": "feed",
-      "url": "rsshub://baidu/search/%E4%BD%9B%E5%B1%B1%E6%95%99%E5%B8%88"
     }
   ]
 }

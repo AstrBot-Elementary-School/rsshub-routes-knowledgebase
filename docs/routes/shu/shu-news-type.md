@@ -91,16 +91,16 @@
       "url": "rsshub://shu/news"
     },
     {
-      "description": "上海大学 - 通知公告 - Powered by RSSHub",
-      "errorAt": "2026-08-30T04:27:43.267Z",
-      "errorMessage": "[GET] \"https://www.shu.edu.cn/tzgg.htm\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 202.120.114.98:443, 2001:da8:8006:42:1000:0:1:7003:443, timeout: 10000ms))\n",
-      "id": "84809908871103488",
+      "description": "上海大学 - 重要新闻 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "84816968418040832",
       "image": "https://www.shu.edu.cn/__local/0/08/C6/1EABE492B0CF228A5564D6E6ABE_779D1EE3_5BF7.png",
       "ownerUserId": null,
-      "siteUrl": "https://www.shu.edu.cn/tzgg.htm",
-      "title": "上海大学 - 通知公告",
+      "siteUrl": "https://www.shu.edu.cn/zyxw.htm",
+      "title": "上海大学 - 重要新闻",
       "type": "feed",
-      "url": "rsshub://shu/news/tzgg"
+      "url": "rsshub://shu/news/zyxw"
     }
   ],
   "url": "www.shu.edu.cn/"

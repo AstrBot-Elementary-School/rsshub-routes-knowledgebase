@@ -103,28 +103,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Proxy https://api.github.com/repos/Macmod/ldapx/releases - Powered by RSSHub",
+      "description": "Proxy https://api.github.com/repos/chainreactors/malice-network/releases - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "185694935800580096",
+      "id": "185693700405294080",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://api.github.com/repos/Macmod/ldapx/releases",
-      "title": "ldapx releases",
+      "siteUrl": "https://api.github.com/repos/chainreactors/malice-network/releases",
+      "title": "IOM releases",
       "type": "feed",
-      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fapi.github.com%2Frepos%2FMacmod%2Fldapx%2Freleases/title=ldapx%20releases&itemTitle=tag_name&itemLink=html_url&itemDesc=body"
+      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fapi.github.com%2Frepos%2Fchainreactors%2Fmalice-network%2Freleases/title=IOM%20releases&itemTitle=tag_name&itemLink=html_url&itemDesc=body"
     },
     {
-      "description": "Proxy https://api.github.com/repos/zema1/suo5/releases - Powered by RSSHub",
+      "description": "Proxy https://api.github.com/repos/zed-industries/zed/releases - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "185696056303208448",
+      "id": "185694005069753344",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://api.github.com/repos/zema1/suo5/releases",
-      "title": "suo5 releases",
+      "siteUrl": "https://api.github.com/repos/zed-industries/zed/releases",
+      "title": "zed releases",
       "type": "feed",
-      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fapi.github.com%2Frepos%2Fzema1%2Fsuo5%2Freleases/title=suo5%20releases&itemTitle=tag_name&itemLink=html_url&itemDesc=body"
+      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fapi.github.com%2Frepos%2Fzed-industries%2Fzed%2Freleases/title=zed%20releases&itemTitle=tag_name&itemLink=html_url&itemDesc=body"
     }
   ]
 }

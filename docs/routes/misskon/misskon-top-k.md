@@ -70,7 +70,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 379,
+  "heat": 378,
   "location": "top.ts",
   "maintainers": [
     "Urabartin"
@@ -128,8 +128,8 @@ _None_
     },
     {
       "description": "The most viewed photos of the past week. - Powered by RSSHub",
-      "errorAt": "2026-08-27T12:15:55.861Z",
-      "errorMessage": "Failed to fetch\n530 \n[GET] \"https://misskon.com/top7/\": 522 <none>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "75526635626105856",
       "image": null,
       "ownerUserId": null,

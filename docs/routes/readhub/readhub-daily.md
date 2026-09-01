@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4833,
+  "heat": 4831,
   "location": "daily.ts",
   "maintainers": [
     "nczitzk",
@@ -73,7 +73,7 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "1. 长鑫存储起诉美国国防部 2. 苹果新研究：纯中文推理训练，和用英文几乎没有差距 3. OpenAI：因 Cursor 被 SpaceX 收购，将终止与其合作 4. OpenAI 宣布断供 Cursor 后，Anthropic 称将继续增加算力支持 Cursor 5. 长鑫开通微博官方账号 首个关注账号是「小米手机」 6. 智谱宣布 GLM-5.3 模型正式开源 7. 币安赵长鹏喊话孙宇晨：直接打官司也比披露不必要的细节好 8. OpenAI 开发「持久模式」智能体，Codex 将能够主动、长时间干活 9. 华硕成立物理 AI 事业群，人形机器人计划 9 月上路 - Powered by RSSHub",
+      "description": "1. Claude Code 额度「明升实降」：永久涨 25%，周额度却少 17% 2. 苹果首款折叠屏 iPhone Ultra 将至：换内屏费用或超千元美元 3. 追觅起诉小红书名誉权纠纷，9 月 8 日开庭 4. 蜜雪冰城宣布会员总量突破 5 亿：全球门店数达到约 64000 家 5. 索尼、华纳起诉 Anthropic，指控其公然窃取知识产权 6. 硅谷知名风投 a16z 成立 11 亿美元基金 布局芯片、内存与机器人 7. 苹果首款 AI 智能眼镜或 2027 年面世：无镜片显示，主打环境交互与音频体验 8. 库克卸任倒计时，新任 CEO 特努斯签名苹果员工 5 周年纪念牌 9. 巴克莱：AI 模型公司每赚 100 美元 约 35 至 40 美元流向三大云巨头 10. Siri AI 尚未登场，苹果 CarPlay 已抢先引入四款第三方 AI 聊天机器人 11. 谷歌搜索测试新界面：部分查询默认展示长 AI 回答 传统蓝链结果位置下移 12. 古尔曼：苹果 Apple Watch Series 12 / Ultra 4 将支持全天候心率监测 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "52347176714948614",

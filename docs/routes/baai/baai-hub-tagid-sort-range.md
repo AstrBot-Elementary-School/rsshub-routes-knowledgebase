@@ -51,7 +51,7 @@ _None_
   ],
   "description": "排序\n\n| 最新 | 最热    |\n| ---- | ------- |\n| new  | readCnt |\n\n时间跨度\n\n| 3 天 | 本周 | 本月 |\n| ---- | ---- | ---- |\n| 3    | 7    | 30   |",
   "example": "/baai/hub",
-  "heat": 202,
+  "heat": 203,
   "location": "hub.ts",
   "maintainers": [
     "TonyRL"

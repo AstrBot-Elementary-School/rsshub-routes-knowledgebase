@@ -56,7 +56,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2995,
+  "heat": 2991,
   "location": "materials.ts",
   "maintainers": [
     "broven",
@@ -127,7 +127,7 @@
     },
     {
       "description": "有知有行 - 全部 - Powered by RSSHub",
-      "errorAt": "2026-08-30T04:47:10.658Z",
+      "errorAt": "2026-08-28T17:10:38.365Z",
       "errorMessage": "200 ",
       "id": "55311155740901376",
       "image": null,

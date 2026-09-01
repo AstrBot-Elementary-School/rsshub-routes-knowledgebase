@@ -73,8 +73,8 @@ _None_
     },
     {
       "description": "虚词 p-articles - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-30T21:43:05.587Z",
+      "errorMessage": "[GET] \"https://p-articles.com/critics/\": <no response> fetch failed (certificate has expired)\n",
       "id": "98011535417850904",
       "image": null,
       "ownerUserId": null,

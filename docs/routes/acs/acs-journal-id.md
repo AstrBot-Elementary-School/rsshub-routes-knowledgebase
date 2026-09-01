@@ -81,16 +81,16 @@ See [Browse Content](https://pubs.acs.org)
       "url": "rsshub://acs/journal/esthag"
     },
     {
-      "description": null,
-      "errorAt": "2025-09-19T00:56:58.043Z",
-      "errorMessage": "Waiting for selector `.toc` failed: waitForFunction failed: frame got detached.\n",
-      "id": "191666157347082242",
+      "description": "Chemical Reviews - Powered by RSSHub",
+      "errorAt": "2026-07-21T10:08:13.370Z",
+      "errorMessage": "page.waitForSelector: Target page, context or browser has been closed\n",
+      "id": "1164621930578182144",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": null,
-      "title": "Importing",
+      "siteUrl": "https://pubs.acs.org/toc/chreay/0/0",
+      "title": "Chemical Reviews",
       "type": "feed",
-      "url": "rsshub://acs/journal/jacsat"
+      "url": "rsshub://acs/journal/chreay"
     }
   ]
 }

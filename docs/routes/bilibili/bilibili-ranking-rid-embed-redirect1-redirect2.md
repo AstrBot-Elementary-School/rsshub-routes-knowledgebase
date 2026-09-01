@@ -149,7 +149,7 @@ _None_
     {
       "description": "bilibili 排行榜-知识 - Powered by RSSHub",
       "errorAt": "2026-07-15T05:32:42.190Z",
-      "errorMessage": "Failed to fetch\n-352\n-352\n-352\n",
+      "errorMessage": "Failed to fetch\n请求错误\n-352\n请求错误\n",
       "id": "78844164657093632",
       "image": null,
       "ownerUserId": null,

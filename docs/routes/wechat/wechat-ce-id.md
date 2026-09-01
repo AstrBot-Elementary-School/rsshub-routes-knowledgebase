@@ -87,7 +87,7 @@ _None_
     {
       "description": "在这里，读懂真实的市场。 - Powered by RSSHub",
       "errorAt": "2025-08-01T19:11:21.887Z",
-      "errorMessage": "502 \n[GET] \"https://posts.careerengine.us/author/5c68a639279f245e524d860f/rss\": 404 Not Found\n",
+      "errorMessage": "Failed to fetch\n[GET] \"https://posts.careerengine.us/author/5c68a639279f245e524d860f/rss\": 404 Not Found\n",
       "id": "57479832114244608",
       "image": null,
       "ownerUserId": null,

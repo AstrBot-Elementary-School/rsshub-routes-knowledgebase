@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "财新数据通 - 专享资讯 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-31T00:31:21.921Z",
+      "errorMessage": "Failed to fetch\n[GET] \"https://database.caixin.com/news/\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 172.96.121.42:443, timeout: 10000ms))\n",
       "id": "59040048063587328",
       "image": null,
       "ownerUserId": null,

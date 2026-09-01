@@ -70,7 +70,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 910,
+  "heat": 909,
   "location": "index.tsx",
   "maintainers": [
     "yuxinliu-alex",

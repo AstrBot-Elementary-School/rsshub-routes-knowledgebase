@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 918,
+  "heat": 920,
   "location": "full.ts",
   "maintainers": [
     "ImSingee"
@@ -87,7 +87,7 @@ _None_
     {
       "description": "China - Powered by RSSHub",
       "errorAt": "2025-09-05T17:22:28.529Z",
-      "errorMessage": "Failed to fetch\n530 \n[GET] \"https://www.economist.com/china/2026/08/17/a-glum-china-pines-for-the-1990s\": 403 Forbidden\n",
+      "errorMessage": "Failed to fetch\n530 \n[GET] \"https://www.economist.com/china/2026/08/24/chinese-women-are-falling-behind-in-the-office\": 403 Forbidden\n",
       "id": "41461870197170199",
       "image": null,
       "ownerUserId": null,

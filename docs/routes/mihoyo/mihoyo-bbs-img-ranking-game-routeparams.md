@@ -118,7 +118,7 @@
     {
       "description": "米游社-原神-同人榜-插画榜-日榜 - Powered by RSSHub",
       "errorAt": "2025-12-24T13:26:51.180Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n[GET] \"https://bbs-api.miyoushe.com/post/wapi/getImagePostList?gids=2&forum_id=29&cate_id=4&type=1&page_size=20&last_id=\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 45.253.17.20:443, 45.253.17.13:443, 45.253.17.19:443, 45.253.17.16:443, 45.253.17.15:443, 45.253.17.18:443, 45.253.17.14:443, 45.253.17.17:443, timeout: 10000ms))\n",
       "id": "41476070206969862",
       "image": null,
       "ownerUserId": null,
@@ -129,8 +129,8 @@
     },
     {
       "description": "米游社-崩坏：星穹铁道-同人榜-日榜 - Powered by RSSHub",
-      "errorAt": "2026-08-30T01:19:39.984Z",
-      "errorMessage": "[GET] \"https://bbs-api.miyoushe.com/post/wapi/getImagePostList?gids=6&forum_id=56&cate_id=0&type=1&page_size=20&last_id=\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 45.253.17.14:443, 45.253.17.16:443, 45.253.17.13:443, 45.253.17.17:443, 45.253.17.19:443, 45.253.17.18:443, 45.253.17.15:443, 45.253.17.20:443, timeout: 10000ms))\n",
+      "errorAt": "2026-08-25T05:33:38.668Z",
+      "errorMessage": "[GET] \"https://bbs-api.miyoushe.com/post/wapi/getImagePostList?gids=6&forum_id=56&cate_id=0&type=1&page_size=20&last_id=\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 60.200.32.43:443, 60.200.32.47:443, 60.200.32.46:443, 60.200.32.48:443, 60.200.32.45:443, 60.200.32.49:443, 60.200.32.50:443, 60.200.32.44:443, timeout: 10000ms))\n",
       "id": "74617383214838784",
       "image": null,
       "ownerUserId": null,

@@ -118,8 +118,8 @@ _None_
     },
     {
       "description": "「DLsite 成年コミック - R18」はエロマンガ・アダルトマンガのダウンロードショップ。お気に入りの作品をすぐダウンロードできてすぐ楽しめる！毎日更新しているのであなたが探している作品にきっと出会えます。国内最大級の二次元総合ダウンロードショップ「DLsite」！ - 発売カレンダー - Powered by RSSHub",
-      "errorAt": "2026-08-29T14:35:17.619Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "72513516125018112",
       "image": null,
       "ownerUserId": null,

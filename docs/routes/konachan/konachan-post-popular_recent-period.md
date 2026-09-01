@@ -48,7 +48,7 @@
   "features": {
     "nsfw": true
   },
-  "heat": 1177,
+  "heat": 1178,
   "location": "post.ts",
   "maintainers": [
     "magic-akari",

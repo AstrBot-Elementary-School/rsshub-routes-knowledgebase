@@ -78,16 +78,16 @@ _None_
       "url": "rsshub://bilibili/live/search/%E6%BC%AB%E5%B1%95/live_time"
     },
     {
-      "description": "哔哩哔哩直播-lofigirl-人气直播 - Powered by RSSHub",
+      "description": "哔哩哔哩直播-LOL-人气直播 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "250094139664107520",
+      "id": "183143892856039424",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://search.bilibili.com/live?keyword=lofigirl&order=online&coverType=user_cover&page=1&search_type=live",
-      "title": "哔哩哔哩直播-lofigirl-人气直播",
+      "siteUrl": "https://search.bilibili.com/live?keyword=LOL&order=online&coverType=user_cover&page=1&search_type=live",
+      "title": "哔哩哔哩直播-LOL-人气直播",
       "type": "feed",
-      "url": "rsshub://bilibili/live/search/lofigirl/online"
+      "url": "rsshub://bilibili/live/search/LOL/online"
     }
   ]
 }

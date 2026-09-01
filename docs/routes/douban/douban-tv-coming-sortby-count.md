@@ -76,7 +76,7 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "即将播出的剧集，请求参数: count=10, total=294, sortBy=hot, requestCount=10 - Powered by RSSHub",
+      "description": "即将播出的剧集，请求参数: count=10, total=323, sortBy=hot, requestCount=10 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "259521396346720256",
@@ -88,7 +88,7 @@ _None_
       "url": "rsshub://douban/tv/coming/hot/10"
     },
     {
-      "description": "即将播出的剧集，请求参数: count=10, total=294, sortBy=hot, requestCount=10 - Powered by RSSHub",
+      "description": "即将播出的剧集，请求参数: count=10, total=325, sortBy=hot, requestCount=10 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "250034238663194624",

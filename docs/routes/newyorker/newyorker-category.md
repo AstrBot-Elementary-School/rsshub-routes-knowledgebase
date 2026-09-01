@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1644,
+  "heat": 1643,
   "location": "news.ts",
   "maintainers": [
     "IvanWng97",
@@ -88,7 +88,7 @@ _None_
     },
     {
       "description": "Reporting, Profiles, breaking news, cultural coverage, podcasts, videos, and cartoons from The New Yorker. - Powered by RSSHub",
-      "errorAt": "2026-08-25T17:10:39.196Z",
+      "errorAt": "2026-08-24T09:54:27.673Z",
       "errorMessage": "200 ",
       "id": "62040507105143808",
       "image": null,

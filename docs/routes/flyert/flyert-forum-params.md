@@ -79,8 +79,8 @@
   "topFeeds": [
     {
       "description": "交流与境外信用卡,美国信用卡相关的信用卡产品、办卡申请、刷卡消费、额度提升、优惠活动、网上支付、分期付款、积分礼品、银行网银、账单还款等的各类业务。 - Powered by RSSHub",
-      "errorAt": "2026-08-29T09:44:41.659Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://www.flyert.com.cn/forum.php?mod=viewthread&tid=4866848&extra=page%3D1%26subtypeid%3D1222%26orderby%3Ddateline\": 493 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "126631276578882560",
       "image": "https:https://ptfg.flyertrip.com/template/comiis_nby/img/logo.png",
       "ownerUserId": null,

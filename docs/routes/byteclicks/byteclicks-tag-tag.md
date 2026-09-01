@@ -62,8 +62,8 @@ _None_
   "topFeeds": [
     {
       "description": "人工智能 - 字节点击 - Powered by RSSHub",
-      "errorAt": "2026-08-28T00:32:35.908Z",
-      "errorMessage": "a.find is not a function\n[GET] \"https://byteclicks.com/tag/人工智能\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 45.116.154.14:443, 45.116.154.12:443, 45.116.154.16:443, 45.116.154.18:443, 45.116.154.13:443, 45.116.154.11:443, 45.116.154.15:443, 45.116.154.17:443, timeout: 10000ms))\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "63118600077338624",
       "image": "https://byteclicks.com/img/byte01.ico",
       "ownerUserId": null,

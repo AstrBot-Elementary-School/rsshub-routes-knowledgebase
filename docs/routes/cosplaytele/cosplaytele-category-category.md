@@ -90,8 +90,8 @@ _None_
     },
     {
       "description": "CosplayTele - Category: yuuhui - Powered by RSSHub",
-      "errorAt": "2026-08-29T01:24:20.436Z",
-      "errorMessage": "Failed to fetch\n530 \nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "121742107387352065",
       "image": null,
       "ownerUserId": null,

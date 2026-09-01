@@ -88,8 +88,8 @@ _None_
     },
     {
       "description": "全世界都是向 Google 看，向臉書看，沒有人往矽谷的另一邊看。所以我要帶你看矽谷很少有人知道的另一面。矽谷不是你想的那樣。 - Powered by RSSHub",
-      "errorAt": "2026-08-29T09:25:24.666Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "97674302849284096",
       "image": null,
       "ownerUserId": null,

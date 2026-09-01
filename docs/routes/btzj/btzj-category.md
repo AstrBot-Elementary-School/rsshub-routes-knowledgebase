@@ -119,7 +119,7 @@ BT 之家的域名会变更，本路由以 `https://www.btbtt20.com` 为默认�
     {
       "description": null,
       "errorAt": "2025-05-23T18:45:47.942Z",
-      "errorMessage": "502 \n[GET] \"https://www.88btbtt.com\": <no response> fetch failed (certificate has expired)\n",
+      "errorMessage": "Failed to fetch\n[GET] \"https://www.88btbtt.com\": <no response> fetch failed (certificate has expired)\n",
       "id": "148757739569766405",
       "image": null,
       "ownerUserId": null,

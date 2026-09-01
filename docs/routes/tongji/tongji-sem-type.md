@@ -68,8 +68,8 @@ _None_
   "topFeeds": [
     {
       "description": "学术观点 - Powered by RSSHub",
-      "errorAt": "2026-08-22T13:28:26.796Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "79124130475658240",
       "image": "https://upload.wikimedia.org/wikipedia/zh/f/f8/Tongji_University_Emblem.svg",
       "ownerUserId": null,

@@ -58,7 +58,7 @@ To subscribe to [Movie HD 1080p](https://0xxx.ws?category=Movie-HD-1080p), where
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 27,
+  "heat": 26,
   "location": "index.ts",
   "maintainers": [
     "nczitzk"

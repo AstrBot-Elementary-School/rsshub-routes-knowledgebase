@@ -76,7 +76,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 39,
+  "heat": 38,
   "location": "yjxx.ts",
   "maintainers": [
     "muzea",
