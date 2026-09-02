@@ -43,7 +43,7 @@ _None_
   "features": {
     "nsfw": true
   },
-  "heat": 503,
+  "heat": 502,
   "location": "channel.ts",
   "maintainers": [
     "huanfe1"

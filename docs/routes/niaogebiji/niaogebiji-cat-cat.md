@@ -87,8 +87,8 @@ _None_
     },
     {
       "description": "内容运营聚合内容运营知识、内容运营能力、内容运营主要工作等干货知识，一站式解决内容运营管理、内容运营主要工作问题。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-01T08:38:25.683Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "71110389108097024",
       "image": null,
       "ownerUserId": null,

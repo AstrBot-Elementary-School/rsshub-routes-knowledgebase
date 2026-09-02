@@ -65,8 +65,8 @@ _None_
   "topFeeds": [
     {
       "description": "iDaily · 每日环球视野 | Your Global Point of View - Powered by RSSHub",
-      "errorAt": "2026-08-26T02:30:05.444Z",
-      "errorMessage": "200 ",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "53257967622553618",
       "image": "https://idai.ly/img/idaily/logo_2x.png",
       "ownerUserId": null,
@@ -77,8 +77,8 @@ _None_
     },
     {
       "description": "iDaily · 每日环球视野 | Your Global Point of View - Powered by RSSHub",
-      "errorAt": "2026-08-27T08:58:29.002Z",
-      "errorMessage": "200 ",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "56593152747053056",
       "image": "https://idai.ly/img/idaily/logo_2x.png",
       "ownerUserId": null,

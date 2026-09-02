@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 66,
+  "heat": 67,
   "location": "disclosure.ts",
   "maintainers": [
     "harveyqiu"
@@ -64,14 +64,14 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "上海证券交易所 - 上市公司信息 - 中国国贸最新公告 - Powered by RSSHub",
+      "description": "上海证券交易所 - 上市公司信息 - 宝钢股份最新公告 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "115958109880213504",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.sse.com.cn/assortment/stock/list/info/announcement/index.shtml?productId=undefined",
-      "title": "上海证券交易所 - 上市公司信息 - 中国国贸最新公告",
+      "title": "上海证券交易所 - 上市公司信息 - 宝钢股份最新公告",
       "type": "feed",
       "url": "rsshub://sse/disclosure"
     },

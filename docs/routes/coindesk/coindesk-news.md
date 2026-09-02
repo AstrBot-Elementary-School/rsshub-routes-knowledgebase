@@ -76,7 +76,7 @@ _None_
     {
       "description": "Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates. - Powered by RSSHub",
       "errorAt": "2026-08-18T05:49:53.058Z",
-      "errorMessage": "[GET] \"https://www.coindesk.com/business/2026/08/29/swift-s-usd1-5-quadrillion-network-faces-a-blockchain-test\": 429 Too Many Requests\n[GET] \"https://www.coindesk.com/web3/2026/08/29/a-usd1-1-million-crypto-card-hack-crashed-a-neobank-s-token-49\": 429 Too Many Requests\n",
+      "errorMessage": "[GET] \"https://www.coindesk.com/business/2026/08/31/bitmine-makes-largest-ether-purchase-since-june-as-tom-lee-points-to-crypto-s-strong-q3\": 429 Too Many Requests\n[GET] \"https://www.coindesk.com/business/2026/08/31/bitmine-makes-largest-ether-purchase-since-june-as-tom-lee-points-to-crypto-s-strong-q3\": 429 Too Many Requests\n",
       "id": "126922928969806848",
       "image": null,
       "ownerUserId": null,

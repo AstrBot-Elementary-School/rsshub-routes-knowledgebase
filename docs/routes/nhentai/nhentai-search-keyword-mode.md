@@ -49,7 +49,7 @@ _None_
     "requirePuppeteer": false,
     "supportBT": true
   },
-  "heat": 182,
+  "heat": 181,
   "location": "search.ts",
   "maintainers": [
     "MegrezZhu",
@@ -77,7 +77,7 @@ _None_
     {
       "description": "nhentai - search - chinese - Powered by RSSHub",
       "errorAt": "2026-08-23T16:39:35.207Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://nhentai.net/search/?q=chinese\": 451 Unavailable For Legal Reasons\n",
+      "errorMessage": "Failed to fetch\nFailed to fetch\n",
       "id": "65322834478863360",
       "image": null,
       "ownerUserId": null,

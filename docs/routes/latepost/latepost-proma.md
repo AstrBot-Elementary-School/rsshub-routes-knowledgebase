@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 7077,
+  "heat": 7071,
   "location": "index.ts",
   "maintainers": [
     "nczitzk"
@@ -71,7 +71,7 @@ _None_
     {
       "description": "晚一点，好一点 Later better - Powered by RSSHub",
       "errorAt": "2026-07-27T07:36:53.749Z",
-      "errorMessage": "200 ",
+      "errorMessage": "Failed to fetch\n[GET] \"https://www.latepost.com/site/get-column\": <no response> fetch failed\nInvalid RSSHub JSON Feed from 98292582055262208\n[GET] \"https://www.latepost.com/site/get-column\": <no response> fetch failed (unable to get local issuer certificate)\n[GET] \"https://www.latepost.com/site/get-column\": <no response> fetch failed (unable to get local issuer certificate)\n[GET] \"https://www.latepost.com/site/get-column\": <no response> fetch failed (unable to get local issuer certificate)\n530 \n[GET] \"https://www.latepost.com/site/get-column\": <no response> fetch failed\n[GET] \"https://www.latepost.com/site/get-column\": <no response> fetch failed (Connect Timeout Error (attempted address: www.latepost.com:443, timeout: 10000ms))\n[GET] \"https://www.latepost.com/site/get-column\": <no response> fetch failed (unable to get local issuer certificate)\n[GET] \"https://www.latepost.com/site/get-column\": <no response> fetch failed\n[GET] \"https://www.latepost.com/site/get-column\": <no response> fetch failed (unable to get local issuer certificate)\n[GET] \"https://www.latepost.com/site/get-column\": <no response> fetch failed\n530 \n[GET] \"https://www.latepost.com/site/get-column\": <no response> unable to get local issuer certificate\nFailed to fetch\n[GET] \"https://www.latepost.com/site/get-column\": <no response> fetch failed (unable to get local issuer certificate)\n",
       "id": "57976037240744981",
       "image": "https://www.latepost.com/images/logo_txt_header.png",
       "ownerUserId": null,
@@ -83,7 +83,7 @@ _None_
     {
       "description": "晚一点，好一点 Later better - Powered by RSSHub",
       "errorAt": "2026-07-26T02:41:16.648Z",
-      "errorMessage": "200 ",
+      "errorMessage": "Failed to fetch\nInvalid RSSHub JSON Feed from 98292582055262208\n530 \n[GET] \"https://www.latepost.com/site/get-column\": <no response> fetch failed (unable to get local issuer certificate)\n[GET] \"https://www.latepost.com/site/get-column\": <no response> fetch failed (unable to get local issuer certificate)\n[GET] \"https://www.latepost.com/site/get-column\": <no response> fetch failed\n[GET] \"https://www.latepost.com/site/get-column\": <no response> fetch failed\n[GET] \"https://www.latepost.com/site/get-column\": <no response> fetch failed (unable to get local issuer certificate)\n[GET] \"https://www.latepost.com/site/get-column\": <no response> fetch failed\n[GET] \"https://www.latepost.com/site/get-column\": <no response> fetch failed\n[GET] \"https://www.latepost.com/site/get-column\": <no response> fetch failed (unable to get local issuer certificate)\n[GET] \"https://www.latepost.com/site/get-column\": <no response> fetch failed (unable to get local issuer certificate)\n",
       "id": "42176727619514397",
       "image": "https://www.latepost.com/images/logo_txt_header.png",
       "ownerUserId": null,

@@ -73,8 +73,8 @@ _None_
   "topFeeds": [
     {
       "description": "AInvest - Latest News - Powered by RSSHub",
-      "errorAt": "2026-08-31T05:43:39.658Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://news.ainvest.com/content-page/v1/page/lloyds-engineering-works-143-growth-2-800-cr-order-book-factor-stack-watch-chase-2608\": 404 \n[GET] \"https://news.ainvest.com/content-page/v1/page/lloyds-engineering-works-143-growth-2-800-cr-order-book-factor-stack-watch-chase-2608\": 404 \n[GET] \"https://news.ainvest.com/content-page/v1/page/lloyds-engineering-works-143-growth-2-800-cr-order-book-factor-stack-watch-chase-2608\": 404 \n530 \n[GET] \"https://news.ainvest.com/content-page/v1/page/lloyds-engineering-works-143-growth-2-800-cr-order-book-factor-stack-watch-chase-2608\": 404 \n",
+      "errorAt": "2026-09-01T09:42:30.098Z",
+      "errorMessage": "Failed to fetch\n[GET] \"https://news.ainvest.com/content-page/v1/page/sparinvest-boring-prospectus-updates-green-labels-2609\": 404 \n[GET] \"https://news.ainvest.com/content-page/v1/page/sparinvest-boring-prospectus-updates-green-labels-2609\": 404 \n[GET] \"https://news.ainvest.com/content-page/v1/page/sparinvest-boring-prospectus-updates-green-labels-2609\": 404 \n530 \n[GET] \"https://news.ainvest.com/content-page/v1/page/sparinvest-boring-prospectus-updates-green-labels-2609\": 404 \n",
       "id": "63585517712903168",
       "image": null,
       "ownerUserId": null,

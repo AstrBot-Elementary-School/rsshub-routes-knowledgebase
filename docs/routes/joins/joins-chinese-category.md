@@ -252,8 +252,8 @@
   "topFeeds": [
     {
       "description": "인터넷 신문 - Powered by RSSHub",
-      "errorAt": "2026-08-15T21:36:24.538Z",
-      "errorMessage": "200 ",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "67015768687931392",
       "image": "https://chinese.joins.com/image/logo/toplogo_20200319051833.png",
       "ownerUserId": null,
@@ -264,8 +264,8 @@
     },
     {
       "description": "인터넷 신문 - Powered by RSSHub",
-      "errorAt": "2026-08-15T03:08:12.515Z",
-      "errorMessage": "200 ",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "65469694593591296",
       "image": "https://chinese.joins.com/image/logo/toplogo_20200319051833.png",
       "ownerUserId": null,

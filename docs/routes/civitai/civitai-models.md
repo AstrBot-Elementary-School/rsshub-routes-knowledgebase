@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "Civitai latest models - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-01T06:52:50.571Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 57092092744427520",
       "id": "57092092744427520",
       "image": null,
       "ownerUserId": null,

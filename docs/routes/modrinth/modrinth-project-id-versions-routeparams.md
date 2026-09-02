@@ -116,16 +116,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "Transforming the visuals of Minecraft with exceptional quality, detail, and performance. - Powered by RSSHub",
+      "description": "Fabric API implemented on top of NeoForge - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "120303120316993536",
+      "id": "120750574474919936",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/complementary-unbound",
-      "title": "Complementary Shaders - Unbound Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/forgified-fabric-api",
+      "title": "Forgified Fabric API Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/complementary-unbound/versions"
+      "url": "rsshub://modrinth/project/forgified-fabric-api/versions"
     }
   ]
 }

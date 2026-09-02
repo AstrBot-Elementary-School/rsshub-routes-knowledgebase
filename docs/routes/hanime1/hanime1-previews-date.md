@@ -84,7 +84,7 @@ _None_
     {
       "description": "Hanime1 202602 新番 - Powered by RSSHub",
       "errorAt": "2026-02-18T16:19:29.168Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://hanime1.me/previews/202608\": 403 \n[GET] \"https://hanime1.me/previews/202608\": 403 Forbidden\n",
+      "errorMessage": "Failed to fetch\n[GET] \"https://hanime1.me/previews/202608\": 403 \n[GET] \"https://hanime1.me/previews/202609\": 403 Forbidden\n",
       "id": "141164425462660096",
       "image": null,
       "ownerUserId": null,

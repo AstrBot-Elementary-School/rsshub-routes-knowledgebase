@@ -72,8 +72,8 @@ _None_
   "topFeeds": [
     {
       "description": "language:chinese - E-Hentai Tag - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-31T19:20:44.661Z",
+      "errorMessage": "Failed to fetch\nn.enclosure_url.replace is not a function\n",
       "id": "120679993479343104",
       "image": null,
       "ownerUserId": null,

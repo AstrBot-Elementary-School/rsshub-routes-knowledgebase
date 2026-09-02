@@ -79,8 +79,8 @@ _None_
   "topFeeds": [
     {
       "description": "Apple - Apple 服务计划 - Powered by RSSHub",
-      "errorAt": "2026-08-15T03:20:11.021Z",
-      "errorMessage": "200 ",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "55178476300040232",
       "image": null,
       "ownerUserId": null,

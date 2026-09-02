@@ -85,8 +85,8 @@ _None_
   "topFeeds": [
     {
       "description": "jump 发现游戏 - Powered by RSSHub",
-      "errorAt": "2026-08-31T03:41:10.266Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "66698425520730122",
       "image": null,
       "ownerUserId": null,

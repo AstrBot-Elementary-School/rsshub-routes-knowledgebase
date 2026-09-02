@@ -57,7 +57,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 18564,
+  "heat": 18573,
   "location": "hot-list.ts",
   "maintainers": [
     "nczitzk"
@@ -82,8 +82,8 @@
   "topFeeds": [
     {
       "description": "36氪 - 24小时热榜 - Powered by RSSHub",
-      "errorAt": "2026-08-24T01:58:48.508Z",
-      "errorMessage": "200 ",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41489882518602759",
       "image": null,
       "ownerUserId": null,

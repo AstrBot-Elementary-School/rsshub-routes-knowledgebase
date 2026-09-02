@@ -72,8 +72,8 @@ _None_
   "topFeeds": [
     {
       "description": "北京大学中国政治学研究中心，北大中国政治学研究中心，北大政治学研究中心，中国政治学研究中心，政治学研究中心，政治学，北大政治学，北京大学，俞可平 北京大学中国政治学研究中心官方网站：www.rccp.pku.edu.cn 。 北京大学中国政治学研究中心微信公众平台：“北大政治学”（微信号：PKURCCP） - Powered by RSSHub",
-      "errorAt": "2026-08-15T22:21:40.476Z",
-      "errorMessage": "200 ",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "71481064975599616",
       "image": null,
       "ownerUserId": null,

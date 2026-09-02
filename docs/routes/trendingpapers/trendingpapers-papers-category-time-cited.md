@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 127,
+  "heat": 128,
   "location": "papers.ts",
   "maintainers": [
     "CookiePieWw"
@@ -83,7 +83,7 @@ _None_
     {
       "description": "Trending Papers on arXiv.org | Computer Science - Computer Vision and Pattern Recognition | 7 days | Only cited papers | - Powered by RSSHub",
       "errorAt": "2025-07-03T16:14:02.595Z",
-      "errorMessage": "200 ",
+      "errorMessage": "Invalid RSSHub JSON Feed from 98292582055262208\n[GET] \"https://trendingpapers.com/api/papers?p=1&o=pagerank_growth&pd=7 days&cc=Only cited papers&c=Computer Science - Computer Vision and Pattern Recognition\": <no response> fetch failed\n[GET] \"https://trendingpapers.com/api/papers?p=1&o=pagerank_growth&pd=7 days&cc=Only cited papers&c=Computer Science - Computer Vision and Pattern Recognition\": <no response> fetch failed (Connect Timeout Error (attempted address: trendingpapers.com:443, timeout: 10000ms))\n",
       "id": "98721121066834944",
       "image": null,
       "ownerUserId": null,

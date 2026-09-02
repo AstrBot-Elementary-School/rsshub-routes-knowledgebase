@@ -72,16 +72,16 @@ _None_
       "url": "rsshub://fanqienovel/page/7251428606465805347"
     },
     {
-      "description": "【争霸+种田+大唐30k+群像】 原名《爱你老妈，玄武门见》 李唯穿越到了女频世界的大唐，成了李世民嫡孙，却被女帝送去草原做和亲驸马。 武氏将军卖国求荣，朝中栋梁与门阀世家蒙蔽在女频天道的厌胜之术中乐不思蜀。 他们高呼‘是武周终结了贞观乱世，是女帝拯救了天下苍生’！ 穆穆大唐，邦之神器，岂容女频天道如此亵渎？ 我从未想过要同室操戈， 太宗皇帝曾驱逐蒙昧的混乱时代， 带领我们走向了贞观盛世。 但你，武曌，你背叛了李唐皇室，背叛了我们所有人。 你窃取了皇帝的龙椅，对你的臣子们撒了谎。 大唐只有一次复兴的机会， 如果你没有能力抓住它，那就让我来完成。 ——让战争开启吧 从草原的边际，到中原的腹地。 让黄河燃烧！ 让长安陨落！ 如果我不能从你的失败中拯救它，那就让中原燃烧吧。 女频？武周？女帝？ 厌胜？伪周？妖妇？ 我将率领三军，兵临城下，玄武门见，妖妇别跑。 - Powered by RSSHub",
+      "description": "24年番茄年度巅峰榜TOP1 | 2024 年度“中国网络文学影响力榜” | 2024 年度“中国好小说”奖 | 出版销售量超200万册 （不后宫，不套路，不无敌，不系统，不无脑，不爽文，介意者慎入。） 当我以为这只是寻常的一天时，却发现自己被捉到了终焉之地。 当我以为只需要不断的参加死亡游戏就可以逃脱时，却发现众人开始觉醒超自然之力。 当我以为这里是「造神之地」时，一切却又奔着湮灭走去。 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "132362353112244224",
-      "image": "https://p3-novel-sign.byteimg.com/novel-pic/p2o35efb89f35a48a0878f40016dd90c4cb~tplv-resize:225:300.image?lk3s=191c1ecc&x-expires=1777853504&x-signature=1QhJ27sg%2B%2BAHw4hz67r7Vu%2B8kDs%3D",
+      "id": "83343016202188800",
+      "image": "https://p9-novel-sign.byteimg.com/novel-pic/4900f950c7af7f82fdc14cf528e0e288~tplv-resize:225:300.image?lk3s=191c1ecc&x-expires=1788313842&x-signature=xMC7CLlos2%2B93G09%2B8SDmr0%2FW%2BI%3D",
       "ownerUserId": null,
-      "siteUrl": "https://fanqienovel.com/page/7471572297443200025",
-      "title": "爱你老妈，玄武门见 - 墨色染秋",
+      "siteUrl": "https://fanqienovel.com/page/7143038691944959011",
+      "title": "十日终焉 - 杀虫队队员",
       "type": "feed",
-      "url": "rsshub://fanqienovel/page/7471572297443200025"
+      "url": "rsshub://fanqienovel/page/7143038691944959011"
     }
   ]
 }

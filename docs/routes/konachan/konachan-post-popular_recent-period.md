@@ -48,7 +48,7 @@
   "features": {
     "nsfw": true
   },
-  "heat": 1178,
+  "heat": 1177,
   "location": "post.ts",
   "maintainers": [
     "magic-akari",
@@ -107,8 +107,8 @@
   "topFeeds": [
     {
       "description": "Last 24 hours - konachan.com - Powered by RSSHub",
-      "errorAt": "2026-08-24T17:27:52.879Z",
-      "errorMessage": "200 ",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "62201931989535744",
       "image": null,
       "ownerUserId": null,
@@ -119,8 +119,8 @@
     },
     {
       "description": "Last week - konachan.com - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-01T09:39:54.808Z",
+      "errorMessage": "Failed to fetch\n[GET] \"https://konachan.com/post/popular_recent.json?period=1w\": 403 Forbidden\n[GET] \"https://konachan.com/post/popular_recent.json?period=1w\": 403 Forbidden\n",
       "id": "62202498728230912",
       "image": null,
       "ownerUserId": null,

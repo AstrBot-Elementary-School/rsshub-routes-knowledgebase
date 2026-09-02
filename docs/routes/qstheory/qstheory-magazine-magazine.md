@@ -38,7 +38,7 @@ _None_
     "traditional-media"
   ],
   "example": "/qstheory/magazine/qs",
-  "heat": 501,
+  "heat": 500,
   "location": "magazine.ts",
   "maintainers": [
     "TonyRL",
@@ -65,7 +65,7 @@ _None_
       "errorAt": null,
       "errorMessage": null,
       "id": "80433099883252736",
-      "image": "http://www.qstheory.cn/20260816/4a960b2326984d1aa3be3f960334823d/999e1333b1d64c96a1339745e85cdf35.jpg",
+      "image": "http://www.qstheory.cn/20260901/23ed419f971b42aa9d40ceeb8eb605a8/af9a70743f3b45faba9b0c1aca2c2170.jpg",
       "ownerUserId": null,
       "siteUrl": "http://www.qstheory.cn/qs/mulu.htm",
       "title": "《求是》 - 求是网",

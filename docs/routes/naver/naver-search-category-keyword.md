@@ -103,16 +103,16 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "송소희의 네이버 카페 검색 결과입니다. - Powered by RSSHub",
+      "description": "송소희의 네이버 뉴스 검색 결과입니다. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1147952292419207168",
+      "id": "1147950696889188352",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://m.search.naver.com/search.naver?ssc=tab.m_cafe.all&sm=mtb_jum&query=%EC%86%A1%EC%86%8C%ED%9D%AC&nso=so%3Add",
-      "title": "송소희 - 네이버 카페",
+      "siteUrl": "https://m.search.naver.com/search.naver?ssc=tab.m_news.all&where=m_news&sm=mtb_jum&query=%EC%86%A1%EC%86%8C%ED%9D%AC&nso=so%3Add",
+      "title": "송소희 - 네이버 뉴스",
       "type": "feed",
-      "url": "rsshub://naver/search/cafe/%EC%86%A1%EC%86%8C%ED%9D%AC"
+      "url": "rsshub://naver/search/news/%EC%86%A1%EC%86%8C%ED%9D%AC"
     },
     {
       "description": "송소희의 네이버 동영상 검색 결과입니다. - Powered by RSSHub",

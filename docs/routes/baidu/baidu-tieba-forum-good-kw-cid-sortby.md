@@ -13,7 +13,7 @@
 - Language: `_None_`
 - Categories: `bbs`
 - Maintainers: `u3u, FlanChanXwO`
-- Source Location: `tieba/forum.tsx`
+- Source Location: `tieba/forum-good.ts`
 - Source Module: `_None_`
 
 ## Description
@@ -26,12 +26,8 @@ _None_
 
 
 ## Features
-- `requireConfig`: [{"description": "百度 cookie 值，用于需要登录的贴吧页面", "name": "BAIDU_COOKIE", "optional": false}]
-- `requirePuppeteer`: false
+- `requireConfig`: [{"description": "百度 cookie 值，用于需要登录的贴吧页面", "name": "BAIDU_COOKIE", "optional": true}]
 - `antiCrawler`: true
-- `supportBT`: false
-- `supportPodcast`: false
-- `supportScihub`: false
 
 ## Radar
 _None_
@@ -49,16 +45,12 @@ _None_
       {
         "description": "百度 cookie 值，用于需要登录的贴吧页面",
         "name": "BAIDU_COOKIE",
-        "optional": false
+        "optional": true
       }
-    ],
-    "requirePuppeteer": false,
-    "supportBT": false,
-    "supportPodcast": false,
-    "supportScihub": false
+    ]
   },
   "heat": 83,
-  "location": "tieba/forum.tsx",
+  "location": "tieba/forum-good.ts",
   "maintainers": [
     "u3u",
     "FlanChanXwO"
@@ -69,10 +61,7 @@ _None_
     "kw": "吧名",
     "sortBy": "排序方式：`created`, `replied`。默认为 `created`"
   },
-  "path": [
-    "/tieba/forum/good/:kw/:cid?/:sortBy?",
-    "/tieba/forum/:kw/:sortBy?"
-  ],
+  "path": "/tieba/forum/good/:kw/:cid?/:sortBy?",
   "topFeeds": [
     {
       "description": "本吧热帖: 1-最忧郁的入 2-今天心情不好想胡说八道 3-好久没联系的高中同桌突然联系我了 4-有没有聊聊天的 直接一点的那种 5-关于我开小号装纯情女高骗班上的??压抑?男这件事 6-《百度贴吧关于整治不良网络生态的公告》 7-鼠鼠我啊终于找到自己的大姐姐了? 8-江西彩礼局 9-我是老资历，按照俺们山东习俗，过年了小资历得给我磕头！ 10-为什么互助板块没有了 11-晚辈对我动手动脚怎么办 - Powered by RSSHub",

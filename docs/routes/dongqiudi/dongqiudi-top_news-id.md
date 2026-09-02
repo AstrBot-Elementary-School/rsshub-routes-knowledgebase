@@ -55,7 +55,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 375,
+  "heat": 376,
   "location": "top-news.ts",
   "maintainers": [
     "HendricksZheng"

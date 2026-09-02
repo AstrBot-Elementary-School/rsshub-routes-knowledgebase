@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 209,
+  "heat": 208,
   "location": "update.ts",
   "maintainers": [
     "nczitzk"
@@ -76,7 +76,7 @@ _None_
     {
       "description": "一周更新 - AGE动漫 - Powered by RSSHub",
       "errorAt": "2025-10-17T11:01:59.581Z",
-      "errorMessage": "200 ",
+      "errorMessage": "[GET] \"https://www.agemys.org/update\": <no response> fetch failed (certificate has expired)\nInvalid RSSHub JSON Feed from 98292582055262208\n[GET] \"https://www.agemys.org/update\": <no response> fetch failed\n[GET] \"https://www.agemys.org/update\": <no response> fetch failed (certificate has expired)\n",
       "id": "59083231915003932",
       "image": null,
       "ownerUserId": null,

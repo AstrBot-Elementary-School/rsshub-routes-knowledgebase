@@ -80,7 +80,7 @@
     {
       "description": "德阳人事考试网 考试新闻发布 (新闻中心) - Powered by RSSHub",
       "errorAt": "2026-08-21T06:24:22.329Z",
-      "errorMessage": "[GET] \"https://www.dykszx.cn\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 222.213.85.69:443, 240e:699:1c01:712:5298:3ab3:6d3:1b5b:443, timeout: 10000ms))\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "61102289930311680",
       "image": null,
       "ownerUserId": null,

@@ -78,8 +78,8 @@ _None_
   "topFeeds": [
     {
       "description": "Nat Geo Photo of the Day - Powered by RSSHub",
-      "errorAt": "2026-08-25T21:26:35.663Z",
-      "errorMessage": "200 ",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41699925856588800",
       "image": null,
       "ownerUserId": null,

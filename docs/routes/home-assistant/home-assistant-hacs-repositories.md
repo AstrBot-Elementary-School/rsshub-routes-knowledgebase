@@ -36,7 +36,7 @@ _None_
     "program-update"
   ],
   "example": "/home-assistant/hacs/repositories",
-  "heat": 31,
+  "heat": 30,
   "location": "hacs.ts",
   "maintainers": [
     "DIYgod"
@@ -50,8 +50,8 @@ _None_
   "topFeeds": [
     {
       "description": "HACS Repositories - Powered by RSSHub",
-      "errorAt": "2026-08-15T07:16:25.684Z",
-      "errorMessage": "200 ",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "93963481590744064",
       "image": null,
       "ownerUserId": null,

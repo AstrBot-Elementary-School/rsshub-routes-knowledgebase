@@ -77,8 +77,8 @@ _None_
   "topFeeds": [
     {
       "description": "Stay up to date with the latest updates and improvements to Kiro. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-01T06:12:03.034Z",
+      "errorMessage": "[GET] \"https://kiro.dev/changelog/\": 403 Forbidden\n",
       "id": "177627797902005248",
       "image": "https://kiro.dev/images/opengraph/changelog.png",
       "ownerUserId": null,

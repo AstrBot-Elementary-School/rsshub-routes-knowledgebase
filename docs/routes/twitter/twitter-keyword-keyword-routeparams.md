@@ -140,8 +140,8 @@ Currently supported authentication methods:
     },
     {
       "description": "Twitter Keyword - RSSHub - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-01T09:02:12.847Z",
+      "errorMessage": "[GET] \"https://rsshub-api.twitterdata.com/i/api/graphql/hyPfJYJ_XAtDYoslQc-Rgg/SearchTimeline?variables=%7B%22rawQuery%22:%22RSSHub%22,%22count%22:20,%22querySource%22:%22typed_query%22,%22product%22:%22Latest%22%7D&features=%7B%22rweb_tipjar_consumption_enabled%22:true,%22responsive_web_graphql_exclude_directive_enabled%22:true,%22verified_phone_label_enabled%22:false,%22creator_subscriptions_tweet_preview_api_enabled%22:true,%22responsive_web_graphql_timeline_navigation_enabled%22:true,%22responsive_web_graphql_skip_user_profile_image_extensions_enabled%22:false,%22communities_web_enable_tweet_community_results_fetch%22:true,%22c9s_tweet_anatomy_moderator_badge_enabled%22:true,%22articles_preview_enabled%22:true,%22responsive_web_edit_tweet_api_enabled%22:true,%22graphql_is_translatable_rweb_tweet_is_translatable_enabled%22:true,%22view_counts_everywhere_api_enabled%22:true,%22longform_notetweets_consumption_enabled%22:true,%22responsive_web_twitter_article_tweet_consumption_enabled%22:true,%22tweet_awards_web_tipping_enabled%22:false,%22creator_subscriptions_quote_tweet_preview_enabled%22:false,%22freedom_of_speech_not_reach_fetch_enabled%22:true,%22standardized_nudges_misinfo%22:true,%22tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled%22:true,%22rweb_video_timestamps_enabled%22:true,%22longform_notetweets_rich_text_read_enabled%22:true,%22longform_notetweets_inline_media_enabled%22:true,%22responsive_web_enhance_cards_enabled%22:false%7D\": 429 Too Many Requests\nFailed to fetch\nInvalid RSSHub JSON Feed from 98292582055262208\nTwitter API is not configured\n",
       "id": "41150240545595393",
       "image": null,
       "ownerUserId": null,

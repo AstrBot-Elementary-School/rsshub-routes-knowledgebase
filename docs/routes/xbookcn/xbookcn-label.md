@@ -81,7 +81,7 @@ _None_
     {
       "description": "xbookcn - Powered by RSSHub",
       "errorAt": "2026-08-24T15:22:05.245Z",
-      "errorMessage": "200 ",
+      "errorMessage": "Failed to fetch\nInvalid RSSHub JSON Feed from 98292582055262208\n530 \nAuthentication failed. Access denied.\n/xbookcn/%E7%B2%BE%E9%80%89%E4%BD%9C%E5%93%81\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "65082601526572032",
       "image": null,
       "ownerUserId": null,

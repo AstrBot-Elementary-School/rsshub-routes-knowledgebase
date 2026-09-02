@@ -129,8 +129,8 @@ _None_
     },
     {
       "description": "ELDENRING 的 pixiv 热门内容 - Powered by RSSHub",
-      "errorAt": "2026-08-30T16:50:25.520Z",
-      "errorMessage": "Failed to fetch\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41147805276726316",
       "image": null,
       "ownerUserId": null,

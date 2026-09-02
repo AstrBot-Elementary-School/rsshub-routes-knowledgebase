@@ -73,8 +73,8 @@ _None_
   "topFeeds": [
     {
       "description": "7x24小时快讯 - Powered by RSSHub",
-      "errorAt": "2026-08-24T01:57:21.713Z",
-      "errorMessage": "200 ",
+      "errorAt": "2026-09-01T07:27:37.359Z",
+      "errorMessage": "Failed to fetch\nInvalid RSSHub JSON Feed from 98292582055262208\n530 \nCannot read properties of null (reading 'trim')\n",
       "id": "57678974871415816",
       "image": null,
       "ownerUserId": null,

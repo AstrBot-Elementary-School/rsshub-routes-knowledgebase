@@ -180,7 +180,7 @@ If you subscribe to [Data Points](https://www.deeplearning.ai/the-batch/tag/data
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 244,
+  "heat": 245,
   "location": "the-batch.ts",
   "maintainers": [
     "nczitzk",
@@ -339,13 +339,13 @@ If you subscribe to [Data Points](https://www.deeplearning.ai/the-batch/tag/data
   },
   "topFeeds": [
     {
-      "description": "Weekly AI news for engineers, executives, and enthusiasts. - Powered by RSSHub",
-      "errorAt": "2026-08-01T02:44:00.419Z",
-      "errorMessage": "Unexpected end of JSON input\nUnexpected end of JSON input\n",
+      "description": "Learn AI with DeepLearning.AI - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "78440096914505728",
-      "image": "https://www.deeplearning.ai/site-meta.png",
+      "image": "https://www.deeplearning.ai/favicon.ico",
       "ownerUserId": null,
-      "siteUrl": "https://www.deeplearning.ai/the-batch/",
+      "siteUrl": "https://www.deeplearning.ai/the-batch",
       "title": "The Batch | DeepLearning.AI | AI News & Insights",
       "type": "feed",
       "url": "rsshub://deeplearning/the-batch"

@@ -36,7 +36,7 @@ _None_
     "programming"
   ],
   "example": "/chromium/project-zero-issues",
-  "heat": 0,
+  "heat": 1,
   "location": "project-zero-issues.ts",
   "maintainers": [
     "hellodword"

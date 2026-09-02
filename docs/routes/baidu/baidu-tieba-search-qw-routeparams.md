@@ -13,7 +13,7 @@
 - Language: `_None_`
 - Categories: `bbs`
 - Maintainers: `JimenezLi, FlanChanXwO`
-- Source Location: `tieba/search.tsx`
+- Source Location: `tieba/search.ts`
 - Source Module: `_None_`
 
 ## Description
@@ -32,12 +32,8 @@
 
 
 ## Features
-- `requireConfig`: [{"description": "百度 cookie 值，用于需要登录的贴吧页面", "name": "BAIDU_COOKIE", "optional": false}]
-- `requirePuppeteer`: true
+- `requireConfig`: [{"description": "百度 cookie 值，用于需要登录的贴吧页面", "name": "BAIDU_COOKIE", "optional": true}]
 - `antiCrawler`: true
-- `supportBT`: false
-- `supportPodcast`: false
-- `supportScihub`: false
 
 ## Radar
 _None_
@@ -56,16 +52,12 @@ _None_
       {
         "description": "百度 cookie 值，用于需要登录的贴吧页面",
         "name": "BAIDU_COOKIE",
-        "optional": false
+        "optional": true
       }
-    ],
-    "requirePuppeteer": true,
-    "supportBT": false,
-    "supportPodcast": false,
-    "supportScihub": false
+    ]
   },
   "heat": 37,
-  "location": "tieba/search.tsx",
+  "location": "tieba/search.ts",
   "maintainers": [
     "JimenezLi",
     "FlanChanXwO"

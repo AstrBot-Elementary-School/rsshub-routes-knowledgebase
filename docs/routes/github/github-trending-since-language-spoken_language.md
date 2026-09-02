@@ -60,7 +60,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 57111,
+  "heat": 57097,
   "location": "trending.tsx",
   "maintainers": [
     "DIYgod",
@@ -105,8 +105,8 @@ _None_
   "topFeeds": [
     {
       "description": "Trending repositories on GitHub today · GitHub - Powered by RSSHub",
-      "errorAt": "2026-08-15T03:21:13.845Z",
-      "errorMessage": "200 ",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41461870197170196",
       "image": null,
       "ownerUserId": null,
@@ -117,8 +117,8 @@ _None_
     },
     {
       "description": "Trending repositories on GitHub this week · GitHub - Powered by RSSHub",
-      "errorAt": "2026-08-15T11:19:47.392Z",
-      "errorMessage": "200 ",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41368476124603392",
       "image": null,
       "ownerUserId": null,

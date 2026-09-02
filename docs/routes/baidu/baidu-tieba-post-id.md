@@ -13,7 +13,7 @@
 - Language: `_None_`
 - Categories: `bbs`
 - Maintainers: `u3u, FlanChanXwO`
-- Source Location: `tieba/post.tsx`
+- Source Location: `tieba/post.ts`
 - Source Module: `_None_`
 
 ## Description
@@ -24,12 +24,8 @@ _None_
 
 
 ## Features
-- `requireConfig`: [{"description": "百度 cookie 值，用于需要登录的贴吧页面", "name": "BAIDU_COOKIE", "optional": false}]
-- `requirePuppeteer`: true
+- `requireConfig`: [{"description": "百度 cookie 值，用于需要登录的贴吧页面", "name": "BAIDU_COOKIE", "optional": true}]
 - `antiCrawler`: true
-- `supportBT`: false
-- `supportPodcast`: false
-- `supportScihub`: false
 
 ## Radar
 ### Rule 1
@@ -49,16 +45,12 @@ _None_
       {
         "description": "百度 cookie 值，用于需要登录的贴吧页面",
         "name": "BAIDU_COOKIE",
-        "optional": false
+        "optional": true
       }
-    ],
-    "requirePuppeteer": true,
-    "supportBT": false,
-    "supportPodcast": false,
-    "supportScihub": false
+    ]
   },
   "heat": 6,
-  "location": "tieba/post.tsx",
+  "location": "tieba/post.ts",
   "maintainers": [
     "u3u",
     "FlanChanXwO"
@@ -67,10 +59,7 @@ _None_
   "parameters": {
     "id": "帖子 ID"
   },
-  "path": [
-    "/tieba/post/:id",
-    "/tieba/post/lz/:id"
-  ],
+  "path": "/tieba/post/:id",
   "radar": [
     {
       "source": [
@@ -79,6 +68,18 @@ _None_
     }
   ],
   "topFeeds": [
+    {
+      "description": "回复：注册求踢帖的最新回复 - Powered by RSSHub",
+      "errorAt": "2026-06-08T16:51:35.220Z",
+      "errorMessage": "[GET] \"https://tieba.baidu.com/p/9270867907?see_lz=0&pn=7000000&ajax=1\": 403 Forbidden\n",
+      "id": "115346513587038208",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://tieba.baidu.com/p/9270867907?see_lz=0",
+      "title": "回复：注册求踢帖",
+      "type": "feed",
+      "url": "rsshub://baidu/tieba/post/9270867907"
+    },
     {
       "description": "回复：记录&讨论贴 和艾米的日常的最新回复 - Powered by RSSHub",
       "errorAt": "2026-01-28T05:24:41.240Z",
@@ -90,18 +91,6 @@ _None_
       "title": "回复：记录&讨论贴 和艾米的日常",
       "type": "feed",
       "url": "rsshub://baidu/tieba/post/9180129054"
-    },
-    {
-      "description": "回复：【模组汉化发布】重铸整合发布的最新回复 - Powered by RSSHub",
-      "errorAt": "2026-05-30T00:41:37.252Z",
-      "errorMessage": "Baidu Tieba RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#baidu\">BAIDU_COOKIE</a>\n",
-      "id": "105885254821548032",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://tieba.baidu.com/p/9208385243?see_lz=0",
-      "title": "回复：【模组汉化发布】重铸整合发布",
-      "type": "feed",
-      "url": "rsshub://baidu/tieba/post/9208385243"
     }
   ]
 }

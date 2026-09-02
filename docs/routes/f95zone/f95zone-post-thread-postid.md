@@ -82,28 +82,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "[F95zone] Collection Video Bamh3D Collection [2026-07-05] [Bamhor] - Powered by RSSHub",
+      "description": "[F95zone] Collection Video RadRoachHD Collection [2026-05-13] [RadRoachHD] - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "243703331756301312",
+      "id": "250524222304441344",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://f95zone.to/threads/bamh3d-collection-2026-01-04-bamhor.181609/#post-12203185",
-      "title": "[F95zone] Collection Video Bamh3D Collection [2026-07-05] [Bamhor]",
+      "siteUrl": "https://f95zone.to/threads/radroachhd-collection-2025-08-08-radroachhd.140965/#post-9617214",
+      "title": "[F95zone] Collection Video RadRoachHD Collection [2026-05-13] [RadRoachHD]",
       "type": "feed",
-      "url": "rsshub://f95zone/post/bamh3d-collection-2026-01-04-bamhor.181609/post-12203185"
+      "url": "rsshub://f95zone/post/radroachhd-collection-2025-08-08-radroachhd.140965/post-9617214"
     },
     {
-      "description": "[F95zone] Collection Pinup Ecksoh Collection [2026-05-02] [xoxo] - Powered by RSSHub",
+      "description": "[F95zone] Collection GIF Video theobrobine Collection [2026-06-24] [THEOBROBINE/theobrobine/ておぶろびん] - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "243703193927277568",
+      "id": "250523835077907456",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://f95zone.to/threads/ecksoh-collection-2026-01-01-xoxo.136515/#post-9343108",
-      "title": "[F95zone] Collection Pinup Ecksoh Collection [2026-05-02] [xoxo]",
+      "siteUrl": "https://f95zone.to/threads/theobrobine-collection-2025-12-28-theobrobine-theobrobine-teoburobin.93491/#post-6520658",
+      "title": "[F95zone] Collection GIF Video theobrobine Collection [2026-06-24] [THEOBROBINE/theobrobine/ておぶろびん]",
       "type": "feed",
-      "url": "rsshub://f95zone/post/ecksoh-collection-2026-01-01-xoxo.136515/post-9343108"
+      "url": "rsshub://f95zone/post/theobrobine-collection-2025-12-28-theobrobine-theobrobine-teoburobin.93491/post-6520658"
     }
   ]
 }

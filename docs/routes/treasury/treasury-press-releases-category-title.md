@@ -42,7 +42,7 @@ _None_
   ],
   "description": "Category\n\n| Press Releases | Statements & Remarks | Readouts | Testimonies |\n| -------------- | -------------------- | -------- | ----------- |\n| all            | statements-remarks   | readouts | testimonies |",
   "example": "/treasury/press-releases",
-  "heat": 0,
+  "heat": 1,
   "location": "press-releases.ts",
   "maintainers": [
     "nczitzk"

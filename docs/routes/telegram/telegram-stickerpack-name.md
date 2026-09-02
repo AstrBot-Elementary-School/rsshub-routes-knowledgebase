@@ -66,8 +66,8 @@ _None_
   "topFeeds": [
     {
       "description": "哥哥奖励自己一下 @DoO_o - Telegram Sticker Pack - Powered by RSSHub",
-      "errorAt": "2026-08-31T08:29:32.469Z",
-      "errorMessage": "Failed to fetch\nTelegram Sticker Pack RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\n[GET] \"https://api.telegram.org/bot605239096:AAHbx4Sx135n4Ysz9WRPPqrJpp5mG2_X0a8/getStickerSet?name=DoO_o\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 149.154.166.110:443, 2001:67c:4e8:f004::9:443, timeout: 10000ms))\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "62283323384780800",
       "image": null,
       "ownerUserId": null,

@@ -99,18 +99,6 @@
   },
   "topFeeds": [
     {
-      "description": "苏州市政府 - 政务公告 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "73328043907264512",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.suzhou.gov.cn/szsrmzf/zwgg/nav_list.shtml",
-      "title": "苏州市政府 - 政务公告",
-      "type": "feed",
-      "url": "rsshub://gov/suzhou/news/zwgg"
-    },
-    {
       "description": "苏州市政府 - 苏州要闻 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -121,6 +109,18 @@
       "title": "苏州市政府 - 苏州要闻",
       "type": "feed",
       "url": "rsshub://gov/suzhou/news/news"
+    },
+    {
+      "description": "苏州市政府 - 政务公告 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "73328043907264512",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.suzhou.gov.cn/szsrmzf/zwgg/nav_list.shtml",
+      "title": "苏州市政府 - 政务公告",
+      "type": "feed",
+      "url": "rsshub://gov/suzhou/news/zwgg"
     }
   ]
 }

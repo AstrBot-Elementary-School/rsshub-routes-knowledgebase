@@ -84,8 +84,8 @@ _None_
   "topFeeds": [
     {
       "description": "实时热点，每分钟更新一次 - Powered by RSSHub",
-      "errorAt": "2026-08-15T12:16:09.955Z",
-      "errorMessage": "200 ",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41358830592746496",
       "image": null,
       "ownerUserId": null,
@@ -96,8 +96,8 @@ _None_
     },
     {
       "description": "实时热点，每分钟更新一次 - Powered by RSSHub",
-      "errorAt": "2026-08-15T14:04:46.833Z",
-      "errorMessage": "200 ",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "57266422630121472",
       "image": null,
       "ownerUserId": null,

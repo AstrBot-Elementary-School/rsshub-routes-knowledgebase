@@ -90,21 +90,9 @@
   },
   "topFeeds": [
     {
-      "description": "manga - E-Hentai Galleries - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "106841285260128256",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://e-hentai.org/manga",
-      "title": "manga - E-Hentai Galleries",
-      "type": "feed",
-      "url": "rsshub://e-hentai/category/manga"
-    },
-    {
       "description": "cosplay - E-Hentai Galleries - Powered by RSSHub",
       "errorAt": "2026-08-26T18:09:12.010Z",
-      "errorMessage": "n.map is not a function\n",
+      "errorMessage": "[GET] \"https://e-hentai.org/cosplay\": 451 Unavailable For Legal Reasons\n",
       "id": "106841534145317888",
       "image": null,
       "ownerUserId": null,
@@ -112,6 +100,18 @@
       "title": "cosplay - E-Hentai Galleries",
       "type": "feed",
       "url": "rsshub://e-hentai/category/cosplay"
+    },
+    {
+      "description": "manga - E-Hentai Galleries - Powered by RSSHub",
+      "errorAt": "2026-09-01T00:56:58.501Z",
+      "errorMessage": "n.map is not a function\n",
+      "id": "106841285260128256",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://e-hentai.org/manga",
+      "title": "manga - E-Hentai Galleries",
+      "type": "feed",
+      "url": "rsshub://e-hentai/category/manga"
     }
   ]
 }

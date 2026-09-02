@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 539,
+  "heat": 540,
   "location": "index.ts",
   "maintainers": [
     "WhiteWorld",
@@ -70,8 +70,8 @@ _None_
   "topFeeds": [
     {
       "description": "每天三分钟的科技资讯聚合阅读 - Powered by RSSHub",
-      "errorAt": "2026-08-22T17:57:29.930Z",
-      "errorMessage": "200 ",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "55939235463397379",
       "image": null,
       "ownerUserId": null,

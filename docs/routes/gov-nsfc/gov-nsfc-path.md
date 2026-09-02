@@ -89,7 +89,7 @@ _None_
     {
       "description": "科普快讯 - Powered by RSSHub",
       "errorAt": "2025-09-04T11:29:39.007Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://www.nsfc.gov.cn/publish/portal0/tab446/\": 404 Not Found\n",
+      "errorMessage": "Failed to fetch\n[GET] \"https://www.nsfc.gov.cn/publish/portal0/tab446/\": <no response> fetch failed (unable to verify the first certificate; if the root CA is installed locally, try running Node.js with --use-system-ca)\n",
       "id": "65380269087729741",
       "image": null,
       "ownerUserId": null,
@@ -101,7 +101,7 @@ _None_
     {
       "description": "指南通告 - Powered by RSSHub",
       "errorAt": "2025-09-04T11:28:28.610Z",
-      "errorMessage": "[GET] \"https://www.nsfc.gov.cn/publish/portal0/tab442/\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://www.nsfc.gov.cn/publish/portal0/tab442/\": <no response> fetch failed (unable to verify the first certificate; if the root CA is installed locally, try running Node.js with --use-system-ca)\n",
       "id": "63261228706922499",
       "image": null,
       "ownerUserId": null,

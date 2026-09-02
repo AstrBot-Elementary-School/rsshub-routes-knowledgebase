@@ -39,7 +39,7 @@ _None_
     "multimedia"
   ],
   "example": "/xyzrank/hot-podcasts",
-  "heat": 0,
+  "heat": 9,
   "location": "hot-podcasts.ts",
   "maintainers": [
     "nczitzk"
@@ -57,7 +57,20 @@ _None_
   "test": {
     "code": 1
   },
-  "topFeeds": [],
+  "topFeeds": [
+    {
+      "description": "榜单只是一种维度，愿你找到喜欢的节目 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "68855551484634229",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://xyzrank.com/#/hot-podcasts",
+      "title": "中文播客榜 - 热门播客",
+      "type": "feed",
+      "url": "rsshub://xyzrank/hot-podcasts"
+    }
+  ],
   "url": "xyzrank.com/"
 }
 ```

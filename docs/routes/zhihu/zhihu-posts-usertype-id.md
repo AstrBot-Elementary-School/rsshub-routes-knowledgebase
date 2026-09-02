@@ -102,7 +102,7 @@
     {
       "description": "公众号：大猿搬砖简记 - Powered by RSSHub",
       "errorAt": "2025-04-22T11:33:42.477Z",
-      "errorMessage": "200 ",
+      "errorMessage": "Invalid RSSHub JSON Feed from 98292582055262208\n[GET] \"https://www.zhihu.com/api/v4/members/lemonround\": 403 Forbidden\n",
       "id": "66390660650222592",
       "image": "https://pic1.zhimg.com/v2-6304b8f8dd717ed99eeddd211d5714d1_l.jpg",
       "ownerUserId": null,

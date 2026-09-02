@@ -40,7 +40,7 @@ _None_
     "journal"
   ],
   "example": "/elsevier/signal-processing/192",
-  "heat": 1,
+  "heat": 0,
   "location": "issue.ts",
   "maintainers": [
     "Derekmini",

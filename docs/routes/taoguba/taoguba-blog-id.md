@@ -90,7 +90,7 @@ _None_
     {
       "description": "淘股吧湖南人的博客,湖南人为所有投资者提供股票、证券、金融、港股、行情、基金、实盘、期货等极具价值的实用参考信息。欢迎访问湖南人淘股吧博客! - Powered by RSSHub",
       "errorAt": "2026-06-24T19:17:56.818Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://www.tgb.cn//a/2uD6GIwPL0s\": 404 Not Found\n",
+      "errorMessage": "Failed to fetch\n[GET] \"https://www.tgb.cn//a/2uI68eHSbbC\": 404 Not Found\n",
       "id": "69384991748864006",
       "image": "https://image.tgb.cn/img/2016/02/02/bfi12304d7t6.jpg_80wh.png",
       "ownerUserId": null,

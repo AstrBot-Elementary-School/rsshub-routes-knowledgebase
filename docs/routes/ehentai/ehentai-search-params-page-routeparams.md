@@ -72,8 +72,8 @@ _None_
   "topFeeds": [
     {
       "description": "ごさいじ+language:\"chinese\" - E-Hentai Search - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-01T07:47:10.981Z",
+      "errorMessage": "Failed to fetch\n530 \n[GET] \"https://e-hentai.org/?f_search=ごさいじ+language:\\\"chinese\\\"\": 451 Unavailable For Legal Reasons\n",
       "id": "132859028606370816",
       "image": null,
       "ownerUserId": null,

@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1715,
+  "heat": 1714,
   "location": "index.tsx",
   "maintainers": [
     "EsuRt",
@@ -70,8 +70,8 @@ _None_
   "topFeeds": [
     {
       "description": "MIT 科技评论 - 首页资讯 - Powered by RSSHub",
-      "errorAt": "2026-08-26T18:50:12.126Z",
-      "errorMessage": "200 ",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "71796886442021888",
       "image": null,
       "ownerUserId": null,

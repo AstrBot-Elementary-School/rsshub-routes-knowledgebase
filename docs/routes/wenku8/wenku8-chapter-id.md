@@ -65,8 +65,8 @@ _None_
   "topFeeds": [
     {
       "description": "轻小说文库 声音x魔法 - Powered by RSSHub",
-      "errorAt": "2026-06-19T09:24:57.304Z",
-      "errorMessage": "[GET] \"https://www.wenku8.net/novel/0/74/index.htm\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "76251619421446144",
       "image": null,
       "ownerUserId": null,

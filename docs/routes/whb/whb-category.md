@@ -36,7 +36,7 @@ _None_
     "traditional-media"
   ],
   "example": "/whb/bihui",
-  "heat": 0,
+  "heat": 1,
   "location": "zhuzhan.ts",
   "maintainers": [
     "hoilc"
@@ -49,6 +49,19 @@ _None_
   "test": {
     "code": 1
   },
-  "topFeeds": []
+  "topFeeds": [
+    {
+      "description": "文汇报 - 笔会 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "164021701195543600",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.whb.cn/zhuzhan/bihui/index.html",
+      "title": "文汇报 - 笔会",
+      "type": "feed",
+      "url": "rsshub://whb/bihui"
+    }
+  ]
 }
 ```

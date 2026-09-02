@@ -126,8 +126,8 @@ Game Jam
     },
     {
       "description": "itch一周游戏汇 | indienova 独立游戏 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-01T08:42:12.275Z",
+      "errorMessage": "[GET] \"https://indienova.com/column/52\": <no response> fetch failed (Connect Timeout Error (attempted address: indienova.com:443, timeout: 10000ms))\n",
       "id": "77267282533962752",
       "image": null,
       "ownerUserId": null,

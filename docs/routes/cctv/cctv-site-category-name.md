@@ -56,7 +56,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4533,
+  "heat": 4534,
   "location": "xwlb.ts",
   "maintainers": [
     "zengxs"
@@ -102,8 +102,8 @@
     },
     {
       "description": "undefined - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-08-31T13:51:53.781Z",
+      "errorMessage": "Invalid RSSHub JSON Feed from default\n",
       "id": "152525246751160320",
       "image": null,
       "ownerUserId": null,

@@ -80,7 +80,7 @@
     {
       "description": "中英双语美文欣赏，感受聆听文学之美，享受学习语言之乐。 - Powered by RSSHub",
       "errorAt": "2026-03-08T16:29:16.624Z",
-      "errorMessage": "200 ",
+      "errorMessage": "Invalid RSSHub JSON Feed from 98292582055262208\nCannot read properties of undefined (reading 'content')\n",
       "id": "86255766295882752",
       "image": null,
       "ownerUserId": null,

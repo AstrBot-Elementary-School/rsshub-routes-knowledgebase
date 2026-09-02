@@ -103,8 +103,8 @@ _None_
     },
     {
       "description": "Geekhyt/weekly Issues - Powered by RSSHub",
-      "errorAt": "2026-08-16T04:32:21.863Z",
-      "errorMessage": "200 ",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "53505290474416128",
       "image": null,
       "ownerUserId": null,

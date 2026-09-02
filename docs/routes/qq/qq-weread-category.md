@@ -81,7 +81,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 600,
+  "heat": 594,
   "location": "weread/category.ts",
   "maintainers": [
     "gogo-100"
@@ -97,8 +97,8 @@ _None_
   "topFeeds": [
     {
       "description": "微信读书 - Top50新书榜 - Powered by RSSHub",
-      "errorAt": "2026-08-24T23:41:11.972Z",
-      "errorMessage": "200 ",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "74890213823929344",
       "image": null,
       "ownerUserId": null,

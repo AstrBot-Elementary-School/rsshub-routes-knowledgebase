@@ -81,7 +81,7 @@ _None_
     {
       "description": "FTChinese RSS - All Feed - Powered by RSSHub",
       "errorAt": "2026-07-09T06:29:25.553Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://www.ftchinese.com/story/001110756?full=y&archive\": 429 Too Many Requests\n[GET] \"https://www.ftchinese.com/story/001110755?full=y&archive\": 429 Too Many Requests\n530 \n[GET] \"https://www.ftchinese.com/story/001110744?full=y&archive\": 429 \n[GET] \"https://www.ftchinese.com/story/001110756?full=y&archive\": 429 Too Many Requests\n",
+      "errorMessage": "Failed to fetch\n[GET] \"https://www.ftchinese.com/story/001110761?full=y&archive\": 429 Too Many Requests\n[GET] \"https://www.ftchinese.com/story/001110761?full=y&archive\": 429 Too Many Requests\n530 \n[GET] \"https://www.ftchinese.com/story/001110744?full=y&archive\": 429 \n[GET] \"https://www.ftchinese.com/story/001110761?full=y&archive\": 429 Too Many Requests\n",
       "id": "61693185811247104",
       "image": null,
       "ownerUserId": null,

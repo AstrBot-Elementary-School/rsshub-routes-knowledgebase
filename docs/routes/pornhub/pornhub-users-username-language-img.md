@@ -230,7 +230,7 @@ _None_
     {
       "description": " - Powered by RSSHub",
       "errorAt": "2026-08-24T08:57:53.911Z",
-      "errorMessage": "[GET] \"https://www.pornhub.com/users/mrbunny4sex/videos\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://www.pornhub.com/users/mrbunny4sex/videos\": <no response> fetch failed (Client network socket disconnected before secure TLS connection was established)\n",
       "id": "150930652077867008",
       "image": "https://ei.phncdn.com/(m=bLWsSeKlbyaT)(mh=YAcOug2B1YyD62qr)a08347a3-287c-4b15-8058-b28116aca02c.jpg",
       "ownerUserId": null,

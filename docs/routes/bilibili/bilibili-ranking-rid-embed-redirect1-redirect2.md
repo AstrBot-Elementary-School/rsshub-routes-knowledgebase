@@ -43,7 +43,7 @@ _None_
     "popular"
   ],
   "example": "/bilibili/ranking/all",
-  "heat": 9270,
+  "heat": 9271,
   "location": "ranking.ts",
   "maintainers": [
     "DIYgod",
@@ -136,8 +136,8 @@ _None_
   "topFeeds": [
     {
       "description": "bilibili 排行榜-全站 - Powered by RSSHub",
-      "errorAt": "2026-08-16T21:36:06.345Z",
-      "errorMessage": "200 ",
+      "errorAt": "2026-09-01T04:37:23.624Z",
+      "errorMessage": "Failed to fetch\n530 \nInvalid RSSHub JSON Feed from 98292582055262208\n[GET] \"https://api.bilibili.com/x/web-interface/view?bvid=BV16g4y6tEzY\": 412 Precondition Failed\n-352\n-352\n-352\n[GET] \"https://api.bilibili.com/x/web-interface/view?bvid=BV1Jrtc6GEVU\": 412 Precondition Failed\nAuthentication failed. Access denied.\n/bilibili/ranking/0\nReached the max retries per request limit (which is 20). Refer to \"maxRetriesPerRequest\" option for details.\n404 \n[GET] \"https://api.bilibili.com/x/web-interface/view?bvid=BV1Jrtc6GEVU\": 412 \n-352\nbrowserType.connect: WebSocket error: ws://browserless:3000/ 429 Too Many Requests\n\r\nToo Many Requests\nCall log:\n  - <ws connecting> ws://browserless:3000/\n  - <ws unexpected response> ws://browserless:3000/ 429 Too Many Requests\n\r\nToo Many Requests\n  - <ws error> ws://browserless:3000/ error WebSocket was closed before the connection was established\n  - <ws connect error> ws://browserless:3000/ WebSocket was closed before the connection was established\n  - <ws disconnected> ws://browserless:3000/ code=1006 reason=\n\n-352\n-352\n-352\n",
       "id": "78806242632741888",
       "image": null,
       "ownerUserId": null,

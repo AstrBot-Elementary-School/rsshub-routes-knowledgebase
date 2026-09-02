@@ -39,7 +39,7 @@ _None_
     "travel"
   ],
   "example": "/dpm/exhibitions/temporary_exhibitions",
-  "heat": 0,
+  "heat": 1,
   "location": "exhibitions.tsx",
   "maintainers": [
     "magazian"

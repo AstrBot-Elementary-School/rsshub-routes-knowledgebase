@@ -78,12 +78,12 @@
   "topFeeds": [
     {
       "description": "国防科技大学研究生院 - 通知公告 - Powered by RSSHub",
-      "errorAt": "2026-08-15T12:14:08.904Z",
-      "errorMessage": "200 ",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "72564096646971392",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "http://yjszs.nudt.edu.cn/pubweb/homePageList/searchContent.view",
+      "siteUrl": "https://yjszs.nudt.edu.cn/pubweb/homePageList/searchContent.view",
       "title": "国防科技大学研究生院 - 通知公告",
       "type": "feed",
       "url": "rsshub://nudt/yjszs/2"

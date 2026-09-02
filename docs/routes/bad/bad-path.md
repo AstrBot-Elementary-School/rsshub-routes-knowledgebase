@@ -56,7 +56,7 @@ _None_
   "topFeeds": [
     {
       "description": "Bad.news - 热门 - Powered by RSSHub",
-      "errorAt": "2026-08-31T04:34:55.578Z",
+      "errorAt": "2026-09-01T04:32:01.337Z",
       "errorMessage": "[GET] \"https://bad.news\": 451 Unavailable For Legal Reasons\n",
       "id": "66153135747790848",
       "image": null,
@@ -68,8 +68,8 @@ _None_
     },
     {
       "description": "Bad.news - 短视频 热门 - Powered by RSSHub",
-      "errorAt": "2026-08-31T09:40:11.641Z",
-      "errorMessage": "[GET] \"https://bad.news/tag/porn\": 451 Unavailable For Legal Reasons\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "76857388995210240",
       "image": null,
       "ownerUserId": null,

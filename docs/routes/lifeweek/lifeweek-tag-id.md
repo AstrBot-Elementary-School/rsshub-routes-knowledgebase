@@ -44,7 +44,7 @@ _None_
   ],
   "description": "提取文章全文，获得更好的阅读体验。支持所有标签，标签名称见 [全部标签](https://www.lifeweek.com.cn/classify?type=1)。例如 [社会调查标签](https://www.lifeweek.com.cn/articleList/122) URL 最后的数字为标签 ID\n\n| 社会调查 | 社会 | 经济 | 理财 | 热点 |\n| -------- | ---- | ---- | ---- | ---- |\n| 122      | 21   | 73   | 74   | 123  |",
   "example": "/lifeweek/tag/122",
-  "heat": 12,
+  "heat": 13,
   "location": "tag.ts",
   "maintainers": [
     "changren-wcr"
@@ -68,8 +68,8 @@ _None_
   "topFeeds": [
     {
       "description": "人物 - Powered by RSSHub",
-      "errorAt": "2026-08-31T09:18:31.996Z",
-      "errorMessage": "[GET] \"https://www.lifeweek.com.cn/api/userWebFollow/getFollowTagContentList?type=4&sort=2&tagId=6\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 211.162.170.18:443, 211.162.170.14:443, 211.162.170.15:443, 211.162.170.11:443, 211.162.170.13:443, 211.162.170.12:443, 211.162.170.16:443, 211.162.170.17:443, timeout: 10000ms))\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "104794039452750848",
       "image": null,
       "ownerUserId": null,

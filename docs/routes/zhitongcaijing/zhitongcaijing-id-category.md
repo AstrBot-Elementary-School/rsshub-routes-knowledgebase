@@ -84,7 +84,7 @@ _None_
     {
       "description": "智通财经 - 推荐 - Powered by RSSHub",
       "errorAt": "2026-06-28T03:42:52.637Z",
-      "errorMessage": "200 ",
+      "errorMessage": "Cannot read properties of undefined (reading 'slice')\nInvalid RSSHub JSON Feed from 98292582055262208\nCannot read properties of undefined (reading 'slice')\n",
       "id": "63376992073142278",
       "image": null,
       "ownerUserId": null,

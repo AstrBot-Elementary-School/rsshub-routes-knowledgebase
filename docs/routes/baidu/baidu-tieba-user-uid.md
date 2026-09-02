@@ -13,7 +13,7 @@
 - Language: `_None_`
 - Categories: `bbs`
 - Maintainers: `igxlin, nczitzk, FlanChanXwO`
-- Source Location: `tieba/user.tsx`
+- Source Location: `tieba/user.ts`
 - Source Module: `_None_`
 
 ## Description
@@ -24,12 +24,8 @@
 
 
 ## Features
-- `requireConfig`: [{"description": "百度 cookie 值，用于需要登录的贴吧页面", "name": "BAIDU_COOKIE", "optional": false}]
-- `requirePuppeteer`: true
+- `requireConfig`: [{"description": "百度 cookie 值，用于需要登录的贴吧页面", "name": "BAIDU_COOKIE", "optional": true}]
 - `antiCrawler`: true
-- `supportBT`: false
-- `supportPodcast`: false
-- `supportScihub`: false
 
 ## Radar
 _None_
@@ -48,16 +44,12 @@ _None_
       {
         "description": "百度 cookie 值，用于需要登录的贴吧页面",
         "name": "BAIDU_COOKIE",
-        "optional": false
+        "optional": true
       }
-    ],
-    "requirePuppeteer": true,
-    "supportBT": false,
-    "supportPodcast": false,
-    "supportScihub": false
+    ]
   },
   "heat": 12,
-  "location": "tieba/user.tsx",
+  "location": "tieba/user.ts",
   "maintainers": [
     "igxlin",
     "nczitzk",
@@ -82,16 +74,16 @@ _None_
       "url": "rsshub://baidu/tieba/user/dengchunlai"
     },
     {
-      "description": "天马失望 的贴吧 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "200148619577121792",
+      "description": "米利阿鲁德 的贴吧 - Powered by RSSHub",
+      "errorAt": "2026-05-26T01:17:33.906Z",
+      "errorMessage": "Invalid RSSHub JSON Feed from 98292582055262208\nBaidu Tieba RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#baidu\">BAIDU_COOKIE</a>\n",
+      "id": "86266828598569984",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://tieba.baidu.com/home/main?un=%E5%A4%A9%E9%A9%AC%E5%A4%B1%E6%9C%9B",
-      "title": "天马失望 的贴吧",
+      "siteUrl": "https://tieba.baidu.com/home/main?un=%E7%B1%B3%E5%88%A9%E9%98%BF%E9%B2%81%E5%BE%B7",
+      "title": "米利阿鲁德 的贴吧",
       "type": "feed",
-      "url": "rsshub://baidu/tieba/user/%E5%A4%A9%E9%A9%AC%E5%A4%B1%E6%9C%9B"
+      "url": "rsshub://baidu/tieba/user/%E7%B1%B3%E5%88%A9%E9%98%BF%E9%B2%81%E5%BE%B7"
     }
   ]
 }

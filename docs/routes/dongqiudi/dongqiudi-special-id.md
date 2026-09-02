@@ -64,8 +64,8 @@ _None_
   "topFeeds": [
     {
       "description": "足坛今天都发生了哪些事？ - Powered by RSSHub",
-      "errorAt": "2026-08-27T11:18:04.285Z",
-      "errorMessage": "200 ",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "61424740780593152",
       "image": null,
       "ownerUserId": null,

@@ -68,18 +68,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "天津大学智能与计算学部 - 学部新闻 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "65092029340802048",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "http://cic.tju.edu.cn/xwzx/xyxw.htm",
-      "title": "天津大学智能与计算学部 - 学部新闻",
-      "type": "feed",
-      "url": "rsshub://tju/cic/news"
-    },
-    {
       "description": "天津大学智能与计算学部 - 通知公告 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -90,6 +78,18 @@ _None_
       "title": "天津大学智能与计算学部 - 通知公告",
       "type": "feed",
       "url": "rsshub://tju/cic/notification"
+    },
+    {
+      "description": "天津大学智能与计算学部 - 学部新闻 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "65092029340802048",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "http://cic.tju.edu.cn/xwzx/xyxw.htm",
+      "title": "天津大学智能与计算学部 - 学部新闻",
+      "type": "feed",
+      "url": "rsshub://tju/cic/news"
     }
   ]
 }

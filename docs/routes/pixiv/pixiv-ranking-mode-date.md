@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 7709,
+  "heat": 7707,
   "location": "ranking.ts",
   "maintainers": [
     "EYHN"
@@ -130,9 +130,9 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "2026年8月14日 pixiv 日排行 - Powered by RSSHub",
-      "errorAt": "2026-08-15T10:07:41.216Z",
-      "errorMessage": "200 ",
+      "description": "2026年9月1日 pixiv 日排行 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41427688948323328",
       "image": null,
       "ownerUserId": null,
@@ -142,9 +142,9 @@ _None_
       "url": "rsshub://pixiv/ranking/day"
     },
     {
-      "description": "2026年8月15日 pixiv 周排行 - Powered by RSSHub",
-      "errorAt": "2026-08-15T13:00:15.372Z",
-      "errorMessage": "200 ",
+      "description": "2026年9月1日 pixiv 周排行 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41147805276726317",
       "image": null,
       "ownerUserId": null,

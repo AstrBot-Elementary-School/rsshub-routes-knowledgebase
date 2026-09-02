@@ -86,8 +86,8 @@ _None_
     },
     {
       "description": "本周看什么 更新推送 - Powered by RSSHub",
-      "errorAt": "2026-08-22T14:10:31.671Z",
-      "errorMessage": "200 ",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "56232529208193024",
       "image": null,
       "ownerUserId": null,

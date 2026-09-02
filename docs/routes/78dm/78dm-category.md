@@ -714,7 +714,7 @@
     {
       "description": "变形金刚玩具,高达模型,PG,MG,HGUC,SD,高达模型制作,模玩论坛,动漫周边,玩具店,海贼王周边,圣衣神话 - Powered by RSSHub",
       "errorAt": "2026-01-20T09:36:26.980Z",
-      "errorMessage": "[GET] \"https://bbs.78dm.net/forum/post/1917451.html\": 404 Not Found\n[GET] \"https://bbs.78dm.net/forum/post/1917454.html\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://bbs.78dm.net/forum/post/1917489.html\": 404 Not Found\n[GET] \"https://bbs.78dm.net/forum/post/1917483.html\": 404 Not Found\n",
       "id": "61450581766908928",
       "image": "https://www.78dm.net/assets/e40a0f68/images/logo.png",
       "ownerUserId": null,

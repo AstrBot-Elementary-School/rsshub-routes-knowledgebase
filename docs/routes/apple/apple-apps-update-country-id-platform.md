@@ -59,7 +59,7 @@ For example, the URL of [GarageBand](https://apps.apple.com/us/app/garageband/id
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1555,
+  "heat": 1554,
   "location": "apps.ts",
   "maintainers": [
     "EkkoG",

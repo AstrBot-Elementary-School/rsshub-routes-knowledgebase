@@ -40,7 +40,7 @@ _None_
     "travel"
   ],
   "example": "/chnmuseum/zl/lszl/zdzt",
-  "heat": 0,
+  "heat": 1,
   "location": "zl.tsx",
   "maintainers": [
     "magazian"

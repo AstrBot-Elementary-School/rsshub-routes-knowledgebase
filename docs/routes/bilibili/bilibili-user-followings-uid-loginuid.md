@@ -82,9 +82,21 @@ UP 主关注用户现在需要 b 站登录后的 Cookie 值，所以只能自建
   ],
   "topFeeds": [
     {
+      "description": "undefined 的 bilibili 关注 - Powered by RSSHub",
+      "errorAt": "2026-01-30T03:43:25.815Z",
+      "errorMessage": "Invalid RSSHub JSON Feed from 98292582055262208\n缺少对应 loginUid 的 Bilibili 用户登录后的 Cookie 值 <a href=\"https://docs.rsshub.app/zh/deploy/config#route-specific-configurations\">bilibili 用户关注动态系列路由</a>\n",
+      "id": "198986977401562112",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://space.bilibili.com/687354778/#/fans/follow",
+      "title": "undefined 的 bilibili 关注",
+      "type": "feed",
+      "url": "rsshub://bilibili/user/followings/687354778/114145696"
+    },
+    {
       "description": "PH64E 的 bilibili 关注 - Powered by RSSHub",
       "errorAt": "2026-01-30T03:44:41.001Z",
-      "errorMessage": "200 ",
+      "errorMessage": "Invalid RSSHub JSON Feed from 98292582055262208\n缺少对应 loginUid 的 Bilibili 用户登录后的 Cookie 值 <a href=\"https://docs.rsshub.app/zh/deploy/config#route-specific-configurations\">bilibili 用户关注动态系列路由</a>\n",
       "id": "198984620760968192",
       "image": null,
       "ownerUserId": null,
@@ -92,18 +104,6 @@ UP 主关注用户现在需要 b 站登录后的 Cookie 值，所以只能自建
       "title": "PH64E 的 bilibili 关注",
       "type": "feed",
       "url": "rsshub://bilibili/user/followings/291241870/114145696"
-    },
-    {
-      "description": "鱆_octopus 的 bilibili 关注 - Powered by RSSHub",
-      "errorAt": "2026-01-30T03:43:24.581Z",
-      "errorMessage": "200 ",
-      "id": "199190003559014400",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://space.bilibili.com/22975/#/fans/follow",
-      "title": "鱆_octopus 的 bilibili 关注",
-      "type": "feed",
-      "url": "rsshub://bilibili/user/followings/22975/114145696"
     }
   ]
 }

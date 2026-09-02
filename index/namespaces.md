@@ -995,7 +995,7 @@ Use this file to select the target namespace before opening route documents.
 ## 百度
 - Namespace: `baidu`
 - Aliases: `baidu, baidu.com, www, www.baidu.com, 百度`
-- Route Count: `7`
+- Route Count: `10`
 - Index File: `index/baidu.md`
 
 ## 白鲸出海
@@ -10301,7 +10301,7 @@ Use this file to select the target namespace before opening route documents.
 ## 今日头条
 - Namespace: `toutiao`
 - Aliases: `toutiao, toutiao.com, www, www.toutiao.com, 今日头条`
-- Route Count: `1`
+- Route Count: `2`
 - Index File: `index/toutiao.md`
 
 ## Towards Data Science

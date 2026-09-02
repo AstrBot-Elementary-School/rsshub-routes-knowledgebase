@@ -78,8 +78,8 @@ _None_
   "topFeeds": [
     {
       "description": "AI新闻资讯 - 不错过全球AI革新的每一个时刻 - Powered by RSSHub",
-      "errorAt": "2026-08-24T01:38:08.626Z",
-      "errorMessage": "200 ",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "69533603812632576",
       "image": "https://top.aibase.com/_static/img/Frame@2x.eddfa3e.png",
       "ownerUserId": null,

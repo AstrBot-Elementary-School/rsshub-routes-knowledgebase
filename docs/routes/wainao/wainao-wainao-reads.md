@@ -76,7 +76,7 @@ _None_
     {
       "description": "歪脑读 - 歪脑 - Powered by RSSHub",
       "errorAt": "2025-03-06T03:05:51.618Z",
-      "errorMessage": "Failed to fetch\nFailed to fetch\nterminated\nterminated\nterminated\n",
+      "errorMessage": "Failed to fetch\nFailed to fetch\nterminated\nFailed to fetch\nterminated\n",
       "id": "109801824683778048",
       "image": null,
       "ownerUserId": null,
