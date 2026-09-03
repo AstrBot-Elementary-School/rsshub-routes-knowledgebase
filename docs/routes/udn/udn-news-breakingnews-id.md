@@ -80,8 +80,8 @@
   "topFeeds": [
     {
       "description": "udn.com 提供即時新聞以及豐富的政治、社會、地方、兩岸、國際、財經、數位、運動、NBA、娛樂、生活、健康、旅遊新聞，以最即時、多元的內容，滿足行動世代的需求 - Powered by RSSHub",
-      "errorAt": "2026-09-01T07:28:21.925Z",
-      "errorMessage": "Failed to fetch\nBad control character in string literal in JSON at position 830 (line 1 column 831)\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "67002999442518016",
       "image": null,
       "ownerUserId": null,

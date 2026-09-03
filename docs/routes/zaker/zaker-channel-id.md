@@ -65,8 +65,8 @@ _None_
   "topFeeds": [
     {
       "description": "科技 - ZAKER新闻 - Powered by RSSHub",
-      "errorAt": "2026-09-01T09:37:29.148Z",
-      "errorMessage": "Invalid RSSHub JSON Feed from 98292582055262208\n[GET] \"https://www.myzaker.com/channel/13\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 60.200.32.49:443, 60.200.32.50:443, 60.200.32.43:443, 60.200.32.44:443, 60.200.32.45:443, 60.200.32.46:443, 60.200.32.47:443, 60.200.32.48:443, timeout: 10000ms))\n",
+      "errorAt": "2026-09-02T07:33:29.194Z",
+      "errorMessage": "Invalid RSSHub JSON Feed from 98292582055262208\nFailed to fetch\n",
       "id": "56326657469609999",
       "image": null,
       "ownerUserId": null,
@@ -77,8 +77,8 @@ _None_
     },
     {
       "description": "ZAKER新闻 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-02T07:18:15.658Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "109858197894680576",
       "image": null,
       "ownerUserId": null,

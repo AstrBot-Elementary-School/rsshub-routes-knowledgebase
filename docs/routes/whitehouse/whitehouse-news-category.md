@@ -82,8 +82,8 @@
   "topFeeds": [
     {
       "description": "News – The White House - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-02T07:13:21.389Z",
+      "errorMessage": "Failed to fetch\n530 \nFailed to fetch\n",
       "id": "105673440807055360",
       "image": null,
       "ownerUserId": null,

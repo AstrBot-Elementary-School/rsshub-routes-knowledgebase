@@ -77,8 +77,8 @@ _None_
   "topFeeds": [
     {
       "description": "LangChain Events - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-02T07:39:20.447Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "62716706890373120",
       "image": null,
       "ownerUserId": null,
@@ -88,16 +88,16 @@ _None_
       "url": "rsshub://luma/langchain"
     },
     {
-      "description": "YieldNest - Powered by RSSHub",
-      "errorAt": "2024-09-19T13:27:52.604Z",
+      "description": "Platzi - Powered by RSSHub",
+      "errorAt": "2026-08-01T07:59:21.642Z",
       "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
-      "id": "59033014318436352",
+      "id": "265967006213506048",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://lu.ma/yieldnest",
-      "title": "YieldNest",
+      "siteUrl": "https://lu.ma/platzi",
+      "title": "Platzi",
       "type": "feed",
-      "url": "rsshub://luma/yieldnest"
+      "url": "rsshub://luma/platzi"
     }
   ],
   "url": "lu.ma"

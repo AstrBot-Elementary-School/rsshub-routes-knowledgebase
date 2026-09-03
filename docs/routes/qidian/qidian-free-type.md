@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 9,
+  "heat": 8,
   "location": "free.ts",
   "maintainers": [
     "LogicJake",

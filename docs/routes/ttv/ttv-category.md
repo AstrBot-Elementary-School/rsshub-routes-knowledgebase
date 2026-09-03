@@ -61,8 +61,8 @@ _None_
   "topFeeds": [
     {
       "description": "台視新聞 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-02T06:03:50.928Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "72920871518882818",
       "image": null,
       "ownerUserId": null,

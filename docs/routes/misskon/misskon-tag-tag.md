@@ -54,7 +54,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 920,
+  "heat": 924,
   "location": "tag.ts",
   "maintainers": [
     "Urabartin"
@@ -90,8 +90,8 @@ _None_
     },
     {
       "description": "We invite you to view and download the <strong>LegBaby</strong> (美腿宝贝) photo sets completely free with very high quality! These photo sets were taken by professional photographers with the participation of Chinese beauties. As the name suggests, the shooting angles mostly focus on the extremely sexy long legs of the models! - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-01T13:39:02.930Z",
+      "errorMessage": "530 \nFailed to fetch\nFailed to fetch\n",
       "id": "75542982493503488",
       "image": null,
       "ownerUserId": null,

@@ -584,7 +584,7 @@
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 19,
+  "heat": 20,
   "location": "explore.ts",
   "maintainers": [
     "tylinux",
@@ -1534,7 +1534,7 @@
       "errorAt": null,
       "errorMessage": null,
       "id": "202562470263424000",
-      "image": "https://static.oshwhub.com/web-assets/oshwhub/images/header-footer/logo.png?v=1787057720987",
+      "image": "https://static.oshwhub.com/web-assets/oshwhub/images/header-footer/logo.png?v=1788255512518",
       "ownerUserId": null,
       "siteUrl": "https://oshwhub.com/explore",
       "title": "立创开源广场 - 立创开源硬件平台",
@@ -1546,7 +1546,7 @@
       "errorAt": null,
       "errorMessage": null,
       "id": "215454511119244288",
-      "image": "https://static.oshwhub.com/web-assets/oshwhub/images/header-footer/logo.png?v=1787057720987",
+      "image": "https://static.oshwhub.com/web-assets/oshwhub/images/header-footer/logo.png?v=1788255512518",
       "ownerUserId": null,
       "siteUrl": "https://oshwhub.com/explore",
       "title": "立创开源广场 - 立创开源硬件平台",

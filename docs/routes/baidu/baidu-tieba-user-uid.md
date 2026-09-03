@@ -74,16 +74,16 @@ _None_
       "url": "rsshub://baidu/tieba/user/dengchunlai"
     },
     {
-      "description": "米利阿鲁德 的贴吧 - Powered by RSSHub",
-      "errorAt": "2026-05-26T01:17:33.906Z",
-      "errorMessage": "Invalid RSSHub JSON Feed from 98292582055262208\nBaidu Tieba RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#baidu\">BAIDU_COOKIE</a>\n",
-      "id": "86266828598569984",
+      "description": "ryan_knight_12 的贴吧 - Powered by RSSHub",
+      "errorAt": "2026-04-24T05:52:29.901Z",
+      "errorMessage": "Baidu Tieba RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#baidu\">BAIDU_COOKIE</a>\n",
+      "id": "86949667680527360",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://tieba.baidu.com/home/main?un=%E7%B1%B3%E5%88%A9%E9%98%BF%E9%B2%81%E5%BE%B7",
-      "title": "米利阿鲁德 的贴吧",
+      "siteUrl": "https://tieba.baidu.com/home/main?un=ryan_knight_12",
+      "title": "ryan_knight_12 的贴吧",
       "type": "feed",
-      "url": "rsshub://baidu/tieba/user/%E7%B1%B3%E5%88%A9%E9%98%BF%E9%B2%81%E5%BE%B7"
+      "url": "rsshub://baidu/tieba/user/ryan_knight_12"
     }
   ]
 }

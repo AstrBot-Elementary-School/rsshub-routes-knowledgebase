@@ -69,7 +69,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 22364,
+  "heat": 22365,
   "location": "dynamic.ts",
   "maintainers": [
     "DIYgod",
@@ -109,8 +109,8 @@ _None_
     },
     {
       "description": "罗翔说刑法 的 bilibili 动态 - Powered by RSSHub",
-      "errorAt": "2026-08-15T06:38:50.280Z",
-      "errorMessage": "200 ",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41147805276726305",
       "image": "https://i1.hdslb.com/bfs/face/4e5d0a51273fe3f8fabc700b6a71bb8a38c9e21e.jpg",
       "ownerUserId": null,

@@ -82,7 +82,7 @@ _None_
     {
       "description": "A Touhou related events calendar api from THBWiki - Powered by RSSHub",
       "errorAt": "2026-05-29T02:41:59.767Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://calendar-serverless.thwiki.cc/api/events/2026-08-01/2026-09-30\": <no response> fetch failed (C0628C06D47F0000:error:0A000410:SSL routines:ssl3_read_bytes:ssl/tls alert handshake failure:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:918:SSL alert number 40\n)\n",
+      "errorMessage": "Failed to fetch\n[GET] \"https://calendar-serverless.thwiki.cc/api/events/2026-08-03/2026-10-02\": <no response> fetch failed (C0B2AA6A987F0000:error:0A000410:SSL routines:ssl3_read_bytes:ssl/tls alert handshake failure:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:918:SSL alert number 40\n)\n",
       "id": "60280539896619008",
       "image": null,
       "ownerUserId": null,

@@ -71,8 +71,8 @@ _None_
   "topFeeds": [
     {
       "description": "【日経】ニュース速報、企業・経済の最新情報をお届けします。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-02T09:18:02.097Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 64311587559952384",
       "id": "64311587559952384",
       "image": "https://www.nikkei.com/.resources/k-components/rectangle.rev-d54ea30.png",
       "ownerUserId": null,

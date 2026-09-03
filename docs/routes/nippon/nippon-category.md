@@ -79,8 +79,8 @@
   "topFeeds": [
     {
       "description": "走进日本 - Politics - Powered by RSSHub",
-      "errorAt": "2026-09-01T08:31:44.916Z",
-      "errorMessage": "[GET] \"https://www.nippon.com/api/search/cn/category_code/20/1/Politics?t=1788251502362\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "56644563871459336",
       "image": null,
       "ownerUserId": null,

@@ -58,7 +58,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2,
+  "heat": 3,
   "location": "gerenzhongxin/gather.ts",
   "maintainers": [
     "AwesomeDog"

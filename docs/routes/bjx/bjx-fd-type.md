@@ -70,8 +70,8 @@ _None_
   "topFeeds": [
     {
       "description": "北极星风力发电网要闻 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-02T07:43:59.748Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "74275326708265984",
       "image": null,
       "ownerUserId": null,

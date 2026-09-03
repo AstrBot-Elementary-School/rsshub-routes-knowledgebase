@@ -116,16 +116,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "Fabric API implemented on top of NeoForge - Powered by RSSHub",
+      "description": "Lets you play Fabric mods on NeoForge - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "120750574474919936",
+      "id": "120750482624892928",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/forgified-fabric-api",
-      "title": "Forgified Fabric API Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/connector",
+      "title": "Sinytra Connector Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/forgified-fabric-api/versions"
+      "url": "rsshub://modrinth/project/connector/versions"
     }
   ]
 }

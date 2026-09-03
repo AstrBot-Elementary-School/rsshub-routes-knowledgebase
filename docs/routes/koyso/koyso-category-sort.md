@@ -384,7 +384,7 @@
     {
       "description": "Free pre-installed PC games download. No speed limits, no installation required. - Powered by RSSHub",
       "errorAt": "2026-08-31T14:50:55.101Z",
-      "errorMessage": "[GET] \"https://koyso.to/?sort=latest\": <no response> fetch failed\n[GET] \"https://koyso.to/game/396\": 404 Not Found\n[GET] \"https://koyso.to/game/396\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://koyso.to/?sort=latest\": <no response> fetch failed\n[GET] \"https://koyso.to/game/2808\": 404 Not Found\n[GET] \"https://koyso.to/game/2808\": 404 Not Found\n",
       "id": "186257019396793344",
       "image": null,
       "ownerUserId": null,
@@ -396,7 +396,7 @@
     {
       "description": "Free pre-installed PC games download. No speed limits, no installation required. - Powered by RSSHub",
       "errorAt": "2026-08-31T06:49:26.959Z",
-      "errorMessage": "[GET] \"https://koyso.to/game/396\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://koyso.to/game/2808\": 404 Not Found\n",
       "id": "185221927541489664",
       "image": null,
       "ownerUserId": null,

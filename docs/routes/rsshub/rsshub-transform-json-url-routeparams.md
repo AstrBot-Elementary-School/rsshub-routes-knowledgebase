@@ -103,28 +103,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Proxy https://api.github.com/repos/java-decompiler/jd-gui/releases - Powered by RSSHub",
+      "description": "Proxy https://www.jiqizhixin.com/api/article_library/articles.json - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "185694472030917632",
+      "id": "207824007092203520",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://api.github.com/repos/java-decompiler/jd-gui/releases",
-      "title": "jd-gui releases",
+      "siteUrl": "https://www.jiqizhixin.com/api/article_library/articles.json",
+      "title": "机器之心",
       "type": "feed",
-      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fapi.github.com%2Frepos%2Fjava-decompiler%2Fjd-gui%2Freleases/title=jd-gui%20releases&itemTitle=tag_name&itemLink=html_url&itemDesc=body"
+      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fwww.jiqizhixin.com%2Fapi%2Farticle_library%2Farticles.json/title%3D%E6%9C%BA%E5%99%A8%E4%B9%8B%E5%BF%83%26item%3Darticles%26itemTitle%3Dtitle%26itemLink%3Dslug%26itemLinkPrefix%3D%2Farticles%2F%26itemDesc%3Dcontent%26itemPubDate%3DpublishedAt%26itemContent%3Dcontent%26itemJSONPrefix%3D%2Fapi%2Farticle_library%2Farticles%2F"
     },
     {
-      "description": "Proxy https://api.github.com/repos/dbeaver/dbeaver/releases - Powered by RSSHub",
+      "description": "Proxy https://api.github.com/repos/FalconOpsLLC/goexec/releases - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "185694635969967104",
+      "id": "185695342945072128",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://api.github.com/repos/dbeaver/dbeaver/releases",
-      "title": "dbeaver releases",
+      "siteUrl": "https://api.github.com/repos/FalconOpsLLC/goexec/releases",
+      "title": "goexec releases",
       "type": "feed",
-      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fapi.github.com%2Frepos%2Fdbeaver%2Fdbeaver%2Freleases/title=dbeaver%20releases&itemTitle=tag_name&itemLink=html_url&itemDesc=body"
+      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fapi.github.com%2Frepos%2FFalconOpsLLC%2Fgoexec%2Freleases/title=goexec%20releases&itemTitle=tag_name&itemLink=html_url&itemDesc=body"
     }
   ]
 }

@@ -948,8 +948,8 @@
   "topFeeds": [
     {
       "description": "行政处罚决定 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-01T22:17:54.145Z",
+      "errorMessage": "[GET] \"http://www.csrc.gov.cn/getLocalList?channelCode=c101971\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 45.253.17.20:80, 45.253.17.14:80, 45.253.17.16:80, 45.253.17.13:80, 45.253.17.18:80, 45.253.17.15:80, 45.253.17.17:80, 45.253.17.19:80, timeout: 10000ms))\n",
       "id": "65722745603688448",
       "image": "http://www.csrc.gov.cn/csrc/xhtml/images/zfxxgk/icons_logo.png?v=1.0?v=1.0",
       "ownerUserId": null,

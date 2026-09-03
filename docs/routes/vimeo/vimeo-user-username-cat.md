@@ -81,16 +81,16 @@ _None_
       "url": "rsshub://vimeo/user/loocreative"
     },
     {
-      "description": "D.I post production 문의사항은 여기로 보내주세요 :) lucidcolour.pd@gmail.com - Powered by RSSHub",
-      "errorAt": "2025-11-13T18:28:52.442Z",
-      "errorMessage": "[GET] \"https://api.vimeo.com/users/lucidcolour?fields=name,gender,bio,uri,link,categories&fetch_user_profile=1\": 406 Not Acceptable\n",
-      "id": "79418227642344448",
+      "description": "Krystian Gacek | Vimeo - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "172551793162074148",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://vimeo.com/lucidcolour",
-      "title": "Lucid colour | Vimeo",
+      "siteUrl": "https://vimeo.com/user2646900",
+      "title": "Krystian Gacek | Vimeo",
       "type": "feed",
-      "url": "rsshub://vimeo/user/lucidcolour"
+      "url": "rsshub://vimeo/user/2646900"
     }
   ],
   "view": 3

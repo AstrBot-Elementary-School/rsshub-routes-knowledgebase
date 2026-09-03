@@ -119,8 +119,8 @@
     },
     {
       "description": "Last week - konachan.com - Powered by RSSHub",
-      "errorAt": "2026-09-01T09:39:54.808Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://konachan.com/post/popular_recent.json?period=1w\": 403 Forbidden\n[GET] \"https://konachan.com/post/popular_recent.json?period=1w\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "62202498728230912",
       "image": null,
       "ownerUserId": null,

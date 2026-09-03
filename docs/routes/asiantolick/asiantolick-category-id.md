@@ -52,7 +52,7 @@
   "features": {
     "nsfw": true
   },
-  "heat": 0,
+  "heat": 1,
   "location": "category.ts",
   "maintainers": [
     "nczitzk"

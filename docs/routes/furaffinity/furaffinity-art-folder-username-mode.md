@@ -115,16 +115,16 @@ _None_
       "url": "rsshub://furaffinity/art/gallery/oddeyresproductions/nsfw"
     },
     {
-      "description": "Fur Affinity Gallery of noctibus - Powered by RSSHub",
-      "errorAt": "2026-05-26T01:52:27.281Z",
-      "errorMessage": "[GET] \"https://faexport.spangle.org.uk/user/noctibus/gallery.json?full=1\": 500 Internal Server Error\n[GET] \"https://faexport.spangle.org.uk/user/noctibus/gallery.json?full=1\": 500 Internal Server Error\n",
-      "id": "79207138735974400",
+      "description": "Fur Affinity Gallery of tezzadnah - Powered by RSSHub",
+      "errorAt": "2026-05-26T00:42:37.436Z",
+      "errorMessage": "[GET] \"https://faexport.spangle.org.uk/user/tezzadnah/gallery.json?full=1\": 500 Internal Server Error\n[GET] \"https://faexport.spangle.org.uk/user/tezzadnah/gallery.json?full=1\": 500 Internal Server Error\n",
+      "id": "79207443708549120",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.furaffinity.net/gallery/noctibus",
-      "title": "Fur Affinity | Gallery of noctibus",
+      "siteUrl": "https://www.furaffinity.net/gallery/tezzadnah",
+      "title": "Fur Affinity | Gallery of tezzadnah",
       "type": "feed",
-      "url": "rsshub://furaffinity/art/gallery/noctibus/nsfw"
+      "url": "rsshub://furaffinity/art/gallery/tezzadnah/nsfw"
     }
   ],
   "url": "furaffinity.net"

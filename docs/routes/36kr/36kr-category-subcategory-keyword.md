@@ -61,8 +61,8 @@ _None_
   "topFeeds": [
     {
       "description": "36氪 - 快讯 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-02T08:08:16.955Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 41572238273905665",
       "id": "41572238273905665",
       "image": null,
       "ownerUserId": null,

@@ -78,8 +78,8 @@ _None_
     },
     {
       "description": "新闻发布-国家发展和改革委员会 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-02T07:44:56.097Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "76948303329996800",
       "image": null,
       "ownerUserId": null,

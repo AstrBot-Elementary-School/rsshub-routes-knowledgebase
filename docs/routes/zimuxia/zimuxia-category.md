@@ -81,7 +81,7 @@ _None_
     {
       "description": "欧美电影 - FIX字幕侠 - Powered by RSSHub",
       "errorAt": "2025-07-23T01:53:19.792Z",
-      "errorMessage": "[GET] \"https://www.zimuxia.cn/我们的作品?cat=%E6%AC%A7%E7%BE%8E%E7%94%B5%E5%BD%B1\": <no response> fetch failed (getaddrinfo ENOTFOUND www.zimuxia.cn)\n",
+      "errorMessage": "[GET] \"https://www.zimuxia.cn/我们的作品?cat=%E6%AC%A7%E7%BE%8E%E7%94%B5%E5%BD%B1\": <no response> fetch failed (Connect Timeout Error (attempted address: www.zimuxia.cn:443, timeout: 10000ms))\n",
       "id": "132389145495522304",
       "image": null,
       "ownerUserId": null,

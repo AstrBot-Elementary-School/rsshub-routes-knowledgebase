@@ -73,8 +73,8 @@ _None_
   "topFeeds": [
     {
       "description": "AInvest - Latest News - Powered by RSSHub",
-      "errorAt": "2026-09-01T09:42:30.098Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://news.ainvest.com/content-page/v1/page/sparinvest-boring-prospectus-updates-green-labels-2609\": 404 \n[GET] \"https://news.ainvest.com/content-page/v1/page/sparinvest-boring-prospectus-updates-green-labels-2609\": 404 \n[GET] \"https://news.ainvest.com/content-page/v1/page/sparinvest-boring-prospectus-updates-green-labels-2609\": 404 \n530 \n[GET] \"https://news.ainvest.com/content-page/v1/page/sparinvest-boring-prospectus-updates-green-labels-2609\": 404 \n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "63585517712903168",
       "image": null,
       "ownerUserId": null,

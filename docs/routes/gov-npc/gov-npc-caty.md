@@ -77,8 +77,8 @@
   "topFeeds": [
     {
       "description": "权威发布_中国人大网 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-02T07:45:12.098Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "76238928708564992",
       "image": null,
       "ownerUserId": null,

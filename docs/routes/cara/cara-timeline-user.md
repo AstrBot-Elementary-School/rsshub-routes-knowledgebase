@@ -76,16 +76,16 @@ _None_
       "url": "rsshub://cara/timeline/alonelee127"
     },
     {
-      "description": "Timeline - NIKA LYNAS - Powered by RSSHub",
-      "errorAt": "2025-11-21T13:47:28.301Z",
+      "description": "Timeline - Olevus Art - Powered by RSSHub",
+      "errorAt": "2025-11-26T13:56:41.091Z",
       "errorMessage": "[GET] \"https://cara.app/explore\": 403 Forbidden\n",
-      "id": "127384810660678656",
-      "image": "https://cdn.cara.app/production/profiles/f771718b-26f2-4d08-bda8-ddfbdac6a995/sf.jpg",
+      "id": "127387927078266880",
+      "image": "https://cdn.cara.app/production/profiles/328e10c7-adef-4eba-b86a-d847a0c7cb6a/17BE1A54-C420-41BC-954C-EB9123B82F2D.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://cara.app/cyberpunkova/all",
-      "title": "Timeline - NIKA LYNAS",
+      "siteUrl": "https://cara.app/olevusart/all",
+      "title": "Timeline - Olevus Art",
       "type": "feed",
-      "url": "rsshub://cara/timeline/cyberpunkova"
+      "url": "rsshub://cara/timeline/olevusart"
     }
   ]
 }

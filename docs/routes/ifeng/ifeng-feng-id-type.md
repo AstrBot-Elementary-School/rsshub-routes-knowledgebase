@@ -70,8 +70,8 @@ _None_
   "topFeeds": [
     {
       "description": "凤凰网《在人间》官方大风号 用冷静的叙述抵抗冰冷。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-02T02:38:21.401Z",
+      "errorMessage": "Failed to fetch\n[GET] \"https:https://original.ifeng.com/c/8vyuFQClCl6\": <no response> fetch failed (getaddrinfo ENOTFOUND https)\n",
       "id": "61602061591709698",
       "image": "https://d.ifengimg.com/w90_h90_q90/img1.ugc.ifeng.com/newugc/20190924/10/wemedia/0df760ed261bd10a90d1313bea599e2f338c320f_size9_w200_h200.png",
       "ownerUserId": null,
@@ -82,8 +82,8 @@ _None_
     },
     {
       "description": "优质房产领域创作者 宏观经济、商业财经与楼市逻辑 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-02T07:48:10.708Z",
+      "errorMessage": "Failed to fetch\n[GET] \"https:https://finance.ifeng.com/c/8w2EiYux93K\": <no response> fetch failed (getaddrinfo ENOTFOUND https)\n",
       "id": "89202893918778368",
       "image": "https://d.ifengimg.com/w90_h90_q90/img1.ugc.ifeng.com/newugc/20180918/13/wemedia/3deae080086a56ef24ea109930b7cfda8db6b67b_size20_w200_h200.png",
       "ownerUserId": null,

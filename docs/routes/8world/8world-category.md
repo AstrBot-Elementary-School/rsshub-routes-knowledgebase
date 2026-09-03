@@ -46,7 +46,7 @@ _None_
   ],
   "description": "| 分类                   | id             |\n| ---------------------- | -------------- |\n| 即时 REALTIME          | realtime       |\n| 新加坡 SINGAPORE       | singapore      |\n| 东南亚 SOUTH-EAST ASIA | southeast-asia |\n| 中港台 GREATER CHINA   | greater-china  |\n| 国际 WORLD             | world          |\n| 财经 FINANCE           | finance        |\n| 体育 SPORTS            | sports         |\n| 社团 COMMUNITY         | community      |",
   "example": "/8world/realtime",
-  "heat": 16,
+  "heat": 17,
   "location": "index.ts",
   "maintainers": [
     "nczitzk"

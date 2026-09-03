@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 461,
+  "heat": 462,
   "location": "index.ts",
   "maintainers": [
     "nczitzk"
@@ -68,8 +68,8 @@ _None_
   "topFeeds": [
     {
       "description": "中央社即時報導國際、財經、科技、醫藥、生活、運動、教育、政治、影劇、社會、地方即時新聞，提供Facebook、Google+社群討論、分享功能。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-01T10:48:08.410Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 61601757267858432",
       "id": "61601757267858432",
       "image": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg",
       "ownerUserId": null,

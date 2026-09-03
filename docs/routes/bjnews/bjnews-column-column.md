@@ -39,7 +39,7 @@ _None_
   ],
   "example": "/bjnews/column/204",
   "features": {},
-  "heat": 9,
+  "heat": 8,
   "location": "column.ts",
   "maintainers": [
     "dzx-dzx"

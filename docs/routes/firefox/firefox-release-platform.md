@@ -55,18 +55,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Firefox nightly release notes - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "55873602868576273",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.mozilla.org/en-US/firefox/nightly/notes",
-      "title": "Firefox nightly release notes",
-      "type": "feed",
-      "url": "rsshub://firefox/release/nightly"
-    },
-    {
       "description": "Firefox desktop release notes - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -77,6 +65,18 @@ _None_
       "title": "Firefox desktop release notes",
       "type": "feed",
       "url": "rsshub://firefox/release"
+    },
+    {
+      "description": "Firefox beta release notes - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "72287537564742660",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.mozilla.org/en-US/firefox/beta/notes",
+      "title": "Firefox beta release notes",
+      "type": "feed",
+      "url": "rsshub://firefox/release/beta"
     }
   ]
 }

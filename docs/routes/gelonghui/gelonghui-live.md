@@ -75,8 +75,8 @@ _None_
   "topFeeds": [
     {
       "description": "格隆汇快讯栏目提供外汇投资实时行情,外汇投资交易,外汇投资炒股,证券等内容,实时更新,格隆汇未来将陆续开通台湾、日本、印度、欧洲等市场. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-02T08:09:02.152Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 55611390687386624",
       "id": "55611390687386624",
       "image": "https://cdn.gelonghui.com/static/web/www.ico.la.ico",
       "ownerUserId": null,

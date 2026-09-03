@@ -117,8 +117,8 @@ Type 栏目（对应 Ghost 标签）：
     },
     {
       "description": "端傳媒 - 专题 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-02T05:58:26.053Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "56674476083111936",
       "image": "https://d32kak7w9u5ewj.cloudfront.net/media/channel/2020/09/a371f1d3b70c4006a88cc12d127e1f52.jpg",
       "ownerUserId": null,

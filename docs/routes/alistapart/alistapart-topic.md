@@ -123,8 +123,8 @@ You have the option to utilize the main heading or use individual categories as 
   "topFeeds": [
     {
       "description": "Application-development Articles on aListApart.com - Powered by RSSHub",
-      "errorAt": "2026-09-01T02:25:07.905Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "53660433450916864",
       "image": null,
       "ownerUserId": null,

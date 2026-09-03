@@ -68,8 +68,8 @@ _None_
   "topFeeds": [
     {
       "description": "豆瓣社会招聘 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-02T03:16:27.517Z",
+      "errorMessage": "Failed to fetch\nFailed to fetch\n",
       "id": "64631344706970624",
       "image": null,
       "ownerUserId": null,

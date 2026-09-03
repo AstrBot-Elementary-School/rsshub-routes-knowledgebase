@@ -63,8 +63,8 @@ _None_
   "topFeeds": [
     {
       "description": "4Gamers - 成人限定🔞 - Powered by RSSHub",
-      "errorAt": "2026-09-01T09:42:12.620Z",
-      "errorMessage": "[GET] \"https://www.4gamers.com.tw/site/api/news/by-category/1119?nextStart=0&pageSize=25\": 404 Not Found\nFailed to fetch\n[GET] \"https://www.4gamers.com.tw/site/api/news/of-category/1119?nextStart=0&pageSize=25\": 405 Not Allowed\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "72578894783772672",
       "image": null,
       "ownerUserId": null,

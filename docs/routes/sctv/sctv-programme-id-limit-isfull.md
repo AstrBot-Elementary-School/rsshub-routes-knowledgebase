@@ -122,8 +122,8 @@ _None_
   "topFeeds": [
     {
       "description": "四川广播电视台 - 四川新闻联播 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-01T23:43:44.981Z",
+      "errorMessage": "[GET] \"https://kscgc.sctv-tf.com/sctv/lookback/1/date.json\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 60.255.162.15:443, 60.255.162.16:443, 60.255.162.9:443, 60.255.162.10:443, 60.255.162.11:443, 60.255.162.12:443, 60.255.162.13:443, 60.255.162.14:443, timeout: 10000ms))\n",
       "id": "178834515500019712",
       "image": "/sctv/1/image/public/202101/20210118094118_abbi6fxq9i.jpg",
       "ownerUserId": null,
@@ -133,16 +133,16 @@ _None_
       "url": "rsshub://sctv/programme/1/15/yes"
     },
     {
-      "description": "四川广播电视台 - 吃八方 - Powered by RSSHub",
+      "description": "四川广播电视台 - 四川新闻联播 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "198402459807542272",
-      "image": "/sctv/1/image/public/202010/20201010094714_nrfep8uqvu.jpg",
+      "id": "163898423688988672",
+      "image": "/sctv/1/image/public/202101/20210118094118_abbi6fxq9i.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://www.sctv.com/column/detail?programmeIndex=/sctv/lookback/7343/index.json",
-      "title": "四川广播电视台 - 吃八方",
+      "siteUrl": "https://www.sctv.com/column/detail?programmeIndex=/sctv/lookback/1/index.json",
+      "title": "四川广播电视台 - 四川新闻联播",
       "type": "feed",
-      "url": "rsshub://sctv/programme/7343"
+      "url": "rsshub://sctv/programme"
     }
   ]
 }

@@ -62,8 +62,8 @@ _None_
   "topFeeds": [
     {
       "description": "Cursed knowledge we have learned as a result of building Immich that we wish we never knew. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-01T18:51:56.402Z",
+      "errorMessage": "[GET] \"https://raw.githubusercontent.com/immich-app/static-pages/main/apps/root.immich.app/src/routes/cursed-knowledge/+page.svelte\": 404 Not Found\n",
       "id": "181238816402329600",
       "image": "https://immich.app/favicon.ico",
       "ownerUserId": null,

@@ -80,8 +80,8 @@ _None_
   "topFeeds": [
     {
       "description": "My name is Grant Sanderson. Videos here cover a variety of topics in math, or adjacent fields like physics and CS, all with an emphasis on visualizing the core ideas. The goal is to use animation to help elucidate and motivate otherwise tricky topics, and for difficult problems to be made simple with changes in perspective. For more information, other projects, FAQs, and inquiries see the website: https://www.3blue1brown.com - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-02T07:47:01.917Z",
+      "errorMessage": "Failed to fetch\nYouTube RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\nFailed to fetch\n",
       "id": "83922899515574272",
       "image": "https://yt3.googleusercontent.com/ytc/AIdro_nFzZFPLxPZRHcE3SSwzdrbuWqfoWYwLAu0_2iO6blQYAU=s900-c-k-c0x00ffffff-no-rj",
       "ownerUserId": null,

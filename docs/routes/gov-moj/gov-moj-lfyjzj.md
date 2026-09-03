@@ -75,7 +75,7 @@ _None_
     {
       "description": "中华人民共和国司法部 - 立法意见征集 - Powered by RSSHub",
       "errorAt": "2025-09-24T07:47:02.292Z",
-      "errorMessage": "[GET] \"https://www.moj.gov.cn/lfyjzj/lflfyjzj/index.html\": <no response> fetch failed (redirect count exceeded)\n[GET] \"https://www.moj.gov.cn/lfyjzj/lflfyjzj/index.html\": <no response> fetch failed (redirect count exceeded)\n",
+      "errorMessage": "Failed to fetch\n[GET] \"https://www.moj.gov.cn/lfyjzj/lflfyjzj/index.html\": <no response> fetch failed (redirect count exceeded)\n",
       "id": "62781073015771136",
       "image": null,
       "ownerUserId": null,

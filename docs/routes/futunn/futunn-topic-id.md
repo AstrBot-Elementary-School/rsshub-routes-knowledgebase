@@ -80,8 +80,8 @@ _None_
     },
     {
       "description": "更多AI黑科技、场景落地、商用价值，尽在这里。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-02T07:33:10.099Z",
+      "errorMessage": "500 \n",
       "id": "233311236627653632",
       "image": null,
       "ownerUserId": null,

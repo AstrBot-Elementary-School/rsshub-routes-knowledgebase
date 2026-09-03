@@ -85,7 +85,7 @@ _None_
       "id": "54831663495804928",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://api.bilibili.com/x/web-interface/wbi/search/square?limit=10&platform=web&w_rid=a7b38c36e1f4b3d79fb3ede0bf486a13&wts=1788255461",
+      "siteUrl": "https://api.bilibili.com/x/web-interface/wbi/search/square?limit=10&platform=web&w_rid=8589dab99201a40291297514a84571d5&wts=1788342454",
       "title": "bilibili热搜",
       "type": "feed",
       "url": "rsshub://bilibili/hot-search"

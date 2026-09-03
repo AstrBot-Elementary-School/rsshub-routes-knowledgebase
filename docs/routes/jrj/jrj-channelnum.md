@@ -179,8 +179,8 @@ _None_
     },
     {
       "description": "财经资讯 - 金融界 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-02T04:28:21.006Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "110335328538370048",
       "image": null,
       "ownerUserId": null,

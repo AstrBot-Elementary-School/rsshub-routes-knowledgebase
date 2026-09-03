@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 497,
+  "heat": 498,
   "location": "category.ts",
   "maintainers": [
     "emdoe"
@@ -110,8 +110,8 @@ _None_
     },
     {
       "description": "Philosophy Essays from Aeon. World-leading thinkers explore life’s big questions and the history of ideas from Socrates to Simone de Beauvoir, political philosophy to philosophy of mind, the Western canon and the non-Western world. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-02T07:43:40.749Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "71782163523746816",
       "image": null,
       "ownerUserId": null,

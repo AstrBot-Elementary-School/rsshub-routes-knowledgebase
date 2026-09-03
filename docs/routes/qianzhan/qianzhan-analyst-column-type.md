@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 50,
+  "heat": 51,
   "location": "column.ts",
   "maintainers": [
     "moke8"
@@ -68,8 +68,8 @@ _None_
   "topFeeds": [
     {
       "description": "前瞻经济学人 - 最新文章 - Powered by RSSHub",
-      "errorAt": "2026-09-01T08:03:28.782Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "66758050974691328",
       "image": null,
       "ownerUserId": null,

@@ -55,7 +55,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4566,
+  "heat": 4564,
   "location": "keyword.ts",
   "maintainers": [
     "DIYgod",
@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "历史低价 - 什么值得买 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-02T09:48:44.347Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 56173305095094272",
       "id": "56173305095094272",
       "image": null,
       "ownerUserId": null,

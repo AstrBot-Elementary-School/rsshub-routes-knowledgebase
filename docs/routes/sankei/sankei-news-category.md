@@ -65,7 +65,7 @@ _None_
     {
       "description": "産経新聞社のニュースサイト。政治、経済、国際、社会、スポーツ、エンタメ、生活、健康、災害情報などの速報記事と解説記事を新着順に一覧できます。 - Powered by RSSHub",
       "errorAt": "2026-08-27T11:50:16.203Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://www.sankei.comhttps://www.sankei.com/article/20260901-O3SO5TQ2PFEZJIYCJGTU7WBEAY/\": <no response> fetch failed (getaddrinfo ENOTFOUND www.sankei.comhttps)\n",
+      "errorMessage": "Failed to fetch\n[GET] \"https://www.sankei.comhttps://www.sankei.com/article/20260902-EBSSJBDTORMNNOJR2V5VOFNFVM/\": <no response> fetch failed (getaddrinfo ENOTFOUND www.sankei.comhttps)\n",
       "id": "157150339579158528",
       "image": "https://www.sankei.com/common/images/ogp_default.jpg",
       "ownerUserId": null,

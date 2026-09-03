@@ -185,7 +185,7 @@ _None_
   "topFeeds": [
     {
       "description": "All News - Newsroom - Netflix - Powered by RSSHub",
-      "errorAt": "2026-08-31T20:22:42.793Z",
+      "errorAt": "2026-09-02T08:02:30.394Z",
       "errorMessage": "Unhandled node type: blockquote\n",
       "id": "191666157347082245",
       "image": "https://about.netflix.com/favicon.ico",

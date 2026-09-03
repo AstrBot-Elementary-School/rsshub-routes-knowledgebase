@@ -95,8 +95,8 @@
     },
     {
       "description": "Macbook、MacBook Pro 、iMac、iMac Pro、Mac mini、Mac Pro 地球上最强的电脑。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-02T07:39:13.818Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "60941909445770240",
       "image": null,
       "ownerUserId": null,

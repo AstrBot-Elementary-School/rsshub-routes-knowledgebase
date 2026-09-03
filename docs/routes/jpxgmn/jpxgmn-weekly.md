@@ -43,7 +43,7 @@ _None_
   "features": {
     "nsfw": true
   },
-  "heat": 4352,
+  "heat": 4351,
   "location": "weekly.ts",
   "maintainers": [
     "Urabartin"
@@ -66,7 +66,7 @@ _None_
     {
       "description": "极品性感美女 - 本周热门推荐 - Powered by RSSHub",
       "errorAt": "2026-01-21T21:50:16.859Z",
-      "errorMessage": "Failed to fetch\n530 \n[GET] \"http://\": <no response> Failed to parse URL from http://\nInvalid RSSHub JSON Feed from 98292582055262208\n[GET] \"http://\": <no response> Failed to parse URL from http:// (Invalid URL)\n[GET] \"http://\": <no response> Failed to parse URL from http://\n404 Not Found\n[GET] \"http://\": <no response> Failed to parse URL from http://\n[GET] \"http://\": <no response> Failed to parse URL from http:// (Invalid URL)\n[GET] \"http://\": <no response> Failed to parse URL from http:// (Invalid URL)\nAuthentication failed. Access denied.\n/jpxgmn/weekly\n[GET] \"http://\": <no response> Failed to parse URL from http:// (Invalid URL)\n",
+      "errorMessage": "Failed to fetch\n530 \n[GET] \"http://\": <no response> Failed to parse URL from http://\nInvalid RSSHub JSON Feed from 98292582055262208\n[GET] \"http://\": <no response> Failed to parse URL from http:// (Invalid URL)\n[GET] \"http://\": <no response> Failed to parse URL from http://\n404 Not Found\n[GET] \"http://\": <no response> Failed to parse URL from http://\n[GET] \"http://\": <no response> Failed to parse URL from http:// (Invalid URL)\n[GET] \"http://\": <no response> Failed to parse URL from http:// (Invalid URL)\nAuthentication failed. Access denied.\n/jpxgmn/weekly\nFailed to fetch\n",
       "id": "41858597162671104",
       "image": null,
       "ownerUserId": null,

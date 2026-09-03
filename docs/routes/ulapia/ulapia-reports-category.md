@@ -68,8 +68,8 @@ _None_
   "topFeeds": [
     {
       "description": "ulapia - 宏观研报 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-01T12:57:39.089Z",
+      "errorMessage": "[GET] \"http://www.ulapia.com/reports/macro_research\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 103.158.16.145:80, 103.158.16.146:80, 103.158.16.147:80, 103.158.16.140:80, 103.158.16.141:80, 103.158.16.142:80, 103.158.16.143:80, 103.158.16.144:80, timeout: 10000ms))\n",
       "id": "60865831498850371",
       "image": null,
       "ownerUserId": null,

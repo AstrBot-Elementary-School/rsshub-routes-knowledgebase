@@ -85,16 +85,16 @@ _None_
       "url": "rsshub://dblp/knowledge%20tracing"
     },
     {
-      "description": "DBLP grasp RSS - Powered by RSSHub",
+      "description": "DBLP software testing RSS - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "179692167689031680",
+      "id": "84441761514554368",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://dblp.org/search?q=grasp",
-      "title": "【dblp】grasp",
+      "siteUrl": "https://dblp.org/search?q=software%20testing",
+      "title": "【dblp】software testing",
       "type": "feed",
-      "url": "rsshub://dblp/grasp"
+      "url": "rsshub://dblp/software%20testing"
     }
   ]
 }

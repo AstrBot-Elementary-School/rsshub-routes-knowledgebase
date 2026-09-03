@@ -74,9 +74,9 @@ _None_
       "url": "rsshub://baidu/tieba/forum/%E5%AD%99%E7%AC%91%E5%B7%9D"
     },
     {
-      "description": "本吧热帖: 1-【250927】交易类内容提醒 2-【250628】【第六版】百度PT吧吧规 3-【百度PT吧黑名单！】 4-AFUN这个站点还在吗？ 5-【260809】求助子文件夹转种的问题 6-【260813】发u2 馒头 莫妮卡 7-【260822】没有公网IP怎么玩Pt 8-【20260822】发两个馒头 9-【250525】求助帖水楼 10-【20260822】馒头石墨这么低了吗？rt - Powered by RSSHub",
-      "errorAt": "2026-08-26T08:39:56.385Z",
-      "errorMessage": "[GET] \"https://tieba.baidu.com/f?kw=pt&cid=0\": 403 Forbidden\nBaidu Tieba RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#baidu\">BAIDU_COOKIE</a>\n",
+      "description": "pt吧 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "65268258673897472",
       "image": null,
       "ownerUserId": "55797500342129664",

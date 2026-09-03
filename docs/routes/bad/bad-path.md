@@ -56,8 +56,8 @@ _None_
   "topFeeds": [
     {
       "description": "Bad.news - 热门 - Powered by RSSHub",
-      "errorAt": "2026-09-01T04:32:01.337Z",
-      "errorMessage": "[GET] \"https://bad.news\": 451 Unavailable For Legal Reasons\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "66153135747790848",
       "image": null,
       "ownerUserId": null,
