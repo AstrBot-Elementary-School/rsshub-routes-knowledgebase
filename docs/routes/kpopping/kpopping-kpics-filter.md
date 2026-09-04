@@ -57,7 +57,7 @@ Query photos using filter parameters found on kpopping such as `idolId`, `groupI
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 39,
+  "heat": 41,
   "location": "kpics.ts",
   "maintainers": [
     "nczitzk",

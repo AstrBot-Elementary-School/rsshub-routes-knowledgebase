@@ -37,7 +37,7 @@ _None_
     "reading"
   ],
   "example": "/kongfz/shop/10067/1",
-  "heat": 1,
+  "heat": 0,
   "location": "shop.ts",
   "maintainers": [
     "nczitzk"

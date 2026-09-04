@@ -141,7 +141,7 @@
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 39,
+  "heat": 38,
   "location": "index.tsx",
   "maintainers": [
     "salviox",

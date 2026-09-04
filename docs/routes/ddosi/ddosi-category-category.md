@@ -89,8 +89,8 @@ _None_
     },
     {
       "description": "雨苁-渗透测试 - Powered by RSSHub",
-      "errorAt": "2026-09-02T07:44:24.632Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "70735449588062208",
       "image": null,
       "ownerUserId": null,

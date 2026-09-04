@@ -76,7 +76,20 @@
   "test": {
     "code": 0
   },
-  "topFeeds": [],
+  "topFeeds": [
+    {
+      "description": "上海大学信息公开网-信息公开栏目-国际合作与交流-对外交流项目 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "1238799867828895744",
+      "image": "https://www.shu.edu.cn/__local/0/08/C6/1EABE492B0CF228A5564D6E6ABE_779D1EE3_5BF7.png",
+      "ownerUserId": null,
+      "siteUrl": "https://xxgk.shu.edu.cn/xxgklm/gjhzyjl1/dwjlxm.htm",
+      "title": "上海大学信息公开网-信息公开栏目-国际合作与交流-对外交流项目",
+      "type": "feed",
+      "url": "rsshub://shu/xxgk/dwjlxm"
+    }
+  ],
   "url": "xxgk.shu.edu.cn/"
 }
 ```

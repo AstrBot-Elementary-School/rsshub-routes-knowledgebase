@@ -65,8 +65,8 @@ _None_
   "topFeeds": [
     {
       "description": "一个让你重构认知的顶级思维：如何走出内耗、上瘾、焦虑、无意义 的评论 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-03T04:57:51.446Z",
+      "errorMessage": "[GET] \"https://api.bilibili.com/x/web-interface/view?bvid=BV1bdZAYLEZb\": 412 Precondition Failed\n",
       "id": "138771689583685632",
       "image": null,
       "ownerUserId": null,

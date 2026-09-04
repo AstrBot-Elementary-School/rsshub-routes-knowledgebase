@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 84,
+  "heat": 83,
   "location": "bilibili-recommend.ts",
   "maintainers": [
     "liuyuhe666"

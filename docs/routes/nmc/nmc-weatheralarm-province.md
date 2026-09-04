@@ -90,8 +90,8 @@ _None_
     },
     {
       "description": "中央气象台全国气象预警 - Powered by RSSHub",
-      "errorAt": "2026-09-01T16:22:04.810Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "74808527566350336",
       "image": null,
       "ownerUserId": null,

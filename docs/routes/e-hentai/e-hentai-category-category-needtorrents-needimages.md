@@ -64,7 +64,7 @@
   "features": {
     "nsfw": true
   },
-  "heat": 7,
+  "heat": 6,
   "location": "index.tsx",
   "maintainers": [
     "nczitzk"
@@ -90,18 +90,6 @@
   },
   "topFeeds": [
     {
-      "description": "manga - E-Hentai Galleries - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "106841285260128256",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://e-hentai.org/manga",
-      "title": "manga - E-Hentai Galleries",
-      "type": "feed",
-      "url": "rsshub://e-hentai/category/manga"
-    },
-    {
       "description": "cosplay - E-Hentai Galleries - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -112,6 +100,18 @@
       "title": "cosplay - E-Hentai Galleries",
       "type": "feed",
       "url": "rsshub://e-hentai/category/cosplay"
+    },
+    {
+      "description": "manga - E-Hentai Galleries - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "106841285260128256",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://e-hentai.org/manga",
+      "title": "manga - E-Hentai Galleries",
+      "type": "feed",
+      "url": "rsshub://e-hentai/category/manga"
     }
   ]
 }

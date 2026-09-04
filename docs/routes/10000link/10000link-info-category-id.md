@@ -159,14 +159,14 @@
   },
   "topFeeds": [
     {
-      "description": "281亿！央企五矿发展“脱贸入矿”重组方案获国资委放行：一家做了70多年贸易的公司，为何要改行“挖矿”？ - Powered by RSSHub",
+      "description": "退市两年又如何？涉及空转贸易等违规事项，天津这家公司及相关责任人被重罚3600万！ - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "138893356640117760",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://info.10000link.com/newslists.aspx?chid=My01",
-      "title": "10000万联网 - 281亿！央企五矿发展“脱贸入矿”重组方案获国资委放行：一家做了70多年贸易的公司，为何要改行“挖矿”？",
+      "title": "10000万联网 - 退市两年又如何？涉及空转贸易等违规事项，天津这家公司及相关责任人被重罚3600万！",
       "type": "feed",
       "url": "rsshub://10000link/info/newslists/My01"
     },

@@ -38,7 +38,7 @@ _None_
     "traditional-media"
   ],
   "example": "/wired/tag/facebook",
-  "heat": 197,
+  "heat": 198,
   "location": "tag.ts",
   "maintainers": [
     "Naiqus"
@@ -61,8 +61,8 @@ _None_
   "topFeeds": [
     {
       "description": "Artificial Intelligence | Latest News, Photos & Videos | WIRED - Powered by RSSHub",
-      "errorAt": "2026-08-20T08:30:54.859Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'tagCloud')\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "65791385545769984",
       "image": "https://www.wired.com/verso/static/wired-us/assets/logo.svg",
       "ownerUserId": null,

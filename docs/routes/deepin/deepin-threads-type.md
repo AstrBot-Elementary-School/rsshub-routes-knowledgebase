@@ -39,7 +39,7 @@ _None_
     "bbs"
   ],
   "example": "/deepin/threads/latest",
-  "heat": 19,
+  "heat": 20,
   "location": "thread.ts",
   "maintainers": [
     "myml"
@@ -76,8 +76,8 @@ _None_
   "topFeeds": [
     {
       "description": "deepin论坛主页 - 最新主题 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-03T08:57:37.127Z",
+      "errorMessage": "Failed to fetch\n[GET] \"https://bbs.deepin.org.cn/api/v1/thread/index?languages=zh_CN&order=updated_at&where=id\": <no response> fetch failed (Connect Timeout Error (attempted address: bbs.deepin.org.cn:443, timeout: 10000ms))\n",
       "id": "62087080975204352",
       "image": null,
       "ownerUserId": null,
@@ -88,8 +88,8 @@ _None_
     },
     {
       "description": "deepin论坛主页 - 最新主题 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-03T07:31:32.860Z",
+      "errorMessage": "[GET] \"https://bbs.deepin.org.cn/api/v1/thread/index?languages=zh_CN&order=updated_at&where=id\": <no response> fetch failed (Connect Timeout Error (attempted address: bbs.deepin.org.cn:443, timeout: 10000ms))\n",
       "id": "155304200635561984",
       "image": null,
       "ownerUserId": null,

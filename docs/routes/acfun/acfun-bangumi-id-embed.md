@@ -54,7 +54,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 58,
+  "heat": 59,
   "location": "bangumi.ts",
   "maintainers": [
     "xyqfer"

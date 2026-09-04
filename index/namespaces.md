@@ -1388,6 +1388,12 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `1`
 - Index File: `index/bossdesign.md`
 
+## BR-Klassik
+- Namespace: `br-klassik`
+- Aliases: `br-klassik, br-klassik.de`
+- Route Count: `1`
+- Index File: `index/br-klassik.md`
+
 ## Brave
 - Namespace: `brave`
 - Aliases: `brave, brave.com`

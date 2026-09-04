@@ -57,7 +57,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1496,
+  "heat": 1493,
   "location": "telegraph.tsx",
   "maintainers": [
     "nczitzk"
@@ -82,7 +82,7 @@
   "topFeeds": [
     {
       "description": "财联社 - 电报 - Powered by RSSHub",
-      "errorAt": "2026-09-02T03:43:20.840Z",
+      "errorAt": "2026-09-03T08:32:26.529Z",
       "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 53366652701156363",
       "id": "53366652701156363",
       "image": null,

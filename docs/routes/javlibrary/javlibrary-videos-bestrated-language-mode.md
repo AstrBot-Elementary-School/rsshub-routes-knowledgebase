@@ -60,6 +60,19 @@ _None_
   "test": {
     "code": 1
   },
-  "topFeeds": []
+  "topFeeds": [
+    {
+      "description": null,
+      "errorAt": "2025-05-23T18:45:47.389Z",
+      "errorMessage": "[GET] \"https://www.javlibrary.com/ja/vl_bestrated.php?list&mode=1\": 403 Forbidden\n",
+      "id": "148757739569766448",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": null,
+      "title": "Importing",
+      "type": "feed",
+      "url": "rsshub://javlibrary/videos/bestrated"
+    }
+  ]
 }
 ```

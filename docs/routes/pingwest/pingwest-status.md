@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 549,
+  "heat": 548,
   "location": "status.ts",
   "maintainers": [
     "sanmmm"

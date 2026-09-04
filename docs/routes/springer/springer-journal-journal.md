@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 165,
+  "heat": 164,
   "location": "journal.tsx",
   "maintainers": [
     "Derekmini",

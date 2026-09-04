@@ -55,7 +55,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 376,
+  "heat": 370,
   "location": "top-news.ts",
   "maintainers": [
     "HendricksZheng"
@@ -79,8 +79,8 @@
   "topFeeds": [
     {
       "description": "懂球帝 - 头条 - Powered by RSSHub",
-      "errorAt": "2026-09-02T07:44:53.408Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "73989204856510464",
       "image": null,
       "ownerUserId": null,
@@ -91,8 +91,8 @@
     },
     {
       "description": "懂球帝 - 深度 - Powered by RSSHub",
-      "errorAt": "2026-09-02T07:39:04.868Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "67550300258611200",
       "image": null,
       "ownerUserId": null,

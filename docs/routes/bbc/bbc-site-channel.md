@@ -43,7 +43,7 @@ _None_
   ],
   "description": "Provides a better reading experience (full text articles) over the official ones.\n\nSupport major channels, refer to [BBC RSS feeds](https://www.bbc.co.uk/news/10628494). Eg, `business` for `https://feeds.bbci.co.uk/news/business/rss.xml`.\n\n- Channel contains sub-directories, such as `https://feeds.bbci.co.uk/news/world/asia/rss.xml`, replace `/` with `-`, `/bbc/world-asia`.",
   "example": "/bbc/world-asia",
-  "heat": 2466,
+  "heat": 2464,
   "location": "index.ts",
   "maintainers": [
     "HenryQW",
@@ -74,8 +74,8 @@ _None_
     },
     {
       "description": "BBC News Top Stories - Powered by RSSHub",
-      "errorAt": "2026-09-02T09:13:43.062Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 55115129833870338",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "55115129833870338",
       "image": "https://www.bbc.com/favicon.ico",
       "ownerUserId": null,

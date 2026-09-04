@@ -64,7 +64,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 63,
+  "heat": 64,
   "location": "art.ts",
   "maintainers": [
     "TigerCubDen",
@@ -115,16 +115,16 @@ _None_
       "url": "rsshub://furaffinity/art/gallery/oddeyresproductions/nsfw"
     },
     {
-      "description": "Fur Affinity Gallery of tezzadnah - Powered by RSSHub",
-      "errorAt": "2026-05-26T00:42:37.436Z",
-      "errorMessage": "[GET] \"https://faexport.spangle.org.uk/user/tezzadnah/gallery.json?full=1\": 500 Internal Server Error\n[GET] \"https://faexport.spangle.org.uk/user/tezzadnah/gallery.json?full=1\": 500 Internal Server Error\n",
-      "id": "79207443708549120",
+      "description": "Fur Affinity Gallery of aoyi - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "146173028202221568",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.furaffinity.net/gallery/tezzadnah",
-      "title": "Fur Affinity | Gallery of tezzadnah",
+      "siteUrl": "https://www.furaffinity.net/gallery/aoyi",
+      "title": "Fur Affinity | Gallery of aoyi",
       "type": "feed",
-      "url": "rsshub://furaffinity/art/gallery/tezzadnah/nsfw"
+      "url": "rsshub://furaffinity/art/gallery/aoyi/nsfw"
     }
   ],
   "url": "furaffinity.net"

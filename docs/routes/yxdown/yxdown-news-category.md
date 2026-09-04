@@ -69,7 +69,7 @@ _None_
     {
       "description": null,
       "errorAt": "2025-08-11T10:10:27.202Z",
-      "errorMessage": "Cannot read properties of null (reading '0')\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "177651896292778038",
       "image": null,
       "ownerUserId": null,

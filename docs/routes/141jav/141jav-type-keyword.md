@@ -73,7 +73,7 @@ _None_
   "features": {
     "nsfw": true
   },
-  "heat": 815,
+  "heat": 814,
   "location": "index.tsx",
   "maintainers": [
     "cgkings",
@@ -104,7 +104,7 @@ _None_
     },
     {
       "description": "141JAV - New - Powered by RSSHub",
-      "errorAt": "2026-09-02T09:13:19.376Z",
+      "errorAt": "2026-09-03T09:47:00.635Z",
       "errorMessage": "Failed to fetch\n[GET] \"https://www.141jav.com/new\": 403 Forbidden\n",
       "id": "53022189134482432",
       "image": null,

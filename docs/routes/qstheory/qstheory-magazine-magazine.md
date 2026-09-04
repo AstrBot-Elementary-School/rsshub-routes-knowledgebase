@@ -38,7 +38,7 @@ _None_
     "traditional-media"
   ],
   "example": "/qstheory/magazine/qs",
-  "heat": 502,
+  "heat": 500,
   "location": "magazine.ts",
   "maintainers": [
     "TonyRL",

@@ -82,8 +82,8 @@ _None_
     },
     {
       "description": "安全客-安全知识 - Powered by RSSHub",
-      "errorAt": "2026-09-02T07:45:24.905Z",
-      "errorMessage": "Failed to fetch\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "76187233397022720",
       "image": null,
       "ownerUserId": null,

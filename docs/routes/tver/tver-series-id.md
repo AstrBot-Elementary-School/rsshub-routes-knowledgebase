@@ -39,7 +39,7 @@ _None_
     "traditional-media"
   ],
   "example": "/tver/series/srx2o7o3c8",
-  "heat": 5,
+  "heat": 6,
   "location": "series.ts",
   "maintainers": [
     "yuikisaito"

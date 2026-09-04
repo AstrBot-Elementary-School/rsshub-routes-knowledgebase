@@ -71,6 +71,19 @@ _None_
   "test": {
     "code": 0
   },
-  "topFeeds": []
+  "topFeeds": [
+    {
+      "description": "YUU YUU - Curius - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "63583769589539840",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://curius.app/yuu-yuu",
+      "title": "YUU YUU - Curius",
+      "type": "feed",
+      "url": "rsshub://curius/links/yuu-yuu"
+    }
+  ]
 }
 ```

@@ -61,7 +61,20 @@ _None_
   "test": {
     "code": 0
   },
-  "topFeeds": [],
+  "topFeeds": [
+    {
+      "description": "小米上新 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "1239880299701993472",
+      "image": "https://m.mi.com/static/img/icons/apple-touch-icon-152x152.png",
+      "ownerUserId": null,
+      "siteUrl": "https://m.mi.com/",
+      "title": "小米上新",
+      "type": "feed",
+      "url": "rsshub://mi/newproducts"
+    }
+  ],
   "view": 5
 }
 ```

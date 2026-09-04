@@ -74,6 +74,18 @@ _None_
       "title": "Featured Notes on misskey.io",
       "type": "feed",
       "url": "rsshub://misskey/notes/featured/misskey.io"
+    },
+    {
+      "description": "Featured Notes on Misskey.io - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "1247620005285986304",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://misskey.io/explore",
+      "title": "Featured Notes on Misskey.io",
+      "type": "feed",
+      "url": "rsshub://misskey/notes/featured/Misskey.io"
     }
   ],
   "view": 1

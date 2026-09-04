@@ -41,7 +41,7 @@ _None_
   ],
   "description": "| 物种日历 | 吃货研究所 | 美丽也是技术活 |\n| -------- | ---------- | -------------- |\n| calendar | institute  | beauty         |",
   "example": "/guokr/column/calendar",
-  "heat": 150,
+  "heat": 152,
   "location": "channel.ts",
   "maintainers": [
     "DHPO",

@@ -79,28 +79,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "haoheliu/AudioLDM weekly Pulse - Powered by RSSHub",
+      "description": "datawhalechina/llm-universe weekly Pulse - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "220767323256864791",
+      "id": "137417584044606464",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/haoheliu/AudioLDM/pulse/weekly",
-      "title": "haoheliu/AudioLDM weekly Pulse",
+      "siteUrl": "https://github.com/datawhalechina/llm-universe/pulse/weekly",
+      "title": "datawhalechina/llm-universe weekly Pulse",
       "type": "feed",
-      "url": "rsshub://github/pulse/haoheliu/AudioLDM/weekly"
+      "url": "rsshub://github/pulse/datawhalechina/llm-universe"
     },
     {
-      "description": "wood3n/biu weekly Pulse - Powered by RSSHub",
+      "description": "RVC-Project/Retrieval-based-Voice-Conversion-WebUI weekly Pulse - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "215344700650354688",
+      "id": "220767323256864795",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/wood3n/biu/pulse/weekly",
-      "title": "wood3n/biu weekly Pulse",
+      "siteUrl": "https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/pulse/weekly",
+      "title": "RVC-Project/Retrieval-based-Voice-Conversion-WebUI weekly Pulse",
       "type": "feed",
-      "url": "rsshub://github/pulse/wood3n/biu"
+      "url": "rsshub://github/pulse/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/weekly"
     }
   ]
 }

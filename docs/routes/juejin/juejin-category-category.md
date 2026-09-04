@@ -54,7 +54,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1203,
+  "heat": 1207,
   "location": "category.ts",
   "maintainers": [
     "DIYgod"
@@ -89,8 +89,8 @@
     },
     {
       "description": "掘金 人工智能 - Powered by RSSHub",
-      "errorAt": "2026-09-02T06:28:31.661Z",
-      "errorMessage": "Failed to fetch\nAuthentication failed. Access denied.\n/juejin/category/ai\n[GET] \"https://juejin.cn/post/7680471403955896326\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "42000866869432330",
       "image": null,
       "ownerUserId": null,

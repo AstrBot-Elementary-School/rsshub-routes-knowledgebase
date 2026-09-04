@@ -81,14 +81,14 @@ _None_
       "url": "rsshub://douban/topic/48823"
     },
     {
-      "description": "3379063-豆瓣话题 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "description": "收集一切触动过你的评论-豆瓣话题 - Powered by RSSHub",
+      "errorAt": "2026-09-03T04:17:50.567Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "84419327283379200",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.douban.com/gallery/topic/3379063/?sort=new",
-      "title": "3379063-豆瓣话题",
+      "title": "收集一切触动过你的评论-豆瓣话题",
       "type": "feed",
       "url": "rsshub://douban/topic/3379063"
     }

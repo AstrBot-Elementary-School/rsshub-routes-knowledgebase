@@ -80,8 +80,8 @@ _None_
     },
     {
       "description": "ulapia - 策略研报 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-03T04:08:26.866Z",
+      "errorMessage": "[GET] \"http://www.ulapia.com/reports/strategy_research\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 117.59.168.30:80, 117.59.168.23:80, 117.59.168.25:80, 117.59.168.29:80, 117.59.168.26:80, 117.59.168.28:80, 117.59.168.24:80, 117.59.168.27:80, timeout: 10000ms))\n",
       "id": "60865831498850372",
       "image": null,
       "ownerUserId": null,

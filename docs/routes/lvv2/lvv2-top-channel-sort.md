@@ -57,7 +57,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 18,
+  "heat": 17,
   "location": "top.ts",
   "maintainers": [
     "Fatpandac"
@@ -75,7 +75,7 @@ _None_
   "topFeeds": [
     {
       "description": "lvv2 - 得分 一周内 24小时点击 Top 10 - Powered by RSSHub",
-      "errorAt": "2026-09-02T09:17:00.281Z",
+      "errorAt": "2026-09-03T06:10:26.103Z",
       "errorMessage": "[GET] \"https://lvv2.com/sort-score/t-week\": 451 Unavailable For Legal Reasons\n",
       "id": "62540429081283584",
       "image": null,

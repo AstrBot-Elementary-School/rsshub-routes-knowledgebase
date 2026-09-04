@@ -49,8 +49,8 @@ _None_
   "topFeeds": [
     {
       "description": "日本経済新聞 - Powered by RSSHub",
-      "errorAt": "2026-09-02T09:48:27.063Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 60729951918990336",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "60729951918990336",
       "image": null,
       "ownerUserId": null,

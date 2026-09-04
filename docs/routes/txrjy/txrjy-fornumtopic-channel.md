@@ -68,8 +68,8 @@ _None_
   "topFeeds": [
     {
       "description": "通信人家园 - 论坛 一周热帖 - Powered by RSSHub",
-      "errorAt": "2026-09-02T06:03:21.034Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://www.txrjy.com/c114-listnewtopic.php?typeid=5\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 45.253.17.14:443, 45.253.17.17:443, 45.253.17.19:443, 45.253.17.13:443, 45.253.17.18:443, 45.253.17.20:443, 45.253.17.15:443, 45.253.17.16:443, timeout: 10000ms))\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "67830551877448704",
       "image": null,
       "ownerUserId": null,
@@ -80,8 +80,8 @@ _None_
     },
     {
       "description": "通信人家园 - 论坛 最新500主题帖 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-03T01:53:18.971Z",
+      "errorMessage": "Failed to fetch\nFailed to fetch\n",
       "id": "67830377077194752",
       "image": null,
       "ownerUserId": null,

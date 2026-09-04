@@ -38,7 +38,7 @@ _None_
     "traditional-media"
   ],
   "example": "/ttv",
-  "heat": 67,
+  "heat": 65,
   "location": "index.ts",
   "maintainers": [
     "dzx-dzx"
@@ -61,8 +61,8 @@ _None_
   "topFeeds": [
     {
       "description": "台視新聞 - Powered by RSSHub",
-      "errorAt": "2026-09-02T06:03:50.928Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "72920871518882818",
       "image": null,
       "ownerUserId": null,

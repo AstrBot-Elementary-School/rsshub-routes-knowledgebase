@@ -73,7 +73,7 @@ _None_
   "features": {
     "nsfw": true
   },
-  "heat": 1035,
+  "heat": 1032,
   "location": "index.tsx",
   "maintainers": [
     "cgkings",
@@ -104,8 +104,8 @@ _None_
     },
     {
       "description": "141PPV - New - Powered by RSSHub",
-      "errorAt": "2026-08-31T23:07:48.073Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://www.141ppv.com/new\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "53022498131722240",
       "image": null,
       "ownerUserId": null,

@@ -57,7 +57,7 @@ More jounals can be found in [AEA Journals](https://www.aeaweb.org/journals).
     "supportPodcast": false,
     "supportScihub": true
   },
-  "heat": 265,
+  "heat": 264,
   "location": "index.tsx",
   "maintainers": [
     "nczitzk"

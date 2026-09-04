@@ -103,8 +103,8 @@ _None_
   "topFeeds": [
     {
       "description": "FinScope，汇聚全球金融市场的股票、基金、外汇、期货等实时行情，7*24小时覆盖专业财经资讯，提供客观、准确、及时、全面的沪深港美上市公司股价、财务、股东、分红等信息，让用户在复杂的金融市场，更简单的获取投资信息。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-03T08:56:22.092Z",
+      "errorMessage": "Failed to fetch\n530 \n[GET] \"https://finance.pae.baidu.com/api/getbanner?market=&finClientType=pc\": 403 Forbidden\n",
       "id": "64898003762100224",
       "image": null,
       "ownerUserId": null,

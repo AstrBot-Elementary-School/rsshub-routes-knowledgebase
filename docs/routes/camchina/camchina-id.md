@@ -88,6 +88,18 @@
       "title": "中国管理现代化研究会 - 新 闻",
       "type": "feed",
       "url": "rsshub://camchina"
+    },
+    {
+      "description": "中国管理现代化研究会 - 新 闻 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "1228417330958958592",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "http://www.camchina.org.cn/categories/1",
+      "title": "中国管理现代化研究会 - 新 闻",
+      "type": "feed",
+      "url": "rsshub://camchina/1"
     }
   ]
 }

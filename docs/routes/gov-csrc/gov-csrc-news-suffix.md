@@ -66,6 +66,19 @@ _None_
   "test": {
     "code": 1
   },
-  "topFeeds": []
+  "topFeeds": [
+    {
+      "description": "中国证券监督管理委员会 - 证监会要闻 - Powered by RSSHub",
+      "errorAt": "2026-09-03T09:06:51.257Z",
+      "errorMessage": "[GET] \"http://www.csrc.gov.cn/csrc/c100028/common_xq_list.shtml\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 45.253.17.18:80, 45.253.17.14:80, 45.253.17.13:80, 45.253.17.15:80, 45.253.17.16:80, 45.253.17.19:80, 45.253.17.17:80, 45.253.17.20:80, timeout: 10000ms))\n",
+      "id": "1220957427747127299",
+      "image": "http://www.csrc.gov.cn/favicon.ico",
+      "ownerUserId": null,
+      "siteUrl": "http://www.csrc.gov.cn/csrc/c100028/common_xq_list.shtml",
+      "title": "中国证券监督管理委员会 - 证监会要闻",
+      "type": "feed",
+      "url": "rsshub://gov/csrc/news/c100028/common_xq_list.shtml"
+    }
+  ]
 }
 ```

@@ -72,6 +72,19 @@ _None_
   "test": {
     "code": 1
   },
-  "topFeeds": []
+  "topFeeds": [
+    {
+      "description": "Metacritic aggregates music, game, tv, and movie reviews from the leading critics. Only Metacritic.com uses METASCORES, which let you know at a glance how each item was reviewed. - Powered by RSSHub",
+      "errorAt": "2026-08-14T11:07:15.155Z",
+      "errorMessage": "Cannot read properties of undefined (reading 'split')\n",
+      "id": "70313043997076480",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.metacritic.com/browse/game/all/all/all-time/new/",
+      "title": "All New Games by Release Date - Metacritic",
+      "type": "feed",
+      "url": "rsshub://metacritic/game"
+    }
+  ]
 }
 ```

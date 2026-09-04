@@ -54,7 +54,7 @@ _None_
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 40,
+  "heat": 39,
   "location": "blog.tsx",
   "maintainers": [
     "nczitzk"

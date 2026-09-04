@@ -78,6 +78,18 @@
   },
   "topFeeds": [
     {
+      "description": "上海大学研究生院-综合新闻 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "84820888260427776",
+      "image": "https://www.shu.edu.cn/__local/0/08/C6/1EABE492B0CF228A5564D6E6ABE_779D1EE3_5BF7.png",
+      "ownerUserId": null,
+      "siteUrl": "https://gs.shu.edu.cn/xwlb/zh.htm",
+      "title": "上海大学研究生院-综合新闻",
+      "type": "feed",
+      "url": "rsshub://shu/gs/zhxw"
+    },
+    {
       "description": "上海大学研究生院-培养管理 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -88,18 +100,6 @@
       "title": "上海大学研究生院-培养管理",
       "type": "feed",
       "url": "rsshub://shu/gs/pygl"
-    },
-    {
-      "description": "上海大学研究生院-国际交流 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "84824362495888384",
-      "image": "https://www.shu.edu.cn/__local/0/08/C6/1EABE492B0CF228A5564D6E6ABE_779D1EE3_5BF7.png",
-      "ownerUserId": null,
-      "siteUrl": "https://gs.shu.edu.cn/xwlb/gjjl.htm",
-      "title": "上海大学研究生院-国际交流",
-      "type": "feed",
-      "url": "rsshub://shu/gs/gjjl"
     }
   ],
   "url": "gs.shu.edu.cn/"

@@ -60,14 +60,14 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Emre Kayık’s Watchlist • Letterboxd - Powered by RSSHub",
+      "description": "Emre Kayık’s Watchlist • Letterboxd½★★½★★★★½★★★★★★½★★★★★★★★½★★★★★ - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "196345919019816960",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://letterboxd.com/emrekayik/watchlist/",
-      "title": "Emre Kayık’s Watchlist • Letterboxd",
+      "title": "Emre Kayık’s Watchlist • Letterboxd½★★½★★★★½★★★★★★½★★★★★★★★½★★★★★",
       "type": "feed",
       "url": "rsshub://letterboxd/emrekayik/watchlist"
     },

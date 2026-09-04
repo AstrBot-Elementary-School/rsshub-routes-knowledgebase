@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 843,
+  "heat": 838,
   "location": "daily.ts",
   "maintainers": [
     "DHPO",

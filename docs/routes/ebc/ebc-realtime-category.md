@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 74,
+  "heat": 73,
   "location": "realtime.ts",
   "maintainers": [
     "quiniapiezoelectricity"
@@ -77,8 +77,8 @@ _None_
   "topFeeds": [
     {
       "description": "東森新聞|即時 - Powered by RSSHub",
-      "errorAt": "2026-09-02T02:52:23.932Z",
-      "errorMessage": "Invalid RSSHub JSON Feed from 98292582055262208\nBad control character in string literal in JSON at position 1582 (line 23 column 30)\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "105752020320057344",
       "image": null,
       "ownerUserId": null,
@@ -89,8 +89,8 @@ _None_
     },
     {
       "description": "東森新聞|即時 - Powered by RSSHub",
-      "errorAt": "2026-09-02T01:44:21.684Z",
-      "errorMessage": "Bad control character in string literal in JSON at position 1582 (line 23 column 30)\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "105751285441409024",
       "image": null,
       "ownerUserId": null,

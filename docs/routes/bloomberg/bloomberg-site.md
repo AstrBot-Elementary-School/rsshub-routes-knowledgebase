@@ -65,7 +65,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 5560,
+  "heat": 5555,
   "location": "index.ts",
   "maintainers": [
     "bigfei"
@@ -141,8 +141,8 @@ _None_
     },
     {
       "description": "Bloomberg - News - Powered by RSSHub",
-      "errorAt": "2026-09-02T07:03:49.795Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 64731996464440320",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "64731996464440320",
       "image": null,
       "ownerUserId": null,

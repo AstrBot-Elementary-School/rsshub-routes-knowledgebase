@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 48,
+  "heat": 47,
   "location": "apisix/blog.ts",
   "maintainers": [
     "aneasystone"

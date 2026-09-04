@@ -40,7 +40,7 @@ _None_
   "features": {
     "nsfw": true
   },
-  "heat": 166,
+  "heat": 165,
   "location": "index.ts",
   "maintainers": [
     "Fatpandac"

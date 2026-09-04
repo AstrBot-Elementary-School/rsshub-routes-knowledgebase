@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 88,
+  "heat": 87,
   "location": "readlist.ts",
   "maintainers": [
     "hoilc"

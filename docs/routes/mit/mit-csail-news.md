@@ -38,7 +38,7 @@ _None_
     "university"
   ],
   "example": "/mit/csail/news",
-  "heat": 3,
+  "heat": 2,
   "location": "csail/news.ts",
   "maintainers": [
     "nczitzk"

@@ -60,6 +60,19 @@ _None_
   "test": {
     "code": 0
   },
-  "topFeeds": []
+  "topFeeds": [
+    {
+      "description": "故宫博物院 - 特展 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "1268365424953524224",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.dpm.org.cn/classify/exhibition.html",
+      "title": "故宫博物院 - 特展",
+      "type": "feed",
+      "url": "rsshub://dpm/exhibitions/temporary_exhibitions"
+    }
+  ]
 }
 ```

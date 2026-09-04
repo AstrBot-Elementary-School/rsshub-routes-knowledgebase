@@ -49,7 +49,7 @@ _None_
       }
     ]
   },
-  "heat": 83,
+  "heat": 84,
   "location": "tieba/forum-good.ts",
   "maintainers": [
     "u3u",
@@ -76,9 +76,9 @@ _None_
       "url": "rsshub://baidu/tieba/forum/good/%E5%AD%99%E7%AC%91%E5%B7%9D"
     },
     {
-      "description": "本吧热帖: 1-是不是把成人内容里的成人换成儿童不就是不是成人内容了 2-结婚的都是新人，那旧的呢？ 3-鸡蛋加鸡肉算不算母女盖饭 4-没人觉得卖油翁很嘉豪吗 5-撸管算不算把握裆下 6-新水楼，在此外水贴一律90天 7-其实每个人都有时空倒流的能力 8-标题五个字 9-为什么法律事务所只要律师不要法师 - Powered by RSSHub",
-      "errorAt": "2026-05-08T19:57:08.036Z",
-      "errorMessage": "Baidu Tieba RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#baidu\">BAIDU_COOKIE</a>\n",
+      "description": "弱智吧 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "84969943583648768",
       "image": null,
       "ownerUserId": null,

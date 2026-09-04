@@ -73,8 +73,8 @@ _None_
   "topFeeds": [
     {
       "description": "上海市教育考试院-消息速递 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-03T05:16:24.579Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "84147473290155008",
       "image": null,
       "ownerUserId": null,

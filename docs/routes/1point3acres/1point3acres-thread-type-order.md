@@ -48,7 +48,7 @@ _None_
   ],
   "description": "分类\n\n| 热门帖子 | 最新帖子 |\n| -------- | -------- |\n| hot      | new      |\n\n排序方式\n\n| 最新回复 | 最新发布 |\n| -------- | -------- |\n|          | post     |",
   "example": "/1point3acres/thread/hot",
-  "heat": 168,
+  "heat": 167,
   "location": "thread.ts",
   "maintainers": [
     "IvanWng97",
@@ -67,8 +67,8 @@ _None_
   "topFeeds": [
     {
       "description": "一亩三分地 - 热门帖子 - Powered by RSSHub",
-      "errorAt": "2026-09-02T08:08:22.873Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 55133630460506172",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "55133630460506172",
       "image": null,
       "ownerUserId": null,

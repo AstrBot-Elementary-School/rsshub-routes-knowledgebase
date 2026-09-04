@@ -49,6 +49,19 @@ _None_
   "test": {
     "code": 0
   },
-  "topFeeds": []
+  "topFeeds": [
+    {
+      "description": "每日安全推送 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "1255767024865247232",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://sec.today/pulses/",
+      "title": "每日安全推送",
+      "type": "feed",
+      "url": "rsshub://sec.today/pulses"
+    }
+  ]
 }
 ```

@@ -36,7 +36,7 @@ _None_
     "multimedia"
   ],
   "example": "/btbtla/gxlist",
-  "heat": 11,
+  "heat": 10,
   "location": "gxlist.ts",
   "maintainers": [
     "Hermes1030"

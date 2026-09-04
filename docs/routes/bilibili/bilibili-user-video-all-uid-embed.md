@@ -37,7 +37,7 @@ _None_
     "social-media"
   ],
   "example": "/bilibili/user/video-all/2267573",
-  "heat": 1267,
+  "heat": 1268,
   "location": "video-all.ts",
   "maintainers": [
     "CcccFz"

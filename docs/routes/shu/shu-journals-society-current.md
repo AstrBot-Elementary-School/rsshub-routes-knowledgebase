@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 56,
+  "heat": 55,
   "location": "society.ts",
   "maintainers": [
     "CNYoki"

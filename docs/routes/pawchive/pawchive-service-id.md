@@ -87,6 +87,31 @@ _None_
   "test": {
     "code": 0
   },
-  "topFeeds": []
+  "topFeeds": [
+    {
+      "description": "Posts of Ocn.(おしん⓲) from fanbox | Pawchive - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "1216679953467047936",
+      "image": "https://pawchive.pw/icons/fanbox/51075592",
+      "ownerUserId": null,
+      "siteUrl": "https://pawchive.pw/fanbox/user/51075592",
+      "title": "Posts of Ocn.(おしん⓲) from fanbox | Pawchive",
+      "type": "feed",
+      "url": "rsshub://pawchive/fanbox/51075592"
+    },
+    {
+      "description": "Posts of せるたす from fanbox | Pawchive - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "1234181282800205824",
+      "image": "https://pawchive.pw/icons/fanbox/37432797",
+      "ownerUserId": null,
+      "siteUrl": "https://pawchive.pw/fanbox/user/37432797",
+      "title": "Posts of せるたす from fanbox | Pawchive",
+      "type": "feed",
+      "url": "rsshub://pawchive/fanbox/37432797"
+    }
+  ]
 }
 ```

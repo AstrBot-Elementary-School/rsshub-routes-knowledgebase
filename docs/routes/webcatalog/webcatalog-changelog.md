@@ -73,7 +73,7 @@ _None_
     {
       "description": "WebCatalog Changelog - Powered by RSSHub",
       "errorAt": "2026-06-19T17:48:54.894Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "[GET] \"https://desktop.webcatalog.io/en/changelog\": 404 Not Found\n[GET] \"https://desktop.webcatalog.io/en/changelog\": 404 Not Found\n",
       "id": "95302862902706176",
       "image": null,
       "ownerUserId": null,

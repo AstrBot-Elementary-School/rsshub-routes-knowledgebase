@@ -84,6 +84,18 @@ _None_
       "title": "阿里云开发者社区-",
       "type": "feed",
       "url": "rsshub://aliyun/developer/group/alitech"
+    },
+    {
+      "description": "使用钉钉扫一扫加入圈子 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "225959617276374016",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://developer.aliyun.com/group/ai",
+      "title": "阿里云开发者社区-",
+      "type": "feed",
+      "url": "rsshub://aliyun/developer/group/ai"
     }
   ]
 }

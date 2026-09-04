@@ -62,8 +62,8 @@ _None_
   "topFeeds": [
     {
       "description": "最多收藏 – 香港餐廳排行榜 – 搵食 | OpenRice 香港開飯喇 - Powered by RSSHub",
-      "errorAt": "2026-09-02T06:02:31.531Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "76433972999429120",
       "image": null,
       "ownerUserId": null,

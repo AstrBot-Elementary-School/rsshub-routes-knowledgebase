@@ -84,8 +84,8 @@ Categories:
   "topFeeds": [
     {
       "description": "五大唱片 - 新货上架 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-02T21:42:19.521Z",
+      "errorMessage": "[GET] \"https://www.5music.com.tw/New_releases.asp?mut=A\": <no response> fetch failed (Connect Timeout Error (attempted address: www.5music.com.tw:443, timeout: 10000ms))\n",
       "id": "125390517764326400",
       "image": null,
       "ownerUserId": null,

@@ -88,18 +88,6 @@
       "title": "考试新闻发布(新闻中心)",
       "type": "feed",
       "url": "rsshub://dykszx/news"
-    },
-    {
-      "description": "德阳人事考试网 考试新闻发布 (其他考试) - Powered by RSSHub",
-      "errorAt": "2025-10-09T01:22:44.835Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
-      "id": "161655081002352640",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.dykszx.com/",
-      "title": "考试新闻发布(其他考试)",
-      "type": "feed",
-      "url": "rsshub://dykszx/news/other"
     }
   ],
   "url": "www.dykszx.cn"

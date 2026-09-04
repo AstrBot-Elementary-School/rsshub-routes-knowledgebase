@@ -112,8 +112,8 @@ For other Yahoo News, this route's RSS provides the author field. You can use RS
   "topFeeds": [
     {
       "description": "Yahoo 新聞 HK - 所有類別 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-03T09:47:43.982Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 58739494825370652",
       "id": "58739494825370652",
       "image": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
       "ownerUserId": null,
@@ -124,8 +124,8 @@ For other Yahoo News, this route's RSS provides the author field. You can use RS
     },
     {
       "description": "Yahoo 新聞 TW - 所有類別 - Powered by RSSHub",
-      "errorAt": "2026-09-02T06:28:43.955Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 58739494825370651",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "58739494825370651",
       "image": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
       "ownerUserId": null,

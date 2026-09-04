@@ -57,7 +57,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 8,
+  "heat": 7,
   "location": "experience.ts",
   "maintainers": [
     "huyyi"

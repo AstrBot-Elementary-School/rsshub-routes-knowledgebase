@@ -56,8 +56,8 @@ _None_
   "topFeeds": [
     {
       "description": "界面新闻 - 财经号 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-02T21:42:58.372Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "144074451011202048",
       "image": "https://www.jiemian.com/favicon.ico",
       "ownerUserId": null,

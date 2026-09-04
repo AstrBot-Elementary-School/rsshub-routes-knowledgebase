@@ -54,7 +54,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 369,
+  "heat": 370,
   "location": "news.ts",
   "maintainers": [
     "linbuxiao"

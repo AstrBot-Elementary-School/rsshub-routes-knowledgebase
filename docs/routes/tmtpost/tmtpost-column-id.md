@@ -202,7 +202,7 @@
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 85,
+  "heat": 82,
   "location": "column.ts",
   "maintainers": [
     "nczitzk"

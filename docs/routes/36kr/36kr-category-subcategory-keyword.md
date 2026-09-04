@@ -42,7 +42,7 @@ _None_
   ],
   "description": "| 最新资讯频道 | 快讯        | 推荐资讯  | 生活 | 房产   | 职场      | 搜索文章                | 搜索快讯                |\n| ------------ | ----------- | --------- | ---- | ------ | --------- | ----------------------- | ----------------------- |\n| news         | newsflashes | recommend | life | estate | workplace | search/articles/ 关键词 | search/articles/ 关键词 |",
   "example": "/36kr/newsflashes",
-  "heat": 2516,
+  "heat": 2513,
   "location": "index.ts",
   "maintainers": [
     "nczitzk",
@@ -61,7 +61,7 @@ _None_
   "topFeeds": [
     {
       "description": "36氪 - 快讯 - Powered by RSSHub",
-      "errorAt": "2026-09-02T08:08:16.955Z",
+      "errorAt": "2026-09-03T09:47:40.885Z",
       "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 41572238273905665",
       "id": "41572238273905665",
       "image": null,

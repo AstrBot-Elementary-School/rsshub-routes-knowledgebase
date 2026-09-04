@@ -42,7 +42,7 @@ _None_
   ],
   "description": "Supported sub-sites：\n\n| 9To5Mac | 9To5Google | 9To5Toys |\n| ------- | ---------- | -------- |\n| Mac     | Google     | Toys     |",
   "example": "/9to5/mac/aapl",
-  "heat": 32,
+  "heat": 33,
   "location": "subsite.ts",
   "maintainers": [
     "HenryQW"

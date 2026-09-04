@@ -86,7 +86,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 14,
+  "heat": 15,
   "location": "transform/json.ts",
   "maintainers": [
     "ttttmr"
@@ -103,28 +103,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Proxy https://www.jiqizhixin.com/api/article_library/articles.json - Powered by RSSHub",
+      "description": "Proxy https://seed.bytedance.com/api/get_article_list_v2?article_type=2&count=20&order_desc=true&page_token=0 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "207824007092203520",
+      "id": "1238493682848366592",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.jiqizhixin.com/api/article_library/articles.json",
-      "title": "机器之心",
+      "siteUrl": "https://seed.bytedance.com/api/get_article_list_v2?article_type=2&count=20&order_desc=true&page_token=0",
+      "title": "ByteDance Seed Tech Blog",
       "type": "feed",
-      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fwww.jiqizhixin.com%2Fapi%2Farticle_library%2Farticles.json/title%3D%E6%9C%BA%E5%99%A8%E4%B9%8B%E5%BF%83%26item%3Darticles%26itemTitle%3Dtitle%26itemLink%3Dslug%26itemLinkPrefix%3D%2Farticles%2F%26itemDesc%3Dcontent%26itemPubDate%3DpublishedAt%26itemContent%3Dcontent%26itemJSONPrefix%3D%2Fapi%2Farticle_library%2Farticles%2F"
+      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fseed.bytedance.com%2Fapi%2Fget_article_list_v2%3Farticle_type%3D2%26count%3D20%26order_desc%3Dtrue%26page_token%3D0/title%3DByteDance%2520Seed%2520Tech%2520Blog%26item%3Dsub_article_list%26itemTitle%3DArticleSubContentEn.Title%26itemLink%3DArticleSubContentEn.TitleKey%26itemLinkPrefix%3Dhttps%253A%252F%252Fseed.bytedance.com%252Fen%252Fblog%252F%26itemDesc%3DArticleSubContentEn.Abstract%26itemPubDate%3DArticleMeta.PublishDate"
     },
     {
-      "description": "Proxy https://api.github.com/repos/FalconOpsLLC/goexec/releases - Powered by RSSHub",
+      "description": "Proxy https://api.github.com/repos/java-decompiler/jd-gui/releases - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "185695342945072128",
+      "id": "185694472030917632",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://api.github.com/repos/FalconOpsLLC/goexec/releases",
-      "title": "goexec releases",
+      "siteUrl": "https://api.github.com/repos/java-decompiler/jd-gui/releases",
+      "title": "jd-gui releases",
       "type": "feed",
-      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fapi.github.com%2Frepos%2FFalconOpsLLC%2Fgoexec%2Freleases/title=goexec%20releases&itemTitle=tag_name&itemLink=html_url&itemDesc=body"
+      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fapi.github.com%2Frepos%2Fjava-decompiler%2Fjd-gui%2Freleases/title=jd-gui%20releases&itemTitle=tag_name&itemLink=html_url&itemDesc=body"
     }
   ]
 }

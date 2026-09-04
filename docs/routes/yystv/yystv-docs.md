@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 107,
+  "heat": 106,
   "location": "docs.ts",
   "maintainers": [
     "HaitianLiu",

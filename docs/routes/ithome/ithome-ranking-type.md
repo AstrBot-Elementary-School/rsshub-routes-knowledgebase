@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1223,
+  "heat": 1221,
   "location": "ranking.ts",
   "maintainers": [
     "immmortal",

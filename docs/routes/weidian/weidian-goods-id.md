@@ -49,6 +49,31 @@ _None_
   "test": {
     "code": 1
   },
-  "topFeeds": []
+  "topFeeds": [
+    {
+      "description": "山山大王SSDW 商铺上新 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "1264526059366121472",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://weidian.com/?userid=1807280336",
+      "title": "山山大王SSDW 商铺上新",
+      "type": "feed",
+      "url": "rsshub://weidian/goods/1807280336"
+    },
+    {
+      "description": "Ture 商铺上新 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "1264524888048009216",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://weidian.com/?userid=1718752418",
+      "title": "Ture 商铺上新",
+      "type": "feed",
+      "url": "rsshub://weidian/goods/1718752418"
+    }
+  ]
 }
 ```

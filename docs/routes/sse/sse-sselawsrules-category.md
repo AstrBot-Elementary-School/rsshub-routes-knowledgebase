@@ -312,7 +312,7 @@
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 297,
+  "heat": 296,
   "location": "sselawsrules.ts",
   "maintainers": [
     "nczitzk"

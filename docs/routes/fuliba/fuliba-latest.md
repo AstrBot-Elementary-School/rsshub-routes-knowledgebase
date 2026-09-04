@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 484,
+  "heat": 482,
   "location": "latest.ts",
   "maintainers": [
     "shinemoon"
@@ -74,7 +74,7 @@ _None_
     {
       "description": "福利吧 - Powered by RSSHub",
       "errorAt": "2026-06-15T11:07:58.453Z",
-      "errorMessage": "Failed to fetch\nFailed to fetch\n530 \n[GET] \"https://fuliba2023.net/wp-json/wp/v2/posts?per_page=100&_embed=1\": 410 Gone\n[GET] \"https://fuliba2023.net/wp-json/wp/v2/posts?per_page=100&_embed=1\": 410 \n[GET] \"https://fuliba2023.net/wp-json/wp/v2/posts?per_page=100&_embed=1\": 410 \n[GET] \"https://fuliba2023.net/wp-json/wp/v2/posts?per_page=100&_embed=1\": 410 Gone\n",
+      "errorMessage": "Failed to fetch\n[GET] \"https://fuliba2023.net/wp-json/wp/v2/posts?per_page=100&_embed=1\": 410 Gone\n530 \n[GET] \"https://fuliba2023.net/wp-json/wp/v2/posts?per_page=100&_embed=1\": 410 Gone\n[GET] \"https://fuliba2023.net/wp-json/wp/v2/posts?per_page=100&_embed=1\": 410 \n[GET] \"https://fuliba2023.net/wp-json/wp/v2/posts?per_page=100&_embed=1\": 410 \n[GET] \"https://fuliba2023.net/wp-json/wp/v2/posts?per_page=100&_embed=1\": 410 Gone\n",
       "id": "55989776559142912",
       "image": null,
       "ownerUserId": null,

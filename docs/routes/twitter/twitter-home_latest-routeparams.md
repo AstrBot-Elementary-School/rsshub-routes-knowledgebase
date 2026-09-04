@@ -99,7 +99,7 @@ Currently supported authentication methods:
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 75,
+  "heat": 74,
   "location": "home-latest.ts",
   "maintainers": [
     "DIYgod",
@@ -127,18 +127,6 @@ Currently supported authentication methods:
       "title": "Twitter following timeline",
       "type": "feed",
       "url": "rsshub://twitter/home_latest"
-    },
-    {
-      "description": "Twitter following timeline - Powered by RSSHub",
-      "errorAt": "2024-12-08T19:58:14.122Z",
-      "errorMessage": "No valid Twitter token found\n",
-      "id": "84162913793941504",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://x.com/home",
-      "title": "Twitter following timeline",
-      "type": "feed",
-      "url": "rsshub://twitter/home_latest/"
     }
   ]
 }

@@ -56,7 +56,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 92,
+  "heat": 94,
   "location": "post.ts",
   "maintainers": [
     "cnzgray"

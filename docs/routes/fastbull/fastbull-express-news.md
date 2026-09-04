@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 547,
+  "heat": 546,
   "location": "express-news.ts",
   "maintainers": [
     "nczitzk"
@@ -75,8 +75,8 @@ _None_
   "topFeeds": [
     {
       "description": "实时财经快讯 - FastBull - Powered by RSSHub",
-      "errorAt": "2026-09-02T07:03:33.574Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 60338304723722240",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "60338304723722240",
       "image": null,
       "ownerUserId": null,

@@ -87,7 +87,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 7628,
+  "heat": 7627,
   "location": "transform/html.ts",
   "maintainers": [
     "ttttmr",
@@ -118,8 +118,8 @@ _None_
     },
     {
       "description": "Proxy https://javdb.com/uncensored - Powered by RSSHub",
-      "errorAt": "2026-09-02T05:52:56.748Z",
-      "errorMessage": "Failed to fetch\nAuthentication failed. Access denied.\n/rsshub/transform/html/https%3A%2F%2Fjavdb.com%2Funcensored/title%3DjavDB%E6%97%A0%E7%A0%81\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "70337524894135296",
       "image": null,
       "ownerUserId": null,

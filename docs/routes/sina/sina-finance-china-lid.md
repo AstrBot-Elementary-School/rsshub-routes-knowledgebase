@@ -56,7 +56,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 259,
+  "heat": 256,
   "location": "finance/china.ts",
   "maintainers": [
     "yubinbai"
@@ -81,8 +81,8 @@
   "topFeeds": [
     {
       "description": "新浪财经－国内滚动 - Powered by RSSHub",
-      "errorAt": "2026-09-02T09:53:08.522Z",
-      "errorMessage": "Failed to fetch\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "64235783022956544",
       "image": null,
       "ownerUserId": null,

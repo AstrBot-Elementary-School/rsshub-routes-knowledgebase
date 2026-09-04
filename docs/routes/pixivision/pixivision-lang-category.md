@@ -60,7 +60,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 312,
+  "heat": 311,
   "location": "index.ts",
   "maintainers": [
     "SnowAgar25"

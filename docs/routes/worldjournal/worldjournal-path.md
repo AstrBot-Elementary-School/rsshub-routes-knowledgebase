@@ -39,7 +39,7 @@ _None_
     "new-media"
   ],
   "example": "/worldjournal",
-  "heat": 14,
+  "heat": 12,
   "location": "index.ts",
   "maintainers": [
     "TonyRL"

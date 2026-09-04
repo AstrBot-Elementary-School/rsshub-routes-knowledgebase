@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 250,
+  "heat": 248,
   "location": "index.ts",
   "maintainers": [
     "luyuhuang"

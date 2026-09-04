@@ -78,7 +78,7 @@ _None_
     {
       "description": null,
       "errorAt": "2025-07-10T10:22:36.164Z",
-      "errorMessage": "[GET] \"https://houxu.app/api/1/lives/new/threads?limit=500\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://houxu.app/api/1/lives/new\": <no response> fetch failed (redirect count exceeded)\n",
       "id": "166042410908812294",
       "image": null,
       "ownerUserId": null,

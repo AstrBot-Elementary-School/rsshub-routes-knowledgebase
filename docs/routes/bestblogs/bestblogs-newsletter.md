@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 7,
+  "heat": 6,
   "location": "newsletter.ts",
   "maintainers": [
     "occam-7"

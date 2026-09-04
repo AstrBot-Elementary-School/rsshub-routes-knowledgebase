@@ -39,7 +39,7 @@ _None_
     "traditional-media"
   ],
   "example": "/bbc/zhongwen/topics/ckr7mn6r003t",
-  "heat": 41,
+  "heat": 36,
   "location": "topic-zhongwen.ts",
   "maintainers": [
     "TonyRL"
@@ -76,8 +76,8 @@ _None_
   "topFeeds": [
     {
       "description": "中国 - BBC News 中文 - Powered by RSSHub",
-      "errorAt": "2026-09-02T07:33:29.078Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "247863825203096576",
       "image": "https://www.bbc.com/favicon.ico",
       "ownerUserId": null,

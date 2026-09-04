@@ -94,15 +94,15 @@ _None_
     },
     {
       "description": "undefined - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "72285668788873216",
+      "errorAt": "2026-08-31T15:49:51.779Z",
+      "errorMessage": "Invalid RSSHub JSON Feed from default\n",
+      "id": "260514909783603200",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://docs.rsshub.app/",
       "title": "RSSHub",
       "type": "feed",
-      "url": "rsshub://weibo/timeline/6524368442"
+      "url": "rsshub://weibo/timeline/7892436799"
     }
   ]
 }

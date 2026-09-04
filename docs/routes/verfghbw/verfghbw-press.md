@@ -70,7 +70,20 @@ _None_
   "test": {
     "code": 1
   },
-  "topFeeds": [],
+  "topFeeds": [
+    {
+      "description": "Pressemitteilungen des Verfassungsgerichtshof für das Land Baden-Württemberg - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "1271238062658945024",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://verfgh.baden-wuerttemberg.de/presse-und-service/pressemitteilungen/",
+      "title": "Verfassungsgerichtshof Baden-Württemberg - Pressemitteilungen",
+      "type": "feed",
+      "url": "rsshub://verfghbw/press"
+    }
+  ],
   "url": "verfgh.baden-wuerttemberg.de/presse-und-service/pressemitteilungen/"
 }
 ```

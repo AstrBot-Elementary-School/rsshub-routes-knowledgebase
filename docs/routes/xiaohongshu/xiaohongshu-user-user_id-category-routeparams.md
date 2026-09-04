@@ -55,7 +55,7 @@ _None_
     ],
     "requirePuppeteer": true
   },
-  "heat": 1394168,
+  "heat": 1394156,
   "location": "user.ts",
   "maintainers": [
     "lotosbin",
@@ -102,7 +102,7 @@ _None_
     {
       "description": "喜欢穿搭👗 随意分享🩰 📮3790381790@qq.com 白羊座 重庆南岸 3 关注 1万+ 粉丝 1万+ 获赞与收藏 - Powered by RSSHub",
       "errorAt": "2026-07-13T17:19:40.144Z",
-      "errorMessage": "Failed to fetch\nInvalid RSSHub JSON Feed from 98292582055262208\nFailed to fetch\n530 \nFailed to fetch\n",
+      "errorMessage": "Failed to fetch\nInvalid RSSHub JSON Feed from 98292582055262208\nFailed to fetch\n530 \n[GET] \"https://cloudflarebypassforscraping.rss3.workers.dev/html?url=https%3A%2F%2Fwww.xiaohongshu.com%2Fuser%2Fprofile%2F5db011250000000001002502\": 500 Internal Server Error\n",
       "id": "67448641547187200",
       "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo319cmu4i06c005ndg24ig8982rj4drug?imageView2/2/w/540/format/webp",
       "ownerUserId": null,

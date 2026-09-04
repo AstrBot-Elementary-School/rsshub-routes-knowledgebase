@@ -69,7 +69,7 @@ There is an optinal parameter **limit** which controls the number of posts to fe
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 336,
+  "heat": 337,
   "location": "index.tsx",
   "maintainers": [
     "nczitzk",

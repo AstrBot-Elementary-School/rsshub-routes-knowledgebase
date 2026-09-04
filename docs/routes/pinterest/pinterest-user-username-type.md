@@ -41,7 +41,7 @@ _None_
     "picture"
   ],
   "example": "/pinterest/user/howieserious",
-  "heat": 127,
+  "heat": 126,
   "location": "user.ts",
   "maintainers": [
     "TonyRL"

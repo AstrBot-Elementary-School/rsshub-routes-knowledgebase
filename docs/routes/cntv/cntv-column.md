@@ -61,7 +61,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 207,
+  "heat": 206,
   "location": "column.tsx",
   "maintainers": [
     "WhoIsSure",

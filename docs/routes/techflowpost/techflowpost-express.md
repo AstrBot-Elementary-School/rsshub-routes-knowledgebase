@@ -71,8 +71,8 @@ _None_
   "topFeeds": [
     {
       "description": "深潮TechFlow - 快讯 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-03T09:47:35.127Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 49375919416104960",
       "id": "49375919416104960",
       "image": null,
       "ownerUserId": null,

@@ -83,16 +83,16 @@ _None_
       "url": "rsshub://wechat/mp/homepage/Mzg5Mjc3NzQzMA==/3"
     },
     {
-      "description": "|李厚辰·专栏 - Powered by RSSHub",
-      "errorAt": "2025-08-12T08:16:13.890Z",
-      "errorMessage": "wechat-mp: request blocked by WAF: : ， . Video Mini Program ...: https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HGsrgGqjf_tv68fOA8Nk87RpMNk3lQV18hhYmXYX&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzA3MDM3NjE5NQ%3D%3D%26mid%3D2650852786%26idx%3D1%26sn%3Dcc7fe151271e7c313d07cb9c550a8124\n",
-      "id": "58707616374334464",
+      "description": "|ShowMeAI 日报➕周刊 - Powered by RSSHub",
+      "errorAt": "2025-04-22T15:34:59.019Z",
+      "errorMessage": "wechat-mp: request blocked by WAF: : ， . Video Mini Program ...: https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HH8ZfWqjmW48XY4st-2gCwQkcPZ4txrf1aUns_a4&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzg2OTYyMTcwMw%3D%3D%26mid%3D2247535110%26idx%3D1%26sn%3D92bfe13456f2ac5125eff34e78f21519\n",
+      "id": "58378671255288864",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://mp.weixin.qq.com/mp/homepage?__biz=MzA3MDM3NjE5NQ==&hid=16",
-      "title": "|李厚辰·专栏",
+      "siteUrl": "https://mp.weixin.qq.com/mp/homepage?__biz=Mzg2OTYyMTcwMw==&hid=2",
+      "title": "|ShowMeAI 日报➕周刊",
       "type": "feed",
-      "url": "rsshub://wechat/mp/homepage/MzA3MDM3NjE5NQ==/16"
+      "url": "rsshub://wechat/mp/homepage/Mzg2OTYyMTcwMw==/2/"
     }
   ]
 }

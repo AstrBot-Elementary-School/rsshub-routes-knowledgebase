@@ -116,16 +116,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "Lets you play Fabric mods on NeoForge - Powered by RSSHub",
+      "description": "A lightweight permission based vault plugin that can store ANY item - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "120750482624892928",
+      "id": "114582967983889408",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/connector",
-      "title": "Sinytra Connector Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/xquVwxlu",
+      "title": "AxVaults Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/connector/versions"
+      "url": "rsshub://modrinth/project/xquVwxlu/versions"
     }
   ]
 }

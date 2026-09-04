@@ -930,7 +930,7 @@
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 112,
+  "heat": 113,
   "location": "channel.ts",
   "maintainers": [
     "nczitzk"
@@ -2014,7 +2014,7 @@
     {
       "description": "21财经客户端是南方财经全媒体集团的官方客户端，内容充分融合集团旗下《21世纪经济报道》、《经济科教》、《股市广播》等优质财经媒体资源，实现文字、图片、视频、音频、直播等内容形态的全覆盖。 - Powered by RSSHub",
       "errorAt": "2026-02-27T03:47:47.714Z",
-      "errorMessage": "Failed to fetch\nInvalid RSSHub JSON Feed from 98292582055262208\nCannot read properties of undefined (reading 'split')\n",
+      "errorMessage": "Failed to fetch\nInvalid RSSHub JSON Feed from 98292582055262208\n[GET] \"https://static.21jingji.com/m/webMenu.json\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 103.158.16.12:443, 103.158.16.15:443, 103.158.16.16:443, 103.158.16.9:443, 103.158.16.54:443, 103.158.16.10:443, 103.158.16.11:443, 103.158.16.55:443, timeout: 10000ms))\n",
       "id": "99622100491802624",
       "image": null,
       "ownerUserId": null,

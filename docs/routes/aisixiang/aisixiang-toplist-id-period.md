@@ -59,8 +59,8 @@ _None_
   "topFeeds": [
     {
       "description": "爱思想 - 一天文章点击排行 - Powered by RSSHub",
-      "errorAt": "2026-09-01T16:23:03.579Z",
-      "errorMessage": "Failed to fetch\nFailed to fetch\n",
+      "errorAt": "2026-09-03T09:01:46.074Z",
+      "errorMessage": "Failed to fetch\n[GET] \"https://www.aisixiang.com/toplist?id=1&period=1\": <no response> fetch failed (Client network socket disconnected before secure TLS connection was established)\n",
       "id": "72974175979885568",
       "image": "https://oss.aisixiang.com/images/logo_toplist.jpg",
       "ownerUserId": null,

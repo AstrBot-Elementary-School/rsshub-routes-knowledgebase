@@ -49,7 +49,7 @@ _None_
   ],
   "description": "| ID | Description        |\n| -- | ------------------ |\n| 0  | 企业               |\n| 1  | 金融机构           |\n| 2  | 主权               |\n| 3  | 地方政府及城投公司 |\n| 4  | 宏观经济           |\n| 5  | 结构融资           |\n| 6  | 基础设施项目融资   |\n| 7  | ESG                |\n| 8  | 其他               |",
   "example": "/moodysmismicrosite/report/企业&金融机构",
-  "heat": 159,
+  "heat": 160,
   "location": "report.ts",
   "maintainers": [
     "Cedaric"

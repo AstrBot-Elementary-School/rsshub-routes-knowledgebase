@@ -88,7 +88,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1698,
+  "heat": 1697,
   "location": "other/list.ts",
   "maintainers": [
     "5upernova-heng",
@@ -125,16 +125,16 @@
       "url": "rsshub://douban/list/movie_real_time_hotest"
     },
     {
-      "description": "每周一更新；关注榜单，第一时间了解最新好书 - Powered by RSSHub",
-      "errorAt": "2025-03-04T07:16:45.428Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://m.douban.com/rexxar/api/v2/subject_collection/EC645NBAI/items?playable=0&start=0&count=50\": 404 Not Found\n[GET] \"https://m.douban.com/rexxar/api/v2/subject_collection/EC645NBAI/items?playable=0&start=0&count=50\": 404 Not Found\n[GET] \"https://m.douban.com/rexxar/api/v2/subject_collection/EC645NBAI/items?playable=0&start=0&count=50\": 404 Not Found\n",
-      "id": "55621048231294976",
+      "description": "根据图书、影视、音乐的实时热度与关注度，得出的综合排名 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "56444932847522816",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://m.douban.com/subject_collection/EC645NBAI",
-      "title": "豆瓣 - 一周热门图书榜",
+      "siteUrl": "https://m.douban.com/subject_collection/subject_real_time_hotest",
+      "title": "豆瓣 - 实时热门书影音",
       "type": "feed",
-      "url": "rsshub://douban/list/EC645NBAI"
+      "url": "rsshub://douban/list"
     }
   ]
 }

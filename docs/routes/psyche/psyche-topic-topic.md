@@ -64,7 +64,7 @@ _None_
     {
       "description": "Expert insights and practical help from psychologists, therapists and other professionals who can help you deal with the emotional and psychological challenges of life. - Powered by RSSHub",
       "errorAt": "2025-01-09T00:35:57.859Z",
-      "errorMessage": "[GET] \"https://psyche.co/therapeia\": 429 Too Many Requests\n",
+      "errorMessage": "Unexpected end of JSON input\n",
       "id": "73541535521044480",
       "image": null,
       "ownerUserId": null,

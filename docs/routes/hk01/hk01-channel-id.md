@@ -39,7 +39,7 @@ _None_
     "new-media"
   ],
   "example": "/hk01/channel/391",
-  "heat": 226,
+  "heat": 229,
   "location": "channel.ts",
   "maintainers": [
     "hoilc",

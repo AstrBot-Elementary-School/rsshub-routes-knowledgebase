@@ -75,8 +75,8 @@ _None_
   "topFeeds": [
     {
       "description": "财经头条、财经新闻、最新资讯 - FastBull - Powered by RSSHub",
-      "errorAt": "2026-09-02T07:38:45.993Z",
-      "errorMessage": "Failed to fetch\n530 \nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "59799220289372189",
       "image": null,
       "ownerUserId": null,

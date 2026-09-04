@@ -57,7 +57,7 @@
       }
     ]
   },
-  "heat": 3,
+  "heat": 2,
   "location": "home.ts",
   "maintainers": [
     "kjasn"

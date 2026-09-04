@@ -66,7 +66,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 198,
+  "heat": 196,
   "location": "news/provider.ts",
   "maintainers": [
     "TonyRL",
@@ -97,7 +97,7 @@
     {
       "description": "Yahoo 新聞 - - Powered by RSSHub",
       "errorAt": "2026-08-30T11:28:15.703Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://tw-gw-news.media.yahoo.com/api/v1/gql/saved_query?count=20&device=desktop&documentType=article%2Cvideo&id=search&lang=zh-Hant-HK&namespace=news&region=HK&site=news&start=0&version=v1&imageSizes=498x280%2C100x100&providerid=afp.com.hk&spaceId=2143854493\": 404 \nFailed to fetch\n[GET] \"https://tw-gw-news.media.yahoo.com/api/v1/gql/saved_query?count=20&device=desktop&documentType=article%2Cvideo&id=search&lang=zh-Hant-HK&namespace=news&region=HK&site=news&start=0&version=v1&imageSizes=498x280%2C100x100&providerid=afp.com.hk&spaceId=2143854493\": 404 Not Found\n",
+      "errorMessage": "Failed to fetch\n[GET] \"https://tw-gw-news.media.yahoo.com/api/v1/gql/saved_query?count=20&device=desktop&documentType=article%2Cvideo&id=search&lang=zh-Hant-HK&namespace=news&region=HK&site=news&start=0&version=v1&imageSizes=498x280%2C100x100&providerid=afp.com.hk&spaceId=2143854493\": 404 \n[GET] \"https://hk.news.yahoo.com/archive\": <no response> fetch failed\n[GET] \"https://tw-gw-news.media.yahoo.com/api/v1/gql/saved_query?count=20&device=desktop&documentType=article%2Cvideo&id=search&lang=zh-Hant-HK&namespace=news&region=HK&site=news&start=0&version=v1&imageSizes=498x280%2C100x100&providerid=afp.com.hk&spaceId=2143854493\": 404 Not Found\n",
       "id": "66154144789164034",
       "image": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
       "ownerUserId": null,

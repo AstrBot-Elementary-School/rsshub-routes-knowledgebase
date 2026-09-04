@@ -50,7 +50,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 73,
+  "heat": 72,
   "location": "page.ts",
   "maintainers": [
     "sxzz"

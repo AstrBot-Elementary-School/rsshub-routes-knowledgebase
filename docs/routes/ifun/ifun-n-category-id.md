@@ -134,7 +134,7 @@
     {
       "description": "趣集 - Powered by RSSHub",
       "errorAt": "2025-01-19T17:37:36.683Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'find')\nCannot read properties of undefined (reading 'find')\n",
+      "errorMessage": "Failed to fetch\n[GET] \"https://n.ifun.cool/api/articles/all?datasrc=articles&current=1&size=30\": 522 <none>\n",
       "id": "86604116820537344",
       "image": null,
       "ownerUserId": null,

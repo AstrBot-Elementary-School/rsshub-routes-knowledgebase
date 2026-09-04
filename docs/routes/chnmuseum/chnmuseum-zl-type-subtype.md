@@ -62,6 +62,19 @@ _None_
   "test": {
     "code": 0
   },
-  "topFeeds": []
+  "topFeeds": [
+    {
+      "description": "中国国家博物馆 - 临时展览 - 历史文化 - Powered by RSSHub",
+      "errorAt": "2026-09-02T17:47:58.498Z",
+      "errorMessage": "[GET] \"https://www.chnmuseum.cn/zl/lszl/lswh/\": <no response> fetch failed (Connect Timeout Error (attempted address: www.chnmuseum.cn:443, timeout: 10000ms))\n",
+      "id": "1268365424953524225",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.chnmuseum.cn/zl/lszl/lswh/",
+      "title": "中国国家博物馆 - 临时展览 - 历史文化",
+      "type": "feed",
+      "url": "rsshub://chnmuseum/zl/lszl/lswh"
+    }
+  ]
 }
 ```

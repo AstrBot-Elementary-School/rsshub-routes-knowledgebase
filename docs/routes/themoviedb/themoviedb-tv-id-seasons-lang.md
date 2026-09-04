@@ -78,16 +78,16 @@ _None_
       "url": "rsshub://themoviedb/tv/70593/seasons"
     },
     {
-      "description": "Rumi, Tamoko and their mother are being blackmailed by Mr. Nogawa and his son. They must learn to fight back just enough to be able to take revenge when the time is right. - Powered by RSSHub",
+      "description": "Twenty years after modern civilization has been destroyed, Joel, a hardened survivor, is hired to smuggle Ellie, a 14-year-old girl, out of an oppressive quarantine zone. What starts as a small job soon becomes a brutal, heartbreaking journey, as they both must traverse the United States and depend on each other for survival. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "146311702677387264",
-      "image": "https://image.tmdb.org/t/p/original/uA2zWEasPhJLe6rs8NlU1qlHYJv.jpg",
+      "id": "83016713777551360",
+      "image": "https://image.tmdb.org/t/p/original/dmo6TYuuJgaYinXBPjrgG9mB5od.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://www.themoviedb.org/tv/60593/seasons",
-      "title": "Immoral Sisters - Seasons — TMDB",
+      "siteUrl": "https://www.themoviedb.org/tv/100088/seasons",
+      "title": "The Last of Us - Seasons — TMDB",
       "type": "feed",
-      "url": "rsshub://themoviedb/tv/60593/seasons"
+      "url": "rsshub://themoviedb/tv/100088/seasons"
     }
   ],
   "view": 5

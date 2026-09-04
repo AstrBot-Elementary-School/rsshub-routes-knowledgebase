@@ -81,7 +81,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 594,
+  "heat": 592,
   "location": "weread/category.ts",
   "maintainers": [
     "gogo-100"

@@ -137,7 +137,7 @@
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 74,
+  "heat": 73,
   "location": "chinese.tsx",
   "maintainers": [
     "nczitzk"
@@ -264,8 +264,8 @@
     },
     {
       "description": "인터넷 신문 - Powered by RSSHub",
-      "errorAt": "2026-09-02T06:32:42.281Z",
-      "errorMessage": "Invalid RSSHub JSON Feed from 98292582055262208\n[GET] \"https://chinese.joins.com/news/articleView.html?idxno=125990\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "65469694593591296",
       "image": "https://chinese.joins.com/image/logo/toplogo_20200319051833.png",
       "ownerUserId": null,

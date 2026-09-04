@@ -56,7 +56,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 141,
+  "heat": 140,
   "location": "article.ts",
   "maintainers": [
     "salviox"
@@ -88,8 +88,8 @@ _None_
     },
     {
       "description": "熊猫不是猫QAQ-什么值得买 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-03T03:31:54.772Z",
+      "errorMessage": "Failed to fetch\n[GET] \"https://zhiyou.smzdm.com/member/9256201282/article/\": 502 Bad Gateway\n",
       "id": "70353490015745024",
       "image": null,
       "ownerUserId": null,

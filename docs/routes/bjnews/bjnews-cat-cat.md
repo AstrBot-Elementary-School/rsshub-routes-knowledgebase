@@ -39,7 +39,7 @@ _None_
   ],
   "example": "/bjnews/cat/depth",
   "features": {},
-  "heat": 111,
+  "heat": 109,
   "location": "cat.ts",
   "maintainers": [
     "dzx-dzx"

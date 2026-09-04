@@ -86,6 +86,18 @@ _None_
       "title": "TopNews",
       "type": "feed",
       "url": "rsshub://apnews/mobile"
+    },
+    {
+      "description": "TopNews - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "1204269028550246400",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://apnews.com/",
+      "title": "TopNews",
+      "type": "feed",
+      "url": "rsshub://apnews/mobile//"
     }
   ],
   "view": 0

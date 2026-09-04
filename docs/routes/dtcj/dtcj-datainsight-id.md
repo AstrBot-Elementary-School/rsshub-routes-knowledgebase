@@ -55,7 +55,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 15,
+  "heat": 14,
   "location": "datainsight.ts",
   "maintainers": [
     "nczitzk"

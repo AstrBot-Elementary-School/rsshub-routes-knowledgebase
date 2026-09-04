@@ -58,7 +58,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1092,
+  "heat": 1089,
   "location": "tuwen.ts",
   "maintainers": [
     "xizeyoupan"
@@ -86,8 +86,8 @@ _None_
     },
     {
       "description": "酷安 - 新鲜图文 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-03T09:47:47.877Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 59083231915003968",
       "id": "59083231915003968",
       "image": null,
       "ownerUserId": null,

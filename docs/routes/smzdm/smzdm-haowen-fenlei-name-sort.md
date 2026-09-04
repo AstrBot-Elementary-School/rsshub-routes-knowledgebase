@@ -61,7 +61,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 346,
+  "heat": 348,
   "location": "haowen-fenlei.ts",
   "maintainers": [
     "LogicJake"
@@ -84,7 +84,7 @@
     {
       "description": "NAS存储 - 什么值得买好文分类 - Powered by RSSHub",
       "errorAt": "2025-04-23T01:49:36.639Z",
-      "errorMessage": "Failed to fetch\nInvalid RSSHub JSON Feed from 98292582055262208\nFailed to fetch\n",
+      "errorMessage": "Failed to fetch\nInvalid RSSHub JSON Feed from 98292582055262208\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "63960223947361280",
       "image": null,
       "ownerUserId": null,

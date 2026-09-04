@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 95,
+  "heat": 93,
   "location": "zhongchou.tsx",
   "maintainers": [
     "xyqfer",

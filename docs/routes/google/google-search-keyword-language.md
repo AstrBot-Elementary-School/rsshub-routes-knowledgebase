@@ -66,18 +66,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "AI赚钱 - Google Search - Powered by RSSHub",
-      "errorAt": "2025-10-27T06:01:24.457Z",
-      "errorMessage": "[GET] \"https://www.google.com/search?q=AI%E8%B5%9A%E9%92%B1\": 429 Too Many Requests\n",
-      "id": "179590418034543616",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.google.com/search?q=AI%E8%B5%9A%E9%92%B1",
-      "title": "AI赚钱 - Google Search",
-      "type": "feed",
-      "url": "rsshub://google/search/AI%E8%B5%9A%E9%92%B1"
-    },
-    {
       "description": "被查+site:thepaper.cn - Google Search - Powered by RSSHub",
       "errorAt": "2025-09-10T17:16:47.805Z",
       "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
@@ -88,6 +76,18 @@ _None_
       "title": "被查+site:thepaper.cn - Google Search",
       "type": "feed",
       "url": "rsshub://google/search/%E8%A2%AB%E6%9F%A5+site:thepaper.cn"
+    },
+    {
+      "description": "AI赚钱 - Google Search - Powered by RSSHub",
+      "errorAt": "2025-10-27T06:01:24.457Z",
+      "errorMessage": "[GET] \"https://www.google.com/search?q=AI%E8%B5%9A%E9%92%B1\": 429 Too Many Requests\n",
+      "id": "179590418034543616",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.google.com/search?q=AI%E8%B5%9A%E9%92%B1",
+      "title": "AI赚钱 - Google Search",
+      "type": "feed",
+      "url": "rsshub://google/search/AI%E8%B5%9A%E9%92%B1"
     }
   ]
 }

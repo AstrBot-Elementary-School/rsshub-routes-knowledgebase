@@ -81,8 +81,8 @@
   "topFeeds": [
     {
       "description": "南开大学人工智能学院-最新动态 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-03T06:41:40.877Z",
+      "errorMessage": "[GET] \"https://ai.nankai.edu.cn/xwzx/zxdt.htm\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 222.30.45.190:443, 2001:250:401:d450::190:443, timeout: 10000ms))\n",
       "id": "188273958932923392",
       "image": null,
       "ownerUserId": null,
