@@ -77,8 +77,8 @@ _None_
   "topFeeds": [
     {
       "description": "東森新聞|即時 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-04T07:26:40.105Z",
+      "errorMessage": "[POST] \"https://news.ebc.net.tw/list/load\": 403 Forbidden\n",
       "id": "105752020320057344",
       "image": null,
       "ownerUserId": null,

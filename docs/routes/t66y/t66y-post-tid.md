@@ -86,7 +86,7 @@ _None_
     {
       "description": "[現代奇幻] 有一种巧合叫租在隔壁（下） - 成人文學交流區 | 草榴社區 - t66y.com - Powered by RSSHub",
       "errorAt": "2026-07-09T12:04:23.977Z",
-      "errorMessage": "Failed to fetch\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "60209348426006528",
       "image": null,
       "ownerUserId": null,

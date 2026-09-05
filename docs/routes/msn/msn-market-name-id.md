@@ -79,7 +79,7 @@ MSN News
     {
       "description": "Bloomberg - Powered by RSSHub",
       "errorAt": "2026-07-19T07:58:45.756Z",
-      "errorMessage": "Failed to fetch\nCannot read properties of undefined (reading 'cards')\n",
+      "errorMessage": "Cannot read properties of undefined (reading 'cards')\n",
       "id": "99576216016317440",
       "image": "https://www.msn.com/favicon.ico",
       "ownerUserId": null,

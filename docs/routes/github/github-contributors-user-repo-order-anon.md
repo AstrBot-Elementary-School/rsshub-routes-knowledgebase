@@ -95,16 +95,16 @@ _None_
       "url": "rsshub://github/contributors/biquanlibai/blockchain-course"
     },
     {
-      "description": "New contributors for infiniflow/ragflow - Powered by RSSHub",
+      "description": "New contributors for comfyanonymous/ComfyUI - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "84430164607162368",
+      "id": "80504153337164800",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/infiniflow/ragflow/graphs/contributors",
-      "title": "infiniflow/ragflow Contributors",
+      "siteUrl": "https://github.com/comfyanonymous/ComfyUI/graphs/contributors",
+      "title": "comfyanonymous/ComfyUI Contributors",
       "type": "feed",
-      "url": "rsshub://github/contributors/infiniflow/ragflow"
+      "url": "rsshub://github/contributors/comfyanonymous/ComfyUI"
     }
   ]
 }

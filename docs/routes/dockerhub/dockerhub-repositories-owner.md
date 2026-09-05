@@ -53,18 +53,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "List of repositories for diygod - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "83892100612352000",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://hub.docker.com/r/diygod",
-      "title": "diygod repositories",
-      "type": "feed",
-      "url": "rsshub://dockerhub/repositories/diygod"
-    },
-    {
       "description": "List of repositories for gravityle - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -75,6 +63,18 @@ _None_
       "title": "gravityle repositories",
       "type": "feed",
       "url": "rsshub://dockerhub/repositories/gravityle"
+    },
+    {
+      "description": "List of repositories for diygod - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "83892100612352000",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://hub.docker.com/r/diygod",
+      "title": "diygod repositories",
+      "type": "feed",
+      "url": "rsshub://dockerhub/repositories/diygod"
     }
   ],
   "view": 5

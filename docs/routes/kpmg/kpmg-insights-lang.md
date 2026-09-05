@@ -75,7 +75,7 @@ _None_
     {
       "description": "KPMG Insights - Powered by RSSHub",
       "errorAt": "2026-04-11T12:51:46.487Z",
-      "errorMessage": "[GET] \"https://kpmg.com/xx/en/home/insights/2024/08/european-commission-faqs-csrd-esrs.html\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://kpmg.com/xx/en/home/insights/2024/07/ifrs-blog-gri-issb-agreement.html\": 404 Not Found\n",
       "id": "67011938801010691",
       "image": null,
       "ownerUserId": null,

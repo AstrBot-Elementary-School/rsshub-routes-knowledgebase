@@ -204,8 +204,8 @@ _None_
   "topFeeds": [
     {
       "description": "中国钢铁工业协会的官方网站！ - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-03T16:22:13.398Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "119675163235223552",
       "image": "https://www.chinaisa.org.cn/img/logo.jpg",
       "ownerUserId": null,

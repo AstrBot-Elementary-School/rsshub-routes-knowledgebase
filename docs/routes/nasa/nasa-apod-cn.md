@@ -54,7 +54,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1028,
+  "heat": 1027,
   "location": "apod-cn.ts",
   "maintainers": [
     "nczitzk",
@@ -78,7 +78,7 @@ _None_
     {
       "description": "NASA中文 - 天文·每日一图 - Powered by RSSHub",
       "errorAt": "2026-09-01T15:37:38.552Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://www.nasachina.cn/wp-json/wp/v2/posts?categories=2&per_page=10\": 403 Forbidden\n[GET] \"https://www.nasachina.cn/wp-json/wp/v2/posts?categories=2&per_page=10\": 403 Forbidden\n[GET] \"https://www.nasachina.cn/wp-json/wp/v2/posts?categories=2&per_page=10\": 403 Forbidden\n[GET] \"https://www.nasachina.cn/wp-json/wp/v2/posts?categories=2&per_page=10\": 403 Forbidden\nAuthentication failed. Access denied.\n/nasa/apod-cn\nInvalid RSSHub JSON Feed from 98292582055262208\n[GET] \"https://www.nasachina.cn/wp-json/wp/v2/posts?categories=2&per_page=10\": 403 Forbidden\n503 \n[GET] \"https://www.nasachina.cn/wp-json/wp/v2/posts?categories=2&per_page=10\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.nasachina.cn/wp-json/wp/v2/posts?categories=2&per_page=10\": 403 Forbidden\n[GET] \"https://www.nasachina.cn/wp-json/wp/v2/posts?categories=2&per_page=10\": 403 Forbidden\n[GET] \"https://www.nasachina.cn/wp-json/wp/v2/posts?categories=2&per_page=10\": 403 Forbidden\n[GET] \"https://www.nasachina.cn/wp-json/wp/v2/posts?categories=2&per_page=10\": 403 Forbidden\nAuthentication failed. Access denied.\n/nasa/apod-cn\n[GET] \"https://www.nasachina.cn/wp-json/wp/v2/posts?categories=2&per_page=10\": 403 Forbidden\n[GET] \"https://www.nasachina.cn/wp-json/wp/v2/posts?categories=2&per_page=10\": 403 Forbidden\n",
       "id": "41857927240047616",
       "image": null,
       "ownerUserId": null,

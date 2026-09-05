@@ -139,8 +139,8 @@ Example:
   "topFeeds": [
     {
       "description": "Coco要做人啦！（闭关中） 的 pixiv 最新小说 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-03T22:36:46.801Z",
+      "errorMessage": "[GET] \"https://app-api.pixiv.net/v1/user/novels?filter=for_ios&user_id=43420481\": 400 Bad Request\n",
       "id": "171616028489447424",
       "image": "https://pixiv.rss3.workers.dev/user-profile/img/2024/09/20/22/49/43/26387649_59dfd297e633748236bf3623acea457c_170.png",
       "ownerUserId": null,
@@ -151,8 +151,8 @@ Example:
     },
     {
       "description": "兴趣使然的瑟琴写手 的 pixiv 最新小说 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-03T20:42:43.813Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "77022618395189248",
       "image": "https://pixiv.rss3.workers.dev/user-profile/img/2020/07/16/18/34/46/18999686_40ea820c8991c9648c5c5120aaaaed82_170.jpg",
       "ownerUserId": null,

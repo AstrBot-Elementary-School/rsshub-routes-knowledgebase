@@ -51,28 +51,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "山山大王SSDW 商铺上新 - Powered by RSSHub",
+      "description": "UZI（全国包顺丰） 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264526059366121472",
+      "id": "1264478347631394816",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1807280336",
-      "title": "山山大王SSDW 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1860117640",
+      "title": "UZI（全国包顺丰） 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1807280336"
+      "url": "rsshub://weidian/goods/1860117640"
     },
     {
-      "description": "Ture 商铺上新 - Powered by RSSHub",
+      "description": "byvovo 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264524888048009216",
+      "id": "1264525518451900416",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1718752418",
-      "title": "Ture 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1771961812",
+      "title": "byvovo 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1718752418"
+      "url": "rsshub://weidian/goods/1771961812"
     }
   ]
 }

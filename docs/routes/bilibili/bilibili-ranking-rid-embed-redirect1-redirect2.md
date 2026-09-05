@@ -43,7 +43,7 @@ _None_
     "popular"
   ],
   "example": "/bilibili/ranking/all",
-  "heat": 9274,
+  "heat": 9277,
   "location": "ranking.ts",
   "maintainers": [
     "DIYgod",
@@ -137,7 +137,7 @@ _None_
     {
       "description": "bilibili 排行榜-全站 - Powered by RSSHub",
       "errorAt": "2026-09-01T04:37:23.624Z",
-      "errorMessage": "Failed to fetch\n530 \nInvalid RSSHub JSON Feed from 98292582055262208\n-352\n-352\nCould not find Chrome (ver. 136.0.7103.49). This can occur if either\n 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or\n 2. your cache path is incorrectly configured (which is: /app/node_modules/.cache/puppeteer).\nFor (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.\n-352\n-352\nAuthentication failed. Access denied.\n/bilibili/ranking/0\n-352\n404 \n[GET] \"https://api.bilibili.com/x/web-interface/view?bvid=BV1eHt86mErz\": 412 \nCould not find Chrome (ver. 136.0.7103.49). This can occur if either\n 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or\n 2. your cache path is incorrectly configured (which is: /home/sbx_user1051/.cache/puppeteer).\nFor (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.\nbrowserType.connect: WebSocket error: ws://browserless:3000/ 429 Too Many Requests\n\r\nToo Many Requests\nCall log:\n  - <ws connecting> ws://browserless:3000/\n  - <ws unexpected response> ws://browserless:3000/ 429 Too Many Requests\n\r\nToo Many Requests\n  - <ws error> ws://browserless:3000/ error WebSocket was closed before the connection was established\n  - <ws connect error> ws://browserless:3000/ WebSocket was closed before the connection was established\n  - <ws disconnected> ws://browserless:3000/ code=1006 reason=\n\n-352\n-352\n[GET] \"https://api.bilibili.com/x/web-interface/view?bvid=BV1a3th65EQb\": 412 Precondition Failed\n",
+      "errorMessage": "-352\n-352\n-352\n-352\n-352\nAuthentication failed. Access denied.\n/bilibili/ranking/0\n-352\n-352\nCould not find Chrome (ver. 136.0.7103.49). This can occur if either\n 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or\n 2. your cache path is incorrectly configured (which is: /home/sbx_user1051/.cache/puppeteer).\nFor (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.\n-352\n-352\n-352\n-352\n",
       "id": "78806242632741888",
       "image": null,
       "ownerUserId": null,
@@ -149,7 +149,7 @@ _None_
     {
       "description": "bilibili 排行榜-知识 - Powered by RSSHub",
       "errorAt": "2026-07-15T05:32:42.190Z",
-      "errorMessage": "Failed to fetch\n请求错误\n-352\n请求错误\n",
+      "errorMessage": "Failed to fetch\n-352\n请求错误\n-352\n",
       "id": "78844164657093632",
       "image": null,
       "ownerUserId": null,

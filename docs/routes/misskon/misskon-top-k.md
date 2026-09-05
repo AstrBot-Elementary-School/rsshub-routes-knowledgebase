@@ -70,7 +70,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 375,
+  "heat": 373,
   "location": "top.ts",
   "maintainers": [
     "Urabartin"

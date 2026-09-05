@@ -83,7 +83,7 @@ _None_
     {
       "description": "知乎关注人数TOP 3收藏夹之一，请在为收藏的万赞相关评论区 @莫博之，或者私信我答案地址链接。 - Powered by RSSHub",
       "errorAt": "2026-02-23T18:43:42.452Z",
-      "errorMessage": "[GET] \"https://www.zhihu.com/api/v4/collections/37406996/items?offset=0&limit=20\": 401 Authorization Required\n[GET] \"https://www.zhihu.com/api/v4/collections/37406996/items?offset=0&limit=20\": 401 Authorization Required\n",
+      "errorMessage": "[GET] \"https://www.zhihu.com/api/v4/collections/37406996/items?offset=0&limit=20\": 401 Authorization Required\n[GET] \"https://www.zhihu.com/api/v4/collections/37406996/items?offset=0&limit=20\": 401 Authorization Required\n[GET] \"https://www.zhihu.com/api/v4/collections/37406996/items?offset=0&limit=20\": 401 Authorization Required\n",
       "id": "104524498543254528",
       "image": null,
       "ownerUserId": null,

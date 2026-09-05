@@ -98,7 +98,7 @@ _None_
       "url": "rsshub://wordpress/https%3A%2F%2Fwww.gamer520.com%2F"
     },
     {
-      "description": "The latest news about WordPress and the WordPress community - Powered by RSSHub",
+      "description": "WordPress News – The latest news about WordPress and the WordPress community - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "168574790345884672",

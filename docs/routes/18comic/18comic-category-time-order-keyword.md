@@ -78,7 +78,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 491,
+  "heat": 490,
   "location": "index.ts",
   "maintainers": [
     "nczitzk",
@@ -105,8 +105,8 @@
   "topFeeds": [
     {
       "description": "最新的 A漫 - 禁漫天堂 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-04T00:47:39.852Z",
+      "errorMessage": "[GET] \"https://jmcomic1.me/albums\": 403 Forbidden\n[GET] \"https://jmcomic1.me/albums\": <no response> fetch failed\n[GET] \"https://jmcomic1.me/albums\": 403 Forbidden\n",
       "id": "149578173744708609",
       "image": null,
       "ownerUserId": null,
@@ -117,8 +117,8 @@
     },
     {
       "description": "最新的 A漫 - 禁漫天堂 - Powered by RSSHub",
-      "errorAt": "2026-09-01T20:26:57.661Z",
-      "errorMessage": "[GET] \"https://jmcomic1.me/albums\": 403 \n[GET] \"https://jmcomic1.me/albums\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "181646966076518400",
       "image": null,
       "ownerUserId": null,

@@ -93,7 +93,7 @@ _None_
     {
       "description": "最新日韩动漫 - moduzy.net - Powered by RSSHub",
       "errorAt": "2026-08-22T04:21:00.127Z",
-      "errorMessage": "Unexpected token '<', \"<script sr\"... is not valid JSON\nFailed to fetch\nUnexpected token '<', \"<script sr\"... is not valid JSON\n",
+      "errorMessage": "Unexpected token '<', \"<script sr\"... is not valid JSON\nUnexpected token '<', \"<script sr\"... is not valid JSON\n",
       "id": "63376654120875008",
       "image": null,
       "ownerUserId": null,

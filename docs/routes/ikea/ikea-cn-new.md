@@ -76,7 +76,7 @@ _None_
     {
       "description": "当季新品推荐 - Powered by RSSHub",
       "errorAt": "2025-09-15T03:51:42.607Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "[POST] \"https://srv-mp.app.ikea.cn/content/search/products/advanced?keyword=%E6%96%B0%E5%93%81&moreToken\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 103.158.16.142:443, 103.158.16.143:443, 103.158.16.147:443, 103.158.16.146:443, 103.158.16.145:443, 103.158.16.141:443, 103.158.16.144:443, 103.158.16.140:443, timeout: 10000ms))\n",
       "id": "66834743977124868",
       "image": null,
       "ownerUserId": null,

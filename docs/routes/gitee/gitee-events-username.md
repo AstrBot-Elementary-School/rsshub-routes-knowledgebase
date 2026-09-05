@@ -74,6 +74,18 @@ _None_
   },
   "topFeeds": [
     {
+      "description": "zepc-hhy - 公开动态 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "1161384219914403840",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://gitee.com/zepc-hhy",
+      "title": "zepc-hhy - 公开动态",
+      "type": "feed",
+      "url": "rsshub://gitee/events/zepc-hhy"
+    },
+    {
       "description": "NanGePlus - 公开动态 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -84,18 +96,6 @@ _None_
       "title": "NanGePlus - 公开动态",
       "type": "feed",
       "url": "rsshub://gitee/events/NanGePlus"
-    },
-    {
-      "description": "silencedream - 公开动态 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "140336243023671296",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://gitee.com/silencedream",
-      "title": "silencedream - 公开动态",
-      "type": "feed",
-      "url": "rsshub://gitee/events/silencedream"
     }
   ]
 }

@@ -108,8 +108,8 @@
     },
     {
       "description": "飞客茶馆信用卡 - 招商银行 - Powered by RSSHub",
-      "errorAt": "2026-09-03T05:08:42.899Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "56955741222491136",
       "image": null,
       "ownerUserId": null,

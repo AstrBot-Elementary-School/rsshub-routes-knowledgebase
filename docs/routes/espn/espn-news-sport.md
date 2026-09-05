@@ -76,8 +76,8 @@ _None_
   "topFeeds": [
     {
       "description": "ESPN NBA News - Powered by RSSHub",
-      "errorAt": "2026-08-31T23:08:17.769Z",
-      "errorMessage": "Invalid RSSHub JSON Feed from 98292582055262208\nCannot read properties of undefined (reading '0')\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "60547975805774848",
       "image": null,
       "ownerUserId": null,

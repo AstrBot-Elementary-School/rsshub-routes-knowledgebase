@@ -114,7 +114,7 @@ Currently supported authentication methods:
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 938561,
+  "heat": 937135,
   "location": "user.ts",
   "maintainers": [
     "DIYgod",
@@ -151,7 +151,7 @@ Currently supported authentication methods:
       "url": "rsshub://twitter/user/elonmusk"
     },
     {
-      "description": "Twitter @Donald J. Trump - Powered by RSSHub",
+      "description": "45th & 47th President of the United States of America🇺🇸 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "57350121145773056",

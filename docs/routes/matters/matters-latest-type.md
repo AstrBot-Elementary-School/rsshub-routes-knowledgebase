@@ -41,7 +41,7 @@ _None_
   ],
   "description": "| 最新   | 热门 | 精华    |\n| ------ | ---- | ------- |\n| latest | heat | essence |",
   "example": "/matters/latest/heat",
-  "heat": 145,
+  "heat": 146,
   "location": "latest.ts",
   "maintainers": [
     "xyqfer",

@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 952,
+  "heat": 946,
   "location": "index.ts",
   "maintainers": [
     "naixy28"
@@ -69,7 +69,7 @@ _None_
     {
       "description": "偷懒爱好者周刊，分享产品、工具、新鲜事，每周三在微信公众号“偷懒爱好者”首发，RSS: https://echosoar.github.io/weekly/atom.xml - Powered by RSSHub",
       "errorAt": "2025-04-25T07:06:41.675Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://toolight.zhubai.love/api/publications/toolight/posts?publication_id_type=token&limit=20\": 530 <none>\n[GET] \"https://toolight.zhubai.love/api/publications/toolight/posts?publication_id_type=token&limit=20\": 530 <none>\n",
+      "errorMessage": "[GET] \"https://toolight.zhubai.love/api/publications/toolight/posts?publication_id_type=token&limit=20\": 530 <none>\n[GET] \"https://toolight.zhubai.love/api/publications/toolight/posts?publication_id_type=token&limit=20\": 530 <none>\n",
       "id": "56207859813625856",
       "image": null,
       "ownerUserId": null,
@@ -81,7 +81,7 @@ _None_
     {
       "description": "为独立创造者提供独立见解，帮助你发现新产品方向，启动和完善你的项目。 内容包含：新闻洞察、行业分析、文章推荐、工具分享、下饭视频。内容涉及：产品运营、市场分析、软件设计、技术开发、生活方式 每周更新 - Powered by RSSHub",
       "errorAt": "2025-04-25T06:33:14.128Z",
-      "errorMessage": "[GET] \"https://decohack.zhubai.love/api/publications/decohack/posts?publication_id_type=token&limit=20\": 530 \nFailed to fetch\n[GET] \"https://decohack.zhubai.love/api/publications/decohack/posts?publication_id_type=token&limit=20\": 530 <none>\n",
+      "errorMessage": "[GET] \"https://decohack.zhubai.love/api/publications/decohack/posts?publication_id_type=token&limit=20\": 530 \n[GET] \"https://decohack.zhubai.love/api/publications/decohack/posts?publication_id_type=token&limit=20\": 530 <none>\n",
       "id": "56257976719318016",
       "image": null,
       "ownerUserId": null,

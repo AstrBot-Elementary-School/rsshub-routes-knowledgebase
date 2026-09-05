@@ -73,7 +73,7 @@ _None_
     {
       "description": "|10万＋推荐 - Powered by RSSHub",
       "errorAt": "2025-08-14T05:48:47.732Z",
-      "errorMessage": "Failed to fetch\nwechat-mp: request blocked by WAF: : ， . Video Mini Program ...: https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HCq9l2qjElhiWad4YFn2SaXkvgShIKHPz3vbhMIh&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzg5Mjc3NzQzMA%3D%3D%26mid%3D2247567388%26idx%3D1%26sn%3D4f0cb572b5cd8eeeb27f36402732e873\n",
+      "errorMessage": "wechat-mp: request blocked by WAF: : ， . Video Mini Program ...: https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HEoRmmqj0HkfMi4KWsEdB05N0SedgaBO9OYzFTGp&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzg5Mjc3NzQzMA%3D%3D%26mid%3D2247576536%26idx%3D1%26sn%3D1e79a0de4aa356b01ae8613ed9da1d65\n",
       "id": "87572776852626432",
       "image": null,
       "ownerUserId": null,
@@ -83,16 +83,16 @@ _None_
       "url": "rsshub://wechat/mp/homepage/Mzg5Mjc3NzQzMA==/3"
     },
     {
-      "description": "|ShowMeAI 日报➕周刊 - Powered by RSSHub",
-      "errorAt": "2025-04-22T15:34:59.019Z",
-      "errorMessage": "wechat-mp: request blocked by WAF: : ， . Video Mini Program ...: https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HH8ZfWqjmW48XY4st-2gCwQkcPZ4txrf1aUns_a4&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzg2OTYyMTcwMw%3D%3D%26mid%3D2247535110%26idx%3D1%26sn%3D92bfe13456f2ac5125eff34e78f21519\n",
-      "id": "58378671255288864",
+      "description": "|李厚辰·专栏 - Powered by RSSHub",
+      "errorAt": "2025-08-12T08:16:13.890Z",
+      "errorMessage": "wechat-mp: request blocked by WAF: : ， . Video Mini Program ...: https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HGsrgGqjf_tv68fOA8Nk87RpMNk3lQV18hhYmXYX&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzA3MDM3NjE5NQ%3D%3D%26mid%3D2650852786%26idx%3D1%26sn%3Dcc7fe151271e7c313d07cb9c550a8124\n",
+      "id": "58707616374334464",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://mp.weixin.qq.com/mp/homepage?__biz=Mzg2OTYyMTcwMw==&hid=2",
-      "title": "|ShowMeAI 日报➕周刊",
+      "siteUrl": "https://mp.weixin.qq.com/mp/homepage?__biz=MzA3MDM3NjE5NQ==&hid=16",
+      "title": "|李厚辰·专栏",
       "type": "feed",
-      "url": "rsshub://wechat/mp/homepage/Mzg2OTYyMTcwMw==/2/"
+      "url": "rsshub://wechat/mp/homepage/MzA3MDM3NjE5NQ==/16"
     }
   ]
 }

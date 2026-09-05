@@ -66,7 +66,7 @@ _None_
     {
       "description": "评测 ,Chiphell - 分享与交流用户体验 - Powered by RSSHub",
       "errorAt": "2025-11-25T00:07:35.552Z",
-      "errorMessage": "[GET] \"https://www.chiphell.com/portal.php?mod=list&catid=1\": 567 Unknown Status\nFailed to fetch\n[GET] \"https://www.chiphell.com/portal.php?mod=list&catid=1\": 567 Unknown Status\n[GET] \"https://www.chiphell.com/portal.php?mod=list&catid=1\": 567 Unknown Status\n",
+      "errorMessage": "[GET] \"https://www.chiphell.com/portal.php?mod=list&catid=1\": 567 Unknown Status\n[GET] \"https://www.chiphell.com/portal.php?mod=list&catid=1\": 567 Unknown Status\n[GET] \"https://www.chiphell.com/portal.php?mod=list&catid=1\": 567 Unknown Status\n",
       "id": "154175981513858048",
       "image": null,
       "ownerUserId": null,

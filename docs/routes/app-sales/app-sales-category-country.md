@@ -237,8 +237,8 @@ To subscribe to [Highlights](https://www.app-sales.net/highlights/), where the s
     },
     {
       "description": "Most recent discounted and temporarily free Android apps and games on Google Play - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-03T17:22:52.802Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "256563101508143104",
       "image": "https://www.app-sales.net/img/appsales_logo_claim.png",
       "ownerUserId": null,

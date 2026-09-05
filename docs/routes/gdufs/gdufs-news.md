@@ -74,7 +74,7 @@ _None_
   "topFeeds": [
     {
       "description": "广东外语外贸大学-大学要闻 - Powered by RSSHub",
-      "errorAt": "2026-09-02T18:49:15.062Z",
+      "errorAt": "2026-09-04T06:02:33.451Z",
       "errorMessage": "[GET] \"https://www.gdufs.edu.cn/gwxw/gwxw1.htm\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 202.116.196.186:443, 2001:da8:2003:12::5:443, timeout: 10000ms))\n",
       "id": "91668942959232000",
       "image": null,

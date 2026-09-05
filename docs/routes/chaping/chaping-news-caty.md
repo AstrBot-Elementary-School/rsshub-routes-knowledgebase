@@ -77,7 +77,7 @@ _None_
     {
       "description": "差评资讯 - undefined - Powered by RSSHub",
       "errorAt": "2025-05-10T23:17:54.110Z",
-      "errorMessage": "[GET] \"https://chaping.cn/news/139793\": 502 Bad Gateway\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "61432264574446592",
       "image": null,
       "ownerUserId": null,
@@ -89,7 +89,7 @@ _None_
     {
       "description": "差评资讯 - 科技新鲜事 - Powered by RSSHub",
       "errorAt": "2025-05-11T04:02:59.828Z",
-      "errorMessage": "[GET] \"https://chaping.cn/news/139958\": 502 Bad Gateway\n[GET] \"https://chaping.cn/news/140184\": 502 Bad Gateway\n",
+      "errorMessage": "[GET] \"https://chaping.cn/news/139793\": 502 Bad Gateway\n[GET] \"https://chaping.cn/news/140183\": 502 Bad Gateway\n",
       "id": "59933051315126274",
       "image": null,
       "ownerUserId": null,

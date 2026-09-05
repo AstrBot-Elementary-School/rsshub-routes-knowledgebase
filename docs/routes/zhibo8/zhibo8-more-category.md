@@ -55,7 +55,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 227,
+  "heat": 228,
   "location": "more.ts",
   "maintainers": [
     "nczitzk"
@@ -79,8 +79,8 @@
   "topFeeds": [
     {
       "description": "足球 - 直播吧 - Powered by RSSHub",
-      "errorAt": "2026-09-02T20:53:09.292Z",
-      "errorMessage": "[GET] \"https://news.zhibo8.cc/zuqiu/more.htm\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 120.77.216.70:443, 2408:4003:1f10::2ca:443, timeout: 10000ms))\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "61588318218478611",
       "image": null,
       "ownerUserId": null,

@@ -77,8 +77,8 @@
   "topFeeds": [
     {
       "description": "环球网 - Powered by RSSHub",
-      "errorAt": "2026-09-03T08:07:39.814Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 59176126986620928",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "59176126986620928",
       "image": null,
       "ownerUserId": null,

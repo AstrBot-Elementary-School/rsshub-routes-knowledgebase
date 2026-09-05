@@ -72,8 +72,8 @@ _None_
   "topFeeds": [
     {
       "description": "language:chinese - E-Hentai Tag - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-04T07:26:19.195Z",
+      "errorMessage": "[GET] \"https://e-hentai.org/tag/language:chinese?next=0\": 451 Unavailable For Legal Reasons\n",
       "id": "120679993479343104",
       "image": null,
       "ownerUserId": null,

@@ -107,16 +107,16 @@ _None_
       "url": "rsshub://hpoi/items/character/1035374"
     },
     {
-      "description": "Hpoi 手办维基 - 角色周边 15915 - Powered by RSSHub",
+      "description": "Hpoi 手办维基 - 角色周边 4651 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "43089574142070784",
+      "id": "62525153362050048",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.hpoi.net/hobby/all?order=add&r18=-1&charactar=15915",
-      "title": "Hpoi 手办维基 - 角色周边 15915",
+      "siteUrl": "https://www.hpoi.net/hobby/all?order=release&r18=-1&charactar=4651",
+      "title": "Hpoi 手办维基 - 角色周边 4651",
       "type": "feed",
-      "url": "rsshub://hpoi/items/character/15915"
+      "url": "rsshub://hpoi/items/character/4651/release"
     }
   ],
   "view": 2

@@ -49,8 +49,8 @@ _None_
   "topFeeds": [
     {
       "description": "推荐 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-04T10:02:40.976Z",
+      "errorMessage": "502 \n[GET] \"https://www.iheima.com/?page=1&pagesize=20\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 60.200.32.50:443, 60.200.32.43:443, 60.200.32.49:443, 60.200.32.46:443, 60.200.32.44:443, 60.200.32.48:443, 60.200.32.47:443, 60.200.32.45:443, timeout: 10000ms))\n",
       "id": "89665632473522176",
       "image": null,
       "ownerUserId": null,

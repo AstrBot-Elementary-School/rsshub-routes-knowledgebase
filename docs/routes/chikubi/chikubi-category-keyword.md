@@ -92,8 +92,8 @@ _None_
     },
     {
       "description": "Category: 管理人オススメ - chikubi.jp - Powered by RSSHub",
-      "errorAt": "2026-09-03T04:54:32.932Z",
-      "errorMessage": "Failed to fetch\nUnexpected token '<', \"<!DOCTYPE \"... is not valid JSON\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "119079828973887488",
       "image": null,
       "ownerUserId": null,

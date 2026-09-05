@@ -78,16 +78,16 @@ _None_
       "url": "rsshub://themoviedb/tv/70593/seasons"
     },
     {
-      "description": "Twenty years after modern civilization has been destroyed, Joel, a hardened survivor, is hired to smuggle Ellie, a 14-year-old girl, out of an oppressive quarantine zone. What starts as a small job soon becomes a brutal, heartbreaking journey, as they both must traverse the United States and depend on each other for survival. - Powered by RSSHub",
+      "description": "ABC World News is the flagship daily evening television news program of ABC News, the news division of the American Broadcasting Company television network in the United States. Currently the weekday editions (going by title ABC World News Tonight with David Muir) are anchored by David Muir. ABC World News has been anchored at various times by a number of other people since its debut in 1953. It also has used various titles, including ABC Evening News from 1970 to 1978 and World News Tonight from 1978 to 2006. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "83016713777551360",
-      "image": "https://image.tmdb.org/t/p/original/dmo6TYuuJgaYinXBPjrgG9mB5od.jpg",
+      "id": "115243763367347200",
+      "image": "https://image.tmdb.org/t/p/original/nFzsDxjckW91S3Lerq7TNPMiOyO.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://www.themoviedb.org/tv/100088/seasons",
-      "title": "The Last of Us - Seasons — TMDB",
+      "siteUrl": "https://www.themoviedb.org/tv/1770/seasons",
+      "title": "World News Tonight with David Muir - Seasons — TMDB",
       "type": "feed",
-      "url": "rsshub://themoviedb/tv/100088/seasons"
+      "url": "rsshub://themoviedb/tv/1770/seasons"
     }
   ],
   "view": 5

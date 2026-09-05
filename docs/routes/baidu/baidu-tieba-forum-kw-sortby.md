@@ -62,9 +62,9 @@ _None_
   "path": "/tieba/forum/:kw/:sortBy?",
   "topFeeds": [
     {
-      "description": "本吧热帖: 1-向所有人道歉? 2-伙计们，明天就是我初中的最后一天正式上课了 3-我自作自受 错失真爱 4-我的善良人格将不复存在 5-我会活在几个人的记忆里 一个？两个？我不知道 6-《百度贴吧关于整治不良网络生态的公告》 7-看鼠鼠挑战高考毕业给暗恋了三年的同学表白 8-这下知道结婚的意义是什么了吧… 9-我要睡觉了 10-何意味啊这 11-???每次熬夜嘴里都有血味谁干的 - Powered by RSSHub",
-      "errorAt": "2026-06-12T17:54:47.197Z",
-      "errorMessage": "Baidu Tieba RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#baidu\">BAIDU_COOKIE</a>\nBaidu Tieba RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#baidu\">BAIDU_COOKIE</a>\n",
+      "description": "孙笑川吧 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "70443380786893824",
       "image": null,
       "ownerUserId": "75347449854502912",

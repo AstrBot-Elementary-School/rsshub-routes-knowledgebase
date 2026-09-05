@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 28,
+  "heat": 27,
   "location": "xhu/topic.ts",
   "maintainers": [
     "JimenezLi"
@@ -85,16 +85,16 @@ _None_
       "url": "rsshub://zhihu/xhu/topic/19584076"
     },
     {
-      "description": "知乎话题-19557307 - Powered by RSSHub",
-      "errorAt": "2025-03-27T08:37:06.790Z",
+      "description": "知乎话题-19791061 - Powered by RSSHub",
+      "errorAt": "2025-07-23T10:47:22.123Z",
       "errorMessage": "[GET] \"https://api.zhihuvvv.workers.dev/guests/token\": 401 Unauthorized\n",
-      "id": "79400515584645168",
+      "id": "79400515584645170",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.zhihu.com/topic/19557307/newest",
-      "title": "知乎话题-19557307",
+      "siteUrl": "https://www.zhihu.com/topic/19791061/newest",
+      "title": "知乎话题-19791061",
       "type": "feed",
-      "url": "rsshub://zhihu/xhu/topic/19557307"
+      "url": "rsshub://zhihu/xhu/topic/19791061"
     }
   ]
 }

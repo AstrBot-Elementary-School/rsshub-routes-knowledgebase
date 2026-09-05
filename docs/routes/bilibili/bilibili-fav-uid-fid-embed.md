@@ -80,16 +80,16 @@ _None_
       "url": "rsshub://bilibili/fav/399964818/1771644318"
     },
     {
-      "description": "观海聽风声 的 bilibili 收藏夹 续搬运 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "95590863863326720",
+      "description": "斫桂w 的 bilibili 收藏夹 雨里 - Powered by RSSHub",
+      "errorAt": "2025-09-29T14:44:16.561Z",
+      "errorMessage": "访问权限不足\n",
+      "id": "110336505747587072",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://space.bilibili.com/399964818/#/favlist?fid=3241215618",
-      "title": "观海聽风声 的 bilibili 收藏夹 续搬运",
+      "siteUrl": "https://space.bilibili.com/356673764/#/favlist?fid=1518880264",
+      "title": "斫桂w 的 bilibili 收藏夹 雨里",
       "type": "feed",
-      "url": "rsshub://bilibili/fav/399964818/3241215618"
+      "url": "rsshub://bilibili/fav/356673764/1518880264"
     }
   ]
 }

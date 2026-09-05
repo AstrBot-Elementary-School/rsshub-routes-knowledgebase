@@ -148,8 +148,8 @@
   "topFeeds": [
     {
       "description": "数据 - Powered by RSSHub",
-      "errorAt": "2026-09-03T09:26:51.688Z",
-      "errorMessage": "[POST] \"http://zdscxx.moa.gov.cn:8080/nyb/getMessages\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 202.127.45.85:8080, 2403:f4c0:0:45::85:8080, timeout: 10000ms))\n",
+      "errorAt": "2026-09-04T09:42:49.225Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "72147260240052224",
       "image": "https://www.moa.gov.cn/images/nyb_logo_V2018.png",
       "ownerUserId": null,

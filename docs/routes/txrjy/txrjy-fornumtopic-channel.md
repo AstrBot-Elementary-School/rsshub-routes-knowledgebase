@@ -80,8 +80,8 @@ _None_
     },
     {
       "description": "通信人家园 - 论坛 最新500主题帖 - Powered by RSSHub",
-      "errorAt": "2026-09-03T01:53:18.971Z",
-      "errorMessage": "Failed to fetch\nFailed to fetch\n",
+      "errorAt": "2026-09-04T10:02:22.797Z",
+      "errorMessage": "[GET] \"https://www.txrjy.com/c114-listnewtopic.php?typeid=1\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 111.208.52.37:443, 111.208.52.39:443, 111.208.52.38:443, 111.208.52.36:443, 111.208.52.19:443, 111.208.52.35:443, 111.208.52.18:443, 111.208.52.20:443, timeout: 10000ms))\n",
       "id": "67830377077194752",
       "image": null,
       "ownerUserId": null,

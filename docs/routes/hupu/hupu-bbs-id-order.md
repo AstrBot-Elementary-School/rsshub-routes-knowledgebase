@@ -87,8 +87,8 @@
   "topFeeds": [
     {
       "description": "投资有风险，入市需谨慎 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-04T09:42:32.648Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "66332234198832169",
       "image": null,
       "ownerUserId": null,

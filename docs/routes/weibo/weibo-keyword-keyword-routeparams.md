@@ -87,7 +87,7 @@ _None_
     {
       "description": "又有人在微博提到RSSHub了 - Powered by RSSHub",
       "errorAt": "2026-08-15T05:54:21.938Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'cards')\nFailed to fetch\nCooling down before new visitor Cookies from https://m.weibo.cn/ may be fetched\nInvalid RSSHub JSON Feed from 98292582055262208\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "Cannot read properties of undefined (reading 'cards')\nFailed to fetch\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "41147805276726295",
       "image": null,
       "ownerUserId": null,

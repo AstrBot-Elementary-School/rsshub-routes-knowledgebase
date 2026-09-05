@@ -79,7 +79,7 @@ _None_
     {
       "description": "#💬｜讨论 - Folo - Discord - Powered by RSSHub",
       "errorAt": "2025-12-04T20:07:28.537Z",
-      "errorMessage": "Failed to fetch\nDiscord RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\nDiscord RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\n",
+      "errorMessage": "Discord RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\nDiscord RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\n",
       "id": "97899189022799872",
       "image": "https://cdn.discordapp.com/icons/1243823539426033696/b7e6b0a2026084252f2ccb46b824c31e.webp",
       "ownerUserId": null,

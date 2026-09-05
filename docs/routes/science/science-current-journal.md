@@ -103,15 +103,15 @@
     },
     {
       "description": null,
-      "errorAt": "2026-06-30T06:04:23.334Z",
-      "errorMessage": "[GET] \"https://www.science.org/toc/sciadv/current\": 403 Forbidden\n",
-      "id": "1178645011650969612",
+      "errorAt": "2026-06-30T06:04:27.355Z",
+      "errorMessage": "[GET] \"https://www.science.org/toc/scirobotics/current\": 403 Forbidden\n",
+      "id": "1178645011650969614",
       "image": null,
       "ownerUserId": null,
       "siteUrl": null,
       "title": "Importing",
       "type": "feed",
-      "url": "rsshub://science/current/sciadv"
+      "url": "rsshub://science/current/scirobotics"
     }
   ]
 }

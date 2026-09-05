@@ -85,7 +85,7 @@
     {
       "description": "24小时社会热闻 - 东方资讯 - Powered by RSSHub",
       "errorAt": "2026-09-01T12:23:40.085Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://mini.eastday.com/ns/api/detail/trust/trust-news-shehui.json\": 514 Frequency Capped\n",
+      "errorMessage": "[GET] \"https://mini.eastday.com/ns/api/detail/trust/trust-news-shehui.json\": 514 Frequency Capped\n",
       "id": "59852419254124544",
       "image": null,
       "ownerUserId": null,

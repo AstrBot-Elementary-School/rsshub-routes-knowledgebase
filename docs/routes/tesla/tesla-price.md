@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 248,
+  "heat": 247,
   "location": "price/index.ts",
   "maintainers": [
     "xiaokyo"

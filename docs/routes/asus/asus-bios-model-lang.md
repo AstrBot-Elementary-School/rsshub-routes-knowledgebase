@@ -104,16 +104,16 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "TUF GAMING B560-PLUS WIFI BIOS - Powered by RSSHub",
+      "description": "ROG Zephyrus G16 (2024) GA605 BIOS - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "73279691433742336",
-      "image": "https://dlcdnwebimgs.asus.com/gain/93a33099-7d95-44b2-b43f-ff3fc22b16fa/w185",
+      "id": "84439902528045056",
+      "image": "https://dlcdnwebimgs.asus.com/gain/9A966AAE-B61A-41C5-AA2F-5B0B35E189A2/w185",
       "ownerUserId": null,
-      "siteUrl": "https://www.asus.com.cn/Motherboards-Components/Motherboards/TUF-Gaming/TUF-GAMING-B560-PLUS-WIFI/",
-      "title": "TUF GAMING B560-PLUS WIFI BIOS",
+      "siteUrl": "https://rog.asus.com/laptops/rog-zephyrus/rog-zephyrus-g16-2024-ga605/",
+      "title": "ROG Zephyrus G16 (2024) GA605 BIOS",
       "type": "feed",
-      "url": "rsshub://asus/bios/rog-strix-b560-i-gaming-wifi-model/zh"
+      "url": "rsshub://asus/bios/GA605WV"
     },
     {
       "description": "ROG Strix OLED XG27UCDMG BIOS - Powered by RSSHub",

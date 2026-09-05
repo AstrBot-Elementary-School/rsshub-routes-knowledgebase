@@ -40,7 +40,7 @@ _None_
   ],
   "description": "Return results from 2020",
   "example": "/sigsac/ccs",
-  "heat": 93,
+  "heat": 92,
   "location": "ccs.ts",
   "maintainers": [
     "ZeddYu"

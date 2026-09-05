@@ -98,7 +98,7 @@ _None_
     {
       "description": "对不起，页面未找到 - Powered by RSSHub",
       "errorAt": "2026-07-28T07:11:51.113Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://www.3kns.com/forum.php?mod=forumdisplay&fid=2&filter=sortid&typeid=0&sortid=1&searchsort=1&orderbystr=0&dztgeshi=all&dztfenlei=all&nex_sg_tags=all&deanbgbs=all&nex_sg_stars=all\": <no response> fetch failed (certificate has expired)\n",
+      "errorMessage": "[GET] \"https://www.3kns.com/forum.php?mod=forumdisplay&fid=2&filter=sortid&typeid=0&sortid=1&searchsort=1&orderbystr=0&dztgeshi=all&dztfenlei=all&nex_sg_tags=all&deanbgbs=all&nex_sg_stars=all\": <no response> fetch failed (certificate has expired)\n",
       "id": "53315487909941248",
       "image": null,
       "ownerUserId": null,

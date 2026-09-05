@@ -211,8 +211,8 @@
     },
     {
       "description": "最新资讯 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-04T08:22:20.198Z",
+      "errorMessage": "[GET] \"https://www.ali213.net/news/new/\": <no response> fetch failed (Connect Timeout Error (attempted address: www.ali213.net:443, timeout: 10000ms))\n",
       "id": "89124148162380800",
       "image": "https://www.ali213.net/news/images/ali213_app_big.png",
       "ownerUserId": null,

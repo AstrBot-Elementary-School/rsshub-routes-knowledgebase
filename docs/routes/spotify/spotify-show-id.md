@@ -61,7 +61,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2109,
+  "heat": 2107,
   "location": "show.ts",
   "maintainers": [
     "caiohsramos",
@@ -83,7 +83,7 @@ _None_
     {
       "description": "《圆桌派》是一档最下饭的聊天综艺节目，由著名媒体人、文化名嘴窦文涛携手优酷“看理想”倾力打造。不设剧本，即兴聊天，平等视角，智慧分享。本频道非官方频道，音视频版权归原节目和平台所有。本频道由粉丝Eddy个人搬运自费维护，非盈利目的，如有冒犯或侵权可留言下架。欢迎您动动手指在上方对本频道评分及评论，五星好评是对本频道最大的支持！目前本频道收录了圆桌派第一（2016）、二（2017）、三（2018）、四（2019）、五（2021）、六（2022）、七（2024）、八（2025）季已播出的全部内容，以及各季间的番外篇包括女生派（S1）、武侠派（S2）、讲究派（S3）、时光派（S3）、跨越派（S4）、新春派（S5）、什锦派（S5）、直播连麦（S5）。第八季已完结。欢迎订阅本频道以获得最新更新提醒，本频道支持按季查找以便您回看往期节目。 节目网址：https://open.spotify.com/show/100jfJAxtcJdl8xfjvGXzr RSS订阅地址：https://anchor.fm/s/10bfbcf64/podcast/rss 备用节目网址：https://eddy.firstory.io 备用RSS订阅地址：https://feed.firstory.me/rss/user/cl7zkcpvy0a0h01wi8uxbccdv - Powered by RSSHub",
       "errorAt": "2026-03-12T06:33:59.207Z",
-      "errorMessage": "Failed to fetch\nSpotify public RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\nSpotify public RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\n[GET] \"https://api.spotify.com/v1/shows/100jfJAxtcJdl8xfjvGXzr?market=US\": 403 Forbidden\n",
+      "errorMessage": "Spotify public RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\nSpotify public RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\n[GET] \"https://api.spotify.com/v1/shows/100jfJAxtcJdl8xfjvGXzr?market=US\": 403 Forbidden\n",
       "id": "60246541475182592",
       "image": "https://i.scdn.co/image/ab6765630000ba8a0e1f2c95d90d979152f3faac",
       "ownerUserId": null,

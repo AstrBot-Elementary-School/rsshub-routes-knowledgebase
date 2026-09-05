@@ -116,16 +116,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "A lightweight permission based vault plugin that can store ANY item - Powered by RSSHub",
+      "description": "Highly customizable, global player leveling plugin with many integrations. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "114582967983889408",
+      "id": "113662012738039808",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/xquVwxlu",
-      "title": "AxVaults Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/86biV1Ic",
+      "title": "AuroraLevels Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/xquVwxlu/versions"
+      "url": "rsshub://modrinth/project/86biV1Ic/versions"
     }
   ]
 }

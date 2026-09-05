@@ -88,16 +88,16 @@ _None_
       "url": "rsshub://luma/langchain"
     },
     {
-      "description": "Comunidad de Innovación LATAM - Powered by RSSHub",
+      "description": "The AI Collective - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "265966889769333760",
+      "id": "265935647087177728",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://lu.ma/comunidadinnovacion",
-      "title": "Comunidad de Innovación LATAM",
+      "siteUrl": "https://lu.ma/genai-collective",
+      "title": "The AI Collective",
       "type": "feed",
-      "url": "rsshub://luma/comunidadinnovacion"
+      "url": "rsshub://luma/genai-collective"
     }
   ],
   "url": "lu.ma"

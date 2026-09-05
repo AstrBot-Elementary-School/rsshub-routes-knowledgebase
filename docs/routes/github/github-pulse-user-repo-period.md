@@ -79,18 +79,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "datawhalechina/llm-universe weekly Pulse - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "137417584044606464",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://github.com/datawhalechina/llm-universe/pulse/weekly",
-      "title": "datawhalechina/llm-universe weekly Pulse",
-      "type": "feed",
-      "url": "rsshub://github/pulse/datawhalechina/llm-universe"
-    },
-    {
       "description": "RVC-Project/Retrieval-based-Voice-Conversion-WebUI weekly Pulse - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -101,6 +89,18 @@ _None_
       "title": "RVC-Project/Retrieval-based-Voice-Conversion-WebUI weekly Pulse",
       "type": "feed",
       "url": "rsshub://github/pulse/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/weekly"
+    },
+    {
+      "description": "facebookresearch/audiocraft weekly Pulse - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "220767323256864790",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://github.com/facebookresearch/audiocraft/pulse/weekly",
+      "title": "facebookresearch/audiocraft weekly Pulse",
+      "type": "feed",
+      "url": "rsshub://github/pulse/facebookresearch/audiocraft/weekly"
     }
   ]
 }

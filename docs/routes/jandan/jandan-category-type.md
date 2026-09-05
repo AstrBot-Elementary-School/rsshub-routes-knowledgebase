@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 526,
+  "heat": 525,
   "location": "section.ts",
   "maintainers": [
     "kobemtl",
@@ -137,7 +137,7 @@ _None_
       "id": "42107730549411843",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "http://i.jandan.net/top",
+      "siteUrl": "https://i.jandan.net/top",
       "title": "热榜 - 4小时热门",
       "type": "feed",
       "url": "rsshub://jandan/top"

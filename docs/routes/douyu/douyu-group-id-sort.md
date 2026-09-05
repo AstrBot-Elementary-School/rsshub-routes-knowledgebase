@@ -98,16 +98,16 @@
       "url": "rsshub://douyu/group/534"
     },
     {
-      "description": "洞主的鱼吧 - Powered by RSSHub",
+      "description": "金咕咕金咕咕doinb的鱼吧 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "69260526927299584",
+      "id": "191989848016969728",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://yuba.douyu.com/group/newall/199511",
-      "title": "斗鱼鱼吧 - 洞主丨歌神洞庭湖",
+      "siteUrl": "https://yuba.douyu.com/group/newself/1262",
+      "title": "斗鱼鱼吧 - 金咕咕金咕咕doinb",
       "type": "feed",
-      "url": "rsshub://douyu/group/199511/1"
+      "url": "rsshub://douyu/group/1262"
     }
   ]
 }

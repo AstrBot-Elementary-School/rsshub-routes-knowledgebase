@@ -77,7 +77,7 @@ _None_
     {
       "description": "産経新聞社のニュースサイト。経済ニュースの一覧ページです。金融・財政、産業・ビジネス、IT、新商品、人事などに関する速報記事と解説記事を掲載しています。 - Powered by RSSHub",
       "errorAt": "2026-08-24T18:32:33.112Z",
-      "errorMessage": "[GET] \"https://www.sankei.comhttps://www.sankei.com/article/20260902-PUJKZTZ6TJOSJOCKZGZPSPPYPY/\": <no response> fetch failed (getaddrinfo ENOTFOUND www.sankei.comhttps)\n",
+      "errorMessage": "[GET] \"https://www.sankei.comhttps://www.sankei.com/article/20260903-KVDNVT3RPVMLJFJEYMHGRSRBDQ/\": <no response> fetch failed (getaddrinfo ENOTFOUND www.sankei.comhttps)\n",
       "id": "223581412122248192",
       "image": "https://www.sankei.com/common/images/ogp_default.jpg",
       "ownerUserId": null,

@@ -50,7 +50,7 @@ _None_
   ],
   "description": "::: tip\n\n- To subscribe to [English News](https://www.rfi.fr/en/), which URL is `https://www.rfi.fr/en`, you can get the route as [`/rfi/en`](https://rsshub.app/rfi/en).\n- To subscribe to [English Europe News](https://www.rfi.fr/en/europe/), which URL is `https://www.rfi.fr/en/europe`, you can get the route as [`/rfi/en/europe`](https://rsshub.app/rfi/en/europe).\n- To subscribe to topic [Paris Olympics 2024](https://www.rfi.fr/en/tag/paris-olympics-2024/), which URL is `https://www.rfi.fr/en/tag/paris-olympics-2024`, you can get the route as [`/rfi/en/tag/paris-olympics-2024`](https://rsshub.app/rfi/en/tag/paris-olympics-2024).\n\n:::\n\n::: warning\nThis route does not support podcasts, please use the Offical RSS feed instead.\n:::",
   "example": "/rfi",
-  "heat": 72,
+  "heat": 73,
   "location": "news.ts",
   "maintainers": [
     "nczitzk",
@@ -83,16 +83,16 @@ _None_
       "url": "rsshub://rfi/cn"
     },
     {
-      "description": "Suivez toute l'information politique, culturelle, sportive en direct et en continu sur RFI. Les dernières informations, news et actualités en France et à l'international. - Powered by RSSHub",
+      "description": "同步、随时跟踪中国时事：采访、报道、特别专题 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "76670519253188608",
+      "id": "75444883463138304",
       "image": "https://s.rfi.fr/media/display/020b8dae-e6c1-11ee-a196-005056bfb2b6/w:1280/p:16x9/img-default-RFI.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://www.rfi.fr/fr/",
-      "title": "RFI - Actualités, info, news en direct - Radio France Internationale",
+      "siteUrl": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/",
+      "title": "中国时事 - 法广 - RFI",
       "type": "feed",
-      "url": "rsshub://rfi/fr"
+      "url": "rsshub://rfi/cn/%E4%B8%AD%E5%9B%BD"
     }
   ],
   "url": "rfi.fr"

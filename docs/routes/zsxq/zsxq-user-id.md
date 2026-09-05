@@ -67,7 +67,7 @@ _None_
     {
       "description": "知识星球 - 金豆子 - Powered by RSSHub",
       "errorAt": "2025-11-19T02:18:17.338Z",
-      "errorMessage": "Failed to fetch\n该 RSS 源由于配置不正确而被禁用：令牌丢失。\n",
+      "errorMessage": "[GET] \"https://api.zsxq.com/v2/users/551142184514\": 401 Unauthorized\n该 RSS 源由于配置不正确而被禁用：令牌丢失。\n",
       "id": "92395671277165568",
       "image": "https://images.zsxq.com/Fh9xrKafarmQ__aSZ67aSWIT9lPA?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1767196799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:ClAGum-gk0vn6BaoBwQTgu1Xdps=",
       "ownerUserId": null,

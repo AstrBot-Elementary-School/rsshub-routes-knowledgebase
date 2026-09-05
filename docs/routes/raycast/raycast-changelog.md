@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 49,
+  "heat": 48,
   "location": "changelog.ts",
   "maintainers": [
     "equt"

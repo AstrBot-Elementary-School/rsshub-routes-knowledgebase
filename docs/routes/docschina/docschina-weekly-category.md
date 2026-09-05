@@ -44,7 +44,7 @@ _None_
   ],
   "description": "| javascript | node | react |\n| ---------- | ---- | ----- |\n| js         | node | react |",
   "example": "/docschina/weekly",
-  "heat": 270,
+  "heat": 269,
   "location": "weekly.ts",
   "maintainers": [
     "daijinru",

@@ -50,7 +50,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2560,
+  "heat": 2559,
   "location": "main.ts",
   "maintainers": [
     "sgqy",

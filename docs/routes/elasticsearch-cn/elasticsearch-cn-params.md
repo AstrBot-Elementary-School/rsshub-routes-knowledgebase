@@ -81,8 +81,8 @@
   "topFeeds": [
     {
       "description": "搜索客，搜索人自己的社区 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-04T10:03:21.979Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "64113341498592256",
       "image": null,
       "ownerUserId": null,

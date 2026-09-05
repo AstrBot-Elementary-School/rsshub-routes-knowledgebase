@@ -50,7 +50,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 62,
+  "heat": 63,
   "location": "feeds.ts",
   "maintainers": [
     "FerrisChi"

@@ -72,8 +72,8 @@ _None_
   "topFeeds": [
     {
       "description": "第一财经 - 最新 - Powered by RSSHub",
-      "errorAt": "2026-09-03T08:32:27.479Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 58009628741151748",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "58009628741151748",
       "image": null,
       "ownerUserId": null,

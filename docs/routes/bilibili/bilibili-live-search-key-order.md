@@ -78,16 +78,16 @@ _None_
       "url": "rsshub://bilibili/live/search/%E6%BC%AB%E5%B1%95/live_time"
     },
     {
-      "description": "哔哩哔哩直播-鲁班-人气直播 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "257475092137511936",
+      "description": "哔哩哔哩直播-王者荣耀- - Powered by RSSHub",
+      "errorAt": "2026-01-13T00:32:29.122Z",
+      "errorMessage": "Unknown order: online \n",
+      "id": "189092794847298560",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://search.bilibili.com/live?keyword=%E9%B2%81%E7%8F%AD&order=online&coverType=user_cover&page=1&search_type=live",
-      "title": "哔哩哔哩直播-鲁班-人气直播",
+      "siteUrl": "https://search.bilibili.com/live?keyword=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80&order=online%20&coverType=user_cover&page=1&search_type=live",
+      "title": "哔哩哔哩直播-王者荣耀-",
       "type": "feed",
-      "url": "rsshub://bilibili/live/search/%E9%B2%81%E7%8F%AD/online"
+      "url": "rsshub://bilibili/live/search/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80/online%20"
     }
   ]
 }

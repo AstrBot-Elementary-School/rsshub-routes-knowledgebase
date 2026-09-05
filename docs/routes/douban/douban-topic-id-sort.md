@@ -82,8 +82,8 @@ _None_
     },
     {
       "description": "收集一切触动过你的评论-豆瓣话题 - Powered by RSSHub",
-      "errorAt": "2026-09-03T04:17:50.567Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "84419327283379200",
       "image": null,
       "ownerUserId": null,

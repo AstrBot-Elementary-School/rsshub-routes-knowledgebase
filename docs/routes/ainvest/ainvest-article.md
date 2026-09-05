@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "AInvest - Latest Articles - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-03T21:42:17.524Z",
+      "errorMessage": "[GET] \"https://news.ainvest.com/content-page/v1/page/baudroie-buyout-pays-founders-2-350-2-970-read-gap-tender-2609\": 404 \n",
       "id": "165445337069434882",
       "image": null,
       "ownerUserId": null,

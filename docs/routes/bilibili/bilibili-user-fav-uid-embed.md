@@ -80,18 +80,6 @@ _None_
   "topFeeds": [
     {
       "description": "undefined 的 bilibili 收藏夹 - Powered by RSSHub",
-      "errorAt": "2025-10-13T10:49:28.910Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
-      "id": "72888942362905600",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://space.bilibili.com/3546568336607683/#/favlist",
-      "title": "undefined 的 bilibili 收藏夹",
-      "type": "feed",
-      "url": "rsshub://bilibili/user/fav/3546568336607683"
-    },
-    {
-      "description": "undefined 的 bilibili 收藏夹 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "90023075203380224",
@@ -101,6 +89,18 @@ _None_
       "title": "undefined 的 bilibili 收藏夹",
       "type": "feed",
       "url": "rsshub://bilibili/user/fav/3546564563831207"
+    },
+    {
+      "description": "undefined 的 bilibili 收藏夹 - Powered by RSSHub",
+      "errorAt": "2025-10-13T10:49:28.910Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "id": "72888942362905600",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://space.bilibili.com/3546568336607683/#/favlist",
+      "title": "undefined 的 bilibili 收藏夹",
+      "type": "feed",
+      "url": "rsshub://bilibili/user/fav/3546568336607683"
     }
   ]
 }

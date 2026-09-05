@@ -187,6 +187,18 @@ _None_
   },
   "topFeeds": [
     {
+      "description": "Carousell SG Search - FX2 sony - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "1206833631872286720",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://docs.rsshub.app/",
+      "title": "Carousell SG Search - FX2 sony",
+      "type": "feed",
+      "url": "rsshub://carousell/sg/FX2%20sony"
+    },
+    {
       "description": "Carousell SG Search - GPU - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -197,18 +209,6 @@ _None_
       "title": "Carousell SG Search - GPU",
       "type": "feed",
       "url": "rsshub://carousell/sg/GPU"
-    },
-    {
-      "description": "Carousell SG Search - FX2 sony - Powered by RSSHub",
-      "errorAt": "2026-09-02T18:17:59.957Z",
-      "errorMessage": "[GET] \"https://www.carousell.sg\": 403 Forbidden\n",
-      "id": "1206833631872286720",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://docs.rsshub.app/",
-      "title": "Carousell SG Search - FX2 sony",
-      "type": "feed",
-      "url": "rsshub://carousell/sg/FX2%20sony"
     }
   ]
 }

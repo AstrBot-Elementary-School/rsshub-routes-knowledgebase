@@ -122,8 +122,8 @@ _None_
   "topFeeds": [
     {
       "description": "四川广播电视台 - 四川新闻联播 - Powered by RSSHub",
-      "errorAt": "2026-09-01T23:43:44.981Z",
-      "errorMessage": "[GET] \"https://kscgc.sctv-tf.com/sctv/lookback/1/date.json\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 117.59.168.26:443, 117.59.168.25:443, 117.59.168.29:443, 117.59.168.24:443, 117.59.168.28:443, 117.59.168.27:443, 117.59.168.23:443, 117.59.168.30:443, timeout: 10000ms))\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "178834515500019712",
       "image": "/sctv/1/image/public/202101/20210118094118_abbi6fxq9i.jpg",
       "ownerUserId": null,

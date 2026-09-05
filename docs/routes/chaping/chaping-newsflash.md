@@ -73,8 +73,8 @@ _None_
   "topFeeds": [
     {
       "description": "差评 快讯 - Powered by RSSHub",
-      "errorAt": "2025-05-11T00:29:28.699Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://chaping.cn/api/official/information/newsflash?page=1&limit=21\": 502 Bad Gateway\n[GET] \"https://chaping.cn/api/official/information/newsflash?page=1&limit=21\": 502 Bad Gateway\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "42594386603806720",
       "image": null,
       "ownerUserId": null,
