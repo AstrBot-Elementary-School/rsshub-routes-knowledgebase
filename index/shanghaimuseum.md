@@ -3,9 +3,9 @@
 ## Namespace
 - Namespace: `shanghaimuseum`
 - Display Name: `Shanghai Museum`
-- URL: `www.shanghaimuseum.net`
+- URL: `www.shanghaimuseum.cn`
 - Language: `_None_`
-- Aliases: `shanghai museum, shanghaimuseum, shanghaimuseum.net, www, www.shanghaimuseum.net`
+- Aliases: `shanghai museum, shanghaimuseum, shanghaimuseum.cn, www, www.shanghaimuseum.cn`
 - Route Count: `2`
 
 ## Routes

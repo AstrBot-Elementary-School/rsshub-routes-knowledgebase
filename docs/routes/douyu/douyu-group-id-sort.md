@@ -98,16 +98,16 @@
       "url": "rsshub://douyu/group/534"
     },
     {
-      "description": "金咕咕金咕咕doinb的鱼吧 - Powered by RSSHub",
+      "description": "异灵术老师的个人鱼吧 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "191989848016969728",
+      "id": "215017654069696512",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://yuba.douyu.com/group/newself/1262",
-      "title": "斗鱼鱼吧 - 金咕咕金咕咕doinb",
+      "siteUrl": "https://yuba.douyu.com/group/newself/4459",
+      "title": "斗鱼鱼吧 - 异灵术老师",
       "type": "feed",
-      "url": "rsshub://douyu/group/1262"
+      "url": "rsshub://douyu/group/4459"
     }
   ]
 }

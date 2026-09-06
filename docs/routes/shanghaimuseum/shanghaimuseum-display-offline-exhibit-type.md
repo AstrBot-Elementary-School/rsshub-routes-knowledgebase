@@ -9,7 +9,7 @@
 - Route Path: `/shanghaimuseum/display/offline-exhibit/:type?`
 - Route Name: `Special Exhibitions`
 - Example: `/shanghaimuseum/display/offline-exhibit/PRESENT`
-- URL: `www.shanghaimuseum.net`
+- URL: `www.shanghaimuseum.cn`
 - Language: `_None_`
 - Categories: `travel`
 - Maintainers: `magazian`
@@ -29,7 +29,7 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `www.shanghaimuseum.net/mu/frontend/pg/display/offline-exhibit`
+  - `www.shanghaimuseum.cn/mu/frontend/pg/display/offline-exhibit`
 - `target`: `/display/offline-exhibit`
 
 ## Raw JSON
@@ -52,7 +52,7 @@ _None_
   "radar": [
     {
       "source": [
-        "www.shanghaimuseum.net/mu/frontend/pg/display/offline-exhibit"
+        "www.shanghaimuseum.cn/mu/frontend/pg/display/offline-exhibit"
       ],
       "target": "/display/offline-exhibit"
     }

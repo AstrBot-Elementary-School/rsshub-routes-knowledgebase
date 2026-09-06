@@ -75,7 +75,7 @@ _None_
     {
       "description": "考试信息-中国无线电协会业余无线电分会 - Powered by RSSHub",
       "errorAt": "2026-02-14T01:57:22.686Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "[POST] \"http://82.157.138.16:8091/CRAC/app/exam_advice/examAdviceList\": <no response> fetch failed (Connect Timeout Error (attempted address: 82.157.138.16:8091, timeout: 10000ms))\n",
       "id": "138468429736494080",
       "image": null,
       "ownerUserId": null,

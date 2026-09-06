@@ -89,16 +89,16 @@ _None_
       "url": "rsshub://163/music/artist/32540734"
     },
     {
-      "description": "网易云音乐歌手专辑 - Cornelius - Powered by RSSHub",
+      "description": "网易云音乐歌手专辑 - HOYO-MiX - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "93448817250868224",
-      "image": "https://p2.music.126.net/8S1C8M5lMYTDJhHnfn8_Xw==/812539092950497.jpg",
+      "id": "161438791238349824",
+      "image": "https://p1.music.126.net/Y2_BNSAyXLMHztZWCfUKKA==/109951168127138041.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://music.163.com/#/artist/album?id=159549",
-      "title": "Cornelius",
+      "siteUrl": "https://music.163.com/#/artist/album?id=12487174",
+      "title": "HOYO-MiX",
       "type": "feed",
-      "url": "rsshub://163/music/artist/159549"
+      "url": "rsshub://163/music/artist/12487174"
     }
   ]
 }

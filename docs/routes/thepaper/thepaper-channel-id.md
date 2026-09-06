@@ -83,7 +83,7 @@ _None_
     {
       "description": "澎湃新闻频道 - 科技 - Powered by RSSHub",
       "errorAt": "2026-03-08T00:02:40.912Z",
-      "errorMessage": "Failed to fetch\nInvalid RSSHub JSON Feed from 98292582055262208\ncheerio.load() expects a string\ncheerio.load() expects a string\ncheerio.load() expects a string\n",
+      "errorMessage": "cheerio.load() expects a string\ncheerio.load() expects a string\ncheerio.load() expects a string\n",
       "id": "42176727615320069",
       "image": "https://m.thepaper.cn/_next/static/media/logo.8d76cf45.png",
       "ownerUserId": null,

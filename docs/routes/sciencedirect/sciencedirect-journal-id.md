@@ -89,15 +89,15 @@ _None_
     },
     {
       "description": null,
-      "errorAt": "2026-06-30T06:04:25.322Z",
-      "errorMessage": "[GET] \"https://www.sciencedirect.com/journal/journal-of-computational-physics/articles-in-press\": 403 Forbidden\n",
-      "id": "1178645011650969616",
+      "errorAt": "2026-06-30T06:04:20.958Z",
+      "errorMessage": "[GET] \"https://www.sciencedirect.com/journal/cell-reports-physical-science/articles-in-press\": 403 Forbidden\n",
+      "id": "1178645011650969613",
       "image": null,
       "ownerUserId": null,
       "siteUrl": null,
       "title": "Importing",
       "type": "feed",
-      "url": "rsshub://sciencedirect/journal/journal-of-computational-physics"
+      "url": "rsshub://sciencedirect/journal/cell-reports-physical-science"
     }
   ]
 }

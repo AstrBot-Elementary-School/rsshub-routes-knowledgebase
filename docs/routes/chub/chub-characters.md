@@ -52,8 +52,8 @@ _None_
   "topFeeds": [
     {
       "description": "Chub - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-05T08:47:15.728Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "84145553358908416",
       "image": null,
       "ownerUserId": null,

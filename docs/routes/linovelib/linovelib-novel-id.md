@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 13,
+  "heat": 12,
   "location": "novel.ts",
   "maintainers": [
     "misakicoca"
@@ -77,8 +77,8 @@ _None_
     },
     {
       "description": "欢迎来到实力至上主义的教室 - Powered by RSSHub",
-      "errorAt": "2026-09-03T03:57:40.077Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://www.linovelib.com/novel/8/catalog\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "171191130615603200",
       "image": null,
       "ownerUserId": null,

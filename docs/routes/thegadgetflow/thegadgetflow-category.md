@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 3,
+  "heat": 2,
   "location": "rss.tsx",
   "maintainers": [
     "IvanWng97"
@@ -76,8 +76,8 @@ _None_
   "topFeeds": [
     {
       "description": "Gadget Flow - Powered by RSSHub",
-      "errorAt": "2026-09-04T07:31:49.206Z",
-      "errorMessage": "(intermediate value).data.map is not a function\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "186353461477534720",
       "image": null,
       "ownerUserId": null,

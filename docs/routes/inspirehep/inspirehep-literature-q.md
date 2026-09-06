@@ -63,25 +63,25 @@ _None_
       "description": "Literature Search - INSPIRE - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "69965125338796053",
+      "id": "69965125338796039",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20R.Emparan.1",
+      "siteUrl": "https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20G.Compere.1",
       "title": "Literature Search - INSPIRE",
       "type": "feed",
-      "url": "rsshub://inspirehep/literature/a%20R.Emparan.1"
+      "url": "rsshub://inspirehep/literature/a%20G.Compere.1"
     },
     {
       "description": "Literature Search - INSPIRE - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "69965125338796037",
+      "errorAt": "2025-03-05T15:13:11.683Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "id": "69965125338796055",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20T.Takayanagi.1",
+      "siteUrl": "https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20E.Witten.1",
       "title": "Literature Search - INSPIRE",
       "type": "feed",
-      "url": "rsshub://inspirehep/literature/a%20T.Takayanagi.1"
+      "url": "rsshub://inspirehep/literature/a%20E.Witten.1"
     }
   ]
 }

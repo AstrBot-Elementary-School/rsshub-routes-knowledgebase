@@ -78,7 +78,7 @@ _None_
     {
       "description": "不太灵-最新资源列表-电影 - Powered by RSSHub",
       "errorAt": "2025-02-09T15:45:47.426Z",
-      "errorMessage": "api error\n",
+      "errorMessage": "[GET] \"https://www.2bt0.com/prod/core/system/getTList?sc=1\": 404 Not Found\n",
       "id": "66737530237513732",
       "image": null,
       "ownerUserId": null,

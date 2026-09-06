@@ -54,7 +54,7 @@ _None_
   ],
   "description": "Languages:\n\n| Chinese | English | Japanese | Korean |\n| ------- | ------- | -------- | ------ |\n| cn      | en      | ja       | ko     |\n\nArticle types:\n\n| Index | Series | Interviews | Novels | Comics | News |\n| ----- | ------ | ---------- | ------ | ------ | ---- |\n| index | series | interviews | novels | comics | news |\n\n| Music review  | Game review  | Book review  | Where are you   |\n| ------------- | ------------ | ------------ | --------------- |\n| music\\_review | game\\_review | book\\_review | where\\_are\\_you |\n\n**Note:** The index type includes all types of articles. Think twice before using it.",
   "example": "/touhougarakuta/ja/news",
-  "heat": 0,
+  "heat": 1,
   "location": "index.ts",
   "maintainers": [
     "ttyfly"

@@ -93,7 +93,7 @@
     {
       "description": "香港新聞，香港時事，資訊更新更快、聲音更全面、解讀更權威。 - Powered by RSSHub",
       "errorAt": "2025-12-23T14:16:46.461Z",
-      "errorMessage": "Failed to fetch\nInvalid Column: hong_kong\n",
+      "errorMessage": "Invalid Column: hong_kong\n",
       "id": "71128480939804672",
       "image": null,
       "ownerUserId": null,

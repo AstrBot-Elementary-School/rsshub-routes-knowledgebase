@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 260,
+  "heat": 259,
   "location": "jobs.ts",
   "maintainers": [
     "sfyumi"

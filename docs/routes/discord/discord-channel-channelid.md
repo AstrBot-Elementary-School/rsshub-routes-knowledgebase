@@ -91,7 +91,7 @@ _None_
     {
       "description": "#📢｜announcements - Folo - Discord - Powered by RSSHub",
       "errorAt": "2025-12-11T16:02:11.838Z",
-      "errorMessage": "Failed to fetch\nDiscord RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\n",
+      "errorMessage": "Discord RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\n",
       "id": "94583394560561152",
       "image": "https://cdn.discordapp.com/icons/1243823539426033696/b7e6b0a2026084252f2ccb46b824c31e.webp",
       "ownerUserId": null,

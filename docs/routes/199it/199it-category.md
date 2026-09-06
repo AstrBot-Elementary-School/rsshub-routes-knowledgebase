@@ -312,8 +312,8 @@
   "topFeeds": [
     {
       "description": "中文互联网数据研究资讯中心是一个专注于互联网数据研究、互联网数据调研、IT数据分析、互联网咨询机构数据、互联网权威机构，并致力为中国互联网研究和咨询及IT行业数据专业人员和决策者提供一个数据共享平台。这里是最新 | - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-05T03:06:38.272Z",
+      "errorMessage": "[GET] \"https://www.199it.com/newly\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 124.14.20.156:443, 124.14.20.152:443, 124.14.20.150:443, 124.14.20.151:443, 124.14.20.154:443, 124.14.20.153:443, 124.14.20.155:443, 124.14.20.157:443, timeout: 10000ms))\n",
       "id": "109510016354217993",
       "image": "//www.199it.com/199itlogo.png",
       "ownerUserId": null,

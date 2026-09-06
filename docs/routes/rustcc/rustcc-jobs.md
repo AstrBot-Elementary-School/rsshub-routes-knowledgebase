@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 70,
+  "heat": 69,
   "location": "jobs.ts",
   "maintainers": [
     "CcccFz"

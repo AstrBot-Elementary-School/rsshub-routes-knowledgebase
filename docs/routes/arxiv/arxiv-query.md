@@ -59,8 +59,8 @@ _None_
   "topFeeds": [
     {
       "description": "arXiv (search_query=cat:cs.AI&sortBy=submittedDate) - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-05T03:18:10.729Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "250564935356404745",
       "image": null,
       "ownerUserId": null,

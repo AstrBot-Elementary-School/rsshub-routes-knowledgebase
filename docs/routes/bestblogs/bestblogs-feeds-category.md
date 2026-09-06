@@ -67,7 +67,7 @@ _None_
     {
       "description": "BestBlogs.dev 精选文章期刊",
       "errorAt": "2026-08-26T03:49:40.540Z",
-      "errorMessage": "401 \nFailed to fetch\n[POST] \"https://api.bestblogs.dev/api/resource/list\": 403 \n",
+      "errorMessage": "401 \n[POST] \"https://api.bestblogs.dev/api/resource/list\": 403 \n",
       "id": "55765580939819008",
       "image": null,
       "ownerUserId": null,

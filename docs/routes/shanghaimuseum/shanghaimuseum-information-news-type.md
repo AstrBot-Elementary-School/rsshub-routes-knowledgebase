@@ -9,7 +9,7 @@
 - Route Path: `/shanghaimuseum/information/news/:type?`
 - Route Name: `News & Announcements`
 - Example: `/shanghaimuseum/information/news/all`
-- URL: `www.shanghaimuseum.net`
+- URL: `www.shanghaimuseum.cn`
 - Language: `_None_`
 - Categories: `travel`
 - Maintainers: `magazian`
@@ -29,7 +29,7 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `www.shanghaimuseum.net/mu/frontend/pg/infomation/news`
+  - `www.shanghaimuseum.cn/mu/frontend/pg/infomation/news`
 - `target`: `/information/news`
 
 ## Raw JSON
@@ -52,7 +52,7 @@ _None_
   "radar": [
     {
       "source": [
-        "www.shanghaimuseum.net/mu/frontend/pg/infomation/news"
+        "www.shanghaimuseum.cn/mu/frontend/pg/infomation/news"
       ],
       "target": "/information/news"
     }

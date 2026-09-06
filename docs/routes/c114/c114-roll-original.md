@@ -78,8 +78,8 @@ _None_
   "topFeeds": [
     {
       "description": "C114是中国较早成立的专业通信行业垂直门户网站，是中国通信领域历史较久、规模较大、覆盖面较广的网络媒体。C114通信网全面、及时报道包括中国移动、电信、联通、华为、中兴、爱立信等国内外运营商、设备商资讯以及行业新动态；C114通信人家园是国内较大的通信专业社区。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-05T05:37:26.842Z",
+      "errorMessage": "[GET] \"https://www.c114.com.cn/news/roll.asp\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 111.208.116.44:443, 111.208.116.39:443, 111.208.116.41:443, 111.208.116.43:443, 111.208.116.40:443, 111.208.116.45:443, 111.208.116.38:443, 111.208.116.42:443, timeout: 10000ms))\n",
       "id": "55939235463397378",
       "image": "https://www.c114.com.cn/images/18/logo.png",
       "ownerUserId": null,

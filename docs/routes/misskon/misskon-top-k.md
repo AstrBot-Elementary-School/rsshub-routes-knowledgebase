@@ -70,7 +70,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 373,
+  "heat": 372,
   "location": "top.ts",
   "maintainers": [
     "Urabartin"
@@ -128,8 +128,8 @@ _None_
     },
     {
       "description": "The most viewed photos of the past week. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-05T10:10:04.093Z",
+      "errorMessage": "[GET] \"https://misskon.com/top7/\": 451 Unavailable For Legal Reasons\n",
       "id": "75526635626105856",
       "image": null,
       "ownerUserId": null,

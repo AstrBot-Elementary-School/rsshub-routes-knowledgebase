@@ -1580,6 +1580,12 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `1`
 - Index File: `index/canada-ca.md`
 
+## The Grand Canal Museum of Beijing
+- Namespace: `canalmuseum`
+- Aliases: `canalmuseum, canalmuseum.org.cn, the grand canal museum of beijing, www, www.canalmuseum.org.cn`
+- Route Count: `2`
+- Index File: `index/canalmuseum.md`
+
 ## 参考消息
 - Namespace: `cankaoxiaoxi`
 - Aliases: `cankaoxiaoxi, cankaoxiaoxi.com, 参考消息`
@@ -9286,7 +9292,7 @@ Use this file to select the target namespace before opening route documents.
 
 ## Shanghai Museum
 - Namespace: `shanghaimuseum`
-- Aliases: `shanghai museum, shanghaimuseum, shanghaimuseum.net, www, www.shanghaimuseum.net`
+- Aliases: `shanghai museum, shanghaimuseum, shanghaimuseum.cn, www, www.shanghaimuseum.cn`
 - Route Count: `2`
 - Index File: `index/shanghaimuseum.md`
 

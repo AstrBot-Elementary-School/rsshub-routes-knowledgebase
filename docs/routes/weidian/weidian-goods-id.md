@@ -51,28 +51,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "UZI（全国包顺丰） 商铺上新 - Powered by RSSHub",
+      "description": "崔狱Studio ￴￴ ￴￴￴ ￴￴ ￴￴ ￴￴￴￴ 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264478347631394816",
+      "id": "1264525315179151360",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1860117640",
-      "title": "UZI（全国包顺丰） 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1623777994",
+      "title": "崔狱Studio ￴￴ ￴￴￴ ￴￴ ￴￴ ￴￴￴￴ 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1860117640"
+      "url": "rsshub://weidian/goods/1623777994"
     },
     {
-      "description": "byvovo 商铺上新 - Powered by RSSHub",
+      "description": "A1 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264525518451900416",
+      "id": "1264523929263669248",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1771961812",
-      "title": "byvovo 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1624885820",
+      "title": "A1 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1771961812"
+      "url": "rsshub://weidian/goods/1624885820"
     }
   ]
 }

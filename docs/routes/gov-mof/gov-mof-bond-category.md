@@ -83,7 +83,7 @@ _None_
     {
       "description": "储蓄国债发行 - 中华人民共和国财政部 - Powered by RSSHub",
       "errorAt": "2026-02-12T06:18:06.323Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "[GET] \"https://gks.mof.gov.cn/ztztz/guozaiguanli/gzfxdzs/\": 502 Bad Gateway\n",
       "id": "100135024449222656",
       "image": null,
       "ownerUserId": null,

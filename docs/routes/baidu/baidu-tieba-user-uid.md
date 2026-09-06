@@ -74,16 +74,16 @@ _None_
       "url": "rsshub://baidu/tieba/user/%E5%9C%A8%E9%80%83%E5%8F%8C%E7%9A%AE%E5%A5%B6%F0%9F%8E%80"
     },
     {
-      "description": "阳光下的咪西 的贴吧 - Powered by RSSHub",
-      "errorAt": "2026-04-05T11:51:29.923Z",
-      "errorMessage": "[GET] \"https://tieba.baidu.com/home/main?un=阳光下的咪西\": 403 Forbidden\n",
-      "id": "69911701157875712",
+      "description": "林子君 的贴吧 - Powered by RSSHub",
+      "errorAt": "2026-07-26T02:15:19.346Z",
+      "errorMessage": "Tieba user 林子◎君 not found\n",
+      "id": "86267276958861312",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://tieba.baidu.com/home/main?un=%E9%98%B3%E5%85%89%E4%B8%8B%E7%9A%84%E5%92%AA%E8%A5%BF",
-      "title": "阳光下的咪西 的贴吧",
+      "siteUrl": "https://tieba.baidu.com/home/main?un=%E6%9E%97%E5%AD%90%E2%97%8E%E5%90%9B",
+      "title": "林子君 的贴吧",
       "type": "feed",
-      "url": "rsshub://baidu/tieba/user/%E9%98%B3%E5%85%89%E4%B8%8B%E7%9A%84%E5%92%AA%E8%A5%BF"
+      "url": "rsshub://baidu/tieba/user/%E6%9E%97%E5%AD%90%E2%97%8E%E5%90%9B"
     }
   ]
 }

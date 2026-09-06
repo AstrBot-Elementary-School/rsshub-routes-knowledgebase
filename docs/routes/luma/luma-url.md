@@ -88,16 +88,16 @@ _None_
       "url": "rsshub://luma/langchain"
     },
     {
-      "description": "The AI Collective - Powered by RSSHub",
+      "description": "Google DeepMind - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "265935647087177728",
+      "id": "265966953317233664",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://lu.ma/genai-collective",
-      "title": "The AI Collective",
+      "siteUrl": "https://lu.ma/deepmind",
+      "title": "Google DeepMind",
       "type": "feed",
-      "url": "rsshub://luma/genai-collective"
+      "url": "rsshub://luma/deepmind"
     }
   ],
   "url": "lu.ma"

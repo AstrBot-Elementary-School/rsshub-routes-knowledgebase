@@ -189,8 +189,20 @@ _None_
   },
   "topFeeds": [
     {
+      "description": "軍情動態 - 自由軍武頻道 - Powered by RSSHub",
+      "errorAt": "2026-09-03T10:01:26.968Z",
+      "errorMessage": "[GET] \"https://def.ltn.com.tw/article/breakingnews/5563905\": 403 Forbidden\n",
+      "id": "1209422470604259328",
+      "image": "https://def.ltn.com.tw/assets/images/1200_def.png",
+      "ownerUserId": null,
+      "siteUrl": "https://def.ltn.com.tw/breakingnewslist",
+      "title": "軍情動態 - 自由軍武頻道",
+      "type": "feed",
+      "url": "rsshub://ltn/def/breakingnewslist"
+    },
+    {
       "description": "國際軍情 - 自由軍武頻道 - Powered by RSSHub",
-      "errorAt": "2026-09-03T10:01:40.240Z",
+      "errorAt": "2026-09-04T16:46:48.673Z",
       "errorMessage": "[GET] \"https://def.ltn.com.tw/ajax/list/10/1\": 403 Forbidden\n",
       "id": "1209423243413159936",
       "image": "https://def.ltn.com.tw/assets/images/1200_def.png",
@@ -199,18 +211,6 @@ _None_
       "title": "國際軍情 - 自由軍武頻道",
       "type": "feed",
       "url": "rsshub://ltn/def/list/10"
-    },
-    {
-      "description": "軍情動態 - 自由軍武頻道 - Powered by RSSHub",
-      "errorAt": "2026-09-03T10:01:26.968Z",
-      "errorMessage": "[GET] \"https://def.ltn.com.tw/ajax/breakingnewslist/1\": 403 Forbidden\n",
-      "id": "1209422470604259328",
-      "image": "https://def.ltn.com.tw/assets/images/1200_def.png",
-      "ownerUserId": null,
-      "siteUrl": "https://def.ltn.com.tw/breakingnewslist",
-      "title": "軍情動態 - 自由軍武頻道",
-      "type": "feed",
-      "url": "rsshub://ltn/def/breakingnewslist"
     }
   ],
   "url": "def.ltn.com.tw"

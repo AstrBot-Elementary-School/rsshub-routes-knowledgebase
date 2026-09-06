@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1823,
+  "heat": 1824,
   "location": "blog.ts",
   "maintainers": [
     "Lyunvy"
@@ -69,7 +69,7 @@ _None_
     {
       "description": "xbookcn - Powered by RSSHub",
       "errorAt": "2026-08-27T08:51:51.099Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "Failed to fetch\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "66735517584488448",
       "image": null,
       "ownerUserId": null,
@@ -81,7 +81,7 @@ _None_
     {
       "description": "xbookcn - Powered by RSSHub",
       "errorAt": "2026-08-24T15:22:05.245Z",
-      "errorMessage": "Failed to fetch\nInvalid RSSHub JSON Feed from 98292582055262208\n530 \nAuthentication failed. Access denied.\n/xbookcn/%E7%B2%BE%E9%80%89%E4%BD%9C%E5%93%81\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "Authentication failed. Access denied.\n/xbookcn/%E7%B2%BE%E9%80%89%E4%BD%9C%E5%93%81\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nFailed to fetch\n",
       "id": "65082601526572032",
       "image": null,
       "ownerUserId": null,

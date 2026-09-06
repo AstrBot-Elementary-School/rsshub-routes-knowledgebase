@@ -54,7 +54,7 @@ _None_
     {
       "description": "小黑盒 EPIC 喜加一 - Powered by RSSHub",
       "errorAt": "2024-12-24T07:42:30.812Z",
-      "errorMessage": "Failed to fetch\nInvalid RSSHub JSON Feed from 98292582055262208\nAuthentication failed. Access denied.\n/xiaoheihe/add2cart/epic\nCannot read properties of undefined (reading 'map')\n",
+      "errorMessage": "Authentication failed. Access denied.\n/xiaoheihe/add2cart/epic\nCannot read properties of undefined (reading 'map')\n",
       "id": "58426420603331584",
       "image": null,
       "ownerUserId": null,

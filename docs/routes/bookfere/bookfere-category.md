@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 3557,
+  "heat": 3558,
   "location": "category.ts",
   "maintainers": [
     "OdinZhang"
@@ -95,7 +95,7 @@ _None_
     {
       "description": "每周一书 – 书伴 - Powered by RSSHub",
       "errorAt": "2026-09-03T06:02:27.605Z",
-      "errorMessage": "502 \n[GET] \"https://bookfere.com/category/weekly\": 403 Forbidden\nFailed to fetch\n[GET] \"https://bookfere.com/category/weekly\": 403 \n[GET] \"https://bookfere.com/category/weekly\": 403 Forbidden\n[GET] \"https://bookfere.com/category/weekly\": 403 \n[GET] \"https://bookfere.com/category/weekly\": 403 Forbidden\n[GET] \"https://bookfere.com/category/weekly\": 403 Forbidden\n[GET] \"https://bookfere.com/category/weekly\": 403 Forbidden\n[GET] \"https://bookfere.com/category/weekly\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://bookfere.com/category/weekly\": 403 Forbidden\n[GET] \"https://bookfere.com/category/weekly\": 403 Forbidden\n[GET] \"https://bookfere.com/category/weekly\": 403 Forbidden\n[GET] \"https://bookfere.com/category/weekly\": 403 \n[GET] \"https://bookfere.com/category/weekly\": 403 Forbidden\n[GET] \"https://bookfere.com/category/weekly\": 403 \n[GET] \"https://bookfere.com/category/weekly\": 403 Forbidden\n[GET] \"https://bookfere.com/category/weekly\": 403 Forbidden\n[GET] \"https://bookfere.com/category/weekly\": 403 Forbidden\n[GET] \"https://bookfere.com/category/weekly\": 403 Forbidden\n",
       "id": "68570312983970816",
       "image": null,
       "ownerUserId": null,

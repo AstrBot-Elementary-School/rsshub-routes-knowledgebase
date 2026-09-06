@@ -81,7 +81,7 @@ _None_
     {
       "description": "最新里番动漫 - moduzy.net - Powered by RSSHub",
       "errorAt": "2026-08-24T20:38:14.605Z",
-      "errorMessage": "Failed to fetch\nUnexpected token '<', \"<script sr\"... is not valid JSON\n",
+      "errorMessage": "Unexpected token '<', \"<script sr\"... is not valid JSON\n",
       "id": "142620753499722752",
       "image": null,
       "ownerUserId": null,

@@ -65,7 +65,7 @@ _None_
     {
       "description": "豆瓣电影北美票房榜 - Powered by RSSHub",
       "errorAt": "2024-12-05T07:51:46.128Z",
-      "errorMessage": "[GET] \"https://api.douban.com/v2/movie/us_box?apikey=0df993c66c0c636e29ecbb5344252a4a\": 400 Bad Request\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "59787325142564864",
       "image": null,
       "ownerUserId": null,

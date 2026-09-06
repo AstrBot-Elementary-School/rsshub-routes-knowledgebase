@@ -46,7 +46,7 @@ _None_
   ],
   "description": "| 炉石传说 | 万智牌 | 游戏王 | 昆特牌 | 影之诗 | 符文之地传奇 | 阴阳师百闻牌 |\n| :------: | :----: | :----: | :----: | :----: | :----------: | :----------: |\n|    17    |   18   |   16   |   19   |   20   |      329     |      221     |\n\n| 英雄联盟 | 电子游戏 | 桌面游戏 | 卡牌游戏 | 玩家杂谈 | 二次元 |\n| :------: | :------: | :------: | :------: | :------: | :----: |\n|    112   |    389   |    24    |    102   |    23    |   117  |",
   "example": "/lfsyd/tag/17",
-  "heat": 90,
+  "heat": 89,
   "location": "tag.ts",
   "maintainers": [
     "auto-bot-ty"
@@ -81,16 +81,16 @@ _None_
       "url": "rsshub://lfsyd/tag/17"
     },
     {
-      "description": "游戏王 - 旅法师营地 - Powered by RSSHub",
+      "description": "万智牌 - 旅法师营地 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "60263446472040460",
+      "id": "75101365651632128",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.iyingdi.com/tz/tag/16",
-      "title": "游戏王 - 旅法师营地",
+      "siteUrl": "https://www.iyingdi.com/tz/tag/18",
+      "title": "万智牌 - 旅法师营地",
       "type": "feed",
-      "url": "rsshub://lfsyd/tag/16"
+      "url": "rsshub://lfsyd/tag/18"
     }
   ],
   "url": "www.iyingdi.com/"

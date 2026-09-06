@@ -116,16 +116,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "Highly customizable, global player leveling plugin with many integrations. - Powered by RSSHub",
+      "description": "The powerful & intuitive set homes, warps, and teleports plugin/mod - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "113662012738039808",
+      "id": "123851322293306368",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/86biV1Ic",
-      "title": "AuroraLevels Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/J6U9o3JG",
+      "title": "HuskHomes Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/86biV1Ic/versions"
+      "url": "rsshub://modrinth/project/J6U9o3JG/versions"
     }
   ]
 }

@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4841,
+  "heat": 4844,
   "location": "daily.ts",
   "maintainers": [
     "nczitzk",
@@ -73,7 +73,7 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "1. OpenAI 确认将研发人形机器人 2. Claude、Grok、ChatGPT 出现宕机或访问异常 3. 字节跳动获近 300 亿美元银团贷款 为亚洲今年第二大 4. 天猫上线 Token 充值中心，首批接入阿里云、智谱、Kimi、MiniMax 5. 英伟达将以 129.3 亿美元收购开源 AI 平台 Hugging Face 6. 谷歌 Gemini 3.8 Flash 发布 跑分亮眼但实际表现存差距 7. 优步全球裁员 10%：约 3300 个岗位受波及 管理层将减少 20% 8. 美国政府支持 OpenAI 版权诉讼立场 称 AI 训练受「合理使用」保护 9. 传大众拟 2031-2034 年分阶段关闭德国四家工厂 10. 遏制智能体失控，消息称 OpenAI 正开发 AI 自动终止功能 - Powered by RSSHub",
+      "description": "1. OpenAI 发布 GPT-6 Astra 模型 2. Anthropic 据悉将在 IPO 之前完成 150 亿美元信用融资 3. 千问办公上线首月用户数突破 3000 万，企业用户占比过半 4. 特斯拉宣布 Cybercab 在美国奥斯汀投入运营 5. 三星联合 Arm 研发下一代端侧 AI 芯片 OpenAI 成潜在客户 6. Crusoe 按 300 亿美元估值融资超 30 亿美元 7. 月之暗面已指定美国银行担任其 IPO 的总协调人 8. DeepSeek 投资份额受追捧，部分通道收取高额费用 9. 燧原科技科创板 IPO，腾讯为第一大外部股东 10. 铠侠计划以升级版 NAND 替代部分 DRAM 11. 黄仁勋谈 129 亿美元收购 Hugging Face：以开放生态推动 AI 普惠化发展 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "52347176714948614",

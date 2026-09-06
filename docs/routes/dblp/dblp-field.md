@@ -85,16 +85,16 @@ _None_
       "url": "rsshub://dblp/knowledge%20tracing"
     },
     {
-      "description": "DBLP robotics RSS - Powered by RSSHub",
+      "description": "DBLP grasp RSS - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "257777668080712704",
+      "id": "179692167689031680",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://dblp.org/search?q=robotics",
-      "title": "【dblp】robotics",
+      "siteUrl": "https://dblp.org/search?q=grasp",
+      "title": "【dblp】grasp",
       "type": "feed",
-      "url": "rsshub://dblp/robotics"
+      "url": "rsshub://dblp/grasp"
     }
   ]
 }

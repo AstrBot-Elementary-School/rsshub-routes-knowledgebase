@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 46,
+  "heat": 47,
   "location": "game.tsx",
   "maintainers": [
     "SunBK201"
