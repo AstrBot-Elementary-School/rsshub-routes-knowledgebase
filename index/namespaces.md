@@ -7142,6 +7142,12 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `1`
 - Index File: `index/mingpao.md`
 
+## Minhang Museum
+- Namespace: `minhangmuseum`
+- Aliases: `minhang museum, minhangmuseum, minhangmuseum.shmh.gov.cn`
+- Route Count: `1`
+- Index File: `index/minhangmuseum.md`
+
 ## MiniFlux
 - Namespace: `miniflux`
 - Aliases: `miniflux, miniflux.app`

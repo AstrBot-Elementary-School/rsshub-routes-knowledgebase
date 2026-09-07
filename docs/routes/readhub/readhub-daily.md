@@ -73,7 +73,7 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "1. OpenAI 发布 GPT-6 Astra 模型 2. Anthropic 据悉将在 IPO 之前完成 150 亿美元信用融资 3. 千问办公上线首月用户数突破 3000 万，企业用户占比过半 4. 特斯拉宣布 Cybercab 在美国奥斯汀投入运营 5. 三星联合 Arm 研发下一代端侧 AI 芯片 OpenAI 成潜在客户 6. Crusoe 按 300 亿美元估值融资超 30 亿美元 7. 月之暗面已指定美国银行担任其 IPO 的总协调人 8. DeepSeek 投资份额受追捧，部分通道收取高额费用 9. 燧原科技科创板 IPO，腾讯为第一大外部股东 10. 铠侠计划以升级版 NAND 替代部分 DRAM 11. 黄仁勋谈 129 亿美元收购 Hugging Face：以开放生态推动 AI 普惠化发展 - Powered by RSSHub",
+      "description": "1. GPT-6 Astra 开启大规模推送，同步重置用户额度 2. Anthropic 预计 9 月下旬公开 IPO 招股书，最早 10 月中旬启动路演 3. iPhone 18 Pro 与 Ultra 售价提前曝光：涨幅温和，定价策略贴近市场 4. Anthropic 宣布 Claude 完成费马大定理的 Lean 4 形式化证明，姚班校友主导 5. 泡泡玛特王宁到访 LVMH 集团总部，集团掌门人率家族成员接待 6. 何庭波再发「韬定律」论文，回应外界质疑 7. SpaceXAI 将 Grok Bot 扩展至 iPad、Android，同步推出低价套餐 8. 长盈精密：上半年人形机器人零组件交付量约 86 万件 已超去年全年 9. Stellantis 回应玛莎拉蒂与华为、江淮合作传闻：不予置评 10. 礼来拟 28.75 亿美元收购 Merida Biosciences 11. 兰州榆中通报「莴笋收购环节染色」：立案查处 6 家企业 12. Kimi、MiniMax 即将在天猫开店 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "52347176714948614",

@@ -90,8 +90,8 @@
     },
     {
       "description": "央视新闻 china - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-06T06:42:23.247Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 41965184796581989",
       "id": "41965184796581989",
       "image": null,
       "ownerUserId": null,

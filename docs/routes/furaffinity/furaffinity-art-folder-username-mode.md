@@ -115,16 +115,16 @@ _None_
       "url": "rsshub://furaffinity/art/gallery/oddeyresproductions/nsfw"
     },
     {
-      "description": "Fur Affinity Gallery of anirusfere - Powered by RSSHub",
-      "errorAt": "2026-05-25T14:17:48.871Z",
-      "errorMessage": "[GET] \"https://faexport.spangle.org.uk/user/anirusfere/gallery.json?full=1\": 500 Internal Server Error\n[GET] \"https://faexport.spangle.org.uk/user/anirusfere/gallery.json?full=1\": 500 Internal Server Error\n",
-      "id": "84426954589635584",
+      "description": "Fur Affinity Gallery of smellslikejavier - Powered by RSSHub",
+      "errorAt": "2026-05-25T23:32:52.338Z",
+      "errorMessage": "[GET] \"https://faexport.spangle.org.uk/user/smellslikejavier/gallery.json?full=1\": 500 Internal Server Error\n[GET] \"https://faexport.spangle.org.uk/user/smellslikejavier/gallery.json?full=1\": 500 Internal Server Error\n",
+      "id": "79208716709173248",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.furaffinity.net/gallery/anirusfere",
-      "title": "Fur Affinity | Gallery of anirusfere",
+      "siteUrl": "https://www.furaffinity.net/gallery/smellslikejavier",
+      "title": "Fur Affinity | Gallery of smellslikejavier",
       "type": "feed",
-      "url": "rsshub://furaffinity/art/gallery/anirusfere/nsfw"
+      "url": "rsshub://furaffinity/art/gallery/smellslikejavier/nsfw"
     }
   ],
   "url": "furaffinity.net"

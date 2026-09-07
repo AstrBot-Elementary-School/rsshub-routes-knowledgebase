@@ -56,8 +56,8 @@ _None_
   "topFeeds": [
     {
       "description": "OpenRice為你搜羅香港今期既飲食熱話，絕對值得一試。 - Powered by RSSHub",
-      "errorAt": "2026-09-05T03:02:15.236Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "72523198167038976",
       "image": null,
       "ownerUserId": null,

@@ -80,16 +80,16 @@ _None_
       "url": "rsshub://bilibili/fav/399964818/1771644318"
     },
     {
-      "description": "-心饴不化- 的 bilibili 收藏夹 1-风景山水 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "98257830422922242",
+      "description": "某咯可冷可冷 的 bilibili 收藏夹 医学导引术 - Powered by RSSHub",
+      "errorAt": "2025-05-23T11:26:46.180Z",
+      "errorMessage": "Cannot read properties of null (reading 'upper')\n",
+      "id": "148611905193199616",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://space.bilibili.com/508881361/#/favlist?fid=2540165161",
-      "title": "-心饴不化- 的 bilibili 收藏夹 1-风景山水",
+      "siteUrl": "https://space.bilibili.com/520161643/#/favlist?fid=3454283343",
+      "title": "某咯可冷可冷 的 bilibili 收藏夹 医学导引术",
       "type": "feed",
-      "url": "rsshub://bilibili/fav/508881361/2540165161"
+      "url": "rsshub://bilibili/fav/520161643/3454283343"
     }
   ]
 }

@@ -705,8 +705,8 @@
   "topFeeds": [
     {
       "description": "文档分享网，在这里您可以分享和下载网站推荐的资料和资源。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-05T15:32:14.859Z",
+      "errorMessage": "[GET] \"https://www.wdfxw.net/bookfree.html\": 403 Forbidden\n",
       "id": "167817053585897472",
       "image": "/images/logo_wk.png",
       "ownerUserId": null,

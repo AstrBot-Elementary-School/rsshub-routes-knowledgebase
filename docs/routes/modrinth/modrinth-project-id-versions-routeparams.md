@@ -116,16 +116,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "The powerful & intuitive set homes, warps, and teleports plugin/mod - Powered by RSSHub",
+      "description": "Track, compete, and get rewarded for your item collections with seamless plugin integrations and per-collection leaderboards! - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "123851322293306368",
+      "id": "114582489961986048",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/J6U9o3JG",
-      "title": "HuskHomes Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/PjHvoAob",
+      "title": "AuroraCollections Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/J6U9o3JG/versions"
+      "url": "rsshub://modrinth/project/PjHvoAob/versions"
     }
   ]
 }

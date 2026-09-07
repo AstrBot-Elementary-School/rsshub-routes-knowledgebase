@@ -93,8 +93,8 @@
     },
     {
       "description": "Go（又称 Golang）是 Google 开发的一种静态强类型、编译型、并发型，并具有垃圾回收功能的编程语言。Go 被誉为是未来的服务器端编程语言。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-06T04:02:47.094Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "60868955443264512",
       "image": null,
       "ownerUserId": null,

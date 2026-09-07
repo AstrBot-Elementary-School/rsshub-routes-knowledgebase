@@ -96,8 +96,8 @@
   "topFeeds": [
     {
       "description": "飞客茶馆信用卡 - 国内信用卡 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-06T06:42:51.457Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "55873225615650816",
       "image": null,
       "ownerUserId": null,

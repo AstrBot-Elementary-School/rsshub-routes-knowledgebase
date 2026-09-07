@@ -27,8 +27,8 @@
 
 
 ## Features
-- `requireConfig`: [{"description": "", "name": "ZHIHU_COOKIES", "optional": true}]
-- `requirePuppeteer`: false
+- `requireConfig`: [{"description": "A complete d_c0 and __zse_ck cookie pair avoids browser-based session initialization. Otherwise Playwright (BROWSER on Workers) is required.", "name": "ZHIHU_COOKIES", "optional": true}]
+- `requirePuppeteer`: true
 - `antiCrawler`: true
 - `supportBT`: false
 - `supportPodcast`: false
@@ -52,12 +52,12 @@
     "antiCrawler": true,
     "requireConfig": [
       {
-        "description": "",
+        "description": "A complete d_c0 and __zse_ck cookie pair avoids browser-based session initialization. Otherwise Playwright (BROWSER on Workers) is required.",
         "name": "ZHIHU_COOKIES",
         "optional": true
       }
     ],
-    "requirePuppeteer": false,
+    "requirePuppeteer": true,
     "supportBT": false,
     "supportPodcast": false,
     "supportScihub": false

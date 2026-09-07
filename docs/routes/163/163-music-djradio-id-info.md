@@ -80,11 +80,11 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "华尔街日报、纽约时报、经济学人、卫报、华盛顿邮报...每日精选外刊新闻，有趣、有料的双语新闻等你来听哦！ - Powered by RSSHub",
+      "description": "周一至周五稳定日更｜中英双语新闻朗读华尔街日报、纽约时报、经济学人、卫报、华盛顿邮报...听众的英语听力素材库，有趣有料聚焦外刊热点，磨耳朵、积累词汇、拓展视野安静做长期主义的英语播客 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "86942680091975680",
-      "image": "https://p2.music.126.net/FEr0yi7hy9AA2Fnyksox-w==/109951168094109440.jpg",
+      "image": "https://p1.music.126.net/FEr0yi7hy9AA2Fnyksox-w==/109951168094109440.jpg",
       "ownerUserId": null,
       "siteUrl": "https://music.163.com/djradio?id=792645464",
       "title": "每日双语新闻 | 快乐学英语",
@@ -96,7 +96,7 @@ _None_
       "errorAt": null,
       "errorMessage": null,
       "id": "86348092512122880",
-      "image": "https://p1.music.126.net/pDwIwKwFhduBjkYEfRnFVg==/109951164453536558.jpg",
+      "image": "https://p2.music.126.net/pDwIwKwFhduBjkYEfRnFVg==/109951164453536558.jpg",
       "ownerUserId": null,
       "siteUrl": "https://music.163.com/djradio?id=794193438",
       "title": "无时差研究所",

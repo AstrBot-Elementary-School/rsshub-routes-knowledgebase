@@ -118,18 +118,6 @@ Topics
   },
   "topFeeds": [
     {
-      "description": "Extreme-heat Articles on grist.org - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "87131229876341760",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://grist.org/extreme-heat",
-      "title": "Extreme-heat - Gist Articles",
-      "type": "feed",
-      "url": "rsshub://grist/topic/extreme-heat"
-    },
-    {
       "description": "Culture Articles on grist.org - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -140,6 +128,18 @@ Topics
       "title": "Culture - Gist Articles",
       "type": "feed",
       "url": "rsshub://grist/topic/culture"
+    },
+    {
+      "description": "Extreme-heat Articles on grist.org - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "87131229876341760",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://grist.org/extreme-heat",
+      "title": "Extreme-heat - Gist Articles",
+      "type": "feed",
+      "url": "rsshub://grist/topic/extreme-heat"
     }
   ],
   "url": "grist.org/articles/"

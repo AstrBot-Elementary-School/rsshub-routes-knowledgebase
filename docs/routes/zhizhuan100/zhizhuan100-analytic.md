@@ -58,8 +58,8 @@ _None_
   "topFeeds": [
     {
       "description": "智篆商业-消费报告 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-06T07:56:41.680Z",
+      "errorMessage": "[GET] \"https://www.zhizhuan100.com.cn/analysis\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 113.215.241.160:443, 113.215.241.162:443, 113.215.241.166:443, 113.215.241.163:443, 113.215.241.165:443, 113.215.241.148:443, 113.215.241.164:443, 113.215.241.161:443, timeout: 10000ms))\n",
       "id": "176591270098243584",
       "image": null,
       "ownerUserId": null,

@@ -28,6 +28,7 @@
 
 ## Features
 - `antiCrawler`: true
+- `requirePuppeteer`: true
 - `requireConfig`: [{"description": "百合会BBS登录后的认证信息，获取方式：1. 登录百合会BBS网页版 2. 打开浏览器开发者工具，切换到 Application 面板\n3. 点击侧边栏中的Storage -> Cookies -> https://bbs.yamibo.com 4. 复制 Cookie 中的 EeqY_2132_saltkey 值", "name": "YAMIBO_SALT", "optional": true}, {"description": "百合会BBS登录后的认证信息，获取方式：1. 登录百合会BBS网页版 2. 打开浏览器开发者工具，切换到 Application 面板\n3. 点击侧边栏中的Storage -> Cookies -> https://bbs.yamibo.com 4. 复制 Cookie 中的 EeqY_2132_auth 值", "name": "YAMIBO_AUTH", "optional": true}]
 
 ## Radar
@@ -54,7 +55,8 @@ _None_
         "name": "YAMIBO_AUTH",
         "optional": true
       }
-    ]
+    ],
+    "requirePuppeteer": true
   },
   "heat": 65,
   "location": "bbs/forum.ts",

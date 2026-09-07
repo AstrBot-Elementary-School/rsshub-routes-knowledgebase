@@ -88,7 +88,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1697,
+  "heat": 1694,
   "location": "other/list.ts",
   "maintainers": [
     "5upernova-heng",
@@ -126,8 +126,8 @@
     },
     {
       "description": "根据图书、影视、音乐的实时热度与关注度，得出的综合排名 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-06T04:02:55.350Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "56444932847522816",
       "image": null,
       "ownerUserId": null,

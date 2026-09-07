@@ -53,7 +53,7 @@ Enhance the official EN RSS feed
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 300,
+  "heat": 301,
   "location": "rss.ts",
   "maintainers": [
     "HenryQW",
@@ -95,7 +95,7 @@ Enhance the official EN RSS feed
     {
       "description": "NYT > Top Stories - Powered by RSSHub",
       "errorAt": "2025-06-11T21:30:37.105Z",
-      "errorMessage": "[GET] \"https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hack.html\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.nytimes.com/2026/09/05/us/politics/stay-at-home-parents-subsidies.html\": 403 Forbidden\n",
       "id": "76533237937860608",
       "image": "{\"link\":\"https://www.nytimes.com\",\"url\":\"https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png\",\"title\":\"NYT > Top Stories\"}",
       "ownerUserId": null,

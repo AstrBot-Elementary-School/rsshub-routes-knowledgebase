@@ -76,13 +76,14 @@
     }
   ],
   "test": {
-    "code": 0
+    "code": 1,
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
   "topFeeds": [
     {
       "description": "南开大学研究生招生网-硕士招生 - Powered by RSSHub",
-      "errorAt": "2026-09-05T05:52:16.003Z",
-      "errorMessage": "[GET] \"https://yzb.nankai.edu.cn/5509/list.htm\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 222.30.45.190:443, 2001:250:401:d450::190:443, timeout: 10000ms))\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "167782987907531776",
       "image": null,
       "ownerUserId": null,

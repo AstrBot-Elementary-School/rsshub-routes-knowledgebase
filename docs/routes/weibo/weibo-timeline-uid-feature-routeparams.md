@@ -96,13 +96,13 @@ _None_
       "description": "undefined - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "72285668788873216",
+      "id": "1120465570618015744",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://docs.rsshub.app/",
       "title": "RSSHub",
       "type": "feed",
-      "url": "rsshub://weibo/timeline/6524368442"
+      "url": "rsshub://weibo/timeline/1961069891/0"
     }
   ]
 }

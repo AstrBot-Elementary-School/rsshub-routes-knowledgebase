@@ -81,14 +81,13 @@
     }
   ],
   "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at runNextTicks (node:internal/process/task_queues:65:5)\n    at listOnTimeout (node:internal/timers:597:9)\n    at processTimers (node:internal/timers:571:7)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+    "code": 0
   },
   "topFeeds": [
     {
       "description": "精選基地編輯每日為你帶來的電玩、動漫、娛樂遊戲最新新聞 - Powered by RSSHub",
-      "errorAt": "2026-06-23T05:39:10.805Z",
-      "errorMessage": "[GET] \"undefined\": <no response> Failed to parse URL from undefined (Invalid URL)\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "62600104047803392",
       "image": "https://image.gamebase.com.tw/gb_tw/static/logo_01.png",
       "ownerUserId": null,

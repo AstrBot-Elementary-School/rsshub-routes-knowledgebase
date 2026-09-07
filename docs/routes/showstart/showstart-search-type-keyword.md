@@ -94,18 +94,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "秀动网 - 搜城市 - 成都 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "138149010608228352",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.showstart.com/",
-      "title": "秀动网 - 搜城市 - 成都",
-      "type": "feed",
-      "url": "rsshub://showstart/search/city/%20%E6%88%90%E9%83%BD"
-    },
-    {
       "description": "秀动网 - 搜城市 - 上海 - Powered by RSSHub",
       "errorAt": "2026-08-02T21:00:09.499Z",
       "errorMessage": "e[t].localeCompare is not a function\n",
@@ -116,6 +104,18 @@ _None_
       "title": "秀动网 - 搜城市 - 上海",
       "type": "feed",
       "url": "rsshub://showstart/search/city/%E4%B8%8A%E6%B5%B7"
+    },
+    {
+      "description": "秀动网 - 搜城市 - 成都 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "138149010608228352",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.showstart.com/",
+      "title": "秀动网 - 搜城市 - 成都",
+      "type": "feed",
+      "url": "rsshub://showstart/search/city/%20%E6%88%90%E9%83%BD"
     }
   ]
 }

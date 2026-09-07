@@ -80,8 +80,8 @@ _None_
   "topFeeds": [
     {
       "description": "動画カテゴリー: 神エロ乳首系のAV - chikubi.jp - Powered by RSSHub",
-      "errorAt": "2026-09-05T08:42:40.436Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "63391413407305728",
       "image": null,
       "ownerUserId": null,

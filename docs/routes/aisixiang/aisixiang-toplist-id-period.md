@@ -40,7 +40,7 @@ _None_
   ],
   "description": "| 文章点击排行 | 最近更新文章 | 文章推荐排行 |\n| ------------ | ------------ | ------------ |\n| 1            | 10           | 11           |",
   "example": "/aisixiang/toplist/1/7",
-  "heat": 16,
+  "heat": 17,
   "location": "toplist.ts",
   "maintainers": [
     "HenryQW",

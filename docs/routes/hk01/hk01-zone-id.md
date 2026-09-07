@@ -77,8 +77,8 @@ _None_
     },
     {
       "description": "觀點 | 香港01 - Powered by RSSHub",
-      "errorAt": "2026-09-05T02:58:54.412Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "67391706472795143",
       "image": "https://cdn.hk01.com/di/media/images/dw/20201125/408228012966809600968521.png/iLSX3aBqMJua0Gc3o1pEMySDayDl34CKLKMCpiyjAqY",
       "ownerUserId": null,

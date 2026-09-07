@@ -60,6 +60,9 @@ _None_
     "sortBy": "排序方式：`created`, `replied`。默认为 `created`"
   },
   "path": "/tieba/forum/:kw/:sortBy?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "孙笑川吧 - Powered by RSSHub",

@@ -82,8 +82,8 @@ _None_
     },
     {
       "description": "24 小时热榜 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-06T10:07:23.926Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 77974917410779136",
       "id": "77974917410779136",
       "image": null,
       "ownerUserId": null,

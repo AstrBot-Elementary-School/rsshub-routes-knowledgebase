@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "上海证券交易所 - 科创板股票审核 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-06T05:07:32.982Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "64364739096153088",
       "image": null,
       "ownerUserId": null,

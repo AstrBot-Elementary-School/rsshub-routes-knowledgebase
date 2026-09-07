@@ -79,7 +79,7 @@ _None_
     {
       "description": "知识星球 - 七爷 - Powered by RSSHub",
       "errorAt": "2025-11-19T07:54:33.646Z",
-      "errorMessage": "该 RSS 源由于配置不正确而被禁用：令牌丢失。\n",
+      "errorMessage": "[GET] \"https://api.zsxq.com/v2/users/88518551114282\": 401 Unauthorized\n该 RSS 源由于配置不正确而被禁用：令牌丢失。\n",
       "id": "92393906365792256",
       "image": "https://images.zsxq.com/FtqALUPIX5gNVZXFTCzN58SWG2nU?imageMogr2/auto-orient/thumbnail/150x/format/jpg/blur/1x0/quality/75/ignore-error/1&e=1767196799&token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:8jU6uH43pMQ4HXoDvtLNPDJWjkM=",
       "ownerUserId": null,

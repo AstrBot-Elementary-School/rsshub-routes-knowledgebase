@@ -202,7 +202,8 @@
     }
   ],
   "test": {
-    "code": 0
+    "code": 1,
+    "message": "Error: STACK_TRACE_ERROR\n    at task (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:1784:27)\n    at Object.<anonymous> (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:1817:16)\n    at Object.<anonymous> (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:1563:28)\n    at chain (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:599:14)\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:98:12\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:1889:40\n    at runWithSuite (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:2258:8)\n    at Object.collect (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:1889:10)\n    at Object.collect (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:1893:54)\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)"
   },
   "topFeeds": [
     {
@@ -219,15 +220,15 @@
     },
     {
       "description": "这里有来自 TiDB 社区用户分享的管理与运维、实践案例、架构选型、原理解读、应用开发、社区动态等一系列技术文章，也期待你的分享~ - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "185620323735260160",
+      "errorAt": "2026-02-11T14:31:24.424Z",
+      "errorMessage": "[GET] \"https://tidb.net/blog/c/principle-interpretation\": <no response> fetch failed\n",
+      "id": "190044741201359872",
       "image": "https://img1.tidb.net/favicons/android-chrome-512x512.png",
       "ownerUserId": null,
-      "siteUrl": "https://tidb.net/blog",
-      "title": "博客 - 首页 | TiDB 社区",
+      "siteUrl": "https://tidb.net/blog/c/principle-interpretation",
+      "title": "博客 - 产品技术解读 | TiDB 社区",
       "type": "feed",
-      "url": "rsshub://tidb/blog/c"
+      "url": "rsshub://tidb/blog/c/principle-interpretation"
     }
   ],
   "url": "tidb.net",

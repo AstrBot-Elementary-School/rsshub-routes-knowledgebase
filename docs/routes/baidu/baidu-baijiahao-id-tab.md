@@ -65,6 +65,9 @@ _None_
     }
   },
   "path": "/baijiahao/:id/:tab?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [],
   "url": "baijiahao.baidu.com"
 }

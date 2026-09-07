@@ -65,8 +65,8 @@ _None_
   "topFeeds": [
     {
       "description": "上海证券交易所 - 上市公司信息 - 中原高速最新公告 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-06T05:11:06.677Z",
+      "errorMessage": "[GET] \"https://query.sse.com.cn/security/stock/queryCompanyBulletin.do?isPagination=true&securityType=0101,120100,020100,020200,120200&reportType=ALL&pageHelp.pageSize=25&pageHelp.pageCount=50&pageHelp.pageNo=1&pageHelp.beginPage=1&pageHelp.cacheSize=1&pageHelp.endPage=5&_=1788671464448\": 403 Forbidden\n",
       "id": "115958109880213504",
       "image": null,
       "ownerUserId": null,

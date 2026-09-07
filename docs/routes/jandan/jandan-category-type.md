@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 525,
+  "heat": 524,
   "location": "section.ts",
   "maintainers": [
     "kobemtl",
@@ -132,8 +132,8 @@ _None_
   "topFeeds": [
     {
       "description": "热榜 - 4小时热门 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-06T08:22:18.199Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 42107730549411843",
       "id": "42107730549411843",
       "image": null,
       "ownerUserId": null,

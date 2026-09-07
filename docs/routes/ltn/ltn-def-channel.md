@@ -191,7 +191,7 @@ _None_
     {
       "description": "軍情動態 - 自由軍武頻道 - Powered by RSSHub",
       "errorAt": "2026-09-03T10:01:26.968Z",
-      "errorMessage": "[GET] \"https://def.ltn.com.tw/article/breakingnews/5563905\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://def.ltn.com.tw/ajax/breakingnewslist/1\": 403 Forbidden\n",
       "id": "1209422470604259328",
       "image": "https://def.ltn.com.tw/assets/images/1200_def.png",
       "ownerUserId": null,

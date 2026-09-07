@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 3558,
+  "heat": 3556,
   "location": "category.ts",
   "maintainers": [
     "OdinZhang"
@@ -94,8 +94,8 @@ _None_
   "topFeeds": [
     {
       "description": "每周一书 – 书伴 - Powered by RSSHub",
-      "errorAt": "2026-09-03T06:02:27.605Z",
-      "errorMessage": "[GET] \"https://bookfere.com/category/weekly\": 403 Forbidden\n[GET] \"https://bookfere.com/category/weekly\": 403 Forbidden\n[GET] \"https://bookfere.com/category/weekly\": 403 Forbidden\n[GET] \"https://bookfere.com/category/weekly\": 403 \n[GET] \"https://bookfere.com/category/weekly\": 403 Forbidden\n[GET] \"https://bookfere.com/category/weekly\": 403 \n[GET] \"https://bookfere.com/category/weekly\": 403 Forbidden\n[GET] \"https://bookfere.com/category/weekly\": 403 Forbidden\n[GET] \"https://bookfere.com/category/weekly\": 403 Forbidden\n[GET] \"https://bookfere.com/category/weekly\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "68570312983970816",
       "image": null,
       "ownerUserId": null,
@@ -106,8 +106,8 @@ _None_
     },
     {
       "description": "图书推荐 – 书伴 - Powered by RSSHub",
-      "errorAt": "2026-09-03T15:51:30.400Z",
-      "errorMessage": "[GET] \"https://bookfere.com/category/books\": 403 Forbidden\n[GET] \"https://bookfere.com/category/books\": 403 \n[GET] \"https://bookfere.com/category/books\": 403 Forbidden\n[GET] \"https://bookfere.com/category/books\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "72507626829125632",
       "image": null,
       "ownerUserId": null,

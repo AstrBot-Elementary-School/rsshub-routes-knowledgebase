@@ -58,8 +58,8 @@ _None_
   "topFeeds": [
     {
       "description": "user1263963's iwara - Videos - Powered by RSSHub",
-      "errorAt": "2026-08-12T20:37:50.374Z",
-      "errorMessage": "[GET] \"https://api.iwara.tv/videos?user=ed38dabd-4652-46e3-afc3-9010794342df\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "60202923086415884",
       "image": null,
       "ownerUserId": null,

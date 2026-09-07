@@ -65,13 +65,14 @@ _None_
   },
   "path": "/feng/:id/:type",
   "test": {
-    "code": 0
+    "code": 1,
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
   "topFeeds": [
     {
       "description": "凤凰网《在人间》官方大风号 用冷静的叙述抵抗冰冷。 - Powered by RSSHub",
       "errorAt": "2026-09-02T02:38:21.401Z",
-      "errorMessage": "[GET] \"https:https://news.ifeng.com/c/8vIDCbeqogY\": <no response> fetch failed (getaddrinfo ENOTFOUND https)\n",
+      "errorMessage": "[GET] \"https:https://news.ifeng.com/c/8vTrO6EnsNe\": <no response> fetch failed (getaddrinfo ENOTFOUND https)\n",
       "id": "61602061591709698",
       "image": "https://d.ifengimg.com/w90_h90_q90/img1.ugc.ifeng.com/newugc/20190924/10/wemedia/0df760ed261bd10a90d1313bea599e2f338c320f_size9_w200_h200.png",
       "ownerUserId": null,

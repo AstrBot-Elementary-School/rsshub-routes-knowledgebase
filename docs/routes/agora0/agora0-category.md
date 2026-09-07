@@ -93,16 +93,16 @@
       "url": "rsshub://agora0/initium"
     },
     {
-      "description": "aidemnⒾ | 零博客 - Powered by RSSHub",
-      "errorAt": "2024-12-17T18:10:16.612Z",
-      "errorMessage": "[GET] \"https://agora0.gitlab.io/blog/inmedia\": 403 Forbidden\n",
-      "id": "69680579170560000",
+      "description": "qⓅ | 零博客 - Powered by RSSHub",
+      "errorAt": "2024-12-17T18:10:05.533Z",
+      "errorMessage": "[GET] \"https://agora0.gitlab.io/blog/pq\": 403 Forbidden\n",
+      "id": "69681105983370240",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://agora0.gitlab.io/blog/inmedia",
-      "title": "aidemnⒾ | 零博客",
+      "siteUrl": "https://agora0.gitlab.io/blog/pq",
+      "title": "qⓅ | 零博客",
       "type": "feed",
-      "url": "rsshub://agora0/inmedia"
+      "url": "rsshub://agora0/pq"
     }
   ]
 }

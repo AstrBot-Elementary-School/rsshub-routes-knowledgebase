@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "即時 ｜ 公視新聞網 PNN - Powered by RSSHub",
-      "errorAt": "2026-09-05T03:02:08.703Z",
-      "errorMessage": "200 ",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "67490527781761030",
       "image": null,
       "ownerUserId": null,

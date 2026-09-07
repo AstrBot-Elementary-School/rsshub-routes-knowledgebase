@@ -78,16 +78,16 @@ _None_
       "url": "rsshub://themoviedb/tv/70593/seasons"
     },
     {
-      "description": "Due to a political conspiracy, an innocent man is sent to death row and his only hope is his brother, who makes it his mission to deliberately get himself sent to the same prison in order to break the both of them out, from the inside out. - Powered by RSSHub",
+      "description": "Twenty years after modern civilization has been destroyed, Joel, a hardened survivor, is hired to smuggle Ellie, a 14-year-old girl, out of an oppressive quarantine zone. What starts as a small job soon becomes a brutal, heartbreaking journey, as they both must traverse the United States and depend on each other for survival. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "83787115042820096",
-      "image": "https://image.tmdb.org/t/p/original/z885tJn5kkUHppjIK1g2Q54iTff.jpg",
+      "id": "83016713777551360",
+      "image": "https://image.tmdb.org/t/p/original/dmo6TYuuJgaYinXBPjrgG9mB5od.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://www.themoviedb.org/tv/2288/seasons",
-      "title": "Prison Break - Seasons — TMDB",
+      "siteUrl": "https://www.themoviedb.org/tv/100088/seasons",
+      "title": "The Last of Us - Seasons — TMDB",
       "type": "feed",
-      "url": "rsshub://themoviedb/tv/2288-prison-break/seasons"
+      "url": "rsshub://themoviedb/tv/100088/seasons"
     }
   ],
   "view": 5

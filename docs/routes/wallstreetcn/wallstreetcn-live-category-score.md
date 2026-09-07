@@ -57,7 +57,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 569,
+  "heat": 570,
   "location": "live.tsx",
   "maintainers": [
     "nczitzk"
@@ -83,8 +83,8 @@
   "topFeeds": [
     {
       "description": "华尔街见闻 - 实时快讯 - 要闻 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-06T10:02:50.984Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 54737464287253512",
       "id": "54737464287253512",
       "image": null,
       "ownerUserId": null,
@@ -95,8 +95,8 @@
     },
     {
       "description": "华尔街见闻 - 实时快讯 - 要闻 - Powered by RSSHub",
-      "errorAt": "2026-09-04T21:02:13.792Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 62853146646103040",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "62853146646103040",
       "image": null,
       "ownerUserId": null,

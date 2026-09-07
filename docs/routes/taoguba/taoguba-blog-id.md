@@ -78,7 +78,7 @@ _None_
     {
       "description": "淘股吧幽兰行天下的博客,幽兰行天下为所有投资者提供股票、证券、金融、港股、行情、基金、实盘、期货等极具价值的实用参考信息。欢迎访问幽兰行天下淘股吧博客! - Powered by RSSHub",
       "errorAt": "2026-06-24T17:27:22.482Z",
-      "errorMessage": "[GET] \"https://www.tgb.cn//a/2tnnsBxyg4d\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://www.tgb.cn//a/2ujsWzSopti\": 404 Not Found\n",
       "id": "69384991748864007",
       "image": "https://image.tgb.cn/img/user_icon_60.png_80wh.png",
       "ownerUserId": null,

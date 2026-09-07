@@ -62,13 +62,14 @@ _None_
   },
   "path": "/author/:aid/:sortType",
   "test": {
-    "code": 0
+    "code": 1,
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
   "topFeeds": [
     {
       "description": "Simon J. Julier (Member, IEEE) received the Ph.D. degree in computer science from the University of Oxford, Oxford, U.K., in 1997. Between 1997 and 2006, he worked with the Naval Research Laboratory, Washington DC, where he worked on tracking and estimation in nonlinear systems and in mobile augmented reality systems. Since 2006, he has been a Member of the Computer Science Department, University College London. His research interests include user interfaces, distributed data fusion, nonlinear estimation, and simultaneous localization and mapping. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-06T08:07:14.335Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "84548449023595520",
       "image": "https://ieeexplore.ieee.org/mediastore/IEEE/content/freeimages/7/11202402/11007073/julie-3571685-small.gif",
       "ownerUserId": null,

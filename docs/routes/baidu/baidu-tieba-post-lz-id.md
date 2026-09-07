@@ -58,6 +58,10 @@ _None_
     "id": "帖子 ID"
   },
   "path": "/tieba/post/lz/:id",
+  "test": {
+    "code": 1,
+    "message": "AssertionError: expected 363964592480 to be less than 311040000000\n    at checkDate (/home/runner/work/RSSHub/RSSHub/lib/app.test.ts:62:46)\n    at checkRSS (/home/runner/work/RSSHub/RSSHub/lib/app.test.ts:87:13)\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:106:17\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+  },
   "topFeeds": [
     {
       "description": "回复：2024主机配置新帖的最新回复 - Powered by RSSHub",
@@ -72,16 +76,16 @@ _None_
       "url": "rsshub://baidu/tieba/post/lz/9083587772"
     },
     {
-      "description": "回复：嘟嘟在线~的最新回复 - Powered by RSSHub",
-      "errorAt": "2025-03-29T16:28:18.453Z",
-      "errorMessage": "[GET] \"https://tieba.baidu.com/p/8580230790?see_lz=1&pn=7000000&ajax=1\": 403 Forbidden\n",
-      "id": "73923461952969728",
+      "description": "回复：龙珠超 同人作第六篇的最新回复 - Powered by RSSHub",
+      "errorAt": "2026-05-14T21:40:50.614Z",
+      "errorMessage": "[GET] \"https://tieba.baidu.com/p/7687866096?see_lz=1&pn=7000000&ajax=1\": 403 Forbidden\n",
+      "id": "62039850046572544",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://tieba.baidu.com/p/8580230790?see_lz=1",
-      "title": "【只看楼主】回复：嘟嘟在线~",
+      "siteUrl": "https://tieba.baidu.com/p/7687866096?see_lz=1",
+      "title": "【只看楼主】回复：龙珠超 同人作第六篇",
       "type": "feed",
-      "url": "rsshub://baidu/tieba/post/lz/8580230790"
+      "url": "rsshub://baidu/tieba/post/lz/7687866096"
     }
   ]
 }

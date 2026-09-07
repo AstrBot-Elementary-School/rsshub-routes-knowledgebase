@@ -68,6 +68,9 @@ _None_
     "routeParams": "额外参数；请参阅以下说明和表格"
   },
   "path": "/tieba/search/:qw/:routeParams?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [
     {
       "description": "孙笑川吧 - 百度贴吧搜索 - Powered by RSSHub",

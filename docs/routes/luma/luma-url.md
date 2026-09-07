@@ -88,16 +88,16 @@ _None_
       "url": "rsshub://luma/langchain"
     },
     {
-      "description": "Google DeepMind - Powered by RSSHub",
+      "description": "vLLM Meetups and Events - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "265966953317233664",
+      "id": "265967053376549888",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://lu.ma/deepmind",
-      "title": "Google DeepMind",
+      "siteUrl": "https://lu.ma/vLLM-Meetups",
+      "title": "vLLM Meetups and Events",
       "type": "feed",
-      "url": "rsshub://luma/deepmind"
+      "url": "rsshub://luma/vLLM-Meetups"
     }
   ],
   "url": "lu.ma"

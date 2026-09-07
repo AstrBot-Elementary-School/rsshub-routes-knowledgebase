@@ -83,18 +83,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "New contributors for biquanlibai/blockchain-course - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "83173808754165760",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://github.com/biquanlibai/blockchain-course/graphs/contributors",
-      "title": "biquanlibai/blockchain-course Contributors",
-      "type": "feed",
-      "url": "rsshub://github/contributors/biquanlibai/blockchain-course"
-    },
-    {
       "description": "New contributors for cgw88/cgw321.com - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -105,6 +93,18 @@ _None_
       "title": "cgw88/cgw321.com Contributors",
       "type": "feed",
       "url": "rsshub://github/contributors/cgw88/cgw321.com"
+    },
+    {
+      "description": "New contributors for KrystalCJ/Conf - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "64129774135370752",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://github.com/KrystalCJ/Conf/graphs/contributors",
+      "title": "KrystalCJ/Conf Contributors",
+      "type": "feed",
+      "url": "rsshub://github/contributors/KrystalCJ/Conf"
     }
   ]
 }

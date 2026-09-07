@@ -69,6 +69,9 @@ _None_
       "target": "/aktuell"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

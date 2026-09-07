@@ -92,16 +92,16 @@ _None_
       "url": "rsshub://bilibili/followings/dynamic/399277904"
     },
     {
-      "description": "myvirusKM 关注的动态 - Powered by RSSHub",
-      "errorAt": "2025-03-30T14:11:30.397Z",
-      "errorMessage": "Failed to fetch\n缺少对应 uid 的 Bilibili 用户登录后的 Cookie 值\n",
-      "id": "128713010064425984",
+      "description": null,
+      "errorAt": "2025-08-25T07:36:43.627Z",
+      "errorMessage": "缺少对应 uid 的 Bilibili 用户登录后的 Cookie 值\n",
+      "id": "182658801734908929",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://t.bilibili.com/",
-      "title": "myvirusKM 关注的动态",
+      "siteUrl": null,
+      "title": "Importing",
       "type": "feed",
-      "url": "rsshub://bilibili/followings/dynamic/318937631"
+      "url": "rsshub://bilibili/followings/dynamic/315535221"
     }
   ]
 }
