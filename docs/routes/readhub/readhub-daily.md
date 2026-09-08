@@ -73,7 +73,7 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "1. GPT-6 Astra 开启大规模推送，同步重置用户额度 2. Anthropic 预计 9 月下旬公开 IPO 招股书，最早 10 月中旬启动路演 3. iPhone 18 Pro 与 Ultra 售价提前曝光：涨幅温和，定价策略贴近市场 4. Anthropic 宣布 Claude 完成费马大定理的 Lean 4 形式化证明，姚班校友主导 5. 泡泡玛特王宁到访 LVMH 集团总部，集团掌门人率家族成员接待 6. 何庭波再发「韬定律」论文，回应外界质疑 7. SpaceXAI 将 Grok Bot 扩展至 iPad、Android，同步推出低价套餐 8. 长盈精密：上半年人形机器人零组件交付量约 86 万件 已超去年全年 9. Stellantis 回应玛莎拉蒂与华为、江淮合作传闻：不予置评 10. 礼来拟 28.75 亿美元收购 Merida Biosciences 11. 兰州榆中通报「莴笋收购环节染色」：立案查处 6 家企业 12. Kimi、MiniMax 即将在天猫开店 - Powered by RSSHub",
+      "description": "1. DeepSeek 拟采购 16 万颗华为昇腾 950DT 芯片用于推理 2. OpenAI 多次修改 GPT-6 Astra 测试数据，部分成绩大幅变化 3. 特斯拉 Robotaxi 下月或实现全天运营 4. 传闻 Claude 攻克韦东奕主攻的纳维-斯托克斯方程 5. 多地严查赵一鸣、好想来等零食品牌短斤少两行为 6. 我国首款 AI 辅助研发创新药获批上市 7. Nature 论文：司美格鲁肽使老年雌鼠延寿约 12% 8. 国家反诈 AI App 正式上线：微信、支付宝小程序同步开放 9. 世界最小 CT 在山东济南问世：核心器件实现国产化，仅重 6 公斤 10. 阿里千问开源 Qwen-Drive-1.0-4B：自动驾驶视觉语言模型新突破 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "52347176714948614",

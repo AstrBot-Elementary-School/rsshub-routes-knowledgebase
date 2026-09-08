@@ -68,8 +68,8 @@ _None_
   "topFeeds": [
     {
       "description": "前瞻经济学人 - 最新文章 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-07T09:16:21.623Z",
+      "errorMessage": "[GET] \"https://www.qianzhan.com/analyst/\": 500 Internal Server Error\n",
       "id": "66758050974691328",
       "image": null,
       "ownerUserId": null,
@@ -80,8 +80,8 @@ _None_
     },
     {
       "description": "前瞻经济学人 - 最新文章 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-07T09:06:16.078Z",
+      "errorMessage": "[GET] \"https://www.qianzhan.com/analyst/\": 500 Internal Server Error\n",
       "id": "149540527549611008",
       "image": null,
       "ownerUserId": null,

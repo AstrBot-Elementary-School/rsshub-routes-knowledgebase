@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "新快报新快网 - 首页 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-07T06:31:21.973Z",
+      "errorMessage": "500 \n",
       "id": "59112290766065664",
       "image": null,
       "ownerUserId": null,

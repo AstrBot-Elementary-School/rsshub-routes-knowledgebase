@@ -25,8 +25,8 @@ _None_
 
 
 ## Features
-- `requireConfig`: [{"description": "A complete d_c0 and __zse_ck cookie pair avoids browser-based session initialization. Otherwise Playwright (BROWSER on Workers) is required.", "name": "ZHIHU_COOKIES", "optional": true}]
-- `requirePuppeteer`: true
+- `requireConfig`: [{"description": "A complete d_c0 and __zse_ck cookie pair skips session initialization. Otherwise Workers use a Playwright browser session; Docker and Vercel generate credentials with JSDOM.", "name": "ZHIHU_COOKIES", "optional": true}]
+- `requirePuppeteer`: false
 - `antiCrawler`: true
 - `supportBT`: false
 - `supportPodcast`: false
@@ -49,12 +49,12 @@ _None_
     "antiCrawler": true,
     "requireConfig": [
       {
-        "description": "A complete d_c0 and __zse_ck cookie pair avoids browser-based session initialization. Otherwise Playwright (BROWSER on Workers) is required.",
+        "description": "A complete d_c0 and __zse_ck cookie pair skips session initialization. Otherwise Workers use a Playwright browser session; Docker and Vercel generate credentials with JSDOM.",
         "name": "ZHIHU_COOKIES",
         "optional": true
       }
     ],
-    "requirePuppeteer": true,
+    "requirePuppeteer": false,
     "supportBT": false,
     "supportPodcast": false,
     "supportScihub": false
@@ -98,7 +98,7 @@ _None_
     {
       "description": "知乎-王阳明的心学精髓是什么? - Powered by RSSHub",
       "errorAt": "2026-02-10T20:36:06.009Z",
-      "errorMessage": "[GET] \"https://www.zhihu.com/question/28052564\": 403 Forbidden\n[GET] \"https://www.zhihu.com/api/v4/questions/28052564/answers?include=data%5B*%5D.is_normal%2Cadmin_closed_comment%2Creward_info%2Cis_collapsed%2Cannotation_action%2Cannotation_detail%2Ccollapse_reason%2Cis_sticky%2Ccollapsed_by%2Csuggest_edit%2Ccomment_count%2Ccan_comment%2Ccontent%2Ceditable_content%2Cattachment%2Cvoteup_count%2Creshipment_settings%2Ccomment_permission%2Ccreated_time%2Cupdated_time%2Creview_info%2Crelevant_info%2Cquestion%2Cexcerpt%2Cis_labeled%2Cpaid_info%2Cpaid_info_content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%2Cis_recognized%3Bdata%5B*%5D.mark_infos%5B*%5D.url%3Bdata%5B*%5D.author.follower_count%2Cbadge%5B*%5D.topics%3Bdata%5B*%5D.settings.table_of_content.enabled%26offset%3D0&limit=20&sort_by=default&platform=desktop\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.zhihu.com/api/v4/questions/28052564/answers?include=data%5B*%5D.is_normal%2Cadmin_closed_comment%2Creward_info%2Cis_collapsed%2Cannotation_action%2Cannotation_detail%2Ccollapse_reason%2Cis_sticky%2Ccollapsed_by%2Csuggest_edit%2Ccomment_count%2Ccan_comment%2Ccontent%2Ceditable_content%2Cattachment%2Cvoteup_count%2Creshipment_settings%2Ccomment_permission%2Ccreated_time%2Cupdated_time%2Creview_info%2Crelevant_info%2Cquestion%2Cexcerpt%2Cis_labeled%2Cpaid_info%2Cpaid_info_content%2Crelationship.is_authorized%2Cis_author%2Cvoting%2Cis_thanked%2Cis_nothelp%2Cis_recognized%3Bdata%5B*%5D.mark_infos%5B*%5D.url%3Bdata%5B*%5D.author.follower_count%2Cbadge%5B*%5D.topics%3Bdata%5B*%5D.settings.table_of_content.enabled%26offset%3D0&limit=20&sort_by=default&platform=desktop\": 403 Forbidden\nbrowserType.connect: WebSocket error: wss://cloudflare-patchright.rss3.workers.dev/playwright 428 Precondition Required\n╔════════════════════════════════════════════════════╗\n║ Playwright version mismatch:                       ║\n║   - server version: v1.61                          ║\n║   - client version: v1.62                          ║\n║                                                    ║\n║ If you are using VSCode extension, restart VSCode. ║\n║                                                    ║\n║ If you are connecting to a remote service,         ║\n║ keep your local Playwright version in sync         ║\n║ with the remote service version.                   ║\n║                                                    ║\n║ <3 Playwright Team                                 ║\n╚════════════════════════════════════════════════════╝\nCall log:\n  - <ws connecting> wss://cloudflare-patchright.rss3.workers.dev/playwright\n  - <ws unexpected response> wss://cloudflare-patchright.rss3.workers.dev/playwright 428 Precondition Required\n╔════════════════════════════════════════════════════╗\n║ Playwright version mismatch:                       ║\n║   - server version: v1.61                          ║\n║   - client version: v1.62                          ║\n║                                                    ║\n║ If you are using VSCode extension, restart VSCode. ║\n║                                                    ║\n║ If you are connecting to a remote service,         ║\n║ keep your local Playwright version in sync         ║\n║ with the remote service version.                   ║\n║                                                    ║\n║ <3 Playwright Team                                 ║\n╚════════════════════════════════════════════════════╝\n  - <ws error> wss://cloudflare-patchright.rss3.workers.dev/playwright error WebSocket was closed before the connection was established\n  - <ws connect error> wss://cloudflare-patchright.rss3.workers.dev/playwright WebSocket was closed before the connection was established\n  - <ws disconnected> wss://cloudflare-patchright.rss3.workers.dev/playwright code=1006 reason=\n\n",
       "id": "85730470475032576",
       "image": null,
       "ownerUserId": null,

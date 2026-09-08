@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1828,
+  "heat": 1827,
   "location": "blog.ts",
   "maintainers": [
     "Lyunvy"
@@ -81,7 +81,7 @@ _None_
     {
       "description": "xbookcn - Powered by RSSHub",
       "errorAt": "2026-08-24T15:22:05.245Z",
-      "errorMessage": "Authentication failed. Access denied.\n/xbookcn/%E7%B2%BE%E9%80%89%E4%BD%9C%E5%93%81\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nFailed to fetch\n",
+      "errorMessage": "Authentication failed. Access denied.\n/xbookcn/%E7%B2%BE%E9%80%89%E4%BD%9C%E5%93%81\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "65082601526572032",
       "image": null,
       "ownerUserId": null,

@@ -39,7 +39,7 @@ _None_
     "new-media"
   ],
   "example": "/thepaper/sidebar",
-  "heat": 113,
+  "heat": 114,
   "location": "sidebar.ts",
   "maintainers": [
     "bigfei"
@@ -95,8 +95,8 @@ _None_
     },
     {
       "description": "澎湃新闻 - 澎湃热榜 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-07T06:31:16.859Z",
+      "errorMessage": "500 \n",
       "id": "56001539986599972",
       "image": null,
       "ownerUserId": null,

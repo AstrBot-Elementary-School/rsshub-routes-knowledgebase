@@ -75,7 +75,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 25382,
+  "heat": 25394,
   "location": "index.ts",
   "maintainers": [
     "zhboner"
@@ -105,8 +105,8 @@ _None_
     },
     {
       "description": "[今日主题] 達蓋爾的旗幟 | 草榴社區 - t66y.com - Powered by RSSHub",
-      "errorAt": "2026-09-06T10:02:37.311Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 43210762934293504",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "43210762934293504",
       "image": null,
       "ownerUserId": null,

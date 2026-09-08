@@ -40,7 +40,7 @@ _None_
   ],
   "description": "获取当日《人民日报》全部版面或指定版面的文章。",
   "example": "/people/paper",
-  "heat": 4,
+  "heat": 5,
   "location": "paper.ts",
   "maintainers": [
     "pseudoyu"
@@ -63,14 +63,14 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "人民日报电子版 - 2026年09月06日 - Powered by RSSHub",
+      "description": "人民日报电子版 - 2026年09月07日 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "1231515877518475264",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://paper.people.com.cn/rmrb/pc/layout/index.html",
-      "title": "人民日报电子版 - 2026年09月06日",
+      "title": "人民日报电子版 - 2026年09月07日",
       "type": "feed",
       "url": "rsshub://people/paper"
     }

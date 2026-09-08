@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 248,
+  "heat": 249,
   "location": "index.ts",
   "maintainers": [
     "luyuhuang"
@@ -80,8 +80,8 @@ _None_
     },
     {
       "description": "IT 之家 - 数码之家 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-07T04:26:56.111Z",
+      "errorMessage": "[GET] \"https://digi.ithome.com/\": <no response> fetch failed (Connect Timeout Error (attempted address: digi.ithome.com:443, timeout: 10000ms))\n",
       "id": "41572238273905673",
       "image": "https://img.ithome.com/m/images/logo.png",
       "ownerUserId": null,

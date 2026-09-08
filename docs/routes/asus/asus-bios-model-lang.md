@@ -104,18 +104,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "ROG Zephyrus G16 (2024) GA605 BIOS - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "84439902528045056",
-      "image": "https://dlcdnwebimgs.asus.com/gain/9A966AAE-B61A-41C5-AA2F-5B0B35E189A2/w185",
-      "ownerUserId": null,
-      "siteUrl": "https://rog.asus.com/laptops/rog-zephyrus/rog-zephyrus-g16-2024-ga605/",
-      "title": "ROG Zephyrus G16 (2024) GA605 BIOS",
-      "type": "feed",
-      "url": "rsshub://asus/bios/GA605WV"
-    },
-    {
       "description": "TUF GAMING B550M-PLUS WIFI II BIOS - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -126,6 +114,18 @@ _None_
       "title": "TUF GAMING B550M-PLUS WIFI II BIOS",
       "type": "feed",
       "url": "rsshub://asus/bios/TUF-GAMING-B550M-PLUS-WIFI-II/zh"
+    },
+    {
+      "description": "RT-BE88U BIOS - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "126962011544488963",
+      "image": "https://dlcdnwebimgs.asus.com/gain/e1b78b1a-0011-4ec7-bd84-bcbaa489ecbf/w185",
+      "ownerUserId": null,
+      "siteUrl": "https://www.asus.com/Networking-IoT-Servers/WiFi-Routers/ASUS-Gaming-Routers/RT-BE88U/",
+      "title": "RT-BE88U BIOS",
+      "type": "feed",
+      "url": "rsshub://asus/bios/rt-be88u"
     }
   ],
   "url": "www.asus.com"

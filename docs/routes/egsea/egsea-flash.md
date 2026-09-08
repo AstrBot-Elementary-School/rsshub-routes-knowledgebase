@@ -72,8 +72,8 @@ _None_
   "topFeeds": [
     {
       "description": "快讯 - e 公司 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-07T03:12:35.873Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 71834563973302272",
       "id": "71834563973302272",
       "image": null,
       "ownerUserId": null,

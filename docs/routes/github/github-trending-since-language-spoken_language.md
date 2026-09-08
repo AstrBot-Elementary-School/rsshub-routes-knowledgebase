@@ -60,7 +60,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 65588,
+  "heat": 65571,
   "location": "trending.tsx",
   "maintainers": [
     "DIYgod",

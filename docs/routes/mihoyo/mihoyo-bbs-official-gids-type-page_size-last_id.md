@@ -83,8 +83,8 @@ _None_
   "topFeeds": [
     {
       "description": "米游社 - 原神 - 公告 - Powered by RSSHub",
-      "errorAt": "2026-09-06T06:07:09.333Z",
-      "errorMessage": "[GET] \"https://bbs-api-static.miyoushe.com/painter/wapi/getNewsList?client_type=4&gids=2&type=1&page_size=20&last_id=\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 124.200.113.77:443, 124.200.113.72:443, 124.200.113.78:443, 124.200.113.75:443, 124.200.113.74:443, 124.200.113.73:443, 124.200.113.76:443, 124.200.113.79:443, timeout: 10000ms))\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "65750657186191360",
       "image": null,
       "ownerUserId": null,

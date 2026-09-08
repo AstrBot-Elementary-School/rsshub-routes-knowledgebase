@@ -76,16 +76,16 @@ _None_
       "url": "rsshub://baidu/tieba/post/lz/9083587772"
     },
     {
-      "description": "回复：龙珠超 同人作第六篇的最新回复 - Powered by RSSHub",
-      "errorAt": "2026-05-14T21:40:50.614Z",
-      "errorMessage": "[GET] \"https://tieba.baidu.com/p/7687866096?see_lz=1&pn=7000000&ajax=1\": 403 Forbidden\n",
-      "id": "62039850046572544",
+      "description": "回复：2024全新配置贴的最新回复 - Powered by RSSHub",
+      "errorAt": "2025-04-23T10:27:58.883Z",
+      "errorMessage": "[GET] \"https://tieba.baidu.com/p/9124987214?see_lz=1&pn=7000000&ajax=1\": 403 Forbidden\n",
+      "id": "73928822623715328",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://tieba.baidu.com/p/7687866096?see_lz=1",
-      "title": "【只看楼主】回复：龙珠超 同人作第六篇",
+      "siteUrl": "https://tieba.baidu.com/p/9124987214?see_lz=1",
+      "title": "【只看楼主】回复：2024全新配置贴",
       "type": "feed",
-      "url": "rsshub://baidu/tieba/post/lz/7687866096"
+      "url": "rsshub://baidu/tieba/post/lz/9124987214"
     }
   ]
 }

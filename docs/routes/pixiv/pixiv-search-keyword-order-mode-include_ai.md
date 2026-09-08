@@ -117,8 +117,8 @@ _None_
   "topFeeds": [
     {
       "description": "Palworld 的 pixiv 热门内容 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-07T10:11:12.029Z",
+      "errorMessage": "[POST] \"https://oauth.secure.pixiv.net/auth/token\": 403 Forbidden\n",
       "id": "41147805276726320",
       "image": null,
       "ownerUserId": null,

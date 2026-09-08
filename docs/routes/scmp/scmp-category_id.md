@@ -90,7 +90,7 @@ See the [official RSS page](https://www.scmp.com/rss) to get the ID of each cate
       "errorAt": null,
       "errorMessage": null,
       "id": "58381798255721483",
-      "image": "https://assets.i-scmp.com/static/img/icons/scmp-meta-1200x630.png",
+      "image": "https://assets-v2.i-scmp.com/production/static/img/icons/scmp-meta-1200x630.png",
       "ownerUserId": null,
       "siteUrl": "https://www.scmp.com/rss/3/feed",
       "title": "Asia - South China Morning Post",

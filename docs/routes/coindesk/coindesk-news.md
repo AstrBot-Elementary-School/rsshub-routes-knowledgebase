@@ -76,7 +76,7 @@ _None_
     {
       "description": "Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates. - Powered by RSSHub",
       "errorAt": "2026-08-18T05:49:53.058Z",
-      "errorMessage": "[GET] \"https://www.coindesk.com/business/2026/09/02/british-investor-thought-he-lost-usd2-000-in-bitcoin-in-2012-he-just-recovered-usd4-5-million\": 429 Too Many Requests\n[GET] \"https://www.coindesk.com/business/2026/09/02/british-investor-thought-he-lost-usd2-000-in-bitcoin-in-2012-he-just-recovered-usd4-5-million\": 429 Too Many Requests\n",
+      "errorMessage": "[GET] \"https://www.coindesk.com/markets/2026/09/07/this-cat-memecoin-has-paid-holders-usd2-8-million-in-zcash-as-zec-tops-usd1-200\": 429 Too Many Requests\nFailed to fetch\n",
       "id": "126922928969806848",
       "image": null,
       "ownerUserId": null,

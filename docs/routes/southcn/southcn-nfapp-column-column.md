@@ -73,7 +73,7 @@ _None_
     {
       "description": "南方+ - 广州 - Powered by RSSHub",
       "errorAt": "2025-08-15T07:02:38.916Z",
-      "errorMessage": "[GET] \"https://api.nfapp.southcn.com/nanfang_if/getColumn?columnId=38\": 405 Not Allowed\n",
+      "errorMessage": "[GET] \"https://api.nfapp.southcn.com/nanfang_if/getColumn?columnId=38\": 405 Method Not Allowed\n",
       "id": "158878918138745856",
       "image": null,
       "ownerUserId": null,
@@ -83,16 +83,16 @@ _None_
       "url": "rsshub://southcn/nfapp/column"
     },
     {
-      "description": "南方+ - 顺德 - Powered by RSSHub",
-      "errorAt": "2025-08-15T07:00:48.017Z",
-      "errorMessage": "[GET] \"https://api.nfapp.southcn.com/nanfang_if/getColumn?columnId=2329\": 405 Not Allowed\n",
-      "id": "177651896288583687",
+      "description": "南方+ - undefined - Powered by RSSHub",
+      "errorAt": "2025-08-15T04:23:01.464Z",
+      "errorMessage": "[GET] \"https://api.nfapp.southcn.com/nanfang_if/getColumn?columnId=47829\": 405 Not Allowed\n",
+      "id": "75579913938591744",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://m.nfapp.southcn.com/2329",
-      "title": "南方+ - 顺德",
+      "siteUrl": "https://docs.rsshub.app/",
+      "title": "南方+ - undefined",
       "type": "feed",
-      "url": "rsshub://southcn/nfapp/column/2329"
+      "url": "rsshub://southcn/nfapp/column/47829"
     }
   ]
 }

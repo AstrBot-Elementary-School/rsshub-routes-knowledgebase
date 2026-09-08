@@ -66,18 +66,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "赚钱！ - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "218332020877377536",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.douban.com/doulist/159237128",
-      "title": "赚钱！",
-      "type": "feed",
-      "url": "rsshub://douban/doulist/159237128"
-    },
-    {
       "description": "生活常识 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -88,6 +76,18 @@ _None_
       "title": "生活常识",
       "type": "feed",
       "url": "rsshub://douban/doulist/153767244"
+    },
+    {
+      "description": "赚钱！ - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "218332020877377536",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.douban.com/doulist/159237128",
+      "title": "赚钱！",
+      "type": "feed",
+      "url": "rsshub://douban/doulist/159237128"
     }
   ]
 }

@@ -116,16 +116,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "Track, compete, and get rewarded for your item collections with seamless plugin integrations and per-collection leaderboards! - Powered by RSSHub",
+      "description": "Fabric API implemented on top of NeoForge - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "114582489961986048",
+      "id": "120750574474919936",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/PjHvoAob",
-      "title": "AuroraCollections Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/forgified-fabric-api",
+      "title": "Forgified Fabric API Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/PjHvoAob/versions"
+      "url": "rsshub://modrinth/project/forgified-fabric-api/versions"
     }
   ]
 }

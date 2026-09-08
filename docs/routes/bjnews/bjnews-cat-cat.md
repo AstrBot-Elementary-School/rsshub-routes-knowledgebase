@@ -74,8 +74,8 @@ _None_
     },
     {
       "description": "新京报 - 分类 - 文化 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-07T05:37:10.644Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "84161318721934339",
       "image": null,
       "ownerUserId": null,

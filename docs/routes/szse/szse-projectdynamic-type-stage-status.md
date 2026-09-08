@@ -117,8 +117,8 @@
   "topFeeds": [
     {
       "description": "IPO项目动态 - 创业板发行上市审核信息公开网站 - 深圳证券交易所 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-07T09:36:09.008Z",
+      "errorMessage": "[GET] \"http://listing.szse.cn/api/ras/projectrends/query?bizType=1&pageIndex=0&pageSize=20\": 520 <none>\n",
       "id": "64720907966178304",
       "image": null,
       "ownerUserId": null,

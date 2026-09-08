@@ -73,7 +73,7 @@ _None_
   "features": {
     "nsfw": true
   },
-  "heat": 802,
+  "heat": 804,
   "location": "index.tsx",
   "maintainers": [
     "cgkings",
@@ -104,8 +104,8 @@ _None_
     },
     {
       "description": "141JAV - New - Powered by RSSHub",
-      "errorAt": "2026-09-05T17:16:40.970Z",
-      "errorMessage": "[GET] \"https://www.141jav.com/new\": <no response> fetch failed (Client network socket disconnected before secure TLS connection was established)\n",
+      "errorAt": "2026-09-07T06:51:38.051Z",
+      "errorMessage": "[GET] \"https://www.141jav.com/new\": 403 Forbidden\n",
       "id": "53022189134482432",
       "image": null,
       "ownerUserId": null,

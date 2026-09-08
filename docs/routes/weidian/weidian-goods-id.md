@@ -51,18 +51,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "UZI（全国包顺丰） 商铺上新 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "1264478347631394816",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1860117640",
-      "title": "UZI（全国包顺丰） 商铺上新",
-      "type": "feed",
-      "url": "rsshub://weidian/goods/1860117640"
-    },
-    {
       "description": "Joker世家2店 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -73,6 +61,18 @@ _None_
       "title": "Joker世家2店 商铺上新",
       "type": "feed",
       "url": "rsshub://weidian/goods/1858725248"
+    },
+    {
+      "description": "Ture 商铺上新 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "1264524888048009216",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://weidian.com/?userid=1718752418",
+      "title": "Ture 商铺上新",
+      "type": "feed",
+      "url": "rsshub://weidian/goods/1718752418"
     }
   ]
 }

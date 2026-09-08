@@ -95,8 +95,8 @@ For instance, the `/github/topics/framework/l=php&o=desc&s=stars` route will gen
     },
     {
       "description": "The branch of computer science dealing with the reproduction, or mimicking of human-level intelligence, self-awareness, knowledge, conscience, and thought in computer programs. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-07T09:36:39.586Z",
+      "errorMessage": "[GET] \"https://github.com/topics/ai?\": 429 Too Many Requests\n",
       "id": "73606836817679360",
       "image": null,
       "ownerUserId": null,

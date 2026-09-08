@@ -64,7 +64,7 @@ If you subscribe to [Wildlife Published](https://1x.com/gallery/wildlife/publish
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 51375,
+  "heat": 51352,
   "location": "index.tsx",
   "maintainers": [
     "nczitzk"
@@ -89,8 +89,8 @@ If you subscribe to [Wildlife Published](https://1x.com/gallery/wildlife/publish
   "topFeeds": [
     {
       "description": "1x.com is the world's biggest curated photo gallery online. Each photo is selected by professional curators. 1x.com • In Pursuit of the Sublime - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-07T10:01:45.018Z",
+      "errorMessage": "Failed query: update \"feeds\" set \"url\" = $1, \"title\" = $2, \"description\" = $3, \"site_url\" = $4, \"image\" = $5, \"checked_at\" = $6, \"refresh_enqueued_at\" = $7, \"last_modified_header\" = $8, \"etag_header\" = $9, \"ttl\" = $10, \"error_message\" = $11, \"error_at\" = $12, \"rsshub_route\" = $13, \"rsshub_namespace\" = $14 where (\"feeds\".\"id\" = $15 and (\"feeds\".\"refresh_enqueued_at\" is null or \"feeds\".\"refresh_enqueued_at\" < $16)) returning \"checked_at\"\nparams: rsshub://1x,1x.com • In Pursuit of the Sublime,1x.com is the world's biggest curated photo gallery online. Each photo is selected by professional curators. 1x.com • In Pursuit of the Sublime - Powered by RSSHub,https://1x.com/gallery/latest/awarded,https://1x.com/assets/img/1x-logo-1.png,2026-09-07T10:00:36.957Z,2026-09-07T10:00:31.557Z,Fri, 04 Sep 2026 07:22:19 GMT,W/\"44cc-bguVdq5YcKXkkvx77OE45qh3vaE\",60,,,/1x/:category{.+}?,1x,59581478522199040,2026-09-07T10:00:31.557Z",
       "id": "59581478522199040",
       "image": "https://1x.com/assets/img/1x-logo-1.png",
       "ownerUserId": null,
@@ -101,8 +101,8 @@ If you subscribe to [Wildlife Published](https://1x.com/gallery/wildlife/publish
     },
     {
       "description": "1x.com is the world's biggest curated photo gallery online. Each photo is selected by professional curators. 1x.com • In Pursuit of the Sublime - Powered by RSSHub",
-      "errorAt": "2026-09-06T06:42:15.043Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 41375451836487680",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41375451836487680",
       "image": "https://1x.com/assets/img/1x-logo-1.png",
       "ownerUserId": null,

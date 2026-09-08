@@ -76,8 +76,8 @@ _None_
   "topFeeds": [
     {
       "description": "Huggingface zai-org Models - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-07T09:46:00.933Z",
+      "errorMessage": "[GET] \"https://huggingface.co/zai-org/models?sort=created\": 429 Too Many Requests\n",
       "id": "239230213876544512",
       "image": null,
       "ownerUserId": null,

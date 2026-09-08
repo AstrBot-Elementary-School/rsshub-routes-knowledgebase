@@ -67,18 +67,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "ピノキオピー - ニコニコ - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "67834533653006336",
-      "image": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/86/865591.jpg?1692257539",
-      "ownerUserId": null,
-      "siteUrl": "https://www.nicovideo.jp/user/865591/video",
-      "title": "ピノキオピー - ニコニコ",
-      "type": "feed",
-      "url": "rsshub://nicovideo/user/865591/video"
-    },
-    {
       "description": "十六夜カズヤP - ニコニコ - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -89,6 +77,18 @@ _None_
       "title": "十六夜カズヤP - ニコニコ",
       "type": "feed",
       "url": "rsshub://nicovideo/user/3219731/video"
+    },
+    {
+      "description": "ピノキオピー - ニコニコ - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "67834533653006336",
+      "image": "https://secure-dcdn.cdn.nimg.jp/nicoaccount/usericon/86/865591.jpg?1692257539",
+      "ownerUserId": null,
+      "siteUrl": "https://www.nicovideo.jp/user/865591/video",
+      "title": "ピノキオピー - ニコニコ",
+      "type": "feed",
+      "url": "rsshub://nicovideo/user/865591/video"
     }
   ]
 }

@@ -87,8 +87,8 @@
   "topFeeds": [
     {
       "description": "即時報道 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-07T09:36:09.297Z",
+      "errorMessage": "[GET] \"https://aamacau.com/topics/breakingnews\": 403 Forbidden\n",
       "id": "91778382768755712",
       "image": null,
       "ownerUserId": null,

@@ -95,7 +95,7 @@ Use this file to select the target namespace before opening route documents.
 ## BT 之家 1LOU 站
 - Namespace: `1lou`
 - Aliases: `1lou, 1lou.me, bt 之家 1lou 站`
-- Route Count: `1`
+- Route Count: `2`
 - Index File: `index/1lou.md`
 
 ## 一亩三分地
@@ -7405,6 +7405,12 @@ Use this file to select the target namespace before opening route documents.
 - Aliases: `community, community.naceweb.org, naceweb, national association of colleges and employers`
 - Route Count: `1`
 - Index File: `index/naceweb.md`
+
+## National Art Museum of China
+- Namespace: `namoc`
+- Aliases: `namoc, namoc.cn, national art museum of china, www, www.namoc.cn`
+- Route Count: `1`
+- Index File: `index/namoc.md`
 
 ## 南华期货
 - Namespace: `nanhua`

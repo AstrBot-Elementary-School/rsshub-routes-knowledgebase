@@ -27,8 +27,8 @@
 
 
 ## Features
-- `requireConfig`: [{"description": "A complete d_c0 and __zse_ck cookie pair avoids browser-based session initialization. Otherwise Playwright (BROWSER on Workers) is required.", "name": "ZHIHU_COOKIES", "optional": true}]
-- `requirePuppeteer`: true
+- `requireConfig`: [{"description": "A complete d_c0 and __zse_ck cookie pair skips session initialization. Otherwise Workers use a Playwright browser session; Docker and Vercel generate credentials with JSDOM.", "name": "ZHIHU_COOKIES", "optional": true}]
+- `requirePuppeteer`: false
 - `antiCrawler`: true
 - `supportBT`: false
 - `supportPodcast`: false
@@ -52,12 +52,12 @@
     "antiCrawler": true,
     "requireConfig": [
       {
-        "description": "A complete d_c0 and __zse_ck cookie pair avoids browser-based session initialization. Otherwise Playwright (BROWSER on Workers) is required.",
+        "description": "A complete d_c0 and __zse_ck cookie pair skips session initialization. Otherwise Workers use a Playwright browser session; Docker and Vercel generate credentials with JSDOM.",
         "name": "ZHIHU_COOKIES",
         "optional": true
       }
     ],
-    "requirePuppeteer": true,
+    "requirePuppeteer": false,
     "supportBT": false,
     "supportPodcast": false,
     "supportScihub": false

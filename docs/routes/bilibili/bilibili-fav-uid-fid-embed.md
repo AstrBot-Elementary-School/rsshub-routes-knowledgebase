@@ -80,16 +80,16 @@ _None_
       "url": "rsshub://bilibili/fav/399964818/1771644318"
     },
     {
-      "description": "某咯可冷可冷 的 bilibili 收藏夹 医学导引术 - Powered by RSSHub",
-      "errorAt": "2025-05-23T11:26:46.180Z",
-      "errorMessage": "Cannot read properties of null (reading 'upper')\n",
-      "id": "148611905193199616",
+      "description": "oops-L- 的 bilibili 收藏夹 大二下 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "121558077415311360",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://space.bilibili.com/520161643/#/favlist?fid=3454283343",
-      "title": "某咯可冷可冷 的 bilibili 收藏夹 医学导引术",
+      "siteUrl": "https://space.bilibili.com/102060507/#/favlist?fid=3517976807",
+      "title": "oops-L- 的 bilibili 收藏夹 大二下",
       "type": "feed",
-      "url": "rsshub://bilibili/fav/520161643/3454283343"
+      "url": "rsshub://bilibili/fav/102060507/3517976807"
     }
   ]
 }

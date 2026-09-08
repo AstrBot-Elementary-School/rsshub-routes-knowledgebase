@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 68,
+  "heat": 67,
   "location": "index.ts",
   "maintainers": [
     "CoderSherlock"

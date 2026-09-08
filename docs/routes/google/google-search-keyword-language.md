@@ -80,7 +80,7 @@ _None_
     {
       "description": "被查+site:thepaper.cn - Google Search - Powered by RSSHub",
       "errorAt": "2025-09-10T17:16:47.805Z",
-      "errorMessage": "[GET] \"https://www.google.com/search?q=%E8%A2%AB%E6%9F%A5%2Bsite%3Athepaper.cn\": 429 Too Many Requests\n",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "68685709659153408",
       "image": null,
       "ownerUserId": null,

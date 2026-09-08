@@ -62,8 +62,8 @@ _None_
   "topFeeds": [
     {
       "description": "National Bureau of Economic Research Working Papers articles - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-07T06:31:12.126Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "56551993684661248",
       "image": null,
       "ownerUserId": null,

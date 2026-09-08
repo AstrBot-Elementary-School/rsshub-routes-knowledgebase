@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 127,
+  "heat": 128,
   "location": "tag.ts",
   "maintainers": [
     "yindaheng98",
@@ -72,8 +72,8 @@ _None_
   "topFeeds": [
     {
       "description": "language:chinese - E-Hentai Tag - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-06T20:40:29.359Z",
+      "errorMessage": "n.enclosure_url.replace is not a function\n",
       "id": "120679993479343104",
       "image": null,
       "ownerUserId": null,

@@ -75,8 +75,8 @@ _None_
   "topFeeds": [
     {
       "description": "华尔街见闻 - 资讯 - 最新 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-07T08:12:17.367Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 61254696782946304",
       "id": "61254696782946304",
       "image": "https://static.wscn.net/wscn/_static/favicon.png",
       "ownerUserId": null,
@@ -87,8 +87,8 @@ _None_
     },
     {
       "description": "华尔街见闻 - 资讯 - 最新 - Powered by RSSHub",
-      "errorAt": "2026-09-06T10:02:38.771Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 41965184796581995",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41965184796581995",
       "image": "https://static.wscn.net/wscn/_static/favicon.png",
       "ownerUserId": null,
