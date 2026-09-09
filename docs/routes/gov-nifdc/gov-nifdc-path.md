@@ -47,7 +47,7 @@ _None_
   ],
   "description": "::: tip\n\n路径处填写对应页面 URL 中 `https://www.nifdc.org.cn/nifdc/` 与 `/index.html` 之间的字段，下面是一个例子。\n\n若订阅 [公告通告](https://www.nifdc.org.cn/nifdc/bshff/ylqxbzhgl/qxggtzh/index.html) 则将对应页面 URL <https://www.nifdc.org.cn/nifdc/bshff/ylqxbzhgl/qxggtzh/index.html> 中 `https://www.nifdc.org.cn/nifdc/` 和 `/index.html` 之间的字段 `bshff/ylqxbzhgl/qxggtzh` 作为路径填入。此时路由为 [`/gov/nifdc/bshff/ylqxbzhgl/qxggtzh`](https://rsshub.app/gov/nifdc/bshff/ylqxbzhgl/qxggtzh)\n\n:::",
   "example": "/gov/nifdc/bshff/ylqxbzhgl/qxggtzh",
-  "heat": 0,
+  "heat": 1,
   "location": "index.ts",
   "maintainers": [
     "nczitzk"

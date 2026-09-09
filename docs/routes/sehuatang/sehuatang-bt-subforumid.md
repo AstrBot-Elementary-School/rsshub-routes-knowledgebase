@@ -89,8 +89,8 @@ _None_
     },
     {
       "description": "色花堂 - 国产原创 - Powered by RSSHub",
-      "errorAt": "2026-07-31T11:07:31.532Z",
-      "errorMessage": "[GET] \"https://www.sehuatang.net/\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "75483915450641408",
       "image": null,
       "ownerUserId": null,

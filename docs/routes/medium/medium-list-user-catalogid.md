@@ -72,8 +72,8 @@ _None_
   "topFeeds": [
     {
       "description": "List: Favorite - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-07T15:01:00.084Z",
+      "errorMessage": "[POST] \"https://medium.com/_/graphql\": 403 Forbidden\n",
       "id": "62155103767851008",
       "image": null,
       "ownerUserId": null,

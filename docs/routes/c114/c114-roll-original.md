@@ -89,7 +89,7 @@ _None_
     },
     {
       "description": "C114是中国较早成立的专业通信行业垂直门户网站，是中国通信领域历史较久、规模较大、覆盖面较广的网络媒体。C114通信网全面、及时报道包括中国移动、电信、联通、华为、中兴、爱立信等国内外运营商、设备商资讯以及行业新动态；C114通信人家园是国内较大的通信专业社区。 - Powered by RSSHub",
-      "errorAt": "2026-09-07T09:36:55.739Z",
+      "errorAt": "2026-09-08T03:02:10.631Z",
       "errorMessage": "[GET] \"https://www.c114.com.cn/news/roll.asp\": 522 <none>\n",
       "id": "76795492369210368",
       "image": "https://www.c114.com.cn/images/18/logo.png",

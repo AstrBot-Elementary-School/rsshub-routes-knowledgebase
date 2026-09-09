@@ -5495,7 +5495,7 @@ Use this file to select the target namespace before opening route documents.
 ## iCity
 - Namespace: `icity`
 - Aliases: `icity, icity.ly`
-- Route Count: `1`
+- Route Count: `2`
 - Index File: `index/icity.md`
 
 ## 中国大学 MOOC (慕课)

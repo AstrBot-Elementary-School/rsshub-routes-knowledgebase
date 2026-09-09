@@ -87,16 +87,16 @@ _None_
       "url": "rsshub://zhihu/people/allCollections/87-44-49-67"
     },
     {
-      "description": "自由猫的知乎收藏 - Powered by RSSHub",
-      "errorAt": "2025-04-22T11:37:43.234Z",
-      "errorMessage": "[GET] \"https://api.zhihu.com/people/22-2-86-74/collections\": 401 Authorization Required\n",
-      "id": "110554836532317184",
+      "description": "何之源的知乎收藏 - Powered by RSSHub",
+      "errorAt": "2025-04-22T12:21:04.772Z",
+      "errorMessage": "[GET] \"https://api.zhihu.com/people/he-zhi-yuan-16/collections\": 401 Authorization Required\n",
+      "id": "108341425068887040",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.zhihu.com/people/22-2-86-74/collections",
-      "title": "自由猫的知乎收藏",
+      "siteUrl": "https://www.zhihu.com/people/he-zhi-yuan-16/collections",
+      "title": "何之源的知乎收藏",
       "type": "feed",
-      "url": "rsshub://zhihu/people/allCollections/22-2-86-74"
+      "url": "rsshub://zhihu/people/allCollections/he-zhi-yuan-16"
     }
   ],
   "view": 0

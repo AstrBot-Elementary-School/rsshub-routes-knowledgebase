@@ -78,8 +78,8 @@ _None_
   "topFeeds": [
     {
       "description": "The official home of the Python Programming Language - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-07T13:26:00.758Z",
+      "errorMessage": "[GET] \"https://www.python.org/downloads\": 403 Forbidden\n",
       "id": "160122574224355328",
       "image": "https://www.python.org/static/opengraph-icon-200x200.png",
       "ownerUserId": null,

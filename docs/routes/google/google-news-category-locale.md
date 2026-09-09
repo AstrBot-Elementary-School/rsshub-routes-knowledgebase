@@ -69,7 +69,7 @@ _None_
     {
       "description": "Google News - Headlines - Powered by RSSHub",
       "errorAt": "2024-11-02T18:50:31.393Z",
-      "errorMessage": "200 ",
+      "errorMessage": "[GET] \"https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRFZxYUdjU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US%3Aen\": 429 Too Many Requests\n",
       "id": "66057583919692800",
       "image": null,
       "ownerUserId": null,

@@ -68,8 +68,8 @@ _None_
   "topFeeds": [
     {
       "description": "哔哩哔哩更新情报 - 安卓版 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-07T15:03:27.772Z",
+      "errorMessage": "[GET] \"https://app.bilibili.com/x/v2/version?mobi_app=android\": 412 Precondition Failed\n",
       "id": "150446950684260352",
       "image": null,
       "ownerUserId": null,
@@ -80,8 +80,8 @@ _None_
     },
     {
       "description": "哔哩哔哩更新情报 - 安卓版 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-07T18:35:55.851Z",
+      "errorMessage": "[GET] \"https://app.bilibili.com/x/v2/version?mobi_app=android\": 412 Precondition Failed\n",
       "id": "126248708971069440",
       "image": null,
       "ownerUserId": null,

@@ -82,6 +82,18 @@
   },
   "topFeeds": [
     {
+      "description": "bilibili会员购票务-230100 - Powered by RSSHub",
+      "errorAt": "2026-09-07T18:32:09.588Z",
+      "errorMessage": "[GET] \"https://show.bilibili.com/api/ticket/project/listV2?version=134&page=1&pagesize=16&area=230100&filter=&platform=web&p_type=全部类型\": 412 Precondition Failed\n",
+      "id": "93830841296676864",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://show.bilibili.com/api/ticket/project/listV2",
+      "title": "bilibili会员购票务-230100",
+      "type": "feed",
+      "url": "rsshub://bilibili/platform/230100"
+    },
+    {
       "description": "bilibili会员购票务--1 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -92,18 +104,6 @@
       "title": "bilibili会员购票务--1",
       "type": "feed",
       "url": "rsshub://bilibili/platform"
-    },
-    {
-      "description": "bilibili会员购票务-230100 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "93830841296676864",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://show.bilibili.com/api/ticket/project/listV2",
-      "title": "bilibili会员购票务-230100",
-      "type": "feed",
-      "url": "rsshub://bilibili/platform/230100"
     }
   ],
   "url": "show.bilibili.com/platform"

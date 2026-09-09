@@ -65,7 +65,7 @@ _None_
     {
       "description": "爱果果iguoguo是一个优秀酷站、h5、UI素材资源的发布分享平台，是设计师的灵感聚合地和素材下载源。 - Powered by RSSHub",
       "errorAt": "2026-05-07T17:38:38.909Z",
-      "errorMessage": "[GET] \"https://www.iguoguo.net/wp-json/wp/v2/posts?categories=536&per_page=10\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://www.iguoguo.net/wp-json/wp/v2/posts?categories=536&per_page=10\": 400 Bad Request\n",
       "id": "56286355311210496",
       "image": null,
       "ownerUserId": null,

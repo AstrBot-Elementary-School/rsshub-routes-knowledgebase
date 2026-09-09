@@ -76,7 +76,7 @@ _None_
     {
       "description": "一周更新 - AGE动漫 - Powered by RSSHub",
       "errorAt": "2025-10-17T11:01:59.581Z",
-      "errorMessage": "[GET] \"https://www.agemys.org/update\": <no response> fetch failed (certificate has expired)\n[GET] \"https://www.agemys.org/update\": <no response> fetch failed\n[GET] \"https://www.agemys.org/update\": <no response> fetch failed (certificate has expired)\n",
+      "errorMessage": "[GET] \"https://www.agemys.org/update\": <no response> fetch failed (certificate has expired)\n[GET] \"https://www.agemys.org/update\": <no response> fetch failed\n[GET] \"https://www.agemys.org/update\": 526 <none>\n",
       "id": "59083231915003932",
       "image": null,
       "ownerUserId": null,

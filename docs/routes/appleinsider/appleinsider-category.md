@@ -83,7 +83,7 @@
     {
       "description": "Apple News, Rumors, Reviews, Prices & Deals | AppleInsider - Powered by RSSHub",
       "errorAt": "2025-07-09T04:00:55.913Z",
-      "errorMessage": "[GET] \"https://appleinsider.com\": 403 Forbidden\n",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "55305053541267456",
       "image": null,
       "ownerUserId": null,

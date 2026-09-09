@@ -84,8 +84,8 @@ _None_
     },
     {
       "description": "東網 - 港澳 - Powered by RSSHub",
-      "errorAt": "2026-09-07T09:37:09.335Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 74060845450725376",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "74060845450725376",
       "image": null,
       "ownerUserId": null,

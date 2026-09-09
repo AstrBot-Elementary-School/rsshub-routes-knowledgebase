@@ -4021,7 +4021,7 @@
     {
       "description": "美食天下为您提供【菜谱】家常菜图片做法大全,精选孕妇简单营养健康菜谱,中西餐快餐饭店电子菜谱等菜谱信息,分享美食图片视频、尽享生活乐趣。 - Powered by RSSHub",
       "errorAt": "2026-06-10T16:37:58.168Z",
-      "errorMessage": "[GET] \"https://home.meishichina.com/recipe.html\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://home.meishichina.com/ajax/ajax.php?ac=recipe&op=getMoreDiffStateRecipeList&classid=0&orderby=hot&page=1\": 404 Not Found\n",
       "id": "135603729894905856",
       "image": "https://i3.meishichina.com/static/lib/logo.png",
       "ownerUserId": null,

@@ -101,18 +101,6 @@
   },
   "topFeeds": [
     {
-      "description": "公主链接日服-新闻 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "127304052495781888",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://priconne-redive.jp/news/",
-      "title": "公主链接日服-新闻",
-      "type": "feed",
-      "url": "rsshub://priconne-redive/news"
-    },
-    {
       "description": "公主连结台服-最新公告 - Powered by RSSHub",
       "errorAt": "2025-11-19T09:38:12.766Z",
       "errorMessage": "[GET] \"http://www.princessconnect.so-net.tw/news\": 500 Internal Server Error\n",
@@ -123,6 +111,18 @@
       "title": "公主连结台服-最新公告",
       "type": "feed",
       "url": "rsshub://priconne-redive/news/zh-tw"
+    },
+    {
+      "description": "公主链接日服-新闻 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "127304052495781888",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://priconne-redive.jp/news/",
+      "title": "公主链接日服-新闻",
+      "type": "feed",
+      "url": "rsshub://priconne-redive/news"
     }
   ],
   "url": "priconne-redive.jp/news"

@@ -99,8 +99,8 @@ _None_
   "topFeeds": [
     {
       "description": "YouTube Music Charts - Top music videos - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-07T12:47:13.975Z",
+      "errorMessage": "Cannot read properties of undefined (reading 'filter')\n",
       "id": "57506261522656256",
       "image": null,
       "ownerUserId": null,

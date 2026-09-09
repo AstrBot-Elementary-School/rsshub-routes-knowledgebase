@@ -75,16 +75,16 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "bitwig的搜索结果 - Powered by RSSHub",
-      "errorAt": "2026-08-13T02:57:39.902Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'map')\n",
-      "id": "56776133087920128",
+      "description": "ComfyUI的搜索结果 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "133953344935277568",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/search?o=desc&q=bitwig&s=updated&type=Repositories",
-      "title": "bitwig的搜索结果",
+      "siteUrl": "https://github.com/search?o=desc&q=ComfyUI&s=updated&type=Repositories",
+      "title": "ComfyUI的搜索结果",
       "type": "feed",
-      "url": "rsshub://github/search/bitwig/updated"
+      "url": "rsshub://github/search/ComfyUI/updated/desc"
     },
     {
       "description": "backdoorattack的搜索结果 - Powered by RSSHub",

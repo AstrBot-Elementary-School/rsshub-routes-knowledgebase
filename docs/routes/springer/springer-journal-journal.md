@@ -90,7 +90,7 @@ _None_
     {
       "description": "Journal of Happiness Studies - Powered by RSSHub",
       "errorAt": "2026-02-03T16:31:01.622Z",
-      "errorMessage": "[GET] \"https://link.springer.comundefined\": <no response> fetch failed (getaddrinfo ENOTFOUND link.springer.comundefined)\n",
+      "errorMessage": "Cannot read properties of undefined (reading 'replace')\n",
       "id": "42411432461774848",
       "image": null,
       "ownerUserId": null,

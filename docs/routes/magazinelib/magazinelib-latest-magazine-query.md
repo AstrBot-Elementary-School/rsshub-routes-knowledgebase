@@ -67,8 +67,8 @@ _None_
   "topFeeds": [
     {
       "description": "MagazineLib - Latest Magazines - NEW YORKER - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-07T14:49:31.040Z",
+      "errorMessage": "[GET] \"https://magazinelib.com/wp-json/wp/v2/posts/?search=new+yorker&per_page=30&_embed=1\": 403 Forbidden\n",
       "id": "258938409787591680",
       "image": null,
       "ownerUserId": null,

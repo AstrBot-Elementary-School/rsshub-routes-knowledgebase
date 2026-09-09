@@ -43,7 +43,7 @@ _None_
     "popular"
   ],
   "example": "/bilibili/ranking/all",
-  "heat": 9276,
+  "heat": 9277,
   "location": "ranking.ts",
   "maintainers": [
     "DIYgod",
@@ -136,8 +136,8 @@ _None_
   "topFeeds": [
     {
       "description": "bilibili 排行榜-全站 - Powered by RSSHub",
-      "errorAt": "2026-09-01T04:37:23.624Z",
-      "errorMessage": "[GET] \"https://api.bilibili.com/x/web-interface/view?bvid=BV1HBbE6cEc5\": 412 Precondition Failed\n-352\n-352\n-352\n-352\nAuthentication failed. Access denied.\n/bilibili/ranking/0\nbrowserType.connect: WebSocket error: ws://browserless:3000/ 429 Too Many Requests\n\r\nToo Many Requests\nCall log:\n  - <ws connecting> ws://browserless:3000/\n  - <ws unexpected response> ws://browserless:3000/ 429 Too Many Requests\n\r\nToo Many Requests\n  - <ws error> ws://browserless:3000/ error WebSocket was closed before the connection was established\n  - <ws connect error> ws://browserless:3000/ WebSocket was closed before the connection was established\n  - <ws disconnected> ws://browserless:3000/ code=1006 reason=\n\nbrowserType.launch: Executable doesn't exist at /root/.cache/ms-playwright/chromium_headless_shell-1228/chrome-headless-shell-linux64/chrome-headless-shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     npx playwright install                                 ║\n║                                                            ║\n║ <3 Patchright Team                                         ║\n╚════════════════════════════════════════════════════════════╝\n-352\nbrowserType.connect: WebSocket error: ws://browserless:3000/ 429 Too Many Requests\n\r\nToo Many Requests\nCall log:\n  - <ws connecting> ws://browserless:3000/\n  - <ws unexpected response> ws://browserless:3000/ 429 Too Many Requests\n\r\nToo Many Requests\n  - <ws error> ws://browserless:3000/ error WebSocket was closed before the connection was established\n  - <ws connect error> ws://browserless:3000/ WebSocket was closed before the connection was established\n  - <ws disconnected> ws://browserless:3000/ code=1006 reason=\n\n-352\nFailed to fetch\n[GET] \"https://api.bilibili.com/x/web-interface/ranking/v2?rid=0&type=all&web_location=333.934\": 412 Precondition Failed\n",
+      "errorAt": "2026-09-08T08:50:24.365Z",
+      "errorMessage": "Failed query: update \"feeds\" set \"url\" = $1, \"title\" = $2, \"description\" = $3, \"site_url\" = $4, \"checked_at\" = $5, \"refresh_enqueued_at\" = $6, \"last_modified_header\" = $7, \"etag_header\" = $8, \"ttl\" = $9, \"error_message\" = $10, \"error_at\" = $11, \"rsshub_route\" = $12, \"rsshub_namespace\" = $13 where (\"feeds\".\"id\" = $14 and (\"feeds\".\"refresh_enqueued_at\" is null or \"feeds\".\"refresh_enqueued_at\" < $15)) returning \"checked_at\"\nparams: rsshub://bilibili/ranking/0,bilibili 排行榜-全站,bilibili 排行榜-全站 - Powered by RSSHub,https://www.bilibili.com/v/popular/rank/all,2026-09-08T08:50:07.255Z,2026-09-08T08:46:32.082Z,Tue, 08 Sep 2026 08:50:04 GMT,\"19445-YzzHmZwbzTyKK+CGdYSaLTEN4tY\",60,,,/bilibili/ranking/:rid?/:embed?/:redirect1?/:redirect2?,bilibili,78806242632741888,2026-09-08T08:46:32.082Z",
       "id": "78806242632741888",
       "image": null,
       "ownerUserId": null,

@@ -77,16 +77,16 @@ _None_
       "url": "rsshub://alipan/files/jcuRG1PKsTn/678b1f0e38bfbaa0650a49049919f34ce7e2678e"
     },
     {
-      "description": "斗.破.苍.穹. 年.番（2022）-阿里云盘 - Powered by RSSHub",
-      "errorAt": "2025-06-16T12:02:14.349Z",
-      "errorMessage": "[POST] \"https://api.aliyundrive.com/adrive/v3/share_link/get_share_by_anonymous?share_id=9oByhi5hWMf\": 400 Bad Request\n",
-      "id": "136440876874277888",
+      "description": "住宅区的两人-阿里云盘 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "72100692346951680",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.aliyundrive.com/s/9oByhi5hWMf/folder/67d562a5ab81f2fd70044791be413fea0fad3d4a",
-      "title": "斗.破.苍.穹. 年.番（2022）-阿里云盘",
+      "siteUrl": "https://www.aliyundrive.com/s/5T6zmkug7WT/folder/66e16b2ce85886c19fa9442b8e7501215c7037bd",
+      "title": "住宅区的两人-阿里云盘",
       "type": "feed",
-      "url": "rsshub://alipan/files/9oByhi5hWMf/67d562a5ab81f2fd70044791be413fea0fad3d4a"
+      "url": "rsshub://alipan/files/5T6zmkug7WT/66e16b2ce85886c19fa9442b8e7501215c7037bd"
     }
   ],
   "url": "www.alipan.com/s"

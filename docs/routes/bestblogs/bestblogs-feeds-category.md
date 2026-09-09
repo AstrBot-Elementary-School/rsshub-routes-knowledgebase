@@ -67,7 +67,7 @@ _None_
     {
       "description": "BestBlogs.dev 精选文章期刊",
       "errorAt": "2026-08-26T03:49:40.540Z",
-      "errorMessage": "401 \n[POST] \"https://api.bestblogs.dev/api/resource/list\": 403 \n",
+      "errorMessage": "401 \n[POST] \"https://api.bestblogs.dev/api/resource/list\": 403 Forbidden\n",
       "id": "55765580939819008",
       "image": null,
       "ownerUserId": null,
@@ -79,7 +79,7 @@ _None_
     {
       "description": "Bestblogs.dev - Powered by RSSHub",
       "errorAt": "2026-04-11T13:02:50.531Z",
-      "errorMessage": "[POST] \"https://api.bestblogs.dev/api/resource/list\": 403 \n",
+      "errorMessage": "[POST] \"https://api.bestblogs.dev/api/resource/list\": 403 Forbidden\n",
       "id": "120316345262161920",
       "image": null,
       "ownerUserId": null,

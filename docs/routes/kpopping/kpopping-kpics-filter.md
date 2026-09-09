@@ -95,8 +95,8 @@ Query photos using filter parameters found on kpopping such as `idolId`, `groupI
     },
     {
       "description": "kpics - kpopping - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-07T14:11:52.222Z",
+      "errorMessage": "[GET] \"https://kpopping.com/api/photos\": 429 Too Many Requests\n",
       "id": "160056537743224832",
       "image": "https://kpopping.com/build/images/kpopping-default-detailed.jpg",
       "ownerUserId": null,

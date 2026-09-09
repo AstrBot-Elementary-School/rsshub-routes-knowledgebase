@@ -55,7 +55,7 @@ _None_
     {
       "description": "技术爬爬虾 的 bilibili 所有视频 - Powered by RSSHub",
       "errorAt": "2026-08-25T07:54:26.811Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'vlist')\n",
+      "errorMessage": "[GET] \"https://space.bilibili.com/316183842/video?tid=0&page=1&keyword=&order=pubdate\": 412 Precondition Failed\n",
       "id": "82801159002601472",
       "image": null,
       "ownerUserId": null,
@@ -67,7 +67,7 @@ _None_
     {
       "description": "小Lin说 的 bilibili 所有视频 - Powered by RSSHub",
       "errorAt": "2026-08-26T23:43:23.393Z",
-      "errorMessage": "Failed to fetch\nCannot read properties of undefined (reading 'vlist')\n",
+      "errorMessage": "Failed to fetch\n[GET] \"https://space.bilibili.com/520819684/video?tid=0&page=1&keyword=&order=pubdate\": 412 Precondition Failed\n",
       "id": "69028952282503168",
       "image": null,
       "ownerUserId": null,

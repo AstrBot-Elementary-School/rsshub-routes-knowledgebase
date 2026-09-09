@@ -87,7 +87,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 7399,
+  "heat": 7400,
   "location": "transform/html.ts",
   "maintainers": [
     "ttttmr",
@@ -118,8 +118,8 @@ _None_
     },
     {
       "description": "Proxy https://javdb.com/uncensored - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-07T11:00:23.371Z",
+      "errorMessage": "Authentication failed. Access denied.\n/rsshub/transform/html/https%3A%2F%2Fjavdb.com%2Funcensored/title%3DjavDB%E6%97%A0%E7%A0%81\n[GET] \"https://javdb.com/uncensored\": 403 Forbidden\n",
       "id": "70337524894135296",
       "image": null,
       "ownerUserId": null,

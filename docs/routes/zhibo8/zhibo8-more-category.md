@@ -91,8 +91,8 @@
     },
     {
       "description": "NBA - 直播吧 - Powered by RSSHub",
-      "errorAt": "2026-09-07T08:12:31.864Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\" from \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 63118600077338626",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "63118600077338626",
       "image": null,
       "ownerUserId": null,

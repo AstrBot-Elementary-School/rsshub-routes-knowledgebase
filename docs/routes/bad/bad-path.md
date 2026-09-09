@@ -56,8 +56,8 @@ _None_
   "topFeeds": [
     {
       "description": "Bad.news - 热门 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-08T04:01:30.469Z",
+      "errorMessage": "503 \n",
       "id": "66153135747790848",
       "image": null,
       "ownerUserId": null,

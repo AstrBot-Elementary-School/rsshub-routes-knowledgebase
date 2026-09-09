@@ -51,28 +51,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Joker世家2店 商铺上新 - Powered by RSSHub",
+      "description": "sizek 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264526741678718976",
+      "id": "1264527013503172608",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1858725248",
-      "title": "Joker世家2店 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=215264316",
+      "title": "sizek 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1858725248"
+      "url": "rsshub://weidian/goods/215264316"
     },
     {
-      "description": "Ture 商铺上新 - Powered by RSSHub",
+      "description": "杰尼龟(唯一新店) 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264524888048009216",
+      "id": "1264524979299287040",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1718752418",
-      "title": "Ture 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1697270306",
+      "title": "杰尼龟(唯一新店) 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1718752418"
+      "url": "rsshub://weidian/goods/1697270306"
     }
   ]
 }

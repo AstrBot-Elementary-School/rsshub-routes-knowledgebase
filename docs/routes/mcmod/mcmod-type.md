@@ -82,8 +82,8 @@ _None_
     },
     {
       "description": "MC百科首页|我的世界MOD百科，提供Minecraft(我的世界)MOD(模组)物品资料介绍教程攻略和MOD下载。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-07T14:11:45.746Z",
+      "errorMessage": "[GET] \"https://www.mcmod.cn\": 403 Forbidden\n",
       "id": "132060968710740992",
       "image": null,
       "ownerUserId": null,

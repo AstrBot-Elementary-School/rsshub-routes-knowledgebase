@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 55,
+  "heat": 54,
   "location": "user-channel.ts",
   "maintainers": [
     "weirongxu"
@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "跟李沐学AI 的 bilibili 频道 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-07T11:17:35.596Z",
+      "errorMessage": "[GET] \"https://api.bilibili.com/x/series/archives?mid=1567748478&series_id=358497&only_normal=true&sort=desc&pn=1&ps=25\": 412 Precondition Failed\n",
       "id": "75758482619226112",
       "image": "https://i0.hdslb.com/bfs/face/15afabcda93279a5ab2f736513ad112e836a9701.jpg",
       "ownerUserId": null,
@@ -81,8 +81,8 @@ _None_
     },
     {
       "description": "黑马程序员 的 bilibili 频道 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-08T03:23:17.224Z",
+      "errorMessage": "[GET] \"https://api.bilibili.com/x/series/archives?mid=37974444&series_id=240490&only_normal=true&sort=desc&pn=1&ps=25\": 412 Precondition Failed\n",
       "id": "66328356640256000",
       "image": "https://i0.hdslb.com/bfs/face/a71b4dd6647ddf0c813bcf74e062edab9224cb0e.jpg",
       "ownerUserId": null,

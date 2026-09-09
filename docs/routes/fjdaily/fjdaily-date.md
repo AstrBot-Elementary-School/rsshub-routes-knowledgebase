@@ -84,14 +84,14 @@
   },
   "topFeeds": [
     {
-      "description": "福建日报 - 2026-09-07 - Powered by RSSHub",
+      "description": "福建日报 - 2026-09-08 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "1259581465885016064",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://fjrb.fjdaily.com/pc/col/202609/07/node_01.html",
-      "title": "福建日报 - 2026-09-07",
+      "siteUrl": "https://fjrb.fjdaily.com/pc/col/202609/08/node_01.html",
+      "title": "福建日报 - 2026-09-08",
       "type": "feed",
       "url": "rsshub://fjdaily"
     }

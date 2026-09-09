@@ -60,8 +60,8 @@ _None_
   "topFeeds": [
     {
       "description": "武汉大学新闻网 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-07T16:30:48.321Z",
+      "errorMessage": "[GET] \"https://news.whu.edu.cn/wdzx/wdyw.htm\": 525 <none>\n",
       "id": "59556206825577472",
       "image": "https://news.whu.edu.cn/images/logoa.png",
       "ownerUserId": null,

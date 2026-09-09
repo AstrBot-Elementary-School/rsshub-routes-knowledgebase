@@ -82,8 +82,8 @@ _None_
   "topFeeds": [
     {
       "description": "Rondesignlab ⭐️'s projects - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-07T10:32:18.666Z",
+      "errorMessage": "[POST] \"https://www.behance.net/v3/graphql\": <no response> fetch failed\n[POST] \"https://www.behance.net/v3/graphql\": 403 Forbidden\n",
       "id": "60616941982567424",
       "image": "https://pps.services.adobe.com/api/profile/070133B04B7456D1992015B9@AdobeID/image/74abc8ee-12d8-4690-8980-fd0681e41ecc/50",
       "ownerUserId": null,

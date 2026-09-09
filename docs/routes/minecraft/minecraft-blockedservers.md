@@ -73,8 +73,8 @@ _None_
   "topFeeds": [
     {
       "description": "Minecraft Java版被阻止的服务器域名散列 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-07T13:25:56.684Z",
+      "errorMessage": "[GET] \"https://sessionserver.mojang.com/blockedservers\": 403 Forbidden\n",
       "id": "164180081436038144",
       "image": null,
       "ownerUserId": null,

@@ -40,7 +40,7 @@ _None_
     "popular"
   ],
   "example": "/anthropic/news",
-  "heat": 1331,
+  "heat": 1332,
   "location": "news.ts",
   "maintainers": [
     "etShaw-zh",

@@ -125,7 +125,7 @@
     {
       "description": "News & Views That Matter - Powered by RSSHub",
       "errorAt": "2026-09-07T10:16:30.919Z",
-      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/783702\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/884543-%E5%90%A6%E8%AE%A4%E6%94%BF%E5%BA%9C%E5%86%85%E9%83%A8%E5%87%BA%E7%8E%B0%E9%BE%83%E9%BE%89%E5%AE%89%E5%8D%8E%E4%BF%9D%E8%AF%81%E5%86%85%E9%98%81%E5%90%88%E4%BD%9C%E4%BB%8D%E7%A8%B3%E5%9B%BA\": 404 Not Found\n",
       "id": "69685104073634816",
       "image": null,
       "ownerUserId": null,
@@ -137,7 +137,7 @@
     {
       "description": "News & Views That Matter - Powered by RSSHub",
       "errorAt": "2026-09-07T09:32:19.566Z",
-      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/884485-mahfuzs-heavenly-reminder-pas-not-immigration-counter-for-hereafter\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/884573-anwar-revives-razaks-3c-warning-says-communalism-and-corruption-persist\": 404 Not Found\n",
       "id": "61840955600323584",
       "image": null,
       "ownerUserId": null,

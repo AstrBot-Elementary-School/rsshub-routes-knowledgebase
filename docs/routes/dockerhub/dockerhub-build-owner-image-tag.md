@@ -84,8 +84,8 @@ _None_
     },
     {
       "description": "Alternative implementation of the Bitwarden server API in Rust, including the Web Vault. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-08T04:18:22.276Z",
+      "errorMessage": "[GET] \"https://hub.docker.com/v2/repositories/vaultwarden/server/tags/latest\": 429 Too Many Requests\n",
       "id": "56670320731116544",
       "image": null,
       "ownerUserId": null,

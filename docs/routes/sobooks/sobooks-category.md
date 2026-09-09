@@ -87,7 +87,7 @@
     {
       "description": null,
       "errorAt": "2025-06-25T00:45:21.760Z",
-      "errorMessage": "[GET] \"https://www.sobooks.net/\": <no response> fetch failed (self-signed certificate; if the root CA is installed locally, try running Node.js with --use-system-ca)\n",
+      "errorMessage": "[GET] \"https://www.sobooks.net/\": 526 <none>\n",
       "id": "160497068790603856",
       "image": null,
       "ownerUserId": null,

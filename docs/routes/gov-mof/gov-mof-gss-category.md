@@ -94,7 +94,7 @@
     {
       "description": "政策解读 - 中华人民共和国财政部 - Powered by RSSHub",
       "errorAt": "2026-08-26T15:20:58.396Z",
-      "errorMessage": "[GET] \"https://gss.mof.gov.cn/gzdt/zhengcejiedu/\": 502 Bad Gateway\n",
+      "errorMessage": "[GET] \"https://gss.mof.gov.cn/gzdt/zhengcejiedu/202603/t20260326_3986137.htm\": 502 Bad Gateway\n",
       "id": "145117484898967552",
       "image": null,
       "ownerUserId": null,

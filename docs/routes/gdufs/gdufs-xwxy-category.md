@@ -143,15 +143,15 @@ _None_
     },
     {
       "description": "广东外语外贸大学新闻与传播学院官网-新闻中心 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "192034066149117952",
+      "errorAt": "2026-09-08T08:56:48.346Z",
+      "errorMessage": "503 \n",
+      "id": "192034315847622656",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://xwxy.gdufs.edu.cn/xwzx/mtjj.htm",
-      "title": "广外新传学院-媒体聚焦",
+      "siteUrl": "https://xwxy.gdufs.edu.cn/xwzx/tzgg/gg.htm",
+      "title": "广外新传学院-公告",
       "type": "feed",
-      "url": "rsshub://gdufs/xwxy/media"
+      "url": "rsshub://gdufs/xwxy/announcements"
     }
   ],
   "url": "xwxy.gdufs.edu.cn"

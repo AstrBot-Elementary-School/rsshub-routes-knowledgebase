@@ -80,8 +80,8 @@ _None_
     },
     {
       "description": "通信人家园 - 论坛 最新500主题帖 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-08T02:42:25.013Z",
+      "errorMessage": "[GET] \"https://www.txrjy.com/c114-listnewtopic.php?typeid=1\": 522 <none>\n",
       "id": "67830377077194752",
       "image": null,
       "ownerUserId": null,

@@ -76,7 +76,7 @@ _None_
     {
       "description": "歪脑读 - 歪脑 - Powered by RSSHub",
       "errorAt": "2025-03-06T03:05:51.618Z",
-      "errorMessage": "terminated\nterminated\nterminated\n",
+      "errorMessage": "terminated\nterminated\n[GET] \"https://www.wainao.me/pf/api/v3/content/fetch/content-api-collections?query={\\\"content_alias\\\":\\\"wainao-hero\\\"}&d=81&_website=wainao\": 404 Not Found\n",
       "id": "109801824683778048",
       "image": null,
       "ownerUserId": null,

@@ -77,8 +77,8 @@ _None_
     },
     {
       "description": "哔哩哔哩入站必刷 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-07T10:56:05.114Z",
+      "errorMessage": "[GET] \"https://api.bilibili.com/x/web-interface/popular/precious\": 412 Precondition Failed\n",
       "id": "69361213069277184",
       "image": null,
       "ownerUserId": null,

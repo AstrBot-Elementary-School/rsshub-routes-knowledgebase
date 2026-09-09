@@ -101,8 +101,8 @@ _None_
     },
     {
       "description": "Huggingface Community Articles - Powered by RSSHub",
-      "errorAt": "2026-09-07T09:46:10.580Z",
-      "errorMessage": "[GET] \"https://huggingface.co/blog/lucifertrj/turboquant-quantization-explained\": 429 Too Many Requests\n",
+      "errorAt": "2026-09-08T07:52:09.919Z",
+      "errorMessage": "[GET] \"https://huggingface.co/blog/mlabonne/abliteration\": 429 Too Many Requests\n",
       "id": "163588196308261888",
       "image": null,
       "ownerUserId": null,

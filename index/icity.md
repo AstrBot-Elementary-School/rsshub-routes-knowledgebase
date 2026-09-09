@@ -6,7 +6,7 @@
 - URL: `icity.ly`
 - Language: `_None_`
 - Aliases: `icity, icity.ly`
-- Route Count: `1`
+- Route Count: `2`
 
 ## Routes
 
@@ -17,3 +17,11 @@
 - File Name: `icity-id.md`
 - Categories: `social-media`
 - Maintainers: `nczitzk`
+
+### iMuseum 城市展览
+- Route ID: `icity:/icity/imuseum/:city/:type?`
+- Route Path: `/icity/imuseum/:city/:type?`
+- File: `docs/routes/icity/icity-imuseum-city-type.md`
+- File Name: `icity-imuseum-city-type.md`
+- Categories: `travel`
+- Maintainers: `chouj`

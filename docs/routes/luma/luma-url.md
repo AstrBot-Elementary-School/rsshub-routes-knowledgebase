@@ -88,16 +88,16 @@ _None_
       "url": "rsshub://luma/langchain"
     },
     {
-      "description": "Platzi - Powered by RSSHub",
-      "errorAt": "2026-08-01T07:59:21.642Z",
+      "description": "Bogota Events powered by Startup Grind - Powered by RSSHub",
+      "errorAt": "2026-05-26T22:11:47.160Z",
       "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
-      "id": "265967006213506048",
+      "id": "265966867461735424",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://lu.ma/platzi",
-      "title": "Platzi",
+      "siteUrl": "https://lu.ma/sgbogota",
+      "title": "Bogota Events powered by Startup Grind",
       "type": "feed",
-      "url": "rsshub://luma/platzi"
+      "url": "rsshub://luma/sgbogota"
     }
   ],
   "url": "lu.ma"

@@ -64,8 +64,8 @@ _None_
   "topFeeds": [
     {
       "description": "OpenAI Research - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-08T07:52:12.043Z",
+      "errorMessage": "[GET] \"https://openai.com/index/ai-chemist-improves-reaction/\": 403 Forbidden\n",
       "id": "163361629454837803",
       "image": null,
       "ownerUserId": null,

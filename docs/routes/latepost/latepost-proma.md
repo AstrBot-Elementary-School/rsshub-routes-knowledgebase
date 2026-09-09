@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 7069,
+  "heat": 7071,
   "location": "index.ts",
   "maintainers": [
     "nczitzk"
@@ -82,8 +82,8 @@ _None_
     },
     {
       "description": "晚一点，好一点 Later better - Powered by RSSHub",
-      "errorAt": "2026-07-26T02:41:16.648Z",
-      "errorMessage": "[GET] \"https://www.latepost.com/site/get-column\": <no response> fetch failed (unable to get local issuer certificate)\n[GET] \"https://www.latepost.com/site/get-column\": <no response> fetch failed (unable to get local issuer certificate)\n[GET] \"https://www.latepost.com/site/get-column\": <no response> fetch failed\n[GET] \"https://www.latepost.com/site/get-column\": <no response> fetch failed\n[GET] \"https://www.latepost.com/site/get-column\": <no response> fetch failed (unable to get local issuer certificate)\n[GET] \"https://www.latepost.com/site/get-column\": <no response> fetch failed\n[GET] \"https://www.latepost.com/site/get-column\": <no response> fetch failed\n[GET] \"https://www.latepost.com/site/get-column\": <no response> fetch failed (unable to get local issuer certificate)\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "42176727619514397",
       "image": "https://www.latepost.com/images/logo_txt_header.png",
       "ownerUserId": null,

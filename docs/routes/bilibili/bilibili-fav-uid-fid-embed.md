@@ -80,16 +80,16 @@ _None_
       "url": "rsshub://bilibili/fav/399964818/1771644318"
     },
     {
-      "description": "oops-L- 的 bilibili 收藏夹 大二下 - Powered by RSSHub",
+      "description": "呼呼呼咕咕咕叽叽 的 bilibili 收藏夹 默认收藏夹 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "121558077415311360",
+      "id": "141401723640756224",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://space.bilibili.com/102060507/#/favlist?fid=3517976807",
-      "title": "oops-L- 的 bilibili 收藏夹 大二下",
+      "siteUrl": "https://space.bilibili.com/13063497/#/favlist?fid=48859097",
+      "title": "呼呼呼咕咕咕叽叽 的 bilibili 收藏夹 默认收藏夹",
       "type": "feed",
-      "url": "rsshub://bilibili/fav/102060507/3517976807"
+      "url": "rsshub://bilibili/fav/13063497/48859097"
     }
   ]
 }

@@ -102,7 +102,7 @@
     {
       "description": "中国人事考试网 考试通知公告汇总 - Powered by RSSHub",
       "errorAt": "2025-11-06T18:02:50.011Z",
-      "errorMessage": "[GET] \"http://www.cpta.com.cn/notice.html\": 405 Not Allowed\n",
+      "errorMessage": "[GET] \"http://www.cpta.com.cn/notice.html\": 405 Method Not Allowed\n",
       "id": "101869703891043328",
       "image": "https://www.gov.cn/images/gtrs_logo_lt.png",
       "ownerUserId": null,

@@ -59,7 +59,7 @@ For instance, the `/github/topics/framework/l=php&o=desc&s=stars` route will gen
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 106,
+  "heat": 108,
   "location": "topic.ts",
   "maintainers": [
     "queensferryme"
@@ -83,8 +83,8 @@ For instance, the `/github/topics/framework/l=php&o=desc&s=stars` route will gen
   "topFeeds": [
     {
       "description": "A framework is a reusable set of libraries or classes in software. In an effort to help developers focus their work on higher level tasks, a framework provides a functional solution for lower level elements of coding. While a framework might add more code than is necessary, they also provide a reusable pattern to speed up development. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-07T16:17:32.481Z",
+      "errorMessage": "[GET] \"https://github.com/topics/framework?\": 429 Too Many Requests\n",
       "id": "60991851974661120",
       "image": null,
       "ownerUserId": null,

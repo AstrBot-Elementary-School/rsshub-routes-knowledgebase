@@ -95,8 +95,8 @@ Examples:
   "topFeeds": [
     {
       "description": "Hacker News - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-08T00:38:32.033Z",
+      "errorMessage": "[GET] \"https://news.ycombinator.com\": 403 Forbidden\n",
       "id": "61780263784145920",
       "image": null,
       "ownerUserId": null,
@@ -107,8 +107,8 @@ Examples:
     },
     {
       "description": "Hacker News - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-07T21:57:51.116Z",
+      "errorMessage": "[GET] \"https://news.ycombinator.com/news\": 403 Forbidden\n",
       "id": "54068749119767552",
       "image": null,
       "ownerUserId": null,

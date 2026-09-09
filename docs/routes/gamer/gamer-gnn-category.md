@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1328,
+  "heat": 1330,
   "location": "gnn-index.ts",
   "maintainers": [
     "Arracc",
@@ -161,8 +161,8 @@ _None_
     },
     {
       "description": "巴哈姆特-GNN新聞-PC - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-08T07:58:31.210Z",
+      "errorMessage": "[GET] \"https://gnn.gamer.com.tw/index.php?k=1\": 403 Forbidden\n[GET] \"https://gnn.gamer.com.tw/index.php?k=1\": 403 Forbidden\n[GET] \"https://gnn.gamer.com.tw/detail.php?sn=311176\": 429 Too Many Requests\n",
       "id": "52353637010143239",
       "image": null,
       "ownerUserId": null,

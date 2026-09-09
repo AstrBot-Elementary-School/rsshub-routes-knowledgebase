@@ -115,14 +115,14 @@
       "url": "rsshub://kcna/cn"
     },
     {
-      "description": "KCNA | Article | Latest News - Powered by RSSHub",
-      "errorAt": "2026-05-27T10:15:40.792Z",
-      "errorMessage": "Failed to fetch\n",
+      "description": "KCNA | Latest News - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "185526378093555750",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "http://www.kcna.kp/en/category/articles/q/1ee9bdb7186944f765208f34ecfb5407.kcmsf",
-      "title": "KCNA | Article | Latest News",
+      "siteUrl": "http://www.kcna.kp/en/article/list/a666dda1282180e0ee1b4427b0574ae7",
+      "title": "KCNA | Latest News",
       "type": "feed",
       "url": "rsshub://kcna/en"
     }

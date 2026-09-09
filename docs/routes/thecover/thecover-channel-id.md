@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 368,
+  "heat": 366,
   "location": "channel.ts",
   "maintainers": [
     "yuxinliu-alex"

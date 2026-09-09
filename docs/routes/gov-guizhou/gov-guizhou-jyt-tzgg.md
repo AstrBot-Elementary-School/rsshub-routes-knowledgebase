@@ -77,8 +77,8 @@ _None_
   "topFeeds": [
     {
       "description": "贵州省教育厅门户网站通知公告 - Powered by RSSHub",
-      "errorAt": "2026-09-07T01:46:55.639Z",
-      "errorMessage": "[GET] \"https://jyt.guizhou.gov.cn/zwgk/tzgg/\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 117.187.129.203:443, 2409:8c6a:b011:410b:a411:b7f4:2af4:8699:443, timeout: 10000ms))\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "238150952866085888",
       "image": null,
       "ownerUserId": null,

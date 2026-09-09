@@ -59,7 +59,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 9,
+  "heat": 10,
   "location": "index.tsx",
   "maintainers": [
     "TonyRL"
@@ -89,16 +89,16 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Posts of ゆりしましろ from fanbox | Pawchive - Powered by RSSHub",
+      "description": "Posts of 予算 from fanbox | Pawchive - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1216678045293608960",
-      "image": "https://pawchive.pw/icons/fanbox/86618946",
+      "id": "1216677382878789632",
+      "image": "https://pawchive.pw/icons/fanbox/16868574",
       "ownerUserId": null,
-      "siteUrl": "https://pawchive.pw/fanbox/user/86618946",
-      "title": "Posts of ゆりしましろ from fanbox | Pawchive",
+      "siteUrl": "https://pawchive.pw/fanbox/user/16868574",
+      "title": "Posts of 予算 from fanbox | Pawchive",
       "type": "feed",
-      "url": "rsshub://pawchive/fanbox/86618946"
+      "url": "rsshub://pawchive/fanbox/16868574"
     },
     {
       "description": "Posts of せるたす from fanbox | Pawchive - Powered by RSSHub",

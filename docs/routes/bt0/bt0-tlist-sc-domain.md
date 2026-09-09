@@ -90,7 +90,7 @@ _None_
     {
       "description": "不太灵-最新资源列表-近日热门 - Powered by RSSHub",
       "errorAt": "2025-02-09T16:19:02.013Z",
-      "errorMessage": "Failed to fetch\napi error\napi error\n",
+      "errorMessage": "[GET] \"https://www.2bt0.com/prod/core/system/getTList?sc=3\": 404 Not Found\n[GET] \"https://www.2bt0.com/prod/core/system/getTList?sc=3\": 404 Not Found\n",
       "id": "68593706262930432",
       "image": null,
       "ownerUserId": null,

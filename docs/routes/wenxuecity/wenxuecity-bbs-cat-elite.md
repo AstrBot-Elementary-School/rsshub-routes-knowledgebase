@@ -76,28 +76,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "文学城 | 移民论坛（immigration） - Powered by RSSHub",
+      "description": "文学城 | 我爱我家（myhouse） - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "177651896288583713",
+      "id": "177651896288583712",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://bbs.wenxuecity.com/immigration/?elite=1",
-      "title": "文学城 | 移民论坛（immigration）",
+      "siteUrl": "https://bbs.wenxuecity.com/myhouse/?elite=1",
+      "title": "文学城 | 我爱我家（myhouse）",
       "type": "feed",
-      "url": "rsshub://wenxuecity/bbs/immigration/1"
+      "url": "rsshub://wenxuecity/bbs/myhouse/1"
     },
     {
-      "description": "文学城 | 投资理财（tzlc） - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "177651896288583711",
+      "description": "文学城 | 职场生涯（career） - Powered by RSSHub",
+      "errorAt": "2026-09-03T02:11:46.695Z",
+      "errorMessage": "[GET] \"https://bbs.wenxuecity.com/career/?elite=1\": 403 Forbidden\n",
+      "id": "177651896288583714",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://bbs.wenxuecity.com/tzlc/?elite=1",
-      "title": "文学城 | 投资理财（tzlc）",
+      "siteUrl": "https://bbs.wenxuecity.com/career/?elite=1",
+      "title": "文学城 | 职场生涯（career）",
       "type": "feed",
-      "url": "rsshub://wenxuecity/bbs/tzlc/1"
+      "url": "rsshub://wenxuecity/bbs/career/1"
     }
   ]
 }

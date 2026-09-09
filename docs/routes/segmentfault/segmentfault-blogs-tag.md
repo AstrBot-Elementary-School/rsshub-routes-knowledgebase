@@ -75,7 +75,7 @@ _None_
     {
       "description": "segmentfault-Blogs-java - Powered by RSSHub",
       "errorAt": "2024-10-24T06:06:02.559Z",
-      "errorMessage": "[GET] \"https://segmentfault.com/gateway/tag/java/articles?loadMoreType=pagination&initData=true&page=1&sort=newest&pageSize=30\": 403 \n",
+      "errorMessage": "[GET] \"https://segmentfault.com/gateway/tag/java/articles?loadMoreType=pagination&initData=true&page=1&sort=newest&pageSize=30\": 403 Forbidden\n",
       "id": "71828492942775296",
       "image": null,
       "ownerUserId": null,

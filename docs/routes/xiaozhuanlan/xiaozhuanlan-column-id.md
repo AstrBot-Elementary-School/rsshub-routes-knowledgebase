@@ -87,7 +87,7 @@ _None_
     {
       "description": "SwiftOldDriver 精选 - @没故事的卓同学 - 老司机 iOS 周报编辑们的私房原创文章，基于周报对一些知识点进行更全面、深入的展开，或者外文的翻译。 专栏文章每周一更，持续到 18 年底。 - Powered by RSSHub",
       "errorAt": "2025-06-07T04:31:47.648Z",
-      "errorMessage": "[GET] \"https://xiaozhuanlan.com/olddriver-selection\": <no response> fetch failed (Connect Timeout Error (attempted address: xiaozhuanlan.com:443, timeout: 10000ms))\n",
+      "errorMessage": "[GET] \"https://xiaozhuanlan.com/olddriver-selection\": 522 <none>\n",
       "id": "80490593077723136",
       "image": null,
       "ownerUserId": null,

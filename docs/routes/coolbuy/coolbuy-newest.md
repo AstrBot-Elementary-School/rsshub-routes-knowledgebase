@@ -36,7 +36,7 @@ _None_
     "shopping"
   ],
   "example": "/coolbuy/newest",
-  "heat": 0,
+  "heat": 2,
   "location": "newest.ts",
   "maintainers": [
     "xyqfer"
@@ -46,6 +46,19 @@ _None_
   "test": {
     "code": 0
   },
-  "topFeeds": []
+  "topFeeds": [
+    {
+      "description": "值得买的未来生活 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "146103826078083076",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://coolbuy.com/",
+      "title": "玩物志-最新",
+      "type": "feed",
+      "url": "rsshub://coolbuy/newest"
+    }
+  ]
 }
 ```

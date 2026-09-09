@@ -55,7 +55,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 168,
+  "heat": 169,
   "location": "nipple-video-category.ts",
   "maintainers": [
     "SnowAgar25"

@@ -75,7 +75,7 @@ _None_
     {
       "description": "苏州市政府 - 政策公开文件 - Powered by RSSHub",
       "errorAt": "2025-11-27T04:24:28.818Z",
-      "errorMessage": "[GET] \"https://www.suzhou.gov.cn/szxxgk/front/xxgk_right.jsp\": 404 \n[GET] \"https://www.suzhou.gov.cn/szxxgk/front/xxgk_right.jsp\": 404 \n",
+      "errorMessage": "[GET] \"https://www.suzhou.gov.cn/szxxgk/front/xxgk_right.jsp\": 404 \n[GET] \"https://www.suzhou.gov.cn/szxxgk/front/xxgk_right.jsp\": 404 Not Found\n",
       "id": "73327549478375424",
       "image": null,
       "ownerUserId": null,

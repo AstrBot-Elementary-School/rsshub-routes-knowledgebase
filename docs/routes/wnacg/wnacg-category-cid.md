@@ -73,8 +73,8 @@ _None_
     },
     {
       "description": "寫真&Cosplay < 紳士漫畫-專註分享漢化本子|邪惡漫畫 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-07T12:04:27.858Z",
+      "errorMessage": "[GET] \"https://www.wnacg.com/albums-index-cate-3.html\": 403 Forbidden\n",
       "id": "70519954758300672",
       "image": null,
       "ownerUserId": null,

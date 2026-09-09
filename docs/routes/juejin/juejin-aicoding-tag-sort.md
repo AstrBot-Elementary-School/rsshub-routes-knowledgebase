@@ -201,8 +201,8 @@ _None_
     },
     {
       "description": "AI编程 - AI 编程 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-08T07:57:47.106Z",
+      "errorMessage": "[GET] \"https://juejin.cn/post/7682949323601477673\": 403 Forbidden\n",
       "id": "190049393455791104",
       "image": "https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1fa3c0a49ab34943aa26b26202891e7f~tplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=200&h=200&s=11771&e=png&b=0a0909",
       "ownerUserId": null,

@@ -76,8 +76,8 @@ _None_
   "topFeeds": [
     {
       "description": "技术爬爬虾 的 bilibili 图文 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-07T12:57:33.773Z",
+      "errorMessage": "Failed to fetch\n[GET] \"https://api.bilibili.com/x/polymer/web-dynamic/v1/opus/feed/space?host_mid=316183842\": 412 Precondition Failed\n",
       "id": "78446399642487808",
       "image": null,
       "ownerUserId": null,

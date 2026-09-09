@@ -119,7 +119,7 @@ _None_
     {
       "description": "手办维基 - 情报 - 全部 - Powered by RSSHub",
       "errorAt": "2026-01-12T06:56:07.568Z",
-      "errorMessage": "[POST] \"https://www.hpoi.net/user/home/ajax?page=1&type=info&subType=all\": 404 \n",
+      "errorMessage": "[POST] \"https://www.hpoi.net/user/home/ajax?page=1&type=info&subType=all\": 404 Not Found\n",
       "id": "55126637717323806",
       "image": null,
       "ownerUserId": null,
@@ -131,7 +131,7 @@ _None_
     {
       "description": "手办维基 - 情报 - 全部 - Powered by RSSHub",
       "errorAt": "2026-01-12T05:51:23.861Z",
-      "errorMessage": "[POST] \"https://www.hpoi.net/user/home/ajax?page=1&type=info&subType=all\": 404 \n",
+      "errorMessage": "[POST] \"https://www.hpoi.net/user/home/ajax?page=1&type=info&subType=all\": 404 Not Found\n",
       "id": "163588982506257408",
       "image": null,
       "ownerUserId": null,

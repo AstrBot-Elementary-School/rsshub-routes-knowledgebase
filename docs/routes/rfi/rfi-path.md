@@ -72,8 +72,8 @@ _None_
   "topFeeds": [
     {
       "description": "同步、随时跟踪法广政治、文化、体育新闻，了解法国、中国与世界各地大事 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-08T10:21:29.326Z",
+      "errorMessage": "KV GET failed: 414 UTF-8 encoded length of 522 exceeds key length limit of 512.\n",
       "id": "58701529235465216",
       "image": "https://s.rfi.fr/media/display/020b8dae-e6c1-11ee-a196-005056bfb2b6/w:1280/p:16x9/img-default-RFI.jpg",
       "ownerUserId": null,
@@ -83,16 +83,16 @@ _None_
       "url": "rsshub://rfi/cn"
     },
     {
-      "description": "同步、随时跟踪中国时事：采访、报道、特别专题 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "75444883463138304",
+      "description": "Suivez toute l'information politique, culturelle, sportive en direct et en continu sur RFI. Les dernières informations, news et actualités en France et à l'international. - Powered by RSSHub",
+      "errorAt": "2026-09-03T17:57:14.601Z",
+      "errorMessage": "Unexpected end of JSON input\n",
+      "id": "76670519253188608",
       "image": "https://s.rfi.fr/media/display/020b8dae-e6c1-11ee-a196-005056bfb2b6/w:1280/p:16x9/img-default-RFI.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/",
-      "title": "中国时事 - 法广 - RFI",
+      "siteUrl": "https://www.rfi.fr/fr/",
+      "title": "RFI - Actualités, info, news en direct - Radio France Internationale",
       "type": "feed",
-      "url": "rsshub://rfi/cn/%E4%B8%AD%E5%9B%BD"
+      "url": "rsshub://rfi/fr"
     }
   ],
   "url": "rfi.fr"

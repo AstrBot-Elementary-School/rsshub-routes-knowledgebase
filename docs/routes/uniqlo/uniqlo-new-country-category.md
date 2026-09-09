@@ -85,7 +85,7 @@ _None_
       "id": "164380886195041280",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.uniqlo.com/us/en/feature/new/men",
+      "siteUrl": "https://www.uniqlo.com/us/en/feature/new/men/",
       "title": "Uniqlo men new arrivals in us",
       "type": "feed",
       "url": "rsshub://uniqlo/new/us/men"

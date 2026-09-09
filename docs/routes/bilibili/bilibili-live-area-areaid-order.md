@@ -70,8 +70,8 @@ _None_
   "topFeeds": [
     {
       "description": "哔哩哔哩直播-娱乐·舞见分区-人气直播 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-07T10:51:22.366Z",
+      "errorMessage": "[GET] \"https://api.live.bilibili.com/room/v1/Area/getList\": 412 Precondition Failed\n",
       "id": "56218629867262976",
       "image": null,
       "ownerUserId": null,

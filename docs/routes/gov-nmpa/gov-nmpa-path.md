@@ -47,7 +47,7 @@ _None_
   ],
   "description": "::: tip\n\n路径处填写对应页面 URL 中 `https://www.nmpa.gov.cn/` 与 `/index.html` 之间的字段，下面是一个例子。\n\n若订阅 [公告通告](https://www.nmpa.gov.cn/xxgk/ggtg/index.html) 则将对应页面 URL <https://www.nmpa.gov.cn/xxgk/ggtg/index.html> 中 `https://www.nmpa.gov.cn/` 和 `/index.html` 之间的字段 `xxgk/ggtg` 作为路径填入。此时路由为 [`/gov/nmpa/xxgk/ggtg`](https://rsshub.app/gov/nmpa/xxgk/ggtg)\n\n:::",
   "example": "/gov/nmpa/xxgk/ggtg",
-  "heat": 0,
+  "heat": 1,
   "location": "generic.ts",
   "maintainers": [
     "TonyRL"

@@ -41,7 +41,7 @@ _None_
   "features": {
     "antiCrawler": true
   },
-  "heat": 383,
+  "heat": 382,
   "location": "user.tsx",
   "maintainers": [
     "TonyRL"
@@ -64,8 +64,8 @@ _None_
   "topFeeds": [
     {
       "description": "🌈资深程序猿一名 🏠分享AI知识，以及好用的软件推荐 🙊一个说真话的培训师 软件都在 抖音粉丝群 承接各类培训服务 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-07T11:55:59.555Z",
+      "errorMessage": "Invalid code point 0.00390625\n无法获取用户信息\n",
       "id": "84064321853358080",
       "image": "https://sf6-cdn-tos.bdxiguastatic.com/img/user-avatar/b8b6c80c419c2743cabb64c20b65271b~300x300.image",
       "ownerUserId": null,
