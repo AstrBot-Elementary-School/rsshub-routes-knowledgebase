@@ -78,8 +78,8 @@ _None_
   "topFeeds": [
     {
       "description": "DIYgod 的 pixiv 最新收藏 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-09T05:35:55.405Z",
+      "errorMessage": "[GET] \"https://app-api.pixiv.net/v1/user/detail?user_id=15288095\": 403 Forbidden\n",
       "id": "57236269888968706",
       "image": null,
       "ownerUserId": null,

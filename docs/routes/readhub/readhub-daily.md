@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4846,
+  "heat": 4849,
   "location": "daily.ts",
   "maintainers": [
     "nczitzk",
@@ -73,7 +73,7 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "1. 微信被曝内测「小微 AI 社交」功能：AI 替你找好友聊天、约饭 2. 张一鸣督导，字节跳动拟推出实时空间视频生成 AI 模型 3. 宇树科技：首次实现人形机器人全自主搏击 4. 长鑫科技回应「与苹果合作」：保持开放态度，已具备与国际主流厂商竞争能力 5. 网传高德或推「扫雷榜」 6. 好想来回应门店称重问题：设立专项赔付基金，差价十倍赔偿 7. 闻泰科技辟谣「创始人跑路海外」：系不实消息，已对抹黑行为提起诉讼 8. 星宇股份：总经理周晓萍扣薪 12 个月，人力资源总监免职 9. 千问办公推出「多人工作台」 10. 华为 HarmonyOS 7 正式发布 11. 英伟达拟斥 30 亿美元投穆拉蒂创办的 Thinking Machines Lab 12. OpenAI 首席科学家称已造出异星心智，呼吁全人类刹车 13. 古尔曼：苹果考虑调整 App Store 以提高收入和利润率 14. 华为时隔六年发布麒麟 9050 Pro 高性能芯片 15. 最高法发文明确「AI 换脸拟声」等案件裁判规则 - Powered by RSSHub",
+      "description": "1. DeepSeek 扩招 150 人，战略重心转向 Agent 工程化 2. 苹果战略调整：或与铠侠签 NAND 长期协议，无价格上限引关注 3. Anthropic 与 OpenAI 投行游说推动 IPO 后获投资级信用评级 4. 霸王茶姬开卖茶叶蛋：5 元一枚 首发仅上海 5. Anthropic Labs 揭秘：20 人小队，允许 80% 想法失败 6. DeepSeek V4.1 Flash 开启中间版本内测 7. 宇树科技实现全球首次世界模型实时驱动人形机器人自主格斗 8. OpenAI 最新内部数据公开，2028 年实现全自动 AI 研究 9. 阿里 B2B 业务国内外打通 10. 古驰悄悄降价：中国市场包包、成衣降幅可达 30% 至 40% 11. Anthropic 据悉放弃以 60 亿美元收购 AI 初创公司 Decart 的交易 12. 小鹏机器人生产线正式启用 13. 蚂蚁集团等入股 Physical AI 解决方案提供商厘清智能 14. 消息称 WhatsApp 将原生支持第三方 AI 智能体 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "52347176714948614",

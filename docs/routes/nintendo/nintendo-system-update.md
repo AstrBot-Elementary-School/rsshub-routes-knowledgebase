@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "Nintendo Switch 本体更新情報 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-08T19:31:23.545Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "60263446472040455",
       "image": null,
       "ownerUserId": null,

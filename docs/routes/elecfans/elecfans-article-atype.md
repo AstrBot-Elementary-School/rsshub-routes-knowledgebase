@@ -76,7 +76,7 @@ _None_
     {
       "description": "elecfans special articles - Powered by RSSHub",
       "errorAt": "2026-07-09T04:22:34.438Z",
-      "errorMessage": "[GET] \"https://www.elecfans.com/article/special/\": 468 \n",
+      "errorMessage": "[GET] \"https://www.elecfans.com/article/special/\": 468 <none>\n",
       "id": "182701002532529152",
       "image": null,
       "ownerUserId": null,

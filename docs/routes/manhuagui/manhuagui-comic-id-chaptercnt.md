@@ -55,7 +55,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 253,
+  "heat": 252,
   "location": "comic.ts",
   "maintainers": [
     "MegrezZhu"

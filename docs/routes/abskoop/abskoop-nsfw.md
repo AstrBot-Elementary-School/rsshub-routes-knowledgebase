@@ -65,7 +65,7 @@ _None_
     {
       "description": "A姐分享NSFW，分享各种网络云盘资源、BT种子、磁力链接、高清电影电视剧和羊毛福利，收集各种有趣实用的软件和APP的下载、安装、使用方法，发现一些稀奇古怪的的网站，折腾一些有趣实用的教程，关注谷歌苹果等互联网最新的资讯动态，探索新领域，发现新美好，分享小快乐。 - Powered by RSSHub",
       "errorAt": "2026-03-26T13:46:45.963Z",
-      "errorMessage": "[GET] \"https://nsfw.abskoop.com/wp-json/wp/v2/posts?per_page=10&_embed\": <no response> fetch failed (getaddrinfo ENOTFOUND nsfw.abskoop.com)\n",
+      "errorMessage": "[GET] \"https://nsfw.abskoop.com/wp-json/wp/v2/posts?per_page=10&_embed\": 530 \n",
       "id": "167549568401875969",
       "image": null,
       "ownerUserId": null,

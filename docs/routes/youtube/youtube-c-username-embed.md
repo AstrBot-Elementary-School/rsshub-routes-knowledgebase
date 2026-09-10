@@ -92,8 +92,8 @@ _None_
     },
     {
       "description": "Lex Fridman Podcast and other videos. - Powered by RSSHub",
-      "errorAt": "2026-09-08T08:22:43.906Z",
-      "errorMessage": "YouTube RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\nCannot read properties of undefined (reading 'channelMetadataRenderer')\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "69248136853592064",
       "image": "https://yt3.googleusercontent.com/ytc/AIdro_ljfMy9kUR1PH9VRf-XsTsPqFMgORC_zodOQVEAm4hx36lC=s900-c-k-c0x00ffffff-no-rj",
       "ownerUserId": null,

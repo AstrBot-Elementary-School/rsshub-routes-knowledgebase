@@ -225,18 +225,6 @@
       "description": "The hottest android apps from the last 24 hours, 7 days or all-time. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "198041481153666048",
-      "image": "https://www.app-sales.net/img/appsales_logo_claim.png",
-      "ownerUserId": null,
-      "siteUrl": "https://www.app-sales.net/mostwanted/",
-      "title": "Watchlist Charts | AppSales - Last 24h",
-      "type": "feed",
-      "url": "rsshub://app-sales/mostwanted/24h/us"
-    },
-    {
-      "description": "The hottest android apps from the last 24 hours, 7 days or all-time. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "272254035724080128",
       "image": "https://www.app-sales.net/img/appsales_logo_claim.png",
       "ownerUserId": null,
@@ -244,6 +232,18 @@
       "title": "Watchlist Charts | AppSales - Last Week",
       "type": "feed",
       "url": "rsshub://app-sales/mostwanted/week/us"
+    },
+    {
+      "description": "The hottest android apps from the last 24 hours, 7 days or all-time. - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "198041481153666048",
+      "image": "https://www.app-sales.net/img/appsales_logo_claim.png",
+      "ownerUserId": null,
+      "siteUrl": "https://www.app-sales.net/mostwanted/",
+      "title": "Watchlist Charts | AppSales - Last 24h",
+      "type": "feed",
+      "url": "rsshub://app-sales/mostwanted/24h/us"
     }
   ],
   "url": "app-sales.net",

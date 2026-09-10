@@ -116,16 +116,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "Store numeric values of players' stats or balance, specified by a text key. -> With Folia and Multi-Server support! - Powered by RSSHub",
+      "description": "Lets you play Fabric mods on NeoForge - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "123851540339893248",
+      "id": "120750482624892928",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/13drT7K6",
-      "title": "JustPoints Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/connector",
+      "title": "Sinytra Connector Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/13drT7K6/versions"
+      "url": "rsshub://modrinth/project/connector/versions"
     }
   ]
 }

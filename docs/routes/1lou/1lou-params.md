@@ -62,7 +62,7 @@
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 520,
+  "heat": 521,
   "location": "index.ts",
   "maintainers": [
     "falling",
@@ -99,8 +99,8 @@
     },
     {
       "description": "论坛影视区推荐使用纯BT软件：Transmission，qBittorrent，Bitcomet，uTorrent，其他下载软件请自行尝试。不支持吸血迅雷。 - Powered by RSSHub",
-      "errorAt": "2026-09-08T02:22:38.511Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "64249408253921283",
       "image": "https://www.1lou.me/view/img/logo.png",
       "ownerUserId": null,

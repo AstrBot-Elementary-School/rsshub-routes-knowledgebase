@@ -68,12 +68,12 @@ _None_
   "topFeeds": [
     {
       "description": "Uniqlo men new arrivals in sg - Powered by RSSHub",
-      "errorAt": "2026-06-15T22:48:26.372Z",
-      "errorMessage": "[GET] \"https://www.uniqlo.com/sg/api/commerce/v3/en/products?path=5856&flagCodes=salesStart+newSKU,salesStart+newSKU,salesStart+newSKU&sort=1&limit=24&offset=0\": 404 Not Found\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41147805268337675",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.uniqlo.com/sg/en/feature/new/men",
+      "siteUrl": "https://www.uniqlo.com/sg/en/feature/new/men/",
       "title": "Uniqlo men new arrivals in sg",
       "type": "feed",
       "url": "rsshub://uniqlo/new/sg/men"

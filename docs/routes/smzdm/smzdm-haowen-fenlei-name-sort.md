@@ -61,7 +61,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 348,
+  "heat": 347,
   "location": "haowen-fenlei.ts",
   "maintainers": [
     "LogicJake"

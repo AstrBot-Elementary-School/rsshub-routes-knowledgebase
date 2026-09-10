@@ -151,8 +151,8 @@ Example:
     },
     {
       "description": "兴趣使然的瑟琴写手 的 pixiv 最新小说 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-09T01:01:34.834Z",
+      "errorMessage": "[GET] \"https://app-api.pixiv.net/v1/user/novels?filter=for_ios&user_id=11118328\": 403 Forbidden\n",
       "id": "77022618395189248",
       "image": "https://pixiv.rss3.workers.dev/user-profile/img/2020/07/16/18/34/46/18999686_40ea820c8991c9648c5c5120aaaaed82_170.jpg",
       "ownerUserId": null,

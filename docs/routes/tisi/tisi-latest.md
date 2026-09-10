@@ -65,7 +65,7 @@ _None_
     {
       "description": null,
       "errorAt": "2025-05-07T12:16:50.654Z",
-      "errorMessage": "[GET] \"https://www.tisi.org/?page_id=11151\": <no response> fetch failed (unable to verify the first certificate; if the root CA is installed locally, try running Node.js with --use-system-ca)\n",
+      "errorMessage": "[GET] \"https://www.tisi.org/?page_id=11151\": 526 <none>\n",
       "id": "142826714864751630",
       "image": null,
       "ownerUserId": null,

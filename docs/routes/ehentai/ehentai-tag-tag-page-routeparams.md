@@ -84,7 +84,7 @@ _None_
     },
     {
       "description": "language:chinese - E-Hentai Tag - Powered by RSSHub",
-      "errorAt": "2026-09-08T07:26:09.212Z",
+      "errorAt": "2026-09-09T09:41:55.766Z",
       "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "76924878996884480",
       "image": null,

@@ -79,7 +79,7 @@ _None_
       "errorAt": null,
       "errorMessage": null,
       "id": "97457366708658176",
-      "image": "https://images.ifanr.cn/wp-content/themes/ifanr-5.0-pc/static/images/ifanr/ifanr-logo.svg",
+      "image": "https://rsstt-img-relay-8ee.pages.dev/https://images.ifanr.cn/wp-content/themes/ifanr-5.0-pc/static/images/ifanr/ifanr-logo.svg",
       "ownerUserId": null,
       "siteUrl": "https://www.ifanr.com/digest",
       "title": "快讯 | 爱范儿",

@@ -81,7 +81,7 @@
     {
       "description": "管理世界杂志社-本期要目 - Powered by RSSHub",
       "errorAt": "2025-12-24T23:47:57.228Z",
-      "errorMessage": "[GET] \"http://www.mwm.net.cn/web/bqym?pagesize=100\": <no response> fetch failed (Connect Timeout Error (attempted address: www.mwm.net.cn:80, timeout: 10000ms))\n[GET] \"http://www.mwm.net.cn/web/bqym?pagesize=100\": <no response> fetch failed (Connect Timeout Error (attempted address: www.mwm.net.cn:80, timeout: 10000ms))\n",
+      "errorMessage": "[GET] \"http://www.mwm.net.cn/web/bqym?pagesize=100\": <no response> fetch failed (Connect Timeout Error (attempted address: www.mwm.net.cn:80, timeout: 10000ms))\n[GET] \"http://www.mwm.net.cn/web/bqym?pagesize=100\": 522 <none>\n",
       "id": "136403935744074752",
       "image": null,
       "ownerUserId": null,

@@ -107,7 +107,7 @@ BT 之家的域名会变更，本路由以 `https://www.btbtt20.com` 为默认�
     {
       "description": null,
       "errorAt": "2025-06-12T12:09:22.478Z",
-      "errorMessage": "[GET] \"https://www.btbtt15.com\": <no response> fetch failed (unable to get local issuer certificate)\n",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "155957211745995779",
       "image": null,
       "ownerUserId": null,

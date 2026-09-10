@@ -91,7 +91,7 @@ _None_
     {
       "description": "东西智库 – 专注中国制造业高质量发展 - Powered by RSSHub",
       "errorAt": "2026-01-24T01:12:42.838Z",
-      "errorMessage": "[GET] \"https://www.dx2025.com\": <no response> fetch failed (certificate has expired)\n[GET] \"https://www.dx2025.com\": 526 <none>\n",
+      "errorMessage": "This path is currently fetching, please come back later!\n[GET] \"https://www.dx2025.com\": 526 <none>\n",
       "id": "42579624844251167",
       "image": null,
       "ownerUserId": null,
@@ -103,7 +103,7 @@ _None_
     {
       "description": "产业政策 – 东西智库 - Powered by RSSHub",
       "errorAt": "2025-07-03T14:50:41.118Z",
-      "errorMessage": "[GET] \"https://www.dx2025.com/archives/category/政策/policy\": <no response> fetch failed (certificate has expired)\n",
+      "errorMessage": "[GET] \"https://www.dx2025.com/archives/category/政策/policy\": 526 <none>\n",
       "id": "89544052487792640",
       "image": null,
       "ownerUserId": null,

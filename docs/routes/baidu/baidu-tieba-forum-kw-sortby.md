@@ -48,7 +48,7 @@ _None_
       }
     ]
   },
-  "heat": 377,
+  "heat": 378,
   "location": "tieba/forum.ts",
   "maintainers": [
     "u3u",

@@ -174,7 +174,7 @@ _None_
     {
       "description": "Voronoi Editor's Pick Posts - Powered by RSSHub",
       "errorAt": "2024-10-25T09:56:48.933Z",
-      "errorMessage": "MISCONF Redis is configured to save RDB snapshots, but it's currently unable to persist to disk. Commands that may modify the data set are disabled, because this instance is configured to report errors during writes if RDB snapshotting fails (stop-writes-on-bgsave-error option). Please check the Redis logs for details about the RDB error.\n[GET] \"https://9oyi4rk426.execute-api.ca-central-1.amazonaws.com/production/post?limit=20&offset=0&swimlane=CURATED\": <no response> fetch failed (getaddrinfo ENOTFOUND 9oyi4rk426.execute-api.ca-central-1.amazonaws.com)\n",
+      "errorMessage": "MISCONF Redis is configured to save RDB snapshots, but it's currently unable to persist to disk. Commands that may modify the data set are disabled, because this instance is configured to report errors during writes if RDB snapshotting fails (stop-writes-on-bgsave-error option). Please check the Redis logs for details about the RDB error.\n[GET] \"https://9oyi4rk426.execute-api.ca-central-1.amazonaws.com/production/post?limit=20&offset=0&swimlane=CURATED\": 530 <none>\n",
       "id": "64911052074322944",
       "image": "https://about.voronoiapp.com/wp-content/uploads/2023/07/voronoi-icon.png",
       "ownerUserId": null,

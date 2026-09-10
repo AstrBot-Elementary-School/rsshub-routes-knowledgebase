@@ -11,7 +11,7 @@
 - Example: `/hackernews/threads/comments_list/dang`
 - URL: `ycombinator.com`
 - Language: `_None_`
-- Categories: `programming`
+- Categories: `programming, popular`
 - Maintainers: `nczitzk, xie-dongping`
 - Source Location: `index.ts`
 - Source Module: `_None_`
@@ -49,7 +49,8 @@ Examples:
 ```json
 {
   "categories": [
-    "programming"
+    "programming",
+    "popular"
   ],
   "description": "Subscribe to Hacker News content by section, user, or minimum points\n\nExamples:\n\n| HN100              | User submitted                       | User threads                       | Comments list                            |\n| ------------------ | ------------------------------------ | ---------------------------------- | ---------------------------------------- |\n| `/hackernews/over` | `/hackernews/submitted/sources/dang` | `/hackernews/threads/sources/dang` | `/hackernews/threads/comments_list/dang` |",
   "example": "/hackernews/threads/comments_list/dang",
@@ -61,7 +62,7 @@ Examples:
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 280,
+  "heat": 6637,
   "location": "index.ts",
   "maintainers": [
     "nczitzk",
@@ -95,8 +96,20 @@ Examples:
   "topFeeds": [
     {
       "description": "Hacker News - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "52325519371718656",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://news.ycombinator.com/",
+      "title": "Hacker News",
+      "type": "feed",
+      "url": "rsshub://hackernews"
+    },
+    {
+      "description": "Hacker News - Powered by RSSHub",
       "errorAt": "2026-09-08T00:38:32.033Z",
-      "errorMessage": "[GET] \"https://news.ycombinator.com\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://news.ycombinator.com\": 419 <none>\n",
       "id": "61780263784145920",
       "image": null,
       "ownerUserId": null,
@@ -104,18 +117,6 @@ Examples:
       "title": "Hacker News",
       "type": "feed",
       "url": "rsshub://hackernews/index"
-    },
-    {
-      "description": "Hacker News - Powered by RSSHub",
-      "errorAt": "2026-09-07T21:57:51.116Z",
-      "errorMessage": "[GET] \"https://news.ycombinator.com/news\": 403 Forbidden\n",
-      "id": "54068749119767552",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://news.ycombinator.com/news",
-      "title": "Hacker News",
-      "type": "feed",
-      "url": "rsshub://hackernews/news"
     }
   ],
   "view": 0

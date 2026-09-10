@@ -161,8 +161,8 @@ _None_
     },
     {
       "description": "巴哈姆特-GNN新聞-PC - Powered by RSSHub",
-      "errorAt": "2026-09-08T07:58:31.210Z",
-      "errorMessage": "[GET] \"https://gnn.gamer.com.tw/index.php?k=1\": 403 Forbidden\n[GET] \"https://gnn.gamer.com.tw/index.php?k=1\": 403 Forbidden\n[GET] \"https://gnn.gamer.com.tw/detail.php?sn=311176\": 429 Too Many Requests\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "52353637010143239",
       "image": null,
       "ownerUserId": null,

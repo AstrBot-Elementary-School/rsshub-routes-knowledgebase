@@ -332,6 +332,12 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `3`
 - Index File: `index/95mm.md`
 
+## 98直播吧
+- Namespace: `98zhibo`
+- Aliases: `98zhibo, 98zhibo.com, 98直播吧, www, www.98zhibo.com`
+- Route Count: `1`
+- Index File: `index/98zhibo.md`
+
 ## 99% Invisible
 - Namespace: `99percentinvisible`
 - Aliases: `99% invisible, 99percentinvisible, 99percentinvisible.org`
@@ -6895,6 +6901,12 @@ Use this file to select the target namespace before opening route documents.
 - Aliases: `malaysiakini, malaysiakini.com`
 - Route Count: `1`
 - Index File: `index/malaysiakini.md`
+
+## Maldita.es
+- Namespace: `maldita`
+- Aliases: `maldita, maldita.es`
+- Route Count: `1`
+- Index File: `index/maldita.md`
 
 ## 妈咪帮
 - Namespace: `mamibuy`

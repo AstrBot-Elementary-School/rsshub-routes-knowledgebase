@@ -55,7 +55,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 34,
+  "heat": 33,
   "location": "index.ts",
   "maintainers": [
     "nczitzk"
@@ -81,7 +81,7 @@
     {
       "description": "《巴伦周刊》中文版-快讯 - Powered by RSSHub",
       "errorAt": "2024-10-14T17:38:39.161Z",
-      "errorMessage": "[GET] \"http://www.barronschina.com.cn/index/shortNews\": <no response> fetch failed (getaddrinfo ENOTFOUND www.barronschina.com.cn)\n",
+      "errorMessage": "[GET] \"http://www.barronschina.com.cn/index/shortNews\": 530 \n",
       "id": "59951258674929664",
       "image": null,
       "ownerUserId": null,

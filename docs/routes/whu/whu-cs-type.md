@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4,
+  "heat": 5,
   "location": "cs.ts",
   "maintainers": [
     "ttyfly"
@@ -68,8 +68,8 @@ _None_
   "topFeeds": [
     {
       "description": "通知公告-武汉大学计算机学院 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-08T11:01:57.045Z",
+      "errorMessage": "[GET] \"https://cs.whu.edu.cn/xwdt/tzgg.htm\": 525 <none>\n",
       "id": "60249215166679040",
       "image": null,
       "ownerUserId": null,

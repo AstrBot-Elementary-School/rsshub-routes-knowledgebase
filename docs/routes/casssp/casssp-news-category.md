@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "研究会动态_中国科学学与科技政策研究会-中国科技智库论坛-全球科技论坛研究-Innovation and Development Policy - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-09T01:21:12.802Z",
+      "errorMessage": "[GET] \"http://www.casssp.org.cn/news/3/\": 430 <none>\n",
       "id": "72252117071751168",
       "image": "https://omo-oss-image.thefastimg.com/portal-saas/new2023070812263819729/cms/image/edee1b0f-7d7b-495f-aa52-8e58f483d35b.png",
       "ownerUserId": null,

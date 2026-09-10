@@ -68,7 +68,7 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "人工智能的英文简称 - Powered by RSSHub",
+      "description": "虎嗅标签-AI - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "111032291110780928",

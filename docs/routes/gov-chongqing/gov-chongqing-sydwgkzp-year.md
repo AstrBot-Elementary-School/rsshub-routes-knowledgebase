@@ -61,8 +61,8 @@ _None_
   "topFeeds": [
     {
       "description": "重庆市事业单位2026年公开招聘 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-09T08:17:01.833Z",
+      "errorMessage": "503 \n",
       "id": "56020776125420544",
       "image": null,
       "ownerUserId": null,

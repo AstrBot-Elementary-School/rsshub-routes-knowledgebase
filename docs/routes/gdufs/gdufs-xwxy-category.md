@@ -143,8 +143,8 @@ _None_
     },
     {
       "description": "广东外语外贸大学新闻与传播学院官网-新闻中心 - Powered by RSSHub",
-      "errorAt": "2026-09-08T08:56:48.346Z",
-      "errorMessage": "503 \n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "192034315847622656",
       "image": null,
       "ownerUserId": null,

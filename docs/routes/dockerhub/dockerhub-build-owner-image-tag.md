@@ -72,8 +72,8 @@ _None_
   "topFeeds": [
     {
       "description": "🍰 使用 RSS 连接全世界 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-08T12:42:14.774Z",
+      "errorMessage": "Authentication failed. Access denied.\n/dockerhub/build/diygod/rsshub/latest\n[GET] \"https://hub.docker.com/v2/repositories/diygod/rsshub/tags/latest\": 429 Too Many Requests\n",
       "id": "56669568700797952",
       "image": null,
       "ownerUserId": null,

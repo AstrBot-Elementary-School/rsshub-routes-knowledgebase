@@ -75,10 +75,10 @@ See the [official RSS page](https://www.scmp.com/rss) to get the ID of each cate
   "topFeeds": [
     {
       "description": "The latest breaking news from China. - Powered by RSSHub",
-      "errorAt": "2026-09-01T05:01:31.916Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'summary')\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "58381798255721484",
-      "image": "https://assets.i-scmp.com/static/img/icons/scmp-meta-1200x630.png",
+      "image": "https://assets-v2.i-scmp.com/production/static/img/icons/scmp-meta-1200x630.png",
       "ownerUserId": null,
       "siteUrl": "https://www.scmp.com/rss/4/feed",
       "title": "China - South China Morning Post",

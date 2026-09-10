@@ -69,6 +69,19 @@ _None_
   "test": {
     "code": 1
   },
-  "topFeeds": []
+  "topFeeds": [
+    {
+      "description": null,
+      "errorAt": "2025-09-12T15:31:54.965Z",
+      "errorMessage": "[GET] \"https://www.nmpa.gov.cn/xxgk/ggtg/index.html\": 412 Precondition Failed\n",
+      "id": "189349754051776515",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": null,
+      "title": "Importing",
+      "type": "feed",
+      "url": "rsshub://gov/nmpa/xxgk/ggtg"
+    }
+  ]
 }
 ```

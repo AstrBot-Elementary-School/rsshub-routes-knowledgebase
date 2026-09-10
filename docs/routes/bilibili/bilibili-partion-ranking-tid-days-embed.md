@@ -70,7 +70,7 @@ _None_
     {
       "description": "bilibili 未知分区 最热视频 - Powered by RSSHub",
       "errorAt": "2026-09-07T09:11:55.929Z",
-      "errorMessage": "[GET] \"https://api.bilibili.com/x/web-interface/newlist?ps=15&rid=95&_=1788835282933\": 412 Precondition Failed\n",
+      "errorMessage": "[GET] \"https://api.bilibili.com/x/web-interface/newlist?ps=15&rid=95&_=1788924983444\": 412 Precondition Failed\n",
       "id": "63858618178298888",
       "image": null,
       "ownerUserId": null,
@@ -82,7 +82,7 @@ _None_
     {
       "description": "bilibili 未知分区 最热视频 - Powered by RSSHub",
       "errorAt": "2026-09-07T10:36:22.448Z",
-      "errorMessage": "[GET] \"https://api.bilibili.com/x/web-interface/newlist?ps=15&rid=233&_=1788840091815\": 412 Precondition Failed\n",
+      "errorMessage": "[GET] \"https://api.bilibili.com/x/web-interface/newlist?ps=15&rid=233&_=1788934865042\": 412 Precondition Failed\n",
       "id": "70095114504796160",
       "image": null,
       "ownerUserId": null,

@@ -68,6 +68,19 @@ _None_
   "test": {
     "code": 1
   },
-  "topFeeds": []
+  "topFeeds": [
+    {
+      "description": "東方我楽多叢誌 〜strange article of the outer world〜 - news - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "1275538296037834752",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://cn.touhougarakuta.com/news",
+      "title": "東方我楽多叢誌 - news",
+      "type": "feed",
+      "url": "rsshub://touhougarakuta/cn/news"
+    }
+  ]
 }
 ```

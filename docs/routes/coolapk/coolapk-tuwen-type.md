@@ -86,8 +86,8 @@ _None_
     },
     {
       "description": "酷安 - 新鲜图文 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-09T08:17:26.836Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 59083231915003968",
       "id": "59083231915003968",
       "image": null,
       "ownerUserId": null,

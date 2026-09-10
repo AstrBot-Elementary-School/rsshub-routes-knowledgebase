@@ -80,16 +80,16 @@ _None_
       "url": "rsshub://bilibili/fav/399964818/1771644318"
     },
     {
-      "description": "呼呼呼咕咕咕叽叽 的 bilibili 收藏夹 默认收藏夹 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "141401723640756224",
+      "description": "荷布瑶耶 的 bilibili 收藏夹 当代诗词鉴赏 - Powered by RSSHub",
+      "errorAt": "2026-09-07T10:16:22.480Z",
+      "errorMessage": "[GET] \"https://api.bilibili.com/x/v3/fav/resource/list?media_id=3371360498&ps=20\": 412 Precondition Failed\n",
+      "id": "81730704135601152",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://space.bilibili.com/13063497/#/favlist?fid=48859097",
-      "title": "呼呼呼咕咕咕叽叽 的 bilibili 收藏夹 默认收藏夹",
+      "siteUrl": "https://space.bilibili.com/454263898/#/favlist?fid=3371360498",
+      "title": "荷布瑶耶 的 bilibili 收藏夹 当代诗词鉴赏",
       "type": "feed",
-      "url": "rsshub://bilibili/fav/13063497/48859097"
+      "url": "rsshub://bilibili/fav/454263898/3371360498"
     }
   ]
 }

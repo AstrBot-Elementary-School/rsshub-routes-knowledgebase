@@ -69,7 +69,7 @@ _None_
     {
       "description": "最新文章 - TNL The News Lens 關鍵評論網 - Powered by RSSHub",
       "errorAt": "2024-09-03T06:55:48.842Z",
-      "errorMessage": "[GET] \"https://www.thenewslens.com/latest-article\": 403 Forbidden\n",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "41572238273905690",
       "image": null,
       "ownerUserId": null,

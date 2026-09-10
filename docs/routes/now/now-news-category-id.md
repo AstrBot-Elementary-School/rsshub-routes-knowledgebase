@@ -110,7 +110,7 @@
     {
       "description": "首頁 | Now 新聞 - Powered by RSSHub",
       "errorAt": "2026-01-08T10:08:35.267Z",
-      "errorMessage": "[GET] \"https://d3sli7vh0lsda4.cloudfront.net/api/getNewsList?category=119&pageNo=1&pageSize=20\": <no response> fetch failed (getaddrinfo ENOTFOUND d3sli7vh0lsda4.cloudfront.net)\n",
+      "errorMessage": "[GET] \"https://d3sli7vh0lsda4.cloudfront.net/api/getNewsList?category=119&pageNo=1&pageSize=20\": 530 \n",
       "id": "61348755817519104",
       "image": null,
       "ownerUserId": null,

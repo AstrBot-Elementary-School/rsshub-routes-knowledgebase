@@ -36,7 +36,7 @@ _None_
     "shopping"
   ],
   "example": "/coolbuy/newest",
-  "heat": 2,
+  "heat": 3,
   "location": "newest.ts",
   "maintainers": [
     "xyqfer"

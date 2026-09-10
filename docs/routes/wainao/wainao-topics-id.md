@@ -235,7 +235,7 @@
     {
       "description": "热点 - Wainao - Powered by RSSHub",
       "errorAt": "2025-03-06T02:34:40.461Z",
-      "errorMessage": "terminated\n",
+      "errorMessage": "[GET] \"https://www.wainao.me/pf/api/v3/content/fetch/story-feed-sections?query=%7B%22feedOffset%22:0,%22feedSize%22:30,%22includeSections%22:%22%2Ftopics%2Fhotspot%22%7D&d=81&_website=wainao\": 404 Not Found\n",
       "id": "118195542971350016",
       "image": "https://www.wainao.me/resizer/v2/https%3A%2F%2Fstatic.themebuilder.aws.arc.pub%2Fradiofreeasia%2F1730929154842.png?auth=46d25eedb529be1f271f4530ba42081d2f32310870e394d5ef29b5e95c643a38&width=1200",
       "ownerUserId": null,

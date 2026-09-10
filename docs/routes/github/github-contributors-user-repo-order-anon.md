@@ -83,28 +83,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "New contributors for open-metadata/OpenMetadata - Powered by RSSHub",
+      "description": "New contributors for yonggekkk/Cloudflare_vless_trojan - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "78928360835988480",
+      "id": "88072707051804672",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/open-metadata/OpenMetadata/graphs/contributors",
-      "title": "open-metadata/OpenMetadata Contributors",
+      "siteUrl": "https://github.com/yonggekkk/Cloudflare_vless_trojan/graphs/contributors",
+      "title": "yonggekkk/Cloudflare_vless_trojan Contributors",
       "type": "feed",
-      "url": "rsshub://github/contributors/open-metadata/OpenMetadata"
+      "url": "rsshub://github/contributors/yonggekkk/Cloudflare_vless_trojan"
     },
     {
-      "description": "New contributors for biquanlibai/blockchain-course - Powered by RSSHub",
+      "description": "New contributors for obaby/baby-wechat - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "83173808754165760",
+      "id": "183741893306669056",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/biquanlibai/blockchain-course/graphs/contributors",
-      "title": "biquanlibai/blockchain-course Contributors",
+      "siteUrl": "https://github.com/obaby/baby-wechat/graphs/contributors",
+      "title": "obaby/baby-wechat Contributors",
       "type": "feed",
-      "url": "rsshub://github/contributors/biquanlibai/blockchain-course"
+      "url": "rsshub://github/contributors/obaby/baby-wechat"
     }
   ]
 }

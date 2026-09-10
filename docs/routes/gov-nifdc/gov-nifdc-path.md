@@ -69,6 +69,19 @@ _None_
   "test": {
     "code": 1
   },
-  "topFeeds": []
+  "topFeeds": [
+    {
+      "description": "中国药品检定研究院公告通知相关信息 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "1280244517156290560",
+      "image": "https://www.nifdc.org.cn/nifdc/images/logo.png",
+      "ownerUserId": null,
+      "siteUrl": "https://www.nifdc.org.cn/nifdc/bshff/ylqxbzhgl/qxggtzh/",
+      "title": "公告通知",
+      "type": "feed",
+      "url": "rsshub://gov/nifdc/bshff/ylqxbzhgl/qxggtzh"
+    }
+  ]
 }
 ```

@@ -107,8 +107,8 @@ _None_
     },
     {
       "description": "Twitch - 陈一发儿放映室 - All videos - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-09T00:16:33.734Z",
+      "errorMessage": "Cannot read properties of undefined (reading 'user')\n",
       "id": "68185461739717632",
       "image": null,
       "ownerUserId": null,

@@ -66,7 +66,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 193,
+  "heat": 194,
   "location": "news/provider.ts",
   "maintainers": [
     "TonyRL",

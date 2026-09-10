@@ -40,7 +40,7 @@ _None_
     "new-media"
   ],
   "example": "/topbook",
-  "heat": 0,
+  "heat": 1,
   "location": "content.ts",
   "maintainers": [
     "nczitzk"
@@ -62,6 +62,19 @@ _None_
   "test": {
     "code": 0
   },
-  "topFeeds": []
+  "topFeeds": [
+    {
+      "description": null,
+      "errorAt": "2025-05-07T13:19:57.538Z",
+      "errorMessage": "[GET] \"https://topbook.cc/webapi/content/article/today/page?start=0&limit=24\": 404 Not Found\n",
+      "id": "142843186232416258",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": null,
+      "title": "Importing",
+      "type": "feed",
+      "url": "rsshub://topbook/today"
+    }
+  ]
 }
 ```

@@ -70,12 +70,12 @@ _None_
   "topFeeds": [
     {
       "description": "search 新片速递 - u3c3 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-09T09:42:15.157Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 68549075258311680",
       "id": "68549075258311680",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.u3c3.com/?search2=hjmibqld&search=%E6%96%B0%E7%89%87%E9%80%9F%E9%80%92",
+      "siteUrl": "https://www.u3c3.com/?search2=daoktwva&search=%E6%96%B0%E7%89%87%E9%80%9F%E9%80%92",
       "title": "search 新片速递 - u3c3",
       "type": "feed",
       "url": "rsshub://u3c3/search/%E6%96%B0%E7%89%87%E9%80%9F%E9%80%92"

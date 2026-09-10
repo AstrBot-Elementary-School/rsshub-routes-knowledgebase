@@ -79,8 +79,8 @@ Category of news
   "topFeeds": [
     {
       "description": "中华网-国内新闻 - Powered by RSSHub",
-      "errorAt": "2026-09-08T06:22:40.341Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 56595070994110464",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "56595070994110464",
       "image": null,
       "ownerUserId": null,

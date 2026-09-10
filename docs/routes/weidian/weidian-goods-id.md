@@ -51,28 +51,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "sizek 商铺上新 - Powered by RSSHub",
+      "description": "Earlytom 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264527013503172608",
+      "id": "1264526825111814144",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=215264316",
-      "title": "sizek 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1867534160",
+      "title": "Earlytom 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/215264316"
+      "url": "rsshub://weidian/goods/1867534160"
     },
     {
-      "description": "杰尼龟(唯一新店) 商铺上新 - Powered by RSSHub",
+      "description": "NPClub 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264524979299287040",
+      "id": "1264526582177726464",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1697270306",
-      "title": "杰尼龟(唯一新店) 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1833276453",
+      "title": "NPClub 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1697270306"
+      "url": "rsshub://weidian/goods/1833276453"
     }
   ]
 }

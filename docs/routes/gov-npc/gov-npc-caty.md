@@ -77,8 +77,8 @@
   "topFeeds": [
     {
       "description": "权威发布_中国人大网 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-09T03:01:15.242Z",
+      "errorMessage": "Cannot read properties of null (reading '1')\n",
       "id": "76238928708564992",
       "image": null,
       "ownerUserId": null,
@@ -90,7 +90,7 @@
     {
       "description": "立法_中国人大网 - Powered by RSSHub",
       "errorAt": "2026-09-07T23:38:03.336Z",
-      "errorMessage": "503 \n",
+      "errorMessage": "Cannot read properties of null (reading '1')\n",
       "id": "62717033472135175",
       "image": null,
       "ownerUserId": null,

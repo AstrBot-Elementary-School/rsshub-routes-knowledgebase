@@ -72,7 +72,7 @@ _None_
     {
       "description": "凤凰网《在人间》官方大风号 用冷静的叙述抵抗冰冷。 - Powered by RSSHub",
       "errorAt": "2026-09-02T02:38:21.401Z",
-      "errorMessage": "[GET] \"https:https://news.ifeng.com/c/8v9vMLDDOcX\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https:https://news.ifeng.com/c/8vYozezC4Po\": 403 Forbidden\n",
       "id": "61602061591709698",
       "image": "https://d.ifengimg.com/w90_h90_q90/img1.ugc.ifeng.com/newugc/20190924/10/wemedia/0df760ed261bd10a90d1313bea599e2f338c320f_size9_w200_h200.png",
       "ownerUserId": null,

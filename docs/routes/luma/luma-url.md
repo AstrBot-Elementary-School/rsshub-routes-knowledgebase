@@ -88,16 +88,16 @@ _None_
       "url": "rsshub://luma/langchain"
     },
     {
-      "description": "Bogota Events powered by Startup Grind - Powered by RSSHub",
-      "errorAt": "2026-05-26T22:11:47.160Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
-      "id": "265966867461735424",
+      "description": "Reading Rhythms Global - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "265967037132484608",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://lu.ma/sgbogota",
-      "title": "Bogota Events powered by Startup Grind",
+      "siteUrl": "https://lu.ma/readingrhythms-global",
+      "title": "Reading Rhythms Global",
       "type": "feed",
-      "url": "rsshub://luma/sgbogota"
+      "url": "rsshub://luma/readingrhythms-global"
     }
   ],
   "url": "lu.ma"

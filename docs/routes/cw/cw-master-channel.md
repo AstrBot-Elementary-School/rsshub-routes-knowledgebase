@@ -93,7 +93,7 @@ _None_
     {
       "description": "天下雜誌提供最新國際等重要資訊報導。 - Powered by RSSHub",
       "errorAt": "2026-08-15T14:59:31.465Z",
-      "errorMessage": "Target page, context or browser has been closed\nCall log:\n  - waiting for locator('.caption') to be visible\n    - waiting for \"https://www.cw.com.tw/masterChannel.action?idMasterChannel=9\" navigation to finish...\n    - navigated to \"https://www.cw.com.tw/masterChannel.action?idMasterChannel=9\"\n    - waiting for \"https://www.cw.com.tw/masterChannel.action?idMasterChannel=9\" navigation to finish...\n\n",
+      "errorMessage": "503 \n",
       "id": "84170446829198336",
       "image": "https://www.cw.com.tw/assets_new/img/fbshare.jpg",
       "ownerUserId": null,

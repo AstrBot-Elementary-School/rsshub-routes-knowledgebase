@@ -38,7 +38,7 @@ _None_
     "programming"
   ],
   "example": "/ollama/blog",
-  "heat": 167,
+  "heat": 168,
   "location": "blog.ts",
   "maintainers": [
     "gavrilov"

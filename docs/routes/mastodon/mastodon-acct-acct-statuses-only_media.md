@@ -95,7 +95,7 @@ _None_
     },
     {
       "description": "<p>写代码是热爱，写到世界充满爱！</p> - Powered by RSSHub",
-      "errorAt": "2026-05-03T01:25:49.063Z",
+      "errorAt": "2026-09-09T04:21:05.173Z",
       "errorMessage": "[GET] \"https://mastodon.social/api/v1/accounts/109772491671724800/statuses?only_media=false\": 404 Not Found\n",
       "id": "91124297603706880",
       "image": null,

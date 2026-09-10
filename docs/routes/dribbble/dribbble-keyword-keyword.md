@@ -77,16 +77,16 @@ _None_
       "url": "rsshub://dribbble/keyword/player"
     },
     {
-      "description": "Explore thousands of high-quality ui images on Dribbble. Your resource to get inspired, discover and connect with designers worldwide. - Powered by RSSHub",
-      "errorAt": "2025-05-30T15:06:42.187Z",
+      "description": "Explore thousands of high-quality brand design images on Dribbble. Your resource to get inspired, discover and connect with designers worldwide. - Powered by RSSHub",
+      "errorAt": "2025-05-30T15:54:35.008Z",
       "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
-      "id": "86737310526327808",
+      "id": "82797353618561024",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://dribbble.com/search/shots/recent?q=ui",
-      "title": "Dribbble - keyword ui",
+      "siteUrl": "https://dribbble.com/search/shots/recent?q=brand%20design",
+      "title": "Dribbble - keyword brand design",
       "type": "feed",
-      "url": "rsshub://dribbble/keyword/ui"
+      "url": "rsshub://dribbble/keyword/brand%20design"
     }
   ]
 }

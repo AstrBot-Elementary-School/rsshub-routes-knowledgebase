@@ -2026,7 +2026,7 @@
     {
       "description": "21财经客户端是南方财经全媒体集团的官方客户端，内容充分融合集团旗下《21世纪经济报道》、《经济科教》、《股市广播》等优质财经媒体资源，实现文字、图片、视频、音频、直播等内容形态的全覆盖。 - Powered by RSSHub",
       "errorAt": "2026-02-27T08:35:19.555Z",
-      "errorMessage": "[GET] \"https://static.21jingji.com/m/webMenu.json\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 45.253.17.20:443, 45.253.17.13:443, 45.253.17.14:443, 45.253.17.15:443, 45.253.17.16:443, 45.253.17.17:443, 45.253.17.18:443, 45.253.17.19:443, timeout: 10000ms))\n",
+      "errorMessage": "Cannot read properties of undefined (reading 'split')\n",
       "id": "158008577343428608",
       "image": null,
       "ownerUserId": null,

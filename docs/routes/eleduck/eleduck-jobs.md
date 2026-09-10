@@ -75,8 +75,8 @@ _None_
   "topFeeds": [
     {
       "description": "招聘 | 电鸭社区 - Powered by RSSHub",
-      "errorAt": "2026-09-08T08:41:59.604Z",
-      "errorMessage": "[GET] \"https://svc.eleduck.com/api/v1/posts?category=5\": <no response> fetch failed (connect ECONNREFUSED 118.190.55.251:443)\n[GET] \"https://svc.eleduck.com/api/v1/posts?category=5\": <no response> fetch failed\n[GET] \"https://svc.eleduck.com/api/v1/posts/lafmDn\": 404 Not Found\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "57251990358714368",
       "image": null,
       "ownerUserId": null,

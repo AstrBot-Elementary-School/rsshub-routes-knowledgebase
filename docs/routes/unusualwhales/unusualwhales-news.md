@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 55,
+  "heat": 54,
   "location": "news.ts",
   "maintainers": [
     "TonyRL"
@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "Explore unusual options, options flow, dark pools, short activity, and stock activity on unusualwhales.com. Unusual whales has a full news service available! - Powered by RSSHub",
-      "errorAt": "2026-09-07T23:57:30.550Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 59063894273462272",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "59063894273462272",
       "image": "https://unusualwhales.com/android-icon-192x192.png",
       "ownerUserId": null,

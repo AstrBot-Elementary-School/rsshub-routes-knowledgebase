@@ -56,7 +56,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4510,
+  "heat": 4508,
   "location": "xwlb.ts",
   "maintainers": [
     "zengxs"
@@ -90,8 +90,8 @@
   "topFeeds": [
     {
       "description": "CCTV 新闻联播 - Powered by RSSHub",
-      "errorAt": "2026-09-08T00:39:03.946Z",
-      "errorMessage": "[GET] \"https://tv.cctv.com/lm/xwlb/day/20260908.shtml\": 404 Not Found\n[GET] \"https://tv.cctv.com/lm/xwlb/day/20260908.shtml\": 404 Not Found\n[GET] \"https://tv.cctv.com/lm/xwlb/day/20260908.shtml\": 404 Not Found\n[GET] \"https://tv.cctv.com/lm/xwlb/day/20260908.shtml\": 404 Not Found\n[GET] \"https://tv.cctv.com/lm/xwlb/day/20260908.shtml\": 404 Not Found\n502 \n[GET] \"https://tv.cctv.com/lm/xwlb/day/20260908.shtml\": 404 Not Found\n[GET] \"https://tv.cctv.com/lm/xwlb/day/20260908.shtml\": 404 Not Found\n[GET] \"https://tv.cctv.com/lm/xwlb/day/20260908.shtml\": 404 Not Found\n[GET] \"https://tv.cctv.com/lm/xwlb/day/20260908.shtml\": 404 Not Found\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "59109731259240448",
       "image": null,
       "ownerUserId": null,

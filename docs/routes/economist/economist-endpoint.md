@@ -75,7 +75,7 @@ _None_
     {
       "description": "The most recent blogs and online articles from The Economist - Powered by RSSHub",
       "errorAt": "2025-09-05T18:15:19.885Z",
-      "errorMessage": "[GET] \"https://www.economist.com/europe/2026/09/06/the-alternative-for-germany-has-won-its-best-ever-election-result\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.economist.com/leaders/2026/09/08/what-should-germany-do-about-its-rising-right\": 403 Forbidden\n",
       "id": "54859243036899328",
       "image": null,
       "ownerUserId": null,

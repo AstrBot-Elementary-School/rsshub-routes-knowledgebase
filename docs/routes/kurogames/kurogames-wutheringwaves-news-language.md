@@ -88,8 +88,8 @@ _None_
   "topFeeds": [
     {
       "description": "《鸣潮》— 游戏公告、新闻和活动 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-09T09:56:52.390Z",
+      "errorMessage": "[GET] \"https://media-cdn-mingchao.kurogame.com/akiwebsite/website2.0/json/G152/zh/ArticleMenu.json?t=1788947772733\": 522 <none>\n",
       "id": "41645808521081856",
       "image": null,
       "ownerUserId": null,

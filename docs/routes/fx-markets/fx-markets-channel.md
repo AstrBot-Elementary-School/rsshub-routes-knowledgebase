@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "FX-Markets Trading - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-09T04:23:45.850Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "59063696285536256",
       "image": null,
       "ownerUserId": null,
@@ -81,8 +81,8 @@ _None_
     },
     {
       "description": "FX-Markets Tech and data - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-08T12:32:02.970Z",
+      "errorMessage": "Cannot read properties of null (reading 'groups')\n",
       "id": "91579916169767936",
       "image": null,
       "ownerUserId": null,
