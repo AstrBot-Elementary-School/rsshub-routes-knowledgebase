@@ -89,28 +89,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Posts of hoshicha from fanbox | Pawchive - Powered by RSSHub",
+      "description": "Posts of せるたす from fanbox | Pawchive - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1234179988018561024",
-      "image": "https://pawchive.pw/icons/fanbox/15903903",
+      "id": "1234181282800205824",
+      "image": "https://pawchive.pw/icons/fanbox/37432797",
       "ownerUserId": null,
-      "siteUrl": "https://pawchive.pw/fanbox/user/15903903",
-      "title": "Posts of hoshicha from fanbox | Pawchive",
+      "siteUrl": "https://pawchive.pw/fanbox/user/37432797",
+      "title": "Posts of せるたす from fanbox | Pawchive",
       "type": "feed",
-      "url": "rsshub://pawchive/fanbox/15903903"
+      "url": "rsshub://pawchive/fanbox/37432797"
     },
     {
-      "description": "Posts of 毒さんちゅ🥬 from fanbox | Pawchive - Powered by RSSHub",
+      "description": "Posts of ムラムラ村（3mura） from patreon | Pawchive - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1234188992216170496",
-      "image": "https://pawchive.pw/icons/fanbox/100300626",
+      "id": "1280372498222678016",
+      "image": "https://pawchive.pw/icons/patreon/140457605",
       "ownerUserId": null,
-      "siteUrl": "https://pawchive.pw/fanbox/user/100300626",
-      "title": "Posts of 毒さんちゅ🥬 from fanbox | Pawchive",
+      "siteUrl": "https://pawchive.pw/patreon/user/140457605",
+      "title": "Posts of ムラムラ村（3mura） from patreon | Pawchive",
       "type": "feed",
-      "url": "rsshub://pawchive/fanbox/100300626"
+      "url": "rsshub://pawchive/patreon/140457605"
     }
   ]
 }

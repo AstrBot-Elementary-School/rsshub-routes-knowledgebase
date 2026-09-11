@@ -119,18 +119,6 @@ To subscribe to [Latest](https://musify.club/en), where the source URL is `https
       "description": "Проверка браузера… - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "164874302196685824",
-      "image": "https://s.musify.club/images/logo.png",
-      "ownerUserId": null,
-      "siteUrl": "https://musify.club/en",
-      "title": "Проверка браузера…",
-      "type": "feed",
-      "url": "rsshub://musify/en"
-    },
-    {
-      "description": "Проверка браузера… - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "165777653595388928",
       "image": "https://s.musify.club/images/logo.png",
       "ownerUserId": null,
@@ -138,6 +126,18 @@ To subscribe to [Latest](https://musify.club/en), where the source URL is `https
       "title": "Проверка браузера…",
       "type": "feed",
       "url": "rsshub://musify"
+    },
+    {
+      "description": "Проверка браузера… - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "164874302196685824",
+      "image": "https://s.musify.club/images/logo.png",
+      "ownerUserId": null,
+      "siteUrl": "https://musify.club/en",
+      "title": "Проверка браузера…",
+      "type": "feed",
+      "url": "rsshub://musify/en"
     }
   ],
   "url": "musify.club",

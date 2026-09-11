@@ -65,7 +65,7 @@ _None_
     {
       "description": "産経新聞社のニュースサイト。政治、経済、国際、社会、スポーツ、エンタメ、生活、健康、災害情報などの速報記事と解説記事を新着順に一覧できます。 - Powered by RSSHub",
       "errorAt": "2026-08-27T11:50:16.203Z",
-      "errorMessage": "[GET] \"https://www.sankei.comhttps://www.sankei.com/article/20260908-R74BJGPGTVLPHKYJM27AZPAAY4/\": 530 \n",
+      "errorMessage": "[GET] \"https://www.sankei.comhttps://www.sankei.com/article/20260910-CPARTUYQ4NL3PCGQWSLGOY4V6Y/\": 530 \n",
       "id": "157150339579158528",
       "image": "https://www.sankei.com/common/images/ogp_default.jpg",
       "ownerUserId": null,

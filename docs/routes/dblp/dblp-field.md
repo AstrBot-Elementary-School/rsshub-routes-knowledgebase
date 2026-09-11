@@ -85,16 +85,16 @@ _None_
       "url": "rsshub://dblp/knowledge%20tracing"
     },
     {
-      "description": "DBLP software testing RSS - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "84441761514554368",
+      "description": "DBLP robotics RSS - Powered by RSSHub",
+      "errorAt": "2026-09-07T17:40:52.698Z",
+      "errorMessage": "Cannot read properties of undefined (reading 'hits')\n",
+      "id": "257777668080712704",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://dblp.org/search?q=software%20testing",
-      "title": "【dblp】software testing",
+      "siteUrl": "https://dblp.org/search?q=robotics",
+      "title": "【dblp】robotics",
       "type": "feed",
-      "url": "rsshub://dblp/software%20testing"
+      "url": "rsshub://dblp/robotics"
     }
   ]
 }

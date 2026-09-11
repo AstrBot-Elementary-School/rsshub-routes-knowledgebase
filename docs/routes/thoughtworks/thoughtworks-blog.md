@@ -38,7 +38,7 @@ _None_
     "programming"
   ],
   "example": "/thoughtworks/blog",
-  "heat": 65,
+  "heat": 64,
   "location": "index.ts",
   "maintainers": [
     "Hyvi"

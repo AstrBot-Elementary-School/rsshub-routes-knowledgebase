@@ -58,7 +58,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 6852,
+  "heat": 6848,
   "location": "search/hot.tsx",
   "maintainers": [
     "xyqfer",
@@ -84,8 +84,8 @@ _None_
   "topFeeds": [
     {
       "description": "实时热点，每分钟更新一次 - Powered by RSSHub",
-      "errorAt": "2026-09-09T08:56:23.406Z",
-      "errorMessage": "Failed query: update \"feeds\" set \"url\" = $1, \"title\" = $2, \"description\" = $3, \"site_url\" = $4, \"checked_at\" = $5, \"refresh_enqueued_at\" = $6, \"last_modified_header\" = $7, \"etag_header\" = $8, \"ttl\" = $9, \"error_message\" = $10, \"error_at\" = $11, \"rsshub_route\" = $12, \"rsshub_namespace\" = $13 where (\"feeds\".\"id\" = $14 and (\"feeds\".\"refresh_enqueued_at\" is null or \"feeds\".\"refresh_enqueued_at\" < $15)) returning \"checked_at\"\nparams: rsshub://weibo/search/hot,微博热搜榜,实时热点，每分钟更新一次 - Powered by RSSHub,https://s.weibo.com/top/summary?cate=realtimehot,2026-09-09T08:56:07.038Z,2026-09-09T08:53:27.461Z,Wed, 09 Sep 2026 08:55:57 GMT,W/\"339e-miruMco3km5Qvtf228Ron+LunVc\",60,,,/weibo/search/hot/:fulltext?,weibo,41358830592746496,2026-09-09T08:53:27.461Z",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41358830592746496",
       "image": null,
       "ownerUserId": null,

@@ -51,28 +51,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Earlytom 商铺上新 - Powered by RSSHub",
+      "description": "人民ism 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264526825111814144",
+      "id": "1264523938205925376",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1867534160",
-      "title": "Earlytom 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1651238208",
+      "title": "人民ism 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1867534160"
+      "url": "rsshub://weidian/goods/1651238208"
     },
     {
-      "description": "NPClub 商铺上新 - Powered by RSSHub",
+      "description": "2Pac出品 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264526582177726464",
+      "id": "1264526453228044288",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1833276453",
-      "title": "NPClub 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1842314734",
+      "title": "2Pac出品 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1833276453"
+      "url": "rsshub://weidian/goods/1842314734"
     }
   ]
 }

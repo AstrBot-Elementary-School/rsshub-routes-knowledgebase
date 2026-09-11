@@ -67,7 +67,7 @@ _None_
     {
       "description": "Stage1 论坛 - ＰＣ数码 - Powered by RSSHub",
       "errorAt": "2026-09-07T04:32:29.513Z",
-      "errorMessage": "503 \n",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "57334301287197696",
       "image": null,
       "ownerUserId": null,

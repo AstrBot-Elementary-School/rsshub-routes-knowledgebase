@@ -38,7 +38,7 @@ _None_
     "programming"
   ],
   "example": "/51cto/index/recommend",
-  "heat": 275,
+  "heat": 276,
   "location": "recommend.ts",
   "maintainers": [
     "cnkmmk",

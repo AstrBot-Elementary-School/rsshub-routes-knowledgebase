@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 65,
+  "heat": 67,
   "location": "ttjj/user.ts",
   "maintainers": [
     "zidekuls"

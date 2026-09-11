@@ -84,8 +84,8 @@ _None_
     },
     {
       "description": "List: Apple ML Frameworks & Technologies - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-10T00:56:37.860Z",
+      "errorMessage": "[POST] \"https://medium.com/_/graphql\": 403 Forbidden\n",
       "id": "126876190043098120",
       "image": null,
       "ownerUserId": null,

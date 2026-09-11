@@ -50,7 +50,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 363,
+  "heat": 362,
   "location": "blog.ts",
   "maintainers": [
     "Maecenas"

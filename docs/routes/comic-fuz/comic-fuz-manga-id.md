@@ -75,18 +75,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "富士山が見える湖畔でキャンプをする女の子、リン。自転車に乗り富士山を見にきた女の子、なでしこ。二人でカップラーメンを食べて見た景色は…。読めばキャンプに行きたくなる。行かなくても行った気分になる。そんな新感覚キャンプマンガの登場です! - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "254832773941916672",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://comic-fuz.com/manga/218",
-      "title": "COMIC FUZ - ゆるキャン△",
-      "type": "feed",
-      "url": "rsshub://comic-fuz/manga/218"
-    },
-    {
       "description": "風紀委員長・亜鳥に憧れ、気を引きたい一心でなぜか不良を目指すことにした高校一年生・優。 しかしワルくてカッコいいところをアピールするはずが、天真爛漫で人たらしな亜鳥の言動に小動物のごとく翻弄される…!? ぜんぜん悪くない不良少女の学園4コマ！ - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -97,6 +85,18 @@ _None_
       "title": "COMIC FUZ - ばっどがーる",
       "type": "feed",
       "url": "rsshub://comic-fuz/manga/2664"
+    },
+    {
+      "description": "富士山が見える湖畔でキャンプをする女の子、リン。自転車に乗り富士山を見にきた女の子、なでしこ。二人でカップラーメンを食べて見た景色は…。読めばキャンプに行きたくなる。行かなくても行った気分になる。そんな新感覚キャンプマンガの登場です! - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "254832773941916672",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://comic-fuz.com/manga/218",
+      "title": "COMIC FUZ - ゆるキャン△",
+      "type": "feed",
+      "url": "rsshub://comic-fuz/manga/218"
     }
   ]
 }

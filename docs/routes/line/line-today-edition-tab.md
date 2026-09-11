@@ -44,7 +44,7 @@ _None_
   ],
   "description": "Edition\n\n| Taiwan | Thailand | Hong Kong |\n| ------ | -------- | --------- |\n| tw     | th       | hk        |",
   "example": "/line/today",
-  "heat": 93,
+  "heat": 92,
   "location": "today.ts",
   "maintainers": [
     "nczitzk"
@@ -68,8 +68,8 @@ _None_
   "topFeeds": [
     {
       "description": "焦點 - Line Today - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-10T08:26:48.130Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 59767191179278336",
       "id": "59767191179278336",
       "image": null,
       "ownerUserId": null,

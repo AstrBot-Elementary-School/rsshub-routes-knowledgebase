@@ -87,8 +87,8 @@ others = 热点新闻 + 滚动新闻
   "topFeeds": [
     {
       "description": "观察者网 - 全部 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-10T00:06:35.137Z",
+      "errorMessage": "Cannot read properties of undefined (reading 'replace')\nCannot read properties of undefined (reading 'replace')\nCannot read properties of undefined (reading 'replace')\n",
       "id": "56875843110895617",
       "image": null,
       "ownerUserId": null,

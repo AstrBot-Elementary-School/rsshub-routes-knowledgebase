@@ -73,8 +73,8 @@ _None_
   "topFeeds": [
     {
       "description": "AInvest - Latest News - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-10T09:07:13.443Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 63585517712903168",
       "id": "63585517712903168",
       "image": null,
       "ownerUserId": null,

@@ -82,7 +82,7 @@ _None_
     {
       "description": "计算机职业技术资格考试（软考）消息推送 - Powered by RSSHub",
       "errorAt": "2026-09-07T10:22:06.511Z",
-      "errorMessage": "[GET] \"https://www.ruankao.org.cn/article/content/2607101313553992270690004.html\": 405 Not Allowed\n[GET] \"https://www.ruankao.org.cn/index/work.html\": 522 <none>\n",
+      "errorMessage": "[GET] \"https://www.ruankao.org.cn/index/work.html\": 405 Not Allowed\n503 \n",
       "id": "97983929811275776",
       "image": "https://bm.ruankao.org.cn/asset/image/public/logo.png",
       "ownerUserId": null,

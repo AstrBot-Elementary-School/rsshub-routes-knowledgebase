@@ -88,16 +88,16 @@ _None_
       "url": "rsshub://luma/langchain"
     },
     {
-      "description": "Reading Rhythms Global - Powered by RSSHub",
+      "description": "vLLM Meetups and Events - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "265967037132484608",
+      "id": "265967053376549888",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://lu.ma/readingrhythms-global",
-      "title": "Reading Rhythms Global",
+      "siteUrl": "https://lu.ma/vLLM-Meetups",
+      "title": "vLLM Meetups and Events",
       "type": "feed",
-      "url": "rsshub://luma/readingrhythms-global"
+      "url": "rsshub://luma/vLLM-Meetups"
     }
   ],
   "url": "lu.ma"

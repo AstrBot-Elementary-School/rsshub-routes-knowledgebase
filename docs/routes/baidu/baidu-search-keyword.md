@@ -76,16 +76,16 @@ _None_
       "url": "rsshub://baidu/search/%E5%BF%B5%E7%A9%BA%E5%A4%A7%E5%8F%94%E7%99%BE%E5%AE%B6%E5%8F%B7"
     },
     {
-      "description": "广东人才引进 - 百度搜索 - Powered by RSSHub",
+      "description": "佛山教师 - 百度搜索 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "177651896288583682",
+      "id": "177651896288583680",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.baidu.com/s?wd=%E5%B9%BF%E4%B8%9C%E4%BA%BA%E6%89%8D%E5%BC%95%E8%BF%9B",
-      "title": "广东人才引进 - 百度搜索",
+      "siteUrl": "https://www.baidu.com/s?wd=%E4%BD%9B%E5%B1%B1%E6%95%99%E5%B8%88",
+      "title": "佛山教师 - 百度搜索",
       "type": "feed",
-      "url": "rsshub://baidu/search/%E5%B9%BF%E4%B8%9C%E4%BA%BA%E6%89%8D%E5%BC%95%E8%BF%9B"
+      "url": "rsshub://baidu/search/%E4%BD%9B%E5%B1%B1%E6%95%99%E5%B8%88"
     }
   ]
 }

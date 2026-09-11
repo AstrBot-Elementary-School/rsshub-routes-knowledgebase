@@ -59,7 +59,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 10657,
+  "heat": 10655,
   "location": "profile.ts",
   "maintainers": [
     "hoilc",
@@ -122,7 +122,7 @@ _None_
     {
       "description": "7 posts - Powered by RSSHub",
       "errorAt": "2025-12-01T11:31:13.832Z",
-      "errorMessage": "503 \n",
+      "errorMessage": "Target page, context or browser has been closed\nCall log:\n  - waiting for locator('.content') to be visible\n\n",
       "id": "68868134910057472",
       "image": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/20f0f3b9dca2307c0d9e928f5a31e787~tplv-tiktokx-cropcenter:720:720.jpeg?dr=10399&refresh_token=c2635a64&x-expires=1763265600&x-signature=ZbrX%2BEgQnxUC4x4myuI%2FM5Za0xg%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=no1a",
       "ownerUserId": null,
@@ -134,7 +134,7 @@ _None_
     {
       "description": "白银 (@baiyinn811) public posts - Picuki - Powered by RSSHub",
       "errorAt": "2024-12-09T13:19:26.547Z",
-      "errorMessage": "Target page, context or browser has been closed\nCall log:\n  - waiting for locator('.content') to be visible\n\n",
+      "errorMessage": "Remote Playwright connection closed\n",
       "id": "68562239082161152",
       "image": "https://cdn1.picuki.com/hosted-by-instagram/q/yep6IPkO1EBGZyPbcMUQzeBRjaJ4Rg1ONw==.jpeg",
       "ownerUserId": null,

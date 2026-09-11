@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4849,
+  "heat": 4848,
   "location": "daily.ts",
   "maintainers": [
     "nczitzk",
@@ -73,7 +73,7 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "1. DeepSeek 扩招 150 人，战略重心转向 Agent 工程化 2. 苹果战略调整：或与铠侠签 NAND 长期协议，无价格上限引关注 3. Anthropic 与 OpenAI 投行游说推动 IPO 后获投资级信用评级 4. 霸王茶姬开卖茶叶蛋：5 元一枚 首发仅上海 5. Anthropic Labs 揭秘：20 人小队，允许 80% 想法失败 6. DeepSeek V4.1 Flash 开启中间版本内测 7. 宇树科技实现全球首次世界模型实时驱动人形机器人自主格斗 8. OpenAI 最新内部数据公开，2028 年实现全自动 AI 研究 9. 阿里 B2B 业务国内外打通 10. 古驰悄悄降价：中国市场包包、成衣降幅可达 30% 至 40% 11. Anthropic 据悉放弃以 60 亿美元收购 AI 初创公司 Decart 的交易 12. 小鹏机器人生产线正式启用 13. 蚂蚁集团等入股 Physical AI 解决方案提供商厘清智能 14. 消息称 WhatsApp 将原生支持第三方 AI 智能体 - Powered by RSSHub",
+      "description": "1. 苹果发布首款折叠屏 iPhone Duo，国行售价 15999 元起 2. 苹果发布 iPhone 18 Pro 系列：首次支持可变光圈，起售价 9999 元 3. 消息称 DeepSeek 拟登陆科创板，聘请中信证券筹备 IPO 4. OpenAI 称解决 NS 方程遭质疑，陷学术产权争议 5. 腾讯混元团队调整：前 OpenAI 研究员田永龙成为混元多模态负责人 向姚顺雨汇报 6. 三星与法国 AI 初创公司 Mistral AI 达成合作，以加强芯片业务 7. DeepSeek 宣布下调 Flash 系列 API 价格，最高降幅 60% 8. 宁德时代回应网传员工过激行为：系造谣，已报警 9. 阿里称无招回归千问办公消息不实 10. Anthropic 预训练研究员离职，称 AI 实验室拿人类生命押注超级智能 11. 苹果发布 AirPods 5：全新自适应均衡功能、支持主动降噪，999 元起 12. iPhone 17 系列及 Air 机型售价上调 800 元 13. DeepSeek 把 V4 Pro 静默路由到 Flash，遭用户反对 14. OpenAI 推出 GPT-Images-2.5，生图快 50% 15. 寿司郎回应员工用手捂化冻虾：系错误操作，已对涉事员工记过 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "52347176714948614",

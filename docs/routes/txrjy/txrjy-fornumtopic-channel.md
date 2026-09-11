@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 122,
+  "heat": 123,
   "location": "fornumtopic.tsx",
   "maintainers": [
     "Fatpandac"

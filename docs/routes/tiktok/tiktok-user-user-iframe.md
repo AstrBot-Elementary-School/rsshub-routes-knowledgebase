@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 7,
+  "heat": 9,
   "location": "user.ts",
   "maintainers": [
     "TonyRL"
@@ -81,7 +81,7 @@ _None_
       "errorAt": null,
       "errorMessage": null,
       "id": "1118368279467786240",
-      "image": "https://p16-common-sign.tiktokcdn-eu.com/tos-alisg-avt-0068/3282e877c0ed5a7e1d7bac9f192e7033~tplv-tiktokx-cropcenter:100:100.jpeg?dr=10399&refresh_token=f490a24f&x-expires=1789117200&x-signature=Kbfqhb4AUHs0hLl1CC8%2FoBvoGgk%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=no1a",
+      "image": "https://p16-common-sign.tiktokcdn-eu.com/tos-alisg-avt-0068/3282e877c0ed5a7e1d7bac9f192e7033~tplv-tiktokx-cropcenter:100:100.jpeg?dr=10399&refresh_token=41044a21&x-expires=1789203600&x-signature=GJhjDsinq8L%2FS6mN49vGQK9zcrw%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=no1a",
       "ownerUserId": null,
       "siteUrl": "https://www.tiktok.com/@policiadecolombia",
       "title": "Policía de Colombia (@policiadecolombia) | TikTok",
@@ -89,16 +89,16 @@ _None_
       "url": "rsshub://tiktok/user/@policiadecolombia"
     },
     {
-      "description": "@kittilyse on Instagram :) COMMISSIONS OPEN.. Check IG - Powered by RSSHub",
+      "description": "🌸 Animating Ponies 🌸 ✨I use Adobe Animate✨ ♀ | MLP fan since 2012 🌼 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1278676995072196608",
-      "image": "https://p16-common-sign.tiktokcdn-eu.com/tos-alisg-avt-0068/ac1dc85419c1c34bab0ff508e8847c8b~tplv-tiktokx-cropcenter:100:100.jpeg?dr=10399&refresh_token=e3b5e986&x-expires=1789120800&x-signature=wTy2XZ9DMycVqsRTXms5CogAHKM%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=no1a",
+      "id": "1278677583080062976",
+      "image": "https://p16-common-sign.tiktokcdn-eu.com/tos-maliva-avt-0068/261646f4ff363bfc34343828f46c3204~tplv-tiktokx-cropcenter:100:100.jpeg?dr=10399&refresh_token=58e50a4e&x-expires=1789182000&x-signature=rSMaB6U2gifBjRb7gL2DRxFjpxA%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=no1a",
       "ownerUserId": null,
-      "siteUrl": "https://www.tiktok.com/@kittilyse",
-      "title": "kittilyse [Commissions Open] (@kittilyse) | TikTok",
+      "siteUrl": "https://www.tiktok.com/@melonypony",
+      "title": "melonypony (@melonypony) | TikTok",
       "type": "feed",
-      "url": "rsshub://tiktok/user/@kittilyse/true"
+      "url": "rsshub://tiktok/user/@melonypony/true"
     }
   ]
 }

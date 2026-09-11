@@ -63,14 +63,14 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "人民日报电子版 - 2026年09月09日 - Powered by RSSHub",
+      "description": "人民日报电子版 - 2026年09月10日 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "1231515877518475264",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://paper.people.com.cn/rmrb/pc/layout/index.html",
-      "title": "人民日报电子版 - 2026年09月09日",
+      "title": "人民日报电子版 - 2026年09月10日",
       "type": "feed",
       "url": "rsshub://people/paper"
     }

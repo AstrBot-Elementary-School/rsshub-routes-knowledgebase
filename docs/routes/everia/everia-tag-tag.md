@@ -80,7 +80,7 @@ _None_
     {
       "description": "EVERIA.CLUB - Tag: gravure - Powered by RSSHub",
       "errorAt": "2026-08-17T16:47:19.685Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "Tag not found: gravure\n",
       "id": "153059637668516864",
       "image": null,
       "ownerUserId": null,

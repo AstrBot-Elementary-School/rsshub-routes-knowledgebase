@@ -96,7 +96,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 33,
+  "heat": 32,
   "location": "viewpoint.ts",
   "maintainers": [
     "Aeliu"

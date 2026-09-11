@@ -57,7 +57,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1561,
+  "heat": 1562,
   "location": "playlist.ts",
   "maintainers": [
     "HenryQW"
@@ -77,7 +77,7 @@ _None_
       "errorAt": null,
       "errorMessage": null,
       "id": "63845323989307392",
-      "image": "https://i.ytimg.com/pl_c/PL3bAfMXyZjrPfLIHtd6Phb4R1gBswybSq/studio_square_thumbnail.jpg?sqp=CNuThNUG-oaymwEICNAFENAFSFqi85f_AwYImOKvqwY=&rs=AOn4CLCHlFTJWRoebnaj-b9Uend2zs5qog",
+      "image": "https://i.ytimg.com/pl_c/PL3bAfMXyZjrPfLIHtd6Phb4R1gBswybSq/studio_square_thumbnail.jpg?sqp=CIT9iNUG-oaymwEICNAFENAFSFqi85f_AwYImOKvqwY=&rs=AOn4CLDPk_FKzkSGaKgv8X9esArVTjVM6w",
       "ownerUserId": null,
       "siteUrl": "https://www.youtube.com/playlist?list=PL3bAfMXyZjrPfLIHtd6Phb4R1gBswybSq",
       "title": "王局拍案 by 王志安 - YouTube",

@@ -116,16 +116,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "Lets you play Fabric mods on NeoForge - Powered by RSSHub",
+      "description": "A redstone & optimization modpack for vanilla Minecraft servers. 一款红石优化的整合包，适用于原版Minecraft服务器。 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "120750482624892928",
+      "id": "164180036830267392",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/connector",
-      "title": "Sinytra Connector Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/redstone-optiunity",
+      "title": "Redstone OptiUnity一体化红石优化 Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/connector/versions"
+      "url": "rsshub://modrinth/project/redstone-optiunity/versions"
     }
   ]
 }

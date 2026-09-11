@@ -75,7 +75,7 @@ _None_
     {
       "description": "Top performing traders on HyperDash - real-time cryptocurrency derivatives trading analytics - Powered by RSSHub",
       "errorAt": "2025-11-18T23:30:05.578Z",
-      "errorMessage": "[GET] \"https://hyperdash.info/api/hyperdash/top-traders-cached\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://hyperdash.info/api/hyperdash/top-traders-cached\": 404 Not Found\n",
       "id": "157372456699561984",
       "image": null,
       "ownerUserId": null,

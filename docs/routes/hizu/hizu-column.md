@@ -100,8 +100,8 @@
   "topFeeds": [
     {
       "description": "热点 - 珠海网 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-09T20:47:20.107Z",
+      "errorMessage": "503 \n",
       "id": "76267574626993152",
       "image": null,
       "ownerUserId": null,
@@ -112,8 +112,8 @@
     },
     {
       "description": "香洲 - 珠海网 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-10T05:31:24.712Z",
+      "errorMessage": "503 \n",
       "id": "114507281667054592",
       "image": null,
       "ownerUserId": null,

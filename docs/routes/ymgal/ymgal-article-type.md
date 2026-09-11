@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 170,
+  "heat": 169,
   "location": "article.ts",
   "maintainers": [
     "SunBK201"

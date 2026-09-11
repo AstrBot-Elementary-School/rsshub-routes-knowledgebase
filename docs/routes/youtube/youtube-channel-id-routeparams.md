@@ -98,8 +98,8 @@ YouTube provides official RSS feeds for channels, for instance <https://www.yout
   "topFeeds": [
     {
       "description": "My name is Lewis. I am on a mission to inspire developers and tech enthusiasts. 🧑‍💻 Professionally coding since 2016! Business: sydney@lewismenelaws.com - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-10T08:36:11.154Z",
+      "errorMessage": "fetch failed\nRequest to https://www.youtube.com/youtubei/v1/browse?prettyPrint=false&alt=json failed with status code 403\n",
       "id": "143637676052105216",
       "image": "https://yt3.googleusercontent.com/CsruQ_I1lU51KzpO58FHQIpzuQneCdmJOOLsmy_usGKQANxgnJ-cK6kNylwQYhY0LYwVrp3EHQ=s900-c-k-c0x00ffffff-no-rj",
       "ownerUserId": null,

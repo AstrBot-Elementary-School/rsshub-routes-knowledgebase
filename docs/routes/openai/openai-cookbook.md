@@ -39,7 +39,7 @@ _None_
   ],
   "description": "OpenAI Cookbook 提供了大量使用 OpenAI API 的实用指南和示例代码，涵盖了从基础到高级的各种主题，包括 GPT 模型、嵌入、函数调用、微调等。这里汇集了最新的 API 功能介绍和流行的应用案例，是开发者学习和应用 OpenAI 技术的宝贵资源。",
   "example": "/openai/cookbook",
-  "heat": 289,
+  "heat": 290,
   "location": "cookbook.ts",
   "maintainers": [
     "liyaozhong"
@@ -60,7 +60,7 @@ _None_
     {
       "description": "OpenAI Cookbook - Powered by RSSHub",
       "errorAt": "2025-11-14T02:06:39.966Z",
-      "errorMessage": "[GET] \"https://cookbook.openai.com/\": 403 Forbidden\nFailed to fetch\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "[GET] \"https://cookbook.openai.com/\": 403 Forbidden\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "74337787033297920",
       "image": null,
       "ownerUserId": null,

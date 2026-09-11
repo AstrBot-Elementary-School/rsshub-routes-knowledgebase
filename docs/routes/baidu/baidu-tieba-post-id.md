@@ -72,16 +72,16 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "注册求踢帖的最新回复 - Powered by RSSHub",
+      "description": "【模组汉化发布】重铸整合发布的最新回复 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "115346513587038208",
+      "id": "105885254821548032",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://tieba.baidu.com/p/9270867907?see_lz=0",
-      "title": "注册求踢帖",
+      "siteUrl": "https://tieba.baidu.com/p/9208385243?see_lz=0",
+      "title": "【模组汉化发布】重铸整合发布",
       "type": "feed",
-      "url": "rsshub://baidu/tieba/post/9270867907"
+      "url": "rsshub://baidu/tieba/post/9208385243"
     },
     {
       "description": "【纯心相依】 快了 plus........的最新回复 - Powered by RSSHub",

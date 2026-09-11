@@ -41,7 +41,7 @@ _None_
   ],
   "description": "| 全部 | 最新   | 公告         | 活动     | 新闻 |\n| ---- | ------ | ------------ | -------- | ---- |\n| ALL  | LATEST | ANNOUNCEMENT | ACTIVITY | NEWS |",
   "example": "/hypergryph/arknights/news",
-  "heat": 21,
+  "heat": 20,
   "location": "arknights/news.ts",
   "maintainers": [
     "Astrian"

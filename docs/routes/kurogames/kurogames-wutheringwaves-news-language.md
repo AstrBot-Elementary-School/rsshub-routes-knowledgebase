@@ -56,7 +56,7 @@ _None_
   ],
   "description": "\nLanguage codes for the `language` parameter:\n\n| Language | Code         |\n|----------|--------------|\n| English  | en           |\n| 日本語    | jp           |\n| 한국어     | kr           |\n| 简体中文   | zh (default) |\n| 繁體中文   | zh-tw        |\n| Español  | es           |\n| Français | fr           |\n| Deutsch  | de           |\n    ",
   "example": "/kurogames/wutheringwaves/news",
-  "heat": 39,
+  "heat": 38,
   "location": "wutheringwaves/news.ts",
   "maintainers": [
     "goestav",
@@ -88,8 +88,8 @@ _None_
   "topFeeds": [
     {
       "description": "《鸣潮》— 游戏公告、新闻和活动 - Powered by RSSHub",
-      "errorAt": "2026-09-09T09:56:52.390Z",
-      "errorMessage": "[GET] \"https://media-cdn-mingchao.kurogame.com/akiwebsite/website2.0/json/G152/zh/ArticleMenu.json?t=1788947772733\": 522 <none>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41645808521081856",
       "image": null,
       "ownerUserId": null,

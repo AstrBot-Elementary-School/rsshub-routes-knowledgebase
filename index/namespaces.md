@@ -5786,6 +5786,12 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `1`
 - Index File: `index/iqnew.md`
 
+## iRacing
+- Namespace: `iracing`
+- Aliases: `iracing, iracing.com`
+- Route Count: `1`
+- Index File: `index/iracing.md`
+
 ## 艾瑞咨询
 - Namespace: `iresearch`
 - Aliases: `iresearch, iresearch.com.cn, 艾瑞咨询`

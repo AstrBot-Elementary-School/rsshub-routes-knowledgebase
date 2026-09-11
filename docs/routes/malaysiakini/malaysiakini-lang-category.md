@@ -125,7 +125,7 @@
     {
       "description": "News & Views That Matter - Powered by RSSHub",
       "errorAt": "2026-09-07T10:16:30.919Z",
-      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/884638-%E8%A2%AB%E6%8E%A7%E8%AD%A6%E5%91%8A%E6%94%BF%E5%BA%9C%E6%88%96%E5%80%92%E5%8F%B0%E5%BC%95%E6%81%90%E6%85%8C%E5%B8%8C%E5%B0%94%E6%9B%BC%E8%A1%A8%E7%BD%AA%E4%B8%8D%E6%88%90%E7%AB%8B\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/884727-%E9%AD%8F%E5%AE%B6%E7%A5%A5%E4%BF%83%E5%B8%8C%E7%9B%9F%E5%B0%8A%E9%87%8D%E5%AE%AA%E6%B3%95%E5%88%AB%E6%90%9E%E6%B7%B7%E6%B3%95%E5%BA%AD%E5%88%A4%E5%86%B3%E6%9D%83%E4%B8%8E%E8%B5%A6%E5%85%8D%E6%9D%83\": 404 Not Found\n",
       "id": "69685104073634816",
       "image": null,
       "ownerUserId": null,
@@ -137,7 +137,7 @@
     {
       "description": "News & Views That Matter - Powered by RSSHub",
       "errorAt": "2026-09-07T09:32:19.566Z",
-      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/884669-fadhlina-there-is-more-to-pisa-scores-than-numbers-and-rankings\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/884720-snapshot-sg-kim-kim-pollution-victims-win-civil-suit\": 404 Not Found\n",
       "id": "61840955600323584",
       "image": null,
       "ownerUserId": null,

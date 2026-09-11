@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1,
+  "heat": 0,
   "location": "old-home.ts",
   "maintainers": [
     "auto-bot-ty"
@@ -69,20 +69,7 @@ _None_
   "test": {
     "code": 1
   },
-  "topFeeds": [
-    {
-      "description": "旅法师营地 - 首页资讯（旧版） - Powered by RSSHub",
-      "errorAt": "2025-11-21T15:02:32.639Z",
-      "errorMessage": "[GET] \"https://www.iyingdi.com/feed/list/user/v3?feedIdUp=0&feedIdDown=0&hotfeed=1&system=web\": 404 Not Found\n",
-      "id": "41840596114310144",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.iyingdi.com/",
-      "title": "旅法师营地 - 首页资讯（旧版）",
-      "type": "feed",
-      "url": "rsshub://lfsyd/old_home"
-    }
-  ],
+  "topFeeds": [],
   "url": "www.iyingdi.com/"
 }
 ```

@@ -75,18 +75,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "gurecn/YuyanIme - 发行版 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "121884655654946816",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://gitee.com/gurecn/YuyanIme/releases",
-      "title": "gurecn/YuyanIme - 发行版",
-      "type": "feed",
-      "url": "rsshub://gitee/releases/gurecn/YuyanIme"
-    },
-    {
       "description": "dromara/liteFlow - 发行版 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -97,6 +85,18 @@ _None_
       "title": "dromara/liteFlow - 发行版",
       "type": "feed",
       "url": "rsshub://gitee/releases/dromara/liteFlow"
+    },
+    {
+      "description": "gurecn/YuyanIme - 发行版 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "121884655654946816",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://gitee.com/gurecn/YuyanIme/releases",
+      "title": "gurecn/YuyanIme - 发行版",
+      "type": "feed",
+      "url": "rsshub://gitee/releases/gurecn/YuyanIme"
     }
   ]
 }

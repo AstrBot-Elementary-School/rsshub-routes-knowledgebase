@@ -115,16 +115,16 @@ _None_
       "url": "rsshub://furaffinity/art/gallery/oddeyresproductions/nsfw"
     },
     {
-      "description": "Fur Affinity Gallery of pandafromjaf - Powered by RSSHub",
-      "errorAt": "2026-05-26T00:42:53.098Z",
-      "errorMessage": "[GET] \"https://faexport.spangle.org.uk/user/pandafromjaf/gallery.json?full=1\": 500 Internal Server Error\n[GET] \"https://faexport.spangle.org.uk/user/pandafromjaf/gallery.json?full=1\": 500 Internal Server Error\n",
-      "id": "79208182218361856",
+      "description": "Fur Affinity Gallery of carbondheat - Powered by RSSHub",
+      "errorAt": "2026-05-25T17:47:53.134Z",
+      "errorMessage": "[GET] \"https://faexport.spangle.org.uk/user/carbondheat/gallery.json?sfw=1&full=1\": 500 Internal Server Error\n[GET] \"https://faexport.spangle.org.uk/user/carbondheat/gallery.json?sfw=1&full=1\": 500 Internal Server Error\n",
+      "id": "79001724977710080",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.furaffinity.net/gallery/pandafromjaf",
-      "title": "Fur Affinity | Gallery of pandafromjaf",
+      "siteUrl": "https://www.furaffinity.net/gallery/carbondheat",
+      "title": "Fur Affinity | Gallery of carbondheat",
       "type": "feed",
-      "url": "rsshub://furaffinity/art/gallery/pandafromjaf/nsfw"
+      "url": "rsshub://furaffinity/art/gallery/carbondheat"
     }
   ],
   "url": "furaffinity.net"

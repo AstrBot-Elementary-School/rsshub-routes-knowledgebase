@@ -140,7 +140,7 @@ Support for announcements and fancards:
   "topFeeds": [
     {
       "description": "Kemono Posts - Powered by RSSHub",
-      "errorAt": "2026-09-09T07:17:13.504Z",
+      "errorAt": "2026-09-10T10:06:40.153Z",
       "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 59871541870611456",
       "id": "59871541870611456",
       "image": "https://kemono.cr/favicon.ico",

@@ -56,7 +56,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 302,
+  "heat": 301,
   "location": "scholar.ts",
   "maintainers": [
     "HenryQW"

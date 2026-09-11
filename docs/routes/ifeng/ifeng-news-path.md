@@ -41,7 +41,7 @@ _None_
   ],
   "description": "::: tip\n路径处填写对应页面 URL 中 `https://news.ifeng.com/` 后的字段。下面是一个例子。\n\n若订阅 [大湾区\\_资讯\\_凤凰网](https://news.ifeng.com/shanklist/3-305565-) 则将对应页面 URL `https://news.ifeng.com/shanklist/3-305565-` 中 `https://news.ifeng.com/` 后的字段 `shanklist/3-305565-` 作为路径填入。此时路由为 [`/ifeng/news/shanklist/3-305565-`](https://rsshub.app/ifeng/news/shanklist/3-305565-)\n:::",
   "example": "/ifeng/news",
-  "heat": 333,
+  "heat": 332,
   "location": "news.tsx",
   "maintainers": [
     "nczitzk"
@@ -57,8 +57,8 @@ _None_
   "topFeeds": [
     {
       "description": "资讯_凤凰网 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-10T06:46:55.486Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 58310184330535940",
       "id": "58310184330535940",
       "image": null,
       "ownerUserId": null,

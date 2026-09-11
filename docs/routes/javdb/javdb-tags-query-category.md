@@ -35,7 +35,7 @@
 
 
 ## Features
-- `requireConfig`: [{"description": "JavDB登陆后的session值，可在控制台的cookie下查找 `_jdb_session` 的值，即可获取", "name": "JAVDB_SESSION", "optional": true}]
+- `requireConfig`: [{"description": "JavDB登陆后的session值，可在控制台的cookie下查找 `_jdb_session` 的值，即可获取", "name": "JAVDB_SESSION", "optional": false}]
 - `requirePuppeteer`: false
 - `antiCrawler`: true
 - `supportBT`: false
@@ -64,7 +64,7 @@
       {
         "description": "JavDB登陆后的session值，可在控制台的cookie下查找 `_jdb_session` 的值，即可获取",
         "name": "JAVDB_SESSION",
-        "optional": true
+        "optional": false
       }
     ],
     "requirePuppeteer": false,

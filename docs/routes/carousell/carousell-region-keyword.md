@@ -187,6 +187,18 @@ _None_
   },
   "topFeeds": [
     {
+      "description": "Carousell SG Search - GPU - Powered by RSSHub",
+      "errorAt": "2026-09-07T16:50:23.779Z",
+      "errorMessage": "[GET] \"https://www.carousell.sg\": 403 Forbidden\n",
+      "id": "1158145898106978304",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://docs.rsshub.app/",
+      "title": "Carousell SG Search - GPU",
+      "type": "feed",
+      "url": "rsshub://carousell/sg/GPU"
+    },
+    {
       "description": "Carousell SG Search - FX2 sony - Powered by RSSHub",
       "errorAt": "2026-09-06T09:31:24.021Z",
       "errorMessage": "[GET] \"https://www.carousell.sg\": 403 Forbidden\n",
@@ -197,18 +209,6 @@ _None_
       "title": "Carousell SG Search - FX2 sony",
       "type": "feed",
       "url": "rsshub://carousell/sg/FX2%20sony"
-    },
-    {
-      "description": "Carousell SG Search - NAS - Powered by RSSHub",
-      "errorAt": "2026-09-07T17:17:09.034Z",
-      "errorMessage": "[GET] \"https://www.carousell.sg\": 403 Forbidden\n",
-      "id": "1182663070510350336",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://docs.rsshub.app/",
-      "title": "Carousell SG Search - NAS",
-      "type": "feed",
-      "url": "rsshub://carousell/sg/NAS"
     }
   ]
 }

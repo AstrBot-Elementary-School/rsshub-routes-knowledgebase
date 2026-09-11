@@ -252,8 +252,8 @@
   "topFeeds": [
     {
       "description": "인터넷 신문 - Powered by RSSHub",
-      "errorAt": "2026-09-09T07:21:41.289Z",
-      "errorMessage": "[GET] \"https://chinese.joins.com/news/articleView.html?idxno=126095\": <no response> fetch failed (Client network socket disconnected before secure TLS connection was established)\n[GET] \"https://chinese.joins.com/news/articleView.html?idxno=126090\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "67015768687931392",
       "image": "https://chinese.joins.com/image/logo/toplogo_20200319051833.png",
       "ownerUserId": null,

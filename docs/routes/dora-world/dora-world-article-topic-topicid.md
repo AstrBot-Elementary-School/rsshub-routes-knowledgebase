@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 15,
+  "heat": 14,
   "location": "article.ts",
   "maintainers": [
     "AChangAZha"

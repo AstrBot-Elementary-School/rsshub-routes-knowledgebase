@@ -80,8 +80,8 @@ _None_
     },
     {
       "description": "ulapia - 策略研报 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-10T08:46:14.613Z",
+      "errorMessage": "503 \n",
       "id": "60865831498850372",
       "image": null,
       "ownerUserId": null,
