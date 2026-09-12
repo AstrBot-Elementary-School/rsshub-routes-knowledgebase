@@ -62,7 +62,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 984,
+  "heat": 983,
   "location": "channel.ts",
   "maintainers": [
     "HenryQW",
@@ -81,7 +81,7 @@ _None_
     {
       "description": "FTChinese RSS - All Feed - Powered by RSSHub",
       "errorAt": "2026-07-09T06:29:25.553Z",
-      "errorMessage": "[GET] \"https://www.ftchinese.com/story/001110834?full=y&archive\": 429 Too Many Requests\n[GET] \"https://www.ftchinese.com/story/001110834?full=y&archive\": 429 Too Many Requests\n[GET] \"https://www.ftchinese.com/story/001110833?full=y&archive\": 429 \n[GET] \"https://www.ftchinese.com/story/001110821?full=y&archive\": 429 Too Many Requests\n",
+      "errorMessage": "[GET] \"https://www.ftchinese.com/story/001110835?full=y&archive\": 429 Too Many Requests\n502 \n502 \n[GET] \"https://www.ftchinese.com/story/001110848?full=y&archive\": 429 Too Many Requests\n",
       "id": "61693185811247104",
       "image": null,
       "ownerUserId": null,

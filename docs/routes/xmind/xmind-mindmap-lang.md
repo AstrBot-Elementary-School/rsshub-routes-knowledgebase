@@ -39,7 +39,7 @@ _None_
   ],
   "description": "| English | Español | Deutsch | Français | 中文 | 日本語 |\n| ------- | ------- | ------- | -------- | ---- | ------ |\n| en      | es      | de      | fr       | zh   | jp     |",
   "example": "/xmind/mindmap",
-  "heat": 0,
+  "heat": 1,
   "location": "mindmap.ts",
   "maintainers": [
     "nczitzk"
@@ -52,6 +52,19 @@ _None_
   "test": {
     "code": 0
   },
-  "topFeeds": []
+  "topFeeds": [
+    {
+      "description": "Mindmap Gallery - XMind - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "171296086587288588",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.xmind.net/share",
+      "title": "Mindmap Gallery - XMind",
+      "type": "feed",
+      "url": "rsshub://xmind/mindmap"
+    }
+  ]
 }
 ```

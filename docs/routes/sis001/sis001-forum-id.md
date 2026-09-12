@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2517,
+  "heat": 2518,
   "location": "forum.ts",
   "maintainers": [
     "TonyRL"
@@ -81,8 +81,8 @@ _None_
     },
     {
       "description": "仅用于第一会所新片账号发布最新日本AV BT资源【全员可见 1级回复】 SiS001! Board - [第一会所 关闭注册] - Powered by RSSHub",
-      "errorAt": "2026-09-10T08:26:22.436Z",
-      "errorMessage": "[GET] \"https://sis001.com/forum/forum-561-1.html\": 403 \n[GET] \"https://sis001.com/forum/forum-561-1.html\": 525 <none>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "57370193871711232",
       "image": null,
       "ownerUserId": null,

@@ -51,28 +51,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "人民ism 商铺上新 - Powered by RSSHub",
+      "description": "茨木Clothes 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264523938205925376",
+      "id": "1264523734161424384",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1651238208",
-      "title": "人民ism 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1405581875",
+      "title": "茨木Clothes 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1651238208"
+      "url": "rsshub://weidian/goods/1405581875"
     },
     {
-      "description": "2Pac出品 商铺上新 - Powered by RSSHub",
+      "description": "茨木甄选 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264526453228044288",
+      "id": "1264527186627264512",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1842314734",
-      "title": "2Pac出品 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=972619875",
+      "title": "茨木甄选 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1842314734"
+      "url": "rsshub://weidian/goods/972619875"
     }
   ]
 }

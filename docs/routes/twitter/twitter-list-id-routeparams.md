@@ -129,7 +129,7 @@ Currently supported authentication methods:
   "topFeeds": [
     {
       "description": "Twitter List - 1842817257933844798 - Powered by RSSHub",
-      "errorAt": "2026-09-10T06:22:29.597Z",
+      "errorAt": "2026-09-11T08:37:39.091Z",
       "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 65802121820371968",
       "id": "65802121820371968",
       "image": null,

@@ -91,8 +91,8 @@
     },
     {
       "description": "投中网是国内领先的创新经济信息服务平台，拥有立体化媒体矩阵，十多年行业深耕，为创新经济领域核心人群提供深入、独到的智识和洞见，在私募股权投资行业和创新商业领域均拥有权威影响力。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-11T03:06:38.766Z",
+      "errorMessage": "503 \n",
       "id": "73956968061162496",
       "image": null,
       "ownerUserId": null,

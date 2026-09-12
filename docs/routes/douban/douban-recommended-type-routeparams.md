@@ -60,7 +60,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 139,
+  "heat": 137,
   "location": "other/recommended.ts",
   "maintainers": [
     "honue"

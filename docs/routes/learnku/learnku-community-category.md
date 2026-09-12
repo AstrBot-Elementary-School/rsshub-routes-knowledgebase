@@ -56,7 +56,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 167,
+  "heat": 166,
   "location": "topic.tsx",
   "maintainers": [
     "kayw-geek"

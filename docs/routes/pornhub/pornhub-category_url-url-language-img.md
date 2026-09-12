@@ -60,7 +60,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 250,
+  "heat": 252,
   "location": "category-url.ts",
   "maintainers": [
     "I2IMk",

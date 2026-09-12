@@ -134,7 +134,7 @@ _None_
     {
       "description": "白银 (@baiyinn811) public posts - Picuki - Powered by RSSHub",
       "errorAt": "2024-12-09T13:19:26.547Z",
-      "errorMessage": "Remote Playwright connection closed\n",
+      "errorMessage": "Target page, context or browser has been closed\nCall log:\n  - waiting for locator('.content') to be visible\n\n",
       "id": "68562239082161152",
       "image": "https://cdn1.picuki.com/hosted-by-instagram/q/yep6IPkO1EBGZyPbcMUQzeBRjaJ4Rg1ONw==.jpeg",
       "ownerUserId": null,

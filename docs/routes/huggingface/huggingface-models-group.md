@@ -76,8 +76,8 @@ _None_
   "topFeeds": [
     {
       "description": "Huggingface zai-org Models - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-10T22:15:45.605Z",
+      "errorMessage": "[GET] \"https://huggingface.co/zai-org/models?sort=created\": 429 Too Many Requests\n",
       "id": "239230213876544512",
       "image": null,
       "ownerUserId": null,
@@ -88,8 +88,8 @@ _None_
     },
     {
       "description": "Huggingface qwen Models - Powered by RSSHub",
-      "errorAt": "2026-09-10T06:21:00.738Z",
-      "errorMessage": "[GET] \"https://huggingface.co/qwen/models?sort=created\": 429 Too Many Requests\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "220820120722097152",
       "image": null,
       "ownerUserId": null,

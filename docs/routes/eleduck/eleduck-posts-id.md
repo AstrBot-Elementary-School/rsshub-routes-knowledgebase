@@ -95,8 +95,8 @@ _None_
     },
     {
       "description": "电鸭社区的文章,栏目为全部 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-11T03:02:25.066Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 41709703529858048",
       "id": "41709703529858048",
       "image": null,
       "ownerUserId": null,

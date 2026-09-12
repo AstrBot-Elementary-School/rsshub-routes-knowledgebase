@@ -98,8 +98,8 @@ _None_
     },
     {
       "description": "今日热门-什么值得买好文 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-11T08:32:47.884Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 42520977153904661",
       "id": "42520977153904661",
       "image": null,
       "ownerUserId": null,

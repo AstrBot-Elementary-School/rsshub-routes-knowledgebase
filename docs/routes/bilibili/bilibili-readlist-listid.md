@@ -65,8 +65,8 @@ _None_
   "topFeeds": [
     {
       "description": "bilibili 专栏文集 - Galgame - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-11T06:22:22.086Z",
+      "errorMessage": "502 \n[GET] \"https://api.bilibili.com/x/article/list/web/articles?id=25611&jsonp=jsonp\": 412 Precondition Failed\n",
       "id": "61348871765397504",
       "image": "http://i0.hdslb.com/bfs/article/d1b4ff3871674fb8c7cca0e7e7c13061c0067488.png",
       "ownerUserId": null,

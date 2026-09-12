@@ -116,16 +116,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "A redstone & optimization modpack for vanilla Minecraft servers. 一款红石优化的整合包，适用于原版Minecraft服务器。 - Powered by RSSHub",
+      "description": "A versatile, GUI-based quest plugin featuring customizable quest pools, leaderboards, leveling, and extensive plugin integrations. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "164180036830267392",
+      "id": "114582569332071424",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/redstone-optiunity",
-      "title": "Redstone OptiUnity一体化红石优化 Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/NBlPi66Y",
+      "title": "AuroraQuests Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/redstone-optiunity/versions"
+      "url": "rsshub://modrinth/project/NBlPi66Y/versions"
     }
   ]
 }

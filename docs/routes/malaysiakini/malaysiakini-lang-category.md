@@ -125,7 +125,7 @@
     {
       "description": "News & Views That Matter - Powered by RSSHub",
       "errorAt": "2026-09-07T10:16:30.919Z",
-      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/884727-%E9%AD%8F%E5%AE%B6%E7%A5%A5%E4%BF%83%E5%B8%8C%E7%9B%9F%E5%B0%8A%E9%87%8D%E5%AE%AA%E6%B3%95%E5%88%AB%E6%90%9E%E6%B7%B7%E6%B3%95%E5%BA%AD%E5%88%A4%E5%86%B3%E6%9D%83%E4%B8%8E%E8%B5%A6%E5%85%8D%E6%9D%83\": 404 Not Found\n",
+      "errorMessage": "KV GET failed: 414 UTF-8 encoded length of 1231 exceeds key length limit of 512.\n",
       "id": "69685104073634816",
       "image": null,
       "ownerUserId": null,
@@ -137,7 +137,7 @@
     {
       "description": "News & Views That Matter - Powered by RSSHub",
       "errorAt": "2026-09-07T09:32:19.566Z",
-      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/884720-snapshot-sg-kim-kim-pollution-victims-win-civil-suit\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/884804-snapshot-heli-crash-resignation-wont-solve-longstanding-systemic-problems-says-senator\": 404 Not Found\n",
       "id": "61840955600323584",
       "image": null,
       "ownerUserId": null,

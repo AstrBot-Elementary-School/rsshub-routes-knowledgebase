@@ -112,7 +112,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 117,
+  "heat": 118,
   "location": "users.ts",
   "maintainers": [
     "I2IMk",
@@ -230,7 +230,7 @@ _None_
     },
     {
       "description": " - Powered by RSSHub",
-      "errorAt": "2026-09-08T22:06:10.354Z",
+      "errorAt": "2026-09-11T06:16:22.195Z",
       "errorMessage": "[GET] \"https://www.pornhub.com/users/mrbunny4sex/videos\": 404 Not Found\n",
       "id": "150930652077867008",
       "image": "https://ei.phncdn.com/(m=bLWsSeKlbyaT)(mh=YAcOug2B1YyD62qr)a08347a3-287c-4b15-8058-b28116aca02c.jpg",

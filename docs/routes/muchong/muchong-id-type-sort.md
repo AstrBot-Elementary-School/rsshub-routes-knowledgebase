@@ -58,16 +58,16 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "论文投稿 - 学术交流区 - 小木虫论坛 - Powered by RSSHub",
+      "description": "导师招生 - 科研生活区 - 小木虫论坛 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "177651896292777999",
+      "id": "1160269589833973761",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://muchong.com/f-125-1",
-      "title": "论文投稿 - 学术交流区 - 小木虫论坛",
+      "siteUrl": "https://muchong.com/f-430-1",
+      "title": "导师招生 - 科研生活区 - 小木虫论坛",
       "type": "feed",
-      "url": "rsshub://muchong/125"
+      "url": "rsshub://muchong/430"
     },
     {
       "description": "海归之家 - 出国留学区 - 小木虫论坛 - Powered by RSSHub",

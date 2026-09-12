@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4848,
+  "heat": 4847,
   "location": "daily.ts",
   "maintainers": [
     "nczitzk",
@@ -73,13 +73,13 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "1. 苹果发布首款折叠屏 iPhone Duo，国行售价 15999 元起 2. 苹果发布 iPhone 18 Pro 系列：首次支持可变光圈，起售价 9999 元 3. 消息称 DeepSeek 拟登陆科创板，聘请中信证券筹备 IPO 4. OpenAI 称解决 NS 方程遭质疑，陷学术产权争议 5. 腾讯混元团队调整：前 OpenAI 研究员田永龙成为混元多模态负责人 向姚顺雨汇报 6. 三星与法国 AI 初创公司 Mistral AI 达成合作，以加强芯片业务 7. DeepSeek 宣布下调 Flash 系列 API 价格，最高降幅 60% 8. 宁德时代回应网传员工过激行为：系造谣，已报警 9. 阿里称无招回归千问办公消息不实 10. Anthropic 预训练研究员离职，称 AI 实验室拿人类生命押注超级智能 11. 苹果发布 AirPods 5：全新自适应均衡功能、支持主动降噪，999 元起 12. iPhone 17 系列及 Air 机型售价上调 800 元 13. DeepSeek 把 V4 Pro 静默路由到 Flash，遭用户反对 14. OpenAI 推出 GPT-Images-2.5，生图快 50% 15. 寿司郎回应员工用手捂化冻虾：系错误操作，已对涉事员工记过 - Powered by RSSHub",
+      "description": "1. OpenAI 推出金融服务版 ChatGPT 2. 消息称月之暗面考虑沪港双重上市，争取更多融资 3. DeepSeek 发布 V4.1 Flash 模型，性能超旗舰且缓存大降 4. OpenAI 切断 Adobe 等企业在 ChatGPT 投放部分竞品 AI 产品广告 5. DeepSeek 合并快速、专家、识图模式 6. 宇树科技：通用人形基础模型全面开源，代码、模型、数据集将开放 7. 影视飓风 Tim 给公司全员送 iPhone Duo：实习生、刚入职员工也有份 8. 蚂蚁阿福 App 用户破 1.5 亿，单日健康咨询人次近 2000 万 9. 启境汽车回应媒体群误发「小米澎程攻防」相关内容：并非策划攻击、拉踩友商 10. 上海市体育局回应刘翔退役安置「买断」问题 11. 马斯克旗下 Boring Company 完成 30 亿美元 D 轮融资，估值达 230 亿美元 12. 阿里据悉将领投 AI 初创公司 UNIPAT，估值 25 亿美元 13. ChatGPT 语音模式升级，Pro 用户可调用 GPT-5.6Sol 等模型 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "52347176714948614",
       "image": "https://readhub.cn/icons/icon-192x192.png",
       "ownerUserId": null,
-      "siteUrl": "https://readhub.cn/daily",
+      "siteUrl": "https://api.readhub.cn/daily",
       "title": "Readhub - 每日早报",
       "type": "feed",
       "url": "rsshub://readhub/daily"

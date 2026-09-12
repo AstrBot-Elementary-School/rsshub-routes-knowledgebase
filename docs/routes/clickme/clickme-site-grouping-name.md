@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 45,
+  "heat": 47,
   "location": "index.ts",
   "maintainers": [
     "hoilc"
@@ -69,20 +69,20 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "ClickMe R18 - A片 - Powered by RSSHub",
+      "description": "ClickMe R18 - 女優 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "154786575534138368",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://r18.clickme.net/c/av",
-      "title": "ClickMe R18 - A片",
+      "title": "ClickMe R18 - 女優",
       "type": "feed",
       "url": "rsshub://clickme/r18/category/av"
     },
     {
       "description": "ClickMe R18 - 最新 - Powered by RSSHub",
-      "errorAt": "2026-09-07T03:01:03.153Z",
+      "errorAt": "2026-09-11T05:56:08.419Z",
       "errorMessage": "[POST] \"https://api.clickme.net/article/list?key=clickme\": 404 Not Found\n",
       "id": "156717605498762240",
       "image": null,

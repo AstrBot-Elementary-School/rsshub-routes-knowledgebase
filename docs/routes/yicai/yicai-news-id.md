@@ -80,7 +80,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 177,
+  "heat": 178,
   "location": "news.ts",
   "maintainers": [
     "nczitzk"
@@ -105,8 +105,8 @@
   "topFeeds": [
     {
       "description": "第一财经 - 新闻 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-11T03:02:16.227Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 52508301310328844",
       "id": "52508301310328844",
       "image": null,
       "ownerUserId": null,

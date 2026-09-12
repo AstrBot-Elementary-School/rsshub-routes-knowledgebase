@@ -58,7 +58,7 @@ _None_
     ],
     "requirePuppeteer": true
   },
-  "heat": 65,
+  "heat": 66,
   "location": "bbs/forum.ts",
   "maintainers": [
     "KarasuShin"

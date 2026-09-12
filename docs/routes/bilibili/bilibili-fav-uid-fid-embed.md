@@ -80,16 +80,16 @@ _None_
       "url": "rsshub://bilibili/fav/399964818/1771644318"
     },
     {
-      "description": "观海聽风声 的 bilibili 收藏夹 舞乐 - Powered by RSSHub",
-      "errorAt": "2026-05-19T16:47:32.558Z",
-      "errorMessage": "500 Internal Server Error\n",
-      "id": "95590792331573248",
+      "description": "呼呼呼咕咕咕叽叽 的 bilibili 收藏夹 默认收藏夹 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "141401723640756224",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://space.bilibili.com/399964818/#/favlist?fid=3342414318",
-      "title": "观海聽风声 的 bilibili 收藏夹 舞乐",
+      "siteUrl": "https://space.bilibili.com/13063497/#/favlist?fid=48859097",
+      "title": "呼呼呼咕咕咕叽叽 的 bilibili 收藏夹 默认收藏夹",
       "type": "feed",
-      "url": "rsshub://bilibili/fav/399964818/3342414318"
+      "url": "rsshub://bilibili/fav/13063497/48859097"
     }
   ]
 }

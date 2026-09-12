@@ -76,16 +76,16 @@ _None_
       "url": "rsshub://cara/timeline/fengz"
     },
     {
-      "description": "Timeline - Requinoesis - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "131924534067985408",
-      "image": "https://cdn.cara.app/production/profiles/3c4bf5ef-7d4e-4165-b65f-6dc781acf326/pu.png",
+      "description": "Timeline - 127 - Powered by RSSHub",
+      "errorAt": "2025-11-26T14:20:48.941Z",
+      "errorMessage": "[GET] \"https://cara.app/explore\": 403 Forbidden\n",
+      "id": "127386983426590720",
+      "image": "https://cdn.cara.app/production/profiles/f1a02228-6fa6-408e-9f03-ce991a568ba1/A1670231-0D18-40F6-A51A-AE28A40F7278.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://cara.app/requinoesis/all",
-      "title": "Timeline - Requinoesis",
+      "siteUrl": "https://cara.app/alonelee127/all",
+      "title": "Timeline - 127",
       "type": "feed",
-      "url": "rsshub://cara/timeline/requinoesis"
+      "url": "rsshub://cara/timeline/alonelee127"
     }
   ]
 }

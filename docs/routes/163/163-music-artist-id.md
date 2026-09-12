@@ -89,16 +89,16 @@ _None_
       "url": "rsshub://163/music/artist/32540734"
     },
     {
-      "description": "网易云音乐歌手专辑 - 頭士奈生樹 - Powered by RSSHub",
+      "description": "网易云音乐歌手专辑 - 小沢健二 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "93470816698220544",
-      "image": "https://p2.music.126.net/dmj0q3izqGRAC2c3bUSHFA==/109951170035042801.jpg",
+      "id": "93474365887536128",
+      "image": "https://p2.music.126.net/2Fj_USVdgznJ57GD7bsauw==/109951164421213518.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://music.163.com/#/artist/album?id=33497261",
-      "title": "頭士奈生樹",
+      "siteUrl": "https://music.163.com/#/artist/album?id=15136",
+      "title": "小沢健二",
       "type": "feed",
-      "url": "rsshub://163/music/artist/33497261"
+      "url": "rsshub://163/music/artist/15136"
     }
   ]
 }

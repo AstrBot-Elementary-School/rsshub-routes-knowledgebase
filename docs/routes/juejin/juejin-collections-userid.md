@@ -78,8 +78,8 @@ _None_
   "topFeeds": [
     {
       "description": "掘金，指定用户整个收藏集 - Powered by RSSHub",
-      "errorAt": "2026-09-08T09:06:34.163Z",
-      "errorMessage": "[GET] \"https://juejin.cn/post/7249299811497066551\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "99763916916569088",
       "image": null,
       "ownerUserId": null,

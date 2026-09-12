@@ -74,7 +74,7 @@ _None_
     {
       "description": "学校通知-欢迎访问华北水利水电大学 - Powered by RSSHub",
       "errorAt": "2026-04-23T08:21:32.238Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "[GET] \"https://www.ncwu.edu.cn/xxtz.htm\": 530 \n",
       "id": "203856512518861824",
       "image": null,
       "ownerUserId": null,

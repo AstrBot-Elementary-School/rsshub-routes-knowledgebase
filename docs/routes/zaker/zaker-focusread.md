@@ -61,8 +61,8 @@ _None_
   "topFeeds": [
     {
       "description": "ZAKER 精读新闻 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-11T08:09:09.842Z",
+      "errorMessage": "502 \nFailed to fetch\n[GET] \"https://www.myzaker.com/?pos=selected_article\": 403 Forbidden\n",
       "id": "54945423974379534",
       "image": null,
       "ownerUserId": null,

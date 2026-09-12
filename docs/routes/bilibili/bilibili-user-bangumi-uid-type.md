@@ -89,16 +89,16 @@ _None_
       "url": "rsshub://bilibili/user/bangumi/208259"
     },
     {
-      "description": "萌萌哒夫斯基 的追番列表 - Powered by RSSHub",
-      "errorAt": "2026-09-08T09:49:18.280Z",
-      "errorMessage": "[GET] \"https://api.bilibili.com/x/space/wbi/acc/info?mid=17964019&token=&platform=web&web_location=1550101&w_rid=b5430d92870ca2d580b64c6b7ae414ed&wts=1789019477\": 412 Precondition Failed\n",
-      "id": "83449025446419456",
+      "description": "流浪者阿柒 的追番列表 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "117930714507164672",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://space.bilibili.com/17964019/bangumi",
-      "title": "萌萌哒夫斯基 的追番列表",
+      "siteUrl": "https://space.bilibili.com/497161640/bangumi",
+      "title": "流浪者阿柒 的追番列表",
       "type": "feed",
-      "url": "rsshub://bilibili/user/bangumi/17964019"
+      "url": "rsshub://bilibili/user/bangumi/497161640"
     }
   ]
 }

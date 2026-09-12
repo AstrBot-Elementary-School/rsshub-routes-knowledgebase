@@ -85,8 +85,8 @@
   "topFeeds": [
     {
       "description": "《最终幻想14》是史克威尔艾尼克斯出品的全球经典游戏品牌FINAL FANTASY系列的最新作品，IGN获得9.2高分！全球累计用户突破1600万！ - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-11T09:31:37.227Z",
+      "errorMessage": "[GET] \"http://api.act.sdo.com/UnionNews/List?gameCode=ff&category=5310&pageIndex=0&pageSize=50\": 522 <none>\n",
       "id": "58939975768068096",
       "image": null,
       "ownerUserId": null,

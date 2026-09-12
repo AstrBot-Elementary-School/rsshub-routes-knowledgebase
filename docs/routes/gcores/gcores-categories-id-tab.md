@@ -173,8 +173,8 @@
   "topFeeds": [
     {
       "description": "机核从2010年开始一直致力于分享游戏玩家的生活，以及深入探讨游戏相关的文化。我们开发原创的播客以及视频节目，一直在不断寻找民间高质量的内容创作者。 我们坚信游戏不止是游戏，游戏中包含的科学，文化，历史等各个层面的知识和故事，它们同时也会辐射到二次元甚至电影的领域，这些内容非常值得分享给热爱游戏的您。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-11T10:04:28.503Z",
+      "errorMessage": "Failed query: select \"url\", \"etag_header\", \"ttl\", \"error_at\", \"checked_at\", \"refresh_enqueued_at\" from \"feeds\" \"feeds\" where \"feeds\".\"id\" = $1 limit $2\nparams: 116739843787561984,1",
       "id": "116739843787561984",
       "image": null,
       "ownerUserId": null,

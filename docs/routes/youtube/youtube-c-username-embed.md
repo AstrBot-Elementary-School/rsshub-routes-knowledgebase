@@ -81,7 +81,7 @@ _None_
     {
       "description": "My name is Grant Sanderson. Videos here cover a variety of topics in math, or adjacent fields like physics and CS, all with an emphasis on visualizing the core ideas. The goal is to use animation to help elucidate and motivate otherwise tricky topics, and for difficult problems to be made simple with changes in perspective. For more information, other projects, FAQs, and inquiries see the website: https://www.3blue1brown.com - Powered by RSSHub",
       "errorAt": "2026-09-08T08:06:21.415Z",
-      "errorMessage": "YouTube RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\nCannot read properties of undefined (reading '0')\n",
+      "errorMessage": "502 \nCannot read properties of undefined (reading '0')\n",
       "id": "83922899515574272",
       "image": "https://yt3.googleusercontent.com/ytc/AIdro_nFzZFPLxPZRHcE3SSwzdrbuWqfoWYwLAu0_2iO6blQYAU=s900-c-k-c0x00ffffff-no-rj",
       "ownerUserId": null,

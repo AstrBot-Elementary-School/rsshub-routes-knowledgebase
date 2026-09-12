@@ -58,7 +58,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 5489,
+  "heat": 5490,
   "location": "activities.ts",
   "maintainers": [
     "DIYgod"
@@ -81,8 +81,8 @@ _None_
   "topFeeds": [
     {
       "description": "Deep Van的逃生地牢（星球） - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-11T06:42:03.881Z",
+      "errorMessage": "[GET] \"https://static.zhihu.com/zse-ck/v3.js\": <no response> fetch failed\n502 \nzhihu: browser API request failed with HTTP 403\n",
       "id": "55789531638486016",
       "image": "https://picx.zhimg.com/v2-2161a03f1aac4c7b20a4edfa43318a7a_l.jpg?source=5a24d060&needBackground=1",
       "ownerUserId": null,

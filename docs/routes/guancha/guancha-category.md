@@ -62,7 +62,7 @@ others = 热点新闻 + 滚动新闻
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 333,
+  "heat": 334,
   "location": "index.ts",
   "maintainers": [
     "nczitzk",

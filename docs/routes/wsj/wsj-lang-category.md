@@ -63,7 +63,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 116,
+  "heat": 117,
   "location": "news.ts",
   "maintainers": [
     "oppilate"

@@ -178,16 +178,16 @@ _None_
       "url": "rsshub://bangumi.tv/user/collections/sai/1/1"
     },
     {
-      "description": "Cfox的Bangumi收藏列表 - Powered by RSSHub",
+      "description": "Kirito的Bangumi收藏列表 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "85592670812321792",
+      "id": "73642654898770944",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://bgm.tv/user/cfox/collections",
-      "title": "Cfox的Bangumi收藏列表",
+      "siteUrl": "https://bgm.tv/user/825720/collections",
+      "title": "Kirito的Bangumi收藏列表",
       "type": "feed",
-      "url": "rsshub://bangumi.tv/user/collections/cfox/all/all"
+      "url": "rsshub://bangumi.tv/user/collections/825720/all/all"
     }
   ]
 }
