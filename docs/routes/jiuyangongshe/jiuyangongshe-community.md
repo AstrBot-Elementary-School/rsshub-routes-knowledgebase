@@ -58,8 +58,8 @@ _None_
   "topFeeds": [
     {
       "description": "社群 - 韭研公社-研究共享，茁壮成长（原韭菜公社） - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-12T09:33:26.792Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 61661363869599744",
       "id": "61661363869599744",
       "image": null,
       "ownerUserId": null,

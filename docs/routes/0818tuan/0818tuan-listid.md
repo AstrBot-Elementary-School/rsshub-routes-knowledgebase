@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 598,
+  "heat": 597,
   "location": "index.ts",
   "maintainers": [
     "TonyRL"
@@ -68,7 +68,7 @@ _None_
   "topFeeds": [
     {
       "description": "最新线报活动-最新线报活动/教程攻略-0818团 - Powered by RSSHub",
-      "errorAt": "2026-09-11T05:27:13.233Z",
+      "errorAt": "2026-09-12T05:52:33.031Z",
       "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 65670452855599106",
       "id": "65670452855599106",
       "image": "http://www.0818tuan.com/favicon.ico",

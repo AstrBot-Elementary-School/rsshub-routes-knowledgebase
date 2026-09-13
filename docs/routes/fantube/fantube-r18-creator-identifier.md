@@ -75,7 +75,7 @@ _None_
     {
       "description": "勉強中なので色々教えてくださいっ！🐥 - Powered by RSSHub",
       "errorAt": "2025-10-02T05:26:44.136Z",
-      "errorMessage": "Authentication failed. Access denied.\n/fantube/r18/creator/miyuu\nCannot read properties of undefined (reading 'slice')\nCannot read properties of undefined (reading 'slice')\n",
+      "errorMessage": "Cannot read properties of undefined (reading 'slice')\nCannot read properties of undefined (reading 'slice')\n",
       "id": "172884205682714624",
       "image": "https://pub-823015c3ebdd4468bdae83727431c156.r2.dev/d1c44b54-51c6-4e61-afba-6de507a32b7d",
       "ownerUserId": null,

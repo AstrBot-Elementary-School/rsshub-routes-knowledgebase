@@ -115,16 +115,16 @@ _None_
       "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fseed.bytedance.com%2Fapi%2Fget_article_list_v2%3Farticle_type%3D2%26count%3D20%26order_desc%3Dtrue%26page_token%3D0/title%3DByteDance%2520Seed%2520Tech%2520Blog%26item%3Dsub_article_list%26itemTitle%3DArticleSubContentEn.Title%26itemLink%3DArticleSubContentEn.TitleKey%26itemLinkPrefix%3Dhttps%253A%252F%252Fseed.bytedance.com%252Fen%252Fblog%252F%26itemDesc%3DArticleSubContentEn.Abstract%26itemPubDate%3DArticleMeta.PublishDate"
     },
     {
-      "description": "Proxy https://api.github.com/repos/java-decompiler/jd-gui/releases - Powered by RSSHub",
+      "description": "Proxy https://api.github.com/repos/FalconOpsLLC/goexec/releases - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "185694472030917632",
+      "id": "185695342945072128",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://api.github.com/repos/java-decompiler/jd-gui/releases",
-      "title": "jd-gui releases",
+      "siteUrl": "https://api.github.com/repos/FalconOpsLLC/goexec/releases",
+      "title": "goexec releases",
       "type": "feed",
-      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fapi.github.com%2Frepos%2Fjava-decompiler%2Fjd-gui%2Freleases/title=jd-gui%20releases&itemTitle=tag_name&itemLink=html_url&itemDesc=body"
+      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fapi.github.com%2Frepos%2FFalconOpsLLC%2Fgoexec%2Freleases/title=goexec%20releases&itemTitle=tag_name&itemLink=html_url&itemDesc=body"
     }
   ]
 }

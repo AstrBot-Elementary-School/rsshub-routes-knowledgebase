@@ -87,8 +87,8 @@ _None_
     },
     {
       "description": "华尔街见闻 - 资讯 - 最新 - Powered by RSSHub",
-      "errorAt": "2026-09-11T01:41:52.313Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 41965184796581995",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41965184796581995",
       "image": "https://static.wscn.net/wscn/_static/favicon.png",
       "ownerUserId": null,

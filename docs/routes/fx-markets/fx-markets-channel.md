@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "FX-Markets Trading - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-12T04:51:45.630Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "59063696285536256",
       "image": null,
       "ownerUserId": null,

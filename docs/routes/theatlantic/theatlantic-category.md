@@ -57,7 +57,7 @@ More categories (except photo) can be found within the navigation bar at <https:
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1398,
+  "heat": 1400,
   "location": "news.ts",
   "maintainers": [
     "IvanWng97",

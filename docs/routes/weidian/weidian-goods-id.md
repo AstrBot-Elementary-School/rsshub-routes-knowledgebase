@@ -51,28 +51,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "茨木Clothes 商铺上新 - Powered by RSSHub",
+      "description": "小A狗牙 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264523734161424384",
+      "id": "1264525408108150784",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1405581875",
-      "title": "茨木Clothes 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1750570979",
+      "title": "小A狗牙 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1405581875"
+      "url": "rsshub://weidian/goods/1750570979"
     },
     {
-      "description": "茨木甄选 商铺上新 - Powered by RSSHub",
+      "description": "byvovo 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264527186627264512",
+      "id": "1264525518451900416",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=972619875",
-      "title": "茨木甄选 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1771961812",
+      "title": "byvovo 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/972619875"
+      "url": "rsshub://weidian/goods/1771961812"
     }
   ]
 }

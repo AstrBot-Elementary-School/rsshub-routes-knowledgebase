@@ -81,16 +81,16 @@ See [Browse Content](https://pubs.acs.org)
       "url": "rsshub://acs/journal/esthag"
     },
     {
-      "description": "ACS Applied Nano Materials - Powered by RSSHub",
-      "errorAt": "2026-07-25T07:31:35.504Z",
-      "errorMessage": "browserType.connect: WebSocket error: wss://cloudflare-patchright.rss3.workers.dev/playwright 428 Precondition Required\n╔════════════════════════════════════════════════════╗\n║ Playwright version mismatch:                       ║\n║   - server version: v1.61                          ║\n║   - client version: v1.62                          ║\n║                                                    ║\n║ If you are using VSCode extension, restart VSCode. ║\n║                                                    ║\n║ If you are connecting to a remote service,         ║\n║ keep your local Playwright version in sync         ║\n║ with the remote service version.                   ║\n║                                                    ║\n║ <3 Playwright Team                                 ║\n╚════════════════════════════════════════════════════╝\nCall log:\n  - <ws connecting> wss://cloudflare-patchright.rss3.workers.dev/playwright\n  - <ws unexpected response> wss://cloudflare-patchright.rss3.workers.dev/playwright 428 Precondition Required\n╔════════════════════════════════════════════════════╗\n║ Playwright version mismatch:                       ║\n║   - server version: v1.61                          ║\n║   - client version: v1.62                          ║\n║                                                    ║\n║ If you are using VSCode extension, restart VSCode. ║\n║                                                    ║\n║ If you are connecting to a remote service,         ║\n║ keep your local Playwright version in sync         ║\n║ with the remote service version.                   ║\n║                                                    ║\n║ <3 Playwright Team                                 ║\n╚════════════════════════════════════════════════════╝\n  - <ws error> wss://cloudflare-patchright.rss3.workers.dev/playwright error WebSocket was closed before the connection was established\n  - <ws connect error> wss://cloudflare-patchright.rss3.workers.dev/playwright WebSocket was closed before the connection was established\n  - <ws disconnected> wss://cloudflare-patchright.rss3.workers.dev/playwright code=1006 reason=\n\n",
-      "id": "1200434380296552448",
+      "description": null,
+      "errorAt": "2025-09-19T00:56:58.043Z",
+      "errorMessage": "Waiting for selector `.toc` failed: waitForFunction failed: frame got detached.\n",
+      "id": "191666157347082242",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://pubs.acs.org/toc/aanmf6/0/0",
-      "title": "ACS Applied Nano Materials",
+      "siteUrl": null,
+      "title": "Importing",
       "type": "feed",
-      "url": "rsshub://acs/journal/aanmf6"
+      "url": "rsshub://acs/journal/jacsat"
     }
   ]
 }

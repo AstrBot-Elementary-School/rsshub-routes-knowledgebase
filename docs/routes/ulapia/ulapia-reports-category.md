@@ -68,8 +68,8 @@ _None_
   "topFeeds": [
     {
       "description": "ulapia - 宏观研报 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-12T03:28:13.317Z",
+      "errorMessage": "[GET] \"http://www.ulapia.com/reports/macro_research\": 522 <none>\n",
       "id": "60865831498850371",
       "image": null,
       "ownerUserId": null,
@@ -80,8 +80,8 @@ _None_
     },
     {
       "description": "ulapia - 策略研报 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-11T23:27:41.482Z",
+      "errorMessage": "503 \n",
       "id": "60865831498850372",
       "image": null,
       "ownerUserId": null,

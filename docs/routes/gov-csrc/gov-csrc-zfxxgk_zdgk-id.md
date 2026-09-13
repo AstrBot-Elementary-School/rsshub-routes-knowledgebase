@@ -960,8 +960,8 @@
     },
     {
       "description": "综合政务 - Powered by RSSHub",
-      "errorAt": "2026-09-11T02:47:09.431Z",
-      "errorMessage": "[GET] \"http://www.csrc.gov.cn/getLocalList?channelCode=c101794\": 522 <none>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "66728516715627520",
       "image": "http://www.csrc.gov.cn/csrc/xhtml/images/zfxxgk/icons_logo.png?v=1.0?v=1.0",
       "ownerUserId": null,

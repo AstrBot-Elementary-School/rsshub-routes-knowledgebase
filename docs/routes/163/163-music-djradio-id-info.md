@@ -56,7 +56,7 @@ _None_
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 2459,
+  "heat": 2468,
   "location": "music/djradio.tsx",
   "maintainers": [
     "magic-akari"

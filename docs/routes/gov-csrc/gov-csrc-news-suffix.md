@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "中国证券监督管理委员会 - 证监会要闻 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-12T03:37:04.523Z",
+      "errorMessage": "503 \n",
       "id": "1220957427747127299",
       "image": "http://www.csrc.gov.cn/favicon.ico",
       "ownerUserId": null,

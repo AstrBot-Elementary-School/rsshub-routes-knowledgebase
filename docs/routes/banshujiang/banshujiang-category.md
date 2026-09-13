@@ -414,7 +414,7 @@
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 27,
+  "heat": 28,
   "location": "index.ts",
   "maintainers": [
     "nczitzk"
@@ -1037,7 +1037,7 @@
     {
       "description": "搬书匠 - Powered by RSSHub",
       "errorAt": "2026-09-11T10:06:30.881Z",
-      "errorMessage": "502 \n[GET] \"http://banshujiang.cn/e_books/page/1\": 520 <none>\n",
+      "errorMessage": "[GET] \"http://banshujiang.cn/e_books/page/1\": 520 <none>\n",
       "id": "190045554505808896",
       "image": "http://banshujiang.cn/logo.png?imageView2/2/w/128/h/128/q/100",
       "ownerUserId": null,

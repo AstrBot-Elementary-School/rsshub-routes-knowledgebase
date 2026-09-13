@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 75,
+  "heat": 76,
   "location": "blog-community.ts",
   "maintainers": [
     "yuguorui"

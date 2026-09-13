@@ -61,12 +61,13 @@ _None_
   },
   "path": "/digest/:tid",
   "test": {
-    "code": 0
+    "code": 1,
+    "message": "AssertionError: expected 583243918643 to be less than 311040000000\n    at checkDate (/home/runner/work/RSSHub/RSSHub/lib/app.test.ts:62:46)\n    at checkRSS (/home/runner/work/RSSHub/RSSHub/lib/app.test.ts:87:13)\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:106:17\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
   "topFeeds": [
     {
       "description": "Stage1 论坛 - ＰＣ数码 - Powered by RSSHub",
-      "errorAt": "2026-09-11T06:22:57.400Z",
+      "errorAt": "2026-09-12T06:47:30.402Z",
       "errorMessage": "503 \n",
       "id": "57334301287197696",
       "image": null,

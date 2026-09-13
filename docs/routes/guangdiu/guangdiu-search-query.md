@@ -65,8 +65,8 @@ _None_
   "topFeeds": [
     {
       "description": "逛丢 - 今日必买 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-12T09:21:06.992Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "141468238742304768",
       "image": null,
       "ownerUserId": null,

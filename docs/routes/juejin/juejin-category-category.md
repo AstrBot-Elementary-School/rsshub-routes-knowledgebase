@@ -54,7 +54,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1205,
+  "heat": 1204,
   "location": "category.ts",
   "maintainers": [
     "DIYgod"
@@ -77,8 +77,8 @@
   "topFeeds": [
     {
       "description": "掘金 前端 - Powered by RSSHub",
-      "errorAt": "2026-09-11T10:32:25.097Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 42107264805507072",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "42107264805507072",
       "image": null,
       "ownerUserId": null,
@@ -90,7 +90,7 @@
     {
       "description": "掘金 人工智能 - Powered by RSSHub",
       "errorAt": "2026-09-10T18:36:29.067Z",
-      "errorMessage": "Authentication failed. Access denied.\n/juejin/category/ai\n[GET] \"https://juejin.cn/post/7684102772081852470\": 403 Forbidden\n",
+      "errorMessage": "Authentication failed. Access denied.\n/juejin/category/ai\n[GET] \"https://juejin.cn/post/7684163263413190675\": 403 Forbidden\n",
       "id": "42000866869432330",
       "image": null,
       "ownerUserId": null,

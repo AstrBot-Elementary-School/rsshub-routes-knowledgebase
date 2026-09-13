@@ -61,10 +61,21 @@ _None_
     }
   ],
   "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+    "code": 0
   },
   "topFeeds": [
+    {
+      "description": "吉林大学计算机科学与技术学院 - 新闻中心新闻中心 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "1217986033107206144",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://ccst.jlu.edu.cn/",
+      "title": "吉林大学计算机科学与技术学院 - 新闻中心新闻中心",
+      "type": "feed",
+      "url": "rsshub://jlu/ccst/xwzx/..%2Fxwzx%2Fgsl"
+    },
     {
       "description": "吉林大学计算机科学与技术学院 - 新闻中心新闻中心 - Powered by RSSHub",
       "errorAt": null,
@@ -76,18 +87,6 @@ _None_
       "title": "吉林大学计算机科学与技术学院 - 新闻中心新闻中心",
       "type": "feed",
       "url": "rsshub://jlu/ccst/xwzx/..%2Fxwzx%2Fxytz"
-    },
-    {
-      "description": "吉林大学计算机科学与技术学院 - 新闻中心学院新闻 - Powered by RSSHub",
-      "errorAt": "2026-01-09T04:20:40.130Z",
-      "errorMessage": "[GET] \"https://ccst.jlu.edu.cn/xwzx/xyxw.htm\": <no response> fetch failed\n",
-      "id": "88875751771012096",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://ccst.jlu.edu.cn/",
-      "title": "吉林大学计算机科学与技术学院 - 新闻中心学院新闻",
-      "type": "feed",
-      "url": "rsshub://jlu/ccst/xwzx/xyxw"
     }
   ],
   "url": "ccst.jlu.edu.cn"

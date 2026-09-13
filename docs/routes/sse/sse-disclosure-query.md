@@ -60,13 +60,14 @@ _None_
   },
   "path": "/disclosure/:query?",
   "test": {
-    "code": 0
+    "code": 1,
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
   "topFeeds": [
     {
       "description": "上海证券交易所 - 上市公司信息 - 华电国际最新公告 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-11T18:51:18.543Z",
+      "errorMessage": "[GET] \"https://query.sse.com.cn/security/stock/queryCompanyBulletin.do?isPagination=true&securityType=0101,120100,020100,020200,120200&reportType=ALL&pageHelp.pageSize=25&pageHelp.pageCount=50&pageHelp.pageNo=1&pageHelp.beginPage=1&pageHelp.cacheSize=1&pageHelp.endPage=5&_=1789182972142\": 403 Forbidden\n",
       "id": "115958109880213504",
       "image": null,
       "ownerUserId": null,

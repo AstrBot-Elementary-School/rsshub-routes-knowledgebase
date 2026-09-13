@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 255,
+  "heat": 256,
   "location": "news.ts",
   "maintainers": [
     "goestav",
@@ -64,8 +64,8 @@ _None_
   "topFeeds": [
     {
       "description": "OpenAI News - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-11T19:16:11.172Z",
+      "errorMessage": "[GET] \"https://openai.com/index/perplexity-improving-accuracy-with-astra\": 403 Forbidden\n[GET] \"https://openai.com/index/cognition-devin-testing-with-astra/\": 403 Forbidden\n",
       "id": "139523607422199808",
       "image": null,
       "ownerUserId": null,

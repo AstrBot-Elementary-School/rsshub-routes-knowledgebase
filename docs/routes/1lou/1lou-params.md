@@ -62,7 +62,7 @@
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 520,
+  "heat": 522,
   "location": "index.ts",
   "maintainers": [
     "falling",
@@ -81,14 +81,13 @@
     }
   ],
   "test": {
-    "code": 1,
-    "message": "Error: STACK_TRACE_ERROR\n    at task (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:1784:27)\n    at Object.<anonymous> (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:1817:16)\n    at Object.<anonymous> (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:1563:28)\n    at chain (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:599:14)\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:98:12\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:1889:40\n    at runWithSuite (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:2258:8)\n    at Object.collect (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:1889:10)\n    at Object.collect (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:1893:54)\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)"
+    "code": 1
   },
   "topFeeds": [
     {
       "description": "论坛影视区推荐使用纯BT软件：Transmission，qBittorrent，Bitcomet，uTorrent，其他下载软件请自行尝试。不支持吸血迅雷。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-12T10:13:59.140Z",
+      "errorMessage": "Failed to fetch\n[GET] \"https://www.1lou.me/forum-1.htm?format=json\": <no response> fetch failed\nFailed to fetch\n",
       "id": "62495339293222913",
       "image": "https://www.1lou.me/view/img/logo.png",
       "ownerUserId": null,
@@ -99,8 +98,8 @@
     },
     {
       "description": "论坛影视区推荐使用纯BT软件：Transmission，qBittorrent，Bitcomet，uTorrent，其他下载软件请自行尝试。不支持吸血迅雷。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-11T14:56:38.014Z",
+      "errorMessage": "503 \n",
       "id": "64249408253921283",
       "image": "https://www.1lou.me/view/img/logo.png",
       "ownerUserId": null,

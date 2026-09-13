@@ -91,8 +91,8 @@
   "topFeeds": [
     {
       "description": "New - pixivision - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-12T10:06:26.686Z",
+      "errorMessage": "403 \n[GET] \"https://www.pixivision.net/zh-tw\": 403 Forbidden\n",
       "id": "58887079850550272",
       "image": null,
       "ownerUserId": null,

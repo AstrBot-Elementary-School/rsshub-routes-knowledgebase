@@ -57,7 +57,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 596,
+  "heat": 595,
   "location": "index.ts",
   "maintainers": [
     "TonyRL"
@@ -82,7 +82,7 @@
     {
       "description": "hot video today - 91porn - Powered by RSSHub",
       "errorAt": "2026-09-07T10:07:12.618Z",
-      "errorMessage": "[POST] \"https://91porn.com/index.php\": <no response> fetch failed\n[POST] \"https://91porn.com/index.php\": <no response> fetch failed\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "Failed to fetch\n[POST] \"https://91porn.com/index.php\": <no response> fetch failed\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "155957211745995777",
       "image": null,
       "ownerUserId": null,

@@ -1531,8 +1531,8 @@
   "topFeeds": [
     {
       "description": "开源广场-EDA开源硬件平台，硬件工程师的电路家园 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-12T08:01:29.135Z",
+      "errorMessage": "[GET] \"https://oshwhub.com/api/project_tags\": 418 I'm a teapot\n",
       "id": "202562470263424000",
       "image": "https://static.oshwhub.com/web-assets/oshwhub/images/header-footer/logo.png?v=1788255512518",
       "ownerUserId": null,

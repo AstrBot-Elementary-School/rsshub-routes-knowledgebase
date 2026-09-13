@@ -80,8 +80,8 @@ _None_
     },
     {
       "description": "经济 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-12T06:12:21.646Z",
+      "errorMessage": "[GET] \"https://www.lifeweek.com.cn/api/userWebFollow/getFollowTagContentList?type=3&sort=2&tagId=3\": 522 <none>\n",
       "id": "77268471866082304",
       "image": null,
       "ownerUserId": null,

@@ -71,6 +71,9 @@ Categories: all | desinfo | prebunking | investigaciones | control-del-poder | p
       "target": "/updates/:category"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

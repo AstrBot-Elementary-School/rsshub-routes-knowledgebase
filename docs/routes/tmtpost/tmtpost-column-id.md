@@ -505,14 +505,14 @@
       "url": "rsshub://tmtpost/column/6916385"
     },
     {
-      "description": " - Powered by RSSHub",
+      "description": "产业互联网、产业数字化是各大传统产业借力大数据、云计算、智能终端及互联网等，提升内部效率和对外服务能力的重要路径之一。 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "120728715056393216",
       "image": "https://images.tmtpost.com/uploads/images/zhaopian/nuxtpic/change_logo3/og_image.png",
       "ownerUserId": null,
       "siteUrl": "https://www.tmtpost.com/column/3882035",
-      "title": "RSSHub",
+      "title": "创新场景-钛媒体官方网站",
       "type": "feed",
       "url": "rsshub://tmtpost/column/3882035"
     }

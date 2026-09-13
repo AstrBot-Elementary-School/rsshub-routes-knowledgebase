@@ -80,8 +80,8 @@ _None_
     },
     {
       "description": "焦點 - Line Today - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-12T08:12:39.013Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 79089289951263744",
       "id": "79089289951263744",
       "image": null,
       "ownerUserId": null,

@@ -74,16 +74,16 @@ _None_
       "url": "rsshub://163/music/user/events/134073344"
     },
     {
-      "description": "网易云音乐用户动态 - I love you three thousand times - Powered by RSSHub",
-      "errorAt": "2025-11-04T02:37:40.370Z",
-      "errorMessage": "Failed to fetch\n",
-      "id": "186422945668491340",
-      "image": "http://p1.music.126.net/QM5zjqPI2NGLGF2O-LcFvw==/109951164221621943.jpg",
+      "description": "网易云音乐用户动态 - 不想温柔，也不想坚定 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "66801413814601728",
+      "image": "http://p1.music.126.net/QEs-7T3hM-uQNKUrlY2l6A==/109951167949881205.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://music.163.com/#/user/event?id=253142666",
-      "title": "我在那一角落患过伤风啊的云村动态",
+      "siteUrl": "https://music.163.com/#/user/event?id=395678483",
+      "title": "夏天-summer-5的云村动态",
       "type": "feed",
-      "url": "rsshub://163/music/user/events/253142666"
+      "url": "rsshub://163/music/user/events/395678483"
     }
   ]
 }

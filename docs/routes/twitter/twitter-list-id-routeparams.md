@@ -105,7 +105,7 @@ Currently supported authentication methods:
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 5645,
+  "heat": 5647,
   "location": "list.ts",
   "maintainers": [
     "DIYgod",
@@ -129,8 +129,8 @@ Currently supported authentication methods:
   "topFeeds": [
     {
       "description": "Twitter List - 1842817257933844798 - Powered by RSSHub",
-      "errorAt": "2026-09-11T08:37:39.091Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 65802121820371968",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "65802121820371968",
       "image": null,
       "ownerUserId": null,
@@ -141,8 +141,8 @@ Currently supported authentication methods:
     },
     {
       "description": "Twitter List - 1502570462752219136 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-12T09:26:30.717Z",
+      "errorMessage": "[GET] \"https://rsshub-api.twitterdata.com/i/api/graphql/1LE3u14FJjPZUHKFGzos2g/ListLatestTweetsTimeline?variables=%7B%22listId%22:%221502570462752219136%22,%22count%22:20%7D&features=%7B%22rweb_tipjar_consumption_enabled%22:true,%22responsive_web_graphql_exclude_directive_enabled%22:true,%22verified_phone_label_enabled%22:false,%22creator_subscriptions_tweet_preview_api_enabled%22:true,%22responsive_web_graphql_timeline_navigation_enabled%22:true,%22responsive_web_graphql_skip_user_profile_image_extensions_enabled%22:false,%22communities_web_enable_tweet_community_results_fetch%22:true,%22c9s_tweet_anatomy_moderator_badge_enabled%22:true,%22articles_preview_enabled%22:true,%22responsive_web_edit_tweet_api_enabled%22:true,%22graphql_is_translatable_rweb_tweet_is_translatable_enabled%22:true,%22view_counts_everywhere_api_enabled%22:true,%22longform_notetweets_consumption_enabled%22:true,%22responsive_web_twitter_article_tweet_consumption_enabled%22:true,%22tweet_awards_web_tipping_enabled%22:false,%22creator_subscriptions_quote_tweet_preview_enabled%22:false,%22freedom_of_speech_not_reach_fetch_enabled%22:true,%22standardized_nudges_misinfo%22:true,%22tweet_with_visibility_results_prefer_gql_limited_actions_policy_enabled%22:true,%22rweb_video_timestamps_enabled%22:true,%22longform_notetweets_rich_text_read_enabled%22:true,%22longform_notetweets_inline_media_enabled%22:true,%22responsive_web_enhance_cards_enabled%22:false%7D\": 429 Too Many Requests\nTwitter API is not configured\n",
       "id": "59816386195718144",
       "image": null,
       "ownerUserId": null,

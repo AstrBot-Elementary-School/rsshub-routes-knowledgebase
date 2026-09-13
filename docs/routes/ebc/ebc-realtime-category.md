@@ -77,8 +77,8 @@ _None_
   "topFeeds": [
     {
       "description": "東森新聞|即時 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-11T18:51:02.077Z",
+      "errorMessage": "Bad control character in string literal in JSON at position 1157 (line 23 column 30)\n",
       "id": "105752020320057344",
       "image": null,
       "ownerUserId": null,

@@ -57,7 +57,7 @@ _None_
     {
       "description": "国家药品监督管理局医疗器械技术审评中心工作动态相关信息 - Powered by RSSHub",
       "errorAt": "2026-08-23T15:01:03.314Z",
-      "errorMessage": "Target page, context or browser has been closed\nCall log:\n  - waiting for locator('.list') to be visible\n\n",
+      "errorMessage": "Target page, context or browser has been closed\nCall log:\n  - waiting for locator('.list') to be visible\n    - waiting for \"https://www.cmde.org.cn/xwdt/zxyw/\" navigation to finish...\n    - navigated to \"https://www.cmde.org.cn/xwdt/zxyw/\"\n\n",
       "id": "71471683425747968",
       "image": null,
       "ownerUserId": null,

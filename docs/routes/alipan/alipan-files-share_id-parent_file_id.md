@@ -77,16 +77,16 @@ _None_
       "url": "rsshub://alipan/files/jcuRG1PKsTn/678b1f0e38bfbaa0650a49049919f34ce7e2678e"
     },
     {
-      "description": "【微博@tv综合吧】善意的竞争-阿里云盘 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "114980282029010944",
+      "description": "斗.破.苍.穹. 年.番（2022）-阿里云盘 - Powered by RSSHub",
+      "errorAt": "2025-06-16T12:02:14.349Z",
+      "errorMessage": "[POST] \"https://api.aliyundrive.com/adrive/v3/share_link/get_share_by_anonymous?share_id=9oByhi5hWMf\": 400 Bad Request\n",
+      "id": "136440876874277888",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.aliyundrive.com/s/Dhvm99rqDLU/folder/679f0e41465632058c0749f6aaeb75c874c95bec",
-      "title": "【微博@tv综合吧】善意的竞争-阿里云盘",
+      "siteUrl": "https://www.aliyundrive.com/s/9oByhi5hWMf/folder/67d562a5ab81f2fd70044791be413fea0fad3d4a",
+      "title": "斗.破.苍.穹. 年.番（2022）-阿里云盘",
       "type": "feed",
-      "url": "rsshub://alipan/files/Dhvm99rqDLU/679f0e41465632058c0749f6aaeb75c874c95bec"
+      "url": "rsshub://alipan/files/9oByhi5hWMf/67d562a5ab81f2fd70044791be413fea0fad3d4a"
     }
   ],
   "url": "www.alipan.com/s"

@@ -58,7 +58,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 3798,
+  "heat": 3801,
   "location": "index.ts",
   "maintainers": [
     "LogicJake"
@@ -93,8 +93,8 @@ _None_
     },
     {
       "description": "订阅数：19万+ - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-12T08:32:30.624Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 61088973762758656",
       "id": "61088973762758656",
       "image": "https://file.ipadown.com/tophub/assets/images/media/tieba.baidu.com.png_160x160.png",
       "ownerUserId": null,

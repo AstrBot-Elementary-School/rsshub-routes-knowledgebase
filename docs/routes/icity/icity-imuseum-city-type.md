@@ -89,6 +89,9 @@ _None_
       "target": "/imuseum/:city"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

@@ -95,8 +95,8 @@ _None_
     },
     {
       "description": "澎湃新闻 - 澎湃热榜 - Powered by RSSHub",
-      "errorAt": "2026-09-11T08:32:38.489Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 56001539986599972",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "56001539986599972",
       "image": null,
       "ownerUserId": null,

@@ -83,16 +83,16 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "New contributors for aigem/videos - Powered by RSSHub",
+      "description": "New contributors for KrystalCJ/Conf - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "145641760615368704",
+      "id": "64129774135370752",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/aigem/videos/graphs/contributors",
-      "title": "aigem/videos Contributors",
+      "siteUrl": "https://github.com/KrystalCJ/Conf/graphs/contributors",
+      "title": "KrystalCJ/Conf Contributors",
       "type": "feed",
-      "url": "rsshub://github/contributors/aigem/videos"
+      "url": "rsshub://github/contributors/KrystalCJ/Conf"
     },
     {
       "description": "New contributors for piderking/vgmt-data - Powered by RSSHub",

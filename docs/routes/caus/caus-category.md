@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 7,
+  "heat": 8,
   "location": "index.ts",
   "maintainers": [
     "nczitzk",
@@ -80,16 +80,16 @@ _None_
       "url": "rsshub://caus"
     },
     {
-      "description": "商业 - 加美财经 - Powered by RSSHub",
+      "description": "财富 - 加美财经 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1252434568716091392",
+      "id": "1252435441064214528",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://caus.com/category/finance/",
-      "title": "商业 - 加美财经",
+      "title": "财富 - 加美财经",
       "type": "feed",
-      "url": "rsshub://caus/2"
+      "url": "rsshub://caus/8"
     }
   ]
 }

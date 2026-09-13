@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 27,
+  "heat": 28,
   "location": "models.ts",
   "maintainers": [
     "WuNein"
@@ -76,7 +76,7 @@ _None_
   "topFeeds": [
     {
       "description": "Huggingface zai-org Models - Powered by RSSHub",
-      "errorAt": "2026-09-10T22:15:45.605Z",
+      "errorAt": "2026-09-11T22:46:38.512Z",
       "errorMessage": "[GET] \"https://huggingface.co/zai-org/models?sort=created\": 429 Too Many Requests\n",
       "id": "239230213876544512",
       "image": null,

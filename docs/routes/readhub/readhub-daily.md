@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4847,
+  "heat": 4848,
   "location": "daily.ts",
   "maintainers": [
     "nczitzk",
@@ -73,7 +73,7 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "1. OpenAI 推出金融服务版 ChatGPT 2. 消息称月之暗面考虑沪港双重上市，争取更多融资 3. DeepSeek 发布 V4.1 Flash 模型，性能超旗舰且缓存大降 4. OpenAI 切断 Adobe 等企业在 ChatGPT 投放部分竞品 AI 产品广告 5. DeepSeek 合并快速、专家、识图模式 6. 宇树科技：通用人形基础模型全面开源，代码、模型、数据集将开放 7. 影视飓风 Tim 给公司全员送 iPhone Duo：实习生、刚入职员工也有份 8. 蚂蚁阿福 App 用户破 1.5 亿，单日健康咨询人次近 2000 万 9. 启境汽车回应媒体群误发「小米澎程攻防」相关内容：并非策划攻击、拉踩友商 10. 上海市体育局回应刘翔退役安置「买断」问题 11. 马斯克旗下 Boring Company 完成 30 亿美元 D 轮融资，估值达 230 亿美元 12. 阿里据悉将领投 AI 初创公司 UNIPAT，估值 25 亿美元 13. ChatGPT 语音模式升级，Pro 用户可调用 GPT-5.6Sol 等模型 - Powered by RSSHub",
+      "description": "1. OpenAI 宣布暂停 200 美元 Pro 20X 新增订阅，因需求过大 2. 燧原科技正式登陆科创板 3. 微信语音电话惊现「零接触」漏洞：未接来电账号或已被悄然劫持 4. 美光称将发放史上最高员工奖金 中国台湾地区员工将获 35-68 个月薪资奖励 5. 智谱联合杭州市政府推出 Coding Plan 普惠行动 购买年卡享受 51% 政府补贴 6. SpaceXAI 团队将直播从零开始建立一家公司，全程用 Grok Bot 7. 打假网红「铁头」因敲诈勒索被判八年 8. 试用期被劝退员工冒充业务负责人引流付费咨询，抖音：拟起诉维权 9. Kimi K2.8 Preview 全量上线：性能逼近 K3，支持 1M 上下文 10. OpenAI：推出 Agents API 公开测试版 11. 长鑫利润率反超三星 SK 海力士：存储芯片企业全球最高 12. 宇树跌破 500 元，一级市场融资连续下跌，机器人步入冷静期 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "52347176714948614",

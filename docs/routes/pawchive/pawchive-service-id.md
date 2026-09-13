@@ -101,16 +101,16 @@ _None_
       "url": "rsshub://pawchive/fanbox/86618946"
     },
     {
-      "description": "Posts of 予算 from fanbox | Pawchive - Powered by RSSHub",
+      "description": "Posts of 百足ユキ from fanbox | Pawchive - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1216677382878789632",
-      "image": "https://pawchive.pw/icons/fanbox/16868574",
+      "id": "1216678672442720256",
+      "image": "https://pawchive.pw/icons/fanbox/43441978",
       "ownerUserId": null,
-      "siteUrl": "https://pawchive.pw/fanbox/user/16868574",
-      "title": "Posts of 予算 from fanbox | Pawchive",
+      "siteUrl": "https://pawchive.pw/fanbox/user/43441978",
+      "title": "Posts of 百足ユキ from fanbox | Pawchive",
       "type": "feed",
-      "url": "rsshub://pawchive/fanbox/16868574"
+      "url": "rsshub://pawchive/fanbox/43441978"
     }
   ]
 }

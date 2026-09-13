@@ -89,7 +89,7 @@ _None_
     {
       "description": "Ayb爱莹宝 的 bilibili 图文 - Powered by RSSHub",
       "errorAt": "2026-09-07T08:52:21.884Z",
-      "errorMessage": "502 \n[GET] \"https://api.bilibili.com/x/polymer/web-dynamic/v1/opus/feed/space?host_mid=57276677\": 412 Precondition Failed\n",
+      "errorMessage": "Failed to fetch\n[GET] \"https://api.bilibili.com/x/polymer/web-dynamic/v1/opus/feed/space?host_mid=57276677\": 412 Precondition Failed\n",
       "id": "55126637717323776",
       "image": null,
       "ownerUserId": null,

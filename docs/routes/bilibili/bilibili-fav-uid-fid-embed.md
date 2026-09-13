@@ -80,16 +80,16 @@ _None_
       "url": "rsshub://bilibili/fav/399964818/1771644318"
     },
     {
-      "description": "呼呼呼咕咕咕叽叽 的 bilibili 收藏夹 默认收藏夹 - Powered by RSSHub",
+      "description": "死于春末 的 bilibili 收藏夹 默认收藏夹 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "141401723640756224",
+      "id": "1150779277071745024",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://space.bilibili.com/13063497/#/favlist?fid=48859097",
-      "title": "呼呼呼咕咕咕叽叽 的 bilibili 收藏夹 默认收藏夹",
+      "siteUrl": "https://space.bilibili.com/4155750/#/favlist?fid=65910650",
+      "title": "死于春末 的 bilibili 收藏夹 默认收藏夹",
       "type": "feed",
-      "url": "rsshub://bilibili/fav/13063497/48859097"
+      "url": "rsshub://bilibili/fav/4155750/65910650"
     }
   ]
 }

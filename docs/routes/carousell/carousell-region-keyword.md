@@ -199,16 +199,16 @@ _None_
       "url": "rsshub://carousell/sg/FX2%20sony"
     },
     {
-      "description": "Carousell SG Search - RAM - Powered by RSSHub",
-      "errorAt": "2026-09-07T11:21:10.034Z",
+      "description": "Carousell SG Search - NAS - Powered by RSSHub",
+      "errorAt": "2026-09-07T17:17:09.034Z",
       "errorMessage": "[GET] \"https://www.carousell.sg\": 403 Forbidden\n",
-      "id": "1182663805922836480",
+      "id": "1182663070510350336",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://docs.rsshub.app/",
-      "title": "Carousell SG Search - RAM",
+      "title": "Carousell SG Search - NAS",
       "type": "feed",
-      "url": "rsshub://carousell/sg/RAM"
+      "url": "rsshub://carousell/sg/NAS"
     }
   ]
 }

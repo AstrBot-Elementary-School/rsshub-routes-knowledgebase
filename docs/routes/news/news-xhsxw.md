@@ -75,7 +75,7 @@ _None_
   "topFeeds": [
     {
       "description": "新华社新闻 - Powered by RSSHub",
-      "errorAt": "2026-09-11T05:47:46.012Z",
+      "errorAt": "2026-09-12T05:32:25.767Z",
       "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 68124618879637504",
       "id": "68124618879637504",
       "image": "http://www.news.cn/20141223_xhsxw_logo_v1.png",

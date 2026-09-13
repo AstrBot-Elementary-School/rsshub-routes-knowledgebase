@@ -73,16 +73,16 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "暴雪大神 的动态 - Powered by RSSHub",
+      "description": "暴雪游戏攻略站 的动态 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "92101048147198999",
+      "id": "166489281655090184",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://ds.163.com/user/13be30b3f5204a17b3e52eaf9f0e44aa",
-      "title": "暴雪大神 的动态",
+      "siteUrl": "https://ds.163.com/user/d26787c432064c578e87b977aa7b30aa",
+      "title": "暴雪游戏攻略站 的动态",
       "type": "feed",
-      "url": "rsshub://163/ds/13be30b3f5204a17b3e52eaf9f0e44aa"
+      "url": "rsshub://163/ds/d26787c432064c578e87b977aa7b30aa"
     },
     {
       "description": "DatahunterSora 的动态 - Powered by RSSHub",

@@ -77,15 +77,15 @@ _None_
     },
     {
       "description": "漫小肆 - Powered by RSSHub",
-      "errorAt": "2026-09-09T03:31:18.818Z",
-      "errorMessage": "[GET] \"https://www.jjmhw7.top/chapter/52192\": 530 \n",
-      "id": "198643306820071427",
-      "image": "https://www.jjmhw8.top/static/upload/book/1091/cover.jpg",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "75833338533396480",
+      "image": "https://www.jjmhw8.top/static/upload/book/418/cover.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://www.jjmhw8.top/book/1091",
-      "title": "漫小肆 G鬥吧!真人肉搏王",
+      "siteUrl": "https://www.jjmhw6.top/book/418",
+      "title": "漫小肆 秘密教學",
       "type": "feed",
-      "url": "rsshub://freexcomic/book/1091"
+      "url": "rsshub://freexcomic/book/418"
     }
   ],
   "url": "www.jjmhw.cc"

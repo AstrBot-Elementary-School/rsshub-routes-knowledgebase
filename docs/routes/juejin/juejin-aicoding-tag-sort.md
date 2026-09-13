@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 303,
+  "heat": 304,
   "location": "aicoding.ts",
   "maintainers": [
     "TonyRL"
@@ -189,8 +189,8 @@ _None_
   "topFeeds": [
     {
       "description": "AI 编程 - Powered by RSSHub",
-      "errorAt": "2026-09-11T01:16:10.533Z",
-      "errorMessage": "[GET] \"https://juejin.cn/post/7684068584670380078\": 403 Forbidden\n[GET] \"https://juejin.cn/post/7684080641566834703\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "189493956607037440",
       "image": "https://lf-web-assets.juejin.cn/obj/juejin-web/goofy_deploy_edenx/toutiao-fe/xitu_juejin_aicoding/favicon.ico",
       "ownerUserId": null,

@@ -95,13 +95,14 @@
     }
   ],
   "test": {
-    "code": 0
+    "code": 1,
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
   "topFeeds": [
     {
       "description": "热点 - 珠海网 - Powered by RSSHub",
-      "errorAt": "2026-09-11T07:27:12.427Z",
-      "errorMessage": "503 \n",
+      "errorAt": "2026-09-12T09:52:38.779Z",
+      "errorMessage": "[GET] \"https://pub-zhtb.hizh.cn/a/202609/12/AP6aa4c852e4b0814cee2e3abc.json\": 522 <none>\n",
       "id": "76267574626993152",
       "image": null,
       "ownerUserId": null,
@@ -112,8 +113,8 @@
     },
     {
       "description": "香洲 - 珠海网 - Powered by RSSHub",
-      "errorAt": "2026-09-10T22:51:38.297Z",
-      "errorMessage": "503 \n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "114507281667054592",
       "image": null,
       "ownerUserId": null,

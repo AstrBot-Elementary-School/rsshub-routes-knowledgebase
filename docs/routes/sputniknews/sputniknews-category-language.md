@@ -113,8 +113,8 @@ _None_
   "topFeeds": [
     {
       "description": "news - Sputnik News - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-12T08:28:05.896Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 60322104504418309",
       "id": "60322104504418309",
       "image": null,
       "ownerUserId": null,
@@ -125,8 +125,8 @@ _None_
     },
     {
       "description": "news - Sputnik News - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-12T08:32:37.338Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 68844937961281540",
       "id": "68844937961281540",
       "image": null,
       "ownerUserId": null,

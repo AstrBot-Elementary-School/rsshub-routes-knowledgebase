@@ -11540,6 +11540,12 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `5`
 - Index File: `index/yinxiang.md`
 
+## Yinxu Museum
+- Namespace: `yinxubwg`
+- Aliases: `www, www.yinxubwg.cn, yinxu museum, yinxubwg, yinxubwg.cn`
+- Route Count: `2`
+- Index File: `index/yinxubwg.md`
+
 ## 月幕 Galgame
 - Namespace: `ymgal`
 - Aliases: `ymgal, ymgal.games, 月幕 galgame`

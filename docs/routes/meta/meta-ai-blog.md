@@ -39,7 +39,7 @@ _None_
     "programming"
   ],
   "example": "/meta/ai/blog",
-  "heat": 215,
+  "heat": 216,
   "location": "ai-blog.ts",
   "maintainers": [
     "TonyRL"
