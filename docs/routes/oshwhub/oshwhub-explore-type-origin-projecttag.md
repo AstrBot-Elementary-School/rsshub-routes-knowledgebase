@@ -1531,8 +1531,8 @@
   "topFeeds": [
     {
       "description": "开源广场-EDA开源硬件平台，硬件工程师的电路家园 - Powered by RSSHub",
-      "errorAt": "2026-09-12T08:01:29.135Z",
-      "errorMessage": "[GET] \"https://oshwhub.com/api/project_tags\": 418 I'm a teapot\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "202562470263424000",
       "image": "https://static.oshwhub.com/web-assets/oshwhub/images/header-footer/logo.png?v=1788255512518",
       "ownerUserId": null,
@@ -1543,8 +1543,8 @@
     },
     {
       "description": "开源广场-EDA开源硬件平台，硬件工程师的电路家园 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-12T18:26:33.238Z",
+      "errorMessage": "KV PUT failed: 429 Too Many Requests\n",
       "id": "215454511119244288",
       "image": "https://static.oshwhub.com/web-assets/oshwhub/images/header-footer/logo.png?v=1788255512518",
       "ownerUserId": null,

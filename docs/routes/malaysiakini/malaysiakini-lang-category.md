@@ -125,7 +125,7 @@
     {
       "description": "News & Views That Matter - Powered by RSSHub",
       "errorAt": "2026-09-07T10:16:30.919Z",
-      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/884885-%E5%AE%89%E5%8D%8E%E6%99%A4%E6%99%AE%E6%B1%80%E5%BB%BA%E8%AE%AE%E8%AE%BE%E6%9C%BA%E5%88%B6%E5%8A%A0%E5%BF%AB%E8%90%BD%E5%AE%9E%E4%B8%A4%E5%9B%BD%E6%89%80%E6%9C%89%E5%8D%8F%E8%AE%AE\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/884929-%E6%9C%AB%E5%93%88%E5%B1%B1%E4%BF%83%E4%BC%8A%E5%85%9A%E8%A7%A3%E6%95%A3%E7%99%BB%E8%AE%AE%E4%BC%9A%E8%AF%95%E9%AA%8C%E5%90%88%E4%BD%9C%E5%B9%B6%E5%B1%95%E7%8E%B0%E8%AF%9A%E6%84%8F\": 404 Not Found\n",
       "id": "69685104073634816",
       "image": null,
       "ownerUserId": null,
@@ -137,7 +137,7 @@
     {
       "description": "News & Views That Matter - Powered by RSSHub",
       "errorAt": "2026-09-07T09:32:19.566Z",
-      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/884912-tok-mat-umno-wants-early-ge16-but-alliances-to-vary-by-state\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/884932-zahid-dares-harapan-to-kick-umno-out-of-putrajaya-dissolve-parliament\": 404 Not Found\n",
       "id": "61840955600323584",
       "image": null,
       "ownerUserId": null,

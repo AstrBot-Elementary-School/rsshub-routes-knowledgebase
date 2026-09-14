@@ -78,8 +78,8 @@ _None_
   "topFeeds": [
     {
       "description": "Browse the latest news from the world's leading research journal. - Powered by RSSHub",
-      "errorAt": "2026-06-19T20:42:09.170Z",
-      "errorMessage": "Unexpected end of JSON input\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "79390521827702784",
       "image": null,
       "ownerUserId": null,

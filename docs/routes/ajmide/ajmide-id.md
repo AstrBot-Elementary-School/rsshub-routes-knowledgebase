@@ -79,7 +79,7 @@ _None_
     {
       "description": "一些事一些情 - Powered by RSSHub",
       "errorAt": "2026-04-10T07:47:26.522Z",
-      "errorMessage": "Cannot read properties of undefined (reading '0')\nCannot read properties of undefined (reading '0')\n",
+      "errorMessage": "502 \nCannot read properties of undefined (reading '0')\n",
       "id": "58782515556028416",
       "image": "https://img-ossimg-qn.ajmide.com/c_up/571ef0d2839d34522c55d628306bb971.jpg@150w_150h_1e_1c",
       "ownerUserId": null,

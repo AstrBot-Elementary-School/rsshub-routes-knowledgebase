@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4848,
+  "heat": 4850,
   "location": "daily.ts",
   "maintainers": [
     "nczitzk",
@@ -73,13 +73,13 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "1. OpenAI 宣布暂停 200 美元 Pro 20X 新增订阅，因需求过大 2. 燧原科技正式登陆科创板 3. 微信语音电话惊现「零接触」漏洞：未接来电账号或已被悄然劫持 4. 美光称将发放史上最高员工奖金 中国台湾地区员工将获 35-68 个月薪资奖励 5. 智谱联合杭州市政府推出 Coding Plan 普惠行动 购买年卡享受 51% 政府补贴 6. SpaceXAI 团队将直播从零开始建立一家公司，全程用 Grok Bot 7. 打假网红「铁头」因敲诈勒索被判八年 8. 试用期被劝退员工冒充业务负责人引流付费咨询，抖音：拟起诉维权 9. Kimi K2.8 Preview 全量上线：性能逼近 K3，支持 1M 上下文 10. OpenAI：推出 Agents API 公开测试版 11. 长鑫利润率反超三星 SK 海力士：存储芯片企业全球最高 12. 宇树跌破 500 元，一级市场融资连续下跌，机器人步入冷静期 - Powered by RSSHub",
+      "description": "1. 月之暗面报案：网传关于创始人及员工的信息系恶意造谣 2. 英伟达洽谈在 Anthropic IPO 中投资高达 100 亿美元 3. DeepSeek 灰度测试 AI 语音对话，支持四种音色 4. 网传比亚迪拟取消年度利润奖，官方账号被员工刷屏 5. 段永平回应「关注泡泡玛特跟李诞有关」：无关，但王宁微信是他给我的 6. AI 宣称证明 Komlós 猜想，菲尔兹奖得主发声明警示 7. iPhone Duo 近百万人预约 黄牛炒至 9 万元 8. 高盛、美银等争夺管理 Anthropic 员工 IPO 巨额财富 9. 瑞幸获 10 亿美元投资 10. 余涌出任阿里健康董事长兼 CEO - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "52347176714948614",
       "image": "https://readhub.cn/icons/icon-192x192.png",
       "ownerUserId": null,
-      "siteUrl": "https://api.readhub.cn/daily",
+      "siteUrl": "https://readhub.cn/daily",
       "title": "Readhub - 每日早报",
       "type": "feed",
       "url": "rsshub://readhub/daily"

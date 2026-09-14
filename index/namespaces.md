@@ -374,6 +374,12 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `1`
 - Index File: `index/abc.md`
 
+## ABC Tenpo
+- Namespace: `abc-tenpo`
+- Aliases: `abc tenpo, abc-tenpo, abc-tenpo.com, www, www.abc-tenpo.com`
+- Route Count: `1`
+- Index File: `index/abc-tenpo.md`
+
 ## 链新闻 ABMedia
 - Namespace: `abmedia`
 - Aliases: `abmedia, abmedia.io, www, www.abmedia.io, 链新闻 abmedia`
@@ -1459,6 +1465,12 @@ Use this file to select the target namespace before opening route documents.
 - Aliases: `bugzilla, bugzilla.org`
 - Route Count: `1`
 - Index File: `index/bugzilla.md`
+
+## Bukenavi
+- Namespace: `bukenavi`
+- Aliases: `bukenavi, bukenavi.jp`
+- Route Count: `1`
+- Index File: `index/bukenavi.md`
 
 ## 不良林
 - Namespace: `bulianglin`
@@ -5720,6 +5732,12 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `2`
 - Index File: `index/inoreader.md`
 
+## Inshokuten.com
+- Namespace: `inshokuten`
+- Aliases: `inshokuten, inshokuten.com, www, www.inshokuten.com`
+- Route Count: `1`
+- Index File: `index/inshokuten.md`
+
 ## INSPIRE
 - Namespace: `inspirehep`
 - Aliases: `inspire, inspirehep, inspirehep.net`
@@ -5737,6 +5755,12 @@ Use this file to select the target namespace before opening route documents.
 - Aliases: `instructables, instructables.com`
 - Route Count: `1`
 - Index File: `index/instructables.md`
+
+## Inuki Ichiba
+- Namespace: `inuki-ichiba`
+- Aliases: `inuki ichiba, inuki-ichiba, inuki-ichiba.jp`
+- Route Count: `1`
+- Index File: `index/inuki-ichiba.md`
 
 ## 中国投资者网
 - Namespace: `investor`
@@ -5797,6 +5821,12 @@ Use this file to select the target namespace before opening route documents.
 - Aliases: `iresearch, iresearch.com.cn, 艾瑞咨询`
 - Route Count: `2`
 - Index File: `index/iresearch.md`
+
+## iri-search
+- Namespace: `iri-search`
+- Aliases: `iri-search, iri-search.net, www, www.iri-search.net`
+- Route Count: `1`
+- Index File: `index/iri-search.md`
 
 ## Institute of Science Tokyo
 - Namespace: `isct`
@@ -6565,6 +6595,12 @@ Use this file to select the target namespace before opening route documents.
 - Aliases: `iyingdi.com, lfsyd, www, www.iyingdi.com, 旅法师营地`
 - Route Count: `4`
 - Index File: `index/lfsyd.md`
+
+## Japan Local Government
+- Namespace: `lg`
+- Aliases: `japan local government, lg, lg.jp`
+- Route Count: `1`
+- Index File: `index/lg.md`
 
 ## 联合资信评估股份有限公司
 - Namespace: `lhratings`
@@ -9572,6 +9608,12 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `1`
 - Index File: `index/solidot.md`
 
+## Sonomama
+- Namespace: `sonomama`
+- Aliases: `sonomama, sonomama.net, www, www.sonomama.net`
+- Route Count: `1`
+- Index File: `index/sonomama.md`
+
 ## Sony
 - Namespace: `sony`
 - Aliases: `sony, sony.com`
@@ -10027,6 +10069,24 @@ Use this file to select the target namespace before opening route documents.
 - Aliases: `t, t.me, telegram`
 - Route Count: `5`
 - Index File: `index/telegram.md`
+
+## Temponw
+- Namespace: `temponw`
+- Aliases: `temponw, temponw.com, www, www.temponw.com`
+- Route Count: `1`
+- Index File: `index/temponw.md`
+
+## Temposmart
+- Namespace: `temposmart`
+- Aliases: `temposmart, temposmart.jp, www, www.temposmart.jp`
+- Route Count: `1`
+- Index File: `index/temposmart.md`
+
+## Tenant Shop Network
+- Namespace: `tenant-shop`
+- Aliases: `tenant shop network, tenant-shop, tenant-shop.com, www, www.tenant-shop.com`
+- Route Count: `1`
+- Index File: `index/tenant-shop.md`
 
 ## 腾讯
 - Namespace: `tencent`

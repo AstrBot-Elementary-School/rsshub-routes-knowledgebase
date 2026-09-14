@@ -64,18 +64,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Timeline - Victor Sales - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "131925929537537024",
-      "image": "https://cdn.cara.app/production/profiles/c0bf0283-3381-4128-81e1-706b580b8ddf/The_Dhow_Rostos7.jpg",
-      "ownerUserId": null,
-      "siteUrl": "https://cara.app/vsalesv/all",
-      "title": "Timeline - Victor Sales",
-      "type": "feed",
-      "url": "rsshub://cara/timeline/vsalesv"
-    },
-    {
       "description": "Timeline - 127 - Powered by RSSHub",
       "errorAt": "2025-11-26T14:20:48.941Z",
       "errorMessage": "[GET] \"https://cara.app/explore\": 403 Forbidden\n",
@@ -86,6 +74,18 @@ _None_
       "title": "Timeline - 127",
       "type": "feed",
       "url": "rsshub://cara/timeline/alonelee127"
+    },
+    {
+      "description": "Timeline - Nathan Fowkes - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "131922100224243712",
+      "image": "https://cdn.cara.app/production/profiles/e3934f00-3471-41dc-9700-11b58cfd4044/facebook-profile2.jpg",
+      "ownerUserId": null,
+      "siteUrl": "https://cara.app/nathanfowkesart/all",
+      "title": "Timeline - Nathan Fowkes",
+      "type": "feed",
+      "url": "rsshub://cara/timeline/nathanfowkesart"
     }
   ]
 }

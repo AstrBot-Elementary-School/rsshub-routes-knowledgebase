@@ -64,8 +64,8 @@ _None_
   "topFeeds": [
     {
       "description": "OpenAI News - Powered by RSSHub",
-      "errorAt": "2026-09-11T19:16:11.172Z",
-      "errorMessage": "[GET] \"https://openai.com/index/perplexity-improving-accuracy-with-astra\": 403 Forbidden\n[GET] \"https://openai.com/index/cognition-devin-testing-with-astra/\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "139523607422199808",
       "image": null,
       "ownerUserId": null,

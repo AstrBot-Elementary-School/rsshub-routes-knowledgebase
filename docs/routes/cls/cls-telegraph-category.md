@@ -57,7 +57,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1499,
+  "heat": 1500,
   "location": "telegraph.tsx",
   "maintainers": [
     "nczitzk"
@@ -94,8 +94,8 @@
     },
     {
       "description": "财联社 - 电报 - 加红 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-13T10:33:46.656Z",
+      "errorMessage": "503 \n",
       "id": "59187056197799936",
       "image": null,
       "ownerUserId": null,

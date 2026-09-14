@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 919,
+  "heat": 918,
   "location": "user-collection.ts",
   "maintainers": [
     "shininome",
@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "IT咖啡馆 的 bilibili 合集 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-12T13:31:11.816Z",
+      "errorMessage": "500 \n[GET] \"https://api.bilibili.com/x/polymer/web-space/seasons_archives_list?mid=65564239&season_id=1982929&sort_reverse=true&page_num=1&page_size=25\": 412 Precondition Failed\n",
       "id": "59567779750919168",
       "image": "https://i1.hdslb.com/bfs/face/9d5e047e428b1cb235ab0e60d6371c0808f5c121.jpg",
       "ownerUserId": null,

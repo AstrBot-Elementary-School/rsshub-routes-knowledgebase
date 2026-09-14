@@ -89,8 +89,8 @@
     },
     {
       "description": "环球网 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-13T09:57:24.779Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 67440517507274752",
       "id": "67440517507274752",
       "image": null,
       "ownerUserId": null,

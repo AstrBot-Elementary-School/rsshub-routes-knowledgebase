@@ -208,18 +208,6 @@ To subscribe to [Potplayer Update History](https://t1.daumcdn.net/potplayer/PotP
       "description": "PotPlayer Update History - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "182729503499199488",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://t1.daumcdn.net/potplayer/PotPlayer/v4/Update2/UpdateEng.html",
-      "title": "PotPlayer Update History",
-      "type": "feed",
-      "url": "rsshub://daum/potplayer/Eng"
-    },
-    {
-      "description": "PotPlayer Update History - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "182729097601498112",
       "image": null,
       "ownerUserId": null,
@@ -227,6 +215,18 @@ To subscribe to [Potplayer Update History](https://t1.daumcdn.net/potplayer/PotP
       "title": "PotPlayer Update History",
       "type": "feed",
       "url": "rsshub://daum/potplayer"
+    },
+    {
+      "description": "PotPlayer Update History - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "182729503499199488",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://t1.daumcdn.net/potplayer/PotPlayer/v4/Update2/UpdateEng.html",
+      "title": "PotPlayer Update History",
+      "type": "feed",
+      "url": "rsshub://daum/potplayer/Eng"
     }
   ],
   "url": "potplayer.daum.net",

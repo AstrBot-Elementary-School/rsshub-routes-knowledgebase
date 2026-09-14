@@ -448,16 +448,16 @@
       "url": "rsshub://hust/gs/xwdt"
     },
     {
-      "description": "学位工作 - Powered by RSSHub",
-      "errorAt": "2026-05-18T13:27:59.677Z",
-      "errorMessage": "Failed to fetch\n",
-      "id": "73885326299630592",
+      "description": "课程及考试安排 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "66343158574786560",
       "image": "https://gs.hust.edu.cn/img/logo.png",
       "ownerUserId": null,
-      "siteUrl": "https://gs.hust.edu.cn/tzgg/xwgz.htm",
-      "title": "华中科技大学研究生院 - 学位工作",
+      "siteUrl": "https://gs.hust.edu.cn/tzgg/kcjksap.htm",
+      "title": "华中科技大学研究生院 - 课程及考试安排",
       "type": "feed",
-      "url": "rsshub://hust/gs/tzgg/xwgz"
+      "url": "rsshub://hust/gs/tzgg/kcjksap"
     }
   ],
   "url": "gs.hust.edu.cn"

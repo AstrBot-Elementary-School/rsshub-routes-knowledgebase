@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2529,
+  "heat": 2530,
   "location": "index.ts",
   "maintainers": [
     "laampui"
@@ -77,8 +77,8 @@ _None_
   "topFeeds": [
     {
       "description": "金十数据 - Powered by RSSHub",
-      "errorAt": "2026-09-12T09:27:30.109Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 44366244616936448",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "44366244616936448",
       "image": null,
       "ownerUserId": null,
@@ -89,7 +89,7 @@ _None_
     },
     {
       "description": "金十数据 - Powered by RSSHub",
-      "errorAt": "2026-09-12T06:11:44.155Z",
+      "errorAt": "2026-09-13T08:56:10.691Z",
       "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "72573375336611840",
       "image": null,

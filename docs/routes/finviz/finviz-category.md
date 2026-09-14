@@ -92,8 +92,8 @@
   "topFeeds": [
     {
       "description": "Stock screener for investors and traders, financial visualizations. - Powered by RSSHub",
-      "errorAt": "2026-09-12T08:12:34.372Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 72642794272886784",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "72642794272886784",
       "image": "https://finviz.com/undefined",
       "ownerUserId": null,

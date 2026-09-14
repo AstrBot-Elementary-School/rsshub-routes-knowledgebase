@@ -99,8 +99,8 @@
   "topFeeds": [
     {
       "description": "關鍵字 按相关度排序 搜索結果 - JavDB - Powered by RSSHub",
-      "errorAt": "2026-09-12T08:12:37.780Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 67212739482473472",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "67212739482473472",
       "image": null,
       "ownerUserId": null,

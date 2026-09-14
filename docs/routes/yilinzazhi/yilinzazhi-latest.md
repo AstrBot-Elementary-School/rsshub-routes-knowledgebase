@@ -40,7 +40,7 @@ _None_
   ],
   "description": "最近一期的文章汇总",
   "example": "/yilinzazhi/latest",
-  "heat": 519,
+  "heat": 520,
   "location": "latest.ts",
   "maintainers": [
     "g0ngjie"
@@ -62,7 +62,7 @@ _None_
     {
       "description": "意林 - 近期文章汇总 - Powered by RSSHub",
       "errorAt": "2024-10-08T03:58:34.168Z",
-      "errorMessage": "502 \n(intermediate value).flatMap is not a function\n",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n(intermediate value).flatMap is not a function\n",
       "id": "60546375521699840",
       "image": null,
       "ownerUserId": null,

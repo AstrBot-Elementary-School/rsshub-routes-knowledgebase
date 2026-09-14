@@ -75,7 +75,7 @@ _None_
     {
       "description": "天下雜誌每日精選財經、國際、管理、教育、經濟學人、評論、時尚，深入解讀世界脈動。 - Powered by RSSHub",
       "errorAt": "2026-07-29T06:03:58.928Z",
-      "errorMessage": "Target page, context or browser has been closed\nCall log:\n  - waiting for locator('.caption') to be visible\n    2 × waiting for \"https://www.cw.com.tw/today\" navigation to finish...\n      - navigated to \"https://www.cw.com.tw/today\"\n\n",
+      "errorMessage": "503 \n",
       "id": "60230426333120512",
       "image": "https://www.cw.com.tw/assets_new/img/fbshare.jpg",
       "ownerUserId": null,

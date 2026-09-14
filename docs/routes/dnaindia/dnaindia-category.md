@@ -78,15 +78,15 @@ _None_
     },
     {
       "description": null,
-      "errorAt": "2025-06-29T08:29:38.093Z",
+      "errorAt": "2025-06-29T08:29:37.667Z",
       "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
-      "id": "162063218996792352",
+      "id": "162063218996792351",
       "image": null,
       "ownerUserId": null,
       "siteUrl": null,
       "title": "Importing",
       "type": "feed",
-      "url": "rsshub://dnaindia/world"
+      "url": "rsshub://dnaindia/india"
     }
   ],
   "url": "www.dnaindia.com"

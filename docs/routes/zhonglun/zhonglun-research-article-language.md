@@ -132,8 +132,8 @@
     },
     {
       "description": "中伦律师事务所官方网站 - ARTICLES 专业文章 - Powered by RSSHub",
-      "errorAt": "2026-09-12T03:01:52.142Z",
-      "errorMessage": "[GET] \"https://www.zhonglun.com/research/articles\": 522 <none>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "166932773326277632",
       "image": "https://www.zhonglun.com/upload/static/images/logo.png",
       "ownerUserId": null,

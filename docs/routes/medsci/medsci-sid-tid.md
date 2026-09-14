@@ -91,7 +91,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 325,
+  "heat": 326,
   "location": "index.ts",
   "maintainers": [
     "nczitzk"
@@ -108,8 +108,8 @@ _None_
   "topFeeds": [
     {
       "description": "推荐 - MedSci.cn - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-13T09:17:25.066Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 70825962351576064",
       "id": "70825962351576064",
       "image": null,
       "ownerUserId": null,
@@ -120,8 +120,8 @@ _None_
     },
     {
       "description": "心血管 - MedSci.cn - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-13T09:17:44.147Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 66942767614244865",
       "id": "66942767614244865",
       "image": null,
       "ownerUserId": null,

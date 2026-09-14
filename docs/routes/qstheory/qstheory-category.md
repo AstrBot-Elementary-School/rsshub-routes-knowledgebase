@@ -79,16 +79,16 @@ _None_
       "url": "rsshub://qstheory"
     },
     {
-      "description": "- 求是网 - Powered by RSSHub",
+      "description": "党建 - 求是网 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "81625152130833408",
+      "id": "83847865922732032",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "http://www.qstheory.cn/v9zhuanqu/toutiao/index.htm",
-      "title": "- 求是网",
+      "siteUrl": "http://www.qstheory.cn/cpc/index.htm",
+      "title": "党建 - 求是网",
       "type": "feed",
-      "url": "rsshub://qstheory/toutiao"
+      "url": "rsshub://qstheory/cpc"
     }
   ]
 }

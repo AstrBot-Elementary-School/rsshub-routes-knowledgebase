@@ -89,8 +89,8 @@
   "topFeeds": [
     {
       "description": "TVB News - 要聞 - Powered by RSSHub",
-      "errorAt": "2026-09-12T00:46:57.868Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 61348313469205504",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "61348313469205504",
       "image": null,
       "ownerUserId": null,

@@ -39,7 +39,7 @@ _None_
     "other"
   ],
   "example": "/zaker/focusread",
-  "heat": 297,
+  "heat": 298,
   "location": "focus.ts",
   "maintainers": [
     "AlexdanerZe",
@@ -61,8 +61,8 @@ _None_
   "topFeeds": [
     {
       "description": "ZAKER 精读新闻 - Powered by RSSHub",
-      "errorAt": "2026-09-12T09:48:42.695Z",
-      "errorMessage": "Failed to fetch\nFailed to fetch\n[GET] \"https://www.myzaker.com/?pos=selected_article\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "54945423974379534",
       "image": null,
       "ownerUserId": null,

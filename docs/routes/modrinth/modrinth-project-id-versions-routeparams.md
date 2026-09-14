@@ -116,16 +116,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "Fabric API implemented on top of NeoForge - Powered by RSSHub",
+      "description": "Easily develop plugins that support the majority of server software! Supports Folia too! - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "120750574474919936",
+      "id": "114583216473709568",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/forgified-fabric-api",
-      "title": "Forgified Fabric API Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/6owv5fWs",
+      "title": "BukkitOfUtils Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/forgified-fabric-api/versions"
+      "url": "rsshub://modrinth/project/6owv5fWs/versions"
     }
   ]
 }

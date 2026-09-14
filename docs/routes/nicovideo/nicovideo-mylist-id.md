@@ -39,7 +39,7 @@ _None_
     "multimedia"
   ],
   "example": "/nicovideo/mylist/2973737",
-  "heat": 0,
+  "heat": 1,
   "location": "mylist.ts",
   "maintainers": [
     "esperecyan"
@@ -61,6 +61,19 @@ _None_
     "code": 1,
     "message": "AssertionError: expected 421674545246 to be less than 311040000000\n    at checkDate (/home/runner/work/RSSHub/RSSHub/lib/app.test.ts:62:46)\n    at checkRSS (/home/runner/work/RSSHub/RSSHub/lib/app.test.ts:87:13)\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:106:17\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
-  "topFeeds": []
+  "topFeeds": [
+    {
+      "description": "マイリスト 作った音楽‐ニコニコ動画 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "1286338181087494144",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.nicovideo.jp/user/13813006/mylist/33753855",
+      "title": "マイリスト 作った音楽‐ニコニコ動画",
+      "type": "feed",
+      "url": "rsshub://nicovideo/mylist/33753855"
+    }
+  ]
 }
 ```

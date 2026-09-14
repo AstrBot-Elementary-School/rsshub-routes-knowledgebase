@@ -88,8 +88,8 @@ _None_
     },
     {
       "description": "给技术人奉上当日新鲜的科技资讯和技术干货！ - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-13T08:55:22.041Z",
+      "errorMessage": "Failed to fetch\nFailed to fetch\nFailed to fetch\n",
       "id": "63118600077338631",
       "image": null,
       "ownerUserId": null,

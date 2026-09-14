@@ -162,8 +162,8 @@ _None_
     },
     {
       "description": "动漫文化 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-13T09:17:20.607Z",
+      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 72507398900406272",
       "id": "72507398900406272",
       "image": null,
       "ownerUserId": null,

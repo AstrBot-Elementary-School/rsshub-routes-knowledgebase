@@ -89,8 +89,8 @@ _None_
     },
     {
       "description": "Liveuamap - china - Powered by RSSHub",
-      "errorAt": "2026-09-12T05:31:32.704Z",
-      "errorMessage": "[GET] \"https://china.liveuamap.com/\": 502 Bad Gateway\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "85175414937704448",
       "image": null,
       "ownerUserId": null,
