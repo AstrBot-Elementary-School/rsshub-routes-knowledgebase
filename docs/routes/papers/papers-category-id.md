@@ -2301,8 +2301,8 @@ To subscribe to [Artificial Intelligence (cs.AI)](https://papers.cool/arxiv/cs.A
   "topFeeds": [
     {
       "description": "The list of papers for Artificial Intelligence category on arXiv, including titles, authors, and abstracts, with support for paper interpretation based on Kimi AI. - Powered by RSSHub",
-      "errorAt": "2026-09-13T06:47:48.051Z",
-      "errorMessage": "[GET] \"https://papers.cool/arxiv/cs.AI?show=50\": 502 Bad Gateway\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "111428132263361536",
       "image": null,
       "ownerUserId": null,

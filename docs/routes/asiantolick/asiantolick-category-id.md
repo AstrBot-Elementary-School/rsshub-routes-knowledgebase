@@ -52,7 +52,7 @@
   "features": {
     "nsfw": true
   },
-  "heat": 1,
+  "heat": 3,
   "location": "category.ts",
   "maintainers": [
     "nczitzk"
@@ -85,6 +85,18 @@
       "title": "Asian To Lick - 🔥 Hard Sexy",
       "type": "feed",
       "url": "rsshub://asiantolick/category/103"
+    },
+    {
+      "description": "Hot SisterPosts, albuns and galleries related to tag - the hottest images of sexy and cute asian girls free to download. - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "1288049197223641088",
+      "image": "https://asiantolick.com/src/favicon/ms-icon-144x144.png",
+      "ownerUserId": null,
+      "siteUrl": "https://asiantolick.com/category-91",
+      "title": "Asian To Lick - 🔥 Hot Sister",
+      "type": "feed",
+      "url": "rsshub://asiantolick/category/91"
     }
   ],
   "url": "asiantolick.com/"

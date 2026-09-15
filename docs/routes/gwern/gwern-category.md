@@ -36,7 +36,7 @@ _None_
     "blog"
   ],
   "example": "/gwern/newest",
-  "heat": 0,
+  "heat": 1,
   "location": "category.ts",
   "maintainers": [
     "cerebrater"

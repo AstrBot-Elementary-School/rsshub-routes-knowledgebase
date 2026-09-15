@@ -57,7 +57,7 @@ _None_
     {
       "description": "淘股吧股票论坛总版 - Powered by RSSHub",
       "errorAt": "2026-06-24T21:12:43.752Z",
-      "errorMessage": "[GET] \"https://www.tgb.cn//a/2uYFSt1i6tJ\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://www.tgb.cn//a/2v3yqJhjVnQ\": 404 Not Found\n",
       "id": "101439531051305984",
       "image": null,
       "ownerUserId": null,
@@ -69,7 +69,7 @@ _None_
     {
       "description": "淘股吧散户炒股交流点赞牛贴 - Powered by RSSHub",
       "errorAt": "2026-07-02T22:09:34.740Z",
-      "errorMessage": "[GET] \"https://www.tgb.cn//a/2v0jz0yc04B\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://www.tgb.cn//a/2v0pp8UhgtA\": 404 Not Found\n",
       "id": "115961018043937792",
       "image": null,
       "ownerUserId": null,

@@ -377,7 +377,7 @@ Use this file to select the target namespace before opening route documents.
 ## ABC Tenpo
 - Namespace: `abc-tenpo`
 - Aliases: `abc tenpo, abc-tenpo, abc-tenpo.com, www, www.abc-tenpo.com`
-- Route Count: `1`
+- Route Count: `2`
 - Index File: `index/abc-tenpo.md`
 
 ## 链新闻 ABMedia
@@ -407,7 +407,7 @@ Use this file to select the target namespace before opening route documents.
 ## AcFun
 - Namespace: `acfun`
 - Aliases: `acfun, acfun.cn, www, www.acfun.cn`
-- Route Count: `3`
+- Route Count: `4`
 - Index File: `index/acfun.md`
 
 ## ACG17
@@ -5735,7 +5735,7 @@ Use this file to select the target namespace before opening route documents.
 ## Inshokuten.com
 - Namespace: `inshokuten`
 - Aliases: `inshokuten, inshokuten.com, www, www.inshokuten.com`
-- Route Count: `1`
+- Route Count: `2`
 - Index File: `index/inshokuten.md`
 
 ## INSPIRE
@@ -6260,6 +6260,12 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `1`
 - Index File: `index/keepass.md`
 
+## Keio Corporation
+- Namespace: `keio`
+- Aliases: `keio, keio corporation, keio.co.jp, www, www.keio.co.jp`
+- Route Count: `1`
+- Index File: `index/keio.md`
+
 ## Kelowna Capital News
 - Namespace: `kelownacapnews`
 - Aliases: `kelowna capital news, kelownacapnews, kelownacapnews.com, www, www.kelownacapnews.com`
@@ -6599,7 +6605,7 @@ Use this file to select the target namespace before opening route documents.
 ## Japan Local Government
 - Namespace: `lg`
 - Aliases: `japan local government, lg, lg.jp`
-- Route Count: `1`
+- Route Count: `2`
 - Index File: `index/lg.md`
 
 ## 联合资信评估股份有限公司
@@ -8059,6 +8065,12 @@ Use this file to select the target namespace before opening route documents.
 - Aliases: `odaily, odaily 星球日报, odaily.news`
 - Route Count: `5`
 - Index File: `index/odaily.md`
+
+## Odakyu Electric Railway
+- Namespace: `odakyu`
+- Aliases: `odakyu, odakyu electric railway, odakyu.jp, www, www.odakyu.jp`
+- Route Count: `1`
+- Index File: `index/odakyu.md`
 
 ## 南方都市报
 - Namespace: `oeeee`
@@ -10345,6 +10357,18 @@ Use this file to select the target namespace before opening route documents.
 - Aliases: `tokeninsight, tokeninsight.com`
 - Route Count: `3`
 - Index File: `index/tokeninsight.md`
+
+## Tokyo Metro
+- Namespace: `tokyometro`
+- Aliases: `tokyo metro, tokyometro, tokyometro.jp, www, www.tokyometro.jp`
+- Route Count: `1`
+- Index File: `index/tokyometro.md`
+
+## Tokyu Railways
+- Namespace: `tokyu`
+- Aliases: `tokyu, tokyu railways, tokyu.co.jp, www, www.tokyu.co.jp`
+- Route Count: `1`
+- Index File: `index/tokyu.md`
 
 ## 同济大学
 - Namespace: `tongji`

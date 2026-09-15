@@ -6,7 +6,7 @@
 - URL: `www.inshokuten.com`
 - Language: `_None_`
 - Aliases: `inshokuten, inshokuten.com, www, www.inshokuten.com`
-- Route Count: `1`
+- Route Count: `2`
 
 ## Routes
 
@@ -15,5 +15,13 @@
 - Route Path: `/inshokuten/bukken/:area?`
 - File: `docs/routes/inshokuten/inshokuten-bukken-area.md`
 - File Name: `inshokuten-bukken-area.md`
+- Categories: `other`
+- Maintainers: `pseudoyu`
+
+### 賃料相場
+- Route ID: `inshokuten:/inshokuten/rent-benchmark/:area?/:line?`
+- Route Path: `/inshokuten/rent-benchmark/:area?/:line?`
+- File: `docs/routes/inshokuten/inshokuten-rent-benchmark-area-line.md`
+- File Name: `inshokuten-rent-benchmark-area-line.md`
 - Categories: `other`
 - Maintainers: `pseudoyu`

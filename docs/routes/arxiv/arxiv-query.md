@@ -60,7 +60,7 @@ _None_
     {
       "description": "arXiv (search_query=cat:cs.AI&sortBy=submittedDate) - Powered by RSSHub",
       "errorAt": "2026-09-13T05:06:44.919Z",
-      "errorMessage": "503 \n",
+      "errorMessage": "[GET] \"https://export.arxiv.org/api/query?search_query=cat:cs.AI&sortBy=submittedDate\": 429 Too Many Requests\n",
       "id": "250564935356404745",
       "image": null,
       "ownerUserId": null,

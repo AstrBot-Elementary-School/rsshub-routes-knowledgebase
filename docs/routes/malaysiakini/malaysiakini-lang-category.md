@@ -125,7 +125,7 @@
     {
       "description": "News & Views That Matter - Powered by RSSHub",
       "errorAt": "2026-09-07T10:16:30.919Z",
-      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/884929-%E6%9C%AB%E5%93%88%E5%B1%B1%E4%BF%83%E4%BC%8A%E5%85%9A%E8%A7%A3%E6%95%A3%E7%99%BB%E8%AE%AE%E4%BC%9A%E8%AF%95%E9%AA%8C%E5%90%88%E4%BD%9C%E5%B9%B6%E5%B1%95%E7%8E%B0%E8%AF%9A%E6%84%8F\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/885009-%E8%AF%95%E6%83%B3%E8%8B%A5%E9%A2%86%E7%A5%B7%E5%B8%88%E8%A2%AB%E6%8B%BF%E6%9D%A5%E5%BC%80%E7%8E%A9%E7%AC%91%E9%98%BF%E5%85%8B%E7%8E%9B%E4%BF%83%E5%B7%AB%E7%BB%9F%E4%BB%A3%E8%A1%A8%E9%81%93%E6%AD%89\": 404 Not Found\n",
       "id": "69685104073634816",
       "image": null,
       "ownerUserId": null,
@@ -137,7 +137,7 @@
     {
       "description": "News & Views That Matter - Powered by RSSHub",
       "errorAt": "2026-09-07T09:32:19.566Z",
-      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/884932-zahid-dares-harapan-to-kick-umno-out-of-putrajaya-dissolve-parliament\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/884992-pas-demands-putrajaya-explain-pardons-boards-deferment-of-najibs-application\": 404 Not Found\n",
       "id": "61840955600323584",
       "image": null,
       "ownerUserId": null,

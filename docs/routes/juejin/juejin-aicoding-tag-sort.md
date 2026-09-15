@@ -189,8 +189,8 @@ _None_
   "topFeeds": [
     {
       "description": "AI 编程 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-14T09:32:14.255Z",
+      "errorMessage": "[GET] \"https://juejin.cn/post/7685261384724250666\": 403 Forbidden\n[GET] \"https://juejin.cn/post/7685190703505915930\": 403 Forbidden\n",
       "id": "189493956607037440",
       "image": "https://lf-web-assets.juejin.cn/obj/juejin-web/goofy_deploy_edenx/toutiao-fe/xitu_juejin_aicoding/favicon.ico",
       "ownerUserId": null,

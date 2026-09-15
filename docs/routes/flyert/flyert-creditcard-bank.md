@@ -96,8 +96,8 @@
   "topFeeds": [
     {
       "description": "飞客茶馆信用卡 - 国内信用卡 - Powered by RSSHub",
-      "errorAt": "2026-09-13T08:51:32.626Z",
-      "errorMessage": "[GET] \"https://www.flyert.com.cn/forum-creditcard-1.html\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "55873225615650816",
       "image": null,
       "ownerUserId": null,
@@ -108,8 +108,8 @@
     },
     {
       "description": "飞客茶馆信用卡 - 招商银行 - Powered by RSSHub",
-      "errorAt": "2026-09-13T09:11:30.711Z",
-      "errorMessage": "[GET] \"https://www.flyert.com.cn/forum-zhaoshang-1.html\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "56955741222491136",
       "image": null,
       "ownerUserId": null,

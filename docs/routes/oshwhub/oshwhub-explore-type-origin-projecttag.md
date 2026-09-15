@@ -1543,8 +1543,8 @@
     },
     {
       "description": "开源广场-EDA开源硬件平台，硬件工程师的电路家园 - Powered by RSSHub",
-      "errorAt": "2026-09-12T18:26:33.238Z",
-      "errorMessage": "KV PUT failed: 429 Too Many Requests\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "215454511119244288",
       "image": "https://static.oshwhub.com/web-assets/oshwhub/images/header-footer/logo.png?v=1788255512518",
       "ownerUserId": null,

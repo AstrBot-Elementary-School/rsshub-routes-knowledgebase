@@ -51,28 +51,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "茨木甄选 商铺上新 - Powered by RSSHub",
+      "description": "妙蛙种子studio 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264527186627264512",
+      "id": "1264526070086762496",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=972619875",
-      "title": "茨木甄选 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1776674290",
+      "title": "妙蛙种子studio 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/972619875"
+      "url": "rsshub://weidian/goods/1776674290"
     },
     {
-      "description": "杰尼龟(唯一新店) 商铺上新 - Powered by RSSHub",
+      "description": "马里奥Made 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264524979299287040",
+      "id": "1264523511544545280",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1697270306",
-      "title": "杰尼龟(唯一新店) 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1335769831",
+      "title": "马里奥Made 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1697270306"
+      "url": "rsshub://weidian/goods/1335769831"
     }
   ]
 }

@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4850,
+  "heat": 4855,
   "location": "daily.ts",
   "maintainers": [
     "nczitzk",
@@ -73,7 +73,7 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "1. 月之暗面报案：网传关于创始人及员工的信息系恶意造谣 2. 英伟达洽谈在 Anthropic IPO 中投资高达 100 亿美元 3. DeepSeek 灰度测试 AI 语音对话，支持四种音色 4. 网传比亚迪拟取消年度利润奖，官方账号被员工刷屏 5. 段永平回应「关注泡泡玛特跟李诞有关」：无关，但王宁微信是他给我的 6. AI 宣称证明 Komlós 猜想，菲尔兹奖得主发声明警示 7. iPhone Duo 近百万人预约 黄牛炒至 9 万元 8. 高盛、美银等争夺管理 Anthropic 员工 IPO 巨额财富 9. 瑞幸获 10 亿美元投资 10. 余涌出任阿里健康董事长兼 CEO - Powered by RSSHub",
+      "description": "1. Anthropic CEO 呼吁前沿 AI 限速，奥特曼、马斯克表态支持 2. 奥尔特曼：OpenAI 今年不会上市 仍有大量安全工作需要完成 3. Anthropic 据悉选择在纳斯达克上市进行 IPO 4. 于东来：胖东来再招员工都是学员性质 合同 4 年、到期不续签 5. 女选手疑似赛场失禁，HYROX 中国将换地毯并消杀 6. 梅卡曼德创始人邵天兰炮轰同行虚假收入，银河通用报案 7. 智谱宣布完成约 50 亿美元融资 8. 国家数据局局长刘烈宏主持召开具身智能座谈会 9. SpaceX 在纳斯达克 100 指数中的权重将获上调 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "52347176714948614",

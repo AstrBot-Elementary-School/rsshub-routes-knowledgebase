@@ -68,8 +68,8 @@ _None_
   "topFeeds": [
     {
       "description": "文化 - Powered by RSSHub",
-      "errorAt": "2026-09-13T07:56:59.881Z",
-      "errorMessage": "[GET] \"https://www.lifeweek.com.cn/api/userWebFollow/getFollowTagContentList?type=3&sort=2&tagId=4\": 522 <none>\n",
+      "errorAt": "2026-09-14T10:43:02.354Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "74705665643397120",
       "image": null,
       "ownerUserId": null,

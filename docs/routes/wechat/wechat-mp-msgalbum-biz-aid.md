@@ -69,7 +69,7 @@ _None_
     {
       "description": "PaperAgent|LLM热点Paper - Powered by RSSHub",
       "errorAt": "2025-07-23T12:13:10.406Z",
-      "errorMessage": "wechat-mp: request blocked by WAF: : ， . Video Mini Program ...: https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HBuApGqjcadGEwDuevoaTBG5eoAqjzzKAycdrysq&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzk0MTYzMzMxMA%3D%3D%26mid%3D2247511076%26idx%3D1%26sn%3D631e04ab6738e75b9e18d312986cf6c6\nwechat-mp: request blocked by WAF: : ， . Video Mini Program ...: https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HCCApGqj4_qT2seyEAbMr4tvRdUA1f9b_osHXBR4&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzk0MTYzMzMxMA%3D%3D%26mid%3D2247511076%26idx%3D1%26sn%3D631e04ab6738e75b9e18d312986cf6c6\n",
+      "errorMessage": "wechat-mp: request blocked by WAF: 环境异常 当前环境异常，完成验证后即可继续访问。 ...: https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HJSJpmqjIP0vsBdIIIWmi404svkbJgIlSLxY_KDo&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzk0MTYzMzMxMA%3D%3D%26mid%3D2247511340%26idx%3D1%26sn%3D0916e760ff2308781151f02311457d14\nwechat-mp: request blocked by WAF: : ， . Video Mini Program ...: https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HJmJpmqjNTGiADcsnZSeG59pFV-trfrkWP0G7XRW&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzk0MTYzMzMxMA%3D%3D%26mid%3D2247511123%26idx%3D1%26sn%3Dd8e12f5a963348875736196cb61d87b7\n",
       "id": "55818057211386897",
       "image": null,
       "ownerUserId": null,
@@ -81,7 +81,7 @@ _None_
     {
       "description": "Ots安全|威胁分析 - Powered by RSSHub",
       "errorAt": "2025-07-23T05:08:30.331Z",
-      "errorMessage": "wechat-mp: request blocked by WAF: : ， . Video Mini Program ...: https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HM42pGqjnrk3sEZOxmxdIfM1BHpGEBav2EStQS_H&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzAxMjYyMzkwOA%3D%3D%26mid%3D2247536119%26idx%3D1%26sn%3D38e322e0b825d35b54add8576f3f39ff\n",
+      "errorMessage": "wechat-mp: request blocked by WAF: : ， . Video Mini Program ...: https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HCqTpmqj6I0L9tdCb2QFAP1sYD--PdaN-si8j-HH&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzAxMjYyMzkwOA%3D%3D%26mid%3D2247536145%26idx%3D2%26sn%3Df59c40b1cdf08b6f8bda9d6637d101e5\n",
       "id": "57679399689810944",
       "image": null,
       "ownerUserId": null,

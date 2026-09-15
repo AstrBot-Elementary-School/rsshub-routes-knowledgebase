@@ -6,7 +6,7 @@
 - URL: `www.acfun.cn`
 - Language: `_None_`
 - Aliases: `acfun, acfun.cn, www, www.acfun.cn`
-- Route Count: `3`
+- Route Count: `4`
 
 ## Routes
 
@@ -25,6 +25,14 @@
 - File Name: `acfun-bangumi-id-embed.md`
 - Categories: `anime`
 - Maintainers: `xyqfer`
+
+### 用户文章
+- Route ID: `acfun:/acfun/user/article/:uid`
+- Route Path: `/acfun/user/article/:uid`
+- File: `docs/routes/acfun/acfun-user-article-uid.md`
+- File Name: `acfun-user-article-uid.md`
+- Categories: `anime`
+- Maintainers: `tiaod`
 
 ### 用户投稿
 - Route ID: `acfun:/acfun/user/video/:uid/:embed?`

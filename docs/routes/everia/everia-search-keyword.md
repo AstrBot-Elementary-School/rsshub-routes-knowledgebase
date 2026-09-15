@@ -80,8 +80,8 @@ _None_
     },
     {
       "description": "EVERIA.CLUB - Search: けんけん - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-14T04:32:14.391Z",
+      "errorMessage": "503 \n",
       "id": "171529012250512384",
       "image": null,
       "ownerUserId": null,

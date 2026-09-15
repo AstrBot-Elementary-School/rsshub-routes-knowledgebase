@@ -89,7 +89,7 @@ _None_
     },
     {
       "description": "金十数据 - Powered by RSSHub",
-      "errorAt": "2026-09-13T08:56:10.691Z",
+      "errorAt": "2026-09-14T11:21:33.771Z",
       "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "72573375336611840",
       "image": null,

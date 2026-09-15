@@ -60,7 +60,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 3561,
+  "heat": 3562,
   "location": "news.tsx",
   "maintainers": [
     "quiniapiezoelectricity"
@@ -90,8 +90,8 @@
   "topFeeds": [
     {
       "description": "涵蓋突發消息、最新熱話、本地時事、國際要聞、兩岸大事、專題報導，以及《家國天下》、《議員同你傾》、《有理有得傾》等多個焦點資訊節目。 - Powered by RSSHub",
-      "errorAt": "2026-09-13T09:17:22.849Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 69780477411040256",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "69780477411040256",
       "image": null,
       "ownerUserId": null,

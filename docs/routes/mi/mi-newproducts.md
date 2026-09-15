@@ -51,7 +51,7 @@ _None_
     "supportRadar": false,
     "supportScihub": false
   },
-  "heat": 3,
+  "heat": 5,
   "location": "newproducts.ts",
   "maintainers": [
     "nuomi1"

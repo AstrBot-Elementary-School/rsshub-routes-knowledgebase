@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 32,
+  "heat": 34,
   "location": "article.ts",
   "maintainers": [
     "eternasuno"

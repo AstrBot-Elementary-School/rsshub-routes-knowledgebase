@@ -78,8 +78,8 @@ _None_
     },
     {
       "description": "V2EX-tab-apple - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-13T12:33:02.378Z",
+      "errorMessage": "[GET] \"https://v2ex.com/?tab=apple\": <no response> fetch failed (Connect Timeout Error (attempted address: v2ex.com:443, timeout: 10000ms))\n502 \n[GET] \"https://v2ex.com/?tab=apple\": 403 Forbidden\n",
       "id": "46752076079222784",
       "image": null,
       "ownerUserId": null,

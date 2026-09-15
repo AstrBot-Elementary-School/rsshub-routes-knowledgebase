@@ -94,8 +94,8 @@
     },
     {
       "description": "财联社 - 电报 - 加红 - Powered by RSSHub",
-      "errorAt": "2026-09-13T10:33:46.656Z",
-      "errorMessage": "503 \n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "59187056197799936",
       "image": null,
       "ownerUserId": null,

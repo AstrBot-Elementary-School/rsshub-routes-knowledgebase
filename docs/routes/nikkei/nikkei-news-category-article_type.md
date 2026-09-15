@@ -44,7 +44,7 @@ _None_
   ],
   "description": "| 総合 | オピニオン | 経済    | 政治     | 金融      | マーケット | ビジネス | マネーのまなび | テック     | 国際          | スポーツ | 社会・調査 | 地域  | 文化    | ライフスタイル |\n| ---- | ---------- | ------- | -------- | --------- | ---------- | -------- | -------------- | ---------- | ------------- | -------- | ---------- | ----- | ------- | -------------- |\n| news | opinion    | economy | politics | financial | business   | 不支持   | 不支持         | technology | international | sports   | society    | local | culture | lifestyle      |",
   "example": "/nikkei/news/news",
-  "heat": 70,
+  "heat": 71,
   "location": "news.tsx",
   "maintainers": [
     "Arracc",
@@ -71,8 +71,8 @@ _None_
   "topFeeds": [
     {
       "description": "【日経】ニュース速報、企業・経済の最新情報をお届けします。 - Powered by RSSHub",
-      "errorAt": "2026-09-13T10:37:27.570Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 64311587559952384",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "64311587559952384",
       "image": "https://www.nikkei.com/.resources/k-components/rectangle.rev-d54ea30.png",
       "ownerUserId": null,

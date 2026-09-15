@@ -76,7 +76,7 @@ _None_
     {
       "description": "Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates. - Powered by RSSHub",
       "errorAt": "2026-08-18T05:49:53.058Z",
-      "errorMessage": "[GET] \"https://www.coindesk.com/markets/2026/09/11/robinhood-ceo-says-companies-shouldn-t-get-veto-over-stock-tokens-in-amc-feud\": 429 Too Many Requests\n[GET] \"https://www.coindesk.com/business/2026/09/11/zodia-custody-ceo-julian-sawyer-steps-down-becomes-adviser\": 429 Too Many Requests\n",
+      "errorMessage": "[GET] \"https://www.coindesk.com/business/2026/09/12/bitcoin-suisse-plans-to-cut-up-to-half-its-swiss-jobs-as-it-shifts-work-abroad\": 429 Too Many Requests\n[GET] \"https://www.coindesk.com/markets/2026/09/11/hotter-cpi-complicates-fed-hold-as-warsh-s-preferred-inflation-gauge-tells-different-story\": 429 Too Many Requests\n",
       "id": "126922928969806848",
       "image": null,
       "ownerUserId": null,

@@ -143,8 +143,8 @@ _None_
     },
     {
       "description": "undefined - Web 3.0 - Powered by RSSHub",
-      "errorAt": "2026-09-13T03:37:37.413Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 73179190070635520",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "73179190070635520",
       "image": "https://staticn.jinse.cn/w/img/b6900fe.png",
       "ownerUserId": null,

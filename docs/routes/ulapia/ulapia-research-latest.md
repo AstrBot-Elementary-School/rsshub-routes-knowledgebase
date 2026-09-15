@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 104,
+  "heat": 103,
   "location": "research.ts",
   "maintainers": [
     "Fatpandac"

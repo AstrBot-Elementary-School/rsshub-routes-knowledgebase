@@ -80,8 +80,8 @@ _None_
   "topFeeds": [
     {
       "description": "Latest videos from Xxx on xHamster - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-13T18:27:23.705Z",
+      "errorMessage": "[GET] \"https://xhamster.com/creators/Xxx/newest\": 503 Service Unavailable\n",
       "id": "1161921301883781120",
       "image": null,
       "ownerUserId": null,

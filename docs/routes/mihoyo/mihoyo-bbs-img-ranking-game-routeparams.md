@@ -118,7 +118,7 @@
     {
       "description": "米游社-原神-同人榜-插画榜-日榜 - Powered by RSSHub",
       "errorAt": "2025-12-24T13:26:51.180Z",
-      "errorMessage": "502 \nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n503 \n",
       "id": "41476070206969862",
       "image": null,
       "ownerUserId": null,
@@ -129,8 +129,8 @@
     },
     {
       "description": "米游社-崩坏：星穹铁道-同人榜-日榜 - Powered by RSSHub",
-      "errorAt": "2026-09-13T08:37:19.468Z",
-      "errorMessage": "[GET] \"https://bbs-api.miyoushe.com/post/wapi/getImagePostList?gids=6&forum_id=56&cate_id=0&type=1&page_size=20&last_id=\": 522 <none>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "74617383214838784",
       "image": null,
       "ownerUserId": null,

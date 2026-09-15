@@ -66,7 +66,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 73,
+  "heat": 74,
   "location": "discount.tsx",
   "maintainers": [
     "zytomorrow"
@@ -98,7 +98,7 @@ _None_
     {
       "description": "jump 发现游戏 - Powered by RSSHub",
       "errorAt": "2026-08-18T05:41:24.765Z",
-      "errorMessage": "503 \n",
+      "errorMessage": "Failed to fetch\n",
       "id": "79731667838042112",
       "image": null,
       "ownerUserId": null,

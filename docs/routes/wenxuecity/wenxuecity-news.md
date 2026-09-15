@@ -49,8 +49,8 @@ _None_
   "topFeeds": [
     {
       "description": "焦点新闻 - 文学城 - Powered by RSSHub",
-      "errorAt": "2026-09-13T05:42:03.689Z",
-      "errorMessage": "[GET] \"https://www.wenxuecity.com/news/\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "153405207895366664",
       "image": null,
       "ownerUserId": null,

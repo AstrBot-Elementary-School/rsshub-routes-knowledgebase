@@ -52,8 +52,8 @@ _None_
   "topFeeds": [
     {
       "description": "Chub - Powered by RSSHub",
-      "errorAt": "2026-09-13T09:57:24.403Z",
-      "errorMessage": "Failed query: select \"id\", \"guid\", \"media\" from \"entries\" \"entries\" where \"entries\".\"feed_id\" = $1\nparams: 84145553358908416",
+      "errorAt": "2026-09-14T02:42:24.724Z",
+      "errorMessage": "200 ",
       "id": "84145553358908416",
       "image": null,
       "ownerUserId": null,

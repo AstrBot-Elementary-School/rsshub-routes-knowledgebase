@@ -67,16 +67,16 @@ _None_
       "url": "rsshub://hedwig/posts/walnut"
     },
     {
-      "description": "内容来自Steve和朋友们每周精选的优质内容 - Powered by RSSHub",
+      "description": "分享个体见闻，探索内心宇宙 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "151607915849872384",
+      "id": "151650896037741568",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://steve.hedwig.pub/",
-      "title": "史蒂夫说每周通讯",
+      "siteUrl": "https://cbyd.hedwig.pub/",
+      "title": "🏰城堡阅读📚",
       "type": "feed",
-      "url": "rsshub://hedwig/posts/steve"
+      "url": "rsshub://hedwig/posts/cbyd"
     }
   ],
   "url": "hedwig.pub",

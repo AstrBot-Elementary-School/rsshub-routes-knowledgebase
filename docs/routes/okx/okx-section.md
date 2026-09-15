@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 114,
+  "heat": 115,
   "location": "index.ts",
   "maintainers": [
     "lxl66566"

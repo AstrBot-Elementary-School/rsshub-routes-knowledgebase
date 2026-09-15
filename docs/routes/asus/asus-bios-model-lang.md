@@ -116,16 +116,16 @@ _None_
       "url": "rsshub://asus/bios/rt-be88u"
     },
     {
-      "description": "ROG Zephyrus G16 (2024) GA605 BIOS - Powered by RSSHub",
+      "description": "TUF GAMING B550M-PLUS WIFI II BIOS - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "84439902528045056",
-      "image": "https://dlcdnwebimgs.asus.com/gain/9A966AAE-B61A-41C5-AA2F-5B0B35E189A2/w185",
+      "id": "73745650488758272",
+      "image": "https://dlcdnwebimgs.asus.com/gain/22bd771c-1a57-439b-97d2-ef75363fe11a/w185",
       "ownerUserId": null,
-      "siteUrl": "https://rog.asus.com/laptops/rog-zephyrus/rog-zephyrus-g16-2024-ga605/",
-      "title": "ROG Zephyrus G16 (2024) GA605 BIOS",
+      "siteUrl": "https://www.asus.com.cn/Motherboards-Components/Motherboards/TUF-Gaming/TUF-GAMING-B550M-PLUS-WIFI-II/",
+      "title": "TUF GAMING B550M-PLUS WIFI II BIOS",
       "type": "feed",
-      "url": "rsshub://asus/bios/GA605WV"
+      "url": "rsshub://asus/bios/TUF-GAMING-B550M-PLUS-WIFI-II/zh"
     }
   ],
   "url": "www.asus.com"

@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 91,
+  "heat": 92,
   "location": "blog.ts",
   "maintainers": [
     "zhenlohuang"

@@ -115,16 +115,16 @@ _None_
       "url": "rsshub://furaffinity/art/gallery/oddeyresproductions/nsfw"
     },
     {
-      "description": "Fur Affinity Gallery of chesshire88 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "191942200074407936",
+      "description": "Fur Affinity Gallery of tezzadnah - Powered by RSSHub",
+      "errorAt": "2026-05-26T00:42:37.436Z",
+      "errorMessage": "[GET] \"https://faexport.spangle.org.uk/user/tezzadnah/gallery.json?full=1\": 500 Internal Server Error\n[GET] \"https://faexport.spangle.org.uk/user/tezzadnah/gallery.json?full=1\": 500 Internal Server Error\n",
+      "id": "79207443708549120",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.furaffinity.net/gallery/chesshire88",
-      "title": "Fur Affinity | Gallery of chesshire88",
+      "siteUrl": "https://www.furaffinity.net/gallery/tezzadnah",
+      "title": "Fur Affinity | Gallery of tezzadnah",
       "type": "feed",
-      "url": "rsshub://furaffinity/art/gallery/chesshire88/nsfw"
+      "url": "rsshub://furaffinity/art/gallery/tezzadnah/nsfw"
     }
   ],
   "url": "furaffinity.net"

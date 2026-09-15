@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "IT之家 - ai标签 - Powered by RSSHub",
-      "errorAt": "2026-09-13T11:02:29.577Z",
-      "errorMessage": "[GET] \"https://www.ithome.com/tag/ai\": 404 Not Found\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "127730216447523840",
       "image": null,
       "ownerUserId": null,

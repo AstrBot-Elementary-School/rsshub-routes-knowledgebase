@@ -83,8 +83,8 @@ _None_
   "topFeeds": [
     {
       "description": "米游社 - 原神 - 公告 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-14T11:22:45.389Z",
+      "errorMessage": "[GET] \"https://bbs-api-static.miyoushe.com/painter/wapi/getNewsList?client_type=4&gids=2&type=1&page_size=20&last_id=\": 522 <none>\n",
       "id": "65750657186191360",
       "image": null,
       "ownerUserId": null,

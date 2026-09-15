@@ -80,16 +80,16 @@ _None_
       "url": "rsshub://bilibili/fav/399964818/1771644318"
     },
     {
-      "description": "死于春末 的 bilibili 收藏夹 默认收藏夹 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "1150779277071745024",
+      "description": "诺丝w 的 bilibili 收藏夹 吉他 - Powered by RSSHub",
+      "errorAt": "2026-06-06T12:02:10.314Z",
+      "errorMessage": "[GET] \"https://api.bilibili.com/x/v3/fav/resource/list?media_id=3592614215&ps=20\": 412 Precondition Failed\n",
+      "id": "162632761451941888",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://space.bilibili.com/4155750/#/favlist?fid=65910650",
-      "title": "死于春末 的 bilibili 收藏夹 默认收藏夹",
+      "siteUrl": "https://space.bilibili.com/44650715/#/favlist?fid=3592614215",
+      "title": "诺丝w 的 bilibili 收藏夹 吉他",
       "type": "feed",
-      "url": "rsshub://bilibili/fav/4155750/65910650"
+      "url": "rsshub://bilibili/fav/44650715/3592614215"
     }
   ]
 }

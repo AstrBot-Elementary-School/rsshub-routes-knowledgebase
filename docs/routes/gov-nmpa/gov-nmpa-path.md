@@ -73,7 +73,7 @@ _None_
     {
       "description": null,
       "errorAt": "2025-09-12T15:31:54.965Z",
-      "errorMessage": "503 \n",
+      "errorMessage": "[GET] \"https://www.nmpa.gov.cn/xxgk/ggtg/index.html\": 412 Precondition Failed\n",
       "id": "189349754051776515",
       "image": null,
       "ownerUserId": null,

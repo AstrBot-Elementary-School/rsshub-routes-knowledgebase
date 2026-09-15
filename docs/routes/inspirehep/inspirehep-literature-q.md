@@ -63,25 +63,25 @@ _None_
       "description": "Literature Search - INSPIRE - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "69965125338796045",
+      "id": "69965125338796036",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20R.M.Wald.",
+      "siteUrl": "https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20H.Casini.1",
       "title": "Literature Search - INSPIRE",
       "type": "feed",
-      "url": "rsshub://inspirehep/literature/a%20R.M.Wald."
+      "url": "rsshub://inspirehep/literature/a%20H.Casini.1"
     },
     {
       "description": "Literature Search - INSPIRE - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "69965125338796037",
+      "id": "69965125338796041",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20T.Takayanagi.1",
+      "siteUrl": "https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20L.Susskind.1",
       "title": "Literature Search - INSPIRE",
       "type": "feed",
-      "url": "rsshub://inspirehep/literature/a%20T.Takayanagi.1"
+      "url": "rsshub://inspirehep/literature/a%20L.Susskind.1"
     }
   ]
 }
