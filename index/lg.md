@@ -6,7 +6,7 @@
 - URL: `lg.jp`
 - Language: `_None_`
 - Aliases: `japan local government, lg, lg.jp`
-- Route Count: `2`
+- Route Count: `3`
 
 ## Routes
 
@@ -24,4 +24,12 @@
 - File: `docs/routes/lg/lg-tokyo-food-permit-ward.md`
 - File Name: `lg-tokyo-food-permit-ward.md`
 - Categories: `government`
+- Maintainers: `pseudoyu`
+
+### 東京都統計年鑑 駅別乗降車人員
+- Route ID: `lg:/lg/tokyo/rail-ridership/:table?`
+- Route Path: `/lg/tokyo/rail-ridership/:table?`
+- File: `docs/routes/lg/lg-tokyo-rail-ridership-table.md`
+- File Name: `lg-tokyo-rail-ridership-table.md`
+- Categories: `other`
 - Maintainers: `pseudoyu`

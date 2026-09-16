@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 64,
+  "heat": 65,
   "location": "sogou.ts",
   "maintainers": [
     "IvanWng97",
@@ -77,16 +77,16 @@ _None_
       "url": "rsshub://wechat/sogou/gh_b3b43949212c"
     },
     {
-      "description": "CJSW 的微信公众号 - Powered by RSSHub",
+      "description": "赢商网 的微信公众号 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "168490238563645440",
+      "id": "1177176906097623040",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weixin.sogou.com/weixin?query=china_socialwork",
-      "title": "CJSW 的微信公众号",
+      "siteUrl": "https://weixin.sogou.com/weixin?query=%E8%B5%A2%E5%95%86%E7%BD%91",
+      "title": "赢商网 的微信公众号",
       "type": "feed",
-      "url": "rsshub://wechat/sogou/china_socialwork"
+      "url": "rsshub://wechat/sogou/%E8%B5%A2%E5%95%86%E7%BD%91"
     }
   ]
 }

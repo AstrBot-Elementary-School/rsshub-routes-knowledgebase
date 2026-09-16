@@ -68,7 +68,7 @@ _None_
     {
       "description": "Watch Humiliation Jav video’s free, we have the largest Jav collections with high definition - Powered by RSSHub",
       "errorAt": "2026-08-23T02:50:48.928Z",
-      "errorMessage": "Unexpected token '<', \"<div class\"... is not valid JSON\n",
+      "errorMessage": "Remote Playwright WebSocket upgrade failed with HTTP 428\n",
       "id": "89582686639029248",
       "image": null,
       "ownerUserId": null,

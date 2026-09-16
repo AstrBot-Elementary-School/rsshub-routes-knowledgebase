@@ -74,8 +74,8 @@ _None_
     },
     {
       "description": "新京报 - 分类 - 文化 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-15T05:31:43.713Z",
+      "errorMessage": "[GET] \"https://www.bjnews.com.cn/culture\": 522 <none>\n",
       "id": "84161318721934339",
       "image": null,
       "ownerUserId": null,

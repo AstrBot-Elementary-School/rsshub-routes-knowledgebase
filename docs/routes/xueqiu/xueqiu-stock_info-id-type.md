@@ -83,8 +83,8 @@
   "topFeeds": [
     {
       "description": "兆易创新 - 资讯 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-14T21:26:37.761Z",
+      "errorMessage": "Remote Playwright WebSocket upgrade failed with HTTP 428\n",
       "id": "64923928046286858",
       "image": null,
       "ownerUserId": null,

@@ -75,7 +75,7 @@ _None_
     {
       "description": "The most recent blogs and online articles from The Economist - Powered by RSSHub",
       "errorAt": "2025-09-05T18:15:19.885Z",
-      "errorMessage": "[GET] \"https://www.economist.com/economic-and-financial-indicators/2026/09/10/economic-data-commodities-and-markets\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.economist.com/asia/2026/09/13/why-indians-are-unhappy-about-78-economic-growth\": 403 Forbidden\n",
       "id": "54859243036899328",
       "image": null,
       "ownerUserId": null,
@@ -87,7 +87,7 @@ _None_
     {
       "description": "China - Powered by RSSHub",
       "errorAt": "2025-09-05T17:22:28.529Z",
-      "errorMessage": "[GET] \"https://www.economist.com/china/2026/07/15/xi-jinping-expels-another-leader-from-his-top-team\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.economist.com/china/2026/09/09/only-children-in-china-prefer-to-marry-other-only-children\": 403 Forbidden\n",
       "id": "41461870197170199",
       "image": null,
       "ownerUserId": null,

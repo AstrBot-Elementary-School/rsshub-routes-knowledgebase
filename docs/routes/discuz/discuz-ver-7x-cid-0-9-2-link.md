@@ -28,7 +28,7 @@
 
 
 ## Features
-_None_
+- `requireConfig`: [{"description": "Allow user supplied domain", "name": "ALLOW_USER_SUPPLY_UNSAFE_DOMAIN"}]
 
 ## Radar
 _None_
@@ -41,6 +41,14 @@ _None_
   ],
   "description": "| Discuz X Series | Discuz 7.x Series |\n| --------------- | ----------------- |\n| x               | 7                 |",
   "example": "/discuz/x/https%3a%2f%2fwww.52pojie.cn%2fforum-16-1.html",
+  "features": {
+    "requireConfig": [
+      {
+        "description": "Allow user supplied domain",
+        "name": "ALLOW_USER_SUPPLY_UNSAFE_DOMAIN"
+      }
+    ]
+  },
   "heat": 0,
   "location": "discuz.ts",
   "maintainers": [

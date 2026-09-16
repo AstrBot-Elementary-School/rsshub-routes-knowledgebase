@@ -41,7 +41,7 @@ _None_
   ],
   "description": "iMuseum（每日环球展览）各城市正在进行与即将开始的展览。城市与类型均取自站点 URL 路径，例如 `guangzhou/latest`。",
   "example": "/icity/imuseum/guangzhou/latest",
-  "heat": 0,
+  "heat": 1,
   "location": "imuseum.ts",
   "maintainers": [
     "chouj"

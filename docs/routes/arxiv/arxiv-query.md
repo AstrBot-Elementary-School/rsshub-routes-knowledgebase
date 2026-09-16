@@ -59,8 +59,8 @@ _None_
   "topFeeds": [
     {
       "description": "arXiv (search_query=cat:cs.AI&sortBy=submittedDate) - Powered by RSSHub",
-      "errorAt": "2026-09-13T05:06:44.919Z",
-      "errorMessage": "[GET] \"https://export.arxiv.org/api/query?search_query=cat:cs.AI&sortBy=submittedDate\": 429 Too Many Requests\n",
+      "errorAt": "2026-09-15T06:41:57.048Z",
+      "errorMessage": "503 \n",
       "id": "250564935356404745",
       "image": null,
       "ownerUserId": null,

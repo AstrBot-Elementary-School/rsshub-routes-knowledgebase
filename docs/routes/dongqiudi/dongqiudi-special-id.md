@@ -41,7 +41,7 @@ _None_
   ],
   "description": "| 新闻大爆炸 | 懂球帝十佳球 | 懂球帝本周 MVP |\n| ---------- | ------------ | -------------- |\n| 41         | 52           | 53             |",
   "example": "/dongqiudi/special/41",
-  "heat": 432,
+  "heat": 433,
   "location": "special.ts",
   "maintainers": [
     "dxmpalb"

@@ -88,16 +88,16 @@ _None_
       "url": "rsshub://luma/langchain"
     },
     {
-      "description": "Reading Rhythms Global - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "265967037132484608",
+      "description": "Platzi - Powered by RSSHub",
+      "errorAt": "2026-08-01T07:59:21.642Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "id": "265967006213506048",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://lu.ma/readingrhythms-global",
-      "title": "Reading Rhythms Global",
+      "siteUrl": "https://lu.ma/platzi",
+      "title": "Platzi",
       "type": "feed",
-      "url": "rsshub://luma/readingrhythms-global"
+      "url": "rsshub://luma/platzi"
     }
   ],
   "url": "lu.ma"

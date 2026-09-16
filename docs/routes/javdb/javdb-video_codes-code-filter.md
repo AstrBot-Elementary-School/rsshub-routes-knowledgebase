@@ -65,7 +65,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1587,
+  "heat": 1568,
   "location": "videocodes.ts",
   "maintainers": [
     "sgpublic"
@@ -102,8 +102,8 @@
     },
     {
       "description": "MIDV - JavDB - 可下載 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-14T19:46:56.977Z",
+      "errorMessage": "[GET] \"https://javdb.com/video_codes/MIDV?f=download\": <no response> fetch failed\nRemote Playwright WebSocket upgrade failed with HTTP 428\n",
       "id": "96109559941147651",
       "image": null,
       "ownerUserId": null,

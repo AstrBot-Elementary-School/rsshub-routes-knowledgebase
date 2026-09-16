@@ -43,7 +43,7 @@ _None_
     "popular"
   ],
   "example": "/bilibili/ranking/all",
-  "heat": 9281,
+  "heat": 9285,
   "location": "ranking.ts",
   "maintainers": [
     "DIYgod",
@@ -136,8 +136,8 @@ _None_
   "topFeeds": [
     {
       "description": "bilibili 排行榜-全站 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-14T15:54:38.661Z",
+      "errorMessage": "Failed to fetch\n-352\n-352\n-352\n-352\nAuthentication failed. Access denied.\n/bilibili/ranking/0\nFailed to fetch\n-352\n-352\nFailed to fetch\n-352\n-352\n[GET] \"https://api.bilibili.com/x/web-interface/view?bvid=BV1ZqYX6YEsu\": 412 Precondition Failed\nRemote Playwright WebSocket upgrade failed with HTTP 428\n",
       "id": "78806242632741888",
       "image": null,
       "ownerUserId": null,
@@ -149,7 +149,7 @@ _None_
     {
       "description": "bilibili 排行榜-知识 - Powered by RSSHub",
       "errorAt": "2026-07-15T05:32:42.190Z",
-      "errorMessage": "-352\n请求错误\n[GET] \"https://api.bilibili.com/x/web-interface/ranking/v2?rid=9&type=all&web_location=333.934\": 412 Precondition Failed\n",
+      "errorMessage": "-352\n-352\n[GET] \"https://api.bilibili.com/x/web-interface/ranking/v2?rid=9&type=all&web_location=333.934\": 412 Precondition Failed\n",
       "id": "78844164657093632",
       "image": null,
       "ownerUserId": null,

@@ -5966,6 +5966,12 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `1`
 - Index File: `index/jewishmuseum.md`
 
+## Japan Foodservice Association
+- Namespace: `jfnet`
+- Aliases: `japan foodservice association, jfnet, jfnet.or.jp, www, www.jfnet.or.jp`
+- Route Count: `1`
+- Index File: `index/jfnet.md`
+
 ## 井冈山大学
 - Namespace: `jgsu`
 - Aliases: `jgsu, jgsu.edu.cn, 井冈山大学`
@@ -6080,6 +6086,12 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `3`
 - Index File: `index/jlu.md`
 
+## 気象庁 Japan Meteorological Agency
+- Namespace: `jma`
+- Aliases: `jma, jma.go.jp, www, www.jma.go.jp, 気象庁 japan meteorological agency`
+- Route Count: `1`
+- Index File: `index/jma.md`
+
 ## 暨南大学
 - Namespace: `jnu`
 - Aliases: `jnu, news, news.jnu.edu.cn, 暨南大学`
@@ -6127,6 +6139,12 @@ Use this file to select the target namespace before opening route documents.
 - Aliases: `jpxgmn, jpxgmn.com, www, www.jpxgmn.com, 极品性感美女`
 - Route Count: `3`
 - Index File: `index/jpxgmn.md`
+
+## JR East
+- Namespace: `jreast`
+- Aliases: `jr east, jreast, jreast.co.jp, www, www.jreast.co.jp`
+- Route Count: `1`
+- Index File: `index/jreast.md`
 
 ## 金融界
 - Namespace: `jrj`
@@ -6605,7 +6623,7 @@ Use this file to select the target namespace before opening route documents.
 ## Japan Local Government
 - Namespace: `lg`
 - Aliases: `japan local government, lg, lg.jp`
-- Route Count: `2`
+- Route Count: `3`
 - Index File: `index/lg.md`
 
 ## 联合资信评估股份有限公司
@@ -8101,6 +8119,12 @@ Use this file to select the target namespace before opening route documents.
 - Aliases: `oilchem, oilchem.net, 隆众资讯`
 - Route Count: `1`
 - Index File: `index/oilchem.md`
+
+## OkayAfrica
+- Namespace: `okayafrica`
+- Aliases: `okayafrica, okayafrica.com, www, www.okayafrica.com`
+- Route Count: `1`
+- Index File: `index/okayafrica.md`
 
 ## 欧易 OKX
 - Namespace: `okx`
@@ -10351,6 +10375,12 @@ Use this file to select the target namespace before opening route documents.
 - Aliases: `tmtpost, tmtpost.com, 钛媒体`
 - Route Count: `3`
 - Index File: `index/tmtpost.md`
+
+## Toei Transportation
+- Namespace: `toei`
+- Aliases: `kotsu.metro.tokyo.jp, toei, toei transportation, www, www.kotsu.metro.tokyo.jp`
+- Route Count: `1`
+- Index File: `index/toei.md`
 
 ## TokenInsight
 - Namespace: `tokeninsight`

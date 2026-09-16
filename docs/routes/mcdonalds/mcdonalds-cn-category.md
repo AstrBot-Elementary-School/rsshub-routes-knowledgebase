@@ -39,7 +39,7 @@ _None_
   ],
   "description": "| 全部分类   | 社会责任       | 人员品牌 | 产品故事 | 优惠  | 品牌文化 | 活动速报 |\n| ---------- | -------------- | -------- | -------- | ----- | -------- | -------- |\n| news\\_list | responsibility | brand    | product  | sales | culture  | event    |",
   "example": "/mcdonalds/cn/sales+event",
-  "heat": 0,
+  "heat": 1,
   "location": "cn-news.ts",
   "maintainers": [
     "huyyi"

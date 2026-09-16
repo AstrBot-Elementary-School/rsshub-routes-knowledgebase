@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4855,
+  "heat": 4854,
   "location": "daily.ts",
   "maintainers": [
     "nczitzk",
@@ -73,7 +73,7 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "1. Anthropic CEO 呼吁前沿 AI 限速，奥特曼、马斯克表态支持 2. 奥尔特曼：OpenAI 今年不会上市 仍有大量安全工作需要完成 3. Anthropic 据悉选择在纳斯达克上市进行 IPO 4. 于东来：胖东来再招员工都是学员性质 合同 4 年、到期不续签 5. 女选手疑似赛场失禁，HYROX 中国将换地毯并消杀 6. 梅卡曼德创始人邵天兰炮轰同行虚假收入，银河通用报案 7. 智谱宣布完成约 50 亿美元融资 8. 国家数据局局长刘烈宏主持召开具身智能座谈会 9. SpaceX 在纳斯达克 100 指数中的权重将获上调 - Powered by RSSHub",
+      "description": "1. 传高瓴 90 后合伙人严文韬加入 DeepSeek 出任 CFO 2. 苹果 iOS / iPadOS 27.0 正式版发布 3. DeepSeek Code 2.0 预计 9 月发布，参数超 3 万亿 4. 豆包手机助手发布消费者版本 首款新机将于 9 月 16 日正式开售 5. 苹果预留代码 未来或支持 Siri 切换 Claude、ChatGPT 等模型 6. iPhone Duo 理论上支持微信双开，有待实测 7. 马斯克：Grok 4.8 模型本周完成训练，参数量 2.5 万亿 8. Anthropic 推出针对金融顾问的 Claude 模型 9. 雷军现身宇树科技，观看人形机器人表演 10. 古尔曼：苹果正为 iPhone 自研游戏手柄，有望以 Beats 品牌推出 11. Hyrox 回应「失禁」事件：沮丧情绪不应针对运动员本人，将禁止网暴者参赛 12. 北京全域禁无人机飞行及相关持有携带等，2026 年实施 13. 宇树科技发布人形机器人 G1+，运动性能、感知交互、智能体验全面升级 14. Anthropic、OpenAI 与谷歌拟合作共建 AI 标准机构 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "52347176714948614",

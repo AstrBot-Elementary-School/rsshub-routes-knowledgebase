@@ -91,8 +91,8 @@
   "topFeeds": [
     {
       "description": "S1 NO.1 STYLE - JavDB - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-14T18:02:58.682Z",
+      "errorMessage": "[GET] \"https://javdb.com/makers/7R\": 403 Forbidden\nFailed to fetch\nRemote Playwright WebSocket upgrade failed with HTTP 428\n",
       "id": "41699114741173248",
       "image": null,
       "ownerUserId": null,
@@ -103,8 +103,8 @@
     },
     {
       "description": "MOODYZ - JavDB - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-14T14:46:34.603Z",
+      "errorMessage": "[GET] \"https://javdb.com/makers/zKW\": 403 Forbidden\nRemote Playwright WebSocket upgrade failed with HTTP 428\n",
       "id": "73162555663082522",
       "image": null,
       "ownerUserId": null,

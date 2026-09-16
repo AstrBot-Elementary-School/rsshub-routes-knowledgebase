@@ -76,7 +76,7 @@ _None_
     {
       "description": "快讯 - Foresight News - Powered by RSSHub",
       "errorAt": "2026-08-23T06:15:12.002Z",
-      "errorMessage": "[GET] \"https://api.foresightnews.pro/v1/news?size=50\": 403 Forbidden\nResponse body is unavailable for redirect responses\n",
+      "errorMessage": "[GET] \"https://api.foresightnews.pro/v1/news?size=50\": 403 Forbidden\nRemote Playwright WebSocket upgrade failed with HTTP 428\n",
       "id": "41756176414118912",
       "image": "https://img.foresightnews.pro/vertical_logo.png",
       "ownerUserId": null,

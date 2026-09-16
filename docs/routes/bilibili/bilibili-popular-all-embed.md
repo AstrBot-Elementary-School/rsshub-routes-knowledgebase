@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 910,
+  "heat": 911,
   "location": "popular.ts",
   "maintainers": [
     "ziminliu"
@@ -77,8 +77,8 @@ _None_
     },
     {
       "description": "bilibili 综合热门 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-14T22:16:36.078Z",
+      "errorMessage": "[GET] \"https://api.bilibili.com/x/web-interface/popular\": 412 Precondition Failed\n",
       "id": "169231605189909504",
       "image": null,
       "ownerUserId": null,

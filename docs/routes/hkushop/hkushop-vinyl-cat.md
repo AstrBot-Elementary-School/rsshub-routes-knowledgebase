@@ -87,7 +87,7 @@
     {
       "description": "HKU Shop 黑胶唱片最新商品信息 - Powered by RSSHub",
       "errorAt": "2026-03-05T08:51:25.274Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "Remote Playwright WebSocket upgrade failed with HTTP 428\n",
       "id": "125428127328664576",
       "image": null,
       "ownerUserId": null,

@@ -68,13 +68,13 @@ _None_
       "description": "吉林大学计算机科学与技术学院 - 新闻中心新闻中心 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1217983497180676096",
+      "id": "1217983246378074112",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://ccst.jlu.edu.cn/",
       "title": "吉林大学计算机科学与技术学院 - 新闻中心新闻中心",
       "type": "feed",
-      "url": "rsshub://jlu/ccst/xwzx/..%2Frcpy%2Fyjsjy%2Fgltz"
+      "url": "rsshub://jlu/ccst/xwzx/..%2Frcpy%2Fbksjy%2Fjxtz"
     },
     {
       "description": "吉林大学计算机科学与技术学院 - 新闻中心新闻中心 - Powered by RSSHub",

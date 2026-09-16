@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 208,
+  "heat": 209,
   "location": "today.ts",
   "maintainers": [
     "nczitzk"
@@ -72,8 +72,8 @@ _None_
   "topFeeds": [
     {
       "description": "今日话题 - 雪球 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-14T15:21:58.491Z",
+      "errorMessage": "Remote Playwright WebSocket upgrade failed with HTTP 428\n",
       "id": "61288440756878338",
       "image": null,
       "ownerUserId": null,

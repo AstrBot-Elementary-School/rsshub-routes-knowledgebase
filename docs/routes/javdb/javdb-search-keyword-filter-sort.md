@@ -99,8 +99,8 @@
   "topFeeds": [
     {
       "description": "關鍵字 按相关度排序 搜索結果 - JavDB - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-14T19:26:16.114Z",
+      "errorMessage": "Remote Playwright WebSocket upgrade failed with HTTP 428\n",
       "id": "67212739482473472",
       "image": null,
       "ownerUserId": null,
@@ -111,8 +111,8 @@
     },
     {
       "description": "關鍵字 巨乳 按相关度排序 搜索結果 - JavDB - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-14T22:06:26.225Z",
+      "errorMessage": "Remote Playwright WebSocket upgrade failed with HTTP 428\n",
       "id": "62403400668747776",
       "image": null,
       "ownerUserId": null,

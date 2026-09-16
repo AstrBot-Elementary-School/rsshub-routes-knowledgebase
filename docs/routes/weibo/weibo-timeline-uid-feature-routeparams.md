@@ -30,7 +30,7 @@
 
 
 ## Features
-- `requireConfig`: [{"description": "", "name": "WEIBO_APP_KEY"}, {"description": "", "name": "WEIBO_REDIRECT_URL"}]
+- `requireConfig`: [{"description": "", "name": "WEIBO_APP_KEY"}, {"description": "OAuth callback URL. Defaults to `<request origin>/weibo/timeline/0`. Set it when the auto-composed URL doesn't work", "name": "WEIBO_REDIRECT_URL", "optional": true}]
 - `requirePuppeteer`: false
 - `antiCrawler`: false
 - `supportBT`: false
@@ -56,8 +56,9 @@ _None_
         "name": "WEIBO_APP_KEY"
       },
       {
-        "description": "",
-        "name": "WEIBO_REDIRECT_URL"
+        "description": "OAuth callback URL. Defaults to `<request origin>/weibo/timeline/0`. Set it when the auto-composed URL doesn't work",
+        "name": "WEIBO_REDIRECT_URL",
+        "optional": true
       }
     ],
     "requirePuppeteer": false,
@@ -65,7 +66,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 20,
+  "heat": 18,
   "location": "timeline.ts",
   "maintainers": [
     "zytomorrow",
@@ -94,15 +95,15 @@ _None_
     },
     {
       "description": "undefined - Powered by RSSHub",
-      "errorAt": "2026-09-12T17:44:01.587Z",
-      "errorMessage": "Invalid RSSHub JSON Feed from default\n",
-      "id": "188856372339459072",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "173965528763436032",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://docs.rsshub.app/",
       "title": "RSSHub",
       "type": "feed",
-      "url": "rsshub://weibo/timeline/5058738299"
+      "url": "rsshub://weibo/timeline/1758802323"
     }
   ]
 }

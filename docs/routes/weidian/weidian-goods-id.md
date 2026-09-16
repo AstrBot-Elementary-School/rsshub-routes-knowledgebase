@@ -51,28 +51,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "妙蛙种子studio 商铺上新 - Powered by RSSHub",
+      "description": "UZI（全国发顺丰） 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264526070086762496",
+      "id": "1264478347631394816",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1776674290",
-      "title": "妙蛙种子studio 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1860117640",
+      "title": "UZI（全国发顺丰） 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1776674290"
+      "url": "rsshub://weidian/goods/1860117640"
     },
     {
-      "description": "马里奥Made 商铺上新 - Powered by RSSHub",
+      "description": "杰尼龟(唯一新店) 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264523511544545280",
+      "id": "1264524979299287040",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1335769831",
-      "title": "马里奥Made 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1697270306",
+      "title": "杰尼龟(唯一新店) 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1335769831"
+      "url": "rsshub://weidian/goods/1697270306"
     }
   ]
 }

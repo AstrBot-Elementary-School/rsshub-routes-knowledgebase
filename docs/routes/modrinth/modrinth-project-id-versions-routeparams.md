@@ -116,16 +116,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "Highly customizable, global player leveling plugin with many integrations. - Powered by RSSHub",
+      "description": "Simple, lightweight and fast NPC plugin using packets - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "113662012738039808",
+      "id": "123850149068689408",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/86biV1Ic",
-      "title": "AuroraLevels Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/EeyAn23L",
+      "title": "FancyNpcs Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/86biV1Ic/versions"
+      "url": "rsshub://modrinth/project/EeyAn23L/versions"
     }
   ]
 }

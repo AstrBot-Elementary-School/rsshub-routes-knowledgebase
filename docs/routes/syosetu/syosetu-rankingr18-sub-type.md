@@ -184,7 +184,7 @@ For example: `daily_total`, `weekly_r`, `monthly_er`
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 14,
+  "heat": 15,
   "location": "ranking-r18.ts",
   "maintainers": [
     "SnowAgar25"

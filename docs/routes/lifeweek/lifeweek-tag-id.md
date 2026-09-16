@@ -79,16 +79,16 @@ _None_
       "url": "rsshub://lifeweek/tag/6"
     },
     {
-      "description": "文学 - Powered by RSSHub",
-      "errorAt": "2026-09-13T22:46:39.515Z",
-      "errorMessage": "503 \n",
-      "id": "152614384793012224",
+      "description": "生活方式 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "152614722583832576",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.lifeweek.com.cn/articleList/4",
-      "title": "文学",
+      "siteUrl": "https://www.lifeweek.com.cn/articleList/7",
+      "title": "生活方式",
       "type": "feed",
-      "url": "rsshub://lifeweek/tag/4"
+      "url": "rsshub://lifeweek/tag/7"
     }
   ]
 }

@@ -80,7 +80,7 @@ _None_
     {
       "description": "Watch Miu Shiromine Jav video’s free, we have the largest Jav collections with high definition - Powered by RSSHub",
       "errorAt": "2026-08-24T21:52:49.598Z",
-      "errorMessage": "Unexpected token '<', \"<div class\"... is not valid JSON\n",
+      "errorMessage": "Remote Playwright WebSocket upgrade failed with HTTP 428\n",
       "id": "111072758149291008",
       "image": "https://pics.dmm.co.jp/mono/actjpgs/siromine_miu.jpg",
       "ownerUserId": null,

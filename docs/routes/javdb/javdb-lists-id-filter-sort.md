@@ -81,8 +81,8 @@
   "topFeeds": [
     {
       "description": "神片列表 - JavDB 加入时间排序 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-14T15:51:58.044Z",
+      "errorMessage": "Remote Playwright WebSocket upgrade failed with HTTP 428\n",
       "id": "129737927519721472",
       "image": null,
       "ownerUserId": null,
@@ -93,8 +93,8 @@
     },
     {
       "description": "幼嫩白涩 - JavDB 加入时间排序 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-14T14:31:18.864Z",
+      "errorMessage": "Remote Playwright WebSocket upgrade failed with HTTP 428\n",
       "id": "129738038308376576",
       "image": null,
       "ownerUserId": null,

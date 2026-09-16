@@ -64,21 +64,21 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "国内iptv、软件、代码、源 - 恩山无线论坛 - Powered by RSSHub",
+      "description": "国内 IPTV 直播源、播放软件与网络视听代码 - 恩山无线论坛 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "54806809341165571",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.right.com.cn/forum/forum-182-1.html",
-      "title": "国内iptv、软件、代码、源 - 恩山无线论坛",
+      "title": "国内 IPTV 直播源、播放软件与网络视听代码 - 恩山无线论坛",
       "type": "feed",
       "url": "rsshub://right/forum/182"
     },
     {
       "description": "新手入门及其它(硬件) - 恩山无线论坛 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-15T08:07:07.291Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "61252164758378512",
       "image": null,
       "ownerUserId": null,

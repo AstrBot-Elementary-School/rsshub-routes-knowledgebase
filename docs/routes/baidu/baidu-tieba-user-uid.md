@@ -65,18 +65,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "dengchunlai 的贴吧 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "104695101579488257",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://tieba.baidu.com/home/main?un=dengchunlai",
-      "title": "dengchunlai 的贴吧",
-      "type": "feed",
-      "url": "rsshub://baidu/tieba/user/dengchunlai"
-    },
-    {
       "description": "米利阿鲁德 的贴吧 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -87,6 +75,18 @@ _None_
       "title": "米利阿鲁德 的贴吧",
       "type": "feed",
       "url": "rsshub://baidu/tieba/user/%E7%B1%B3%E5%88%A9%E9%98%BF%E9%B2%81%E5%BE%B7"
+    },
+    {
+      "description": "dengchunlai 的贴吧 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "104695101579488257",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://tieba.baidu.com/home/main?un=dengchunlai",
+      "title": "dengchunlai 的贴吧",
+      "type": "feed",
+      "url": "rsshub://baidu/tieba/user/dengchunlai"
     }
   ]
 }
