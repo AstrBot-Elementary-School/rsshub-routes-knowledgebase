@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 918,
+  "heat": 914,
   "location": "full.ts",
   "maintainers": [
     "ImSingee"

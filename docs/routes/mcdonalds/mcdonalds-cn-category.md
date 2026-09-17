@@ -52,6 +52,19 @@ _None_
   "test": {
     "code": 0
   },
-  "topFeeds": []
+  "topFeeds": [
+    {
+      "description": "麦当劳资讯 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "1290162735530508288",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.mcdonalds.com.cn/news/",
+      "title": "麦当劳资讯",
+      "type": "feed",
+      "url": "rsshub://mcdonalds/cn/sales+event"
+    }
+  ]
 }
 ```

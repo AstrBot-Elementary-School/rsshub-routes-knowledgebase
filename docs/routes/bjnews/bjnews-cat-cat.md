@@ -39,7 +39,7 @@ _None_
   ],
   "example": "/bjnews/cat/depth",
   "features": {},
-  "heat": 109,
+  "heat": 110,
   "location": "cat.ts",
   "maintainers": [
     "dzx-dzx"
@@ -74,7 +74,7 @@ _None_
     },
     {
       "description": "新京报 - 分类 - 文化 - Powered by RSSHub",
-      "errorAt": "2026-09-15T05:31:43.713Z",
+      "errorAt": "2026-09-15T23:06:42.737Z",
       "errorMessage": "[GET] \"https://www.bjnews.com.cn/culture\": 522 <none>\n",
       "id": "84161318721934339",
       "image": null,

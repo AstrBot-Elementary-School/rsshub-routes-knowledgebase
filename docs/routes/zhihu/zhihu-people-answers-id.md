@@ -82,7 +82,7 @@ _None_
     {
       "description": "q9adg的知乎回答 - Powered by RSSHub",
       "errorAt": "2025-08-16T15:03:36.399Z",
-      "errorMessage": "zhihu: browser API request failed with HTTP 403\n",
+      "errorMessage": "Remote Playwright WebSocket upgrade failed with HTTP 428\n",
       "id": "60696029890536448",
       "image": null,
       "ownerUserId": null,
@@ -94,7 +94,7 @@ _None_
     {
       "description": "王子君的知乎回答 - Powered by RSSHub",
       "errorAt": "2025-04-22T12:23:04.103Z",
-      "errorMessage": "zhihu: browser API request failed with HTTP 403\n",
+      "errorMessage": "Remote Playwright WebSocket upgrade failed with HTTP 428\n",
       "id": "62090527887115299",
       "image": null,
       "ownerUserId": null,

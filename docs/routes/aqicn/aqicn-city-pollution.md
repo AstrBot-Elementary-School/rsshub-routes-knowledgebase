@@ -89,16 +89,16 @@ _None_
       "url": "rsshub://aqicn/shanghai/pm25,pm10"
     },
     {
-      "description": "广州AQI-aqicn.org - Powered by RSSHub",
+      "description": "深圳AQI-aqicn.org - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "73340530520921102",
+      "id": "162871762768590848",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://aqicn.org/city/guangzhou",
-      "title": "广州AQI",
+      "siteUrl": "https://aqicn.org/city/shenzhen",
+      "title": "深圳AQI",
       "type": "feed",
-      "url": "rsshub://aqicn/guangzhou"
+      "url": "rsshub://aqicn/shenzhen/pm25"
     }
   ],
   "url": "aqicn.org"

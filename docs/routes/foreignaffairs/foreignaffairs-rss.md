@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 199,
+  "heat": 198,
   "location": "rss.ts",
   "maintainers": [
     "dzx-dzx"

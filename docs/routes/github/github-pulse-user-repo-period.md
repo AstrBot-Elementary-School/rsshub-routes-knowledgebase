@@ -79,18 +79,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "wood3n/biu weekly Pulse - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "215344700650354688",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://github.com/wood3n/biu/pulse/weekly",
-      "title": "wood3n/biu weekly Pulse",
-      "type": "feed",
-      "url": "rsshub://github/pulse/wood3n/biu"
-    },
-    {
       "description": "massCodeIO/massCode weekly Pulse - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -101,6 +89,18 @@ _None_
       "title": "massCodeIO/massCode weekly Pulse",
       "type": "feed",
       "url": "rsshub://github/pulse/massCodeIO/massCode"
+    },
+    {
+      "description": "2noise/ChatTTS weekly Pulse - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "220767323256864792",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://github.com/2noise/ChatTTS/pulse/weekly",
+      "title": "2noise/ChatTTS weekly Pulse",
+      "type": "feed",
+      "url": "rsshub://github/pulse/2noise/ChatTTS/weekly"
     }
   ]
 }

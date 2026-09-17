@@ -94,8 +94,8 @@
   "topFeeds": [
     {
       "description": "桃乃木かな - JavDB - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-16T05:04:02.223Z",
+      "errorMessage": "browserType.launch: Executable doesn't exist at /root/.cache/ms-playwright/chromium_headless_shell-1234/chrome-headless-shell-linux64/chrome-headless-shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     npx playwright install                                 ║\n║                                                            ║\n║ <3 Patchright Team                                         ║\n╚════════════════════════════════════════════════════════════╝\nFailed to fetch\nFailed to fetch\nRemote Playwright WebSocket upgrade failed with HTTP 428\n",
       "id": "58137945200229376",
       "image": null,
       "ownerUserId": null,
@@ -106,8 +106,8 @@
     },
     {
       "description": "Kawakita Saika - JavDB - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-16T05:05:31.099Z",
+      "errorMessage": "Failed to fetch\nAuthentication failed. Access denied.\n/javdb/actors/EvkJ\nFailed to fetch\nFailed to fetch\nRemote Playwright WebSocket upgrade failed with HTTP 428\n",
       "id": "59231069957378048",
       "image": null,
       "ownerUserId": null,

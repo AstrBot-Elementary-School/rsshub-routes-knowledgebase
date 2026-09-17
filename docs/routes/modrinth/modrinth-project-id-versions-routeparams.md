@@ -116,16 +116,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "Simple, lightweight and fast NPC plugin using packets - Powered by RSSHub",
+      "description": "Fabric API implemented on top of NeoForge - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "123850149068689408",
+      "id": "120750574474919936",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/EeyAn23L",
-      "title": "FancyNpcs Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/forgified-fabric-api",
+      "title": "Forgified Fabric API Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/EeyAn23L/versions"
+      "url": "rsshub://modrinth/project/forgified-fabric-api/versions"
     }
   ]
 }

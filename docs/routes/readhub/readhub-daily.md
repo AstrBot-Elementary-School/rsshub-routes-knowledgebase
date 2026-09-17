@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4854,
+  "heat": 4856,
   "location": "daily.ts",
   "maintainers": [
     "nczitzk",
@@ -73,7 +73,7 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "1. 传高瓴 90 后合伙人严文韬加入 DeepSeek 出任 CFO 2. 苹果 iOS / iPadOS 27.0 正式版发布 3. DeepSeek Code 2.0 预计 9 月发布，参数超 3 万亿 4. 豆包手机助手发布消费者版本 首款新机将于 9 月 16 日正式开售 5. 苹果预留代码 未来或支持 Siri 切换 Claude、ChatGPT 等模型 6. iPhone Duo 理论上支持微信双开，有待实测 7. 马斯克：Grok 4.8 模型本周完成训练，参数量 2.5 万亿 8. Anthropic 推出针对金融顾问的 Claude 模型 9. 雷军现身宇树科技，观看人形机器人表演 10. 古尔曼：苹果正为 iPhone 自研游戏手柄，有望以 Beats 品牌推出 11. Hyrox 回应「失禁」事件：沮丧情绪不应针对运动员本人，将禁止网暴者参赛 12. 北京全域禁无人机飞行及相关持有携带等，2026 年实施 13. 宇树科技发布人形机器人 G1+，运动性能、感知交互、智能体验全面升级 14. Anthropic、OpenAI 与谷歌拟合作共建 AI 标准机构 - Powered by RSSHub",
+      "description": "1. 苹果正式推送 iOS 27：Siri AI 全面升级 老款机型性能优化 2. 消息称字节跳动上半年营收同比增长 30% 至 1200 亿美元 3. 苹果 iPhone Duo 将至，国内大厂开发人员赴总部抢先适配 4. Claude Opus 5.2 开启灰度测试，响应快更专注 5. 黄仁勋：在中国没人谈「AI 末日论」 6. 微信小微 AI 被质疑偷看隐私 微信员工回应：直接读取聊天记录等说法失实 7. 因数据留存政策，英伟达等三家企业限制使用 Anthropic 模型 8. 鸿蒙智行：问界将由赛力斯主导，华为终端参与赋能，用户既有权益及后续服务不受影响 9. 字节跳动 CEO 梁汝波：豆包、飞书、火山整合发力 加码企业 AI 市场 10. 多家娃哈哈关联企业欠缴公积金，办公楼遭查封 11. OpenAI 收购相机初创公司 Glass Imaging，估值超 3 亿美元 12. Anthropic、OpenAI 与谷歌磋商筹建 AI 安全标准机构 13. 苹果回应 iPhone 18 Pro 破发：第三方渠道有自己的定价权 14. 消息称 DeepMind 核心成员 Qiyin Wu 已加入百度 15. 多家平台回应月付未接到退出支付选项通知 16. DeepSeek 工程师发文引热议，算子天才也在思考「转业」 17. 蒋恺正式加入字节跳动投资部 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "52347176714948614",

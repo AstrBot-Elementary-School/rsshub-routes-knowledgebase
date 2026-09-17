@@ -43,7 +43,7 @@ _None_
   ],
   "description": "| 头条    | 网评 | 视频 | 原创   | 经济    | 政治     | 文化    | 社会    | 党建 | 科教    | 生态    | 国防    | 国际          | 图书  | 学习笔记 | 理论文选 |\n| ------- | ---- | ---- | ------ | ------- | -------- | ------- | ------- | ---- | ------- | ------- | ------- | ------------- | ----- | -------- | -------- |\n| toutiao | qswp | qssp | qslgxd | economy | politics | culture | society | cpc  | science | zoology | defense | international | books | xxbj     | llwx     |",
   "example": "/qstheory",
-  "heat": 65,
+  "heat": 64,
   "location": "index.ts",
   "maintainers": [
     "nczitzk"
@@ -79,16 +79,16 @@ _None_
       "url": "rsshub://qstheory"
     },
     {
-      "description": "- 求是网 - Powered by RSSHub",
+      "description": "求是网评 - 求是网 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "81625152130833408",
+      "id": "150755089712076821",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "http://www.qstheory.cn/v9zhuanqu/toutiao/index.htm",
-      "title": "- 求是网",
+      "siteUrl": "http://www.qstheory.cn/qswp.htm",
+      "title": "求是网评 - 求是网",
       "type": "feed",
-      "url": "rsshub://qstheory/toutiao"
+      "url": "rsshub://qstheory/qswp"
     }
   ]
 }

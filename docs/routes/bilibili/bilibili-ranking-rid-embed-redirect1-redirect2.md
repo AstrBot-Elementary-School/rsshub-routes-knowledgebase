@@ -43,7 +43,7 @@ _None_
     "popular"
   ],
   "example": "/bilibili/ranking/all",
-  "heat": 9285,
+  "heat": 9284,
   "location": "ranking.ts",
   "maintainers": [
     "DIYgod",
@@ -137,7 +137,7 @@ _None_
     {
       "description": "bilibili 排行榜-全站 - Powered by RSSHub",
       "errorAt": "2026-09-14T15:54:38.661Z",
-      "errorMessage": "Failed to fetch\n-352\n-352\n-352\n-352\nAuthentication failed. Access denied.\n/bilibili/ranking/0\nFailed to fetch\n-352\n-352\nFailed to fetch\n-352\n-352\n[GET] \"https://api.bilibili.com/x/web-interface/view?bvid=BV1ZqYX6YEsu\": 412 Precondition Failed\nRemote Playwright WebSocket upgrade failed with HTTP 428\n",
+      "errorMessage": "[GET] \"https://api.bilibili.com/x/web-interface/view?bvid=BV1TEYX62EMp\": 412 Precondition Failed\n-352\n-352\n-352\n[GET] \"https://api.bilibili.com/x/web-interface/view?bvid=BV1WAec6fE5N\": 412 Precondition Failed\nAuthentication failed. Access denied.\n/bilibili/ranking/0\nbrowserType.connect: WebSocket error: ws://browserless:3000/ 429 Too Many Requests\n\r\nToo Many Requests\nCall log:\n  - <ws connecting> ws://browserless:3000/\n  - <ws unexpected response> ws://browserless:3000/ 429 Too Many Requests\n\r\nToo Many Requests\n  - <ws error> ws://browserless:3000/ error WebSocket was closed before the connection was established\n  - <ws connect error> ws://browserless:3000/ WebSocket was closed before the connection was established\n  - <ws disconnected> ws://browserless:3000/ code=1006 reason=\n\nbrowserType.launch: Executable doesn't exist at /root/.cache/ms-playwright/chromium_headless_shell-1228/chrome-headless-shell-linux64/chrome-headless-shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     npx playwright install                                 ║\n║                                                            ║\n║ <3 Patchright Team                                         ║\n╚════════════════════════════════════════════════════════════╝\n-352\nbrowserType.connect: WebSocket error: ws://browserless:3000/ 429 Too Many Requests\n\r\nToo Many Requests\nCall log:\n  - <ws connecting> ws://browserless:3000/\n  - <ws unexpected response> ws://browserless:3000/ 429 Too Many Requests\n\r\nToo Many Requests\n  - <ws error> ws://browserless:3000/ error WebSocket was closed before the connection was established\n  - <ws connect error> ws://browserless:3000/ WebSocket was closed before the connection was established\n  - <ws disconnected> ws://browserless:3000/ code=1006 reason=\n\n-352\n-352\n[GET] \"https://api.bilibili.com/x/web-interface/view?bvid=BV1wge56aEhC\": 412 Precondition Failed\nRemote Playwright WebSocket upgrade failed with HTTP 428\n",
       "id": "78806242632741888",
       "image": null,
       "ownerUserId": null,
@@ -149,7 +149,7 @@ _None_
     {
       "description": "bilibili 排行榜-知识 - Powered by RSSHub",
       "errorAt": "2026-07-15T05:32:42.190Z",
-      "errorMessage": "-352\n-352\n[GET] \"https://api.bilibili.com/x/web-interface/ranking/v2?rid=9&type=all&web_location=333.934\": 412 Precondition Failed\n",
+      "errorMessage": "请求错误\n请求错误\n[GET] \"https://api.bilibili.com/x/web-interface/ranking/v2?rid=9&type=all&web_location=333.934\": 412 Precondition Failed\n",
       "id": "78844164657093632",
       "image": null,
       "ownerUserId": null,

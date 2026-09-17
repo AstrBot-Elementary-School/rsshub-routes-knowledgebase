@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 214,
+  "heat": 215,
   "location": "news.tsx",
   "maintainers": [
     "wushijishan"

@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 764,
+  "heat": 763,
   "location": "topics.ts",
   "maintainers": [
     "zoenglinghou",
@@ -84,7 +84,7 @@ _None_
   "topFeeds": [
     {
       "description": "Trending News | What's New Around the World | AP News - Powered by RSSHub",
-      "errorAt": "2026-09-09T14:41:33.894Z",
+      "errorAt": "2026-09-16T05:01:39.475Z",
       "errorMessage": "[GET] \"https://apnews.com/hub/trending-news\": 403 Forbidden\n[GET] \"https://apnews.com/hub/trending-news\": 403 Forbidden\n",
       "id": "52388449895612416",
       "image": null,
@@ -96,7 +96,7 @@ _None_
     },
     {
       "description": "Associated Press News: Breaking News, Latest Headlines and Videos | AP News - Powered by RSSHub",
-      "errorAt": "2026-09-09T15:43:45.688Z",
+      "errorAt": "2026-09-15T20:16:24.094Z",
       "errorMessage": "[GET] \"https://apnews.com/hub/apf-topnews\": 403 Forbidden\n",
       "id": "41648644680942592",
       "image": null,

@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 495,
+  "heat": 496,
   "location": "search/index.ts",
   "maintainers": [
     "drgnchan"

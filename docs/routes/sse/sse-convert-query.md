@@ -66,8 +66,8 @@ _None_
   "topFeeds": [
     {
       "description": "上证债券信息网 - 可转换公司债券公告 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-15T22:41:30.254Z",
+      "errorMessage": "[GET] \"https://query.sse.com.cn/infodisplay/queryBulletinKzzTipsNew.do?isPagination=true&pageHelp.pageSize=20&flag=0&_=1789543581120\": 403 Forbidden\n",
       "id": "68288320197921792",
       "image": null,
       "ownerUserId": null,

@@ -70,8 +70,8 @@ _None_
   "topFeeds": [
     {
       "description": "TiddlyWiki Releases - Powered by RSSHub",
-      "errorAt": "2026-09-15T09:16:34.007Z",
-      "errorMessage": "[GET] \"https://github.com/TiddlyWiki/TiddlyWiki5/releases.atom\": 429 Too Many Requests\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "95307506364399616",
       "image": null,
       "ownerUserId": null,

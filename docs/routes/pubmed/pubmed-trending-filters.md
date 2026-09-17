@@ -41,7 +41,7 @@ _None_
   ],
   "description": "::: tip\nFor the parameter **filter**, the `filter` parameter in the URL should be split into a string by `,`, here is an example.\n\nIn `https://pubmed.ncbi.nlm.nih.gov/trending/?filter=simsearch1.fha&filter=pubt.clinicaltrial&filter=pubt.randomizedcontrolledtrial`, the filter parameters are `simsearch1.fha`, `pubt.clinicaltrial`, and `pubt.randomizedcontrolledtrial`. Therefore, the filter corresponding to the route should be filled with `simsearch1.fha,pubt.clinicaltrial,pubt.randomizedcontrolledtrial`, and the route is [`/pubmed/trending/simsearch1.fha,pubt.clinicaltrial,pubt.randomizedcontrolledtrial`](https://rsshub.app/pubmed/trending/simsearch1.fha,pubt.clinicaltrial,pubt.randomizedcontrolledtrial)\n:::",
   "example": "/pubmed/trending",
-  "heat": 5,
+  "heat": 6,
   "location": "trending.tsx",
   "maintainers": [
     "y9c",

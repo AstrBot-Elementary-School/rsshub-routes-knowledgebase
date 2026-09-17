@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 14,
+  "heat": 15,
   "location": "articles.ts",
   "maintainers": [
     "LogicJake"
@@ -72,14 +72,14 @@ _None_
   },
   "topFeeds": [
     {
-      "description": null,
-      "errorAt": "2025-09-07T21:05:40.512Z",
+      "description": "Expand your knowledge with free LeetCode articles, written by our algorithm experts. - Powered by RSSHub",
+      "errorAt": "2026-09-16T10:16:14.136Z",
       "errorMessage": "[GET] \"https://leetcode.com/articles/\": 403 Forbidden\n",
       "id": "187621803897127940",
-      "image": null,
+      "image": "https://assets.leetcode.com/static_assets/public/icons/favicon-192x192.png",
       "ownerUserId": null,
-      "siteUrl": null,
-      "title": "Importing",
+      "siteUrl": "https://leetcode.com/articles/",
+      "title": "Articles - LeetCode",
       "type": "feed",
       "url": "rsshub://leetcode/articles"
     }

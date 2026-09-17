@@ -90,8 +90,8 @@
   "topFeeds": [
     {
       "description": "SONE - JavDB - 可下載 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-16T02:07:06.170Z",
+      "errorMessage": "[GET] \"https://javdb.com/v/qAn1kD\": 429 Too Many Requests\n[GET] \"https://javdb.com/video_codes/SONE?f=download\": <no response> fetch failed\nRemote Playwright WebSocket upgrade failed with HTTP 428\n",
       "id": "96109559941147648",
       "image": null,
       "ownerUserId": null,

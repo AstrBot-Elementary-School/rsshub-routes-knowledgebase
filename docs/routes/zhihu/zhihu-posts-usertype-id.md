@@ -62,7 +62,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1319,
+  "heat": 1320,
   "location": "posts.ts",
   "maintainers": [
     "whtsky",
@@ -89,7 +89,7 @@
     {
       "description": "学校≠教育≠技能；文凭溢价=80%信号传递+20%人力资本 - Powered by RSSHub",
       "errorAt": "2025-04-22T11:31:51.374Z",
-      "errorMessage": "zhihu: browser session failed during guest cookie initialization. Configure ZHIHU_COOKIES with an accessible session containing d_c0 and __zse_ck.\n",
+      "errorMessage": "Remote Playwright WebSocket upgrade failed with HTTP 428\n",
       "id": "55435352270993409",
       "image": "https://pic1.zhimg.com/v2-c78eb026231e976049e9105170140ce3_l.jpg",
       "ownerUserId": null,
@@ -101,7 +101,7 @@
     {
       "description": "公众号：大猿搬砖简记 - Powered by RSSHub",
       "errorAt": "2025-04-22T11:33:42.477Z",
-      "errorMessage": "zhihu: browser API request failed with HTTP 403\n",
+      "errorMessage": "Remote Playwright WebSocket upgrade failed with HTTP 428\n",
       "id": "66390660650222592",
       "image": "https://pic1.zhimg.com/v2-6304b8f8dd717ed99eeddd211d5714d1_l.jpg",
       "ownerUserId": null,

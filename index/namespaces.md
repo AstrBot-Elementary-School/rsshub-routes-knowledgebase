@@ -7202,6 +7202,12 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `10`
 - Index File: `index/mihoyo.md`
 
+## Mikiki
+- Namespace: `mikiki`
+- Aliases: `mikiki, mikiki.tokyo.jp`
+- Route Count: `1`
+- Index File: `index/mikiki.md`
+
 ## MindMeister
 - Namespace: `mindmeister`
 - Aliases: `mindmeister, mindmeister.com`
@@ -9703,6 +9709,12 @@ Use this file to select the target namespace before opening route documents.
 - Aliases: `sourceforge, sourceforge.net, www, www.sourceforge.net`
 - Route Count: `1`
 - Index File: `index/sourceforge.md`
+
+## South Plus
+- Namespace: `south-plus`
+- Aliases: `south plus, south-plus, south-plus.net`
+- Route Count: `1`
+- Index File: `index/south-plus.md`
 
 ## 南方网
 - Namespace: `southcn`

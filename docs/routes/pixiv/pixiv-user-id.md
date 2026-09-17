@@ -55,7 +55,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 37465,
+  "heat": 37466,
   "location": "user.ts",
   "maintainers": [
     "DIYgod"
@@ -92,7 +92,7 @@ _None_
     {
       "description": "ATDAN- 的 pixiv 最新动态 - Powered by RSSHub",
       "errorAt": "2026-09-14T21:01:55.644Z",
-      "errorMessage": "403 \npixiv RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\n[POST] \"https://oauth.secure.pixiv.net/auth/token\": 403 Forbidden\n",
+      "errorMessage": "pixiv RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\npixiv RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\n[POST] \"https://oauth.secure.pixiv.net/auth/token\": 403 Forbidden\n",
       "id": "52720946495913984",
       "image": "https://pixiv.rss3.workers.dev/user-profile/img/2024/06/21/11/54/21/26020985_15d347f457455848d0d56acaab7f180a_170.png",
       "ownerUserId": null,

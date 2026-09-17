@@ -77,16 +77,16 @@ _None_
       "url": "rsshub://wechat/sogou/gh_b3b43949212c"
     },
     {
-      "description": "赢商网 的微信公众号 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "1177176906097623040",
+      "description": "七毛 的微信公众号 - Powered by RSSHub",
+      "errorAt": "2026-06-25T19:08:00.117Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "id": "139239681617949696",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weixin.sogou.com/weixin?query=%E8%B5%A2%E5%95%86%E7%BD%91",
-      "title": "赢商网 的微信公众号",
+      "siteUrl": "https://weixin.sogou.com/weixin?query=qimao0908",
+      "title": "七毛 的微信公众号",
       "type": "feed",
-      "url": "rsshub://wechat/sogou/%E8%B5%A2%E5%95%86%E7%BD%91"
+      "url": "rsshub://wechat/sogou/qimao0908"
     }
   ]
 }

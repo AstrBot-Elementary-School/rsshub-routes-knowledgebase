@@ -82,7 +82,7 @@
     {
       "description": "讨论话题包括编辑器、终端、Git、VSCode、PHPStorm、VIM 等开发者工具相关话题。 - Powered by RSSHub",
       "errorAt": "2026-09-08T22:12:09.414Z",
-      "errorMessage": "p217 is not a function\n",
+      "errorMessage": "p229 is not a function\n",
       "id": "58746729811026944",
       "image": null,
       "ownerUserId": null,
@@ -94,7 +94,7 @@
     {
       "description": "Go（又称 Golang）是 Google 开发的一种静态强类型、编译型、并发型，并具有垃圾回收功能的编程语言。Go 被誉为是未来的服务器端编程语言。 - Powered by RSSHub",
       "errorAt": "2026-09-08T19:51:40.035Z",
-      "errorMessage": "p217 is not a function\n",
+      "errorMessage": "p220 is not a function\n",
       "id": "60868955443264512",
       "image": null,
       "ownerUserId": null,

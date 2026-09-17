@@ -41,7 +41,7 @@ _None_
   "features": {
     "nsfw": true
   },
-  "heat": 23,
+  "heat": 22,
   "location": "book.ts",
   "maintainers": [
     "junfengP"

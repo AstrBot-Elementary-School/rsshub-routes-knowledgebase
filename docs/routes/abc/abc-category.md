@@ -84,8 +84,8 @@ _None_
     },
     {
       "description": "澳大利亚广播公司ABC独立于政府、政治团体，商业或其他行业机构，不涉及任何利益关系，编辑自主，提供客观和公正的新闻报道，是澳大利亚全国公共广播机构。ABC中文遵循ABC编辑方针，以澳大利亚视角，报道国内外重大新闻事件、深度分析时事要闻、多方展现观点碰撞。 - Powered by RSSHub",
-      "errorAt": "2025-04-28T18:36:45.726Z",
-      "errorMessage": "[GET] \"https://www.abc.net.au/news/feed/chinese/rss.xml\": 404 Not Found\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "59961396218494976",
       "image": "https://live-production.wcms.abc-cdn.net.au/7ee6f190de6d7dbb04203e514bfae9ec",
       "ownerUserId": null,

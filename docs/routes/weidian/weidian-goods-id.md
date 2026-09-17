@@ -51,6 +51,18 @@ _None_
   },
   "topFeeds": [
     {
+      "description": "人民ism 商铺上新 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "1264523938205925376",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://weidian.com/?userid=1651238208",
+      "title": "人民ism 商铺上新",
+      "type": "feed",
+      "url": "rsshub://weidian/goods/1651238208"
+    },
+    {
       "description": "UZI（全国发顺丰） 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -61,18 +73,6 @@ _None_
       "title": "UZI（全国发顺丰） 商铺上新",
       "type": "feed",
       "url": "rsshub://weidian/goods/1860117640"
-    },
-    {
-      "description": "杰尼龟(唯一新店) 商铺上新 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "1264524979299287040",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1697270306",
-      "title": "杰尼龟(唯一新店) 商铺上新",
-      "type": "feed",
-      "url": "rsshub://weidian/goods/1697270306"
     }
   ]
 }

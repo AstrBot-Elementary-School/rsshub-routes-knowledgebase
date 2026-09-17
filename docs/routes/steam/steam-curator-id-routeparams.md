@@ -83,8 +83,8 @@ _None_
     },
     {
       "description": "Steam Curator 32686107-Ѕtеам-250 Reviews - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-16T01:07:16.593Z",
+      "errorMessage": "[GET] \"https://store.steampowered.com/curator/32686107-%D0%85t%D0%B5%D0%B0%D0%BC-250/ajaxgetfilteredrecommendations/?query&start=0&count=10&dynamic_data=&sort=recent&app_types=&reset=false&curations=&tagids=\": 403 Forbidden\n",
       "id": "99407355545093120",
       "image": null,
       "ownerUserId": null,

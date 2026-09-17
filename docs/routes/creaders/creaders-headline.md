@@ -36,7 +36,7 @@ _None_
     "bbs"
   ],
   "example": "/creaders/headline",
-  "heat": 0,
+  "heat": 1,
   "location": "headline.ts",
   "maintainers": [
     "nczitzk"

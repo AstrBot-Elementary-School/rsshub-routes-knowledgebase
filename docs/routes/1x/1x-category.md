@@ -64,7 +64,7 @@ If you subscribe to [Wildlife Published](https://1x.com/gallery/wildlife/publish
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 52759,
+  "heat": 52909,
   "location": "index.tsx",
   "maintainers": [
     "nczitzk"

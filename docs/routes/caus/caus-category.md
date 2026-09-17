@@ -80,16 +80,16 @@ _None_
       "url": "rsshub://caus"
     },
     {
-      "description": "财富 - 加美财经 - Powered by RSSHub",
+      "description": "商业 - 加美财经 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1252435441064214528",
+      "id": "1252434568716091392",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://caus.com/category/finance/",
-      "title": "财富 - 加美财经",
+      "title": "商业 - 加美财经",
       "type": "feed",
-      "url": "rsshub://caus/8"
+      "url": "rsshub://caus/2"
     }
   ]
 }

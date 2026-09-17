@@ -42,7 +42,7 @@ _None_
   "features": {
     "nsfw": true
   },
-  "heat": 10,
+  "heat": 9,
   "location": "nsfw.ts",
   "maintainers": [
     "zhenhappy"

@@ -77,7 +77,7 @@ _None_
       "url": "rsshub://baidu/tieba/forum/%E5%AD%99%E7%AC%91%E5%B7%9D"
     },
     {
-      "description": "pt吧 - Powered by RSSHub",
+      "description": "本吧热帖: 1-【有奖找人】寻找本吧你心目中的大神！ 2-【250927】交易类内容提醒 3-【250628】【第六版】百度PT吧吧规 4-【百度PT吧黑名单！】 5-【260916】发几个PTT*4 6-【250525】求助帖水楼 7-【260730】想入个音乐站，求吧友们推荐下 8-【20260908】大佬们，求点红豆fans魔力 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "65268258673897472",

@@ -75,7 +75,7 @@ _None_
     {
       "description": "《天下雜誌》是《經濟學人》獨家授權的合作媒體。歡迎搜尋Podcast《經濟學人＠天下》，獲得最新一期《經濟學人》獨家解讀。 - Powered by RSSHub",
       "errorAt": "2026-08-25T03:21:27.144Z",
-      "errorMessage": "Target page, context or browser has been closed\nCall log:\n  - waiting for locator('.caption') to be visible\n    2 × waiting for \"https://www.cw.com.tw/author/57\" navigation to finish...\n      - navigated to \"https://www.cw.com.tw/author/57\"\n\n",
+      "errorMessage": "Remote Playwright WebSocket upgrade failed with HTTP 428\n",
       "id": "69435755254558720",
       "image": "https://cdn-www.cw.com.tw/article/201909/article-5d75f21940867.jpg",
       "ownerUserId": null,

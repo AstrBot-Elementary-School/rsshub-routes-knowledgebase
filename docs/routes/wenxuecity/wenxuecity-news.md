@@ -36,7 +36,7 @@ _None_
     "bbs"
   ],
   "example": "/wenxuecity/news",
-  "heat": 3,
+  "heat": 4,
   "location": "news.ts",
   "maintainers": [
     "nczitzk"

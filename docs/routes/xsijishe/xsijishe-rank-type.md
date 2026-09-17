@@ -61,7 +61,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4880,
+  "heat": 4882,
   "location": "rank.ts",
   "maintainers": [
     "akynazh",

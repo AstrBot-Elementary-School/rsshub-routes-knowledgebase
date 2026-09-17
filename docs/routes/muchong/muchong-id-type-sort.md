@@ -70,16 +70,16 @@ _None_
       "url": "rsshub://muchong/428"
     },
     {
-      "description": "招聘信息布告栏 - 科研生活区 - 小木虫论坛 - Powered by RSSHub",
+      "description": "论文投稿 - 学术交流区 - 小木虫论坛 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "177651896292778000",
+      "id": "177651896292777999",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://muchong.com/f-346-1",
-      "title": "招聘信息布告栏 - 科研生活区 - 小木虫论坛",
+      "siteUrl": "https://muchong.com/f-125-1",
+      "title": "论文投稿 - 学术交流区 - 小木虫论坛",
       "type": "feed",
-      "url": "rsshub://muchong/346"
+      "url": "rsshub://muchong/125"
     }
   ]
 }

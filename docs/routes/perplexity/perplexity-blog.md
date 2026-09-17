@@ -77,7 +77,7 @@ _None_
     {
       "description": "Perplexity Blog - Powered by RSSHub",
       "errorAt": "2026-08-16T16:32:04.962Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "Remote Playwright WebSocket upgrade failed with HTTP 428\n",
       "id": "257997849784109056",
       "image": null,
       "ownerUserId": null,

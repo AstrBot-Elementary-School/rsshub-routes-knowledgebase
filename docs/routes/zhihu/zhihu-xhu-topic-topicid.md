@@ -85,16 +85,16 @@ _None_
       "url": "rsshub://zhihu/xhu/topic/19584076"
     },
     {
-      "description": "知乎话题-21730540 - Powered by RSSHub",
-      "errorAt": "2025-03-27T08:13:11.431Z",
+      "description": "知乎话题-19791061 - Powered by RSSHub",
+      "errorAt": "2025-07-23T10:47:22.123Z",
       "errorMessage": "[GET] \"https://api.zhihuvvv.workers.dev/guests/token\": 401 Unauthorized\n",
-      "id": "79400515584645166",
+      "id": "79400515584645170",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.zhihu.com/topic/21730540/newest",
-      "title": "知乎话题-21730540",
+      "siteUrl": "https://www.zhihu.com/topic/19791061/newest",
+      "title": "知乎话题-19791061",
       "type": "feed",
-      "url": "rsshub://zhihu/xhu/topic/21730540"
+      "url": "rsshub://zhihu/xhu/topic/19791061"
     }
   ]
 }

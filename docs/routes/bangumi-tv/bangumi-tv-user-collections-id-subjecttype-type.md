@@ -178,16 +178,16 @@ _None_
       "url": "rsshub://bangumi.tv/user/collections/sai/1/1"
     },
     {
-      "description": "Kirito的Bangumi收藏列表 - Powered by RSSHub",
+      "description": "翻车鱼的Bangumi收藏列表 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "73642654898770944",
+      "id": "241412614589635584",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://bgm.tv/user/825720/collections",
-      "title": "Kirito的Bangumi收藏列表",
+      "siteUrl": "https://bgm.tv/user/leekkun/collections",
+      "title": "翻车鱼的Bangumi收藏列表",
       "type": "feed",
-      "url": "rsshub://bangumi.tv/user/collections/825720/all/all"
+      "url": "rsshub://bangumi.tv/user/collections/leekkun/all/all"
     }
   ]
 }
