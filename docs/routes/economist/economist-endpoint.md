@@ -75,7 +75,7 @@ _None_
     {
       "description": "The most recent blogs and online articles from The Economist - Powered by RSSHub",
       "errorAt": "2025-09-05T18:15:19.885Z",
-      "errorMessage": "[GET] \"https://www.economist.com/asia/2026/09/13/why-indians-are-unhappy-about-78-economic-growth\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.economist.com/europe/2026/09/14/frances-centre-has-one-question-who-can-beat-marine-le-pen\": 403 Forbidden\n",
       "id": "54859243036899328",
       "image": null,
       "ownerUserId": null,

@@ -102,16 +102,16 @@ Note: If you want to track a specific post's content changes (e.g., first post w
       "url": "rsshub://f95zone/thread/bamh3d-collection-2026-01-04-bamhor.181609"
     },
     {
-      "description": "[F95zone] Collection Video RDreamer Collection [2025-07-05] [RDreamer] - Powered by RSSHub",
+      "description": "[F95zone] Collection Video Ubermation Collection [2026-05-16] [Uebermation/Übermation] - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "250523197875333120",
+      "id": "250445877936302080",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://f95zone.to/threads/rdreamer-collection-2025-07-05-rdreamer.253184/",
-      "title": "[F95zone] Collection Video RDreamer Collection [2025-07-05] [RDreamer]",
+      "siteUrl": "https://f95zone.to/threads/ubermation-collection-2025-10-06-uebermation-uebermation.231247/",
+      "title": "[F95zone] Collection Video Ubermation Collection [2026-05-16] [Uebermation/Übermation]",
       "type": "feed",
-      "url": "rsshub://f95zone/thread/rdreamer-collection-2025-07-05-rdreamer.253184"
+      "url": "rsshub://f95zone/thread/ubermation-collection-2025-10-06-uebermation-uebermation.231247"
     }
   ]
 }

@@ -91,8 +91,8 @@
   "topFeeds": [
     {
       "description": "中出し 射精執行官 - JavDB - Powered by RSSHub",
-      "errorAt": "2026-09-14T20:06:39.909Z",
-      "errorMessage": "Authentication failed. Access denied.\n/javdb/series/3aZz\nRemote Playwright WebSocket upgrade failed with HTTP 428\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "84865535466264576",
       "image": null,
       "ownerUserId": null,

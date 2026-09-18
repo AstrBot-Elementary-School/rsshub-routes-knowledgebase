@@ -70,10 +70,7 @@ _None_
     "lang": "Region",
     "type": "Category, `all` by default"
   },
-  "path": [
-    "/global/:lang/:type?",
-    "/ff14_global/:lang/:type?"
-  ],
+  "path": "/global/:lang/:type?",
   "test": {
     "code": 0
   },

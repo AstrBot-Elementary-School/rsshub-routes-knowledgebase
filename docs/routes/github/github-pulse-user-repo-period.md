@@ -79,16 +79,16 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "massCodeIO/massCode weekly Pulse - Powered by RSSHub",
+      "description": "facebookresearch/audiocraft weekly Pulse - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "215345311459391488",
+      "id": "220767323256864790",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/massCodeIO/massCode/pulse/weekly",
-      "title": "massCodeIO/massCode weekly Pulse",
+      "siteUrl": "https://github.com/facebookresearch/audiocraft/pulse/weekly",
+      "title": "facebookresearch/audiocraft weekly Pulse",
       "type": "feed",
-      "url": "rsshub://github/pulse/massCodeIO/massCode"
+      "url": "rsshub://github/pulse/facebookresearch/audiocraft/weekly"
     },
     {
       "description": "2noise/ChatTTS weekly Pulse - Powered by RSSHub",

@@ -77,8 +77,8 @@ _None_
   "topFeeds": [
     {
       "description": "Latest updates and changes from Perplexity - Powered by RSSHub",
-      "errorAt": "2026-09-14T15:16:56.800Z",
-      "errorMessage": "Remote Playwright WebSocket upgrade failed with HTTP 428\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "241365598746245120",
       "image": "https://frontend-cdn.perplexity.ai/_agi_assets/marketing/hub/hub-og-image.jpg",
       "ownerUserId": null,

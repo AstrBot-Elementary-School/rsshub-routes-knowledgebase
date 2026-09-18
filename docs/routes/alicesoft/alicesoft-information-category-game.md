@@ -82,18 +82,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "ALICESOFT 記事一覧 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "71404482934582272",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.alicesoft.com/information",
-      "title": "ALICESOFT 記事一覧",
-      "type": "feed",
-      "url": "rsshub://alicesoft/information"
-    },
-    {
       "description": "ALICESOFT 超昂大戦の記事一覧 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -104,6 +92,18 @@ _None_
       "title": "ALICESOFT 超昂大戦の記事一覧",
       "type": "feed",
       "url": "rsshub://alicesoft/information/game/cat377"
+    },
+    {
+      "description": "ALICESOFT 記事一覧 - Powered by RSSHub",
+      "errorAt": "2026-09-17T10:06:15.814Z",
+      "errorMessage": "[GET] \"https://www.alicesoft.com/information\": 530 \n",
+      "id": "71404482934582272",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.alicesoft.com/information",
+      "title": "ALICESOFT 記事一覧",
+      "type": "feed",
+      "url": "rsshub://alicesoft/information"
     }
   ],
   "url": "www.alicesoft.com/information"

@@ -58,7 +58,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1917,
+  "heat": 1915,
   "location": "user.ts",
   "maintainers": [
     "junbaor"

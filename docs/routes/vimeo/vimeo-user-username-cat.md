@@ -81,16 +81,16 @@ _None_
       "url": "rsshub://vimeo/user/loocreative"
     },
     {
-      "description": "Solid VFX lab is the best post-production company in Korea established in May 2012 by the most talented artists. We are specializing in the VFX, motion graphic and composite. Address: 26, Hakdong-ro 41-gil, Gangnam-gu, Seoul, Republic of Korea 06058 Office: 82 (2) 3447-9733 Fax: 82 (2) 3447 9737 Contact: solid@solidvfx.com - Powered by RSSHub",
-      "errorAt": "2026-03-26T16:06:33.856Z",
-      "errorMessage": "[GET] \"https://api.vimeo.com/users/solidvfx?fields=name,gender,bio,uri,link,categories&fetch_user_profile=1\": 406 Not Acceptable\n",
-      "id": "72504444961615872",
+      "description": "Krystian Gacek | Vimeo - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "172551793162074148",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://vimeo.com/solidvfx",
-      "title": "SOLID | Vimeo",
+      "siteUrl": "https://vimeo.com/user2646900",
+      "title": "Krystian Gacek | Vimeo",
       "type": "feed",
-      "url": "rsshub://vimeo/user/solidvfx"
+      "url": "rsshub://vimeo/user/2646900"
     }
   ],
   "view": 3

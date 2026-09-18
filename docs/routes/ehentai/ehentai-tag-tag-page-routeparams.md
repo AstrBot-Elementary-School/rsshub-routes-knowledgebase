@@ -72,8 +72,8 @@ _None_
   "topFeeds": [
     {
       "description": "language:chinese - E-Hentai Tag - Powered by RSSHub",
-      "errorAt": "2026-09-15T21:06:37.012Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorAt": "2026-09-17T03:16:20.011Z",
+      "errorMessage": "n723.enclosure_url.replace is not a function\n",
       "id": "120679993479343104",
       "image": null,
       "ownerUserId": null,
@@ -84,7 +84,7 @@ _None_
     },
     {
       "description": "language:chinese - E-Hentai Tag - Powered by RSSHub",
-      "errorAt": "2026-09-15T22:22:32.602Z",
+      "errorAt": "2026-09-17T09:07:28.698Z",
       "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "76924878996884480",
       "image": null,

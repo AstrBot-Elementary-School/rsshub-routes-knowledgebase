@@ -117,8 +117,8 @@ _None_
   "topFeeds": [
     {
       "description": "Palworld 的 pixiv 热门内容 - Powered by RSSHub",
-      "errorAt": "2026-09-14T19:21:21.031Z",
-      "errorMessage": "[POST] \"https://oauth.secure.pixiv.net/auth/token\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41147805276726320",
       "image": null,
       "ownerUserId": null,
@@ -129,8 +129,8 @@ _None_
     },
     {
       "description": "ELDENRING 的 pixiv 热门内容 - Powered by RSSHub",
-      "errorAt": "2026-09-14T22:41:39.243Z",
-      "errorMessage": "[POST] \"https://oauth.secure.pixiv.net/auth/token\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41147805276726316",
       "image": null,
       "ownerUserId": null,

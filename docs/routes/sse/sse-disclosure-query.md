@@ -65,14 +65,14 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "上海证券交易所 - 上市公司信息 - 白云机场最新公告 - Powered by RSSHub",
-      "errorAt": "2026-09-16T01:26:35.560Z",
-      "errorMessage": "[GET] \"https://query.sse.com.cn/security/stock/queryCompanyBulletin.do?isPagination=true&securityType=0101,120100,020100,020200,120200&reportType=ALL&pageHelp.pageSize=25&pageHelp.pageCount=50&pageHelp.pageNo=1&pageHelp.beginPage=1&pageHelp.cacheSize=1&pageHelp.endPage=5&_=1789551082712\": 403 Forbidden\n",
+      "description": "上海证券交易所 - 上市公司信息 - 福建高速最新公告 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "115958109880213504",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.sse.com.cn/assortment/stock/list/info/announcement/index.shtml?productId=undefined",
-      "title": "上海证券交易所 - 上市公司信息 - 白云机场最新公告",
+      "title": "上海证券交易所 - 上市公司信息 - 福建高速最新公告",
       "type": "feed",
       "url": "rsshub://sse/disclosure"
     },

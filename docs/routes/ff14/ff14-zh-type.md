@@ -66,10 +66,7 @@
   "parameters": {
     "type": "分类名，预设为 `all`"
   },
-  "path": [
-    "/zh/:type?",
-    "/ff14_zh/:type?"
-  ],
+  "path": "/zh/:type?",
   "radar": [
     {
       "source": [

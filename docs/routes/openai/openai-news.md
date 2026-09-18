@@ -64,8 +64,8 @@ _None_
   "topFeeds": [
     {
       "description": "OpenAI News - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-16T20:16:35.918Z",
+      "errorMessage": "[GET] \"https://openai.com/index/helping-older-adults-use-ai-in-everyday-life\": 403 Forbidden\n[GET] \"https://openai.com/index/how-to-connect-ai-usage-to-business-value/\": 403 Forbidden\n",
       "id": "139523607422199808",
       "image": null,
       "ownerUserId": null,

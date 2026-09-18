@@ -79,8 +79,8 @@
   "topFeeds": [
     {
       "description": "西安交通大学电气学院通知 - 研究生 - Powered by RSSHub",
-      "errorAt": "2026-02-27T08:09:02.690Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "149109316436120576",
       "image": null,
       "ownerUserId": null,

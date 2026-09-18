@@ -95,7 +95,7 @@
     {
       "description": null,
       "errorAt": "2025-05-23T18:45:47.319Z",
-      "errorMessage": "Remote Playwright WebSocket upgrade failed with HTTP 428\n",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "148757739569766447",
       "image": null,
       "ownerUserId": null,

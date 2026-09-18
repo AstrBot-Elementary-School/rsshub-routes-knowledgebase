@@ -76,16 +76,16 @@ _None_
       "url": "rsshub://guancha/personalpage/562778"
     },
     {
-      "description": "金灿荣教授 的个人主页 - Powered by RSSHub",
+      "description": "高志凯频道 的个人主页 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "172228390272024576",
+      "id": "172226578810915840",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://app.guancha.cn/user/get-published-list?page_size=20&page_no=1&uid=210048",
-      "title": "金灿荣教授-观察者-风闻社区",
+      "siteUrl": "https://app.guancha.cn/user/get-published-list?page_size=20&page_no=1&uid=1362536",
+      "title": "高志凯频道-观察者-风闻社区",
       "type": "feed",
-      "url": "rsshub://guancha/personalpage/210048"
+      "url": "rsshub://guancha/personalpage/1362536"
     }
   ]
 }

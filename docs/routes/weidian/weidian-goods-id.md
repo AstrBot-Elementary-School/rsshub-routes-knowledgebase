@@ -51,28 +51,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "人民ism 商铺上新 - Powered by RSSHub",
+      "description": "安卓音乐 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264523938205925376",
+      "id": "1264523487720898560",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1651238208",
-      "title": "人民ism 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1314478082",
+      "title": "安卓音乐 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1651238208"
+      "url": "rsshub://weidian/goods/1314478082"
     },
     {
-      "description": "UZI（全国发顺丰） 商铺上新 - Powered by RSSHub",
+      "description": "山山大王SSDW 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264478347631394816",
+      "id": "1264526059366121472",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1860117640",
-      "title": "UZI（全国发顺丰） 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1807280336",
+      "title": "山山大王SSDW 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1860117640"
+      "url": "rsshub://weidian/goods/1807280336"
     }
   ]
 }

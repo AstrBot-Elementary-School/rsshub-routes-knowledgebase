@@ -70,7 +70,7 @@ _None_
     {
       "description": "就业服务平台-通知公告 - Powered by RSSHub",
       "errorAt": "2025-08-08T11:32:14.258Z",
-      "errorMessage": "[GET] \"http://job.hrbeu.edu.cn/HrbeuJY/Web/Home/NewsList?43kuJdqqW6kyCmomBv0smMlyGfDy8QefMwSyc-jK8Ww=.shtml\": 404 \n",
+      "errorMessage": "[GET] \"http://job.hrbeu.edu.cn/HrbeuJY/Web/Home/NewsList?43kuJdqqW6kyCmomBv0smMlyGfDy8QefMwSyc-jK8Ww=.shtml\": 404 Not Found\n",
       "id": "77555267043885056",
       "image": null,
       "ownerUserId": null,

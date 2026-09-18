@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2506,
+  "heat": 2504,
   "location": "dynamic.ts",
   "maintainers": [
     "CaoMeiYouRen"

@@ -89,7 +89,7 @@ _None_
     },
     {
       "description": "#china - Fansly - Powered by RSSHub",
-      "errorAt": "2026-09-14T21:46:41.945Z",
+      "errorAt": "2026-09-16T23:51:13.011Z",
       "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "79121801531701248",
       "image": "https://fansly.com/assets/images/icons/apple-touch-icon.png",

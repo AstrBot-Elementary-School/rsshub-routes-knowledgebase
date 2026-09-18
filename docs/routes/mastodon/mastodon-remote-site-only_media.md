@@ -92,16 +92,16 @@ _None_
       "url": "rsshub://mastodon/remote/pawoo.net/true"
     },
     {
-      "description": "Federated Public Timeline on klog.tw - Powered by RSSHub",
+      "description": "Federated Public Timeline on social.slat.org/ - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "77712542683452416",
+      "id": "77714219922888704",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://klog.tw/",
-      "title": "Federated Public Timeline on klog.tw",
+      "siteUrl": "https://social.slat.org/",
+      "title": "Federated Public Timeline on social.slat.org/",
       "type": "feed",
-      "url": "rsshub://mastodon/remote/klog.tw/false"
+      "url": "rsshub://mastodon/remote/social.slat.org%2F/false"
     }
   ],
   "view": 1

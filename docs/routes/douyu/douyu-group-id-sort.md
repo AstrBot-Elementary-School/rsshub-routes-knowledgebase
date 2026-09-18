@@ -98,16 +98,16 @@
       "url": "rsshub://douyu/group/534"
     },
     {
-      "description": "BigYa44198的鱼吧 - Powered by RSSHub",
+      "description": "小300TwT的鱼吧 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "63584364396372992",
+      "id": "191988995179091968",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://yuba.douyu.com/group/newself/1011",
-      "title": "斗鱼鱼吧 - BigYa44198",
+      "siteUrl": "https://yuba.douyu.com/group/newself/7187033",
+      "title": "斗鱼鱼吧 - 火枪俱乐部",
       "type": "feed",
-      "url": "rsshub://douyu/group/1011"
+      "url": "rsshub://douyu/group/7187033"
     }
   ]
 }

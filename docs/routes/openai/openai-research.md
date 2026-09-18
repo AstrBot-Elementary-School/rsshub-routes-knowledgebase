@@ -64,8 +64,8 @@ _None_
   "topFeeds": [
     {
       "description": "OpenAI Research - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-17T00:16:28.038Z",
+      "errorMessage": "[GET] \"https://openai.com/index/model-misalignment-reporting-framework/\": 403 Forbidden\n",
       "id": "163361629454837803",
       "image": null,
       "ownerUserId": null,

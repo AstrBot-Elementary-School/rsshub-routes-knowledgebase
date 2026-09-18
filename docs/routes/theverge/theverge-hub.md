@@ -17,20 +17,35 @@
 - Source Module: `_None_`
 
 ## Description
-| Hub         | Hub name            |
-| ----------- | ------------------- |
-|             | All Posts           |
-| android     | Android             |
-| apple       | Apple               |
-| apps        | Apps & Software     |
-| blackberry  | BlackBerry          |
-| culture     | Culture             |
-| gaming      | Gaming              |
-| hd          | HD & Home           |
-| microsoft   | Microsoft           |
-| photography | Photography & Video |
-| policy      | Policy & Law        |
-| web         | Web & Social        |
+| Hub            | Hub name       |
+| -------------- | -------------- |
+|                | All Posts      |
+| amazon         | Amazon         |
+| android        | Android        |
+| apple          | Apple          |
+| apps           | Apps           |
+| blackberry     | BlackBerry     |
+| business       | Business       |
+| creators       | Creators       |
+| culture        | Culture        |
+| entertainment  | Entertainment  |
+| film           | Film           |
+| games          | Gaming         |
+| google         | Google         |
+| health         | Health         |
+| meta           | Meta           |
+| microsoft      | Microsoft      |
+| music          | Music          |
+| policy         | Policy         |
+| reviews        | Reviews        |
+| samsung        | Samsung        |
+| science        | Science        |
+| space          | Space          |
+| streaming      | Streaming      |
+| tech           | Tech           |
+| transportation | Transportation |
+| tv             | TV Shows       |
+| web            | Web            |
 
 Provides a better reading experience (full text articles) over the official one.
 
@@ -58,7 +73,7 @@ Provides a better reading experience (full text articles) over the official one.
   "categories": [
     "new-media"
   ],
-  "description": "| Hub         | Hub name            |\n| ----------- | ------------------- |\n|             | All Posts           |\n| android     | Android             |\n| apple       | Apple               |\n| apps        | Apps & Software     |\n| blackberry  | BlackBerry          |\n| culture     | Culture             |\n| gaming      | Gaming              |\n| hd          | HD & Home           |\n| microsoft   | Microsoft           |\n| photography | Photography & Video |\n| policy      | Policy & Law        |\n| web         | Web & Social        |\n\nProvides a better reading experience (full text articles) over the official one.",
+  "description": "| Hub            | Hub name       |\n| -------------- | -------------- |\n|                | All Posts      |\n| amazon         | Amazon         |\n| android        | Android        |\n| apple          | Apple          |\n| apps           | Apps           |\n| blackberry     | BlackBerry     |\n| business       | Business       |\n| creators       | Creators       |\n| culture        | Culture        |\n| entertainment  | Entertainment  |\n| film           | Film           |\n| games          | Gaming         |\n| google         | Google         |\n| health         | Health         |\n| meta           | Meta           |\n| microsoft      | Microsoft      |\n| music          | Music          |\n| policy         | Policy         |\n| reviews        | Reviews        |\n| samsung        | Samsung        |\n| science        | Science        |\n| space          | Space          |\n| streaming      | Streaming      |\n| tech           | Tech           |\n| transportation | Transportation |\n| tv             | TV Shows       |\n| web            | Web            |\n\nProvides a better reading experience (full text articles) over the official one.",
   "example": "/theverge",
   "features": {
     "antiCrawler": false,

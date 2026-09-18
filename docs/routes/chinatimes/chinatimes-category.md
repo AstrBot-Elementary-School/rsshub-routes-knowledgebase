@@ -80,8 +80,8 @@
   "topFeeds": [
     {
       "description": "《中時新聞網》 即時新聞最新列表 - Powered by RSSHub",
-      "errorAt": "2026-09-14T18:56:45.301Z",
-      "errorMessage": "Remote Playwright WebSocket upgrade failed with HTTP 428\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "197798198610638848",
       "image": "https://www.chinatimes.com/images/2020/apple-touch-icon.png",
       "ownerUserId": null,

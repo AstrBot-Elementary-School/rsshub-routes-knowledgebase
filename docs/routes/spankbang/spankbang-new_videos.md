@@ -46,7 +46,7 @@ _None_
     "nsfw": true,
     "requirePuppeteer": true
   },
-  "heat": 844,
+  "heat": 845,
   "location": "new-videos.tsx",
   "maintainers": [
     "TonyRL"
@@ -69,7 +69,7 @@ _None_
     {
       "description": "New Porn Videos! - blowjob, cowgirl, doggy Porn - SpankBang - Powered by RSSHub",
       "errorAt": "2026-02-17T10:15:52.738Z",
-      "errorMessage": "Remote Playwright WebSocket upgrade failed with HTTP 428\n",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "63617758228257792",
       "image": null,
       "ownerUserId": null,

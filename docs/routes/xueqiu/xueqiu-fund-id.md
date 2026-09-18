@@ -65,7 +65,7 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "基金代码 019305 <br> 今日净值(2026-09-01) ¥1.6804 <br> 日跌跌 -0.6797% - Powered by RSSHub",
+      "description": "基金代码 019305 <br> 今日净值(2026-09-15) ¥1.6687 <br> 日跌跌 -0.4534% - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "64899751385970688",

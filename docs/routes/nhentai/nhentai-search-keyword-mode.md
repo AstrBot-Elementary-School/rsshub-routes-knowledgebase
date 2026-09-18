@@ -88,8 +88,8 @@ _None_
     },
     {
       "description": "nhentai - search - chinese+stockings - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-17T09:22:51.902Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "54875188593719296",
       "image": null,
       "ownerUserId": null,

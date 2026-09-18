@@ -57,7 +57,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 18631,
+  "heat": 18632,
   "location": "hot-list.ts",
   "maintainers": [
     "nczitzk"

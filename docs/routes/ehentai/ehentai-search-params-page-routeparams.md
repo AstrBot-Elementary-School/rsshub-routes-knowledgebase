@@ -72,8 +72,8 @@ _None_
   "topFeeds": [
     {
       "description": "ごさいじ+language:\"chinese\" - E-Hentai Search - Powered by RSSHub",
-      "errorAt": "2026-09-15T07:55:19.881Z",
-      "errorMessage": "404 \nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorAt": "2026-09-17T07:12:47.756Z",
+      "errorMessage": "Failed to fetch\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "132859028606370816",
       "image": null,
       "ownerUserId": null,
@@ -84,8 +84,8 @@ _None_
     },
     {
       "description": "undefined - E-Hentai Search - Powered by RSSHub",
-      "errorAt": "2026-09-15T22:26:38.397Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "96502911354921984",
       "image": null,
       "ownerUserId": null,

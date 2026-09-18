@@ -60,7 +60,7 @@ _None_
     {
       "description": "ThoughtWorks Blog - Powered by RSSHub",
       "errorAt": "2025-08-12T15:44:49.337Z",
-      "errorMessage": "Cannot create property 'name' on string '程博'\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "56922860721864709",
       "image": null,
       "ownerUserId": null,

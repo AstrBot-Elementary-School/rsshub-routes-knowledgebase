@@ -90,8 +90,8 @@ To subscribe to [IN THE PIPELINE by Derek Lowe’s](https://science.org/blogs/pi
     },
     {
       "description": "A Science.org blog called In the Pipeline - Powered by RSSHub",
-      "errorAt": "2026-09-14T17:21:46.189Z",
-      "errorMessage": "Remote Playwright WebSocket upgrade failed with HTTP 428\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "65419023785781248",
       "image": "https://www.science.org/apple-touch-icon.png",
       "ownerUserId": null,

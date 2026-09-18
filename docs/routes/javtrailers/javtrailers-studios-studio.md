@@ -80,7 +80,7 @@ _None_
     {
       "description": "Watch Jav made by Prestige free, with high definition, we have over 4,000 studios available for free streaming. - Powered by RSSHub",
       "errorAt": "2026-08-31T19:11:32.851Z",
-      "errorMessage": "Remote Playwright WebSocket upgrade failed with HTTP 428\n",
+      "errorMessage": "Unexpected token '<', \"<div class\"... is not valid JSON\n",
       "id": "176520262640196608",
       "image": null,
       "ownerUserId": null,

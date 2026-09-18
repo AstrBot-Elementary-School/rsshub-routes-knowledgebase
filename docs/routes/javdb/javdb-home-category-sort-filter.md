@@ -88,8 +88,8 @@
   "topFeeds": [
     {
       "description": "有碼 - JavDB - 可下载 | 磁鏈更新排序 - Powered by RSSHub",
-      "errorAt": "2026-09-14T16:07:52.851Z",
-      "errorMessage": "Failed to fetch\nbrowserType.launch: Executable doesn't exist at /root/.cache/ms-playwright/chromium_headless_shell-1234/chrome-headless-shell-linux64/chrome-headless-shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     npx playwright install                                 ║\n║                                                            ║\n║ <3 Patchright Team                                         ║\n╚════════════════════════════════════════════════════════════╝\nRemote Playwright WebSocket upgrade failed with HTTP 428\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "73931561418737664",
       "image": null,
       "ownerUserId": null,
@@ -100,8 +100,8 @@
     },
     {
       "description": "有碼 - JavDB - 可下载 | 磁鏈更新排序 - Powered by RSSHub",
-      "errorAt": "2026-09-14T14:21:28.884Z",
-      "errorMessage": "Authentication failed. Access denied.\n/javdb/home\nRemote Playwright WebSocket upgrade failed with HTTP 428\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "55906664666988544",
       "image": null,
       "ownerUserId": null,

@@ -42,7 +42,7 @@ _None_
     "programming"
   ],
   "example": "/github/file/DIYgod/RSSHub/master/README.md",
-  "heat": 178,
+  "heat": 179,
   "location": "file.ts",
   "maintainers": [
     "zengxs"

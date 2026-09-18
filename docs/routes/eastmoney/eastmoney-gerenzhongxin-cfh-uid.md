@@ -104,8 +104,8 @@ _None_
     },
     {
       "description": "ST六点半 的东财长文 - Powered by RSSHub",
-      "errorAt": "2026-09-16T04:01:20.888Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "210695196280611840",
       "image": "https://avator.eastmoney.com/qface/6726346221702876/360",
       "ownerUserId": null,

@@ -114,7 +114,7 @@
     {
       "description": "中国人事考试网 考试成绩公布汇总 - Powered by RSSHub",
       "errorAt": "2025-05-30T12:00:11.935Z",
-      "errorMessage": "[GET] \"http://www.cpta.com.cn/performance.html\": 405 Not Allowed\n",
+      "errorMessage": "[GET] \"http://www.cpta.com.cn/performance.html\": 522 <none>\n",
       "id": "105272910866823168",
       "image": "https://www.gov.cn/images/gtrs_logo_lt.png",
       "ownerUserId": null,

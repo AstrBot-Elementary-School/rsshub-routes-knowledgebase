@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "中科院人工智能通知公告 - Powered by RSSHub",
-      "errorAt": "2026-09-16T07:06:40.499Z",
-      "errorMessage": "[GET] \"https://ai.ucas.ac.cn/index.php/zh-cn/tzgg\": 500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "84842865340954624",
       "image": null,
       "ownerUserId": null,

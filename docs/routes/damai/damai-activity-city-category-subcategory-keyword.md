@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 450,
+  "heat": 452,
   "location": "activity.tsx",
   "maintainers": [
     "hoilc",

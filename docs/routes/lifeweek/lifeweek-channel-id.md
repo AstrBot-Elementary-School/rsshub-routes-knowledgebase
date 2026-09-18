@@ -68,7 +68,7 @@ _None_
   "topFeeds": [
     {
       "description": "文化 - Powered by RSSHub",
-      "errorAt": "2026-09-16T11:06:51.976Z",
+      "errorAt": "2026-09-17T11:06:31.796Z",
       "errorMessage": "503 \n",
       "id": "74705665643397120",
       "image": null,
@@ -80,8 +80,8 @@ _None_
     },
     {
       "description": "经济 - Powered by RSSHub",
-      "errorAt": "2026-09-16T10:27:07.986Z",
-      "errorMessage": "[GET] \"https://www.lifeweek.com.cn/api/userWebFollow/getFollowTagContentList?type=3&sort=2&tagId=3\": 522 <none>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "77268471866082304",
       "image": null,
       "ownerUserId": null,

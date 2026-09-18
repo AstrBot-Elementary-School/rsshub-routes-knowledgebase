@@ -77,8 +77,8 @@ _None_
     },
     {
       "description": "bilibili 综合热门 - Powered by RSSHub",
-      "errorAt": "2026-09-14T22:16:36.078Z",
-      "errorMessage": "[GET] \"https://api.bilibili.com/x/web-interface/popular\": 412 Precondition Failed\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "169231605189909504",
       "image": null,
       "ownerUserId": null,

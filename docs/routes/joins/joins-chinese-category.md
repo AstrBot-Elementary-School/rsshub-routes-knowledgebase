@@ -251,8 +251,8 @@
   "topFeeds": [
     {
       "description": "인터넷 신문 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-17T07:42:48.116Z",
+      "errorMessage": "502 \n[GET] \"https://chinese.joins.com/news/articleView.html?idxno=126209\": 403 Forbidden\n",
       "id": "67015768687931392",
       "image": "https://chinese.joins.com/image/logo/toplogo_20200319051833.png",
       "ownerUserId": null,

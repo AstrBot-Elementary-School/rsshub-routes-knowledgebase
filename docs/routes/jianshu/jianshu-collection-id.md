@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 112,
+  "heat": 113,
   "location": "collection.ts",
   "maintainers": [
     "DIYgod",
@@ -89,8 +89,8 @@ _None_
     },
     {
       "description": "微服务和SOA相关的理论知识和技术知识，spring cloud，spring boot，dubbo，rpc，thrift，protobuf，gRPC，分布式事务，DDD,k8s,kuberne... - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-16T14:01:26.613Z",
+      "errorMessage": "[GET] \"https://www.jianshu.com/p/526a2c1e6328\": 429 Too Many Requests\n",
       "id": "69647312270682129",
       "image": null,
       "ownerUserId": null,

@@ -64,7 +64,7 @@ _None_
     {
       "description": null,
       "errorAt": "2026-08-29T10:32:07.660Z",
-      "errorMessage": "Remote Playwright WebSocket upgrade failed with HTTP 428\n",
+      "errorMessage": "Target page, context or browser has been closed\nCall log:\n  - navigating to \"http://www.pbc.gov.cn/zhengcehuobisi/125207/125213/125431/125475/index.html\", waiting until \"domcontentloaded\"\n\n",
       "id": "1264656549867814913",
       "image": null,
       "ownerUserId": null,

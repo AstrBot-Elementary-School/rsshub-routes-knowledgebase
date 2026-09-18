@@ -63,7 +63,7 @@ _None_
       "id": "56597410818564096",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://leetcode.cn/problems/number-of-sets-of-k-non-overlapping-line-segments/",
+      "siteUrl": "https://leetcode.cn/problems/find-two-non-overlapping-sub-arrays-each-with-target-sum/",
       "title": "LeetCode 每日一题题解",
       "type": "feed",
       "url": "rsshub://leetcode/dailyquestion/solution/cn"

@@ -77,18 +77,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "北京邮电大学生活圈 - 腾讯频道 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "123203042771095552",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://pd.qq.com/g/mb76a3g9ey",
-      "title": "北京邮电大学生活圈 - 腾讯频道",
-      "type": "feed",
-      "url": "rsshub://qq/pd/guild/mb76a3g9ey"
-    },
-    {
       "description": "自由学习 - 腾讯频道 - Powered by RSSHub",
       "errorAt": "2025-03-08T09:35:20.989Z",
       "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
@@ -99,6 +87,18 @@ _None_
       "title": "自由学习 - 腾讯频道",
       "type": "feed",
       "url": "rsshub://qq/pd/guild/785d69ddf5/hot/created"
+    },
+    {
+      "description": "北京邮电大学生活圈 - 腾讯频道 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "123203042771095552",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://pd.qq.com/g/mb76a3g9ey",
+      "title": "北京邮电大学生活圈 - 腾讯频道",
+      "type": "feed",
+      "url": "rsshub://qq/pd/guild/mb76a3g9ey"
     }
   ],
   "url": "pd.qq.com/"

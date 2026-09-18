@@ -9,7 +9,7 @@
 - Route Path: `/openai/cookbook`
 - Route Name: `Cookbook`
 - Example: `/openai/cookbook`
-- URL: `cookbook.openai.com/`
+- URL: `developers.openai.com/cookbook`
 - Language: `_None_`
 - Categories: `programming`
 - Maintainers: `liyaozhong`
@@ -24,11 +24,17 @@ _None_
 
 
 ## Features
-_None_
+- `requireConfig`: false
+- `requirePuppeteer`: false
+- `antiCrawler`: true
+- `supportBT`: false
+- `supportPodcast`: false
+- `supportScihub`: false
 
 ## Radar
 ### Rule 1
 - `source`:
+  - `developers.openai.com/cookbook`
   - `cookbook.openai.com/`
 
 ## Raw JSON
@@ -39,6 +45,14 @@ _None_
   ],
   "description": "OpenAI Cookbook 提供了大量使用 OpenAI API 的实用指南和示例代码，涵盖了从基础到高级的各种主题，包括 GPT 模型、嵌入、函数调用、微调等。这里汇集了最新的 API 功能介绍和流行的应用案例，是开发者学习和应用 OpenAI 技术的宝贵资源。",
   "example": "/openai/cookbook",
+  "features": {
+    "antiCrawler": true,
+    "requireConfig": false,
+    "requirePuppeteer": false,
+    "supportBT": false,
+    "supportPodcast": false,
+    "supportScihub": false
+  },
   "heat": 291,
   "location": "cookbook.ts",
   "maintainers": [
@@ -49,6 +63,7 @@ _None_
   "radar": [
     {
       "source": [
+        "developers.openai.com/cookbook",
         "cookbook.openai.com/"
       ]
     }
@@ -70,6 +85,6 @@ _None_
       "url": "rsshub://openai/cookbook"
     }
   ],
-  "url": "cookbook.openai.com/"
+  "url": "developers.openai.com/cookbook"
 }
 ```

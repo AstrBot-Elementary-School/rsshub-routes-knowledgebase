@@ -140,6 +140,12 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `2`
 - Index File: `index/30secondsofcode.md`
 
+## 35mmc
+- Namespace: `35mmc`
+- Aliases: `35mmc, 35mmc.com`
+- Route Count: `1`
+- Index File: `index/35mmc.md`
+
 ## 36kr
 - Namespace: `36kr`
 - Aliases: `36kr, 36kr.com`

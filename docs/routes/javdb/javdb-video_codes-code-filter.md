@@ -90,8 +90,8 @@
   "topFeeds": [
     {
       "description": "SONE - JavDB - 可下載 - Powered by RSSHub",
-      "errorAt": "2026-09-16T02:07:06.170Z",
-      "errorMessage": "[GET] \"https://javdb.com/v/qAn1kD\": 429 Too Many Requests\n[GET] \"https://javdb.com/video_codes/SONE?f=download\": <no response> fetch failed\nRemote Playwright WebSocket upgrade failed with HTTP 428\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "96109559941147648",
       "image": null,
       "ownerUserId": null,
@@ -102,8 +102,8 @@
     },
     {
       "description": "MIDV - JavDB - 可下載 - Powered by RSSHub",
-      "errorAt": "2026-09-14T19:46:56.977Z",
-      "errorMessage": "[GET] \"https://javdb.com/video_codes/MIDV?f=download\": <no response> fetch failed\nRemote Playwright WebSocket upgrade failed with HTTP 428\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "96109559941147651",
       "image": null,
       "ownerUserId": null,
