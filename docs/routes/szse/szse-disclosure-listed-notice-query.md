@@ -78,7 +78,7 @@ _None_
   "topFeeds": [
     {
       "description": "深交所官网 - Powered by RSSHub",
-      "errorAt": "2026-09-17T08:06:51.567Z",
+      "errorAt": "2026-09-18T08:11:24.286Z",
       "errorMessage": "[GET] \"https://www.szse.cn/disclosure/listed/notice\": 520 <none>\n",
       "id": "115195943416981504",
       "image": null,

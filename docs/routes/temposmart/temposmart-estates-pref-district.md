@@ -6,7 +6,7 @@
 ## Route
 - Namespace: `temposmart`
 - Namespace Name: `Temposmart`
-- Route Path: `/temposmart/estates/:pref?`
+- Route Path: `/temposmart/estates/:pref?/:district?`
 - Route Name: `新着物件`
 - Example: `/temposmart/estates/tokyo`
 - URL: `www.temposmart.jp`
@@ -17,7 +17,9 @@
 - Source Module: `_None_`
 
 ## Description
-New listings on テンポスマート for one prefecture, sorted by 新着順 (first page, 50 listings). Each item's `_extra` carries the structured listing fields (賃料，坪，坪単価，階，最寄駅，保証金，礼金，造作譲渡料，現況，業種制限，登録日，…) parsed from the list and detail pages; unknown values are `null`.
+New listings on テンポスマート for one prefecture — or one 市区町村 when `district` is given — sorted by 新着順 (first page, 50 listings). Each item's `_extra` carries the structured listing fields (賃料，坪，坪単価，階，最寄駅，保証金，礼金，造作譲渡料，現況，業種制限，登録日，…) parsed from the list and detail pages; unknown values are `null`.
+
+`district` is a 5-digit JIS X 0402 市区町村 code whose first two digits are the prefecture — `/temposmart/estates/tokyo/13104` is 新宿区. A code from another prefecture is rejected rather than silently returning that prefecture's listings.
 
 | Query   | Description                                                                  | Default |
 | ------- | ---------------------------------------------------------------------------- | ------- |
@@ -25,6 +27,7 @@ New listings on テンポスマート for one prefecture, sorted by 新着順 (f
 
 ## Parameters
 - `pref`: {"default": "tokyo", "description": "都道府県 slug or JIS X 0401 code", "options": [{"label": "東京都 (13)", "value": "tokyo"}, {"label": "神奈川県 (14)", "value": "kanagawa"}, {"label": "埼玉県 (11)", "value": "saitama"}, {"label": "千葉県 (12)", "value": "chiba"}, {"label": "大阪府 (27)", "value": "osaka"}, {"label": "京都府 (26)", "value": "kyoto"}, {"label": "兵庫県 (28)", "value": "hyogo"}]}
+- `district`: {"description": "Optional 市区町村, as a 5-digit JIS X 0402 code (新宿区 `13104`, 港区 `13103`, 横浜市中区 `14104`). Must belong to `pref`; omit for the whole prefecture."}
 
 
 ## Features
@@ -45,7 +48,7 @@ New listings on テンポスマート for one prefecture, sorted by 新着順 (f
   "categories": [
     "other"
   ],
-  "description": "New listings on テンポスマート for one prefecture, sorted by 新着順 (first page, 50 listings). Each item's `_extra` carries the structured listing fields (賃料，坪，坪単価，階，最寄駅，保証金，礼金，造作譲渡料，現況，業種制限，登録日，…) parsed from the list and detail pages; unknown values are `null`.\n\n| Query   | Description                                                                  | Default |\n| ------- | ---------------------------------------------------------------------------- | ------- |\n| `limit` | Number of listings to process (detail pages are fetched per listing), max 50 | 30      |",
+  "description": "New listings on テンポスマート for one prefecture — or one 市区町村 when `district` is given — sorted by 新着順 (first page, 50 listings). Each item's `_extra` carries the structured listing fields (賃料，坪，坪単価，階，最寄駅，保証金，礼金，造作譲渡料，現況，業種制限，登録日，…) parsed from the list and detail pages; unknown values are `null`.\n\n`district` is a 5-digit JIS X 0402 市区町村 code whose first two digits are the prefecture — `/temposmart/estates/tokyo/13104` is 新宿区. A code from another prefecture is rejected rather than silently returning that prefecture's listings.\n\n| Query   | Description                                                                  | Default |\n| ------- | ---------------------------------------------------------------------------- | ------- |\n| `limit` | Number of listings to process (detail pages are fetched per listing), max 50 | 30      |",
   "example": "/temposmart/estates/tokyo",
   "features": {
     "antiCrawler": false,
@@ -60,6 +63,9 @@ New listings on テンポスマート for one prefecture, sorted by 新着順 (f
   ],
   "name": "新着物件",
   "parameters": {
+    "district": {
+      "description": "Optional 市区町村, as a 5-digit JIS X 0402 code (新宿区 `13104`, 港区 `13103`, 横浜市中区 `14104`). Must belong to `pref`; omit for the whole prefecture."
+    },
     "pref": {
       "default": "tokyo",
       "description": "都道府県 slug or JIS X 0401 code",
@@ -95,7 +101,7 @@ New listings on テンポスマート for one prefecture, sorted by 新着順 (f
       ]
     }
   },
-  "path": "/estates/:pref?",
+  "path": "/estates/:pref?/:district?",
   "radar": [
     {
       "source": [

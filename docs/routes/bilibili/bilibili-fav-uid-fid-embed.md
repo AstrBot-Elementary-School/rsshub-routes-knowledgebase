@@ -80,16 +80,16 @@ _None_
       "url": "rsshub://bilibili/fav/399964818/1771644318"
     },
     {
-      "description": "口口相传茶业有限公司 的 bilibili 收藏夹 茶茶严选 - Powered by RSSHub",
+      "description": "爱学习的小姜学长 的 bilibili 收藏夹 大模型前沿 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "156044018312693760",
+      "id": "233140183695610880",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://space.bilibili.com/397567956/#/favlist?fid=3468713856",
-      "title": "口口相传茶业有限公司 的 bilibili 收藏夹 茶茶严选",
+      "siteUrl": "https://space.bilibili.com/3493293172197868/#/favlist?fid=3727364968",
+      "title": "爱学习的小姜学长 的 bilibili 收藏夹 大模型前沿",
       "type": "feed",
-      "url": "rsshub://bilibili/fav/397567956/3468713856"
+      "url": "rsshub://bilibili/fav/3493293172197868/3727364968"
     }
   ]
 }

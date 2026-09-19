@@ -78,7 +78,7 @@ _None_
     {
       "description": "知乎专栏-体验碎周报 - Powered by RSSHub",
       "errorAt": "2026-08-24T02:08:31.954Z",
-      "errorMessage": "[GET] \"https://www.zhihu.com/api/v4/columns/c_1186819163765649408/items\": 403 Forbidden\nRemote Playwright WebSocket upgrade failed with HTTP 428\n",
+      "errorMessage": "[GET] \"https://www.zhihu.com/api/v4/columns/c_1186819163765649408/items\": 403 Forbidden\nzhihu: browser API request failed with HTTP 403\n",
       "id": "41359836954400791",
       "image": null,
       "ownerUserId": null,
@@ -90,7 +90,7 @@ _None_
     {
       "description": "知乎专栏-玉树芝兰 - Powered by RSSHub",
       "errorAt": "2025-10-29T05:43:58.029Z",
-      "errorMessage": "Remote Playwright WebSocket upgrade failed with HTTP 428\n",
+      "errorMessage": "zhihu: browser API request failed with HTTP 403\n",
       "id": "57215618626397184",
       "image": null,
       "ownerUserId": null,

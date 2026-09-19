@@ -54,7 +54,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 5970,
+  "heat": 5965,
   "location": "other/group.ts",
   "maintainers": [
     "DIYgod"

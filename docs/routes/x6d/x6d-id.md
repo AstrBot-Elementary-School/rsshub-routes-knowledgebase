@@ -89,7 +89,7 @@ _None_
     {
       "description": "全网收集整理最新的线报活动、网络资讯、免费实物、游戏资讯。 - Powered by RSSHub",
       "errorAt": "2026-09-17T11:41:27.687Z",
-      "errorMessage": "[GET] \"https://xd.x6d.com/html/34.html\": 403 Forbidden\n[GET] \"https://xd.x6d.com/html/34.html\": 444 <none>\n",
+      "errorMessage": "[GET] \"https://xd.x6d.com/html/34.html\": 403 Forbidden\n[GET] \"https://xd.x6d.com/i-wz-32507.html\": 444 <none>\n",
       "id": "60894853812495360",
       "image": "https://xd.x6d.com/static/images/logo.png",
       "ownerUserId": null,

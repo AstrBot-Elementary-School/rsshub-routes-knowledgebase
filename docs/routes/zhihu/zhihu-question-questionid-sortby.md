@@ -86,7 +86,7 @@ _None_
     {
       "description": "知乎-你读过最冷门，但「含金量极高」的书是什么？ - Powered by RSSHub",
       "errorAt": "2026-02-04T21:58:31.300Z",
-      "errorMessage": "Remote Playwright WebSocket upgrade failed with HTTP 428\n",
+      "errorMessage": "zhihu: browser API request failed with HTTP 403\n",
       "id": "59054113995476992",
       "image": null,
       "ownerUserId": null,

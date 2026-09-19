@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "議題熱話 | 通識·現代中國 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-17T13:01:32.413Z",
+      "errorMessage": "[GET] \"https://ls.chiculture.org.hk/api/general-listing?lang=zh-hant&type=ssrh&category=&page=1\": 403 Forbidden\n",
       "id": "55135298544042029",
       "image": null,
       "ownerUserId": null,

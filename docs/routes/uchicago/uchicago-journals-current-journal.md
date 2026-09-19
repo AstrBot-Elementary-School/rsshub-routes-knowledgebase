@@ -89,7 +89,7 @@ _None_
     {
       "description": "Editors: Mary Evans, Teevrat Garg, Arik Levinson, and Andrew Plantinga Published for the Association of Environmental and Resource Economists - Powered by RSSHub",
       "errorAt": "2026-07-07T09:47:14.897Z",
-      "errorMessage": "Remote Playwright WebSocket upgrade failed with HTTP 428\n",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "75184870917658624",
       "image": "https://www.journals.uchicago.edu/cms/asset/5a38d4f1-b01f-4f38-830f-3718a574ab3d/default_cover.gif",
       "ownerUserId": null,

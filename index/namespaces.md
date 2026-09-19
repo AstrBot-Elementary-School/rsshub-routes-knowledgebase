@@ -383,7 +383,7 @@ Use this file to select the target namespace before opening route documents.
 ## ABC Tenpo
 - Namespace: `abc-tenpo`
 - Aliases: `abc tenpo, abc-tenpo, abc-tenpo.com, www, www.abc-tenpo.com`
-- Route Count: `2`
+- Route Count: `3`
 - Index File: `index/abc-tenpo.md`
 
 ## 链新闻 ABMedia
@@ -932,6 +932,12 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `2`
 - Index File: `index/atcoder.md`
 
+## at home
+- Namespace: `athome`
+- Aliases: `at home, athome, athome.co.jp, www, www.athome.co.jp`
+- Route Count: `1`
+- Index File: `index/athome.md`
+
 ## ATP Tour
 - Namespace: `atptour`
 - Aliases: `atp tour, atptour, atptour.com, www, www.atptour.com`
@@ -1475,7 +1481,7 @@ Use this file to select the target namespace before opening route documents.
 ## Bukenavi
 - Namespace: `bukenavi`
 - Aliases: `bukenavi, bukenavi.jp`
-- Route Count: `1`
+- Route Count: `2`
 - Index File: `index/bukenavi.md`
 
 ## 不良林
@@ -1603,6 +1609,12 @@ Use this file to select the target namespace before opening route documents.
 - Aliases: `canada.ca, www, www.canada.ca`
 - Route Count: `1`
 - Index File: `index/canada-ca.md`
+
+## Canaeru
+- Namespace: `canaeru`
+- Aliases: `canaeru, canaeru.usen.com`
+- Route Count: `1`
+- Index File: `index/canaeru.md`
 
 ## The Grand Canal Museum of Beijing
 - Namespace: `canalmuseum`
@@ -5479,6 +5491,12 @@ Use this file to select the target namespace before opening route documents.
 - Aliases: `i-cable, i-cable.com, 有線新聞`
 - Route Count: `1`
 - Index File: `index/i-cable.md`
+
+## Inukitenpo
+- Namespace: `i-tenpo`
+- Aliases: `i-tenpo, i-tenpo.com, inukitenpo, www, www.i-tenpo.com`
+- Route Count: `2`
+- Index File: `index/i-tenpo.md`
 
 ## Ian Spriggss
 - Namespace: `ianspriggs`

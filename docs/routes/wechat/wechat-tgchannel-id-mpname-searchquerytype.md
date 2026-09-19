@@ -64,7 +64,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 533,
+  "heat": 534,
   "location": "tgchannel.ts",
   "maintainers": [
     "LogicJake",

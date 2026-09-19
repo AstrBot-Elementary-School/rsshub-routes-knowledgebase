@@ -76,8 +76,8 @@ _None_
   "topFeeds": [
     {
       "description": "中国 - BBC News 中文 - Powered by RSSHub",
-      "errorAt": "2026-09-17T06:37:56.715Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "247863825203096576",
       "image": "https://www.bbc.com/favicon.ico",
       "ownerUserId": null,

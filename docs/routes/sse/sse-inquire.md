@@ -75,8 +75,8 @@ _None_
   "topFeeds": [
     {
       "description": "上海证券交易所 - 科创板股票审核 - Powered by RSSHub",
-      "errorAt": "2026-09-17T02:06:36.571Z",
-      "errorMessage": "[GET] \"https://query.sse.com.cn/commonSoaQuery.do?isPagination=true&pageHelp.pageSize=25&pageHelp.pageNo=1&pageHelp.beginPage=1&pageHelp.cacheSize=1&pageHelp.endPage=1&sqlId=BS_KCB_GGLL&siteId=28&channelId=10743,10744,10012&type&stockcode&extWTFL&order=createTime|desc,stockcode|asc&_=1789641688009\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "64364739096153088",
       "image": null,
       "ownerUserId": null,

@@ -94,16 +94,16 @@ _None_
       "url": "rsshub://pingwest/tag/20327/1/fulltext"
     },
     {
-      "description": "品玩 - 新零售 - Powered by RSSHub",
+      "description": "品玩 - 豆包 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "86387422106570752",
+      "id": "128313509223043072",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.pingwest.com/tag/12279",
-      "title": "品玩 - 新零售",
+      "siteUrl": "https://www.pingwest.com/tag/22158",
+      "title": "品玩 - 豆包",
       "type": "feed",
-      "url": "rsshub://pingwest/tag/12279/1"
+      "url": "rsshub://pingwest/tag/22158/1"
     }
   ]
 }

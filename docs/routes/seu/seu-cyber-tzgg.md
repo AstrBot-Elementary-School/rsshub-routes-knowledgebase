@@ -77,7 +77,7 @@ _None_
     {
       "description": "东南大学网络空间安全学院通知公告RSS - Powered by RSSHub",
       "errorAt": "2026-03-13T23:29:29.463Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "[GET] \"https://cyber.seu.edu.cn/tzgg/list.htm\": 421 Misdirected Request\n",
       "id": "162717375260193792",
       "image": null,
       "ownerUserId": null,

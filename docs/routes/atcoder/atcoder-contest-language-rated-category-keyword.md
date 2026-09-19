@@ -90,8 +90,8 @@ _None_
   "topFeeds": [
     {
       "description": "Contest Archive - AtCoder - Powered by RSSHub",
-      "errorAt": "2026-09-17T07:03:55.184Z",
-      "errorMessage": "401 \n[GET] \"https://atcoder.jp/contests/archive?lang=en&ratedType=0&category=0\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "56948849407992836",
       "image": null,
       "ownerUserId": null,

@@ -51,28 +51,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "安卓音乐 商铺上新 - Powered by RSSHub",
+      "description": "马里奥Made 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264523487720898560",
+      "id": "1264523511544545280",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1314478082",
-      "title": "安卓音乐 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1335769831",
+      "title": "马里奥Made 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1314478082"
+      "url": "rsshub://weidian/goods/1335769831"
     },
     {
-      "description": "山山大王SSDW 商铺上新 - Powered by RSSHub",
+      "description": "凯普兰-旧店（只出预告） 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264526059366121472",
+      "id": "1264523297651818496",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1807280336",
-      "title": "山山大王SSDW 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1219455723",
+      "title": "凯普兰-旧店（只出预告） 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1807280336"
+      "url": "rsshub://weidian/goods/1219455723"
     }
   ]
 }

@@ -73,7 +73,7 @@ _None_
     },
     {
       "description": "紳士漫畫-專註分享漢化本子|邪惡漫畫 - Powered by RSSHub",
-      "errorAt": "2026-09-07T10:31:39.680Z",
+      "errorAt": "2026-09-17T21:41:55.295Z",
       "errorMessage": "[GET] \"https://www.wnacg.com/albums-index-tag-母子.html\": 403 Forbidden\n",
       "id": "61633751842982920",
       "image": null,

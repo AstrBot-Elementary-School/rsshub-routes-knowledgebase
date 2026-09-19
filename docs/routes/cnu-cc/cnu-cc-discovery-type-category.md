@@ -40,7 +40,7 @@ _None_
   ],
   "description": "| 热门 | 推荐      | 最新   |\n| ---- | --------- | ------ |\n| hot  | recommend | recent |",
   "example": "/cnu.cc/discovery/hot",
-  "heat": 0,
+  "heat": 1,
   "location": "discovery.ts",
   "maintainers": [
     "hoilc"

@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 317,
+  "heat": 318,
   "location": "go.ts",
   "maintainers": [
     "nczitzk"
@@ -76,8 +76,8 @@ _None_
   "topFeeds": [
     {
       "description": "Go语言中文网 - Go周刊 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-18T10:25:28.872Z",
+      "errorMessage": "Failed to fetch\nFailed to fetch\nFailed to fetch\n",
       "id": "56597687648785408",
       "image": null,
       "ownerUserId": null,
@@ -88,8 +88,8 @@ _None_
     },
     {
       "description": "Go语言中文网 - 每日一学 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-18T11:23:02.937Z",
+      "errorMessage": "503 \n",
       "id": "54846819419389955",
       "image": null,
       "ownerUserId": null,

@@ -83,28 +83,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "New contributors for comfyanonymous/ComfyUI - Powered by RSSHub",
+      "description": "New contributors for piderking/vgmt-data - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "80504153337164800",
+      "id": "119580771404221440",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/comfyanonymous/ComfyUI/graphs/contributors",
-      "title": "comfyanonymous/ComfyUI Contributors",
+      "siteUrl": "https://github.com/piderking/vgmt-data/graphs/contributors",
+      "title": "piderking/vgmt-data Contributors",
       "type": "feed",
-      "url": "rsshub://github/contributors/comfyanonymous/ComfyUI"
+      "url": "rsshub://github/contributors/piderking/vgmt-data"
     },
     {
-      "description": "New contributors for open-metadata/OpenMetadata - Powered by RSSHub",
+      "description": "New contributors for biquanlibai/blockchain-course - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "78928360835988480",
+      "id": "83173808754165760",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/open-metadata/OpenMetadata/graphs/contributors",
-      "title": "open-metadata/OpenMetadata Contributors",
+      "siteUrl": "https://github.com/biquanlibai/blockchain-course/graphs/contributors",
+      "title": "biquanlibai/blockchain-course Contributors",
       "type": "feed",
-      "url": "rsshub://github/contributors/open-metadata/OpenMetadata"
+      "url": "rsshub://github/contributors/biquanlibai/blockchain-course"
     }
   ]
 }

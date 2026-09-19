@@ -92,8 +92,8 @@ _None_
   "topFeeds": [
     {
       "description": "GitHub Advisory Database RSS - composer - reviewed - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-18T11:26:23.009Z",
+      "errorMessage": "[GET] \"https://github.com/advisories?query=type%3Areviewed+ecosystem%3Acomposer\": 429 Too Many Requests\n",
       "id": "95003691455117312",
       "image": null,
       "ownerUserId": null,

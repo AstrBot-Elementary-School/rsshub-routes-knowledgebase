@@ -656,8 +656,8 @@
     },
     {
       "description": "最新规则 | 上海证券交易所 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-18T10:22:02.965Z",
+      "errorMessage": "[GET] \"https://www.sse.com.cn/lawandrules/sselawsrules/latest\": 403 Forbidden\n",
       "id": "60582720391817216",
       "image": "https://www.sse.com.cn/undefined",
       "ownerUserId": null,

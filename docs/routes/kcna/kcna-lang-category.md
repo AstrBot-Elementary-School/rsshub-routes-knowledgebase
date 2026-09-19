@@ -117,8 +117,8 @@
     },
     {
       "description": "KCNA | Latest News - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-17T21:56:52.942Z",
+      "errorMessage": "[GET] \"http://www.kcna.kp/en/article/list/a666dda1282180e0ee1b4427b0574ae7\": 403 Forbidden\n",
       "id": "185526378093555750",
       "image": null,
       "ownerUserId": null,

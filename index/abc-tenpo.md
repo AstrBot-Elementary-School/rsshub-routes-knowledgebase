@@ -6,9 +6,17 @@
 - URL: `www.abc-tenpo.com`
 - Language: `_None_`
 - Aliases: `abc tenpo, abc-tenpo, abc-tenpo.com, www, www.abc-tenpo.com`
-- Route Count: `2`
+- Route Count: `3`
 
 ## Routes
+
+### 物件詳細
+- Route ID: `abc-tenpo:/abc-tenpo/detail/:id`
+- Route Path: `/abc-tenpo/detail/:id`
+- File: `docs/routes/abc-tenpo/abc-tenpo-detail-id.md`
+- File Name: `abc-tenpo-detail-id.md`
+- Categories: `other`
+- Maintainers: `pseudoyu`
 
 ### 新着物件
 - Route ID: `abc-tenpo:/abc-tenpo/property/:pref?`

@@ -66,8 +66,8 @@ _None_
   "topFeeds": [
     {
       "description": "V2EX-tab-hot - Powered by RSSHub",
-      "errorAt": "2026-09-17T11:37:26.581Z",
-      "errorMessage": "[GET] \"https://v2ex.com/?tab=hot\": <no response> fetch failed\n[GET] \"https://v2ex.com/?tab=hot\": <no response> fetch failed\n[GET] \"https://v2ex.com/?tab=hot\": 500 Internal Server Error\n[GET] \"https://v2ex.com/?tab=hot\": 525 <none>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41707278446398464",
       "image": null,
       "ownerUserId": null,

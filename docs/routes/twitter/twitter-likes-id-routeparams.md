@@ -124,7 +124,7 @@ _None_
     {
       "description": "Twitter Likes - nanoni_nuneno - Powered by RSSHub",
       "errorAt": "2025-06-03T19:04:07.860Z",
-      "errorMessage": "KV PUT failed: 429 Too Many Requests\n",
+      "errorMessage": "No valid Twitter token found\n",
       "id": "152739734061137920",
       "image": null,
       "ownerUserId": null,

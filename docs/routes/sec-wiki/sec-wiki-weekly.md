@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 68,
+  "heat": 69,
   "location": "weekly.ts",
   "maintainers": [
     "p7e4"

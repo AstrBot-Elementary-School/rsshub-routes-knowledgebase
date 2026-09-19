@@ -64,7 +64,7 @@
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 5,
+  "heat": 6,
   "location": "techblog.ts",
   "maintainers": [
     "zhenlohuang"

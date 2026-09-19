@@ -63,8 +63,8 @@ _None_
   "topFeeds": [
     {
       "description": "知乎书店-新书抢鲜 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-18T06:46:21.179Z",
+      "errorMessage": "[GET] \"https://api.zhihu.com/books/features/new\": 403 Forbidden\n",
       "id": "64653030416649216",
       "image": null,
       "ownerUserId": null,

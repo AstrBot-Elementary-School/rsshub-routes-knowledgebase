@@ -75,7 +75,7 @@ _None_
     {
       "description": "大道无形我有型 的雪球收藏动态 - Powered by RSSHub",
       "errorAt": "2026-05-22T17:41:26.911Z",
-      "errorMessage": "Remote Playwright WebSocket upgrade failed with HTTP 428\n",
+      "errorMessage": "Cannot read properties of undefined (reading 'screen_name')\n",
       "id": "59965365270185984",
       "image": null,
       "ownerUserId": null,

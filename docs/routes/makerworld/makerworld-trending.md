@@ -38,7 +38,7 @@ _None_
     "design"
   ],
   "example": "/makerworld/trending",
-  "heat": 63,
+  "heat": 64,
   "location": "trending.ts",
   "maintainers": [
     "TonyRL"

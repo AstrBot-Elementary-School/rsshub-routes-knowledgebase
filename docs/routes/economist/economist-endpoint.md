@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 914,
+  "heat": 915,
   "location": "full.ts",
   "maintainers": [
     "ImSingee"
@@ -75,7 +75,7 @@ _None_
     {
       "description": "The most recent blogs and online articles from The Economist - Powered by RSSHub",
       "errorAt": "2025-09-05T18:15:19.885Z",
-      "errorMessage": "[GET] \"https://www.economist.com/europe/2026/09/14/frances-centre-has-one-question-who-can-beat-marine-le-pen\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.economist.com/britain/2026/09/17/britains-epidemic-of-school-shirking-is-shocking-but-fixable\": 403 Forbidden\n",
       "id": "54859243036899328",
       "image": null,
       "ownerUserId": null,

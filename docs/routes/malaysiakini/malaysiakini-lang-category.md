@@ -125,7 +125,7 @@
     {
       "description": "News & Views That Matter - Powered by RSSHub",
       "errorAt": "2026-09-07T10:16:30.919Z",
-      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/885085-%E4%BC%8A%E5%85%9A%E4%BF%83%E6%94%BF%E5%BA%9C%E8%AF%B4%E6%98%8E%E5%BC%95%E6%B8%A1%E6%89%8E%E5%9F%BA%E8%AF%A6%E6%83%85%E4%B8%8E%E5%8D%B0%E5%BA%A6%E8%BE%BE%E6%88%90%E4%BD%95%E5%85%B1%E8%AF%86\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/885222-%E5%AE%B6%E5%B1%9E%E5%AE%BD%E6%85%B0%E5%B0%91%E5%B9%B4%E6%94%B6%E6%8A%BC%E6%B2%BB%E7%96%97%E5%85%B3%E5%88%87%E4%B8%8E%E6%85%B0%E9%97%AE%E5%8F%B6%E8%8A%AF%E5%AB%99%E5%AE%B6%E5%B1%9E\": 404 Not Found\n",
       "id": "69685104073634816",
       "image": null,
       "ownerUserId": null,
@@ -137,7 +137,7 @@
     {
       "description": "News & Views That Matter - Powered by RSSHub",
       "errorAt": "2026-09-07T09:32:19.566Z",
-      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/885116-gobind-presses-ag-to-explain-prosecutions-dnaa-request-for-muhyiddin\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/885221-snapshot-pmo-north-south-expressway-widening-project-letter-is-fake-minister-pans-umno-leaders-sexually-suggestive-joke\": 404 Not Found\n",
       "id": "61840955600323584",
       "image": null,
       "ownerUserId": null,

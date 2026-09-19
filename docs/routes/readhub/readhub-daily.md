@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4856,
+  "heat": 4857,
   "location": "daily.ts",
   "maintainers": [
     "nczitzk",
@@ -73,7 +73,7 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "1. 张一鸣首次成为亚洲首富 2. 苹果 iPhone Duo 可靠性引质疑：体验掰动闪屏，CEO 展示也现状况 3. 美联储加息 25 个基点 为 2023 年 7 月以来首次加息 4. DeepSeek 工程师也有 AI 焦虑：不至于失业，但必须转业 5. 苹果 iPhone Duo 暂不支持微信平板模式及多项双开功能 6. OpenAI 拟 IPO 前融资，估值目标达 1.2 万亿美元 7. 钟薛高宣布重启：首批产品起售价 6.9 元，预计将于今年第四季度上市 8. HYROX 就北京站赛事疏漏致歉并对相关选手全额退费 9. OpenAI 调用 Token 消耗超 Anthropic，GPT-6 Sol 被爆偷跑 10. 第二代豆包手机努比亚 NaviX Ultra 发布：全球首款 AI 智能体手机，5999 元起 11. 字节跳动分拆 AI 制药公司 融资后仍持股 56% 12. 马斯克 SpaceX 星舰第 14 次试飞定档 9 月 22 日，首次冲击地球轨道 13. 豆包大模型 2.1 Pro 0915 版本全量上线 - Powered by RSSHub",
+      "description": "1. 消息称 OpenAI 接近攻克霍奇猜想 2. Anthropic 将合并 Claude 系列产品，推出统一办公入口 3. 影视飓风 Tim 反掰 iPhone Duo 引争议，李楠质疑其测试动机 4. 问界明年 1 月 1 日将撤出鸿蒙智行和华为专卖店 5. 苹果 iPhone Duo 暂不支持微信平板模式及多项双开功能 6. Manus 拟融资 5 亿美元，估值或升至 40 亿美元 7. 西贝回应新品牌多家门店暂停营业：系单店规划调整 8. 月之暗面 Kimi 发布金融行业解决方案 9. 千问再度加码健康专业能力，新增医学知识库与营养数据库 10. GLM 披露国内首个 RSI 工程实践 11. 豆包大模型 2.1 Pro 升级：降幻觉、提 Agent 及多模态能力 12. OpenAI 智能体 5 月曾劫持账户，安全管控遭质疑 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "52347176714948614",

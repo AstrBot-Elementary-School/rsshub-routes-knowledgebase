@@ -76,7 +76,7 @@ See the [official RSS page](https://www.scmp.com/rss) to get the ID of each cate
   "topFeeds": [
     {
       "description": "The latest breaking news from China. - Powered by RSSHub",
-      "errorAt": "2026-09-09T11:21:12.617Z",
+      "errorAt": "2026-09-18T09:02:16.787Z",
       "errorMessage": "Cannot read properties of undefined (reading 'summary')\n",
       "id": "58381798255721484",
       "image": "https://assets-v2.i-scmp.com/production/static/img/icons/scmp-meta-1200x630.png",

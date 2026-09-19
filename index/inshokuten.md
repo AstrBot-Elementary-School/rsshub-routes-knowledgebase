@@ -11,10 +11,10 @@
 ## Routes
 
 ### 新着物件
-- Route ID: `inshokuten:/inshokuten/bukken/:area?`
-- Route Path: `/inshokuten/bukken/:area?`
-- File: `docs/routes/inshokuten/inshokuten-bukken-area.md`
-- File Name: `inshokuten-bukken-area.md`
+- Route ID: `inshokuten:/inshokuten/bukken/:area?/:region?`
+- Route Path: `/inshokuten/bukken/:area?/:region?`
+- File: `docs/routes/inshokuten/inshokuten-bukken-area-region.md`
+- File Name: `inshokuten-bukken-area-region.md`
 - Categories: `other`
 - Maintainers: `pseudoyu`
 

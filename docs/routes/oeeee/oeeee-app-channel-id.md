@@ -50,7 +50,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 3,
+  "heat": 4,
   "location": "app/channel.ts",
   "maintainers": [
     "TimWu007"

@@ -48,7 +48,7 @@ _None_
   ],
   "description": "| 分类     | 标识       |\n| :------- | :--------- |\n| 威胁情报 | `threaten` |\n| 安全动态 | `security` |\n| 漏洞预警 | `hole`     |\n| 数据泄露 | `leakage`  |\n| 专题报告 | `speech`   |\n| 技术分析 | `skill`    |\n| 安全工具 | `tool`     |",
   "example": "/nosec/hole",
-  "heat": 438,
+  "heat": 439,
   "location": "index.ts",
   "maintainers": [
     "hellodword"

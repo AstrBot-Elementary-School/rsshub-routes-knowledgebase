@@ -77,16 +77,16 @@ _None_
       "url": "rsshub://alipan/files/jcuRG1PKsTn/678b1f0e38bfbaa0650a49049919f34ce7e2678e"
     },
     {
-      "description": "4.0测试版微信-阿里云盘 - Powered by RSSHub",
+      "description": "【微博@tv综合吧】善意的竞争-阿里云盘 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "121801819696485376",
+      "id": "114980282029010944",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.aliyundrive.com/s/xjhGXVkj7sR/folder/67127019bf7dce75647c4e718f7e108f076583f2",
-      "title": "4.0测试版微信-阿里云盘",
+      "siteUrl": "https://www.aliyundrive.com/s/Dhvm99rqDLU/folder/679f0e41465632058c0749f6aaeb75c874c95bec",
+      "title": "【微博@tv综合吧】善意的竞争-阿里云盘",
       "type": "feed",
-      "url": "rsshub://alipan/files/xjhGXVkj7sR/67127019bf7dce75647c4e718f7e108f076583f2"
+      "url": "rsshub://alipan/files/Dhvm99rqDLU/679f0e41465632058c0749f6aaeb75c874c95bec"
     }
   ],
   "url": "www.alipan.com/s"

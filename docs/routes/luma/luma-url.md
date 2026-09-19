@@ -88,16 +88,16 @@ _None_
       "url": "rsshub://luma/langchain"
     },
     {
-      "description": "YieldNest - Powered by RSSHub",
-      "errorAt": "2024-09-19T13:27:52.604Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
-      "id": "59033014318436352",
+      "description": "Eventos Ignia - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "265966934845992960",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://lu.ma/yieldnest",
-      "title": "YieldNest",
+      "siteUrl": "https://lu.ma/ignia",
+      "title": "Eventos Ignia",
       "type": "feed",
-      "url": "rsshub://luma/yieldnest"
+      "url": "rsshub://luma/ignia"
     }
   ],
   "url": "lu.ma"

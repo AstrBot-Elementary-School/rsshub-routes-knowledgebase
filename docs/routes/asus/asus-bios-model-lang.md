@@ -104,18 +104,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "TUF GAMING B550M-PLUS WIFI II BIOS - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "73745650488758272",
-      "image": "https://dlcdnwebimgs.asus.com/gain/22bd771c-1a57-439b-97d2-ef75363fe11a/w185",
-      "ownerUserId": null,
-      "siteUrl": "https://www.asus.com.cn/Motherboards-Components/Motherboards/TUF-Gaming/TUF-GAMING-B550M-PLUS-WIFI-II/",
-      "title": "TUF GAMING B550M-PLUS WIFI II BIOS",
-      "type": "feed",
-      "url": "rsshub://asus/bios/TUF-GAMING-B550M-PLUS-WIFI-II/zh"
-    },
-    {
       "description": "ROG Strix OLED XG27UCDMG BIOS - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -126,6 +114,18 @@ _None_
       "title": "ROG Strix OLED XG27UCDMG BIOS",
       "type": "feed",
       "url": "rsshub://asus/bios/XG27UCDMG"
+    },
+    {
+      "description": "TUF GAMING B550M-PLUS WIFI II BIOS - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "73745650488758272",
+      "image": "https://dlcdnwebimgs.asus.com/gain/22bd771c-1a57-439b-97d2-ef75363fe11a/w185",
+      "ownerUserId": null,
+      "siteUrl": "https://www.asus.com.cn/Motherboards-Components/Motherboards/TUF-Gaming/TUF-GAMING-B550M-PLUS-WIFI-II/",
+      "title": "TUF GAMING B550M-PLUS WIFI II BIOS",
+      "type": "feed",
+      "url": "rsshub://asus/bios/TUF-GAMING-B550M-PLUS-WIFI-II/zh"
     }
   ],
   "url": "www.asus.com"

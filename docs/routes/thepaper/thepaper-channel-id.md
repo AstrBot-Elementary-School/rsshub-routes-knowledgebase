@@ -83,7 +83,7 @@ _None_
     {
       "description": "澎湃新闻频道 - 科技 - Powered by RSSHub",
       "errorAt": "2026-03-08T00:02:40.912Z",
-      "errorMessage": "[GET] \"https://m.thepaper.cn/channel/119908\": <no response> fetch failed (Connect Timeout Error (attempted address: 100.110.64.78:7890, timeout: 10000ms))\ncheerio.load() expects a string\ncheerio.load() expects a string\n",
+      "errorMessage": "cheerio.load() expects a string\ncheerio.load() expects a string\ncheerio.load() expects a string\n",
       "id": "42176727615320069",
       "image": "https://m.thepaper.cn/_next/static/media/logo.8d76cf45.png",
       "ownerUserId": null,

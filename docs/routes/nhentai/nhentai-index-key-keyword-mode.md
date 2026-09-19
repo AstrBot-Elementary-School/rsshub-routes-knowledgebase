@@ -50,7 +50,7 @@ _None_
     "requirePuppeteer": false,
     "supportBT": true
   },
-  "heat": 116,
+  "heat": 122,
   "location": "index.ts",
   "maintainers": [
     "MegrezZhu",
@@ -78,8 +78,8 @@ _None_
   "topFeeds": [
     {
       "description": "hentai - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-17T13:01:37.673Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "56236591640943616",
       "image": null,
       "ownerUserId": null,
@@ -92,13 +92,13 @@ _None_
       "description": "hentai - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "55275502392080384",
+      "id": "55635543915975680",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://nhentai.net/language/chinese/",
       "title": "nhentai - language - chinese",
       "type": "feed",
-      "url": "rsshub://nhentai/index/language/chinese"
+      "url": "rsshub://nhentai/index/language/chinese/detail"
     }
   ]
 }

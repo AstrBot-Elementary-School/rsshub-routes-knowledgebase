@@ -93,7 +93,7 @@ _None_
       "errorAt": null,
       "errorMessage": null,
       "id": "161438791238349824",
-      "image": "https://p1.music.126.net/Y2_BNSAyXLMHztZWCfUKKA==/109951168127138041.jpg",
+      "image": "https://p2.music.126.net/Y2_BNSAyXLMHztZWCfUKKA==/109951168127138041.jpg",
       "ownerUserId": null,
       "siteUrl": "https://music.163.com/#/artist/album?id=12487174",
       "title": "HOYO-MiX",

@@ -95,8 +95,8 @@ _None_
     },
     {
       "description": "ALICESOFT 記事一覧 - Powered by RSSHub",
-      "errorAt": "2026-09-17T10:06:15.814Z",
-      "errorMessage": "[GET] \"https://www.alicesoft.com/information\": 530 \n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "71404482934582272",
       "image": null,
       "ownerUserId": null,

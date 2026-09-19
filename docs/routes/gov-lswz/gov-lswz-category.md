@@ -437,8 +437,8 @@
   "topFeeds": [
     {
       "description": "新闻发布 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-18T09:26:28.816Z",
+      "errorMessage": "[GET] \"https://www.lswz.gov.cn/html/xinwen/index.shtml\": 530 \n",
       "id": "67547296955634688",
       "image": "https://www.lswz.gov.cn/html/xhtml/images/logo-index.png",
       "ownerUserId": null,
