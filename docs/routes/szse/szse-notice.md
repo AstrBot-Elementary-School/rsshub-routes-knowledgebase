@@ -75,7 +75,7 @@ _None_
   "topFeeds": [
     {
       "description": "深圳证券交易所——上市公告-可转换债券 - Powered by RSSHub",
-      "errorAt": "2026-09-18T07:46:19.218Z",
+      "errorAt": "2026-09-18T17:56:26.052Z",
       "errorMessage": "[GET] \"http://www.szse.cn/disclosure/notice/company/index.html\": 520 <none>\n",
       "id": "68289343779232768",
       "image": null,

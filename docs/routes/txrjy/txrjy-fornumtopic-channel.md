@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 123,
+  "heat": 124,
   "location": "fornumtopic.tsx",
   "maintainers": [
     "Fatpandac"
@@ -68,8 +68,8 @@ _None_
   "topFeeds": [
     {
       "description": "通信人家园 - 论坛 一周热帖 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-18T13:51:25.509Z",
+      "errorMessage": "[GET] \"https://www.txrjy.com/c114-listnewtopic.php?typeid=5\": 522 <none>\n",
       "id": "67830551877448704",
       "image": null,
       "ownerUserId": null,

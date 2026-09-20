@@ -11,7 +11,7 @@
 - Example: `/zhihu/posts/people/frederchen`
 - URL: `www.zhihu.com`
 - Language: `_None_`
-- Categories: `social-media`
+- Categories: `social-media, popular`
 - Maintainers: `whtsky, Colin-XKL`
 - Source Location: `posts.ts`
 - Source Module: `_None_`
@@ -44,7 +44,8 @@
 ```json
 {
   "categories": [
-    "social-media"
+    "social-media",
+    "popular"
   ],
   "description": "| 普通用户 | 机构用户 |\n| -------- | -------- |\n| people   | org      |",
   "example": "/zhihu/posts/people/frederchen",

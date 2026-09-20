@@ -15,5 +15,5 @@
 - Route Path: `/gov/stats/:path{.+}?`
 - File: `docs/routes/gov-stats/gov-stats-path.md`
 - File Name: `gov-stats-path.md`
-- Categories: `government, popular`
+- Categories: `government`
 - Maintainers: `bigfei, nczitzk, reply2future`

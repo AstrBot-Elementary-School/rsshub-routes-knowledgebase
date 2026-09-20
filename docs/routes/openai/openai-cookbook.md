@@ -74,12 +74,12 @@ _None_
   "topFeeds": [
     {
       "description": "OpenAI Cookbook - Powered by RSSHub",
-      "errorAt": "2025-11-14T02:06:39.966Z",
-      "errorMessage": "[GET] \"https://cookbook.openai.com/\": 403 Forbidden\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "74337787033297920",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://cookbook.openai.com/",
+      "siteUrl": "https://developers.openai.com/cookbook",
       "title": "OpenAI Cookbook",
       "type": "feed",
       "url": "rsshub://openai/cookbook"

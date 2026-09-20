@@ -71,7 +71,7 @@ _None_
     {
       "description": "国债管理工作动态 - 中华人民共和国财政部 - Powered by RSSHub",
       "errorAt": "2026-02-12T02:46:43.224Z",
-      "errorMessage": "[GET] \"https://gks.mof.gov.cn/ztztz/guozaiguanli/gzfxgzdt/\": 502 Bad Gateway\n",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "72200004362793984",
       "image": null,
       "ownerUserId": null,

@@ -75,8 +75,8 @@ _None_
   "topFeeds": [
     {
       "description": "快讯_经济观察网 - Powered by RSSHub",
-      "errorAt": "2026-09-18T03:37:42.399Z",
-      "errorMessage": "[GET] \"https://app.eeo.com.cn?app=article&controller=index&action=getMoreArticle&catid=3690&uuid=b048c7211db949eeb7443cd5b9b3bfe3&page=1&pageSize=50\": 525 <none>\n",
+      "errorAt": "2026-09-19T04:26:46.306Z",
+      "errorMessage": "[GET] \"https://www.eeo.com.cn/2026/0916/1038690.shtml\": 525 <none>\n",
       "id": "194919237802284032",
       "image": "https://img.eeo.com.cn/2024/images/logo.jpg",
       "ownerUserId": null,

@@ -115,16 +115,16 @@ _None_
       "url": "rsshub://furaffinity/art/gallery/oddeyresproductions/nsfw"
     },
     {
-      "description": "Fur Affinity Gallery of Hioshiru - Powered by RSSHub",
-      "errorAt": "2026-05-26T00:13:00.653Z",
-      "errorMessage": "[GET] \"https://faexport.spangle.org.uk/user/Hioshiru/gallery.json?full=1\": 500 Internal Server Error\n",
-      "id": "105952604250437632",
+      "description": "Fur Affinity Gallery of davcr4zy - Powered by RSSHub",
+      "errorAt": "2026-05-25T13:07:16.524Z",
+      "errorMessage": "[GET] \"https://faexport.spangle.org.uk/user/davcr4zy/gallery.json?full=1\": 500 Internal Server Error\n[GET] \"https://faexport.spangle.org.uk/user/davcr4zy/gallery.json?full=1\": 500 Internal Server Error\n",
+      "id": "79207785434458112",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.furaffinity.net/gallery/Hioshiru",
-      "title": "Fur Affinity | Gallery of Hioshiru",
+      "siteUrl": "https://www.furaffinity.net/gallery/davcr4zy",
+      "title": "Fur Affinity | Gallery of davcr4zy",
       "type": "feed",
-      "url": "rsshub://furaffinity/art/gallery/Hioshiru/nsfw"
+      "url": "rsshub://furaffinity/art/gallery/davcr4zy/nsfw"
     }
   ],
   "url": "furaffinity.net"

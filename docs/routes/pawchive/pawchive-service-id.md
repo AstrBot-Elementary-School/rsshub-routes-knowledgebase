@@ -101,16 +101,16 @@ _None_
       "url": "rsshub://pawchive/patreon/140457605"
     },
     {
-      "description": "Posts of Ocn.(おしん⓲) from fanbox | Pawchive - Powered by RSSHub",
+      "description": "Posts of ゆりしましろ from fanbox | Pawchive - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1216679953467047936",
-      "image": "https://pawchive.pw/icons/fanbox/51075592",
+      "id": "1216678045293608960",
+      "image": "https://pawchive.pw/icons/fanbox/86618946",
       "ownerUserId": null,
-      "siteUrl": "https://pawchive.pw/fanbox/user/51075592",
-      "title": "Posts of Ocn.(おしん⓲) from fanbox | Pawchive",
+      "siteUrl": "https://pawchive.pw/fanbox/user/86618946",
+      "title": "Posts of ゆりしましろ from fanbox | Pawchive",
       "type": "feed",
-      "url": "rsshub://pawchive/fanbox/51075592"
+      "url": "rsshub://pawchive/fanbox/86618946"
     }
   ]
 }

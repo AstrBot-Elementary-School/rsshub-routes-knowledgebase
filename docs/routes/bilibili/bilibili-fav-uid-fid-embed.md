@@ -80,16 +80,16 @@ _None_
       "url": "rsshub://bilibili/fav/399964818/1771644318"
     },
     {
-      "description": "爱学习的小姜学长 的 bilibili 收藏夹 大模型前沿 - Powered by RSSHub",
+      "description": "观海聽风声 的 bilibili 收藏夹 二次元 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "233140183695610880",
+      "id": "95590913668593664",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://space.bilibili.com/3493293172197868/#/favlist?fid=3727364968",
-      "title": "爱学习的小姜学长 的 bilibili 收藏夹 大模型前沿",
+      "siteUrl": "https://space.bilibili.com/546711979/#/favlist?fid=1771644318",
+      "title": "观海聽风声 的 bilibili 收藏夹 二次元",
       "type": "feed",
-      "url": "rsshub://bilibili/fav/3493293172197868/3727364968"
+      "url": "rsshub://bilibili/fav/546711979/1771644318"
     }
   ]
 }

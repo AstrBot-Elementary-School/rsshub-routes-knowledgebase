@@ -250,14 +250,14 @@
   },
   "topFeeds": [
     {
-      "description": "인터넷 신문 - Powered by RSSHub",
+      "description": "- - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "67015768687931392",
-      "image": "https://chinese.joins.com/image/logo/toplogo_20200319051833.png",
+      "image": "https://chinese.joins.com/undefined",
       "ownerUserId": null,
       "siteUrl": "https://chinese.joins.com/news/articleList.html?view_type=s",
-      "title": "最新报道 - 韩国最大的传媒机构《中央日报》中文网",
+      "title": "-",
       "type": "feed",
       "url": "rsshub://joins/chinese"
     },

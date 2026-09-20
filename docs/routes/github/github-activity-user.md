@@ -90,8 +90,8 @@ Get the activities of a user on GitHub, based on the GitHub official RSS feed
     },
     {
       "description": "antfu's GitHub activities - Powered by RSSHub",
-      "errorAt": "2026-09-18T12:01:57.259Z",
-      "errorMessage": "[GET] \"https://github.com/antfu.atom\": 429 Too Many Requests\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41213691921864704",
       "image": "https://avatars.githubusercontent.com/u/11247099?s=30&amp;v=4",
       "ownerUserId": null,

@@ -54,7 +54,7 @@ _None_
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 14,
+  "heat": 13,
   "location": "jlpt.ts",
   "maintainers": [
     "nczitzk"

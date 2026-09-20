@@ -75,7 +75,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 25416,
+  "heat": 25418,
   "location": "index.ts",
   "maintainers": [
     "zhboner"

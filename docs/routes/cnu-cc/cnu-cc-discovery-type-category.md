@@ -54,6 +54,19 @@ _None_
   "test": {
     "code": 1
   },
-  "topFeeds": []
+  "topFeeds": [
+    {
+      "description": "CNU视觉联盟 - 热门 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "1259811719316635648",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "http://www.cnu.cc/discoveryPage/hot-0",
+      "title": "CNU视觉联盟 - 热门",
+      "type": "feed",
+      "url": "rsshub://cnu.cc/discovery"
+    }
+  ]
 }
 ```

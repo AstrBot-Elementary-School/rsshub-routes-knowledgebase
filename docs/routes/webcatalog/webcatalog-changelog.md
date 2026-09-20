@@ -73,7 +73,7 @@ _None_
     {
       "description": "WebCatalog Changelog - Powered by RSSHub",
       "errorAt": "2026-06-19T17:48:54.894Z",
-      "errorMessage": "[GET] \"https://desktop.webcatalog.io/en/changelog\": 404 Not Found\n[GET] \"https://desktop.webcatalog.io/en/changelog\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://desktop.webcatalog.io/en/changelog\": <no response> fetch failed\n[GET] \"https://desktop.webcatalog.io/en/changelog\": 530 \n",
       "id": "95302862902706176",
       "image": null,
       "ownerUserId": null,

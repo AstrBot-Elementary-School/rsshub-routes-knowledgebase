@@ -85,8 +85,8 @@ The text after `?` is `q=id%3A711&sorting=random&ref=fp&seed=8g0dgd` for [Wallpa
   "topFeeds": [
     {
       "description": "Latest Wallpapers - wallhaven.cc - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-19T01:51:35.998Z",
+      "errorMessage": "[GET] \"https://wallhaven.cc/latest\": 521 <none>\n[GET] \"https://wallhaven.cc/latest\": 521 <none>\n[GET] \"https://wallhaven.cc/latest\": 521 <none>\n",
       "id": "57995063243930624",
       "image": null,
       "ownerUserId": null,
@@ -97,8 +97,8 @@ The text after `?` is `q=id%3A711&sorting=random&ref=fp&seed=8g0dgd` for [Wallpa
     },
     {
       "description": "Wallpaper Search: - wallhaven.cc - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-19T04:32:07.077Z",
+      "errorMessage": "[GET] \"https://wallhaven.cc/search?categories=110&purity=110&sorting=date_added&order=desc\": 521 <none>\n",
       "id": "41870267217959936",
       "image": null,
       "ownerUserId": null,

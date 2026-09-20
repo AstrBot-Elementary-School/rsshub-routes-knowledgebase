@@ -51,28 +51,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "马里奥Made 商铺上新 - Powered by RSSHub",
+      "description": "皮诺银饰 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264523511544545280",
+      "id": "1264523764142309376",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1335769831",
-      "title": "马里奥Made 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1236524491",
+      "title": "皮诺银饰 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1335769831"
+      "url": "rsshub://weidian/goods/1236524491"
     },
     {
-      "description": "凯普兰-旧店（只出预告） 商铺上新 - Powered by RSSHub",
+      "description": "NPClub 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264523297651818496",
+      "id": "1264526582177726464",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1219455723",
-      "title": "凯普兰-旧店（只出预告） 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1833276453",
+      "title": "NPClub 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1219455723"
+      "url": "rsshub://weidian/goods/1833276453"
     }
   ]
 }

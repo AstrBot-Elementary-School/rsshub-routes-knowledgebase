@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 259,
+  "heat": 258,
   "location": "news.ts",
   "maintainers": [
     "goestav",
@@ -65,7 +65,7 @@ _None_
     {
       "description": "OpenAI News - Powered by RSSHub",
       "errorAt": "2026-09-16T20:16:35.918Z",
-      "errorMessage": "[GET] \"https://openai.com/index/cooley-gopublic\": 403 Forbidden\n[GET] \"https://openai.com/index/model-misalignment-reporting-framework/\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://openai.com/index/australian-youth-safety-blueprint\": 403 Forbidden\n[GET] \"https://openai.com/index/how-to-connect-ai-usage-to-business-value/\": 403 Forbidden\n",
       "id": "139523607422199808",
       "image": null,
       "ownerUserId": null,

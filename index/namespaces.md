@@ -524,6 +524,12 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `1`
 - Index File: `index/ahjzu.md`
 
+## Anhui Museum
+- Namespace: `ahm`
+- Aliases: `ahm, ahm.cn, anhui museum, www, www.ahm.cn`
+- Route Count: `2`
+- Index File: `index/ahm.md`
+
 ## 安徽医科大学
 - Namespace: `ahmu`
 - Aliases: `ahmu, yjsxy, yjsxy.ahmu.edu.cn, 安徽医科大学`

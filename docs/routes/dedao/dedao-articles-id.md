@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 490,
+  "heat": 489,
   "location": "articles.ts",
   "maintainers": [
     "Jacky-Chen-Pro"

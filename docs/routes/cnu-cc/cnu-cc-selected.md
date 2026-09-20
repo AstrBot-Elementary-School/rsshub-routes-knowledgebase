@@ -46,6 +46,19 @@ _None_
   "test": {
     "code": 1
   },
-  "topFeeds": []
+  "topFeeds": [
+    {
+      "description": "CNU视觉联盟 - 每日精选 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "1277416685069795328",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "http://www.cnu.cc/selectedPage",
+      "title": "CNU视觉联盟 - 每日精选",
+      "type": "feed",
+      "url": "rsshub://cnu.cc/selected"
+    }
+  ]
 }
 ```

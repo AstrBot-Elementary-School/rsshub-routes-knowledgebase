@@ -125,7 +125,7 @@
     {
       "description": "News & Views That Matter - Powered by RSSHub",
       "errorAt": "2026-09-07T10:16:30.919Z",
-      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/885222-%E5%AE%B6%E5%B1%9E%E5%AE%BD%E6%85%B0%E5%B0%91%E5%B9%B4%E6%94%B6%E6%8A%BC%E6%B2%BB%E7%96%97%E5%85%B3%E5%88%87%E4%B8%8E%E6%85%B0%E9%97%AE%E5%8F%B6%E8%8A%AF%E5%AB%99%E5%AE%B6%E5%B1%9E\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/885338-%E6%B6%89%E5%8F%8A%E4%B8%8D%E5%90%8C%E6%8C%87%E6%8E%A7%E5%8F%8D%E8%B4%AA%E4%BC%9A%E6%8C%87%E7%BA%B3%E5%90%89%E7%89%B9%E8%B5%A6%E4%B8%8D%E5%BD%B1%E5%93%8D%E4%B8%80%E9%A9%AC%E6%A1%88\": 404 Not Found\n",
       "id": "69685104073634816",
       "image": null,
       "ownerUserId": null,
@@ -137,7 +137,7 @@
     {
       "description": "News & Views That Matter - Powered by RSSHub",
       "errorAt": "2026-09-07T09:32:19.566Z",
-      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/885221-snapshot-pmo-north-south-expressway-widening-project-letter-is-fake-minister-pans-umno-leaders-sexually-suggestive-joke\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/885321-snapshot-umno-leader-slams-pkr-mp-over-pardon-criticism-viral-show-video-probed\": 404 Not Found\n",
       "id": "61840955600323584",
       "image": null,
       "ownerUserId": null,

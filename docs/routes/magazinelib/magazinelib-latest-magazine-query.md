@@ -76,6 +76,18 @@ _None_
       "title": "MagazineLib - Latest Magazines - NEW YORKER",
       "type": "feed",
       "url": "rsshub://magazinelib/latest-magazine/new%20yorker"
+    },
+    {
+      "description": "MagazineLib - Latest Magazines - Powered by RSSHub",
+      "errorAt": "2026-07-24T03:55:55.877Z",
+      "errorMessage": "[GET] \"https://magazinelib.com/wp-json/wp/v2/posts/?per_page=30&_embed=1\": 403 Forbidden\n",
+      "id": "1160559513715998720",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://magazinelib.com/?s=undefined",
+      "title": "MagazineLib - Latest Magazines",
+      "type": "feed",
+      "url": "rsshub://magazinelib/latest-magazine"
     }
   ]
 }

@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 0,
+  "heat": 1,
   "location": "zcwj.ts",
   "maintainers": [
     "Yoge-Code",
@@ -61,6 +61,19 @@ _None_
   "test": {
     "code": 1
   },
-  "topFeeds": []
+  "topFeeds": [
+    {
+      "description": "政策文件 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "1295085537421295616",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "http://www.miit.gov.cn/",
+      "title": "中国工业和信息化部",
+      "type": "feed",
+      "url": "rsshub://gov/miit/zcwj"
+    }
+  ]
 }
 ```
