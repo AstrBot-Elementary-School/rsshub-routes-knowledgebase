@@ -89,16 +89,16 @@ _None_
       "url": "rsshub://bilibili/user/bangumi/208259"
     },
     {
-      "description": "undefined 的追番列表 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "66424560658630656",
+      "description": "笑露馅了 的追番列表 - Powered by RSSHub",
+      "errorAt": "2026-09-07T13:25:57.669Z",
+      "errorMessage": "[GET] \"https://api.bilibili.com/x/space/wbi/acc/info?mid=480575647&token=&platform=web&web_location=1550101&w_rid=d5550b7a62510507c3842ef41dae7de9&wts=1788976591\": 412 Precondition Failed\n",
+      "id": "145494632523858944",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://space.bilibili.com/10730895/bangumi",
-      "title": "undefined 的追番列表",
+      "siteUrl": "https://space.bilibili.com/480575647/bangumi",
+      "title": "笑露馅了 的追番列表",
       "type": "feed",
-      "url": "rsshub://bilibili/user/bangumi/10730895"
+      "url": "rsshub://bilibili/user/bangumi/480575647"
     }
   ]
 }

@@ -50,7 +50,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 23622,
+  "heat": 23628,
   "location": "topics.ts",
   "maintainers": [
     "WhiteWorld"

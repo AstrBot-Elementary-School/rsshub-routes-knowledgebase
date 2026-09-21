@@ -90,7 +90,7 @@
       "url": "rsshub://cls/subject/7527"
     },
     {
-      "description": "财联社 - 有声早报 - Powered by RSSHub",
+      "description": "每日7点，最热、最全面的财经资讯尽在财联社早报 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "69656992151508992",

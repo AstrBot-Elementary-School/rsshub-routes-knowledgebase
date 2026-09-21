@@ -73,13 +73,14 @@ _None_
     }
   ],
   "test": {
-    "code": 0
+    "code": 1,
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
   "topFeeds": [
     {
       "description": "深交所官网 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-20T05:00:40.450Z",
+      "errorMessage": "[GET] \"https://www.szse.cn/disclosure/listed/notice\": 520 <none>\n",
       "id": "115195943416981504",
       "image": null,
       "ownerUserId": null,
@@ -90,15 +91,15 @@ _None_
     },
     {
       "description": "深交所官网 - Powered by RSSHub",
-      "errorAt": "2026-09-19T09:46:57.705Z",
-      "errorMessage": "[GET] \"https://www.szse.cn/disclosure/listed/notice\": 520 <none>\n",
-      "id": "243896126078777344",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "242488675524008960",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.szse.cn/disclosure/listed/notice",
       "title": "深圳证券交易所 - 上市公司公告",
       "type": "feed",
-      "url": "rsshub://szse/disclosure/listed/notice/stock=301081"
+      "url": "rsshub://szse/disclosure/listed/notice/stock=301418"
     }
   ],
   "url": "www.szse.cn",

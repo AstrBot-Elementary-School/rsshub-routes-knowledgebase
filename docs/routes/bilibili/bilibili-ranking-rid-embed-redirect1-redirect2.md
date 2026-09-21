@@ -43,7 +43,7 @@ _None_
     "popular"
   ],
   "example": "/bilibili/ranking/all",
-  "heat": 9284,
+  "heat": 9286,
   "location": "ranking.ts",
   "maintainers": [
     "DIYgod",

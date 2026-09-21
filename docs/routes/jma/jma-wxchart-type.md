@@ -80,6 +80,9 @@ _None_
       "target": "/wxchart/monthly"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [],
   "url": "www.jma.go.jp/bosai/weather_map/",
   "view": 2

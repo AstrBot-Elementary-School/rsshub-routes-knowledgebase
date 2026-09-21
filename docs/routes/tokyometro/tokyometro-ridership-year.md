@@ -69,6 +69,9 @@ Annual 駅別乗降人員 (one-day average) for every Tokyo Metro station, from 
       "target": "/ridership"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [],
   "url": "www.tokyometro.jp"
 }

@@ -93,6 +93,9 @@ New listings on 居抜き市場，20 per page (first page only). With a prefectu
       "target": "/rent"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [],
   "url": "inuki-ichiba.jp"
 }

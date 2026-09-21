@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 292,
+  "heat": 293,
   "location": "cookbook.ts",
   "maintainers": [
     "liyaozhong"

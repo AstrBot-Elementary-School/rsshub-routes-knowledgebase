@@ -53,7 +53,7 @@ _None_
     {
       "description": null,
       "errorAt": "2025-10-07T13:07:55.026Z",
-      "errorMessage": "[GET] \"http://www.mofcom.gov.cn/article/xwfb/\": 404 Not Found\n",
+      "errorMessage": "[GET] \"http://www.mofcom.gov.cn/article/xwfb/\": 530 \n",
       "id": "198372079645781010",
       "image": null,
       "ownerUserId": null,

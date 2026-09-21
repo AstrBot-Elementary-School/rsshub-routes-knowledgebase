@@ -55,8 +55,8 @@ _None_
   "topFeeds": [
     {
       "description": "新奇／潮流／正妹／奇事 通通在這裡～ - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-20T06:11:44.160Z",
+      "errorMessage": "503 \n",
       "id": "73007806617184256",
       "image": "https://news.gamme.com.tw/blogico.ico",
       "ownerUserId": null,

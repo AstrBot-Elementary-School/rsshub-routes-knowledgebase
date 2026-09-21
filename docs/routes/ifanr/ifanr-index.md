@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 548,
+  "heat": 547,
   "location": "index.ts",
   "maintainers": [
     "donghongfei"
@@ -67,13 +67,14 @@ _None_
     }
   ],
   "test": {
-    "code": 0
+    "code": 1,
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
   "topFeeds": [
     {
       "description": "爱范儿首页 - Powered by RSSHub",
       "errorAt": "2026-09-17T06:27:06.197Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'post_cover_image')\nCannot read properties of undefined (reading 'post_cover_image')\nCannot read properties of undefined (reading 'post_cover_image')\nCannot read properties of undefined (reading 'post_cover_image')\nCannot read properties of undefined (reading 'post_cover_image')\nCannot read properties of undefined (reading 'post_cover_image')\n",
+      "errorMessage": "Cannot read properties of undefined (reading 'post_cover_image')\nCannot read properties of undefined (reading 'post_cover_image')\nCannot read properties of undefined (reading 'post_cover_image')\nFailed to fetch\nCannot read properties of undefined (reading 'post_cover_image')\n",
       "id": "95440076991617024",
       "image": null,
       "ownerUserId": null,

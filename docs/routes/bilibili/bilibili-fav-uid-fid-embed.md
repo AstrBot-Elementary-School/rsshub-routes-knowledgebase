@@ -80,16 +80,16 @@ _None_
       "url": "rsshub://bilibili/fav/399964818/1771644318"
     },
     {
-      "description": "观海聽风声 的 bilibili 收藏夹 二次元 - Powered by RSSHub",
+      "description": "Mute哑人 的 bilibili 收藏夹 大学学习 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "95590913668593664",
+      "id": "214364340386307072",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://space.bilibili.com/546711979/#/favlist?fid=1771644318",
-      "title": "观海聽风声 的 bilibili 收藏夹 二次元",
+      "siteUrl": "https://space.bilibili.com/319200891/#/favlist?fid=2290973491",
+      "title": "Mute哑人 的 bilibili 收藏夹 大学学习",
       "type": "feed",
-      "url": "rsshub://bilibili/fav/546711979/1771644318"
+      "url": "rsshub://bilibili/fav/319200891/2290973491"
     }
   ]
 }

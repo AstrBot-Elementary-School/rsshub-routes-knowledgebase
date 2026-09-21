@@ -81,6 +81,9 @@ _None_
     }
   },
   "path": "/tokyo/rail-ridership/:table?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [],
   "url": "catalog.data.metro.tokyo.lg.jp"
 }

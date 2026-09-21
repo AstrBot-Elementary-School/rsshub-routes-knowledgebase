@@ -62,18 +62,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "[Counter-Strike] Team_Falcons Match Results From Liquipedia - Powered by RSSHub",
-      "errorAt": "2026-03-16T14:57:14.264Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
-      "id": "137121125120034816",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://liquipedia.net/counterstrike/Team_Falcons/Matches",
-      "title": "[Counter-Strike] Team_Falcons Match Results From Liquipedia",
-      "type": "feed",
-      "url": "rsshub://liquipedia/counterstrike/matches/Team_Falcons"
-    },
-    {
       "description": "[Counter-Strike] G2_Esports Match Results From Liquipedia - Powered by RSSHub",
       "errorAt": "2026-03-16T15:57:33.489Z",
       "errorMessage": "Failed to fetch\n",
@@ -84,6 +72,18 @@ _None_
       "title": "[Counter-Strike] G2_Esports Match Results From Liquipedia",
       "type": "feed",
       "url": "rsshub://liquipedia/counterstrike/matches/G2_Esports"
+    },
+    {
+      "description": "[Counter-Strike] Team_Falcons Match Results From Liquipedia - Powered by RSSHub",
+      "errorAt": "2026-03-16T14:57:14.264Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "id": "137121125120034816",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://liquipedia.net/counterstrike/Team_Falcons/Matches",
+      "title": "[Counter-Strike] Team_Falcons Match Results From Liquipedia",
+      "type": "feed",
+      "url": "rsshub://liquipedia/counterstrike/matches/Team_Falcons"
     }
   ]
 }

@@ -103,7 +103,7 @@
 - Route Path: `/zhihu/posts/:usertype/:id`
 - File: `docs/routes/zhihu/zhihu-posts-usertype-id.md`
 - File Name: `zhihu-posts-usertype-id.md`
-- Categories: `social-media, popular`
+- Categories: `social-media`
 - Maintainers: `whtsky, Colin-XKL`
 
 ### 问题

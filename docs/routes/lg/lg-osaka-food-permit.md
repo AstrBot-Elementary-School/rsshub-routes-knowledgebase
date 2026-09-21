@@ -59,6 +59,9 @@ _None_
   ],
   "name": "大阪市 食品営業許可 新規",
   "path": "/osaka/food-permit",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [],
   "url": "www.city.osaka.lg.jp"
 }

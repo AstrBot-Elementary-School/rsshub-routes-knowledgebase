@@ -43,6 +43,9 @@ _None_
   ],
   "name": "Music Latest",
   "path": "/music/latest",
+  "test": {
+    "code": 0
+  },
   "topFeeds": []
 }
 ```

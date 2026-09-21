@@ -83,7 +83,7 @@
     {
       "description": "北京设计爱好者,抖音设计中心的创作者主页,共上传26组创作,热招 投递简历ued-recruit@bytedance.com,想找北京设计爱好者,就来站酷ZCOOL. - Powered by RSSHub",
       "errorAt": "2026-09-14T05:17:38.140Z",
-      "errorMessage": "502 \nAuthentication failed. Access denied.\n/zcool/user/16232491\nUnexpected end of JSON input\n",
+      "errorMessage": "Authentication failed. Access denied.\n/zcool/user/16232491\nUnexpected end of JSON input\n",
       "id": "58346915466474547",
       "image": "https://img.zcool.cn/community/011e675dc3931ba801209e1f55764e.jpg",
       "ownerUserId": null,

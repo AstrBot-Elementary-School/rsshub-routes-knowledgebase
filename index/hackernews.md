@@ -15,5 +15,5 @@
 - Route Path: `/hackernews/:section?/:type?/:value?`
 - File: `docs/routes/hackernews/hackernews-section-type-value.md`
 - File Name: `hackernews-section-type-value.md`
-- Categories: `programming`
+- Categories: `programming, popular`
 - Maintainers: `nczitzk, xie-dongping`

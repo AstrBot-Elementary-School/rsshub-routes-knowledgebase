@@ -82,7 +82,7 @@
     "nsfw": true,
     "supportBT": true
   },
-  "heat": 2,
+  "heat": 3,
   "location": "one.ts",
   "maintainers": [
     "monsterxcn"

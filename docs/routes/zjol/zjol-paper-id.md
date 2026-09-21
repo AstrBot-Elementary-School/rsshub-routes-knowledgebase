@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 32,
+  "heat": 31,
   "location": "paper.ts",
   "maintainers": [
     "nczitzk"

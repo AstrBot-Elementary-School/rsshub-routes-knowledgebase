@@ -67,8 +67,8 @@ _None_
   "topFeeds": [
     {
       "description": "youbao5266的作品 - 快手 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-20T11:57:14.968Z",
+      "errorMessage": "Navigating frame was detached\n503 \n",
       "id": "147602391664470016",
       "image": null,
       "ownerUserId": null,

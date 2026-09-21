@@ -75,6 +75,9 @@ The site's [ご利用にあたって](https://www.jreast.co.jp/site/rules.html) 
       "target": "/ridership"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [],
   "url": "www.jreast.co.jp"
 }

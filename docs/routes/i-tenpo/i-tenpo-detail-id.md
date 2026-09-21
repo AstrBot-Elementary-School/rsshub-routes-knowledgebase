@@ -73,6 +73,9 @@ Its one advantage over the ward routes is the address. The page's own 所在地 
       "target": "/detail/:id"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [],
   "url": "www.i-tenpo.com"
 }

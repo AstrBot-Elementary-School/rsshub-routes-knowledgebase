@@ -51,28 +51,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "皮诺银饰 商铺上新 - Powered by RSSHub",
+      "description": "茨木甄选 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264523764142309376",
+      "id": "1264527186627264512",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1236524491",
-      "title": "皮诺银饰 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=972619875",
+      "title": "茨木甄选 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1236524491"
+      "url": "rsshub://weidian/goods/972619875"
     },
     {
-      "description": "NPClub 商铺上新 - Powered by RSSHub",
+      "description": "杰尼龟 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264526582177726464",
+      "id": "1264523705908592640",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1833276453",
-      "title": "NPClub 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1405292126",
+      "title": "杰尼龟 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1833276453"
+      "url": "rsshub://weidian/goods/1405292126"
     }
   ]
 }

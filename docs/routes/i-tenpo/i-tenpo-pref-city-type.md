@@ -83,6 +83,9 @@ An unknown 市区町村 slug is answered by the site with the whole prefecture a
       "target": "/:pref/:city/:type"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [],
   "url": "www.i-tenpo.com"
 }

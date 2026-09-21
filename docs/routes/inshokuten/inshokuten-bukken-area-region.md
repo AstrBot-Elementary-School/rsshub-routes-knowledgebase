@@ -114,6 +114,9 @@ New restaurant-property listings on 飲食店.COM sorted by 登録日 (first pag
       ]
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [],
   "url": "www.inshokuten.com"
 }

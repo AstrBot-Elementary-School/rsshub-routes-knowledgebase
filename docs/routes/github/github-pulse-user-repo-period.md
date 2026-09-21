@@ -79,16 +79,16 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "datawhalechina/llm-universe weekly Pulse - Powered by RSSHub",
+      "description": "openai/whisper weekly Pulse - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "137417584044606464",
+      "id": "220767323256864796",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/datawhalechina/llm-universe/pulse/weekly",
-      "title": "datawhalechina/llm-universe weekly Pulse",
+      "siteUrl": "https://github.com/openai/whisper/pulse/weekly",
+      "title": "openai/whisper weekly Pulse",
       "type": "feed",
-      "url": "rsshub://github/pulse/datawhalechina/llm-universe"
+      "url": "rsshub://github/pulse/openai/whisper/weekly"
     },
     {
       "description": "facebookresearch/audiocraft weekly Pulse - Powered by RSSHub",

@@ -60,32 +60,33 @@ _None_
   },
   "path": "/bbs/user-post/:uid",
   "test": {
-    "code": 0
+    "code": 1,
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
   "topFeeds": [
     {
-      "description": "米游社 - 円学 的发帖 - Powered by RSSHub",
+      "description": "米游社 - 紫喵Azunya 的发帖 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "198688151528841216",
+      "id": "198686444754484224",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=158501436",
-      "title": "米游社 - 円学 的发帖",
+      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=75596302",
+      "title": "米游社 - 紫喵Azunya 的发帖",
       "type": "feed",
-      "url": "rsshub://mihoyo/bbs/user-post/158501436"
+      "url": "rsshub://mihoyo/bbs/user-post/75596302"
     },
     {
-      "description": "米游社 - 鸦居丶 的发帖 - Powered by RSSHub",
+      "description": "米游社 - 墨色长安 的发帖 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "198688274828765184",
+      "id": "198688672265496576",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=75259669",
-      "title": "米游社 - 鸦居丶 的发帖",
+      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=5756223",
+      "title": "米游社 - 墨色长安 的发帖",
       "type": "feed",
-      "url": "rsshub://mihoyo/bbs/user-post/75259669"
+      "url": "rsshub://mihoyo/bbs/user-post/5756223"
     }
   ]
 }

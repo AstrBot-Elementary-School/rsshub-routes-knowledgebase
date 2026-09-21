@@ -57,7 +57,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1869,
+  "heat": 1870,
   "location": "zhuanlan.ts",
   "maintainers": [
     "DIYgod"
@@ -78,7 +78,7 @@ _None_
     {
       "description": "知乎专栏-体验碎周报 - Powered by RSSHub",
       "errorAt": "2026-08-24T02:08:31.954Z",
-      "errorMessage": "[GET] \"https://www.zhihu.com/api/v4/columns/c_1186819163765649408/items\": 403 Forbidden\nzhihu: browser API request failed with HTTP 403\n",
+      "errorMessage": "[GET] \"https://www.zhihu.com/api/v4/columns/c_1186819163765649408/items\": 403 Forbidden\nzhihu: browser session failed during guest cookie initialization. Configure ZHIHU_COOKIES with an accessible session containing d_c0 and __zse_ck.\n",
       "id": "41359836954400791",
       "image": null,
       "ownerUserId": null,

@@ -57,6 +57,9 @@ _None_
       "target": "/user/article/:id"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [],
   "view": 0
 }

@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4855,
+  "heat": 4858,
   "location": "daily.ts",
   "maintainers": [
     "nczitzk",
@@ -73,7 +73,7 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "1. Anthropic 开放 Mythos 模型，面向科研群体解禁 2. 消息称长鑫正准备进入闪存市场，与三星、海力士、美光正面竞争 3. iPhone 18 Pro 首发日：黄牛利润缩水，顶配溢价比去年少一半 4. 苹果回应 iPhone Duo 发烫问题 称博主单机测评较片面 5. 吴恩达批评 AI 灭绝论：堪比科幻小说，造势或意在影响监管 6. 不到 30 岁清华校友任 Anthropic 前沿计算战略负责人 7. Anthropic 据悉设立生物实验室，目标让 Claude 指挥物理机器人开展实验 8. 阿里千问推出新一代原生全模态模型 Qwen3.8-Omni-Flash 9. 影视飓风 Tim 要买 510 万一张的太空船票 10. Figure 发布 Helix 2.5 模型，机器人可「自主做家务」 11. 阿里通用医疗影像 AI 登上《Science》：覆盖超 146 种病症，已正式开源 12. 智谱发布 GLM-5.3-FlashX，扩算力、提速度、提定价 13. 英伟达 CEO 黄仁勋：明年公司芯片销量将翻倍 14. 消息称特斯拉 AI5 芯片已在三星得州工厂试产，采用 2nm 工艺 15. 贾国龙新品牌多店暂停营业，部分开业不足半年 16. SpaceX AI 拟购破产初创公司数据训练 Grok，数据策略将转向 - Powered by RSSHub",
+      "description": "1. 网传西贝两三个月内将彻底倒闭，贾国龙拟揽债弃股 2. DeepSeek：调休上班的周末、中国法定节假日全天均按空闲时段计费 3. 智谱 ZCode 回应数据上传争议：功能默认开启致数据上传，将开源代码 4. Anthropic 年化收入或超千亿美元，IPO 估值冲击 2 万亿 5. ChatGPT 正式接入 Word，全账号计划可用 6. 消息称理想汽车开始卖技术：马赫芯片、碳化硅、增程器启动外供 7. Anthropic 等 AI 巨头因呼吁放缓 AI 发展面临共谋指控 8. 北京依法对四家在线酒店旅游预订平台企业立案调查 9. 施一公：西湖大学放弃科研量化指标、不设科研奖励 10. 浙大 00 后创办魔芯科技估值将达近 100 亿元 11. 迪士尼新设首席技术官岗位，加码科技战略布局 12. 谷歌公司引入诺贝尔奖得主扩充其人工智能与经济团队 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "52347176714948614",

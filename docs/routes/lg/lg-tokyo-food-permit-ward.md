@@ -97,6 +97,9 @@ _None_
     }
   },
   "path": "/tokyo/food-permit/:ward?",
+  "test": {
+    "code": 0
+  },
   "topFeeds": [],
   "url": "catalog.data.metro.tokyo.lg.jp"
 }

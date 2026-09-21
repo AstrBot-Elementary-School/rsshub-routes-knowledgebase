@@ -204,6 +204,9 @@ New listings (新着物件) on テナントショップネットワーク for on
       "target": "/chintai/:pa"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [],
   "url": "www.tenant-shop.com"
 }

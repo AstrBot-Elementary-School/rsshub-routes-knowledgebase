@@ -78,8 +78,8 @@ _None_
     },
     {
       "description": "灵笼 第二季 - Powered by RSSHub",
-      "errorAt": "2026-03-24T07:23:59.136Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "163943717183372288",
       "image": "https://www.olevod.one/wpimg/202571099.jpg",
       "ownerUserId": null,

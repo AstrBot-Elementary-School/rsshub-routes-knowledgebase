@@ -65,6 +65,9 @@ _None_
       "target": "/industry-report"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [],
   "url": "www.jfnet.or.jp"
 }

@@ -76,6 +76,9 @@ Ward-level restaurant-property rent benchmarks (坪単価) from ABC 店舗's エ
       "target": "/rent-benchmark"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [],
   "url": "www.abc-tenpo.com"
 }

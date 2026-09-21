@@ -76,16 +76,16 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "文学城 | 移民论坛（immigration） - Powered by RSSHub",
+      "description": "文学城 | 我爱我家（myhouse） - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "177651896288583713",
+      "id": "177651896288583712",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://bbs.wenxuecity.com/immigration/?elite=1",
-      "title": "文学城 | 移民论坛（immigration）",
+      "siteUrl": "https://bbs.wenxuecity.com/myhouse/?elite=1",
+      "title": "文学城 | 我爱我家（myhouse）",
       "type": "feed",
-      "url": "rsshub://wenxuecity/bbs/immigration/1"
+      "url": "rsshub://wenxuecity/bbs/myhouse/1"
     },
     {
       "description": "文学城 | 职场生涯（career） - Powered by RSSHub",

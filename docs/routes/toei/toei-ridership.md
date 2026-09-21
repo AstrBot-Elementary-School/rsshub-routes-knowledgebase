@@ -67,6 +67,9 @@ _None_
       "target": "/ridership"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [],
   "url": "www.kotsu.metro.tokyo.jp"
 }

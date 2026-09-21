@@ -78,16 +78,16 @@ _None_
       "url": "rsshub://themoviedb/tv/70593/seasons"
     },
     {
-      "description": "Twenty years after modern civilization has been destroyed, Joel, a hardened survivor, is hired to smuggle Ellie, a 14-year-old girl, out of an oppressive quarantine zone. What starts as a small job soon becomes a brutal, heartbreaking journey, as they both must traverse the United States and depend on each other for survival. - Powered by RSSHub",
+      "description": "Ronny Bhaiya leads a double life - To the world he is the nephew of the MLA - and likes to think of himself as a Jann Neta, and at home he is the jobless 26 year old with no sense of responsibility to his family. The show explores Ronny's adventures as he gets stuck in multiple situations because of this big lie that precedes him. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "83016713777551360",
-      "image": "https://image.tmdb.org/t/p/original/dmo6TYuuJgaYinXBPjrgG9mB5od.jpg",
+      "id": "84723957729495040",
+      "image": "https://image.tmdb.org/t/p/original/thMrz42QAhKOvf7dZu64LVvSeS4.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://www.themoviedb.org/tv/100088/seasons",
-      "title": "The Last of Us - Seasons — TMDB",
+      "siteUrl": "https://www.themoviedb.org/tv/99889/seasons",
+      "title": "Chacha Vidhayak Hain Humare - Seasons — TMDB",
       "type": "feed",
-      "url": "rsshub://themoviedb/tv/100088/seasons"
+      "url": "rsshub://themoviedb/tv/99889/seasons"
     }
   ],
   "view": 5

@@ -87,14 +87,14 @@ _None_
       "url": "rsshub://bilibili/user/article/316183842"
     },
     {
-      "description": "Ayb爱莹宝 的 bilibili 图文 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "description": "undefined 的 bilibili 图文 - Powered by RSSHub",
+      "errorAt": "2026-09-19T21:08:19.477Z",
+      "errorMessage": "Failed to fetch\n[GET] \"https://api.bilibili.com/x/polymer/web-dynamic/v1/opus/feed/space?host_mid=57276677\": 412 Precondition Failed\n",
       "id": "55126637717323776",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://space.bilibili.com/57276677/article",
-      "title": "Ayb爱莹宝 的 bilibili 图文",
+      "title": "undefined 的 bilibili 图文",
       "type": "feed",
       "url": "rsshub://bilibili/user/article/57276677"
     }

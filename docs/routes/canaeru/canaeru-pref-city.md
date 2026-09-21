@@ -118,6 +118,9 @@ One caveat on 造作価格: the publisher occasionally appends 万円 to a figur
       "target": "/:pref"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [],
   "url": "canaeru.usen.com"
 }

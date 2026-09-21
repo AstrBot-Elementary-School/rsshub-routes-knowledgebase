@@ -116,16 +116,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "This plugin makes spawners minable using SilkTouch tools - Powered by RSSHub",
+      "description": "Modern desktop graphics application framework and low-level 3D graphics engine - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "123852225922308096",
+      "id": "120292329928510464",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/yqj3dcbL",
-      "title": "SilkSpawners Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/modern-ui",
+      "title": "Modern UI Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/yqj3dcbL/versions"
+      "url": "rsshub://modrinth/project/modern-ui/versions"
     }
   ]
 }

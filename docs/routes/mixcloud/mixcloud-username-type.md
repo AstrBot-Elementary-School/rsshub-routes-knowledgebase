@@ -83,13 +83,13 @@
   ],
   "test": {
     "code": 1,
-    "message": "AssertionError: expected 311786683294 to be less than 311040000000\n    at checkDate (/home/runner/work/RSSHub/RSSHub/lib/app.test.ts:62:46)\n    at checkRSS (/home/runner/work/RSSHub/RSSHub/lib/app.test.ts:87:13)\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:106:17\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+    "message": "AssertionError: expected 312391500592 to be less than 311040000000\n    at checkDate (/home/runner/work/RSSHub/RSSHub/lib/app.test.ts:62:46)\n    at checkRSS (/home/runner/work/RSSHub/RSSHub/lib/app.test.ts:87:13)\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:106:17\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
   "topFeeds": [
     {
       "description": "As a DJ I was socialised with techno music in my early days and moved on, almost exclusively to Drum'n'Bass music. I loved the energy of broken beats and enjoyed playing those tunes at parties.<br><br>These days, I enjoy whatever music makes me want to move to it, whatever style it might be. I love getting feedback, so please comment on the mixes and let me know what you think. Also all kinds of music suggestions are appreciated. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-19T14:11:25.521Z",
+      "errorMessage": "[POST] \"https://app.mixcloud.com/graphql\": 403 Forbidden\n",
       "id": "63497988872589312",
       "image": "https://thumbnailer.mixcloud.com/unsafe/480x480/profile/7/6/2/0/e1f3-227f-4027-b764-99fe8aa85db6",
       "ownerUserId": null,

@@ -184,7 +184,7 @@ For example: `daily_total`, `weekly_r`, `monthly_er`
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 15,
+  "heat": 16,
   "location": "ranking-r18.ts",
   "maintainers": [
     "SnowAgar25"
@@ -471,8 +471,8 @@ For example: `daily_total`, `weekly_r`, `monthly_er`
   "topFeeds": [
     {
       "description": "小説家になろう (noc) - 日間総合ランキング BEST300 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-20T01:55:52.004Z",
+      "errorMessage": "500 \n",
       "id": "82945591703756800",
       "image": null,
       "ownerUserId": null,

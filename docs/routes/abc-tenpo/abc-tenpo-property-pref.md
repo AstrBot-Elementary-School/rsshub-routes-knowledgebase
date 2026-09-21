@@ -95,6 +95,9 @@ Listings on ABC 店舗 sorted by 新着順 (first page, 20 listings). Each item'
       "target": "/property"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [],
   "url": "www.abc-tenpo.com"
 }

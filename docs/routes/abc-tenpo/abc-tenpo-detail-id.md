@@ -73,6 +73,9 @@ Its reason to exist is the address. The listing route can only reach the ward (`
       "target": "/detail/:id"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [],
   "url": "www.abc-tenpo.com"
 }

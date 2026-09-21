@@ -73,6 +73,9 @@ New listings on 店舗そのままオークション，newest first (first page,
       "target": "/property"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [],
   "url": "www.sonomama.net"
 }

@@ -88,8 +88,8 @@
   "topFeeds": [
     {
       "description": "全球 ｜ 公視新聞網 PNN - Powered by RSSHub",
-      "errorAt": "2026-09-18T18:20:44.234Z",
-      "errorMessage": "200 ",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "69916583666985995",
       "image": null,
       "ownerUserId": null,
