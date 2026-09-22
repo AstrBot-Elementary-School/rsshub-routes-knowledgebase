@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 478,
+  "heat": 479,
   "location": "other/weekly-best.tsx",
   "maintainers": [
     "numm233",

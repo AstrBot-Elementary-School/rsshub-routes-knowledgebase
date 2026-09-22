@@ -66,8 +66,8 @@ _None_
   "topFeeds": [
     {
       "description": "V2EX-tab-hot - Powered by RSSHub",
-      "errorAt": "2026-09-20T11:44:00.672Z",
-      "errorMessage": "[GET] \"https://v2ex.com/?tab=hot\": <no response> fetch failed\n[GET] \"https://v2ex.com/?tab=hot\": 403 Forbidden\n[GET] \"https://v2ex.com/?tab=hot\": <no response> fetch failed\n[GET] \"https://v2ex.com/?tab=hot\": 403 Forbidden\n[GET] \"https://v2ex.com/?tab=hot\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41707278446398464",
       "image": null,
       "ownerUserId": null,
@@ -78,7 +78,7 @@ _None_
     },
     {
       "description": "V2EX-tab-apple - Powered by RSSHub",
-      "errorAt": "2026-09-20T11:47:06.992Z",
+      "errorAt": "2026-09-21T08:25:48.786Z",
       "errorMessage": "[GET] \"https://v2ex.com/?tab=apple\": 403 Forbidden\n[GET] \"https://v2ex.com/?tab=apple\": <no response> fetch failed\n[GET] \"https://v2ex.com/?tab=apple\": 403 Forbidden\n",
       "id": "46752076079222784",
       "image": null,

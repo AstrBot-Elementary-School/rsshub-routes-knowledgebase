@@ -64,8 +64,8 @@ _None_
   "topFeeds": [
     {
       "description": "OpenAI News - Powered by RSSHub",
-      "errorAt": "2026-09-16T20:16:35.918Z",
-      "errorMessage": "[GET] \"https://openai.com/index/australian-youth-safety-blueprint\": 403 Forbidden\n[GET] \"https://openai.com/index/hex-gpt-6-astra/\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "139523607422199808",
       "image": null,
       "ownerUserId": null,

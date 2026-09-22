@@ -125,7 +125,7 @@
     {
       "description": "News & Views That Matter - Powered by RSSHub",
       "errorAt": "2026-09-07T10:16:30.919Z",
-      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/885338-%E6%B6%89%E5%8F%8A%E4%B8%8D%E5%90%8C%E6%8C%87%E6%8E%A7%E5%8F%8D%E8%B4%AA%E4%BC%9A%E6%8C%87%E7%BA%B3%E5%90%89%E7%89%B9%E8%B5%A6%E4%B8%8D%E5%BD%B1%E5%93%8D%E4%B8%80%E9%A9%AC%E6%A1%88\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/885417-%E4%B8%A5%E7%AB%AF%E6%97%A0%E5%A4%A7%E8%87%A3%E5%8A%9D%E5%91%8A%E4%B8%8B%E7%82%92%E4%BA%BA%E8%BF%9D%E5%AE%AA%E6%A3%AE%E9%80%BC%E5%AE%AB%E6%B4%BE%E8%AE%A4%E5%AE%9A%E6%8C%87%E4%BB%A4%E6%97%A0%E6%95%88\": 404 Not Found\n",
       "id": "69685104073634816",
       "image": null,
       "ownerUserId": null,
@@ -137,7 +137,7 @@
     {
       "description": "News & Views That Matter - Powered by RSSHub",
       "errorAt": "2026-09-07T09:32:19.566Z",
-      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/885321-snapshot-umno-leader-slams-pkr-mp-over-pardon-criticism-viral-show-video-probed\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/885414-tuanku-muhriz-revokes-exco-appointments-but-reading-of-constitution-disputed\": 404 Not Found\n",
       "id": "61840955600323584",
       "image": null,
       "ownerUserId": null,

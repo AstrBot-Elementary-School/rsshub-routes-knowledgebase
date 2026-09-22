@@ -55,7 +55,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 7136,
+  "heat": 7135,
   "location": "report/index.tsx",
   "maintainers": [
     "syzq"

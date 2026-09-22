@@ -92,7 +92,7 @@
     {
       "description": "manga - E-Hentai Galleries - Powered by RSSHub",
       "errorAt": "2026-09-20T05:16:11.792Z",
-      "errorMessage": "a1969.map is not a function\n",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "106841285260128256",
       "image": null,
       "ownerUserId": null,
@@ -103,8 +103,8 @@
     },
     {
       "description": "cosplay - E-Hentai Galleries - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-21T08:36:22.444Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "106841534145317888",
       "image": null,
       "ownerUserId": null,

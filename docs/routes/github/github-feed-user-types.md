@@ -148,16 +148,16 @@ _None_
       "url": "rsshub://github/feed/ardubev16/all"
     },
     {
-      "description": "GitHub events received by microsoft - includes private events - Powered by RSSHub",
+      "description": "GitHub events received by vancaem (filtered: star) - includes private events - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1203443781638946816",
+      "id": "198776976440163328",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/microsoft",
-      "title": "microsoft's GitHub Private Feed - All Events",
+      "siteUrl": "https://github.com/vancaem",
+      "title": "vancaem's GitHub Private Feed - Events: star",
       "type": "feed",
-      "url": "rsshub://github/feed/microsoft"
+      "url": "rsshub://github/feed/vancaem/star"
     }
   ],
   "view": 5

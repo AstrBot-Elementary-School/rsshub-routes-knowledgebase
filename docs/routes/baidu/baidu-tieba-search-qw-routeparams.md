@@ -56,7 +56,7 @@ _None_
       }
     ]
   },
-  "heat": 40,
+  "heat": 37,
   "location": "tieba/search.ts",
   "maintainers": [
     "JimenezLi",

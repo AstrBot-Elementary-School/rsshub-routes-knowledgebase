@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 200,
+  "heat": 199,
   "location": "ershcimi.ts",
   "maintainers": [
     "sanmmm"

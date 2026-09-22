@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 18,
+  "heat": 19,
   "location": "bookstore/newest.ts",
   "maintainers": [
     "xyqfer"

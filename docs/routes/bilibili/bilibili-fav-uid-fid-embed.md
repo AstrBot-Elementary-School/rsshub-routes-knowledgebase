@@ -80,16 +80,16 @@ _None_
       "url": "rsshub://bilibili/fav/399964818/1771644318"
     },
     {
-      "description": "Mute哑人 的 bilibili 收藏夹 大学学习 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "214364340386307072",
+      "description": "轻声惆怅 的 bilibili 收藏夹 剧情合集 - Powered by RSSHub",
+      "errorAt": "2026-09-07T17:02:19.801Z",
+      "errorMessage": "[GET] \"https://api.bilibili.com/x/v3/fav/resource/list?media_id=3604184927&ps=20\": 412 Precondition Failed\n",
+      "id": "170412661881765888",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://space.bilibili.com/319200891/#/favlist?fid=2290973491",
-      "title": "Mute哑人 的 bilibili 收藏夹 大学学习",
+      "siteUrl": "https://space.bilibili.com/3546765649250827/#/favlist?fid=3604184927",
+      "title": "轻声惆怅 的 bilibili 收藏夹 剧情合集",
       "type": "feed",
-      "url": "rsshub://bilibili/fav/319200891/2290973491"
+      "url": "rsshub://bilibili/fav/3546765649250827/3604184927"
     }
   ]
 }

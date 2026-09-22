@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4858,
+  "heat": 4855,
   "location": "daily.ts",
   "maintainers": [
     "nczitzk",
@@ -73,13 +73,13 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "1. 网传西贝两三个月内将彻底倒闭，贾国龙拟揽债弃股 2. DeepSeek：调休上班的周末、中国法定节假日全天均按空闲时段计费 3. 智谱 ZCode 回应数据上传争议：功能默认开启致数据上传，将开源代码 4. Anthropic 年化收入或超千亿美元，IPO 估值冲击 2 万亿 5. ChatGPT 正式接入 Word，全账号计划可用 6. 消息称理想汽车开始卖技术：马赫芯片、碳化硅、增程器启动外供 7. Anthropic 等 AI 巨头因呼吁放缓 AI 发展面临共谋指控 8. 北京依法对四家在线酒店旅游预订平台企业立案调查 9. 施一公：西湖大学放弃科研量化指标、不设科研奖励 10. 浙大 00 后创办魔芯科技估值将达近 100 亿元 11. 迪士尼新设首席技术官岗位，加码科技战略布局 12. 谷歌公司引入诺贝尔奖得主扩充其人工智能与经济团队 - Powered by RSSHub",
+      "description": "1. 古尔曼：苹果最早将于下月推出智能家居屏幕设备 2. Anthropic 拟将 IPO 推迟至 11 月，预计上市估值约 2 万亿美元 3. GPT-6 Astra 联手人类攻克重大进展级数学难题 4. 警方通报男子造谣宁德时代裸奔事件：行政拘留并处罚款 5. 啄木鸟被曝换开关收 2800 元后态度反转：全额退费并赔偿 2000 元 6. Anthropic 据悉考虑在 IPO 前发布新 AI 模型 7. 长鑫科技宣布第五代技术平台正式量产 8. 稚晖君发布启元 Q1、T1 人形机器人 9. 蚂蚁集团入股具身智能公司天机智能 10. 谷歌承认其 AI 模型在安全测试中侵入三家公司系统 11. 贾国龙妻子质押西贝股权，网传西贝将倒闭遭否认 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "52347176714948614",
       "image": "https://readhub.cn/icons/icon-192x192.png",
       "ownerUserId": null,
-      "siteUrl": "https://api.readhub.cn/daily",
+      "siteUrl": "https://readhub.cn/daily",
       "title": "Readhub - 每日早报",
       "type": "feed",
       "url": "rsshub://readhub/daily"

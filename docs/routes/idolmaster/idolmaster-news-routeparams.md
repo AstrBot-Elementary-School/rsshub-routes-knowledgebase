@@ -63,7 +63,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 15,
+  "heat": 16,
   "location": "news.ts",
   "maintainers": [
     "keocheung"

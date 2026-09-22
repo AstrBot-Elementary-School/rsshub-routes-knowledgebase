@@ -88,16 +88,16 @@ _None_
       "url": "rsshub://luma/langchain"
     },
     {
-      "description": "Google DeepMind - Powered by RSSHub",
+      "description": "Reading Rhythms Global - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "265966953317233664",
+      "id": "265967037132484608",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://lu.ma/deepmind",
-      "title": "Google DeepMind",
+      "siteUrl": "https://lu.ma/readingrhythms-global",
+      "title": "Reading Rhythms Global",
       "type": "feed",
-      "url": "rsshub://luma/deepmind"
+      "url": "rsshub://luma/readingrhythms-global"
     }
   ],
   "url": "lu.ma"

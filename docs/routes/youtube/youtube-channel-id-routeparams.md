@@ -98,8 +98,8 @@ YouTube provides official RSS feeds for channels, for instance <https://www.yout
   "topFeeds": [
     {
       "description": "My name is Lewis. I am on a mission to inspire developers and tech enthusiasts. 🧑‍💻 Professionally coding since 2016! Business: sydney@lewismenelaws.com - Powered by RSSHub",
-      "errorAt": "2026-09-20T09:16:30.846Z",
-      "errorMessage": "fetch failed\nRequest to https://www.youtube.com/youtubei/v1/browse?prettyPrint=false&alt=json failed with status code 403\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "143637676052105216",
       "image": "https://yt3.googleusercontent.com/CsruQ_I1lU51KzpO58FHQIpzuQneCdmJOOLsmy_usGKQANxgnJ-cK6kNylwQYhY0LYwVrp3EHQ=s900-c-k-c0x00ffffff-no-rj",
       "ownerUserId": null,
@@ -110,8 +110,8 @@ YouTube provides official RSS feeds for channels, for instance <https://www.yout
     },
     {
       "description": "Hello, I'm Johnny, a passionate backpacker currently based in Africa. My journey has taken me to 39 countries worldwide, including 23 in Africa. My dream is ... - Powered by RSSHub",
-      "errorAt": "2026-09-20T09:46:37.642Z",
-      "errorMessage": "Request to https://www.youtube.com/youtubei/v1/browse?prettyPrint=false&alt=json failed with status code 403\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "62110731608091648",
       "image": "https://yt3.googleusercontent.com/ytc/AIdro_nLxOCT7qrhIe50CgsatjLIkcALBlBA5b6phRdsYEH9MA=s900-c-k-c0x00ffffff-no-rj",
       "ownerUserId": null,

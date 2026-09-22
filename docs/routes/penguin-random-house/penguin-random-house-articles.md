@@ -72,8 +72,8 @@ _None_
   "topFeeds": [
     {
       "description": "In-depth interviews, author essays, fascinating essays. Go deeper into the books you love. - Powered by RSSHub",
-      "errorAt": "2026-09-20T11:56:30.496Z",
-      "errorMessage": "[GET] \"https://www.penguinrandomhouse.com/articles/\": 406 Not Acceptable\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "139611488393335808",
       "image": null,
       "ownerUserId": null,

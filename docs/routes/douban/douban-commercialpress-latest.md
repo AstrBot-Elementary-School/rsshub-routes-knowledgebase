@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4,
+  "heat": 5,
   "location": "commercialpress/latest.ts",
   "maintainers": [
     "xyqfer"

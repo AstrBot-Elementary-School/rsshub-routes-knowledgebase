@@ -75,21 +75,21 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "ComfyUI的搜索结果 - Powered by RSSHub",
+      "description": "backdoorattack的搜索结果 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "133953344935277568",
+      "id": "139683019365314560",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/search?o=desc&q=ComfyUI&s=updated&type=Repositories",
-      "title": "ComfyUI的搜索结果",
+      "siteUrl": "https://github.com/search?o=desc&q=backdoorattack&s=updated&type=Repositories",
+      "title": "backdoorattack的搜索结果",
       "type": "feed",
-      "url": "rsshub://github/search/ComfyUI/updated/desc"
+      "url": "rsshub://github/search/backdoorattack/updated/desc"
     },
     {
       "description": "bitwig的搜索结果 - Powered by RSSHub",
       "errorAt": "2026-08-13T02:57:39.902Z",
-      "errorMessage": "[GET] \"https://github.com/search?o=desc&q=bitwig&s=updated&type=Repositories\": 429 Too Many Requests\n",
+      "errorMessage": "Cannot read properties of undefined (reading 'map')\n",
       "id": "56776133087920128",
       "image": null,
       "ownerUserId": null,

@@ -91,8 +91,8 @@
     },
     {
       "description": "单机电玩 - 游民星空 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-21T09:31:40.120Z",
+      "errorMessage": "Authentication failed. Access denied.\n/gamersky/news\n502 \n[GET] \"https://www.gamersky.com/news/202609/2214008.shtml\": 404 Not Found\n",
       "id": "58369029575289856",
       "image": null,
       "ownerUserId": null,

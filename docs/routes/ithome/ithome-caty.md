@@ -68,8 +68,8 @@ _None_
   "topFeeds": [
     {
       "description": "IT 之家 - IT 资讯 - Powered by RSSHub",
-      "errorAt": "2026-09-20T09:09:00.669Z",
-      "errorMessage": "[GET] \"https://it.ithome.com/\": <no response> fetch failed (Connect Timeout Error (attempted address: it.ithome.com:443, timeout: 10000ms))\nFailed to fetch\nFailed to fetch\n[GET] \"https://it.ithome.com/\": 522 <none>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41572238273905677",
       "image": "https://img.ithome.com/m/images/logo.png",
       "ownerUserId": null,
@@ -80,8 +80,8 @@ _None_
     },
     {
       "description": "IT 之家 - 数码之家 - Powered by RSSHub",
-      "errorAt": "2026-09-20T01:07:33.209Z",
-      "errorMessage": "503 \n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41572238273905673",
       "image": "https://img.ithome.com/m/images/logo.png",
       "ownerUserId": null,

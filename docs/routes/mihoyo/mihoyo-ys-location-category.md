@@ -95,8 +95,8 @@
     },
     {
       "description": "原神 - 最新 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-20T22:36:33.626Z",
+      "errorMessage": "503 \n",
       "id": "156266162055355392",
       "image": null,
       "ownerUserId": null,

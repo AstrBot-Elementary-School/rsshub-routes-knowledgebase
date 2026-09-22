@@ -51,28 +51,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "茨木甄选 商铺上新 - Powered by RSSHub",
+      "description": "人民ism 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264527186627264512",
+      "id": "1264523938205925376",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=972619875",
-      "title": "茨木甄选 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1651238208",
+      "title": "人民ism 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/972619875"
+      "url": "rsshub://weidian/goods/1651238208"
     },
     {
-      "description": "杰尼龟 商铺上新 - Powered by RSSHub",
+      "description": "草帽出品【八点开拍】🎩 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264523705908592640",
+      "id": "1264523311660793856",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1405292126",
-      "title": "杰尼龟 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1303790680",
+      "title": "草帽出品【八点开拍】🎩 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1405292126"
+      "url": "rsshub://weidian/goods/1303790680"
     }
   ]
 }
