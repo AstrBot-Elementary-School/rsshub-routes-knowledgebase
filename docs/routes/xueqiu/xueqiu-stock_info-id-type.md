@@ -83,8 +83,8 @@
   "topFeeds": [
     {
       "description": "兆易创新 - 资讯 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-22T12:05:58.867Z",
+      "errorMessage": "[GET] \"https://stock.xueqiu.com/v5/stock/quote.json?symbol=SH603986\": 400 Bad Request\n",
       "id": "64923928046286858",
       "image": null,
       "ownerUserId": null,

@@ -3866,6 +3866,12 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `1`
 - Index File: `index/fosshub.md`
 
+## Fraenkel Gallery
+- Namespace: `fraenkelgallery`
+- Aliases: `fraenkel gallery, fraenkelgallery, fraenkelgallery.com`
+- Route Count: `1`
+- Index File: `index/fraenkelgallery.md`
+
 ## 免費資源網路社群
 - Namespace: `free`
 - Aliases: `free, free.com.tw, 免費資源網路社群`
@@ -11561,7 +11567,7 @@ Use this file to select the target namespace before opening route documents.
 ## 雪球
 - Namespace: `xueqiu`
 - Aliases: `danjuanapp, danjuanapp.com, xueqiu, 雪球`
-- Route Count: `11`
+- Route Count: `12`
 - Index File: `index/xueqiu.md`
 
 ## 学堂在线

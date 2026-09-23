@@ -92,7 +92,7 @@
     {
       "description": "中共中央和国务院最近发布的政策 - Powered by RSSHub",
       "errorAt": "2026-02-04T15:59:01.539Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "Failed to fetch\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "63695474853662720",
       "image": "https://www.gov.cn/images/gtrs_logo_rt.png",
       "ownerUserId": null,

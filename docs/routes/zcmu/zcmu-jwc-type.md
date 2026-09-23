@@ -79,16 +79,16 @@ _None_
       "url": "rsshub://zcmu/jwc/1"
     },
     {
-      "description": "教务处 -- 排课管理 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "84227265299092494",
+      "description": "教务处 -- 考试管理 - Powered by RSSHub",
+      "errorAt": "2025-09-02T11:04:40.706Z",
+      "errorMessage": "[GET] \"https://jwc.zcmu.edu.cn//jwgl/ksgl.htm\": 404 Not Found\n",
+      "id": "84227265299092495",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://jwc.zcmu.edu.cn/jwgl/pkgl",
-      "title": "教务处 -- 排课管理",
+      "siteUrl": "https://jwc.zcmu.edu.cn/jwgl/ksgl",
+      "title": "教务处 -- 考试管理",
       "type": "feed",
-      "url": "rsshub://zcmu/jwc/5"
+      "url": "rsshub://zcmu/jwc/3"
     }
   ]
 }

@@ -54,7 +54,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 7503,
+  "heat": 7502,
   "location": "index.ts",
   "maintainers": [
     "moke8",
@@ -85,8 +85,8 @@ _None_
     },
     {
       "description": "HelloGithub - 全部开源项目 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-22T12:31:05.401Z",
+      "errorMessage": "[GET] \"https://api.hellogithub.com/v1/?sort_by=all&page=1\": 522 <none>\n",
       "id": "80951006332301312",
       "image": null,
       "ownerUserId": null,

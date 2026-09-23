@@ -85,8 +85,8 @@ The text after `?` is `q=id%3A711&sorting=random&ref=fp&seed=8g0dgd` for [Wallpa
   "topFeeds": [
     {
       "description": "Latest Wallpapers - wallhaven.cc - Powered by RSSHub",
-      "errorAt": "2026-09-19T01:51:35.998Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "57995063243930624",
       "image": null,
       "ownerUserId": null,
@@ -97,8 +97,8 @@ The text after `?` is `q=id%3A711&sorting=random&ref=fp&seed=8g0dgd` for [Wallpa
     },
     {
       "description": "Wallpaper Search: - wallhaven.cc - Powered by RSSHub",
-      "errorAt": "2026-09-19T04:32:07.077Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41870267217959936",
       "image": null,
       "ownerUserId": null,

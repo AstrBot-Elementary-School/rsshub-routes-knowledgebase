@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 65,
+  "heat": 66,
   "location": "sogou.ts",
   "maintainers": [
     "IvanWng97",

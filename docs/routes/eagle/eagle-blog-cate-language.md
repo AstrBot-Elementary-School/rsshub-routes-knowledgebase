@@ -97,7 +97,7 @@ _None_
     {
       "description": "eagle - 全部 - Powered by RSSHub",
       "errorAt": "2025-06-01T02:42:47.366Z",
-      "errorMessage": "530 \nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "42579624844251158",
       "image": null,
       "ownerUserId": null,

@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 651,
+  "heat": 652,
   "location": "gushitong/index.tsx",
   "maintainers": [
     "CaoMeiYouRen",

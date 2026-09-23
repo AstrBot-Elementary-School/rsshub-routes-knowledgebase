@@ -61,8 +61,8 @@ _None_
   "topFeeds": [
     {
       "description": "Artificial Intelligence | Latest News, Photos & Videos | WIRED - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-21T14:51:45.794Z",
+      "errorMessage": "Cannot read properties of undefined (reading 'tagCloud')\n",
       "id": "65791385545769984",
       "image": "https://www.wired.com/verso/static/wired-us/assets/logo.svg",
       "ownerUserId": null,
@@ -72,16 +72,16 @@ _None_
       "url": "rsshub://wired/tag/artificial-intelligence"
     },
     {
-      "description": "Facebook | Latest News, Photos & Videos | WIRED - Powered by RSSHub",
+      "description": "Find the latest Bitcoin news from WIRED. See related science and technology articles, photos, slideshows and videos. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "60803075723175936",
-      "image": "https://www.wired.comhttps://www.wired.com/.design/wired-us/assets/logo.bwzabhe.svg",
+      "id": "60143536924270671",
+      "image": "https://www.wired.com/verso/static/wired-us/assets/logo.svg",
       "ownerUserId": null,
-      "siteUrl": "https://www.wired.com/tag/facebook/",
-      "title": "Facebook | Latest News, Photos & Videos | WIRED",
+      "siteUrl": "https://www.wired.com/tag/bitcoin/",
+      "title": "Bitcoin | Latest News, Photos & Videos | WIRED",
       "type": "feed",
-      "url": "rsshub://wired/tag/facebook"
+      "url": "rsshub://wired/tag/bitcoin"
     }
   ]
 }

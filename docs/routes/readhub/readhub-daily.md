@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4855,
+  "heat": 4858,
   "location": "daily.ts",
   "maintainers": [
     "nczitzk",
@@ -73,7 +73,7 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "1. 古尔曼：苹果最早将于下月推出智能家居屏幕设备 2. Anthropic 拟将 IPO 推迟至 11 月，预计上市估值约 2 万亿美元 3. GPT-6 Astra 联手人类攻克重大进展级数学难题 4. 警方通报男子造谣宁德时代裸奔事件：行政拘留并处罚款 5. 啄木鸟被曝换开关收 2800 元后态度反转：全额退费并赔偿 2000 元 6. Anthropic 据悉考虑在 IPO 前发布新 AI 模型 7. 长鑫科技宣布第五代技术平台正式量产 8. 稚晖君发布启元 Q1、T1 人形机器人 9. 蚂蚁集团入股具身智能公司天机智能 10. 谷歌承认其 AI 模型在安全测试中侵入三家公司系统 11. 贾国龙妻子质押西贝股权，网传西贝将倒闭遭否认 - Powered by RSSHub",
+      "description": "1. 阿里巴巴任命刘大一恒为 Qwen 大语言模型项目负责人 2. iPhone Duo 整机组装良率仅六成多，量产爬坡待推进 3. iPhone 19 或被跳过，iPhone 20 Pro 配置曝光 4. 支付宝宣布组织调整：吴敏芝任新事业群总裁兼任蚂蚁 CPO 5. 特斯拉机器人团队在长三角审厂 多家企业已获订单 6. 贾国龙最新发声：呼吁厘清高流量网络账号的言论边界 7. OpenAI 和 Anthropic 正在洽谈相互进行压力测试 8. 人形机器人 IPO 审核门槛或提高，投行人员收公司提醒 9. 苹果 2026 款 Mac mini9 月 22 日发售，6999 元起 10. DeepSeek V4.1 Pro 或为 2 万亿参数：未来还有 8 万亿版 11. 研究发现 ChatGPT 可通过 Cookie 追踪用户跨站购物等记录 12. 宇树科技发布 Dex5-S 灵巧手 13. Jev 全网解禁 新用户获 1.2 亿 Token 免费额度 14. 月之暗面发布 Kimi Code Desktop 桌面客户端 15. 上汽奥迪高管辟谣：奥迪总部未否定 AUDI 品牌 16. 智谱创始人唐杰亲自现身小红书投诉网友造谣侵权 17. 理想推进芯片子公司首轮融资，投前估值约 150 亿元 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "52347176714948614",

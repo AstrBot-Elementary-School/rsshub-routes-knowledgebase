@@ -51,28 +51,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "人民ism 商铺上新 - Powered by RSSHub",
+      "description": "Dylan出品 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264523938205925376",
+      "id": "1264523928189927424",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1651238208",
-      "title": "人民ism 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1649084157",
+      "title": "Dylan出品 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1651238208"
+      "url": "rsshub://weidian/goods/1649084157"
     },
     {
-      "description": "草帽出品【八点开拍】🎩 商铺上新 - Powered by RSSHub",
+      "description": "特仑叔（大同彭于晏） 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264523311660793856",
+      "id": "1264526760603418624",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1303790680",
-      "title": "草帽出品【八点开拍】🎩 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1866311341",
+      "title": "特仑叔（大同彭于晏） 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1303790680"
+      "url": "rsshub://weidian/goods/1866311341"
     }
   ]
 }

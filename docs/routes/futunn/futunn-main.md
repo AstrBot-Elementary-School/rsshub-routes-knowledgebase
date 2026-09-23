@@ -43,7 +43,7 @@ _None_
   "features": {
     "supportRadar": true
   },
-  "heat": 64,
+  "heat": 63,
   "location": "main.ts",
   "maintainers": [
     "Wsine",

@@ -55,7 +55,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 459,
+  "heat": 461,
   "location": "news.ts",
   "maintainers": [
     "yy4382"
@@ -91,8 +91,8 @@
     },
     {
       "description": "单机电玩 - 游民星空 - Powered by RSSHub",
-      "errorAt": "2026-09-21T09:31:40.120Z",
-      "errorMessage": "Authentication failed. Access denied.\n/gamersky/news\n502 \n[GET] \"https://www.gamersky.com/news/202609/2214008.shtml\": 404 Not Found\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "58369029575289856",
       "image": null,
       "ownerUserId": null,

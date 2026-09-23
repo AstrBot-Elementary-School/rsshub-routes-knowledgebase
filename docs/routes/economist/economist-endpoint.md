@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 915,
+  "heat": 914,
   "location": "full.ts",
   "maintainers": [
     "ImSingee"
@@ -75,7 +75,7 @@ _None_
     {
       "description": "The most recent blogs and online articles from The Economist - Powered by RSSHub",
       "errorAt": "2025-09-05T18:15:19.885Z",
-      "errorMessage": "[GET] \"https://www.economist.com/business/2026/09/17/at-last-india-is-getting-serious-about-selling-state-assets\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.economist.com/europe/2026/09/21/russias-grey-zone-attacks-on-europe-are-growing-more-brazen\": 403 Forbidden\n",
       "id": "54859243036899328",
       "image": null,
       "ownerUserId": null,

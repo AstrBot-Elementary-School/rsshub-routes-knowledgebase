@@ -72,8 +72,8 @@ _None_
   "topFeeds": [
     {
       "description": "今日话题 - 雪球 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-22T11:46:18.321Z",
+      "errorMessage": "500 \n[GET] \"https://api.xueqiu.com/statuses/hot/listV2.json?since_id=-1&size=20\": 400 Bad Request\n",
       "id": "61288440756878338",
       "image": null,
       "ownerUserId": null,

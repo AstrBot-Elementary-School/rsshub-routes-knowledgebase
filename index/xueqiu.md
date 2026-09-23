@@ -6,7 +6,7 @@
 - URL: `danjuanapp.com`
 - Language: `_None_`
 - Aliases: `danjuanapp, danjuanapp.com, xueqiu, 雪球`
-- Route Count: `11`
+- Route Count: `12`
 
 ## Routes
 
@@ -49,6 +49,14 @@
 - File Name: `xueqiu-snb-id.md`
 - Categories: `finance`
 - Maintainers: `ZhishanZhang`
+
+### 动态详情
+- Route ID: `xueqiu:/xueqiu/status/:uid/:id`
+- Route Path: `/xueqiu/status/:uid/:id`
+- File: `docs/routes/xueqiu/xueqiu-status-uid-id.md`
+- File Name: `xueqiu-status-uid-id.md`
+- Categories: `finance`
+- Maintainers: `ruesin`
 
 ### 股票评论
 - Route ID: `xueqiu:/xueqiu/stock_comments/:id`

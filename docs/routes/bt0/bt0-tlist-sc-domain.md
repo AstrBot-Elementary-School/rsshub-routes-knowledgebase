@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 81,
+  "heat": 79,
   "location": "tlist.ts",
   "maintainers": [
     "miemieYaho"

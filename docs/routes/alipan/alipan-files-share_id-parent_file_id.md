@@ -77,16 +77,16 @@ _None_
       "url": "rsshub://alipan/files/jcuRG1PKsTn/678b1f0e38bfbaa0650a49049919f34ce7e2678e"
     },
     {
-      "description": "住宅区的两人-阿里云盘 - Powered by RSSHub",
+      "description": "4.0测试版微信-阿里云盘 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "72100692346951680",
+      "id": "121801819696485376",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.aliyundrive.com/s/5T6zmkug7WT/folder/66e16b2ce85886c19fa9442b8e7501215c7037bd",
-      "title": "住宅区的两人-阿里云盘",
+      "siteUrl": "https://www.aliyundrive.com/s/xjhGXVkj7sR/folder/67127019bf7dce75647c4e718f7e108f076583f2",
+      "title": "4.0测试版微信-阿里云盘",
       "type": "feed",
-      "url": "rsshub://alipan/files/5T6zmkug7WT/66e16b2ce85886c19fa9442b8e7501215c7037bd"
+      "url": "rsshub://alipan/files/xjhGXVkj7sR/67127019bf7dce75647c4e718f7e108f076583f2"
     }
   ],
   "url": "www.alipan.com/s"

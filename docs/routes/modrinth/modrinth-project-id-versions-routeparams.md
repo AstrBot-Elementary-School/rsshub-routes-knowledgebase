@@ -116,16 +116,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "Easily develop plugins that support the majority of server software! Supports Folia too! - Powered by RSSHub",
+      "description": "Simple, lightweight and fast NPC plugin using packets - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "114583216473709568",
+      "id": "123850149068689408",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/6owv5fWs",
-      "title": "BukkitOfUtils Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/EeyAn23L",
+      "title": "FancyNpcs Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/6owv5fWs/versions"
+      "url": "rsshub://modrinth/project/EeyAn23L/versions"
     }
   ]
 }

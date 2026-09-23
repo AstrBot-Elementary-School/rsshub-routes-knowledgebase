@@ -89,8 +89,8 @@
   "topFeeds": [
     {
       "description": "TVB News - 要聞 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-22T08:28:32.424Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "61348313469205504",
       "image": null,
       "ownerUserId": null,
@@ -101,7 +101,7 @@
     },
     {
       "description": "TVB News - 要闻 - Powered by RSSHub",
-      "errorAt": "2026-09-20T20:26:34.168Z",
+      "errorAt": "2026-09-22T12:27:17.394Z",
       "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "68507536443122688",
       "image": null,

@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2533,
+  "heat": 2534,
   "location": "index.ts",
   "maintainers": [
     "laampui"
@@ -89,8 +89,8 @@ _None_
     },
     {
       "description": "金十数据 - Powered by RSSHub",
-      "errorAt": "2026-09-21T11:11:06.289Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "72573375336611840",
       "image": null,
       "ownerUserId": null,

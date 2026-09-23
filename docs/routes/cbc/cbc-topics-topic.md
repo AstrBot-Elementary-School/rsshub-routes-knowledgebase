@@ -87,14 +87,14 @@ _None_
       "url": "rsshub://cbc/topics"
     },
     {
-      "description": "Ottawa - CBC NewsMenuTelevisionheadphoneclosed caption - Powered by RSSHub",
+      "description": "Ottawa - CBC NewsMenuTelevisionheadphone - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "60766614420573184",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.cbc.ca/news/canada/ottawa",
-      "title": "Ottawa - CBC NewsMenuTelevisionheadphoneclosed caption",
+      "title": "Ottawa - CBC NewsMenuTelevisionheadphone",
       "type": "feed",
       "url": "rsshub://cbc/topics/canada-ottawa"
     }

@@ -88,16 +88,16 @@ _None_
       "url": "rsshub://luma/langchain"
     },
     {
-      "description": "Reading Rhythms Global - Powered by RSSHub",
+      "description": "The AI Collective - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "265967037132484608",
+      "id": "265935647087177728",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://lu.ma/readingrhythms-global",
-      "title": "Reading Rhythms Global",
+      "siteUrl": "https://lu.ma/genai-collective",
+      "title": "The AI Collective",
       "type": "feed",
-      "url": "rsshub://luma/readingrhythms-global"
+      "url": "rsshub://luma/genai-collective"
     }
   ],
   "url": "lu.ma"
