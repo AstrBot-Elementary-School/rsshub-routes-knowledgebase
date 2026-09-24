@@ -116,16 +116,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "Simple, lightweight and fast NPC plugin using packets - Powered by RSSHub",
+      "description": "An all-in-one solution that works - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "123850149068689408",
+      "id": "123852430344537088",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/EeyAn23L",
-      "title": "FancyNpcs Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/gG7VFbG0",
+      "title": "TAB Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/EeyAn23L/versions"
+      "url": "rsshub://modrinth/project/gG7VFbG0/versions"
     }
   ]
 }

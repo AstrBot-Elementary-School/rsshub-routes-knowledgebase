@@ -89,8 +89,8 @@ _None_
     },
     {
       "description": "The AI Collective - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-23T12:36:10.508Z",
+      "errorMessage": "[GET] \"https://api.lu.ma/url?url=genai-collective\": 429 Too Many Requests\n",
       "id": "265935647087177728",
       "image": null,
       "ownerUserId": null,

@@ -42,7 +42,7 @@ _None_
     "programming"
   ],
   "example": "/github/comments/DIYgod/RSSHub/8116",
-  "heat": 290,
+  "heat": 291,
   "location": "comments.ts",
   "maintainers": [
     "TonyRL",

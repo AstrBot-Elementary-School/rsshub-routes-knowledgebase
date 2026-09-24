@@ -53,8 +53,8 @@ _None_
   "topFeeds": [
     {
       "description": "Released - Powered by RSSHub",
-      "errorAt": "2025-10-29T13:40:42.048Z",
-      "errorMessage": "[GET] \"https://ipsw.dev/product/version/iPhone16,1\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "74985463608419328",
       "image": null,
       "ownerUserId": null,

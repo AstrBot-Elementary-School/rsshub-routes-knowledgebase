@@ -79,7 +79,7 @@ _None_
     {
       "description": "hentai - Powered by RSSHub",
       "errorAt": "2026-09-17T13:01:37.673Z",
-      "errorMessage": "503 \n",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "56236591640943616",
       "image": null,
       "ownerUserId": null,

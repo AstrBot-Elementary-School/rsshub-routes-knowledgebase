@@ -78,16 +78,16 @@ _None_
       "url": "rsshub://themoviedb/tv/70593/seasons"
     },
     {
-      "description": "In this zombie thriller set in Korea's medieval Joseon dynasty which has been defeated by corruption and famine, a mysterious rumor of the king’s death spreads, as does a strange plague that renders the infected immune to death and hungry for flesh. The crown prince, fallen victim to a conspiracy, sets out on a journey to unveil the evil scheme and save his people. - Powered by RSSHub",
+      "description": "Ronny Bhaiya leads a double life - To the world he is the nephew of the MLA - and likes to think of himself as a Jann Neta, and at home he is the jobless 26 year old with no sense of responsibility to his family. The show explores Ronny's adventures as he gets stuck in multiple situations because of this big lie that precedes him. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "72474878233372672",
-      "image": "https://image.tmdb.org/t/p/original/AsICtiVtz4icMQQRwDvOzfaTzjK.jpg",
+      "id": "84723957729495040",
+      "image": "https://image.tmdb.org/t/p/original/thMrz42QAhKOvf7dZu64LVvSeS4.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://www.themoviedb.org/tv/70593/seasons",
-      "title": "Kingdom - Seasons — TMDB",
+      "siteUrl": "https://www.themoviedb.org/tv/99889/seasons",
+      "title": "Chacha Vidhayak Hain Humare - Seasons — TMDB",
       "type": "feed",
-      "url": "rsshub://themoviedb/tv/70593/seasons/en-US"
+      "url": "rsshub://themoviedb/tv/99889/seasons"
     }
   ],
   "view": 5

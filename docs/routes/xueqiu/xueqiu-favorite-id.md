@@ -75,7 +75,7 @@ _None_
     {
       "description": "大道无形我有型 的雪球收藏动态 - Powered by RSSHub",
       "errorAt": "2026-05-22T17:41:26.911Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'screen_name')\n",
+      "errorMessage": "[GET] \"https://xueqiu.com/favorites.json?userid=1247347556\": 400 Bad Request\n",
       "id": "59965365270185984",
       "image": null,
       "ownerUserId": null,

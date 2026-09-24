@@ -788,8 +788,8 @@
   "topFeeds": [
     {
       "description": "中心要闻 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-22T17:51:14.820Z",
+      "errorMessage": "[GET] \"https://www.chinacdc.cn/zxyw/\": 405 Method Not Allowed\n",
       "id": "89850915990139904",
       "image": "https://www.chinacdc.cn/images/logo0817.png",
       "ownerUserId": null,
@@ -800,8 +800,8 @@
     },
     {
       "description": "流感监测周报 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-22T13:31:02.828Z",
+      "errorMessage": "[GET] \"https://www.chinacdc.cn/jksj/jksj04_14249/\": 405 Method Not Allowed\n",
       "id": "93117717001023488",
       "image": "https://www.chinacdc.cn/images/logo0817.png",
       "ownerUserId": null,

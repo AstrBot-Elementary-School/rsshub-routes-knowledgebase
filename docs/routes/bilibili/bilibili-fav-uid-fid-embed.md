@@ -80,16 +80,16 @@ _None_
       "url": "rsshub://bilibili/fav/399964818/1771644318"
     },
     {
-      "description": "斫桂w 的 bilibili 收藏夹 困困困=_= - Powered by RSSHub",
-      "errorAt": "2025-09-29T15:44:06.040Z",
-      "errorMessage": "[GET] \"https://api.bilibili.com/x/v3/fav/resource/list?media_id=1124274464&ps=20\": 412 Precondition Failed\n",
-      "id": "110274554696605696",
+      "description": "爱学习的小姜学长 的 bilibili 收藏夹 大模型前沿 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "233140183695610880",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://space.bilibili.com/356673764/#/favlist?fid=1124274464",
-      "title": "斫桂w 的 bilibili 收藏夹 困困困=_=",
+      "siteUrl": "https://space.bilibili.com/3493293172197868/#/favlist?fid=3727364968",
+      "title": "爱学习的小姜学长 的 bilibili 收藏夹 大模型前沿",
       "type": "feed",
-      "url": "rsshub://bilibili/fav/356673764/1124274464"
+      "url": "rsshub://bilibili/fav/3493293172197868/3727364968"
     }
   ]
 }

@@ -51,28 +51,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Dylan出品 商铺上新 - Powered by RSSHub",
+      "description": "忧郁男孩 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264523928189927424",
+      "id": "1264526298592444416",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1649084157",
-      "title": "Dylan出品 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1824980712",
+      "title": "忧郁男孩 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1649084157"
+      "url": "rsshub://weidian/goods/1824980712"
     },
     {
-      "description": "特仑叔（大同彭于晏） 商铺上新 - Powered by RSSHub",
+      "description": "茨木Clothes 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264526760603418624",
+      "id": "1264523734161424384",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1866311341",
-      "title": "特仑叔（大同彭于晏） 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1405581875",
+      "title": "茨木Clothes 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1866311341"
+      "url": "rsshub://weidian/goods/1405581875"
     }
   ]
 }

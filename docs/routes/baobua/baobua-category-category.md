@@ -90,7 +90,7 @@ _None_
     {
       "description": "BaoBua - Category: network - Powered by RSSHub",
       "errorAt": "2025-09-16T09:16:48.457Z",
-      "errorMessage": "[GET] \"https://baobua.com/cat/network/\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://baobua.com/cat/network/\": 530 \n",
       "id": "131254379451723776",
       "image": null,
       "ownerUserId": null,

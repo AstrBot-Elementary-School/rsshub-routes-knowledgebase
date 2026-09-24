@@ -39,7 +39,7 @@ _None_
     "other"
   ],
   "example": "/zaker/channel/13",
-  "heat": 48,
+  "heat": 47,
   "location": "channel.ts",
   "maintainers": [
     "LogicJake",
@@ -65,8 +65,8 @@ _None_
   "topFeeds": [
     {
       "description": "科技 - ZAKER新闻 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-23T05:22:29.163Z",
+      "errorMessage": "[GET] \"https://www.myzaker.com/channel/13\": 403 Forbidden\n",
       "id": "56326657469609999",
       "image": null,
       "ownerUserId": null,
@@ -77,8 +77,8 @@ _None_
     },
     {
       "description": "ZAKER新闻 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-22T16:06:24.729Z",
+      "errorMessage": "[GET] \"https://www.myzaker.com/channel/660\": 403 Forbidden\n",
       "id": "109858197894680576",
       "image": null,
       "ownerUserId": null,

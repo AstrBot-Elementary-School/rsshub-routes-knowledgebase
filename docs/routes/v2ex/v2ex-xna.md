@@ -50,7 +50,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 183,
+  "heat": 182,
   "location": "xna.ts",
   "maintainers": [
     "luckyscript"
@@ -64,8 +64,8 @@ _None_
   "topFeeds": [
     {
       "description": "V2EX-xna - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-23T08:38:34.521Z",
+      "errorMessage": "[GET] \"https://v2ex.com/xna\": 403 Forbidden\n[GET] \"https://v2ex.com/xna\": 403 Forbidden\n",
       "id": "41726560948568064",
       "image": null,
       "ownerUserId": null,

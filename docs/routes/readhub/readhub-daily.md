@@ -73,13 +73,13 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "1. 阿里巴巴任命刘大一恒为 Qwen 大语言模型项目负责人 2. iPhone Duo 整机组装良率仅六成多，量产爬坡待推进 3. iPhone 19 或被跳过，iPhone 20 Pro 配置曝光 4. 支付宝宣布组织调整：吴敏芝任新事业群总裁兼任蚂蚁 CPO 5. 特斯拉机器人团队在长三角审厂 多家企业已获订单 6. 贾国龙最新发声：呼吁厘清高流量网络账号的言论边界 7. OpenAI 和 Anthropic 正在洽谈相互进行压力测试 8. 人形机器人 IPO 审核门槛或提高，投行人员收公司提醒 9. 苹果 2026 款 Mac mini9 月 22 日发售，6999 元起 10. DeepSeek V4.1 Pro 或为 2 万亿参数：未来还有 8 万亿版 11. 研究发现 ChatGPT 可通过 Cookie 追踪用户跨站购物等记录 12. 宇树科技发布 Dex5-S 灵巧手 13. Jev 全网解禁 新用户获 1.2 亿 Token 免费额度 14. 月之暗面发布 Kimi Code Desktop 桌面客户端 15. 上汽奥迪高管辟谣：奥迪总部未否定 AUDI 品牌 16. 智谱创始人唐杰亲自现身小红书投诉网友造谣侵权 17. 理想推进芯片子公司首轮融资，投前估值约 150 亿元 - Powered by RSSHub",
+      "description": "1. 豆包对话团队或裁员一半 2. 阿里平头哥发布 AI 芯片真武 V900，算力达 M890 三倍 3. 前高瓴创投合伙人严文韬正式入职 DeepSeek 出任 CFO 4. 阿里巴巴：Qwen4 和下代视频模型均在训练中 5. DeepSeek 召开闭门会议，梁文锋称正训练 2 万亿参数模型 6. DeepSeek 将向联合国介绍 AI 风险 7. iPhone 18 Pro 系列遭用户反馈死机重启等问题 8. Anthropic 推出 Claude Opus 5.5 9. GPT-6 Sol 被曝将于本周二正式发布 10. 苹果涨近 2% 创新高 总市值突破 5 万亿美元大关 11. 旅行青蛙日方称未提出终止中国版服务 12. 宇树科技完成全球首次全尺寸通用人形机器人全 AI 驱动自主集群表演 13. OpenAI 内部 AI 可自主训练模型，发布全球 AI 安全倡议 14. AMD 总市值首次突破 1 万亿美元 持续加码 AI 算力 15. 妙可蓝多：创始人、董事柴琇辞职 16. SpacexAI 推出 Grok 4.7，速度翻倍价格为同类一半 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "52347176714948614",
       "image": "https://readhub.cn/icons/icon-192x192.png",
       "ownerUserId": null,
-      "siteUrl": "https://readhub.cn/daily",
+      "siteUrl": "https://api.readhub.cn/daily",
       "title": "Readhub - 每日早报",
       "type": "feed",
       "url": "rsshub://readhub/daily"

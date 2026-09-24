@@ -65,8 +65,8 @@ _None_
   "topFeeds": [
     {
       "description": "bilibili 直播公告 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-23T01:15:53.914Z",
+      "errorMessage": "[GET] \"https://api.vc.bilibili.com/news/v1/notice/list?platform=pc&product=live&category=all&page_no=1&page_size=20\": 412 Precondition Failed\n",
       "id": "66134159856662528",
       "image": null,
       "ownerUserId": null,

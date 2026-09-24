@@ -89,16 +89,16 @@ _None_
       "url": "rsshub://bilibili/user/coin/549117578"
     },
     {
-      "description": "哈喽的B站频道 的 bilibili 投币视频 - Powered by RSSHub",
+      "description": "DIYgod 的 bilibili 投币视频 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "62853430730507264",
+      "id": "71192404720008192",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://space.bilibili.com/383447486",
-      "title": "哈喽的B站频道 的 bilibili 投币视频",
+      "siteUrl": "https://space.bilibili.com/2267573",
+      "title": "DIYgod 的 bilibili 投币视频",
       "type": "feed",
-      "url": "rsshub://bilibili/user/coin/383447486"
+      "url": "rsshub://bilibili/user/coin/2267573"
     }
   ]
 }

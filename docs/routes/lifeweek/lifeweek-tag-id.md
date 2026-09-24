@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "人物 - Powered by RSSHub",
-      "errorAt": "2026-09-21T20:36:37.764Z",
-      "errorMessage": "[GET] \"https://www.lifeweek.com.cn/api/userWebFollow/getFollowTagContentList?type=4&sort=2&tagId=6\": 522 <none>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "104794039452750848",
       "image": null,
       "ownerUserId": null,

@@ -82,7 +82,7 @@ More categories (except photo) can be found within the navigation bar at <https:
     {
       "description": "The Atlantic - LATEST - Powered by RSSHub",
       "errorAt": "2026-09-20T22:33:52.921Z",
-      "errorMessage": "[GET] \"https://www.theatlantic.com/latest/\": <no response> fetch failed\nCannot read properties of undefined (reading 'filter')\nCannot read properties of undefined (reading 'filter')\n",
+      "errorMessage": "[GET] \"https://www.theatlantic.com/latest/\": <no response> fetch failed\n[GET] \"https://www.theatlantic.com/latest/\": 403 Forbidden\n[GET] \"https://www.theatlantic.com/latest/\": 403 Forbidden\n",
       "id": "61228164717836288",
       "image": null,
       "ownerUserId": null,
@@ -93,8 +93,8 @@ More categories (except photo) can be found within the navigation bar at <https:
     },
     {
       "description": "The Atlantic - TECHNOLOGY - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-22T20:46:05.326Z",
+      "errorMessage": "[GET] \"https://www.theatlantic.com/technology/\": 403 Forbidden\n",
       "id": "62408054287669248",
       "image": null,
       "ownerUserId": null,

@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 258,
+  "heat": 259,
   "location": "news.ts",
   "maintainers": [
     "goestav",
@@ -64,8 +64,8 @@ _None_
   "topFeeds": [
     {
       "description": "OpenAI News - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-23T12:50:57.423Z",
+      "errorMessage": "[GET] \"https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense\": 403 Forbidden\n[GET] \"https://openai.com/index/grab-openai-ai-skills-southeast-asia/\": 403 Forbidden\n",
       "id": "139523607422199808",
       "image": null,
       "ownerUserId": null,

@@ -85,8 +85,8 @@ _None_
     },
     {
       "description": "HelloGithub - 全部开源项目 - Powered by RSSHub",
-      "errorAt": "2026-09-22T12:31:05.401Z",
-      "errorMessage": "[GET] \"https://api.hellogithub.com/v1/?sort_by=all&page=1\": 522 <none>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "80951006332301312",
       "image": null,
       "ownerUserId": null,

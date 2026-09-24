@@ -72,8 +72,8 @@ _None_
   "topFeeds": [
     {
       "description": "The Ring of Wonder 首页更新 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-23T00:20:39.844Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "1149362207675252736",
       "image": null,
       "ownerUserId": null,

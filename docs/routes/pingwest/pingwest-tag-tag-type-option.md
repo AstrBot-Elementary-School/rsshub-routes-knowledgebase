@@ -94,16 +94,16 @@ _None_
       "url": "rsshub://pingwest/tag/20327/1/fulltext"
     },
     {
-      "description": "品玩 - 品玩大模型内刊 - Powered by RSSHub",
+      "description": "品玩 - 腾讯元宝 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "86386944820703232",
+      "id": "128314253577785344",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.pingwest.com/tag/gpt",
-      "title": "品玩 - 品玩大模型内刊",
+      "siteUrl": "https://www.pingwest.com/tag/22218",
+      "title": "品玩 - 腾讯元宝",
       "type": "feed",
-      "url": "rsshub://pingwest/tag/gpt/1"
+      "url": "rsshub://pingwest/tag/22218/1"
     }
   ]
 }

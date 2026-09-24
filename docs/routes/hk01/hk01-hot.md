@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 505,
+  "heat": 507,
   "location": "hot.ts",
   "maintainers": [
     "hoilc",

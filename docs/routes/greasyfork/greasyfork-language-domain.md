@@ -91,8 +91,8 @@
   "topFeeds": [
     {
       "description": "用户脚本 - Powered by RSSHub",
-      "errorAt": "2026-09-19T17:57:55.988Z",
-      "errorMessage": "[GET] \"https://greasyfork.org/zh-CN/scripts?filter_locale=1&sort=updated\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "70371597455258625",
       "image": null,
       "ownerUserId": null,
@@ -103,8 +103,8 @@
     },
     {
       "description": "User scripts for google.com - Powered by RSSHub",
-      "errorAt": "2026-09-20T00:41:32.563Z",
-      "errorMessage": "[GET] \"https://greasyfork.org/en/scripts/by-site/google.com?filter_locale=1&sort=updated\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "126248223506523136",
       "image": null,
       "ownerUserId": null,

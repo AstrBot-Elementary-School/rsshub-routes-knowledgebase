@@ -38,7 +38,7 @@ _None_
     "government"
   ],
   "example": "/gov/chongqing/sydwgkzp",
-  "heat": 8,
+  "heat": 9,
   "location": "sydwgkzp.ts",
   "maintainers": [
     "MajexH"
@@ -62,7 +62,7 @@ _None_
     {
       "description": "重庆市事业单位2026年公开招聘 - Powered by RSSHub",
       "errorAt": "2026-09-09T08:17:01.833Z",
-      "errorMessage": "[GET] \"https://rlsbj.cq.gov.cn/zwxx_182/sydw/\": 522 <none>\n",
+      "errorMessage": "503 \n",
       "id": "56020776125420544",
       "image": null,
       "ownerUserId": null,

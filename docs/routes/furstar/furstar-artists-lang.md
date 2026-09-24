@@ -76,18 +76,6 @@ _None_
   "topFeeds": [
     {
       "description": "Furstar 所有画家列表 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "113036045586930688",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://furstar.jp/",
-      "title": "furstar 所有画家",
-      "type": "feed",
-      "url": "rsshub://furstar/artists/cn"
-    },
-    {
-      "description": "Furstar 所有画家列表 - Powered by RSSHub",
       "errorAt": "2026-05-05T01:18:32.796Z",
       "errorMessage": "Failed to fetch\n",
       "id": "157430068202511360",
@@ -97,6 +85,18 @@ _None_
       "title": "furstar 所有画家",
       "type": "feed",
       "url": "rsshub://furstar/artists"
+    },
+    {
+      "description": "Furstar 所有画家列表 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "113036045586930688",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://furstar.jp/",
+      "title": "furstar 所有画家",
+      "type": "feed",
+      "url": "rsshub://furstar/artists/cn"
     }
   ],
   "url": "furstar.jp/"

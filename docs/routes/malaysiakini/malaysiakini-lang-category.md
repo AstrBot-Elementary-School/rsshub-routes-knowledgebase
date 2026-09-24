@@ -125,7 +125,7 @@
     {
       "description": "News & Views That Matter - Powered by RSSHub",
       "errorAt": "2026-09-07T10:16:30.919Z",
-      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/885417-%E4%B8%A5%E7%AB%AF%E6%97%A0%E5%A4%A7%E8%87%A3%E5%8A%9D%E5%91%8A%E4%B8%8B%E7%82%92%E4%BA%BA%E8%BF%9D%E5%AE%AA%E6%A3%AE%E9%80%BC%E5%AE%AB%E6%B4%BE%E8%AE%A4%E5%AE%9A%E6%8C%87%E4%BB%A4%E6%97%A0%E6%95%88\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/885554-%E6%97%A0%E6%9D%83%E7%82%92%E6%8E%89%E5%B7%9E%E7%A7%98%E4%B9%A6%E6%B3%95%E5%BE%8B%E9%A1%BE%E9%97%AE%E6%A3%80%E7%BD%B2%E6%8E%A8%E7%BF%BB%E6%A3%AE%E8%A1%8C%E6%94%BF%E8%AE%AE%E4%BC%9A%E5%86%B3%E5%AE%9A\": 404 Not Found\n",
       "id": "69685104073634816",
       "image": null,
       "ownerUserId": null,
@@ -137,7 +137,7 @@
     {
       "description": "News & Views That Matter - Powered by RSSHub",
       "errorAt": "2026-09-07T09:32:19.566Z",
-      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/885414-tuanku-muhriz-revokes-exco-appointments-but-reading-of-constitution-disputed\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/885543-education-groups-demand-clarity-after-moe-miti-bumi-equity-confusion\": 404 Not Found\n",
       "id": "61840955600323584",
       "image": null,
       "ownerUserId": null,

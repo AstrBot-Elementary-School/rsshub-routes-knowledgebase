@@ -81,7 +81,7 @@ _None_
       "errorAt": null,
       "errorMessage": null,
       "id": "1118368279467786240",
-      "image": "https://p16-common-sign.tiktokcdn-eu.com/tos-alisg-avt-0068/3282e877c0ed5a7e1d7bac9f192e7033~tplv-tiktokx-cropcenter:100:100.jpeg?dr=10399&refresh_token=be022256&x-expires=1790240400&x-signature=T9ffFB67lL7m1Oh9cDg5HvOc5yE%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=no1a",
+      "image": "https://p19-common-sign.tiktokcdn-eu.com/tos-alisg-avt-0068/3282e877c0ed5a7e1d7bac9f192e7033~tplv-tiktokx-cropcenter:100:100.jpeg?dr=10399&refresh_token=5fe7bf0b&x-expires=1790334000&x-signature=6RwzOOepMUiKzBCuDC76WPnLyQg%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=no1a",
       "ownerUserId": null,
       "siteUrl": "https://www.tiktok.com/@policiadecolombia",
       "title": "Policía de Colombia (@policiadecolombia) | TikTok",
@@ -89,16 +89,16 @@ _None_
       "url": "rsshub://tiktok/user/@policiadecolombia"
     },
     {
-      "description": "Just out here building cool stuff and showing you how! - Powered by RSSHub",
+      "description": "@kittilyse on Instagram :) COMMISSIONS OPEN.. Check IG - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1294380702568939520",
-      "image": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-avt-0068-euttp/f449f1f942e44275d2cada2db3b64236~tplv-tiktokx-cropcenter:100:100.jpeg?dr=10399&refresh_token=0b4b3583&x-expires=1790244000&x-signature=2xDZVBX9hhyAUFckL6%2Bp5qbHvdg%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=no1a",
+      "id": "1278676995072196608",
+      "image": "https://p16-common-sign.tiktokcdn-eu.com/tos-alisg-avt-0068/ac1dc85419c1c34bab0ff508e8847c8b~tplv-tiktokx-cropcenter:100:100.jpeg?dr=10399&refresh_token=15f8202f&x-expires=1790308800&x-signature=l3ytZBqXAyIgq%2BC%2FvUH%2BJFMexPk%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=no1a",
       "ownerUserId": null,
-      "siteUrl": "https://www.tiktok.com/@frankly_built",
-      "title": "frankly_built (@frankly_built) | TikTok",
+      "siteUrl": "https://www.tiktok.com/@kittilyse",
+      "title": "kittilyse [Commissions Open] (@kittilyse) | TikTok",
       "type": "feed",
-      "url": "rsshub://tiktok/user/@frankly_built"
+      "url": "rsshub://tiktok/user/@kittilyse/true"
     }
   ]
 }
