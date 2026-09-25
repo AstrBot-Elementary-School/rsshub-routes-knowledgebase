@@ -39,7 +39,7 @@ _None_
     "game"
   ],
   "example": "/nintendo/eshop/us",
-  "heat": 2,
+  "heat": 3,
   "location": "eshop-us.ts",
   "maintainers": [
     "HFO4"

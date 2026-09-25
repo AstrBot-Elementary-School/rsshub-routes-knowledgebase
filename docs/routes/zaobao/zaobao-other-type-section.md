@@ -73,7 +73,7 @@ _None_
       "image": "https://www.zaobao.com.sg/favicon.ico",
       "ownerUserId": null,
       "siteUrl": "https://www.zaobao.com/forum/views",
-      "title": "《联合早报》评论 | 联合早报网",
+      "title": "《联合早报》时事与新闻评论 | 联合早报",
       "type": "feed",
       "url": "rsshub://zaobao/other/forum/views"
     }

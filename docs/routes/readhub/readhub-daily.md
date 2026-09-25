@@ -73,13 +73,13 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "1. 豆包对话团队或裁员一半 2. 阿里平头哥发布 AI 芯片真武 V900，算力达 M890 三倍 3. 前高瓴创投合伙人严文韬正式入职 DeepSeek 出任 CFO 4. 阿里巴巴：Qwen4 和下代视频模型均在训练中 5. DeepSeek 召开闭门会议，梁文锋称正训练 2 万亿参数模型 6. DeepSeek 将向联合国介绍 AI 风险 7. iPhone 18 Pro 系列遭用户反馈死机重启等问题 8. Anthropic 推出 Claude Opus 5.5 9. GPT-6 Sol 被曝将于本周二正式发布 10. 苹果涨近 2% 创新高 总市值突破 5 万亿美元大关 11. 旅行青蛙日方称未提出终止中国版服务 12. 宇树科技完成全球首次全尺寸通用人形机器人全 AI 驱动自主集群表演 13. OpenAI 内部 AI 可自主训练模型，发布全球 AI 安全倡议 14. AMD 总市值首次突破 1 万亿美元 持续加码 AI 算力 15. 妙可蓝多：创始人、董事柴琇辞职 16. SpacexAI 推出 Grok 4.7，速度翻倍价格为同类一半 - Powered by RSSHub",
+      "description": "1. Anthropic 推出 Claude Opus 5.5：多数任务追平 Fable 5.1，典型成本降 40% 2. OpenAI 上线 GPT-6 Sol 和 Luna，大幅下调模型价格 3. 马斯克称中国 AI 大模型单位算力产出性能几乎是全球顶尖水平 4. 罗永浩宣布播客暂停更新：卷进舆论漩涡，避免连累嘉宾 5. 王慧文发文称有意组局收购西贝，称不在乎其是否为预制菜 6. 叮咚买菜关闭北京多个站点 7. 前 Hack VC 合伙人被曝身亡，死前曾爆料公司迫其带病工作 8. DeepSeek 公开 Agent 训练系统 DSec 技术细节，梁文锋署名 9. OpenAI、Anthropic 同步推出新大模型并大幅下调 API 单价 10. Anthropic 携手 OpenEvidence 免费向百国提供临床决策支持医疗 AI 工具 11. 千问发布 Qwen-Audio-3.1，下调全线语音模型价格 12. 华为暂缓全球 AI 芯片推广 优先满足国内算力需求 13. DeepMind 核心研究员 Bonnie Li 离职加入 OpenAI 14. 高通将收购美国具身智能企业 Picknik 15. 网易云音乐鸿蒙版正式上线，完成多终端适配 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "52347176714948614",
       "image": "https://readhub.cn/icons/icon-192x192.png",
       "ownerUserId": null,
-      "siteUrl": "https://api.readhub.cn/daily",
+      "siteUrl": "https://readhub.cn/daily",
       "title": "Readhub - 每日早报",
       "type": "feed",
       "url": "rsshub://readhub/daily"

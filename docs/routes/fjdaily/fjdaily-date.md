@@ -85,8 +85,8 @@
   "topFeeds": [
     {
       "description": "福建日报 - 2026-09-23 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-24T05:06:56.912Z",
+      "errorMessage": "503 \n",
       "id": "1259581465885016064",
       "image": null,
       "ownerUserId": null,

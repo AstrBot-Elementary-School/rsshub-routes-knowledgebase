@@ -57,7 +57,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 81,
+  "heat": 80,
   "location": "pulls.ts",
   "maintainers": [
     "hashman",

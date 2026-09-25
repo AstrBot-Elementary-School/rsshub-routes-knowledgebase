@@ -51,28 +51,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "忧郁男孩 商铺上新 - Powered by RSSHub",
+      "description": "ROG STUDIO 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264526298592444416",
+      "id": "1264523568436084736",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1824980712",
-      "title": "忧郁男孩 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1348580183",
+      "title": "ROG STUDIO 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1824980712"
+      "url": "rsshub://weidian/goods/1348580183"
     },
     {
-      "description": "茨木Clothes 商铺上新 - Powered by RSSHub",
+      "description": "马里奥Made 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264523734161424384",
+      "id": "1264523511544545280",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1405581875",
-      "title": "茨木Clothes 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1335769831",
+      "title": "马里奥Made 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1405581875"
+      "url": "rsshub://weidian/goods/1335769831"
     }
   ]
 }

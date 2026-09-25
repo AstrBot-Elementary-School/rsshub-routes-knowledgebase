@@ -122,8 +122,8 @@ _None_
   "topFeeds": [
     {
       "description": "四川广播电视台 - 四川新闻联播 - Powered by RSSHub",
-      "errorAt": "2026-09-23T09:56:47.175Z",
-      "errorMessage": "503 \n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "178834515500019712",
       "image": "/sctv/1/image/public/202101/20210118094118_abbi6fxq9i.jpg",
       "ownerUserId": null,

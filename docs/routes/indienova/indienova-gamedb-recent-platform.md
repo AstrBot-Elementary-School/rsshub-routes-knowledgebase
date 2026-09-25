@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "游戏库 - 最近发行的游戏（全平台） | indienova GameDB 游戏库 - Powered by RSSHub",
-      "errorAt": "2026-09-22T03:11:12.739Z",
-      "errorMessage": "[GET] \"https://indienova.com/game/union-max\": 404 Not Found\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "63456437927240704",
       "image": null,
       "ownerUserId": null,

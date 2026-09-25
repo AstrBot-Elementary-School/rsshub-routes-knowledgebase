@@ -38,7 +38,7 @@ _None_
     "programming"
   ],
   "example": "/leetcode/dailyquestion/solution/cn",
-  "heat": 113,
+  "heat": 114,
   "location": "dailyquestion-solution-cn.ts",
   "maintainers": [
     "woaidouya123"
@@ -63,7 +63,7 @@ _None_
       "id": "56597410818564096",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://leetcode.cn/problems/minimum-operations-to-reduce-x-to-zero/",
+      "siteUrl": "https://leetcode.cn/problems/smallest-index-with-digit-sum-equal-to-index/",
       "title": "LeetCode 每日一题题解",
       "type": "feed",
       "url": "rsshub://leetcode/dailyquestion/solution/cn"

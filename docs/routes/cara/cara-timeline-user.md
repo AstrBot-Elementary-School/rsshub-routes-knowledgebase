@@ -64,16 +64,16 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Timeline - Requinoesis - Powered by RSSHub",
+      "description": "Timeline - Nathan Fowkes - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "131924534067985408",
-      "image": "https://cdn.cara.app/production/profiles/3c4bf5ef-7d4e-4165-b65f-6dc781acf326/pu.png",
+      "id": "131922100224243712",
+      "image": "https://cdn.cara.app/production/profiles/e3934f00-3471-41dc-9700-11b58cfd4044/facebook-profile2.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://cara.app/requinoesis/all",
-      "title": "Timeline - Requinoesis",
+      "siteUrl": "https://cara.app/nathanfowkesart/all",
+      "title": "Timeline - Nathan Fowkes",
       "type": "feed",
-      "url": "rsshub://cara/timeline/requinoesis"
+      "url": "rsshub://cara/timeline/nathanfowkesart"
     },
     {
       "description": "Timeline - Victor Sales - Powered by RSSHub",

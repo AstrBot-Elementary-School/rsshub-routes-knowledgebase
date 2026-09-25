@@ -6386,6 +6386,12 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `3`
 - Index File: `index/kmust.md`
 
+## Komica
+- Namespace: `komica`
+- Aliases: `komica, komica1, komica1.org`
+- Route Count: `1`
+- Index File: `index/komica.md`
+
 ## Komiic
 - Namespace: `komiic`
 - Aliases: `komiic, komiic.com`

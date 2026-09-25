@@ -87,7 +87,7 @@ For other Yahoo News, this route's RSS provides the author field. You can use RS
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 318,
+  "heat": 319,
   "location": "news/index.ts",
   "maintainers": [
     "KeiLongW",

@@ -100,8 +100,8 @@
   "topFeeds": [
     {
       "description": "热点 - 珠海网 - Powered by RSSHub",
-      "errorAt": "2026-09-22T17:51:31.480Z",
-      "errorMessage": "[GET] \"https://www.hizh.cn/channels/zjyapp/columns/5dd92265e4b0bf88dd8c1175/stories.json\": 522 <none>\n",
+      "errorAt": "2026-09-24T12:17:44.413Z",
+      "errorMessage": "503 \n",
       "id": "76267574626993152",
       "image": null,
       "ownerUserId": null,

@@ -81,16 +81,16 @@ _None_
       "url": "rsshub://vimeo/user/loocreative"
     },
     {
-      "description": "Solid VFX lab is the best post-production company in Korea established in May 2012 by the most talented artists. We are specializing in the VFX, motion graphic and composite. Address: 26, Hakdong-ro 41-gil, Gangnam-gu, Seoul, Republic of Korea 06058 Office: 82 (2) 3447-9733 Fax: 82 (2) 3447 9737 Contact: solid@solidvfx.com - Powered by RSSHub",
-      "errorAt": "2026-03-26T16:06:33.856Z",
-      "errorMessage": "[GET] \"https://api.vimeo.com/users/solidvfx?fields=name,gender,bio,uri,link,categories&fetch_user_profile=1\": 406 Not Acceptable\n",
-      "id": "72504444961615872",
+      "description": "D.I post production 문의사항은 여기로 보내주세요 :) lucidcolour.pd@gmail.com - Powered by RSSHub",
+      "errorAt": "2025-11-13T18:28:52.442Z",
+      "errorMessage": "[GET] \"https://api.vimeo.com/users/lucidcolour?fields=name,gender,bio,uri,link,categories&fetch_user_profile=1\": 406 Not Acceptable\n",
+      "id": "79418227642344448",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://vimeo.com/solidvfx",
-      "title": "SOLID | Vimeo",
+      "siteUrl": "https://vimeo.com/lucidcolour",
+      "title": "Lucid colour | Vimeo",
       "type": "feed",
-      "url": "rsshub://vimeo/user/solidvfx"
+      "url": "rsshub://vimeo/user/lucidcolour"
     }
   ],
   "view": 3

@@ -62,7 +62,7 @@ _None_
   ],
   "description": "Language\n\n| Arabic | Chinese | English |\n| ------ | ------- | ------- |\n| arabic | chinese | english |\n\n::: tip\nIf you subscribe to [Al Jazeera English - Economy](https://www.aljazeera.com/economy), whose language is `english` and whose path is `economy`, you can get the route as [`/aljazeera/english/economy`](https://rsshub.app/aljazeera/english/economy)\n\nIf you subscribe to [Al Jazeera Chinese - Political](https://chinese.aljazeera.net/news/political) with language `chinese` and path `news/political`, you can get the route as [`/aljazeera/chinese/news/political`](https://rsshub.app/aljazeera/chinese/news/political)\n:::",
   "example": "/aljazeera/english/news",
-  "heat": 181,
+  "heat": 180,
   "location": "index.tsx",
   "maintainers": [
     "nczitzk"

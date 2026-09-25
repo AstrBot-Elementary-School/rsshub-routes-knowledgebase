@@ -63,25 +63,25 @@ _None_
       "description": "Literature Search - INSPIRE - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "69965125338796034",
+      "id": "67195512624501760",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=holography%20or%20gauge%20gravity%20duality%20or%20ads%20cft%20or%20holographic%20or%20bulk%20boundary%20duality",
+      "siteUrl": "https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=Physics",
       "title": "Literature Search - INSPIRE",
       "type": "feed",
-      "url": "rsshub://inspirehep/literature/holography%20or%20gauge%20gravity%20duality%20or%20ads%20cft%20or%20holographic%20or%20bulk%20boundary%20duality"
+      "url": "rsshub://inspirehep/literature/Physics"
     },
     {
       "description": "Literature Search - INSPIRE - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "69965125338796047",
+      "errorAt": "2025-03-05T15:13:11.683Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "id": "69965125338796055",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20S.Carlip.1",
+      "siteUrl": "https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20E.Witten.1",
       "title": "Literature Search - INSPIRE",
       "type": "feed",
-      "url": "rsshub://inspirehep/literature/a%20S.Carlip.1"
+      "url": "rsshub://inspirehep/literature/a%20E.Witten.1"
     }
   ]
 }

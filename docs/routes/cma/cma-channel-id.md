@@ -102,14 +102,14 @@ _None_
       "url": "rsshub://cma/channel/380"
     },
     {
-      "description": "中国气象局提供权威的天气预报、气象预警、卫星云图、雷达图等专业服务产品 - Powered by RSSHub",
+      "description": "中国气象局·天气预报 - - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "62458101978222592",
-      "image": "https://weather.cma.cn/assets/cmalogo.png",
+      "image": "https://weather.cma.cn/undefined",
       "ownerUserId": null,
       "siteUrl": "https://weather.cma.cn/web/channel-da5d55817ad5430fb9796a0780178533.html",
-      "title": "中国气象局·天气预报 - 气象公报 > 重要天气提示",
+      "title": "中国气象局·天气预报 -",
       "type": "feed",
       "url": "rsshub://cma/channel/da5d55817ad5430fb9796a0780178533"
     }

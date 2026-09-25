@@ -41,7 +41,7 @@ _None_
   ],
   "description": "Return results from 2020",
   "example": "/usenix/usenix-security-sympoium",
-  "heat": 46,
+  "heat": 47,
   "location": "usenix.ts",
   "maintainers": [
     "ZeddYu"

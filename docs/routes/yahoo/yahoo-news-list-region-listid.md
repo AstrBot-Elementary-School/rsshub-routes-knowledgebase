@@ -109,8 +109,8 @@
     },
     {
       "description": "Yahoo 新聞 - on.cc 東網 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-24T11:23:01.352Z",
+      "errorMessage": "[GET] \"https://hk.news.yahoo.com/_td-news/api/resource/StreamService;category=LISTID%3A33ddd580-0ab3-11e8-bfe1-4b555fb1e429;useNCP=true\": 500 Internal Server Error\n",
       "id": "86337790306403328",
       "image": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
       "ownerUserId": null,

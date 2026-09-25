@@ -44,7 +44,7 @@ _None_
   ],
   "description": "> 注意：并非所有的分区都有子类型，可以参考亚洲成人有码原创区的 `字幕` 这一子类型。\n\n| 亚洲成人无码原创区 | 亚洲成人有码原创区 | 欧美无码原创区 | 欧美无码区 | 亚洲有码薄码区 |\n| ------------------ | ------------------ | -------------- | ---------- | -------------- |\n| 143                | 230                | 229            | 77         | 58             |",
   "example": "/sexinsex/230/634",
-  "heat": 8,
+  "heat": 10,
   "location": "index.ts",
   "maintainers": [
     "cnzgray"
@@ -81,15 +81,15 @@ _None_
     },
     {
       "description": null,
-      "errorAt": "2025-05-23T18:45:46.939Z",
+      "errorAt": "2025-05-23T18:45:46.651Z",
       "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
-      "id": "148757739569766456",
+      "id": "148757739569766437",
       "image": null,
       "ownerUserId": null,
       "siteUrl": null,
       "title": "Importing",
       "type": "feed",
-      "url": "rsshub://sexinsex/230"
+      "url": "rsshub://sexinsex/143"
     }
   ]
 }

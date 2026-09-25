@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 15,
+  "heat": 16,
   "location": "chatgpt.ts",
   "maintainers": [
     "xbot"
@@ -62,8 +62,8 @@ _None_
   "topFeeds": [
     {
       "description": "ChatGPT Release Notes - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-24T12:50:53.266Z",
+      "errorMessage": "[GET] \"https://help.openai.com/en/articles/6825453-chatgpt-release-notes\": 403 Forbidden\n",
       "id": "241365607440964608",
       "image": null,
       "ownerUserId": null,

@@ -116,16 +116,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "An all-in-one solution that works - Powered by RSSHub",
+      "description": "Changes Minecraft Combat into Souls-Like Combat. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "123852430344537088",
+      "id": "86130193434324992",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/gG7VFbG0",
-      "title": "TAB Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/epic-fight",
+      "title": "Epic Fight Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/gG7VFbG0/versions"
+      "url": "rsshub://modrinth/project/epic-fight/versions"
     }
   ]
 }

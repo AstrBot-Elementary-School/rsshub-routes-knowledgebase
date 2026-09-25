@@ -125,7 +125,7 @@
     {
       "description": "News & Views That Matter - Powered by RSSHub",
       "errorAt": "2026-09-07T10:16:30.919Z",
-      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/885554-%E6%97%A0%E6%9D%83%E7%82%92%E6%8E%89%E5%B7%9E%E7%A7%98%E4%B9%A6%E6%B3%95%E5%BE%8B%E9%A1%BE%E9%97%AE%E6%A3%80%E7%BD%B2%E6%8E%A8%E7%BF%BB%E6%A3%AE%E8%A1%8C%E6%94%BF%E8%AE%AE%E4%BC%9A%E5%86%B3%E5%AE%9A\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/885674-%E6%9C%AA%E4%BB%A5%E7%A9%86%E6%B0%91%E5%9B%A2%E7%BB%93%E4%BC%98%E5%85%88%E4%BC%8A%E5%85%9A%E8%AE%A5%E6%A7%9F%E5%B7%AB%E7%BB%9F%E4%B8%BA%E5%AE%98%E4%BD%8D%E5%BD%93%E5%B8%8C%E7%9B%9F%E9%99%AA%E8%A1%AC\": 404 Not Found\n",
       "id": "69685104073634816",
       "image": null,
       "ownerUserId": null,
@@ -137,7 +137,7 @@
     {
       "description": "News & Views That Matter - Powered by RSSHub",
       "errorAt": "2026-09-07T09:32:19.566Z",
-      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/885543-education-groups-demand-clarity-after-moe-miti-bumi-equity-confusion\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/885628-snapshot-un-calls-for-mandiri-leaders-immediate-release-urges-travel-ban-lift\": 404 Not Found\n",
       "id": "61840955600323584",
       "image": null,
       "ownerUserId": null,

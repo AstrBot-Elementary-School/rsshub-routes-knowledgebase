@@ -78,7 +78,7 @@ _None_
       "errorAt": null,
       "errorMessage": null,
       "id": "107187512318883840",
-      "image": "https://c10.patreonusercontent.com/4/patreon-media/p/campaign/12481247/88cace64bc5f4c1581085f33ed4e684d/eyJoIjoxMDgwLCJ3IjoxMDgwfQ%3D%3D/7.png?token-hash=lT7X47QHlY1yzFvX6qMEx39FcS8Wd-9pufJn9Jf0_DY%3D&token-time=1791417600",
+      "image": "https://c10.patreonusercontent.com/4/patreon-media/p/campaign/12481247/88cace64bc5f4c1581085f33ed4e684d/eyJoIjoxMDgwLCJ3IjoxMDgwfQ%3D%3D/7.png?token-hash=mNNdIbquFK2mEzrSkM55_W_Bb3C790CnY5E0zh6MmNk%3D&token-time=1791504000",
       "ownerUserId": null,
       "siteUrl": "https://www.patreon.com/Valarant",
       "title": "Valarant",
@@ -86,16 +86,16 @@ _None_
       "url": "rsshub://patreon/Valarant"
     },
     {
-      "description": "Yaoi & Gay NSFW | Fanarts & Original | Not accepting commissions - Powered by RSSHub",
+      "description": "Creating Catholic videos, blog posts, and a podcast - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "103451624702321664",
-      "image": "https://c10.patreonusercontent.com/4/patreon-media/p/campaign/12375285/4dd3ab4d5eb1433d972b076a325d0bce/eyJoIjoxMDgwLCJ3IjoxMDgwfQ%3D%3D/90.png?token-hash=81FuJhGql0XIGGnY2ZCRy9wxZjrqORzhOTBeO8321kw%3D&token-time=1791417600",
+      "id": "210727018282671124",
+      "image": "https://c10.patreonusercontent.com/4/patreon-media/p/user/3447535/5bfb46da077a4253a77bb46e612a0178/eyJoIjoxMDgwLCJ3IjoxMDgwfQ%3D%3D/3.jpg?token-hash=m3pjXhcLTRZK_39kQ_FrWQOItJZVP_vefL-HZy9L4_A%3D&token-time=1791504000",
       "ownerUserId": null,
-      "siteUrl": "https://www.patreon.com/tianyu6671",
-      "title": "tianyu",
+      "siteUrl": "https://www.patreon.com/capturingchristianity",
+      "title": "Cameron Bertuzzi",
       "type": "feed",
-      "url": "rsshub://patreon/tianyu6671"
+      "url": "rsshub://patreon/capturingchristianity"
     }
   ]
 }

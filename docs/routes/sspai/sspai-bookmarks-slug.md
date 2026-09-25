@@ -73,18 +73,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "少数派用户「少数派14596354」的全部收藏 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "110921126744929280",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://sspai.com/u/ug91u8wp/bookmark_posts",
-      "title": "少数派14596354 的全部收藏 - 少数派",
-      "type": "feed",
-      "url": "rsshub://sspai/bookmarks/ug91u8wp"
-    },
-    {
       "description": "少数派用户「即将成为南极探险大师」的全部收藏 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -95,6 +83,18 @@ _None_
       "title": "即将成为南极探险大师 的全部收藏 - 少数派",
       "type": "feed",
       "url": "rsshub://sspai/bookmarks/l42otgmg"
+    },
+    {
+      "description": "少数派用户「少数派14596354」的全部收藏 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "110921126744929280",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://sspai.com/u/ug91u8wp/bookmark_posts",
+      "title": "少数派14596354 的全部收藏 - 少数派",
+      "type": "feed",
+      "url": "rsshub://sspai/bookmarks/ug91u8wp"
     }
   ]
 }

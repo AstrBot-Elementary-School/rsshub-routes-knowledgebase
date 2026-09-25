@@ -88,16 +88,16 @@ _None_
       "url": "rsshub://luma/langchain"
     },
     {
-      "description": "The AI Collective - Powered by RSSHub",
-      "errorAt": "2026-09-23T12:36:10.508Z",
-      "errorMessage": "[GET] \"https://api.lu.ma/url?url=genai-collective\": 429 Too Many Requests\n",
-      "id": "265935647087177728",
+      "description": "Eventos Ignia - Powered by RSSHub",
+      "errorAt": "2026-09-24T03:31:06.627Z",
+      "errorMessage": "[GET] \"https://api.lu.ma/url?url=ignia\": 429 Too Many Requests\n",
+      "id": "265966934845992960",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://lu.ma/genai-collective",
-      "title": "The AI Collective",
+      "siteUrl": "https://lu.ma/ignia",
+      "title": "Eventos Ignia",
       "type": "feed",
-      "url": "rsshub://luma/genai-collective"
+      "url": "rsshub://luma/ignia"
     }
   ],
   "url": "lu.ma"

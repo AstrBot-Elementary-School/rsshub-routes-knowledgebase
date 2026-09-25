@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1187,
+  "heat": 1188,
   "location": "news.ts",
   "maintainers": [
     "tgly307",

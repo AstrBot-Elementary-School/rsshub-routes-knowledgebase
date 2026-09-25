@@ -76,16 +76,16 @@ _None_
       "url": "rsshub://qq/kg/639f9a822525378c3d4d"
     },
     {
-      "description": "作品: 14; 粉丝: 39; 关注: 8 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "155602422529636352",
-      "image": "http://shp.qlogo.cn/ttsing/171778948/171778948/100?ts=0",
+      "description": "作品: 50; 粉丝: 8308; 关注: 104 - Powered by RSSHub",
+      "errorAt": "2026-05-02T13:32:28.303Z",
+      "errorMessage": "Failed to fetch\n",
+      "id": "81571040506782722",
+      "image": "http://shp.qlogo.cn/ttsing/57950227/57950227/100?ts=0",
       "ownerUserId": null,
-      "siteUrl": "https://node.kg.qq.com/personal?uid=639a9c8222253e8f3c",
-      "title": "哉 - 全民K歌",
+      "siteUrl": "https://node.kg.qq.com/personal?uid=679a9480252f358c",
+      "title": "柠白 - 全民K歌",
       "type": "feed",
-      "url": "rsshub://qq/kg/639a9c8222253e8f3c"
+      "url": "rsshub://qq/kg/679a9480252f358c"
     }
   ]
 }

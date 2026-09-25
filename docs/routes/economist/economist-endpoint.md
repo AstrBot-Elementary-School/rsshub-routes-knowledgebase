@@ -75,7 +75,7 @@ _None_
     {
       "description": "The most recent blogs and online articles from The Economist - Powered by RSSHub",
       "errorAt": "2025-09-05T18:15:19.885Z",
-      "errorMessage": "[GET] \"https://www.economist.com/europe/2026/09/21/russias-grey-zone-attacks-on-europe-are-growing-more-brazen\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.economist.com/finance-and-economics/2026/09/24/israels-war-economy-is-thriving\": 403 Forbidden\n",
       "id": "54859243036899328",
       "image": null,
       "ownerUserId": null,
@@ -87,7 +87,7 @@ _None_
     {
       "description": "China - Powered by RSSHub",
       "errorAt": "2025-09-05T17:22:28.529Z",
-      "errorMessage": "[GET] \"https://www.economist.com/china/2026/09/07/speech-in-china-is-in-the-deep-freeze\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.economist.com/china/2026/09/23/is-china-easing-some-online-censorship\": 403 Forbidden\n",
       "id": "41461870197170199",
       "image": null,
       "ownerUserId": null,

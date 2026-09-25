@@ -82,7 +82,7 @@ _None_
     {
       "description": "q9adg的知乎回答 - Powered by RSSHub",
       "errorAt": "2025-08-16T15:03:36.399Z",
-      "errorMessage": "Execution context was destroyed, most likely because of a navigation.\n",
+      "errorMessage": "zhihu: browser API request failed with HTTP 403\n",
       "id": "60696029890536448",
       "image": null,
       "ownerUserId": null,

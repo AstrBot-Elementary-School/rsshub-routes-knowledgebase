@@ -11,7 +11,7 @@
 - Example: `/zhihu/posts/people/frederchen`
 - URL: `www.zhihu.com`
 - Language: `_None_`
-- Categories: `social-media`
+- Categories: `social-media, popular`
 - Maintainers: `whtsky, Colin-XKL`
 - Source Location: `posts.ts`
 - Source Module: `_None_`
@@ -44,7 +44,8 @@
 ```json
 {
   "categories": [
-    "social-media"
+    "social-media",
+    "popular"
   ],
   "description": "| 普通用户 | 机构用户 |\n| -------- | -------- |\n| people   | org      |",
   "example": "/zhihu/posts/people/frederchen",
@@ -89,7 +90,7 @@
     {
       "description": "学校≠教育≠技能；文凭溢价=80%信号传递+20%人力资本 - Powered by RSSHub",
       "errorAt": "2025-04-22T11:31:51.374Z",
-      "errorMessage": "zhihu: browser API request failed with HTTP 403\n",
+      "errorMessage": "Execution context was destroyed, most likely because of a navigation.\n",
       "id": "55435352270993409",
       "image": "https://pic1.zhimg.com/v2-c78eb026231e976049e9105170140ce3_l.jpg",
       "ownerUserId": null,
@@ -101,7 +102,7 @@
     {
       "description": "公众号：大猿搬砖简记 - Powered by RSSHub",
       "errorAt": "2025-04-22T11:33:42.477Z",
-      "errorMessage": "zhihu: browser API request failed with HTTP 403\n",
+      "errorMessage": "503 \n",
       "id": "66390660650222592",
       "image": "https://pic1.zhimg.com/v2-6304b8f8dd717ed99eeddd211d5714d1_l.jpg",
       "ownerUserId": null,

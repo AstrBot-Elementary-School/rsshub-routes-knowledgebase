@@ -115,16 +115,16 @@ _None_
       "url": "rsshub://furaffinity/art/gallery/oddeyresproductions/nsfw"
     },
     {
-      "description": "Fur Affinity Gallery of tezzadnah - Powered by RSSHub",
-      "errorAt": "2026-05-26T00:42:37.436Z",
-      "errorMessage": "[GET] \"https://faexport.spangle.org.uk/user/tezzadnah/gallery.json?full=1\": 500 Internal Server Error\n[GET] \"https://faexport.spangle.org.uk/user/tezzadnah/gallery.json?full=1\": 500 Internal Server Error\n",
-      "id": "79207443708549120",
+      "description": "Fur Affinity Gallery of dsc85 - Powered by RSSHub",
+      "errorAt": "2026-05-26T01:20:04.189Z",
+      "errorMessage": "[GET] \"https://faexport.spangle.org.uk/user/dsc85/gallery.json?full=1\": 500 Internal Server Error\n[GET] \"https://faexport.spangle.org.uk/user/dsc85/gallery.json?full=1\": 500 Internal Server Error\n",
+      "id": "78980575087533056",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.furaffinity.net/gallery/tezzadnah",
-      "title": "Fur Affinity | Gallery of tezzadnah",
+      "siteUrl": "https://www.furaffinity.net/gallery/dsc85",
+      "title": "Fur Affinity | Gallery of dsc85",
       "type": "feed",
-      "url": "rsshub://furaffinity/art/gallery/tezzadnah/nsfw"
+      "url": "rsshub://furaffinity/art/gallery/dsc85/nsfw"
     }
   ],
   "url": "furaffinity.net"

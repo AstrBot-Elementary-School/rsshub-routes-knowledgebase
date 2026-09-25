@@ -95,8 +95,8 @@
     },
     {
       "description": "监测信息 - 猪料、鸡料、蛋料比价信息 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-24T04:40:56.986Z",
+      "errorMessage": "[GET] \"https://www.jgjcndrc.org.cn/list?clmId=1832298113994649601&sclmId=1840280592963387394\": 530 \n",
       "id": "112027538201244672",
       "image": "https://www.jgjcndrc.org.cn/_nuxt/logo.nPIpRnSK.svg",
       "ownerUserId": null,

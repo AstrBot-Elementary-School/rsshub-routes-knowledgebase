@@ -71,14 +71,14 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Loading... - Powered by RSSHub",
+      "description": "Redirecting - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "164538769126922240",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.56kog.com/class/7_1.html",
-      "title": "Loading...",
+      "title": "Redirecting",
       "type": "feed",
       "url": "rsshub://56kog/class/7_1"
     }

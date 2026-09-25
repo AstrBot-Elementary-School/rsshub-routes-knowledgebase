@@ -9,7 +9,7 @@
 - Route Path: `/fortnite/news/:options?`
 - Route Name: `News`
 - Example: `/fortnite/news`
-- URL: `fortnite.com`
+- URL: `www.fortnite.com/news`
 - Language: `_None_`
 - Categories: `game`
 - Maintainers: `lyqluis`
@@ -17,26 +17,30 @@
 - Source Module: `_None_`
 
 ## Description
-- `options.lang`, optional, language, eg. `/fortnite/news/lang=en-US`, common languages are listed below, more languages are available one the [official website](https://www.fortnite.com/news)
-
-| English (default) | Spanish | Japanese | French | Korean | Polish |
-| ----------------- | ------- | -------- | ------ | ------ | ------ |
-| en-US             | es-ES   | ja       | fr     | ko     | pl     |
+- `lang`, default `en-US`, one of `ar`, `de`, `en-US`, `es-ES`, `es-MX`, `fr`, `it`, `ja`, `ko`, `pl`, `pt-BR`, `ru`, `tr`, `zh-Hans`
+- `tag`, optional, one of `battle-royale` (Battle Royale), `fortnite-competitive` (Fortnite Competitive), `fortnite-festival` (Fortnite Festival), `fortnite-news` (Fortnite News), `fortnite-og` (Fortnite OG), `fortnite-uefn-and-creative` (UEFN and Creative), `lego-fortnite` (LEGO Fortnite Odyssey), `lego-fortnite-brick-life` (LEGO Fortnite Brick Life), `ranked` (Ranked Battle Royale), `reload` (Reload), `rocket-racing` (Rocket Racing), `save-the-world` (Save the World)
 
 ## Parameters
-- `options`: Params
+- `options`: Query-style options, `lang` and `tag`, see below
 
 
 ## Features
 - `requireConfig`: false
-- `requirePuppeteer`: true
+- `requirePuppeteer`: false
 - `antiCrawler`: false
 - `supportBT`: false
 - `supportPodcast`: false
 - `supportScihub`: false
 
 ## Radar
-_None_
+### Rule 1
+- `source`:
+  - `www.fortnite.com/news`
+- `target`: `/news`
+### Rule 2
+- `source`:
+  - `www.fortnite.com/news/tag/:tag`
+- `target`: `/news/tag=:tag`
 
 ## Raw JSON
 ```json
@@ -44,12 +48,12 @@ _None_
   "categories": [
     "game"
   ],
-  "description": "- `options.lang`, optional, language, eg. `/fortnite/news/lang=en-US`, common languages are listed below, more languages are available one the [official website](https://www.fortnite.com/news)\n\n| English (default) | Spanish | Japanese | French | Korean | Polish |\n| ----------------- | ------- | -------- | ------ | ------ | ------ |\n| en-US             | es-ES   | ja       | fr     | ko     | pl     |",
+  "description": "- `lang`, default `en-US`, one of `ar`, `de`, `en-US`, `es-ES`, `es-MX`, `fr`, `it`, `ja`, `ko`, `pl`, `pt-BR`, `ru`, `tr`, `zh-Hans`\n- `tag`, optional, one of `battle-royale` (Battle Royale), `fortnite-competitive` (Fortnite Competitive), `fortnite-festival` (Fortnite Festival), `fortnite-news` (Fortnite News), `fortnite-og` (Fortnite OG), `fortnite-uefn-and-creative` (UEFN and Creative), `lego-fortnite` (LEGO Fortnite Odyssey), `lego-fortnite-brick-life` (LEGO Fortnite Brick Life), `ranked` (Ranked Battle Royale), `reload` (Reload), `rocket-racing` (Rocket Racing), `save-the-world` (Save the World)",
   "example": "/fortnite/news",
   "features": {
     "antiCrawler": false,
     "requireConfig": false,
-    "requirePuppeteer": true,
+    "requirePuppeteer": false,
     "supportBT": false,
     "supportPodcast": false,
     "supportScihub": false
@@ -61,9 +65,23 @@ _None_
   ],
   "name": "News",
   "parameters": {
-    "options": "Params"
+    "options": "Query-style options, `lang` and `tag`, see below"
   },
   "path": "/news/:options?",
+  "radar": [
+    {
+      "source": [
+        "www.fortnite.com/news"
+      ],
+      "target": "/news"
+    },
+    {
+      "source": [
+        "www.fortnite.com/news/tag/:tag"
+      ],
+      "target": "/news/tag=:tag"
+    }
+  ],
   "test": {
     "code": 1,
     "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
@@ -81,6 +99,7 @@ _None_
       "type": "feed",
       "url": "rsshub://fortnite/news"
     }
-  ]
+  ],
+  "url": "www.fortnite.com/news"
 }
 ```

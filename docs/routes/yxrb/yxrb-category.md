@@ -81,8 +81,8 @@
   "topFeeds": [
     {
       "description": "游戏资讯, 游戏日报提供最具价值行业信息。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-24T07:56:33.977Z",
+      "errorMessage": "503 \n",
       "id": "56176972513891328",
       "image": "http://news.yxrb.net/uploadfile/2022/1008/8daa67f624b4928.png",
       "ownerUserId": null,

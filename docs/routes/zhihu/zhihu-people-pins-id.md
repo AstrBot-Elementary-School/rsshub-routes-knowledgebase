@@ -75,7 +75,7 @@ _None_
     {
       "description": "王海的知乎想法 - Powered by RSSHub",
       "errorAt": "2026-06-27T10:29:22.098Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'target')\n",
+      "errorMessage": "[GET] \"https://api.zhihu.com/pins/wang-hai-33-67/moments?limit=10&offset=0\": 403 Forbidden\n",
       "id": "108005640078193664",
       "image": null,
       "ownerUserId": null,
