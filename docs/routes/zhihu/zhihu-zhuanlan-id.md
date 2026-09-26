@@ -24,7 +24,7 @@ _None_
 
 
 ## Features
-- `requireConfig`: [{"description": "A complete d_c0 and __zse_ck cookie pair skips session initialization. Otherwise Workers use a Playwright browser session; Docker and Vercel generate credentials with JSDOM.", "name": "ZHIHU_COOKIES"}]
+- `requireConfig`: false
 - `requirePuppeteer`: false
 - `antiCrawler`: true
 - `supportBT`: false
@@ -46,12 +46,7 @@ _None_
   "example": "/zhihu/zhuanlan/googledevelopers",
   "features": {
     "antiCrawler": true,
-    "requireConfig": [
-      {
-        "description": "A complete d_c0 and __zse_ck cookie pair skips session initialization. Otherwise Workers use a Playwright browser session; Docker and Vercel generate credentials with JSDOM.",
-        "name": "ZHIHU_COOKIES"
-      }
-    ],
+    "requireConfig": false,
     "requirePuppeteer": false,
     "supportBT": false,
     "supportPodcast": false,

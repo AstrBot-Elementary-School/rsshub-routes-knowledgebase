@@ -79,8 +79,8 @@
   "topFeeds": [
     {
       "description": "交流与境外信用卡,美国信用卡相关的信用卡产品、办卡申请、刷卡消费、额度提升、优惠活动、网上支付、分期付款、积分礼品、银行网银、账单还款等的各类业务。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-25T05:51:10.308Z",
+      "errorMessage": "503 \n",
       "id": "126631276578882560",
       "image": "https:https://ptfg.flyertrip.com/template/comiis_nby/img/logo.png",
       "ownerUserId": null,

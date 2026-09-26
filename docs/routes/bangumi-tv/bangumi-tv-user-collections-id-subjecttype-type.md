@@ -178,16 +178,16 @@ _None_
       "url": "rsshub://bangumi.tv/user/collections/sai/1/1"
     },
     {
-      "description": "翻车鱼的Bangumi收藏列表 - Powered by RSSHub",
+      "description": "Cfox的Bangumi收藏列表 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "241412614589635584",
+      "id": "85592670812321792",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://bgm.tv/user/leekkun/collections",
-      "title": "翻车鱼的Bangumi收藏列表",
+      "siteUrl": "https://bgm.tv/user/cfox/collections",
+      "title": "Cfox的Bangumi收藏列表",
       "type": "feed",
-      "url": "rsshub://bangumi.tv/user/collections/leekkun/all/all"
+      "url": "rsshub://bangumi.tv/user/collections/cfox/all/all"
     }
   ]
 }

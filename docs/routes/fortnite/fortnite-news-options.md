@@ -90,7 +90,7 @@
     {
       "description": "Fortnite News - Powered by RSSHub",
       "errorAt": "2025-05-15T04:29:52.956Z",
-      "errorMessage": "Fortnite API responded with 403 for https://www.fortnite.com/api/blog/getPosts?category=&postsPerPage=0&offset=0&locale=en-US&rootPageSlug=blog\n",
+      "errorMessage": "[GET] \"https://www.fortnite.com/news.data?lang=en-US\": 403 Forbidden\n",
       "id": "68983907798491136",
       "image": null,
       "ownerUserId": null,

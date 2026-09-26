@@ -51,28 +51,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "ROG STUDIO 商铺上新 - Powered by RSSHub",
+      "description": "皮诺银饰 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264523568436084736",
+      "id": "1264523764142309376",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1348580183",
-      "title": "ROG STUDIO 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1236524491",
+      "title": "皮诺银饰 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1348580183"
+      "url": "rsshub://weidian/goods/1236524491"
     },
     {
-      "description": "马里奥Made 商铺上新 - Powered by RSSHub",
+      "description": "undaloopstore 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264523511544545280",
+      "id": "1264523707737309184",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1335769831",
-      "title": "马里奥Made 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1382164072",
+      "title": "undaloopstore 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1335769831"
+      "url": "rsshub://weidian/goods/1382164072"
     }
   ]
 }

@@ -90,7 +90,7 @@ _None_
     {
       "description": "色花堂 - 国产原创 - Powered by RSSHub",
       "errorAt": "2026-09-17T14:26:32.249Z",
-      "errorMessage": "[GET] \"https://www.sehuatang.net/\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.sehuatang.net/forum.php?mod=forumdisplay&orderby=dateline&fid=2\": 403 Forbidden\n",
       "id": "75483915450641408",
       "image": null,
       "ownerUserId": null,

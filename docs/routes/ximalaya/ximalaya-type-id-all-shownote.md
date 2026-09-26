@@ -64,7 +64,7 @@ _None_
     "supportPodcast": true,
     "supportScihub": false
   },
-  "heat": 50,
+  "heat": 49,
   "location": "album.ts",
   "maintainers": [
     "lengthmin",

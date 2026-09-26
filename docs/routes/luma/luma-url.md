@@ -88,16 +88,16 @@ _None_
       "url": "rsshub://luma/langchain"
     },
     {
-      "description": "Eventos Ignia - Powered by RSSHub",
-      "errorAt": "2026-09-24T03:31:06.627Z",
-      "errorMessage": "[GET] \"https://api.lu.ma/url?url=ignia\": 429 Too Many Requests\n",
-      "id": "265966934845992960",
+      "description": "Deep Tech Week - Powered by RSSHub",
+      "errorAt": "2026-09-24T03:07:09.279Z",
+      "errorMessage": "[GET] \"https://api.lu.ma/url?url=deep-tech-week\": 429 Too Many Requests\n",
+      "id": "265966907590378496",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://lu.ma/ignia",
-      "title": "Eventos Ignia",
+      "siteUrl": "https://lu.ma/deep-tech-week",
+      "title": "Deep Tech Week",
       "type": "feed",
-      "url": "rsshub://luma/ignia"
+      "url": "rsshub://luma/deep-tech-week"
     }
   ],
   "url": "lu.ma"

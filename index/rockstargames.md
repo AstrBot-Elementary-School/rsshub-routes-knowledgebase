@@ -6,9 +6,17 @@
 - URL: `www.rockstargames.com`
 - Language: `_None_`
 - Aliases: `rockstar games, rockstargames, rockstargames.com, www, www.rockstargames.com`
-- Route Count: `1`
+- Route Count: `2`
 
 ## Routes
+
+### Newswire
+- Route ID: `rockstargames:/rockstargames/newswire`
+- Route Path: `/rockstargames/newswire`
+- File: `docs/routes/rockstargames/rockstargames-newswire.md`
+- File Name: `rockstargames-newswire.md`
+- Categories: `game`
+- Maintainers: `dapexyz`
 
 ### 在线活动
 - Route ID: `rockstargames:/rockstargames/socialclub/events/:game?`

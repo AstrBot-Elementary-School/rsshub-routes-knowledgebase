@@ -81,8 +81,8 @@ _None_
     },
     {
       "description": "豆瓣新书速递-小说 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-25T08:43:16.084Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "72931562996240384",
       "image": null,
       "ownerUserId": null,

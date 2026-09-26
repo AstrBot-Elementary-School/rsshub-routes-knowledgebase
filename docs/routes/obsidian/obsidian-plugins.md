@@ -37,7 +37,7 @@ _None_
     "popular"
   ],
   "example": "/obsidian/plugins",
-  "heat": 1588,
+  "heat": 1589,
   "location": "plugins.ts",
   "maintainers": [
     "DIYgod"
@@ -51,7 +51,7 @@ _None_
   "topFeeds": [
     {
       "description": "Obsidian Plugins - Powered by RSSHub",
-      "errorAt": "2026-09-23T02:36:15.789Z",
+      "errorAt": "2026-09-25T04:11:00.876Z",
       "errorMessage": "[GET] \"https://community.obsidian.md/api/search/collections/entries/documents/search?filter_by=type:=plugin&per_page=54&q=*&query_by=name,authors,short_desc&sort_by=github_created_at:desc\": 404 Not Found\nCannot read properties of undefined (reading 'downloads')\nFailed to fetch\n[GET] \"https://community.obsidian.md/api/search/collections/entries/documents/search?filter_by=type:=plugin&per_page=54&q=*&query_by=name,authors,short_desc&sort_by=github_created_at:desc\": 404 Not Found\n[GET] \"https://community.obsidian.md/api/search/collections/entries/documents/search?filter_by=type:=plugin&per_page=54&q=*&query_by=name,authors,short_desc&sort_by=github_created_at:desc\": 404 Not Found\nCannot read properties of undefined (reading 'downloads')\n[GET] \"https://community.obsidian.md/api/search/collections/entries/documents/search?filter_by=type:=plugin&per_page=54&q=*&query_by=name,authors,short_desc&sort_by=github_created_at:desc\": 404 Not Found\n",
       "id": "93966003665247232",
       "image": null,

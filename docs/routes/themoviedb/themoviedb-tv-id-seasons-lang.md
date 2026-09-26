@@ -78,16 +78,16 @@ _None_
       "url": "rsshub://themoviedb/tv/70593/seasons"
     },
     {
-      "description": "Hilarious, totally-irreverent, near-slanderous political quiz show, based mainly on news stories from the last week or so, that leaves no party, personality or action unscathed in pursuit of laughs. - Powered by RSSHub",
+      "description": "A missing child causes four families to help each other for answers. What they could not imagine is that this mystery would be connected to innumerable other secrets of the small town. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "83787519319912448",
-      "image": "https://image.tmdb.org/t/p/original/917ZwaLnDX5A5iVotS8NGObNtgO.jpg",
+      "id": "82918388383633408",
+      "image": "https://image.tmdb.org/t/p/original/apbrbWs8M9lyOpJYU5WXrpFbk1Z.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://www.themoviedb.org/tv/797/seasons",
-      "title": "Have I Got News for You - Seasons — TMDB",
+      "siteUrl": "https://www.themoviedb.org/tv/70523/seasons",
+      "title": "Dark - Seasons — TMDB",
       "type": "feed",
-      "url": "rsshub://themoviedb/tv/797-persona/seasons"
+      "url": "rsshub://themoviedb/tv/70523-dark/seasons"
     }
   ],
   "view": 5

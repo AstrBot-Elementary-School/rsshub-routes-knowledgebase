@@ -199,16 +199,16 @@ _None_
       "url": "rsshub://carousell/sg/RAM"
     },
     {
-      "description": "Carousell SG Search - NAS - Powered by RSSHub",
-      "errorAt": "2026-09-07T17:17:09.034Z",
+      "description": "Carousell SG Search - FX2 sony - Powered by RSSHub",
+      "errorAt": "2026-09-06T09:31:24.021Z",
       "errorMessage": "[GET] \"https://www.carousell.sg\": 403 Forbidden\n",
-      "id": "1182663070510350336",
+      "id": "1206833631872286720",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://docs.rsshub.app/",
-      "title": "Carousell SG Search - NAS",
+      "title": "Carousell SG Search - FX2 sony",
       "type": "feed",
-      "url": "rsshub://carousell/sg/NAS"
+      "url": "rsshub://carousell/sg/FX2%20sony"
     }
   ]
 }

@@ -86,16 +86,16 @@ _None_
       "url": "rsshub://github/user/followers/Shubxam"
     },
     {
-      "description": "magic-akari's followers - Powered by RSSHub",
+      "description": "hasansezertasan's followers - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "82667972055805952",
+      "id": "195340244768948224",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/magic-akari",
-      "title": "magic-akari's followers",
+      "siteUrl": "https://github.com/hasansezertasan",
+      "title": "hasansezertasan's followers",
       "type": "feed",
-      "url": "rsshub://github/user/followers/magic-akari"
+      "url": "rsshub://github/user/followers/hasansezertasan"
     }
   ]
 }

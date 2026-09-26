@@ -67,8 +67,8 @@ _None_
   "topFeeds": [
     {
       "description": "NPR news, audio, and podcasts. Coverage of breaking stories, national and world news, politics, business, science, technology, and extended coverage of major national and world events. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-25T11:45:45.964Z",
+      "errorMessage": "[GET] \"https://www.npr.org/2026/09/25/nx-s1-5979852/israels-prime-minister-addresses-u-n-general-assembly\": 402 Payment Required\n",
       "id": "152995209828799488",
       "image": null,
       "ownerUserId": null,
@@ -79,8 +79,8 @@ _None_
     },
     {
       "description": "NPR news, audio, and podcasts. Coverage of breaking stories, national and world news, politics, business, science, technology, and extended coverage of major national and world events. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-25T11:56:10.295Z",
+      "errorMessage": "[GET] \"https://www.npr.org/2026/09/25/nx-s1-5946736/voting-confusion-turnout\": 402 Payment Required\n",
       "id": "66080131439415296",
       "image": null,
       "ownerUserId": null,

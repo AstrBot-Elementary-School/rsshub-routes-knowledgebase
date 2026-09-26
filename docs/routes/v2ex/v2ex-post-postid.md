@@ -86,8 +86,8 @@ _None_
     },
     {
       "description": "推特福利： https://app.follow.is/list/62404975162634240 幸福生活： https://app.follow.is/list/67388733134883840 新闻资讯： https://app.follow.is/list/67389023042166784 > 后面会持续更新维护 - Powered by RSSHub",
-      "errorAt": "2026-09-24T01:09:27.160Z",
-      "errorMessage": "[GET] \"https://www.v2ex.com/api/topics/show.json?id=1079117\": 403 Forbidden\n",
+      "errorAt": "2026-09-24T17:11:10.731Z",
+      "errorMessage": "[GET] \"https://www.v2ex.com/api/replies/show.json?topic_id=1079117\": 403 Forbidden\n",
       "id": "69578109893869568",
       "image": null,
       "ownerUserId": null,

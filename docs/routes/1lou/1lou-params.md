@@ -86,8 +86,8 @@
   "topFeeds": [
     {
       "description": "论坛影视区推荐使用纯BT软件：Transmission，qBittorrent，Bitcomet，uTorrent，其他下载软件请自行尝试。不支持吸血迅雷。 - Powered by RSSHub",
-      "errorAt": "2026-09-24T10:58:29.649Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://www.1lou.me/forum-1.htm?format=json\": <no response> fetch failed\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "62495339293222913",
       "image": "https://www.1lou.me/view/img/logo.png",
       "ownerUserId": null,
@@ -98,8 +98,8 @@
     },
     {
       "description": "论坛影视区推荐使用纯BT软件：Transmission，qBittorrent，Bitcomet，uTorrent，其他下载软件请自行尝试。不支持吸血迅雷。 - Powered by RSSHub",
-      "errorAt": "2026-09-24T08:57:22.418Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": "2026-09-25T08:21:22.132Z",
+      "errorMessage": "503 \n",
       "id": "64249408253921283",
       "image": "https://www.1lou.me/view/img/logo.png",
       "ownerUserId": null,

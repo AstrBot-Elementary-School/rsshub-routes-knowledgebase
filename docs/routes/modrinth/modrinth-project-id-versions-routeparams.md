@@ -116,16 +116,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "Changes Minecraft Combat into Souls-Like Combat. - Powered by RSSHub",
+      "description": "A customizable plugin that backups player inventories and lets server staff to restore or export them as a shulker box. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "86130193434324992",
+      "id": "114582711565812736",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/epic-fight",
-      "title": "Epic Fight Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/t1ajCt4Y",
+      "title": "AxInventoryRestore Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/epic-fight/versions"
+      "url": "rsshub://modrinth/project/t1ajCt4Y/versions"
     }
   ]
 }

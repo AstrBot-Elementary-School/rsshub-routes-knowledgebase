@@ -71,8 +71,8 @@ _None_
   "topFeeds": [
     {
       "description": "Debian security alerts - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-25T05:50:58.457Z",
+      "errorMessage": "503 \n",
       "id": "1282791152281321472",
       "image": null,
       "ownerUserId": null,

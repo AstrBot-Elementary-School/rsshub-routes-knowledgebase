@@ -160,8 +160,8 @@
     },
     {
       "description": "数据 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-25T05:45:47.732Z",
+      "errorMessage": "503 \n",
       "id": "92886505678071808",
       "image": "https://www.moa.gov.cn/images/nyb_logo_V2018.png",
       "ownerUserId": null,

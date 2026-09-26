@@ -78,8 +78,8 @@ _None_
     },
     {
       "description": "V2EX-tab-apple - Powered by RSSHub",
-      "errorAt": "2026-09-23T23:36:56.658Z",
-      "errorMessage": "terminated\n[GET] \"https://v2ex.com/?tab=apple\": <no response> fetch failed\n[GET] \"https://v2ex.com/?tab=apple\": 403 Forbidden\n",
+      "errorAt": "2026-09-25T10:56:22.886Z",
+      "errorMessage": "[GET] \"https://v2ex.com/?tab=apple\": 403 Forbidden\n[GET] \"https://v2ex.com/?tab=apple\": <no response> fetch failed\n[GET] \"https://v2ex.com/?tab=apple\": 403 Forbidden\n",
       "id": "46752076079222784",
       "image": null,
       "ownerUserId": null,

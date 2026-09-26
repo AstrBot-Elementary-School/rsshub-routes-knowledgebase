@@ -135,7 +135,7 @@ For example:
     },
     {
       "description": "This feed gets LinkedIn job posts - Powered by RSSHub",
-      "errorAt": "2026-09-23T23:00:45.272Z",
+      "errorAt": "2026-09-25T09:40:48.269Z",
       "errorMessage": "[GET] \"https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=software+engineer&f_JT=&f_E=\": 429 Too Many Requests\n",
       "id": "74290869863543808",
       "image": null,

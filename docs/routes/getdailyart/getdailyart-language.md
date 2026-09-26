@@ -62,6 +62,18 @@ _None_
       "title": "DailyArt",
       "type": "feed",
       "url": "rsshub://getdailyart/zh"
+    },
+    {
+      "description": "DailyArt - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "1302976218538049536",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.getdailyart.com/",
+      "title": "DailyArt",
+      "type": "feed",
+      "url": "rsshub://getdailyart/en"
     }
   ]
 }

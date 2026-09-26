@@ -73,8 +73,8 @@ _None_
     },
     {
       "description": "阿森纳 - 相关新闻 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-25T11:01:04.495Z",
+      "errorMessage": "503 \n",
       "id": "73340530520921095",
       "image": "https://sd.qunliao.info/fastdfs5/M00/04/C8/rB8BO15q_yaAdgetAABZZa53gBI322.png",
       "ownerUserId": null,

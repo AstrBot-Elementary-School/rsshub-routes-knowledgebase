@@ -69,7 +69,7 @@ _None_
       "id": "82060848430457856",
       "image": "https://d3mww1g1pfq2pt.cloudfront.net/Avatar/ckisg2rhv5d3h0822wojrdcqs/1694595612060.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://classonecwgv.firstory.io/",
+      "siteUrl": "https://classonecwgv.firstory.cc/",
       "title": "天下文化‧相信閱讀",
       "type": "feed",
       "url": "rsshub://soundon/p/56705a9a-54de-49f9-af3e-5d488f48345a"

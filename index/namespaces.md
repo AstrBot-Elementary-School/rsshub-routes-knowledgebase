@@ -9041,7 +9041,7 @@ Use this file to select the target namespace before opening route documents.
 ## Rockstar Games
 - Namespace: `rockstargames`
 - Aliases: `rockstar games, rockstargames, rockstargames.com, www, www.rockstargames.com`
-- Route Count: `1`
+- Route Count: `2`
 - Index File: `index/rockstargames.md`
 
 ## Rock the JVM

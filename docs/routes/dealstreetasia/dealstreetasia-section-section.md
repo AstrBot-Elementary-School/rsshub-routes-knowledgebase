@@ -61,8 +61,8 @@ _None_
   "topFeeds": [
     {
       "description": "Deal Street Asia - Private Equity - Powered by RSSHub",
-      "errorAt": "2026-09-24T12:16:54.768Z",
-      "errorMessage": "[GET] \"https://dealstreetasia.com/section/private-equity/\": 520 <none>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "63785389652796416",
       "image": null,
       "ownerUserId": null,

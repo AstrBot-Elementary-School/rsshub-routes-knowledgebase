@@ -106,16 +106,16 @@ _None_
       "url": "rsshub://showstart/search/city/%20%E6%88%90%E9%83%BD"
     },
     {
-      "description": "秀动网 - 搜演出 - live - Powered by RSSHub",
+      "description": "秀动网 - 搜艺人 - 声音玩具 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "72889425066383360",
+      "id": "220803179682283520",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.showstart.com/",
-      "title": "秀动网 - 搜演出 - live",
+      "title": "秀动网 - 搜艺人 - 声音玩具",
       "type": "feed",
-      "url": "rsshub://showstart/search/live"
+      "url": "rsshub://showstart/search/artist/%E5%A3%B0%E9%9F%B3%E7%8E%A9%E5%85%B7"
     }
   ]
 }

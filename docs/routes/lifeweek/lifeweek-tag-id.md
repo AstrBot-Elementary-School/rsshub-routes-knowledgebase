@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "人物 - Powered by RSSHub",
-      "errorAt": "2026-09-24T00:26:33.017Z",
-      "errorMessage": "[GET] \"https://www.lifeweek.com.cn/api/userWebFollow/getFollowTagContentList?type=4&sort=2&tagId=6\": 522 <none>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "104794039452750848",
       "image": null,
       "ownerUserId": null,
@@ -80,16 +80,16 @@ _None_
       "url": "rsshub://lifeweek/tag/6"
     },
     {
-      "description": "生活方式 - Powered by RSSHub",
+      "description": "文学 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "152614722583832576",
+      "id": "152614384793012224",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.lifeweek.com.cn/articleList/7",
-      "title": "生活方式",
+      "siteUrl": "https://www.lifeweek.com.cn/articleList/4",
+      "title": "文学",
       "type": "feed",
-      "url": "rsshub://lifeweek/tag/7"
+      "url": "rsshub://lifeweek/tag/4"
     }
   ]
 }

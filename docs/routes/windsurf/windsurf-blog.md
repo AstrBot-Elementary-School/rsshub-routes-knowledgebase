@@ -78,7 +78,7 @@ _None_
       "errorAt": null,
       "errorMessage": null,
       "id": "163514255527168000",
-      "image": "https://devin.ai/assets/images/devin-og.png",
+      "image": "https://devin.ai/assets/images/devin-og.jpg",
       "ownerUserId": null,
       "siteUrl": "https://windsurf.com/blog",
       "title": "Blog: Product Updates, News & Research | Devin",
