@@ -116,16 +116,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "A customizable plugin that backups player inventories and lets server staff to restore or export them as a shulker box. - Powered by RSSHub",
+      "description": "A lightweight but feature rich & multi-currency trade plugin with a simple configuration. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "114582711565812736",
+      "id": "114582838985083904",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/t1ajCt4Y",
-      "title": "AxInventoryRestore Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/nZSk44a8",
+      "title": "AxTrade Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/t1ajCt4Y/versions"
+      "url": "rsshub://modrinth/project/nZSk44a8/versions"
     }
   ]
 }

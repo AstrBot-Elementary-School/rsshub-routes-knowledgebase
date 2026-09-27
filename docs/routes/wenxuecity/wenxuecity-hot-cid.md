@@ -52,8 +52,8 @@ _None_
   "topFeeds": [
     {
       "description": "文学城 | 论坛频道 bbs.wenxuecity.com - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-26T07:26:00.845Z",
+      "errorMessage": "[GET] \"https://bbs.wenxuecity.com/?cid=9/\": 403 Forbidden\n",
       "id": "157918896325148676",
       "image": null,
       "ownerUserId": null,

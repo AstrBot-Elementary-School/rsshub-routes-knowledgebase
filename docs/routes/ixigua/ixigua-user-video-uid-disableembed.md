@@ -82,7 +82,7 @@ _None_
     {
       "description": "一个爱科普的豆比中学老师 - Powered by RSSHub",
       "errorAt": "2025-06-05T12:19:25.914Z",
-      "errorMessage": "Failed to find SSR_HYDRATED_DATA\nFailed to find SSR_HYDRATED_DATA\n",
+      "errorMessage": "Failed to fetch\nFailed to find SSR_HYDRATED_DATA\n",
       "id": "77019657545759744",
       "image": null,
       "ownerUserId": null,

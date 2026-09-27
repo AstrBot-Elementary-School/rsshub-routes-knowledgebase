@@ -125,7 +125,7 @@
     {
       "description": "News & Views That Matter - Powered by RSSHub",
       "errorAt": "2026-09-07T10:16:30.919Z",
-      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/885674-%E6%9C%AA%E4%BB%A5%E7%A9%86%E6%B0%91%E5%9B%A2%E7%BB%93%E4%BC%98%E5%85%88%E4%BC%8A%E5%85%9A%E8%AE%A5%E6%A7%9F%E5%B7%AB%E7%BB%9F%E4%B8%BA%E5%AE%98%E4%BD%8D%E5%BD%93%E5%B8%8C%E7%9B%9F%E9%99%AA%E8%A1%AC\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/885740-%E9%98%BF%E5%85%B9%E6%95%8F%E6%8A%A8%E5%9B%BD%E7%9B%9F%E6%94%BB%E5%87%BB%E7%A4%BE%E5%9B%A2%E5%B1%80%E6%84%8F%E5%9B%BE%E5%8D%9A%E5%90%8C%E6%83%85%E6%8E%A9%E7%9B%96%E5%A4%B1%E8%B4%A5\": 404 Not Found\n",
       "id": "69685104073634816",
       "image": null,
       "ownerUserId": null,
@@ -137,7 +137,7 @@
     {
       "description": "News & Views That Matter - Powered by RSSHub",
       "errorAt": "2026-09-07T09:32:19.566Z",
-      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/885628-snapshot-un-calls-for-mandiri-leaders-immediate-release-urges-travel-ban-lift\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/885739-dont-blame-ros-for-your-failures-bersatu-tells-pn-leadership-as-deregistration-looms\": 404 Not Found\n",
       "id": "61840955600323584",
       "image": null,
       "ownerUserId": null,

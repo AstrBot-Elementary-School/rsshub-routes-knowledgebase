@@ -75,9 +75,9 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "维护通知 - 中国教育考试网 - Powered by RSSHub",
-      "errorAt": "2026-06-10T11:52:17.733Z",
-      "errorMessage": "Empty RSSHub items from 206636137500519424\n[GET] \"https://jlpt.neea.cn/index.do\": 530 <none>\n",
+      "description": "系统升级通知 - 中国教育考试网 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "106226114484296704",
       "image": null,
       "ownerUserId": null,

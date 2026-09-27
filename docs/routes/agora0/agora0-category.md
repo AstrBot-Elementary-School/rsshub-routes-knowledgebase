@@ -83,7 +83,7 @@
     {
       "description": "muitinⒾ | 零博客 - Powered by RSSHub",
       "errorAt": "2024-12-17T17:08:27.527Z",
-      "errorMessage": "[GET] \"https://agora0.gitlab.io/blog/initium\": 429 Too Many Requests\n",
+      "errorMessage": "[GET] \"https://agora0.gitlab.io/blog/initium\": 403 Forbidden\n",
       "id": "52721325092269085",
       "image": null,
       "ownerUserId": null,
@@ -93,16 +93,16 @@
       "url": "rsshub://agora0/initium"
     },
     {
-      "description": "srettaⓂ | 零博客 - Powered by RSSHub",
-      "errorAt": "2024-12-17T18:31:45.795Z",
-      "errorMessage": "[GET] \"https://agora0.gitlab.io/blog/matters\": 403 Forbidden\n",
-      "id": "52721325092269086",
+      "description": "qⓅ | 零博客 - Powered by RSSHub",
+      "errorAt": "2024-12-17T18:10:05.533Z",
+      "errorMessage": "[GET] \"https://agora0.gitlab.io/blog/pq\": 403 Forbidden\n",
+      "id": "69681105983370240",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://agora0.gitlab.io/blog/matters",
-      "title": "srettaⓂ | 零博客",
+      "siteUrl": "https://agora0.gitlab.io/blog/pq",
+      "title": "qⓅ | 零博客",
       "type": "feed",
-      "url": "rsshub://agora0/matters"
+      "url": "rsshub://agora0/pq"
     }
   ]
 }

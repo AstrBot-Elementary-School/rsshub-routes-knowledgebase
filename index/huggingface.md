@@ -6,7 +6,7 @@
 - URL: `huggingface.co`
 - Language: `_None_`
 - Aliases: `huggingface, huggingface.co`
-- Route Count: `6`
+- Route Count: `7`
 
 ## Routes
 
@@ -49,6 +49,14 @@
 - File Name: `huggingface-daily-papers-cycle-votefliter.md`
 - Categories: `programming`
 - Maintainers: `zeyugao, ovo-tim`
+
+### Datasets by author
+- Route ID: `huggingface:/huggingface/datasets/:author`
+- Route Path: `/huggingface/datasets/:author`
+- File: `docs/routes/huggingface/huggingface-datasets-author.md`
+- File Name: `huggingface-datasets-author.md`
+- Categories: `programming`
+- Maintainers: `Cod1doc`
 
 ### Group Models
 - Route ID: `huggingface:/huggingface/models/:group`

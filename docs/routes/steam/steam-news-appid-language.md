@@ -94,7 +94,7 @@
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 106,
+  "heat": 107,
   "location": "news.ts",
   "maintainers": [
     "keocheung"

@@ -88,16 +88,16 @@ _None_
       "url": "rsshub://luma/langchain"
     },
     {
-      "description": "Deep Tech Week - Powered by RSSHub",
-      "errorAt": "2026-09-24T03:07:09.279Z",
-      "errorMessage": "[GET] \"https://api.lu.ma/url?url=deep-tech-week\": 429 Too Many Requests\n",
-      "id": "265966907590378496",
+      "description": "The AI Collective - Powered by RSSHub",
+      "errorAt": "2026-09-24T05:51:56.548Z",
+      "errorMessage": "[GET] \"https://api.lu.ma/url?url=genai-collective\": 429 Too Many Requests\n",
+      "id": "265935647087177728",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://lu.ma/deep-tech-week",
-      "title": "Deep Tech Week",
+      "siteUrl": "https://lu.ma/genai-collective",
+      "title": "The AI Collective",
       "type": "feed",
-      "url": "rsshub://luma/deep-tech-week"
+      "url": "rsshub://luma/genai-collective"
     }
   ],
   "url": "lu.ma"

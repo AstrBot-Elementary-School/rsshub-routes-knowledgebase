@@ -80,16 +80,16 @@ _None_
       "url": "rsshub://bilibili/fav/399964818/1771644318"
     },
     {
-      "description": "一_击即溃 的 bilibili 收藏夹 PV作品集 - Powered by RSSHub",
-      "errorAt": "2026-09-07T10:45:55.726Z",
-      "errorMessage": "[GET] \"https://api.bilibili.com/x/v3/fav/resource/list?media_id=1207699681&ps=20\": 412 Precondition Failed\n",
-      "id": "151146298979555328",
+      "description": "观海聽风声 的 bilibili 收藏夹 续搬运 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "95590863863326720",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://space.bilibili.com/1507081/#/favlist?fid=1207699681",
-      "title": "一_击即溃 的 bilibili 收藏夹 PV作品集",
+      "siteUrl": "https://space.bilibili.com/399964818/#/favlist?fid=3241215618",
+      "title": "观海聽风声 的 bilibili 收藏夹 续搬运",
       "type": "feed",
-      "url": "rsshub://bilibili/fav/1507081/1207699681"
+      "url": "rsshub://bilibili/fav/399964818/3241215618"
     }
   ]
 }

@@ -127,8 +127,8 @@
     },
     {
       "description": "北京德恒律师事务所 - Powered by RSSHub",
-      "errorAt": "2026-09-25T05:56:56.903Z",
-      "errorMessage": "503 \n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "174674333066488832",
       "image": "https://www.dehenglaw.com/images/logo_deheng.png",
       "ownerUserId": null,

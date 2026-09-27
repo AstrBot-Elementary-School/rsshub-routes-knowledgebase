@@ -89,16 +89,16 @@ _None_
       "url": "rsshub://aqicn/shanghai/pm25,pm10"
     },
     {
-      "description": "衡阳AQI-aqicn.org - Powered by RSSHub",
+      "description": "珠海AQI-aqicn.org - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "56586770937356288",
+      "id": "157694201289621504",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://aqicn.org/city/hengyang",
-      "title": "衡阳AQI",
+      "siteUrl": "https://aqicn.org/city/zhuhai",
+      "title": "珠海AQI",
       "type": "feed",
-      "url": "rsshub://aqicn/hengyang/pm25,pm10"
+      "url": "rsshub://aqicn/zhuhai"
     }
   ],
   "url": "aqicn.org"

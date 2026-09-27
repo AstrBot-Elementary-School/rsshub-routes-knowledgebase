@@ -63,7 +63,7 @@ _None_
       "errorAt": null,
       "errorMessage": null,
       "id": "67903541381404672",
-      "image": "https://staticedu-wps-cache.iciba.com/image/b56f46c83cc6c10fd3f851df5885df1b.jpg",
+      "image": "https://staticedu-wps-cache.iciba.com/image/52ab9705455e4fa2b196bc0fbc436d02.jpg",
       "ownerUserId": null,
       "siteUrl": "https://news.iciba.com/",
       "title": "金山词霸每日一句",

@@ -57,7 +57,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 183,
+  "heat": 182,
   "location": "news.ts",
   "maintainers": [
     "Fatpandac"

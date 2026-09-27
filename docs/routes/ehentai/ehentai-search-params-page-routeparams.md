@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 288,
+  "heat": 289,
   "location": "search.ts",
   "maintainers": [
     "yindaheng98",
@@ -72,8 +72,8 @@ _None_
   "topFeeds": [
     {
       "description": "ごさいじ+language:\"chinese\" - E-Hentai Search - Powered by RSSHub",
-      "errorAt": "2026-09-25T06:51:19.304Z",
-      "errorMessage": "[GET] \"https://e-hentai.org/?f_search=ごさいじ+language:\\\"chinese\\\"\": <no response> fetch failed\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorAt": "2026-09-26T11:00:56.431Z",
+      "errorMessage": "Failed to fetch\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "132859028606370816",
       "image": null,
       "ownerUserId": null,
@@ -84,8 +84,8 @@ _None_
     },
     {
       "description": "undefined - E-Hentai Search - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-26T05:40:49.961Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "96502911354921984",
       "image": null,
       "ownerUserId": null,

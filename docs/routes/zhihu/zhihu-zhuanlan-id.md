@@ -84,10 +84,10 @@ _None_
     },
     {
       "description": "知乎专栏-玉树芝兰 - Powered by RSSHub",
-      "errorAt": "2025-10-29T05:43:58.029Z",
-      "errorMessage": "zhihu: browser API request failed with HTTP 403\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "57215618626397184",
-      "image": null,
+      "image": "https://picx.zhimg.com/v2-f111d7ee1c41944859e975a712c0883b_720w.jpg",
       "ownerUserId": null,
       "siteUrl": "https://zhuanlan.zhihu.com/yushuzhilan",
       "title": "知乎专栏-玉树芝兰",

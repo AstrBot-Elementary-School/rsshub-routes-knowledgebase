@@ -80,7 +80,7 @@ _None_
       "errorAt": null,
       "errorMessage": null,
       "id": "156000891791099904",
-      "image": "https://www.gstatic.com/devrel-devsite/prod/v01e820f11dab21f3ca0f6bae75161414eea27d2d73afb4b420c81b7d54dc150c/androidsource/images/touchicon-180.png",
+      "image": "https://www.gstatic.com/devrel-devsite/prod/v5be16d8c9f9402e54c2da2ff24cb75c148f5d2bc84c6f8dfc8b9e16ae456160b/androidsource/images/touchicon-180.png",
       "ownerUserId": null,
       "siteUrl": "https://source.android.com/docs/security/bulletin/asb-overview",
       "title": "Android Security Bulletins | Android Open Source Project",

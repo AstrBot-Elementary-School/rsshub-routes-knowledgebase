@@ -66,8 +66,8 @@ _None_
   "topFeeds": [
     {
       "description": "范范爱养基 的动态 - Powered by RSSHub",
-      "errorAt": "2026-09-25T07:21:04.180Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "63493307705393157",
       "image": null,
       "ownerUserId": null,

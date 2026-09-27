@@ -2768,6 +2768,12 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `3`
 - Index File: `index/cyzone.md`
 
+## CzechStepByStep
+- Namespace: `czechstepbystep`
+- Aliases: `czechstepbystep, czechstepbystep.cz, www, www.czechstepbystep.cz`
+- Route Count: `1`
+- Index File: `index/czechstepbystep.md`
+
 ## 新蓝网（浙江广播电视集团）
 - Namespace: `cztv`
 - Aliases: `cztv, cztv.com, 新蓝网（浙江广播电视集团）`
@@ -3247,6 +3253,12 @@ Use this file to select the target namespace before opening route documents.
 - Aliases: `dpm, dpm.org.cn, the palace museum, www, www.dpm.org.cn`
 - Route Count: `1`
 - Index File: `index/dpm.md`
+
+## DR (Danmarks Radio)
+- Namespace: `dr`
+- Aliases: `dr, dr (danmarks radio), dr.dk`
+- Route Count: `1`
+- Index File: `index/dr.md`
 
 ## Dribbble
 - Namespace: `dribbble`
@@ -5411,7 +5423,7 @@ Use this file to select the target namespace before opening route documents.
 ## Huggingface
 - Namespace: `huggingface`
 - Aliases: `huggingface, huggingface.co`
-- Route Count: `6`
+- Route Count: `7`
 - Index File: `index/huggingface.md`
 
 ## 中央汇金投资有限责任公司
@@ -8431,6 +8443,12 @@ Use this file to select the target namespace before opening route documents.
 - Aliases: `perplexity, perplexity.ai, www, www.perplexity.ai`
 - Route Count: `2`
 - Index File: `index/perplexity.md`
+
+## PetaPixel
+- Namespace: `petapixel`
+- Aliases: `petapixel, petapixel.com`
+- Route Count: `1`
+- Index File: `index/petapixel.md`
 
 ## Peter Wunder
 - Namespace: `peterwunder`
@@ -11534,6 +11552,12 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `1`
 - Index File: `index/xmind.md`
 
+## XML.com
+- Namespace: `xmlcom`
+- Aliases: `www, www.xml.com, xml.com, xmlcom`
+- Route Count: `1`
+- Index File: `index/xmlcom.md`
+
 ## 厦门网
 - Namespace: `xmnn`
 - Aliases: `epaper, epaper.xmnn.cn, xmnn, 厦门网`
@@ -11783,7 +11807,7 @@ Use this file to select the target namespace before opening route documents.
 ## YouTube
 - Namespace: `youtube`
 - Aliases: `youtube, youtube.com`
-- Route Count: `8`
+- Route Count: `9`
 - Index File: `index/youtube.md`
 
 ## 有赞

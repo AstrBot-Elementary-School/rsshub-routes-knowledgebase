@@ -73,26 +73,26 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "秀动网 - 杭州 - 摇滚 - Powered by RSSHub",
+      "description": "秀动网 - - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "68586319985771520",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.showstart.com/",
-      "title": "秀动网 - 杭州 - 摇滚",
+      "title": "秀动网 -",
       "type": "feed",
       "url": "rsshub://showstart/event/571/2"
     },
     {
-      "description": "秀动网 - 上海 - 摇滚 - Powered by RSSHub",
+      "description": "秀动网 - - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "67433992246280192",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.showstart.com/",
-      "title": "秀动网 - 上海 - 摇滚",
+      "title": "秀动网 -",
       "type": "feed",
       "url": "rsshub://showstart/event/21/2"
     }

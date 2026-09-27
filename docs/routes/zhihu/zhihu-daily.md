@@ -26,7 +26,7 @@ _None_
 ## Features
 - `requireConfig`: false
 - `requirePuppeteer`: false
-- `antiCrawler`: true
+- `antiCrawler`: false
 - `supportBT`: false
 - `supportPodcast`: false
 - `supportScihub`: false
@@ -44,14 +44,14 @@ _None_
   ],
   "example": "/zhihu/daily",
   "features": {
-    "antiCrawler": true,
+    "antiCrawler": false,
     "requireConfig": false,
     "requirePuppeteer": false,
     "supportBT": false,
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 857,
+  "heat": 858,
   "location": "daily.ts",
   "maintainers": [
     "DHPO",

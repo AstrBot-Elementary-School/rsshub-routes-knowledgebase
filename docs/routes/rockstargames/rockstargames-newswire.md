@@ -38,7 +38,7 @@ _None_
     "game"
   ],
   "example": "/rockstargames/newswire",
-  "heat": 0,
+  "heat": 1,
   "location": "newswire.ts",
   "maintainers": [
     "dapexyz"

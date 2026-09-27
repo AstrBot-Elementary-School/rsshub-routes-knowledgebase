@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4859,
+  "heat": 4860,
   "location": "daily.ts",
   "maintainers": [
     "nczitzk",
@@ -73,7 +73,7 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "1. DeepSeek 年化营收达 10 亿美元 完成 75 亿美元融资 2. 豆包回应团队缩编传闻：砍半说法不实 3. 诉讼文件显示 OpenAI 称苹果整合 ChatGPT 效果不及预期订阅转化低 4. Anthropic 成立生命科学团队及实验室，Claude 参与发现新型酶系统 5. Meta 发布全新随身 AI 硬件 Muse Charm 可一键唤醒个人助理 6. Anthropic 首席执行官：因安全缘故 公司将放慢 AI 研发进度 7. 高通宣布与苹果续签全球专利许可协议 8. 微软解除此前对网民所起绰号 Microslop 的封禁 9. 特斯拉疑似泄露 Optimus 第三代设计 量产版外观更趋成熟 10. LVMH 阿诺特家族推进股权架构重组，巩固集团控制权 11. 腾讯 WorkBuddy 微信小程序发布能力上线 12. 苹果 iPhone Duo 确认将运行 iOS 27.1 13. 腾讯混元宣布「腾讯 Hy 翻译」App 上线 14. 消息称月之暗面 Kimi K3.1 预计下月登场 15. 阿里达摩院发布食管癌 AI 模型 不插管可发现早期及癌前病变 16. DeepSeek 新论文公开 AI 智能体训练新方法，有望减少智能体异常行为 - Powered by RSSHub",
+      "description": "1. DeepSeek Harness 桌面预览版已流出，官方暂未正式上线 2. OpenAI 或推出 500 美元 Pro Max 套餐 3. 腾讯旗下 QClaw 将于 12 月 24 日停运，即日起停止新用户注册 4. 朱一明关联石溪资本拟出资 50 亿元参与 DeepSeek 第二轮融资 5. Anthropic 拟设特殊股票结构 创始人合计将获 50.1% 投票权 6. 交个朋友致歉：全面下架问题「溜溜凳」，终止与品牌方合作 7. 罗永浩发文辟谣售卖病死鱼：视频截图系抠图合成，从未卖过该产品 8. 特斯拉 Optimus 量产遇阻 手部及供应链等难题凸显 9. 贝索斯向蓝色起源投入约 300 亿美元 公司估值达 1400 亿美元 10. 谷歌计划下周发射搭载 4 颗 TPU 的原型卫星 11. 风投机构 a16z 创办面向年轻人才的学校，提前网罗潜在创业者 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "52347176714948614",

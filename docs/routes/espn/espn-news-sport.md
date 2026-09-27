@@ -88,7 +88,7 @@ _None_
     },
     {
       "description": "ESPN SOCCER News - Powered by RSSHub",
-      "errorAt": "2026-09-25T10:00:51.736Z",
+      "errorAt": "2026-09-26T09:35:45.769Z",
       "errorMessage": "Cannot read properties of undefined (reading 'story')\n",
       "id": "72477890360150016",
       "image": null,

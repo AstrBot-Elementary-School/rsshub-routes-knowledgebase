@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 230,
+  "heat": 231,
   "location": "investigates.ts",
   "maintainers": [
     "LyleLee"

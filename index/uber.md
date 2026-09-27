@@ -11,9 +11,9 @@
 ## Routes
 
 ### Engineering
-- Route ID: `uber:/uber/blog/:compat?`
-- Route Path: `/uber/blog/:compat?`
-- File: `docs/routes/uber/uber-blog-compat.md`
-- File Name: `uber-blog-compat.md`
+- Route ID: `uber:/uber/blog/:category?`
+- Route Path: `/uber/blog/:category?`
+- File: `docs/routes/uber/uber-blog-category.md`
+- File Name: `uber-blog-category.md`
 - Categories: `blog`
-- Maintainers: `hulb`
+- Maintainers: `hulb, zhsama`

@@ -49,7 +49,7 @@ _None_
   ],
   "description": "| Category                  | `:category_name`        |\n| ------------------------- | ----------------------- |\n| Artificial intelligence   | artificial-intelligence |\n| Biotechnology and health  | biotechnology           |\n| Business                  | business                |\n| Climate change and energy | climate-change          |\n| Computing                 | computing               |\n| Culture                   | culture                 |\n| Policy                    | policy                  |\n| Space                     | space                   |",
   "example": "/technologyreview/artificial-intelligence",
-  "heat": 0,
+  "heat": 1,
   "location": "topic.ts",
   "maintainers": [
     "laampui"

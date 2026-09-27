@@ -86,7 +86,7 @@ _None_
     {
       "description": "jump 发现游戏 - Powered by RSSHub",
       "errorAt": "2026-09-21T14:12:11.471Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorMessage": "503 \n",
       "id": "66698425520730122",
       "image": null,
       "ownerUserId": null,

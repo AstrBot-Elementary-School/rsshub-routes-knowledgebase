@@ -79,16 +79,16 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "haoheliu/AudioLDM weekly Pulse - Powered by RSSHub",
+      "description": "datawhalechina/llm-universe weekly Pulse - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "220767323256864791",
+      "id": "137417584044606464",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/haoheliu/AudioLDM/pulse/weekly",
-      "title": "haoheliu/AudioLDM weekly Pulse",
+      "siteUrl": "https://github.com/datawhalechina/llm-universe/pulse/weekly",
+      "title": "datawhalechina/llm-universe weekly Pulse",
       "type": "feed",
-      "url": "rsshub://github/pulse/haoheliu/AudioLDM/weekly"
+      "url": "rsshub://github/pulse/datawhalechina/llm-universe"
     },
     {
       "description": "openai/whisper weekly Pulse - Powered by RSSHub",

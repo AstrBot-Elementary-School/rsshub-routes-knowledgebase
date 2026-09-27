@@ -68,8 +68,8 @@ _None_
   "topFeeds": [
     {
       "description": "ulapia - 宏观研报 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-26T10:52:09.429Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "60865831498850371",
       "image": null,
       "ownerUserId": null,
@@ -80,8 +80,8 @@ _None_
     },
     {
       "description": "ulapia - 策略研报 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-26T01:41:43.171Z",
+      "errorMessage": "503 \n",
       "id": "60865831498850372",
       "image": null,
       "ownerUserId": null,

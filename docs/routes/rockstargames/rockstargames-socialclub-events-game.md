@@ -40,7 +40,7 @@ _None_
   ],
   "description": "| 游戏代码 | 游戏名称     |\n| -------- | ------------ |\n| GTAV     | 侠盗猎车手 5 |\n| RDR2     | 荒野大镖客 2 |",
   "example": "/rockstargames/socialclub/events/GTAV",
-  "heat": 1,
+  "heat": 0,
   "location": "events.ts",
   "maintainers": [
     "kookxiang"

@@ -51,28 +51,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "皮诺银饰 商铺上新 - Powered by RSSHub",
+      "description": "阿立 Studio 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264523764142309376",
+      "id": "1264525898522951680",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1236524491",
-      "title": "皮诺银饰 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1759676628",
+      "title": "阿立 Studio 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1236524491"
+      "url": "rsshub://weidian/goods/1759676628"
     },
     {
-      "description": "undaloopstore 商铺上新 - Powered by RSSHub",
+      "description": "杰尼龟 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264523707737309184",
+      "id": "1264523705908592640",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1382164072",
-      "title": "undaloopstore 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1405292126",
+      "title": "杰尼龟 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1382164072"
+      "url": "rsshub://weidian/goods/1405292126"
     }
   ]
 }
