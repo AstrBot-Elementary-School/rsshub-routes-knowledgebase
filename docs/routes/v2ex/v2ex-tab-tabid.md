@@ -66,8 +66,8 @@ _None_
   "topFeeds": [
     {
       "description": "V2EX-tab-hot - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-27T12:54:10.923Z",
+      "errorMessage": "Failed to fetch\nFailed to fetch\n[GET] \"https://v2ex.com/?tab=hot\": <no response> fetch failed\n[GET] \"https://v2ex.com/?tab=hot\": 403 Forbidden\n[GET] \"https://v2ex.com/?tab=hot\": 403 Forbidden\n",
       "id": "41707278446398464",
       "image": null,
       "ownerUserId": null,

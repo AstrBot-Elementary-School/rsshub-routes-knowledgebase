@@ -25,7 +25,7 @@ To subscribe to [IN THE PIPELINE by Derek Lowe’s](https://science.org/blogs/pi
 
 ## Features
 - `requireConfig`: false
-- `requirePuppeteer`: true
+- `requirePuppeteer`: false
 - `antiCrawler`: true
 - `supportBT`: false
 - `supportPodcast`: false
@@ -48,7 +48,7 @@ To subscribe to [IN THE PIPELINE by Derek Lowe’s](https://science.org/blogs/pi
   "features": {
     "antiCrawler": true,
     "requireConfig": false,
-    "requirePuppeteer": true,
+    "requirePuppeteer": false,
     "supportBT": false,
     "supportPodcast": false,
     "supportScihub": false

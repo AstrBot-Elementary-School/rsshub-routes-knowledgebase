@@ -10355,7 +10355,7 @@ Use this file to select the target namespace before opening route documents.
 ## Threads
 - Namespace: `threads`
 - Aliases: `threads, threads.net`
-- Route Count: `2`
+- Route Count: `3`
 - Index File: `index/threads.md`
 
 ## Thunderbird

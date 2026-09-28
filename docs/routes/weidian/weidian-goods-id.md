@@ -51,28 +51,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "阿立 Studio 商铺上新 - Powered by RSSHub",
+      "description": "2ERO 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264525898522951680",
+      "id": "1264525770093363200",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1759676628",
-      "title": "阿立 Studio 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1781357740",
+      "title": "2ERO 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1759676628"
+      "url": "rsshub://weidian/goods/1781357740"
     },
     {
-      "description": "杰尼龟 商铺上新 - Powered by RSSHub",
+      "description": "小A狗牙 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264523705908592640",
+      "id": "1264525408108150784",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1405292126",
-      "title": "杰尼龟 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1750570979",
+      "title": "小A狗牙 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1405292126"
+      "url": "rsshub://weidian/goods/1750570979"
     }
   ]
 }

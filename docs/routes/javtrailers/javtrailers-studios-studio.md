@@ -25,7 +25,7 @@ _None_
 
 ## Features
 - `nsfw`: true
-- `requirePuppeteer`: true
+- `requirePuppeteer`: false
 
 ## Radar
 ### Rule 1
@@ -41,7 +41,7 @@ _None_
   "example": "/javtrailers/studios/s1-no-1-style",
   "features": {
     "nsfw": true,
-    "requirePuppeteer": true
+    "requirePuppeteer": false
   },
   "heat": 35,
   "location": "studios.ts",

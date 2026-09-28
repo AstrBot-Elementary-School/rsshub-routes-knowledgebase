@@ -8,7 +8,7 @@
 - Namespace Name: `JavTrailers`
 - Route Path: `/javtrailers/categories/:category`
 - Route Name: `Categories`
-- Example: `/javtrailers/categories/50001755`
+- Example: `/javtrailers/categories/hi-def`
 - URL: `javtrailers.com/categories`
 - Language: `_None_`
 - Categories: `multimedia`
@@ -25,7 +25,7 @@ _None_
 
 ## Features
 - `nsfw`: true
-- `requirePuppeteer`: true
+- `requirePuppeteer`: false
 
 ## Radar
 ### Rule 1
@@ -38,10 +38,10 @@ _None_
   "categories": [
     "multimedia"
   ],
-  "example": "/javtrailers/categories/50001755",
+  "example": "/javtrailers/categories/hi-def",
   "features": {
     "nsfw": true,
-    "requirePuppeteer": true
+    "requirePuppeteer": false
   },
   "heat": 53,
   "location": "categories.ts",

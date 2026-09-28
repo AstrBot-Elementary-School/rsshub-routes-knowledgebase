@@ -54,7 +54,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 394,
+  "heat": 395,
   "location": "slowmist.ts",
   "maintainers": [
     "AtlasQuan"

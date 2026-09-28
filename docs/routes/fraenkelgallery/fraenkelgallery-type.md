@@ -83,6 +83,9 @@ Exhibitions come with artist, year, type and status as categories and the full e
       "target": "/posts"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [],
   "view": 2
 }

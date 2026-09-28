@@ -24,7 +24,7 @@ _None_
 
 
 ## Features
-- `requirePuppeteer`: true
+- `requirePuppeteer`: false
 - `antiCrawler`: true
 
 ## Radar
@@ -39,7 +39,7 @@ _None_
   "example": "/allpoetry/newest",
   "features": {
     "antiCrawler": true,
-    "requirePuppeteer": true
+    "requirePuppeteer": false
   },
   "heat": 0,
   "location": "order.ts",

@@ -89,16 +89,16 @@ _None_
       "url": "rsshub://163/music/artist/32540734"
     },
     {
-      "description": "网易云音乐歌手专辑 - betcover!! - Powered by RSSHub",
+      "description": "网易云音乐歌手专辑 - 张震岳 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "129229946062307328",
-      "image": "https://p1.music.126.net/lrJiX7k6gV4GJorJUj8-zw==/109951171287877555.jpg",
+      "id": "103886421708829696",
+      "image": "https://p1.music.126.net/lZkH6tfmc9de2skBTfNNng==/109951170927210866.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://music.163.com/#/artist/album?id=30986109",
-      "title": "betcover!!",
+      "siteUrl": "https://music.163.com/#/artist/album?id=6453",
+      "title": "张震岳",
       "type": "feed",
-      "url": "rsshub://163/music/artist/30986109"
+      "url": "rsshub://163/music/artist/6453"
     }
   ]
 }

@@ -54,18 +54,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "台灣事實查核中心 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "156051053062277123",
-      "image": "https://tfc-taiwan.org.tw/wp-content/uploads/2024/12/yoast-seo-logo-setup.jpg",
-      "ownerUserId": null,
-      "siteUrl": "https://tfc-taiwan.org.tw/category/weekly-top-ten-rumors/",
-      "title": "〈每週謠言TOP10 〉彙整頁面 - 台灣事實查核中心",
-      "type": "feed",
-      "url": "rsshub://tfc-taiwan/category/weekly-top-ten-rumors"
-    },
-    {
       "description": "謠言風向球 | 台灣事實查核中心 - Powered by RSSHub",
       "errorAt": "2025-01-10T16:35:10.484Z",
       "errorMessage": "[GET] \"https://tfc-taiwan.org.tw/wp-json/wp/v2/categories/242\": 404 Not Found\n",
@@ -76,6 +64,18 @@ _None_
       "title": "謠言風向球 | 台灣事實查核中心",
       "type": "feed",
       "url": "rsshub://tfc-taiwan/category/242"
+    },
+    {
+      "description": "台灣事實查核中心 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "156051053062277123",
+      "image": "https://tfc-taiwan.org.tw/wp-content/uploads/2024/12/yoast-seo-logo-setup.jpg",
+      "ownerUserId": null,
+      "siteUrl": "https://tfc-taiwan.org.tw/category/weekly-top-ten-rumors/",
+      "title": "〈每週謠言TOP10 〉彙整頁面 - 台灣事實查核中心",
+      "type": "feed",
+      "url": "rsshub://tfc-taiwan/category/weekly-top-ten-rumors"
     }
   ],
   "url": "tfc-taiwan.org.tw/category/rumor-mill/"

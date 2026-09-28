@@ -24,7 +24,7 @@ _None_
 
 
 ## Features
-- `requirePuppeteer`: true
+- `requirePuppeteer`: false
 
 ## Radar
 ### Rule 1
@@ -39,7 +39,7 @@ _None_
   ],
   "example": "/hottoys",
   "features": {
-    "requirePuppeteer": true
+    "requirePuppeteer": false
   },
   "heat": 0,
   "location": "index.ts",

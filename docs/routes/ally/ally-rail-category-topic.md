@@ -76,13 +76,12 @@
     }
   ],
   "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+    "code": 0
   },
   "topFeeds": [
     {
       "description": "世界轨道交通资讯网是为关注轨道交通、轨道、铁路、轨道交通资讯、火车、高铁、铁路行业发展最新动态的决策者和研究者提供信息服务的中英文网站；在广泛全面地为业内读者提供世界轨道交通行业信息的同时，通过电子 信息化的表现手段，全方位、跨时空为企业推广提供了全景的展示平台。为企业提供新闻稿发布，协助企业提高知名度、塑造企业形象以及企业品牌或项目品牌推广。该网是由世界轨道发展研究会以及北京艾莱时代资讯有限公司共同主办的《世界轨道交通》杂志的官方网站。 - Powered by RSSHub",
-      "errorAt": "2026-09-26T03:00:45.775Z",
+      "errorAt": "2026-09-27T04:31:09.344Z",
       "errorMessage": "[GET] \"http://rail.ally.net.cn/html/hyzix/chengguijiaotong/\": 403 Forbidden\n",
       "id": "72207824857851904",
       "image": null,

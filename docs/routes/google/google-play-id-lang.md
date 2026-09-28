@@ -26,7 +26,7 @@ _None_
 
 ## Features
 - `requireConfig`: false
-- `requirePuppeteer`: true
+- `requirePuppeteer`: false
 - `antiCrawler`: false
 - `supportBT`: false
 - `supportPodcast`: false
@@ -47,7 +47,7 @@ _None_
   "features": {
     "antiCrawler": false,
     "requireConfig": false,
-    "requirePuppeteer": true,
+    "requirePuppeteer": false,
     "supportBT": false,
     "supportPodcast": false,
     "supportScihub": false

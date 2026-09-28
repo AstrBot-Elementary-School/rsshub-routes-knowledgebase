@@ -6,7 +6,7 @@
 - URL: `threads.net`
 - Language: `_None_`
 - Aliases: `threads, threads.net`
-- Route Count: `2`
+- Route Count: `3`
 
 ## Routes
 
@@ -17,6 +17,14 @@
 - File Name: `threads-user-routeparams.md`
 - Categories: `social-media, popular`
 - Maintainers: `ninboy, pseudoyu`
+
+### Post & Replies
+- Route ID: `threads:/threads/:user/post/:id/:routeParams?`
+- Route Path: `/threads/:user/post/:id/:routeParams?`
+- File: `docs/routes/threads/threads-user-post-id-routeparams.md`
+- File Name: `threads-user-post-id-routeparams.md`
+- Categories: `social-media`
+- Maintainers: `TonyRL`
 
 ### Search
 - Route ID: `threads:/threads/search/:keyword/:routeParams?`

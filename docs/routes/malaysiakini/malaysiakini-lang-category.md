@@ -125,7 +125,7 @@
     {
       "description": "News & Views That Matter - Powered by RSSHub",
       "errorAt": "2026-09-07T10:16:30.919Z",
-      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/885740-%E9%98%BF%E5%85%B9%E6%95%8F%E6%8A%A8%E5%9B%BD%E7%9B%9F%E6%94%BB%E5%87%BB%E7%A4%BE%E5%9B%A2%E5%B1%80%E6%84%8F%E5%9B%BE%E5%8D%9A%E5%90%8C%E6%83%85%E6%8E%A9%E7%9B%96%E5%A4%B1%E8%B4%A5\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/885767-%E6%B2%99%E5%B7%B4%E4%BA%AC%E9%82%A3%E5%B7%B4%E5%BD%93%E5%B2%B8%E4%BB%8A%E6%99%A8%E5%8F%91%E7%94%9F%E5%BC%B1%E9%9C%87\": 404 Not Found\n",
       "id": "69685104073634816",
       "image": null,
       "ownerUserId": null,

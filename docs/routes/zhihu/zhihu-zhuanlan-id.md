@@ -69,13 +69,16 @@ _None_
       ]
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "知乎专栏-体验碎周报 - Powered by RSSHub",
-      "errorAt": "2026-08-24T02:08:31.954Z",
-      "errorMessage": "[GET] \"https://www.zhihu.com/api/v4/columns/c_1186819163765649408/items\": 403 Forbidden\nzhihu: browser API request failed with HTTP 403\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41359836954400791",
-      "image": null,
+      "image": "https://pica.zhimg.com/v2-f111d7ee1c41944859e975a712c0883b_720w.jpg",
       "ownerUserId": null,
       "siteUrl": "https://www.zhihu.com/column/c_1186819163765649408",
       "title": "知乎专栏-体验碎周报",

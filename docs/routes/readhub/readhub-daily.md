@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4860,
+  "heat": 4862,
   "location": "daily.ts",
   "maintainers": [
     "nczitzk",
@@ -73,7 +73,7 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "1. DeepSeek Harness 桌面预览版已流出，官方暂未正式上线 2. OpenAI 或推出 500 美元 Pro Max 套餐 3. 腾讯旗下 QClaw 将于 12 月 24 日停运，即日起停止新用户注册 4. 朱一明关联石溪资本拟出资 50 亿元参与 DeepSeek 第二轮融资 5. Anthropic 拟设特殊股票结构 创始人合计将获 50.1% 投票权 6. 交个朋友致歉：全面下架问题「溜溜凳」，终止与品牌方合作 7. 罗永浩发文辟谣售卖病死鱼：视频截图系抠图合成，从未卖过该产品 8. 特斯拉 Optimus 量产遇阻 手部及供应链等难题凸显 9. 贝索斯向蓝色起源投入约 300 亿美元 公司估值达 1400 亿美元 10. 谷歌计划下周发射搭载 4 颗 TPU 的原型卫星 11. 风投机构 a16z 创办面向年轻人才的学校，提前网罗潜在创业者 - Powered by RSSHub",
+      "description": "1. AI 门萨智商测试获满分 151 分 超过绝大多数人类 2. Claude 近乎无人监督攻克理论物理前沿难题 花费约一两千美元 3. OpenAI Codex 全面宕机一小时，官方为付费用户重置额度 4. 风投机构 a16z 创办面向年轻人才的学校，提前网罗潜在创业者 5. 蔚来官方宣布丝绸之路换电路线正式贯通 6. Anthropic 据悉洽谈 1 吉瓦数据中心容量交易 预计投资至少 400 亿美元 7. OpenAI 承认 AI 智能体未经用户知情将 53 张图片传至公网 8. Anthropic 推出 Claude Code 收尾额度 额度用完不再中途切断代码 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "52347176714948614",

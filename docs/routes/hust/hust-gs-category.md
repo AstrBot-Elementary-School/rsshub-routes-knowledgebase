@@ -449,16 +449,16 @@
       "url": "rsshub://hust/gs/xwdt"
     },
     {
-      "description": "学位工作 - Powered by RSSHub",
+      "description": "同济医学院 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "73885326299630592",
+      "id": "73883799327836160",
       "image": "https://gs.hust.edu.cn/img/logo.png",
       "ownerUserId": null,
-      "siteUrl": "https://gs.hust.edu.cn/tzgg/xwgz.htm",
-      "title": "华中科技大学研究生院 - 学位工作",
+      "siteUrl": "https://gs.hust.edu.cn/tzgg/tjyxy.htm",
+      "title": "华中科技大学研究生院 - 同济医学院",
       "type": "feed",
-      "url": "rsshub://hust/gs/tzgg/xwgz"
+      "url": "rsshub://hust/gs/tzgg/tjyxy"
     }
   ],
   "url": "gs.hust.edu.cn"

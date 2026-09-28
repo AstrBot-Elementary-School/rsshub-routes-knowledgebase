@@ -73,7 +73,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2456,
+  "heat": 2455,
   "location": "rankings.ts",
   "maintainers": [
     "nczitzk"
@@ -97,14 +97,14 @@
   },
   "topFeeds": [
     {
-      "description": "有碼排行 - 日排行 - JavDB - Powered by RSSHub",
+      "description": "Daily censored movies ranking - JavDB - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "41696949079348224",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://javdb.com/rankings/movies?p=daily&t=censored",
-      "title": "有碼排行 - 日排行 - JavDB",
+      "title": "Daily censored movies ranking - JavDB",
       "type": "feed",
       "url": "rsshub://javdb/rankings"
     },

@@ -63,7 +63,7 @@ _None_
   "topFeeds": [
     {
       "description": "文件公示 - 中华人民共和国工业和信息化部 - Powered by RSSHub",
-      "errorAt": "2026-09-26T09:30:52.899Z",
+      "errorAt": "2026-09-27T11:36:22.020Z",
       "errorMessage": "[GET] \"https://www.miit.gov.cn/zwgk/wjgs/index.html\": 403 Forbidden\n",
       "id": "61219763349776384",
       "image": null,

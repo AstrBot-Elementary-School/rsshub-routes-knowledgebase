@@ -60,7 +60,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 310,
+  "heat": 308,
   "location": "index.ts",
   "maintainers": [
     "SnowAgar25"
@@ -91,8 +91,8 @@
   "topFeeds": [
     {
       "description": "New - pixivision - Powered by RSSHub",
-      "errorAt": "2026-09-26T08:46:27.591Z",
-      "errorMessage": "403 \n[GET] \"https://www.pixivision.net/zh-tw\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "58887079850550272",
       "image": null,
       "ownerUserId": null,

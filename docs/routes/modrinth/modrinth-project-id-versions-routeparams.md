@@ -116,16 +116,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "A lightweight but feature rich & multi-currency trade plugin with a simple configuration. - Powered by RSSHub",
+      "description": "The powerful & intuitive set homes, warps, and teleports plugin/mod - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "114582838985083904",
+      "id": "123851322293306368",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/nZSk44a8",
-      "title": "AxTrade Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/J6U9o3JG",
+      "title": "HuskHomes Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/nZSk44a8/versions"
+      "url": "rsshub://modrinth/project/J6U9o3JG/versions"
     }
   ]
 }

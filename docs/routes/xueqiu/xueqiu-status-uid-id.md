@@ -73,6 +73,9 @@
       "target": "/status/:uid/:id"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "xueqiu.com"
 }

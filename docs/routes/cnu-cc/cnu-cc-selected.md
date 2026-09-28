@@ -36,7 +36,7 @@ _None_
     "picture"
   ],
   "example": "/cnu.cc/selected",
-  "heat": 2,
+  "heat": 3,
   "location": "selected.ts",
   "maintainers": [
     "hoilc"

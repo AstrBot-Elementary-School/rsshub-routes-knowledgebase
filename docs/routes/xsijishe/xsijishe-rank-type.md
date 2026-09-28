@@ -24,8 +24,8 @@ _None_
 
 
 ## Features
-- `requireConfig`: [{"description": "", "name": "XSIJISHE_COOKIE"}, {"description": "", "name": "XSIJISHE_USER_AGENT"}]
-- `requirePuppeteer`: true
+- `requireConfig`: [{"description": "", "name": "XSIJISHE_COOKIE"}]
+- `requirePuppeteer`: false
 - `antiCrawler`: true
 - `supportBT`: false
 - `supportPodcast`: false
@@ -50,18 +50,14 @@ _None_
       {
         "description": "",
         "name": "XSIJISHE_COOKIE"
-      },
-      {
-        "description": "",
-        "name": "XSIJISHE_USER_AGENT"
       }
     ],
-    "requirePuppeteer": true,
+    "requirePuppeteer": false,
     "supportBT": false,
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4886,
+  "heat": 4885,
   "location": "rank.ts",
   "maintainers": [
     "akynazh",

@@ -26,7 +26,7 @@ _None_
 
 
 ## Features
-- `requirePuppeteer`: true
+- `requirePuppeteer`: false
 - `nsfw`: true
 
 ## Radar
@@ -44,7 +44,7 @@ _None_
   "example": "/iwara/ranking/video/date/ecchi",
   "features": {
     "nsfw": true,
-    "requirePuppeteer": true
+    "requirePuppeteer": false
   },
   "heat": 0,
   "location": "ranking.ts",

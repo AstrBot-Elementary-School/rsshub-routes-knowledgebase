@@ -66,8 +66,8 @@ _None_
   "topFeeds": [
     {
       "description": "世界苦茶龐大體系下1500字（感覺不只）左右的文章，都是關於政治學和政治哲學的思考 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-27T12:06:03.973Z",
+      "errorMessage": "[GET] \"https://bittertea.substack.com/feed\": 429 Too Many Requests\n",
       "id": "176031166219999232",
       "image": "https://substackcdn.com/image/fetch/$s_!ulvf!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F06156f61-eead-4e42-a104-6f2193a7b8d1_4000x4000.jpeg",
       "ownerUserId": null,

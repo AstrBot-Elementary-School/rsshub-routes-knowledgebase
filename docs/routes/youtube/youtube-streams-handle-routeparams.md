@@ -85,6 +85,9 @@ _None_
       "target": "/streams/:handle"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "view": 3
 }

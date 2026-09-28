@@ -62,6 +62,9 @@ _None_
       "target": "/:host/:board"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [],
   "url": "komica1.org"
 }

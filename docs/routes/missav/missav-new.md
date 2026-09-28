@@ -25,7 +25,7 @@ _None_
 
 ## Features
 - `requireConfig`: false
-- `requirePuppeteer`: true
+- `requirePuppeteer`: false
 - `antiCrawler`: false
 - `supportBT`: false
 - `supportPodcast`: false
@@ -35,12 +35,12 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `missav.ws/dm514/new`
+  - `missav.ws/dm539/new`
   - `missav.ws/new`
   - `missav.ws/`
 ### Rule 2
 - `source`:
-  - `missav.ai/dm514/new`
+  - `missav.ai/dm539/new`
   - `missav.ai/new`
   - `missav.ai/`
 
@@ -55,7 +55,7 @@ _None_
     "antiCrawler": false,
     "nsfw": true,
     "requireConfig": false,
-    "requirePuppeteer": true,
+    "requirePuppeteer": false,
     "supportBT": false,
     "supportPodcast": false,
     "supportScihub": false
@@ -70,14 +70,14 @@ _None_
   "radar": [
     {
       "source": [
-        "missav.ws/dm514/new",
+        "missav.ws/dm539/new",
         "missav.ws/new",
         "missav.ws/"
       ]
     },
     {
       "source": [
-        "missav.ai/dm514/new",
+        "missav.ai/dm539/new",
         "missav.ai/new",
         "missav.ai/"
       ]

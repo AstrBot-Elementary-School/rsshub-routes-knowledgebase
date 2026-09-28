@@ -55,7 +55,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 796,
+  "heat": 794,
   "location": "popular.ts",
   "maintainers": [
     "WenryXu"
