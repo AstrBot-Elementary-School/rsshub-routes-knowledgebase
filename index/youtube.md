@@ -6,7 +6,7 @@
 - URL: `youtube.com`
 - Language: `_None_`
 - Aliases: `youtube, youtube.com`
-- Route Count: `9`
+- Route Count: `8`
 
 ## Routes
 
@@ -48,7 +48,7 @@
 - File: `docs/routes/youtube/youtube-live-username-embed.md`
 - File Name: `youtube-live-username-embed.md`
 - Categories: `live`
-- Maintainers: `sussurr127`
+- Maintainers: `sussurr127, ouuan`
 
 ### Playlist
 - Route ID: `youtube:/youtube/playlist/:id/:embed?`
@@ -57,14 +57,6 @@
 - File Name: `youtube-playlist-id-embed.md`
 - Categories: `social-media, popular`
 - Maintainers: `HenryQW`
-
-### Live Streams
-- Route ID: `youtube:/youtube/streams/:handle/:routeParams?`
-- Route Path: `/youtube/streams/:handle/:routeParams?`
-- File: `docs/routes/youtube/youtube-streams-handle-routeparams.md`
-- File Name: `youtube-streams-handle-routeparams.md`
-- Categories: `live`
-- Maintainers: `ouuan`
 
 ### Subscriptions
 - Route ID: `youtube:/youtube/subscriptions/:embed?`

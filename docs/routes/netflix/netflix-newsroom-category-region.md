@@ -197,8 +197,8 @@ _None_
     },
     {
       "description": "All News - Newsroom - Netflix - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-28T04:31:10.647Z",
+      "errorMessage": "Unhandled node type: blockquote\n",
       "id": "238930364614695936",
       "image": "https://about.netflix.com/favicon.ico",
       "ownerUserId": null,

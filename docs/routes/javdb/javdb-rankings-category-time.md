@@ -109,14 +109,14 @@
       "url": "rsshub://javdb/rankings"
     },
     {
-      "description": "有碼排行 - 月排行 - JavDB - Powered by RSSHub",
+      "description": "Monthly censored movies ranking - JavDB - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "57074574176806917",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://javdb.com/rankings/movies?p=monthly&t=censored",
-      "title": "有碼排行 - 月排行 - JavDB",
+      "title": "Monthly censored movies ranking - JavDB",
       "type": "feed",
       "url": "rsshub://javdb/rankings/censored/monthly"
     }

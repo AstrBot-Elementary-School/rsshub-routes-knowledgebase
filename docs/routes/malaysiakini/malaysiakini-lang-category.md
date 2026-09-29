@@ -125,7 +125,7 @@
     {
       "description": "News & Views That Matter - Powered by RSSHub",
       "errorAt": "2026-09-07T10:16:30.919Z",
-      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/885767-%E6%B2%99%E5%B7%B4%E4%BA%AC%E9%82%A3%E5%B7%B4%E5%BD%93%E5%B2%B8%E4%BB%8A%E6%99%A8%E5%8F%91%E7%94%9F%E5%BC%B1%E9%9C%87\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/885846-%E9%A9%AC%E5%93%88%E8%BF%AA%E5%A4%AB%E4%BA%BA%E8%A5%BF%E8%92%82%E5%93%88%E6%96%AF%E7%8E%9B%E5%8E%BB%E4%B8%96%E4%BA%AB%E5%AF%BF100%E5%B2%81\": 404 Not Found\n",
       "id": "69685104073634816",
       "image": null,
       "ownerUserId": null,
@@ -137,7 +137,7 @@
     {
       "description": "News & Views That Matter - Powered by RSSHub",
       "errorAt": "2026-09-07T09:32:19.566Z",
-      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/885739-dont-blame-ros-for-your-failures-bersatu-tells-pn-leadership-as-deregistration-looms\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/885829-snapshot-asian-games-malaysia-hits-six-gold-target-via-womens-squash\": 404 Not Found\n",
       "id": "61840955600323584",
       "image": null,
       "ownerUserId": null,

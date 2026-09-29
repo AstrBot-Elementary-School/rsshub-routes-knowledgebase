@@ -78,8 +78,8 @@ _None_
   "topFeeds": [
     {
       "description": "深交所官网 - Powered by RSSHub",
-      "errorAt": "2026-09-26T15:30:46.172Z",
-      "errorMessage": "[GET] \"https://www.szse.cn/disclosure/listed/notice\": 520 <none>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "115195943416981504",
       "image": null,
       "ownerUserId": null,
@@ -90,8 +90,8 @@ _None_
     },
     {
       "description": "深交所官网 - Powered by RSSHub",
-      "errorAt": "2026-09-26T06:31:13.531Z",
-      "errorMessage": "[GET] \"https://www.szse.cn/disclosure/listed/notice\": 520 <none>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "242486635647006720",
       "image": null,
       "ownerUserId": null,

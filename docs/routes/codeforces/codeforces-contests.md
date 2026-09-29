@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 50,
+  "heat": 49,
   "location": "contests.tsx",
   "maintainers": [
     "Fatpandac"

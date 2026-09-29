@@ -84,28 +84,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "New contributors for PixarAnimationStudios/OpenUSD - Powered by RSSHub",
+      "description": "New contributors for open-metadata/OpenMetadata - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "84958270281030656",
+      "id": "78928360835988480",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/PixarAnimationStudios/OpenUSD/graphs/contributors",
-      "title": "PixarAnimationStudios/OpenUSD Contributors",
+      "siteUrl": "https://github.com/open-metadata/OpenMetadata/graphs/contributors",
+      "title": "open-metadata/OpenMetadata Contributors",
       "type": "feed",
-      "url": "rsshub://github/contributors/PixarAnimationStudios/OpenUSD"
+      "url": "rsshub://github/contributors/open-metadata/OpenMetadata"
     },
     {
-      "description": "New contributors for biquanlibai/blockchain-course - Powered by RSSHub",
+      "description": "New contributors for aigem/videos - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "83173808754165760",
+      "id": "145641760615368704",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/biquanlibai/blockchain-course/graphs/contributors",
-      "title": "biquanlibai/blockchain-course Contributors",
+      "siteUrl": "https://github.com/aigem/videos/graphs/contributors",
+      "title": "aigem/videos Contributors",
       "type": "feed",
-      "url": "rsshub://github/contributors/biquanlibai/blockchain-course"
+      "url": "rsshub://github/contributors/aigem/videos"
     }
   ]
 }

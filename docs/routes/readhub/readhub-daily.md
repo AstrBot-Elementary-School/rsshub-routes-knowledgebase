@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4862,
+  "heat": 4861,
   "location": "daily.ts",
   "maintainers": [
     "nczitzk",
@@ -73,7 +73,7 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "1. AI 门萨智商测试获满分 151 分 超过绝大多数人类 2. Claude 近乎无人监督攻克理论物理前沿难题 花费约一两千美元 3. OpenAI Codex 全面宕机一小时，官方为付费用户重置额度 4. 风投机构 a16z 创办面向年轻人才的学校，提前网罗潜在创业者 5. 蔚来官方宣布丝绸之路换电路线正式贯通 6. Anthropic 据悉洽谈 1 吉瓦数据中心容量交易 预计投资至少 400 亿美元 7. OpenAI 承认 AI 智能体未经用户知情将 53 张图片传至公网 8. Anthropic 推出 Claude Code 收尾额度 额度用完不再中途切断代码 - Powered by RSSHub",
+      "description": "1. OpenAI 因 Agent 多次越权逃逸事件暂停相关训练 2. 宇树王兴兴回应为何造 390 万元起载人变形机甲：大型机器人是行业趋势 3. 消息称 OpenAI 将推出常驻 AI 助手「O」，预计 9 月 29 日发布 4. 传华为或于今年 11 月推出星耀子品牌 5. 《自然》揭秘：大模型时代新型学术骗局，假机构兜售院士头衔牟利 6. 诺和诺德与 Anthropic 合作 巨头加码 AI 制药领域 7. Anthropic 推出新版 Playground 无代码也可运行 Claude API 8. OpenAI 与 Anthropic 首席执行官被传唤出席澳大利亚 AI 调查听证会 9. 涉 5 起事故含 3 死，Comma.ai 遭美国国家公路交通安全管理局调查 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "52347176714948614",

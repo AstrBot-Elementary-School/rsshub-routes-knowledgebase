@@ -94,8 +94,8 @@
     },
     {
       "description": "Presidential Actions – The White House - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-28T01:27:03.506Z",
+      "errorMessage": "[GET] \"https://www.whitehouse.gov/presidential-actions/\": 403 Forbidden\n",
       "id": "121830281207047168",
       "image": null,
       "ownerUserId": null,

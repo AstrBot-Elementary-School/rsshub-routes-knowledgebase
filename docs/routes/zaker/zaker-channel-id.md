@@ -65,8 +65,8 @@ _None_
   "topFeeds": [
     {
       "description": "科技 - ZAKER新闻 - Powered by RSSHub",
-      "errorAt": "2026-09-27T03:06:47.573Z",
-      "errorMessage": "503 \n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "56326657469609999",
       "image": null,
       "ownerUserId": null,
@@ -78,7 +78,7 @@ _None_
     {
       "description": "ZAKER新闻 - Powered by RSSHub",
       "errorAt": "2026-09-26T16:51:42.483Z",
-      "errorMessage": "[GET] \"https://www.myzaker.com/channel/660\": 403 Forbidden\n",
+      "errorMessage": "503 \n",
       "id": "109858197894680576",
       "image": null,
       "ownerUserId": null,

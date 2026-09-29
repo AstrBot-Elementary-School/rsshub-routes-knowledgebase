@@ -41,7 +41,7 @@ _None_
     "antiCrawler": true,
     "requirePuppeteer": true
   },
-  "heat": 0,
+  "heat": 1,
   "location": "qwsj.ts",
   "maintainers": [
     "nczitzk"
@@ -51,7 +51,20 @@ _None_
   "test": {
     "code": 1
   },
-  "topFeeds": [],
+  "topFeeds": [
+    {
+      "description": null,
+      "errorAt": "2025-06-22T03:48:58.415Z",
+      "errorMessage": "Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator('td[width=\"540\"]') to be visible\n\n",
+      "id": "159455518140235782",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": null,
+      "title": "Importing",
+      "type": "feed",
+      "url": "rsshub://gov/caict/qwsj"
+    }
+  ],
   "url": "www.caict.ac.cn/kxyj/qwfb/qwsj/"
 }
 ```

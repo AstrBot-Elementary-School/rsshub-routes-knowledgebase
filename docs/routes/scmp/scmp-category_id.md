@@ -87,8 +87,8 @@ See the [official RSS page](https://www.scmp.com/rss) to get the ID of each cate
     },
     {
       "description": "Breaking news, analysis and opinion from the SCMP's Asia edition. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-28T09:53:27.570Z",
+      "errorMessage": "[GET] \"https://www.scmp.com/week-asia/people/article/3369083/thai-mans-jet-ski-stunt-fuels-anger-unequal-bangkok-poor-hit-hardest-floods\": 403 Forbidden\n[GET] \"https://www.scmp.com/week-asia/people/article/3369083/thai-mans-jet-ski-stunt-fuels-anger-unequal-bangkok-poor-hit-hardest-floods\": 403 Forbidden\n",
       "id": "58381798255721483",
       "image": "https://assets-v2.i-scmp.com/production/static/img/icons/scmp-meta-1200x630.png",
       "ownerUserId": null,

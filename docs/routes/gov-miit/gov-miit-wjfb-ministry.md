@@ -73,14 +73,14 @@ _None_
   },
   "topFeeds": [
     {
-      "description": null,
-      "errorAt": "2025-08-12T08:08:35.112Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'set-cookie')\n",
+      "description": "工业和信息化部 - 规划司 文件发布 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "177905314710033408",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": null,
-      "title": "Importing",
+      "siteUrl": "https://www.miit.gov.cn/jgsj/ghs/wjfb/index.html",
+      "title": "工业和信息化部 - 规划司 文件发布",
       "type": "feed",
       "url": "rsshub://gov/miit/wjfb/ghs"
     }

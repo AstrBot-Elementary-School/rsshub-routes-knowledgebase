@@ -97,16 +97,16 @@ Specify options (in the format of query string) in parameter `routeParams` to co
       "url": "rsshub://4chan/hc/catalog"
     },
     {
-      "description": "4chan's /s/ - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "257165502357762048",
+      "description": "4chan's /r/ - Powered by RSSHub",
+      "errorAt": "2026-06-05T08:02:48.597Z",
+      "errorMessage": "[GET] \"https://a.4cdn.org/r/catalog.json\": 404 Not Found\n",
+      "id": "257165688284952576",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://boards.4chan.org/s/catalog",
-      "title": "4chan's /s/",
+      "siteUrl": "https://boards.4chan.org/r/catalog",
+      "title": "4chan's /r/",
       "type": "feed",
-      "url": "rsshub://4chan/s/catalog"
+      "url": "rsshub://4chan/r/catalog"
     }
   ]
 }

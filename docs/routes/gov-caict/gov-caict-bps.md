@@ -41,7 +41,7 @@ _None_
     "antiCrawler": true,
     "requirePuppeteer": true
   },
-  "heat": 0,
+  "heat": 1,
   "location": "bps.ts",
   "maintainers": [
     "nczitzk"
@@ -51,7 +51,20 @@ _None_
   "test": {
     "code": 1
   },
-  "topFeeds": [],
+  "topFeeds": [
+    {
+      "description": null,
+      "errorAt": "2025-06-20T09:15:46.709Z",
+      "errorMessage": "Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator('td[width=\"540\"]') to be visible\n\n",
+      "id": "158812966815951872",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": null,
+      "title": "Importing",
+      "type": "feed",
+      "url": "rsshub://gov/caict/bps"
+    }
+  ],
   "url": "www.caict.ac.cn/kxyj/qwfb/bps/"
 }
 ```

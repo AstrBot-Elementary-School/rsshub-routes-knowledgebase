@@ -53,8 +53,8 @@ _None_
   "topFeeds": [
     {
       "description": "Gwern - Newest - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-28T13:35:56.035Z",
+      "errorMessage": "503 \n",
       "id": "1288843837610786816",
       "image": null,
       "ownerUserId": null,

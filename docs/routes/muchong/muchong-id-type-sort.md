@@ -70,16 +70,16 @@ _None_
       "url": "rsshub://muchong/125"
     },
     {
-      "description": "海归之家 - 出国留学区 - 小木虫论坛 - Powered by RSSHub",
+      "description": "招聘信息布告栏 - 科研生活区 - 小木虫论坛 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "177651896292777998",
+      "id": "177651896292778000",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://muchong.com/f-428-1",
-      "title": "海归之家 - 出国留学区 - 小木虫论坛",
+      "siteUrl": "https://muchong.com/f-346-1",
+      "title": "招聘信息布告栏 - 科研生活区 - 小木虫论坛",
       "type": "feed",
-      "url": "rsshub://muchong/428"
+      "url": "rsshub://muchong/346"
     }
   ]
 }

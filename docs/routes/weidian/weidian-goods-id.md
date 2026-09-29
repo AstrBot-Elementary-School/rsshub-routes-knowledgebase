@@ -51,28 +51,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "2ERO 商铺上新 - Powered by RSSHub",
+      "description": "山山大王SSDW 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264525770093363200",
+      "id": "1264526059366121472",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1781357740",
-      "title": "2ERO 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1807280336",
+      "title": "山山大王SSDW 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1781357740"
+      "url": "rsshub://weidian/goods/1807280336"
     },
     {
-      "description": "小A狗牙 商铺上新 - Powered by RSSHub",
+      "description": "崔狱Studio ￴￴ ￴￴￴ ￴￴ ￴￴ ￴￴￴￴ 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264525408108150784",
+      "id": "1264525315179151360",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1750570979",
-      "title": "小A狗牙 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1623777994",
+      "title": "崔狱Studio ￴￴ ￴￴￴ ￴￴ ￴￴ ￴￴￴￴ 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1750570979"
+      "url": "rsshub://weidian/goods/1623777994"
     }
   ]
 }

@@ -64,7 +64,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 51,
+  "heat": 55,
   "location": "private-api/index.ts",
   "maintainers": [
     "oppilate",

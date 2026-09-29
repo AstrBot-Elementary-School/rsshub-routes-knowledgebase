@@ -59,8 +59,8 @@ _None_
   "topFeeds": [
     {
       "description": "爱思想 - 一天文章点击排行 - Powered by RSSHub",
-      "errorAt": "2026-09-27T13:16:21.131Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "72974175979885568",
       "image": "https://oss.aisixiang.com/images/logo_toplist.jpg",
       "ownerUserId": null,

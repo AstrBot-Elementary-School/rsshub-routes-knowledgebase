@@ -80,16 +80,16 @@ _None_
       "url": "rsshub://bilibili/fav/399964818/1771644318"
     },
     {
-      "description": "bili_5852312847 的 bilibili 收藏夹 默认收藏夹 - Powered by RSSHub",
+      "description": "Mute哑人 的 bilibili 收藏夹 大学学习 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "105358788002334720",
+      "id": "214364340386307072",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://space.bilibili.com/27337107/#/favlist?fid=84104207",
-      "title": "bili_5852312847 的 bilibili 收藏夹 默认收藏夹",
+      "siteUrl": "https://space.bilibili.com/319200891/#/favlist?fid=2290973491",
+      "title": "Mute哑人 的 bilibili 收藏夹 大学学习",
       "type": "feed",
-      "url": "rsshub://bilibili/fav/27337107/84104207"
+      "url": "rsshub://bilibili/fav/319200891/2290973491"
     }
   ]
 }

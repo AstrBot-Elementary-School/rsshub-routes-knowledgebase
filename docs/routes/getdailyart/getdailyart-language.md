@@ -36,7 +36,7 @@ _None_
     "picture"
   ],
   "example": "/getdailyart/en",
-  "heat": 4,
+  "heat": 5,
   "location": "index.ts",
   "maintainers": [
     "zphw"

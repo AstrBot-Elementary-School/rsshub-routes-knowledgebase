@@ -89,28 +89,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Posts of 百足ユキ from fanbox | Pawchive - Powered by RSSHub",
+      "description": "Posts of Old Apple from patreon | Pawchive - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1216678672442720256",
-      "image": "https://pawchive.pw/icons/fanbox/43441978",
+      "id": "1304085459994804224",
+      "image": "https://pawchive.pw/icons/patreon/66342169",
       "ownerUserId": null,
-      "siteUrl": "https://pawchive.pw/fanbox/user/43441978",
-      "title": "Posts of 百足ユキ from fanbox | Pawchive",
+      "siteUrl": "https://pawchive.pw/patreon/user/66342169",
+      "title": "Posts of Old Apple from patreon | Pawchive",
       "type": "feed",
-      "url": "rsshub://pawchive/fanbox/43441978"
+      "url": "rsshub://pawchive/patreon/66342169"
     },
     {
-      "description": "Posts of karutamo from fanbox | Pawchive - Powered by RSSHub",
+      "description": "Posts of JK君 from fanbox | Pawchive - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1300758863976202240",
-      "image": "https://pawchive.pw/icons/fanbox/10600906",
+      "id": "1300759803315748864",
+      "image": "https://pawchive.pw/icons/fanbox/25877697",
       "ownerUserId": null,
-      "siteUrl": "https://pawchive.pw/fanbox/user/10600906",
-      "title": "Posts of karutamo from fanbox | Pawchive",
+      "siteUrl": "https://pawchive.pw/fanbox/user/25877697",
+      "title": "Posts of JK君 from fanbox | Pawchive",
       "type": "feed",
-      "url": "rsshub://pawchive/fanbox/10600906"
+      "url": "rsshub://pawchive/fanbox/25877697"
     }
   ]
 }

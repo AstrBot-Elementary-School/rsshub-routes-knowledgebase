@@ -89,16 +89,16 @@ _None_
       "url": "rsshub://bilibili/user/bangumi/208259"
     },
     {
-      "description": "空巷一人 的追番列表 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "256983820225993728",
+      "description": "咯弗弗 的追番列表 - Powered by RSSHub",
+      "errorAt": "2026-09-14T15:41:49.425Z",
+      "errorMessage": "[GET] \"https://api.bilibili.com/x/space/wbi/acc/info?mid=24656192&token=&platform=web&web_location=1550101&w_rid=5e3f92964af9592a214d9dfb9f40b79a&wts=1790576531\": 412 Precondition Failed\n",
+      "id": "87692193894050817",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://space.bilibili.com/36758148/bangumi",
-      "title": "空巷一人 的追番列表",
+      "siteUrl": "https://space.bilibili.com/24656192/bangumi",
+      "title": "咯弗弗 的追番列表",
       "type": "feed",
-      "url": "rsshub://bilibili/user/bangumi/36758148"
+      "url": "rsshub://bilibili/user/bangumi/24656192"
     }
   ]
 }

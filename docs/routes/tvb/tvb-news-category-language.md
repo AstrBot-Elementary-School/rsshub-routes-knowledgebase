@@ -101,7 +101,7 @@
     },
     {
       "description": "TVB News - 要闻 - Powered by RSSHub",
-      "errorAt": "2026-09-27T06:26:08.998Z",
+      "errorAt": "2026-09-27T22:41:03.954Z",
       "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "68507536443122688",
       "image": null,

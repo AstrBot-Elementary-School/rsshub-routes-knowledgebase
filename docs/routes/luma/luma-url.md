@@ -88,16 +88,16 @@ _None_
       "url": "rsshub://luma/langchain"
     },
     {
-      "description": "Google Gemma - Powered by RSSHub",
-      "errorAt": "2026-08-25T00:07:39.694Z",
-      "errorMessage": "[GET] \"https://api.lu.ma/url?url=gemma-events\": 429 Too Many Requests\n",
-      "id": "265966966744675328",
+      "description": "MenteX - Powered by RSSHub",
+      "errorAt": "2026-08-27T20:26:16.017Z",
+      "errorMessage": "[GET] \"https://api.lu.ma/url?url=mentex_ecosistema\": 429 Too Many Requests\n",
+      "id": "265966986896278528",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://lu.ma/gemma-events",
-      "title": "Google Gemma",
+      "siteUrl": "https://lu.ma/mentex_ecosistema",
+      "title": "MenteX",
       "type": "feed",
-      "url": "rsshub://luma/gemma-events"
+      "url": "rsshub://luma/mentex_ecosistema"
     }
   ],
   "url": "lu.ma"

@@ -12,28 +12,32 @@
 - URL: `youtube.com`
 - Language: `_None_`
 - Categories: `live`
-- Maintainers: `sussurr127`
+- Maintainers: `sussurr127, ouuan`
 - Source Location: `live.ts`
 - Source Module: `_None_`
 
 ## Description
-_None_
+::: tip
+Every stream is categorized as `live`, `upcoming` or `completed`, so a single state can be picked out with the `filter_category` and `filterout_category` [common parameters](https://docs.rsshub.app/guide/parameters#filtering). For example, `/youtube/live/@GawrGura?filterout_category=completed` only tracks streams that are live or about to start.
+:::
 
 ## Parameters
-- `username`: YouTuber id
+- `username`: YouTube handle or channel id
 - `embed`: Default to embed the video, set to any value to disable embedding
 
 
 ## Features
-- `requireConfig`: [{"description": "YouTube API Key (enable YouTube Data API v3), support multiple keys, split them with `,`, [API Key application](https://console.developers.google.com/), [YouTube Data API v3](https://console.cloud.google.com/apis/library/youtube.googleapis.com)", "name": "YOUTUBE_KEY"}]
-- `requirePuppeteer`: false
-- `antiCrawler`: false
-- `supportBT`: false
-- `supportPodcast`: false
-- `supportScihub`: false
+_None_
 
 ## Radar
-_None_
+### Rule 1
+- `source`:
+  - `www.youtube.com/@:username/streams`
+- `target`: `/live/@:username`
+### Rule 2
+- `source`:
+  - `www.youtube.com/channel/:username/streams`
+- `target`: `/live/:username`
 
 ## Raw JSON
 ```json
@@ -41,31 +45,34 @@ _None_
   "categories": [
     "live"
   ],
+  "description": "::: tip\nEvery stream is categorized as `live`, `upcoming` or `completed`, so a single state can be picked out with the `filter_category` and `filterout_category` [common parameters](https://docs.rsshub.app/guide/parameters#filtering). For example, `/youtube/live/@GawrGura?filterout_category=completed` only tracks streams that are live or about to start.\n:::",
   "example": "/youtube/live/@GawrGura",
-  "features": {
-    "antiCrawler": false,
-    "requireConfig": [
-      {
-        "description": "YouTube API Key (enable YouTube Data API v3), support multiple keys, split them with `,`, [API Key application](https://console.developers.google.com/), [YouTube Data API v3](https://console.cloud.google.com/apis/library/youtube.googleapis.com)",
-        "name": "YOUTUBE_KEY"
-      }
-    ],
-    "requirePuppeteer": false,
-    "supportBT": false,
-    "supportPodcast": false,
-    "supportScihub": false
-  },
   "heat": 254,
   "location": "live.ts",
   "maintainers": [
-    "sussurr127"
+    "sussurr127",
+    "ouuan"
   ],
   "name": "Live",
   "parameters": {
     "embed": "Default to embed the video, set to any value to disable embedding",
-    "username": "YouTuber id"
+    "username": "YouTube handle or channel id"
   },
   "path": "/live/:username/:embed?",
+  "radar": [
+    {
+      "source": [
+        "www.youtube.com/@:username/streams"
+      ],
+      "target": "/live/@:username"
+    },
+    {
+      "source": [
+        "www.youtube.com/channel/:username/streams"
+      ],
+      "target": "/live/:username"
+    }
+  ],
   "topFeeds": [
     {
       "description": "$老高與小茉 Mr & Mrs Gao's live streaming status - Powered by RSSHub",
@@ -91,6 +98,7 @@ _None_
       "type": "feed",
       "url": "rsshub://youtube/live/@GawrGura"
     }
-  ]
+  ],
+  "view": 3
 }
 ```

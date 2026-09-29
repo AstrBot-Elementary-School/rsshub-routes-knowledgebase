@@ -1313,8 +1313,8 @@
   "topFeeds": [
     {
       "description": "AIBase产品库 - Powered by RSSHub",
-      "errorAt": "2026-09-27T12:14:35.451Z",
-      "errorMessage": "[GET] \"https://top.aibase.com/discover\": 404 Not Found\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "68483441708467200",
       "image": "https://top.aibase.com/_static/img/Frame@2x.eddfa3e.png",
       "ownerUserId": null,

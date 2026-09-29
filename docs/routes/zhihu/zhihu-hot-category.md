@@ -56,7 +56,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 15717,
+  "heat": 15713,
   "location": "hot.ts",
   "maintainers": [
     "nczitzk",
@@ -71,8 +71,8 @@ _None_
   "topFeeds": [
     {
       "description": "知乎热榜 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-28T13:36:07.434Z",
+      "errorMessage": "Failed query: update \"feeds\" set \"url\" = $1, \"title\" = $2, \"description\" = $3, \"site_url\" = $4, \"checked_at\" = $5, \"refresh_enqueued_at\" = $6, \"last_modified_header\" = $7, \"etag_header\" = $8, \"ttl\" = $9, \"error_message\" = $10, \"error_at\" = $11, \"rsshub_route\" = $12, \"rsshub_namespace\" = $13 where (\"feeds\".\"id\" = $14 and (\"feeds\".\"refresh_enqueued_at\" is null or \"feeds\".\"refresh_enqueued_at\" < $15)) returning \"checked_at\"\nparams: rsshub://zhihu/hot,知乎热榜,知乎热榜 - Powered by RSSHub,https://www.zhihu.com/hot,2026-09-28T13:35:35.363Z,2026-09-28T13:35:22.097Z,Mon, 28 Sep 2026 13:35:33 GMT,W/\"727d-2onRYKj7EKhlCb+8hvMC2HwGPbc\",60,,,/zhihu/hot/:category?,zhihu,41358761177015296,2026-09-28T13:35:22.097Z",
       "id": "41358761177015296",
       "image": null,
       "ownerUserId": null,

@@ -78,16 +78,16 @@ _None_
       "url": "rsshub://bilibili/live/search/%E6%BC%AB%E5%B1%95/live_time"
     },
     {
-      "description": "哔哩哔哩直播-王者荣耀- - Powered by RSSHub",
-      "errorAt": "2026-01-13T00:32:29.122Z",
-      "errorMessage": "Unknown order: online \n",
-      "id": "189092794847298560",
+      "description": "哔哩哔哩直播-王者荣耀-人气直播 - Powered by RSSHub",
+      "errorAt": "2026-09-07T10:21:17.956Z",
+      "errorMessage": "[GET] \"https://api.bilibili.com/x/web-interface/wbi/search/type?__refresh__=true&_extra=&context=&page=1&page_size=42&order=online&duration=&from_source=&from_spmid=333.337&platform=pc&highlight=1&single_column=0&keyword=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80&ad_resource=&source_tag=3&gaia_vtoken=&category_id=&search_type=live&dynamic_offset=0&web_location=1430654&w_rid=64e78c8c0fb45e4675704f05c62df927&wts=1790522157\": 412 Precondition Failed\n",
+      "id": "1216480522952114176",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://search.bilibili.com/live?keyword=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80&order=online%20&coverType=user_cover&page=1&search_type=live",
-      "title": "哔哩哔哩直播-王者荣耀-",
+      "siteUrl": "https://search.bilibili.com/live?keyword=%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80&order=online&coverType=user_cover&page=1&search_type=live",
+      "title": "哔哩哔哩直播-王者荣耀-人气直播",
       "type": "feed",
-      "url": "rsshub://bilibili/live/search/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80/online%20"
+      "url": "rsshub://bilibili/live/search/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80/online"
     }
   ]
 }

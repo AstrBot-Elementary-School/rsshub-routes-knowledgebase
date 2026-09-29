@@ -84,8 +84,8 @@ _None_
     },
     {
       "description": "同步、随时跟踪中国时事：采访、报道、特别专题 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-28T13:11:26.118Z",
+      "errorMessage": "503 \n",
       "id": "75444883463138304",
       "image": "https://s.rfi.fr/media/display/020b8dae-e6c1-11ee-a196-005056bfb2b6/w:1280/p:16x9/img-default-RFI.jpg",
       "ownerUserId": null,

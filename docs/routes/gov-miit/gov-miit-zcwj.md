@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1,
+  "heat": 2,
   "location": "zcwj.ts",
   "maintainers": [
     "Yoge-Code",

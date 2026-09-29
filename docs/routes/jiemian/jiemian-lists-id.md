@@ -153,8 +153,8 @@ _None_
     },
     {
       "description": "界面新闻是中国具有影响力的原创财经新媒体，以财经、商业新闻为核心，布局近40个内容频道，旗下同时拥有正午故事、箭厂视频、歪楼等数个知名新媒体品牌。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-28T08:17:36.759Z",
+      "errorMessage": "Authentication failed. Access denied.\n/jiemian/lists/65\n503 \n",
       "id": "67075285940287491",
       "image": "https://www.jiemian.com/favicon.ico",
       "ownerUserId": null,

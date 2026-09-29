@@ -72,6 +72,10 @@ _None_
     }
   ],
   "topFeeds": [],
-  "url": "www.czechstepbystep.cz/kategorie/kratke-ceske-zpravy"
+  "url": "www.czechstepbystep.cz/kategorie/kratke-ceske-zpravy",
+  "zh": {
+    "description": "来自 CzechStepByStep 的捷克语短新闻（Krátké české zprávy），包含视频、完整文字记录、在线练习和工作表。",
+    "name": "捷克语短新闻"
+  }
 }
 ```

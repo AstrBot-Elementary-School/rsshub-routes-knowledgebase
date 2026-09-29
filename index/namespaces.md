@@ -11807,7 +11807,7 @@ Use this file to select the target namespace before opening route documents.
 ## YouTube
 - Namespace: `youtube`
 - Aliases: `youtube, youtube.com`
-- Route Count: `9`
+- Route Count: `8`
 - Index File: `index/youtube.md`
 
 ## 有赞

@@ -61,18 +61,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "中港台新闻 - 了解与关注中国大陆、台湾及香港新闻与时事 - 8world - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "79335306854878213",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.8world.com/greater-china",
-      "title": "中港台新闻 - 了解与关注中国大陆、台湾及香港新闻与时事 - 8world",
-      "type": "feed",
-      "url": "rsshub://8world/greater-china"
-    },
-    {
       "description": "即时新闻 - 掌握新加坡、东南亚和国际新闻，一览最新新闻大事 - 8world - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -83,6 +71,18 @@ _None_
       "title": "即时新闻 - 掌握新加坡、东南亚和国际新闻，一览最新新闻大事 - 8world",
       "type": "feed",
       "url": "rsshub://8world"
+    },
+    {
+      "description": "中港台新闻 - 了解与关注中国大陆、台湾及香港新闻与时事 - 8world - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "79335306854878213",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.8world.com/greater-china",
+      "title": "中港台新闻 - 了解与关注中国大陆、台湾及香港新闻与时事 - 8world",
+      "type": "feed",
+      "url": "rsshub://8world/greater-china"
     }
   ]
 }

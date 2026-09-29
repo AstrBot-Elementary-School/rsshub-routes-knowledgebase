@@ -89,7 +89,7 @@ _None_
     {
       "description": "Cosplay Archives - 8k Cosplay Zone - Powered by RSSHub",
       "errorAt": "2026-09-26T03:55:51.183Z",
-      "errorMessage": "[GET] \"https://www.8kcosplay.com/wp-json/wp/v2/posts?per_page=10&_embed&tags=4\": 520 <none>\n",
+      "errorMessage": "[GET] \"https://www.8kcosplay.com/wp-json/wp/v2/posts?per_page=10&_embed&tags=4\": 522 <none>\n",
       "id": "251905826635286528",
       "image": null,
       "ownerUserId": null,

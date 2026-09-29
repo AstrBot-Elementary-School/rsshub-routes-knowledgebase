@@ -75,8 +75,8 @@ _None_
   "topFeeds": [
     {
       "description": "同济大学研究生招生网通知公告 - Powered by RSSHub",
-      "errorAt": "2026-07-22T21:15:44.052Z",
-      "errorMessage": "[GET] \"https://yz.tongji.edu.cn/zsxw/ggtz.htm\": <no response> fetch failed (Connect Timeout Error (attempted addresses: 202.120.189.175:443, 2001:da8:b8:80:192:168:80:60:443, timeout: 10000ms))\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "68526859637876736",
       "image": "https://upload.wikimedia.org/wikipedia/zh/f/f8/Tongji_University_Emblem.svg",
       "ownerUserId": null,
