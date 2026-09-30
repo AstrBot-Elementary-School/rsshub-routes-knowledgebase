@@ -60,7 +60,7 @@ The optional category parameter uses the slug from an Uber Engineering category 
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 98,
+  "heat": 97,
   "location": "blog.ts",
   "maintainers": [
     "hulb",

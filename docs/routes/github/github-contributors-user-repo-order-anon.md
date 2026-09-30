@@ -84,28 +84,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "New contributors for open-metadata/OpenMetadata - Powered by RSSHub",
+      "description": "New contributors for infiniflow/ragflow - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "78928360835988480",
+      "id": "84430164607162368",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/open-metadata/OpenMetadata/graphs/contributors",
-      "title": "open-metadata/OpenMetadata Contributors",
+      "siteUrl": "https://github.com/infiniflow/ragflow/graphs/contributors",
+      "title": "infiniflow/ragflow Contributors",
       "type": "feed",
-      "url": "rsshub://github/contributors/open-metadata/OpenMetadata"
+      "url": "rsshub://github/contributors/infiniflow/ragflow"
     },
     {
-      "description": "New contributors for aigem/videos - Powered by RSSHub",
+      "description": "New contributors for cgw88/cgw321.com - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "145641760615368704",
+      "id": "162529901506768896",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/aigem/videos/graphs/contributors",
-      "title": "aigem/videos Contributors",
+      "siteUrl": "https://github.com/cgw88/cgw321.com/graphs/contributors",
+      "title": "cgw88/cgw321.com Contributors",
       "type": "feed",
-      "url": "rsshub://github/contributors/aigem/videos"
+      "url": "rsshub://github/contributors/cgw88/cgw321.com"
     }
   ]
 }

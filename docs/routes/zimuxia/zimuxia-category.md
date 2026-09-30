@@ -69,7 +69,7 @@ _None_
     {
       "description": "ALL - FIX字幕侠 - Powered by RSSHub",
       "errorAt": "2025-07-23T01:28:07.673Z",
-      "errorMessage": "[GET] \"https://www.zimuxia.cn/我们的作品?\": <no response> fetch failed (getaddrinfo ENOTFOUND www.zimuxia.cn)\n",
+      "errorMessage": "[GET] \"https://www.zimuxia.cn/我们的作品?\": 530 \n",
       "id": "112773725092189184",
       "image": null,
       "ownerUserId": null,

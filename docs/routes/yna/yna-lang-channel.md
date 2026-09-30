@@ -86,8 +86,8 @@ _None_
   "topFeeds": [
     {
       "description": "韩国联合通讯社 | 滚动 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-29T05:44:46.749Z",
+      "errorMessage": "Status code 525\n",
       "id": "87238542461270016",
       "image": null,
       "ownerUserId": null,

@@ -76,7 +76,7 @@ _None_
     {
       "description": "Metacritic aggregates music, game, tv, and movie reviews from the leading critics. Only Metacritic.com uses METASCORES, which let you know at a glance how each item was reviewed. - Powered by RSSHub",
       "errorAt": "2026-08-14T11:07:15.155Z",
-      "errorMessage": "Cannot read properties of null (reading '1')\n",
+      "errorMessage": "Cannot read properties of undefined (reading 'split')\n",
       "id": "70313043997076480",
       "image": null,
       "ownerUserId": null,

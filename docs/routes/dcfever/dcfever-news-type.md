@@ -77,16 +77,16 @@ _None_
       "url": "rsshub://dcfever/news"
     },
     {
-      "description": "攝影器材 - DCFever.com 香港最受歡迎數碼產品資訊互動平台 - Powered by RSSHub",
+      "description": "生活科技 - DCFever.com 香港最受歡迎數碼產品資訊互動平台 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "130186322692247552",
+      "id": "98240030144483328",
       "image": "https://cdn10.dcfever.com/images/android_192.png",
       "ownerUserId": null,
-      "siteUrl": "https://www.dcfever.com/news/index.php?type=camera",
-      "title": "攝影器材 - DCFever.com 香港最受歡迎數碼產品資訊互動平台",
+      "siteUrl": "https://www.dcfever.com/news/index.php?type=gadget",
+      "title": "生活科技 - DCFever.com 香港最受歡迎數碼產品資訊互動平台",
       "type": "feed",
-      "url": "rsshub://dcfever/news/camera"
+      "url": "rsshub://dcfever/news/gadget"
     }
   ]
 }

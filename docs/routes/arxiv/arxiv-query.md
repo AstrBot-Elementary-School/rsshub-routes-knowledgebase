@@ -58,18 +58,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "arXiv (search_query=cat:cs.AI&sortBy=submittedDate) - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "250564935356404745",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://export.arxiv.org/api/query?search_query=cat:cs.AI&sortBy=submittedDate",
-      "title": "arXiv (search_query=cat:cs.AI&sortBy=submittedDate)",
-      "type": "feed",
-      "url": "rsshub://arxiv/search_query=cat:cs.AI&sortBy=submittedDate"
-    },
-    {
       "description": "arXiv (search_query=cat:cs.AI AND (all:evolution OR all:evolutionary OR all:\"artificial evolution\" OR all:\"AI evolution\" OR all:\"self-improvement\" OR all:\"recursive self-improvement\")&start=0&max_results=100&sortBy=relevance&sortOrder=descending) - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -80,6 +68,18 @@ _None_
       "title": "arXiv (search_query=cat:cs.AI AND (all:evolution OR all:evolutionary OR all:\"artificial evolution\" OR all:\"AI evolution\" OR all:\"self-improvement\" OR all:\"recursive self-improvement\")&start=0&max_results=100&sortBy=relevance&sortOrder=descending)",
       "type": "feed",
       "url": "rsshub://arxiv/search_query%3Dcat%3Acs.AI%20AND%20(all%3Aevolution%20OR%20all%3Aevolutionary%20OR%20all%3A%22artificial%20evolution%22%20OR%20all%3A%22AI%20evolution%22%20OR%20all%3A%22self-improvement%22%20OR%20all%3A%22recursive%20self-improvement%22)%26start%3D0%26max_results%3D100%26sortBy%3Drelevance%26sortOrder%3Ddescending"
+    },
+    {
+      "description": "arXiv (search_query=cat:cs.AI&sortBy=submittedDate) - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "250564935356404745",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://export.arxiv.org/api/query?search_query=cat:cs.AI&sortBy=submittedDate",
+      "title": "arXiv (search_query=cat:cs.AI&sortBy=submittedDate)",
+      "type": "feed",
+      "url": "rsshub://arxiv/search_query=cat:cs.AI&sortBy=submittedDate"
     }
   ]
 }

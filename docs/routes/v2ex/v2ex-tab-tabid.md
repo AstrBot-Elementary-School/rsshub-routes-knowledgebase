@@ -50,7 +50,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1395,
+  "heat": 1397,
   "location": "tab.ts",
   "maintainers": [
     "liyefox"
@@ -78,8 +78,8 @@ _None_
     },
     {
       "description": "V2EX-tab-apple - Powered by RSSHub",
-      "errorAt": "2026-09-28T10:47:05.955Z",
-      "errorMessage": "Failed to fetch\nFailed to fetch\n[GET] \"https://v2ex.com/?tab=apple\": 403 Forbidden\n",
+      "errorAt": "2026-09-29T13:06:30.000Z",
+      "errorMessage": "terminated\n[GET] \"https://v2ex.com/?tab=apple\": <no response> fetch failed\n[GET] \"https://v2ex.com/?tab=apple\": 403 Forbidden\n",
       "id": "46752076079222784",
       "image": null,
       "ownerUserId": null,

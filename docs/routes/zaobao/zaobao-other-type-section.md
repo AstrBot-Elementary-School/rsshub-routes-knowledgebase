@@ -38,7 +38,7 @@ _None_
   ],
   "description": "除了上面两个兼容规则之外，联合早报网站里所有页面形如 <https://www.zaobao.com/lifestyle/health> 这样的栏目都能被这个规则解析到，早报的大部分栏目都是这个样式的。你可以测试之后再订阅。",
   "example": "/zaobao/other/lifestyle/health",
-  "heat": 148,
+  "heat": 149,
   "location": "other.ts",
   "maintainers": [
     "shunf4"
@@ -73,7 +73,7 @@ _None_
       "image": "https://www.zaobao.com.sg/favicon.ico",
       "ownerUserId": null,
       "siteUrl": "https://www.zaobao.com/forum/views",
-      "title": "《联合早报》评论 | 联合早报网",
+      "title": "《联合早报》时事与新闻评论 | 联合早报",
       "type": "feed",
       "url": "rsshub://zaobao/other/forum/views"
     }

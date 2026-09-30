@@ -73,7 +73,7 @@ _None_
     {
       "description": "首页 - 旅法师营地 - Powered by RSSHub",
       "errorAt": "2026-09-27T17:06:33.528Z",
-      "errorMessage": "Cannot read properties of null (reading '1')\n",
+      "errorMessage": "503 \n",
       "id": "41840367096067072",
       "image": null,
       "ownerUserId": null,

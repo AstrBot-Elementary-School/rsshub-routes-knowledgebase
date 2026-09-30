@@ -32,10 +32,7 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `www.youtube.com/@:username/streams`
-- `target`: `/live/@:username`
-### Rule 2
-- `source`:
+  - `www.youtube.com/:username/streams`
   - `www.youtube.com/channel/:username/streams`
 - `target`: `/live/:username`
 
@@ -62,12 +59,7 @@ _None_
   "radar": [
     {
       "source": [
-        "www.youtube.com/@:username/streams"
-      ],
-      "target": "/live/@:username"
-    },
-    {
-      "source": [
+        "www.youtube.com/:username/streams",
         "www.youtube.com/channel/:username/streams"
       ],
       "target": "/live/:username"
@@ -76,8 +68,8 @@ _None_
   "topFeeds": [
     {
       "description": "$老高與小茉 Mr & Mrs Gao's live streaming status - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-28T22:00:54.900Z",
+      "errorMessage": "Tab \"streams\" not found\n",
       "id": "69051964046186496",
       "image": null,
       "ownerUserId": null,
@@ -87,14 +79,14 @@ _None_
       "url": "rsshub://youtube/live/@laogao"
     },
     {
-      "description": "$Gawr Gura Ch. hololive-EN's live streaming status - Powered by RSSHub",
+      "description": "[April 30, 2025 Graduated.] Shark-girl Idol of Hololive EN ! 🐟 --- A descendant of the Lost City of Atlantis, who swam to Earth while saying, \"It's so boring... - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "42001666786766848",
-      "image": null,
+      "image": "https://yt3.googleusercontent.com/6BCfAqi9yIpZbHLbw9BAWySvB3XZf9r8jFqudO5nSOsHoGzLhlKrm1M1uuMCRabi_pXGDzl7=s900-c-k-c0x00ffffff-no-rj",
       "ownerUserId": null,
-      "siteUrl": "https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g",
-      "title": "Gawr Gura Ch. hololive-EN's Live Status",
+      "siteUrl": "https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g/streams",
+      "title": "Gawr Gura Ch. hololive-EN - Live - YouTube",
       "type": "feed",
       "url": "rsshub://youtube/live/@GawrGura"
     }

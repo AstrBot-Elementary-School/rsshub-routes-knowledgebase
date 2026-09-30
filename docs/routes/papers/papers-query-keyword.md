@@ -88,18 +88,6 @@ If you subscibe to [arXiv Paper queryed by Detection](https://papers.cool/arxiv/
   },
   "topFeeds": [
     {
-      "description": "query detection - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "199876342948952064",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://papers.cool/arxiv/search?highlight=1&query=query/Detection&sort=0",
-      "title": "query detection",
-      "type": "feed",
-      "url": "rsshub://papers/query"
-    },
-    {
       "description": "llms for scientific discovery - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -110,6 +98,18 @@ If you subscibe to [arXiv Paper queryed by Detection](https://papers.cool/arxiv/
       "title": "llms for scientific discovery",
       "type": "feed",
       "url": "rsshub://papers/query/LLMs%20for%20Scientific%20Discovery"
+    },
+    {
+      "description": "query detection - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "199876342948952064",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://papers.cool/arxiv/search?highlight=1&query=query/Detection&sort=0",
+      "title": "query detection",
+      "type": "feed",
+      "url": "rsshub://papers/query"
     }
   ],
   "url": "papers.cool"

@@ -72,16 +72,16 @@ _None_
       "url": "rsshub://linovelib/volume/824"
     },
     {
-      "description": "败北女角太多了！ - 哔哩轻小说 - Powered by RSSHub",
-      "errorAt": "2026-09-02T13:37:30.777Z",
-      "errorMessage": "[GET] \"https://www.linovelib.com/novel/3095/catalog\": 403 Forbidden\n",
-      "id": "58014655249591296",
+      "description": "Re:从零开始的异世界生活 - 哔哩轻小说 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "126700206220732416",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.linovelib.com/novel/3095/catalog",
-      "title": "败北女角太多了！ - 哔哩轻小说",
+      "siteUrl": "https://www.linovelib.com/novel/2139/catalog",
+      "title": "Re:从零开始的异世界生活 - 哔哩轻小说",
       "type": "feed",
-      "url": "rsshub://linovelib/volume/3095"
+      "url": "rsshub://linovelib/volume/2139"
     }
   ]
 }

@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4861,
+  "heat": 4864,
   "location": "daily.ts",
   "maintainers": [
     "nczitzk",
@@ -73,7 +73,7 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "1. OpenAI 因 Agent 多次越权逃逸事件暂停相关训练 2. 宇树王兴兴回应为何造 390 万元起载人变形机甲：大型机器人是行业趋势 3. 消息称 OpenAI 将推出常驻 AI 助手「O」，预计 9 月 29 日发布 4. 传华为或于今年 11 月推出星耀子品牌 5. 《自然》揭秘：大模型时代新型学术骗局，假机构兜售院士头衔牟利 6. 诺和诺德与 Anthropic 合作 巨头加码 AI 制药领域 7. Anthropic 推出新版 Playground 无代码也可运行 Claude API 8. OpenAI 与 Anthropic 首席执行官被传唤出席澳大利亚 AI 调查听证会 9. 涉 5 起事故含 3 死，Comma.ai 遭美国国家公路交通安全管理局调查 - Powered by RSSHub",
+      "description": "1. Anthropic 推出低成本 AI 模型 Sonnet 5.5 2. OpenAI 因安全问题取消 GPT-6.1 Astra 发布计划 3. AMD 同意收购李飞飞旗下 AI 初创公司 World Labs，交易金额 82 亿美元 4. 苹果客服回应 iPhone 18 Pro 自动重启问题：系统原因，将推送更新修复 5. 罗永浩质疑东方甄选售劣质溜溜凳获利千万未全量退款 6. 郑刚实名举报罗永浩相关公司偷税漏税，罗永浩回应称系造谣 7. OpenAI 高管透露：80% 至 90% 研发力量已转向 GPT-7 及后续模型 8. 中行万事达卡疑似遭批量盗刷 客服证实收到多起反馈 9. Anthropic 宣布 Claude 攻克杨-米尔斯理论九圈散射振幅难题 10. 智谱 ZCode 删除涉事云端数据 向用户赠送重置卡及 1 亿 Token 额度 11. 山姆回应顾客反映蛋糕内有活虫事件：生产运输环节生虫可能性极低 12. 千问与夸克网盘打通，网盘成为 AI 可调用的个人知识库 13. 余承东首度公开表态：鸿蒙智行将增投四界 问界用户权益不受影响 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "52347176714948614",

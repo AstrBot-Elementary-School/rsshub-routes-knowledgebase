@@ -6434,6 +6434,12 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `1`
 - Index File: `index/koreaherald.md`
 
+## Kosmo Foto
+- Namespace: `kosmofoto`
+- Aliases: `kosmo foto, kosmofoto, kosmofoto.com`
+- Route Count: `1`
+- Index File: `index/kosmofoto.md`
+
 ## Kovid's software projects
 - Namespace: `kovidgoyal`
 - Aliases: `kovid's software projects, kovidgoyal, sw, sw.kovidgoyal.net`
@@ -11807,7 +11813,7 @@ Use this file to select the target namespace before opening route documents.
 ## YouTube
 - Namespace: `youtube`
 - Aliases: `youtube, youtube.com`
-- Route Count: `8`
+- Route Count: `9`
 - Index File: `index/youtube.md`
 
 ## 有赞

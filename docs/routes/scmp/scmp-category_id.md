@@ -76,7 +76,7 @@ See the [official RSS page](https://www.scmp.com/rss) to get the ID of each cate
     {
       "description": "The latest breaking news from China. - Powered by RSSHub",
       "errorAt": "2026-09-18T09:02:16.787Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'summary')\n",
+      "errorMessage": "[GET] \"https://www.scmp.com/opinion/china-opinion/article/3368704/china-no-longer-just-worlds-factory-its-hq\": 403 Forbidden\n",
       "id": "58381798255721484",
       "image": "https://assets-v2.i-scmp.com/production/static/img/icons/scmp-meta-1200x630.png",
       "ownerUserId": null,
@@ -87,8 +87,8 @@ See the [official RSS page](https://www.scmp.com/rss) to get the ID of each cate
     },
     {
       "description": "Breaking news, analysis and opinion from the SCMP's Asia edition. - Powered by RSSHub",
-      "errorAt": "2026-09-28T09:53:27.570Z",
-      "errorMessage": "[GET] \"https://www.scmp.com/week-asia/people/article/3369083/thai-mans-jet-ski-stunt-fuels-anger-unequal-bangkok-poor-hit-hardest-floods\": 403 Forbidden\n[GET] \"https://www.scmp.com/week-asia/people/article/3369083/thai-mans-jet-ski-stunt-fuels-anger-unequal-bangkok-poor-hit-hardest-floods\": 403 Forbidden\n",
+      "errorAt": "2026-09-29T00:12:21.124Z",
+      "errorMessage": "[GET] \"https://www.scmp.com/week-asia/people/article/3369197/mahathir-lonely-family-and-malaysia-mourn-siti-hasmah\": 403 Forbidden\n[GET] \"https://www.scmp.com/week-asia/people/article/3369232/vietnam-charges-3-men-terrorism-abduction-claim-emerges\": 403 Forbidden\n",
       "id": "58381798255721483",
       "image": "https://assets-v2.i-scmp.com/production/static/img/icons/scmp-meta-1200x630.png",
       "ownerUserId": null,

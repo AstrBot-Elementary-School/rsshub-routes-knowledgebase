@@ -61,8 +61,8 @@ _None_
   "topFeeds": [
     {
       "description": "曼联 - 相关新闻 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-29T08:35:59.204Z",
+      "errorMessage": "Cannot read properties of undefined (reading 'base_info')\n[GET] \"https://www.dongqiudi.com/team/50000515.html\": 403 Forbidden\n",
       "id": "60882001172427787",
       "image": "https://sd.qunliao.info/fastdfs3/M00/B5/75/ChOxM1xC2FWAK5dCAAAmr0XTTPA012.png",
       "ownerUserId": null,

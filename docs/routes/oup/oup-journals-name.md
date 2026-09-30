@@ -88,16 +88,16 @@ _None_
       "url": "rsshub://oup/journals/qje"
     },
     {
-      "description": "OUP - restud - Powered by RSSHub",
-      "errorAt": "2025-07-18T14:31:43.383Z",
-      "errorMessage": "[GET] \"https://academic.oup.com/restud/issue\": 403 \n",
-      "id": "73543481897669632",
+      "description": "OUP - adaptation - Powered by RSSHub",
+      "errorAt": "2025-07-18T10:38:49.798Z",
+      "errorMessage": "[GET] \"https://academic.oup.com/adaptation/issue\": 403 Forbidden\n",
+      "id": "150382870590088192",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://academic.oup.com/restud/issue",
-      "title": "OUP - restud",
+      "siteUrl": "https://academic.oup.com/adaptation/issue",
+      "title": "OUP - adaptation",
       "type": "feed",
-      "url": "rsshub://oup/journals/restud"
+      "url": "rsshub://oup/journals/adaptation"
     }
   ],
   "url": "academic.oup.com/"

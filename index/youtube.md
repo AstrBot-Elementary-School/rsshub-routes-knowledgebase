@@ -6,7 +6,7 @@
 - URL: `youtube.com`
 - Language: `_None_`
 - Aliases: `youtube, youtube.com`
-- Route Count: `8`
+- Route Count: `9`
 
 ## Routes
 
@@ -57,6 +57,14 @@
 - File Name: `youtube-playlist-id-embed.md`
 - Categories: `social-media, popular`
 - Maintainers: `HenryQW`
+
+### Shows
+- Route ID: `youtube:/youtube/shows/:username`
+- Route Path: `/youtube/shows/:username`
+- File: `docs/routes/youtube/youtube-shows-username.md`
+- File Name: `youtube-shows-username.md`
+- Categories: `social-media`
+- Maintainers: `TonyRL`
 
 ### Subscriptions
 - Route ID: `youtube:/youtube/subscriptions/:embed?`

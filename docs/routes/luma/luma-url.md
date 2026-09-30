@@ -90,7 +90,7 @@ _None_
     {
       "description": "MenteX - Powered by RSSHub",
       "errorAt": "2026-08-27T20:26:16.017Z",
-      "errorMessage": "[GET] \"https://api.lu.ma/url?url=mentex_ecosistema\": 429 Too Many Requests\n",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "265966986896278528",
       "image": null,
       "ownerUserId": null,

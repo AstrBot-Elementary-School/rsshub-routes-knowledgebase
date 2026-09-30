@@ -137,7 +137,7 @@
     {
       "description": "News & Views That Matter - Powered by RSSHub",
       "errorAt": "2026-09-07T09:32:19.566Z",
-      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/885829-snapshot-asian-games-malaysia-hits-six-gold-target-via-womens-squash\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/885917-bersatu-harapan-reps-downplay-closed-door-meeting-ahead-of-malacca-polls\": 404 Not Found\n",
       "id": "61840955600323584",
       "image": null,
       "ownerUserId": null,

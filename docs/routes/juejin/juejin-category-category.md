@@ -89,8 +89,8 @@
     },
     {
       "description": "掘金 人工智能 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-29T12:31:14.884Z",
+      "errorMessage": "Authentication failed. Access denied.\n/juejin/category/ai\n[GET] \"https://juejin.cn/post/7690876134208651310\": 403 Forbidden\n",
       "id": "42000866869432330",
       "image": null,
       "ownerUserId": null,

@@ -101,18 +101,6 @@
   },
   "topFeeds": [
     {
-      "description": "公主连结台服-最新公告 - Powered by RSSHub",
-      "errorAt": "2025-11-19T09:38:12.766Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
-      "id": "66023614482950154",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "http://www.princessconnect.so-net.tw/news",
-      "title": "公主连结台服-最新公告",
-      "type": "feed",
-      "url": "rsshub://priconne-redive/news/zh-tw"
-    },
-    {
       "description": "公主链接日服-新闻 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -123,6 +111,18 @@
       "title": "公主链接日服-新闻",
       "type": "feed",
       "url": "rsshub://priconne-redive/news"
+    },
+    {
+      "description": "公主连结台服-最新公告 - Powered by RSSHub",
+      "errorAt": "2025-11-19T09:38:12.766Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "id": "66023614482950154",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "http://www.princessconnect.so-net.tw/news",
+      "title": "公主连结台服-最新公告",
+      "type": "feed",
+      "url": "rsshub://priconne-redive/news/zh-tw"
     }
   ],
   "url": "priconne-redive.jp/news"

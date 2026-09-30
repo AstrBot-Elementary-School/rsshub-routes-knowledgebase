@@ -94,15 +94,15 @@ More jounals can be found in [Browse Journals](https://www.annualreviews.org/act
     },
     {
       "description": null,
-      "errorAt": "2026-06-30T06:04:20.800Z",
-      "errorMessage": "[GET] \"https://www.annualreviews.org/r/matsci_rss\": 403 Forbidden\n",
-      "id": "1178645011650969608",
+      "errorAt": "2026-06-30T06:04:40.184Z",
+      "errorMessage": "[GET] \"https://www.annualreviews.org/r/control_rss\": 403 Forbidden\n",
+      "id": "1178645011650969605",
       "image": null,
       "ownerUserId": null,
       "siteUrl": null,
       "title": "Importing",
       "type": "feed",
-      "url": "rsshub://annualreviews/matsci"
+      "url": "rsshub://annualreviews/control"
     }
   ]
 }

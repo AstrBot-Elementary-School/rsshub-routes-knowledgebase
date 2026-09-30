@@ -134,7 +134,7 @@
     {
       "description": "趣集 - Powered by RSSHub",
       "errorAt": "2025-01-19T17:37:36.683Z",
-      "errorMessage": "Failed to fetch\nCannot read properties of undefined (reading 'find')\n",
+      "errorMessage": "Cannot read properties of undefined (reading 'find')\nCannot read properties of undefined (reading 'find')\n",
       "id": "86604116820537344",
       "image": null,
       "ownerUserId": null,

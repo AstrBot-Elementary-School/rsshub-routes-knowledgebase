@@ -51,28 +51,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "山山大王SSDW 商铺上新 - Powered by RSSHub",
+      "description": "DB MADE 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264526059366121472",
+      "id": "1264525269478014976",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1807280336",
-      "title": "山山大王SSDW 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1746841069",
+      "title": "DB MADE 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1807280336"
+      "url": "rsshub://weidian/goods/1746841069"
     },
     {
-      "description": "崔狱Studio ￴￴ ￴￴￴ ￴￴ ￴￴ ￴￴￴￴ 商铺上新 - Powered by RSSHub",
+      "description": "byvovo 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264525315179151360",
+      "id": "1264525518451900416",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1623777994",
-      "title": "崔狱Studio ￴￴ ￴￴￴ ￴￴ ￴￴ ￴￴￴￴ 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1771961812",
+      "title": "byvovo 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1623777994"
+      "url": "rsshub://weidian/goods/1771961812"
     }
   ]
 }

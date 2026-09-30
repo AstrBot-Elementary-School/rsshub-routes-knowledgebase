@@ -62,7 +62,7 @@ others = 热点新闻 + 滚动新闻
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 328,
+  "heat": 327,
   "location": "index.ts",
   "maintainers": [
     "nczitzk",
@@ -88,7 +88,7 @@ others = 热点新闻 + 滚动新闻
     {
       "description": "观察者网 - 全部 - Powered by RSSHub",
       "errorAt": "2026-09-10T00:06:35.137Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'replace')\nCannot read properties of undefined (reading 'replace')\nCannot read properties of undefined (reading 'replace')\n",
+      "errorMessage": "Cannot read properties of undefined (reading 'replace')\nCannot read properties of undefined (reading 'replace')\n[GET] \"https://www.guancha.cn\": 522 <none>\n",
       "id": "56875843110895617",
       "image": null,
       "ownerUserId": null,

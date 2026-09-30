@@ -90,8 +90,8 @@
     },
     {
       "description": "中文热门游戏折扣合集-游戏打折情报 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-28T15:01:23.016Z",
+      "errorMessage": "Authentication failed. Access denied.\n/yxdzqb/popular_cn\n[GET] \"https://www.yxdzqb.com/index_popular_cn.html\": 404 Not Found\n",
       "id": "41476070206969860",
       "image": null,
       "ownerUserId": null,

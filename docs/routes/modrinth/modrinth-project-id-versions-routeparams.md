@@ -116,16 +116,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "Create fancy looking text, item or block holograms with display entities. - Powered by RSSHub",
+      "description": "A redstone & optimization modpack for vanilla Minecraft servers. 一款红石优化的整合包，适用于原版Minecraft服务器。 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "123850042948199424",
+      "id": "164180036830267392",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/5QNgOj66",
-      "title": "FancyHolograms Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/redstone-optiunity",
+      "title": "Redstone OptiUnity一体化红石优化 Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/5QNgOj66/versions"
+      "url": "rsshub://modrinth/project/redstone-optiunity/versions"
     }
   ]
 }

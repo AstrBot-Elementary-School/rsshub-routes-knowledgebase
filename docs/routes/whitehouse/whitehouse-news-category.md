@@ -56,7 +56,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 77,
+  "heat": 76,
   "location": "news.ts",
   "maintainers": [
     "nczitzk",
@@ -94,8 +94,8 @@
     },
     {
       "description": "Presidential Actions – The White House - Powered by RSSHub",
-      "errorAt": "2026-09-28T01:27:03.506Z",
-      "errorMessage": "[GET] \"https://www.whitehouse.gov/presidential-actions/\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "121830281207047168",
       "image": null,
       "ownerUserId": null,

@@ -172,7 +172,7 @@
   "features": {
     "supportRadar": true
   },
-  "heat": 51,
+  "heat": 50,
   "location": "index.ts",
   "maintainers": [
     "sunshinenny"

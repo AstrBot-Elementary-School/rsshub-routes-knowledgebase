@@ -75,14 +75,14 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "CBC News - Latest Canada, World, Entertainment and Business NewsMenuTelevisionheadphonePrevious itemNext itemclosed captionclosed captionclosed captionclosed captionclosed captionclosed captionclosed captionclosed captionclosed captionclosed caption - Powered by RSSHub",
+      "description": "CBC News - Latest Canada, World, Entertainment and Business NewsMenuTelevisionheadphonePrevious itemNext itemclosed captionclosed captionclosed captionclosed captionclosed captionclosed captionclosed captionclosed captionclosed caption - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "165818925513194496",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.cbc.ca/news",
-      "title": "CBC News - Latest Canada, World, Entertainment and Business NewsMenuTelevisionheadphonePrevious itemNext itemclosed captionclosed captionclosed captionclosed captionclosed captionclosed captionclosed captionclosed captionclosed captionclosed caption",
+      "title": "CBC News - Latest Canada, World, Entertainment and Business NewsMenuTelevisionheadphonePrevious itemNext itemclosed captionclosed captionclosed captionclosed captionclosed captionclosed captionclosed captionclosed captionclosed caption",
       "type": "feed",
       "url": "rsshub://cbc/topics"
     },

@@ -55,7 +55,7 @@ For example, the category for the page <https://www.koreaherald.com/Business> an
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 23,
+  "heat": 22,
   "location": "index.ts",
   "maintainers": [
     "quiniapiezoelectricity"

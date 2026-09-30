@@ -82,8 +82,8 @@ Query photos using filter parameters found on kpopping such as `idolId`, `groupI
   "topFeeds": [
     {
       "description": "kpics - kpopping - Powered by RSSHub",
-      "errorAt": "2026-09-28T06:25:53.468Z",
-      "errorMessage": "[GET] \"https://kpopping.com/api/photos?gender-female%2Fcategory-all%2Fidol-any%2Fgroup-any%2Forder=\": 403 \n[GET] \"https://kpopping.com/api/photos?gender-female%2Fcategory-all%2Fidol-any%2Fgroup-any%2Forder=\": 429 Too Many Requests\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "127912538951825408",
       "image": "https://kpopping.com/build/images/kpopping-default-detailed.jpg",
       "ownerUserId": null,

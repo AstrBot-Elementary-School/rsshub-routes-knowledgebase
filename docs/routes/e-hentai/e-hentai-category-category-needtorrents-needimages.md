@@ -64,7 +64,7 @@
   "features": {
     "nsfw": true
   },
-  "heat": 6,
+  "heat": 8,
   "location": "index.tsx",
   "maintainers": [
     "nczitzk"
@@ -90,21 +90,9 @@
   },
   "topFeeds": [
     {
-      "description": "manga - E-Hentai Galleries - Powered by RSSHub",
-      "errorAt": "2026-09-22T00:35:44.453Z",
-      "errorMessage": "a1969.map is not a function\n",
-      "id": "106841285260128256",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://e-hentai.org/manga",
-      "title": "manga - E-Hentai Galleries",
-      "type": "feed",
-      "url": "rsshub://e-hentai/category/manga"
-    },
-    {
       "description": "cosplay - E-Hentai Galleries - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-29T13:36:01.740Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "106841534145317888",
       "image": null,
       "ownerUserId": null,
@@ -112,6 +100,18 @@
       "title": "cosplay - E-Hentai Galleries",
       "type": "feed",
       "url": "rsshub://e-hentai/category/cosplay"
+    },
+    {
+      "description": "manga - E-Hentai Galleries - Powered by RSSHub",
+      "errorAt": "2026-09-22T00:35:44.453Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "id": "106841285260128256",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://e-hentai.org/manga",
+      "title": "manga - E-Hentai Galleries",
+      "type": "feed",
+      "url": "rsshub://e-hentai/category/manga"
     }
   ]
 }

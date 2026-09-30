@@ -79,16 +79,16 @@ _None_
       "url": "rsshub://douban/celebrity/1274261"
     },
     {
-      "description": "豆瓣电影人 - 小林聪美 Satomi Kobayashi - Powered by RSSHub",
+      "description": "豆瓣电影人 - 杰里米·克拉克森 Jeremy Clarkson - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "195039420078972928",
+      "id": "195040470044503040",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://movie.douban.com/celebrity/1019714/movies?sortby=time",
-      "title": "豆瓣电影人 - 小林聪美 Satomi Kobayashi",
+      "siteUrl": "https://movie.douban.com/celebrity/1078759/movies?sortby=time",
+      "title": "豆瓣电影人 - 杰里米·克拉克森 Jeremy Clarkson",
       "type": "feed",
-      "url": "rsshub://douban/celebrity/1019714"
+      "url": "rsshub://douban/celebrity/1078759"
     }
   ]
 }

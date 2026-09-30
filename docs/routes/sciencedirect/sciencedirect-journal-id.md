@@ -90,7 +90,7 @@ _None_
     {
       "description": null,
       "errorAt": "2026-06-30T06:04:20.489Z",
-      "errorMessage": "[GET] \"https://www.sciencedirect.com/journal/physics-reports/articles-in-press\": 400 Bad Request\n",
+      "errorMessage": "[GET] \"https://www.sciencedirect.com/journal/physics-reports/articles-in-press\": 403 Forbidden\n",
       "id": "1178645011650969600",
       "image": null,
       "ownerUserId": null,
