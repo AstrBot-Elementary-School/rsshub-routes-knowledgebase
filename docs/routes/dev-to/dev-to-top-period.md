@@ -77,18 +77,6 @@ _None_
       "description": "Top dev.to posts - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "151151136731356160",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://dev.to/top/week",
-      "title": "dev.to top (week)",
-      "type": "feed",
-      "url": "rsshub://dev.to/top/week"
-    },
-    {
-      "description": "Top dev.to posts - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "145315249048801291",
       "image": null,
       "ownerUserId": null,
@@ -96,6 +84,18 @@ _None_
       "title": "dev.to top (month)",
       "type": "feed",
       "url": "rsshub://dev.to/top/month"
+    },
+    {
+      "description": "Top dev.to posts - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "151151136731356160",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://dev.to/top/week",
+      "title": "dev.to top (week)",
+      "type": "feed",
+      "url": "rsshub://dev.to/top/week"
     }
   ],
   "url": "dev.to/top"

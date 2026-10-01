@@ -549,18 +549,6 @@
       "description": "深交所官网 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "60583368044158976",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.szse.cn/www/lawrules/rule/allrules/bussiness/",
-      "title": "深圳证券交易所 - 全部业务规则",
-      "type": "feed",
-      "url": "rsshub://szse/rule/allrules/bussiness"
-    },
-    {
-      "description": "深交所官网 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "121206842536209408",
       "image": null,
       "ownerUserId": null,
@@ -568,6 +556,18 @@
       "title": "深圳证券交易所 - 全部业务规则",
       "type": "feed",
       "url": "rsshub://szse/rule"
+    },
+    {
+      "description": "深交所官网 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "60583368044158976",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.szse.cn/www/lawrules/rule/allrules/bussiness/",
+      "title": "深圳证券交易所 - 全部业务规则",
+      "type": "feed",
+      "url": "rsshub://szse/rule/allrules/bussiness"
     }
   ],
   "url": "www.szse.cn"

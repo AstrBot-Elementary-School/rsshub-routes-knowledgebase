@@ -117,18 +117,6 @@
       "description": "北京德恒律师事务所 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "64491755230449667",
-      "image": "https://www.dehenglaw.com/images/logo_deheng.png",
-      "ownerUserId": null,
-      "siteUrl": "https://www.dehenglaw.com/CN/paper/0008/000901.aspx",
-      "title": "德恒论坛 - 德恒探索 - 德恒律师事务所",
-      "type": "feed",
-      "url": "rsshub://dehenglaw/CN/paper"
-    },
-    {
-      "description": "北京德恒律师事务所 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "174674333066488832",
       "image": "https://www.dehenglaw.com/images/logo_deheng.png",
       "ownerUserId": null,
@@ -136,6 +124,18 @@
       "title": "德恒论坛 - 德恒探索 - 德恒律师事务所",
       "type": "feed",
       "url": "rsshub://dehenglaw/CN/publish"
+    },
+    {
+      "description": "北京德恒律师事务所 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "64491755230449667",
+      "image": "https://www.dehenglaw.com/images/logo_deheng.png",
+      "ownerUserId": null,
+      "siteUrl": "https://www.dehenglaw.com/CN/paper/0008/000901.aspx",
+      "title": "德恒论坛 - 德恒探索 - 德恒律师事务所",
+      "type": "feed",
+      "url": "rsshub://dehenglaw/CN/paper"
     }
   ],
   "url": "dehenglaw.com"

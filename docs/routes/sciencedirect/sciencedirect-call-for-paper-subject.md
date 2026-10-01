@@ -62,18 +62,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Calls for Papers on ScienceDirect for subject: computer-science - Powered by RSSHub",
-      "errorAt": "2025-11-06T10:27:52.276Z",
-      "errorMessage": "[GET] \"https://www.sciencedirect.com/browse/calls-for-papers?subject=computer-science\": 400 Bad Request\n",
-      "id": "137424111559118848",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.sciencedirect.com/browse/calls-for-papers?subject=computer-science",
-      "title": "ScienceDirect Calls for Papers - computer-science",
-      "type": "feed",
-      "url": "rsshub://sciencedirect/call-for-paper/computer-science"
-    },
-    {
       "description": "Calls for Papers on ScienceDirect for subject: education - Powered by RSSHub",
       "errorAt": "2025-11-06T10:11:13.592Z",
       "errorMessage": "[GET] \"https://www.sciencedirect.com/browse/calls-for-papers?subject=education\": 400 Bad Request\n",
@@ -84,6 +72,18 @@ _None_
       "title": "ScienceDirect Calls for Papers - education",
       "type": "feed",
       "url": "rsshub://sciencedirect/call-for-paper/education"
+    },
+    {
+      "description": "Calls for Papers on ScienceDirect for subject: computer-science - Powered by RSSHub",
+      "errorAt": "2025-11-06T10:27:52.276Z",
+      "errorMessage": "[GET] \"https://www.sciencedirect.com/browse/calls-for-papers?subject=computer-science\": 400 Bad Request\n",
+      "id": "137424111559118848",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.sciencedirect.com/browse/calls-for-papers?subject=computer-science",
+      "title": "ScienceDirect Calls for Papers - computer-science",
+      "type": "feed",
+      "url": "rsshub://sciencedirect/call-for-paper/computer-science"
     }
   ],
   "url": "sciencedirect.com/browse/calls-for-papers"

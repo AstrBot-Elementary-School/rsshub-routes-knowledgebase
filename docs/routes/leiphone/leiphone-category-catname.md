@@ -120,18 +120,6 @@ _None_
       "description": "雷峰网 - 读懂智能&未来 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "142763127907131396",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.leiphone.com/category/ai",
-      "title": "雷峰网 ai",
-      "type": "feed",
-      "url": "rsshub://leiphone/category/ai"
-    },
-    {
-      "description": "雷峰网 - 读懂智能&未来 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "149642094386478114",
       "image": null,
       "ownerUserId": null,
@@ -139,6 +127,18 @@ _None_
       "title": "雷峰网 industrynews",
       "type": "feed",
       "url": "rsshub://leiphone/category/industrynews"
+    },
+    {
+      "description": "雷峰网 - 读懂智能&未来 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "142763127907131396",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.leiphone.com/category/ai",
+      "title": "雷峰网 ai",
+      "type": "feed",
+      "url": "rsshub://leiphone/category/ai"
     }
   ],
   "url": "leiphone.com/"

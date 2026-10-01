@@ -80,18 +80,6 @@
   },
   "topFeeds": [
     {
-      "description": "南京理工大学研究生院 -- 首页通知公告 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "62889514707509248",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://gs.njust.edu.cn/sytzgg_4568/list.htm",
-      "title": "南京理工大学研究生院 -- 首页通知公告",
-      "type": "feed",
-      "url": "rsshub://njust/gs/sytzgg_4568"
-    },
-    {
       "description": "南京理工大学研究生院 -- 招生信息 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -102,6 +90,18 @@
       "title": "南京理工大学研究生院 -- 招生信息",
       "type": "feed",
       "url": "rsshub://njust/gs/14687"
+    },
+    {
+      "description": "南京理工大学研究生院 -- 首页通知公告 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "62889514707509248",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://gs.njust.edu.cn/sytzgg_4568/list.htm",
+      "title": "南京理工大学研究生院 -- 首页通知公告",
+      "type": "feed",
+      "url": "rsshub://njust/gs/sytzgg_4568"
     }
   ]
 }

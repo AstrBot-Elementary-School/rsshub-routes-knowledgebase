@@ -73,18 +73,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "STUDIO 4℃参与的作品 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "162841047287123968",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://bgm.tv/person/2306/works?sort=date",
-      "title": "STUDIO 4℃参与的作品",
-      "type": "feed",
-      "url": "rsshub://bangumi.tv/person/2306"
-    },
-    {
       "description": "MADHOUSE参与的作品 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -95,6 +83,18 @@ _None_
       "title": "MADHOUSE参与的作品",
       "type": "feed",
       "url": "rsshub://bangumi.tv/person/603"
+    },
+    {
+      "description": "STUDIO 4℃参与的作品 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "162841047287123968",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://bgm.tv/person/2306/works?sort=date",
+      "title": "STUDIO 4℃参与的作品",
+      "type": "feed",
+      "url": "rsshub://bangumi.tv/person/2306"
     }
   ]
 }

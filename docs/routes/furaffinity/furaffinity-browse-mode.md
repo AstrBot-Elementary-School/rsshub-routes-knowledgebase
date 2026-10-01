@@ -80,18 +80,6 @@ _None_
   "topFeeds": [
     {
       "description": "Fur Affinity Browsing Artwork - Powered by RSSHub",
-      "errorAt": "2026-05-26T00:07:42.101Z",
-      "errorMessage": "[GET] \"https://faexport.spangle.org.uk/browse.json?sfw=1\": 502 Bad Gateway\n",
-      "id": "82628918077837312",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.furaffinity.net/browse/",
-      "title": "Fur Affinity | Browse",
-      "type": "feed",
-      "url": "rsshub://furaffinity/browse"
-    },
-    {
-      "description": "Fur Affinity Browsing Artwork - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "79507670825926656",
@@ -101,6 +89,18 @@ _None_
       "title": "Fur Affinity | Browse",
       "type": "feed",
       "url": "rsshub://furaffinity/browse/nsfw"
+    },
+    {
+      "description": "Fur Affinity Browsing Artwork - Powered by RSSHub",
+      "errorAt": "2026-05-26T00:07:42.101Z",
+      "errorMessage": "[GET] \"https://faexport.spangle.org.uk/browse.json?sfw=1\": 502 Bad Gateway\n",
+      "id": "82628918077837312",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.furaffinity.net/browse/",
+      "title": "Fur Affinity | Browse",
+      "type": "feed",
+      "url": "rsshub://furaffinity/browse"
     }
   ],
   "url": "furaffinity.net"

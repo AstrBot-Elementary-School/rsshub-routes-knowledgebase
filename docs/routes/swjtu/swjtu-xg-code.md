@@ -90,18 +90,6 @@
   "topFeeds": [
     {
       "description": "西南交大-扬华素质网 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "72512219481102338",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "http://xg.swjtu.edu.cn/web/Home/PushNewsList?Lmk7LJw34Jmu=010j.shtml",
-      "title": "西南交大-扬华素质网",
-      "type": "feed",
-      "url": "rsshub://swjtu/xg/tzgg"
-    },
-    {
-      "description": "西南交大-扬华素质网 - Powered by RSSHub",
       "errorAt": "2025-10-29T11:20:45.197Z",
       "errorMessage": "[GET] \"http://xg.swjtu.edu.cn/web/Home/PushNewsList?Lmk7LJw34Jmu=010j.shtml\": <no response> fetch failed\n",
       "id": "206259218544363520",
@@ -111,6 +99,18 @@
       "title": "西南交大-扬华素质网",
       "type": "feed",
       "url": "rsshub://swjtu/xg"
+    },
+    {
+      "description": "西南交大-扬华素质网 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "72512219481102338",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "http://xg.swjtu.edu.cn/web/Home/PushNewsList?Lmk7LJw34Jmu=010j.shtml",
+      "title": "西南交大-扬华素质网",
+      "type": "feed",
+      "url": "rsshub://swjtu/xg/tzgg"
     }
   ],
   "url": "xg.swjtu.edu.cn/web/Home/PushNewsList"

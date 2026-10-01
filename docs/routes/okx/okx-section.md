@@ -131,18 +131,6 @@ _None_
       "description": "最新公告 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "114341296718629888",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.okx.com/zh-hans/help/section/announcements-latest-announcements",
-      "title": "最新公告",
-      "type": "feed",
-      "url": "rsshub://okx/latest-announcements"
-    },
-    {
-      "description": "最新公告 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "113827262636876800",
       "image": null,
       "ownerUserId": null,
@@ -150,6 +138,18 @@ _None_
       "title": "最新公告",
       "type": "feed",
       "url": "rsshub://okx"
+    },
+    {
+      "description": "最新公告 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "114341296718629888",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.okx.com/zh-hans/help/section/announcements-latest-announcements",
+      "title": "最新公告",
+      "type": "feed",
+      "url": "rsshub://okx/latest-announcements"
     }
   ]
 }

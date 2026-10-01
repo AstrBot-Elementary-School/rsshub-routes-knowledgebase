@@ -54,7 +54,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2,
+  "heat": 1,
   "location": "yjsy/list.ts",
   "maintainers": [
     "Derekmini"

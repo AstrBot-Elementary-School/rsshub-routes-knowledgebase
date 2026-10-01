@@ -78,18 +78,6 @@ _None_
       "description": "Neat Download Manager - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "79871530629426176",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.neatdownloadmanager.com/index.php",
-      "title": "Neat Download Manager",
-      "type": "feed",
-      "url": "rsshub://neatdownloadmanager/download"
-    },
-    {
-      "description": "Neat Download Manager - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "198683230830132224",
       "image": null,
       "ownerUserId": null,
@@ -97,6 +85,18 @@ _None_
       "title": "Neat Download Manager",
       "type": "feed",
       "url": "rsshub://neatdownloadmanager/download/windows"
+    },
+    {
+      "description": "Neat Download Manager - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "79871530629426176",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.neatdownloadmanager.com/index.php",
+      "title": "Neat Download Manager",
+      "type": "feed",
+      "url": "rsshub://neatdownloadmanager/download"
     }
   ],
   "url": "neatdownloadmanager.com/index.php"

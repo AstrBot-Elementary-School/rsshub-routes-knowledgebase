@@ -85,18 +85,6 @@ _None_
       "description": "澎湃新闻 - 澎湃热榜 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "61246261602249728",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.thepaper.cn/",
-      "title": "澎湃新闻 - 澎湃热榜",
-      "type": "feed",
-      "url": "rsshub://thepaper/sidebar"
-    },
-    {
-      "description": "澎湃新闻 - 澎湃热榜 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "56001539986599972",
       "image": null,
       "ownerUserId": null,
@@ -104,6 +92,18 @@ _None_
       "title": "澎湃新闻 - 澎湃热榜",
       "type": "feed",
       "url": "rsshub://thepaper/sidebar/hotNews"
+    },
+    {
+      "description": "澎湃新闻 - 澎湃热榜 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "61246261602249728",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.thepaper.cn/",
+      "title": "澎湃新闻 - 澎湃热榜",
+      "type": "feed",
+      "url": "rsshub://thepaper/sidebar"
     }
   ],
   "url": "thepaper.cn/"

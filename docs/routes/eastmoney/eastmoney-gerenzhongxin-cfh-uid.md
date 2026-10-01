@@ -91,18 +91,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "擒龙股海悟道 的东财长文 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "211081391280129024",
-      "image": "https://avator.eastmoney.com/qface/4927057225031910/360",
-      "ownerUserId": null,
-      "siteUrl": "https://i.eastmoney.com/4927057225031910#cfh",
-      "title": "擒龙股海悟道 的东财长文",
-      "type": "feed",
-      "url": "rsshub://eastmoney/gerenzhongxin/cfh/4927057225031910"
-    },
-    {
       "description": "ST六点半 的东财长文 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -113,6 +101,18 @@ _None_
       "title": "ST六点半 的东财长文",
       "type": "feed",
       "url": "rsshub://eastmoney/gerenzhongxin/cfh/6726346221702876"
+    },
+    {
+      "description": "擒龙股海悟道 的东财长文 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "211081391280129024",
+      "image": "https://avator.eastmoney.com/qface/4927057225031910/360",
+      "ownerUserId": null,
+      "siteUrl": "https://i.eastmoney.com/4927057225031910#cfh",
+      "title": "擒龙股海悟道 的东财长文",
+      "type": "feed",
+      "url": "rsshub://eastmoney/gerenzhongxin/cfh/4927057225031910"
     }
   ],
   "view": 0

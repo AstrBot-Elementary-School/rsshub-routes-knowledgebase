@@ -87,18 +87,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "科普快讯 - Powered by RSSHub",
-      "errorAt": "2025-09-04T11:29:39.007Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://www.nsfc.gov.cn/publish/portal0/tab446/\": 404 Not Found\n",
-      "id": "65380269087729741",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.nsfc.gov.cn/publish/portal0/tab446/",
-      "title": "国家自然科学基金委员会 - 基金要闻 - 科普快讯",
-      "type": "feed",
-      "url": "rsshub://gov/nsfc/news/kpkx"
-    },
-    {
       "description": "指南通告 - Powered by RSSHub",
       "errorAt": "2025-09-04T11:28:28.610Z",
       "errorMessage": "[GET] \"https://www.nsfc.gov.cn/publish/portal0/tab442/\": 404 Not Found\n",
@@ -109,6 +97,18 @@ _None_
       "title": "国家自然科学基金委员会 - 基金要闻 - 指南通告",
       "type": "feed",
       "url": "rsshub://gov/nsfc/news/tzgg"
+    },
+    {
+      "description": "科普快讯 - Powered by RSSHub",
+      "errorAt": "2025-09-04T11:29:39.007Z",
+      "errorMessage": "Failed to fetch\n[GET] \"https://www.nsfc.gov.cn/publish/portal0/tab446/\": 404 Not Found\n",
+      "id": "65380269087729741",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.nsfc.gov.cn/publish/portal0/tab446/",
+      "title": "国家自然科学基金委员会 - 基金要闻 - 科普快讯",
+      "type": "feed",
+      "url": "rsshub://gov/nsfc/news/kpkx"
     }
   ]
 }

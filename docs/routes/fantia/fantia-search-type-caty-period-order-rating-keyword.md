@@ -311,18 +311,6 @@ _None_
       "description": "Fantia - Search posts - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "74696531705607168",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://fantia.jp/posts?keyword=&peroid=all&brand_type=0&category=&order=updater&per_page=30",
-      "title": "Fantia - Search posts",
-      "type": "feed",
-      "url": "rsshub://fantia/search/posts/all/all/updater/all"
-    },
-    {
-      "description": "Fantia - Search posts - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "73225112084486144",
       "image": null,
       "ownerUserId": null,
@@ -330,6 +318,18 @@ _None_
       "title": "Fantia - Search posts",
       "type": "feed",
       "url": "rsshub://fantia/search/posts/all/daily/updater/all"
+    },
+    {
+      "description": "Fantia - Search posts - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "74696531705607168",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://fantia.jp/posts?keyword=&peroid=all&brand_type=0&category=&order=updater&per_page=30",
+      "title": "Fantia - Search posts",
+      "type": "feed",
+      "url": "rsshub://fantia/search/posts/all/all/updater/all"
     }
   ],
   "view": 2

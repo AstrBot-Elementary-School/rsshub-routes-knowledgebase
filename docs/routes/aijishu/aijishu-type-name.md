@@ -73,18 +73,6 @@ _None_
   "topFeeds": [
     {
       "description": null,
-      "errorAt": "2025-08-06T08:03:32.932Z",
-      "errorMessage": "[GET] \"https://aijishu.com/channel/ai\": 404 Not Found\n",
-      "id": "175826160368390153",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": null,
-      "title": "Importing",
-      "type": "feed",
-      "url": "rsshub://aijishu/channel/ai"
-    },
-    {
-      "description": null,
       "errorAt": "2026-05-11T03:02:37.106Z",
       "errorMessage": "[GET] \"https://aijishu.comundefined?page=1\": 530 \n",
       "id": "250564935356404739",
@@ -94,6 +82,18 @@ _None_
       "title": "Importing",
       "type": "feed",
       "url": "rsshub://aijishu/hot"
+    },
+    {
+      "description": null,
+      "errorAt": "2025-08-06T08:03:32.932Z",
+      "errorMessage": "[GET] \"https://aijishu.com/channel/ai\": 404 Not Found\n",
+      "id": "175826160368390153",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": null,
+      "title": "Importing",
+      "type": "feed",
+      "url": "rsshub://aijishu/channel/ai"
     }
   ]
 }

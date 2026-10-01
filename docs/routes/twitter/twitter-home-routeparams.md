@@ -118,18 +118,6 @@ Currently supported authentication methods:
   "topFeeds": [
     {
       "description": "Twitter following timeline - Powered by RSSHub",
-      "errorAt": "2026-03-26T13:21:38.201Z",
-      "errorMessage": "No valid Twitter token found\nTwitter API is not configured\n",
-      "id": "59171583511089152",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://x.com/home",
-      "title": "Twitter following timeline",
-      "type": "feed",
-      "url": "rsshub://twitter/home"
-    },
-    {
-      "description": "Twitter following timeline - Powered by RSSHub",
       "errorAt": "2025-10-19T08:07:45.664Z",
       "errorMessage": "No valid Twitter token found\nTwitter API is not configured\n",
       "id": "166019033555010560",
@@ -139,6 +127,18 @@ Currently supported authentication methods:
       "title": "Twitter following timeline",
       "type": "feed",
       "url": "rsshub://twitter/home/readable=1&authorNameBold=1&showAuthorInTitle=1&showAuthorInDesc=1&showQuotedAuthorAvatarInDesc=1&showAuthorAvatarInDesc=1&showEmojiForRetweetAndReply=1&showRetweetTextInTitle=0&addLinkForPics=1&showTimestampInDescription=1&showQuotedInTitle=1&heightOfPics=150"
+    },
+    {
+      "description": "Twitter following timeline - Powered by RSSHub",
+      "errorAt": "2026-03-26T13:21:38.201Z",
+      "errorMessage": "No valid Twitter token found\nTwitter API is not configured\n",
+      "id": "59171583511089152",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://x.com/home",
+      "title": "Twitter following timeline",
+      "type": "feed",
+      "url": "rsshub://twitter/home"
     }
   ]
 }

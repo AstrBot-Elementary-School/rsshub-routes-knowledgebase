@@ -68,18 +68,6 @@ _None_
       "description": "番组放送 开播提醒 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "66094089537608707",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://bgmlist.com/",
-      "title": "番组放送 开播提醒",
-      "type": "feed",
-      "url": "rsshub://bgmlist/onair/zh-Hans"
-    },
-    {
-      "description": "番组放送 开播提醒 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "156587319648221184",
       "image": null,
       "ownerUserId": null,
@@ -87,6 +75,18 @@ _None_
       "title": "番组放送 开播提醒",
       "type": "feed",
       "url": "rsshub://bgmlist/onair"
+    },
+    {
+      "description": "番组放送 开播提醒 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "66094089537608707",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://bgmlist.com/",
+      "title": "番组放送 开播提醒",
+      "type": "feed",
+      "url": "rsshub://bgmlist/onair/zh-Hans"
     }
   ]
 }

@@ -69,18 +69,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Hanime1 搜索结果 | 类型: 全部 | 标签: 扶他 - Powered by RSSHub",
-      "errorAt": "2026-01-14T05:24:14.256Z",
-      "errorMessage": "[GET] \"https://hanime1.me/search?query=&genre=全部&broad=&sort=&year=&month=&tags[]=扶他\": 403 \n[GET] \"https://hanime1.me/search?query=&genre=全部&broad=&sort=&year=&month=&tags[]=扶他\": 403 Forbidden\n",
-      "id": "143852106817588235",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://hanime1.me/search?query=&genre=%E5%85%A8%E9%83%A8&broad=&sort=&year=&month=&tags[]=%E6%89%B6%E4%BB%96",
-      "title": "Hanime1 搜索结果 | 类型: 全部 | 标签: 扶他",
-      "type": "feed",
-      "url": "rsshub://hanime1/search/query=&type=&genre=%E5%85%A8%E9%83%A8&tags%5B%5D=%E6%89%B6%E4%BB%96&sort=&year=&month="
-    },
-    {
       "description": "Hanime1 搜索结果 | 类型: Cosplay - Powered by RSSHub",
       "errorAt": "2026-01-14T04:42:31.316Z",
       "errorMessage": "[GET] \"https://hanime1.me/search?query=&genre=Cosplay&broad=&sort=&year=&month=\": 403 Forbidden\n",
@@ -91,6 +79,18 @@ _None_
       "title": "Hanime1 搜索结果 | 类型: Cosplay",
       "type": "feed",
       "url": "rsshub://hanime1/search/genre%3DCosplay"
+    },
+    {
+      "description": "Hanime1 搜索结果 | 类型: 全部 | 标签: 扶他 - Powered by RSSHub",
+      "errorAt": "2026-01-14T05:24:14.256Z",
+      "errorMessage": "[GET] \"https://hanime1.me/search?query=&genre=全部&broad=&sort=&year=&month=&tags[]=扶他\": 403 \n[GET] \"https://hanime1.me/search?query=&genre=全部&broad=&sort=&year=&month=&tags[]=扶他\": 403 Forbidden\n",
+      "id": "143852106817588235",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://hanime1.me/search?query=&genre=%E5%85%A8%E9%83%A8&broad=&sort=&year=&month=&tags[]=%E6%89%B6%E4%BB%96",
+      "title": "Hanime1 搜索结果 | 类型: 全部 | 标签: 扶他",
+      "type": "feed",
+      "url": "rsshub://hanime1/search/query=&type=&genre=%E5%85%A8%E9%83%A8&tags%5B%5D=%E6%89%B6%E4%BB%96&sort=&year=&month="
     }
   ]
 }

@@ -80,18 +80,6 @@
   },
   "topFeeds": [
     {
-      "description": "政策文件 - 中华人民共和国财政部 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "133069318957962240",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://gss.mof.gov.cn/gzdt/zhengcefabu/",
-      "title": "政策文件",
-      "type": "feed",
-      "url": "rsshub://gov/mof/gss"
-    },
-    {
       "description": "政策解读 - 中华人民共和国财政部 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -102,6 +90,18 @@
       "title": "政策解读",
       "type": "feed",
       "url": "rsshub://gov/mof/gss/zhengcejiedu"
+    },
+    {
+      "description": "政策文件 - 中华人民共和国财政部 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "133069318957962240",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://gss.mof.gov.cn/gzdt/zhengcefabu/",
+      "title": "政策文件",
+      "type": "feed",
+      "url": "rsshub://gov/mof/gss"
     }
   ]
 }

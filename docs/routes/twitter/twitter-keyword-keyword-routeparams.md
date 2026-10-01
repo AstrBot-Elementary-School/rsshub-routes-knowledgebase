@@ -104,7 +104,7 @@ Currently supported authentication methods:
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 5112,
+  "heat": 5110,
   "location": "keyword.ts",
   "maintainers": [
     "DIYgod",
@@ -127,18 +127,6 @@ Currently supported authentication methods:
   ],
   "topFeeds": [
     {
-      "description": "Twitter Keyword - AI - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "53226580778291200",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://x.com/search?q=AI",
-      "title": "Twitter Keyword - AI",
-      "type": "feed",
-      "url": "rsshub://twitter/keyword/AI"
-    },
-    {
       "description": "Twitter Keyword - RSSHub - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -149,6 +137,18 @@ Currently supported authentication methods:
       "title": "Twitter Keyword - RSSHub",
       "type": "feed",
       "url": "rsshub://twitter/keyword/RSSHub"
+    },
+    {
+      "description": "Twitter Keyword - AI - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "53226580778291200",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://x.com/search?q=AI",
+      "title": "Twitter Keyword - AI",
+      "type": "feed",
+      "url": "rsshub://twitter/keyword/AI"
     }
   ],
   "view": 1

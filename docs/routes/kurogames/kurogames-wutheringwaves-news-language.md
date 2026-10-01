@@ -90,18 +90,6 @@ _None_
       "description": "《鸣潮》— 游戏公告、新闻和活动 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "41645808521081856",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://mc.kurogames.com/main#news",
-      "title": "《鸣潮》— 游戏公告、新闻和活动",
-      "type": "feed",
-      "url": "rsshub://kurogames/wutheringwaves/news"
-    },
-    {
-      "description": "《鸣潮》— 游戏公告、新闻和活动 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "134789849205955584",
       "image": null,
       "ownerUserId": null,
@@ -109,6 +97,18 @@ _None_
       "title": "《鸣潮》— 游戏公告、新闻和活动",
       "type": "feed",
       "url": "rsshub://kurogames/wutheringwaves/news/zh"
+    },
+    {
+      "description": "《鸣潮》— 游戏公告、新闻和活动 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "41645808521081856",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://mc.kurogames.com/main#news",
+      "title": "《鸣潮》— 游戏公告、新闻和活动",
+      "type": "feed",
+      "url": "rsshub://kurogames/wutheringwaves/news"
     }
   ]
 }

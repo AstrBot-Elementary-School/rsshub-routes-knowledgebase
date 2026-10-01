@@ -86,18 +86,6 @@ Only some journals are supported.
       "description": "Browse the archive of articles on Nature - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "73724428627161091",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.nature.com/nature/articles?type=research-highlight",
-      "title": "Research Highlights | Nature",
-      "type": "feed",
-      "url": "rsshub://nature/highlight"
-    },
-    {
-      "description": "Browse the archive of articles on Nature - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "121071135298905088",
       "image": null,
       "ownerUserId": null,
@@ -105,6 +93,18 @@ Only some journals are supported.
       "title": "Research Highlights | Nature",
       "type": "feed",
       "url": "rsshub://nature/highlight/nature"
+    },
+    {
+      "description": "Browse the archive of articles on Nature - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "73724428627161091",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.nature.com/nature/articles?type=research-highlight",
+      "title": "Research Highlights | Nature",
+      "type": "feed",
+      "url": "rsshub://nature/highlight"
     }
   ]
 }

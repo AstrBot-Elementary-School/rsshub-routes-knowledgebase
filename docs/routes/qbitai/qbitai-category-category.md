@@ -77,18 +77,6 @@
   },
   "topFeeds": [
     {
-      "description": "量子位 - 资讯 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "61288440756878337",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.qbitai.com/category/%E8%B5%84%E8%AE%AF",
-      "title": "量子位 - 资讯",
-      "type": "feed",
-      "url": "rsshub://qbitai/category/%E8%B5%84%E8%AE%AF"
-    },
-    {
       "description": "量子位 - ebandeng - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -99,6 +87,18 @@
       "title": "量子位 - ebandeng",
       "type": "feed",
       "url": "rsshub://qbitai/category/ebandeng"
+    },
+    {
+      "description": "量子位 - 资讯 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "61288440756878337",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.qbitai.com/category/%E8%B5%84%E8%AE%AF",
+      "title": "量子位 - 资讯",
+      "type": "feed",
+      "url": "rsshub://qbitai/category/%E8%B5%84%E8%AE%AF"
     }
   ]
 }

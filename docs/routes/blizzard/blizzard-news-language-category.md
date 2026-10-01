@@ -105,18 +105,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "All News - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "68902633808272384",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://news.blizzard.com/en-us",
-      "title": "All News",
-      "type": "feed",
-      "url": "rsshub://blizzard/news"
-    },
-    {
       "description": "Overwatch - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -127,6 +115,18 @@ _None_
       "title": "Overwatch",
       "type": "feed",
       "url": "rsshub://blizzard/news/en-US/overwatch"
+    },
+    {
+      "description": "All News - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "68902633808272384",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://news.blizzard.com/en-us",
+      "title": "All News",
+      "type": "feed",
+      "url": "rsshub://blizzard/news"
     }
   ]
 }

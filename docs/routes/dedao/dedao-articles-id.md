@@ -75,18 +75,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "得到文章 - 精选 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "74230696245769216",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.igetget.com/",
-      "title": "得到文章 - 精选",
-      "type": "feed",
-      "url": "rsshub://dedao/articles/9"
-    },
-    {
       "description": "得到文章 - 头条 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -97,6 +85,18 @@ _None_
       "title": "得到文章 - 头条",
       "type": "feed",
       "url": "rsshub://dedao/articles/8"
+    },
+    {
+      "description": "得到文章 - 精选 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "74230696245769216",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.igetget.com/",
+      "title": "得到文章 - 精选",
+      "type": "feed",
+      "url": "rsshub://dedao/articles/9"
     }
   ],
   "url": "www.igetget.com"

@@ -67,18 +67,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "浙大研究生院 -- 全部公告 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "41965184796582000",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "http://www.grs.zju.edu.cn/qbgg/list.htm",
-      "title": "浙大研究生院 -- 全部公告",
-      "type": "feed",
-      "url": "rsshub://zju/grs/1"
-    },
-    {
       "description": "浙大研究生院 -- 学科建设 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -89,6 +77,18 @@ _None_
       "title": "浙大研究生院 -- 学科建设",
       "type": "feed",
       "url": "rsshub://zju/grs/4"
+    },
+    {
+      "description": "浙大研究生院 -- 全部公告 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "41965184796582000",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "http://www.grs.zju.edu.cn/qbgg/list.htm",
+      "title": "浙大研究生院 -- 全部公告",
+      "type": "feed",
+      "url": "rsshub://zju/grs/1"
     }
   ]
 }

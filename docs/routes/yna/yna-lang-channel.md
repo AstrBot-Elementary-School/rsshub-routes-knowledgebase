@@ -85,18 +85,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "韩国联合通讯社 | 滚动 - Powered by RSSHub",
-      "errorAt": "2026-09-29T05:44:46.749Z",
-      "errorMessage": "Status code 525\n",
-      "id": "87238542461270016",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://cn.yna.co.kr/news",
-      "title": "韩国联合通讯社 | 滚动",
-      "type": "feed",
-      "url": "rsshub://yna/cn"
-    },
-    {
       "description": "연합뉴스 실시간 최신뉴스입니다 - Powered by RSSHub",
       "errorAt": "2026-05-03T00:09:17.115Z",
       "errorMessage": "Failed to fetch\n",
@@ -107,6 +95,18 @@ _None_
       "title": "연합뉴스 최신기사",
       "type": "feed",
       "url": "rsshub://yna/ko/news"
+    },
+    {
+      "description": "韩国联合通讯社 | 滚动 - Powered by RSSHub",
+      "errorAt": "2026-09-29T05:44:46.749Z",
+      "errorMessage": "Status code 525\n",
+      "id": "87238542461270016",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://cn.yna.co.kr/news",
+      "title": "韩国联合通讯社 | 滚动",
+      "type": "feed",
+      "url": "rsshub://yna/cn"
     }
   ]
 }

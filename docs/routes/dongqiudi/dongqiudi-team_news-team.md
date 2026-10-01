@@ -61,7 +61,7 @@ _None_
   "topFeeds": [
     {
       "description": "曼联 - 相关新闻 - Powered by RSSHub",
-      "errorAt": "2026-09-29T08:35:59.204Z",
+      "errorAt": "2026-09-30T09:15:43.406Z",
       "errorMessage": "Cannot read properties of undefined (reading 'base_info')\n[GET] \"https://www.dongqiudi.com/team/50000515.html\": 403 Forbidden\n",
       "id": "60882001172427787",
       "image": "https://sd.qunliao.info/fastdfs3/M00/B5/75/ChOxM1xC2FWAK5dCAAAmr0XTTPA012.png",
@@ -73,8 +73,8 @@ _None_
     },
     {
       "description": "阿森纳 - 相关新闻 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-30T09:55:47.119Z",
+      "errorMessage": "[GET] \"https://www.dongqiudi.com/team/50000513.html\": 403 Forbidden\n",
       "id": "73340530520921095",
       "image": "https://sd.qunliao.info/fastdfs5/M00/04/C8/rB8BO15q_yaAdgetAABZZa53gBI322.png",
       "ownerUserId": null,

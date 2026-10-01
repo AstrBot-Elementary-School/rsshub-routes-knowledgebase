@@ -67,18 +67,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "東網產經 - 新聞總覽 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "149880667170940928",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://money18.on.cc/finnews/news_breaking.html?section=exp",
-      "title": "東網產經 - 新聞總覽",
-      "type": "feed",
-      "url": "rsshub://oncc/money18"
-    },
-    {
       "description": "東網產經 - 全日焦點 - Powered by RSSHub",
       "errorAt": "2026-07-13T21:55:35.418Z",
       "errorMessage": "Failed to fetch\n",
@@ -89,6 +77,18 @@ _None_
       "title": "東網產經 - 全日焦點",
       "type": "feed",
       "url": "rsshub://oncc/money18/fov"
+    },
+    {
+      "description": "東網產經 - 新聞總覽 - Powered by RSSHub",
+      "errorAt": "2026-09-30T09:45:48.105Z",
+      "errorMessage": "[GET] \"https://money18.on.cc/finnews/content/exp/bkn-20260930083020279-0930_00842_001.html\": 404 Not Found\n",
+      "id": "149880667170940928",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://money18.on.cc/finnews/news_breaking.html?section=exp",
+      "title": "東網產經 - 新聞總覽",
+      "type": "feed",
+      "url": "rsshub://oncc/money18"
     }
   ]
 }

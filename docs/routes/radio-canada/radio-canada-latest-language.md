@@ -78,18 +78,6 @@
   },
   "topFeeds": [
     {
-      "description": "加拿大国际广播电台 | Radio-Canada.ca - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "59770798244269056",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://ici.radio-canada.ca/rci/zh_hans/%E6%9C%80%E6%96%B0%E6%96%B0%E9%97%BB",
-      "title": "加拿大国际广播电台 | Radio-Canada.ca",
-      "type": "feed",
-      "url": "rsshub://radio-canada/latest/zh-hans"
-    },
-    {
       "description": "Radio Canada International | Radio-Canada.ca - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -100,6 +88,18 @@
       "title": "Radio Canada International | Radio-Canada.ca",
       "type": "feed",
       "url": "rsshub://radio-canada/latest"
+    },
+    {
+      "description": "加拿大国际广播电台 | Radio-Canada.ca - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "59770798244269056",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://ici.radio-canada.ca/rci/zh_hans/%E6%9C%80%E6%96%B0%E6%96%B0%E9%97%BB",
+      "title": "加拿大国际广播电台 | Radio-Canada.ca",
+      "type": "feed",
+      "url": "rsshub://radio-canada/latest/zh-hans"
     }
   ]
 }

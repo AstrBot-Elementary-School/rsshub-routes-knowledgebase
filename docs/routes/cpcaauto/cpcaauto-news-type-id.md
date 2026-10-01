@@ -381,18 +381,6 @@
       "description": "乘用车市场信息联席会（以下简称全国乘联会，英文简称CPCA）成立于1994年，原名全国轿车市场信息联谊会。全国乘联会也是中国流通协会下属的汽车市场研究分会。 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "71481310023733248",
-      "image": "http://cpcaauto.com/undefined",
-      "ownerUserId": null,
-      "siteUrl": "http://cpcaauto.com/news.php?types=news&anid=10",
-      "title": "中国汽车流通协会乘用车市场信息联席分会 - 行业新闻 - 国内乘用车",
-      "type": "feed",
-      "url": "rsshub://cpcaauto/news/news/10"
-    },
-    {
-      "description": "乘用车市场信息联席会（以下简称全国乘联会，英文简称CPCA）成立于1994年，原名全国轿车市场信息联谊会。全国乘联会也是中国流通协会下属的汽车市场研究分会。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "102272813177461760",
       "image": "http://cpcaauto.com/undefined",
       "ownerUserId": null,
@@ -400,6 +388,18 @@
       "title": "中国汽车流通协会乘用车市场信息联席分会 - 车市解读 - 月度",
       "type": "feed",
       "url": "rsshub://cpcaauto/news/csjd/129"
+    },
+    {
+      "description": "乘用车市场信息联席会（以下简称全国乘联会，英文简称CPCA）成立于1994年，原名全国轿车市场信息联谊会。全国乘联会也是中国流通协会下属的汽车市场研究分会。 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "71481310023733248",
+      "image": "http://cpcaauto.com/undefined",
+      "ownerUserId": null,
+      "siteUrl": "http://cpcaauto.com/news.php?types=news&anid=10",
+      "title": "中国汽车流通协会乘用车市场信息联席分会 - 行业新闻 - 国内乘用车",
+      "type": "feed",
+      "url": "rsshub://cpcaauto/news/news/10"
     }
   ],
   "url": "cpcaauto.com"

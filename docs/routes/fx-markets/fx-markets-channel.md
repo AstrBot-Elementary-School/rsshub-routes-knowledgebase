@@ -68,18 +68,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "FX-Markets Trading - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "59063696285536256",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.fx-markets.com/trading",
-      "title": "FX-Markets Trading",
-      "type": "feed",
-      "url": "rsshub://fx-markets/trading"
-    },
-    {
       "description": "FX-Markets Tech and data - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -90,6 +78,18 @@ _None_
       "title": "FX-Markets Tech and data",
       "type": "feed",
       "url": "rsshub://fx-markets/tech-and-data"
+    },
+    {
+      "description": "FX-Markets Trading - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "59063696285536256",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.fx-markets.com/trading",
+      "title": "FX-Markets Trading",
+      "type": "feed",
+      "url": "rsshub://fx-markets/trading"
     }
   ]
 }

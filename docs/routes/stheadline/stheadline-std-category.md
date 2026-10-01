@@ -64,18 +64,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "全方位多角度的香港新聞、即時新聞、城中熱話、網上熱話、專題報道、中國及國際新聞。 - Powered by RSSHub",
-      "errorAt": "2025-05-20T09:52:18.342Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
-      "id": "61348035348284416",
-      "image": "https://std.stheadline.com/dist/images/favicon/icon-512.png",
-      "ownerUserId": null,
-      "siteUrl": "https://std.stheadline.com/realtime/%E5%8D%B3%E6%99%82",
-      "title": "即時 | 星島新聞、專題報道 | 星島日報",
-      "type": "feed",
-      "url": "rsshub://stheadline/std/realtime/%E5%8D%B3%E6%99%82"
-    },
-    {
       "description": "報導第一手要聞資訊，了解最新新聞動向，全程緊貼社會議題。 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -86,6 +74,18 @@ _None_
       "title": "即時｜即時更新社會時事｜星島頭條",
       "type": "feed",
       "url": "rsshub://stheadline/std/realtimenews"
+    },
+    {
+      "description": "全方位多角度的香港新聞、即時新聞、城中熱話、網上熱話、專題報道、中國及國際新聞。 - Powered by RSSHub",
+      "errorAt": "2025-05-20T09:52:18.342Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "id": "61348035348284416",
+      "image": "https://std.stheadline.com/dist/images/favicon/icon-512.png",
+      "ownerUserId": null,
+      "siteUrl": "https://std.stheadline.com/realtime/%E5%8D%B3%E6%99%82",
+      "title": "即時 | 星島新聞、專題報道 | 星島日報",
+      "type": "feed",
+      "url": "rsshub://stheadline/std/realtime/%E5%8D%B3%E6%99%82"
     }
   ]
 }

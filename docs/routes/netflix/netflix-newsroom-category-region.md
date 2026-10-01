@@ -185,6 +185,18 @@ _None_
   "topFeeds": [
     {
       "description": "All News - Newsroom - Netflix - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "244319118695723008",
+      "image": "https://about.netflix.com/favicon.ico",
+      "ownerUserId": null,
+      "siteUrl": "https://about.netflix.com/zh-hans/newsroom",
+      "title": "All News - Newsroom - Netflix",
+      "type": "feed",
+      "url": "rsshub://netflix/newsroom/all/zh-hans"
+    },
+    {
+      "description": "All News - Newsroom - Netflix - Powered by RSSHub",
       "errorAt": "2026-09-02T08:02:30.394Z",
       "errorMessage": "Unhandled node type: blockquote\n",
       "id": "191666157347082245",
@@ -194,18 +206,6 @@ _None_
       "title": "All News - Newsroom - Netflix",
       "type": "feed",
       "url": "rsshub://netflix/newsroom"
-    },
-    {
-      "description": "All News - Newsroom - Netflix - Powered by RSSHub",
-      "errorAt": "2026-09-28T04:31:10.647Z",
-      "errorMessage": "Unhandled node type: blockquote\n",
-      "id": "238930364614695936",
-      "image": "https://about.netflix.com/favicon.ico",
-      "ownerUserId": null,
-      "siteUrl": "https://about.netflix.com/en/newsroom",
-      "title": "All News - Newsroom - Netflix",
-      "type": "feed",
-      "url": "rsshub://netflix/newsroom/all/en"
     }
   ],
   "url": "about.netflix.com/"

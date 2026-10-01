@@ -84,18 +84,6 @@
   },
   "topFeeds": [
     {
-      "description": "24小时社会热闻 - 东方资讯 - Powered by RSSHub",
-      "errorAt": "2026-09-01T12:23:40.085Z",
-      "errorMessage": "[GET] \"https://mini.eastday.com/ns/api/detail/trust/trust-news-shehui.json\": 514 <none>\n",
-      "id": "59852419254124544",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://mini.eastday.com/#shehui",
-      "title": "24小时社会热闻 - 东方资讯",
-      "type": "feed",
-      "url": "rsshub://eastday/24"
-    },
-    {
       "description": "24小时教育热闻 - 东方资讯 - Powered by RSSHub",
       "errorAt": "2026-09-01T11:41:57.671Z",
       "errorMessage": "[GET] \"https://mini.eastday.com/ns/api/detail/trust/trust-news-jiaoyu.json\": 514 Frequency Capped\n",
@@ -106,6 +94,18 @@
       "title": "24小时教育热闻 - 东方资讯",
       "type": "feed",
       "url": "rsshub://eastday/24/%E6%95%99%E8%82%B2"
+    },
+    {
+      "description": "24小时社会热闻 - 东方资讯 - Powered by RSSHub",
+      "errorAt": "2026-09-01T12:23:40.085Z",
+      "errorMessage": "[GET] \"https://mini.eastday.com/ns/api/detail/trust/trust-news-shehui.json\": 514 <none>\n",
+      "id": "59852419254124544",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://mini.eastday.com/#shehui",
+      "title": "24小时社会热闻 - 东方资讯",
+      "type": "feed",
+      "url": "rsshub://eastday/24"
     }
   ],
   "url": "mini.eastday.com/"

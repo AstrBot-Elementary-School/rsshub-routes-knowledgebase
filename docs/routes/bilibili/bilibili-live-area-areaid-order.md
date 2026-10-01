@@ -69,18 +69,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "哔哩哔哩直播-娱乐·舞见分区-人气直播 - Powered by RSSHub",
-      "errorAt": "2026-09-07T10:51:22.366Z",
-      "errorMessage": "[GET] \"https://api.live.bilibili.com/room/v1/Area/getList\": 412 Precondition Failed\n",
-      "id": "56218629867262976",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://live.bilibili.com/p/eden/area-tags?parentAreaId=1&areaId=207",
-      "title": "哔哩哔哩直播-娱乐·舞见分区-人气直播",
-      "type": "feed",
-      "url": "rsshub://bilibili/live/area/207/online"
-    },
-    {
       "description": "哔哩哔哩直播-生活·生活杂谈分区-人气直播 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -91,6 +79,18 @@ _None_
       "title": "哔哩哔哩直播-生活·生活杂谈分区-人气直播",
       "type": "feed",
       "url": "rsshub://bilibili/live/area/646/online"
+    },
+    {
+      "description": "哔哩哔哩直播-娱乐·舞见分区-人气直播 - Powered by RSSHub",
+      "errorAt": "2026-09-07T10:51:22.366Z",
+      "errorMessage": "[GET] \"https://api.live.bilibili.com/room/v1/Area/getList\": 412 Precondition Failed\n",
+      "id": "56218629867262976",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://live.bilibili.com/p/eden/area-tags?parentAreaId=1&areaId=207",
+      "title": "哔哩哔哩直播-娱乐·舞见分区-人气直播",
+      "type": "feed",
+      "url": "rsshub://bilibili/live/area/207/online"
     }
   ]
 }

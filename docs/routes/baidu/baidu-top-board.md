@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 115,
+  "heat": 116,
   "location": "top.tsx",
   "maintainers": [
     "xyqfer"
@@ -70,6 +70,18 @@ _None_
       "description": "百度热搜以数亿用户海量的真实数据为基础，通过专业的数据挖掘方法，计算关键词的热搜指数，旨在建立权威、全面、热门、时效的各类关键词排行榜，引领热词阅读时代。 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
+      "id": "81584385152846848",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://top.baidu.com/board?tab=realtime",
+      "title": "热搜榜 - 百度热搜",
+      "type": "feed",
+      "url": "rsshub://baidu/top/realtime"
+    },
+    {
+      "description": "百度热搜以数亿用户海量的真实数据为基础，通过专业的数据挖掘方法，计算关键词的热搜指数，旨在建立权威、全面、热门、时效的各类关键词排行榜，引领热词阅读时代。 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "55614129025417216",
       "image": null,
       "ownerUserId": null,
@@ -77,18 +89,6 @@ _None_
       "title": "热搜榜 - 百度热搜",
       "type": "feed",
       "url": "rsshub://baidu/top"
-    },
-    {
-      "description": "百度热搜以数亿用户海量的真实数据为基础，通过专业的数据挖掘方法，计算关键词的热搜指数，旨在建立权威、全面、热门、时效的各类关键词排行榜，引领热词阅读时代。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "160206686101994521",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://top.baidu.com/board?tab=novel",
-      "title": "小说榜 - 百度热搜",
-      "type": "feed",
-      "url": "rsshub://baidu/top/novel"
     }
   ]
 }

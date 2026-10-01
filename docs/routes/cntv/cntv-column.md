@@ -84,18 +84,6 @@
   },
   "topFeeds": [
     {
-      "description": "新闻联播 栏目的视频更新 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "59850111609529344",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://docs.rsshub.app/",
-      "title": "CNTV 栏目 - 新闻联播",
-      "type": "feed",
-      "url": "rsshub://cntv/TOPC1451528971114112"
-    },
-    {
       "description": "新闻周刊 栏目的视频更新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -106,6 +94,18 @@
       "title": "CNTV 栏目 - 新闻周刊",
       "type": "feed",
       "url": "rsshub://cntv/TOPC1451559180488841"
+    },
+    {
+      "description": "新闻联播 栏目的视频更新 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "59850111609529344",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://docs.rsshub.app/",
+      "title": "CNTV 栏目 - 新闻联播",
+      "type": "feed",
+      "url": "rsshub://cntv/TOPC1451528971114112"
     }
   ],
   "url": "navi.cctv.com/"

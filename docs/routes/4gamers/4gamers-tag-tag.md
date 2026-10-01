@@ -73,18 +73,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "4Gamers - #限時免費 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "66771599303537674",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.4gamers.com.tw/news/tag/%E9%99%90%E6%99%82%E5%85%8D%E8%B2%BB",
-      "title": "4Gamers - #限時免費",
-      "type": "feed",
-      "url": "rsshub://4gamers/tag/%E9%99%90%E6%99%82%E5%85%8D%E8%B2%BB"
-    },
-    {
       "description": "4Gamers - #Steam - Powered by RSSHub",
       "errorAt": "2026-03-11T20:13:27.851Z",
       "errorMessage": "Unhandled section type: InsertOneAdsSection on https://www.4gamers.com.tw/news/detail/78834/apex-legend-season-29-update-new-legend-axle-and-death-box-respawn\n",
@@ -95,6 +83,18 @@ _None_
       "title": "4Gamers - #Steam",
       "type": "feed",
       "url": "rsshub://4gamers/tag/Steam"
+    },
+    {
+      "description": "4Gamers - #限時免費 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "66771599303537674",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.4gamers.com.tw/news/tag/%E9%99%90%E6%99%82%E5%85%8D%E8%B2%BB",
+      "title": "4Gamers - #限時免費",
+      "type": "feed",
+      "url": "rsshub://4gamers/tag/%E9%99%90%E6%99%82%E5%85%8D%E8%B2%BB"
     }
   ],
   "url": "www.4gamers.com.tw/news"

@@ -85,18 +85,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "History / ss免费账号 - Alvin9999/new-pac - Powered by RSSHub",
-      "errorAt": "2025-12-19T04:11:54.884Z",
-      "errorMessage": "[GET] \"https://github.com/Alvin9999/new-pac/wiki/ss免费账号/_history\": 404 Not Found\n",
-      "id": "76074281958260736",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7/_history",
-      "title": "History / ss免费账号 - Alvin9999/new-pac",
-      "type": "feed",
-      "url": "rsshub://github/wiki/Alvin9999/new-pac/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7"
-    },
-    {
       "description": "History / v2ray免费账号 - Alvin9999/new-pac - Powered by RSSHub",
       "errorAt": "2025-12-19T04:17:08.051Z",
       "errorMessage": "[GET] \"https://github.com/Alvin9999/new-pac/wiki/v2ray免费账号/_history\": 404 Not Found\n",
@@ -107,6 +95,18 @@ _None_
       "title": "History / v2ray免费账号 - Alvin9999/new-pac",
       "type": "feed",
       "url": "rsshub://github/wiki/Alvin9999/new-pac/v2ray%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7"
+    },
+    {
+      "description": "History / ss免费账号 - Alvin9999/new-pac - Powered by RSSHub",
+      "errorAt": "2025-12-19T04:11:54.884Z",
+      "errorMessage": "[GET] \"https://github.com/Alvin9999/new-pac/wiki/ss免费账号/_history\": 404 Not Found\n",
+      "id": "76074281958260736",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7/_history",
+      "title": "History / ss免费账号 - Alvin9999/new-pac",
+      "type": "feed",
+      "url": "rsshub://github/wiki/Alvin9999/new-pac/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7"
     }
   ]
 }

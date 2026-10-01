@@ -72,18 +72,6 @@ _None_
   "topFeeds": [
     {
       "description": "Google Scholar Monitor Query: data+visualization - Powered by RSSHub",
-      "errorAt": "2026-01-18T23:04:09.995Z",
-      "errorMessage": "[GET] \"https://scholar.google.com/scholar?q=data+visualization\": 403 Forbidden\n",
-      "id": "71387723438538752",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://scholar.google.com/scholar?q=data+visualization",
-      "title": "Google Scholar Monitor: data+visualization",
-      "type": "feed",
-      "url": "rsshub://google/scholar/data%2Bvisualization"
-    },
-    {
-      "description": "Google Scholar Monitor Query: data+visualization - Powered by RSSHub",
       "errorAt": "2026-07-22T13:17:29.613Z",
       "errorMessage": "[GET] \"https://scholar.google.com/scholar?q=data+visualization\": 403 Forbidden\n",
       "id": "62187667735435337",
@@ -93,6 +81,18 @@ _None_
       "title": "Google Scholar Monitor: data+visualization",
       "type": "feed",
       "url": "rsshub://google/scholar/data+visualization"
+    },
+    {
+      "description": "Google Scholar Monitor Query: data+visualization - Powered by RSSHub",
+      "errorAt": "2026-01-18T23:04:09.995Z",
+      "errorMessage": "[GET] \"https://scholar.google.com/scholar?q=data+visualization\": 403 Forbidden\n",
+      "id": "71387723438538752",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://scholar.google.com/scholar?q=data+visualization",
+      "title": "Google Scholar Monitor: data+visualization",
+      "type": "feed",
+      "url": "rsshub://google/scholar/data%2Bvisualization"
     }
   ]
 }

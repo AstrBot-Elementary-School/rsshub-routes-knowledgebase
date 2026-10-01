@@ -81,18 +81,6 @@
       "description": "观学院 - 精选 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "83419287598017536",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://member.guancha.cn/index.html",
-      "title": "观学院 - 精选",
-      "type": "feed",
-      "url": "rsshub://guancha/member/recommend"
-    },
-    {
-      "description": "观学院 - 精选 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "153011740197426176",
       "image": null,
       "ownerUserId": null,
@@ -100,6 +88,18 @@
       "title": "观学院 - 精选",
       "type": "feed",
       "url": "rsshub://guancha/member"
+    },
+    {
+      "description": "观学院 - 精选 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "83419287598017536",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://member.guancha.cn/index.html",
+      "title": "观学院 - 精选",
+      "type": "feed",
+      "url": "rsshub://guancha/member/recommend"
     }
   ],
   "url": "guancha.cn/"

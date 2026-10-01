@@ -179,18 +179,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "bilibili 电脑装机分区 - Powered by RSSHub",
-      "errorAt": "2026-07-02T14:32:08.821Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
-      "id": "61803024269907968",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.bilibili.com/",
-      "title": "bilibili 电脑装机分区",
-      "type": "feed",
-      "url": "rsshub://bilibili/partion/189"
-    },
-    {
       "description": "bilibili 军事分区 - Powered by RSSHub",
       "errorAt": "2026-07-01T15:57:20.918Z",
       "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
@@ -201,6 +189,18 @@ _None_
       "title": "bilibili 军事分区",
       "type": "feed",
       "url": "rsshub://bilibili/partion/179"
+    },
+    {
+      "description": "bilibili 电脑装机分区 - Powered by RSSHub",
+      "errorAt": "2026-07-02T14:32:08.821Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "id": "61803024269907968",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.bilibili.com/",
+      "title": "bilibili 电脑装机分区",
+      "type": "feed",
+      "url": "rsshub://bilibili/partion/189"
     }
   ]
 }

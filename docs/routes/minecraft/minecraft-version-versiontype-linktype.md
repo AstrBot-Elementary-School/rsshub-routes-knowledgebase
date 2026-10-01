@@ -63,7 +63,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 64,
+  "heat": 63,
   "location": "version.ts",
   "maintainers": [
     "TheresaQWQ",

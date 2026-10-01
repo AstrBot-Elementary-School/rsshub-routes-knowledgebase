@@ -75,18 +75,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "甲醇热点聚焦 - 隆众资讯 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "82667463412830208",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://list.oilchem.net/140/18263",
-      "title": "甲醇热点聚焦 - 隆众资讯",
-      "type": "feed",
-      "url": "rsshub://oilchem/list/140/18263"
-    },
-    {
       "description": "首页 - 隆众资讯 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -97,6 +85,18 @@ _None_
       "title": "首页 - 隆众资讯",
       "type": "feed",
       "url": "rsshub://oilchem"
+    },
+    {
+      "description": "甲醇热点聚焦 - 隆众资讯 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "82667463412830208",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://list.oilchem.net/140/18263",
+      "title": "甲醇热点聚焦 - 隆众资讯",
+      "type": "feed",
+      "url": "rsshub://oilchem/list/140/18263"
     }
   ]
 }

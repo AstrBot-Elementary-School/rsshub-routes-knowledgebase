@@ -70,18 +70,6 @@ _None_
       "description": "通知公告-西安电子科技大学 教务处 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "69997970126835712",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://jwc.xidian.edu.cn/tzgg.htm",
-      "title": "通知公告-西安电子科技大学 教务处",
-      "type": "feed",
-      "url": "rsshub://xidian/jwc/tzgg"
-    },
-    {
-      "description": "通知公告-西安电子科技大学 教务处 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "80953491612598272",
       "image": null,
       "ownerUserId": null,
@@ -89,6 +77,18 @@ _None_
       "title": "通知公告-西安电子科技大学 教务处",
       "type": "feed",
       "url": "rsshub://xidian/jwc"
+    },
+    {
+      "description": "通知公告-西安电子科技大学 教务处 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "69997970126835712",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://jwc.xidian.edu.cn/tzgg.htm",
+      "title": "通知公告-西安电子科技大学 教务处",
+      "type": "feed",
+      "url": "rsshub://xidian/jwc/tzgg"
     }
   ],
   "url": "jwc.xidian.edu.cn"

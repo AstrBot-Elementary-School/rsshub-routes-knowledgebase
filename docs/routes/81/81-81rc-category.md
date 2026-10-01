@@ -81,18 +81,6 @@
       "description": "欢迎来到军队人才网！ - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "70682485663234048",
-      "image": "https://81rc.81.cn/template/tenant207/t582/new.jpg",
-      "ownerUserId": null,
-      "siteUrl": "https://81rc.81.cn/sy/gzdt_210283",
-      "title": "工作动态 - 军队人才网",
-      "type": "feed",
-      "url": "rsshub://81/81rc/sy/gzdt_210283"
-    },
-    {
-      "description": "欢迎来到军队人才网！ - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "119419273712365568",
       "image": "https://81rc.81.cn/template/tenant207/t582/new.jpg",
       "ownerUserId": null,
@@ -100,6 +88,18 @@
       "title": "中国人民解放军专业技术人才网-文职人员",
       "type": "feed",
       "url": "rsshub://81/81rc/wzry/jwjgbmhddwzkdt"
+    },
+    {
+      "description": "欢迎来到军队人才网！ - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "70682485663234048",
+      "image": "https://81rc.81.cn/template/tenant207/t582/new.jpg",
+      "ownerUserId": null,
+      "siteUrl": "https://81rc.81.cn/sy/gzdt_210283",
+      "title": "工作动态 - 军队人才网",
+      "type": "feed",
+      "url": "rsshub://81/81rc/sy/gzdt_210283"
     }
   ],
   "url": "81rc.81.cn"

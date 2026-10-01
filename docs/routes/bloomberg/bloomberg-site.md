@@ -65,7 +65,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 5574,
+  "heat": 5576,
   "location": "index.ts",
   "maintainers": [
     "bigfei"
@@ -131,18 +131,6 @@ _None_
       "description": "Bloomberg - News - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "72541421314282496",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "http://www.bloomberg.com/",
-      "title": "Bloomberg - News",
-      "type": "feed",
-      "url": "rsshub://bloomberg/%2F"
-    },
-    {
-      "description": "Bloomberg - News - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "64731996464440320",
       "image": null,
       "ownerUserId": null,
@@ -150,6 +138,18 @@ _None_
       "title": "Bloomberg - News",
       "type": "feed",
       "url": "rsshub://bloomberg"
+    },
+    {
+      "description": "Bloomberg - News - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "72541421314282496",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "http://www.bloomberg.com/",
+      "title": "Bloomberg - News",
+      "type": "feed",
+      "url": "rsshub://bloomberg/%2F"
     }
   ],
   "view": 0

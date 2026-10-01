@@ -104,18 +104,6 @@
   },
   "topFeeds": [
     {
-      "description": "第一财经 - 新闻 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "52508301310328844",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.yicai.com/news",
-      "title": "第一财经 - 新闻",
-      "type": "feed",
-      "url": "rsshub://yicai/news"
-    },
-    {
       "description": "第一财经 - 科技 - Powered by RSSHub",
       "errorAt": "2025-11-04T08:38:03.960Z",
       "errorMessage": "Cannot read properties of undefined (reading 'slug')\nCannot read properties of undefined (reading 'slug')\n",
@@ -126,6 +114,18 @@
       "title": "第一财经 - 科技",
       "type": "feed",
       "url": "rsshub://yicai/news/kechuang"
+    },
+    {
+      "description": "第一财经 - 新闻 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "52508301310328844",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.yicai.com/news",
+      "title": "第一财经 - 新闻",
+      "type": "feed",
+      "url": "rsshub://yicai/news"
     }
   ]
 }

@@ -75,18 +75,6 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": "信小兔的爆料 - 什么值得买 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "63858618178298962",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://zhiyou.smzdm.com/member/9687682701/baoliao/",
-      "title": "信小兔的爆料 - 什么值得买",
-      "type": "feed",
-      "url": "rsshub://smzdm/baoliao/9687682701"
-    },
-    {
       "description": "AWW-CH的爆料 - 什么值得买 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -97,6 +85,18 @@ _None_
       "title": "AWW-CH的爆料 - 什么值得买",
       "type": "feed",
       "url": "rsshub://smzdm/baoliao/9279270364"
+    },
+    {
+      "description": "信小兔的爆料 - 什么值得买 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "63858618178298962",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://zhiyou.smzdm.com/member/9687682701/baoliao/",
+      "title": "信小兔的爆料 - 什么值得买",
+      "type": "feed",
+      "url": "rsshub://smzdm/baoliao/9687682701"
     }
   ]
 }

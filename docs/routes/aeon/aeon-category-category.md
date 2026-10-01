@@ -97,18 +97,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Science Essays from Aeon. World-leading scientists and science writers explore topics from theories of evolution to theories of consciousness, quantum physics to deep time, chemistry to cosmology. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "84293189028533248",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://aeon.co/category/science",
-      "title": "AEON | Science",
-      "type": "feed",
-      "url": "rsshub://aeon/category/science"
-    },
-    {
       "description": "Philosophy Essays from Aeon. World-leading thinkers explore life’s big questions and the history of ideas from Socrates to Simone de Beauvoir, political philosophy to philosophy of mind, the Western canon and the non-Western world. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -119,6 +107,18 @@ _None_
       "title": "AEON | Philosophy",
       "type": "feed",
       "url": "rsshub://aeon/category/philosophy"
+    },
+    {
+      "description": "Science Essays from Aeon. World-leading scientists and science writers explore topics from theories of evolution to theories of consciousness, quantum physics to deep time, chemistry to cosmology. - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "84293189028533248",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://aeon.co/category/science",
+      "title": "AEON | Science",
+      "type": "feed",
+      "url": "rsshub://aeon/category/science"
     }
   ]
 }

@@ -78,18 +78,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "「魔術を極めたい…！」たった一つの願望を胸に死んだ男は、生前の記憶を持ったままサルーム国の第七王子として転生を果たした！ただの庶民だった前世と違い、有り余る金！使いきれぬ時間！そしてなにより読み切れない魔導書！！”太すぎる実家”という人生バフもりもりの圧倒的勝ち組となった王子の名はロイド。小説家になろう発、ハイスピード成り上がりファンタジー！！ ※「小説家になろう」は株式会社ヒナプロジェクトの登録商標です A magic nerd’s life came to an end after a dreadful encounter with the nobles who ended his life with a powerful spell. His last wish, being able to study and master more magic, has been answered when he was reincarnated as Lloyd de Saloom, the 7th prince of Saloom Kingdom. Now he’ll be able to perfect his magic as he pleases… - Powered by RSSHub",
-      "errorAt": "2025-10-04T20:56:49.456Z",
-      "errorMessage": "[GET] \"https://rawkuma.com/manga/tensei-shitara-dai-nana-ouji-dattanode-kimamani-majutsu-o-kiwamemasu\": 404 Not Found\n",
-      "id": "83128916068674560",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://rawkuma.com/manga/tensei-shitara-dai-nana-ouji-dattanode-kimamani-majutsu-o-kiwamemasu",
-      "title": "Tensei Shitara dai Nana Ouji dattanode, Kimamani Majutsu o Kiwamemasu – Rawkuma",
-      "type": "feed",
-      "url": "rsshub://rawkuma/manga/tensei-shitara-dai-nana-ouji-dattanode-kimamani-majutsu-o-kiwamemasu"
-    },
-    {
       "description": "異世界転生したら全裸で森にひとりきり。魔法なし、チートなしで、頼れるものは己の知識と拳のみ……！ If you’re reincarnated in another world, you will be naked and alone in the forest. The only things you can rely on without magic or cheats is your wits and fists! - Powered by RSSHub",
       "errorAt": "2025-10-04T19:37:10.580Z",
       "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
@@ -100,6 +88,18 @@ _None_
       "title": "Yajin Tensei: Karate Survivor in Another World – Rawkuma",
       "type": "feed",
       "url": "rsshub://rawkuma/manga/yajin-tensei-karate-survivor-in-another-world"
+    },
+    {
+      "description": "「魔術を極めたい…！」たった一つの願望を胸に死んだ男は、生前の記憶を持ったままサルーム国の第七王子として転生を果たした！ただの庶民だった前世と違い、有り余る金！使いきれぬ時間！そしてなにより読み切れない魔導書！！”太すぎる実家”という人生バフもりもりの圧倒的勝ち組となった王子の名はロイド。小説家になろう発、ハイスピード成り上がりファンタジー！！ ※「小説家になろう」は株式会社ヒナプロジェクトの登録商標です A magic nerd’s life came to an end after a dreadful encounter with the nobles who ended his life with a powerful spell. His last wish, being able to study and master more magic, has been answered when he was reincarnated as Lloyd de Saloom, the 7th prince of Saloom Kingdom. Now he’ll be able to perfect his magic as he pleases… - Powered by RSSHub",
+      "errorAt": "2025-10-04T20:56:49.456Z",
+      "errorMessage": "[GET] \"https://rawkuma.com/manga/tensei-shitara-dai-nana-ouji-dattanode-kimamani-majutsu-o-kiwamemasu\": 404 Not Found\n",
+      "id": "83128916068674560",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://rawkuma.com/manga/tensei-shitara-dai-nana-ouji-dattanode-kimamani-majutsu-o-kiwamemasu",
+      "title": "Tensei Shitara dai Nana Ouji dattanode, Kimamani Majutsu o Kiwamemasu – Rawkuma",
+      "type": "feed",
+      "url": "rsshub://rawkuma/manga/tensei-shitara-dai-nana-ouji-dattanode-kimamani-majutsu-o-kiwamemasu"
     }
   ]
 }

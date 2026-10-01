@@ -64,18 +64,6 @@ _None_
       "description": "LA UOSC-最新帖子 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "69988054872006656",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://bbs.loongarch.org/api/discussions",
-      "title": "LA UOSC-最新帖子",
-      "type": "feed",
-      "url": "rsshub://loongarch/post/newest"
-    },
-    {
-      "description": "LA UOSC-最新帖子 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "92079131400677376",
       "image": null,
       "ownerUserId": null,
@@ -83,6 +71,18 @@ _None_
       "title": "LA UOSC-最新帖子",
       "type": "feed",
       "url": "rsshub://loongarch/post"
+    },
+    {
+      "description": "LA UOSC-最新帖子 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "69988054872006656",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://bbs.loongarch.org/api/discussions",
+      "title": "LA UOSC-最新帖子",
+      "type": "feed",
+      "url": "rsshub://loongarch/post/newest"
     }
   ],
   "url": "bbs.loongarch.org/"

@@ -64,18 +64,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "iOS SDK 历史变更 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "58163407301475328",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://wiki.connect.qq.com/ios_sdk%E5%8E%86%E5%8F%B2%E5%8F%98%E6%9B%B4",
-      "title": "iOS SDK 历史变更",
-      "type": "feed",
-      "url": "rsshub://tencent/qq/sdk/changelog/iOS"
-    },
-    {
       "description": "Android SDK 历史变更 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -86,6 +74,18 @@ _None_
       "title": "Android SDK 历史变更",
       "type": "feed",
       "url": "rsshub://tencent/qq/sdk/changelog/Android"
+    },
+    {
+      "description": "iOS SDK 历史变更 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "58163407301475328",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://wiki.connect.qq.com/ios_sdk%E5%8E%86%E5%8F%B2%E5%8F%98%E6%9B%B4",
+      "title": "iOS SDK 历史变更",
+      "type": "feed",
+      "url": "rsshub://tencent/qq/sdk/changelog/iOS"
     }
   ]
 }

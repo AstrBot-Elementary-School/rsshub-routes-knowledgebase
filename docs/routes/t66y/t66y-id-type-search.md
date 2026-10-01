@@ -75,7 +75,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 25442,
+  "heat": 25453,
   "location": "index.ts",
   "maintainers": [
     "zhboner"
@@ -92,18 +92,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "[今日主题] 技術討論區 | 草榴社區 - t66y.com - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "41719104290720768",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.t66y.com/thread0806.php?fid=7&search=today",
-      "title": "[今日主题] 技術討論區 | 草榴社區 - t66y.com",
-      "type": "feed",
-      "url": "rsshub://t66y/7"
-    },
-    {
       "description": "[今日主题] 達蓋爾的旗幟 | 草榴社區 - t66y.com - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -114,6 +102,18 @@ _None_
       "title": "[今日主题] 達蓋爾的旗幟 | 草榴社區 - t66y.com",
       "type": "feed",
       "url": "rsshub://t66y/16"
+    },
+    {
+      "description": "[今日主题] 技術討論區 | 草榴社區 - t66y.com - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "41719104290720768",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.t66y.com/thread0806.php?fid=7&search=today",
+      "title": "[今日主题] 技術討論區 | 草榴社區 - t66y.com",
+      "type": "feed",
+      "url": "rsshub://t66y/7"
     }
   ]
 }

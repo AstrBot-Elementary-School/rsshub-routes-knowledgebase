@@ -73,18 +73,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "《罗小黑战记》君清篇~~讲述战争年代的老君、玄离和清凝的故事。为你展现不一样的妖神世界~ - Powered by RSSHub",
-      "errorAt": "2026-07-29T16:31:41.257Z",
-      "errorMessage": "[GET] \"https://api.bilibili.com/x/frontend/finger/spi\": 412 Precondition Failed\n",
-      "id": "60836830967846935",
-      "image": "http://i0.hdslb.com/bfs/manga-static/e79378436e02fd7f227b901efb9fe79c2df9499c.jpg",
-      "ownerUserId": null,
-      "siteUrl": "https://manga.bilibili.com/detail/mc26551",
-      "title": "蓝溪镇 - 哔哩哔哩漫画",
-      "type": "feed",
-      "url": "rsshub://bilibili/manga/update/26551"
-    },
-    {
       "description": "【此漫画的翻译由杭州翻翻公司提供】被骗得负债累累，过着贫困生活的少年电次，与链锯恶魔波奇塔一起做恶魔猎人勉强活了下去。最底层的生活，因为一次残忍的背叛全都改变了！！让恶魔寄宿在自己的身体去狩猎恶魔，新时代黑暗英雄故事，开幕！！ - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -95,6 +83,18 @@ _None_
       "title": "Chainsaw Man（电锯人） - 哔哩哔哩漫画",
       "type": "feed",
       "url": "rsshub://bilibili/manga/update/28376"
+    },
+    {
+      "description": "《罗小黑战记》君清篇~~讲述战争年代的老君、玄离和清凝的故事。为你展现不一样的妖神世界~ - Powered by RSSHub",
+      "errorAt": "2026-07-29T16:31:41.257Z",
+      "errorMessage": "[GET] \"https://api.bilibili.com/x/frontend/finger/spi\": 412 Precondition Failed\n",
+      "id": "60836830967846935",
+      "image": "http://i0.hdslb.com/bfs/manga-static/e79378436e02fd7f227b901efb9fe79c2df9499c.jpg",
+      "ownerUserId": null,
+      "siteUrl": "https://manga.bilibili.com/detail/mc26551",
+      "title": "蓝溪镇 - 哔哩哔哩漫画",
+      "type": "feed",
+      "url": "rsshub://bilibili/manga/update/26551"
     }
   ]
 }

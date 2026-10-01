@@ -82,18 +82,6 @@ Query photos using filter parameters found on kpopping such as `idolId`, `groupI
   "topFeeds": [
     {
       "description": "kpics - kpopping - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "127912538951825408",
-      "image": "https://kpopping.com/build/images/kpopping-default-detailed.jpg",
-      "ownerUserId": null,
-      "siteUrl": "https://kpopping.com/kpics",
-      "title": "kpics - kpopping",
-      "type": "feed",
-      "url": "rsshub://kpopping/kpics/gender-female/category-all/idol-any/group-any/order"
-    },
-    {
-      "description": "kpics - kpopping - Powered by RSSHub",
       "errorAt": "2026-09-07T14:11:52.222Z",
       "errorMessage": "[GET] \"https://kpopping.com/api/photos\": 429 Too Many Requests\n",
       "id": "160056537743224832",
@@ -103,6 +91,18 @@ Query photos using filter parameters found on kpopping such as `idolId`, `groupI
       "title": "kpics - kpopping",
       "type": "feed",
       "url": "rsshub://kpopping/kpics"
+    },
+    {
+      "description": "kpics - kpopping - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "127912538951825408",
+      "image": "https://kpopping.com/build/images/kpopping-default-detailed.jpg",
+      "ownerUserId": null,
+      "siteUrl": "https://kpopping.com/kpics",
+      "title": "kpics - kpopping",
+      "type": "feed",
+      "url": "rsshub://kpopping/kpics/gender-female/category-all/idol-any/group-any/order"
     }
   ],
   "url": "kpopping.com",

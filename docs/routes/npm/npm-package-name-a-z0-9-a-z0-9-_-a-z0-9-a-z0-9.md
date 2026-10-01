@@ -57,6 +57,18 @@ _None_
   },
   "topFeeds": [
     {
+      "description": "@antfu/eslint-config - npm - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "175925709458059264",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.npmjs.com/package/@antfu/eslint-config",
+      "title": "@antfu/eslint-config - npm",
+      "type": "feed",
+      "url": "rsshub://npm/package/@antfu/eslint-config"
+    },
+    {
       "description": "typescript - npm - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -67,18 +79,6 @@ _None_
       "title": "typescript - npm",
       "type": "feed",
       "url": "rsshub://npm/package/typescript"
-    },
-    {
-      "description": "pnpm - npm - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "175926392329725952",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.npmjs.com/package/pnpm",
-      "title": "pnpm - npm",
-      "type": "feed",
-      "url": "rsshub://npm/package/pnpm"
     }
   ]
 }

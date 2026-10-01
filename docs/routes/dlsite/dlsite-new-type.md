@@ -105,18 +105,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "「DLsite 同人 - R18」は同人誌・同人ゲーム・同人ボイス・ASMRのダウンロードショップ。お気に入りの作品をすぐダウンロードできてすぐ楽しめる！毎日更新しているのであなたが探している作品にきっと出会えます。国内最大級の二次元総合ダウンロードショップ「DLsite」！ - 発売カレンダー - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "72604834390187008",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "rsshub://dlsite/new/maniax/new",
-      "title": "発売カレンダー: 同人誌・同人ゲーム・同人ボイス・ASMRのダウンロードなら「DLsite 同人 - R18」",
-      "type": "feed",
-      "url": "rsshub://dlsite/new/maniax"
-    },
-    {
       "description": "「DLsite 成年コミック - R18」はエロマンガ・アダルトマンガのダウンロードショップ。お気に入りの作品をすぐダウンロードできてすぐ楽しめる！毎日更新しているのであなたが探している作品にきっと出会えます。国内最大級の二次元総合ダウンロードショップ「DLsite」！ - 発売カレンダー - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -127,6 +115,18 @@ _None_
       "title": "発売カレンダー: エロマンガ・アダルトマンガのダウンロードなら「DLsite 成年コミック - R18」",
       "type": "feed",
       "url": "rsshub://dlsite/new/books"
+    },
+    {
+      "description": "「DLsite 同人 - R18」は同人誌・同人ゲーム・同人ボイス・ASMRのダウンロードショップ。お気に入りの作品をすぐダウンロードできてすぐ楽しめる！毎日更新しているのであなたが探している作品にきっと出会えます。国内最大級の二次元総合ダウンロードショップ「DLsite」！ - 発売カレンダー - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "72604834390187008",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "rsshub://dlsite/new/maniax/new",
+      "title": "発売カレンダー: 同人誌・同人ゲーム・同人ボイス・ASMRのダウンロードなら「DLsite 同人 - R18」",
+      "type": "feed",
+      "url": "rsshub://dlsite/new/maniax"
     }
   ],
   "view": 0

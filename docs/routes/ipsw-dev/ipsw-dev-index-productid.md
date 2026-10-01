@@ -55,18 +55,6 @@ _None_
       "description": "Released - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "74985463608419328",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://ipsw.dev/product/version/iPhone16,1",
-      "title": "Released",
-      "type": "feed",
-      "url": "rsshub://ipsw.dev/index/iPhone16,1"
-    },
-    {
-      "description": "Released - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "168663519061177344",
       "image": null,
       "ownerUserId": null,
@@ -74,6 +62,18 @@ _None_
       "title": "Released",
       "type": "feed",
       "url": "rsshub://ipsw.dev/index/iPhone17%2C1"
+    },
+    {
+      "description": "Released - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "74985463608419328",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://ipsw.dev/product/version/iPhone16,1",
+      "title": "Released",
+      "type": "feed",
+      "url": "rsshub://ipsw.dev/index/iPhone16,1"
     }
   ]
 }

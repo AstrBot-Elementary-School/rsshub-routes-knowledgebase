@@ -79,18 +79,6 @@
   },
   "topFeeds": [
     {
-      "description": "大公文匯網是香港大公文匯傳媒集團官方網站。香港大公文匯傳媒集團成立於2016年1月，旗下有《大公報》、香港《文匯報》、《香港仔》等報章和大公文匯網、大公網、香港文匯網及覆蓋移動端、社交媒體的多個網站新媒體平台，是立足香港、國際視野的愛國愛港傳媒集團。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "70533090955148288",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.tkww.hk/",
-      "title": "首頁 - 大公文匯網",
-      "type": "feed",
-      "url": "rsshub://tkww"
-    },
-    {
       "description": "香港新聞，香港時事，資訊更新更快、聲音更全面、解讀更權威。 - Powered by RSSHub",
       "errorAt": "2025-12-23T14:16:46.461Z",
       "errorMessage": "Invalid Column: hong_kong\n",
@@ -101,6 +89,18 @@
       "title": "香港 - 大公文匯網",
       "type": "feed",
       "url": "rsshub://tkww/hong_kong"
+    },
+    {
+      "description": "大公文匯網是香港大公文匯傳媒集團官方網站。香港大公文匯傳媒集團成立於2016年1月，旗下有《大公報》、香港《文匯報》、《香港仔》等報章和大公文匯網、大公網、香港文匯網及覆蓋移動端、社交媒體的多個網站新媒體平台，是立足香港、國際視野的愛國愛港傳媒集團。 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "70533090955148288",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.tkww.hk/",
+      "title": "首頁 - 大公文匯網",
+      "type": "feed",
+      "url": "rsshub://tkww"
     }
   ]
 }

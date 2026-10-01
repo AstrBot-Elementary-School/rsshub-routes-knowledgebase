@@ -342,18 +342,6 @@ If you subscribe to [Data Points](https://www.deeplearning.ai/the-batch/tag/data
       "description": "Learn AI with DeepLearning.AI - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "78440096914505728",
-      "image": "https://www.deeplearning.ai/favicon.ico",
-      "ownerUserId": null,
-      "siteUrl": "https://www.deeplearning.ai/the-batch",
-      "title": "The Batch | DeepLearning.AI | AI News & Insights",
-      "type": "feed",
-      "url": "rsshub://deeplearning/the-batch"
-    },
-    {
-      "description": "Learn AI with DeepLearning.AI - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "85236272491798528",
       "image": "https://www.deeplearning.ai/favicon.ico",
       "ownerUserId": null,
@@ -361,6 +349,18 @@ If you subscribe to [Data Points](https://www.deeplearning.ai/the-batch/tag/data
       "title": "Letters from Andrew Ng | The Batch | DeepLearning.AI",
       "type": "feed",
       "url": "rsshub://deeplearning/the-batch/letters"
+    },
+    {
+      "description": "Learn AI with DeepLearning.AI - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "78440096914505728",
+      "image": "https://www.deeplearning.ai/favicon.ico",
+      "ownerUserId": null,
+      "siteUrl": "https://www.deeplearning.ai/the-batch",
+      "title": "The Batch | DeepLearning.AI | AI News & Insights",
+      "type": "feed",
+      "url": "rsshub://deeplearning/the-batch"
     }
   ],
   "url": "www.deeplearning.ai"

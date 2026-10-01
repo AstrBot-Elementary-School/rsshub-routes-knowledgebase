@@ -64,18 +64,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Featured Notes on misskey.io - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "61382857498390528",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://misskey.io/explore",
-      "title": "Featured Notes on misskey.io",
-      "type": "feed",
-      "url": "rsshub://misskey/notes/featured/misskey.io"
-    },
-    {
       "description": "Featured Notes on Misskey.io - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -86,6 +74,18 @@ _None_
       "title": "Featured Notes on Misskey.io",
       "type": "feed",
       "url": "rsshub://misskey/notes/featured/Misskey.io"
+    },
+    {
+      "description": "Featured Notes on misskey.io - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "61382857498390528",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://misskey.io/explore",
+      "title": "Featured Notes on misskey.io",
+      "type": "feed",
+      "url": "rsshub://misskey/notes/featured/misskey.io"
     }
   ],
   "view": 1

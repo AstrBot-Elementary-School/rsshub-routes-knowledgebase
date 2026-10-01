@@ -82,18 +82,6 @@
   },
   "topFeeds": [
     {
-      "description": "公告公示（预告公布） | 今日哈工大 ： 哈尔滨工业大学校内综合信息网 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "64568770572881945",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://today.hit.edu.cn/category/10",
-      "title": "公告公示（预告公布） | 今日哈工大 ： 哈尔滨工业大学校内综合信息网",
-      "type": "feed",
-      "url": "rsshub://hit/today/10"
-    },
-    {
       "description": "新闻快讯（图文报道） | 今日哈工大 ： 哈尔滨工业大学校内综合信息网 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -104,6 +92,18 @@
       "title": "新闻快讯（图文报道） | 今日哈工大 ： 哈尔滨工业大学校内综合信息网",
       "type": "feed",
       "url": "rsshub://hit/today/11"
+    },
+    {
+      "description": "公告公示（预告公布） | 今日哈工大 ： 哈尔滨工业大学校内综合信息网 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "64568770572881945",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://today.hit.edu.cn/category/10",
+      "title": "公告公示（预告公布） | 今日哈工大 ： 哈尔滨工业大学校内综合信息网",
+      "type": "feed",
+      "url": "rsshub://hit/today/10"
     }
   ]
 }

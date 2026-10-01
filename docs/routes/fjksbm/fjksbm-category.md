@@ -79,18 +79,6 @@
   },
   "topFeeds": [
     {
-      "description": "已发布成绩 - 福建考试报名网 - Powered by RSSHub",
-      "errorAt": "2025-02-01T09:36:31.707Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
-      "id": "74652091293119488",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://fjksbm.com/portal",
-      "title": "已发布成绩 - 福建考试报名网",
-      "type": "feed",
-      "url": "rsshub://fjksbm"
-    },
-    {
       "description": null,
       "errorAt": "2025-06-01T11:07:39.146Z",
       "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
@@ -101,6 +89,18 @@
       "title": "Importing",
       "type": "feed",
       "url": "rsshub://fjksbm/0"
+    },
+    {
+      "description": "已发布成绩 - 福建考试报名网 - Powered by RSSHub",
+      "errorAt": "2025-02-01T09:36:31.707Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "id": "74652091293119488",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://fjksbm.com/portal",
+      "title": "已发布成绩 - 福建考试报名网",
+      "type": "feed",
+      "url": "rsshub://fjksbm"
     }
   ]
 }

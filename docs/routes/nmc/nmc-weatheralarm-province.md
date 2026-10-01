@@ -80,18 +80,6 @@ _None_
       "description": "中央气象台全国气象预警 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "81352281930323968",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "http://www.nmc.cn/publish/alarm.html",
-      "title": "中央气象台全国气象预警",
-      "type": "feed",
-      "url": "rsshub://nmc/weatheralarm/%E5%9B%9B%E5%B7%9D%E7%9C%81"
-    },
-    {
-      "description": "中央气象台全国气象预警 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "74808527566350336",
       "image": null,
       "ownerUserId": null,
@@ -99,6 +87,18 @@ _None_
       "title": "中央气象台全国气象预警",
       "type": "feed",
       "url": "rsshub://nmc/weatheralarm/%E4%B8%8A%E6%B5%B7%E5%B8%82"
+    },
+    {
+      "description": "中央气象台全国气象预警 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "81352281930323968",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "http://www.nmc.cn/publish/alarm.html",
+      "title": "中央气象台全国气象预警",
+      "type": "feed",
+      "url": "rsshub://nmc/weatheralarm/%E5%9B%9B%E5%B7%9D%E7%9C%81"
     }
   ],
   "url": "nmc.cn/publish/alarm.html"

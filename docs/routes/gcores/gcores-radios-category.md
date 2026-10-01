@@ -75,18 +75,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "收听机核播客节目，覆盖游戏文化、影视、科技、生活与创作者故事。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "56687029497668608",
-      "image": "https://www.gcores.com//apple-touch-icon.png?v=jw7pQOOwRY",
-      "ownerUserId": null,
-      "siteUrl": "https://www.gcores.com/radios",
-      "title": "播客 | 机核 GCORES",
-      "type": "feed",
-      "url": "rsshub://gcores/radios"
-    },
-    {
       "description": "机核从2010年开始一直致力于分享游戏玩家的生活，以及深入探讨游戏相关的文化。我们开发原创的播客以及视频节目，一直在不断寻找民间高质量的内容创作者。 我们坚信游戏不止是游戏，游戏中包含的科学，文化，历史等各个层面的知识和故事，它们同时也会辐射到二次元甚至电影的领域，这些内容非常值得分享给热爱游戏的您。 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -97,6 +85,18 @@ _None_
       "title": "GadioNews | 机核 GCORES",
       "type": "feed",
       "url": "rsshub://gcores/radios/45"
+    },
+    {
+      "description": "收听机核播客节目，覆盖游戏文化、影视、科技、生活与创作者故事。 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "56687029497668608",
+      "image": "https://www.gcores.com//apple-touch-icon.png?v=jw7pQOOwRY",
+      "ownerUserId": null,
+      "siteUrl": "https://www.gcores.com/radios",
+      "title": "播客 | 机核 GCORES",
+      "type": "feed",
+      "url": "rsshub://gcores/radios"
     }
   ],
   "url": "gcores.com/radios"

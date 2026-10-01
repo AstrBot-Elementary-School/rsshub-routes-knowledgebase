@@ -75,18 +75,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "nhentai - search - chinese - Powered by RSSHub",
-      "errorAt": "2026-09-17T14:01:43.194Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
-      "id": "65322834478863360",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://nhentai.net/search/?q=chinese",
-      "title": "nhentai - search - chinese",
-      "type": "feed",
-      "url": "rsshub://nhentai/search/chinese"
-    },
-    {
       "description": "nhentai - search - chinese+stockings - Powered by RSSHub",
       "errorAt": "2026-09-17T09:22:51.902Z",
       "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
@@ -97,6 +85,18 @@ _None_
       "title": "nhentai - search - chinese+stockings",
       "type": "feed",
       "url": "rsshub://nhentai/search/chinese+stockings"
+    },
+    {
+      "description": "nhentai - search - chinese - Powered by RSSHub",
+      "errorAt": "2026-09-17T14:01:43.194Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "id": "65322834478863360",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://nhentai.net/search/?q=chinese",
+      "title": "nhentai - search - chinese",
+      "type": "feed",
+      "url": "rsshub://nhentai/search/chinese"
     }
   ]
 }

@@ -68,18 +68,6 @@ _None_
   "topFeeds": [
     {
       "description": null,
-      "errorAt": "2025-09-04T16:16:53.871Z",
-      "errorMessage": "newrank RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\nnewrank RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\n",
-      "id": "186422945668491336",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": null,
-      "title": "Importing",
-      "type": "feed",
-      "url": "rsshub://newrank/wechat/chijiread"
-    },
-    {
-      "description": null,
       "errorAt": "2025-09-04T16:16:39.569Z",
       "errorMessage": "newrank RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\n",
       "id": "186422945660102656",
@@ -89,6 +77,18 @@ _None_
       "title": "Importing",
       "type": "feed",
       "url": "rsshub://newrank/wechat/iamiBeta"
+    },
+    {
+      "description": null,
+      "errorAt": "2025-09-04T16:16:53.871Z",
+      "errorMessage": "newrank RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\nnewrank RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\n",
+      "id": "186422945668491336",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": null,
+      "title": "Importing",
+      "type": "feed",
+      "url": "rsshub://newrank/wechat/chijiread"
     }
   ]
 }

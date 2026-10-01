@@ -44,7 +44,7 @@ _None_
   ],
   "description": "提取文章全文，获得更好的阅读体验。支持所有标签，标签名称见 [全部标签](https://www.lifeweek.com.cn/classify?type=1)。例如 [社会调查标签](https://www.lifeweek.com.cn/articleList/122) URL 最后的数字为标签 ID\n\n| 社会调查 | 社会 | 经济 | 理财 | 热点 |\n| -------- | ---- | ---- | ---- | ---- |\n| 122      | 21   | 73   | 74   | 123  |",
   "example": "/lifeweek/tag/122",
-  "heat": 13,
+  "heat": 15,
   "location": "tag.ts",
   "maintainers": [
     "changren-wcr"
@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "人物 - Powered by RSSHub",
-      "errorAt": "2026-09-29T10:41:24.177Z",
-      "errorMessage": "503 \n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "104794039452750848",
       "image": null,
       "ownerUserId": null,
@@ -80,16 +80,16 @@ _None_
       "url": "rsshub://lifeweek/tag/6"
     },
     {
-      "description": "文学 - Powered by RSSHub",
-      "errorAt": "2026-09-29T05:56:46.007Z",
-      "errorMessage": "503 \n",
-      "id": "152614384793012224",
+      "description": "生活方式 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "152614722583832576",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.lifeweek.com.cn/articleList/4",
-      "title": "文学",
+      "siteUrl": "https://www.lifeweek.com.cn/articleList/7",
+      "title": "生活方式",
       "type": "feed",
-      "url": "rsshub://lifeweek/tag/4"
+      "url": "rsshub://lifeweek/tag/7"
     }
   ]
 }

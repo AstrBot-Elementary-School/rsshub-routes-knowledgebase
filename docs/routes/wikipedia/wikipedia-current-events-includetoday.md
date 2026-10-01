@@ -53,7 +53,7 @@ Wikipedia Portal: Current events - Latest news and events from the past 7 days
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 33,
+  "heat": 34,
   "location": "current-events.ts",
   "maintainers": [
     "aavanian"
@@ -100,18 +100,6 @@ Wikipedia Portal: Current events - Latest news and events from the past 7 days
       "description": "Current events from Wikipedia - Latest news and events - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "192950772436249600",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://en.wikipedia.org/wiki/Portal:Current_events",
-      "title": "Wikipedia: Portal: Current events",
-      "type": "feed",
-      "url": "rsshub://wikipedia/current-events/auto"
-    },
-    {
-      "description": "Current events from Wikipedia - Latest news and events - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "192777430745038848",
       "image": null,
       "ownerUserId": null,
@@ -119,6 +107,18 @@ Wikipedia Portal: Current events - Latest news and events from the past 7 days
       "title": "Wikipedia: Portal: Current events",
       "type": "feed",
       "url": "rsshub://wikipedia/current-events"
+    },
+    {
+      "description": "Current events from Wikipedia - Latest news and events - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "192950772436249600",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://en.wikipedia.org/wiki/Portal:Current_events",
+      "title": "Wikipedia: Portal: Current events",
+      "type": "feed",
+      "url": "rsshub://wikipedia/current-events/auto"
     }
   ]
 }

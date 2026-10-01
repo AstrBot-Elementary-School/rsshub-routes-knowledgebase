@@ -76,18 +76,6 @@ Get latest news from TheBlock by category. Note that due to website limitations,
   },
   "topFeeds": [
     {
-      "description": "Latest articles from TheBlock in the crypto-ecosystems category - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "124086111503666176",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.theblock.co/category/crypto-ecosystems",
-      "title": "TheBlock - Crypto ecosystems",
-      "type": "feed",
-      "url": "rsshub://theblock/category/crypto-ecosystems"
-    },
-    {
       "description": "Latest articles from TheBlock in the markets category - Powered by RSSHub",
       "errorAt": "2026-05-27T10:15:45.019Z",
       "errorMessage": "Failed to fetch\n",
@@ -98,6 +86,18 @@ Get latest news from TheBlock by category. Note that due to website limitations,
       "title": "TheBlock - Markets",
       "type": "feed",
       "url": "rsshub://theblock/category/markets"
+    },
+    {
+      "description": "Latest articles from TheBlock in the crypto-ecosystems category - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "124086111503666176",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.theblock.co/category/crypto-ecosystems",
+      "title": "TheBlock - Crypto ecosystems",
+      "type": "feed",
+      "url": "rsshub://theblock/category/crypto-ecosystems"
     }
   ]
 }

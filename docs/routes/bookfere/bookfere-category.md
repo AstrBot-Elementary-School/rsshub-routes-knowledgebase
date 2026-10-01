@@ -92,18 +92,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "每周一书 – 书伴 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "68570312983970816",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://bookfere.com/category/weekly",
-      "title": "每周一书 – 书伴",
-      "type": "feed",
-      "url": "rsshub://bookfere/weekly"
-    },
-    {
       "description": "图书推荐 – 书伴 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -114,6 +102,18 @@ _None_
       "title": "图书推荐 – 书伴",
       "type": "feed",
       "url": "rsshub://bookfere/books"
+    },
+    {
+      "description": "每周一书 – 书伴 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "68570312983970816",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://bookfere.com/category/weekly",
+      "title": "每周一书 – 书伴",
+      "type": "feed",
+      "url": "rsshub://bookfere/weekly"
     }
   ],
   "view": 0

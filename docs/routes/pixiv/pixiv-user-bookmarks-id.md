@@ -77,18 +77,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "DIYgod 的 pixiv 最新收藏 - Powered by RSSHub",
-      "errorAt": "2026-09-09T05:35:55.405Z",
-      "errorMessage": "[GET] \"https://app-api.pixiv.net/v1/user/detail?user_id=15288095\": 403 Forbidden\n",
-      "id": "57236269888968706",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.pixiv.net/users/15288095/bookmarks/artworks",
-      "title": "DIYgod 的收藏",
-      "type": "feed",
-      "url": "rsshub://pixiv/user/bookmarks/15288095"
-    },
-    {
       "description": "Egami(えがみ) 的 pixiv 最新收藏 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -99,6 +87,18 @@ _None_
       "title": "Egami(えがみ) 的收藏",
       "type": "feed",
       "url": "rsshub://pixiv/user/bookmarks/64390150"
+    },
+    {
+      "description": "DIYgod 的 pixiv 最新收藏 - Powered by RSSHub",
+      "errorAt": "2026-09-09T05:35:55.405Z",
+      "errorMessage": "[GET] \"https://app-api.pixiv.net/v1/user/detail?user_id=15288095\": 403 Forbidden\n",
+      "id": "57236269888968706",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.pixiv.net/users/15288095/bookmarks/artworks",
+      "title": "DIYgod 的收藏",
+      "type": "feed",
+      "url": "rsshub://pixiv/user/bookmarks/15288095"
     }
   ]
 }

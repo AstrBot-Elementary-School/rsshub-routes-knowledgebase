@@ -60,18 +60,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "36氪 - 快讯 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "41572238273905665",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.36kr.com/newsflashes",
-      "title": "36氪 - 快讯",
-      "type": "feed",
-      "url": "rsshub://36kr/newsflashes"
-    },
-    {
       "description": "36氪 - 最新资讯频道 - Powered by RSSHub",
       "errorAt": "2026-08-06T00:32:51.823Z",
       "errorMessage": "Cannot read properties of null (reading '1')\nCannot read properties of null (reading '1')\nCannot read properties of null (reading '1')\nCannot read properties of null (reading '1')\n",
@@ -82,6 +70,18 @@ _None_
       "title": "36氪 - 最新资讯频道",
       "type": "feed",
       "url": "rsshub://36kr/news"
+    },
+    {
+      "description": "36氪 - 快讯 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "41572238273905665",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.36kr.com/newsflashes",
+      "title": "36氪 - 快讯",
+      "type": "feed",
+      "url": "rsshub://36kr/newsflashes"
     }
   ]
 }

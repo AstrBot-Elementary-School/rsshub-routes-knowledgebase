@@ -73,18 +73,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "孙笑川吧 - 百度贴吧搜索 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "86933542129623040",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=%E5%AD%99%E7%AC%91%E5%B7%9D%E5%90%A7",
-      "title": "孙笑川吧 - 百度贴吧搜索",
-      "type": "feed",
-      "url": "rsshub://baidu/tieba/search/%E5%AD%99%E7%AC%91%E5%B7%9D%E5%90%A7"
-    },
-    {
       "description": "生存狂 - 百度贴吧搜索 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -95,6 +83,18 @@ _None_
       "title": "生存狂 - 百度贴吧搜索",
       "type": "feed",
       "url": "rsshub://baidu/tieba/search/%E7%94%9F%E5%AD%98%E7%8B%82"
+    },
+    {
+      "description": "孙笑川吧 - 百度贴吧搜索 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "86933542129623040",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=%E5%AD%99%E7%AC%91%E5%B7%9D%E5%90%A7",
+      "title": "孙笑川吧 - 百度贴吧搜索",
+      "type": "feed",
+      "url": "rsshub://baidu/tieba/search/%E5%AD%99%E7%AC%91%E5%B7%9D%E5%90%A7"
     }
   ]
 }

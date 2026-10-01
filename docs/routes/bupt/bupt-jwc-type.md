@@ -88,18 +88,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "北京邮电大学教务处 - 通知公告 - Powered by RSSHub",
-      "errorAt": "2025-06-17T10:59:36.247Z",
-      "errorMessage": "[GET] \"https://jwc.bupt.edu.cn/tzgg1.htm\": 412 Precondition Failed\n",
-      "id": "60007690824851456",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://jwc.bupt.edu.cn/tzgg1.htm",
-      "title": "北京邮电大学教务处 - 通知公告",
-      "type": "feed",
-      "url": "rsshub://bupt/jwc/tzgg"
-    },
-    {
       "description": "北京邮电大学教务处 - 新闻资讯 - Powered by RSSHub",
       "errorAt": "2024-12-08T04:51:10.859Z",
       "errorMessage": "[GET] \"https://jwc.bupt.edu.cn/xwzx2.htm\": 412 Precondition Failed\n",
@@ -110,6 +98,18 @@ _None_
       "title": "北京邮电大学教务处 - 新闻资讯",
       "type": "feed",
       "url": "rsshub://bupt/jwc/xwzx"
+    },
+    {
+      "description": "北京邮电大学教务处 - 通知公告 - Powered by RSSHub",
+      "errorAt": "2025-06-17T10:59:36.247Z",
+      "errorMessage": "[GET] \"https://jwc.bupt.edu.cn/tzgg1.htm\": 412 Precondition Failed\n",
+      "id": "60007690824851456",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://jwc.bupt.edu.cn/tzgg1.htm",
+      "title": "北京邮电大学教务处 - 通知公告",
+      "type": "feed",
+      "url": "rsshub://bupt/jwc/tzgg"
     }
   ],
   "url": "jwc.bupt.edu.cn"

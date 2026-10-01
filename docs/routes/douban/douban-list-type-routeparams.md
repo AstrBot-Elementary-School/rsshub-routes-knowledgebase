@@ -88,7 +88,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1712,
+  "heat": 1713,
   "location": "other/list.ts",
   "maintainers": [
     "5upernova-heng",
@@ -113,18 +113,6 @@
   },
   "topFeeds": [
     {
-      "description": "豆瓣热门电影作品，根据电影实时热度与关注度得出的综合排名，每小时更新。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "55539094681492480",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://m.douban.com/subject_collection/movie_real_time_hotest",
-      "title": "豆瓣 - 实时热门电影",
-      "type": "feed",
-      "url": "rsshub://douban/list/movie_real_time_hotest"
-    },
-    {
       "description": "根据图书、影视、音乐的实时热度与关注度，得出的综合排名 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -135,6 +123,18 @@
       "title": "豆瓣 - 实时热门书影音",
       "type": "feed",
       "url": "rsshub://douban/list"
+    },
+    {
+      "description": "豆瓣热门电影作品，根据电影实时热度与关注度得出的综合排名，每小时更新。 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "55539094681492480",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://m.douban.com/subject_collection/movie_real_time_hotest",
+      "title": "豆瓣 - 实时热门电影",
+      "type": "feed",
+      "url": "rsshub://douban/list/movie_real_time_hotest"
     }
   ]
 }

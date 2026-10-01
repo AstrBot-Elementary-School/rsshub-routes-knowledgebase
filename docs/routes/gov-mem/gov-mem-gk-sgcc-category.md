@@ -78,18 +78,6 @@
   },
   "topFeeds": [
     {
-      "description": "调查报告 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "62730408567519232",
-      "image": "https://www.mem.gov.cn/jg/images/P020250415553134787719.png",
-      "ownerUserId": null,
-      "siteUrl": "https://www.mem.gov.cn/gk/sgcc/tbzdsgdcbg",
-      "title": "调查报告--中华人民共和国应急管理部",
-      "type": "feed",
-      "url": "rsshub://gov/mem/gk/sgcc/tbzdsgdcbg"
-    },
-    {
       "description": "挂牌督办 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -100,6 +88,18 @@
       "title": "挂牌督办--中华人民共和国应急管理部",
       "type": "feed",
       "url": "rsshub://gov/mem/gk/sgcc/sggpdbqk"
+    },
+    {
+      "description": "调查报告 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "62730408567519232",
+      "image": "https://www.mem.gov.cn/jg/images/P020250415553134787719.png",
+      "ownerUserId": null,
+      "siteUrl": "https://www.mem.gov.cn/gk/sgcc/tbzdsgdcbg",
+      "title": "调查报告--中华人民共和国应急管理部",
+      "type": "feed",
+      "url": "rsshub://gov/mem/gk/sgcc/tbzdsgdcbg"
     }
   ]
 }

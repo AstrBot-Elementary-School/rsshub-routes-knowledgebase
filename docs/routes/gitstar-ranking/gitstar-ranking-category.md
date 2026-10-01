@@ -141,18 +141,6 @@ To subscribe to [Repositories](https://gitstar-ranking.com/repositories), where 
       "description": "Repositories Ranking - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "183008047351892992",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://gitstar-ranking.com/repositories",
-      "title": "Repositories Ranking - Gitstar Ranking",
-      "type": "feed",
-      "url": "rsshub://gitstar-ranking/repositories"
-    },
-    {
-      "description": "Repositories Ranking - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "195998401576375296",
       "image": null,
       "ownerUserId": null,
@@ -160,6 +148,18 @@ To subscribe to [Repositories](https://gitstar-ranking.com/repositories), where 
       "title": "Repositories Ranking - Gitstar Ranking",
       "type": "feed",
       "url": "rsshub://gitstar-ranking"
+    },
+    {
+      "description": "Repositories Ranking - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "183008047351892992",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://gitstar-ranking.com/repositories",
+      "title": "Repositories Ranking - Gitstar Ranking",
+      "type": "feed",
+      "url": "rsshub://gitstar-ranking/repositories"
     }
   ],
   "url": "gitstar-ranking.com",

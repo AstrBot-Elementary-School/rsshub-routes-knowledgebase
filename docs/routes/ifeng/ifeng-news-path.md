@@ -56,18 +56,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "资讯_凤凰网 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "58310184330535940",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://news.ifeng.com/",
-      "title": "资讯_凤凰网",
-      "type": "feed",
-      "url": "rsshub://ifeng/news"
-    },
-    {
       "description": "凤凰大参考_资讯_凤凰网 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -78,6 +66,18 @@ _None_
       "title": "凤凰大参考_资讯_凤凰网",
       "type": "feed",
       "url": "rsshub://ifeng/news/shanklist/3-245389-"
+    },
+    {
+      "description": "资讯_凤凰网 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "58310184330535940",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://news.ifeng.com/",
+      "title": "资讯_凤凰网",
+      "type": "feed",
+      "url": "rsshub://ifeng/news"
     }
   ]
 }

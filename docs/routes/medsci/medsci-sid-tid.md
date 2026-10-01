@@ -107,18 +107,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "推荐 - MedSci.cn - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "70825962351576064",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.medsci.cn/",
-      "title": "推荐 - MedSci.cn",
-      "type": "feed",
-      "url": "rsshub://medsci"
-    },
-    {
       "description": "心血管 - MedSci.cn - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -129,6 +117,18 @@ _None_
       "title": "心血管 - MedSci.cn",
       "type": "feed",
       "url": "rsshub://medsci/2"
+    },
+    {
+      "description": "推荐 - MedSci.cn - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "70825962351576064",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.medsci.cn/",
+      "title": "推荐 - MedSci.cn",
+      "type": "feed",
+      "url": "rsshub://medsci"
     }
   ]
 }

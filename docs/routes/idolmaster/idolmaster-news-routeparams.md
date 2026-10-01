@@ -89,18 +89,6 @@
       "description": "NEWS | アイドルマスター - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "81966897349713920",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://idolmaster-official.jp/news",
-      "title": "NEWS | アイドルマスター",
-      "type": "feed",
-      "url": "rsshub://idolmaster/news"
-    },
-    {
-      "description": "NEWS | アイドルマスター - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "82051945166265344",
       "image": null,
       "ownerUserId": null,
@@ -108,6 +96,18 @@
       "title": "NEWS | アイドルマスター",
       "type": "feed",
       "url": "rsshub://idolmaster/news/brand=MILLIONLIVE&brand=SHINYCOLORS&category=GAME&category=ANIME"
+    },
+    {
+      "description": "NEWS | アイドルマスター - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "81966897349713920",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://idolmaster-official.jp/news",
+      "title": "NEWS | アイドルマスター",
+      "type": "feed",
+      "url": "rsshub://idolmaster/news"
     }
   ],
   "url": "idolmaster-official.jp/news"

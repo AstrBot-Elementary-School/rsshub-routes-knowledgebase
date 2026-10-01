@@ -41,7 +41,7 @@ _None_
   ],
   "description": "| 最新   | 热门 | 精华    |\n| ------ | ---- | ------- |\n| latest | heat | essence |",
   "example": "/matters/latest/heat",
-  "heat": 147,
+  "heat": 145,
   "location": "latest.ts",
   "maintainers": [
     "xyqfer",
@@ -65,18 +65,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Matters | 熱議 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "41572238273905692",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://matters.town/",
-      "title": "Matters | 熱議",
-      "type": "feed",
-      "url": "rsshub://matters/latest/heat"
-    },
-    {
       "description": "Matters | 精華 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -87,6 +75,18 @@ _None_
       "title": "Matters | 精華",
       "type": "feed",
       "url": "rsshub://matters/latest/essence"
+    },
+    {
+      "description": "Matters | 熱議 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "41572238273905692",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://matters.town/",
+      "title": "Matters | 熱議",
+      "type": "feed",
+      "url": "rsshub://matters/latest/heat"
     }
   ]
 }

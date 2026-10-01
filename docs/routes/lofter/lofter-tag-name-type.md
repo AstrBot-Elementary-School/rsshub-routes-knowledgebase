@@ -77,18 +77,6 @@ _None_
   "path": "/tag/:name?/:type?",
   "topFeeds": [
     {
-      "description": "摄影 - 最新 | LOFTER - Powered by RSSHub",
-      "errorAt": "2025-06-07T12:21:11.609Z",
-      "errorMessage": "Lofter 用户登录后的 Cookie 值\n",
-      "id": "73253601886350336",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.lofter.com/tag/%E6%91%84%E5%BD%B1/new",
-      "title": "摄影 - 最新 | LOFTER",
-      "type": "feed",
-      "url": "rsshub://lofter/tag"
-    },
-    {
       "description": "写真 - 日榜 | LOFTER - Powered by RSSHub",
       "errorAt": "2025-06-07T13:34:05.279Z",
       "errorMessage": "Lofter 用户登录后的 Cookie 值\nLofter 用户登录后的 Cookie 值\n",
@@ -99,6 +87,18 @@ _None_
       "title": "写真 - 日榜 | LOFTER",
       "type": "feed",
       "url": "rsshub://lofter/tag/%E5%86%99%E7%9C%9F/date"
+    },
+    {
+      "description": "摄影 - 最新 | LOFTER - Powered by RSSHub",
+      "errorAt": "2025-06-07T12:21:11.609Z",
+      "errorMessage": "Lofter 用户登录后的 Cookie 值\n",
+      "id": "73253601886350336",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.lofter.com/tag/%E6%91%84%E5%BD%B1/new",
+      "title": "摄影 - 最新 | LOFTER",
+      "type": "feed",
+      "url": "rsshub://lofter/tag"
     }
   ]
 }

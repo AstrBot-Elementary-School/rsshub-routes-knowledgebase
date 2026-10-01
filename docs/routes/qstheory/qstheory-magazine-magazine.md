@@ -38,7 +38,7 @@ _None_
     "traditional-media"
   ],
   "example": "/qstheory/magazine/qs",
-  "heat": 504,
+  "heat": 505,
   "location": "magazine.ts",
   "maintainers": [
     "TonyRL",
@@ -61,18 +61,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "《求是》 - 求是网 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "80433099883252736",
-      "image": "http://www.qstheory.cn/20260916/fd06d8d2be9141b3a1aa990e066f7aa2/e82c577defe44bb096b65dfe35b44139.jpg",
-      "ownerUserId": null,
-      "siteUrl": "http://www.qstheory.cn/qs/mulu.htm",
-      "title": "《求是》 - 求是网",
-      "type": "feed",
-      "url": "rsshub://qstheory/magazine/qs"
-    },
-    {
       "description": "《红旗文稿》 - 求是网 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -83,6 +71,18 @@ _None_
       "title": "《红旗文稿》 - 求是网",
       "type": "feed",
       "url": "rsshub://qstheory/magazine/hqwglist"
+    },
+    {
+      "description": "《求是》 - 求是网 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "80433099883252736",
+      "image": "http://www.qstheory.cn/20260916/fd06d8d2be9141b3a1aa990e066f7aa2/e82c577defe44bb096b65dfe35b44139.jpg",
+      "ownerUserId": null,
+      "siteUrl": "http://www.qstheory.cn/qs/mulu.htm",
+      "title": "《求是》 - 求是网",
+      "type": "feed",
+      "url": "rsshub://qstheory/magazine/qs"
     }
   ]
 }

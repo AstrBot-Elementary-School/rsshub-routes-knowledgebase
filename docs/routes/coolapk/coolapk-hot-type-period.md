@@ -83,18 +83,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "热榜-今日热门 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "53366652701156360",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.coolapk.com/",
-      "title": "今日热门",
-      "type": "feed",
-      "url": "rsshub://coolapk/hot"
-    },
-    {
       "description": "热榜-收藏榜-周榜 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -105,6 +93,18 @@ _None_
       "title": "收藏榜-周榜",
       "type": "feed",
       "url": "rsshub://coolapk/hot/scb/weekly"
+    },
+    {
+      "description": "热榜-今日热门 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "53366652701156360",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.coolapk.com/",
+      "title": "今日热门",
+      "type": "feed",
+      "url": "rsshub://coolapk/hot"
     }
   ]
 }

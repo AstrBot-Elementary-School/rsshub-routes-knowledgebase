@@ -78,18 +78,6 @@
   },
   "topFeeds": [
     {
-      "description": "汽车行业资讯一网打尽。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "102251632021746688",
-      "image": "https://img.cls.cn/images/20211116/r2NZ9gCUzN.jpg",
-      "ownerUserId": null,
-      "siteUrl": "https://www.cls.cn/subject/7527",
-      "title": "财联社 - 财联社汽车早报",
-      "type": "feed",
-      "url": "rsshub://cls/subject/7527"
-    },
-    {
       "description": "每日7点，最热、最全面的财经资讯尽在财联社早报 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -100,6 +88,18 @@
       "title": "财联社 - 有声早报",
       "type": "feed",
       "url": "rsshub://cls/subject/1151"
+    },
+    {
+      "description": "汽车行业资讯一网打尽。 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "102251632021746688",
+      "image": "https://img.cls.cn/images/20211116/r2NZ9gCUzN.jpg",
+      "ownerUserId": null,
+      "siteUrl": "https://www.cls.cn/subject/7527",
+      "title": "财联社 - 财联社汽车早报",
+      "type": "feed",
+      "url": "rsshub://cls/subject/7527"
     }
   ],
   "url": "www.cls.cn"

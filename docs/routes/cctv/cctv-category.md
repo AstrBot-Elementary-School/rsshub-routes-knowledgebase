@@ -77,18 +77,6 @@
   },
   "topFeeds": [
     {
-      "description": "央视新闻 world - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "41965184796581988",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://news.cctv.com/world",
-      "title": "央视新闻 world",
-      "type": "feed",
-      "url": "rsshub://cctv/world"
-    },
-    {
       "description": "央视新闻 china - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -99,6 +87,18 @@
       "title": "央视新闻 china",
       "type": "feed",
       "url": "rsshub://cctv/china"
+    },
+    {
+      "description": "央视新闻 world - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "41965184796581988",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://news.cctv.com/world",
+      "title": "央视新闻 world",
+      "type": "feed",
+      "url": "rsshub://cctv/world"
     }
   ]
 }

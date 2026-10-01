@@ -81,18 +81,6 @@
       "description": "Latest News | KBS WORLD - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "69944115971721216",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "http://world.kbs.co.kr/service/news_today.htm?lang=e",
-      "title": "Latest News | KBS WORLD",
-      "type": "feed",
-      "url": "rsshub://kbs/today"
-    },
-    {
-      "description": "Latest News | KBS WORLD - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "69944407484189696",
       "image": null,
       "ownerUserId": null,
@@ -100,6 +88,18 @@
       "title": "Latest News | KBS WORLD",
       "type": "feed",
       "url": "rsshub://kbs/today/c"
+    },
+    {
+      "description": "Latest News | KBS WORLD - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "69944115971721216",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "http://world.kbs.co.kr/service/news_today.htm?lang=e",
+      "title": "Latest News | KBS WORLD",
+      "type": "feed",
+      "url": "rsshub://kbs/today"
     }
   ],
   "url": "world.kbs.co.kr/"

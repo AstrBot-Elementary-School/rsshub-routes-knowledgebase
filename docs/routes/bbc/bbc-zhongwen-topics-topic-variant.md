@@ -39,7 +39,7 @@ _None_
     "traditional-media"
   ],
   "example": "/bbc/zhongwen/topics/ckr7mn6r003t",
-  "heat": 47,
+  "heat": 48,
   "location": "topic-zhongwen.ts",
   "maintainers": [
     "TonyRL"

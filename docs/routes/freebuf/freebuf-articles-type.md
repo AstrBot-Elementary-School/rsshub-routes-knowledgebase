@@ -81,18 +81,6 @@ Freebuf 的文章页面带有反爬虫机制，所以目前无法获取文章的
   },
   "topFeeds": [
     {
-      "description": "Freebuf web - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "52357479513292810",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.freebuf.com/articles/web",
-      "title": "Freebuf web",
-      "type": "feed",
-      "url": "rsshub://freebuf/articles/web"
-    },
-    {
       "description": "Freebuf system - Powered by RSSHub",
       "errorAt": "2026-08-09T21:51:37.125Z",
       "errorMessage": "[GET] \"https://www.freebuf.com/fapi/frontend/category/list?name=system&page=1&limit=20&select=0&order=0&type=category\": 405 Method Not Allowed\n",
@@ -103,6 +91,18 @@ Freebuf 的文章页面带有反爬虫机制，所以目前无法获取文章的
       "title": "Freebuf system",
       "type": "feed",
       "url": "rsshub://freebuf/articles/system"
+    },
+    {
+      "description": "Freebuf web - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "52357479513292810",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.freebuf.com/articles/web",
+      "title": "Freebuf web",
+      "type": "feed",
+      "url": "rsshub://freebuf/articles/web"
     }
   ]
 }

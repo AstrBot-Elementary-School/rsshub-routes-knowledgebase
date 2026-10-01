@@ -73,18 +73,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "大道无形我有型 的雪球收藏动态 - Powered by RSSHub",
-      "errorAt": "2026-05-22T17:41:26.911Z",
-      "errorMessage": "[GET] \"https://xueqiu.com/favorites.json?userid=1247347556\": 400 Bad Request\n",
-      "id": "59965365270185984",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://xueqiu.com/u/1247347556",
-      "title": "大道无形我有型 的雪球收藏动态",
-      "type": "feed",
-      "url": "rsshub://xueqiu/favorite/1247347556"
-    },
-    {
       "description": "陈达美股投资 的雪球收藏动态 - Powered by RSSHub",
       "errorAt": "2024-12-03T09:58:41.916Z",
       "errorMessage": "Remote Playwright WebSocket upgrade failed with HTTP 428\n",
@@ -95,6 +83,18 @@ _None_
       "title": "陈达美股投资 的雪球收藏动态",
       "type": "feed",
       "url": "rsshub://xueqiu/favorite/9598793634"
+    },
+    {
+      "description": "大道无形我有型 的雪球收藏动态 - Powered by RSSHub",
+      "errorAt": "2026-05-22T17:41:26.911Z",
+      "errorMessage": "[GET] \"https://xueqiu.com/favorites.json?userid=1247347556\": 400 Bad Request\n",
+      "id": "59965365270185984",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://xueqiu.com/u/1247347556",
+      "title": "大道无形我有型 的雪球收藏动态",
+      "type": "feed",
+      "url": "rsshub://xueqiu/favorite/1247347556"
     }
   ]
 }

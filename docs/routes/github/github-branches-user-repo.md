@@ -78,18 +78,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "ruanyf/weekly Branches - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "59786436798173184",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://github.com/ruanyf/weekly/branches/all",
-      "title": "ruanyf/weekly Branches",
-      "type": "feed",
-      "url": "rsshub://github/branches/ruanyf/weekly"
-    },
-    {
       "description": "kevoreilly/CAPEv2 Branches - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -100,6 +88,18 @@ _None_
       "title": "kevoreilly/CAPEv2 Branches",
       "type": "feed",
       "url": "rsshub://github/branches/kevoreilly/CAPEv2"
+    },
+    {
+      "description": "ruanyf/weekly Branches - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "59786436798173184",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://github.com/ruanyf/weekly/branches/all",
+      "title": "ruanyf/weekly Branches",
+      "type": "feed",
+      "url": "rsshub://github/branches/ruanyf/weekly"
     }
   ]
 }

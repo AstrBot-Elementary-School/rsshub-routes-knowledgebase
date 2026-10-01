@@ -75,18 +75,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "科学网 - 王树义的博文 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "66855175407694848",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://blog.sciencenet.cn/u/wshuyi",
-      "title": "科学网 - 王树义的博文",
-      "type": "feed",
-      "url": "rsshub://sciencenet/user/wshuyi"
-    },
-    {
       "description": "科学网 - 朱豫才的博文 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -97,6 +85,18 @@ _None_
       "title": "科学网 - 朱豫才的博文",
       "type": "feed",
       "url": "rsshub://sciencenet/user/zhuyucai1"
+    },
+    {
+      "description": "科学网 - 王树义的博文 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "66855175407694848",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://blog.sciencenet.cn/u/wshuyi",
+      "title": "科学网 - 王树义的博文",
+      "type": "feed",
+      "url": "rsshub://sciencenet/user/wshuyi"
     }
   ]
 }

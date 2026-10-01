@@ -75,18 +75,6 @@ _None_
       "description": "上海市教育考试院-消息速递 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "84147473290155008",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.shmeea.edu.cn/page/08000/index.html",
-      "title": "上海市教育考试院-消息速递",
-      "type": "feed",
-      "url": "rsshub://shmeea"
-    },
-    {
-      "description": "上海市教育考试院-消息速递 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "92130275905288192",
       "image": null,
       "ownerUserId": null,
@@ -94,6 +82,18 @@ _None_
       "title": "上海市教育考试院-消息速递",
       "type": "feed",
       "url": "rsshub://shmeea/08000"
+    },
+    {
+      "description": "上海市教育考试院-消息速递 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "84147473290155008",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.shmeea.edu.cn/page/08000/index.html",
+      "title": "上海市教育考试院-消息速递",
+      "type": "feed",
+      "url": "rsshub://shmeea"
     }
   ]
 }

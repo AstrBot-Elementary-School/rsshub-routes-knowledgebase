@@ -78,18 +78,6 @@
   },
   "topFeeds": [
     {
-      "description": "广州市海珠区南洲路154号（侨建·HICITY ）2F 207 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "70160608790705152",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.showstart.com/",
-      "title": "秀动网 - 广州 - SDlivehouse",
-      "type": "feed",
-      "url": "rsshub://showstart/site/3515"
-    },
-    {
       "description": "上海市长宁区绥宁路820号 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -100,6 +88,18 @@
       "title": "秀动网 - 上海 - 回响之地 Music Park",
       "type": "feed",
       "url": "rsshub://showstart/site/18165038"
+    },
+    {
+      "description": "广州市海珠区南洲路154号（侨建·HICITY ）2F 207 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "70160608790705152",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.showstart.com/",
+      "title": "秀动网 - 广州 - SDlivehouse",
+      "type": "feed",
+      "url": "rsshub://showstart/site/3515"
     }
   ]
 }

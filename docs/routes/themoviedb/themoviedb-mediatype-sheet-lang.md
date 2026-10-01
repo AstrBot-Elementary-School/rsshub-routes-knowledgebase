@@ -80,18 +80,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Now Playing Movies — TMDB - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "80092327093291008",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.themoviedb.org/movie/now-playing",
-      "title": "Now Playing Movies — TMDB",
-      "type": "feed",
-      "url": "rsshub://themoviedb/movie/now-playing"
-    },
-    {
       "description": "TV Shows Airing Today — TMDB - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -102,6 +90,18 @@ _None_
       "title": "TV Shows Airing Today — TMDB",
       "type": "feed",
       "url": "rsshub://themoviedb/tv/airing-today"
+    },
+    {
+      "description": "Now Playing Movies — TMDB - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "80092327093291008",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.themoviedb.org/movie/now-playing",
+      "title": "Now Playing Movies — TMDB",
+      "type": "feed",
+      "url": "rsshub://themoviedb/movie/now-playing"
     }
   ]
 }

@@ -77,18 +77,6 @@
   },
   "topFeeds": [
     {
-      "description": "东南大学研究生招生网 -- 硕士招生 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "152571187567391744",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://yzb.seu.edu.cn/6676/list.htm",
-      "title": "东南大学研究生招生网 -- 硕士招生",
-      "type": "feed",
-      "url": "rsshub://seu/yzb/6676"
-    },
-    {
       "description": "东南大学研究生招生网 -- 博士招生 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -99,6 +87,18 @@
       "title": "东南大学研究生招生网 -- 博士招生",
       "type": "feed",
       "url": "rsshub://seu/yzb/6677"
+    },
+    {
+      "description": "东南大学研究生招生网 -- 硕士招生 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "152571187567391744",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://yzb.seu.edu.cn/6676/list.htm",
+      "title": "东南大学研究生招生网 -- 硕士招生",
+      "type": "feed",
+      "url": "rsshub://seu/yzb/6676"
     }
   ]
 }

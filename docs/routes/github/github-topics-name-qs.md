@@ -82,18 +82,6 @@ For instance, the `/github/topics/framework/l=php&o=desc&s=stars` route will gen
   },
   "topFeeds": [
     {
-      "description": "A framework is a reusable set of libraries or classes in software. In an effort to help developers focus their work on higher level tasks, a framework provides a functional solution for lower level elements of coding. While a framework might add more code than is necessary, they also provide a reusable pattern to speed up development. - Powered by RSSHub",
-      "errorAt": "2026-09-25T23:44:29.716Z",
-      "errorMessage": "[GET] \"https://github.com/topics/framework?\": 429 Too Many Requests\n",
-      "id": "60991851974661120",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://docs.rsshub.app/",
-      "title": "framework · GitHub Topics · GitHub",
-      "type": "feed",
-      "url": "rsshub://github/topics/framework"
-    },
-    {
       "description": "The branch of computer science dealing with the reproduction, or mimicking of human-level intelligence, self-awareness, knowledge, conscience, and thought in computer programs. - Powered by RSSHub",
       "errorAt": "2026-09-07T09:36:39.586Z",
       "errorMessage": "[GET] \"https://github.com/topics/ai?\": 429 Too Many Requests\n",
@@ -104,6 +92,18 @@ For instance, the `/github/topics/framework/l=php&o=desc&s=stars` route will gen
       "title": "ai · GitHub Topics · GitHub",
       "type": "feed",
       "url": "rsshub://github/topics/ai"
+    },
+    {
+      "description": "A framework is a reusable set of libraries or classes in software. In an effort to help developers focus their work on higher level tasks, a framework provides a functional solution for lower level elements of coding. While a framework might add more code than is necessary, they also provide a reusable pattern to speed up development. - Powered by RSSHub",
+      "errorAt": "2026-09-25T23:44:29.716Z",
+      "errorMessage": "[GET] \"https://github.com/topics/framework?\": 429 Too Many Requests\n",
+      "id": "60991851974661120",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://docs.rsshub.app/",
+      "title": "framework · GitHub Topics · GitHub",
+      "type": "feed",
+      "url": "rsshub://github/topics/framework"
     }
   ],
   "url": "github.com/topics"

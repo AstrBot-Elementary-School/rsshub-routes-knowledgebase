@@ -67,18 +67,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "小黑盒 PC 游戏折扣 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "78839970214681600",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://xiaoheihe.cn/",
-      "title": "小黑盒 PC 游戏折扣",
-      "type": "feed",
-      "url": "rsshub://xiaoheihe/discount/pc"
-    },
-    {
       "description": "小黑盒 Switch 游戏折扣 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -89,6 +77,18 @@ _None_
       "title": "小黑盒 Switch 游戏折扣",
       "type": "feed",
       "url": "rsshub://xiaoheihe/discount/switch"
+    },
+    {
+      "description": "小黑盒 PC 游戏折扣 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "78839970214681600",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://xiaoheihe.cn/",
+      "title": "小黑盒 PC 游戏折扣",
+      "type": "feed",
+      "url": "rsshub://xiaoheihe/discount/pc"
     }
   ]
 }

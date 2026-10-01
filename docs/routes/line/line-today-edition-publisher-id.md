@@ -62,18 +62,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "科技紫微網每日星座 - Line Today - Powered by RSSHub",
-      "errorAt": "2026-05-03T00:47:45.789Z",
-      "errorMessage": "Failed to fetch\n",
-      "id": "92072410794728448",
-      "image": "https://obs.line-scdn.net/0hwVRuQzivKHlvDAFT0BtXLlVaKxZcYDt6Czp5eixidk0VOTp8UG9mSE1edBoWNW8nB2xgGE8LM0gQNWd6W2hm",
-      "ownerUserId": null,
-      "siteUrl": "https://today.line.me/tw/v2/publisher/101266",
-      "title": "科技紫微網每日星座 - Line Today",
-      "type": "feed",
-      "url": "rsshub://line/today/tw/publisher/101266"
-    },
-    {
       "description": "國際 on LINE - Line Today - Powered by RSSHub",
       "errorAt": "2026-08-18T17:23:51.355Z",
       "errorMessage": "Failed to fetch\n",
@@ -84,6 +72,18 @@ _None_
       "title": "國際 on LINE - Line Today",
       "type": "feed",
       "url": "rsshub://line/today/hk/publisher/103238"
+    },
+    {
+      "description": "科技紫微網每日星座 - Line Today - Powered by RSSHub",
+      "errorAt": "2026-05-03T00:47:45.789Z",
+      "errorMessage": "Failed to fetch\n",
+      "id": "92072410794728448",
+      "image": "https://obs.line-scdn.net/0hwVRuQzivKHlvDAFT0BtXLlVaKxZcYDt6Czp5eixidk0VOTp8UG9mSE1edBoWNW8nB2xgGE8LM0gQNWd6W2hm",
+      "ownerUserId": null,
+      "siteUrl": "https://today.line.me/tw/v2/publisher/101266",
+      "title": "科技紫微網每日星座 - Line Today",
+      "type": "feed",
+      "url": "rsshub://line/today/tw/publisher/101266"
     }
   ]
 }

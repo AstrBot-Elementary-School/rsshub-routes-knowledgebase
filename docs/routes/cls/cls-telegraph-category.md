@@ -81,18 +81,6 @@
   },
   "topFeeds": [
     {
-      "description": "财联社 - 电报 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "53366652701156363",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.cls.cn/telegraph",
-      "title": "财联社 - 电报",
-      "type": "feed",
-      "url": "rsshub://cls/telegraph"
-    },
-    {
       "description": "财联社 - 电报 - 加红 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -103,6 +91,18 @@
       "title": "财联社 - 电报 - 加红",
       "type": "feed",
       "url": "rsshub://cls/telegraph/red"
+    },
+    {
+      "description": "财联社 - 电报 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "53366652701156363",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.cls.cn/telegraph",
+      "title": "财联社 - 电报",
+      "type": "feed",
+      "url": "rsshub://cls/telegraph"
     }
   ],
   "url": "cls.cn/telegraph"

@@ -138,18 +138,6 @@ Example:
   },
   "topFeeds": [
     {
-      "description": "Coco要做人啦！（闭关中） 的 pixiv 最新小说 - Powered by RSSHub",
-      "errorAt": "2026-09-03T22:36:46.801Z",
-      "errorMessage": "[GET] \"https://app-api.pixiv.net/v1/user/novels?filter=for_ios&user_id=43420481\": 400 Bad Request\n",
-      "id": "171616028489447424",
-      "image": "https://pixiv.rss3.workers.dev/user-profile/img/2024/09/20/22/49/43/26387649_59dfd297e633748236bf3623acea457c_170.png",
-      "ownerUserId": null,
-      "siteUrl": "https://www.pixiv.net/users/43420481/novels",
-      "title": "Coco要做人啦！（闭关中）'s novels - pixiv",
-      "type": "feed",
-      "url": "rsshub://pixiv/user/novels/43420481"
-    },
-    {
       "description": "兴趣使然的瑟琴写手 的 pixiv 最新小说 - Powered by RSSHub",
       "errorAt": "2026-09-09T01:01:34.834Z",
       "errorMessage": "[GET] \"https://app-api.pixiv.net/v1/user/novels?filter=for_ios&user_id=11118328\": 403 Forbidden\n",
@@ -160,6 +148,18 @@ Example:
       "title": "兴趣使然的瑟琴写手's novels - pixiv",
       "type": "feed",
       "url": "rsshub://pixiv/user/novels/11118328/true"
+    },
+    {
+      "description": "Coco要做人啦！（闭关中） 的 pixiv 最新小说 - Powered by RSSHub",
+      "errorAt": "2026-09-03T22:36:46.801Z",
+      "errorMessage": "[GET] \"https://app-api.pixiv.net/v1/user/novels?filter=for_ios&user_id=43420481\": 400 Bad Request\n",
+      "id": "171616028489447424",
+      "image": "https://pixiv.rss3.workers.dev/user-profile/img/2024/09/20/22/49/43/26387649_59dfd297e633748236bf3623acea457c_170.png",
+      "ownerUserId": null,
+      "siteUrl": "https://www.pixiv.net/users/43420481/novels",
+      "title": "Coco要做人啦！（闭关中）'s novels - pixiv",
+      "type": "feed",
+      "url": "rsshub://pixiv/user/novels/43420481"
     }
   ],
   "view": 0

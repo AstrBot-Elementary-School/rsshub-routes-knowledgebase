@@ -39,7 +39,7 @@ _None_
   ],
   "description": "| 淘股论坛 | 社区总版 | 精华加油 | 网友点赞 |\n| -------- | -------- | -------- | -------- |\n| bbs      | zongban  | jinghua  | dianzan  |",
   "example": "/taoguba",
-  "heat": 250,
+  "heat": 249,
   "location": "index.ts",
   "maintainers": [
     "nczitzk"
@@ -55,18 +55,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "淘股吧股票论坛总版 - Powered by RSSHub",
-      "errorAt": "2026-06-24T21:12:43.752Z",
-      "errorMessage": "[GET] \"https://www.tgb.cn//a/2uGWVtxf8Ef\": 404 Not Found\n",
-      "id": "101439531051305984",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.tgb.cn/zongban/",
-      "title": "淘股吧股票论坛总版",
-      "type": "feed",
-      "url": "rsshub://taoguba"
-    },
-    {
       "description": "淘股吧散户炒股交流点赞牛贴 - Powered by RSSHub",
       "errorAt": "2026-07-02T22:09:34.740Z",
       "errorMessage": "[GET] \"https://www.tgb.cn//a/2u3WQakHXej\": 404 Not Found\n",
@@ -77,6 +65,18 @@ _None_
       "title": "淘股吧散户炒股交流点赞牛贴",
       "type": "feed",
       "url": "rsshub://taoguba/dianzan"
+    },
+    {
+      "description": "淘股吧股票论坛总版 - Powered by RSSHub",
+      "errorAt": "2026-06-24T21:12:43.752Z",
+      "errorMessage": "[GET] \"https://www.tgb.cn//a/2cn79hxsdyj\": 404 \n[GET] \"https://www.tgb.cn//a/2vuchoJnA5Z\": 404 Not Found\n",
+      "id": "101439531051305984",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.tgb.cn/zongban/",
+      "title": "淘股吧股票论坛总版",
+      "type": "feed",
+      "url": "rsshub://taoguba"
     }
   ]
 }

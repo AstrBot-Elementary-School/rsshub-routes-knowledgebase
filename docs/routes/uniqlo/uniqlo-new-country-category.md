@@ -66,18 +66,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Uniqlo men new arrivals in sg - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "41147805268337675",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.uniqlo.com/sg/en/feature/new/men/",
-      "title": "Uniqlo men new arrivals in sg",
-      "type": "feed",
-      "url": "rsshub://uniqlo/new/sg/men"
-    },
-    {
       "description": "Uniqlo men new arrivals in us - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -88,6 +76,18 @@ _None_
       "title": "Uniqlo men new arrivals in us",
       "type": "feed",
       "url": "rsshub://uniqlo/new/us/men"
+    },
+    {
+      "description": "Uniqlo men new arrivals in sg - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "41147805268337675",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.uniqlo.com/sg/en/feature/new/men/",
+      "title": "Uniqlo men new arrivals in sg",
+      "type": "feed",
+      "url": "rsshub://uniqlo/new/sg/men"
     }
   ]
 }

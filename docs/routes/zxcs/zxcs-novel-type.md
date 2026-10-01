@@ -76,18 +76,6 @@
   },
   "topFeeds": [
     {
-      "description": "知轩藏书 - 近期更新 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "140456340902353920",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.zxcs.click/jinqigengxin",
-      "title": "知轩藏书 - 近期更新",
-      "type": "feed",
-      "url": "rsshub://zxcs/novel/jinqigengxin"
-    },
-    {
       "description": "知轩藏书 - 仙侠 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -98,6 +86,18 @@
       "title": "知轩藏书 - 仙侠",
       "type": "feed",
       "url": "rsshub://zxcs/novel/xianxia"
+    },
+    {
+      "description": "知轩藏书 - 近期更新 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "140456340902353920",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.zxcs.click/jinqigengxin",
+      "title": "知轩藏书 - 近期更新",
+      "type": "feed",
+      "url": "rsshub://zxcs/novel/jinqigengxin"
     }
   ],
   "url": "zxcs.click"

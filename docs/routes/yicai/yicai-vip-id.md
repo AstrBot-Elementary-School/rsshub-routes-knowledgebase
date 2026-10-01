@@ -77,18 +77,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "第一财经VIP频道 - 第一财经杂志丨YiMagazine | 探索明亮的商业世界 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "107406669394481152",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.yicai.com/vip/product/55",
-      "title": "第一财经VIP频道 - 第一财经杂志丨YiMagazine | 探索明亮的商业世界",
-      "type": "feed",
-      "url": "rsshub://yicai/vip/55"
-    },
-    {
       "description": "第一财经VIP频道 - 一元点金 | 即时热点 单篇精选 - Powered by RSSHub",
       "errorAt": "2026-01-06T15:11:39.949Z",
       "errorMessage": "[GET] \"https://www.yicai.com/vip/product/428\": 404 Not Found\n",
@@ -99,6 +87,18 @@ _None_
       "title": "第一财经VIP频道 - 一元点金 | 即时热点 单篇精选",
       "type": "feed",
       "url": "rsshub://yicai/vip/428"
+    },
+    {
+      "description": "第一财经VIP频道 - 第一财经杂志丨YiMagazine | 探索明亮的商业世界 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "107406669394481152",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.yicai.com/vip/product/55",
+      "title": "第一财经VIP频道 - 第一财经杂志丨YiMagazine | 探索明亮的商业世界",
+      "type": "feed",
+      "url": "rsshub://yicai/vip/55"
     }
   ]
 }

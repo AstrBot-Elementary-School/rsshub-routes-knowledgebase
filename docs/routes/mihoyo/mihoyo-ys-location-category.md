@@ -86,18 +86,6 @@
       "description": "原神 - 最新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "68834268354564096",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://ys.mihoyo.com/main/news/719",
-      "title": "原神 - 最新",
-      "type": "feed",
-      "url": "rsshub://mihoyo/ys"
-    },
-    {
-      "description": "原神 - 最新 - Powered by RSSHub",
-      "errorAt": "2026-09-29T09:46:24.496Z",
-      "errorMessage": "[GET] \"https://api-takumi-static.mihoyo.com/content_v2_user/app/16471662a82d418a/getContentList?iPage=1&sLangKey=zh-cn&iChanId=719&iPageSize=50\": 522 <none>\n",
       "id": "156266162055355392",
       "image": null,
       "ownerUserId": null,
@@ -105,6 +93,18 @@
       "title": "原神 - 最新",
       "type": "feed",
       "url": "rsshub://mihoyo/ys/main"
+    },
+    {
+      "description": "原神 - 最新 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "68834268354564096",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://ys.mihoyo.com/main/news/719",
+      "title": "原神 - 最新",
+      "type": "feed",
+      "url": "rsshub://mihoyo/ys"
     }
   ]
 }

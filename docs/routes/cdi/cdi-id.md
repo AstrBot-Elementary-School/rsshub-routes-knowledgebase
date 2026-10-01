@@ -68,18 +68,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "综研国策 - 国家高端智库/综合开发研究院 - Powered by RSSHub",
-      "errorAt": "2025-12-25T11:11:36.802Z",
-      "errorMessage": "[GET] \"http://www.cdi.com.cn/Article/List?ColumnId=152\": 404 Not Found\n",
-      "id": "55135298544042027",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "http://www.cdi.com.cn/Article/List?ColumnId=152",
-      "title": "综研国策 - 国家高端智库/综合开发研究院",
-      "type": "feed",
-      "url": "rsshub://cdi"
-    },
-    {
       "description": "综研观察 - 国家高端智库/综合开发研究院 - Powered by RSSHub",
       "errorAt": "2025-03-10T07:15:28.291Z",
       "errorMessage": "[GET] \"http://www.cdi.com.cn/Article/List?ColumnId=150\": 404 Not Found\n",
@@ -90,6 +78,18 @@ _None_
       "title": "综研观察 - 国家高端智库/综合开发研究院",
       "type": "feed",
       "url": "rsshub://cdi/150"
+    },
+    {
+      "description": "综研国策 - 国家高端智库/综合开发研究院 - Powered by RSSHub",
+      "errorAt": "2025-12-25T11:11:36.802Z",
+      "errorMessage": "[GET] \"http://www.cdi.com.cn/Article/List?ColumnId=152\": 404 Not Found\n",
+      "id": "55135298544042027",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "http://www.cdi.com.cn/Article/List?ColumnId=152",
+      "title": "综研国策 - 国家高端智库/综合开发研究院",
+      "type": "feed",
+      "url": "rsshub://cdi"
     }
   ]
 }

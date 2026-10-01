@@ -75,8 +75,8 @@ _None_
   "topFeeds": [
     {
       "description": "NEWS WEB EASYは、小学生・中学生の皆さんや、日本に住んでいる外国人のみなさんに、わかりやすいことば でニュースを伝えるウェブサイトです。 - Powered by RSSHub",
-      "errorAt": "2026-09-29T11:51:14.783Z",
-      "errorMessage": "524 \n[GET] \"https://news.web.nhk/tix/build_authorize?idp=a-alaz&profileType=abroad&redirect_uri=https:%2F%2Fnews.web.nhk%2Fnews%2Feasy%2F&entity=none&area=130&pref=13&jisx0402=13101&postal=1000001\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "56991521965888512",
       "image": null,
       "ownerUserId": null,

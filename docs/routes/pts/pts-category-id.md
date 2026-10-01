@@ -87,18 +87,6 @@
   },
   "topFeeds": [
     {
-      "description": "全球 ｜ 公視新聞網 PNN - Powered by RSSHub",
-      "errorAt": "2026-09-29T06:26:08.814Z",
-      "errorMessage": "200 ",
-      "id": "69916583666985995",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://news.pts.org.tw/category/4",
-      "title": "全球 ｜ 公視新聞網 PNN",
-      "type": "feed",
-      "url": "rsshub://pts/category/4"
-    },
-    {
       "description": "兩岸 ｜ 公視新聞網 PNN - Powered by RSSHub",
       "errorAt": "2026-09-08T16:12:51.826Z",
       "errorMessage": "200 ",
@@ -109,6 +97,18 @@
       "title": "兩岸 ｜ 公視新聞網 PNN",
       "type": "feed",
       "url": "rsshub://pts/category/9"
+    },
+    {
+      "description": "全球 ｜ 公視新聞網 PNN - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "69916583666985995",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://news.pts.org.tw/category/4",
+      "title": "全球 ｜ 公視新聞網 PNN",
+      "type": "feed",
+      "url": "rsshub://pts/category/4"
     }
   ]
 }

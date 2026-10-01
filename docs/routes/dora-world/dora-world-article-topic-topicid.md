@@ -75,18 +75,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "映画ドラえもん のび太の絵世界物語 - ドラえもんチャンネル - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "73747352310672384",
-      "image": "https://dora-world.com/assets/images/DORAch_web-touch-icon.png",
-      "ownerUserId": null,
-      "siteUrl": "https://www.dora-world.com/movie",
-      "title": "映画ドラえもん のび太の絵世界物語 - ドラえもんチャンネル",
-      "type": "feed",
-      "url": "rsshub://dora-world/article/movie"
-    },
-    {
       "description": "新着 - ドラえもんチャンネル - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -97,6 +85,18 @@ _None_
       "title": "新着 - ドラえもんチャンネル",
       "type": "feed",
       "url": "rsshub://dora-world/article/contents"
+    },
+    {
+      "description": "映画ドラえもん のび太の絵世界物語 - ドラえもんチャンネル - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "73747352310672384",
+      "image": "https://dora-world.com/assets/images/DORAch_web-touch-icon.png",
+      "ownerUserId": null,
+      "siteUrl": "https://www.dora-world.com/movie",
+      "title": "映画ドラえもん のび太の絵世界物語 - ドラえもんチャンネル",
+      "type": "feed",
+      "url": "rsshub://dora-world/article/movie"
     }
   ],
   "view": 0

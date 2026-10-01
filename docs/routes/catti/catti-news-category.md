@@ -80,18 +80,6 @@
   },
   "topFeeds": [
     {
-      "description": "CATTI 考试通知和公告 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "101927725498470400",
-      "image": "https://www.catticenter.com/img/applogo.png",
-      "ownerUserId": null,
-      "siteUrl": "https://www.catticenter.com/ggl",
-      "title": "通知公告",
-      "type": "feed",
-      "url": "rsshub://catti/news/ggl"
-    },
-    {
       "description": "CATTI 考试要闻动态 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -102,6 +90,18 @@
       "title": "要闻动态",
       "type": "feed",
       "url": "rsshub://catti/news/ywdt"
+    },
+    {
+      "description": "CATTI 考试通知和公告 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "101927725498470400",
+      "image": "https://www.catticenter.com/img/applogo.png",
+      "ownerUserId": null,
+      "siteUrl": "https://www.catticenter.com/ggl",
+      "title": "通知公告",
+      "type": "feed",
+      "url": "rsshub://catti/news/ggl"
     }
   ]
 }

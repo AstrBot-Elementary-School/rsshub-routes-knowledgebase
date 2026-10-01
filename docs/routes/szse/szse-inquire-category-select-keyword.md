@@ -96,18 +96,6 @@
       "description": "函件类别：全部函件类别 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "64306740998267904",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.szse.cn/disclosure/supervision/inquire/index.html",
-      "title": "深圳证券交易所 - 问询函件 - 主板",
-      "type": "feed",
-      "url": "rsshub://szse/inquire"
-    },
-    {
-      "description": "函件类别：全部函件类别 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "112163264912778240",
       "image": null,
       "ownerUserId": null,
@@ -115,6 +103,18 @@
       "title": "深圳证券交易所 - 问询函件 - 创业板",
       "type": "feed",
       "url": "rsshub://szse/inquire/1"
+    },
+    {
+      "description": "函件类别：全部函件类别 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "64306740998267904",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.szse.cn/disclosure/supervision/inquire/index.html",
+      "title": "深圳证券交易所 - 问询函件 - 主板",
+      "type": "feed",
+      "url": "rsshub://szse/inquire"
     }
   ],
   "url": "szse.cn/disclosure/supervision/inquire/index.html"

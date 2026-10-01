@@ -67,6 +67,18 @@ _None_
   ],
   "topFeeds": [
     {
+      "description": "[April 30, 2025 Graduated.] Shark-girl Idol of Hololive EN ! 🐟 --- A descendant of the Lost City of Atlantis, who swam to Earth while saying, \"It's so boring... - Powered by RSSHub",
+      "errorAt": "2026-09-30T13:26:37.112Z",
+      "errorMessage": "Request to https://www.youtube.com/youtubei/v1/browse?prettyPrint=false&alt=json failed with status code 403\n",
+      "id": "42001666786766848",
+      "image": "https://yt3.googleusercontent.com/6BCfAqi9yIpZbHLbw9BAWySvB3XZf9r8jFqudO5nSOsHoGzLhlKrm1M1uuMCRabi_pXGDzl7=s900-c-k-c0x00ffffff-no-rj",
+      "ownerUserId": null,
+      "siteUrl": "https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g/streams",
+      "title": "Gawr Gura Ch. hololive-EN - Live - YouTube",
+      "type": "feed",
+      "url": "rsshub://youtube/live/@GawrGura"
+    },
+    {
       "description": "$老高與小茉 Mr & Mrs Gao's live streaming status - Powered by RSSHub",
       "errorAt": "2026-09-28T22:00:54.900Z",
       "errorMessage": "Tab \"streams\" not found\n",
@@ -77,18 +89,6 @@ _None_
       "title": "老高與小茉 Mr & Mrs Gao's Live Status",
       "type": "feed",
       "url": "rsshub://youtube/live/@laogao"
-    },
-    {
-      "description": "[April 30, 2025 Graduated.] Shark-girl Idol of Hololive EN ! 🐟 --- A descendant of the Lost City of Atlantis, who swam to Earth while saying, \"It's so boring... - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "42001666786766848",
-      "image": "https://yt3.googleusercontent.com/6BCfAqi9yIpZbHLbw9BAWySvB3XZf9r8jFqudO5nSOsHoGzLhlKrm1M1uuMCRabi_pXGDzl7=s900-c-k-c0x00ffffff-no-rj",
-      "ownerUserId": null,
-      "siteUrl": "https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g/streams",
-      "title": "Gawr Gura Ch. hololive-EN - Live - YouTube",
-      "type": "feed",
-      "url": "rsshub://youtube/live/@GawrGura"
     }
   ],
   "view": 3

@@ -75,18 +75,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Huggingface zai-org Models - Powered by RSSHub",
-      "errorAt": "2026-09-29T11:46:00.129Z",
-      "errorMessage": "[GET] \"https://huggingface.co/zai-org/models?sort=created\": 429 Too Many Requests\n",
-      "id": "239230213876544512",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://huggingface.co/zai-org/models?sort=created",
-      "title": "Huggingface zai-org Models",
-      "type": "feed",
-      "url": "rsshub://huggingface/models/zai-org"
-    },
-    {
       "description": "Huggingface deepseek-ai Models - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -97,6 +85,18 @@ _None_
       "title": "Huggingface deepseek-ai Models",
       "type": "feed",
       "url": "rsshub://huggingface/models/deepseek-ai"
+    },
+    {
+      "description": "Huggingface zai-org Models - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "239230213876544512",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://huggingface.co/zai-org/models?sort=created",
+      "title": "Huggingface zai-org Models",
+      "type": "feed",
+      "url": "rsshub://huggingface/models/zai-org"
     }
   ],
   "url": "huggingface.co"

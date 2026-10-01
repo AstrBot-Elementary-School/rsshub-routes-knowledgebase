@@ -165,18 +165,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "开源中国-软件资讯 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "41511702474276894",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.oschina.net/?type=9999",
-      "title": "开源中国-软件资讯",
-      "type": "feed",
-      "url": "rsshub://oschina/news/project"
-    },
-    {
       "description": "开源中国-全部 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -187,6 +175,18 @@ _None_
       "title": "开源中国-全部",
       "type": "feed",
       "url": "rsshub://oschina/news"
+    },
+    {
+      "description": "开源中国-软件资讯 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "41511702474276894",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.oschina.net/?type=9999",
+      "title": "开源中国-软件资讯",
+      "type": "feed",
+      "url": "rsshub://oschina/news/project"
     }
   ]
 }

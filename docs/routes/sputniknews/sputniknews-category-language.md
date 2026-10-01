@@ -126,8 +126,8 @@ _None_
     },
     {
       "description": "news - Sputnik News - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-09-30T07:22:20.360Z",
+      "errorMessage": "Failed to fetch\n[GET] \"http://sputniknews.cn/services/news/more.html\": 502 Bad Gateway\n",
       "id": "68844937961281540",
       "image": null,
       "ownerUserId": null,

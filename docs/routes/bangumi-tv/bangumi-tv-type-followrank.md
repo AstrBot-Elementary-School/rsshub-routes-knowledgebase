@@ -77,18 +77,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "BangumiTV 首页 - 成员关注动画榜 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "74067850437124096",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://bgm.tv/anime",
-      "title": "BangumiTV 成员关注动画榜",
-      "type": "feed",
-      "url": "rsshub://bangumi.tv/anime/followrank"
-    },
-    {
       "description": "BangumiTV 首页 - 成员关注游戏榜 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -99,6 +87,18 @@ _None_
       "title": "BangumiTV 成员关注游戏榜",
       "type": "feed",
       "url": "rsshub://bangumi.tv/game/followrank"
+    },
+    {
+      "description": "BangumiTV 首页 - 成员关注动画榜 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "74067850437124096",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://bgm.tv/anime",
+      "title": "BangumiTV 成员关注动画榜",
+      "type": "feed",
+      "url": "rsshub://bangumi.tv/anime/followrank"
     }
   ]
 }

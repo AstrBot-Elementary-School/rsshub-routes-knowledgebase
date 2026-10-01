@@ -145,18 +145,6 @@ _None_
       "description": "專屬毛孩愛好者的資訊平台，不論你是貓奴、狗奴，還是其他動物控，一起發掘最新的萌寵趣聞、有趣的寵物飼養知識、訓練動物、竉物用品推介、豐富多樣的寵物可愛影片。 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "67365881447601152",
-      "image": "https://assets.presslogic.com/presslogic-hk-pc/static/favicon.ico",
-      "ownerUserId": null,
-      "siteUrl": "https://thepetcity.co/",
-      "title": "PetCity 毛孩日常 | 飼養竉物、竉物用品、萌寵趣聞",
-      "type": "feed",
-      "url": "rsshub://thepetcity"
-    },
-    {
-      "description": "專屬毛孩愛好者的資訊平台，不論你是貓奴、狗奴，還是其他動物控，一起發掘最新的萌寵趣聞、有趣的寵物飼養知識、訓練動物、竉物用品推介、豐富多樣的寵物可愛影片。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "88412105285025792",
       "image": "https://assets.presslogic.com/presslogic-hk-pc/static/favicon.ico",
       "ownerUserId": null,
@@ -164,6 +152,18 @@ _None_
       "title": "Funny News毛孩趣聞",
       "type": "feed",
       "url": "rsshub://thepetcity/2"
+    },
+    {
+      "description": "專屬毛孩愛好者的資訊平台，不論你是貓奴、狗奴，還是其他動物控，一起發掘最新的萌寵趣聞、有趣的寵物飼養知識、訓練動物、竉物用品推介、豐富多樣的寵物可愛影片。 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "67365881447601152",
+      "image": "https://assets.presslogic.com/presslogic-hk-pc/static/favicon.ico",
+      "ownerUserId": null,
+      "siteUrl": "https://thepetcity.co/",
+      "title": "PetCity 毛孩日常 | 飼養竉物、竉物用品、萌寵趣聞",
+      "type": "feed",
+      "url": "rsshub://thepetcity"
     }
   ],
   "url": "thepetcity.co/"

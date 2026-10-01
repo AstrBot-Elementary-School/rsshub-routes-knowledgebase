@@ -74,18 +74,6 @@ This route provides a flexible plan with full text content to subscribe specific
   },
   "topFeeds": [
     {
-      "description": "Nautilus | Arts - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "84839684406711296",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://nautil.us/topics/arts/",
-      "title": "Nautilus | Arts",
-      "type": "feed",
-      "url": "rsshub://nautil/topic/arts"
-    },
-    {
       "description": "Nautilus | Health - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -96,6 +84,18 @@ This route provides a flexible plan with full text content to subscribe specific
       "title": "Nautilus | Health",
       "type": "feed",
       "url": "rsshub://nautil/topic/health"
+    },
+    {
+      "description": "Nautilus | Arts - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "84839684406711296",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://nautil.us/topics/arts/",
+      "title": "Nautilus | Arts",
+      "type": "feed",
+      "url": "rsshub://nautil/topic/arts"
     }
   ]
 }

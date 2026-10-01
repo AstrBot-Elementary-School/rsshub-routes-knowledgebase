@@ -65,18 +65,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "孙笑川吧 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "70443380786893824",
-      "image": null,
-      "ownerUserId": "75347449854502912",
-      "siteUrl": "https://tieba.baidu.com/f?kw=%E5%AD%99%E7%AC%91%E5%B7%9D",
-      "title": "孙笑川吧",
-      "type": "feed",
-      "url": "rsshub://baidu/tieba/forum/%E5%AD%99%E7%AC%91%E5%B7%9D"
-    },
-    {
       "description": "pt吧 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -87,6 +75,18 @@ _None_
       "title": "pt吧",
       "type": "feed",
       "url": "rsshub://baidu/tieba/forum/pt"
+    },
+    {
+      "description": "孙笑川吧 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "70443380786893824",
+      "image": null,
+      "ownerUserId": "75347449854502912",
+      "siteUrl": "https://tieba.baidu.com/f?kw=%E5%AD%99%E7%AC%91%E5%B7%9D",
+      "title": "孙笑川吧",
+      "type": "feed",
+      "url": "rsshub://baidu/tieba/forum/%E5%AD%99%E7%AC%91%E5%B7%9D"
     }
   ]
 }

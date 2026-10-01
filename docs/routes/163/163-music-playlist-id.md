@@ -83,18 +83,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "网易云音乐歌单 - DIYgod喜欢的音乐 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "60553915874505728",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://music.163.com/#/playlist?id=35798529",
-      "title": "DIYgod喜欢的音乐",
-      "type": "feed",
-      "url": "rsshub://163/music/playlist/35798529"
-    },
-    {
       "description": "网易云音乐歌单 - Khat喵喜欢的音乐 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -105,6 +93,18 @@ _None_
       "title": "Khat喵喜欢的音乐",
       "type": "feed",
       "url": "rsshub://163/music/playlist/508862123"
+    },
+    {
+      "description": "网易云音乐歌单 - DIYgod喜欢的音乐 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "60553915874505728",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://music.163.com/#/playlist?id=35798529",
+      "title": "DIYgod喜欢的音乐",
+      "type": "feed",
+      "url": "rsshub://163/music/playlist/35798529"
     }
   ]
 }

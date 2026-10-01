@@ -103,18 +103,6 @@ Category 栏目：
       "description": "端传媒 - 最新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "59337321303625728",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://theinitium.com/latest/",
-      "title": "端传媒 - 最新",
-      "type": "feed",
-      "url": "rsshub://theinitium/app"
-    },
-    {
-      "description": "端传媒 - 最新 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "62028044872836096",
       "image": null,
       "ownerUserId": null,
@@ -122,6 +110,18 @@ Category 栏目：
       "title": "端传媒 - 最新",
       "type": "feed",
       "url": "rsshub://theinitium/app/latest_sc"
+    },
+    {
+      "description": "端传媒 - 最新 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "59337321303625728",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://theinitium.com/latest/",
+      "title": "端传媒 - 最新",
+      "type": "feed",
+      "url": "rsshub://theinitium/app"
     }
   ]
 }

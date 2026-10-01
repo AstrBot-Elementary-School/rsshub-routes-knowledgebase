@@ -74,7 +74,7 @@ _None_
     {
       "description": "飞客茶馆优惠 - Powered by RSSHub",
       "errorAt": "2026-08-16T21:12:54.496Z",
-      "errorMessage": "[GET] \"https://www.flyert.com/forum.php?mod=forumdisplay&sum=all&fid=all&catid=322\": 403 Forbidden\n[GET] \"https://www.flyert.com/forum.php?mod=forumdisplay&sum=all&fid=all&catid=322\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.flyert.com/forum.php?mod=forumdisplay&sum=all&fid=all&catid=322\": 403 \n[GET] \"https://www.flyert.com/forum.php?mod=forumdisplay&sum=all&fid=all&catid=322\": 403 Forbidden\n",
       "id": "56540861752061952",
       "image": null,
       "ownerUserId": null,

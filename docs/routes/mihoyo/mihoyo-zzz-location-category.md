@@ -86,18 +86,6 @@
       "description": "最新-绝区零 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "182164256051058688",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://zzz.mihoyo.com/news?category=273",
-      "title": "最新-绝区零",
-      "type": "feed",
-      "url": "rsshub://mihoyo/zzz"
-    },
-    {
-      "description": "最新-绝区零 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "205175880713752576",
       "image": null,
       "ownerUserId": null,
@@ -105,6 +93,18 @@
       "title": "最新-绝区零",
       "type": "feed",
       "url": "rsshub://mihoyo/zzz/zh-cn"
+    },
+    {
+      "description": "最新-绝区零 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "182164256051058688",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://zzz.mihoyo.com/news?category=273",
+      "title": "最新-绝区零",
+      "type": "feed",
+      "url": "rsshub://mihoyo/zzz"
     }
   ],
   "url": "zzz.mihoyo.com/news"

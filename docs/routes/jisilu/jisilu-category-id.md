@@ -156,18 +156,6 @@
   },
   "topFeeds": [
     {
-      "description": "债券/可转债 - 经典固定收益类 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "126653937076005888",
-      "image": "https://www.jisilu.cn/static/css/jisilu/img/logo_jisilu.png",
-      "ownerUserId": null,
-      "siteUrl": "https://www.jisilu.cn/category/4",
-      "title": "债券/可转债 - 集思录 - 最新",
-      "type": "feed",
-      "url": "rsshub://jisilu/category/4"
-    },
-    {
       "description": "股票 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -178,6 +166,18 @@
       "title": "股票 - 集思录 -",
       "type": "feed",
       "url": "rsshub://jisilu/category/8"
+    },
+    {
+      "description": "债券/可转债 - 经典固定收益类 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "126653937076005888",
+      "image": "https://www.jisilu.cn/static/css/jisilu/img/logo_jisilu.png",
+      "ownerUserId": null,
+      "siteUrl": "https://www.jisilu.cn/category/4",
+      "title": "债券/可转债 - 集思录 - 最新",
+      "type": "feed",
+      "url": "rsshub://jisilu/category/4"
     }
   ],
   "url": "www.jisilu.cn",

@@ -56,18 +56,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "二手攝影產品買賣平台 - DCFever.com - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "73027866387769344",
-      "image": "https://cdn10.dcfever.com/images/android_192.png",
-      "ownerUserId": null,
-      "siteUrl": "https://www.dcfever.com/trading/listing.php?id=1&order=new&type=all",
-      "title": "二手攝影產品買賣平台 - DCFever.com",
-      "type": "feed",
-      "url": "rsshub://dcfever/trading/1"
-    },
-    {
       "description": "二手電腦買賣平台 - DCFever.com - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -78,6 +66,18 @@ _None_
       "title": "二手電腦買賣平台 - DCFever.com",
       "type": "feed",
       "url": "rsshub://dcfever/trading/2"
+    },
+    {
+      "description": "二手攝影產品買賣平台 - DCFever.com - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "73027866387769344",
+      "image": "https://cdn10.dcfever.com/images/android_192.png",
+      "ownerUserId": null,
+      "siteUrl": "https://www.dcfever.com/trading/listing.php?id=1&order=new&type=all",
+      "title": "二手攝影產品買賣平台 - DCFever.com",
+      "type": "feed",
+      "url": "rsshub://dcfever/trading/1"
     }
   ]
 }

@@ -78,18 +78,6 @@
   },
   "topFeeds": [
     {
-      "description": "环境要闻 - 要闻动态 - 中华人民共和国生态环境部 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "73652336403326987",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.mee.gov.cn/ywdt/",
-      "title": "环境要闻 - 要闻动态 - 中华人民共和国生态环境部",
-      "type": "feed",
-      "url": "rsshub://gov/mee/ywdt/hjywnews"
-    },
-    {
       "description": "公示公告 - 要闻动态 - 中华人民共和国生态环境部 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -100,6 +88,18 @@
       "title": "公示公告 - 要闻动态 - 中华人民共和国生态环境部",
       "type": "feed",
       "url": "rsshub://gov/mee/ywdt/gsgg"
+    },
+    {
+      "description": "环境要闻 - 要闻动态 - 中华人民共和国生态环境部 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "73652336403326987",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.mee.gov.cn/ywdt/",
+      "title": "环境要闻 - 要闻动态 - 中华人民共和国生态环境部",
+      "type": "feed",
+      "url": "rsshub://gov/mee/ywdt/hjywnews"
     }
   ]
 }

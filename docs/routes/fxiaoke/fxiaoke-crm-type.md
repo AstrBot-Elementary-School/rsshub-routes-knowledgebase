@@ -67,18 +67,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "全部文章 - 纷享销客 CRM - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "73991220743306240",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.fxiaoke.com/crm/news/",
-      "title": "全部文章 - 纷享销客 CRM",
-      "type": "feed",
-      "url": "rsshub://fxiaoke/crm/news"
-    },
-    {
       "description": "为神州数码、中国常柴、3M、元气森林等超5000家大中型企业提供数字化增长服务。 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -89,6 +77,18 @@ _None_
       "title": "签约喜报 - 纷享销客 CRM",
       "type": "feed",
       "url": "rsshub://fxiaoke/crm/customers"
+    },
+    {
+      "description": "全部文章 - 纷享销客 CRM - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "73991220743306240",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.fxiaoke.com/crm/news/",
+      "title": "全部文章 - 纷享销客 CRM",
+      "type": "feed",
+      "url": "rsshub://fxiaoke/crm/news"
     }
   ]
 }

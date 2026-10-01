@@ -77,18 +77,6 @@ MSN News
   },
   "topFeeds": [
     {
-      "description": "Bloomberg - Powered by RSSHub",
-      "errorAt": "2026-07-19T07:58:45.756Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'cards')\n",
-      "id": "99576216016317440",
-      "image": "https://www.msn.com/favicon.ico",
-      "ownerUserId": null,
-      "siteUrl": "https://www.msn.com/zh-tw/channel/source/Bloomberg/sr-vid-08gw7ky4u229xjsjvnf4n6n7v67gxm0pjmv9fr4y2x9jjmwcri4s",
-      "title": "Bloomberg",
-      "type": "feed",
-      "url": "rsshub://msn/zh-tw/Bloomberg/sr-vid-08gw7ky4u229xjsjvnf4n6n7v67gxm0pjmv9fr4y2x9jjmwcri4s"
-    },
-    {
       "description": "Press Trust of India - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -99,6 +87,18 @@ MSN News
       "title": "Press Trust of India",
       "type": "feed",
       "url": "rsshub://msn/en-in/Press%20Trust%20of%20India/sr-vid-gnv22w2jk8eqhkww6pjggiv62h2xdehqpe33x067ju77kai629ta"
+    },
+    {
+      "description": "Bloomberg - Powered by RSSHub",
+      "errorAt": "2026-07-19T07:58:45.756Z",
+      "errorMessage": "Cannot read properties of undefined (reading 'cards')\n",
+      "id": "99576216016317440",
+      "image": "https://www.msn.com/favicon.ico",
+      "ownerUserId": null,
+      "siteUrl": "https://www.msn.com/zh-tw/channel/source/Bloomberg/sr-vid-08gw7ky4u229xjsjvnf4n6n7v67gxm0pjmv9fr4y2x9jjmwcri4s",
+      "title": "Bloomberg",
+      "type": "feed",
+      "url": "rsshub://msn/zh-tw/Bloomberg/sr-vid-08gw7ky4u229xjsjvnf4n6n7v67gxm0pjmv9fr4y2x9jjmwcri4s"
     }
   ]
 }

@@ -599,18 +599,6 @@
   },
   "topFeeds": [
     {
-      "description": "AIBase产品库 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "68516220717982720",
-      "image": "https://top.aibase.com/_static/img/Frame@2x.eddfa3e.png",
-      "ownerUserId": null,
-      "siteUrl": "https://top.aibase.com/discover",
-      "title": "AIBase产品库",
-      "type": "feed",
-      "url": "rsshub://aibase/discover"
-    },
-    {
       "description": "AiBase产品库 | 开发编程 - 开发编程 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -621,6 +609,18 @@
       "title": "AiBase产品库 | 开发编程 - 开发编程",
       "type": "feed",
       "url": "rsshub://aibase/discover/43-73"
+    },
+    {
+      "description": "AIBase产品库 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "68516220717982720",
+      "image": "https://top.aibase.com/_static/img/Frame@2x.eddfa3e.png",
+      "ownerUserId": null,
+      "siteUrl": "https://top.aibase.com/discover",
+      "title": "AIBase产品库",
+      "type": "feed",
+      "url": "rsshub://aibase/discover"
     }
   ],
   "url": "top.aibase.com"

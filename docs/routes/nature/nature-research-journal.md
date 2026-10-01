@@ -71,7 +71,7 @@
     "supportPodcast": false,
     "supportScihub": true
   },
-  "heat": 54293,
+  "heat": 54385,
   "location": "research.ts",
   "maintainers": [
     "y9c",
@@ -101,18 +101,6 @@
       "description": "Read the latest Research articles from Nature - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "73606009950742535",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.nature.com/nature/research-articles",
-      "title": "Nature (Nature) | Latest Research",
-      "type": "feed",
-      "url": "rsshub://nature/research/nature"
-    },
-    {
-      "description": "Read the latest Research articles from Nature - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "79390237537101824",
       "image": null,
       "ownerUserId": null,
@@ -120,6 +108,18 @@
       "title": "Nature (Nature) | Latest Research",
       "type": "feed",
       "url": "rsshub://nature/research"
+    },
+    {
+      "description": "Read the latest Research articles from Nature - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "73606009950742535",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.nature.com/nature/research-articles",
+      "title": "Nature (Nature) | Latest Research",
+      "type": "feed",
+      "url": "rsshub://nature/research/nature"
     }
   ]
 }

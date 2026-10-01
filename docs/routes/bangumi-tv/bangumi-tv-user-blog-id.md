@@ -81,18 +81,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "shiraki的日志 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "133404410744743936",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://bgm.tv/user/shiraki/blog",
-      "title": "shiraki的日志",
-      "type": "feed",
-      "url": "rsshub://bangumi.tv/user/blog/shiraki"
-    },
-    {
       "description": "苍旻白轮的日志 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -103,6 +91,18 @@ _None_
       "title": "苍旻白轮的日志",
       "type": "feed",
       "url": "rsshub://bangumi.tv/user/blog/whitering"
+    },
+    {
+      "description": "shiraki的日志 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "133404410744743936",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://bgm.tv/user/shiraki/blog",
+      "title": "shiraki的日志",
+      "type": "feed",
+      "url": "rsshub://bangumi.tv/user/blog/shiraki"
     }
   ]
 }

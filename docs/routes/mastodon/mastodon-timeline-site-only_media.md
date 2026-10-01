@@ -80,18 +80,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Local Public Media Timeline on pawoo.net - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "67190628931188736",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://pawoo.net/",
-      "title": "Local Public Media Timeline on pawoo.net",
-      "type": "feed",
-      "url": "rsshub://mastodon/timeline/pawoo.net/true"
-    },
-    {
       "description": "Local Public Timeline on fairy.id - Powered by RSSHub",
       "errorAt": "2026-01-22T04:17:25.246Z",
       "errorMessage": "This RSS is disabled unless 'ALLOW_USER_SUPPLY_UNSAFE_DOMAIN' is set to 'true'.\n",
@@ -102,6 +90,18 @@ _None_
       "title": "Local Public Timeline on fairy.id",
       "type": "feed",
       "url": "rsshub://mastodon/timeline/fairy.id/false"
+    },
+    {
+      "description": "Local Public Media Timeline on pawoo.net - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "67190628931188736",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://pawoo.net/",
+      "title": "Local Public Media Timeline on pawoo.net",
+      "type": "feed",
+      "url": "rsshub://mastodon/timeline/pawoo.net/true"
     }
   ],
   "view": 1

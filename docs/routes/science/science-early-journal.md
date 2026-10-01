@@ -81,18 +81,6 @@
   "topFeeds": [
     {
       "description": null,
-      "errorAt": "2025-06-01T11:07:38.022Z",
-      "errorMessage": "[GET] \"https://www.science.org/toc/science/0/0\": 403 Forbidden\n",
-      "id": "151955931879114756",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": null,
-      "title": "Importing",
-      "type": "feed",
-      "url": "rsshub://science/early"
-    },
-    {
-      "description": null,
       "errorAt": "2026-06-30T06:04:30.952Z",
       "errorMessage": "[GET] \"https://www.science.org/toc/science/0/0\": 403 Forbidden\n",
       "id": "1178645011650969611",
@@ -102,6 +90,18 @@
       "title": "Importing",
       "type": "feed",
       "url": "rsshub://science/early/science"
+    },
+    {
+      "description": null,
+      "errorAt": "2025-06-01T11:07:38.022Z",
+      "errorMessage": "[GET] \"https://www.science.org/toc/science/0/0\": 403 Forbidden\n",
+      "id": "151955931879114756",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": null,
+      "title": "Importing",
+      "type": "feed",
+      "url": "rsshub://science/early"
     }
   ]
 }

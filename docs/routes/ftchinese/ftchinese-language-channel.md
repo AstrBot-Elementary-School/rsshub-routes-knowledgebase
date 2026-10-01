@@ -79,21 +79,9 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "FTChinese RSS - All Feed - Powered by RSSHub",
-      "errorAt": "2026-09-23T10:02:51.153Z",
-      "errorMessage": "[GET] \"https://www.ftchinese.com/story/001111020?full=y&archive\": 429 Too Many Requests\n[GET] \"https://www.ftchinese.com/story/001111020?full=y&archive\": 429 \n[GET] \"https://www.ftchinese.com/story/001111000?full=y&archive\": 429 Too Many Requests\n",
-      "id": "61693185811247104",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.ftchinese.com/",
-      "title": "FTChinese RSS - All Feed",
-      "type": "feed",
-      "url": "rsshub://ftchinese/simplified"
-    },
-    {
       "description": "FTChinese RSS - Hot Weekly - Powered by RSSHub",
       "errorAt": "2026-07-05T00:21:03.547Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'title')\n[GET] \"https://www.ftchinese.com/interactive/295900?full=y&archive\": 403 Forbidden\nCannot read properties of undefined (reading 'title')\n",
+      "errorMessage": "Cannot read properties of undefined (reading 'title')\n[GET] \"https://www.ftchinese.com/interactive/295900?full=y&archive\": 403 Forbidden\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "41377818806739968",
       "image": null,
       "ownerUserId": null,
@@ -101,6 +89,18 @@ _None_
       "title": "FTChinese RSS - Hot Weekly",
       "type": "feed",
       "url": "rsshub://ftchinese/simplified/hotstoryby7day"
+    },
+    {
+      "description": "FTChinese RSS - All Feed - Powered by RSSHub",
+      "errorAt": "2026-09-23T10:02:51.153Z",
+      "errorMessage": "[GET] \"https://www.ftchinese.com/story/001111024?full=y&archive\": 429 Too Many Requests\n[GET] \"https://www.ftchinese.com/story/001111025?full=y&archive\": 429 \n[GET] \"https://www.ftchinese.com/story/001111029?full=y&archive\": 429 \n[GET] \"https://www.ftchinese.com/story/001111025?full=y&archive\": 429 Too Many Requests\n",
+      "id": "61693185811247104",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.ftchinese.com/",
+      "title": "FTChinese RSS - All Feed",
+      "type": "feed",
+      "url": "rsshub://ftchinese/simplified"
     }
   ]
 }

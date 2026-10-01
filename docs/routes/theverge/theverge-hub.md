@@ -108,18 +108,6 @@ Provides a better reading experience (full text articles) over the official one.
   },
   "topFeeds": [
     {
-      "description": "The Verge - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "56165613279845376",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.theverge.com/",
-      "title": "The Verge",
-      "type": "feed",
-      "url": "rsshub://theverge"
-    },
-    {
       "description": "Apps | The Verge - Powered by RSSHub",
       "errorAt": "2025-09-24T18:37:54.873Z",
       "errorMessage": "Cannot read properties of undefined (reading 'map')\n",
@@ -130,6 +118,18 @@ Provides a better reading experience (full text articles) over the official one.
       "title": "Apps | The Verge",
       "type": "feed",
       "url": "rsshub://theverge/apps"
+    },
+    {
+      "description": "The Verge - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "56165613279845376",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.theverge.com/",
+      "title": "The Verge",
+      "type": "feed",
+      "url": "rsshub://theverge"
     }
   ]
 }

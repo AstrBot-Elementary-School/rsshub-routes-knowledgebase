@@ -171,18 +171,6 @@
   },
   "topFeeds": [
     {
-      "description": "欢迎大家在机核分享交流 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "79737750822299648",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.gcores.com/collections/64",
-      "title": "游戏开发设计心得分享 | 机核 GCORES",
-      "type": "feed",
-      "url": "rsshub://gcores/collections/64"
-    },
-    {
       "description": "游戏的另一种玩法，摄影的另一种玩法 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -193,6 +181,18 @@
       "title": "游戏摄影：将万千游戏世界留在自己的相册之中 | 机核 GCORES",
       "type": "feed",
       "url": "rsshub://gcores/collections/83"
+    },
+    {
+      "description": "欢迎大家在机核分享交流 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "79737750822299648",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.gcores.com/collections/64",
+      "title": "游戏开发设计心得分享 | 机核 GCORES",
+      "type": "feed",
+      "url": "rsshub://gcores/collections/64"
     }
   ],
   "url": "www.gcores.com",

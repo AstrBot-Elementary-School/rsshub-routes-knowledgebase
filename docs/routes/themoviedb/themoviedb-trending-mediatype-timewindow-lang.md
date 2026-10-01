@@ -69,18 +69,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Popular Movies — TMDB - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "65993509634566151",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.themoviedb.org/movie",
-      "title": "Popular Movies — TMDB",
-      "type": "feed",
-      "url": "rsshub://themoviedb/trending/movie/week/feed"
-    },
-    {
       "description": "Popular TV Shows — TMDB - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -91,6 +79,18 @@ _None_
       "title": "Popular TV Shows — TMDB",
       "type": "feed",
       "url": "rsshub://themoviedb/trending/tv/day/en-US"
+    },
+    {
+      "description": "Popular Movies — TMDB - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "65993509634566151",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.themoviedb.org/movie",
+      "title": "Popular Movies — TMDB",
+      "type": "feed",
+      "url": "rsshub://themoviedb/trending/movie/week/feed"
     }
   ]
 }

@@ -64,18 +64,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "晋江文学城 | 别去春风《普通人就不能成为御兽大师吗》 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "55162948793694208",
-      "image": "https://static.jjwxc.net/images/channel_2010/logo.gif",
-      "ownerUserId": null,
-      "siteUrl": "https://www.jjwxc.net/onebook.php?novelid=7013024",
-      "title": "晋江文学城 | 别去春风《普通人就不能成为御兽大师吗》",
-      "type": "feed",
-      "url": "rsshub://jjwxc/book/7013024"
-    },
-    {
       "description": "晋江文学城 | 有花在野《我在废土世界扫垃圾》 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -86,6 +74,18 @@ _None_
       "title": "晋江文学城 | 有花在野《我在废土世界扫垃圾》",
       "type": "feed",
       "url": "rsshub://jjwxc/book/7114433"
+    },
+    {
+      "description": "晋江文学城 | 别去春风《普通人就不能成为御兽大师吗》 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "55162948793694208",
+      "image": "https://static.jjwxc.net/images/channel_2010/logo.gif",
+      "ownerUserId": null,
+      "siteUrl": "https://www.jjwxc.net/onebook.php?novelid=7013024",
+      "title": "晋江文学城 | 别去春风《普通人就不能成为御兽大师吗》",
+      "type": "feed",
+      "url": "rsshub://jjwxc/book/7013024"
     }
   ],
   "view": 5

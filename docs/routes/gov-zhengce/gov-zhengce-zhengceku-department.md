@@ -50,7 +50,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1852,
+  "heat": 1850,
   "location": "zhengceku.ts",
   "maintainers": [
     "zxx-457"
@@ -68,18 +68,6 @@ _None_
       "description": "政府文件库, 当页的所有列表 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "55787153161933874",
-      "image": "https://www.gov.cn/images/gtrs_logo_rt.png",
-      "ownerUserId": null,
-      "siteUrl": "http://www.gov.cn/zhengce/zhengceku/bmwj/",
-      "title": "- 政府文件库",
-      "type": "feed",
-      "url": "rsshub://gov/zhengce/zhengceku/bmwj"
-    },
-    {
-      "description": "政府文件库, 当页的所有列表 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "86206078552289280",
       "image": "https://www.gov.cn/images/gtrs_logo_rt.png",
       "ownerUserId": null,
@@ -87,6 +75,18 @@ _None_
       "title": "- 政府文件库",
       "type": "feed",
       "url": "rsshub://gov/zhengce/zhengceku/gwywj"
+    },
+    {
+      "description": "政府文件库, 当页的所有列表 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "55787153161933874",
+      "image": "https://www.gov.cn/images/gtrs_logo_rt.png",
+      "ownerUserId": null,
+      "siteUrl": "http://www.gov.cn/zhengce/zhengceku/bmwj/",
+      "title": "- 政府文件库",
+      "type": "feed",
+      "url": "rsshub://gov/zhengce/zhengceku/bmwj"
     }
   ]
 }

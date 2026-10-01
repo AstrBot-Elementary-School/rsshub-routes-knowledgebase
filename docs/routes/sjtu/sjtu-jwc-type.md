@@ -70,18 +70,6 @@ _None_
       "description": "上海交通大学教务处 通知通告 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "66699654854455296",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://jwc.sjtu.edu.cn/xwtg/tztg.htm",
-      "title": "上海交通大学教务处 通知通告",
-      "type": "feed",
-      "url": "rsshub://sjtu/jwc"
-    },
-    {
-      "description": "上海交通大学教务处 通知通告 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "1143779419517485056",
       "image": null,
       "ownerUserId": null,
@@ -89,6 +77,18 @@ _None_
       "title": "上海交通大学教务处 通知通告",
       "type": "feed",
       "url": "rsshub://sjtu/jwc/notice"
+    },
+    {
+      "description": "上海交通大学教务处 通知通告 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "66699654854455296",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://jwc.sjtu.edu.cn/xwtg/tztg.htm",
+      "title": "上海交通大学教务处 通知通告",
+      "type": "feed",
+      "url": "rsshub://sjtu/jwc"
     }
   ]
 }

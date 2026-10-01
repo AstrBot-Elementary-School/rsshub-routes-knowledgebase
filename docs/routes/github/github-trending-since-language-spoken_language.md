@@ -60,7 +60,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 68496,
+  "heat": 68593,
   "location": "trending.tsx",
   "maintainers": [
     "DIYgod",
@@ -104,18 +104,6 @@ _None_
   ],
   "topFeeds": [
     {
-      "description": "Trending repositories on GitHub today · GitHub - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "41461870197170196",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://github.com/trending/?since=daily&spoken_language_code=",
-      "title": "Trending repositories on GitHub today · GitHub",
-      "type": "feed",
-      "url": "rsshub://github/trending/daily/any"
-    },
-    {
       "description": "Trending repositories on GitHub this week · GitHub - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -126,6 +114,18 @@ _None_
       "title": "Trending repositories on GitHub this week · GitHub",
       "type": "feed",
       "url": "rsshub://github/trending/weekly/any"
+    },
+    {
+      "description": "Trending repositories on GitHub today · GitHub - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "41461870197170196",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://github.com/trending/?since=daily&spoken_language_code=",
+      "title": "Trending repositories on GitHub today · GitHub",
+      "type": "feed",
+      "url": "rsshub://github/trending/daily/any"
     }
   ],
   "url": "github.com/trending",

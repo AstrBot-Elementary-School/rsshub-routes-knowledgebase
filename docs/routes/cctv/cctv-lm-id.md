@@ -86,18 +86,6 @@
   },
   "topFeeds": [
     {
-      "description": "眼下的中国,变化剧烈,选择什么样的新闻,以什么样的眼光,能将过去七天的中国浓缩在一本45分钟的电视新闻杂志里,是我们每天都在不停思索的问题。我们追求的是希望作一本有理想、有责任感、有尊严、能够记录历史的新闻杂志,而我们更期待的是,能在与您的沟通交流中获得启迪,因为这是我们一起经历的时代。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "59165786861326336",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://tv.cctv.com/lm/xwzk/videoset",
-      "title": "新闻周刊视频_央视网(cctv.com)",
-      "type": "feed",
-      "url": "rsshub://cctv/lm/xwzk"
-    },
-    {
       "description": "《焦点访谈》于1994年由中央电视台新闻评论部创办,节目定位是:时事追踪报道,新闻背景分析,社会热点透视,大众话题评说。它以深度报道为主,以舆论监督见长,是中央电视台收视率最高的栏目之一,多次获中国新闻界最高奖项。 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -108,6 +96,18 @@
       "title": "焦点访谈视频_央视网(cctv.com)",
       "type": "feed",
       "url": "rsshub://cctv/lm/jdft"
+    },
+    {
+      "description": "眼下的中国,变化剧烈,选择什么样的新闻,以什么样的眼光,能将过去七天的中国浓缩在一本45分钟的电视新闻杂志里,是我们每天都在不停思索的问题。我们追求的是希望作一本有理想、有责任感、有尊严、能够记录历史的新闻杂志,而我们更期待的是,能在与您的沟通交流中获得启迪,因为这是我们一起经历的时代。 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "59165786861326336",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://tv.cctv.com/lm/xwzk/videoset",
+      "title": "新闻周刊视频_央视网(cctv.com)",
+      "type": "feed",
+      "url": "rsshub://cctv/lm/xwzk"
     }
   ]
 }

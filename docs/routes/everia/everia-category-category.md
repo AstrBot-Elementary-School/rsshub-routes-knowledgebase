@@ -78,18 +78,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "EVERIA.CLUB - Category: chinese - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "160206686101994527",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://everia.club/category/chinese/",
-      "title": "EVERIA.CLUB - Category: chinese",
-      "type": "feed",
-      "url": "rsshub://everia/category/chinese"
-    },
-    {
       "description": "EVERIA.CLUB - Category: korea - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -100,6 +88,18 @@ _None_
       "title": "EVERIA.CLUB - Category: korea",
       "type": "feed",
       "url": "rsshub://everia/category/korea"
+    },
+    {
+      "description": "EVERIA.CLUB - Category: chinese - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "160206686101994527",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://everia.club/category/chinese/",
+      "title": "EVERIA.CLUB - Category: chinese",
+      "type": "feed",
+      "url": "rsshub://everia/category/chinese"
     }
   ]
 }

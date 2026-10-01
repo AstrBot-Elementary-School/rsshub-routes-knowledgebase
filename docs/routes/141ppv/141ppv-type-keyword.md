@@ -91,18 +91,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "141PPV - Popular (30 days) - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "56440582049846272",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.141ppv.com/popular/30",
-      "title": "141PPV - Popular (30 days)",
-      "type": "feed",
-      "url": "rsshub://141ppv/popular/30"
-    },
-    {
       "description": "141PPV - New - Powered by RSSHub",
       "errorAt": "2026-09-21T11:26:38.446Z",
       "errorMessage": "[GET] \"https://www.141ppv.com/new\": 403 Forbidden\n",
@@ -113,6 +101,18 @@ _None_
       "title": "141PPV - New",
       "type": "feed",
       "url": "rsshub://141ppv/new"
+    },
+    {
+      "description": "141PPV - Popular (30 days) - Powered by RSSHub",
+      "errorAt": "2026-09-30T12:51:30.633Z",
+      "errorMessage": "[GET] \"https://www.141ppv.com/popular/30\": 522 \n[GET] \"https://www.141ppv.com/popular/30\": 522 <none>\n[GET] \"https://www.141ppv.com/popular/30\": <no response> fetch failed (read ECONNRESET)\n[GET] \"https://www.141ppv.com/popular/30\": 403 Forbidden\n",
+      "id": "56440582049846272",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.141ppv.com/popular/30",
+      "title": "141PPV - Popular (30 days)",
+      "type": "feed",
+      "url": "rsshub://141ppv/popular/30"
     }
   ]
 }

@@ -74,18 +74,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Shubxam's followers - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "132457284343183360",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://github.com/Shubxam",
-      "title": "Shubxam's followers",
-      "type": "feed",
-      "url": "rsshub://github/user/followers/Shubxam"
-    },
-    {
       "description": "FerrisChi's followers - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -96,6 +84,18 @@ _None_
       "title": "FerrisChi's followers",
       "type": "feed",
       "url": "rsshub://github/user/followers/FerrisChi"
+    },
+    {
+      "description": "Shubxam's followers - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "132457284343183360",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://github.com/Shubxam",
+      "title": "Shubxam's followers",
+      "type": "feed",
+      "url": "rsshub://github/user/followers/Shubxam"
     }
   ]
 }

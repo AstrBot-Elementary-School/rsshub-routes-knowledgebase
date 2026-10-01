@@ -59,18 +59,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "国内召回公告 - Powered by RSSHub",
-      "errorAt": "2026-05-29T14:52:55.418Z",
-      "errorMessage": "[GET] \"https://www.qiche365.org.cn/index/recall/index/item/1.html?loadmore=1\": 403 Forbidden\n[GET] \"https://www.qiche365.org.cn/index/recall/index/item/1.html?loadmore=1\": <no response> fetch failed (other side closed)\n",
-      "id": "60152580433969152",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.qiche365.org.cn/index/recall/index.html",
-      "title": "国内召回公告",
-      "type": "feed",
-      "url": "rsshub://qiche365/recall/1"
-    },
-    {
       "description": "国外召回公告 - Powered by RSSHub",
       "errorAt": "2026-07-25T03:56:32.101Z",
       "errorMessage": "[GET] \"https://www.qiche365.org.cn/index/recall/index/item/3.html?loadmore=1\": 403 Forbidden\n[GET] \"https://www.qiche365.org.cn/index/recall/index/item/3.html?loadmore=1\": <no response> fetch failed (other side closed)\n",
@@ -81,6 +69,18 @@ _None_
       "title": "国外召回公告",
       "type": "feed",
       "url": "rsshub://qiche365/recall/3"
+    },
+    {
+      "description": "国内召回公告 - Powered by RSSHub",
+      "errorAt": "2026-05-29T14:52:55.418Z",
+      "errorMessage": "[GET] \"https://www.qiche365.org.cn/index/recall/index/item/1.html?loadmore=1\": 403 Forbidden\n[GET] \"https://www.qiche365.org.cn/index/recall/index/item/1.html?loadmore=1\": <no response> fetch failed (other side closed)\n",
+      "id": "60152580433969152",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.qiche365.org.cn/index/recall/index.html",
+      "title": "国内召回公告",
+      "type": "feed",
+      "url": "rsshub://qiche365/recall/1"
     }
   ],
   "url": "qiche365.org.cn/index/recall/index.html"

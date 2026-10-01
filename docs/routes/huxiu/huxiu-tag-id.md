@@ -68,18 +68,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "虎嗅标签-AI - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "111032291110780928",
-      "image": "",
-      "ownerUserId": null,
-      "siteUrl": "https://www.huxiu.com/tag/10761.html",
-      "title": "虎嗅标签-AI",
-      "type": "feed",
-      "url": "rsshub://huxiu/tag/10761"
-    },
-    {
       "description": "虎嗅标签-日本 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -90,6 +78,18 @@ _None_
       "title": "虎嗅标签-日本",
       "type": "feed",
       "url": "rsshub://huxiu/tag/689"
+    },
+    {
+      "description": "虎嗅标签-AI - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "111032291110780928",
+      "image": "",
+      "ownerUserId": null,
+      "siteUrl": "https://www.huxiu.com/tag/10761.html",
+      "title": "虎嗅标签-AI",
+      "type": "feed",
+      "url": "rsshub://huxiu/tag/10761"
     }
   ]
 }

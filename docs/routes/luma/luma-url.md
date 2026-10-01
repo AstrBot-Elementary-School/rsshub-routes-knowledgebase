@@ -76,6 +76,18 @@ _None_
   },
   "topFeeds": [
     {
+      "description": "The AI Collective - Powered by RSSHub",
+      "errorAt": "2026-09-27T12:51:10.858Z",
+      "errorMessage": "[GET] \"https://api.lu.ma/url?url=genai-collective\": 429 Too Many Requests\n",
+      "id": "265935647087177728",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://lu.ma/genai-collective",
+      "title": "The AI Collective",
+      "type": "feed",
+      "url": "rsshub://luma/genai-collective"
+    },
+    {
       "description": "LangChain Events - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -86,18 +98,6 @@ _None_
       "title": "LangChain Events",
       "type": "feed",
       "url": "rsshub://luma/langchain"
-    },
-    {
-      "description": "MenteX - Powered by RSSHub",
-      "errorAt": "2026-08-27T20:26:16.017Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
-      "id": "265966986896278528",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://lu.ma/mentex_ecosistema",
-      "title": "MenteX",
-      "type": "feed",
-      "url": "rsshub://luma/mentex_ecosistema"
     }
   ],
   "url": "lu.ma"

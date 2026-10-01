@@ -40,7 +40,7 @@ _None_
     "popular"
   ],
   "example": "/rsshub/routes/en",
-  "heat": 4476,
+  "heat": 4477,
   "location": "routes.ts",
   "maintainers": [
     "DIYgod"
@@ -76,18 +76,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Everything is RSSible - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "41147805276726402",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://docs.rsshub.app/",
-      "title": "RSSHub has new routes",
-      "type": "feed",
-      "url": "rsshub://rsshub/routes"
-    },
-    {
       "description": "万物皆可 RSS - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -98,6 +86,18 @@ _None_
       "title": "RSSHub 有新路由啦",
       "type": "feed",
       "url": "rsshub://rsshub/routes/zh"
+    },
+    {
+      "description": "Everything is RSSible - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "41147805276726402",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://docs.rsshub.app/",
+      "title": "RSSHub has new routes",
+      "type": "feed",
+      "url": "rsshub://rsshub/routes"
     }
   ],
   "url": "docs.rsshub.app/*",

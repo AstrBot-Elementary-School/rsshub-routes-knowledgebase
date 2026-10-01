@@ -63,6 +63,18 @@ _None_
   },
   "topFeeds": [
     {
+      "description": "産経新聞社のニュースサイト。経済ニュースの一覧ページです。金融・財政、産業・ビジネス、IT、新商品、人事などに関する速報記事と解説記事を掲載しています。 - Powered by RSSHub",
+      "errorAt": "2026-08-24T18:32:33.112Z",
+      "errorMessage": "[GET] \"https://www.sankei.comhttps://www.sankei.com/article/20260903-KVDNVT3RPVMLJFJEYMHGRSRBDQ/\": <no response> fetch failed (getaddrinfo ENOTFOUND www.sankei.comhttps)\n",
+      "id": "223581412122248192",
+      "image": "https://www.sankei.com/common/images/ogp_default.jpg",
+      "ownerUserId": null,
+      "siteUrl": "https://www.sankei.com/economy/",
+      "title": "産経ニュース - 経済",
+      "type": "feed",
+      "url": "rsshub://sankei/news/economy"
+    },
+    {
       "description": "産経新聞社のニュースサイト。政治、経済、国際、社会、スポーツ、エンタメ、生活、健康、災害情報などの速報記事と解説記事を新着順に一覧できます。 - Powered by RSSHub",
       "errorAt": "2026-08-27T11:50:16.203Z",
       "errorMessage": "[GET] \"https://www.sankei.comhttps://www.sankei.com/article/20260929-2MLJ7SIGJNLXRIWRHEV7MUYZWM/\": 530 \n",
@@ -73,18 +85,6 @@ _None_
       "title": "産経ニュース - 速報",
       "type": "feed",
       "url": "rsshub://sankei/news/flash"
-    },
-    {
-      "description": "産経新聞社のニュースサイト。国際ニュースの一覧ページです。中国・台湾、朝鮮半島、アジア、米州・アメリカ、欧州・ヨーロッパ、ロシア、中東・アフリカ、国際機関、国際問題などに関する速報記事と解説記事を掲載しています。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "223581287673683968",
-      "image": "https://www.sankei.com/common/images/ogp_default.jpg",
-      "ownerUserId": null,
-      "siteUrl": "https://www.sankei.com/world/",
-      "title": "産経ニュース - 国際",
-      "type": "feed",
-      "url": "rsshub://sankei/news/world"
     }
   ]
 }

@@ -77,18 +77,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "限免提醒: Squash — Web Image Compression for macOS - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "61630586048599162",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://apps.apple.com/cn/app/id1152443474",
-      "title": "限免提醒: Squash — Web Image Compression for macOS",
-      "type": "feed",
-      "url": "rsshub://appstore/price/cn/mac/id1152443474"
-    },
-    {
       "description": "Price watcher: Procreate Dreams for iOS - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -99,6 +87,18 @@ _None_
       "title": "Price watcher: Procreate Dreams for iOS",
       "type": "feed",
       "url": "rsshub://appstore/price/us/iOS/id1595520602"
+    },
+    {
+      "description": "限免提醒: Squash — Web Image Compression for macOS - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "61630586048599162",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://apps.apple.com/cn/app/id1152443474",
+      "title": "限免提醒: Squash — Web Image Compression for macOS",
+      "type": "feed",
+      "url": "rsshub://appstore/price/cn/mac/id1152443474"
     }
   ],
   "url": "apps.apple.com/"

@@ -82,18 +82,6 @@ _None_
       "description": "Bing每日壁纸 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "42109271607731200",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://cn.bing.com/",
-      "title": "Bing每日壁纸",
-      "type": "feed",
-      "url": "rsshub://bing"
-    },
-    {
-      "description": "Bing每日壁纸 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "42501169300235264",
       "image": null,
       "ownerUserId": null,
@@ -101,6 +89,18 @@ _None_
       "title": "Bing每日壁纸",
       "type": "feed",
       "url": "rsshub://bing/type=UHD&story=1&lang=zh-CN"
+    },
+    {
+      "description": "Bing每日壁纸 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "42109271607731200",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://cn.bing.com/",
+      "title": "Bing每日壁纸",
+      "type": "feed",
+      "url": "rsshub://bing"
     }
   ],
   "url": "www.bing.com/"

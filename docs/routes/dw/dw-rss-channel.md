@@ -66,18 +66,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Deutsche Welle - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "80331041578519552",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf",
-      "title": "Deutsche Welle",
-      "type": "feed",
-      "url": "rsshub://dw/rss/rss-en-all"
-    },
-    {
       "description": "Deutsche Welle: DW-WORLD.DE - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -88,6 +76,18 @@ _None_
       "title": "Deutsche Welle: DW-WORLD.DE",
       "type": "feed",
       "url": "rsshub://dw/rss/rss-chi-all"
+    },
+    {
+      "description": "Deutsche Welle - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "80331041578519552",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.dw.com/english/?maca=en-rss-en-all-1573-rdf",
+      "title": "Deutsche Welle",
+      "type": "feed",
+      "url": "rsshub://dw/rss/rss-en-all"
     }
   ]
 }

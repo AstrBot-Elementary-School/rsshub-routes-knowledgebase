@@ -81,18 +81,6 @@
       "description": "交流与境外信用卡,美国信用卡相关的信用卡产品、办卡申请、刷卡消费、额度提升、优惠活动、网上支付、分期付款、积分礼品、银行网银、账单还款等的各类业务。 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "126631276578882560",
-      "image": "https:https://ptfg.flyertrip.com/template/comiis_nby/img/logo.png",
-      "ownerUserId": null,
-      "siteUrl": "https://www.flyert.com.cn/forum.php?mod=forumdisplay&fid=228&filter=lastpost&orderby=dateline&subtypeid=1222",
-      "title": "飞客 - 信用卡 - 海外用卡 - 全部分类 - 港澳用卡 - 最新发文",
-      "type": "feed",
-      "url": "rsshub://flyert/forum/mod%3Dforumdisplay%26fid%3D228%26filter%3Dlastpost%26orderby%3Ddateline%26subtypeid%3D1222"
-    },
-    {
-      "description": "交流与境外信用卡,美国信用卡相关的信用卡产品、办卡申请、刷卡消费、额度提升、优惠活动、网上支付、分期付款、积分礼品、银行网银、账单还款等的各类业务。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "126630731344783360",
       "image": "https:https://ptfg.flyertrip.com/template/comiis_nby/img/logo.png",
       "ownerUserId": null,
@@ -100,6 +88,18 @@
       "title": "飞客 - 信用卡 - 海外用卡 - 全部分类 - 全部二级分类",
       "type": "feed",
       "url": "rsshub://flyert/forum/mod%3Dforumdisplay%26fid%3D228"
+    },
+    {
+      "description": "交流与境外信用卡,美国信用卡相关的信用卡产品、办卡申请、刷卡消费、额度提升、优惠活动、网上支付、分期付款、积分礼品、银行网银、账单还款等的各类业务。 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "126631276578882560",
+      "image": "https:https://ptfg.flyertrip.com/template/comiis_nby/img/logo.png",
+      "ownerUserId": null,
+      "siteUrl": "https://www.flyert.com.cn/forum.php?mod=forumdisplay&fid=228&filter=lastpost&orderby=dateline&subtypeid=1222",
+      "title": "飞客 - 信用卡 - 海外用卡 - 全部分类 - 港澳用卡 - 最新发文",
+      "type": "feed",
+      "url": "rsshub://flyert/forum/mod%3Dforumdisplay%26fid%3D228%26filter%3Dlastpost%26orderby%3Ddateline%26subtypeid%3D1222"
     }
   ],
   "url": "www.flyert.com.cn"

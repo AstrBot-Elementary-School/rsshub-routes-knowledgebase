@@ -66,18 +66,6 @@ _None_
   "topFeeds": [
     {
       "description": "Recent Posts | MacMenuBar.com - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "56446382044379136",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://macmenubar.com/recently-added/",
-      "title": "Recent Posts | MacMenuBar.com",
-      "type": "feed",
-      "url": "rsshub://macmenubar/recently"
-    },
-    {
-      "description": "Recent Posts | MacMenuBar.com - Powered by RSSHub",
       "errorAt": "2026-02-26T14:17:23.668Z",
       "errorMessage": "e.tag_info.map is not a function\n",
       "id": "76813788023884800",
@@ -87,6 +75,18 @@ _None_
       "title": "Recent Posts | MacMenuBar.com",
       "type": "feed",
       "url": "rsshub://macmenubar/recently/developer-apps,system-tools"
+    },
+    {
+      "description": "Recent Posts | MacMenuBar.com - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "56446382044379136",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://macmenubar.com/recently-added/",
+      "title": "Recent Posts | MacMenuBar.com",
+      "type": "feed",
+      "url": "rsshub://macmenubar/recently"
     }
   ]
 }

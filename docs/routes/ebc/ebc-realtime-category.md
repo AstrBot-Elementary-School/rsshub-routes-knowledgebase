@@ -79,18 +79,6 @@ _None_
       "description": "東森新聞|即時 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "105752020320057344",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://news.ebc.net.tw/realtime/politics",
-      "title": "東森新聞|即時",
-      "type": "feed",
-      "url": "rsshub://ebc/realtime/politics"
-    },
-    {
-      "description": "東森新聞|即時 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "105751285441409024",
       "image": null,
       "ownerUserId": null,
@@ -98,6 +86,18 @@ _None_
       "title": "東森新聞|即時",
       "type": "feed",
       "url": "rsshub://ebc/realtime"
+    },
+    {
+      "description": "東森新聞|即時 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "105752020320057344",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://news.ebc.net.tw/realtime/politics",
+      "title": "東森新聞|即時",
+      "type": "feed",
+      "url": "rsshub://ebc/realtime/politics"
     }
   ]
 }

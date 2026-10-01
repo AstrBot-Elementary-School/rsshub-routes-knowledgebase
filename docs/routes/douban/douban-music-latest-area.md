@@ -69,18 +69,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "豆瓣最新增加的音乐 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "155012285947975680",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://music.douban.com/latest",
-      "title": "豆瓣最新增加的音乐",
-      "type": "feed",
-      "url": "rsshub://douban/music/latest"
-    },
-    {
       "description": null,
       "errorAt": "2025-07-29T07:17:23.141Z",
       "errorMessage": "Cannot read properties of null (reading 'value')\n",
@@ -91,6 +79,18 @@ _None_
       "title": "Importing",
       "type": "feed",
       "url": "rsshub://douban/music/latest/chinese"
+    },
+    {
+      "description": "豆瓣最新增加的音乐 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "155012285947975680",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://music.douban.com/latest",
+      "title": "豆瓣最新增加的音乐",
+      "type": "feed",
+      "url": "rsshub://douban/music/latest"
     }
   ]
 }

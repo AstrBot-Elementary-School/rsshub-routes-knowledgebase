@@ -92,18 +92,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "HoYoLAB-绝区零-公告 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "74614328202293248",
-      "image": "https://fastcdn.hoyoverse.com/static-resource-v2/2026/07/29/a3c630a3d049296164826a6002f635af_4233388162613091203.png",
-      "ownerUserId": null,
-      "siteUrl": "https://www.hoyolab.com/circles/8/47/official?page_type=47&page_sort=notices",
-      "title": "HoYoLAB-绝区零-公告",
-      "type": "feed",
-      "url": "rsshub://hoyolab/news/zh-cn/8/1"
-    },
-    {
       "description": "HoYoLAB-绝区零-资讯 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -114,6 +102,18 @@ _None_
       "title": "HoYoLAB-绝区零-资讯",
       "type": "feed",
       "url": "rsshub://hoyolab/news/zh-cn/8/3"
+    },
+    {
+      "description": "HoYoLAB-绝区零-公告 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "74614328202293248",
+      "image": "https://fastcdn.hoyoverse.com/static-resource-v2/2026/07/29/a3c630a3d049296164826a6002f635af_4233388162613091203.png",
+      "ownerUserId": null,
+      "siteUrl": "https://www.hoyolab.com/circles/8/47/official?page_type=47&page_sort=notices",
+      "title": "HoYoLAB-绝区零-公告",
+      "type": "feed",
+      "url": "rsshub://hoyolab/news/zh-cn/8/1"
     }
   ]
 }

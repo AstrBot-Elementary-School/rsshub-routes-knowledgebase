@@ -73,18 +73,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "報導者 | 國際兩岸 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "81748915929398272",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.twreporter.org/categories/world",
-      "title": "報導者 | 國際兩岸",
-      "type": "feed",
-      "url": "rsshub://twreporter/category/world"
-    },
-    {
       "description": "報導者 | 經濟產業 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -95,6 +83,18 @@ _None_
       "title": "報導者 | 經濟產業",
       "type": "feed",
       "url": "rsshub://twreporter/category/econ"
+    },
+    {
+      "description": "報導者 | 國際兩岸 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "81748915929398272",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.twreporter.org/categories/world",
+      "title": "報導者 | 國際兩岸",
+      "type": "feed",
+      "url": "rsshub://twreporter/category/world"
     }
   ],
   "url": "twreporter.org/"

@@ -65,18 +65,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Bluesky Keyword - 财经 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "167786476135939072",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://bsky.app/search?q=%E8%B4%A2%E7%BB%8F",
-      "title": "Bluesky Keyword - 财经",
-      "type": "feed",
-      "url": "rsshub://bsky/keyword/%E8%B4%A2%E7%BB%8F"
-    },
-    {
       "description": "Bluesky Keyword - 习近平 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -87,6 +75,18 @@ _None_
       "title": "Bluesky Keyword - 习近平",
       "type": "feed",
       "url": "rsshub://bsky/keyword/%E4%B9%A0%E8%BF%91%E5%B9%B3"
+    },
+    {
+      "description": "Bluesky Keyword - 财经 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "167786476135939072",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://bsky.app/search?q=%E8%B4%A2%E7%BB%8F",
+      "title": "Bluesky Keyword - 财经",
+      "type": "feed",
+      "url": "rsshub://bsky/keyword/%E8%B4%A2%E7%BB%8F"
     }
   ]
 }

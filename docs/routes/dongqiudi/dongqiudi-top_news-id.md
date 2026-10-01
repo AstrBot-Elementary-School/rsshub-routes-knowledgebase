@@ -78,18 +78,6 @@
   },
   "topFeeds": [
     {
-      "description": "懂球帝 - 头条 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "73989204856510464",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.dongqiudi.com/articlesList/1",
-      "title": "懂球帝 - 头条",
-      "type": "feed",
-      "url": "rsshub://dongqiudi/top_news"
-    },
-    {
       "description": "懂球帝 - 深度 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -100,6 +88,18 @@
       "title": "懂球帝 - 深度",
       "type": "feed",
       "url": "rsshub://dongqiudi/top_news/55"
+    },
+    {
+      "description": "懂球帝 - 头条 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "73989204856510464",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.dongqiudi.com/articlesList/1",
+      "title": "懂球帝 - 头条",
+      "type": "feed",
+      "url": "rsshub://dongqiudi/top_news"
     }
   ]
 }

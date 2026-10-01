@@ -66,18 +66,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Search: 流出 - chikubi.jp - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "167795659806615552",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://chikubi.jp/search/%E6%B5%81%E5%87%BA",
-      "title": "Search: 流出 - chikubi.jp",
-      "type": "feed",
-      "url": "rsshub://chikubi/search/%E6%B5%81%E5%87%BA"
-    },
-    {
       "description": "Search: ギャップ - chikubi.jp - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -88,6 +76,18 @@ _None_
       "title": "Search: ギャップ - chikubi.jp",
       "type": "feed",
       "url": "rsshub://chikubi/search/%E3%82%AE%E3%83%A3%E3%83%83%E3%83%97"
+    },
+    {
+      "description": "Search: 流出 - chikubi.jp - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "167795659806615552",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://chikubi.jp/search/%E6%B5%81%E5%87%BA",
+      "title": "Search: 流出 - chikubi.jp",
+      "type": "feed",
+      "url": "rsshub://chikubi/search/%E6%B5%81%E5%87%BA"
     }
   ]
 }

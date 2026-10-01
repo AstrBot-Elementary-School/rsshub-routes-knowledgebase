@@ -82,18 +82,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "首页 - 武汉大学遥感信息工程学院 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "59180420116893696",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://rsgis.whu.edu.cn/",
-      "title": "首页 - 武汉大学遥感信息工程学院",
-      "type": "feed",
-      "url": "rsshub://whu/rsgis/index"
-    },
-    {
       "description": "通知公告 - 武汉大学遥感信息工程学院 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -104,6 +92,18 @@ _None_
       "title": "通知公告 - 武汉大学遥感信息工程学院",
       "type": "feed",
       "url": "rsshub://whu/rsgis/tzgg/rcyj"
+    },
+    {
+      "description": "首页 - 武汉大学遥感信息工程学院 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "59180420116893696",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://rsgis.whu.edu.cn/",
+      "title": "首页 - 武汉大学遥感信息工程学院",
+      "type": "feed",
+      "url": "rsshub://whu/rsgis/index"
     }
   ]
 }

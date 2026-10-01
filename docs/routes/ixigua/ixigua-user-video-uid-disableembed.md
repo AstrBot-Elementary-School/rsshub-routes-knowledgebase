@@ -80,18 +80,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "一个爱科普的豆比中学老师 - Powered by RSSHub",
-      "errorAt": "2025-06-05T12:19:25.914Z",
-      "errorMessage": "Failed to find SSR_HYDRATED_DATA\nFailed to find SSR_HYDRATED_DATA\n",
-      "id": "77019657545759744",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.ixigua.com/home/4234740937/?wid_try=1",
-      "title": "李永乐老师 的西瓜视频",
-      "type": "feed",
-      "url": "rsshub://ixigua/user/video/4234740937"
-    },
-    {
       "description": "以心智观察新质 - Powered by RSSHub",
       "errorAt": "2025-06-05T10:27:31.877Z",
       "errorMessage": "Failed to find SSR_HYDRATED_DATA\nFailed to find SSR_HYDRATED_DATA\n",
@@ -102,6 +90,18 @@ _None_
       "title": "心智观察所 的西瓜视频",
       "type": "feed",
       "url": "rsshub://ixigua/user/video/62435616925"
+    },
+    {
+      "description": "一个爱科普的豆比中学老师 - Powered by RSSHub",
+      "errorAt": "2025-06-05T12:19:25.914Z",
+      "errorMessage": "Failed to find SSR_HYDRATED_DATA\nFailed to find SSR_HYDRATED_DATA\n",
+      "id": "77019657545759744",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.ixigua.com/home/4234740937/?wid_try=1",
+      "title": "李永乐老师 的西瓜视频",
+      "type": "feed",
+      "url": "rsshub://ixigua/user/video/4234740937"
     }
   ]
 }

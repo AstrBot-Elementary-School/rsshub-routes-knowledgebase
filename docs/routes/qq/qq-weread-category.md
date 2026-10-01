@@ -96,18 +96,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "微信读书 - Top50新书榜 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "74890213823929344",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://weread.qq.com/web/category/newbook",
-      "title": "微信读书 - Top50新书榜",
-      "type": "feed",
-      "url": "rsshub://qq/weread/newbook"
-    },
-    {
       "description": "微信读书 - Top50热搜榜 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -118,6 +106,18 @@ _None_
       "title": "微信读书 - Top50热搜榜",
       "type": "feed",
       "url": "rsshub://qq/weread/hot_search"
+    },
+    {
+      "description": "微信读书 - Top50新书榜 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "74890213823929344",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://weread.qq.com/web/category/newbook",
+      "title": "微信读书 - Top50新书榜",
+      "type": "feed",
+      "url": "rsshub://qq/weread/newbook"
     }
   ]
 }

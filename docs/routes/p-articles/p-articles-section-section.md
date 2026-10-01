@@ -64,18 +64,6 @@ _None_
       "description": "虚词 p-articles - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "53733146806773766",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://p-articles.com/works/",
-      "title": "虚词 p-articles",
-      "type": "feed",
-      "url": "rsshub://p-articles/section/works"
-    },
-    {
-      "description": "虚词 p-articles - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "98011535417850904",
       "image": null,
       "ownerUserId": null,
@@ -83,6 +71,18 @@ _None_
       "title": "虚词 p-articles",
       "type": "feed",
       "url": "rsshub://p-articles/section/critics"
+    },
+    {
+      "description": "虚词 p-articles - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "53733146806773766",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://p-articles.com/works/",
+      "title": "虚词 p-articles",
+      "type": "feed",
+      "url": "rsshub://p-articles/section/works"
     }
   ]
 }

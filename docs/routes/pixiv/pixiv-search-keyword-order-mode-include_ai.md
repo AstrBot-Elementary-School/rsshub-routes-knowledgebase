@@ -116,18 +116,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Palworld 的 pixiv 热门内容 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "41147805276726320",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.pixiv.net/tags/Palworld/artworks",
-      "title": "Palworld 的 pixiv 热门内容",
-      "type": "feed",
-      "url": "rsshub://pixiv/search/Palworld/popular"
-    },
-    {
       "description": "ELDENRING 的 pixiv 热门内容 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -138,6 +126,18 @@ _None_
       "title": "ELDENRING 的 pixiv 热门内容",
       "type": "feed",
       "url": "rsshub://pixiv/search/ELDENRING/popular"
+    },
+    {
+      "description": "Palworld 的 pixiv 热门内容 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "41147805276726320",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.pixiv.net/tags/Palworld/artworks",
+      "title": "Palworld 的 pixiv 热门内容",
+      "type": "feed",
+      "url": "rsshub://pixiv/search/Palworld/popular"
     }
   ],
   "view": 2

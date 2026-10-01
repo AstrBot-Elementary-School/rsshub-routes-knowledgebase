@@ -91,6 +91,18 @@
   "topFeeds": [
     {
       "description": null,
+      "errorAt": "2026-06-30T06:04:23.334Z",
+      "errorMessage": "[GET] \"https://www.science.org/toc/sciadv/current\": 403 Forbidden\n",
+      "id": "1178645011650969612",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": null,
+      "title": "Importing",
+      "type": "feed",
+      "url": "rsshub://science/current/sciadv"
+    },
+    {
+      "description": null,
       "errorAt": "2025-09-19T00:56:28.398Z",
       "errorMessage": "[GET] \"https://www.science.org/toc/science/current\": 403 Forbidden\n",
       "id": "191666157347082244",
@@ -100,18 +112,6 @@
       "title": "Importing",
       "type": "feed",
       "url": "rsshub://science/current/science"
-    },
-    {
-      "description": null,
-      "errorAt": "2026-06-30T06:04:27.355Z",
-      "errorMessage": "[GET] \"https://www.science.org/toc/scirobotics/current\": 403 Forbidden\n",
-      "id": "1178645011650969614",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": null,
-      "title": "Importing",
-      "type": "feed",
-      "url": "rsshub://science/current/scirobotics"
     }
   ]
 }

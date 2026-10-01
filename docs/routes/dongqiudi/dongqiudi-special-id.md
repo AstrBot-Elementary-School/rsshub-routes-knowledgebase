@@ -63,18 +63,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "足坛今天都发生了哪些事？ - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "61424740780593152",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.dongqiudi.com/special/48",
-      "title": "懂球帝专题-早报",
-      "type": "feed",
-      "url": "rsshub://dongqiudi/special/48"
-    },
-    {
       "description": "世界那么大，除了足球还有这些 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -85,6 +73,18 @@ _None_
       "title": "懂球帝专题-新闻大爆炸",
       "type": "feed",
       "url": "rsshub://dongqiudi/special/41"
+    },
+    {
+      "description": "足坛今天都发生了哪些事？ - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "61424740780593152",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.dongqiudi.com/special/48",
+      "title": "懂球帝专题-早报",
+      "type": "feed",
+      "url": "rsshub://dongqiudi/special/48"
     }
   ]
 }

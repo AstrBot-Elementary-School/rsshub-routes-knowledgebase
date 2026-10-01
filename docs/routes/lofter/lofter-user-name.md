@@ -66,18 +66,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "LOFTER官方博客 | LOFTER - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "56435502271896576",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://i.lofter.com/",
-      "title": "LOFTER官方博客 | LOFTER",
-      "type": "feed",
-      "url": "rsshub://lofter/user"
-    },
-    {
       "description": "路人甲街拍 | LOFTER - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -88,6 +76,18 @@ _None_
       "title": "路人甲街拍 | LOFTER",
       "type": "feed",
       "url": "rsshub://lofter/user/lurenjiajiepai"
+    },
+    {
+      "description": "LOFTER官方博客 | LOFTER - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "56435502271896576",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://i.lofter.com/",
+      "title": "LOFTER官方博客 | LOFTER",
+      "type": "feed",
+      "url": "rsshub://lofter/user"
     }
   ],
   "view": 0

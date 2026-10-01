@@ -53,7 +53,7 @@ _None_
   ],
   "description": "|    快讯   |   文章  |\n| :-------: | :-----: |\n| newsflash | article |\n\n| 全部 | 深度 | 精选 | 热点追踪 |\n| :--: | :--: | :--: | :------: |\n|      |  -2  |   1  |     2    |",
   "example": "/theblockbeats/newsflash",
-  "heat": 815,
+  "heat": 816,
   "location": "index.tsx",
   "maintainers": [
     "Fatpandac",
@@ -121,18 +121,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "TheBlockBeats - 快讯 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "72541715399995392",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.theblockbeats.info/newsflash",
-      "title": "TheBlockBeats - 快讯",
-      "type": "feed",
-      "url": "rsshub://theblockbeats/newsflash/0"
-    },
-    {
       "description": "TheBlockBeats - 文章 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -143,6 +131,18 @@ _None_
       "title": "TheBlockBeats - 文章",
       "type": "feed",
       "url": "rsshub://theblockbeats/article/1"
+    },
+    {
+      "description": "TheBlockBeats - 快讯 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "72541715399995392",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.theblockbeats.info/newsflash",
+      "title": "TheBlockBeats - 快讯",
+      "type": "feed",
+      "url": "rsshub://theblockbeats/newsflash/0"
     }
   ],
   "view": 0

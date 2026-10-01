@@ -86,6 +86,18 @@
   },
   "topFeeds": [
     {
+      "description": "志祺七七 ACG快樂聊 - 簡訊設計 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "55873602868576341",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://blog.simpleinfo.cc/shasha77?category=acg",
+      "title": "志祺七七 ACG快樂聊 - 簡訊設計",
+      "type": "feed",
+      "url": "rsshub://simpleinfo/acg"
+    },
+    {
       "description": "志祺七七 全部 - 簡訊設計 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -96,18 +108,6 @@
       "title": "志祺七七 全部 - 簡訊設計",
       "type": "feed",
       "url": "rsshub://simpleinfo"
-    },
-    {
-      "description": "志祺七七 國內外新聞 - 簡訊設計 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "86648842082137088",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://blog.simpleinfo.cc/shasha77?category=news",
-      "title": "志祺七七 國內外新聞 - 簡訊設計",
-      "type": "feed",
-      "url": "rsshub://simpleinfo/news"
     }
   ]
 }

@@ -39,7 +39,7 @@ _None_
   ],
   "description": "若订阅 [每日热点 - 最新](https://bad.news/tag/每日热点/sort-new)，网址为 `https://bad.news/tag/每日热点/sort-new`。截取 `https://bad.news` 到末尾的部分 `/tag/每日热点/sort-new` 作为参数，此时路由为 [`/bad/tag/每日热点/sort-new`](https://rsshub.app/bad/tag/每日热点/sort-new)。\n\n若订阅子分类 [大陆资讯 - 热门](https://bad.news/tag/大陆资讯/sort-hot)，网址为 `https://bad.news/tag/大陆资讯/sort-hot`。截取 `https://bad.news` 到末尾的部分 `/tag/大陆资讯/sort-hot` 作为参数，路由为 [`/bad/tag/大陆资讯/sort-hot`](https://rsshub.app/bad/tag/大陆资讯/sort-hot)。",
   "example": "/bad",
-  "heat": 53,
+  "heat": 52,
   "location": "index.ts",
   "maintainers": [
     "nczitzk"
@@ -55,18 +55,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Bad.news - 热门 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "66153135747790848",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://bad.news/",
-      "title": "Bad.news - 热门",
-      "type": "feed",
-      "url": "rsshub://bad"
-    },
-    {
       "description": "Bad.news - 短视频 热门 - Powered by RSSHub",
       "errorAt": "2026-09-04T00:06:17.740Z",
       "errorMessage": "[GET] \"https://bad.news/tag/porn\": 451 Unavailable For Legal Reasons\n",
@@ -77,6 +65,18 @@ _None_
       "title": "Bad.news - 短视频 热门",
       "type": "feed",
       "url": "rsshub://bad/tag/porn"
+    },
+    {
+      "description": "Bad.news - 热门 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "66153135747790848",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://bad.news/",
+      "title": "Bad.news - 热门",
+      "type": "feed",
+      "url": "rsshub://bad"
     }
   ]
 }

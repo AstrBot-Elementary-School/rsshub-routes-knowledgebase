@@ -74,18 +74,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "阿里云开发者社区- - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "163224149070041094",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://developer.aliyun.com/group/alitech",
-      "title": "阿里云开发者社区-",
-      "type": "feed",
-      "url": "rsshub://aliyun/developer/group/alitech"
-    },
-    {
       "description": "使用钉钉扫一扫加入圈子 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -96,6 +84,18 @@ _None_
       "title": "阿里云开发者社区-",
       "type": "feed",
       "url": "rsshub://aliyun/developer/group/ai"
+    },
+    {
+      "description": "阿里云开发者社区- - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "163224149070041094",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://developer.aliyun.com/group/alitech",
+      "title": "阿里云开发者社区-",
+      "type": "feed",
+      "url": "rsshub://aliyun/developer/group/alitech"
     }
   ]
 }

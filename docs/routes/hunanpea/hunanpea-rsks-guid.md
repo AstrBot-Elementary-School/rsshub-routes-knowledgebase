@@ -74,18 +74,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "新闻公告 - 湖南人事考试网 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "65998206582691840",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "http://rsks.hunanpea.com/Category/2f1a6239-b4dc-491b-92af-7d95e0f0543e/ArticlesByCategory.do?PageIndex=1",
-      "title": "新闻公告 - 湖南人事考试网",
-      "type": "feed",
-      "url": "rsshub://hunanpea/rsks/2f1a6239-b4dc-491b-92af-7d95e0f0543e"
-    },
-    {
       "description": "公务员及事业单位考试 - 湖南人事考试网 - Powered by RSSHub",
       "errorAt": "2026-07-31T11:39:58.051Z",
       "errorMessage": "Failed to fetch\n",
@@ -96,6 +84,18 @@ _None_
       "title": "公务员及事业单位考试 - 湖南人事考试网",
       "type": "feed",
       "url": "rsshub://hunanpea/rsks/c5a6f516-fd54-4578-90bd-0cb6a1c95570"
+    },
+    {
+      "description": "新闻公告 - 湖南人事考试网 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "65998206582691840",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "http://rsks.hunanpea.com/Category/2f1a6239-b4dc-491b-92af-7d95e0f0543e/ArticlesByCategory.do?PageIndex=1",
+      "title": "新闻公告 - 湖南人事考试网",
+      "type": "feed",
+      "url": "rsshub://hunanpea/rsks/2f1a6239-b4dc-491b-92af-7d95e0f0543e"
     }
   ]
 }

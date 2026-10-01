@@ -107,18 +107,6 @@
   },
   "topFeeds": [
     {
-      "description": "The Strait Times - SINGAPORE - Powered by RSSHub",
-      "errorAt": "2025-10-30T15:54:24.353Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
-      "id": "76598839880708096",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.straitstimes.com/singapore",
-      "title": "The Strait Times - SINGAPORE",
-      "type": "feed",
-      "url": "rsshub://straitstimes"
-    },
-    {
       "description": "The Strait Times - WORLD - Powered by RSSHub",
       "errorAt": "2025-11-06T09:45:21.790Z",
       "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
@@ -129,6 +117,18 @@
       "title": "The Strait Times - WORLD",
       "type": "feed",
       "url": "rsshub://straitstimes/world"
+    },
+    {
+      "description": "The Strait Times - SINGAPORE - Powered by RSSHub",
+      "errorAt": "2025-10-30T15:54:24.353Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "id": "76598839880708096",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.straitstimes.com/singapore",
+      "title": "The Strait Times - SINGAPORE",
+      "type": "feed",
+      "url": "rsshub://straitstimes"
     }
   ]
 }

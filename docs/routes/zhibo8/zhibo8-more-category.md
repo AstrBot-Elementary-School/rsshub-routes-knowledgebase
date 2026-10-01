@@ -78,18 +78,6 @@
   },
   "topFeeds": [
     {
-      "description": "足球 - 直播吧 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "61588318218478611",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://news.zhibo8.cc/zuqiu/more.htm",
-      "title": "足球 - 直播吧",
-      "type": "feed",
-      "url": "rsshub://zhibo8/more/zuqiu"
-    },
-    {
       "description": "NBA - 直播吧 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -100,6 +88,18 @@
       "title": "NBA - 直播吧",
       "type": "feed",
       "url": "rsshub://zhibo8/more/nba"
+    },
+    {
+      "description": "足球 - 直播吧 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "61588318218478611",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://news.zhibo8.cc/zuqiu/more.htm",
+      "title": "足球 - 直播吧",
+      "type": "feed",
+      "url": "rsshub://zhibo8/more/zuqiu"
     }
   ]
 }

@@ -67,18 +67,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "政策解读 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "42176727615320071",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.moe.gov.cn/",
-      "title": "政策解读",
-      "type": "feed",
-      "url": "rsshub://gov/moe/policy_anal"
-    },
-    {
       "description": "公告公示 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -89,6 +77,18 @@ _None_
       "title": "公告公示",
       "type": "feed",
       "url": "rsshub://gov/moe/notice"
+    },
+    {
+      "description": "政策解读 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "42176727615320071",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.moe.gov.cn/",
+      "title": "政策解读",
+      "type": "feed",
+      "url": "rsshub://gov/moe/policy_anal"
     }
   ]
 }

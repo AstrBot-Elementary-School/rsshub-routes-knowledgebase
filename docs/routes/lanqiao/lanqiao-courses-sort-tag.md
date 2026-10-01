@@ -67,18 +67,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "蓝桥云课【all】标签下最新课程列表 - Powered by RSSHub",
-      "errorAt": "2026-09-11T08:36:51.534Z",
-      "errorMessage": "Input data should be a String\n",
-      "id": "89306487292702720",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.lanqiao.cn/courses/?sort=latest&tag=all",
-      "title": "蓝桥云课最新课程列表【all】",
-      "type": "feed",
-      "url": "rsshub://lanqiao/courses/latest/all"
-    },
-    {
       "description": "蓝桥云课【all】标签下最热课程列表 - Powered by RSSHub",
       "errorAt": "2025-11-11T11:39:55.246Z",
       "errorMessage": "Failed to fetch\n",
@@ -89,6 +77,18 @@ _None_
       "title": "蓝桥云课最热课程列表【all】",
       "type": "feed",
       "url": "rsshub://lanqiao/courses/hotest/all"
+    },
+    {
+      "description": "蓝桥云课【all】标签下最新课程列表 - Powered by RSSHub",
+      "errorAt": "2026-09-11T08:36:51.534Z",
+      "errorMessage": "Input data should be a String\n",
+      "id": "89306487292702720",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.lanqiao.cn/courses/?sort=latest&tag=all",
+      "title": "蓝桥云课最新课程列表【all】",
+      "type": "feed",
+      "url": "rsshub://lanqiao/courses/latest/all"
     }
   ]
 }

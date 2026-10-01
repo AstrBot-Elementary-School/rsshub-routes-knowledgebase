@@ -92,18 +92,6 @@
   },
   "topFeeds": [
     {
-      "description": "日本一般社团法人共同通讯社（以下简称共同社）成立于1945年，由日本全国的报社及日本放送协会（NHK）等媒体共同设立，独立于政府，旨在准确公正地报道国内外的新闻，在满足国民知情权的同时，为增进国际社会的相互理解做贡献。共同社除了在国内各都道府县政府所在地及其他主要城市拥有分社和分局之外，在海外的约40座主要城市也设有总局或分局，员工总数约1600人。作为立足于亚洲、代表日本的综合性国际通讯社，共同社在原有的日语和英语服务的基础上，于2001年设立了中文新闻网站“共同网”，并在建社60周年的2005年成立了中文新闻部门，扩大了中文信息服务，致力于提供各领域最新消息，希望以自身的努力增进华语圈读者对日本社会的了解。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "56542470518821888",
-      "image": "https://china-kyodo.ismcdn.jp/common/images/apple-touch-icon-180x180.png",
-      "ownerUserId": null,
-      "siteUrl": "https://china.kyodonews.net/",
-      "title": "共同网",
-      "type": "feed",
-      "url": "rsshub://kyodonews"
-    },
-    {
       "description": "共同网在网上：每日国际，日本新闻，日本新闻，从报纸，国家和地方新闻报道，突发新闻更新，技术新闻，体育，评论，上市。 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -114,6 +102,18 @@
       "title": "新闻 - 共同网",
       "type": "feed",
       "url": "rsshub://kyodonews/china/rss"
+    },
+    {
+      "description": "日本一般社团法人共同通讯社（以下简称共同社）成立于1945年，由日本全国的报社及日本放送协会（NHK）等媒体共同设立，独立于政府，旨在准确公正地报道国内外的新闻，在满足国民知情权的同时，为增进国际社会的相互理解做贡献。共同社除了在国内各都道府县政府所在地及其他主要城市拥有分社和分局之外，在海外的约40座主要城市也设有总局或分局，员工总数约1600人。作为立足于亚洲、代表日本的综合性国际通讯社，共同社在原有的日语和英语服务的基础上，于2001年设立了中文新闻网站“共同网”，并在建社60周年的2005年成立了中文新闻部门，扩大了中文信息服务，致力于提供各领域最新消息，希望以自身的努力增进华语圈读者对日本社会的了解。 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "56542470518821888",
+      "image": "https://china-kyodo.ismcdn.jp/common/images/apple-touch-icon-180x180.png",
+      "ownerUserId": null,
+      "siteUrl": "https://china.kyodonews.net/",
+      "title": "共同网",
+      "type": "feed",
+      "url": "rsshub://kyodonews"
     }
   ]
 }

@@ -83,18 +83,6 @@ To subscribe to [Section](https://indianexpress.com/), where the source URL is `
   },
   "topFeeds": [
     {
-      "description": "Indian Express Explained: Check here latest India and world news explained, current affairs today, latest current affairs news. Read expert opinion, facts and research on india and international trending news at indianexpress.com. The Explained section of The Indian Express helps you make sense of everything that is happening in the world around you. We pick important developments from within India and outside and break them down, giving you all the information and context you need in an easy-to-follow format. The section is subdivided into Explained Economics, Explained Health, Culture, Global, Sports, Ideas, Sci-tech, and Climate. We have also recently begun an Explained Law subsection. Apart from these, an 'Everyday Explainers' section gives you crisp answers to seemingly simple, everyday questions you might have, such as how is the President of India elected, how is your vote counted, what is a narco test, what is ASEAN, what is a Vostro account, etc. Our writers include Nirupama Subramanian, Harish Damodaran, Shubhajit Roy, Udit Misra, Amitabh Sinha, Shyamlal Yadav, Sandeep Dwivedi, among others, who bring to you expertise built over decades of covering their beats. Why should you read The Indian Express Explained? Because in the internet age, it is easy to be bombarded with news, but at Explained, the constant stream of news and noise is distilled into clear, concise, well-researched, accurate, and unbiased information. If you are preparing for a competitive exam such as the UPSC CSE, The Indian Express Explained is where you will find everything you need to know, with all important topics in the news covered in adequate detail. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "197289166403892224",
-      "image": "https://indianexpress.com/wp-content/themes/indianexpress/images/IE-OGimage.jpg",
-      "ownerUserId": null,
-      "siteUrl": "https://indianexpress.com/section/explained/",
-      "title": "The Indian Express - Explained",
-      "type": "feed",
-      "url": "rsshub://indianexpress/section/explained"
-    },
-    {
       "description": "Trending News: Check all the latest trending news, latest viral videos, viral memes, world top trending news, Today's trending events, latest fashion trends only at indianexpress.com - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -105,6 +93,18 @@ To subscribe to [Section](https://indianexpress.com/), where the source URL is `
       "title": "The Indian Express - Trending",
       "type": "feed",
       "url": "rsshub://indianexpress/section/trending"
+    },
+    {
+      "description": "Indian Express Explained: Check here latest India and world news explained, current affairs today, latest current affairs news. Read expert opinion, facts and research on india and international trending news at indianexpress.com. The Explained section of The Indian Express helps you make sense of everything that is happening in the world around you. We pick important developments from within India and outside and break them down, giving you all the information and context you need in an easy-to-follow format. The section is subdivided into Explained Economics, Explained Health, Culture, Global, Sports, Ideas, Sci-tech, and Climate. We have also recently begun an Explained Law subsection. Apart from these, an 'Everyday Explainers' section gives you crisp answers to seemingly simple, everyday questions you might have, such as how is the President of India elected, how is your vote counted, what is a narco test, what is ASEAN, what is a Vostro account, etc. Our writers include Nirupama Subramanian, Harish Damodaran, Shubhajit Roy, Udit Misra, Amitabh Sinha, Shyamlal Yadav, Sandeep Dwivedi, among others, who bring to you expertise built over decades of covering their beats. Why should you read The Indian Express Explained? Because in the internet age, it is easy to be bombarded with news, but at Explained, the constant stream of news and noise is distilled into clear, concise, well-researched, accurate, and unbiased information. If you are preparing for a competitive exam such as the UPSC CSE, The Indian Express Explained is where you will find everything you need to know, with all important topics in the news covered in adequate detail. - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "197289166403892224",
+      "image": "https://indianexpress.com/wp-content/themes/indianexpress/images/IE-OGimage.jpg",
+      "ownerUserId": null,
+      "siteUrl": "https://indianexpress.com/section/explained/",
+      "title": "The Indian Express - Explained",
+      "type": "feed",
+      "url": "rsshub://indianexpress/section/explained"
     }
   ],
   "url": "indianexpress.com",

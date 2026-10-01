@@ -60,18 +60,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "台視新聞 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "72920871518882818",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://news.ttv.com.tw/realtime",
-      "title": "台視新聞",
-      "type": "feed",
-      "url": "rsshub://ttv"
-    },
-    {
       "description": "台視新聞網 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -82,6 +70,18 @@ _None_
       "title": "台視新聞網",
       "type": "feed",
       "url": "rsshub://ttv/%E6%94%BF%E6%B2%BB"
+    },
+    {
+      "description": "台視新聞 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "72920871518882818",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://news.ttv.com.tw/realtime",
+      "title": "台視新聞",
+      "type": "feed",
+      "url": "rsshub://ttv"
     }
   ]
 }

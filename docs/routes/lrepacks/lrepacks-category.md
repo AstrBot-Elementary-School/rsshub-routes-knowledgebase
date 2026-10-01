@@ -199,18 +199,6 @@ If you subscribe to [Системные программы](https://lrepacks.net
   },
   "topFeeds": [
     {
-      "description": "Авторские репаки от elchupacabra. Скачать бесплатно Repack от чупакабры. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "61457506146738176",
-      "image": "https://lrepacks.net/templates/biz-ideas/images/sitelogo.png",
-      "ownerUserId": null,
-      "siteUrl": "https://lrepacks.net/",
-      "title": "Авторские репаки от ELCHUPACABRA - REPACK скачать",
-      "type": "feed",
-      "url": "rsshub://lrepacks"
-    },
-    {
       "description": "Авторские репаки от ELCHUPACABRA - REPACK скачатьПоддержка проектаPotPlayer 1.7.21280 / 1.7.22619 / 1.7.22691 (Repack & Portable)Media Player Classic - Home Cinema 2.5.5 & Media Player Classic - Black Edition 1.8.8 / 1.8.8.6 (Repack & Portable)VideoProc Converter AI 8.5 (Repack & Portable)Winxvideo AI 4.5 (Repack & Portable)Topaz Video 1.6.1 / 2.6.4 / 3.0.12 / 3.5.4 / 5.4.0.3 / 5.5.1 / 7.1.3 / 1.0.3 / 1.0.4 (Repack & Portable)Reaper 7.52 (Repack & Portable)VidCoder 10.10 / 10.15 / 12.12 (Repack & Portable)Helium Music Manager Premium 17.4.538.0 (Repack & Portable)ASCOMP Screencapt Pro 2.006 (Repack & Portable)MKVToolNix 95.0.0 (Repack & Portable)Wonderfox HD Video Converter Factory Pro 28.1 (Repack & Portable)K-Lite Codec Pack 19.3.0Wondershare UniConverter 17.0.0.425 (Repack & Portable) - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -221,6 +209,18 @@ If you subscribe to [Системные программы](https://lrepacks.net
       "title": "Авторские репаки от ELCHUPACABRA - REPACK скачатьПоддержка проектаPotPlayer 1.7.21280 / 1.7.22619 / 1.7.22691 (Repack & Portable)Media Player Classic - Home Cinema 2.5.5 & Media Player Classic - Black Edition 1.8.8 / 1.8.8.6 (Repack & Portable)VideoProc Converter AI 8.5 (Repack & Portable)Winxvideo AI 4.5 (Repack & Portable)Topaz Video 1.6.1 / 2.6.4 / 3.0.12 / 3.5.4 / 5.4.0.3 / 5.5.1 / 7.1.3 / 1.0.3 / 1.0.4 (Repack & Portable)Reaper 7.52 (Repack & Portable)VidCoder 10.10 / 10.15 / 12.12 (Repack & Portable)Helium Music Manager Premium 17.4.538.0 (Repack & Portable)ASCOMP Screencapt Pro 2.006 (Repack & Portable)MKVToolNix 95.0.0 (Repack & Portable)Wonderfox HD Video Converter Factory Pro 28.1 (Repack & Portable)K-Lite Codec Pack 19.3.0Wondershare UniConverter 17.0.0.425 (Repack & Portable)",
       "type": "feed",
       "url": "rsshub://lrepacks/rss.xml"
+    },
+    {
+      "description": "Авторские репаки от elchupacabra. Скачать бесплатно Repack от чупакабры. - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "61457506146738176",
+      "image": "https://lrepacks.net/templates/biz-ideas/images/sitelogo.png",
+      "ownerUserId": null,
+      "siteUrl": "https://lrepacks.net/",
+      "title": "Авторские репаки от ELCHUPACABRA - REPACK скачать",
+      "type": "feed",
+      "url": "rsshub://lrepacks"
     }
   ],
   "url": "lrepacks.net"

@@ -77,18 +77,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Yoasobi's latest biography - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "59199683879800832",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.yoasobi-music.jp/biography",
-      "title": "LATEST BIOGRAPHY",
-      "type": "feed",
-      "url": "rsshub://yoasobi-music/info/biography"
-    },
-    {
       "description": "Yoasobi's latest news - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -99,6 +87,18 @@ _None_
       "title": "LATEST NEWS",
       "type": "feed",
       "url": "rsshub://yoasobi-music/info/news"
+    },
+    {
+      "description": "Yoasobi's latest biography - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "59199683879800832",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.yoasobi-music.jp/biography",
+      "title": "LATEST BIOGRAPHY",
+      "type": "feed",
+      "url": "rsshub://yoasobi-music/info/biography"
     }
   ],
   "url": "www.yoasobi-music.jp/"

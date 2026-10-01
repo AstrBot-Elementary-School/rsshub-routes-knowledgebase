@@ -83,18 +83,6 @@
       "description": "最新最全的「喜加一」游戏动态尽在这里！ - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "65331190227109888",
-      "image": "https://www.ithome.com/undefined",
-      "ownerUserId": null,
-      "siteUrl": "https://www.ithome.com/zt/xijiayi",
-      "title": "IT之家 - 「喜加一」最新动态",
-      "type": "feed",
-      "url": "rsshub://ithome/zt/xijiayi"
-    },
-    {
-      "description": "最新最全的「喜加一」游戏动态尽在这里！ - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "234520551305109504",
       "image": "https://www.ithome.com/undefined",
       "ownerUserId": null,
@@ -102,6 +90,18 @@
       "title": "IT之家 - 「喜加一」最新动态",
       "type": "feed",
       "url": "rsshub://ithome/zt"
+    },
+    {
+      "description": "最新最全的「喜加一」游戏动态尽在这里！ - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "65331190227109888",
+      "image": "https://www.ithome.com/undefined",
+      "ownerUserId": null,
+      "siteUrl": "https://www.ithome.com/zt/xijiayi",
+      "title": "IT之家 - 「喜加一」最新动态",
+      "type": "feed",
+      "url": "rsshub://ithome/zt/xijiayi"
     }
   ],
   "url": "ithome.com"

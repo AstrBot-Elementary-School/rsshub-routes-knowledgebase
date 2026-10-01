@@ -83,18 +83,6 @@
       "description": "美股|美股行情|美股新闻 - 新浪财经 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "72165621423506432",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://finance.sina.com.cn/stock/usstock/",
-      "title": "美股|美股行情|美股新闻 - 新浪财经",
-      "type": "feed",
-      "url": "rsshub://sina/finance/stock/usstock"
-    },
-    {
-      "description": "美股|美股行情|美股新闻 - 新浪财经 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "149823078304929792",
       "image": null,
       "ownerUserId": null,
@@ -102,6 +90,18 @@
       "title": "美股|美股行情|美股新闻 - 新浪财经",
       "type": "feed",
       "url": "rsshub://sina/finance/stock/usstock/57045"
+    },
+    {
+      "description": "美股|美股行情|美股新闻 - 新浪财经 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "72165621423506432",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://finance.sina.com.cn/stock/usstock/",
+      "title": "美股|美股行情|美股新闻 - 新浪财经",
+      "type": "feed",
+      "url": "rsshub://sina/finance/stock/usstock"
     }
   ],
   "url": "finance.sina.com.cn/stock/usstock"

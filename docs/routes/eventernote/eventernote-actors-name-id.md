@@ -77,18 +77,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "MyGO!!!!!のイベント・ライブ情報一覧 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "73913698350104576",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.eventernote.com/actors/MyGO!!!!!/66346/events",
-      "title": "MyGO!!!!!のイベント・ライブ情報一覧",
-      "type": "feed",
-      "url": "rsshub://eventernote/actors/MyGO%21%21%21%21%21/66346"
-    },
-    {
       "description": "Liyuu(黎獄)のイベント・ライブ情報一覧 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -99,6 +87,18 @@ _None_
       "title": "Liyuu(黎獄)のイベント・ライブ情報一覧",
       "type": "feed",
       "url": "rsshub://eventernote/actors/Liyuu(%E9%BB%8E%E7%8D%84)/34637"
+    },
+    {
+      "description": "MyGO!!!!!のイベント・ライブ情報一覧 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "73913698350104576",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.eventernote.com/actors/MyGO!!!!!/66346/events",
+      "title": "MyGO!!!!!のイベント・ライブ情報一覧",
+      "type": "feed",
+      "url": "rsshub://eventernote/actors/MyGO%21%21%21%21%21/66346"
     }
   ],
   "view": 3

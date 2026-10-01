@@ -67,18 +67,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "完美世界电竞 - CS2 资讯 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "71465854017649664",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://news.wmpvp.com/",
-      "title": "完美世界电竞 - CS2 资讯",
-      "type": "feed",
-      "url": "rsshub://wmpvp/news/2"
-    },
-    {
       "description": "完美世界电竞 - DOTA2 资讯 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -89,6 +77,18 @@ _None_
       "title": "完美世界电竞 - DOTA2 资讯",
       "type": "feed",
       "url": "rsshub://wmpvp/news/1"
+    },
+    {
+      "description": "完美世界电竞 - CS2 资讯 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "71465854017649664",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://news.wmpvp.com/",
+      "title": "完美世界电竞 - CS2 资讯",
+      "type": "feed",
+      "url": "rsshub://wmpvp/news/2"
     }
   ]
 }

@@ -64,18 +64,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "晋江文学城 | - 最近更新 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "162762066028691456",
-      "image": "https://static.jjwxc.net/images/channel_2010/logo.gif",
-      "ownerUserId": null,
-      "siteUrl": "https://www.jjwxc.net/oneauthor.php?authorid=undefined",
-      "title": "晋江文学城 | - 最近更新",
-      "type": "feed",
-      "url": "rsshub://jjwxc/author"
-    },
-    {
       "description": "晋江文学城 | 墨香铜臭 - 最近更新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -86,6 +74,18 @@ _None_
       "title": "晋江文学城 | 墨香铜臭 - 最近更新",
       "type": "feed",
       "url": "rsshub://jjwxc/author/1322620"
+    },
+    {
+      "description": "晋江文学城 | - 最近更新 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "162762066028691456",
+      "image": "https://static.jjwxc.net/images/channel_2010/logo.gif",
+      "ownerUserId": null,
+      "siteUrl": "https://www.jjwxc.net/oneauthor.php?authorid=undefined",
+      "title": "晋江文学城 | - 最近更新",
+      "type": "feed",
+      "url": "rsshub://jjwxc/author"
     }
   ]
 }

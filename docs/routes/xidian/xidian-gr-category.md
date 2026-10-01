@@ -100,18 +100,6 @@
   },
   "topFeeds": [
     {
-      "description": "通知公告-研究生院-西安电子科技大学 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "88422062290453504",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://gr.xidian.edu.cn//tzgg1.htm",
-      "title": "通知公告-研究生院-西安电子科技大学",
-      "type": "feed",
-      "url": "rsshub://xidian/gr/home_tzgg1"
-    },
-    {
       "description": "硕士研究生招生-研究生院/卓越工程师学院-西安电子科技大学 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -122,6 +110,18 @@
       "title": "硕士研究生招生-研究生院/卓越工程师学院-西安电子科技大学",
       "type": "feed",
       "url": "rsshub://xidian/gr/yjsy_yjszs"
+    },
+    {
+      "description": "通知公告-研究生院-西安电子科技大学 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "88422062290453504",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://gr.xidian.edu.cn//tzgg1.htm",
+      "title": "通知公告-研究生院-西安电子科技大学",
+      "type": "feed",
+      "url": "rsshub://xidian/gr/home_tzgg1"
     }
   ],
   "url": "gr.xidian.edu.cn"

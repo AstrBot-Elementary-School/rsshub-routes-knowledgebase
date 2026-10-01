@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 124,
+  "heat": 123,
   "location": "fornumtopic.tsx",
   "maintainers": [
     "Fatpandac"
@@ -67,18 +67,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "通信人家园 - 论坛 一周热帖 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "67830551877448704",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.txrjy.com/c114-listnewtopic.php?typeid=5",
-      "title": "通信人家园 - 论坛 一周热帖",
-      "type": "feed",
-      "url": "rsshub://txrjy/fornumtopic/5"
-    },
-    {
       "description": "通信人家园 - 论坛 最新500主题帖 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -89,6 +77,18 @@ _None_
       "title": "通信人家园 - 论坛 最新500主题帖",
       "type": "feed",
       "url": "rsshub://txrjy/fornumtopic/1"
+    },
+    {
+      "description": "通信人家园 - 论坛 一周热帖 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "67830551877448704",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.txrjy.com/c114-listnewtopic.php?typeid=5",
+      "title": "通信人家园 - 论坛 一周热帖",
+      "type": "feed",
+      "url": "rsshub://txrjy/fornumtopic/5"
     }
   ]
 }

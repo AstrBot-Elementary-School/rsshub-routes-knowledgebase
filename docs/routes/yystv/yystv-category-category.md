@@ -68,18 +68,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "游研社-推游 - Powered by RSSHub",
-      "errorAt": "2025-08-26T12:35:22.570Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
-      "id": "52353637010143243",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.yystv.cn/b/recommend",
-      "title": "游研社-推游",
-      "type": "feed",
-      "url": "rsshub://yystv/category/recommend"
-    },
-    {
       "description": "游研社-趣闻 - Powered by RSSHub",
       "errorAt": "2025-08-26T16:08:18.138Z",
       "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
@@ -90,6 +78,18 @@ _None_
       "title": "游研社-趣闻",
       "type": "feed",
       "url": "rsshub://yystv/category/news"
+    },
+    {
+      "description": "游研社-推游 - Powered by RSSHub",
+      "errorAt": "2025-08-26T12:35:22.570Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "id": "52353637010143243",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.yystv.cn/b/recommend",
+      "title": "游研社-推游",
+      "type": "feed",
+      "url": "rsshub://yystv/category/recommend"
     }
   ]
 }

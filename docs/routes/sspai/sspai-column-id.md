@@ -73,18 +73,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "追求可持续生产力 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "69021638026256389",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://sspai.com/column/266",
-      "title": "少数派专栏-生产力周报",
-      "type": "feed",
-      "url": "rsshub://sspai/column/266"
-    },
-    {
       "description": "分享科研、教学日常中使用的工具与技术 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -95,6 +83,18 @@ _None_
       "title": "少数派专栏-科研利器",
       "type": "feed",
       "url": "rsshub://sspai/column/245"
+    },
+    {
+      "description": "追求可持续生产力 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "69021638026256389",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://sspai.com/column/266",
+      "title": "少数派专栏-生产力周报",
+      "type": "feed",
+      "url": "rsshub://sspai/column/266"
     }
   ]
 }

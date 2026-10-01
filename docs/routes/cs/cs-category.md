@@ -474,18 +474,6 @@
   "topFeeds": [
     {
       "description": "中证新闻中心致力于为用户提供实时专业财经证券资讯,事件报导,国际国内新闻要点，覆盖宏观经济,金融市场,商业动态,上市公司,投资理财等全方位信息； - Powered by RSSHub",
-      "errorAt": "2026-04-03T19:41:37.200Z",
-      "errorMessage": "[GET] \"https://www.cs.com.cn/gppd/gsyj/\": 403 Forbidden\n[GET] \"https://www.cs.com.cn/gppd/gsyj/\": 403 Forbidden\n",
-      "id": "72507750372854784",
-      "image": "https://www.cs.com.cn/images/cslogo-2018.png",
-      "ownerUserId": null,
-      "siteUrl": "https://www.cs.com.cn/gppd/gsyj/",
-      "title": "A股市场 - 中证网",
-      "type": "feed",
-      "url": "rsshub://cs/gppd/gsyj"
-    },
-    {
-      "description": "中证新闻中心致力于为用户提供实时专业财经证券资讯,事件报导,国际国内新闻要点，覆盖宏观经济,金融市场,商业动态,上市公司,投资理财等全方位信息； - Powered by RSSHub",
       "errorAt": "2026-04-03T16:16:55.439Z",
       "errorMessage": "[GET] \"https://www.cs.com.cn/gppd/ggzx/\": 403 Forbidden\n",
       "id": "72507895798413312",
@@ -495,6 +483,18 @@
       "title": "港股资讯 - 中证网",
       "type": "feed",
       "url": "rsshub://cs/gppd/ggzx"
+    },
+    {
+      "description": "中证新闻中心致力于为用户提供实时专业财经证券资讯,事件报导,国际国内新闻要点，覆盖宏观经济,金融市场,商业动态,上市公司,投资理财等全方位信息； - Powered by RSSHub",
+      "errorAt": "2026-04-03T19:41:37.200Z",
+      "errorMessage": "[GET] \"https://www.cs.com.cn/gppd/gsyj/\": 403 Forbidden\n[GET] \"https://www.cs.com.cn/gppd/gsyj/\": 403 Forbidden\n",
+      "id": "72507750372854784",
+      "image": "https://www.cs.com.cn/images/cslogo-2018.png",
+      "ownerUserId": null,
+      "siteUrl": "https://www.cs.com.cn/gppd/gsyj/",
+      "title": "A股市场 - 中证网",
+      "type": "feed",
+      "url": "rsshub://cs/gppd/gsyj"
     }
   ],
   "url": "www.cs.com.cn"

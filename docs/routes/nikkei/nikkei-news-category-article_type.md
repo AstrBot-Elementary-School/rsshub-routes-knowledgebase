@@ -70,18 +70,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "【日経】ニュース速報、企業・経済の最新情報をお届けします。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "64311587559952384",
-      "image": "https://www.nikkei.com/.resources/k-components/rectangle.rev-d54ea30.png",
-      "ownerUserId": null,
-      "siteUrl": "https://www.nikkei.com/news/category/",
-      "title": "日本経済新聞 - 総合",
-      "type": "feed",
-      "url": "rsshub://nikkei/news/news"
-    },
-    {
       "description": "日本経済新聞の電子版。「テック」に関する最新のニュースをお届けします。 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -92,6 +80,18 @@ _None_
       "title": "日本経済新聞 -",
       "type": "feed",
       "url": "rsshub://nikkei/news/technology"
+    },
+    {
+      "description": "【日経】ニュース速報、企業・経済の最新情報をお届けします。 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "64311587559952384",
+      "image": "https://www.nikkei.com/.resources/k-components/rectangle.rev-d54ea30.png",
+      "ownerUserId": null,
+      "siteUrl": "https://www.nikkei.com/news/category/",
+      "title": "日本経済新聞 - 総合",
+      "type": "feed",
+      "url": "rsshub://nikkei/news/news"
     }
   ]
 }

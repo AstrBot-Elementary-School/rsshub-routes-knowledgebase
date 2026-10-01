@@ -94,18 +94,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "DIYgod的手办 - 已入 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "65439658397984768",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.hpoi.net/user/116297/hobby?order=actionDate&view=2&favState=buy",
-      "title": "DIYgod的手办 - 已入",
-      "type": "feed",
-      "url": "rsshub://hpoi/user/116297/buy"
-    },
-    {
       "description": "DIYgod的手办 - 想买 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -116,6 +104,18 @@ _None_
       "title": "DIYgod的手办 - 想买",
       "type": "feed",
       "url": "rsshub://hpoi/user/116297/want"
+    },
+    {
+      "description": "DIYgod的手办 - 已入 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "65439658397984768",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.hpoi.net/user/116297/hobby?order=actionDate&view=2&favState=buy",
+      "title": "DIYgod的手办 - 已入",
+      "type": "feed",
+      "url": "rsshub://hpoi/user/116297/buy"
     }
   ]
 }

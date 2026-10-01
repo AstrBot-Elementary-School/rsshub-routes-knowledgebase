@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4864,
+  "heat": 4865,
   "location": "daily.ts",
   "maintainers": [
     "nczitzk",
@@ -73,7 +73,7 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "1. Anthropic 推出低成本 AI 模型 Sonnet 5.5 2. OpenAI 因安全问题取消 GPT-6.1 Astra 发布计划 3. AMD 同意收购李飞飞旗下 AI 初创公司 World Labs，交易金额 82 亿美元 4. 苹果客服回应 iPhone 18 Pro 自动重启问题：系统原因，将推送更新修复 5. 罗永浩质疑东方甄选售劣质溜溜凳获利千万未全量退款 6. 郑刚实名举报罗永浩相关公司偷税漏税，罗永浩回应称系造谣 7. OpenAI 高管透露：80% 至 90% 研发力量已转向 GPT-7 及后续模型 8. 中行万事达卡疑似遭批量盗刷 客服证实收到多起反馈 9. Anthropic 宣布 Claude 攻克杨-米尔斯理论九圈散射振幅难题 10. 智谱 ZCode 删除涉事云端数据 向用户赠送重置卡及 1 亿 Token 额度 11. 山姆回应顾客反映蛋糕内有活虫事件：生产运输环节生虫可能性极低 12. 千问与夸克网盘打通，网盘成为 AI 可调用的个人知识库 13. 余承东首度公开表态：鸿蒙智行将增投四界 问界用户权益不受影响 - Powered by RSSHub",
+      "description": "1. OpenAI 推出全天候自主智能体 Dot、GPT-6.1 Sol 模型 2. Anthropic 披露 IPO 招股书，2025 财年营收同比增 1088% 3. OpenAI 称 ChatGPT 周活跃用户已达 12 亿 4. 苹果 CEO 特努斯拟推架构精简等改革 提速产品迭代布局新品 5. DeepSeek Harness v0.2 预览版正式发布 6. 英伟达 CEO 黄仁勋回应 AI 模型蒸馏争议：这是市场竞争行为 7. OpenAI 明日重启 200 美元 Pro 订阅：API 配额减半，取消 5 小时限制 8. Meta 成立 Muse 企服版业务，200 亿市值 MongoDB CEO 跳槽加入 9. 多位 AI 企业高管将出席特朗普午餐会 探讨人工智能风险 10. 月之暗面 Kimi K3.1 模型前端标识泄露，预计将在近期发布 11. 苹果将在印度推出 Apple Pay 12. 消息人士称 OpenAI 年度经常性收入接近 700 亿美元 13. Tiffany 陷入月饼客诉风波：高消费用户小红书吐槽后账号受限 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "52347176714948614",

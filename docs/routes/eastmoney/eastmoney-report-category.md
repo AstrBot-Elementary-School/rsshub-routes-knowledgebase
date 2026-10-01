@@ -55,7 +55,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 7144,
+  "heat": 7145,
   "location": "report/index.tsx",
   "maintainers": [
     "syzq"
@@ -101,18 +101,6 @@
   },
   "topFeeds": [
     {
-      "description": "东方财富网-行业研报 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "62144468362632192",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://data.eastmoney.com/",
-      "title": "东方财富网-行业研报",
-      "type": "feed",
-      "url": "rsshub://eastmoney/report/industry"
-    },
-    {
       "description": "东方财富网-策略报告 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -123,6 +111,18 @@
       "title": "东方财富网-策略报告",
       "type": "feed",
       "url": "rsshub://eastmoney/report/strategyreport"
+    },
+    {
+      "description": "东方财富网-行业研报 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "62144468362632192",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://data.eastmoney.com/",
+      "title": "东方财富网-行业研报",
+      "type": "feed",
+      "url": "rsshub://eastmoney/report/industry"
     }
   ],
   "view": 0

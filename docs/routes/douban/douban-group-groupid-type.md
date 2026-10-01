@@ -95,18 +95,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "豆瓣小组-无用美学 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "41147805268337664",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.douban.com/group/699356/?type=essence",
-      "title": "豆瓣小组-无用美学",
-      "type": "feed",
-      "url": "rsshub://douban/group/699356/essence"
-    },
-    {
       "description": "豆瓣小组-可爱事物分享 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -117,6 +105,18 @@ _None_
       "title": "豆瓣小组-可爱事物分享",
       "type": "feed",
       "url": "rsshub://douban/group/648102/essence"
+    },
+    {
+      "description": "豆瓣小组-无用美学 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "41147805268337664",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.douban.com/group/699356/?type=essence",
+      "title": "豆瓣小组-无用美学",
+      "type": "feed",
+      "url": "rsshub://douban/group/699356/essence"
     }
   ],
   "view": 1

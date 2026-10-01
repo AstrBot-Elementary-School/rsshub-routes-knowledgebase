@@ -75,18 +75,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Lead Editor: Esteban Rossi-Hansberg Editors: John Asker, Andrew Atkeson, Leonardo Bursztyn, Gabriel Carroll, Melissa Dell, David Lagakos, Guido Lorenzoni, Francesca Molinari, Luigi Pistaferri, Bruno Strulovici, Christopher Taber, Christopher Walters - Powered by RSSHub",
-      "errorAt": "2026-07-07T09:18:43.490Z",
-      "errorMessage": "browserType.connect: WebSocket error: wss://cloudflare-patchright.rss3.workers.dev/playwright 428 Precondition Required\n╔════════════════════════════════════════════════════╗\n║ Playwright version mismatch:                       ║\n║   - server version: v1.61                          ║\n║   - client version: v1.62                          ║\n║                                                    ║\n║ If you are using VSCode extension, restart VSCode. ║\n║                                                    ║\n║ If you are connecting to a remote service,         ║\n║ keep your local Playwright version in sync         ║\n║ with the remote service version.                   ║\n║                                                    ║\n║ <3 Playwright Team                                 ║\n╚════════════════════════════════════════════════════╝\nCall log:\n  - <ws connecting> wss://cloudflare-patchright.rss3.workers.dev/playwright\n  - <ws unexpected response> wss://cloudflare-patchright.rss3.workers.dev/playwright 428 Precondition Required\n╔════════════════════════════════════════════════════╗\n║ Playwright version mismatch:                       ║\n║   - server version: v1.61                          ║\n║   - client version: v1.62                          ║\n║                                                    ║\n║ If you are using VSCode extension, restart VSCode. ║\n║                                                    ║\n║ If you are connecting to a remote service,         ║\n║ keep your local Playwright version in sync         ║\n║ with the remote service version.                   ║\n║                                                    ║\n║ <3 Playwright Team                                 ║\n╚════════════════════════════════════════════════════╝\n  - <ws error> wss://cloudflare-patchright.rss3.workers.dev/playwright error WebSocket was closed before the connection was established\n  - <ws connect error> wss://cloudflare-patchright.rss3.workers.dev/playwright WebSocket was closed before the connection was established\n  - <ws disconnected> wss://cloudflare-patchright.rss3.workers.dev/playwright code=1006 reason=\n\n",
-      "id": "74375516441159680",
-      "image": "https://www.journals.uchicago.edu/cms/asset/cbf24731-85ef-41cf-8559-e373014c64bf/jpe.2026.134.issue-7.cover.png",
-      "ownerUserId": null,
-      "siteUrl": "https://www.journals.uchicago.edu/toc/jpe/current",
-      "title": "Journal of Political Economy | Vol 134, No 7",
-      "type": "feed",
-      "url": "rsshub://uchicago/journals/current/jpe"
-    },
-    {
       "description": "Editors: Mary Evans, Teevrat Garg, Arik Levinson, and Andrew Plantinga Published for the Association of Environmental and Resource Economists - Powered by RSSHub",
       "errorAt": "2026-07-07T09:47:14.897Z",
       "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
@@ -97,6 +85,18 @@ _None_
       "title": "Journal of the Association of Environmental and Resource Economists | Vol 13, No 5",
       "type": "feed",
       "url": "rsshub://uchicago/journals/current/jaere"
+    },
+    {
+      "description": "Lead Editor: Esteban Rossi-Hansberg Editors: John Asker, Andrew Atkeson, Leonardo Bursztyn, Gabriel Carroll, Melissa Dell, David Lagakos, Guido Lorenzoni, Francesca Molinari, Luigi Pistaferri, Bruno Strulovici, Christopher Taber, Christopher Walters - Powered by RSSHub",
+      "errorAt": "2026-07-07T09:18:43.490Z",
+      "errorMessage": "browserType.connect: WebSocket error: wss://cloudflare-patchright.rss3.workers.dev/playwright 428 Precondition Required\n╔════════════════════════════════════════════════════╗\n║ Playwright version mismatch:                       ║\n║   - server version: v1.61                          ║\n║   - client version: v1.62                          ║\n║                                                    ║\n║ If you are using VSCode extension, restart VSCode. ║\n║                                                    ║\n║ If you are connecting to a remote service,         ║\n║ keep your local Playwright version in sync         ║\n║ with the remote service version.                   ║\n║                                                    ║\n║ <3 Playwright Team                                 ║\n╚════════════════════════════════════════════════════╝\nCall log:\n  - <ws connecting> wss://cloudflare-patchright.rss3.workers.dev/playwright\n  - <ws unexpected response> wss://cloudflare-patchright.rss3.workers.dev/playwright 428 Precondition Required\n╔════════════════════════════════════════════════════╗\n║ Playwright version mismatch:                       ║\n║   - server version: v1.61                          ║\n║   - client version: v1.62                          ║\n║                                                    ║\n║ If you are using VSCode extension, restart VSCode. ║\n║                                                    ║\n║ If you are connecting to a remote service,         ║\n║ keep your local Playwright version in sync         ║\n║ with the remote service version.                   ║\n║                                                    ║\n║ <3 Playwright Team                                 ║\n╚════════════════════════════════════════════════════╝\n  - <ws error> wss://cloudflare-patchright.rss3.workers.dev/playwright error WebSocket was closed before the connection was established\n  - <ws connect error> wss://cloudflare-patchright.rss3.workers.dev/playwright WebSocket was closed before the connection was established\n  - <ws disconnected> wss://cloudflare-patchright.rss3.workers.dev/playwright code=1006 reason=\n\n",
+      "id": "74375516441159680",
+      "image": "https://www.journals.uchicago.edu/cms/asset/cbf24731-85ef-41cf-8559-e373014c64bf/jpe.2026.134.issue-7.cover.png",
+      "ownerUserId": null,
+      "siteUrl": "https://www.journals.uchicago.edu/toc/jpe/current",
+      "title": "Journal of Political Economy | Vol 134, No 7",
+      "type": "feed",
+      "url": "rsshub://uchicago/journals/current/jpe"
     }
   ]
 }

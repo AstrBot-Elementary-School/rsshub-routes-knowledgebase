@@ -57,6 +57,18 @@ _None_
       "description": "新加坡、中国、亚洲和国际的即时、评论、商业、体育、生活、科技与多媒体新闻，尽在联合早报。 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
+      "id": "114855620432737280",
+      "image": "https://www.zaobao.com.sg/favicon.ico",
+      "ownerUserId": null,
+      "siteUrl": "https://www.zaobao.com/forum/views",
+      "title": "《联合早报》评论 | 联合早报网",
+      "type": "feed",
+      "url": "rsshub://zaobao/other/forum/views"
+    },
+    {
+      "description": "新加坡、中国、亚洲和国际的即时、评论、商业、体育、生活、科技与多媒体新闻，尽在联合早报。 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "149086131447585792",
       "image": "https://www.zaobao.com.sg/favicon.ico",
       "ownerUserId": null,
@@ -64,18 +76,6 @@ _None_
       "title": "《联合早报》中国政情 - 专题特稿 | 联合早报",
       "type": "feed",
       "url": "rsshub://zaobao/other/special/cnpol"
-    },
-    {
-      "description": "新加坡、中国、亚洲和国际的即时、评论、商业、体育、生活、科技与多媒体新闻，尽在联合早报。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "114855620432737280",
-      "image": "https://www.zaobao.com.sg/favicon.ico",
-      "ownerUserId": null,
-      "siteUrl": "https://www.zaobao.com/forum/views",
-      "title": "《联合早报》时事与新闻评论 | 联合早报",
-      "type": "feed",
-      "url": "rsshub://zaobao/other/forum/views"
     }
   ]
 }

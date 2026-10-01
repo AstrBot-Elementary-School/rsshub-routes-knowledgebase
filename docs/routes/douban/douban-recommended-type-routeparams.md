@@ -76,18 +76,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "豆瓣 - 2026年09月定档热门新剧推荐 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "55307751412641792",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://m.douban.com/subject_collection/EC2ZBUUKA",
-      "title": "豆瓣 - 2026年09月定档热门新剧推荐",
-      "type": "feed",
-      "url": "rsshub://douban/recommended/tv"
-    },
-    {
       "description": "豆瓣 - 2026年09月定档热门电影推荐 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -98,6 +86,18 @@ _None_
       "title": "豆瓣 - 2026年09月定档热门电影推荐",
       "type": "feed",
       "url": "rsshub://douban/recommended/movie"
+    },
+    {
+      "description": "豆瓣 - 2026年09月定档热门新剧推荐 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "55307751412641792",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://m.douban.com/subject_collection/EC2ZBUUKA",
+      "title": "豆瓣 - 2026年09月定档热门新剧推荐",
+      "type": "feed",
+      "url": "rsshub://douban/recommended/tv"
     }
   ]
 }

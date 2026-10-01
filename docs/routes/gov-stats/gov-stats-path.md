@@ -76,18 +76,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "数据发布 - 国家统计局 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "55877082660306949",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "http://www.stats.gov.cn/sj/zxfb/",
-      "title": "数据发布 - 国家统计局",
-      "type": "feed",
-      "url": "rsshub://gov/stats/sj/zxfb"
-    },
-    {
       "description": "数据解读 - 国家统计局 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -98,6 +86,18 @@ _None_
       "title": "数据解读 - 国家统计局",
       "type": "feed",
       "url": "rsshub://gov/stats/sj/sjjd"
+    },
+    {
+      "description": "数据发布 - 国家统计局 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "55877082660306949",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "http://www.stats.gov.cn/sj/zxfb/",
+      "title": "数据发布 - 国家统计局",
+      "type": "feed",
+      "url": "rsshub://gov/stats/sj/zxfb"
     }
   ],
   "url": "www.stats.gov.cn"

@@ -63,18 +63,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "领导人活动_中华人民共和国外交部 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "58007926096163886",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.mfa.gov.cn/web/wjdt_674879/gjldrhd_674881",
-      "title": "领导人活动_中华人民共和国外交部",
-      "type": "feed",
-      "url": "rsshub://gov/mfa/wjdt/gjldrhd"
-    },
-    {
       "description": "外事日程_中华人民共和国外交部 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -85,6 +73,18 @@ _None_
       "title": "外事日程_中华人民共和国外交部",
       "type": "feed",
       "url": "rsshub://gov/mfa/wjdt/wsrc"
+    },
+    {
+      "description": "领导人活动_中华人民共和国外交部 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "58007926096163886",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.mfa.gov.cn/web/wjdt_674879/gjldrhd_674881",
+      "title": "领导人活动_中华人民共和国外交部",
+      "type": "feed",
+      "url": "rsshub://gov/mfa/wjdt/gjldrhd"
     }
   ]
 }

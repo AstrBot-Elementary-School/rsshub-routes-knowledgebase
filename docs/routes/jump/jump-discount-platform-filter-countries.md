@@ -85,18 +85,6 @@ _None_
   "topFeeds": [
     {
       "description": "jump 发现游戏 - Powered by RSSHub",
-      "errorAt": "2026-09-21T14:12:11.471Z",
-      "errorMessage": "Failed to fetch\n",
-      "id": "66698425520730122",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://jumpvg.com/",
-      "title": "jump 折扣-ps5-全部",
-      "type": "feed",
-      "url": "rsshub://jump/discount/ps5/all"
-    },
-    {
-      "description": "jump 发现游戏 - Powered by RSSHub",
       "errorAt": "2026-08-18T05:41:24.765Z",
       "errorMessage": "Failed to fetch\n",
       "id": "79731667838042112",
@@ -106,6 +94,18 @@ _None_
       "title": "jump 折扣-switch-全部",
       "type": "feed",
       "url": "rsshub://jump/discount/switch/all"
+    },
+    {
+      "description": "jump 发现游戏 - Powered by RSSHub",
+      "errorAt": "2026-09-21T14:12:11.471Z",
+      "errorMessage": "Failed to fetch\n",
+      "id": "66698425520730122",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://jumpvg.com/",
+      "title": "jump 折扣-ps5-全部",
+      "type": "feed",
+      "url": "rsshub://jump/discount/ps5/all"
     }
   ]
 }

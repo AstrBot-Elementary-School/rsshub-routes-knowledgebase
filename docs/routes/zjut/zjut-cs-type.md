@@ -78,18 +78,6 @@
   },
   "topFeeds": [
     {
-      "description": "学院新闻 - 浙江工业大学计算机科学与技术学院、软件学院 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "70400085814460416",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://cs.zjut.edu.cn/jsp/newsclass.jsp?wcId=54",
-      "title": "学院新闻 - 浙江工业大学计算机科学与技术学院、软件学院",
-      "type": "feed",
-      "url": "rsshub://zjut/cs/54"
-    },
-    {
       "description": "学院公告 - 浙江工业大学计算机科学与技术学院、软件学院 - Powered by RSSHub",
       "errorAt": "2026-05-02T16:57:53.998Z",
       "errorMessage": "[GET] \"https://cs.zjut.edu.cn/jsp/newsclass.jsp?wcId=53\": 403 Forbidden\n",
@@ -100,6 +88,18 @@
       "title": "学院公告 - 浙江工业大学计算机科学与技术学院、软件学院",
       "type": "feed",
       "url": "rsshub://zjut/cs/53"
+    },
+    {
+      "description": "学院新闻 - 浙江工业大学计算机科学与技术学院、软件学院 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "70400085814460416",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://cs.zjut.edu.cn/jsp/newsclass.jsp?wcId=54",
+      "title": "学院新闻 - 浙江工业大学计算机科学与技术学院、软件学院",
+      "type": "feed",
+      "url": "rsshub://zjut/cs/54"
     }
   ],
   "url": "cs.zjut.edu.cn"

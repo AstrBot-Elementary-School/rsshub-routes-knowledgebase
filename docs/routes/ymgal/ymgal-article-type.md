@@ -67,18 +67,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "月幕 Galgame - 全部文章 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "41467081627747332",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.ymgal.games/co/article",
-      "title": "月幕 Galgame - 全部文章",
-      "type": "feed",
-      "url": "rsshub://ymgal/article"
-    },
-    {
       "description": "月幕 Galgame - 资讯 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -89,6 +77,18 @@ _None_
       "title": "月幕 Galgame - 资讯",
       "type": "feed",
       "url": "rsshub://ymgal/article/news"
+    },
+    {
+      "description": "月幕 Galgame - 全部文章 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "41467081627747332",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.ymgal.games/co/article",
+      "title": "月幕 Galgame - 全部文章",
+      "type": "feed",
+      "url": "rsshub://ymgal/article"
     }
   ]
 }

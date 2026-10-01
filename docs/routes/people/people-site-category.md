@@ -36,7 +36,7 @@ _None_
     "traditional-media"
   ],
   "example": "/people",
-  "heat": 350,
+  "heat": 349,
   "location": "index.ts",
   "maintainers": [
     "nczitzk",
@@ -49,18 +49,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "人民日报重要言论库--观点--人民网 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "73227336896093184",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "http://opinion.people.com.cn/GB/8213/49160",
-      "title": "人民日报重要言论库--观点--人民网",
-      "type": "feed",
-      "url": "rsshub://people/opinion/8213/49160"
-    },
-    {
       "description": "首页头条--人民网 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -71,6 +59,18 @@ _None_
       "title": "首页头条--人民网",
       "type": "feed",
       "url": "rsshub://people"
+    },
+    {
+      "description": "人民日报重要言论库--观点--人民网 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "73227336896093184",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "http://opinion.people.com.cn/GB/8213/49160",
+      "title": "人民日报重要言论库--观点--人民网",
+      "type": "feed",
+      "url": "rsshub://people/opinion/8213/49160"
     }
   ]
 }

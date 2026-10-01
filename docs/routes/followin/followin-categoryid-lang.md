@@ -140,18 +140,6 @@ _None_
   "topFeeds": [
     {
       "description": "Followin - Powered by RSSHub",
-      "errorAt": "2026-08-21T19:43:29.493Z",
-      "errorMessage": "[GET] \"https://followin.io\": 429 Too Many Requests\n",
-      "id": "72596134870584320",
-      "image": "https://followin.io/favicon.ico",
-      "ownerUserId": null,
-      "siteUrl": "https://followin.io/",
-      "title": "Followin",
-      "type": "feed",
-      "url": "rsshub://followin/1"
-    },
-    {
-      "description": "Followin - Powered by RSSHub",
       "errorAt": "2026-08-20T07:10:32.583Z",
       "errorMessage": "Failed to fetch\n",
       "id": "62849148807841792",
@@ -161,6 +149,18 @@ _None_
       "title": "Followin",
       "type": "feed",
       "url": "rsshub://followin/1/zh-Hans"
+    },
+    {
+      "description": "Followin - Powered by RSSHub",
+      "errorAt": "2026-08-21T19:43:29.493Z",
+      "errorMessage": "[GET] \"https://followin.io\": 429 Too Many Requests\n",
+      "id": "72596134870584320",
+      "image": "https://followin.io/favicon.ico",
+      "ownerUserId": null,
+      "siteUrl": "https://followin.io/",
+      "title": "Followin",
+      "type": "feed",
+      "url": "rsshub://followin/1"
     }
   ],
   "view": 0

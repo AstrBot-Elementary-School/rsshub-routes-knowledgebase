@@ -73,18 +73,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "新快报新快网 - 首页 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "59112290766065664",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.xkb.com.cn/home?id=350",
-      "title": "新快报新快网 - 首页",
-      "type": "feed",
-      "url": "rsshub://xkb/350"
-    },
-    {
       "description": "新快报新快网 - 重点 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -95,6 +83,18 @@ _None_
       "title": "新快报新快网 - 重点",
       "type": "feed",
       "url": "rsshub://xkb/359"
+    },
+    {
+      "description": "新快报新快网 - 首页 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "59112290766065664",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.xkb.com.cn/home?id=350",
+      "title": "新快报新快网 - 首页",
+      "type": "feed",
+      "url": "rsshub://xkb/350"
     }
   ]
 }

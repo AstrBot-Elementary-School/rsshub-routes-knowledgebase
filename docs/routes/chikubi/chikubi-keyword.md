@@ -69,18 +69,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "殿堂 - chikubi.jp - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "56155535570663424",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://chikubi.jp/best-nipple-article",
-      "title": "殿堂 - chikubi.jp",
-      "type": "feed",
-      "url": "rsshub://chikubi/best"
-    },
-    {
       "description": "漫畫 - chikubi.jp - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -91,6 +79,18 @@ _None_
       "title": "漫畫 - chikubi.jp",
       "type": "feed",
       "url": "rsshub://chikubi/comic"
+    },
+    {
+      "description": "殿堂 - chikubi.jp - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "56155535570663424",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://chikubi.jp/best-nipple-article",
+      "title": "殿堂 - chikubi.jp",
+      "type": "feed",
+      "url": "rsshub://chikubi/best"
     }
   ]
 }

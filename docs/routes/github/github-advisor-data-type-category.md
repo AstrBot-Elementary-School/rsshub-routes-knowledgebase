@@ -91,18 +91,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "GitHub Advisory Database RSS - composer - reviewed - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "95003691455117312",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://github.com/advisories",
-      "title": "GitHub Advisory Database RSS - composer - reviewed",
-      "type": "feed",
-      "url": "rsshub://github/advisor/data/reviewed/composer"
-    },
-    {
       "description": "GitHub Advisory Database RSS - maven - reviewed - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -113,6 +101,18 @@ _None_
       "title": "GitHub Advisory Database RSS - maven - reviewed",
       "type": "feed",
       "url": "rsshub://github/advisor/data/reviewed/maven"
+    },
+    {
+      "description": "GitHub Advisory Database RSS - composer - reviewed - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "95003691455117312",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://github.com/advisories",
+      "title": "GitHub Advisory Database RSS - composer - reviewed",
+      "type": "feed",
+      "url": "rsshub://github/advisor/data/reviewed/composer"
     }
   ]
 }

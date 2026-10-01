@@ -122,18 +122,6 @@ You have the option to utilize the main heading or use individual categories as 
   },
   "topFeeds": [
     {
-      "description": "Application-development Articles on aListApart.com - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "53660433450916864",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://alistapart.com/blog/topic/application-development",
-      "title": "A List Apart",
-      "type": "feed",
-      "url": "rsshub://alistapart/application-development"
-    },
-    {
       "description": "Code Articles on aListApart.com - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -144,6 +132,18 @@ You have the option to utilize the main heading or use individual categories as 
       "title": "A List Apart",
       "type": "feed",
       "url": "rsshub://alistapart/code"
+    },
+    {
+      "description": "Application-development Articles on aListApart.com - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "53660433450916864",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://alistapart.com/blog/topic/application-development",
+      "title": "A List Apart",
+      "type": "feed",
+      "url": "rsshub://alistapart/application-development"
     }
   ],
   "url": "alistapart.com/articles/"

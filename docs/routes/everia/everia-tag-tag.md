@@ -78,18 +78,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "EVERIA.CLUB - Tag: gravure - Powered by RSSHub",
-      "errorAt": "2026-08-17T16:47:19.685Z",
-      "errorMessage": "Tag not found: gravure\n",
-      "id": "153059637668516864",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://everia.club/tag/gravure/",
-      "title": "EVERIA.CLUB - Tag: gravure",
-      "type": "feed",
-      "url": "rsshub://everia/tag/gravure"
-    },
-    {
       "description": "EVERIA.CLUB - Tag: hinatazaka46-日向坂46 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -100,6 +88,18 @@ _None_
       "title": "EVERIA.CLUB - Tag: hinatazaka46-日向坂46",
       "type": "feed",
       "url": "rsshub://everia/tag/hinatazaka46-%E6%97%A5%E5%90%91%E5%9D%8246"
+    },
+    {
+      "description": "EVERIA.CLUB - Tag: gravure - Powered by RSSHub",
+      "errorAt": "2026-08-17T16:47:19.685Z",
+      "errorMessage": "Tag not found: gravure\n",
+      "id": "153059637668516864",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://everia.club/tag/gravure/",
+      "title": "EVERIA.CLUB - Tag: gravure",
+      "type": "feed",
+      "url": "rsshub://everia/tag/gravure"
     }
   ]
 }

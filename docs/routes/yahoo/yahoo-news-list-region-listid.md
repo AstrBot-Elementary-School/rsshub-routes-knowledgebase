@@ -96,6 +96,18 @@
   },
   "topFeeds": [
     {
+      "description": "Yahoo 新聞 - on.cc 東網 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "86337790306403328",
+      "image": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+      "ownerUserId": null,
+      "siteUrl": "https://hk.news.yahoo.com/",
+      "title": "Yahoo 新聞 - on.cc 東網",
+      "type": "feed",
+      "url": "rsshub://yahoo/news/list/hk/33ddd580-0ab3-11e8-bfe1-4b555fb1e429"
+    },
+    {
       "description": "Yahoo 新聞 - 法新社 - Powered by RSSHub",
       "errorAt": "2026-09-05T16:25:49.296Z",
       "errorMessage": "[GET] \"https://hk.news.yahoo.com/_td-news/api/resource/StreamService;category=LISTID%3A1cc44280-facb-11e9-ad7c-f3ba971275c8;useNCP=true\": 404 Not Found\n",
@@ -106,18 +118,6 @@
       "title": "Yahoo 新聞 - 法新社",
       "type": "feed",
       "url": "rsshub://yahoo/news/list/hk/1cc44280-facb-11e9-ad7c-f3ba971275c8"
-    },
-    {
-      "description": "Yahoo 新聞 - on.cc 東網 - Powered by RSSHub",
-      "errorAt": "2026-09-29T05:11:14.080Z",
-      "errorMessage": "[GET] \"https://hk.news.yahoo.com/_td-news/api/resource/StreamService;category=LISTID%3A33ddd580-0ab3-11e8-bfe1-4b555fb1e429;useNCP=true\": 500 Internal Server Error\n",
-      "id": "86337790306403328",
-      "image": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
-      "ownerUserId": null,
-      "siteUrl": "https://hk.news.yahoo.com/",
-      "title": "Yahoo 新聞 - on.cc 東網",
-      "type": "feed",
-      "url": "rsshub://yahoo/news/list/hk/33ddd580-0ab3-11e8-bfe1-4b555fb1e429"
     }
   ]
 }

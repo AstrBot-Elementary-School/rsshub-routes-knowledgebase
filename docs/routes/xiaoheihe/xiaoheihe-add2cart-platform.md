@@ -36,7 +36,7 @@ _None_
     "game"
   ],
   "example": "/xiaoheihe/add2cart/epic",
-  "heat": 441,
+  "heat": 439,
   "location": "add2cart.ts",
   "maintainers": [
     "ladeng07"
@@ -52,18 +52,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "小黑盒 EPIC 喜加一 - Powered by RSSHub",
-      "errorAt": "2024-12-24T07:42:30.812Z",
-      "errorMessage": "Authentication failed. Access denied.\n/xiaoheihe/add2cart/epic\nCannot read properties of undefined (reading 'map')\n",
-      "id": "58426420603331584",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://xiaoheihe.cn/",
-      "title": "小黑盒 EPIC 喜加一",
-      "type": "feed",
-      "url": "rsshub://xiaoheihe/add2cart/epic"
-    },
-    {
       "description": "小黑盒 STEAM 喜加一 - Powered by RSSHub",
       "errorAt": "2024-12-24T07:15:54.224Z",
       "errorMessage": "Cannot read properties of undefined (reading 'map')\n",
@@ -74,6 +62,18 @@ _None_
       "title": "小黑盒 STEAM 喜加一",
       "type": "feed",
       "url": "rsshub://xiaoheihe/add2cart/steam"
+    },
+    {
+      "description": "小黑盒 EPIC 喜加一 - Powered by RSSHub",
+      "errorAt": "2024-12-24T07:42:30.812Z",
+      "errorMessage": "Authentication failed. Access denied.\n/xiaoheihe/add2cart/epic\nCannot read properties of undefined (reading 'map')\n",
+      "id": "58426420603331584",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://xiaoheihe.cn/",
+      "title": "小黑盒 EPIC 喜加一",
+      "type": "feed",
+      "url": "rsshub://xiaoheihe/add2cart/epic"
     }
   ]
 }

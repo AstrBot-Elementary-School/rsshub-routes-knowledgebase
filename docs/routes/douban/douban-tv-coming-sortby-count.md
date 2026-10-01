@@ -76,18 +76,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "即将播出的剧集，请求参数: count=10, total=323, sortBy=hot, requestCount=10 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "259521396346720256",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://movie.douban.com/tv/",
-      "title": "豆瓣剧集-即将播出",
-      "type": "feed",
-      "url": "rsshub://douban/tv/coming/hot/10"
-    },
-    {
       "description": "即将播出的剧集，请求参数: count=10, total=326, sortBy=hot, requestCount=10 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -98,6 +86,18 @@ _None_
       "title": "豆瓣剧集-即将播出",
       "type": "feed",
       "url": "rsshub://douban/tv/coming"
+    },
+    {
+      "description": "即将播出的剧集，请求参数: count=10, total=323, sortBy=hot, requestCount=10 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "259521396346720256",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://movie.douban.com/tv/",
+      "title": "豆瓣剧集-即将播出",
+      "type": "feed",
+      "url": "rsshub://douban/tv/coming/hot/10"
     }
   ]
 }

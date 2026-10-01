@@ -79,18 +79,6 @@
       "description": "环球网 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "59176126986620928",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://world.huanqiu.com/",
-      "title": "国际新闻 - 环球网",
-      "type": "feed",
-      "url": "rsshub://huanqiu/news/world"
-    },
-    {
-      "description": "环球网 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "67440517507274752",
       "image": null,
       "ownerUserId": null,
@@ -98,6 +86,18 @@
       "title": "国内新闻 - 环球网",
       "type": "feed",
       "url": "rsshub://huanqiu/news"
+    },
+    {
+      "description": "环球网 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "59176126986620928",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://world.huanqiu.com/",
+      "title": "国际新闻 - 环球网",
+      "type": "feed",
+      "url": "rsshub://huanqiu/news/world"
     }
   ],
   "url": "huanqiu.com/"

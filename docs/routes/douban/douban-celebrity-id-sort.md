@@ -67,18 +67,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "豆瓣电影人 - 贾樟柯 Zhangke Jia - Powered by RSSHub",
-      "errorAt": "2026-03-07T18:33:37.510Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
-      "id": "70731857289574400",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://movie.douban.com/celebrity/1274261/movies?sortby=time",
-      "title": "豆瓣电影人 - 贾樟柯 Zhangke Jia",
-      "type": "feed",
-      "url": "rsshub://douban/celebrity/1274261"
-    },
-    {
       "description": "豆瓣电影人 - 杰里米·克拉克森 Jeremy Clarkson - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -89,6 +77,18 @@ _None_
       "title": "豆瓣电影人 - 杰里米·克拉克森 Jeremy Clarkson",
       "type": "feed",
       "url": "rsshub://douban/celebrity/1078759"
+    },
+    {
+      "description": "豆瓣电影人 - 贾樟柯 Zhangke Jia - Powered by RSSHub",
+      "errorAt": "2026-03-07T18:33:37.510Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "id": "70731857289574400",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://movie.douban.com/celebrity/1274261/movies?sortby=time",
+      "title": "豆瓣电影人 - 贾樟柯 Zhangke Jia",
+      "type": "feed",
+      "url": "rsshub://douban/celebrity/1274261"
     }
   ]
 }

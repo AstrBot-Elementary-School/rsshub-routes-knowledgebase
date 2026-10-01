@@ -58,7 +58,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 6873,
+  "heat": 6875,
   "location": "search/hot.tsx",
   "maintainers": [
     "xyqfer",
@@ -86,18 +86,6 @@ _None_
       "description": "实时热点，每分钟更新一次 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "41358830592746496",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://s.weibo.com/top/summary?cate=realtimehot",
-      "title": "微博热搜榜",
-      "type": "feed",
-      "url": "rsshub://weibo/search/hot"
-    },
-    {
-      "description": "实时热点，每分钟更新一次 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "57266422630121472",
       "image": null,
       "ownerUserId": null,
@@ -105,6 +93,18 @@ _None_
       "title": "微博热搜榜",
       "type": "feed",
       "url": "rsshub://weibo/search/hot/fulltext"
+    },
+    {
+      "description": "实时热点，每分钟更新一次 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "41358830592746496",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://s.weibo.com/top/summary?cate=realtimehot",
+      "title": "微博热搜榜",
+      "type": "feed",
+      "url": "rsshub://weibo/search/hot"
     }
   ],
   "url": "s.weibo.com/top/summary",

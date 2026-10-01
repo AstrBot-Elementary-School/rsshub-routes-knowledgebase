@@ -81,18 +81,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "澎湃新闻频道 - 科技 - Powered by RSSHub",
-      "errorAt": "2026-03-08T00:02:40.912Z",
-      "errorMessage": "cheerio.load() expects a string\ncheerio.load() expects a string\ncheerio.load() expects a string\n",
-      "id": "42176727615320069",
-      "image": "https://m.thepaper.cn/_next/static/media/logo.8d76cf45.png",
-      "ownerUserId": null,
-      "siteUrl": "https://m.thepaper.cn/channel/119908",
-      "title": "澎湃新闻频道 - 科技",
-      "type": "feed",
-      "url": "rsshub://thepaper/channel/119908"
-    },
-    {
       "description": "澎湃新闻频道 - 时事 - Powered by RSSHub",
       "errorAt": "2026-03-07T16:41:03.202Z",
       "errorMessage": "cheerio.load() expects a string\ncheerio.load() expects a string\n",
@@ -103,6 +91,18 @@ _None_
       "title": "澎湃新闻频道 - 时事",
       "type": "feed",
       "url": "rsshub://thepaper/channel/25950"
+    },
+    {
+      "description": "澎湃新闻频道 - 科技 - Powered by RSSHub",
+      "errorAt": "2026-03-08T00:02:40.912Z",
+      "errorMessage": "cheerio.load() expects a string\ncheerio.load() expects a string\ncheerio.load() expects a string\n",
+      "id": "42176727615320069",
+      "image": "https://m.thepaper.cn/_next/static/media/logo.8d76cf45.png",
+      "ownerUserId": null,
+      "siteUrl": "https://m.thepaper.cn/channel/119908",
+      "title": "澎湃新闻频道 - 科技",
+      "type": "feed",
+      "url": "rsshub://thepaper/channel/119908"
     }
   ]
 }

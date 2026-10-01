@@ -43,7 +43,7 @@ _None_
   "features": {
     "supportRadar": true
   },
-  "heat": 5097,
+  "heat": 5096,
   "location": "profile.ts",
   "maintainers": [
     "KarasuShin",
@@ -69,18 +69,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Follow's subscriptions - Powered by RSSHub",
-      "errorAt": "2026-05-02T05:07:24.820Z",
-      "errorMessage": "[GET] \"https://api.follow.is/subscriptions?userId=41469671337837568\": 401 \n[GET] \"https://api.follow.is/subscriptions?userId=41469671337837568\": 401 \n[GET] \"https://api.follow.is/subscriptions?userId=41469671337837568\": 401 Unauthorized\n",
-      "id": "73371743844601856",
-      "image": "https://avatars.githubusercontent.com/u/47667850?v=4",
-      "ownerUserId": null,
-      "siteUrl": "https://app.follow.is/share/users/41469671337837568",
-      "title": "Follow's subscriptions",
-      "type": "feed",
-      "url": "rsshub://follow/profile/41469671337837568"
-    },
-    {
       "description": "DIYgod's subscriptions - Powered by RSSHub",
       "errorAt": "2026-05-02T04:58:02.716Z",
       "errorMessage": "[GET] \"https://api.follow.is/subscriptions?userId=41125409313095680\": 401 Unauthorized\n[GET] \"https://api.follow.is/subscriptions?userId=41125409313095680\": 401 \n[GET] \"https://api.follow.is/subscriptions?userId=41125409313095680\": 401 Unauthorized\n[GET] \"https://api.follow.is/subscriptions?userId=41125409313095680\": 401 Unauthorized\n[GET] \"https://api.follow.is/subscriptions?userId=41125409313095680\": 401 Unauthorized\n",
@@ -91,6 +79,18 @@ _None_
       "title": "DIYgod's subscriptions",
       "type": "feed",
       "url": "rsshub://follow/profile/41125409313095680"
+    },
+    {
+      "description": "Follow's subscriptions - Powered by RSSHub",
+      "errorAt": "2026-05-02T05:07:24.820Z",
+      "errorMessage": "[GET] \"https://api.follow.is/subscriptions?userId=41469671337837568\": 401 \n[GET] \"https://api.follow.is/subscriptions?userId=41469671337837568\": 401 \n[GET] \"https://api.follow.is/subscriptions?userId=41469671337837568\": 401 Unauthorized\n",
+      "id": "73371743844601856",
+      "image": "https://avatars.githubusercontent.com/u/47667850?v=4",
+      "ownerUserId": null,
+      "siteUrl": "https://app.follow.is/share/users/41469671337837568",
+      "title": "Follow's subscriptions",
+      "type": "feed",
+      "url": "rsshub://follow/profile/41469671337837568"
     }
   ],
   "view": 5

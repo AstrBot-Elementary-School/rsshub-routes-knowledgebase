@@ -75,18 +75,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "yhArcadia/Yunzai-Bot-plugins-index - 仓库动态 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "83741276078048256",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://gitee.com/yhArcadia/Yunzai-Bot-plugins-index",
-      "title": "yhArcadia/Yunzai-Bot-plugins-index - 仓库动态",
-      "type": "feed",
-      "url": "rsshub://gitee/events/yhArcadia/Yunzai-Bot-plugins-index"
-    },
-    {
       "description": "labuladong/fucking-algorithm - 仓库动态 - Powered by RSSHub",
       "errorAt": "2026-07-12T02:04:12.308Z",
       "errorMessage": "Cannot read properties of null (reading 'login')\n",
@@ -97,6 +85,18 @@ _None_
       "title": "labuladong/fucking-algorithm - 仓库动态",
       "type": "feed",
       "url": "rsshub://gitee/events/labuladong/fucking-algorithm"
+    },
+    {
+      "description": "yhArcadia/Yunzai-Bot-plugins-index - 仓库动态 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "83741276078048256",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://gitee.com/yhArcadia/Yunzai-Bot-plugins-index",
+      "title": "yhArcadia/Yunzai-Bot-plugins-index - 仓库动态",
+      "type": "feed",
+      "url": "rsshub://gitee/events/yhArcadia/Yunzai-Bot-plugins-index"
     }
   ]
 }

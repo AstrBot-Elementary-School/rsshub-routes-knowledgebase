@@ -66,18 +66,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "安全内参- - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "56216388194039808",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.secrss.com/",
-      "title": "安全内参-",
-      "type": "feed",
-      "url": "rsshub://secrss/category"
-    },
-    {
       "description": "安全内参-产业趋势 - Powered by RSSHub",
       "errorAt": "2025-03-26T04:39:26.148Z",
       "errorMessage": "Cannot read properties of undefined (reading 'map')\n",
@@ -88,6 +76,18 @@ _None_
       "title": "安全内参-产业趋势",
       "type": "feed",
       "url": "rsshub://secrss/category/%E4%BA%A7%E4%B8%9A%E8%B6%8B%E5%8A%BF"
+    },
+    {
+      "description": "安全内参- - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "56216388194039808",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.secrss.com/",
+      "title": "安全内参-",
+      "type": "feed",
+      "url": "rsshub://secrss/category"
     }
   ]
 }

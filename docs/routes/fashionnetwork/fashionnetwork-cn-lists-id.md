@@ -188,18 +188,6 @@
       "description": "新闻 - 时尚商业网|时尚全方位商业报道 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "125749806716230656",
-      "image": "https://fashionnetwork.cn/static/images/fashion-network-logo.webp",
-      "ownerUserId": null,
-      "siteUrl": "https://fashionnetwork.cn/lists/11.html",
-      "title": "新闻 - FashionNetwork.com 中国",
-      "type": "feed",
-      "url": "rsshub://fashionnetwork/cn/lists/11.html"
-    },
-    {
-      "description": "新闻 - 时尚商业网|时尚全方位商业报道 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "125750058291721216",
       "image": "https://fashionnetwork.cn/static/images/fashion-network-logo.webp",
       "ownerUserId": null,
@@ -207,6 +195,18 @@
       "title": "新闻 - FashionNetwork.com 中国",
       "type": "feed",
       "url": "rsshub://fashionnetwork/cn/lists/3.html"
+    },
+    {
+      "description": "新闻 - 时尚商业网|时尚全方位商业报道 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "125749806716230656",
+      "image": "https://fashionnetwork.cn/static/images/fashion-network-logo.webp",
+      "ownerUserId": null,
+      "siteUrl": "https://fashionnetwork.cn/lists/11.html",
+      "title": "新闻 - FashionNetwork.com 中国",
+      "type": "feed",
+      "url": "rsshub://fashionnetwork/cn/lists/11.html"
     }
   ],
   "url": "fashionnetwork.cn"

@@ -56,7 +56,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1135,
+  "heat": 1134,
   "location": "keyword.ts",
   "maintainers": [
     "DIYgod",
@@ -73,18 +73,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "又有人在微博提到obsidian了 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "55288652424312832",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "http://s.weibo.com/weibo/obsidian&b=1&nodup=1",
-      "title": "又有人在微博提到obsidian了",
-      "type": "feed",
-      "url": "rsshub://weibo/keyword/obsidian"
-    },
-    {
       "description": "又有人在微博提到RSSHub了 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -95,6 +83,18 @@ _None_
       "title": "又有人在微博提到RSSHub了",
       "type": "feed",
       "url": "rsshub://weibo/keyword/RSSHub"
+    },
+    {
+      "description": "又有人在微博提到obsidian了 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "55288652424312832",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "http://s.weibo.com/weibo/obsidian&b=1&nodup=1",
+      "title": "又有人在微博提到obsidian了",
+      "type": "feed",
+      "url": "rsshub://weibo/keyword/obsidian"
     }
   ],
   "view": 1

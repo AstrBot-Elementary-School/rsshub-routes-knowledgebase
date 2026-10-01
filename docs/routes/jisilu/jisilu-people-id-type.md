@@ -89,18 +89,6 @@
       "description": "集思录，一个以数据为本的投资社区 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "97454904768301056",
-      "image": "https://www.jisilu.cn/static/css/jisilu/img/logo_jisilu.png",
-      "ownerUserId": null,
-      "siteUrl": "https://www.jisilu.cn/people/%E5%A4%A9%E4%B9%A6",
-      "title": "天书 的个人主页 - 集思录 - 主题",
-      "type": "feed",
-      "url": "rsshub://jisilu/people/%E5%A4%A9%E4%B9%A6"
-    },
-    {
-      "description": "集思录，一个以数据为本的投资社区 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "148336659220684800",
       "image": "https://www.jisilu.cn/static/css/jisilu/img/logo_jisilu.png",
       "ownerUserId": null,
@@ -108,6 +96,18 @@
       "title": "孔曼子 的个人主页 - 集思录 - 主题",
       "type": "feed",
       "url": "rsshub://jisilu/people/%E5%AD%94%E6%9B%BC%E5%AD%90"
+    },
+    {
+      "description": "集思录，一个以数据为本的投资社区 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "97454904768301056",
+      "image": "https://www.jisilu.cn/static/css/jisilu/img/logo_jisilu.png",
+      "ownerUserId": null,
+      "siteUrl": "https://www.jisilu.cn/people/%E5%A4%A9%E4%B9%A6",
+      "title": "天书 的个人主页 - 集思录 - 主题",
+      "type": "feed",
+      "url": "rsshub://jisilu/people/%E5%A4%A9%E4%B9%A6"
     }
   ],
   "url": "www.jisilu.cn",

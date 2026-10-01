@@ -78,18 +78,6 @@
   },
   "topFeeds": [
     {
-      "description": "财富中文网 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "42594297266876416",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.fortunechina.com/",
-      "title": "财富中文网",
-      "type": "feed",
-      "url": "rsshub://fortunechina"
-    },
-    {
       "description": "科技 - 财富中文网 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -100,6 +88,18 @@
       "title": "科技 - 财富中文网",
       "type": "feed",
       "url": "rsshub://fortunechina/keji"
+    },
+    {
+      "description": "财富中文网 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "42594297266876416",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.fortunechina.com/",
+      "title": "财富中文网",
+      "type": "feed",
+      "url": "rsshub://fortunechina"
     }
   ]
 }

@@ -76,18 +76,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "微纳电子技术 - Powered by RSSHub",
-      "errorAt": "2026-09-02T22:51:58.641Z",
-      "errorMessage": "[GET] \"https://rss.cnki.net/kns/rss.aspx?Journal=BDTQ&Virtual=knavi\": 526 <none>\n",
-      "id": "159265390001661952",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://navi.cnki.net/knavi/journals/BDTQ/detail?uniplatform=NZKPT",
-      "title": "微纳电子技术-CNKI",
-      "type": "feed",
-      "url": "rsshub://cnki/journals/BDTQ"
-    },
-    {
       "description": "电子与封装 - Powered by RSSHub",
       "errorAt": "2026-06-24T06:21:45.990Z",
       "errorMessage": "[GET] \"https://rss.cnki.net/kns/rss.aspx?Journal=DYFZ&Virtual=knavi\": 526 <none>\n",
@@ -98,6 +86,18 @@ _None_
       "title": "电子与封装-CNKI",
       "type": "feed",
       "url": "rsshub://cnki/journals/DYFZ"
+    },
+    {
+      "description": "微纳电子技术 - Powered by RSSHub",
+      "errorAt": "2026-09-02T22:51:58.641Z",
+      "errorMessage": "[GET] \"https://rss.cnki.net/kns/rss.aspx?Journal=BDTQ&Virtual=knavi\": 526 <none>\n",
+      "id": "159265390001661952",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://navi.cnki.net/knavi/journals/BDTQ/detail?uniplatform=NZKPT",
+      "title": "微纳电子技术-CNKI",
+      "type": "feed",
+      "url": "rsshub://cnki/journals/BDTQ"
     }
   ]
 }

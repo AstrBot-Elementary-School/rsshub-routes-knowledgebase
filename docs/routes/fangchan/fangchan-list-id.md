@@ -137,18 +137,6 @@
       "description": "中房网是中国房地产业协会的官方网站，致力于政府、行业、专业三大资源的整合，以权威及时的房地产行业资讯、数据与信用信息，打造房地产政策解读、市场判研、测评研究、信用管理的权威公信力平台。 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "118187917104194560",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "http://www.fangchan.com/datalist/",
-      "title": "中房网 - 数据研究",
-      "type": "feed",
-      "url": "rsshub://fangchan/list/datalist"
-    },
-    {
-      "description": "中房网是中国房地产业协会的官方网站，致力于政府、行业、专业三大资源的整合，以权威及时的房地产行业资讯、数据与信用信息，打造房地产政策解读、市场判研、测评研究、信用管理的权威公信力平台。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "168523701006919680",
       "image": null,
       "ownerUserId": null,
@@ -156,6 +144,18 @@
       "title": "中房网 - 行业测评",
       "type": "feed",
       "url": "rsshub://fangchan/list/industrylist"
+    },
+    {
+      "description": "中房网是中国房地产业协会的官方网站，致力于政府、行业、专业三大资源的整合，以权威及时的房地产行业资讯、数据与信用信息，打造房地产政策解读、市场判研、测评研究、信用管理的权威公信力平台。 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "118187917104194560",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "http://www.fangchan.com/datalist/",
+      "title": "中房网 - 数据研究",
+      "type": "feed",
+      "url": "rsshub://fangchan/list/datalist"
     }
   ],
   "url": "www.fangchan.com",

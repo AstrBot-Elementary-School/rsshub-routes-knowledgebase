@@ -99,6 +99,18 @@
   },
   "topFeeds": [
     {
+      "description": "香洲 - 珠海网 - Powered by RSSHub",
+      "errorAt": "2026-09-30T13:16:17.011Z",
+      "errorMessage": "503 \n",
+      "id": "114507281667054592",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.hizh.cn/",
+      "title": "香洲 - 珠海网",
+      "type": "feed",
+      "url": "rsshub://hizu/5f86a3f5e4b09d75f99dde7d"
+    },
+    {
       "description": "热点 - 珠海网 - Powered by RSSHub",
       "errorAt": "2026-09-28T09:56:31.708Z",
       "errorMessage": "503 \n",
@@ -109,18 +121,6 @@
       "title": "热点 - 珠海网",
       "type": "feed",
       "url": "rsshub://hizu"
-    },
-    {
-      "description": "香洲 - 珠海网 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "114507281667054592",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.hizh.cn/",
-      "title": "香洲 - 珠海网",
-      "type": "feed",
-      "url": "rsshub://hizu/5f86a3f5e4b09d75f99dde7d"
     }
   ],
   "url": "hizh.cn/"

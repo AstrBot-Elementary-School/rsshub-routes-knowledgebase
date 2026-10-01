@@ -57,18 +57,6 @@ _None_
       "description": "新奇／潮流／正妹／奇事 通通在這裡～ - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "73007806617184256",
-      "image": "https://news.gamme.com.tw/blogico.ico",
-      "ownerUserId": null,
-      "siteUrl": "https://news.gamme.com.tw/category/all",
-      "title": "宅宅新聞 by 卡卡洛普 » 最新",
-      "type": "feed",
-      "url": "rsshub://gamme/news/all"
-    },
-    {
-      "description": "新奇／潮流／正妹／奇事 通通在這裡～ - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "87402345385114631",
       "image": "https://news.gamme.com.tw/blogico.ico",
       "ownerUserId": null,
@@ -76,6 +64,18 @@ _None_
       "title": "宅宅新聞 by 卡卡洛普 » 最新",
       "type": "feed",
       "url": "rsshub://gamme/news"
+    },
+    {
+      "description": "新奇／潮流／正妹／奇事 通通在這裡～ - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "73007806617184256",
+      "image": "https://news.gamme.com.tw/blogico.ico",
+      "ownerUserId": null,
+      "siteUrl": "https://news.gamme.com.tw/category/all",
+      "title": "宅宅新聞 by 卡卡洛普 » 最新",
+      "type": "feed",
+      "url": "rsshub://gamme/news/all"
     }
   ]
 }

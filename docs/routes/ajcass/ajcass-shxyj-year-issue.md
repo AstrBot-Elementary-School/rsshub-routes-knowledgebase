@@ -67,18 +67,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "社会学研究 2026年第3期 - Powered by RSSHub",
-      "errorAt": "2026-07-08T05:53:03.219Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
-      "id": "83506691980410880",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://shxyj.ajcass.com/Magazine/?Year=2026&Issue=3",
-      "title": "社会学研究 2026年第3期",
-      "type": "feed",
-      "url": "rsshub://ajcass/shxyj"
-    },
-    {
       "description": "社会学研究 2024年第1期 - Powered by RSSHub",
       "errorAt": "2026-07-19T22:35:38.449Z",
       "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
@@ -89,6 +77,18 @@ _None_
       "title": "社会学研究 2024年第1期",
       "type": "feed",
       "url": "rsshub://ajcass/shxyj/2024/1"
+    },
+    {
+      "description": "社会学研究 2026年第3期 - Powered by RSSHub",
+      "errorAt": "2026-07-08T05:53:03.219Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "id": "83506691980410880",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://shxyj.ajcass.com/Magazine/?Year=2026&Issue=3",
+      "title": "社会学研究 2026年第3期",
+      "type": "feed",
+      "url": "rsshub://ajcass/shxyj"
     }
   ]
 }

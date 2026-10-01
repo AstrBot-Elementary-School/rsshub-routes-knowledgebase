@@ -114,7 +114,7 @@ Currently supported authentication methods:
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 961782,
+  "heat": 962557,
   "location": "user.ts",
   "maintainers": [
     "DIYgod",
@@ -139,18 +139,6 @@ Currently supported authentication methods:
   ],
   "topFeeds": [
     {
-      "description": "Twitter @Elon Musk - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "100411504863520768",
-      "image": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG.jpg",
-      "ownerUserId": null,
-      "siteUrl": "https://x.com/elonmusk",
-      "title": "Twitter @Elon Musk",
-      "type": "feed",
-      "url": "rsshub://twitter/user/elonmusk"
-    },
-    {
       "description": "Twitter @Donald J. Trump - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -161,6 +149,18 @@ Currently supported authentication methods:
       "title": "Twitter @Donald J. Trump",
       "type": "feed",
       "url": "rsshub://twitter/user/realDonaldTrump"
+    },
+    {
+      "description": "Twitter @Elon Musk - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "100411504863520768",
+      "image": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG.jpg",
+      "ownerUserId": null,
+      "siteUrl": "https://x.com/elonmusk",
+      "title": "Twitter @Elon Musk",
+      "type": "feed",
+      "url": "rsshub://twitter/user/elonmusk"
     }
   ],
   "view": 1

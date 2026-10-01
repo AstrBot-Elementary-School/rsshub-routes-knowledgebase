@@ -122,18 +122,6 @@
   },
   "topFeeds": [
     {
-      "description": "App 960170 News - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "149547667423973376",
-      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/960170/hero_capsule.jpg",
-      "ownerUserId": null,
-      "siteUrl": "https://steamcommunity.com/app/960170/allnews/",
-      "title": "App 960170 News",
-      "type": "feed",
-      "url": "rsshub://steam/news/960170/schinese"
-    },
-    {
       "description": "App 774171 News - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -144,6 +132,18 @@
       "title": "App 774171 News",
       "type": "feed",
       "url": "rsshub://steam/news/774171/schinese"
+    },
+    {
+      "description": "App 960170 News - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "149547667423973376",
+      "image": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/960170/hero_capsule.jpg",
+      "ownerUserId": null,
+      "siteUrl": "https://steamcommunity.com/app/960170/allnews/",
+      "title": "App 960170 News",
+      "type": "feed",
+      "url": "rsshub://steam/news/960170/schinese"
     }
   ],
   "url": "steamcommunity.com"

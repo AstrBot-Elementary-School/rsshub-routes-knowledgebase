@@ -68,18 +68,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "IT之家-24 小时最热 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "41572238273905679",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.ithome.com/",
-      "title": "IT之家-24 小时最热",
-      "type": "feed",
-      "url": "rsshub://ithome/ranking/24h"
-    },
-    {
       "description": "IT之家-7 天最热 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -90,6 +78,18 @@ _None_
       "title": "IT之家-7 天最热",
       "type": "feed",
       "url": "rsshub://ithome/ranking/7days"
+    },
+    {
+      "description": "IT之家-24 小时最热 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "41572238273905679",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.ithome.com/",
+      "title": "IT之家-24 小时最热",
+      "type": "feed",
+      "url": "rsshub://ithome/ranking/24h"
     }
   ]
 }

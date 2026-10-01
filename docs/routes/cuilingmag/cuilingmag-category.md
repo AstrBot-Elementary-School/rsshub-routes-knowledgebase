@@ -171,18 +171,6 @@
   },
   "topFeeds": [
     {
-      "description": "萃嶺网 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "72920871518882824",
-      "image": "https://www.cuilingmag.com/cuiling/icon/latest-logo.svg",
-      "ownerUserId": null,
-      "siteUrl": "https://www.cuilingmag.com/",
-      "title": "萃嶺网",
-      "type": "feed",
-      "url": "rsshub://cuilingmag"
-    },
-    {
       "description": "哲学·文明-萃嶺网 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -193,6 +181,18 @@
       "title": "哲学·文明-萃嶺网",
       "type": "feed",
       "url": "rsshub://cuilingmag/philosophy_civilization"
+    },
+    {
+      "description": "萃嶺网 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "72920871518882824",
+      "image": "https://www.cuilingmag.com/cuiling/icon/latest-logo.svg",
+      "ownerUserId": null,
+      "siteUrl": "https://www.cuilingmag.com/",
+      "title": "萃嶺网",
+      "type": "feed",
+      "url": "rsshub://cuilingmag"
     }
   ],
   "url": "cuilingmag.com"

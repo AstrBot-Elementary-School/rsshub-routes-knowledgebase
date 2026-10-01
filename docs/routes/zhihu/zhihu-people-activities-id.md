@@ -80,6 +80,18 @@ _None_
   },
   "topFeeds": [
     {
+      "description": "学校≠教育≠技能；文凭溢价=80%信号传递+20%人力资本 - Powered by RSSHub",
+      "errorAt": "2026-09-07T13:31:16.942Z",
+      "errorMessage": "zhihu: browser API request failed with HTTP 403\n",
+      "id": "42176727619514386",
+      "image": "https://pica.zhimg.com/v2-f1d7dc57926a68b812111df4bb3cef51_l.jpg?source=5a24d060&needBackground=1",
+      "ownerUserId": "75467551039318016",
+      "siteUrl": "https://www.zhihu.com/people/L.M.Sherlock/activities",
+      "title": "Thoughts Memo的知乎动态",
+      "type": "feed",
+      "url": "rsshub://zhihu/people/activities/L.M.Sherlock"
+    },
+    {
       "description": "Deep Van的逃生地牢（星球） - Powered by RSSHub",
       "errorAt": "2026-09-14T03:40:18.457Z",
       "errorMessage": "[GET] \"https://static.zhihu.com/zse-ck/v3.js\": <no response> fetch failed\nzhihu: browser API request failed with HTTP 403\n",
@@ -90,18 +102,6 @@ _None_
       "title": "Deep Van的知乎动态",
       "type": "feed",
       "url": "rsshub://zhihu/people/activities/yang-lei-96-72"
-    },
-    {
-      "description": "学校≠教育≠技能；文凭溢价=80%信号传递+20%人力资本 - Powered by RSSHub",
-      "errorAt": "2026-09-07T13:31:16.942Z",
-      "errorMessage": "Execution context was destroyed, most likely because of a navigation.\n",
-      "id": "42176727619514386",
-      "image": "https://pica.zhimg.com/v2-f1d7dc57926a68b812111df4bb3cef51_l.jpg?source=5a24d060&needBackground=1",
-      "ownerUserId": "75467551039318016",
-      "siteUrl": "https://www.zhihu.com/people/L.M.Sherlock/activities",
-      "title": "Thoughts Memo的知乎动态",
-      "type": "feed",
-      "url": "rsshub://zhihu/people/activities/L.M.Sherlock"
     }
   ],
   "view": 0

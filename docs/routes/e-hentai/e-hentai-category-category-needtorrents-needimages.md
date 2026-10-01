@@ -64,7 +64,7 @@
   "features": {
     "nsfw": true
   },
-  "heat": 8,
+  "heat": 6,
   "location": "index.tsx",
   "maintainers": [
     "nczitzk"
@@ -90,18 +90,6 @@
   },
   "topFeeds": [
     {
-      "description": "cosplay - E-Hentai Galleries - Powered by RSSHub",
-      "errorAt": "2026-09-29T13:36:01.740Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
-      "id": "106841534145317888",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://e-hentai.org/cosplay",
-      "title": "cosplay - E-Hentai Galleries",
-      "type": "feed",
-      "url": "rsshub://e-hentai/category/cosplay"
-    },
-    {
       "description": "manga - E-Hentai Galleries - Powered by RSSHub",
       "errorAt": "2026-09-22T00:35:44.453Z",
       "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
@@ -112,6 +100,18 @@
       "title": "manga - E-Hentai Galleries",
       "type": "feed",
       "url": "rsshub://e-hentai/category/manga"
+    },
+    {
+      "description": "cosplay - E-Hentai Galleries - Powered by RSSHub",
+      "errorAt": "2026-09-29T13:36:01.740Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "id": "106841534145317888",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://e-hentai.org/cosplay",
+      "title": "cosplay - E-Hentai Galleries",
+      "type": "feed",
+      "url": "rsshub://e-hentai/category/cosplay"
     }
   ]
 }

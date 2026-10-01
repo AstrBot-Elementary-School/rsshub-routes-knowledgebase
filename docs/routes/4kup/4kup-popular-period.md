@@ -77,18 +77,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "4KUP - Top views in 7 days - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "109193802480859136",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://4kup.net/hot-of-week/",
-      "title": "4KUP - Top views in 7 days",
-      "type": "feed",
-      "url": "rsshub://4kup/popular/7"
-    },
-    {
       "description": "4KUP - Top views in 30 days - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -99,6 +87,18 @@ _None_
       "title": "4KUP - Top views in 30 days",
       "type": "feed",
       "url": "rsshub://4kup/popular/30"
+    },
+    {
+      "description": "4KUP - Top views in 7 days - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "109193802480859136",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://4kup.net/hot-of-week/",
+      "title": "4KUP - Top views in 7 days",
+      "type": "feed",
+      "url": "rsshub://4kup/popular/7"
     }
   ],
   "url": "4kup.net/"

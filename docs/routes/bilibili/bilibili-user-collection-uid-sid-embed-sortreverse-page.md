@@ -73,18 +73,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "IT咖啡馆 的 bilibili 合集 - Powered by RSSHub",
-      "errorAt": "2026-09-12T13:31:11.816Z",
-      "errorMessage": "500 \n[GET] \"https://api.bilibili.com/x/polymer/web-space/seasons_archives_list?mid=65564239&season_id=1982929&sort_reverse=true&page_num=1&page_size=25\": 412 Precondition Failed\n",
-      "id": "59567779750919168",
-      "image": "https://i1.hdslb.com/bfs/face/9d5e047e428b1cb235ab0e60d6371c0808f5c121.jpg",
-      "ownerUserId": null,
-      "siteUrl": "https://space.bilibili.com/65564239/channel/collectiondetail?sid=1982929",
-      "title": "IT咖啡馆 的 bilibili 合集 合集·GitHub一周热点汇总",
-      "type": "feed",
-      "url": "rsshub://bilibili/user/collection/65564239/1982929/0/1"
-    },
-    {
       "description": "Akinokoe 的 bilibili 合集 - Powered by RSSHub",
       "errorAt": "2026-09-07T10:51:16.348Z",
       "errorMessage": "[GET] \"https://api.bilibili.com/x/polymer/web-space/seasons_archives_list?mid=103118875&season_id=1982480&sort_reverse=true&page_num=1&page_size=25\": 412 Precondition Failed\n",
@@ -95,6 +83,18 @@ _None_
       "title": "Akinokoe 的 bilibili 合集 合集·AI大模型 LLMs 资讯",
       "type": "feed",
       "url": "rsshub://bilibili/user/collection/103118875/1982480/0/1"
+    },
+    {
+      "description": "IT咖啡馆 的 bilibili 合集 - Powered by RSSHub",
+      "errorAt": "2026-09-12T13:31:11.816Z",
+      "errorMessage": "500 \n[GET] \"https://api.bilibili.com/x/polymer/web-space/seasons_archives_list?mid=65564239&season_id=1982929&sort_reverse=true&page_num=1&page_size=25\": 412 Precondition Failed\n",
+      "id": "59567779750919168",
+      "image": "https://i1.hdslb.com/bfs/face/9d5e047e428b1cb235ab0e60d6371c0808f5c121.jpg",
+      "ownerUserId": null,
+      "siteUrl": "https://space.bilibili.com/65564239/channel/collectiondetail?sid=1982929",
+      "title": "IT咖啡馆 的 bilibili 合集 合集·GitHub一周热点汇总",
+      "type": "feed",
+      "url": "rsshub://bilibili/user/collection/65564239/1982929/0/1"
     }
   ]
 }

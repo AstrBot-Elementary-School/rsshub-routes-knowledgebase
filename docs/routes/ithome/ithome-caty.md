@@ -67,6 +67,18 @@ _None_
   },
   "topFeeds": [
     {
+      "description": "IT 之家 - 数码之家 - Powered by RSSHub",
+      "errorAt": "2026-09-30T04:16:13.718Z",
+      "errorMessage": "[GET] \"https://lapin.ithome.com/html/digi/1008752.htm\": 525 <none>\n",
+      "id": "41572238273905673",
+      "image": "https://img.ithome.com/m/images/logo.png",
+      "ownerUserId": null,
+      "siteUrl": "https://digi.ithome.com/",
+      "title": "IT 之家 - 数码之家",
+      "type": "feed",
+      "url": "rsshub://ithome/digi"
+    },
+    {
       "description": "IT 之家 - IT 资讯 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -77,18 +89,6 @@ _None_
       "title": "IT 之家 - IT 资讯",
       "type": "feed",
       "url": "rsshub://ithome/it"
-    },
-    {
-      "description": "IT 之家 - 数码之家 - Powered by RSSHub",
-      "errorAt": "2026-09-27T19:01:34.510Z",
-      "errorMessage": "503 \n",
-      "id": "41572238273905673",
-      "image": "https://img.ithome.com/m/images/logo.png",
-      "ownerUserId": null,
-      "siteUrl": "https://digi.ithome.com/",
-      "title": "IT 之家 - 数码之家",
-      "type": "feed",
-      "url": "rsshub://ithome/digi"
     }
   ]
 }

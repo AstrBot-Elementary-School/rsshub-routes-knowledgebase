@@ -68,18 +68,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "跟李沐学AI 的 bilibili 频道 - Powered by RSSHub",
-      "errorAt": "2026-09-07T11:17:35.596Z",
-      "errorMessage": "[GET] \"https://api.bilibili.com/x/series/series?series_id=358497\": 412 Precondition Failed\n",
-      "id": "75758482619226112",
-      "image": "https://i0.hdslb.com/bfs/face/15afabcda93279a5ab2f736513ad112e836a9701.jpg",
-      "ownerUserId": null,
-      "siteUrl": "https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497",
-      "title": "跟李沐学AI 的 bilibili 频道 【完结】动手学深度学习 PyTorch版",
-      "type": "feed",
-      "url": "rsshub://bilibili/user/channel/1567748478/358497"
-    },
-    {
       "description": "黑马程序员 的 bilibili 频道 - Powered by RSSHub",
       "errorAt": "2026-09-08T03:23:17.224Z",
       "errorMessage": "[GET] \"https://api.bilibili.com/x/series/series?series_id=240490\": 412 Precondition Failed\n",
@@ -90,6 +78,18 @@ _None_
       "title": "黑马程序员 的 bilibili 频道 c/c++免费视频教程",
       "type": "feed",
       "url": "rsshub://bilibili/user/channel/37974444/240490"
+    },
+    {
+      "description": "跟李沐学AI 的 bilibili 频道 - Powered by RSSHub",
+      "errorAt": "2026-09-07T11:17:35.596Z",
+      "errorMessage": "[GET] \"https://api.bilibili.com/x/series/series?series_id=358497\": 412 Precondition Failed\n",
+      "id": "75758482619226112",
+      "image": "https://i0.hdslb.com/bfs/face/15afabcda93279a5ab2f736513ad112e836a9701.jpg",
+      "ownerUserId": null,
+      "siteUrl": "https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497",
+      "title": "跟李沐学AI 的 bilibili 频道 【完结】动手学深度学习 PyTorch版",
+      "type": "feed",
+      "url": "rsshub://bilibili/user/channel/1567748478/358497"
     }
   ]
 }

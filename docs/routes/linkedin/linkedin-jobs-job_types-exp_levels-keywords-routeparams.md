@@ -123,6 +123,18 @@ For example:
   "topFeeds": [
     {
       "description": "This feed gets LinkedIn job posts - Powered by RSSHub",
+      "errorAt": "2026-09-30T11:55:42.237Z",
+      "errorMessage": "[GET] \"https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=software+engineer&f_JT=&f_E=\": 429 Too Many Requests\n",
+      "id": "74290869863543808",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=software+engineer&f_JT=&f_E=",
+      "title": "LinkedIn Job Listing | Keywords: software engineer",
+      "type": "feed",
+      "url": "rsshub://linkedin/jobs/all/all/software%20engineer"
+    },
+    {
+      "description": "This feed gets LinkedIn job posts - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "72488728159150080",
@@ -132,18 +144,6 @@ For example:
       "title": "LinkedIn Job Listing",
       "type": "feed",
       "url": "rsshub://linkedin/jobs/all/all"
-    },
-    {
-      "description": "This feed gets LinkedIn job posts - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "74290869863543808",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=software+engineer&f_JT=&f_E=",
-      "title": "LinkedIn Job Listing | Keywords: software engineer",
-      "type": "feed",
-      "url": "rsshub://linkedin/jobs/all/all/software%20engineer"
     }
   ],
   "view": 5

@@ -70,18 +70,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "禁忌书屋 cool18 酷18 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "149578173744708608",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.cool18.com/bbs4/index.php",
-      "title": "禁忌书屋 cool18 酷18",
-      "type": "feed",
-      "url": "rsshub://cool18"
-    },
-    {
       "description": "性趣贴图 cool18 酷18 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -92,6 +80,18 @@ _None_
       "title": "性趣贴图 cool18 酷18",
       "type": "feed",
       "url": "rsshub://cool18/bbs"
+    },
+    {
+      "description": "禁忌书屋 cool18 酷18 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "149578173744708608",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.cool18.com/bbs4/index.php",
+      "title": "禁忌书屋 cool18 酷18",
+      "type": "feed",
+      "url": "rsshub://cool18"
     }
   ],
   "url": "cool18.com"

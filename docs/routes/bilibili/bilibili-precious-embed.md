@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 83,
+  "heat": 84,
   "location": "bilibili-recommend.ts",
   "maintainers": [
     "liuyuhe666"
@@ -65,18 +65,6 @@ _None_
   "topFeeds": [
     {
       "description": "哔哩哔哩入站必刷 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "57230569101370368",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.bilibili.com/v/popular/history",
-      "title": "哔哩哔哩入站必刷",
-      "type": "feed",
-      "url": "rsshub://bilibili/precious"
-    },
-    {
-      "description": "哔哩哔哩入站必刷 - Powered by RSSHub",
       "errorAt": "2026-09-07T10:56:05.114Z",
       "errorMessage": "[GET] \"https://api.bilibili.com/x/web-interface/popular/precious\": 412 Precondition Failed\n",
       "id": "69361213069277184",
@@ -86,6 +74,18 @@ _None_
       "title": "哔哩哔哩入站必刷",
       "type": "feed",
       "url": "rsshub://bilibili/precious/:disableEmbed"
+    },
+    {
+      "description": "哔哩哔哩入站必刷 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "57230569101370368",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.bilibili.com/v/popular/history",
+      "title": "哔哩哔哩入站必刷",
+      "type": "feed",
+      "url": "rsshub://bilibili/precious"
     }
   ]
 }

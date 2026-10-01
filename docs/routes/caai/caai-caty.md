@@ -65,18 +65,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "中国人工智能学会 - 时政要闻. - Powered by RSSHub",
-      "errorAt": "2025-06-29T15:10:35.442Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
-      "id": "67193875596210176",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "http://www.caai.cn/index.php?s=/home/article/index/id/45.html",
-      "title": "中国人工智能学会 - 时政要闻.",
-      "type": "feed",
-      "url": "rsshub://caai/45"
-    },
-    {
       "description": "中国人工智能学会 - 学科皮书系列. - Powered by RSSHub",
       "errorAt": "2025-06-29T10:41:23.066Z",
       "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
@@ -87,6 +75,18 @@ _None_
       "title": "中国人工智能学会 - 学科皮书系列.",
       "type": "feed",
       "url": "rsshub://caai/53"
+    },
+    {
+      "description": "中国人工智能学会 - 时政要闻. - Powered by RSSHub",
+      "errorAt": "2025-06-29T15:10:35.442Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "id": "67193875596210176",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "http://www.caai.cn/index.php?s=/home/article/index/id/45.html",
+      "title": "中国人工智能学会 - 时政要闻.",
+      "type": "feed",
+      "url": "rsshub://caai/45"
     }
   ]
 }

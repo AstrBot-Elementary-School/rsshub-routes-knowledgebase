@@ -83,18 +83,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "成大資訊系公告 - 全部資訊 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "71206036941230080",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.csie.ncku.edu.tw/zh-hant/news?page=1",
-      "title": "成大資訊系公告 - 全部資訊",
-      "type": "feed",
-      "url": "rsshub://ncku/csie/_all"
-    },
-    {
       "description": "成大資訊系公告 - 研究所招生 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -105,6 +93,18 @@ _None_
       "title": "成大資訊系公告 - 研究所招生",
       "type": "feed",
       "url": "rsshub://ncku/csie/masterAdmission"
+    },
+    {
+      "description": "成大資訊系公告 - 全部資訊 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "71206036941230080",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.csie.ncku.edu.tw/zh-hant/news?page=1",
+      "title": "成大資訊系公告 - 全部資訊",
+      "type": "feed",
+      "url": "rsshub://ncku/csie/_all"
     }
   ]
 }

@@ -62,18 +62,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Query: sort_by=Released_DESC&tags=1716&category1=998&category3=9&supportedlang=english&ndl=1 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "156158747312015360",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://store.steampowered.com/search/?sort_by=Released_DESC&tags=1716&category1=998&category3=9&supportedlang=english&ndl=1&ignore_preferences=1",
-      "title": "Steam search result",
-      "type": "feed",
-      "url": "rsshub://steam/search/sort_by%3DReleased_DESC%26tags%3D1716%26category1%3D998%26category3%3D9%26supportedlang%3Denglish%26ndl%3D1"
-    },
-    {
       "description": "Query: sort_by=Released_DESC&tags=492&category1=10&os=linux - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -84,6 +72,18 @@ _None_
       "title": "Steam search result",
       "type": "feed",
       "url": "rsshub://steam/search/sort_by=Released_DESC&tags=492&category1=10&os=linux"
+    },
+    {
+      "description": "Query: sort_by=Released_DESC&tags=1716&category1=998&category3=9&supportedlang=english&ndl=1 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "156158747312015360",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://store.steampowered.com/search/?sort_by=Released_DESC&tags=1716&category1=998&category3=9&supportedlang=english&ndl=1&ignore_preferences=1",
+      "title": "Steam search result",
+      "type": "feed",
+      "url": "rsshub://steam/search/sort_by%3DReleased_DESC%26tags%3D1716%26category1%3D998%26category3%3D9%26supportedlang%3Denglish%26ndl%3D1"
     }
   ]
 }

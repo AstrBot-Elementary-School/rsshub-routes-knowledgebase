@@ -76,16 +76,16 @@ _None_
       "url": "rsshub://mihoyo/bbs/user-post/75149887"
     },
     {
-      "description": "米游社 - 一卷心菜一一 的发帖 - Powered by RSSHub",
+      "description": "米游社 - 円学 的发帖 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "120386587430633472",
+      "id": "198688151528841216",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=158107848",
-      "title": "米游社 - 一卷心菜一一 的发帖",
+      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=158501436",
+      "title": "米游社 - 円学 的发帖",
       "type": "feed",
-      "url": "rsshub://mihoyo/bbs/user-post/158107848"
+      "url": "rsshub://mihoyo/bbs/user-post/158501436"
     }
   ]
 }

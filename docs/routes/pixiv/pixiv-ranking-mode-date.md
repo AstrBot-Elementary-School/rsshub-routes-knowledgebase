@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 7708,
+  "heat": 7709,
   "location": "ranking.ts",
   "maintainers": [
     "EYHN"
@@ -130,19 +130,7 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "2026年9月29日 pixiv 日排行 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "41427688948323328",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.pixiv.net/ranking.php?mode=daily",
-      "title": "pixiv 日排行",
-      "type": "feed",
-      "url": "rsshub://pixiv/ranking/day"
-    },
-    {
-      "description": "2026年9月29日 pixiv 周排行 - Powered by RSSHub",
+      "description": "2026年9月30日 pixiv 周排行 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "41147805276726317",
@@ -152,6 +140,18 @@ _None_
       "title": "pixiv 周排行",
       "type": "feed",
       "url": "rsshub://pixiv/ranking/week"
+    },
+    {
+      "description": "2026年9月30日 pixiv 日排行 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "41427688948323328",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.pixiv.net/ranking.php?mode=daily",
+      "title": "pixiv 日排行",
+      "type": "feed",
+      "url": "rsshub://pixiv/ranking/day"
     }
   ],
   "view": 2

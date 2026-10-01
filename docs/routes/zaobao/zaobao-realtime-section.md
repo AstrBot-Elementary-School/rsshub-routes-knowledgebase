@@ -40,7 +40,7 @@ _None_
   ],
   "description": "| 中国  | 新加坡    | 国际  | 财经     |\n| ----- | --------- | ----- | -------- |\n| china | singapore | world | zfinance |",
   "example": "/zaobao/realtime/china",
-  "heat": 9309,
+  "heat": 9313,
   "location": "realtime.ts",
   "maintainers": [
     "shunf4"
@@ -58,18 +58,6 @@ _None_
       "description": "新加坡、中国、亚洲和国际的即时、评论、商业、体育、生活、科技与多媒体新闻，尽在联合早报。 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "67490527781761028",
-      "image": "https://www.zaobao.com.sg/favicon.ico",
-      "ownerUserId": null,
-      "siteUrl": "https://www.zaobao.com/realtime/china",
-      "title": "《联合早报》-中港台-即时",
-      "type": "feed",
-      "url": "rsshub://zaobao/realtime"
-    },
-    {
-      "description": "新加坡、中国、亚洲和国际的即时、评论、商业、体育、生活、科技与多媒体新闻，尽在联合早报。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "41461870201364483",
       "image": "https://www.zaobao.com.sg/favicon.ico",
       "ownerUserId": null,
@@ -77,6 +65,18 @@ _None_
       "title": "《联合早报》-国际-即时",
       "type": "feed",
       "url": "rsshub://zaobao/realtime/world"
+    },
+    {
+      "description": "新加坡、中国、亚洲和国际的即时、评论、商业、体育、生活、科技与多媒体新闻，尽在联合早报。 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "67490527781761028",
+      "image": "https://www.zaobao.com.sg/favicon.ico",
+      "ownerUserId": null,
+      "siteUrl": "https://www.zaobao.com/realtime/china",
+      "title": "《联合早报》-中港台-即时",
+      "type": "feed",
+      "url": "rsshub://zaobao/realtime"
     }
   ]
 }

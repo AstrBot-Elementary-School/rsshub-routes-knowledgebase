@@ -94,18 +94,6 @@
   },
   "topFeeds": [
     {
-      "description": "早报 更新推送 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "95441108348436480",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.ifanr.com/category/ifanrnews",
-      "title": "#早报 - iFanr 爱范儿",
-      "type": "feed",
-      "url": "rsshub://ifanr/category/%E6%97%A9%E6%8A%A5"
-    },
-    {
       "description": "产品 更新推送 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -116,6 +104,18 @@
       "title": "#产品 - iFanr 爱范儿",
       "type": "feed",
       "url": "rsshub://ifanr/category/%E4%BA%A7%E5%93%81"
+    },
+    {
+      "description": "早报 更新推送 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "95441108348436480",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.ifanr.com/category/ifanrnews",
+      "title": "#早报 - iFanr 爱范儿",
+      "type": "feed",
+      "url": "rsshub://ifanr/category/%E6%97%A9%E6%8A%A5"
     }
   ]
 }

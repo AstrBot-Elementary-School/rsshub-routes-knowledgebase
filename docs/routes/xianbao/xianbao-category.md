@@ -109,18 +109,6 @@
   },
   "topFeeds": [
     {
-      "description": "线板酷-最新 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "57341806801267712",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "http://new.xianbao.fun/",
-      "title": "线板酷-最新",
-      "type": "feed",
-      "url": "rsshub://xianbao"
-    },
-    {
       "description": "线板酷-赚客吧 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -131,6 +119,18 @@
       "title": "线板酷-赚客吧",
       "type": "feed",
       "url": "rsshub://xianbao/zuankeba"
+    },
+    {
+      "description": "线板酷-最新 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "57341806801267712",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "http://new.xianbao.fun/",
+      "title": "线板酷-最新",
+      "type": "feed",
+      "url": "rsshub://xianbao"
     }
   ],
   "url": "new.xianbao.fun"

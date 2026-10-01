@@ -71,18 +71,6 @@ _None_
       "description": "每周一更新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "41701841005020160",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://m.douban.com/book/",
-      "title": "豆瓣热门图书-全部",
-      "type": "feed",
-      "url": "rsshub://douban/book/rank"
-    },
-    {
-      "description": "每周一更新 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "59787999536110592",
       "image": null,
       "ownerUserId": null,
@@ -90,6 +78,18 @@ _None_
       "title": "豆瓣热门图书-虚构类",
       "type": "feed",
       "url": "rsshub://douban/book/rank/fiction"
+    },
+    {
+      "description": "每周一更新 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "41701841005020160",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://m.douban.com/book/",
+      "title": "豆瓣热门图书-全部",
+      "type": "feed",
+      "url": "rsshub://douban/book/rank"
     }
   ]
 }

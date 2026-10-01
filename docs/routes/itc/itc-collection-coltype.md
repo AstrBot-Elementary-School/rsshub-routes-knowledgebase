@@ -57,18 +57,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "OpenGithub - Github开源项目精选 - 专栏 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "61690441120925696",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://open.itc.cn/",
-      "title": "OpenGithub - Github开源项目精选 - 专栏",
-      "type": "feed",
-      "url": "rsshub://itc/collection/1"
-    },
-    {
       "description": "OpenGithub - Github开源项目精选 - 周刊 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -79,6 +67,18 @@ _None_
       "title": "OpenGithub - Github开源项目精选 - 周刊",
       "type": "feed",
       "url": "rsshub://itc/collection/2"
+    },
+    {
+      "description": "OpenGithub - Github开源项目精选 - 专栏 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "61690441120925696",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://open.itc.cn/",
+      "title": "OpenGithub - Github开源项目精选 - 专栏",
+      "type": "feed",
+      "url": "rsshub://itc/collection/1"
     }
   ]
 }

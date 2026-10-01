@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 139,
+  "heat": 138,
   "location": "index.ts",
   "maintainers": [
     "oppliate",
@@ -76,18 +76,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Linux Hardware Reviews, Performance Benchmarks & Open-Source / Free Software News - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "41582925280941056",
-      "image": "https://www.phoronix.com/android-chrome-192x192.png",
-      "ownerUserId": null,
-      "siteUrl": "https://www.phoronix.com/",
-      "title": "Phoronix",
-      "type": "feed",
-      "url": "rsshub://phoronix"
-    },
-    {
       "description": "Phoronix is the leading technology website for Linux hardware reviews, open-source news, Linux benchmarks, open-source benchmarks, and computer hardware performance tests. - Powered by RSSHub",
       "errorAt": "2025-11-07T00:34:05.198Z",
       "errorMessage": "[GET] \"https://www.phoronix.com/reviews/Operating+Systems\": 403 Forbidden\n",
@@ -98,6 +86,18 @@ _None_
       "title": "Linux Performance, Benchmarks & Open-Source News - Phoronix",
       "type": "feed",
       "url": "rsshub://phoronix/reviews/Operating%2BSystems"
+    },
+    {
+      "description": "Linux Hardware Reviews, Performance Benchmarks & Open-Source / Free Software News - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "41582925280941056",
+      "image": "https://www.phoronix.com/android-chrome-192x192.png",
+      "ownerUserId": null,
+      "siteUrl": "https://www.phoronix.com/",
+      "title": "Phoronix",
+      "type": "feed",
+      "url": "rsshub://phoronix"
     }
   ]
 }

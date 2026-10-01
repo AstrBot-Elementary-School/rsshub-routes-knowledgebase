@@ -114,18 +114,6 @@ Game Jam
   },
   "topFeeds": [
     {
-      "description": "一周值得关注的作品 | indienova 独立游戏 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "63102103783237640",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://docs.rsshub.app/",
-      "title": "一周值得关注的作品 | indienova 独立游戏",
-      "type": "feed",
-      "url": "rsshub://indienova/column/29"
-    },
-    {
       "description": "itch一周游戏汇 | indienova 独立游戏 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -136,6 +124,18 @@ Game Jam
       "title": "itch一周游戏汇 | indienova 独立游戏",
       "type": "feed",
       "url": "rsshub://indienova/column/52"
+    },
+    {
+      "description": "一周值得关注的作品 | indienova 独立游戏 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "63102103783237640",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://docs.rsshub.app/",
+      "title": "一周值得关注的作品 | indienova 独立游戏",
+      "type": "feed",
+      "url": "rsshub://indienova/column/29"
     }
   ]
 }

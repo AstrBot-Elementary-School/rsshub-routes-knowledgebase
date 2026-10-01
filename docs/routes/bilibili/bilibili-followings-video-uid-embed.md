@@ -71,18 +71,6 @@ _None_
   "path": "/followings/video/:uid/:embed?",
   "topFeeds": [
     {
-      "description": "炎帝-采薇 关注视频动态 - Powered by RSSHub",
-      "errorAt": "2025-06-17T14:53:46.317Z",
-      "errorMessage": "[GET] \"https://api.bilibili.com/x/space/wbi/acc/info?mid=102745329&token=&platform=web&web_location=1550101&w_rid=d39b29b241260ebb28b5cff18dc72ab3&wts=1790576758\": 412 Precondition Failed\n",
-      "id": "154580129950460928",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://t.bilibili.com/?tab=8",
-      "title": "炎帝-采薇 关注视频动态",
-      "type": "feed",
-      "url": "rsshub://bilibili/followings/video/102745329"
-    },
-    {
       "description": "可知Elysia 关注视频动态 - Powered by RSSHub",
       "errorAt": "2026-03-31T11:15:13.852Z",
       "errorMessage": "缺少对应 uid 的 Bilibili 用户登录后的 Cookie 值\n",
@@ -93,6 +81,18 @@ _None_
       "title": "可知Elysia 关注视频动态",
       "type": "feed",
       "url": "rsshub://bilibili/followings/video/78031804"
+    },
+    {
+      "description": "炎帝-采薇 关注视频动态 - Powered by RSSHub",
+      "errorAt": "2025-06-17T14:53:46.317Z",
+      "errorMessage": "[GET] \"https://api.bilibili.com/x/space/wbi/acc/info?mid=102745329&token=&platform=web&web_location=1550101&w_rid=35d31d9a9969c5187dd98145553af97b&wts=1790722267\": 412 Precondition Failed\n",
+      "id": "154580129950460928",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://t.bilibili.com/?tab=8",
+      "title": "炎帝-采薇 关注视频动态",
+      "type": "feed",
+      "url": "rsshub://bilibili/followings/video/102745329"
     }
   ]
 }

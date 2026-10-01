@@ -91,18 +91,6 @@
   "topFeeds": [
     {
       "description": "New - pixivision - Powered by RSSHub",
-      "errorAt": "2026-09-29T12:52:31.973Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://www.pixivision.net/zh-tw\": 403 Forbidden\n",
-      "id": "58887079850550272",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.pixivision.net/zh-tw",
-      "title": "New - pixivision",
-      "type": "feed",
-      "url": "rsshub://pixivision/zh-tw"
-    },
-    {
-      "description": "New - pixivision - Powered by RSSHub",
       "errorAt": "2026-09-07T08:56:02.118Z",
       "errorMessage": "[GET] \"https://www.pixivision.net/zh\": 403 Forbidden\n",
       "id": "72857212239056896",
@@ -112,6 +100,18 @@
       "title": "New - pixivision",
       "type": "feed",
       "url": "rsshub://pixivision/zh"
+    },
+    {
+      "description": "New - pixivision - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "58887079850550272",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.pixivision.net/zh-tw",
+      "title": "New - pixivision",
+      "type": "feed",
+      "url": "rsshub://pixivision/zh-tw"
     }
   ],
   "view": 0

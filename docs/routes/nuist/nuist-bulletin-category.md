@@ -88,18 +88,6 @@
   },
   "topFeeds": [
     {
-      "description": "南信大信息公告栏 - 全部 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "72519156724598784",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://bulletin.nuist.edu.cn/index.htm",
-      "title": "南信大信息公告栏 - 全部",
-      "type": "feed",
-      "url": "rsshub://nuist/bulletin/791"
-    },
-    {
       "description": "南信大信息公告栏 - Powered by RSSHub",
       "errorAt": "2025-05-09T09:24:48.000Z",
       "errorMessage": "[GET] \"https://bulletin.nuist.edu.cn/791/list.htm\": <no response> fetch failed\n",
@@ -110,6 +98,18 @@
       "title": "南信大信息公告栏",
       "type": "feed",
       "url": "rsshub://nuist/bulletin/:category"
+    },
+    {
+      "description": "南信大信息公告栏 - 全部 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "72519156724598784",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://bulletin.nuist.edu.cn/index.htm",
+      "title": "南信大信息公告栏 - 全部",
+      "type": "feed",
+      "url": "rsshub://nuist/bulletin/791"
     }
   ]
 }

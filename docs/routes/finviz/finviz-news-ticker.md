@@ -68,18 +68,6 @@ _None_
       "description": "A collection of news aggregated by Finviz. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "79424087027101706",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://finviz.com/quote.ashx?t=AAPL",
-      "title": "AAPL News by Finviz",
-      "type": "feed",
-      "url": "rsshub://finviz/news/AAPL"
-    },
-    {
-      "description": "A collection of news aggregated by Finviz. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "99092999437425664",
       "image": null,
       "ownerUserId": null,
@@ -87,6 +75,18 @@ _None_
       "title": "NVDA News by Finviz",
       "type": "feed",
       "url": "rsshub://finviz/news/NVDA"
+    },
+    {
+      "description": "A collection of news aggregated by Finviz. - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "79424087027101706",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://finviz.com/quote.ashx?t=AAPL",
+      "title": "AAPL News by Finviz",
+      "type": "feed",
+      "url": "rsshub://finviz/news/AAPL"
     }
   ]
 }

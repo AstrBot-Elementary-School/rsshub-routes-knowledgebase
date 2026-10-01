@@ -67,18 +67,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "-业余无线电服务中心-活动通知-北京无线电协会 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "69199898802467840",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "http://www.bjwxdxh.org.cn/news/class/?114.html",
-      "title": "-业余无线电服务中心-活动通知-北京无线电协会",
-      "type": "feed",
-      "url": "rsshub://bjwxdxh/114"
-    },
-    {
       "description": "-公告通知-北京无线电协会 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -89,6 +77,18 @@ _None_
       "title": "-公告通知-北京无线电协会",
       "type": "feed",
       "url": "rsshub://bjwxdxh/99"
+    },
+    {
+      "description": "-业余无线电服务中心-活动通知-北京无线电协会 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "69199898802467840",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "http://www.bjwxdxh.org.cn/news/class/?114.html",
+      "title": "-业余无线电服务中心-活动通知-北京无线电协会",
+      "type": "feed",
+      "url": "rsshub://bjwxdxh/114"
     }
   ]
 }

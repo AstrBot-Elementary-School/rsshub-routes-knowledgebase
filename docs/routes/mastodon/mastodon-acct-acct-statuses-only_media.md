@@ -82,18 +82,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "与我周旋一二 (@normanzxy) - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "57284621284168704",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://alive.bar/@normanzxy",
-      "title": "与我周旋一二 (@normanzxy)",
-      "type": "feed",
-      "url": "rsshub://mastodon/acct/@normanzxy@alive.bar/statuses/true"
-    },
-    {
       "description": "<p>写代码是热爱，写到世界充满爱！</p> - Powered by RSSHub",
       "errorAt": "2026-09-09T04:21:05.173Z",
       "errorMessage": "[GET] \"https://mastodon.social/api/v1/accounts/109772491671724800/statuses?only_media=false\": 404 Not Found\n",
@@ -104,6 +92,18 @@ _None_
       "title": "DIYgod (@DIYgod)",
       "type": "feed",
       "url": "rsshub://mastodon/acct/DIYgod%40mastodon.social/statuses/false"
+    },
+    {
+      "description": "与我周旋一二 (@normanzxy) - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "57284621284168704",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://alive.bar/@normanzxy",
+      "title": "与我周旋一二 (@normanzxy)",
+      "type": "feed",
+      "url": "rsshub://mastodon/acct/@normanzxy@alive.bar/statuses/true"
     }
   ],
   "view": 1

@@ -75,8 +75,8 @@ _None_
   "topFeeds": [
     {
       "description": "Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates. - Powered by RSSHub",
-      "errorAt": "2026-09-28T19:25:56.953Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'url')\nCannot read properties of undefined (reading 'url')\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "126922928969806848",
       "image": null,
       "ownerUserId": null,

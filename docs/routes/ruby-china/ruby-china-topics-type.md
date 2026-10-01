@@ -60,18 +60,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Ruby China - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "176986240301127682",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://ruby-china.org/topics",
-      "title": "Ruby China",
-      "type": "feed",
-      "url": "rsshub://ruby-china/topics"
-    },
-    {
       "description": "Ruby China - 精华贴 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -82,6 +70,18 @@ _None_
       "title": "Ruby China - 精华贴",
       "type": "feed",
       "url": "rsshub://ruby-china/topics/excellent"
+    },
+    {
+      "description": "Ruby China - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "176986240301127682",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://ruby-china.org/topics",
+      "title": "Ruby China",
+      "type": "feed",
+      "url": "rsshub://ruby-china/topics"
     }
   ]
 }

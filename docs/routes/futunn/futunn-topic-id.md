@@ -67,18 +67,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "富途牛牛 - 专题 - - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "212426851395679232",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://news.futunn.com/news-topics/127/",
-      "title": "富途牛牛 - 专题 -",
-      "type": "feed",
-      "url": "rsshub://futunn/topic/127"
-    },
-    {
       "description": "更多AI黑科技、场景落地、商用价值，尽在这里。 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -89,6 +77,18 @@ _None_
       "title": "富途牛牛 - 专题 - 聚焦AI动向",
       "type": "feed",
       "url": "rsshub://futunn/topic/1267"
+    },
+    {
+      "description": "富途牛牛 - 专题 - - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "212426851395679232",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://news.futunn.com/news-topics/127/",
+      "title": "富途牛牛 - 专题 -",
+      "type": "feed",
+      "url": "rsshub://futunn/topic/127"
     }
   ]
 }

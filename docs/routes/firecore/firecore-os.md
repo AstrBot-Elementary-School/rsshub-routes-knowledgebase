@@ -65,18 +65,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Infuse Release Notes (ios) - Powered by RSSHub",
-      "errorAt": "2026-04-19T03:14:57.188Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
-      "id": "55457641912958985",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://firecore.com/releases",
-      "title": "Infuse Release Notes (ios)",
-      "type": "feed",
-      "url": "rsshub://firecore/ios"
-    },
-    {
       "description": "Infuse Release Notes (macos) - Powered by RSSHub",
       "errorAt": "2026-04-19T07:28:18.487Z",
       "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
@@ -87,6 +75,18 @@ _None_
       "title": "Infuse Release Notes (macos)",
       "type": "feed",
       "url": "rsshub://firecore/macos"
+    },
+    {
+      "description": "Infuse Release Notes (ios) - Powered by RSSHub",
+      "errorAt": "2026-04-19T03:14:57.188Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "id": "55457641912958985",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://firecore.com/releases",
+      "title": "Infuse Release Notes (ios)",
+      "type": "feed",
+      "url": "rsshub://firecore/ios"
     }
   ]
 }

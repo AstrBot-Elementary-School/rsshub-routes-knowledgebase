@@ -1,4 +1,4 @@
-# Instagram - User Profile / Hashtag - Private API
+# Instagram - User
 
 ## Coverage
 `index-only`
@@ -7,25 +7,29 @@
 - Namespace: `instagram`
 - Namespace Name: `Instagram`
 - Route Path: `/instagram/:category/:key`
-- Route Name: `User Profile / Hashtag - Private API`
+- Route Name: `User`
 - Example: `/instagram/user/stefaniejoosten`
 - URL: `www.instagram.com`
 - Language: `_None_`
 - Categories: `social-media`
-- Maintainers: `oppilate, DIYgod`
-- Source Location: `private-api/index.ts`
+- Maintainers: `TonyRL`
+- Source Location: `index.ts`
 - Source Module: `_None_`
 
 ## Description
-_None_
+| User Posts | Current stories | Highlighted stories | Hashtag |
+| ---------- | --------------- | ------------------- | ------- |
+| user       | stories         | highlights          | tags    |
+
+Stories, highlights and hashtags require a cookie.
 
 ## Parameters
-- `category`: {"default": "user", "description": "Feed category", "options": [{"label": "User", "value": "user"}, {"label": "Tags", "value": "tags"}]}
+- `category`: Feed category, see table below
 - `key`: Username / Hashtag name
 
 
 ## Features
-- `requireConfig`: [{"description": "", "name": "IG_PROXY", "optional": true}, {"description": "Instagram username", "name": "IG_USERNAME"}, {"description": "Instagram password, due to [Instagram Private API](https://github.com/dilame/instagram-private-api) restrictions, you have to setup your credentials on the server. 2FA is not supported.", "name": "IG_PASSWORD"}]
+- `requireConfig`: [{"description": "Instagram cookie, only `sessionid` and `ds_user_id` are required.", "name": "INSTAGRAM_COOKIE", "optional": true}]
 - `requirePuppeteer`: false
 - `antiCrawler`: true
 - `supportBT`: false
@@ -41,22 +45,15 @@ _None_
   "categories": [
     "social-media"
   ],
+  "description": "| User Posts | Current stories | Highlighted stories | Hashtag |\n| ---------- | --------------- | ------------------- | ------- |\n| user       | stories         | highlights          | tags    |\n\nStories, highlights and hashtags require a cookie.",
   "example": "/instagram/user/stefaniejoosten",
   "features": {
     "antiCrawler": true,
     "requireConfig": [
       {
-        "description": "",
-        "name": "IG_PROXY",
+        "description": "Instagram cookie, only `sessionid` and `ds_user_id` are required.",
+        "name": "INSTAGRAM_COOKIE",
         "optional": true
-      },
-      {
-        "description": "Instagram username",
-        "name": "IG_USERNAME"
-      },
-      {
-        "description": "Instagram password, due to [Instagram Private API](https://github.com/dilame/instagram-private-api) restrictions, you have to setup your credentials on the server. 2FA is not supported.",
-        "name": "IG_PASSWORD"
       }
     ],
     "requirePuppeteer": false,
@@ -65,43 +62,17 @@ _None_
     "supportScihub": false
   },
   "heat": 55,
-  "location": "private-api/index.ts",
+  "location": "index.ts",
   "maintainers": [
-    "oppilate",
-    "DIYgod"
+    "TonyRL"
   ],
-  "name": "User Profile / Hashtag - Private API",
+  "name": "User",
   "parameters": {
-    "category": {
-      "default": "user",
-      "description": "Feed category",
-      "options": [
-        {
-          "label": "User",
-          "value": "user"
-        },
-        {
-          "label": "Tags",
-          "value": "tags"
-        }
-      ]
-    },
+    "category": "Feed category, see table below",
     "key": "Username / Hashtag name"
   },
   "path": "/:category/:key",
   "topFeeds": [
-    {
-      "description": "undefined (@stefaniejoosten) - Instagram - Powered by RSSHub",
-      "errorAt": "2024-12-25T02:49:15.475Z",
-      "errorMessage": "Invalid RSSHub JSON Feed from 98292582055262208\nPOST /api/v1/accounts/login/ - 400 Bad Request; challenge_required\n",
-      "id": "70631931772977152",
-      "image": "https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/387739978_181173168359511_7722211169329121600_n.jpg?stp=dst-jpg_e0_s150x150&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=103&_nc_ohc=-J4UemQ3dPsQ7kNvgFFvACb&_nc_gid=a20d273ebe7148119c1abd93d6d45d4b&edm=AEF8tYYBAAAA&ccb=7-5&oh=00_AYBVycUmjMnx2eGiiQ4dX2PDkPrT1XFznkh369Uxv2hV9A&oe=6706D955&_nc_sid=1e20d2",
-      "ownerUserId": null,
-      "siteUrl": "https://www.instagram.com/stefaniejoosten",
-      "title": "undefined (@stefaniejoosten) - Instagram",
-      "type": "feed",
-      "url": "rsshub://instagram/user/stefaniejoosten"
-    },
     {
       "description": "undefined (@arrriiaa_w) - Instagram - Powered by RSSHub",
       "errorAt": "2025-12-11T11:45:24.669Z",
@@ -113,8 +84,19 @@ _None_
       "title": "undefined (@arrriiaa_w) - Instagram",
       "type": "feed",
       "url": "rsshub://instagram/user/arrriiaa_w"
+    },
+    {
+      "description": "undefined (@stefaniejoosten) - Instagram - Powered by RSSHub",
+      "errorAt": "2024-12-25T02:49:15.475Z",
+      "errorMessage": "Invalid RSSHub JSON Feed from 98292582055262208\nPOST /api/v1/accounts/login/ - 400 Bad Request; challenge_required\n",
+      "id": "70631931772977152",
+      "image": "https://scontent-ord5-2.cdninstagram.com/v/t51.2885-19/387739978_181173168359511_7722211169329121600_n.jpg?stp=dst-jpg_e0_s150x150&_nc_ht=scontent-ord5-2.cdninstagram.com&_nc_cat=103&_nc_ohc=-J4UemQ3dPsQ7kNvgFFvACb&_nc_gid=a20d273ebe7148119c1abd93d6d45d4b&edm=AEF8tYYBAAAA&ccb=7-5&oh=00_AYBVycUmjMnx2eGiiQ4dX2PDkPrT1XFznkh369Uxv2hV9A&oe=6706D955&_nc_sid=1e20d2",
+      "ownerUserId": null,
+      "siteUrl": "https://www.instagram.com/stefaniejoosten",
+      "title": "undefined (@stefaniejoosten) - Instagram",
+      "type": "feed",
+      "url": "rsshub://instagram/user/stefaniejoosten"
     }
-  ],
-  "view": 1
+  ]
 }
 ```

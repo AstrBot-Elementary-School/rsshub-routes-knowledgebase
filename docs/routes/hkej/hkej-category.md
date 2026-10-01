@@ -78,18 +78,6 @@
   },
   "topFeeds": [
     {
-      "description": "即時新聞 - 全部 - 信報網站 - 即時香港中國 國際金融 股市經濟新聞 - hkej.com - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "69975396806332416",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.hkej.com/instantnews",
-      "title": "即時新聞 - 全部 - 信報網站 - 即時香港中國 國際金融 股市經濟新聞 - hkej.com",
-      "type": "feed",
-      "url": "rsshub://hkej/index"
-    },
-    {
       "description": "即時新聞 - 中國財經 - 信報網站 - 即時中國經濟 國策焦點 中港融合追蹤分析 - hkej.com - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -100,6 +88,18 @@
       "title": "即時新聞 - 中國財經 - 信報網站 - 即時中國經濟 國策焦點 中港融合追蹤分析 - hkej.com",
       "type": "feed",
       "url": "rsshub://hkej/china"
+    },
+    {
+      "description": "即時新聞 - 全部 - 信報網站 - 即時香港中國 國際金融 股市經濟新聞 - hkej.com - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "69975396806332416",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.hkej.com/instantnews",
+      "title": "即時新聞 - 全部 - 信報網站 - 即時香港中國 國際金融 股市經濟新聞 - hkej.com",
+      "type": "feed",
+      "url": "rsshub://hkej/index"
     }
   ],
   "url": "hkej.com/"

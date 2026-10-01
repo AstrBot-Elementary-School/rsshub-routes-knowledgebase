@@ -148,18 +148,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "巴哈姆特-GNN新聞 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "61373650705521664",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://gnn.gamer.com.tw/",
-      "title": "巴哈姆特-GNN新聞",
-      "type": "feed",
-      "url": "rsshub://gamer/gnn"
-    },
-    {
       "description": "巴哈姆特-GNN新聞-PC - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -170,6 +158,18 @@ _None_
       "title": "巴哈姆特-GNN新聞-PC",
       "type": "feed",
       "url": "rsshub://gamer/gnn/1"
+    },
+    {
+      "description": "巴哈姆特-GNN新聞 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "61373650705521664",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://gnn.gamer.com.tw/",
+      "title": "巴哈姆特-GNN新聞",
+      "type": "feed",
+      "url": "rsshub://gamer/gnn"
     }
   ],
   "view": 0

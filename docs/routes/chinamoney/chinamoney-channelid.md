@@ -97,18 +97,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "最新 - 外汇市场公告 - 市场公告 - 中国货币网 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "60816907090906112",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.chinamoney.com.cn/chinese/scgg-whscgg/",
-      "title": "最新 - 外汇市场公告 - 市场公告 - 中国货币网",
-      "type": "feed",
-      "url": "rsshub://chinamoney"
-    },
-    {
       "description": "LPR市场公告 - 贷款市场报价利率 - 本币市场 - 中国货币网 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -119,6 +107,18 @@ _None_
       "title": "LPR市场公告 - 贷款市场报价利率 - 本币市场 - 中国货币网",
       "type": "feed",
       "url": "rsshub://chinamoney/3686"
+    },
+    {
+      "description": "最新 - 外汇市场公告 - 市场公告 - 中国货币网 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "60816907090906112",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.chinamoney.com.cn/chinese/scgg-whscgg/",
+      "title": "最新 - 外汇市场公告 - 市场公告 - 中国货币网",
+      "type": "feed",
+      "url": "rsshub://chinamoney"
     }
   ]
 }

@@ -81,18 +81,6 @@
       "description": "合肥工业大学 - 通知公告 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "84842310298817536",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://news.hfut.edu.cn/tzgg2.htm",
-      "title": "合肥工业大学 - 通知公告",
-      "type": "feed",
-      "url": "rsshub://hfut/hf/notice/tzgg"
-    },
-    {
-      "description": "合肥工业大学 - 通知公告 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "70797096799977472",
       "image": null,
       "ownerUserId": null,
@@ -100,6 +88,18 @@
       "title": "合肥工业大学 - 通知公告",
       "type": "feed",
       "url": "rsshub://hfut/hf/notice"
+    },
+    {
+      "description": "合肥工业大学 - 通知公告 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "84842310298817536",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://news.hfut.edu.cn/tzgg2.htm",
+      "title": "合肥工业大学 - 通知公告",
+      "type": "feed",
+      "url": "rsshub://hfut/hf/notice/tzgg"
     }
   ]
 }

@@ -118,18 +118,6 @@
   },
   "topFeeds": [
     {
-      "description": "Skebetter - 急上昇 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "70009188313112576",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://skebetter.com/",
-      "title": "Skebetter - 急上昇",
-      "type": "feed",
-      "url": "rsshub://skebetter/hot"
-    },
-    {
       "description": "Skebetter - 新着 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -140,6 +128,18 @@
       "title": "Skebetter - 新着",
       "type": "feed",
       "url": "rsshub://skebetter/latest"
+    },
+    {
+      "description": "Skebetter - 急上昇 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "70009188313112576",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://skebetter.com/",
+      "title": "Skebetter - 急上昇",
+      "type": "feed",
+      "url": "rsshub://skebetter/hot"
     }
   ]
 }

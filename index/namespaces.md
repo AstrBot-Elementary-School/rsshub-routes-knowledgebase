@@ -5795,7 +5795,7 @@ Use this file to select the target namespace before opening route documents.
 ## Instagram
 - Namespace: `instagram`
 - Aliases: `instagram, instagram.com, www, www.instagram.com`
-- Route Count: `2`
+- Route Count: `1`
 - Index File: `index/instagram.md`
 
 ## Instructables

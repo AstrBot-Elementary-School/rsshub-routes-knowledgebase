@@ -82,18 +82,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "米游社 - 原神 - 公告 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "65750657186191360",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.miyoushe.com/ys/home/28?type=1",
-      "title": "米游社 - 原神 - 公告",
-      "type": "feed",
-      "url": "rsshub://mihoyo/bbs/official/2/1/20"
-    },
-    {
       "description": "米游社 - 崩坏：星穹铁道 - 公告 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -104,6 +92,18 @@ _None_
       "title": "米游社 - 崩坏：星穹铁道 - 公告",
       "type": "feed",
       "url": "rsshub://mihoyo/bbs/official/6/1/20"
+    },
+    {
+      "description": "米游社 - 原神 - 公告 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "65750657186191360",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.miyoushe.com/ys/home/28?type=1",
+      "title": "米游社 - 原神 - 公告",
+      "type": "feed",
+      "url": "rsshub://mihoyo/bbs/official/2/1/20"
     }
   ]
 }

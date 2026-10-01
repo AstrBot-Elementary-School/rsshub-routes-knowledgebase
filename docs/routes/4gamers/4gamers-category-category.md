@@ -62,18 +62,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "4Gamers - 成人限定🔞 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "72578894783772672",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.4gamers.com.tw/news/category/1119/%E6%88%90%E4%BA%BA%E9%99%90%E5%AE%9A%F0%9F%94%9E",
-      "title": "4Gamers - 成人限定🔞",
-      "type": "feed",
-      "url": "rsshub://4gamers/category/1119"
-    },
-    {
       "description": "4Gamers - 深度專題 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -84,6 +72,18 @@ _None_
       "title": "4Gamers - 深度專題",
       "type": "feed",
       "url": "rsshub://4gamers/category/359"
+    },
+    {
+      "description": "4Gamers - 成人限定🔞 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "72578894783772672",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.4gamers.com.tw/news/category/1119/%E6%88%90%E4%BA%BA%E9%99%90%E5%AE%9A%F0%9F%94%9E",
+      "title": "4Gamers - 成人限定🔞",
+      "type": "feed",
+      "url": "rsshub://4gamers/category/1119"
     }
   ],
   "url": "www.4gamers.com.tw/news"

@@ -76,16 +76,16 @@ _None_
       "url": "rsshub://cara/portfolio/tonyartstudio"
     },
     {
-      "description": "Portfolio - Feng Zhu - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "63583660353457152",
-      "image": "https://cdn.cara.app/production/profiles/d5ba55be-a9af-4ce4-9b3a-0747165de742/feng_headshot_01.jpg",
+      "description": "Portfolio - K - Powered by RSSHub",
+      "errorAt": "2025-11-26T14:00:09.805Z",
+      "errorMessage": "[GET] \"https://cara.app/explore\": 403 Forbidden\n",
+      "id": "126048113294879744",
+      "image": "https://cdn.cara.app/production/profiles/9368144b-2ca1-43c9-8ff5-90a6c2e23b4b/1000011565.png",
       "ownerUserId": null,
-      "siteUrl": "https://cara.app/fengz/portfolio",
-      "title": "Portfolio - Feng Zhu",
+      "siteUrl": "https://cara.app/heikokuru1224/portfolio",
+      "title": "Portfolio - K",
       "type": "feed",
-      "url": "rsshub://cara/portfolio/fengz"
+      "url": "rsshub://cara/portfolio/heikokuru1224"
     }
   ]
 }

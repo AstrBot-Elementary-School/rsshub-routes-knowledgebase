@@ -104,21 +104,9 @@
   },
   "topFeeds": [
     {
-      "description": "最新 A漫 - 禁漫天堂 - Powered by RSSHub",
-      "errorAt": "2026-09-29T08:27:26.859Z",
-      "errorMessage": "[GET] \"https://jmcomic1.me/albums\": 403 Forbidden\n[GET] \"https://jmcomic1.me/albums\": <no response> fetch failed\n522 \n[GET] \"https://jmcomic1.me/albums\": 403 Forbidden\n",
-      "id": "149578173744708609",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://jmcomic1.me/albums",
-      "title": "最新 Comics - 禁漫天堂",
-      "type": "feed",
-      "url": "rsshub://18comic"
-    },
-    {
       "description": "最新的 A漫 - 禁漫天堂 - Powered by RSSHub",
       "errorAt": "2026-09-08T10:41:06.187Z",
-      "errorMessage": "[GET] \"https://jmcomic1.me/albums\": 403 Forbidden\n",
+      "errorMessage": "502 \n[GET] \"https://jmcomic1.me/albums\": 403 Forbidden\n",
       "id": "181646966076518400",
       "image": null,
       "ownerUserId": null,
@@ -126,6 +114,18 @@
       "title": "最新的 Comics - 禁漫天堂",
       "type": "feed",
       "url": "rsshub://18comic/all/a/mr"
+    },
+    {
+      "description": "最新的 A漫 - 禁漫天堂 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "149578173744708609",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://jmcomic1.me/albums",
+      "title": "最新的 Comics - 禁漫天堂",
+      "type": "feed",
+      "url": "rsshub://18comic"
     }
   ],
   "url": "jmcomic.group/"

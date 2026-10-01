@@ -79,18 +79,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Category: 乳首レズ - chikubi.jp - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "61928846657635328",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://chikubi.jp/category/nipple-lesbian",
-      "title": "Category: 乳首レズ - chikubi.jp",
-      "type": "feed",
-      "url": "rsshub://chikubi/category/nipple-lesbian"
-    },
-    {
       "description": "Category: 管理人オススメ - chikubi.jp - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -101,6 +89,18 @@ _None_
       "title": "Category: 管理人オススメ - chikubi.jp",
       "type": "feed",
       "url": "rsshub://chikubi/category/recommend-of-webmaster"
+    },
+    {
+      "description": "Category: 乳首レズ - chikubi.jp - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "61928846657635328",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://chikubi.jp/category/nipple-lesbian",
+      "title": "Category: 乳首レズ - chikubi.jp",
+      "type": "feed",
+      "url": "rsshub://chikubi/category/nipple-lesbian"
     }
   ]
 }

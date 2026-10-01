@@ -72,8 +72,8 @@ _None_
   "topFeeds": [
     {
       "description": "工业和信息化部 - 意见征集 - Powered by RSSHub",
-      "errorAt": "2026-09-29T12:26:00.536Z",
-      "errorMessage": "[GET] \"https://www.miit.gov.cn/gzcy/yjzj/index.html\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "180157875378420750",
       "image": null,
       "ownerUserId": null,

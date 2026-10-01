@@ -64,18 +64,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "bilibili 专栏文集 - Galgame - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "61348871765397504",
-      "image": "http://i0.hdslb.com/bfs/article/d1b4ff3871674fb8c7cca0e7e7c13061c0067488.png",
-      "ownerUserId": null,
-      "siteUrl": "https://www.bilibili.com/read/readlist/rl25611",
-      "title": "bilibili 专栏文集 - Galgame",
-      "type": "feed",
-      "url": "rsshub://bilibili/readlist/25611"
-    },
-    {
       "description": "新番导视 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -86,6 +74,18 @@ _None_
       "title": "bilibili 专栏文集 - 【新番导视】",
       "type": "feed",
       "url": "rsshub://bilibili/readlist/153371"
+    },
+    {
+      "description": "bilibili 专栏文集 - Galgame - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "61348871765397504",
+      "image": "http://i0.hdslb.com/bfs/article/d1b4ff3871674fb8c7cca0e7e7c13061c0067488.png",
+      "ownerUserId": null,
+      "siteUrl": "https://www.bilibili.com/read/readlist/rl25611",
+      "title": "bilibili 专栏文集 - Galgame",
+      "type": "feed",
+      "url": "rsshub://bilibili/readlist/25611"
     }
   ],
   "view": 0

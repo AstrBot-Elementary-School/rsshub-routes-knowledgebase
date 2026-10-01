@@ -58,18 +58,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "爱思想 - 一天文章点击排行 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "72974175979885568",
-      "image": "https://oss.aisixiang.com/images/logo_toplist.jpg",
-      "ownerUserId": null,
-      "siteUrl": "https://www.aisixiang.com/toplist?id=1&period=1",
-      "title": "爱思想 - 一天文章点击排行",
-      "type": "feed",
-      "url": "rsshub://aisixiang/toplist"
-    },
-    {
       "description": "爱思想 - 一周文章点击排行 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -80,6 +68,18 @@ _None_
       "title": "爱思想 - 一周文章点击排行",
       "type": "feed",
       "url": "rsshub://aisixiang/toplist/1/7"
+    },
+    {
+      "description": "爱思想 - 一天文章点击排行 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "72974175979885568",
+      "image": "https://oss.aisixiang.com/images/logo_toplist.jpg",
+      "ownerUserId": null,
+      "siteUrl": "https://www.aisixiang.com/toplist?id=1&period=1",
+      "title": "爱思想 - 一天文章点击排行",
+      "type": "feed",
+      "url": "rsshub://aisixiang/toplist"
     }
   ]
 }

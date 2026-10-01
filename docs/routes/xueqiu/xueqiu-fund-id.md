@@ -65,6 +65,18 @@ _None_
   },
   "topFeeds": [
     {
+      "description": "基金代码 017093 <br> 今日净值(2026-09-29) ¥2.9280 <br> 日涨跌 0.0171% - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "64899487882088448",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://danjuanapp.com/funding/017093",
+      "title": "景顺长城纳斯达克科技指数（QDII）C人民币",
+      "type": "feed",
+      "url": "rsshub://xueqiu/fund/017093"
+    },
+    {
       "description": "基金代码 019305 <br> 今日净值(2026-09-28) ¥1.6833 <br> 日跌跌 -0.3729% - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -75,18 +87,6 @@ _None_
       "title": "摩根标普500指数(QDII)人民币C",
       "type": "feed",
       "url": "rsshub://xueqiu/fund/019305"
-    },
-    {
-      "description": "基金代码 017093 <br> 今日净值(2026-09-28) ¥2.9275 <br> 日跌跌 -0.7829% - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "64899487882088448",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://danjuanapp.com/funding/017093",
-      "title": "景顺长城纳斯达克科技指数（QDII）C人民币",
-      "type": "feed",
-      "url": "rsshub://xueqiu/fund/017093"
     }
   ]
 }

@@ -78,18 +78,6 @@
   },
   "topFeeds": [
     {
-      "description": "今日推荐 - 游民星空 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "57683409701121024",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.gamersky.com/news",
-      "title": "今日推荐 - 游民星空",
-      "type": "feed",
-      "url": "rsshub://gamersky/news/today"
-    },
-    {
       "description": "单机电玩 - 游民星空 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -100,6 +88,18 @@
       "title": "单机电玩 - 游民星空",
       "type": "feed",
       "url": "rsshub://gamersky/news"
+    },
+    {
+      "description": "今日推荐 - 游民星空 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "57683409701121024",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.gamersky.com/news",
+      "title": "今日推荐 - 游民星空",
+      "type": "feed",
+      "url": "rsshub://gamersky/news/today"
     }
   ]
 }

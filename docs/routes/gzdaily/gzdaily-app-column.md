@@ -62,7 +62,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1,
+  "heat": 2,
   "location": "app.tsx",
   "maintainers": [
     "TimWu007"
@@ -80,7 +80,7 @@ _None_
     {
       "description": null,
       "errorAt": "2025-10-12T16:28:11.870Z",
-      "errorMessage": "[GET] \"https://app.gzdaily.cn/app_if/getArticles?columnId=74&page=1\": 405 Not Allowed\n",
+      "errorMessage": "[GET] \"https://app.gzdaily.cn/app_if/getArticles?columnId=74&page=1\": 405 Method Not Allowed\n",
       "id": "200235547707998211",
       "image": null,
       "ownerUserId": null,

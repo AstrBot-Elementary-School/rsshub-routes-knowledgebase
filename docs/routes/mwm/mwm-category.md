@@ -79,18 +79,6 @@
   },
   "topFeeds": [
     {
-      "description": "管理世界杂志社-本期要目 - Powered by RSSHub",
-      "errorAt": "2025-12-24T23:47:57.228Z",
-      "errorMessage": "[GET] \"http://www.mwm.net.cn/web/bqym?pagesize=100\": <no response> fetch failed (Connect Timeout Error (attempted address: www.mwm.net.cn:80, timeout: 10000ms))\n[GET] \"http://www.mwm.net.cn/web/bqym?pagesize=100\": 522 <none>\n",
-      "id": "136403935744074752",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "http://www.mwm.net.cn/web/bqym?pagesize=100",
-      "title": "管理世界杂志社-本期要目",
-      "type": "feed",
-      "url": "rsshub://mwm/bqym"
-    },
-    {
       "description": "管理世界杂志社-网络首发 - Powered by RSSHub",
       "errorAt": "2026-01-06T14:24:58.913Z",
       "errorMessage": "[GET] \"http://www.mwm.net.cn/web/wlsf\": <no response> fetch failed (Connect Timeout Error (attempted address: www.mwm.net.cn:80, timeout: 10000ms))\n",
@@ -101,6 +89,18 @@
       "title": "管理世界杂志社-网络首发",
       "type": "feed",
       "url": "rsshub://mwm/wlsf"
+    },
+    {
+      "description": "管理世界杂志社-本期要目 - Powered by RSSHub",
+      "errorAt": "2025-12-24T23:47:57.228Z",
+      "errorMessage": "[GET] \"http://www.mwm.net.cn/web/bqym?pagesize=100\": <no response> fetch failed (Connect Timeout Error (attempted address: www.mwm.net.cn:80, timeout: 10000ms))\n[GET] \"http://www.mwm.net.cn/web/bqym?pagesize=100\": 522 <none>\n",
+      "id": "136403935744074752",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "http://www.mwm.net.cn/web/bqym?pagesize=100",
+      "title": "管理世界杂志社-本期要目",
+      "type": "feed",
+      "url": "rsshub://mwm/bqym"
     }
   ]
 }

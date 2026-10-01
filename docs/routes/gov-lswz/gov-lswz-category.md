@@ -436,18 +436,6 @@
   },
   "topFeeds": [
     {
-      "description": "新闻发布 - Powered by RSSHub",
-      "errorAt": "2026-09-21T13:11:03.735Z",
-      "errorMessage": "[GET] \"https://www.lswz.gov.cn/html/xinwen/index.shtml\": 530 \n",
-      "id": "67547296955634688",
-      "image": "https://www.lswz.gov.cn/html/xhtml/images/logo-index.png",
-      "ownerUserId": null,
-      "siteUrl": "https://www.lswz.gov.cn/html/xinwen/index.shtml",
-      "title": "新闻发布-国家粮食和物资储备局",
-      "type": "feed",
-      "url": "rsshub://gov/lswz"
-    },
-    {
       "description": "市场监测 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -458,6 +446,18 @@
       "title": "市场监测-国家粮食和物资储备局",
       "type": "feed",
       "url": "rsshub://gov/lswz/html/zmhd/lysj/lsjg-scjc"
+    },
+    {
+      "description": "新闻发布 - Powered by RSSHub",
+      "errorAt": "2026-09-21T13:11:03.735Z",
+      "errorMessage": "[GET] \"https://www.lswz.gov.cn/html/xinwen/index.shtml\": 530 \n",
+      "id": "67547296955634688",
+      "image": "https://www.lswz.gov.cn/html/xhtml/images/logo-index.png",
+      "ownerUserId": null,
+      "siteUrl": "https://www.lswz.gov.cn/html/xinwen/index.shtml",
+      "title": "新闻发布-国家粮食和物资储备局",
+      "type": "feed",
+      "url": "rsshub://gov/lswz"
     }
   ],
   "url": "lswz.gov.cn"

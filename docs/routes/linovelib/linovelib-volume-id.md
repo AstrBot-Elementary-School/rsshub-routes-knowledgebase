@@ -60,18 +60,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "魔法禁书目录 - 哔哩轻小说 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "126699050007148544",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.linovelib.com/novel/824/catalog",
-      "title": "魔法禁书目录 - 哔哩轻小说",
-      "type": "feed",
-      "url": "rsshub://linovelib/volume/824"
-    },
-    {
       "description": "Re:从零开始的异世界生活 - 哔哩轻小说 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -82,6 +70,18 @@ _None_
       "title": "Re:从零开始的异世界生活 - 哔哩轻小说",
       "type": "feed",
       "url": "rsshub://linovelib/volume/2139"
+    },
+    {
+      "description": "魔法禁书目录 - 哔哩轻小说 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "126699050007148544",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.linovelib.com/novel/824/catalog",
+      "title": "魔法禁书目录 - 哔哩轻小说",
+      "type": "feed",
+      "url": "rsshub://linovelib/volume/824"
     }
   ]
 }

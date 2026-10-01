@@ -54,7 +54,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 35,
+  "heat": 34,
   "location": "index.tsx",
   "maintainers": [
     "hualiong"
@@ -70,18 +70,6 @@ _None_
   "topFeeds": [
     {
       "description": "MC百科首页|我的世界MOD百科，提供Minecraft(我的世界)MOD(模组)物品资料介绍教程攻略和MOD下载。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "56355911890850816",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.mcmod.cn/",
-      "title": "MC百科最新收录的的MOD - MC百科",
-      "type": "feed",
-      "url": "rsshub://mcmod/new"
-    },
-    {
-      "description": "MC百科首页|我的世界MOD百科，提供Minecraft(我的世界)MOD(模组)物品资料介绍教程攻略和MOD下载。 - Powered by RSSHub",
       "errorAt": "2026-09-07T14:11:45.746Z",
       "errorMessage": "[GET] \"https://www.mcmod.cn\": 403 Forbidden\n",
       "id": "132060968710740992",
@@ -91,6 +79,18 @@ _None_
       "title": "最近被编辑的MOD - MC百科",
       "type": "feed",
       "url": "rsshub://mcmod/edit"
+    },
+    {
+      "description": "MC百科首页|我的世界MOD百科，提供Minecraft(我的世界)MOD(模组)物品资料介绍教程攻略和MOD下载。 - Powered by RSSHub",
+      "errorAt": "2026-09-30T12:30:59.367Z",
+      "errorMessage": "[GET] \"https://www.mcmod.cn\": 403 Forbidden\n[GET] \"https://www.mcmod.cn\": 403 Forbidden\n",
+      "id": "56355911890850816",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.mcmod.cn/",
+      "title": "MC百科最新收录的的MOD - MC百科",
+      "type": "feed",
+      "url": "rsshub://mcmod/new"
     }
   ]
 }

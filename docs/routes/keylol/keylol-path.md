@@ -84,18 +84,6 @@
   },
   "topFeeds": [
     {
-      "description": "热点聚焦 ,其乐 Keylol - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "58758095877738496",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://keylol.com/forum.php?fid=161&filter=author&mod=forumdisplay&orderby=dateline",
-      "title": "热点聚焦 - 其乐 Keylol",
-      "type": "feed",
-      "url": "rsshub://keylol/f161-1"
-    },
-    {
       "description": "购物心得 ,其乐 Keylol - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -106,6 +94,18 @@
       "title": "临时工 - 购物心得 - 其乐 Keylol",
       "type": "feed",
       "url": "rsshub://keylol/fid=234&typeid=786"
+    },
+    {
+      "description": "热点聚焦 ,其乐 Keylol - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "58758095877738496",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://keylol.com/forum.php?fid=161&filter=author&mod=forumdisplay&orderby=dateline",
+      "title": "热点聚焦 - 其乐 Keylol",
+      "type": "feed",
+      "url": "rsshub://keylol/f161-1"
     }
   ]
 }

@@ -64,18 +64,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "逛丢 - 今日必买 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "141468238742304768",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://guangdiu.com/search.php?q=%E4%BB%8A%E6%97%A5%E5%BF%85%E4%B9%B0",
-      "title": "逛丢 - 今日必买",
-      "type": "feed",
-      "url": "rsshub://guangdiu/search/q=%E4%BB%8A%E6%97%A5%E5%BF%85%E4%B9%B0"
-    },
-    {
       "description": "逛丢 - 6750gre - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -86,6 +74,18 @@ _None_
       "title": "逛丢 - 6750gre",
       "type": "feed",
       "url": "rsshub://guangdiu/search/q=6750gre"
+    },
+    {
+      "description": "逛丢 - 今日必买 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "141468238742304768",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://guangdiu.com/search.php?q=%E4%BB%8A%E6%97%A5%E5%BF%85%E4%B9%B0",
+      "title": "逛丢 - 今日必买",
+      "type": "feed",
+      "url": "rsshub://guangdiu/search/q=%E4%BB%8A%E6%97%A5%E5%BF%85%E4%B9%B0"
     }
   ]
 }

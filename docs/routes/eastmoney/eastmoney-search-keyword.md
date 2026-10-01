@@ -64,18 +64,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "东方财富网 - 搜索'期货' - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "73528214634595328",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://so.eastmoney.com/News/s?KeyWord=%E6%9C%9F%E8%B4%A7",
-      "title": "东方财富网 - 搜索'期货'",
-      "type": "feed",
-      "url": "rsshub://eastmoney/search/%E6%9C%9F%E8%B4%A7"
-    },
-    {
       "description": "东方财富网 - 搜索'web3' - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -86,6 +74,18 @@ _None_
       "title": "东方财富网 - 搜索'web3'",
       "type": "feed",
       "url": "rsshub://eastmoney/search/web3"
+    },
+    {
+      "description": "东方财富网 - 搜索'期货' - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "73528214634595328",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://so.eastmoney.com/News/s?KeyWord=%E6%9C%9F%E8%B4%A7",
+      "title": "东方财富网 - 搜索'期货'",
+      "type": "feed",
+      "url": "rsshub://eastmoney/search/%E6%9C%9F%E8%B4%A7"
     }
   ],
   "view": 0

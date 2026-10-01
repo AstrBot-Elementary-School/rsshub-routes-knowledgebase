@@ -73,18 +73,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Bangumi - Bangumi半月刊 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "87726938189788160",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://bgm.tv/group/biweekly/forum",
-      "title": "Bangumi - Bangumi半月刊",
-      "type": "feed",
-      "url": "rsshub://bangumi.tv/group/biweekly"
-    },
-    {
       "description": "Bangumi - 靠谱人生茶话会 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -95,6 +83,18 @@ _None_
       "title": "Bangumi - 靠谱人生茶话会",
       "type": "feed",
       "url": "rsshub://bangumi.tv/group/boring"
+    },
+    {
+      "description": "Bangumi - Bangumi半月刊 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "87726938189788160",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://bgm.tv/group/biweekly/forum",
+      "title": "Bangumi - Bangumi半月刊",
+      "type": "feed",
+      "url": "rsshub://bangumi.tv/group/biweekly"
     }
   ]
 }

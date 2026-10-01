@@ -70,18 +70,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Steam Curator 34646096-80-Days Reviews - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "99268471009976320",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://store.steampowered.com/curator/34646096-80-Days/ajaxgetfilteredrecommendations/?query&start=0&count=10&dynamic_data=&sort=recent&app_types=&reset=false&curations=&tagids=",
-      "title": "Steam Curator 34646096-80-Days Reviews",
-      "type": "feed",
-      "url": "rsshub://steam/curator/34646096-80-Days"
-    },
-    {
       "description": "Steam Curator 32686107-Ѕtеам-250 Reviews - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -92,6 +80,18 @@ _None_
       "title": "Steam Curator 32686107-Ѕtеам-250 Reviews",
       "type": "feed",
       "url": "rsshub://steam/curator/32686107-%D0%85t%D0%B5%D0%B0%D0%BC-250"
+    },
+    {
+      "description": "Steam Curator 34646096-80-Days Reviews - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "99268471009976320",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://store.steampowered.com/curator/34646096-80-Days/ajaxgetfilteredrecommendations/?query&start=0&count=10&dynamic_data=&sort=recent&app_types=&reset=false&curations=&tagids=",
+      "title": "Steam Curator 34646096-80-Days Reviews",
+      "type": "feed",
+      "url": "rsshub://steam/curator/34646096-80-Days"
     }
   ]
 }

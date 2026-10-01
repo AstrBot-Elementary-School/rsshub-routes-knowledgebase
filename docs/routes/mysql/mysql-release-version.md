@@ -69,18 +69,6 @@ _None_
       "description": "MySQL :: MySQL 8.0 Release Notes - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "62150011386109952",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://dev.mysql.com/doc/relnotes/mysql/8.0/en/",
-      "title": "MySQL :: MySQL 8.0 Release Notes",
-      "type": "feed",
-      "url": "rsshub://mysql/release"
-    },
-    {
-      "description": "MySQL :: MySQL 8.0 Release Notes - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "68567265391075328",
       "image": null,
       "ownerUserId": null,
@@ -88,6 +76,18 @@ _None_
       "title": "MySQL :: MySQL 8.0 Release Notes",
       "type": "feed",
       "url": "rsshub://mysql/release/8.0"
+    },
+    {
+      "description": "MySQL :: MySQL 8.0 Release Notes - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "62150011386109952",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://dev.mysql.com/doc/relnotes/mysql/8.0/en/",
+      "title": "MySQL :: MySQL 8.0 Release Notes",
+      "type": "feed",
+      "url": "rsshub://mysql/release"
     }
   ]
 }

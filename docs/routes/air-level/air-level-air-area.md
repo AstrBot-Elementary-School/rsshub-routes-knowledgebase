@@ -66,18 +66,6 @@ _None_
       "description": "订阅每个城市的天气质量 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "81563872281993216",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://m.air-level.com/air/shanghai",
-      "title": "RSSHub",
-      "type": "feed",
-      "url": "rsshub://air-level/air/shanghai"
-    },
-    {
-      "description": "订阅每个城市的天气质量 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "146122544518077440",
       "image": null,
       "ownerUserId": null,
@@ -85,6 +73,18 @@ _None_
       "title": "RSSHub",
       "type": "feed",
       "url": "rsshub://air-level/air/suzhou"
+    },
+    {
+      "description": "订阅每个城市的天气质量 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "81563872281993216",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://m.air-level.com/air/shanghai",
+      "title": "RSSHub",
+      "type": "feed",
+      "url": "rsshub://air-level/air/shanghai"
     }
   ]
 }

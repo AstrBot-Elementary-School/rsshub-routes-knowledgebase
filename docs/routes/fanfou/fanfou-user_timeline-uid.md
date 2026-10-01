@@ -68,18 +68,6 @@ _None_
   "path": "/user_timeline/:uid",
   "topFeeds": [
     {
-      "description": "饭友经典语录的饭否 - Powered by RSSHub",
-      "errorAt": "2026-09-07T16:56:10.190Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'constructor')\n",
-      "id": "1099515408919953413",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://fanfou.com/fyjdyl",
-      "title": "饭友经典语录的饭否",
-      "type": "feed",
-      "url": "rsshub://fanfou/user_timeline/fyjdyl"
-    },
-    {
       "description": "李总好的饭否 - Powered by RSSHub",
       "errorAt": "2026-09-07T12:41:00.313Z",
       "errorMessage": "Cannot read properties of undefined (reading 'constructor')\n",
@@ -90,6 +78,18 @@ _None_
       "title": "李总好的饭否",
       "type": "feed",
       "url": "rsshub://fanfou/user_timeline/%E6%9D%8E%E6%80%BB%E5%A5%BD"
+    },
+    {
+      "description": "饭友经典语录的饭否 - Powered by RSSHub",
+      "errorAt": "2026-09-07T16:56:10.190Z",
+      "errorMessage": "Cannot read properties of undefined (reading 'constructor')\n",
+      "id": "1099515408919953413",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://fanfou.com/fyjdyl",
+      "title": "饭友经典语录的饭否",
+      "type": "feed",
+      "url": "rsshub://fanfou/user_timeline/fyjdyl"
     }
   ]
 }

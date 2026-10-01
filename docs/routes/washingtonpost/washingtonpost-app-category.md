@@ -76,6 +76,18 @@ For example, the category for <https://www.washingtonpost.com/national/investiga
   },
   "topFeeds": [
     {
+      "description": "The Washington Post - Breaking news and latest headlines, U.S. news, world news, and video - Powered by RSSHub",
+      "errorAt": "2026-09-30T14:11:15.946Z",
+      "errorMessage": "[GET] \"https://jsonapp1.washingtonpost.com/fusion_prod/v2/\": <no response> fetch failed\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "id": "74046907703950336",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://washingtonpost.com/",
+      "title": "The Washington Post - Breaking news and latest headlines, U.S. news, world news, and video",
+      "type": "feed",
+      "url": "rsshub://washingtonpost/app"
+    },
+    {
       "description": "The Washington Post - World - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -86,18 +98,6 @@ For example, the category for <https://www.washingtonpost.com/national/investiga
       "title": "The Washington Post - World",
       "type": "feed",
       "url": "rsshub://washingtonpost/app/world"
-    },
-    {
-      "description": "The Washington Post - Breaking news and latest headlines, U.S. news, world news, and video - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "74046907703950336",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://washingtonpost.com/",
-      "title": "The Washington Post - Breaking news and latest headlines, U.S. news, world news, and video",
-      "type": "feed",
-      "url": "rsshub://washingtonpost/app"
     }
   ]
 }

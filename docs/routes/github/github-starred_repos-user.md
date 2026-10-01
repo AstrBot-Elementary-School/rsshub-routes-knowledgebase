@@ -69,18 +69,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "rcy1314's starred repositories - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "54834858065047665",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://github.com/rcy1314?tab=stars",
-      "title": "rcy1314's starred repositories",
-      "type": "feed",
-      "url": "rsshub://github/starred_repos/rcy1314"
-    },
-    {
       "description": "antfu's starred repositories - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -91,6 +79,18 @@ _None_
       "title": "antfu's starred repositories",
       "type": "feed",
       "url": "rsshub://github/starred_repos/antfu"
+    },
+    {
+      "description": "rcy1314's starred repositories - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "54834858065047665",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://github.com/rcy1314?tab=stars",
+      "title": "rcy1314's starred repositories",
+      "type": "feed",
+      "url": "rsshub://github/starred_repos/rcy1314"
     }
   ]
 }

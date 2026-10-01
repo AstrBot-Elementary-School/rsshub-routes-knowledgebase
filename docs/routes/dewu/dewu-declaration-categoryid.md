@@ -73,18 +73,6 @@ _None_
       "description": "得物开放平台 - 技术变更 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "150079049005962240",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://open.dewu.com/#/declaration/read",
-      "title": "得物开放平台 - 技术变更",
-      "type": "feed",
-      "url": "rsshub://dewu/declaration"
-    },
-    {
-      "description": "得物开放平台 - 技术变更 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "86429355643508736",
       "image": null,
       "ownerUserId": null,
@@ -92,6 +80,18 @@ _None_
       "title": "得物开放平台 - 技术变更",
       "type": "feed",
       "url": "rsshub://dewu/declaration/1010580020"
+    },
+    {
+      "description": "得物开放平台 - 技术变更 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "150079049005962240",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://open.dewu.com/#/declaration/read",
+      "title": "得物开放平台 - 技术变更",
+      "type": "feed",
+      "url": "rsshub://dewu/declaration"
     }
   ]
 }

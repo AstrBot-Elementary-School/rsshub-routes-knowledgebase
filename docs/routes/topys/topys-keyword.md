@@ -77,18 +77,6 @@
   },
   "topFeeds": [
     {
-      "description": "TOPYS - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "55870828931624960",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.topys.cn/pick",
-      "title": "TOPYS",
-      "type": "feed",
-      "url": "rsshub://topys"
-    },
-    {
       "description": "设计 - TOPYS - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -99,6 +87,18 @@
       "title": "设计 - TOPYS",
       "type": "feed",
       "url": "rsshub://topys/%E8%AE%BE%E8%AE%A1"
+    },
+    {
+      "description": "TOPYS - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "55870828931624960",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.topys.cn/pick",
+      "title": "TOPYS",
+      "type": "feed",
+      "url": "rsshub://topys"
     }
   ]
 }
