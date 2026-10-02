@@ -81,18 +81,6 @@ More categories (except photo) can be found within the navigation bar at <https:
   },
   "topFeeds": [
     {
-      "description": "The Atlantic - TECHNOLOGY - Powered by RSSHub",
-      "errorAt": "2026-09-22T20:46:05.326Z",
-      "errorMessage": "[GET] \"https://www.theatlantic.com/technology/\": 403 Forbidden\n",
-      "id": "62408054287669248",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.theatlantic.com/technology/",
-      "title": "The Atlantic - TECHNOLOGY",
-      "type": "feed",
-      "url": "rsshub://theatlantic/technology"
-    },
-    {
       "description": "The Atlantic - LATEST - Powered by RSSHub",
       "errorAt": "2026-09-20T22:33:52.921Z",
       "errorMessage": "[GET] \"https://www.theatlantic.com/latest/\": <no response> fetch failed\n[GET] \"https://www.theatlantic.com/latest/\": 403 \n[GET] \"https://www.theatlantic.com/latest/\": 403 Forbidden\n[GET] \"https://www.theatlantic.com/latest/\": 403 Forbidden\n",
@@ -103,6 +91,18 @@ More categories (except photo) can be found within the navigation bar at <https:
       "title": "The Atlantic - LATEST",
       "type": "feed",
       "url": "rsshub://theatlantic/latest"
+    },
+    {
+      "description": "The Atlantic - TECHNOLOGY - Powered by RSSHub",
+      "errorAt": "2026-09-22T20:46:05.326Z",
+      "errorMessage": "[GET] \"https://www.theatlantic.com/technology/\": 403 Forbidden\n",
+      "id": "62408054287669248",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.theatlantic.com/technology/",
+      "title": "The Atlantic - TECHNOLOGY",
+      "type": "feed",
+      "url": "rsshub://theatlantic/technology"
     }
   ]
 }

@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "深度報導 ｜ 公視新聞網 PNN - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-01T13:20:57.956Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "133788689281561644",
       "image": null,
       "ownerUserId": null,

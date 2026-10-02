@@ -72,18 +72,6 @@ _None_
       "description": "时刻新闻 全部 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "66093054954065924",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.timednews.com/topic/cat/1.html",
-      "title": "时刻新闻",
-      "type": "feed",
-      "url": "rsshub://timednews/news"
-    },
-    {
-      "description": "时刻新闻 全部 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "70038083495587840",
       "image": null,
       "ownerUserId": null,
@@ -91,6 +79,18 @@ _None_
       "title": "时刻新闻",
       "type": "feed",
       "url": "rsshub://timednews/news/all"
+    },
+    {
+      "description": "时刻新闻 全部 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "66093054954065924",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.timednews.com/topic/cat/1.html",
+      "title": "时刻新闻",
+      "type": "feed",
+      "url": "rsshub://timednews/news"
     }
   ]
 }

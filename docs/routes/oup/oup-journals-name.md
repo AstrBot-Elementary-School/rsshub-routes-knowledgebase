@@ -76,18 +76,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "OUP - qje - Powered by RSSHub",
-      "errorAt": "2025-07-18T11:52:23.943Z",
-      "errorMessage": "[GET] \"https://academic.oup.com/qje/issue\": 403 Forbidden\n",
-      "id": "73541899125060608",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://academic.oup.com/qje/issue",
-      "title": "OUP - qje",
-      "type": "feed",
-      "url": "rsshub://oup/journals/qje"
-    },
-    {
       "description": "OUP - adaptation - Powered by RSSHub",
       "errorAt": "2025-07-18T10:38:49.798Z",
       "errorMessage": "[GET] \"https://academic.oup.com/adaptation/issue\": 403 Forbidden\n",
@@ -98,6 +86,18 @@ _None_
       "title": "OUP - adaptation",
       "type": "feed",
       "url": "rsshub://oup/journals/adaptation"
+    },
+    {
+      "description": "OUP - qje - Powered by RSSHub",
+      "errorAt": "2025-07-18T11:52:23.943Z",
+      "errorMessage": "[GET] \"https://academic.oup.com/qje/issue\": 403 Forbidden\n",
+      "id": "73541899125060608",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://academic.oup.com/qje/issue",
+      "title": "OUP - qje",
+      "type": "feed",
+      "url": "rsshub://oup/journals/qje"
     }
   ],
   "url": "academic.oup.com/"

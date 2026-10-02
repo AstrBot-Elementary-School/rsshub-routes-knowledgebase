@@ -63,7 +63,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 198,
+  "heat": 189,
   "location": "vsearch.ts",
   "maintainers": [
     "pcrtool",
@@ -82,18 +82,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Result from 思源笔记 bilibili search, ordered by pubdate. - Powered by RSSHub",
-      "errorAt": "2026-09-07T11:36:04.092Z",
-      "errorMessage": "[GET] \"https://api.bilibili.com/x/web-interface/search/type?search_type=video&highlight=1&keyword=%E6%80%9D%E6%BA%90%E7%AC%94%E8%AE%B0&order=pubdate&tids=0\": 412 Precondition Failed\n",
-      "id": "66120396417817600",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://search.bilibili.com/all?keyword=%E6%80%9D%E6%BA%90%E7%AC%94%E8%AE%B0&order=pubdate",
-      "title": "思源笔记 - bilibili",
-      "type": "feed",
-      "url": "rsshub://bilibili/vsearch/%E6%80%9D%E6%BA%90%E7%AC%94%E8%AE%B0"
-    },
-    {
       "description": "Result from 沙雕动画 bilibili search, ordered by totalrank. - Powered by RSSHub",
       "errorAt": "2026-09-07T12:56:14.311Z",
       "errorMessage": "[GET] \"https://api.bilibili.com/x/web-interface/search/type?search_type=video&highlight=1&keyword=%E6%B2%99%E9%9B%95%E5%8A%A8%E7%94%BB&order=totalrank&tids=0\": 412 Precondition Failed\n",
@@ -104,6 +92,18 @@ _None_
       "title": "沙雕动画 - bilibili",
       "type": "feed",
       "url": "rsshub://bilibili/vsearch/%E6%B2%99%E9%9B%95%E5%8A%A8%E7%94%BB/totalrank"
+    },
+    {
+      "description": "Result from 思源笔记 bilibili search, ordered by pubdate. - Powered by RSSHub",
+      "errorAt": "2026-09-07T11:36:04.092Z",
+      "errorMessage": "[GET] \"https://api.bilibili.com/x/web-interface/search/type?search_type=video&highlight=1&keyword=%E6%80%9D%E6%BA%90%E7%AC%94%E8%AE%B0&order=pubdate&tids=0\": 412 Precondition Failed\n",
+      "id": "66120396417817600",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://search.bilibili.com/all?keyword=%E6%80%9D%E6%BA%90%E7%AC%94%E8%AE%B0&order=pubdate",
+      "title": "思源笔记 - bilibili",
+      "type": "feed",
+      "url": "rsshub://bilibili/vsearch/%E6%80%9D%E6%BA%90%E7%AC%94%E8%AE%B0"
     }
   ]
 }

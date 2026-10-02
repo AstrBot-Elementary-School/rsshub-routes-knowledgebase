@@ -82,28 +82,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "[F95zone] Collection Video HydraFXX Collection [2026-05-09] [HydraFXX] - Powered by RSSHub",
+      "description": "[F95zone] Collection Video Bamh3D Collection [2026-07-05] [Bamhor] - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "250523949050013696",
+      "id": "243703331756301312",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://f95zone.to/threads/hydrafxx-collection-2026-01-01-hydrafxx.25063/#post-1544334",
-      "title": "[F95zone] Collection Video HydraFXX Collection [2026-05-09] [HydraFXX]",
+      "siteUrl": "https://f95zone.to/threads/bamh3d-collection-2026-01-04-bamhor.181609/#post-12203185",
+      "title": "[F95zone] Collection Video Bamh3D Collection [2026-07-05] [Bamhor]",
       "type": "feed",
-      "url": "rsshub://f95zone/post/hydrafxx-collection-2026-01-01-hydrafxx.25063/post-1544334"
+      "url": "rsshub://f95zone/post/bamh3d-collection-2026-01-04-bamhor.181609/post-12203185"
     },
     {
-      "description": "[F95zone] Collection Video Lazy Procrastinator Collection [2026-06-28] [LazyProcrastinator/LazyProcrast] - Powered by RSSHub",
+      "description": "[F95zone] Collection Video RadRoachHD Collection [2026-05-13] [RadRoachHD] - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "250523611655439360",
+      "id": "250524222304441344",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://f95zone.to/threads/lazy-procrastinator-collection-2025-04-18-lazyprocrastinator-lazyprocrast.50685/#post-3358507",
-      "title": "[F95zone] Collection Video Lazy Procrastinator Collection [2026-06-28] [LazyProcrastinator/LazyProcrast]",
+      "siteUrl": "https://f95zone.to/threads/radroachhd-collection-2025-08-08-radroachhd.140965/#post-9617214",
+      "title": "[F95zone] Collection Video RadRoachHD Collection [2026-05-13] [RadRoachHD]",
       "type": "feed",
-      "url": "rsshub://f95zone/post/lazy-procrastinator-collection-2025-04-18-lazyprocrastinator-lazyprocrast.50685/post-3358507"
+      "url": "rsshub://f95zone/post/radroachhd-collection-2025-08-08-radroachhd.140965/post-9617214"
     }
   ]
 }

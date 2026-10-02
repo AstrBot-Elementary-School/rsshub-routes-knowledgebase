@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 6,
+  "heat": 7,
   "location": "journal.ts",
   "maintainers": [
     "nczitzk"
@@ -77,18 +77,6 @@ _None_
   "topFeeds": [
     {
       "description": null,
-      "errorAt": "2026-06-30T06:04:25.322Z",
-      "errorMessage": "[GET] \"https://www.sciencedirect.com/journal/journal-of-computational-physics/articles-in-press\": 403 Forbidden\n",
-      "id": "1178645011650969616",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": null,
-      "title": "Importing",
-      "type": "feed",
-      "url": "rsshub://sciencedirect/journal/journal-of-computational-physics"
-    },
-    {
-      "description": null,
       "errorAt": "2025-07-13T06:37:53.133Z",
       "errorMessage": "[GET] \"https://www.sciencedirect.com/journal/progress-in-solid-state-chemistry/articles-in-press\": 400 Bad Request\n",
       "id": "167109692329335818",
@@ -98,6 +86,18 @@ _None_
       "title": "Importing",
       "type": "feed",
       "url": "rsshub://sciencedirect/journal/progress-in-solid-state-chemistry"
+    },
+    {
+      "description": null,
+      "errorAt": "2026-06-30T06:04:25.322Z",
+      "errorMessage": "[GET] \"https://www.sciencedirect.com/journal/journal-of-computational-physics/articles-in-press\": 400 Bad Request\n",
+      "id": "1178645011650969616",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": null,
+      "title": "Importing",
+      "type": "feed",
+      "url": "rsshub://sciencedirect/journal/journal-of-computational-physics"
     }
   ]
 }

@@ -51,28 +51,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Piggy Rich 商铺上新 - Powered by RSSHub",
+      "description": "718制造 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264526228698562560",
+      "id": "1264524576058900480",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1816771693",
-      "title": "Piggy Rich 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1679474173",
+      "title": "718制造 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1816771693"
+      "url": "rsshub://weidian/goods/1679474173"
     },
     {
-      "description": "安卓音乐 商铺上新 - Powered by RSSHub",
+      "description": "byvovo 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264523487720898560",
+      "id": "1264525518451900416",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1314478082",
-      "title": "安卓音乐 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1771961812",
+      "title": "byvovo 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1314478082"
+      "url": "rsshub://weidian/goods/1771961812"
     }
   ]
 }

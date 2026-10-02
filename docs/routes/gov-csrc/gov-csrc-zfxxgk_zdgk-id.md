@@ -484,7 +484,7 @@
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 1178,
+  "heat": 1177,
   "location": "csrc.ts",
   "maintainers": [
     "nczitzk"
@@ -947,21 +947,9 @@
   },
   "topFeeds": [
     {
-      "description": "行政处罚决定 - Powered by RSSHub",
-      "errorAt": "2026-09-30T07:40:53.754Z",
-      "errorMessage": "[GET] \"http://www.csrc.gov.cn/getLocalList?channelCode=c101971\": 405 Method Not Allowed\n",
-      "id": "65722745603688448",
-      "image": "http://www.csrc.gov.cn/csrc/xhtml/images/zfxxgk/icons_logo.png?v=1.0?v=1.0",
-      "ownerUserId": null,
-      "siteUrl": "http://www.csrc.gov.cn/csrc/c101971/zfxxgk_zdgk.shtml",
-      "title": "中国证券监督管理委员会 - 行政处罚决定",
-      "type": "feed",
-      "url": "rsshub://gov/csrc/zfxxgk_zdgk/c101971"
-    },
-    {
       "description": "综合政务 - Powered by RSSHub",
       "errorAt": "2026-09-30T00:03:37.985Z",
-      "errorMessage": "[GET] \"http://www.csrc.gov.cn/searchList/ed38daea0a114994ba8b58b38336f212?_isAgg=true&_isJson=true&_pageSize=50\": 405 Method Not Allowed\n",
+      "errorMessage": "503 \n",
       "id": "66728516715627520",
       "image": "http://www.csrc.gov.cn/csrc/xhtml/images/zfxxgk/icons_logo.png?v=1.0?v=1.0",
       "ownerUserId": null,
@@ -969,6 +957,18 @@
       "title": "中国证券监督管理委员会 - 综合政务",
       "type": "feed",
       "url": "rsshub://gov/csrc/zfxxgk_zdgk/c101794"
+    },
+    {
+      "description": "行政处罚决定 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "65722745603688448",
+      "image": "http://www.csrc.gov.cn/csrc/xhtml/images/zfxxgk/icons_logo.png?v=1.0?v=1.0",
+      "ownerUserId": null,
+      "siteUrl": "http://www.csrc.gov.cn/csrc/c101971/zfxxgk_zdgk.shtml",
+      "title": "中国证券监督管理委员会 - 行政处罚决定",
+      "type": "feed",
+      "url": "rsshub://gov/csrc/zfxxgk_zdgk/c101971"
     }
   ],
   "url": "www.csrc.gov.cn"

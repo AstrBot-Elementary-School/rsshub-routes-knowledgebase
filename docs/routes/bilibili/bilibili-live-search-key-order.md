@@ -66,16 +66,16 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "哔哩哔哩直播-鲁班-人气直播 - Powered by RSSHub",
-      "errorAt": "2026-09-06T17:06:33.074Z",
-      "errorMessage": "[GET] \"https://api.bilibili.com/x/web-interface/wbi/search/type?__refresh__=true&_extra=&context=&page=1&page_size=42&order=online&duration=&from_source=&from_spmid=333.337&platform=pc&highlight=1&single_column=0&keyword=%E9%B2%81%E7%8F%AD&ad_resource=&source_tag=3&gaia_vtoken=&category_id=&search_type=live&dynamic_offset=0&web_location=1430654&w_rid=2e7687b4499a7fed1a47f5231e61b0a3&wts=1790640389\": 412 Precondition Failed\n",
-      "id": "257475092137511936",
+      "description": "哔哩哔哩直播-lofigirl-人气直播 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "250094139664107520",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://search.bilibili.com/live?keyword=%E9%B2%81%E7%8F%AD&order=online&coverType=user_cover&page=1&search_type=live",
-      "title": "哔哩哔哩直播-鲁班-人气直播",
+      "siteUrl": "https://search.bilibili.com/live?keyword=lofigirl&order=online&coverType=user_cover&page=1&search_type=live",
+      "title": "哔哩哔哩直播-lofigirl-人气直播",
       "type": "feed",
-      "url": "rsshub://bilibili/live/search/%E9%B2%81%E7%8F%AD/online"
+      "url": "rsshub://bilibili/live/search/lofigirl/online"
     },
     {
       "description": "哔哩哔哩直播-漫展-最新开播 - Powered by RSSHub",

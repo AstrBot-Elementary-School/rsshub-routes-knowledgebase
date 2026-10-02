@@ -84,7 +84,7 @@ _None_
     {
       "description": "Eagle Release Notes - Powered by RSSHub",
       "errorAt": "2025-06-01T02:36:50.835Z",
-      "errorMessage": "[GET] \"https://en.eagle.cool/changelog\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://en.eagle.cool/changelog\": 403 Forbidden\n",
       "id": "84654326956328960",
       "image": null,
       "ownerUserId": null,

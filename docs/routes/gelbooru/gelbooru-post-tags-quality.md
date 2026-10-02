@@ -106,18 +106,6 @@ e.g.: `/gelbooru/post?limit=20&`
   "topFeeds": [
     {
       "description": "Gelbooru post list - Powered by RSSHub",
-      "errorAt": "2025-06-15T17:36:00.154Z",
-      "errorMessage": "[GET] \"https://gelbooru.com/index.php?api_key=&json=1&limit=40&page=dapi&q=index&s=post&tags=sex&user_id=\": 401 Unauthorized\n",
-      "id": "127398870895944704",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://gelbooru.com/index.php?page=post&s=list&tags=sex",
-      "title": "sex - gelbooru.com",
-      "type": "feed",
-      "url": "rsshub://gelbooru/post/sex"
-    },
-    {
-      "description": "Gelbooru post list - Powered by RSSHub",
       "errorAt": "2025-06-15T15:32:07.406Z",
       "errorMessage": "[GET] \"https://gelbooru.com/index.php?api_key=&json=1&limit=40&page=dapi&q=index&s=post&tags=1girl+rating%3Ageneral&user_id=\": 401 Unauthorized\n",
       "id": "132064394430128128",
@@ -127,6 +115,18 @@ e.g.: `/gelbooru/post?limit=20&`
       "title": "1girl rating:general - gelbooru.com",
       "type": "feed",
       "url": "rsshub://gelbooru/post/1girl%20rating:general"
+    },
+    {
+      "description": "Gelbooru post list - Powered by RSSHub",
+      "errorAt": "2025-06-15T17:36:00.154Z",
+      "errorMessage": "[GET] \"https://gelbooru.com/index.php?api_key=&json=1&limit=40&page=dapi&q=index&s=post&tags=sex&user_id=\": 401 Unauthorized\n",
+      "id": "127398870895944704",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://gelbooru.com/index.php?page=post&s=list&tags=sex",
+      "title": "sex - gelbooru.com",
+      "type": "feed",
+      "url": "rsshub://gelbooru/post/sex"
     }
   ],
   "view": 2

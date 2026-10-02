@@ -131,18 +131,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "热榜 - 4小时热门 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "42107730549411843",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://i.jandan.net/top",
-      "title": "热榜 - 4小时热门",
-      "type": "feed",
-      "url": "rsshub://jandan/top"
-    },
-    {
       "description": "无聊图 - 蛋友贴图专版 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -153,6 +141,18 @@ _None_
       "title": "无聊图 - 蛋友贴图专版",
       "type": "feed",
       "url": "rsshub://jandan/pic"
+    },
+    {
+      "description": "热榜 - 4小时热门 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "42107730549411843",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://i.jandan.net/top",
+      "title": "热榜 - 4小时热门",
+      "type": "feed",
+      "url": "rsshub://jandan/top"
     }
   ]
 }

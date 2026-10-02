@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4865,
+  "heat": 4866,
   "location": "daily.ts",
   "maintainers": [
     "nczitzk",
@@ -73,7 +73,7 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "1. OpenAI 推出全天候自主智能体 Dot、GPT-6.1 Sol 模型 2. Anthropic 披露 IPO 招股书，2025 财年营收同比增 1088% 3. OpenAI 称 ChatGPT 周活跃用户已达 12 亿 4. 苹果 CEO 特努斯拟推架构精简等改革 提速产品迭代布局新品 5. DeepSeek Harness v0.2 预览版正式发布 6. 英伟达 CEO 黄仁勋回应 AI 模型蒸馏争议：这是市场竞争行为 7. OpenAI 明日重启 200 美元 Pro 订阅：API 配额减半，取消 5 小时限制 8. Meta 成立 Muse 企服版业务，200 亿市值 MongoDB CEO 跳槽加入 9. 多位 AI 企业高管将出席特朗普午餐会 探讨人工智能风险 10. 月之暗面 Kimi K3.1 模型前端标识泄露，预计将在近期发布 11. 苹果将在印度推出 Apple Pay 12. 消息人士称 OpenAI 年度经常性收入接近 700 亿美元 13. Tiffany 陷入月饼客诉风波：高消费用户小红书吐槽后账号受限 - Powered by RSSHub",
+      "description": "1. DeepSeek 开源昇腾基础组件 2. 苹果公布 iPhone Duo 预购安排 10 月 12 日可提前备单 3. 消息称苹果计划 10 月 13 日大力进军智能家居市场 4. 豆包 AI 个人助手独立 App 正内测 定名小豆 5. Tiffany 回应月饼事件：已专项调查并启动相应整改措施 6. Anthropic 披露与 SpaceX 签署最高 845 亿美元算力协议 7. AMD 82 亿美元收购李飞飞创立的 World Labs 引发行业争议 8. 豆包 App 上线「出行」超级入口 聚合本地生活服务 9. 东方甄选回应网红「溜溜凳」风波：2 倍退款不退货 10. 收购失败后 Manus 与 Meta 先后推出 Agent 产品成对手 11. Anthropic 面向政府机构的 Claude 现已全面开放 12. 寒武纪：离职高管梁军变更诉讼请求，要求公司赔偿 278.32 亿元 13. 快手高管调整：程一笑兼任社科线负责人 于越转任可灵 CEO 14. Anthropic 评测 GLM-5.3 漏洞利用能力，智谱股价盘中涨超 2% 15. OpenAI 重启 200 美元 Pro 套餐 额度减半引发开发者不满 16. 广州明确房企收取的房地产定金不得高于房屋总价 5% - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "52347176714948614",

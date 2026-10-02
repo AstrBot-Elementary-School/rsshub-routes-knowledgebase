@@ -62,7 +62,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2,
+  "heat": 1,
   "location": "app.tsx",
   "maintainers": [
     "TimWu007"

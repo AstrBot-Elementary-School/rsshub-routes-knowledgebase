@@ -77,8 +77,8 @@ _None_
   "topFeeds": [
     {
       "description": "豆瓣 - 2026年09月定档热门电影推荐 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-01T06:40:43.368Z",
+      "errorMessage": "Cannot read properties of undefined (reading 'id')\nCannot read properties of undefined (reading 'id')\n502 \nCannot read properties of undefined (reading 'id')\n",
       "id": "62747954002857984",
       "image": null,
       "ownerUserId": null,
@@ -89,8 +89,8 @@ _None_
     },
     {
       "description": "豆瓣 - 2026年09月定档热门新剧推荐 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-01T06:01:18.877Z",
+      "errorMessage": "Cannot read properties of undefined (reading 'id')\nCannot read properties of undefined (reading 'id')\nCannot read properties of undefined (reading 'id')\n",
       "id": "55307751412641792",
       "image": null,
       "ownerUserId": null,

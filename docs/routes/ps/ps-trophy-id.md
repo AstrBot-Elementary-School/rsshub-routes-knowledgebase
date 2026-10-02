@@ -65,18 +65,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "DIYgod_ 的 PSN 奖杯 - Powered by RSSHub",
-      "errorAt": "2024-10-23T01:28:06.858Z",
-      "errorMessage": "[GET] \"https://psnprofiles.com/DIYgod_?order=last-trophy\": 403 Forbidden\n",
-      "id": "65439345539341312",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://psnprofiles.com/DIYgod_/log",
-      "title": "DIYgod_ 的 PSN 奖杯",
-      "type": "feed",
-      "url": "rsshub://ps/trophy/DIYgod_"
-    },
-    {
       "description": "raiuka 的 PSN 奖杯 - Powered by RSSHub",
       "errorAt": "2024-10-23T00:18:18.066Z",
       "errorMessage": "[GET] \"https://psnprofiles.com/raiuka?order=last-trophy\": 403 Forbidden\n",
@@ -87,6 +75,18 @@ _None_
       "title": "raiuka 的 PSN 奖杯",
       "type": "feed",
       "url": "rsshub://ps/trophy/raiuka"
+    },
+    {
+      "description": "DIYgod_ 的 PSN 奖杯 - Powered by RSSHub",
+      "errorAt": "2024-10-23T01:28:06.858Z",
+      "errorMessage": "[GET] \"https://psnprofiles.com/DIYgod_?order=last-trophy\": 403 Forbidden\n",
+      "id": "65439345539341312",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://psnprofiles.com/DIYgod_/log",
+      "title": "DIYgod_ 的 PSN 奖杯",
+      "type": "feed",
+      "url": "rsshub://ps/trophy/DIYgod_"
     }
   ]
 }

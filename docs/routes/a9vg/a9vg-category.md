@@ -212,8 +212,8 @@
     },
     {
       "description": "A9VG电玩部落,中国电玩及主机游戏行业的领先平台,致力于为玩家报道最新主机游戏独家资讯，PS4和Xbox One等主机电视游戏攻略,更有A9VG论坛为电玩主机游戏爱好者提供交流平台。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-01T12:46:57.606Z",
+      "errorMessage": "[GET] \"http://www.a9vg.com/list/news/All\": 502 Bad Gateway\n[GET] \"http://www.a9vg.com/list/news/All\": 502 Bad Gateway\n[GET] \"http://www.a9vg.com/list/news/All\": 502 Bad Gateway\n",
       "id": "55616188093136896",
       "image": "http://www.a9vg.com/images/logo.1cee7c0f.svg",
       "ownerUserId": null,

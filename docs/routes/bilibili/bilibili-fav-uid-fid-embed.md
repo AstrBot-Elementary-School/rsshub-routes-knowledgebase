@@ -68,16 +68,16 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "孤傲翼赤 的 bilibili 收藏夹 study - Powered by RSSHub",
+      "description": "口口相传茶业有限公司 的 bilibili 收藏夹 潮流粉丝艺术鉴赏 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "88261600988160000",
+      "id": "156045536487163904",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://space.bilibili.com/155932898/#/favlist?fid=2244297198",
-      "title": "孤傲翼赤 的 bilibili 收藏夹 study",
+      "siteUrl": "https://space.bilibili.com/397567956/#/favlist?fid=3453758456",
+      "title": "口口相传茶业有限公司 的 bilibili 收藏夹 潮流粉丝艺术鉴赏",
       "type": "feed",
-      "url": "rsshub://bilibili/fav/155932898/2244297198"
+      "url": "rsshub://bilibili/fav/397567956/3453758456"
     },
     {
       "description": "观海聽风声 的 bilibili 收藏夹 二次元 - Powered by RSSHub",

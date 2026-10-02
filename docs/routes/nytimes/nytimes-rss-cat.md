@@ -81,18 +81,6 @@ Enhance the official EN RSS feed
   },
   "topFeeds": [
     {
-      "description": "NYT > Top Stories - Powered by RSSHub",
-      "errorAt": "2025-06-11T21:30:37.105Z",
-      "errorMessage": "[GET] \"https://www.nytimes.com/2026/09/28/climate/coal-industry-power-plants-trump.html\": 403 Forbidden\n",
-      "id": "76533237937860608",
-      "image": "{\"link\":\"https://www.nytimes.com\",\"url\":\"https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png\",\"title\":\"NYT > Top Stories\"}",
-      "ownerUserId": null,
-      "siteUrl": "https://www.nytimes.com/",
-      "title": "NYT > Top Stories",
-      "type": "feed",
-      "url": "rsshub://nytimes/rss/HomePage"
-    },
-    {
       "description": "纽约时报中文网 - Powered by RSSHub",
       "errorAt": "2025-02-19T21:09:22.196Z",
       "errorMessage": "Status code 404\n",
@@ -103,6 +91,18 @@ Enhance the official EN RSS feed
       "title": "纽约时报中文网",
       "type": "feed",
       "url": "rsshub://nytimes/rss"
+    },
+    {
+      "description": "NYT > Top Stories - Powered by RSSHub",
+      "errorAt": "2025-06-11T21:30:37.105Z",
+      "errorMessage": "[GET] \"https://www.nytimes.com/2026/09/30/opinion/america-cool-culture-soft-power.html\": 403 Forbidden\n",
+      "id": "76533237937860608",
+      "image": "{\"link\":\"https://www.nytimes.com\",\"url\":\"https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png\",\"title\":\"NYT > Top Stories\"}",
+      "ownerUserId": null,
+      "siteUrl": "https://www.nytimes.com/",
+      "title": "NYT > Top Stories",
+      "type": "feed",
+      "url": "rsshub://nytimes/rss/HomePage"
     }
   ],
   "url": "nytimes.com/",

@@ -312,8 +312,8 @@
   "topFeeds": [
     {
       "description": "中文互联网数据研究资讯中心是一个专注于互联网数据研究、互联网数据调研、IT数据分析、互联网咨询机构数据、互联网权威机构，并致力为中国互联网研究和咨询及IT行业数据专业人员和决策者提供一个数据共享平台。这里是最新 | - Powered by RSSHub",
-      "errorAt": "2026-09-30T09:46:29.854Z",
-      "errorMessage": "[GET] \"https://www.199it.com/newly\": 522 <none>\n",
+      "errorAt": "2026-10-01T12:01:19.442Z",
+      "errorMessage": "503 \n",
       "id": "132133310851759104",
       "image": "//www.199it.com/199itlogo.png",
       "ownerUserId": null,

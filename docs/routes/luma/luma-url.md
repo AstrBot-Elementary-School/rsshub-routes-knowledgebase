@@ -76,18 +76,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "The AI Collective - Powered by RSSHub",
-      "errorAt": "2026-09-27T12:51:10.858Z",
-      "errorMessage": "[GET] \"https://api.lu.ma/url?url=genai-collective\": 429 Too Many Requests\n",
-      "id": "265935647087177728",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://lu.ma/genai-collective",
-      "title": "The AI Collective",
-      "type": "feed",
-      "url": "rsshub://luma/genai-collective"
-    },
-    {
       "description": "LangChain Events - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -98,6 +86,18 @@ _None_
       "title": "LangChain Events",
       "type": "feed",
       "url": "rsshub://luma/langchain"
+    },
+    {
+      "description": "Eventos Ignia - Powered by RSSHub",
+      "errorAt": "2026-09-28T04:11:29.394Z",
+      "errorMessage": "[GET] \"https://api.lu.ma/url?url=ignia\": 429 Too Many Requests\n",
+      "id": "265966934845992960",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://lu.ma/ignia",
+      "title": "Eventos Ignia",
+      "type": "feed",
+      "url": "rsshub://luma/ignia"
     }
   ],
   "url": "lu.ma"

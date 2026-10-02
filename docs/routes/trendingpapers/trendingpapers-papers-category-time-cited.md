@@ -71,7 +71,7 @@ _None_
     {
       "description": "Trending Papers on arXiv.org | Computer Science - Computer Vision and Pattern Recognition | 7 days | Only cited papers | - Powered by RSSHub",
       "errorAt": "2025-07-03T16:14:02.595Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://trendingpapers.com/api/papers?p=1&o=pagerank_growth&pd=7 days&cc=Only cited papers&c=Computer Science - Computer Vision and Pattern Recognition\": 522 <none>\n",
+      "errorMessage": "[GET] \"https://trendingpapers.com/api/papers?p=1&o=pagerank_growth&pd=7 days&cc=Only cited papers&c=Computer Science - Computer Vision and Pattern Recognition\": <no response> fetch failed\n[GET] \"https://trendingpapers.com/api/papers?p=1&o=pagerank_growth&pd=7 days&cc=Only cited papers&c=Computer Science - Computer Vision and Pattern Recognition\": 522 <none>\n",
       "id": "98721121066834944",
       "image": null,
       "ownerUserId": null,

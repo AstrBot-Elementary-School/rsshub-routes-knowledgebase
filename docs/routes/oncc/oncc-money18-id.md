@@ -80,8 +80,8 @@ _None_
     },
     {
       "description": "東網產經 - 新聞總覽 - Powered by RSSHub",
-      "errorAt": "2026-09-30T09:45:48.105Z",
-      "errorMessage": "[GET] \"https://money18.on.cc/finnews/content/exp/bkn-20260930083020279-0930_00842_001.html\": 404 Not Found\n",
+      "errorAt": "2026-10-01T12:00:36.774Z",
+      "errorMessage": "[GET] \"https://money18.on.cc/finnews/content/exp/bkn-20261001175623039-1001_00842_001.html\": 404 Not Found\n",
       "id": "149880667170940928",
       "image": null,
       "ownerUserId": null,

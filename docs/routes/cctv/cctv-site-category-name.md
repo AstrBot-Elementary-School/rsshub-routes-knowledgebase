@@ -89,18 +89,6 @@
   },
   "topFeeds": [
     {
-      "description": "CCTV 新闻联播 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "59109731259240448",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "http://tv.cctv.com/lm/xwlb/",
-      "title": "CCTV 新闻联播",
-      "type": "feed",
-      "url": "rsshub://cctv/tv/lm/xwlb"
-    },
-    {
       "description": "undefined - Powered by RSSHub",
       "errorAt": "2026-08-31T13:51:53.781Z",
       "errorMessage": "Invalid RSSHub JSON Feed from default\n",
@@ -111,6 +99,18 @@
       "title": "RSSHub",
       "type": "feed",
       "url": "rsshub://cctv/tv/Im/xwlb"
+    },
+    {
+      "description": "CCTV 新闻联播 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "59109731259240448",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "http://tv.cctv.com/lm/xwlb/",
+      "title": "CCTV 新闻联播",
+      "type": "feed",
+      "url": "rsshub://cctv/tv/lm/xwlb"
     }
   ],
   "url": "tv.cctv.com/lm/xwlb"

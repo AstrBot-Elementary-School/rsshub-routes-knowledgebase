@@ -90,14 +90,14 @@
       "url": "rsshub://chinaratings/CreditResearch/Industry/TopicReport"
     },
     {
-      "description": "行业评论-中债资信评估有限责任公司 - Powered by RSSHub",
+      "description": "中债资信评估有限责任公司 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "99579340558865408",
       "image": "https://www.chinaratings.com.cn/news/1913.html",
       "ownerUserId": null,
       "siteUrl": "https://www.chinaratings.com.cn/CreditResearch/Industry/Comment/",
-      "title": "行业评论-中债资信评估有限责任公司",
+      "title": "中债资信评估有限责任公司",
       "type": "feed",
       "url": "rsshub://chinaratings/CreditResearch"
     }

@@ -62,7 +62,7 @@
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 519,
+  "heat": 518,
   "location": "index.ts",
   "maintainers": [
     "falling",
@@ -88,18 +88,6 @@
       "description": "论坛影视区推荐使用纯BT软件：Transmission，qBittorrent，Bitcomet，uTorrent，其他下载软件请自行尝试。不支持吸血迅雷。 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "62495339293222913",
-      "image": "https://www.1lou.me/view/img/logo.png",
-      "ownerUserId": null,
-      "siteUrl": "https://www.1lou.me/forum-1.htm?format=json",
-      "title": "最新电影 - BT 之家 1LOU 站",
-      "type": "feed",
-      "url": "rsshub://1lou/forum-1"
-    },
-    {
-      "description": "论坛影视区推荐使用纯BT软件：Transmission，qBittorrent，Bitcomet，uTorrent，其他下载软件请自行尝试。不支持吸血迅雷。 - Powered by RSSHub",
-      "errorAt": "2026-09-30T13:11:17.563Z",
-      "errorMessage": "503 \n",
       "id": "64249408253921283",
       "image": "https://www.1lou.me/view/img/logo.png",
       "ownerUserId": null,
@@ -107,6 +95,18 @@
       "title": "电视剧集 - BT 之家 1LOU 站",
       "type": "feed",
       "url": "rsshub://1lou/forum-2-1"
+    },
+    {
+      "description": "论坛影视区推荐使用纯BT软件：Transmission，qBittorrent，Bitcomet，uTorrent，其他下载软件请自行尝试。不支持吸血迅雷。 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "62495339293222913",
+      "image": "https://www.1lou.me/view/img/logo.png",
+      "ownerUserId": null,
+      "siteUrl": "https://www.1lou.me/forum-1.htm?format=json",
+      "title": "最新电影 - BT 之家 1LOU 站",
+      "type": "feed",
+      "url": "rsshub://1lou/forum-1"
     }
   ],
   "url": "1lou.me"

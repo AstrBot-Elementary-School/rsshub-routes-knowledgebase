@@ -74,18 +74,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "多抓鱼搜索-e.g.JavaScript - Powered by RSSHub",
-      "errorAt": "2026-04-10T11:02:40.690Z",
-      "errorMessage": "Unknown or unsupported cipher: aes-128-cfb8\n",
-      "id": "169279781328462848",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.duozhuayu.com/search/book/e.g.JavaScript",
-      "title": "多抓鱼搜索-e.g.JavaScript",
-      "type": "feed",
-      "url": "rsshub://duozhuayu/search/e.g.JavaScript"
-    },
-    {
       "description": "多抓鱼搜索-djryan - Powered by RSSHub",
       "errorAt": "2026-04-10T07:01:59.055Z",
       "errorMessage": "[GET] \"https://www.duozhuayu.com/api/search/book?type=normal&q=djryan\": 401 Unauthorized\n",
@@ -96,6 +84,18 @@ _None_
       "title": "多抓鱼搜索-djryan",
       "type": "feed",
       "url": "rsshub://duozhuayu/search/djryan"
+    },
+    {
+      "description": "多抓鱼搜索-e.g.JavaScript - Powered by RSSHub",
+      "errorAt": "2026-04-10T11:02:40.690Z",
+      "errorMessage": "Unknown or unsupported cipher: aes-128-cfb8\n",
+      "id": "169279781328462848",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.duozhuayu.com/search/book/e.g.JavaScript",
+      "title": "多抓鱼搜索-e.g.JavaScript",
+      "type": "feed",
+      "url": "rsshub://duozhuayu/search/e.g.JavaScript"
     }
   ]
 }

@@ -87,10 +87,10 @@ _None_
     },
     {
       "description": "知乎专栏-玉树芝兰 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-01T09:35:37.580Z",
+      "errorMessage": "[GET] \"https://zhuanlan.zhihu.com/api/columns/yushuzhilan\": 403 Forbidden\n",
       "id": "57215618626397184",
-      "image": "https://pica.zhimg.com/v2-f111d7ee1c41944859e975a712c0883b_720w.jpg",
+      "image": "https://pic1.zhimg.com/v2-f111d7ee1c41944859e975a712c0883b_720w.jpg",
       "ownerUserId": null,
       "siteUrl": "https://zhuanlan.zhihu.com/yushuzhilan",
       "title": "知乎专栏-玉树芝兰",

@@ -115,18 +115,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "The most viewed photos in the past 2 months. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "70259303892775936",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://misskon.com/top60/",
-      "title": "MissKON - Top 60 days",
-      "type": "feed",
-      "url": "rsshub://misskon/top/60"
-    },
-    {
       "description": "The most viewed photos of the past week. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -137,6 +125,18 @@ _None_
       "title": "MissKON - Top 7 days",
       "type": "feed",
       "url": "rsshub://misskon/top/7"
+    },
+    {
+      "description": "The most viewed photos in the past 2 months. - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "70259303892775936",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://misskon.com/top60/",
+      "title": "MissKON - Top 60 days",
+      "type": "feed",
+      "url": "rsshub://misskon/top/60"
     }
   ]
 }

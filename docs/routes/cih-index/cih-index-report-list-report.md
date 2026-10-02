@@ -75,18 +75,6 @@ _None_
   "topFeeds": [
     {
       "description": "中指云基于中指研究院多年研究积累，提供最全房地产行业报告，可免费阅读房地产政策解读、市场趋势、房企研究及物业行业分析报告，可下载PDF格式报告，深度洞察房地产行业动向。 - Powered by RSSHub",
-      "errorAt": "2026-07-27T12:43:35.566Z",
-      "errorMessage": "[GET] \"https://www.cih-index.com/report/list/f2022041315362473358-p1-oaddtime-ddesc\": 429 Too Many Requests\n",
-      "id": "150104102533230592",
-      "image": "https://www.cih-index.com/favicon.ico",
-      "ownerUserId": null,
-      "siteUrl": "https://www.cih-index.com/report/list/f2022041315362473358-p1-oaddtime-ddesc",
-      "title": "政策解读 - 中指报告",
-      "type": "feed",
-      "url": "rsshub://cih-index/report/list/f2022041315362473358-p1-oaddtime-ddesc"
-    },
-    {
-      "description": "中指云基于中指研究院多年研究积累，提供最全房地产行业报告，可免费阅读房地产政策解读、市场趋势、房企研究及物业行业分析报告，可下载PDF格式报告，深度洞察房地产行业动向。 - Powered by RSSHub",
       "errorAt": "2026-07-27T21:02:23.759Z",
       "errorMessage": "[GET] \"https://www.cih-index.com/report/list/p1-oaddtime-ddesc\": 429 Too Many Requests\n",
       "id": "149713189464210432",
@@ -96,6 +84,18 @@ _None_
       "title": "中指报告",
       "type": "feed",
       "url": "rsshub://cih-index/report/list"
+    },
+    {
+      "description": "中指云基于中指研究院多年研究积累，提供最全房地产行业报告，可免费阅读房地产政策解读、市场趋势、房企研究及物业行业分析报告，可下载PDF格式报告，深度洞察房地产行业动向。 - Powered by RSSHub",
+      "errorAt": "2026-07-27T12:43:35.566Z",
+      "errorMessage": "[GET] \"https://www.cih-index.com/report/list/f2022041315362473358-p1-oaddtime-ddesc\": 429 Too Many Requests\n",
+      "id": "150104102533230592",
+      "image": "https://www.cih-index.com/favicon.ico",
+      "ownerUserId": null,
+      "siteUrl": "https://www.cih-index.com/report/list/f2022041315362473358-p1-oaddtime-ddesc",
+      "title": "政策解读 - 中指报告",
+      "type": "feed",
+      "url": "rsshub://cih-index/report/list/f2022041315362473358-p1-oaddtime-ddesc"
     }
   ],
   "url": "www.cih-index.com/report/list/p1-oaddtime-ddesc"

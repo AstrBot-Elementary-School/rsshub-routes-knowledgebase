@@ -69,18 +69,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "安全客-安全知识 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "76187233397022720",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.anquanke.com/knowledge",
-      "title": "安全客-安全知识",
-      "type": "feed",
-      "url": "rsshub://anquanke/knowledge"
-    },
-    {
       "description": "安全客-360网络安全周报 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -91,6 +79,18 @@ _None_
       "title": "安全客-360网络安全周报",
       "type": "feed",
       "url": "rsshub://anquanke/week"
+    },
+    {
+      "description": "安全客-安全知识 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "76187233397022720",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.anquanke.com/knowledge",
+      "title": "安全客-安全知识",
+      "type": "feed",
+      "url": "rsshub://anquanke/knowledge"
     }
   ]
 }

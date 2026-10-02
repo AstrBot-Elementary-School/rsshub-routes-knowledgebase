@@ -106,18 +106,6 @@ BT 之家的域名会变更，本路由以 `https://www.btbtt20.com` 为默认�
   "topFeeds": [
     {
       "description": null,
-      "errorAt": "2025-06-12T12:09:22.478Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
-      "id": "155957211745995779",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": null,
-      "title": "Importing",
-      "type": "feed",
-      "url": "rsshub://btzj"
-    },
-    {
-      "description": null,
       "errorAt": "2025-05-23T18:45:47.942Z",
       "errorMessage": "Failed to fetch\n[GET] \"https://www.88btbtt.com\": <no response> fetch failed (certificate has expired)\n",
       "id": "148757739569766405",
@@ -127,6 +115,18 @@ BT 之家的域名会变更，本路由以 `https://www.btbtt20.com` 为默认�
       "title": "Importing",
       "type": "feed",
       "url": "rsshub://btzj/base"
+    },
+    {
+      "description": null,
+      "errorAt": "2025-06-12T12:09:22.478Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "id": "155957211745995779",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": null,
+      "title": "Importing",
+      "type": "feed",
+      "url": "rsshub://btzj"
     }
   ],
   "url": "btbtt20.com/"

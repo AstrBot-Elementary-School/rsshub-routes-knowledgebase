@@ -3560,6 +3560,12 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `1`
 - Index File: `index/etoland.md`
 
+## Eurogamer
+- Namespace: `eurogamer`
+- Aliases: `eurogamer, eurogamer.net, www, www.eurogamer.net`
+- Route Count: `1`
+- Index File: `index/eurogamer.md`
+
 ## Europa Press
 - Namespace: `europapress`
 - Aliases: `europa press, europapress, europapress.es, www, www.europapress.es`

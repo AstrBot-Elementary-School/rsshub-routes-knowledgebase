@@ -81,18 +81,6 @@
   },
   "topFeeds": [
     {
-      "description": "前瞻经济学人 - 周排行 - Powered by RSSHub",
-      "errorAt": "2026-09-30T02:16:15.225Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n[GET] \"https://www.qianzhan.com/analyst/\": 500 Internal Server Error\n",
-      "id": "65666355458866176",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.qianzhan.com/analyst/",
-      "title": "前瞻经济学人 - 周排行",
-      "type": "feed",
-      "url": "rsshub://qianzhan/analyst/rank/week"
-    },
-    {
       "description": "前瞻经济学人 - 月排行 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -103,6 +91,18 @@
       "title": "前瞻经济学人 - 月排行",
       "type": "feed",
       "url": "rsshub://qianzhan/analyst/rank"
+    },
+    {
+      "description": "前瞻经济学人 - 周排行 - Powered by RSSHub",
+      "errorAt": "2026-09-30T02:16:15.225Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n[GET] \"https://www.qianzhan.com/analyst/\": 500 Internal Server Error\n",
+      "id": "65666355458866176",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.qianzhan.com/analyst/",
+      "title": "前瞻经济学人 - 周排行",
+      "type": "feed",
+      "url": "rsshub://qianzhan/analyst/rank/week"
     }
   ],
   "url": "qianzhan.com/analyst"

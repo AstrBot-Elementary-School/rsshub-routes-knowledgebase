@@ -77,7 +77,7 @@ _None_
       "errorAt": null,
       "errorMessage": null,
       "id": "80433099883252736",
-      "image": "http://www.qstheory.cn/20260916/fd06d8d2be9141b3a1aa990e066f7aa2/e82c577defe44bb096b65dfe35b44139.jpg",
+      "image": "http://www.qstheory.cn/20260930/63290b445a564bb4ad418096a0a14417/a323455738f1445f839f14567e1d61c2.jpg",
       "ownerUserId": null,
       "siteUrl": "http://www.qstheory.cn/qs/mulu.htm",
       "title": "《求是》 - 求是网",

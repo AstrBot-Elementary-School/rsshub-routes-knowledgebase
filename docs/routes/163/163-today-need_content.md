@@ -81,8 +81,8 @@
   "topFeeds": [
     {
       "description": "今日关注 - 网易新闻 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-01T12:46:09.491Z",
+      "errorMessage": "Cannot read properties of undefined (reading 'substring')\nCannot read properties of undefined (reading 'substring')\nCannot read properties of undefined (reading 'substring')\nCannot read properties of undefined (reading 'substring')\n",
       "id": "56209316185473024",
       "image": null,
       "ownerUserId": null,

@@ -106,16 +106,16 @@ _None_
       "url": "rsshub://showstart/search/artist/%E5%A3%B0%E9%9F%B3%E7%8E%A9%E5%85%B7"
     },
     {
-      "description": "秀动网 - 搜城市 - 上海 - Powered by RSSHub",
-      "errorAt": "2026-08-02T21:00:09.499Z",
-      "errorMessage": "e[t].localeCompare is not a function\n",
-      "id": "67428435443757056",
+      "description": "秀动网 - 搜演出 - Fine乐团 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "73918360042176533",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.showstart.com/",
-      "title": "秀动网 - 搜城市 - 上海",
+      "title": "秀动网 - 搜演出 - Fine乐团",
       "type": "feed",
-      "url": "rsshub://showstart/search/city/%E4%B8%8A%E6%B5%B7"
+      "url": "rsshub://showstart/search/Fine%E4%B9%90%E5%9B%A2"
     }
   ]
 }

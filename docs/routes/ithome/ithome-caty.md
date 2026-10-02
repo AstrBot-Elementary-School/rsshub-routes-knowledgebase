@@ -69,7 +69,7 @@ _None_
     {
       "description": "IT 之家 - 数码之家 - Powered by RSSHub",
       "errorAt": "2026-09-30T04:16:13.718Z",
-      "errorMessage": "[GET] \"https://lapin.ithome.com/html/digi/1008752.htm\": 525 <none>\n",
+      "errorMessage": "[GET] \"https://lapin.ithome.com/html/digi/1009114.htm\": 525 <none>\n",
       "id": "41572238273905673",
       "image": "https://img.ithome.com/m/images/logo.png",
       "ownerUserId": null,

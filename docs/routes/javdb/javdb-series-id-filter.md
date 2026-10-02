@@ -90,18 +90,6 @@
   },
   "topFeeds": [
     {
-      "description": "中出し 射精執行官 - JavDB - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "84865535466264576",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://javdb.com/series/3aZz",
-      "title": "中出し 射精執行官 - JavDB",
-      "type": "feed",
-      "url": "rsshub://javdb/series/3aZz"
-    },
-    {
       "description": "絶対忠実秘書 - JavDB - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -112,6 +100,18 @@
       "title": "絶対忠実秘書 - JavDB",
       "type": "feed",
       "url": "rsshub://javdb/series/ZO0X"
+    },
+    {
+      "description": "中出し 射精執行官 - JavDB - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "84865535466264576",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://javdb.com/series/3aZz",
+      "title": "中出し 射精執行官 - JavDB",
+      "type": "feed",
+      "url": "rsshub://javdb/series/3aZz"
     }
   ],
   "url": "javdb.com/"

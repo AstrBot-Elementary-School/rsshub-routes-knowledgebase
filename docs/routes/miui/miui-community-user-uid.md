@@ -73,18 +73,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "小米澎湃OS公告君 的发帖 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "74458155910323200",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://web.vip.miui.com/page/info/mio/mio/homePage?uid=1200057564",
-      "title": "小米社区 - 小米澎湃OS公告君 的发帖",
-      "type": "feed",
-      "url": "rsshub://miui/community/user/1200057564"
-    },
-    {
       "description": "文教授 的发帖 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -95,6 +83,18 @@ _None_
       "title": "小米社区 - 文教授 的发帖",
       "type": "feed",
       "url": "rsshub://miui/community/user/95045457"
+    },
+    {
+      "description": "小米澎湃OS公告君 的发帖 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "74458155910323200",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://web.vip.miui.com/page/info/mio/mio/homePage?uid=1200057564",
+      "title": "小米社区 - 小米澎湃OS公告君 的发帖",
+      "type": "feed",
+      "url": "rsshub://miui/community/user/1200057564"
     }
   ]
 }

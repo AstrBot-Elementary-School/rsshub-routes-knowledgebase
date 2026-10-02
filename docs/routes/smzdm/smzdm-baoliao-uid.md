@@ -88,8 +88,8 @@ _None_
     },
     {
       "description": "信小兔的爆料 - 什么值得买 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-01T06:41:02.332Z",
+      "errorMessage": "[GET] \"https://zhiyou.smzdm.com/member/9687682701/baoliao/\": 522 <none>\n",
       "id": "63858618178298962",
       "image": null,
       "ownerUserId": null,

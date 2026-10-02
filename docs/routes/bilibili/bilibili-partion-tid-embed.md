@@ -193,7 +193,7 @@ _None_
     {
       "description": "bilibili 电脑装机分区 - Powered by RSSHub",
       "errorAt": "2026-07-02T14:32:08.821Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "[GET] \"https://api.bilibili.com/x/web-interface/newlist?ps=15&rid=189&_=1790851916419\": 412 Precondition Failed\n",
       "id": "61803024269907968",
       "image": null,
       "ownerUserId": null,

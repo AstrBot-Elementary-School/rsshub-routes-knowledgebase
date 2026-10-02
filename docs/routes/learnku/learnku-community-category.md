@@ -82,7 +82,7 @@
     {
       "description": "讨论话题包括编辑器、终端、Git、VSCode、PHPStorm、VIM 等开发者工具相关话题。 - Powered by RSSHub",
       "errorAt": "2026-09-08T22:12:09.414Z",
-      "errorMessage": "p243 is not a function\n",
+      "errorMessage": "p244 is not a function\n",
       "id": "58746729811026944",
       "image": null,
       "ownerUserId": null,

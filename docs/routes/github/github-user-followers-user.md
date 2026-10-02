@@ -74,16 +74,16 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "FerrisChi's followers - Powered by RSSHub",
+      "description": "cgw88's followers - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "126208930954814464",
+      "id": "160995085476973568",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/FerrisChi",
-      "title": "FerrisChi's followers",
+      "siteUrl": "https://github.com/cgw88",
+      "title": "cgw88's followers",
       "type": "feed",
-      "url": "rsshub://github/user/followers/FerrisChi"
+      "url": "rsshub://github/user/followers/cgw88"
     },
     {
       "description": "Shubxam's followers - Powered by RSSHub",

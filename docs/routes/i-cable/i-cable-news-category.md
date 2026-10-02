@@ -89,18 +89,6 @@
   },
   "topFeeds": [
     {
-      "description": "有線新聞 - 中國在線 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "78890994598313984",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.i-cable.com/category/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/%e4%b8%ad%e5%9c%8b%e5%9c%a8%e7%b7%9a",
-      "title": "有線新聞 - 中國在線",
-      "type": "feed",
-      "url": "rsshub://i-cable/news/%E4%B8%AD%E5%9C%8B%E5%9C%A8%E7%B7%9A"
-    },
-    {
       "description": "涵蓋突發消息、最新熱話、本地時事、國際要聞、兩岸大事、專題報導，以及《家國天下》、《議員同你傾》、《有理有得傾》等多個焦點資訊節目。 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -111,6 +99,18 @@
       "title": "有線新聞 - 新聞資訊",
       "type": "feed",
       "url": "rsshub://i-cable/news"
+    },
+    {
+      "description": "有線新聞 - 中國在線 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "78890994598313984",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.i-cable.com/category/%e6%96%b0%e8%81%9e%e8%b3%87%e8%a8%8a/%e4%b8%ad%e5%9c%8b%e5%9c%a8%e7%b7%9a",
+      "title": "有線新聞 - 中國在線",
+      "type": "feed",
+      "url": "rsshub://i-cable/news/%E4%B8%AD%E5%9C%8B%E5%9C%A8%E7%B7%9A"
     }
   ],
   "url": "www.i-cable.com/"

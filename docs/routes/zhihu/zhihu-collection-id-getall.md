@@ -83,7 +83,7 @@ _None_
     {
       "description": "神答案 - 知乎收藏夹 - Powered by RSSHub",
       "errorAt": "2026-02-23T21:19:55.857Z",
-      "errorMessage": "[GET] \"https://www.zhihu.com/api/v4/collections/38411239/items?offset=0&limit=20\": 401 Authorization Required\n[GET] \"https://www.zhihu.com/api/v4/collections/38411239/items?offset=0&limit=20\": 401 Authorization Required\n[GET] \"https://www.zhihu.com/api/v4/collections/38411239/items?offset=0&limit=20\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.zhihu.com/api/v4/collections/38411239/items?offset=0&limit=20\": 401 Authorization Required\n[GET] \"https://www.zhihu.com/api/v4/collections/38411239/items?offset=0&limit=20\": 401 Authorization Required\n[GET] \"https://www.zhihu.com/api/v4/collections/38411239/items?offset=0&limit=20\": 401 Unauthorized\n",
       "id": "104525421052935168",
       "image": null,
       "ownerUserId": null,

@@ -74,18 +74,6 @@ See the [official RSS page](https://www.scmp.com/rss) to get the ID of each cate
   },
   "topFeeds": [
     {
-      "description": "The latest breaking news from China. - Powered by RSSHub",
-      "errorAt": "2026-09-18T09:02:16.787Z",
-      "errorMessage": "[GET] \"https://www.scmp.com/opinion/china-opinion/article/3368704/china-no-longer-just-worlds-factory-its-hq\": 403 Forbidden\n",
-      "id": "58381798255721484",
-      "image": "https://assets-v2.i-scmp.com/production/static/img/icons/scmp-meta-1200x630.png",
-      "ownerUserId": null,
-      "siteUrl": "https://www.scmp.com/rss/4/feed",
-      "title": "China - South China Morning Post",
-      "type": "feed",
-      "url": "rsshub://scmp/4"
-    },
-    {
       "description": "Breaking news, analysis and opinion from the SCMP's Asia edition. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -96,6 +84,18 @@ See the [official RSS page](https://www.scmp.com/rss) to get the ID of each cate
       "title": "Asia - South China Morning Post",
       "type": "feed",
       "url": "rsshub://scmp/3"
+    },
+    {
+      "description": "The latest breaking news from China. - Powered by RSSHub",
+      "errorAt": "2026-09-18T09:02:16.787Z",
+      "errorMessage": "[GET] \"https://www.scmp.com/news/china/military/article/3369223/us-navy-launches-drone-command-could-reshape-taiwan-war-planning\": 403 Forbidden\n",
+      "id": "58381798255721484",
+      "image": "https://assets-v2.i-scmp.com/production/static/img/icons/scmp-meta-1200x630.png",
+      "ownerUserId": null,
+      "siteUrl": "https://www.scmp.com/rss/4/feed",
+      "title": "China - South China Morning Post",
+      "type": "feed",
+      "url": "rsshub://scmp/4"
     }
   ]
 }

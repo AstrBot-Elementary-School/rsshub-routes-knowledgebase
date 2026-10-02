@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 530,
+  "heat": 531,
   "location": "forum.ts",
   "maintainers": [
     "nczitzk"
@@ -65,18 +65,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "国内 IPTV 直播源、播放软件与网络视听代码 - 恩山无线论坛 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "54806809341165571",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.right.com.cn/forum/forum-182-1.html",
-      "title": "国内 IPTV 直播源、播放软件与网络视听代码 - 恩山无线论坛",
-      "type": "feed",
-      "url": "rsshub://right/forum/182"
-    },
-    {
       "description": "新手入门及其它(硬件) - 恩山无线论坛 - Powered by RSSHub",
       "errorAt": "2026-09-15T08:07:07.291Z",
       "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
@@ -87,6 +75,18 @@ _None_
       "title": "新手入门及其它(硬件) - 恩山无线论坛",
       "type": "feed",
       "url": "rsshub://right/forum/31"
+    },
+    {
+      "description": "国内 IPTV 直播源、播放软件与网络视听代码 - 恩山无线论坛 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "54806809341165571",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.right.com.cn/forum/forum-182-1.html",
+      "title": "国内 IPTV 直播源、播放软件与网络视听代码 - 恩山无线论坛",
+      "type": "feed",
+      "url": "rsshub://right/forum/182"
     }
   ]
 }

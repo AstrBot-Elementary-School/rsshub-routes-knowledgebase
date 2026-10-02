@@ -149,6 +149,19 @@ _None_
   "test": {
     "code": 1
   },
-  "topFeeds": []
+  "topFeeds": [
+    {
+      "description": "热点 - 今日头条 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "1311877517102940160",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.toutiao.com/ch/news_hot/",
+      "title": "热点 - 今日头条",
+      "type": "feed",
+      "url": "rsshub://toutiao/channel/news_hot"
+    }
+  ]
 }
 ```

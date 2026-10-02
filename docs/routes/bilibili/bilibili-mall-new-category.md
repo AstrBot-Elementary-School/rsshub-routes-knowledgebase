@@ -68,7 +68,7 @@ _None_
   "topFeeds": [
     {
       "description": "会员购新品上架-手办 - Powered by RSSHub",
-      "errorAt": "2026-09-07T10:31:11.976Z",
+      "errorAt": "2026-10-01T14:05:39.465Z",
       "errorMessage": "[GET] \"https://mall.bilibili.com/mall-c-search/home/new_items/list?pageNum=1&pageSize=20&version=1.0&cityId=0&cateType=1\": 412 Precondition Failed\n",
       "id": "41147805268337676",
       "image": null,

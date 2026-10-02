@@ -65,18 +65,6 @@ _None_
   "topFeeds": [
     {
       "description": "新着の最新記事 | ゲーム・エンタメ最新情報のファミ通.com - Powered by RSSHub",
-      "errorAt": "2026-03-26T04:42:27.495Z",
-      "errorMessage": "Unhandle type: ARTICLE_AD\n",
-      "id": "73943720962894848",
-      "image": "https://www.famitsu.com/img/1812/favicons/apple-touch-icon.png",
-      "ownerUserId": null,
-      "siteUrl": "https://www.famitsu.com/category/new-article/page/1",
-      "title": "新着の最新記事 | ゲーム・エンタメ最新情報のファミ通.com",
-      "type": "feed",
-      "url": "rsshub://famitsu/category/new-article"
-    },
-    {
-      "description": "新着の最新記事 | ゲーム・エンタメ最新情報のファミ通.com - Powered by RSSHub",
       "errorAt": "2026-03-26T05:02:18.083Z",
       "errorMessage": "Unhandle type: ARTICLE_AD\n",
       "id": "172851805999353856",
@@ -86,6 +74,18 @@ _None_
       "title": "新着の最新記事 | ゲーム・エンタメ最新情報のファミ通.com",
       "type": "feed",
       "url": "rsshub://famitsu/category"
+    },
+    {
+      "description": "新着の最新記事 | ゲーム・エンタメ最新情報のファミ通.com - Powered by RSSHub",
+      "errorAt": "2026-03-26T04:42:27.495Z",
+      "errorMessage": "Unhandle type: ARTICLE_AD\n",
+      "id": "73943720962894848",
+      "image": "https://www.famitsu.com/img/1812/favicons/apple-touch-icon.png",
+      "ownerUserId": null,
+      "siteUrl": "https://www.famitsu.com/category/new-article/page/1",
+      "title": "新着の最新記事 | ゲーム・エンタメ最新情報のファミ通.com",
+      "type": "feed",
+      "url": "rsshub://famitsu/category/new-article"
     }
   ]
 }

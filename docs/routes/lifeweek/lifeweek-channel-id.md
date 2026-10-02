@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "文化 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-01T13:31:18.696Z",
+      "errorMessage": "503 \n",
       "id": "74705665643397120",
       "image": null,
       "ownerUserId": null,
@@ -81,7 +81,7 @@ _None_
     },
     {
       "description": "经济 - Powered by RSSHub",
-      "errorAt": "2026-09-30T08:01:23.567Z",
+      "errorAt": "2026-10-01T09:21:08.699Z",
       "errorMessage": "503 \n",
       "id": "77268471866082304",
       "image": null,

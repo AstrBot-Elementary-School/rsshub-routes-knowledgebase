@@ -56,7 +56,7 @@
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 147,
+  "heat": 148,
   "location": "subject.ts",
   "maintainers": [
     "nczitzk"
@@ -78,18 +78,6 @@
   },
   "topFeeds": [
     {
-      "description": "每日7点，最热、最全面的财经资讯尽在财联社早报 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "69656992151508992",
-      "image": "https://img.cls.cn/images/20230626/VTro88PCM7.jpg",
-      "ownerUserId": null,
-      "siteUrl": "https://www.cls.cn/subject/1151",
-      "title": "财联社 - 有声早报",
-      "type": "feed",
-      "url": "rsshub://cls/subject/1151"
-    },
-    {
       "description": "汽车行业资讯一网打尽。 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -100,6 +88,18 @@
       "title": "财联社 - 财联社汽车早报",
       "type": "feed",
       "url": "rsshub://cls/subject/7527"
+    },
+    {
+      "description": "每日7点，最热、最全面的财经资讯尽在财联社早报 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "69656992151508992",
+      "image": "https://img.cls.cn/images/20230626/VTro88PCM7.jpg",
+      "ownerUserId": null,
+      "siteUrl": "https://www.cls.cn/subject/1151",
+      "title": "财联社 - 有声早报",
+      "type": "feed",
+      "url": "rsshub://cls/subject/1151"
     }
   ],
   "url": "www.cls.cn"

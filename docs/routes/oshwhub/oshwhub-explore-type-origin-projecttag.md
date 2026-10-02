@@ -1531,18 +1531,6 @@
   "topFeeds": [
     {
       "description": "开源广场-EDA开源硬件平台，硬件工程师的电路家园 - Powered by RSSHub",
-      "errorAt": "2026-09-30T11:46:10.322Z",
-      "errorMessage": "503 \n",
-      "id": "202562470263424000",
-      "image": "https://static.oshwhub.com/web-assets/oshwhub/images/header-footer/logo.png?v=1789465228627",
-      "ownerUserId": null,
-      "siteUrl": "https://oshwhub.com/explore",
-      "title": "立创开源广场 - 立创开源硬件平台",
-      "type": "feed",
-      "url": "rsshub://oshwhub/explore/new"
-    },
-    {
-      "description": "开源广场-EDA开源硬件平台，硬件工程师的电路家园 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "215454511119244288",
@@ -1552,6 +1540,18 @@
       "title": "立创开源广场 - 立创开源硬件平台",
       "type": "feed",
       "url": "rsshub://oshwhub/explore"
+    },
+    {
+      "description": "开源广场-EDA开源硬件平台，硬件工程师的电路家园 - Powered by RSSHub",
+      "errorAt": "2026-10-01T12:45:55.652Z",
+      "errorMessage": "KV PUT failed: 429 Too Many Requests\n",
+      "id": "202562470263424000",
+      "image": "https://static.oshwhub.com/web-assets/oshwhub/images/header-footer/logo.png?v=1789465228627",
+      "ownerUserId": null,
+      "siteUrl": "https://oshwhub.com/explore",
+      "title": "立创开源广场 - 立创开源硬件平台",
+      "type": "feed",
+      "url": "rsshub://oshwhub/explore/new"
     }
   ],
   "url": "oshwhub.com",

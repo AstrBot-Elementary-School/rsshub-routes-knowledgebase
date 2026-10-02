@@ -73,18 +73,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "酷安图文 - 编辑精选 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "54083984224404480",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.coolapk.com/",
-      "title": "酷安图文 - 编辑精选",
-      "type": "feed",
-      "url": "rsshub://coolapk/tuwen"
-    },
-    {
       "description": "酷安 - 新鲜图文 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -95,6 +83,18 @@ _None_
       "title": "酷安 - 新鲜图文",
       "type": "feed",
       "url": "rsshub://coolapk/tuwen/latest"
+    },
+    {
+      "description": "酷安图文 - 编辑精选 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "54083984224404480",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.coolapk.com/",
+      "title": "酷安图文 - 编辑精选",
+      "type": "feed",
+      "url": "rsshub://coolapk/tuwen"
     }
   ]
 }

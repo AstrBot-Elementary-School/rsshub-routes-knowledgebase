@@ -77,6 +77,18 @@ _None_
   ],
   "topFeeds": [
     {
+      "description": "#💬｜讨论 - Folo - Discord - Powered by RSSHub",
+      "errorAt": "2025-12-04T20:07:28.537Z",
+      "errorMessage": "Discord RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\nDiscord RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\n",
+      "id": "97899189022799872",
+      "image": "https://cdn.discordapp.com/icons/1243823539426033696/b7e6b0a2026084252f2ccb46b824c31e.webp",
+      "ownerUserId": null,
+      "siteUrl": "https://discord.com/channels/1243823539426033696/1265925366820765818",
+      "title": "#💬｜讨论 - Folo - Discord",
+      "type": "feed",
+      "url": "rsshub://discord/channel/1265925366820765818"
+    },
+    {
       "description": "#📢｜announcements - Folo - Discord - Powered by RSSHub",
       "errorAt": "2025-12-11T16:02:11.838Z",
       "errorMessage": "Discord RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\n",
@@ -87,18 +99,6 @@ _None_
       "title": "#📢｜announcements - Folo - Discord",
       "type": "feed",
       "url": "rsshub://discord/channel/1265924538747715735"
-    },
-    {
-      "description": "#💬｜讨论 - Folo - Discord - Powered by RSSHub",
-      "errorAt": "2025-12-04T20:07:28.537Z",
-      "errorMessage": "Discord RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\n",
-      "id": "97899189022799872",
-      "image": "https://cdn.discordapp.com/icons/1243823539426033696/b7e6b0a2026084252f2ccb46b824c31e.webp",
-      "ownerUserId": null,
-      "siteUrl": "https://discord.com/channels/1243823539426033696/1265925366820765818",
-      "title": "#💬｜讨论 - Folo - Discord",
-      "type": "feed",
-      "url": "rsshub://discord/channel/1265925366820765818"
     }
   ]
 }

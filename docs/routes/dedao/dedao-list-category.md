@@ -76,18 +76,6 @@ _None_
       "description": "得到 - 年度日更 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "115579636743659520",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.igetget.com/list/%E5%B9%B4%E5%BA%A6%E6%97%A5%E6%9B%B4/Z01i89TzfXcv",
-      "title": "得到 - 年度日更",
-      "type": "feed",
-      "url": "rsshub://dedao/list"
-    },
-    {
-      "description": "得到 - 年度日更 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "59505334359543853",
       "image": null,
       "ownerUserId": null,
@@ -95,6 +83,18 @@ _None_
       "title": "得到 - 年度日更",
       "type": "feed",
       "url": "rsshub://dedao/list/%E5%B9%B4%E5%BA%A6%E6%97%A5%E6%9B%B4"
+    },
+    {
+      "description": "得到 - 年度日更 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "115579636743659520",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.igetget.com/list/%E5%B9%B4%E5%BA%A6%E6%97%A5%E6%9B%B4/Z01i89TzfXcv",
+      "title": "得到 - 年度日更",
+      "type": "feed",
+      "url": "rsshub://dedao/list"
     }
   ],
   "url": "igetget.com/"

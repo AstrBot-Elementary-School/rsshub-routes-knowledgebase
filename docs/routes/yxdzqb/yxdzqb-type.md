@@ -54,7 +54,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 561,
+  "heat": 560,
   "location": "index.tsx",
   "maintainers": [
     "LogicJake",
@@ -79,7 +79,7 @@
     {
       "description": "中文热门游戏折扣合集-游戏打折情报 - Powered by RSSHub",
       "errorAt": "2026-09-28T15:01:23.016Z",
-      "errorMessage": "Authentication failed. Access denied.\n/yxdzqb/popular_cn\n[GET] \"https://www.yxdzqb.com/index_popular_cn.html\": 404 \n[GET] \"https://www.yxdzqb.com/index_popular_cn.html\": 404 Not Found\n",
+      "errorMessage": "Authentication failed. Access denied.\n/yxdzqb/popular_cn\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "41476070206969860",
       "image": null,
       "ownerUserId": null,
@@ -91,7 +91,7 @@
     {
       "description": "Steam 热门游戏历史低价-游戏打折情报 - Powered by RSSHub",
       "errorAt": "2026-09-30T13:25:56.462Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nAuthentication failed. Access denied.\n/yxdzqb/low\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "502 \nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nAuthentication failed. Access denied.\n/yxdzqb/low\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "52721325092269088",
       "image": null,
       "ownerUserId": null,

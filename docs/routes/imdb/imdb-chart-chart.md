@@ -42,7 +42,7 @@ _None_
   ],
   "description": "| Top 250 Movies | Most Popular Movies | Top 250 TV Shows | Most Popular TV Shows |\n| -------------- | ------------------- | ---------------- | --------------------- |\n| top            | moviemeter          | toptv            | tvmeter               |",
   "example": "/imdb/chart",
-  "heat": 1411,
+  "heat": 1412,
   "location": "chart.tsx",
   "maintainers": [
     "TonyRL"
@@ -100,7 +100,7 @@ _None_
     {
       "description": "As determined by IMDb users - Powered by RSSHub",
       "errorAt": "2026-03-19T23:41:25.270Z",
-      "errorMessage": "Unexpected end of JSON input\nUnexpected end of JSON input\n",
+      "errorMessage": "Unexpected end of JSON input\nUnexpected end of JSON input\nUnexpected end of JSON input\n",
       "id": "64117673690336339",
       "image": null,
       "ownerUserId": null,

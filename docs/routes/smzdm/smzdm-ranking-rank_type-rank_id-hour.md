@@ -57,7 +57,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 5042,
+  "heat": 5043,
   "location": "ranking.ts",
   "maintainers": [
     "DIYgod"
@@ -243,18 +243,6 @@ _None_
   "path": "/ranking/:rank_type/:rank_id/:hour",
   "topFeeds": [
     {
-      "description": "什么值得买好价品类榜-好价品类榜-全部-24小时 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "41356126035548160",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.smzdm.com/top/",
-      "title": "什么值得买好价品类榜-好价品类榜-全部-24小时",
-      "type": "feed",
-      "url": "rsshub://smzdm/ranking/pinlei/11/24"
-    },
-    {
       "description": "什么值得买好价品类榜-好价品类榜-全部-3小时 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -265,6 +253,18 @@ _None_
       "title": "什么值得买好价品类榜-好价品类榜-全部-3小时",
       "type": "feed",
       "url": "rsshub://smzdm/ranking/pinlei/11/3"
+    },
+    {
+      "description": "什么值得买好价品类榜-好价品类榜-全部-24小时 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "41356126035548160",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.smzdm.com/top/",
+      "title": "什么值得买好价品类榜-好价品类榜-全部-24小时",
+      "type": "feed",
+      "url": "rsshub://smzdm/ranking/pinlei/11/24"
     }
   ],
   "view": 5
