@@ -38,7 +38,7 @@ _None_
     "blog"
   ],
   "example": "/towardsdatascience/latest",
-  "heat": 16,
+  "heat": 18,
   "location": "latest.ts",
   "maintainers": [
     "mintyfrankie"

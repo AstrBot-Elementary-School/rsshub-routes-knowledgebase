@@ -75,7 +75,7 @@ _None_
     {
       "description": "游戏库 - 最近发行的游戏（全平台） | indienova GameDB 游戏库 - Powered by RSSHub",
       "errorAt": "2026-10-01T05:21:33.921Z",
-      "errorMessage": "[GET] \"https://indienova.com/game/futanari-sex\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://indienova.com/game/penis-bird\": 404 Not Found\n",
       "id": "63456437927240704",
       "image": null,
       "ownerUserId": null,

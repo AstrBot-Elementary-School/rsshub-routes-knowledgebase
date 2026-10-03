@@ -449,8 +449,8 @@
     },
     {
       "description": "新闻发布 - Powered by RSSHub",
-      "errorAt": "2026-09-21T13:11:03.735Z",
-      "errorMessage": "[GET] \"https://www.lswz.gov.cn/html/xinwen/index.shtml\": 530 \n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "67547296955634688",
       "image": "https://www.lswz.gov.cn/html/xhtml/images/logo-index.png",
       "ownerUserId": null,

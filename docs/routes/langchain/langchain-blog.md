@@ -39,7 +39,7 @@ _None_
   ],
   "description": "LangChain Blog Posts",
   "example": "/langchain/blog",
-  "heat": 173,
+  "heat": 175,
   "location": "index.ts",
   "maintainers": [
     "liyaozhong"

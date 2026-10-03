@@ -52,7 +52,7 @@ _None_
     "picture"
   ],
   "example": "/voronoiapp/popular/most-popular/MONTH",
-  "heat": 35,
+  "heat": 36,
   "location": "popular.ts",
   "maintainers": [
     "Cesaryuan"

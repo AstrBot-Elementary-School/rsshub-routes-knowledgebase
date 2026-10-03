@@ -77,18 +77,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "北京AQI-aqicn.org - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "119282037376184320",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://aqicn.org/city/beijing",
-      "title": "北京AQI",
-      "type": "feed",
-      "url": "rsshub://aqicn/beijing/pm25"
-    },
-    {
       "description": "上海AQI-aqicn.org - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -99,6 +87,18 @@ _None_
       "title": "上海AQI",
       "type": "feed",
       "url": "rsshub://aqicn/shanghai/pm25,pm10"
+    },
+    {
+      "description": "广州AQI-aqicn.org - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "73340530520921102",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://aqicn.org/city/guangzhou",
+      "title": "广州AQI",
+      "type": "feed",
+      "url": "rsshub://aqicn/guangzhou"
     }
   ],
   "url": "aqicn.org"

@@ -89,7 +89,7 @@
     {
       "description": "兩岸 ｜ 公視新聞網 PNN - Powered by RSSHub",
       "errorAt": "2026-09-08T16:12:51.826Z",
-      "errorMessage": "200 ",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "69916583666985994",
       "image": null,
       "ownerUserId": null,

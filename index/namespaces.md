@@ -11396,6 +11396,12 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `1`
 - Index File: `index/wzbc.md`
 
+## National Museum of Chinese Writing
+- Namespace: `wzbwg`
+- Aliases: `national museum of chinese writing, www, www.wzbwg.com, wzbwg, wzbwg.com`
+- Route Count: `2`
+- Index File: `index/wzbwg.md`
+
 ## 温州大学
 - Namespace: `wzu`
 - Aliases: `wzu, wzu.edu.cn, 温州大学`

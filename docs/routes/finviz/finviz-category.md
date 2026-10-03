@@ -92,8 +92,8 @@
   "topFeeds": [
     {
       "description": "Stock screener for investors and traders, financial visualizations. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-02T12:50:43.462Z",
+      "errorMessage": "503 \n",
       "id": "59063423343404032",
       "image": "https://finviz.com/undefined",
       "ownerUserId": null,

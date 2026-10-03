@@ -71,18 +71,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "ごさいじ+language:\"chinese\" - E-Hentai Search - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "132859028606370816",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://e-hentai.org/?f_search=%E3%81%94%E3%81%95%E3%81%84%E3%81%98+language:%22chinese%22",
-      "title": "ごさいじ+language:\"chinese\" - E-Hentai Search",
-      "type": "feed",
-      "url": "rsshub://ehentai/search/f_search=%E3%81%94%E3%81%95%E3%81%84%E3%81%98+language%3A%22chinese%22"
-    },
-    {
       "description": "undefined - E-Hentai Search - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -93,6 +81,18 @@ _None_
       "title": "undefined - E-Hentai Search",
       "type": "feed",
       "url": "rsshub://ehentai/search"
+    },
+    {
+      "description": "ごさいじ+language:\"chinese\" - E-Hentai Search - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "132859028606370816",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://e-hentai.org/?f_search=%E3%81%94%E3%81%95%E3%81%84%E3%81%98+language:%22chinese%22",
+      "title": "ごさいじ+language:\"chinese\" - E-Hentai Search",
+      "type": "feed",
+      "url": "rsshub://ehentai/search/f_search=%E3%81%94%E3%81%95%E3%81%84%E3%81%98+language%3A%22chinese%22"
     }
   ]
 }

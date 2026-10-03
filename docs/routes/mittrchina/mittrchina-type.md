@@ -69,18 +69,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "MIT 科技评论 - 本周热榜 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "41492096674907158",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.mittrchina.com/hot",
-      "title": "MIT 科技评论 - 本周热榜",
-      "type": "feed",
-      "url": "rsshub://mittrchina/hot"
-    },
-    {
       "description": "MIT 科技评论 - 首页资讯 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -91,6 +79,18 @@ _None_
       "title": "MIT 科技评论 - 首页资讯",
       "type": "feed",
       "url": "rsshub://mittrchina"
+    },
+    {
+      "description": "MIT 科技评论 - 本周热榜 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "41492096674907158",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.mittrchina.com/hot",
+      "title": "MIT 科技评论 - 本周热榜",
+      "type": "feed",
+      "url": "rsshub://mittrchina/hot"
     }
   ]
 }

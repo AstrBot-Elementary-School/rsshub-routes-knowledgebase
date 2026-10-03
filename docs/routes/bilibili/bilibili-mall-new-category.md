@@ -67,6 +67,18 @@ _None_
   },
   "topFeeds": [
     {
+      "description": "会员购新品上架-周边 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "76101766062304256",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://mall.bilibili.com/newdate.html?noTitleBar=1&page=new&from=new_product&loadingShow=1",
+      "title": "会员购新品上架-周边",
+      "type": "feed",
+      "url": "rsshub://bilibili/mall/new/3"
+    },
+    {
       "description": "会员购新品上架-手办 - Powered by RSSHub",
       "errorAt": "2026-10-01T14:05:39.465Z",
       "errorMessage": "[GET] \"https://mall.bilibili.com/mall-c-search/home/new_items/list?pageNum=1&pageSize=20&version=1.0&cityId=0&cateType=1\": 412 Precondition Failed\n",
@@ -77,18 +89,6 @@ _None_
       "title": "会员购新品上架-手办",
       "type": "feed",
       "url": "rsshub://bilibili/mall/new/1"
-    },
-    {
-      "description": "会员购新品上架-全部 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "60873113485072384",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://mall.bilibili.com/newdate.html?noTitleBar=1&page=new&from=new_product&loadingShow=1",
-      "title": "会员购新品上架-全部",
-      "type": "feed",
-      "url": "rsshub://bilibili/mall/new"
     }
   ]
 }

@@ -1531,8 +1531,8 @@
   "topFeeds": [
     {
       "description": "开源广场-EDA开源硬件平台，硬件工程师的电路家园 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-02T08:12:08.492Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "215454511119244288",
       "image": "https://static.oshwhub.com/web-assets/oshwhub/images/header-footer/logo.png?v=1789465228627",
       "ownerUserId": null,
@@ -1543,8 +1543,8 @@
     },
     {
       "description": "开源广场-EDA开源硬件平台，硬件工程师的电路家园 - Powered by RSSHub",
-      "errorAt": "2026-10-01T12:45:55.652Z",
-      "errorMessage": "KV PUT failed: 429 Too Many Requests\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "202562470263424000",
       "image": "https://static.oshwhub.com/web-assets/oshwhub/images/header-footer/logo.png?v=1789465228627",
       "ownerUserId": null,

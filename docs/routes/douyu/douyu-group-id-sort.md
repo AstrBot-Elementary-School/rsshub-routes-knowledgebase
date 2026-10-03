@@ -98,16 +98,16 @@
       "url": "rsshub://douyu/group/534"
     },
     {
-      "description": "寅子的鱼吧 - Powered by RSSHub",
+      "description": "目黒川i的鱼吧 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "185721495210266624",
+      "id": "191990328080228352",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://yuba.douyu.com/group/newself/561",
-      "title": "斗鱼鱼吧 - 寅子",
+      "siteUrl": "https://yuba.douyu.com/group/newself/7133482",
+      "title": "斗鱼鱼吧 - 目黒川i",
       "type": "feed",
-      "url": "rsshub://douyu/group/561"
+      "url": "rsshub://douyu/group/7133482"
     }
   ]
 }

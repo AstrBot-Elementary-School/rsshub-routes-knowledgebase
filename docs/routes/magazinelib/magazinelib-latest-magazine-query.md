@@ -50,7 +50,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2,
+  "heat": 3,
   "location": "latest-magazine.tsx",
   "maintainers": [
     "IvanWng97"

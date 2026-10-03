@@ -86,8 +86,8 @@ _None_
     },
     {
       "description": "Remote Sensing - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-02T13:35:48.375Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n[GET] \"https://www.mdpi.comundefined\": 530 \n",
       "id": "85233533576043520",
       "image": null,
       "ownerUserId": null,

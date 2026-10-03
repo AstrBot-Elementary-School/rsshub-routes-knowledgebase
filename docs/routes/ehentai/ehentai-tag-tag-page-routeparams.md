@@ -72,8 +72,8 @@ _None_
   "topFeeds": [
     {
       "description": "language:chinese - E-Hentai Tag - Powered by RSSHub",
-      "errorAt": "2026-10-01T11:40:44.250Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "120679993479343104",
       "image": null,
       "ownerUserId": null,

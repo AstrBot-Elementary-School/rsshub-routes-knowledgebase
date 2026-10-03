@@ -76,7 +76,7 @@ _None_
     {
       "description": "活动 - Odaily星球日报 - Powered by RSSHub",
       "errorAt": "2025-07-24T19:01:13.578Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'items')\n",
+      "errorMessage": "[GET] \"https://www.odaily.news/service/scheme/group/8?page=1&per_page=25\": 404 Not Found\n",
       "id": "59954233475243008",
       "image": null,
       "ownerUserId": null,

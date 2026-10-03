@@ -51,28 +51,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "718制造 商铺上新 - Powered by RSSHub",
+      "description": "妙蛙种子studio 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264524576058900480",
+      "id": "1264526070086762496",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1679474173",
-      "title": "718制造 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1776674290",
+      "title": "妙蛙种子studio 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1679474173"
+      "url": "rsshub://weidian/goods/1776674290"
     },
     {
-      "description": "byvovo 商铺上新 - Powered by RSSHub",
+      "description": "Earlytom 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264525518451900416",
+      "id": "1264526825111814144",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1771961812",
-      "title": "byvovo 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1867534160",
+      "title": "Earlytom 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1771961812"
+      "url": "rsshub://weidian/goods/1867534160"
     }
   ]
 }

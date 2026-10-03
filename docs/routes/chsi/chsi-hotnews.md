@@ -72,8 +72,8 @@ _None_
   "topFeeds": [
     {
       "description": "中国研究生招生信息网 - 热点 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-01T15:05:47.569Z",
+      "errorMessage": "[GET] \"https://yz.chsi.com.cn\": 403 Forbidden\n",
       "id": "63435252587286528",
       "image": null,
       "ownerUserId": null,

@@ -104,16 +104,16 @@
   },
   "topFeeds": [
     {
-      "description": "Changes Minecraft Combat into Souls-Like Combat. - Powered by RSSHub",
+      "description": "A powerful plugin to manage various PvP combat features - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "86130193434324992",
+      "id": "123852126561305600",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/epic-fight",
-      "title": "Epic Fight Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/1Ffl2uIq",
+      "title": "PvPManager Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/epic-fight/versions"
+      "url": "rsshub://modrinth/project/1Ffl2uIq/versions"
     },
     {
       "description": "Aesthetic Technology that empowers the Player - Powered by RSSHub",

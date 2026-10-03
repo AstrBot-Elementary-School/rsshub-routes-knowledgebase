@@ -31,7 +31,7 @@ It adds what the area route's cards omit: 乗降者数 for the nearest station, 
 
 
 ## Features
-- `requireConfig`: [{"description": "ぶけなび account e-mail. Optional — without it the route reads the public view.", "name": "BUKENAVI_EMAIL", "optional": true}, {"description": "ぶけなび account password. Optional — without it the route reads the public view.", "name": "BUKENAVI_PASSWORD", "optional": true}]
+- `requireConfig`: [{"description": "ぶけなび account e-mail. Without it the route reads the public view.", "name": "BUKENAVI_EMAIL", "optional": true}, {"description": "ぶけなび account password. Without it the route reads the public view.", "name": "BUKENAVI_PASSWORD", "optional": true}]
 - `requirePuppeteer`: false
 - `antiCrawler`: false
 - `supportRadar`: true
@@ -54,12 +54,12 @@ It adds what the area route's cards omit: 乗降者数 for the nearest station, 
     "antiCrawler": false,
     "requireConfig": [
       {
-        "description": "ぶけなび account e-mail. Optional — without it the route reads the public view.",
+        "description": "ぶけなび account e-mail. Without it the route reads the public view.",
         "name": "BUKENAVI_EMAIL",
         "optional": true
       },
       {
-        "description": "ぶけなび account password. Optional — without it the route reads the public view.",
+        "description": "ぶけなび account password. Without it the route reads the public view.",
         "name": "BUKENAVI_PASSWORD",
         "optional": true
       }

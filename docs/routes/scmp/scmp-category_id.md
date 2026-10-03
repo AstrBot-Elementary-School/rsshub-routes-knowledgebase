@@ -88,7 +88,7 @@ See the [official RSS page](https://www.scmp.com/rss) to get the ID of each cate
     {
       "description": "The latest breaking news from China. - Powered by RSSHub",
       "errorAt": "2026-09-18T09:02:16.787Z",
-      "errorMessage": "[GET] \"https://www.scmp.com/news/china/military/article/3369223/us-navy-launches-drone-command-could-reshape-taiwan-war-planning\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.scmp.com/news/china/diplomacy/article/3369361/why-did-trump-and-xi-seal-deal-world-war-ii-soldiers-missing-remains\": 403 Forbidden\n",
       "id": "58381798255721484",
       "image": "https://assets-v2.i-scmp.com/production/static/img/icons/scmp-meta-1200x630.png",
       "ownerUserId": null,

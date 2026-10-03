@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 249,
+  "heat": 248,
   "location": "index.ts",
   "maintainers": [
     "luyuhuang"
@@ -68,8 +68,8 @@ _None_
   "topFeeds": [
     {
       "description": "IT 之家 - 数码之家 - Powered by RSSHub",
-      "errorAt": "2026-09-30T04:16:13.718Z",
-      "errorMessage": "[GET] \"https://lapin.ithome.com/html/digi/1009114.htm\": 525 <none>\n",
+      "errorAt": "2026-10-02T04:56:28.505Z",
+      "errorMessage": "503 \n",
       "id": "41572238273905673",
       "image": "https://img.ithome.com/m/images/logo.png",
       "ownerUserId": null,

@@ -165,8 +165,8 @@
     },
     {
       "description": "热点图文 - 游民娱乐 - Powered by RSSHub",
-      "errorAt": "2026-10-01T13:50:57.461Z",
-      "errorMessage": "[GET] \"https://www.gamersky.com/news/202610/2220722.shtml\": 404 Not Found\n[GET] \"https://www.gamersky.com/news/202610/2220722.shtml\": 404 Not Found\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "73637415277299712",
       "image": null,
       "ownerUserId": null,

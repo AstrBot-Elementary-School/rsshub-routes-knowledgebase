@@ -167,8 +167,8 @@ _None_
   "topFeeds": [
     {
       "description": "美股资讯 - 金融界 - Powered by RSSHub",
-      "errorAt": "2026-10-01T13:02:02.680Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": "2026-10-02T05:51:59.664Z",
+      "errorMessage": "503 \n",
       "id": "137746341036184576",
       "image": null,
       "ownerUserId": null,
@@ -179,8 +179,8 @@ _None_
     },
     {
       "description": "财经资讯 - 金融界 - Powered by RSSHub",
-      "errorAt": "2026-10-01T04:31:07.074Z",
-      "errorMessage": "503 \n",
+      "errorAt": "2026-10-02T06:46:56.538Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "110335328538370048",
       "image": null,
       "ownerUserId": null,

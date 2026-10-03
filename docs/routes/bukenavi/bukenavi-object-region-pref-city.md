@@ -34,7 +34,7 @@ Note that `bukenavi.jp/{region}/area/{日本語}` pages are SEO landing pages ca
 
 
 ## Features
-- `requireConfig`: [{"description": "ぶけなび account e-mail. Optional — without it the route reads the public view.", "name": "BUKENAVI_EMAIL", "optional": true}, {"description": "ぶけなび account password. Optional — without it the route reads the public view.", "name": "BUKENAVI_PASSWORD", "optional": true}]
+- `requireConfig`: [{"description": "ぶけなび account e-mail. Without it the route reads the public view.", "name": "BUKENAVI_EMAIL", "optional": true}, {"description": "ぶけなび account password. Without it the route reads the public view.", "name": "BUKENAVI_PASSWORD", "optional": true}]
 - `requirePuppeteer`: false
 - `antiCrawler`: false
 - `supportRadar`: true
@@ -58,12 +58,12 @@ Note that `bukenavi.jp/{region}/area/{日本語}` pages are SEO landing pages ca
     "antiCrawler": false,
     "requireConfig": [
       {
-        "description": "ぶけなび account e-mail. Optional — without it the route reads the public view.",
+        "description": "ぶけなび account e-mail. Without it the route reads the public view.",
         "name": "BUKENAVI_EMAIL",
         "optional": true
       },
       {
-        "description": "ぶけなび account password. Optional — without it the route reads the public view.",
+        "description": "ぶけなび account password. Without it the route reads the public view.",
         "name": "BUKENAVI_PASSWORD",
         "optional": true
       }

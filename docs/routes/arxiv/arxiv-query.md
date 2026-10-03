@@ -71,8 +71,8 @@ _None_
     },
     {
       "description": "arXiv (search_query=cat:cs.AI AND (all:evolution OR all:evolutionary OR all:\"artificial evolution\" OR all:\"AI evolution\" OR all:\"self-improvement\" OR all:\"recursive self-improvement\")&start=0&max_results=100&sortBy=relevance&sortOrder=descending) - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-02T06:56:18.960Z",
+      "errorMessage": "[GET] \"https://export.arxiv.org/api/query?search_query=cat:cs.AI AND (all:evolution OR all:evolutionary OR all:\\\"artificial evolution\\\" OR all:\\\"AI evolution\\\" OR all:\\\"self-improvement\\\" OR all:\\\"recursive self-improvement\\\")&start=0&max_results=100&sortBy=relevance&sortOrder=descending\": 429 Too Many Requests\n",
       "id": "1308088789733605376",
       "image": null,
       "ownerUserId": null,

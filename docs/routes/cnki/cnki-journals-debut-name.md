@@ -74,18 +74,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "心理学报 - 全网首发 - Powered by RSSHub",
-      "errorAt": "2026-01-14T09:07:04.332Z",
-      "errorMessage": "[POST] \"https://chn.oversea.cnki.net/knavi/JournalDetail/GetnfAllOutline\": 404 \n[POST] \"https://chn.oversea.cnki.net/knavi/JournalDetail/GetnfAllOutline\": 404 Not Found\n",
-      "id": "73613364969526272",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://navi.cnki.net/knavi/journals/XLXB/detail",
-      "title": "心理学报 - 全网首发",
-      "type": "feed",
-      "url": "rsshub://cnki/journals/debut/XLXB"
-    },
-    {
       "description": "软件学报 - 全网首发 - Powered by RSSHub",
       "errorAt": "2026-01-14T10:25:00.992Z",
       "errorMessage": "[GET] \"https://chn.oversea.cnki.net/knavi/JournalDetail?pcode=CjFD&pykm=RJXB\": 404 Not Found\n[POST] \"https://chn.oversea.cnki.net/knavi/JournalDetail/GetnfAllOutline\": 404 Not Found\n",
@@ -96,6 +84,18 @@ _None_
       "title": "软件学报 - 全网首发",
       "type": "feed",
       "url": "rsshub://cnki/journals/debut/RJXB"
+    },
+    {
+      "description": "心理学报 - 全网首发 - Powered by RSSHub",
+      "errorAt": "2026-01-14T09:07:04.332Z",
+      "errorMessage": "[POST] \"https://chn.oversea.cnki.net/knavi/JournalDetail/GetnfAllOutline\": 404 \n[POST] \"https://chn.oversea.cnki.net/knavi/JournalDetail/GetnfAllOutline\": 404 Not Found\n",
+      "id": "73613364969526272",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://navi.cnki.net/knavi/journals/XLXB/detail",
+      "title": "心理学报 - 全网首发",
+      "type": "feed",
+      "url": "rsshub://cnki/journals/debut/XLXB"
     }
   ]
 }

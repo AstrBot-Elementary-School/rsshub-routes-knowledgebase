@@ -121,8 +121,8 @@ _None_
   "topFeeds": [
     {
       "description": "朝日新聞社のニュースサイト、朝日新聞デジタルの社会ニュースについてのページです - Powered by RSSHub",
-      "errorAt": "2026-10-01T06:30:36.764Z",
-      "errorMessage": "[GET] \"https://www.asahi.com/politics/list/government.html\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "1310844602264977408",
       "image": null,
       "ownerUserId": null,

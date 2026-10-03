@@ -81,7 +81,7 @@ _None_
     {
       "description": "PaperAgent|LLM热点Paper - Powered by RSSHub",
       "errorAt": "2025-07-23T12:13:10.406Z",
-      "errorMessage": "wechat-mp: request blocked by WAF: : ， . Video Mini Program ...: https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HCDgvGqjdHQ-PU0X2UpvUS9tnSf8J0W5yOmQaegu&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzk0MTYzMzMxMA%3D%3D%26mid%3D2247512220%26idx%3D1%26sn%3D28c5bdb9ae4fceb66511c94721cf3f4f\nwechat-mp: request blocked by WAF: : ， . Video Mini Program ...: https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HCfgvGqj5eUI7YKaMyBY3ky24fxKuzrIEFfSJHy8&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzk0MTYzMzMxMA%3D%3D%26mid%3D2247512275%26idx%3D1%26sn%3Dd7febcac5c9cddc507b24d497c392bec\n",
+      "errorMessage": "wechat-mp: request blocked by WAF: : ， . Video Mini Program ...: https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HDLtvmqjUPF2_Nhdlt5gFB8_DGLBJi815l7U_JYx&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzk0MTYzMzMxMA%3D%3D%26mid%3D2247512303%26idx%3D1%26sn%3D7ad1e6733cdde9be2a60937a02b7b2e3\nwechat-mp: request blocked by WAF: : ， . Video Mini Program ...: https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HD_tvmqjqnJBys6IkzbdXyq9FsOVdYEErRPlDYzB&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%3F__biz%3DMzk0MTYzMzMxMA%3D%3D%26mid%3D2247512275%26idx%3D1%26sn%3Dd7febcac5c9cddc507b24d497c392bec\n",
       "id": "55818057211386897",
       "image": null,
       "ownerUserId": null,

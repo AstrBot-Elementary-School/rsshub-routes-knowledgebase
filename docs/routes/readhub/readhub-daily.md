@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4866,
+  "heat": 4865,
   "location": "daily.ts",
   "maintainers": [
     "nczitzk",
@@ -73,7 +73,7 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "1. DeepSeek 开源昇腾基础组件 2. 苹果公布 iPhone Duo 预购安排 10 月 12 日可提前备单 3. 消息称苹果计划 10 月 13 日大力进军智能家居市场 4. 豆包 AI 个人助手独立 App 正内测 定名小豆 5. Tiffany 回应月饼事件：已专项调查并启动相应整改措施 6. Anthropic 披露与 SpaceX 签署最高 845 亿美元算力协议 7. AMD 82 亿美元收购李飞飞创立的 World Labs 引发行业争议 8. 豆包 App 上线「出行」超级入口 聚合本地生活服务 9. 东方甄选回应网红「溜溜凳」风波：2 倍退款不退货 10. 收购失败后 Manus 与 Meta 先后推出 Agent 产品成对手 11. Anthropic 面向政府机构的 Claude 现已全面开放 12. 寒武纪：离职高管梁军变更诉讼请求，要求公司赔偿 278.32 亿元 13. 快手高管调整：程一笑兼任社科线负责人 于越转任可灵 CEO 14. Anthropic 评测 GLM-5.3 漏洞利用能力，智谱股价盘中涨超 2% 15. OpenAI 重启 200 美元 Pro 套餐 额度减半引发开发者不满 16. 广州明确房企收取的房地产定金不得高于房屋总价 5% - Powered by RSSHub",
+      "description": "1. 创投圈密切关注 AI 天才姚顺宇动向 头部 VC 已与其接触 2. OpenAI 因数据泄露解雇三名安全研究员 3. 谷歌向部分合作伙伴推出 Gemini 4 Argon，系其最先进 AI 模型 4. Anthropic 拟最早 11 月中上市 时间表仍可能调整 5. 2026 年诺贝尔奖各奖项将在 10 月 5 日至 12 日陆续揭晓 6. Meta Muse 预计耗时 22 天下载破 500 万，超 ChatGPT 成最快 AI 应用 7. 博通已同意向 Anthropic 提供最高 420 亿美元贷款 8. 英伟达、Meta 等 AI 巨头质疑 Anthropic「过度警告」 9. 应对 AI 爬虫：Reddit 将关停 RSS 订阅、终止公共 API 访问 10. 马斯克旗下 SpaceXAI 拟全面改革 Grok 及 X 用户定价体系 11. 尘封 217 年的拿破仑密信，被 GPT-6 Astra 用 6 小时解开 12. 问界汽车：华为与赛力斯达成新五年合作 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "52347176714948614",

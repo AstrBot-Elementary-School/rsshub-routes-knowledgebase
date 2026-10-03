@@ -77,16 +77,16 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "李肥星 的 bilibili 投币视频 - Powered by RSSHub",
-      "errorAt": "2025-06-09T17:20:22.625Z",
-      "errorMessage": "用户隐私设置未公开\n",
-      "id": "94366174025681920",
+      "description": "羽毛Dub 的 bilibili 投币视频 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "109225476581666828",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://space.bilibili.com/97077691",
-      "title": "李肥星 的 bilibili 投币视频",
+      "siteUrl": "https://space.bilibili.com/12140997",
+      "title": "羽毛Dub 的 bilibili 投币视频",
       "type": "feed",
-      "url": "rsshub://bilibili/user/coin/97077691"
+      "url": "rsshub://bilibili/user/coin/12140997"
     },
     {
       "description": "大闲人贾白 的 bilibili 投币视频 - Powered by RSSHub",

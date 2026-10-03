@@ -395,8 +395,8 @@
     },
     {
       "description": "Free pre-installed PC games download. No speed limits, no installation required. - Powered by RSSHub",
-      "errorAt": "2026-09-29T23:32:17.988Z",
-      "errorMessage": "[GET] \"https://koyso.to/game/101\": 404 Not Found\n[GET] \"https://koyso.to/game/101\": 404 Not Found\n[GET] \"https://koyso.to/game/101\": 404 Not Found\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "186257019396793344",
       "image": null,
       "ownerUserId": null,
