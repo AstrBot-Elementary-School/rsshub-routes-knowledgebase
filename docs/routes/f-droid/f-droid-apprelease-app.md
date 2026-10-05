@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 12,
+  "heat": 13,
   "location": "apprelease.ts",
   "maintainers": [
     "garywill"

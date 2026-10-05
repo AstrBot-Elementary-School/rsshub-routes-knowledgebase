@@ -119,13 +119,13 @@
   ],
   "test": {
     "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:108:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
   "topFeeds": [
     {
       "description": "News & Views That Matter - Powered by RSSHub",
       "errorAt": "2026-09-07T10:16:30.919Z",
-      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/886080-%E9%BB%84%E5%BD%A6%E9%93%AC%E6%AF%95%E5%85%B8%E6%8A%97%E8%AE%AE%E6%A1%88%E4%B8%8A%E8%AF%89%E9%81%AD%E9%A9%B3%E4%B8%8A%E8%AF%89%E5%BA%AD%E7%BB%B4%E6%8C%81%E9%AB%98%E5%BA%AD%E5%8E%9F%E5%88%A4\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/886140-%E9%BB%84%E5%BD%A6%E9%93%AC%E5%BF%A7%E6%AF%95%E5%85%B8%E6%8A%97%E8%AE%AE%E6%A1%88%E6%A0%91%E4%B8%8D%E8%89%AF%E5%85%88%E4%BE%8B%E4%BF%83%E6%94%BF%E5%BA%9C%E4%BF%AE%E8%AE%A2%E5%88%91%E6%B3%95%E7%AC%AC504%E6%9D%A1\": 404 Not Found\n",
       "id": "69685104073634816",
       "image": null,
       "ownerUserId": null,
@@ -137,7 +137,7 @@
     {
       "description": "News & Views That Matter - Powered by RSSHub",
       "errorAt": "2026-09-07T09:32:19.566Z",
-      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/886036-snapshot-unhcr-worried-over-msias-return-of-1476-to-myanmar-samenta-hails-timely-wage-hike-exemption\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/886194-support-for-new-age-movement-enough-to-warrant-deputy-ministers-resignation-pas\": 404 Not Found\n",
       "id": "61840955600323584",
       "image": null,
       "ownerUserId": null,

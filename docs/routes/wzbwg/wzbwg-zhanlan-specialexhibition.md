@@ -54,6 +54,9 @@ _None_
       "target": "/zhanlan/specialexhibition"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

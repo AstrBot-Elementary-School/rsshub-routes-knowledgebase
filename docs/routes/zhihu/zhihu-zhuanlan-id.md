@@ -78,7 +78,7 @@ _None_
       "errorAt": null,
       "errorMessage": null,
       "id": "41359836954400791",
-      "image": "https://pic1.zhimg.com/v2-f111d7ee1c41944859e975a712c0883b_720w.jpg",
+      "image": "https://picx.zhimg.com/v2-f111d7ee1c41944859e975a712c0883b_720w.jpg",
       "ownerUserId": null,
       "siteUrl": "https://www.zhihu.com/column/c_1186819163765649408",
       "title": "知乎专栏-体验碎周报",

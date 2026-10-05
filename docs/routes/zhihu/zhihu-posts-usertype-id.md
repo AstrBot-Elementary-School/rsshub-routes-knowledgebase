@@ -62,7 +62,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1320,
+  "heat": 1319,
   "location": "posts.ts",
   "maintainers": [
     "whtsky",

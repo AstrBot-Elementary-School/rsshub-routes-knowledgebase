@@ -51,7 +51,7 @@ _None_
   "features": {
     "nsfw": true
   },
-  "heat": 318,
+  "heat": 317,
   "location": "index.ts",
   "maintainers": [
     "qiwihui",
@@ -71,13 +71,14 @@ _None_
     ""
   ],
   "test": {
-    "code": 0
+    "code": 1,
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:108:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
   "topFeeds": [
     {
       "description": "色花堂 - 高清中文字幕 - Powered by RSSHub",
       "errorAt": "2026-09-17T16:21:45.121Z",
-      "errorMessage": "[GET] \"https://www.sehuatang.net/\": 403 Forbidden\n[GET] \"https://www.sehuatang.net/forum.php?mod=forumdisplay&orderby=dateline&fid=103\": 403 Forbidden\n",
+      "errorMessage": "Failed to fetch\n[GET] \"https://www.sehuatang.net/\": 403 Forbidden\n",
       "id": "65327819580054528",
       "image": null,
       "ownerUserId": null,

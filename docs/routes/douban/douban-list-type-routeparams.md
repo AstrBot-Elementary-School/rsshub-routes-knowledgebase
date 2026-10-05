@@ -88,7 +88,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1714,
+  "heat": 1716,
   "location": "other/list.ts",
   "maintainers": [
     "5upernova-heng",

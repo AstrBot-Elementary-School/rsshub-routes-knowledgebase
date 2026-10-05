@@ -89,7 +89,7 @@
   "topFeeds": [
     {
       "description": "TVB News - 要闻 - Powered by RSSHub",
-      "errorAt": "2026-10-02T02:29:27.823Z",
+      "errorAt": "2026-10-04T04:50:34.280Z",
       "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "68507536443122688",
       "image": null,

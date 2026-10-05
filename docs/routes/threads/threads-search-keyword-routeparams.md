@@ -37,7 +37,7 @@ _None_
     "social-media"
   ],
   "example": "/threads/search/RSS",
-  "heat": 0,
+  "heat": 1,
   "location": "search.ts",
   "maintainers": [
     "TonyRL"
@@ -51,10 +51,22 @@ _None_
   },
   "path": "/search/:keyword/:routeParams?",
   "test": {
-    "code": 1,
-    "message": "AssertionError: expected [ …(15) ] to not include 'https://www.threads.com/t/DdtVubCge00'\n    at Proxy.<anonymous> (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+expect@4.1.11/node_modules/@vitest/expect/dist/index.js:1319:15)\n    at Proxy.<anonymous> (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+expect@4.1.11/node_modules/@vitest/expect/dist/index.js:1156:15)\n    at Proxy.methodWrapper (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/chai@6.2.2/node_modules/chai/index.js:1700:25)\n    at checkRSS (/home/runner/work/RSSHub/RSSHub/lib/app.test.ts:91:27)\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:106:17\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+    "code": 1
   },
-  "topFeeds": [],
+  "topFeeds": [
+    {
+      "description": "GrokBot - Search on Threads - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "1317317870085865472",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.threads.com/search?q=GrokBot&serp_type=tags",
+      "title": "GrokBot - Search on Threads",
+      "type": "feed",
+      "url": "rsshub://threads/search/GrokBot"
+    }
+  ],
   "view": 1
 }
 ```

@@ -36,7 +36,7 @@ _None_
     "new-media"
   ],
   "example": "/chouti/top/24",
-  "heat": 51,
+  "heat": 52,
   "location": "top.ts",
   "maintainers": [
     "DIYgod"

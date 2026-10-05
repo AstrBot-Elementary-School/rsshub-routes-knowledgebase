@@ -78,8 +78,8 @@ _None_
   "topFeeds": [
     {
       "description": "Egami(えがみ) 的 pixiv 最新收藏 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-03T02:57:52.759Z",
+      "errorMessage": "[GET] \"https://app-api.pixiv.net/v1/user/detail?user_id=64390150\": 403 Forbidden\n",
       "id": "198288028097028112",
       "image": null,
       "ownerUserId": null,

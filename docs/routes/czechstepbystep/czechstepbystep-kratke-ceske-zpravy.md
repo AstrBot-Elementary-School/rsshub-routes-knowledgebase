@@ -71,6 +71,9 @@ _None_
       "target": "/kratke-ceske-zpravy"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "url": "www.czechstepbystep.cz/kategorie/kratke-ceske-zpravy",
   "zh": {

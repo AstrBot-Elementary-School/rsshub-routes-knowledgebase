@@ -1531,7 +1531,7 @@
   "topFeeds": [
     {
       "description": "开源广场-EDA开源硬件平台，硬件工程师的电路家园 - Powered by RSSHub",
-      "errorAt": "2026-10-02T08:12:08.492Z",
+      "errorAt": "2026-10-04T12:46:40.804Z",
       "errorMessage": "Failed to fetch\n",
       "id": "215454511119244288",
       "image": "https://static.oshwhub.com/web-assets/oshwhub/images/header-footer/logo.png?v=1789465228627",

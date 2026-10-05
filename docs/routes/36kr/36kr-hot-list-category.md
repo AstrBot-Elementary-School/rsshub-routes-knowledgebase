@@ -57,7 +57,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 18640,
+  "heat": 18642,
   "location": "hot-list.ts",
   "maintainers": [
     "nczitzk"
@@ -84,18 +84,6 @@
       "description": "36氪 - 24小时热榜 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "41489882518602759",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.36kr.com/",
-      "title": "36氪 - 24小时热榜",
-      "type": "feed",
-      "url": "rsshub://36kr/hot-list"
-    },
-    {
-      "description": "36氪 - 24小时热榜 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "66137240013092864",
       "image": null,
       "ownerUserId": null,
@@ -103,6 +91,18 @@
       "title": "36氪 - 24小时热榜",
       "type": "feed",
       "url": "rsshub://36kr/hot-list/24"
+    },
+    {
+      "description": "36氪 - 24小时热榜 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "41489882518602759",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.36kr.com/",
+      "title": "36氪 - 24小时热榜",
+      "type": "feed",
+      "url": "rsshub://36kr/hot-list"
     }
   ]
 }

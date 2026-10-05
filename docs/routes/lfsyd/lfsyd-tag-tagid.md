@@ -70,8 +70,8 @@ _None_
   "topFeeds": [
     {
       "description": "游戏王 - 旅法师营地 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-04T09:04:44.622Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "60263446472040460",
       "image": null,
       "ownerUserId": null,

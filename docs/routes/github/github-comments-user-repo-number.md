@@ -65,21 +65,20 @@ _None_
     }
   ],
   "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+    "code": 0
   },
   "topFeeds": [
     {
-      "description": "comfyanonymous/ComfyUI: Issue & Pull request comments - Powered by RSSHub",
+      "description": "RSSNext/Folo: Issue & Pull request comments - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "68377703545822208",
+      "id": "128737368338530304",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/comfyanonymous/ComfyUI",
-      "title": "comfyanonymous/ComfyUI: Issue & Pull request comments",
+      "siteUrl": "https://github.com/RSSNext/Folo",
+      "title": "RSSNext/Folo: Issue & Pull request comments",
       "type": "feed",
-      "url": "rsshub://github/comments/comfyanonymous/ComfyUI"
+      "url": "rsshub://github/comments/RSSNext/Folo"
     },
     {
       "description": "521xueweihan/HelloGitHub: Issue & Pull request comments - Powered by RSSHub",

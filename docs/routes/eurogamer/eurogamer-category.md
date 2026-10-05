@@ -140,6 +140,9 @@ Eurogamer's official RSS feeds only include excerpts. This route fetches the ful
       "target": "/:category"
     }
   ],
+  "test": {
+    "code": 0
+  },
   "topFeeds": [],
   "url": "www.eurogamer.net/latest",
   "view": 0

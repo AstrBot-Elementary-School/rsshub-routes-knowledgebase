@@ -4,11 +4,11 @@
 `index-only`
 
 ## Route
-- Namespace: `xmlcom`
+- Namespace: `xml`
 - Namespace Name: `XML.com`
-- Route Path: `/xmlcom/`
+- Route Path: `/xml/`
 - Route Name: `Articles and News`
-- Example: `/xmlcom`
+- Example: `/xml`
 - URL: `www.xml.com`
 - Language: `_None_`
 - Categories: `programming`
@@ -38,7 +38,7 @@ _None_
     "programming"
   ],
   "description": "The official Atom feed (/feed/all/) truncates every entry to a 128 character summary and carries no category tags. This route fetches the full body from each detail page and extracts the tags of that page into category.",
-  "example": "/xmlcom",
+  "example": "/xml",
   "heat": 0,
   "location": "index.ts",
   "maintainers": [
@@ -53,9 +53,6 @@ _None_
       ]
     }
   ],
-  "test": {
-    "code": 1
-  },
   "topFeeds": []
 }
 ```

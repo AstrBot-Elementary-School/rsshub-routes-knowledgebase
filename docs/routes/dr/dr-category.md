@@ -173,6 +173,9 @@ DRs nyheder, baseret på de officielle RSS-feeds. RSSHub forsøger at hente den 
       "target": "/viden"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

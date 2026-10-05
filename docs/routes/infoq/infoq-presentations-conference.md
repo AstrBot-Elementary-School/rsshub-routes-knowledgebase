@@ -57,7 +57,7 @@ If you subscribe to [InfoQ Live Jan 2024](https://www.infoq.com/infoq-live-jan-2
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 182,
+  "heat": 183,
   "location": "presentations.ts",
   "maintainers": [
     "nczitzk"
@@ -96,7 +96,7 @@ If you subscribe to [InfoQ Live Jan 2024](https://www.infoq.com/infoq-live-jan-2
       "errorAt": null,
       "errorMessage": null,
       "id": "70149738744378368",
-      "image": "https://cdn.infoq.com/statics_s1_20261001082202/styles/static/images/logo/logo-big.jpg",
+      "image": "https://cdn.infoq.com/statics_s2_20261001082741/styles/static/images/logo/logo-big.jpg",
       "ownerUserId": null,
       "siteUrl": "https://www.infoq.com/presentations/",
       "title": "Presentations > Page #1 - InfoQ",

@@ -65,13 +65,13 @@ _None_
     }
   ],
   "test": {
-    "code": 0
+    "code": 1
   },
   "topFeeds": [
     {
       "description": "TiddlyWiki Releases - Powered by RSSHub",
-      "errorAt": "2026-10-02T08:22:42.081Z",
-      "errorMessage": "[GET] \"https://github.com/TiddlyWiki/TiddlyWiki5/releases.atom\": 429 Too Many Requests\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "95307506364399616",
       "image": null,
       "ownerUserId": null,

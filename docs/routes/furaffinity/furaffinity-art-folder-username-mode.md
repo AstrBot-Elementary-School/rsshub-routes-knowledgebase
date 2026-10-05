@@ -99,13 +99,13 @@ _None_
   ],
   "test": {
     "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:108:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
   "topFeeds": [
     {
       "description": "Fur Affinity Gallery of oddeyresproductions - Powered by RSSHub",
       "errorAt": "2026-05-25T18:57:48.549Z",
-      "errorMessage": "[GET] \"https://faexport.spangle.org.uk/user/oddeyresproductions/gallery.json?full=1\": 500 Internal Server Error\n[GET] \"https://faexport.spangle.org.uk/user/oddeyresproductions/gallery.json?full=1\": 500 Internal Server Error\n",
+      "errorMessage": "Failed to fetch\n[GET] \"https://faexport.spangle.org.uk/user/oddeyresproductions/gallery.json?full=1\": 500 Internal Server Error\n",
       "id": "79207337889916928",
       "image": null,
       "ownerUserId": null,
@@ -115,16 +115,16 @@ _None_
       "url": "rsshub://furaffinity/art/gallery/oddeyresproductions/nsfw"
     },
     {
-      "description": "Fur Affinity Gallery of carbondheat - Powered by RSSHub",
-      "errorAt": "2026-05-25T17:47:53.134Z",
-      "errorMessage": "[GET] \"https://faexport.spangle.org.uk/user/carbondheat/gallery.json?sfw=1&full=1\": 500 Internal Server Error\n[GET] \"https://faexport.spangle.org.uk/user/carbondheat/gallery.json?sfw=1&full=1\": 500 Internal Server Error\n",
-      "id": "79001724977710080",
+      "description": "Fur Affinity Gallery of dsc85 - Powered by RSSHub",
+      "errorAt": "2026-05-26T01:20:04.189Z",
+      "errorMessage": "Failed to fetch\n[GET] \"https://faexport.spangle.org.uk/user/dsc85/gallery.json?full=1\": 500 Internal Server Error\n",
+      "id": "78980575087533056",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.furaffinity.net/gallery/carbondheat",
-      "title": "Fur Affinity | Gallery of carbondheat",
+      "siteUrl": "https://www.furaffinity.net/gallery/dsc85",
+      "title": "Fur Affinity | Gallery of dsc85",
       "type": "feed",
-      "url": "rsshub://furaffinity/art/gallery/carbondheat"
+      "url": "rsshub://furaffinity/art/gallery/dsc85/nsfw"
     }
   ],
   "url": "furaffinity.net"

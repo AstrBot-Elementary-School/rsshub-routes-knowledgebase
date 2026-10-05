@@ -68,20 +68,20 @@ _None_
   "path": "/:bcid?/:cid?",
   "test": {
     "code": 1,
-    "message": "AssertionError: expected NaN to be greater than -432000000\n    at checkDate (/home/runner/work/RSSHub/RSSHub/lib/app.test.ts:61:46)\n    at checkRSS (/home/runner/work/RSSHub/RSSHub/lib/app.test.ts:87:13)\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:106:17\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+    "message": "AssertionError: expected NaN to be greater than -432000000\n    at checkDate (/home/runner/work/RSSHub/RSSHub/lib/app.test.ts:64:46)\n    at checkRSS (/home/runner/work/RSSHub/RSSHub/lib/app.test.ts:90:13)\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:109:17\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
   "topFeeds": [
     {
-      "description": "工作动态_山东省教育招生考试院 - Powered by RSSHub",
+      "description": "山东省教育招生考试院官网 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "108788523729788928",
+      "id": "84436097402035200",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.sdzk.cn/NewsList.aspx?BCID=1&CID=16",
-      "title": "工作动态_山东省教育招生考试院",
+      "siteUrl": "https://www.sdzk.cn/NewsList.aspx?BCID=:bcid&CID=16",
+      "title": "山东省教育招生考试院官网",
       "type": "feed",
-      "url": "rsshub://sdzk/1"
+      "url": "rsshub://sdzk/:bcid"
     },
     {
       "description": "工作动态_山东省教育招生考试院 - Powered by RSSHub",

@@ -50,14 +50,13 @@ _None_
   },
   "path": "/:category?",
   "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+    "code": 1
   },
   "topFeeds": [
     {
       "description": "淘股吧散户炒股交流点赞牛贴 - Powered by RSSHub",
       "errorAt": "2026-07-02T22:09:34.740Z",
-      "errorMessage": "[GET] \"https://www.tgb.cn//a/2v8kfK83RRs\": 404 \n[GET] \"https://www.tgb.cn//a/2tGW6RLLWAm\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://www.tgb.cn/dianzan/\": 405 \n[GET] \"https://www.tgb.cn//a/1JJr5tL5ZuV\": 404 Not Found\n",
       "id": "115961018043937792",
       "image": null,
       "ownerUserId": null,
@@ -69,7 +68,7 @@ _None_
     {
       "description": "淘股吧股票论坛总版 - Powered by RSSHub",
       "errorAt": "2026-06-24T21:12:43.752Z",
-      "errorMessage": "502 \n[GET] \"https://www.tgb.cn//a/2uNma5vXKPD\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://www.tgb.cn//a/2vpvkWNCn6l\": 404 \n[GET] \"https://www.tgb.cn//a/2vAjivyzSGu\": 404 Not Found\n",
       "id": "101439531051305984",
       "image": null,
       "ownerUserId": null,

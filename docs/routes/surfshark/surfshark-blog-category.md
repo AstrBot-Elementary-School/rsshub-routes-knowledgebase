@@ -224,7 +224,7 @@ To subscribe to [Cybersecurity](https://surfshark.com/blog/cybersecurity), where
     }
   ],
   "test": {
-    "code": 0
+    "code": 1
   },
   "topFeeds": [],
   "url": "surfshark.com",

@@ -70,9 +70,21 @@ _None_
   ],
   "test": {
     "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:108:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
   "topFeeds": [
+    {
+      "description": "《1039新闻早报》是交通广播全力打造的一档早间新闻直播节目，节目的口号是“用新鲜资讯叫醒北京城”。节目秉承时效性、本地性、服务性的方针，力求通过自然轻松的播报方式，为听众献上一道丰盛的早间新闻大餐。 - Powered by RSSHub",
+      "errorAt": "2026-10-02T03:59:25.192Z",
+      "errorMessage": "[POST] \"https://api-v3.tingtingfm.com//broadcast/get_program_v3_8?version=h5_6.3.2&client=h5_6M6kvGw5rFkEZl2sMXke1LOLXEK0EW&h_program_id=EOAonLJy7G&api_sign=71e06d2fe2328b6e045bedbf1fde6019\": 405 Method Not Allowed\n",
+      "id": "73904811865636864",
+      "image": "https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2021/1223/14/6d/146da2f9ecf3daf4d6734f7b6d37113c.jpg",
+      "ownerUserId": null,
+      "siteUrl": "https://mobile.tingtingfm.com/v3/program/EOAonLJy7G",
+      "title": "1039新闻早报 - 北京交通广播FM103.9",
+      "type": "feed",
+      "url": "rsshub://tingtingfm/program/EOAonLJy7G"
+    },
     {
       "description": "《中国歌曲排行榜》是北京音乐广播1993年创建的内地历史最长、业界及听众心中最具权威度和公信力的华语流行音乐排行榜；多年来耕耘、扶持原创乐坛，推出海内外众多脍炙人口歌曲和著名歌手。囊括中国内地港台等地区时下最流行的中文歌曲TOP40四十首歌曲大排行，通过每周推出的中国原创流行歌曲，繁荣中国流行音乐创作，满足听众对于中文流行歌曲的趋势把控和欣赏的需求。 - Powered by RSSHub",
       "errorAt": null,
@@ -84,18 +96,6 @@ _None_
       "title": "中国歌曲排行榜 - 北京音乐广播FM97.4",
       "type": "feed",
       "url": "rsshub://tingtingfm/program/q0boxOndrg"
-    },
-    {
-      "description": "《1039新闻早报》是交通广播全力打造的一档早间新闻直播节目，节目的口号是“用新鲜资讯叫醒北京城”。节目秉承时效性、本地性、服务性的方针，力求通过自然轻松的播报方式，为听众献上一道丰盛的早间新闻大餐。 - Powered by RSSHub",
-      "errorAt": "2026-10-02T03:59:25.192Z",
-      "errorMessage": "[POST] \"https://api-v3.tingtingfm.com//broadcast/get_program_v3_8?version=h5_6.3.2&client=h5_VVuJyN3uXcbQr3zcGcmXNSDTLQM3VT&h_program_id=EOAonLJy7G&api_sign=40190e42ab18c36c8f4fd53928e74e7e\": 405 Method Not Allowed\n",
-      "id": "73904811865636864",
-      "image": "https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2021/1223/14/6d/146da2f9ecf3daf4d6734f7b6d37113c.jpg",
-      "ownerUserId": null,
-      "siteUrl": "https://mobile.tingtingfm.com/v3/program/EOAonLJy7G",
-      "title": "1039新闻早报 - 北京交通广播FM103.9",
-      "type": "feed",
-      "url": "rsshub://tingtingfm/program/EOAonLJy7G"
     }
   ],
   "view": 4

@@ -54,7 +54,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 5950,
+  "heat": 5952,
   "location": "other/group.ts",
   "maintainers": [
     "DIYgod"
@@ -96,8 +96,8 @@ _None_
   "topFeeds": [
     {
       "description": "豆瓣小组-可爱事物分享 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-04T14:30:04.737Z",
+      "errorMessage": "Failed to fetch\nFailed to fetch\n503 \n",
       "id": "41147805268337667",
       "image": null,
       "ownerUserId": null,

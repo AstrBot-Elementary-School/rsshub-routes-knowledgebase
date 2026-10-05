@@ -73,13 +73,13 @@ _None_
     }
   ],
   "test": {
-    "code": 0
+    "code": 1
   },
   "topFeeds": [
     {
       "description": "深交所官网 - Powered by RSSHub",
-      "errorAt": "2026-10-02T03:33:19.422Z",
-      "errorMessage": "[GET] \"https://www.szse.cn/disclosure/listed/notice\": 520 <none>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "115195943416981504",
       "image": null,
       "ownerUserId": null,

@@ -77,6 +77,18 @@ _None_
   },
   "topFeeds": [
     {
+      "description": "衡阳AQI-aqicn.org - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "56586770937356288",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://aqicn.org/city/hengyang",
+      "title": "衡阳AQI",
+      "type": "feed",
+      "url": "rsshub://aqicn/hengyang/pm25,pm10"
+    },
+    {
       "description": "上海AQI-aqicn.org - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -87,18 +99,6 @@ _None_
       "title": "上海AQI",
       "type": "feed",
       "url": "rsshub://aqicn/shanghai/pm25,pm10"
-    },
-    {
-      "description": "广州AQI-aqicn.org - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "73340530520921102",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://aqicn.org/city/guangzhou",
-      "title": "广州AQI",
-      "type": "feed",
-      "url": "rsshub://aqicn/guangzhou"
     }
   ],
   "url": "aqicn.org"

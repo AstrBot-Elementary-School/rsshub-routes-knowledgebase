@@ -57,7 +57,7 @@ More categories (except photo) can be found within the navigation bar at <https:
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1401,
+  "heat": 1404,
   "location": "news.ts",
   "maintainers": [
     "IvanWng97",
@@ -76,14 +76,13 @@ More categories (except photo) can be found within the navigation bar at <https:
     }
   ],
   "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+    "code": 1
   },
   "topFeeds": [
     {
       "description": "The Atlantic - LATEST - Powered by RSSHub",
       "errorAt": "2026-09-20T22:33:52.921Z",
-      "errorMessage": "[GET] \"https://www.theatlantic.com/latest/\": <no response> fetch failed\n[GET] \"https://www.theatlantic.com/latest/\": 403 \n[GET] \"https://www.theatlantic.com/latest/\": 403 Forbidden\n[GET] \"https://www.theatlantic.com/latest/\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.theatlantic.com/latest/\": <no response> fetch failed\n502 \n[GET] \"https://www.theatlantic.com/latest/\": 403 Forbidden\n[GET] \"https://www.theatlantic.com/latest/\": 403 Forbidden\n",
       "id": "61228164717836288",
       "image": null,
       "ownerUserId": null,

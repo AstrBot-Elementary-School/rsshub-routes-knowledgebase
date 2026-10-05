@@ -89,28 +89,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Posts of 灯工房 from fanbox | Pawchive - Powered by RSSHub",
+      "description": "Posts of JK君 from fanbox | Pawchive - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1300762247588347904",
-      "image": "https://pawchive.pw/icons/fanbox/33155081",
+      "id": "1300759803315748864",
+      "image": "https://pawchive.pw/icons/fanbox/25877697",
       "ownerUserId": null,
-      "siteUrl": "https://pawchive.pw/fanbox/user/33155081",
-      "title": "Posts of 灯工房 from fanbox | Pawchive",
+      "siteUrl": "https://pawchive.pw/fanbox/user/25877697",
+      "title": "Posts of JK君 from fanbox | Pawchive",
       "type": "feed",
-      "url": "rsshub://pawchive/fanbox/33155081"
+      "url": "rsshub://pawchive/fanbox/25877697"
     },
     {
-      "description": "Posts of ムラムラ村（3mura） from patreon | Pawchive - Powered by RSSHub",
-      "errorAt": "2026-10-02T08:26:21.951Z",
-      "errorMessage": "503 \n",
-      "id": "1280372498222678016",
-      "image": "https://pawchive.pw/icons/patreon/140457605",
+      "description": "Posts of せるたす from fanbox | Pawchive - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "1234181282800205824",
+      "image": "https://pawchive.pw/icons/fanbox/37432797",
       "ownerUserId": null,
-      "siteUrl": "https://pawchive.pw/patreon/user/140457605",
-      "title": "Posts of ムラムラ村（3mura） from patreon | Pawchive",
+      "siteUrl": "https://pawchive.pw/fanbox/user/37432797",
+      "title": "Posts of せるたす from fanbox | Pawchive",
       "type": "feed",
-      "url": "rsshub://pawchive/patreon/140457605"
+      "url": "rsshub://pawchive/fanbox/37432797"
     }
   ]
 }

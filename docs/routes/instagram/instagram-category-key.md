@@ -72,6 +72,9 @@ _None_
     "key": "Username / Hashtag name"
   },
   "path": "/:category/:key",
+  "test": {
+    "code": 1
+  },
   "topFeeds": [
     {
       "description": "undefined (@arrriiaa_w) - Instagram - Powered by RSSHub",

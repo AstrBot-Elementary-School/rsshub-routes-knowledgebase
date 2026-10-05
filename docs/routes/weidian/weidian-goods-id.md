@@ -51,28 +51,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "妙蛙种子studio 商铺上新 - Powered by RSSHub",
+      "description": "人民ism 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264526070086762496",
+      "id": "1264523938205925376",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1776674290",
-      "title": "妙蛙种子studio 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1651238208",
+      "title": "人民ism 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1776674290"
+      "url": "rsshub://weidian/goods/1651238208"
     },
     {
-      "description": "Earlytom 商铺上新 - Powered by RSSHub",
+      "description": "忧郁男孩 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264526825111814144",
+      "id": "1264526298592444416",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1867534160",
-      "title": "Earlytom 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1824980712",
+      "title": "忧郁男孩 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1867534160"
+      "url": "rsshub://weidian/goods/1824980712"
     }
   ]
 }

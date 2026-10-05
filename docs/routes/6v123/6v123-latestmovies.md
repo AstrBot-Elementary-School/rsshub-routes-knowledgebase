@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "6v最新电影RSS - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-04T03:51:20.599Z",
+      "errorMessage": "Authentication failed. Access denied.\n/6v123/latestMovies\n[GET] \"https://www.hao6v.cc/dy/2026-10-01/50530.html\": 404 Not Found\n[GET] \"https://www.hao6v.cc/dy/2026-10-01/50530.html\": 404 Not Found\n[GET] \"https://www.hao6v.cc/dy/2026-10-01/50530.html\": 404 Not Found\n",
       "id": "41473775720685568",
       "image": null,
       "ownerUserId": null,

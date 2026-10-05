@@ -2008,7 +2008,7 @@
   ],
   "test": {
     "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:108:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
   "topFeeds": [
     {
@@ -2026,7 +2026,7 @@
     {
       "description": "21财经客户端是南方财经全媒体集团的官方客户端，内容充分融合集团旗下《21世纪经济报道》、《经济科教》、《股市广播》等优质财经媒体资源，实现文字、图片、视频、音频、直播等内容形态的全覆盖。 - Powered by RSSHub",
       "errorAt": "2026-02-27T08:35:19.555Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'split')\n",
+      "errorMessage": "503 \n",
       "id": "158008577343428608",
       "image": null,
       "ownerUserId": null,

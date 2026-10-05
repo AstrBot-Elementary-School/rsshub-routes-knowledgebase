@@ -50,7 +50,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 22,
+  "heat": 23,
   "location": "news.tsx",
   "maintainers": [
     "zoenglinghou",
@@ -67,18 +67,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Google News - Headlines - Powered by RSSHub",
-      "errorAt": "2024-11-02T18:50:31.393Z",
-      "errorMessage": "[GET] \"https://news.google.com/?hl=en-US&gl=US&ceid=US:en\": 429 Too Many Requests\n",
-      "id": "66057583919692800",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRFZxYUdjU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US%3Aen",
-      "title": "Google News - Headlines",
-      "type": "feed",
-      "url": "rsshub://google/news/Top%20stories/hl=en-US&gl=US&ceid=US:en"
-    },
-    {
       "description": null,
       "errorAt": "2025-09-19T00:56:30.820Z",
       "errorMessage": "200 ",
@@ -89,6 +77,18 @@ _None_
       "title": "Importing",
       "type": "feed",
       "url": "rsshub://google/news/%E7%84%A6%E7%82%B9%E6%96%B0%E9%97%BB/hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
+    },
+    {
+      "description": "Google News - Headlines - Powered by RSSHub",
+      "errorAt": "2024-11-02T18:50:31.393Z",
+      "errorMessage": "[GET] \"https://news.google.com/?hl=en-US&gl=US&ceid=US:en\": 429 Too Many Requests\n",
+      "id": "66057583919692800",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRFZxYUdjU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US%3Aen",
+      "title": "Google News - Headlines",
+      "type": "feed",
+      "url": "rsshub://google/news/Top%20stories/hl=en-US&gl=US&ceid=US:en"
     }
   ]
 }

@@ -57,6 +57,9 @@ _None_
       "target": "/news/:type"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": []
 }
 ```

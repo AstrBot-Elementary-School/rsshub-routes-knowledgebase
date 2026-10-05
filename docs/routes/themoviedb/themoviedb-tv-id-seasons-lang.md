@@ -78,16 +78,16 @@ _None_
       "url": "rsshub://themoviedb/tv/70593/seasons"
     },
     {
-      "description": "Rumi, Tamoko and their mother are being blackmailed by Mr. Nogawa and his son. They must learn to fight back just enough to be able to take revenge when the time is right. - Powered by RSSHub",
+      "description": "In this zombie thriller set in Korea's medieval Joseon dynasty which has been defeated by corruption and famine, a mysterious rumor of the king’s death spreads, as does a strange plague that renders the infected immune to death and hungry for flesh. The crown prince, fallen victim to a conspiracy, sets out on a journey to unveil the evil scheme and save his people. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "146311702677387264",
-      "image": "https://image.tmdb.org/t/p/original/uA2zWEasPhJLe6rs8NlU1qlHYJv.jpg",
+      "id": "72474878233372672",
+      "image": "https://image.tmdb.org/t/p/original/AsICtiVtz4icMQQRwDvOzfaTzjK.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://www.themoviedb.org/tv/60593/seasons",
-      "title": "Immoral Sisters - Seasons — TMDB",
+      "siteUrl": "https://www.themoviedb.org/tv/70593/seasons",
+      "title": "Kingdom - Seasons — TMDB",
       "type": "feed",
-      "url": "rsshub://themoviedb/tv/60593/seasons"
+      "url": "rsshub://themoviedb/tv/70593/seasons/en-US"
     }
   ],
   "view": 5

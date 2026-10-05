@@ -76,13 +76,13 @@ _None_
   ],
   "test": {
     "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:108:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
   "topFeeds": [
     {
       "description": "A Touhou related events calendar api from THBWiki - Powered by RSSHub",
       "errorAt": "2026-05-29T02:41:59.767Z",
-      "errorMessage": "[GET] \"https://calendar-serverless.thwiki.cc/api/events/2026-09-01/2026-10-31\": 525 <none>\n",
+      "errorMessage": "[GET] \"https://calendar-serverless.thwiki.cc/api/events/2026-09-03/2026-11-02\": 525 <none>\n",
       "id": "60280539896619008",
       "image": null,
       "ownerUserId": null,

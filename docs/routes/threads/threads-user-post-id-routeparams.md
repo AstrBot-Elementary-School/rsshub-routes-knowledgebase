@@ -61,6 +61,9 @@ _None_
       "target": "/:user/post/:id"
     }
   ],
+  "test": {
+    "code": 1
+  },
   "topFeeds": [],
   "view": 1
 }

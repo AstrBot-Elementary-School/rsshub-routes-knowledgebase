@@ -114,7 +114,7 @@ There is an optinal parameter **limit** which controls the number of posts to fe
     {
       "description": "Posts of hentai-tv from OnlyFans | Coomer - Powered by RSSHub",
       "errorAt": "2024-11-26T03:46:23.897Z",
-      "errorMessage": "[GET] \"https://coomer.st/api/v1/artist/user/hentai-tv/posts\": 522 <none>\n",
+      "errorMessage": "[GET] \"https://coomer.st/api/v1/artist/user/hentai-tv/posts\": 404 Not Found\n",
       "id": "74486459000853504",
       "image": null,
       "ownerUserId": null,

@@ -632,8 +632,8 @@
     },
     {
       "description": "最新2026最新电影，好看的2026最新电影免费下载是由6v电影下载网整理和收录，欢迎2026最新电影爱好者下载观看，并推荐给你的好友一起分享吧。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-04T04:45:40.338Z",
+      "errorMessage": "[GET] \"https://www.hao6v.me/dy/2026-10-01/50530.html\": 404 Not Found\n",
       "id": "182046549587123200",
       "image": "https://www.hao6v.me/images/logo.gif",
       "ownerUserId": null,

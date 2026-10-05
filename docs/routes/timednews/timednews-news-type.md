@@ -65,7 +65,7 @@ _None_
   },
   "path": "/news/:type?",
   "test": {
-    "code": 0
+    "code": 1
   },
   "topFeeds": [
     {

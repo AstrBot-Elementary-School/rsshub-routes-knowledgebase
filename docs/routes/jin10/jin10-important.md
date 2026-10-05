@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2538,
+  "heat": 2537,
   "location": "index.ts",
   "maintainers": [
     "laampui"
@@ -89,8 +89,8 @@ _None_
     },
     {
       "description": "金十数据 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-03T17:56:44.599Z",
+      "errorMessage": "[GET] \"https://flash-api.jin10.com/get_flash_list?channel=-8200&vip=1\": 403 Forbidden\n",
       "id": "72573375336611840",
       "image": null,
       "ownerUserId": null,

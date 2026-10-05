@@ -71,13 +71,13 @@ _None_
   "path": "/news/:caty?",
   "test": {
     "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:108:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
   "topFeeds": [
     {
       "description": "差评资讯 - 科技新鲜事 - Powered by RSSHub",
       "errorAt": "2025-05-11T04:02:59.828Z",
-      "errorMessage": "[GET] \"https://chaping.cn/news/139958\": 502 Bad Gateway\n[GET] \"https://chaping.cn/news/139938\": 502 Bad Gateway\n",
+      "errorMessage": "[GET] \"https://chaping.cn/news/139373\": 502 Bad Gateway\n[GET] \"https://chaping.cn/news/139131\": 502 Bad Gateway\n",
       "id": "59933051315126274",
       "image": null,
       "ownerUserId": null,
@@ -89,7 +89,7 @@ _None_
     {
       "description": "差评资讯 - undefined - Powered by RSSHub",
       "errorAt": "2025-05-10T23:17:54.110Z",
-      "errorMessage": "[GET] \"https://chaping.cn/news/139938\": 502 Bad Gateway\n",
+      "errorMessage": "[GET] \"https://chaping.cn/news/140183\": 502 Bad Gateway\n",
       "id": "61432264574446592",
       "image": null,
       "ownerUserId": null,

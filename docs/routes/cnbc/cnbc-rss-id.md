@@ -74,14 +74,13 @@ Support all channels, refer to [CNBC RSS feeds](https://www.cnbc.com/rss-feeds/)
     }
   ],
   "test": {
-    "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+    "code": 0
   },
   "topFeeds": [
     {
       "description": "CNBC is the world leader in business news and real-time financial market coverage. Find fast, actionable information. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-04T13:11:09.034Z",
+      "errorMessage": "[GET] \"https://www.cnbc.com/2026/10/04//ai-wearables-oura-ipo-privacy.html\": 404 \n[GET] \"https://www.cnbc.com/2026/10/04//ai-wearables-oura-ipo-privacy.html\": 404 Not Found\n",
       "id": "59846974115348480",
       "image": null,
       "ownerUserId": null,
@@ -92,8 +91,8 @@ Support all channels, refer to [CNBC RSS feeds](https://www.cnbc.com/rss-feeds/)
     },
     {
       "description": "CNBC is the world leader in business news and real-time financial market coverage. Find fast, actionable information. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-04T12:57:17.479Z",
+      "errorMessage": "[GET] \"https://www.cnbc.com/2026/10/04//ai-wearables-oura-ipo-privacy.html\": 404 Not Found\n",
       "id": "77157605247889408",
       "image": null,
       "ownerUserId": null,

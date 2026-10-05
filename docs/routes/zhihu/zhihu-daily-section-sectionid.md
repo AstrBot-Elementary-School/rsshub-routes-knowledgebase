@@ -76,8 +76,8 @@ _None_
   "topFeeds": [
     {
       "description": "每天3次，每次7分钟 - Powered by RSSHub",
-      "errorAt": "2026-10-02T12:51:40.566Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://news-at.zhihu.com/api/7/section/2\": 530 \n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "58885675171745799",
       "image": "http://static.daily.zhihu.com/img/new_home_v3/mobile_top_logo.png",
       "ownerUserId": null,

@@ -3626,6 +3626,12 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `2`
 - Index File: `index/f95zone.md`
 
+## Facebook
+- Namespace: `facebook`
+- Aliases: `facebook, facebook.com, www, www.facebook.com`
+- Route Count: `1`
+- Index File: `index/facebook.md`
+
 ## ファミ通
 - Namespace: `famitsu`
 - Aliases: `famitsu, famitsu.com, ファミ通`
@@ -11571,10 +11577,10 @@ Use this file to select the target namespace before opening route documents.
 - Index File: `index/xmind.md`
 
 ## XML.com
-- Namespace: `xmlcom`
-- Aliases: `www, www.xml.com, xml.com, xmlcom`
+- Namespace: `xml`
+- Aliases: `www, www.xml.com, xml, xml.com`
 - Route Count: `1`
-- Index File: `index/xmlcom.md`
+- Index File: `index/xml.md`
 
 ## 厦门网
 - Namespace: `xmnn`

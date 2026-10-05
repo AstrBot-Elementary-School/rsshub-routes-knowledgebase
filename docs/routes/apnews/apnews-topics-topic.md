@@ -83,18 +83,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Associated Press News: Breaking News, Latest Headlines and Videos | AP News - Powered by RSSHub",
-      "errorAt": "2026-09-15T20:16:24.094Z",
-      "errorMessage": "[GET] \"https://apnews.com/hub/apf-topnews\": 403 Forbidden\n",
-      "id": "41648644680942592",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://apnews.com/hub/apf-topnews",
-      "title": "Associated Press News: Breaking News, Latest Headlines and Videos | AP News",
-      "type": "feed",
-      "url": "rsshub://apnews/topics/apf-topnews"
-    },
-    {
       "description": "Trending News | What's New Around the World | AP News - Powered by RSSHub",
       "errorAt": "2026-09-16T05:01:39.475Z",
       "errorMessage": "[GET] \"https://apnews.com/hub/trending-news\": 403 Forbidden\n[GET] \"https://apnews.com/hub/trending-news\": 403 Forbidden\n",
@@ -105,6 +93,18 @@ _None_
       "title": "Trending News | What's New Around the World | AP News",
       "type": "feed",
       "url": "rsshub://apnews/topics/trending-news"
+    },
+    {
+      "description": "Associated Press News: Breaking News, Latest Headlines and Videos | AP News - Powered by RSSHub",
+      "errorAt": "2026-09-15T20:16:24.094Z",
+      "errorMessage": "[GET] \"https://apnews.com/hub/apf-topnews\": 403 Forbidden\n",
+      "id": "41648644680942592",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://apnews.com/hub/apf-topnews",
+      "title": "Associated Press News: Breaking News, Latest Headlines and Videos | AP News",
+      "type": "feed",
+      "url": "rsshub://apnews/topics/apf-topnews"
     }
   ],
   "view": 0

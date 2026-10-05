@@ -60,7 +60,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 138,
+  "heat": 139,
   "location": "other/recommended.ts",
   "maintainers": [
     "honue"
@@ -76,26 +76,26 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "豆瓣 - 2026年09月定档热门电影推荐 - Powered by RSSHub",
-      "errorAt": "2026-10-01T06:40:43.368Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'id')\nCannot read properties of undefined (reading 'id')\nCannot read properties of undefined (reading 'id')\nCannot read properties of undefined (reading 'id')\n",
+      "description": "豆瓣 - 2026年10月定档热门电影推荐 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "62747954002857984",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://m.douban.com/subject_collection/ECKZBSRSA",
-      "title": "豆瓣 - 2026年09月定档热门电影推荐",
+      "siteUrl": "https://m.douban.com/subject_collection/ECGBECIPY",
+      "title": "豆瓣 - 2026年10月定档热门电影推荐",
       "type": "feed",
       "url": "rsshub://douban/recommended/movie"
     },
     {
-      "description": "豆瓣 - 2026年09月定档热门新剧推荐 - Powered by RSSHub",
-      "errorAt": "2026-10-01T06:01:18.877Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'id')\nCannot read properties of undefined (reading 'id')\nCannot read properties of undefined (reading 'id')\n",
+      "description": "豆瓣 - 2026年10月定档热门新剧推荐 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "55307751412641792",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://m.douban.com/subject_collection/EC2ZBUUKA",
-      "title": "豆瓣 - 2026年09月定档热门新剧推荐",
+      "siteUrl": "https://m.douban.com/subject_collection/ECBFD3IMQ",
+      "title": "豆瓣 - 2026年10月定档热门新剧推荐",
       "type": "feed",
       "url": "rsshub://douban/recommended/tv"
     }

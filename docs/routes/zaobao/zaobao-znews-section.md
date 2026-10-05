@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2093,
+  "heat": 2094,
   "location": "znews.ts",
   "maintainers": [
     "shunf4"
@@ -71,18 +71,6 @@ _None_
       "description": "新加坡、中国、亚洲和国际的即时、评论、商业、体育、生活、科技与多媒体新闻，尽在联合早报。 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "41511702474276898",
-      "image": "https://www.zaobao.com.sg/favicon.ico",
-      "ownerUserId": null,
-      "siteUrl": "https://www.zaobao.com/news/china",
-      "title": "《联合早报》-中国-新闻",
-      "type": "feed",
-      "url": "rsshub://zaobao/znews/china"
-    },
-    {
-      "description": "新加坡、中国、亚洲和国际的即时、评论、商业、体育、生活、科技与多媒体新闻，尽在联合早报。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "41511702474276899",
       "image": "https://www.zaobao.com.sg/favicon.ico",
       "ownerUserId": null,
@@ -90,6 +78,18 @@ _None_
       "title": "《联合早报》-国际-新闻",
       "type": "feed",
       "url": "rsshub://zaobao/znews/world"
+    },
+    {
+      "description": "新加坡、中国、亚洲和国际的即时、评论、商业、体育、生活、科技与多媒体新闻，尽在联合早报。 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "41511702474276898",
+      "image": "https://www.zaobao.com.sg/favicon.ico",
+      "ownerUserId": null,
+      "siteUrl": "https://www.zaobao.com/news/china",
+      "title": "《联合早报》-中国-新闻",
+      "type": "feed",
+      "url": "rsshub://zaobao/znews/china"
     }
   ]
 }

@@ -51,13 +51,13 @@ _None_
   "path": "/:cate{.+}?",
   "test": {
     "code": 1,
-    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:105:41\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
+    "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:108:41\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
   "topFeeds": [
     {
       "description": "国家药品监督管理局医疗器械技术审评中心工作动态相关信息 - Powered by RSSHub",
       "errorAt": "2026-08-23T15:01:03.314Z",
-      "errorMessage": "Target page, context or browser has been closed\nCall log:\n  - waiting for locator('.list') to be visible\n    - waiting for \"https://www.cmde.org.cn/xwdt/zxyw/\" navigation to finish...\n    - navigated to \"https://www.cmde.org.cn/xwdt/zxyw/\"\n\n",
+      "errorMessage": "Target page, context or browser has been closed\nCall log:\n  - waiting for locator('.list') to be visible\n\n",
       "id": "71471683425747968",
       "image": null,
       "ownerUserId": null,

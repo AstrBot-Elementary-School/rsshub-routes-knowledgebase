@@ -64,7 +64,7 @@ _None_
   },
   "path": "/cic/:type?",
   "test": {
-    "code": 0
+    "code": 1
   },
   "topFeeds": [
     {

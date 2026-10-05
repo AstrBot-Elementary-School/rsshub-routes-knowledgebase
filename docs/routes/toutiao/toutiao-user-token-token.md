@@ -63,18 +63,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "🌈资深程序猿一名 🏠分享AI知识，以及好用的软件推荐 🙊一个说真话的培训师 软件都在 抖音粉丝群 承接各类培训服务 - Powered by RSSHub",
-      "errorAt": "2026-09-07T11:55:59.555Z",
-      "errorMessage": "Invalid code point 0.00390625\n无法获取用户信息\n",
-      "id": "84064321853358080",
-      "image": "https://sf6-cdn-tos.bdxiguastatic.com/img/user-avatar/b8b6c80c419c2743cabb64c20b65271b~300x300.image",
-      "ownerUserId": null,
-      "siteUrl": "https://www.toutiao.com/c/user/token/MS4wLjABAAAAuaHJxshSggAbn-LFL6O0BjzOrTlpHxUDLxcvCP73__GXaavP1FTSVX87jpouwAG2/",
-      "title": "程序员老张（AI教学）的头条主页 - 今日头条(www.toutiao.com)",
-      "type": "feed",
-      "url": "rsshub://toutiao/user/token/MS4wLjABAAAAuaHJxshSggAbn-LFL6O0BjzOrTlpHxUDLxcvCP73__GXaavP1FTSVX87jpouwAG2"
-    },
-    {
       "description": "关注不迷路🤙🏻 - Powered by RSSHub",
       "errorAt": "2026-09-07T09:36:12.975Z",
       "errorMessage": "无法获取用户信息\n",
@@ -85,6 +73,18 @@ _None_
       "title": "听风的蚕工作室的头条主页 - 今日头条(www.toutiao.com)",
       "type": "feed",
       "url": "rsshub://toutiao/user/token/MS4wLjABAAAA1q3h6c_FuudwZwYJBcGMC4LjJwrnBkzE6tkRu2pVPOg"
+    },
+    {
+      "description": "🌈资深程序猿一名 🏠分享AI知识，以及好用的软件推荐 🙊一个说真话的培训师 软件都在 抖音粉丝群 承接各类培训服务 - Powered by RSSHub",
+      "errorAt": "2026-09-07T11:55:59.555Z",
+      "errorMessage": "Invalid code point 0.00390625\n无法获取用户信息\n",
+      "id": "84064321853358080",
+      "image": "https://sf6-cdn-tos.bdxiguastatic.com/img/user-avatar/b8b6c80c419c2743cabb64c20b65271b~300x300.image",
+      "ownerUserId": null,
+      "siteUrl": "https://www.toutiao.com/c/user/token/MS4wLjABAAAAuaHJxshSggAbn-LFL6O0BjzOrTlpHxUDLxcvCP73__GXaavP1FTSVX87jpouwAG2/",
+      "title": "程序员老张（AI教学）的头条主页 - 今日头条(www.toutiao.com)",
+      "type": "feed",
+      "url": "rsshub://toutiao/user/token/MS4wLjABAAAAuaHJxshSggAbn-LFL6O0BjzOrTlpHxUDLxcvCP73__GXaavP1FTSVX87jpouwAG2"
     }
   ]
 }

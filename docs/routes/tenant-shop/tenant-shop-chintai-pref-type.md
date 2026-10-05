@@ -205,7 +205,7 @@ New listings (新着物件) on テナントショップネットワーク for on
     }
   ],
   "test": {
-    "code": 0
+    "code": 1
   },
   "topFeeds": [],
   "url": "www.tenant-shop.com"

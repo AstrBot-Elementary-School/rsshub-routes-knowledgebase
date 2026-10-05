@@ -40,7 +40,7 @@ _None_
   ],
   "description": "Return results from 2020",
   "example": "/ieee-security/security-privacy",
-  "heat": 135,
+  "heat": 136,
   "location": "sp.ts",
   "maintainers": [
     "ZeddYu"
