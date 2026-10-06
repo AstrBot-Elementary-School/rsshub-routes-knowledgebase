@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "LiSA's Latest Albums - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-04T18:59:59.144Z",
+      "errorMessage": "[GET] \"https://www.sonymusic.co.jp/json/v2/artist/lisa/discography/start/0/count/-1\": 503 Service Unavailable\n",
       "id": "59200434232479744",
       "image": null,
       "ownerUserId": null,

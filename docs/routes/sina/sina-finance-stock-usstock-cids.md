@@ -93,8 +93,8 @@
     },
     {
       "description": "美股|美股行情|美股新闻 - 新浪财经 - Powered by RSSHub",
-      "errorAt": "2026-10-04T13:50:41.930Z",
-      "errorMessage": "[GET] \"https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-iniuanmc7013852.shtml\": 404 Not Found\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "72165621423506432",
       "image": null,
       "ownerUserId": null,

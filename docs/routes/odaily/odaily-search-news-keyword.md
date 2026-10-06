@@ -75,18 +75,6 @@ _None_
   "topFeeds": [
     {
       "description": "快讯 - Odaily星球日报 - Powered by RSSHub",
-      "errorAt": "2025-07-24T19:09:45.808Z",
-      "errorMessage": "[GET] \"https://www.odaily.news/api/pp/api/search/entity-search?per_page=25&keyword=人工智能&entity_type=newsflash\": 404 Not Found\n",
-      "id": "128961496265549824",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.odaily.news/search/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD",
-      "title": "快讯 - Odaily星球日报",
-      "type": "feed",
-      "url": "rsshub://odaily/search/news/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD"
-    },
-    {
-      "description": "快讯 - Odaily星球日报 - Powered by RSSHub",
       "errorAt": "2025-07-24T19:42:47.572Z",
       "errorMessage": "Cannot read properties of undefined (reading 'items')\n",
       "id": "63206794603392000",
@@ -96,6 +84,18 @@ _None_
       "title": "快讯 - Odaily星球日报",
       "type": "feed",
       "url": "rsshub://odaily/search/news/RSS3"
+    },
+    {
+      "description": "快讯 - Odaily星球日报 - Powered by RSSHub",
+      "errorAt": "2025-07-24T20:03:50.475Z",
+      "errorMessage": "Cannot read properties of undefined (reading 'items')\n",
+      "id": "98041370543268864",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.odaily.news/search/AI%20Agent",
+      "title": "快讯 - Odaily星球日报",
+      "type": "feed",
+      "url": "rsshub://odaily/search/news/AI%20Agent"
     }
   ]
 }

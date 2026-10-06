@@ -79,8 +79,8 @@ Support all channels, refer to [CNBC RSS feeds](https://www.cnbc.com/rss-feeds/)
   "topFeeds": [
     {
       "description": "CNBC is the world leader in business news and real-time financial market coverage. Find fast, actionable information. - Powered by RSSHub",
-      "errorAt": "2026-10-04T13:11:09.034Z",
-      "errorMessage": "[GET] \"https://www.cnbc.com/2026/10/04//ai-wearables-oura-ipo-privacy.html\": 404 \n[GET] \"https://www.cnbc.com/2026/10/04//ai-wearables-oura-ipo-privacy.html\": 404 Not Found\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "59846974115348480",
       "image": null,
       "ownerUserId": null,
@@ -91,8 +91,8 @@ Support all channels, refer to [CNBC RSS feeds](https://www.cnbc.com/rss-feeds/)
     },
     {
       "description": "CNBC is the world leader in business news and real-time financial market coverage. Find fast, actionable information. - Powered by RSSHub",
-      "errorAt": "2026-10-04T12:57:17.479Z",
-      "errorMessage": "[GET] \"https://www.cnbc.com/2026/10/04//ai-wearables-oura-ipo-privacy.html\": 404 Not Found\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "77157605247889408",
       "image": null,
       "ownerUserId": null,

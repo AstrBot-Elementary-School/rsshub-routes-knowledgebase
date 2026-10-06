@@ -88,16 +88,16 @@ _None_
       "url": "rsshub://wenxuecity/bbs/myhouse/1"
     },
     {
-      "description": "文学城 | 投资理财（tzlc） - Powered by RSSHub",
+      "description": "文学城 | 移民论坛（immigration） - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "177651896288583711",
+      "id": "177651896288583713",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://bbs.wenxuecity.com/tzlc/?elite=1",
-      "title": "文学城 | 投资理财（tzlc）",
+      "siteUrl": "https://bbs.wenxuecity.com/immigration/?elite=1",
+      "title": "文学城 | 移民论坛（immigration）",
       "type": "feed",
-      "url": "rsshub://wenxuecity/bbs/tzlc/1"
+      "url": "rsshub://wenxuecity/bbs/immigration/1"
     }
   ]
 }

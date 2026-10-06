@@ -57,7 +57,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 50,
+  "heat": 33,
   "location": "stock-info.ts",
   "maintainers": [
     "YuYang"

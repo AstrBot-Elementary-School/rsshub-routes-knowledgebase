@@ -41,7 +41,7 @@ _None_
   ],
   "description": "This is the home page of Voronoi App",
   "example": "/voronoiapp/home",
-  "heat": 14,
+  "heat": 13,
   "location": "home.ts",
   "maintainers": [
     "Cesaryuan"

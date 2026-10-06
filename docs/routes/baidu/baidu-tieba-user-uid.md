@@ -77,16 +77,16 @@ _None_
       "url": "rsshub://baidu/tieba/user/%E5%A4%A9%E9%A9%AC%E5%A4%B1%E6%9C%9B"
     },
     {
-      "description": "在逃双皮奶 的贴吧 - Powered by RSSHub",
-      "errorAt": "2025-11-21T21:51:21.614Z",
-      "errorMessage": "[GET] \"https://tieba.baidu.com/home/main?un=在逃双皮奶🎀\": 403 Forbidden\n",
-      "id": "128277758834280448",
+      "description": "KOKOKOKOKO巨蟹 的贴吧 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "86267569293295616",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://tieba.baidu.com/home/main?un=%E5%9C%A8%E9%80%83%E5%8F%8C%E7%9A%AE%E5%A5%B6%F0%9F%8E%80",
-      "title": "在逃双皮奶 的贴吧",
+      "siteUrl": "https://tieba.baidu.com/home/main?un=KOKOKOKOKO%E5%B7%A8%E8%9F%B9",
+      "title": "KOKOKOKOKO巨蟹 的贴吧",
       "type": "feed",
-      "url": "rsshub://baidu/tieba/user/%E5%9C%A8%E9%80%83%E5%8F%8C%E7%9A%AE%E5%A5%B6%F0%9F%8E%80"
+      "url": "rsshub://baidu/tieba/user/KOKOKOKOKO%E5%B7%A8%E8%9F%B9"
     }
   ]
 }

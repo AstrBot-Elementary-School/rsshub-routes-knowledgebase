@@ -55,7 +55,7 @@ _None_
     {
       "description": null,
       "errorAt": "2025-06-20T09:15:46.709Z",
-      "errorMessage": "Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator('td[width=\"540\"]') to be visible\n\n",
+      "errorMessage": "Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator('td[width=\"540\"]') to be visible\n    - waiting for \"https://www.caict.ac.cn/kxyj/qwfb/bps/\" navigation to finish...\n    - navigated to \"https://www.caict.ac.cn/kxyj/qwfb/bps/\"\n\n",
       "id": "158812966815951872",
       "image": null,
       "ownerUserId": null,

@@ -51,28 +51,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "人民ism 商铺上新 - Powered by RSSHub",
+      "description": "我是呼吸 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264523938205925376",
+      "id": "1264526095856566272",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1651238208",
-      "title": "人民ism 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1809067401",
+      "title": "我是呼吸 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1651238208"
+      "url": "rsshub://weidian/goods/1809067401"
     },
     {
-      "description": "忧郁男孩 商铺上新 - Powered by RSSHub",
+      "description": "茨木甄选 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264526298592444416",
+      "id": "1264527186627264512",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1824980712",
-      "title": "忧郁男孩 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=972619875",
+      "title": "茨木甄选 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1824980712"
+      "url": "rsshub://weidian/goods/972619875"
     }
   ]
 }

@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4867,
+  "heat": 4869,
   "location": "daily.ts",
   "maintainers": [
     "nczitzk",
@@ -73,7 +73,7 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "1. 苹果回应 iPhone 18 Pro Max 故障 部分机型需换机 2. 2026 年诺贝尔奖即将揭晓 每项奖金增至 1200 万瑞典克朗 3. OpenAI 又一安全负责人戴维・罗宾逊离职 内部安全团队动荡加剧 4. 微软官方 X 账号被劫持约 30 分钟，攻击者借相关炒作加密代币 5. AI 灌水稿激增：预印本平台 arXiv 出台新规 每人每月限投 2 篇 6. 北大 07 级数学系校友称 OpenAI 等做法正伤害数学领域年轻人 7. 东航再通报「空姐下跪道歉」事件：已报案，暂停为欧某某提供承运服务 8. Neuralink 高管希冯证实与马斯克分手 两人生有四名子女 9. 车评人韩路称烤串店未开业先收差评 高德地图回应 10. OpenAI 披露澳大利亚又一政府机构遭入侵 11. 消息称亚马逊考虑剥离并回租 80 亿美元英伟达 Grace Blackwell AI 芯片 12. 马斯克回应台积电或参与 Terafab 项目 13. 苹果将加强 Mac 隐私控制 警告 AI 智能体带来的风险上升 - Powered by RSSHub",
+      "description": "1. Anthropic 借 OpenEvidence 把医疗 AI 铺向 100 国 2. Anthropic 被曝秘密游说梵蒂冈试图推动 AI 意识论 3. DeepSeek Harness 更新 新增实验性 Claude Code Mods 兼容层 4. 离职员工爆料 OpenAI 风险意识不足 5. 网传 OpenAI GPT-6 Sol Codex 近 30 万字系统提示词遭泄露 6. 10 月 9 日起谷歌 Gemini 未订阅用户仅可用 Flash-Lite 模型 7. 马斯克称 Robotaxi 运营延长至 23 点：正攻克夜间宠物识别难题 8. ChatGPT 10 月 14 日起全套餐下线 GPT-5.5 9. 余承东回应误发工作备注：没想到备注比正文还抢镜 10. 10 万人涌入青海祁连县致酒店满房 文旅局长为游客铺床 11. 特朗普宣布成立超级智能工作组 12. 马斯克称「SpaceXAI」将更名为「SpaceXSI」 13. 消息称苹果 iPhone 18 Pro 系列 W39 周国内销量预计 176 万台 14. 中国人民大学一校友捐资 5.03 亿元 建设通州校区体育中心 15. 小马智行回应乘客被夹手事件：属意外非交通事故 已配合交警调查 16. 国庆假期广州南站最短发车间隔 40 秒 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "52347176714948614",

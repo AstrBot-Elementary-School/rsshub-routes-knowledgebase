@@ -115,16 +115,16 @@ _None_
       "url": "rsshub://furaffinity/art/gallery/oddeyresproductions/nsfw"
     },
     {
-      "description": "Fur Affinity Gallery of dsc85 - Powered by RSSHub",
-      "errorAt": "2026-05-26T01:20:04.189Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://faexport.spangle.org.uk/user/dsc85/gallery.json?full=1\": 500 Internal Server Error\n",
-      "id": "78980575087533056",
+      "description": "Fur Affinity Gallery of personalami - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "153446870634324992",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.furaffinity.net/gallery/dsc85",
-      "title": "Fur Affinity | Gallery of dsc85",
+      "siteUrl": "https://www.furaffinity.net/gallery/personalami",
+      "title": "Fur Affinity | Gallery of personalami",
       "type": "feed",
-      "url": "rsshub://furaffinity/art/gallery/dsc85/nsfw"
+      "url": "rsshub://furaffinity/art/gallery/personalami/nsfw"
     }
   ],
   "url": "furaffinity.net"

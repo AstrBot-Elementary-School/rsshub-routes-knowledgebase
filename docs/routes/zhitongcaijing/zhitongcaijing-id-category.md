@@ -83,8 +83,8 @@ _None_
   "topFeeds": [
     {
       "description": "智通财经 - 推荐 - Powered by RSSHub",
-      "errorAt": "2026-10-04T00:40:35.689Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'slice')\nCannot read properties of undefined (reading 'slice')\n[GET] \"https://www.zhitongcaijing.com/content/detail/1503513.html\": 400 Bad Request\n",
+      "errorAt": "2026-10-05T00:45:44.611Z",
+      "errorMessage": "Cannot read properties of undefined (reading 'slice')\n[GET] \"https://www.zhitongcaijing.com/content/detail/1503609.html\": 503 Service Unavailable\n",
       "id": "63376992073142278",
       "image": null,
       "ownerUserId": null,
@@ -95,8 +95,8 @@ _None_
     },
     {
       "description": "智通财经 - 推荐 - Powered by RSSHub",
-      "errorAt": "2026-10-04T01:25:03.877Z",
-      "errorMessage": "[GET] \"https://www.zhitongcaijing.com/content/detail/1503513.html\": 400 Bad Request\n",
+      "errorAt": "2026-10-05T03:00:57.447Z",
+      "errorMessage": "[GET] \"https://www.zhitongcaijing.com/content/detail/1503755.html\": 503 Service Unavailable\n",
       "id": "72559122759839744",
       "image": null,
       "ownerUserId": null,

@@ -98,18 +98,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "YouTube Music Charts - Top music videos - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "57506261522656256",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://charts.youtube.com/charts/TopVideos/global",
-      "title": "YouTube Music Charts - Top music videos",
-      "type": "feed",
-      "url": "rsshub://youtube/charts"
-    },
-    {
       "description": "YouTube Music Charts - Top songs - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -120,6 +108,18 @@ _None_
       "title": "YouTube Music Charts - Top songs",
       "type": "feed",
       "url": "rsshub://youtube/charts/TopSongs"
+    },
+    {
+      "description": "YouTube Music Charts - Top music videos - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "57506261522656256",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://charts.youtube.com/charts/TopVideos/global",
+      "title": "YouTube Music Charts - Top music videos",
+      "type": "feed",
+      "url": "rsshub://youtube/charts"
     }
   ]
 }

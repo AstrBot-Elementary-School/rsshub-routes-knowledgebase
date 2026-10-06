@@ -54,7 +54,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 55633,
+  "heat": 55719,
   "location": "index.tsx",
   "maintainers": [
     "DIYgod",
@@ -90,8 +90,8 @@ _None_
   "topFeeds": [
     {
       "description": "Epic Games Store - Free Games - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-05T14:54:05.900Z",
+      "errorMessage": "Failed query: select \"url\", \"etag_header\", \"ttl\", \"error_at\", \"checked_at\", \"refresh_enqueued_at\" from \"feeds\" \"feeds\" where \"feeds\".\"id\" = $1 limit $2\nparams: 41503779521380352,1",
       "id": "41503779521380352",
       "image": null,
       "ownerUserId": null,

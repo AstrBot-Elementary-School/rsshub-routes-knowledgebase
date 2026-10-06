@@ -9092,6 +9092,12 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `1`
 - Index File: `index/rodong.md`
 
+## 每日赛车
+- Namespace: `romielf`
+- Aliases: `romielf, romielf.com, www, www.romielf.com, 每日赛车`
+- Route Count: `1`
+- Index File: `index/romielf.md`
+
 ## Routledge
 - Namespace: `routledge`
 - Aliases: `routledge, routledge.com`

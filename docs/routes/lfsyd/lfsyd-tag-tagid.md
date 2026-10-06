@@ -69,18 +69,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "游戏王 - 旅法师营地 - Powered by RSSHub",
-      "errorAt": "2026-10-04T09:04:44.622Z",
-      "errorMessage": "Failed to fetch\n",
-      "id": "60263446472040460",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.iyingdi.com/tz/tag/16",
-      "title": "游戏王 - 旅法师营地",
-      "type": "feed",
-      "url": "rsshub://lfsyd/tag/16"
-    },
-    {
       "description": "炉石传说 - 旅法师营地 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -91,6 +79,18 @@ _None_
       "title": "炉石传说 - 旅法师营地",
       "type": "feed",
       "url": "rsshub://lfsyd/tag/17"
+    },
+    {
+      "description": "万智牌 - 旅法师营地 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "75101365651632128",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.iyingdi.com/tz/tag/18",
+      "title": "万智牌 - 旅法师营地",
+      "type": "feed",
+      "url": "rsshub://lfsyd/tag/18"
     }
   ],
   "url": "www.iyingdi.com/"

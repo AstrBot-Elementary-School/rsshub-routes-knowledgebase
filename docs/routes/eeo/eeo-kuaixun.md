@@ -77,7 +77,7 @@ _None_
     {
       "description": "快讯_经济观察网 - Powered by RSSHub",
       "errorAt": "2026-10-03T08:08:21.306Z",
-      "errorMessage": "[GET] \"https://app.eeo.com.cn?app=article&controller=index&action=getMoreArticle&catid=3690&uuid=b048c7211db949eeb7443cd5b9b3bfe3&page=1&pageSize=50\": 525 <none>\n",
+      "errorMessage": "[GET] \"https://www.eeo.com.cn/2026/0928/1050615.shtml\": 525 <none>\n",
       "id": "194919237802284032",
       "image": "https://img.eeo.com.cn/2024/images/logo.jpg",
       "ownerUserId": null,

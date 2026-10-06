@@ -85,7 +85,7 @@ _None_
     {
       "description": "炎帝-采薇 关注视频动态 - Powered by RSSHub",
       "errorAt": "2025-06-17T14:53:46.317Z",
-      "errorMessage": "[GET] \"https://api.bilibili.com/x/space/wbi/acc/info?mid=102745329&token=&platform=web&web_location=1550101&w_rid=99f50d2ef861660b7befaae691d2d195&wts=1791000637\": 412 Precondition Failed\n",
+      "errorMessage": "[GET] \"https://api.bilibili.com/x/space/wbi/acc/info?mid=102745329&token=&platform=web&web_location=1550101&w_rid=74477d368d15943ea3cfa2c497ca75a4&wts=1791154829\": 412 Precondition Failed\n",
       "id": "154580129950460928",
       "image": null,
       "ownerUserId": null,

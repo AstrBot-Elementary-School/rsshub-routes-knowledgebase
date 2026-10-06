@@ -64,8 +64,8 @@ _None_
   "topFeeds": [
     {
       "description": "OpenAI News - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-05T12:08:24.444Z",
+      "errorMessage": "[GET] \"https://openai.com/index/new-chatgpt-ads-format-and-measurement\": 403 Forbidden\n[GET] \"https://openai.com/index/new-chatgpt-ads-format-and-measurement/\": 403 Forbidden\n",
       "id": "139523607422199808",
       "image": null,
       "ownerUserId": null,

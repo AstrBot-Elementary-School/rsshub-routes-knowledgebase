@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 283,
+  "heat": 284,
   "location": "subscribe.ts",
   "maintainers": [
     "pseudoyu"
@@ -66,8 +66,8 @@ _None_
   "topFeeds": [
     {
       "description": "世界苦茶龐大體系下1500字（感覺不只）左右的文章，都是關於政治學和政治哲學的思考 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-04T16:15:30.597Z",
+      "errorMessage": "[GET] \"https://bittertea.substack.com/feed\": 429 Too Many Requests\n",
       "id": "176031166219999232",
       "image": "https://substackcdn.com/image/fetch/$s_!ulvf!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F06156f61-eead-4e42-a104-6f2193a7b8d1_4000x4000.jpeg",
       "ownerUserId": null,
@@ -78,8 +78,8 @@ _None_
     },
     {
       "description": "水瓶纪元 | The Aquarian 多元共生 · 重返对话 Journalism for Futures - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-05T14:21:13.515Z",
+      "errorMessage": "[GET] \"https://aquariuseras.substack.com/feed\": 429 Too Many Requests\n",
       "id": "132968001832526848",
       "image": "https://substackcdn.com/image/fetch/$s_!5vrA!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F76978654-f1e4-4e4f-960f-9c798035f650_157x157.png",
       "ownerUserId": null,

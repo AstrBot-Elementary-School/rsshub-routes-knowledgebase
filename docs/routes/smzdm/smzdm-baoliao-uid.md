@@ -24,7 +24,7 @@ _None_
 
 
 ## Features
-- `requireConfig`: [{"description": "什么值得买登录后的 Cookie 值", "name": "SMZDM_COOKIE"}]
+- `requireConfig`: [{"description": "什么值得买登录后的 Cookie 值", "name": "SMZDM_COOKIE", "optional": true}]
 - `requirePuppeteer`: false
 - `antiCrawler`: false
 - `supportBT`: false
@@ -48,7 +48,8 @@ _None_
     "requireConfig": [
       {
         "description": "什么值得买登录后的 Cookie 值",
-        "name": "SMZDM_COOKIE"
+        "name": "SMZDM_COOKIE",
+        "optional": true
       }
     ],
     "requirePuppeteer": false,

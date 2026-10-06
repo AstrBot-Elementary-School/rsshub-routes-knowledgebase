@@ -78,16 +78,16 @@ _None_
       "url": "rsshub://themoviedb/tv/70593/seasons"
     },
     {
-      "description": "In this zombie thriller set in Korea's medieval Joseon dynasty which has been defeated by corruption and famine, a mysterious rumor of the king’s death spreads, as does a strange plague that renders the infected immune to death and hungry for flesh. The crown prince, fallen victim to a conspiracy, sets out on a journey to unveil the evil scheme and save his people. - Powered by RSSHub",
+      "description": "A missing child causes four families to help each other for answers. What they could not imagine is that this mystery would be connected to innumerable other secrets of the small town. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "72474878233372672",
-      "image": "https://image.tmdb.org/t/p/original/AsICtiVtz4icMQQRwDvOzfaTzjK.jpg",
+      "id": "82918388383633408",
+      "image": "https://image.tmdb.org/t/p/original/apbrbWs8M9lyOpJYU5WXrpFbk1Z.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://www.themoviedb.org/tv/70593/seasons",
-      "title": "Kingdom - Seasons — TMDB",
+      "siteUrl": "https://www.themoviedb.org/tv/70523/seasons",
+      "title": "Dark - Seasons — TMDB",
       "type": "feed",
-      "url": "rsshub://themoviedb/tv/70593/seasons/en-US"
+      "url": "rsshub://themoviedb/tv/70523-dark/seasons"
     }
   ],
   "view": 5

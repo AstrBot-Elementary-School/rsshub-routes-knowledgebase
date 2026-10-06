@@ -35,10 +35,10 @@
 - Maintainers: `LogicJake, pseudoyu`
 
 ### 好文分类
-- Route ID: `smzdm:/smzdm/haowen/fenlei/:name/:sort?`
-- Route Path: `/smzdm/haowen/fenlei/:name/:sort?`
-- File: `docs/routes/smzdm/smzdm-haowen-fenlei-name-sort.md`
-- File Name: `smzdm-haowen-fenlei-name-sort.md`
+- Route ID: `smzdm:/smzdm/haowen/fenlei/:name`
+- Route Path: `/smzdm/haowen/fenlei/:name`
+- File: `docs/routes/smzdm/smzdm-haowen-fenlei-name.md`
+- File Name: `smzdm-haowen-fenlei-name.md`
 - Categories: `shopping`
 - Maintainers: `LogicJake`
 

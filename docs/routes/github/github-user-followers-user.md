@@ -74,16 +74,16 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "strajk's followers - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "178709617272142848",
+      "description": "fanweibin2018's followers - Powered by RSSHub",
+      "errorAt": "2025-11-14T00:49:53.990Z",
+      "errorMessage": "GitHub follower RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\n",
+      "id": "194963482001905664",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/strajk",
-      "title": "strajk's followers",
+      "siteUrl": "https://github.com/fanweibin2018",
+      "title": "fanweibin2018's followers",
       "type": "feed",
-      "url": "rsshub://github/user/followers/strajk"
+      "url": "rsshub://github/user/followers/fanweibin2018"
     },
     {
       "description": "Shubxam's followers - Powered by RSSHub",

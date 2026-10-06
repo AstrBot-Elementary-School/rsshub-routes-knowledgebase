@@ -139,8 +139,8 @@ Multiple categories seperated by '|' is also supported, e.g. /lorientlejour/977-
     },
     {
       "description": "L'Orient Today - Lebanon - Powered by RSSHub",
-      "errorAt": "2026-10-01T19:40:52.685Z",
-      "errorMessage": "[GET] \"https://www.lorientlejour.com/cmsapi/content.php?text=clean&key=3d5_f6A(S$G_FD=2S(Dr6%7BW_h37@rE&action=search&category=%5B%22977%22%2C%22978%22%2C%22970%22%2C%22751%22%2C%22755%22%5D&limit=25&text=false&page=1\": 500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "67213346383532032",
       "image": null,
       "ownerUserId": null,

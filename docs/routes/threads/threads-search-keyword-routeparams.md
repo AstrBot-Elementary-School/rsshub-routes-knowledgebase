@@ -37,7 +37,7 @@ _None_
     "social-media"
   ],
   "example": "/threads/search/RSS",
-  "heat": 1,
+  "heat": 2,
   "location": "search.ts",
   "maintainers": [
     "TonyRL"

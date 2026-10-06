@@ -51,7 +51,7 @@ _None_
     "supportPodcast": true,
     "supportScihub": false
   },
-  "heat": 10,
+  "heat": 11,
   "location": "user.tsx",
   "maintainers": [
     "kt286",
@@ -76,18 +76,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "- 唱吧 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "122101353169483776",
-      "image": "https://aliimg.changba.com/cache/photo/877051009_200_200.jpg",
-      "ownerUserId": null,
-      "siteUrl": "https://changba.com/wap/index.php?s=LkE053-d9BPdUsIBPMn2Bg",
-      "title": "- 唱吧",
-      "type": "feed",
-      "url": "rsshub://changba/LkE053-d9BPdUsIBPMn2Bg"
-    },
-    {
       "description": "你那么孤单却要说着一个人真好 - 唱吧 - Powered by RSSHub",
       "errorAt": "2026-07-08T13:02:09.054Z",
       "errorMessage": "Cannot create property 'description' on string 'null'\n",
@@ -98,6 +86,18 @@ _None_
       "title": "你那么孤单却要说着一个人真好 - 唱吧",
       "type": "feed",
       "url": "rsshub://changba/YYA5JcoVb7nQKfvVSWnIBg"
+    },
+    {
+      "description": "- 唱吧 - Powered by RSSHub",
+      "errorAt": "2026-10-05T12:42:33.245Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "id": "122101353169483776",
+      "image": "https://aliimg.changba.com/cache/photo/877051009_200_200.jpg",
+      "ownerUserId": null,
+      "siteUrl": "https://changba.com/wap/index.php?s=LkE053-d9BPdUsIBPMn2Bg",
+      "title": "- 唱吧",
+      "type": "feed",
+      "url": "rsshub://changba/LkE053-d9BPdUsIBPMn2Bg"
     }
   ],
   "view": 4

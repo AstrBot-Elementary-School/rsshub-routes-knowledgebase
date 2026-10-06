@@ -180,8 +180,8 @@ _None_
     },
     {
       "description": "财经资讯 - 金融界 - Powered by RSSHub",
-      "errorAt": "2026-10-04T11:00:53.217Z",
-      "errorMessage": "[GET] \"https://finance.jrj.com.cn/2026/10/04142458614821.shtml\": 520 <none>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "110335328538370048",
       "image": null,
       "ownerUserId": null,

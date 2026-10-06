@@ -89,16 +89,16 @@ _None_
       "url": "rsshub://weibo/oasis/user/1750421453"
     },
     {
-      "description": "꒰•̫͡•ོ꒱海岛吃货小海薇∅ - Powered by RSSHub",
+      "description": "杂乱无章 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "154748015616876544",
+      "id": "214594184648932352",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://oasis.weibo.cn/v1/h5/share?uid=5172654370",
-      "title": "丢不盐的粮 - 用户 - 绿洲",
+      "siteUrl": "https://oasis.weibo.cn/v1/h5/share?uid=3841137060",
+      "title": "驿站边 - 用户 - 绿洲",
       "type": "feed",
-      "url": "rsshub://weibo/oasis/user/5172654370"
+      "url": "rsshub://weibo/oasis/user/3841137060"
     }
   ]
 }

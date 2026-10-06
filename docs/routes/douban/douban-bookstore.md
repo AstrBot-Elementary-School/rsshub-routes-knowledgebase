@@ -65,7 +65,7 @@ _None_
     {
       "description": "在豆瓣书店，遇见美好·書生活 - Powered by RSSHub",
       "errorAt": "2026-04-22T02:02:53.102Z",
-      "errorMessage": "[GET] \"https://market.douban.com/api/freyr/books?page=1&page_size=20&type=book\": 404 Not Found\n",
+      "errorMessage": "Failed to fetch\n",
       "id": "41701277991209984",
       "image": null,
       "ownerUserId": null,

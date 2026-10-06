@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1078,
+  "heat": 1079,
   "location": "daily-papers.ts",
   "maintainers": [
     "zeyugao",

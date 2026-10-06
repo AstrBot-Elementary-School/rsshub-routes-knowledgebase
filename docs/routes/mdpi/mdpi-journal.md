@@ -86,8 +86,8 @@ _None_
     },
     {
       "description": "Remote Sensing - Powered by RSSHub",
-      "errorAt": "2026-10-04T14:31:27.372Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n[GET] \"https://www.mdpi.comundefined\": 530 \n",
+      "errorAt": "2026-10-05T13:37:37.536Z",
+      "errorMessage": "[GET] \"https://www.mdpi.comundefined\": <no response> fetch failed\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "85233533576043520",
       "image": null,
       "ownerUserId": null,

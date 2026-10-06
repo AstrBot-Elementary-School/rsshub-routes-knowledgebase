@@ -67,8 +67,8 @@ _None_
   "topFeeds": [
     {
       "description": "内购限免提醒: Darkroom: Photo & Video Editor for macOS - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-04T15:18:10.545Z",
+      "errorMessage": "[GET] \"https://apps.apple.com/api/apps/v1/catalog/cn/apps/953286746?platform=web&include=merchandised-in-apps,top-in-apps,eula&l=zh-Hans-CN\": 429 Too Many Requests\n",
       "id": "145148341029475345",
       "image": null,
       "ownerUserId": null,

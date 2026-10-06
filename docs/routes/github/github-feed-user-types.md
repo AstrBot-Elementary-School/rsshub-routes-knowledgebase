@@ -136,16 +136,16 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "GitHub events received by free-nodes - includes private events - Powered by RSSHub",
+      "description": "GitHub events received by vancaem (filtered: star) - includes private events - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "238161917546848256",
+      "id": "198776976440163328",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/free-nodes",
-      "title": "free-nodes's GitHub Private Feed - All Events",
+      "siteUrl": "https://github.com/vancaem",
+      "title": "vancaem's GitHub Private Feed - Events: star",
       "type": "feed",
-      "url": "rsshub://github/feed/free-nodes/all"
+      "url": "rsshub://github/feed/vancaem/star"
     },
     {
       "description": "GitHub events received by ardubev16 - includes private events - Powered by RSSHub",

@@ -177,18 +177,6 @@
   "topFeeds": [
     {
       "description": "提供最新國際新聞、香港新聞、財經新聞、地產樓市新聞, 美股即時新聞、即時夜期、中國新聞及科技新聞等。 - Powered by RSSHub",
-      "errorAt": "2026-09-05T05:02:04.648Z",
-      "errorMessage": "[GET] \"https://inews.hket.com/sran001\": 405 Method Not Allowed\n",
-      "id": "70034910422682624",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://inews.hket.com/sran001",
-      "title": "國際地產財經中國即時新聞 | HKET經濟日報 | 即時新聞頻道",
-      "type": "feed",
-      "url": "rsshub://hket/sran001"
-    },
-    {
-      "description": "提供最新國際新聞、香港新聞、財經新聞、地產樓市新聞, 美股即時新聞、即時夜期、中國新聞及科技新聞等。 - Powered by RSSHub",
       "errorAt": "2026-09-21T13:36:05.874Z",
       "errorMessage": "[GET] \"https://inews.hket.com/sran001\": 405 Method Not Allowed\n",
       "id": "94630255063479296",
@@ -198,6 +186,18 @@
       "title": "國際地產財經中國即時新聞 | HKET經濟日報 | 即時新聞頻道",
       "type": "feed",
       "url": "rsshub://hket"
+    },
+    {
+      "description": "提供最新國際新聞、香港新聞、財經新聞、地產樓市新聞, 美股即時新聞、即時夜期、中國新聞及科技新聞等。 - Powered by RSSHub",
+      "errorAt": "2026-09-05T05:02:04.648Z",
+      "errorMessage": "[GET] \"https://inews.hket.com/sran001\": 405 Method Not Allowed\n",
+      "id": "70034910422682624",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://inews.hket.com/sran001",
+      "title": "國際地產財經中國即時新聞 | HKET經濟日報 | 即時新聞頻道",
+      "type": "feed",
+      "url": "rsshub://hket/sran001"
     }
   ],
   "url": "www.hket.com/"

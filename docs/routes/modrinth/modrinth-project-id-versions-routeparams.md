@@ -104,18 +104,6 @@
   },
   "topFeeds": [
     {
-      "description": "A customizable plugin that backups player inventories and lets server staff to restore or export them as a shulker box. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "114582711565812736",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/t1ajCt4Y",
-      "title": "AxInventoryRestore Modrinth versions",
-      "type": "feed",
-      "url": "rsshub://modrinth/project/t1ajCt4Y/versions"
-    },
-    {
       "description": "Aesthetic Technology that empowers the Player - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -126,6 +114,18 @@
       "title": "Create Modrinth versions",
       "type": "feed",
       "url": "rsshub://modrinth/project/create/versions"
+    },
+    {
+      "description": "Store numeric values of players' stats or balance, specified by a text key. -> With Folia and Multi-Server support! - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "123851540339893248",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://modrinth.com/project/13drT7K6",
+      "title": "JustPoints Modrinth versions",
+      "type": "feed",
+      "url": "rsshub://modrinth/project/13drT7K6/versions"
     }
   ]
 }

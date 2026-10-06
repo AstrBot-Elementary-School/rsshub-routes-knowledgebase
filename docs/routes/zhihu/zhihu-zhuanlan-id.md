@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1868,
+  "heat": 1866,
   "location": "zhuanlan.ts",
   "maintainers": [
     "DIYgod"
@@ -90,7 +90,7 @@ _None_
       "errorAt": null,
       "errorMessage": null,
       "id": "57215618626397184",
-      "image": "https://picx.zhimg.com/v2-f111d7ee1c41944859e975a712c0883b_720w.jpg",
+      "image": "https://pic1.zhimg.com/v2-f111d7ee1c41944859e975a712c0883b_720w.jpg",
       "ownerUserId": null,
       "siteUrl": "https://zhuanlan.zhihu.com/yushuzhilan",
       "title": "知乎专栏-玉树芝兰",

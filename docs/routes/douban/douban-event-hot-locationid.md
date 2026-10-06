@@ -76,16 +76,16 @@ _None_
       "url": "rsshub://douban/event/hot/108288"
     },
     {
-      "description": "豆瓣同城-热门活动-108296 - Powered by RSSHub",
+      "description": "豆瓣同城-热门活动-118282 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "72575419585855536",
+      "id": "61291444349201415",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://m.douban.com/app_topic/event_hot",
-      "title": "豆瓣同城-热门活动-108296",
+      "title": "豆瓣同城-热门活动-118282",
       "type": "feed",
-      "url": "rsshub://douban/event/hot/108296"
+      "url": "rsshub://douban/event/hot/118282"
     }
   ]
 }

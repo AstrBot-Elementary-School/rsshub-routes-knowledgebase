@@ -63,8 +63,8 @@ _None_
   "topFeeds": [
     {
       "description": "财新网 - 财新一线新闻 - Powered by RSSHub",
-      "errorAt": "2026-10-04T03:33:05.008Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'list')\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41835391477202944",
       "image": null,
       "ownerUserId": null,

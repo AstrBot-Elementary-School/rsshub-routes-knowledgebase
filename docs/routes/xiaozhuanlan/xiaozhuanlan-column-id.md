@@ -75,7 +75,7 @@ _None_
     {
       "description": "WWDC24 内参 - @老司机技术 - 《WWDC24 内参》来啦。今年我们会继续和社区一起创作关于今年 WWDC24 的 Session 解读，敬请期待。 - Powered by RSSHub",
       "errorAt": "2025-06-07T04:15:50.159Z",
-      "errorMessage": "[GET] \"https://xiaozhuanlan.com/wwdc24\": <no response> fetch failed (Connect Timeout Error (attempted address: xiaozhuanlan.com:443, timeout: 10000ms))\n",
+      "errorMessage": "[GET] \"https://xiaozhuanlan.com/wwdc24\": 522 <none>\n",
       "id": "67025004373372928",
       "image": null,
       "ownerUserId": null,

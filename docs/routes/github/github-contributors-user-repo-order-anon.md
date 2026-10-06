@@ -83,28 +83,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "New contributors for LOWERTOP/Shadowrocket-First - Powered by RSSHub",
+      "description": "New contributors for obaby/baby-wechat - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "126806034891658240",
+      "id": "183741893306669056",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/LOWERTOP/Shadowrocket-First/graphs/contributors",
-      "title": "LOWERTOP/Shadowrocket-First Contributors",
+      "siteUrl": "https://github.com/obaby/baby-wechat/graphs/contributors",
+      "title": "obaby/baby-wechat Contributors",
       "type": "feed",
-      "url": "rsshub://github/contributors/LOWERTOP/Shadowrocket-First"
+      "url": "rsshub://github/contributors/obaby/baby-wechat"
     },
     {
-      "description": "New contributors for piderking/vgmt-data - Powered by RSSHub",
+      "description": "New contributors for PixarAnimationStudios/OpenUSD - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "119580771404221440",
+      "id": "84958270281030656",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/piderking/vgmt-data/graphs/contributors",
-      "title": "piderking/vgmt-data Contributors",
+      "siteUrl": "https://github.com/PixarAnimationStudios/OpenUSD/graphs/contributors",
+      "title": "PixarAnimationStudios/OpenUSD Contributors",
       "type": "feed",
-      "url": "rsshub://github/contributors/piderking/vgmt-data"
+      "url": "rsshub://github/contributors/PixarAnimationStudios/OpenUSD"
     }
   ]
 }

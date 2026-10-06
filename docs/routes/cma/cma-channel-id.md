@@ -91,14 +91,14 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "中国气象局·天气预报 - 气象公报 > 每日天气提示 - Powered by RSSHub",
+      "description": "中国气象局·天气预报 - - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "57657957614035968",
-      "image": "https://weather.cma.cn/assets/cmalogo.png",
+      "image": "https://weather.cma.cn/undefined",
       "ownerUserId": null,
       "siteUrl": "https://weather.cma.cn/web/channel-380.html",
-      "title": "中国气象局·天气预报 - 气象公报 > 每日天气提示",
+      "title": "中国气象局·天气预报 -",
       "type": "feed",
       "url": "rsshub://cma/channel/380"
     },

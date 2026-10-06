@@ -39,7 +39,7 @@ _None_
   ],
   "description": "Hamel's Blog Posts",
   "example": "/hamel/blog",
-  "heat": 19,
+  "heat": 18,
   "location": "index.ts",
   "maintainers": [
     "liyaozhong"

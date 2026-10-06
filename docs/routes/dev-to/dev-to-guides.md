@@ -72,8 +72,8 @@ _None_
   "topFeeds": [
     {
       "description": "Trending guides and resources from DEV.to - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-05T13:26:03.172Z",
+      "errorMessage": "503 \n",
       "id": "170647077865360384",
       "image": null,
       "ownerUserId": null,

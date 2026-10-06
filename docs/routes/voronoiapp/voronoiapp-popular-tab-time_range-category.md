@@ -254,7 +254,7 @@ _None_
     {
       "description": "Voronoi Most Liked Posts in Last 30 days - Powered by RSSHub",
       "errorAt": "2024-10-25T09:11:07.117Z",
-      "errorMessage": "502 \n[GET] \"https://9oyi4rk426.execute-api.ca-central-1.amazonaws.com/production/post?limit=20&offset=0&swimlane=POPULAR&tab=POPULAR&time_range=MONTH\": 530 <none>\n",
+      "errorMessage": "[GET] \"https://9oyi4rk426.execute-api.ca-central-1.amazonaws.com/production/post?limit=20&offset=0&swimlane=POPULAR&tab=POPULAR&time_range=MONTH\": 530 <none>\n",
       "id": "62131435680380928",
       "image": "https://about.voronoiapp.com/wp-content/uploads/2023/07/voronoi-icon.png",
       "ownerUserId": null,

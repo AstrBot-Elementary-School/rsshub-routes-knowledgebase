@@ -68,8 +68,8 @@ _None_
   "topFeeds": [
     {
       "description": "IT 之家 - 数码之家 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-05T05:31:23.724Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "41572238273905673",
       "image": "https://img.ithome.com/m/images/logo.png",
       "ownerUserId": null,

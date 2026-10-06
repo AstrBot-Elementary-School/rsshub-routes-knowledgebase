@@ -130,19 +130,7 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "2026年10月4日 pixiv 周排行 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "41147805276726317",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.pixiv.net/ranking.php?mode=weekly",
-      "title": "pixiv 周排行",
-      "type": "feed",
-      "url": "rsshub://pixiv/ranking/week"
-    },
-    {
-      "description": "2026年10月4日 pixiv 日排行 - Powered by RSSHub",
+      "description": "2026年10月5日 pixiv 日排行 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "41427688948323328",
@@ -152,6 +140,18 @@ _None_
       "title": "pixiv 日排行",
       "type": "feed",
       "url": "rsshub://pixiv/ranking/day"
+    },
+    {
+      "description": "2026年10月5日 pixiv 周排行 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "41147805276726317",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.pixiv.net/ranking.php?mode=weekly",
+      "title": "pixiv 周排行",
+      "type": "feed",
+      "url": "rsshub://pixiv/ranking/week"
     }
   ],
   "view": 2
