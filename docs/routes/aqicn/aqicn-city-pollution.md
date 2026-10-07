@@ -77,16 +77,16 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "香港AQI-aqicn.org - Powered by RSSHub",
+      "description": "珠海AQI-aqicn.org - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "162872037991996416",
+      "id": "157694201289621504",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://aqicn.org/city/hongkong",
-      "title": "香港AQI",
+      "siteUrl": "https://aqicn.org/city/zhuhai",
+      "title": "珠海AQI",
       "type": "feed",
-      "url": "rsshub://aqicn/hongkong/pm25"
+      "url": "rsshub://aqicn/zhuhai"
     },
     {
       "description": "上海AQI-aqicn.org - Powered by RSSHub",

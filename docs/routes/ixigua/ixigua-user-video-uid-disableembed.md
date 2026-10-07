@@ -36,6 +36,7 @@ _None_
 ### Rule 1
 - `source`:
   - `ixigua.com/home/:uid`
+  - `m.ixigua.com/user/:uid`
 - `target`: `/user/video/:uid`
 
 ## Raw JSON
@@ -69,7 +70,8 @@ _None_
   "radar": [
     {
       "source": [
-        "ixigua.com/home/:uid"
+        "ixigua.com/home/:uid",
+        "m.ixigua.com/user/:uid"
       ],
       "target": "/user/video/:uid"
     }

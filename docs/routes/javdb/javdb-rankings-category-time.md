@@ -97,18 +97,6 @@
   },
   "topFeeds": [
     {
-      "description": "Daily censored movies ranking - JavDB - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "41696949079348224",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://javdb.com/rankings/movies?p=daily&t=censored",
-      "title": "Daily censored movies ranking - JavDB",
-      "type": "feed",
-      "url": "rsshub://javdb/rankings"
-    },
-    {
       "description": "Monthly censored movies ranking - JavDB - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -119,6 +107,18 @@
       "title": "Monthly censored movies ranking - JavDB",
       "type": "feed",
       "url": "rsshub://javdb/rankings/censored/monthly"
+    },
+    {
+      "description": "Daily censored movies ranking - JavDB - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "41696949079348224",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://javdb.com/rankings/movies?p=daily&t=censored",
+      "title": "Daily censored movies ranking - JavDB",
+      "type": "feed",
+      "url": "rsshub://javdb/rankings"
     }
   ],
   "url": "javdb.com/"

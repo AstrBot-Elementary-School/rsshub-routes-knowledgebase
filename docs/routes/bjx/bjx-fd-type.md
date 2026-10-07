@@ -69,18 +69,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "北极星风力发电网要闻 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "74275326708265984",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://fd.bjx.com.cn/yw/",
-      "title": "北极星风力发电网要闻",
-      "type": "feed",
-      "url": "rsshub://bjx/fd/yw"
-    },
-    {
       "description": "北极星风力发电网政策 - Powered by RSSHub",
       "errorAt": "2025-10-11T06:37:27.894Z",
       "errorMessage": "Failed to fetch\n",
@@ -91,6 +79,18 @@ _None_
       "title": "北极星风力发电网政策",
       "type": "feed",
       "url": "rsshub://bjx/fd/zc"
+    },
+    {
+      "description": "北极星风力发电网要闻 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "74275326708265984",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://fd.bjx.com.cn/yw/",
+      "title": "北极星风力发电网要闻",
+      "type": "feed",
+      "url": "rsshub://bjx/fd/yw"
     }
   ]
 }

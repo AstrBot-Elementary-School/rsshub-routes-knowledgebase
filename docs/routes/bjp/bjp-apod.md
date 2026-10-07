@@ -54,7 +54,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4276,
+  "heat": 4275,
   "location": "apod.ts",
   "maintainers": [
     "HenryQW"

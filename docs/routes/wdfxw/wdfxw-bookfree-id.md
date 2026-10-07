@@ -706,7 +706,7 @@
     {
       "description": "滑动验证 - Powered by RSSHub",
       "errorAt": "2026-09-26T07:45:55.865Z",
-      "errorMessage": "[GET] \"https://www.wdfxw.net/bookfree.html\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.wdfxw.net/bookfree.html\": 404 Not Found\n",
       "id": "167817053585897472",
       "image": "/images/logo_wk.png",
       "ownerUserId": null,

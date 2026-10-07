@@ -44,7 +44,7 @@ _None_
   ],
   "description": "::: tip\nEvery stream is categorized as `live`, `upcoming` or `completed`, so a single state can be picked out with the `filter_category` and `filterout_category` [common parameters](https://docs.rsshub.app/guide/parameters#filtering). For example, `/youtube/live/@GawrGura?filterout_category=completed` only tracks streams that are live or about to start.\n:::",
   "example": "/youtube/live/@GawrGura",
-  "heat": 254,
+  "heat": 253,
   "location": "live.ts",
   "maintainers": [
     "sussurr127",

@@ -76,7 +76,7 @@ _None_
     {
       "description": "关于美联储的那些事 - Powered by RSSHub",
       "errorAt": "2026-09-30T13:15:49.334Z",
-      "errorMessage": "[GET] \"https://reference-api.jin10.com/topic/getById?id=20\": 403 Forbidden\n",
+      "errorMessage": "Cannot read properties of undefined (reading 'content')\n",
       "id": "88845418189377536",
       "image": null,
       "ownerUserId": null,

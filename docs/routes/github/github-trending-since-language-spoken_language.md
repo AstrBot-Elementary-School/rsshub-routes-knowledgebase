@@ -60,7 +60,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 69047,
+  "heat": 69127,
   "location": "trending.tsx",
   "maintainers": [
     "DIYgod",
@@ -105,8 +105,8 @@ _None_
   "topFeeds": [
     {
       "description": "Trending repositories on GitHub this week · GitHub - Powered by RSSHub",
-      "errorAt": "2026-10-05T11:13:28.938Z",
-      "errorMessage": "GitHub trending RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\nGitHub trending RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\nGitHub trending RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\nGitHub trending RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\nGitHub trending RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\nGitHub trending RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\nGitHub trending RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\nGitHub trending RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\n[POST] \"https://api.github.com/graphql\": 401 Unauthorized\nGitHub trending RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\nAuthentication failed. Access denied.\n/github/trending/weekly/any\nGitHub trending RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\nGitHub trending RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\nGitHub trending RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\nGitHub trending RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\nGitHub trending RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\n[GET] \"https://github.com/trending/?since=weekly&spoken_language_code=\": 429 Too Many Requests\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41368476124603392",
       "image": null,
       "ownerUserId": null,

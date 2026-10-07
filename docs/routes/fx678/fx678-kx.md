@@ -73,8 +73,8 @@ _None_
   "topFeeds": [
     {
       "description": "7x24小时快讯 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-06T13:26:41.124Z",
+      "errorMessage": "503 \n",
       "id": "57678974871415816",
       "image": null,
       "ownerUserId": null,

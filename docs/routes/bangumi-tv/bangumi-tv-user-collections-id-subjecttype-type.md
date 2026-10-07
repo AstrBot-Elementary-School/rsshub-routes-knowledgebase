@@ -166,16 +166,16 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "翻车鱼的Bangumi收藏列表 - Powered by RSSHub",
+      "description": "Nagisa.看过的动画列表 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "241412614589635584",
+      "id": "162508647613135872",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://bgm.tv/user/leekkun/collections",
-      "title": "翻车鱼的Bangumi收藏列表",
+      "siteUrl": "https://bgm.tv/user/mydg0216/collections",
+      "title": "Nagisa.看过的动画列表",
       "type": "feed",
-      "url": "rsshub://bangumi.tv/user/collections/leekkun/all/all"
+      "url": "rsshub://bangumi.tv/user/collections/mydg0216/2/2"
     },
     {
       "description": "Sai🖖想读的书籍列表 - Powered by RSSHub",

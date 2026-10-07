@@ -80,8 +80,8 @@ _None_
     },
     {
       "description": "通信人家园 - 论坛 一周热帖 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-05T20:16:21.681Z",
+      "errorMessage": "503 \n",
       "id": "67830551877448704",
       "image": null,
       "ownerUserId": null,

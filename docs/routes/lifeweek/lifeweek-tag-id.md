@@ -80,8 +80,8 @@ _None_
     },
     {
       "description": "文学 - Powered by RSSHub",
-      "errorAt": "2026-10-05T05:26:26.330Z",
-      "errorMessage": "[GET] \"https://www.lifeweek.com.cn/api/userWebFollow/getFollowTagContentList?type=4&sort=2&tagId=4\": 522 <none>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "152614384793012224",
       "image": null,
       "ownerUserId": null,

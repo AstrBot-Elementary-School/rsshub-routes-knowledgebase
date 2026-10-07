@@ -104,6 +104,18 @@
   },
   "topFeeds": [
     {
+      "description": "Changes Minecraft Combat into Souls-Like Combat. - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "86130193434324992",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://modrinth.com/project/epic-fight",
+      "title": "Epic Fight Modrinth versions",
+      "type": "feed",
+      "url": "rsshub://modrinth/project/epic-fight/versions"
+    },
+    {
       "description": "Aesthetic Technology that empowers the Player - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -114,18 +126,6 @@
       "title": "Create Modrinth versions",
       "type": "feed",
       "url": "rsshub://modrinth/project/create/versions"
-    },
-    {
-      "description": "Store numeric values of players' stats or balance, specified by a text key. -> With Folia and Multi-Server support! - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "123851540339893248",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/13drT7K6",
-      "title": "JustPoints Modrinth versions",
-      "type": "feed",
-      "url": "rsshub://modrinth/project/13drT7K6/versions"
     }
   ]
 }

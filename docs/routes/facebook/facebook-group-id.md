@@ -1,4 +1,4 @@
-# Facebook - Page / Profile
+# Facebook - Group
 
 ## Coverage
 `index-only`
@@ -6,21 +6,21 @@
 ## Route
 - Namespace: `facebook`
 - Namespace Name: `Facebook`
-- Route Path: `/facebook/page/:id`
-- Route Name: `Page / Profile`
-- Example: `/facebook/page/NASA`
+- Route Path: `/facebook/group/:id`
+- Route Name: `Group`
+- Example: `/facebook/group/613870175328566`
 - URL: `www.facebook.com`
 - Language: `_None_`
 - Categories: `social-media`
 - Maintainers: `TonyRL`
-- Source Location: `page.ts`
+- Source Location: `group.ts`
 - Source Module: `_None_`
 
 ## Description
-Works for pages and public personal profiles. Posts behind a login wall require `FACEBOOK_COOKIE`.
+_None_
 
 ## Parameters
-- `id`: Page or profile username, or numeric ID
+- `id`: Group ID or group username
 
 
 ## Features
@@ -30,9 +30,7 @@ Works for pages and public personal profiles. Posts behind a login wall require 
 ## Radar
 ### Rule 1
 - `source`:
-  - `www.facebook.com/:id`
-  - `www.facebook.com/people/:name/:id`
-- `target`: `/page/:id`
+  - `www.facebook.com/groups/:id`
 
 ## Raw JSON
 ```json
@@ -40,8 +38,7 @@ Works for pages and public personal profiles. Posts behind a login wall require 
   "categories": [
     "social-media"
   ],
-  "description": "Works for pages and public personal profiles. Posts behind a login wall require `FACEBOOK_COOKIE`.",
-  "example": "/facebook/page/NASA",
+  "example": "/facebook/group/613870175328566",
   "features": {
     "antiCrawler": true,
     "requireConfig": [
@@ -53,22 +50,20 @@ Works for pages and public personal profiles. Posts behind a login wall require 
     ]
   },
   "heat": 0,
-  "location": "page.ts",
+  "location": "group.ts",
   "maintainers": [
     "TonyRL"
   ],
-  "name": "Page / Profile",
+  "name": "Group",
   "parameters": {
-    "id": "Page or profile username, or numeric ID"
+    "id": "Group ID or group username"
   },
-  "path": "/page/:id",
+  "path": "/group/:id",
   "radar": [
     {
       "source": [
-        "www.facebook.com/:id",
-        "www.facebook.com/people/:name/:id"
-      ],
-      "target": "/page/:id"
+        "www.facebook.com/groups/:id"
+      ]
     }
   ],
   "topFeeds": [],

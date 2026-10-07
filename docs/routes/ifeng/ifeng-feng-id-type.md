@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 35,
+  "heat": 34,
   "location": "feng.ts",
   "maintainers": [
     "Jamch"

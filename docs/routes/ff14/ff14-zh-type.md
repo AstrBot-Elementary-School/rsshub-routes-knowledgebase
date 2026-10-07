@@ -55,7 +55,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 21,
+  "heat": 22,
   "location": "ff14-zh.ts",
   "maintainers": [
     "Kiotlin",

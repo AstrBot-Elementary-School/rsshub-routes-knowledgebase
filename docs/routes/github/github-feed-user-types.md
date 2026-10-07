@@ -136,18 +136,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "GitHub events received by vancaem (filtered: star) - includes private events - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "198776976440163328",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://github.com/vancaem",
-      "title": "vancaem's GitHub Private Feed - Events: star",
-      "type": "feed",
-      "url": "rsshub://github/feed/vancaem/star"
-    },
-    {
       "description": "GitHub events received by ardubev16 - includes private events - Powered by RSSHub",
       "errorAt": "2025-11-04T02:13:08.676Z",
       "errorMessage": "Failed to fetch\n",
@@ -158,6 +146,18 @@ _None_
       "title": "ardubev16's GitHub Private Feed - All Events",
       "type": "feed",
       "url": "rsshub://github/feed/ardubev16/all"
+    },
+    {
+      "description": "GitHub events received by moeru-ai (filtered: release) - includes private events - Powered by RSSHub",
+      "errorAt": "2025-10-12T19:18:22.702Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "id": "188306769764888576",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://github.com/moeru-ai",
+      "title": "moeru-ai's GitHub Private Feed - Events: release",
+      "type": "feed",
+      "url": "rsshub://github/feed/moeru-ai/release"
     }
   ],
   "view": 5

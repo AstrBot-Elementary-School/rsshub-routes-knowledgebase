@@ -105,7 +105,7 @@ _None_
     {
       "description": "Fur Affinity Gallery of oddeyresproductions - Powered by RSSHub",
       "errorAt": "2026-05-25T18:57:48.549Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://faexport.spangle.org.uk/user/oddeyresproductions/gallery.json?full=1\": 500 Internal Server Error\n",
+      "errorMessage": "[GET] \"https://faexport.spangle.org.uk/user/oddeyresproductions/gallery.json?full=1\": 500 Internal Server Error\n[GET] \"https://faexport.spangle.org.uk/user/oddeyresproductions/gallery.json?full=1\": 500 Internal Server Error\n",
       "id": "79207337889916928",
       "image": null,
       "ownerUserId": null,
@@ -115,16 +115,16 @@ _None_
       "url": "rsshub://furaffinity/art/gallery/oddeyresproductions/nsfw"
     },
     {
-      "description": "Fur Affinity Gallery of personalami - Powered by RSSHub",
+      "description": "Fur Affinity Gallery of aoyi - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "153446870634324992",
+      "id": "146173028202221568",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.furaffinity.net/gallery/personalami",
-      "title": "Fur Affinity | Gallery of personalami",
+      "siteUrl": "https://www.furaffinity.net/gallery/aoyi",
+      "title": "Fur Affinity | Gallery of aoyi",
       "type": "feed",
-      "url": "rsshub://furaffinity/art/gallery/personalami/nsfw"
+      "url": "rsshub://furaffinity/art/gallery/aoyi/nsfw"
     }
   ],
   "url": "furaffinity.net"

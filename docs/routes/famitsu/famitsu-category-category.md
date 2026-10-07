@@ -65,8 +65,8 @@ _None_
   "topFeeds": [
     {
       "description": "新着の最新記事 | ゲーム・エンタメ最新情報のファミ通.com - Powered by RSSHub",
-      "errorAt": "2026-03-26T04:42:27.495Z",
-      "errorMessage": "Unhandle type: ARTICLE_AD\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "73943720962894848",
       "image": "https://www.famitsu.com/img/1812/favicons/apple-touch-icon.png",
       "ownerUserId": null,

@@ -3629,7 +3629,7 @@ Use this file to select the target namespace before opening route documents.
 ## Facebook
 - Namespace: `facebook`
 - Aliases: `facebook, facebook.com, www, www.facebook.com`
-- Route Count: `1`
+- Route Count: `2`
 - Index File: `index/facebook.md`
 
 ## ファミ通

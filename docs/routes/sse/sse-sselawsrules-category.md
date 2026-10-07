@@ -643,7 +643,7 @@
   "topFeeds": [
     {
       "description": "股票交易 | 上海证券交易所 - Powered by RSSHub",
-      "errorAt": "2026-10-03T02:49:47.380Z",
+      "errorAt": "2026-10-06T00:10:56.117Z",
       "errorMessage": "[GET] \"https://www.sse.com.cn/lawandrules/sselawsrules/stocks/exchange\": 403 Forbidden\n",
       "id": "72506899888155648",
       "image": "https://www.sse.com.cn/undefined",

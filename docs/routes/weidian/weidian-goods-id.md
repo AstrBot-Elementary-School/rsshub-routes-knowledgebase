@@ -51,28 +51,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "我是呼吸 商铺上新 - Powered by RSSHub",
+      "description": "CVW 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264526095856566272",
+      "id": "1264525967577972736",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1809067401",
-      "title": "我是呼吸 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1801401190",
+      "title": "CVW 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1809067401"
+      "url": "rsshub://weidian/goods/1801401190"
     },
     {
-      "description": "茨木甄选 商铺上新 - Powered by RSSHub",
+      "description": "sizek 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264527186627264512",
+      "id": "1264527013503172608",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=972619875",
-      "title": "茨木甄选 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=215264316",
+      "title": "sizek 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/972619875"
+      "url": "rsshub://weidian/goods/215264316"
     }
   ]
 }

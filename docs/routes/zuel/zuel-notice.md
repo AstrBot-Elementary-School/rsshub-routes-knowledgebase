@@ -75,7 +75,7 @@ _None_
     {
       "description": "中南财经大学 - 通知公告 - Powered by RSSHub",
       "errorAt": "2025-08-14T07:34:59.187Z",
-      "errorMessage": "[GET] \"http://wap.zuel.edu.cn/notice/list.htm\": 522 <none>\n",
+      "errorMessage": "[GET] \"http://wap.zuel.edu.cn/notice/list.htm\": 520 <none>\n",
       "id": "69947206483898368",
       "image": null,
       "ownerUserId": null,

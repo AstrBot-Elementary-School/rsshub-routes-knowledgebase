@@ -76,16 +76,16 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "The AI Collective - Powered by RSSHub",
-      "errorAt": "2026-10-01T13:25:39.372Z",
-      "errorMessage": "[GET] \"https://api.lu.ma/url?url=genai-collective\": 429 Too Many Requests\n",
-      "id": "265935647087177728",
+      "description": "MenteX - Powered by RSSHub",
+      "errorAt": "2026-08-27T20:26:16.017Z",
+      "errorMessage": "[GET] \"https://api.lu.ma/url?url=mentex_ecosistema\": 429 Too Many Requests\n",
+      "id": "265966986896278528",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://lu.ma/genai-collective",
-      "title": "The AI Collective",
+      "siteUrl": "https://lu.ma/mentex_ecosistema",
+      "title": "MenteX",
       "type": "feed",
-      "url": "rsshub://luma/genai-collective"
+      "url": "rsshub://luma/mentex_ecosistema"
     },
     {
       "description": "LangChain Events - Powered by RSSHub",

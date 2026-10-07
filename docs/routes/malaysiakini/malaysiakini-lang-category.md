@@ -125,7 +125,7 @@
     {
       "description": "News & Views That Matter - Powered by RSSHub",
       "errorAt": "2026-09-07T10:16:30.919Z",
-      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/886191-%E5%85%AC%E6%AD%A3%E5%85%9A%E6%8E%A5%E7%BA%B3%E4%B8%89%E5%89%8D%E8%AE%AE%E5%91%98%E5%BD%92%E9%98%9F%E5%B1%B1%E5%A1%94%E6%8B%89%E5%8D%A1%E7%8E%9B%E9%B2%81%E4%B8%81%E9%94%BA%E5%B0%91%E4%BA%91\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/886361-%E6%94%BF%E5%BA%9C%E5%91%88%E4%BF%AE%E8%AE%A2%E6%A1%88%E6%8B%9F%E8%B5%8B%E6%9D%83%E9%83%A8%E9%95%BF%E5%90%8A%E9%94%80%E6%9C%89%E5%AE%B3%E4%BD%93%E8%82%B2%E7%BB%84%E7%BB%87\": 404 Not Found\n",
       "id": "69685104073634816",
       "image": null,
       "ownerUserId": null,
@@ -137,7 +137,7 @@
     {
       "description": "News & Views That Matter - Powered by RSSHub",
       "errorAt": "2026-09-07T09:32:19.566Z",
-      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/886194-support-for-new-age-movement-enough-to-warrant-deputy-ministers-resignation-pas\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/886312-msia-ends-12-year-drought-with-win-over-vietnam\": 404 Not Found\n",
       "id": "61840955600323584",
       "image": null,
       "ownerUserId": null,

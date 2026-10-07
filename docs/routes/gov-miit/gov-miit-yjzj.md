@@ -72,8 +72,8 @@ _None_
   "topFeeds": [
     {
       "description": "工业和信息化部 - 意见征集 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-06T13:21:41.756Z",
+      "errorMessage": "503 \n",
       "id": "180157875378420750",
       "image": null,
       "ownerUserId": null,

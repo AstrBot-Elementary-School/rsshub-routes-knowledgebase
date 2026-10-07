@@ -161,6 +161,18 @@ _None_
       "title": "热点 - 今日头条",
       "type": "feed",
       "url": "rsshub://toutiao/channel/news_hot"
+    },
+    {
+      "description": "推荐 - 今日头条 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "1319372569941245952",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.toutiao.com/",
+      "title": "推荐 - 今日头条",
+      "type": "feed",
+      "url": "rsshub://toutiao/channel/recommend"
     }
   ]
 }

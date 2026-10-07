@@ -108,8 +108,8 @@ Provides a better reading experience (full text articles) over the official one.
   "topFeeds": [
     {
       "description": "Apps | The Verge - Powered by RSSHub",
-      "errorAt": "2025-09-24T18:37:54.873Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'map')\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "52982633246101506",
       "image": null,
       "ownerUserId": null,

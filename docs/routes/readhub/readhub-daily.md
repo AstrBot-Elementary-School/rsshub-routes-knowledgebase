@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4869,
+  "heat": 4868,
   "location": "daily.ts",
   "maintainers": [
     "nczitzk",
@@ -73,7 +73,7 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "1. Anthropic 借 OpenEvidence 把医疗 AI 铺向 100 国 2. Anthropic 被曝秘密游说梵蒂冈试图推动 AI 意识论 3. DeepSeek Harness 更新 新增实验性 Claude Code Mods 兼容层 4. 离职员工爆料 OpenAI 风险意识不足 5. 网传 OpenAI GPT-6 Sol Codex 近 30 万字系统提示词遭泄露 6. 10 月 9 日起谷歌 Gemini 未订阅用户仅可用 Flash-Lite 模型 7. 马斯克称 Robotaxi 运营延长至 23 点：正攻克夜间宠物识别难题 8. ChatGPT 10 月 14 日起全套餐下线 GPT-5.5 9. 余承东回应误发工作备注：没想到备注比正文还抢镜 10. 10 万人涌入青海祁连县致酒店满房 文旅局长为游客铺床 11. 特朗普宣布成立超级智能工作组 12. 马斯克称「SpaceXAI」将更名为「SpaceXSI」 13. 消息称苹果 iPhone 18 Pro 系列 W39 周国内销量预计 176 万台 14. 中国人民大学一校友捐资 5.03 亿元 建设通州校区体育中心 15. 小马智行回应乘客被夹手事件：属意外非交通事故 已配合交警调查 16. 国庆假期广州南站最短发车间隔 40 秒 - Powered by RSSHub",
+      "description": "1. 三人因光遗传学获 2026 年诺贝尔生理学或医学奖 2. DeepSeek 国庆更新大模型智能体框架 90 后负责人回应 3. OpenAI 将在欧盟为 ChatGPT 和 Codex 文本输出添加隐形水印 4. 古尔曼：苹果 CEO 特努斯深度介入设计业务，每周多次亲临设计工作室 5. SpaceX 股价大涨，马斯克净资产重回万亿美元 6. Tibo 承诺连续 28 天发布或重置，OpenAI 遭遇用户信任危机 7. 施耐德电气接近以 200 亿美元收购工业软件集团 PTC 8. 隐私担忧发酵：荷兰大型眼镜连锁 Hans Anders 暂停售 Meta 雷朋智能眼镜 9. 挪威拟临时禁止在特定场所使用 AI 眼镜 10. OpenAI 正与阿联酋基金、贝莱德洽谈 300 亿美元融资轮 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "52347176714948614",

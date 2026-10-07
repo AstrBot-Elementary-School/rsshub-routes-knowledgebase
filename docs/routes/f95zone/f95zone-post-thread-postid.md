@@ -94,16 +94,16 @@ _None_
       "url": "rsshub://f95zone/post/theobrobine-collection-2025-12-28-theobrobine-theobrobine-teoburobin.93491/post-6520658"
     },
     {
-      "description": "[F95zone] Collection Video Lazy Procrastinator Collection [2026-06-28] [LazyProcrastinator/LazyProcrast] - Powered by RSSHub",
+      "description": "[F95zone] Collection Pinup Ecksoh Collection [2026-05-02] [xoxo] - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "250523611655439360",
+      "id": "243703193927277568",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://f95zone.to/threads/lazy-procrastinator-collection-2025-04-18-lazyprocrastinator-lazyprocrast.50685/#post-3358507",
-      "title": "[F95zone] Collection Video Lazy Procrastinator Collection [2026-06-28] [LazyProcrastinator/LazyProcrast]",
+      "siteUrl": "https://f95zone.to/threads/ecksoh-collection-2026-01-01-xoxo.136515/#post-9343108",
+      "title": "[F95zone] Collection Pinup Ecksoh Collection [2026-05-02] [xoxo]",
       "type": "feed",
-      "url": "rsshub://f95zone/post/lazy-procrastinator-collection-2025-04-18-lazyprocrastinator-lazyprocrast.50685/post-3358507"
+      "url": "rsshub://f95zone/post/ecksoh-collection-2026-01-01-xoxo.136515/post-9343108"
     }
   ]
 }

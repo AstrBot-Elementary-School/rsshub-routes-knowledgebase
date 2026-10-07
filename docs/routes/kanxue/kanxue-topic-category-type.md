@@ -89,8 +89,8 @@ _None_
     },
     {
       "description": "看雪论坛精华主题 - Android安全 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-06T14:26:34.160Z",
+      "errorMessage": "[GET] \"https://bbs.kanxue.com/forum-161-1.htm?digest=1\": 520 <none>\n",
       "id": "59422035037245440",
       "image": null,
       "ownerUserId": null,
