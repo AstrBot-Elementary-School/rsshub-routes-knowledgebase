@@ -38,7 +38,7 @@ _None_
     "programming"
   ],
   "example": "/web/articles",
-  "heat": 311,
+  "heat": 310,
   "location": "articles.ts",
   "maintainers": [
     "KarasuShin"

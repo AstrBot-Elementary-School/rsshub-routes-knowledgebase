@@ -90,7 +90,7 @@ _None_
     {
       "description": null,
       "errorAt": "2026-06-30T06:04:25.322Z",
-      "errorMessage": "[GET] \"https://www.sciencedirect.com/journal/journal-of-computational-physics/articles-in-press\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.sciencedirect.com/journal/journal-of-computational-physics/articles-in-press\": 400 Bad Request\n",
       "id": "1178645011650969616",
       "image": null,
       "ownerUserId": null,

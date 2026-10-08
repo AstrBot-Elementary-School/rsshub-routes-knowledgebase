@@ -72,18 +72,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "HelloGithub - 精选开源项目 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "66526115085137920",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://hellogithub.com/?sort_by=featured",
-      "title": "HelloGithub - 精选开源项目",
-      "type": "feed",
-      "url": "rsshub://hellogithub/home"
-    },
-    {
       "description": "HelloGithub - 全部开源项目 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -94,6 +82,18 @@ _None_
       "title": "HelloGithub - 全部开源项目",
       "type": "feed",
       "url": "rsshub://hellogithub/home/all"
+    },
+    {
+      "description": "HelloGithub - 精选开源项目 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "66526115085137920",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://hellogithub.com/?sort_by=featured",
+      "title": "HelloGithub - 精选开源项目",
+      "type": "feed",
+      "url": "rsshub://hellogithub/home"
     }
   ]
 }

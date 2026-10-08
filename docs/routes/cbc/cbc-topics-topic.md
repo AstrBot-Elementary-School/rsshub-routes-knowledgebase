@@ -75,26 +75,26 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "CBC News - Latest Canada, World, Entertainment and Business NewsMenuTelevisionheadphoneclosed captionPrevious itemNext itemclosed captionclosed captionclosed captionclosed captionclosed captionclosed captionclosed captionclosed captionclosed captionclosed caption - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "description": "CBC News - Latest Canada, World, Entertainment and Business NewsMenuTelevisionheadphoneclosed captionclosed captionclosed captionclosed captionPrevious itemNext itemPrevious itemNext item - Powered by RSSHub",
+      "errorAt": "2026-10-07T10:20:41.204Z",
+      "errorMessage": "KV GET failed: 500 Internal Server Error\n",
       "id": "165818925513194496",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.cbc.ca/news",
-      "title": "CBC News - Latest Canada, World, Entertainment and Business NewsMenuTelevisionheadphoneclosed captionPrevious itemNext itemclosed captionclosed captionclosed captionclosed captionclosed captionclosed captionclosed captionclosed captionclosed captionclosed caption",
+      "title": "CBC News - Latest Canada, World, Entertainment and Business NewsMenuTelevisionheadphoneclosed captionclosed captionclosed captionclosed captionPrevious itemNext itemPrevious itemNext item",
       "type": "feed",
       "url": "rsshub://cbc/topics"
     },
     {
-      "description": "Ottawa - CBC NewsMenuTelevisionheadphone - Powered by RSSHub",
+      "description": "Ottawa - CBC NewsMenuTelevisionheadphoneclosed captionclosed captionclosed captionclosed captionclosed caption - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "60766614420573184",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.cbc.ca/news/canada/ottawa",
-      "title": "Ottawa - CBC NewsMenuTelevisionheadphone",
+      "title": "Ottawa - CBC NewsMenuTelevisionheadphoneclosed captionclosed captionclosed captionclosed captionclosed caption",
       "type": "feed",
       "url": "rsshub://cbc/topics/canada-ottawa"
     }

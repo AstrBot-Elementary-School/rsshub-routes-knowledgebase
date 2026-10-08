@@ -66,8 +66,8 @@ _None_
   "topFeeds": [
     {
       "description": "V2EX-tab-apple - Powered by RSSHub",
-      "errorAt": "2026-10-06T14:07:47.751Z",
-      "errorMessage": "[GET] \"https://v2ex.com/?tab=apple\": <no response> fetch failed (Client network socket disconnected before secure TLS connection was established)\n[GET] \"https://v2ex.com/?tab=apple\": <no response> fetch failed\n[GET] \"https://v2ex.com/?tab=apple\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "46752076079222784",
       "image": null,
       "ownerUserId": null,

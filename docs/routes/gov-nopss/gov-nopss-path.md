@@ -71,16 +71,16 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "重大项目- 全国哲学社会科学工作办公室 - Powered by RSSHub",
-      "errorAt": "2026-06-15T11:29:45.771Z",
+      "description": "年度项目- 全国哲学社会科学工作办公室 - Powered by RSSHub",
+      "errorAt": "2026-06-15T12:07:28.389Z",
       "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
-      "id": "68892056440478838",
+      "id": "68892056440478839",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "http://www.nopss.gov.cn/GB/219469/431028",
-      "title": "重大项目- 全国哲学社会科学工作办公室",
+      "siteUrl": "http://www.nopss.gov.cn/GB/219469/431027",
+      "title": "年度项目- 全国哲学社会科学工作办公室",
       "type": "feed",
-      "url": "rsshub://gov/nopss/GB/219469/431028"
+      "url": "rsshub://gov/nopss/GB/219469/431027"
     },
     {
       "description": "鍚庢湡璧勫姪椤圭洰- 鍏ㄥ浗鍝插绀句細绉戝宸ヤ綔鍔炲叕瀹� - Powered by RSSHub",

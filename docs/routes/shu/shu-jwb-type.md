@@ -70,6 +70,18 @@ _None_
       "description": "通知公告-上海大学本科生院 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
+      "id": "1238801690824409088",
+      "image": "https://www.shu.edu.cn/__local/0/08/C6/1EABE492B0CF228A5564D6E6ABE_779D1EE3_5BF7.png",
+      "ownerUserId": null,
+      "siteUrl": "https://jwb.shu.edu.cn/index/tzgg.htm",
+      "title": "通知公告-上海大学本科生院",
+      "type": "feed",
+      "url": "rsshub://shu/jwb/notice"
+    },
+    {
+      "description": "通知公告-上海大学本科生院 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "84818651163788288",
       "image": "https://www.shu.edu.cn/__local/0/08/C6/1EABE492B0CF228A5564D6E6ABE_779D1EE3_5BF7.png",
       "ownerUserId": null,
@@ -77,18 +89,6 @@ _None_
       "title": "通知公告-上海大学本科生院",
       "type": "feed",
       "url": "rsshub://shu/jwb/tzgg"
-    },
-    {
-      "description": "新闻-上海大学本科生院 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "84819628572333056",
-      "image": "https://www.shu.edu.cn/__local/0/08/C6/1EABE492B0CF228A5564D6E6ABE_779D1EE3_5BF7.png",
-      "ownerUserId": null,
-      "siteUrl": "https://jwb.shu.edu.cn/index/xw.htm",
-      "title": "新闻-上海大学本科生院",
-      "type": "feed",
-      "url": "rsshub://shu/jwb/xw"
     }
   ]
 }

@@ -76,18 +76,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "MenteX - Powered by RSSHub",
-      "errorAt": "2026-08-27T20:26:16.017Z",
-      "errorMessage": "[GET] \"https://api.lu.ma/url?url=mentex_ecosistema\": 429 Too Many Requests\n",
-      "id": "265966986896278528",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://lu.ma/mentex_ecosistema",
-      "title": "MenteX",
-      "type": "feed",
-      "url": "rsshub://luma/mentex_ecosistema"
-    },
-    {
       "description": "LangChain Events - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -98,6 +86,18 @@ _None_
       "title": "LangChain Events",
       "type": "feed",
       "url": "rsshub://luma/langchain"
+    },
+    {
+      "description": "vLLM Meetups and Events - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "265967053376549888",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://lu.ma/vLLM-Meetups",
+      "title": "vLLM Meetups and Events",
+      "type": "feed",
+      "url": "rsshub://luma/vLLM-Meetups"
     }
   ],
   "url": "lu.ma"

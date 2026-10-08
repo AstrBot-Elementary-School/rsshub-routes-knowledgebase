@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 31,
+  "heat": 32,
   "location": "news/military/news.ts",
   "maintainers": [
     "jiaaoMario"

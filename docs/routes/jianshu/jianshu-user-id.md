@@ -88,8 +88,8 @@ _None_
     },
     {
       "description": "这个世界流行离开，但我们却不擅长告别 - Powered by RSSHub",
-      "errorAt": "2026-10-06T12:56:00.702Z",
-      "errorMessage": "503 \n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "75713109098394624",
       "image": null,
       "ownerUserId": null,

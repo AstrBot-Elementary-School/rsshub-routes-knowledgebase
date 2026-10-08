@@ -72,8 +72,8 @@ _None_
   "topFeeds": [
     {
       "description": "同步、随时跟踪法广政治、文化、体育新闻，了解法国、中国与世界各地大事 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-07T03:30:30.133Z",
+      "errorMessage": "KV GET failed: 414 UTF-8 encoded length of 516 exceeds key length limit of 512.\n",
       "id": "58701529235465216",
       "image": "https://s.rfi.fr/media/display/020b8dae-e6c1-11ee-a196-005056bfb2b6/w:1280/p:16x9/img-default-RFI.jpg",
       "ownerUserId": null,
@@ -84,8 +84,8 @@ _None_
     },
     {
       "description": "同步、随时跟踪中国时事：采访、报道、特别专题 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-06T23:05:44.962Z",
+      "errorMessage": "KV GET failed: 414 UTF-8 encoded length of 516 exceeds key length limit of 512.\n",
       "id": "75444883463138304",
       "image": "https://s.rfi.fr/media/display/020b8dae-e6c1-11ee-a196-005056bfb2b6/w:1280/p:16x9/img-default-RFI.jpg",
       "ownerUserId": null,

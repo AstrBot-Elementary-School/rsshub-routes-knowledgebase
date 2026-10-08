@@ -67,9 +67,9 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "本吧热帖: 1-最忧郁的入 2-今天心情不好想胡说八道 3-好久没联系的高中同桌突然联系我了 4-有没有聊聊天的 直接一点的那种 5-关于我开小号装纯情女高骗班上的??压抑?男这件事 6-《百度贴吧关于整治不良网络生态的公告》 7-鼠鼠我啊终于找到自己的大姐姐了? 8-江西彩礼局 9-我是老资历，按照俺们山东习俗，过年了小资历得给我磕头！ 10-为什么互助板块没有了 11-晚辈对我动手动脚怎么办 - Powered by RSSHub",
-      "errorAt": "2026-02-25T03:24:21.114Z",
-      "errorMessage": "Baidu Tieba RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#baidu\">BAIDU_COOKIE</a>\n",
+      "description": "孙笑川吧 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "59474368564173828",
       "image": null,
       "ownerUserId": null,

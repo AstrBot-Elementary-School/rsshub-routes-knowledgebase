@@ -45,7 +45,7 @@ To subscribe to [Latest](https://musify.club/en), where the source URL is `https
   - `musify.club/en`
 - `target`: `/en`
 ### Rule 3
-- `title`: `​​Последняя`
+- `title`: `Последняя`
 - `source`:
   - `musify.club`
 - `target`: `/`
@@ -108,7 +108,7 @@ To subscribe to [Latest](https://musify.club/en), where the source URL is `https
         "musify.club"
       ],
       "target": "/",
-      "title": "​​Последняя"
+      "title": "Последняя"
     }
   ],
   "test": {

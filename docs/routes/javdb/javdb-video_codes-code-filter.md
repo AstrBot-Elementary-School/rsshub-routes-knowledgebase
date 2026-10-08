@@ -65,7 +65,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1570,
+  "heat": 1569,
   "location": "videocodes.ts",
   "maintainers": [
     "sgpublic"

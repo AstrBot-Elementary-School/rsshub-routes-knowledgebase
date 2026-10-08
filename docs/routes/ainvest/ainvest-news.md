@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1542,
+  "heat": 1543,
   "location": "news.ts",
   "maintainers": [
     "TonyRL"
@@ -78,7 +78,7 @@ _None_
       "id": "63585517712903168",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.ainvest.com/news/",
+      "siteUrl": "https://www.ainvest.com/news",
       "title": "AInvest - Latest News",
       "type": "feed",
       "url": "rsshub://ainvest/news"

@@ -76,18 +76,6 @@
   },
   "topFeeds": [
     {
-      "description": "立法_中国人大网 - Powered by RSSHub",
-      "errorAt": "2026-09-07T23:38:03.336Z",
-      "errorMessage": "503 \n",
-      "id": "62717033472135175",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "http://www.npc.gov.cn/npc/c2/c183/",
-      "title": "立法_中国人大网",
-      "type": "feed",
-      "url": "rsshub://gov/npc/c183"
-    },
-    {
       "description": "权威发布_中国人大网 - Powered by RSSHub",
       "errorAt": "2026-09-09T03:01:15.242Z",
       "errorMessage": "Cannot read properties of null (reading '1')\n",
@@ -98,6 +86,18 @@
       "title": "权威发布_中国人大网",
       "type": "feed",
       "url": "rsshub://gov/npc/c12435"
+    },
+    {
+      "description": "立法_中国人大网 - Powered by RSSHub",
+      "errorAt": "2026-09-07T23:38:03.336Z",
+      "errorMessage": "503 \n",
+      "id": "62717033472135175",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "http://www.npc.gov.cn/npc/c2/c183/",
+      "title": "立法_中国人大网",
+      "type": "feed",
+      "url": "rsshub://gov/npc/c183"
     }
   ]
 }

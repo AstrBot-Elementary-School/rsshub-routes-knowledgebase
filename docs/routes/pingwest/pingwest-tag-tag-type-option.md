@@ -82,18 +82,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "品玩 - 豆包 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "128313509223043072",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.pingwest.com/tag/22158",
-      "title": "品玩 - 豆包",
-      "type": "feed",
-      "url": "rsshub://pingwest/tag/22158/1"
-    },
-    {
       "description": "品玩 - AIGC - Powered by RSSHub",
       "errorAt": "2026-05-25T10:17:17.755Z",
       "errorMessage": "[GET] \"https://www.pingwest.com/api/tag_article_list?id=20327&type=0\": 405 Not Allowed\n",
@@ -104,6 +92,18 @@ _None_
       "title": "品玩 - AIGC",
       "type": "feed",
       "url": "rsshub://pingwest/tag/20327/1/fulltext"
+    },
+    {
+      "description": "品玩 - 电子书 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "121129408988533760",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.pingwest.com/tag/1326",
+      "title": "品玩 - 电子书",
+      "type": "feed",
+      "url": "rsshub://pingwest/tag/1326/1"
     }
   ]
 }

@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2094,
+  "heat": 2095,
   "location": "znews.ts",
   "maintainers": [
     "shunf4"
@@ -72,7 +72,7 @@ _None_
       "errorAt": null,
       "errorMessage": null,
       "id": "41511702474276899",
-      "image": "https://www.zaobao.com.sg/favicon.ico",
+      "image": "https://rsstt-img-relay-8ee.pages.dev/https://www.zaobao.com.sg/favicon.ico",
       "ownerUserId": null,
       "siteUrl": "https://www.zaobao.com/news/world",
       "title": "《联合早报》-国际-新闻",

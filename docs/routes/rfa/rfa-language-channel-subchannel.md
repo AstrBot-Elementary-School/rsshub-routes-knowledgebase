@@ -58,7 +58,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 31,
+  "heat": 32,
   "location": "index.ts",
   "maintainers": [
     "zphw"
@@ -76,8 +76,8 @@ _None_
   "topFeeds": [
     {
       "description": "普通话主页 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-07T04:27:49.289Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "41511702474276901",
       "image": null,
       "ownerUserId": null,

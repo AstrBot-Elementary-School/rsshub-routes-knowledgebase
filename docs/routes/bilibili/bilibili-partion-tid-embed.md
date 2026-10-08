@@ -193,7 +193,7 @@ _None_
     {
       "description": "bilibili 军事分区 - Powered by RSSHub",
       "errorAt": "2026-07-01T15:57:20.918Z",
-      "errorMessage": "[GET] \"https://api.bilibili.com/x/web-interface/newlist?ps=15&rid=179&_=1791254575277\": 412 Precondition Failed\n",
+      "errorMessage": "[GET] \"https://api.bilibili.com/x/web-interface/newlist?ps=15&rid=179&_=1791330523356\": 412 Precondition Failed\n",
       "id": "69643053279241216",
       "image": null,
       "ownerUserId": null,

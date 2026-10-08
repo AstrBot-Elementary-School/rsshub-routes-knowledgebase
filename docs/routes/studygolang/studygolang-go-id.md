@@ -88,8 +88,8 @@ _None_
     },
     {
       "description": "Go语言中文网 - 每日一学 - Powered by RSSHub",
-      "errorAt": "2026-10-06T15:00:55.880Z",
-      "errorMessage": "503 \n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "54846819419389955",
       "image": null,
       "ownerUserId": null,

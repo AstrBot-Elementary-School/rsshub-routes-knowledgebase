@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 99,
+  "heat": 100,
   "location": "blog.ts",
   "maintainers": [
     "zhenlohuang"
@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "Product news and best practices for teams building with Claude. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-06T15:41:00.986Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "254514272394244096",
       "image": null,
       "ownerUserId": null,

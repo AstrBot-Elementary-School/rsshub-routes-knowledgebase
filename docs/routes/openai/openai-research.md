@@ -64,8 +64,8 @@ _None_
   "topFeeds": [
     {
       "description": "OpenAI Research - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-06T23:15:54.530Z",
+      "errorMessage": "[GET] \"https://openai.com/index/sharing-ai-progress-in-mathematics/\": 403 Forbidden\n",
       "id": "163361629454837803",
       "image": null,
       "ownerUserId": null,

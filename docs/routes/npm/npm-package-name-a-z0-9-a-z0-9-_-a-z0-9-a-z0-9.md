@@ -57,18 +57,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "pnpm - npm - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "175926392329725952",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.npmjs.com/package/pnpm",
-      "title": "pnpm - npm",
-      "type": "feed",
-      "url": "rsshub://npm/package/pnpm"
-    },
-    {
       "description": "homebridge - npm - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -79,6 +67,18 @@ _None_
       "title": "homebridge - npm",
       "type": "feed",
       "url": "rsshub://npm/package/homebridge"
+    },
+    {
+      "description": "homebridge-miot - npm - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "92451467824140288",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.npmjs.com/package/homebridge-miot",
+      "title": "homebridge-miot - npm",
+      "type": "feed",
+      "url": "rsshub://npm/package/homebridge-miot"
     }
   ]
 }

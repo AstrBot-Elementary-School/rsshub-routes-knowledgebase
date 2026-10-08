@@ -77,8 +77,8 @@ _None_
     },
     {
       "description": "科技 - ZAKER新闻 - Powered by RSSHub",
-      "errorAt": "2026-10-05T09:46:12.855Z",
-      "errorMessage": "503 \n",
+      "errorAt": "2026-10-07T10:29:37.554Z",
+      "errorMessage": "[GET] \"https://www.myzaker.com/channel/13\": 403 Forbidden\n",
       "id": "56326657469609999",
       "image": null,
       "ownerUserId": null,

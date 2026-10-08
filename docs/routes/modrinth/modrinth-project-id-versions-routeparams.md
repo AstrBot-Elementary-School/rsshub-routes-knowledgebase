@@ -104,18 +104,6 @@
   },
   "topFeeds": [
     {
-      "description": "Changes Minecraft Combat into Souls-Like Combat. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "86130193434324992",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/epic-fight",
-      "title": "Epic Fight Modrinth versions",
-      "type": "feed",
-      "url": "rsshub://modrinth/project/epic-fight/versions"
-    },
-    {
       "description": "Aesthetic Technology that empowers the Player - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -126,6 +114,18 @@
       "title": "Create Modrinth versions",
       "type": "feed",
       "url": "rsshub://modrinth/project/create/versions"
+    },
+    {
+      "description": "Add unlimited crates to your server with 11 different crate types to choose from! - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "114584532715532288",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://modrinth.com/project/r3BBZyf3",
+      "title": "CrazyCrates Modrinth versions",
+      "type": "feed",
+      "url": "rsshub://modrinth/project/r3BBZyf3/versions"
     }
   ]
 }

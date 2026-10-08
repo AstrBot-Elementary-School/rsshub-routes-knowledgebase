@@ -80,16 +80,16 @@ _None_
       "url": "rsshub://bilibili/fav/399964818/1771644318"
     },
     {
-      "description": "一_击即溃 的 bilibili 收藏夹 PV作品集 - Powered by RSSHub",
-      "errorAt": "2026-09-07T10:45:55.726Z",
-      "errorMessage": "[GET] \"https://api.bilibili.com/x/v3/fav/resource/list?media_id=1207699681&ps=20\": 412 Precondition Failed\n",
-      "id": "151146298979555328",
+      "description": "斫桂w 的 bilibili 收藏夹 雨里 - Powered by RSSHub",
+      "errorAt": "2025-09-29T14:44:16.561Z",
+      "errorMessage": "访问权限不足\n",
+      "id": "110336505747587072",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://space.bilibili.com/1507081/#/favlist?fid=1207699681",
-      "title": "一_击即溃 的 bilibili 收藏夹 PV作品集",
+      "siteUrl": "https://space.bilibili.com/356673764/#/favlist?fid=1518880264",
+      "title": "斫桂w 的 bilibili 收藏夹 雨里",
       "type": "feed",
-      "url": "rsshub://bilibili/fav/1507081/1207699681"
+      "url": "rsshub://bilibili/fav/356673764/1518880264"
     }
   ]
 }

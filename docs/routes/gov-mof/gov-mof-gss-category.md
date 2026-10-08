@@ -93,7 +93,7 @@
     },
     {
       "description": "政策文件 - 中华人民共和国财政部 - Powered by RSSHub",
-      "errorAt": "2026-10-06T13:01:08.791Z",
+      "errorAt": "2026-10-07T04:55:54.839Z",
       "errorMessage": "[GET] \"https://gss.mof.gov.cn/gzdt/zhengcefabu/\": 502 Bad Gateway\n",
       "id": "133069318957962240",
       "image": null,

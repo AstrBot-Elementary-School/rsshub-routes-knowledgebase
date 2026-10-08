@@ -77,8 +77,8 @@ _None_
   "topFeeds": [
     {
       "description": "Liveuamap - ukraine - Powered by RSSHub",
-      "errorAt": "2026-10-06T10:21:06.174Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://ukraine.liveuamap.com/\": 502 Bad Gateway\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "59767594613902336",
       "image": null,
       "ownerUserId": null,

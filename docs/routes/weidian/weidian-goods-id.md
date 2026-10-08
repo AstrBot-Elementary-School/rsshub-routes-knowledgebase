@@ -51,28 +51,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "CVW 商铺上新 - Powered by RSSHub",
+      "description": "特仑叔（大同彭于晏） 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264525967577972736",
+      "id": "1264526760603418624",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1801401190",
-      "title": "CVW 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1866311341",
+      "title": "特仑叔（大同彭于晏） 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1801401190"
+      "url": "rsshub://weidian/goods/1866311341"
     },
     {
-      "description": "sizek 商铺上新 - Powered by RSSHub",
+      "description": "ROG STUDIO 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264527013503172608",
+      "id": "1264523568436084736",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=215264316",
-      "title": "sizek 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1348580183",
+      "title": "ROG STUDIO 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/215264316"
+      "url": "rsshub://weidian/goods/1348580183"
     }
   ]
 }

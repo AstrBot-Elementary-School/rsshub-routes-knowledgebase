@@ -1325,8 +1325,8 @@
     },
     {
       "description": "AIBase产品库 - Powered by RSSHub",
-      "errorAt": "2026-10-06T14:07:26.378Z",
-      "errorMessage": "503 \n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "68483441708467200",
       "image": "https://top.aibase.com/_static/img/Frame@2x.eddfa3e.png",
       "ownerUserId": null,

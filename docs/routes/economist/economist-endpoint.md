@@ -87,7 +87,7 @@ _None_
     {
       "description": "The most recent blogs and online articles from The Economist - Powered by RSSHub",
       "errorAt": "2025-09-05T18:15:19.885Z",
-      "errorMessage": "[GET] \"https://www.economist.com/culture/2026/10/01/why-supplements-need-supplemental-disclosures\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.economist.com/europe/2026/10/06/the-plague-may-have-escaped-from-a-lab-in-siberia\": 403 Forbidden\n",
       "id": "54859243036899328",
       "image": null,
       "ownerUserId": null,

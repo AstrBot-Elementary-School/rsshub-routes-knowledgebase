@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 69,
+  "heat": 70,
   "location": "daily-briefing-chinese.tsx",
   "maintainers": [
     "yueyericardo",

@@ -115,16 +115,16 @@ _None_
       "url": "rsshub://furaffinity/art/gallery/oddeyresproductions/nsfw"
     },
     {
-      "description": "Fur Affinity Gallery of aoyi - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "146173028202221568",
+      "description": "Fur Affinity Gallery of riggsfur - Powered by RSSHub",
+      "errorAt": "2026-05-26T01:57:14.933Z",
+      "errorMessage": "Failed to fetch\n",
+      "id": "106708554094888960",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.furaffinity.net/gallery/aoyi",
-      "title": "Fur Affinity | Gallery of aoyi",
+      "siteUrl": "https://www.furaffinity.net/gallery/riggsfur",
+      "title": "Fur Affinity | Gallery of riggsfur",
       "type": "feed",
-      "url": "rsshub://furaffinity/art/gallery/aoyi/nsfw"
+      "url": "rsshub://furaffinity/art/gallery/riggsfur/nsfw"
     }
   ],
   "url": "furaffinity.net"

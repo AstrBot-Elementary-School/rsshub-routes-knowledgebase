@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 215,
+  "heat": 216,
   "location": "user.ts",
   "maintainers": [
     "Max-Tortoise",
@@ -79,18 +79,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "姜胡说 - Powered by RSSHub",
-      "errorAt": "2025-11-11T16:10:38.172Z",
-      "errorMessage": "Could not find Chrome (ver. 136.0.7103.49). This can occur if either\n 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or\n 2. your cache path is incorrectly configured (which is: /app/node_modules/.cache/puppeteer).\nFor (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.\nTarget page, context or browser has been closed\nCall log:\n  - navigating to \"https://www.douyin.com/user/MS4wLjABAAAAxaSHyjKQyfWHKjIS1mYbpxxEQZpT8ogl_eyks2M_Twc\", waiting until \"networkidle\"\n\n",
-      "id": "188221989912814592",
-      "image": "https://p3-pc.douyinpic.com/origin/aweme-avatar/mosaic-legacy_3149e000524a7b8745c42.jpeg",
-      "ownerUserId": null,
-      "siteUrl": "https://www.douyin.com/user/MS4wLjABAAAAxaSHyjKQyfWHKjIS1mYbpxxEQZpT8ogl_eyks2M_Twc",
-      "title": "姜胡说",
-      "type": "feed",
-      "url": "rsshub://douyin/user/MS4wLjABAAAAxaSHyjKQyfWHKjIS1mYbpxxEQZpT8ogl_eyks2M_Twc"
-    },
-    {
       "description": "伟布丁生活日记 - Powered by RSSHub",
       "errorAt": "2025-02-24T16:02:08.988Z",
       "errorMessage": "Could not find Chrome (ver. 136.0.7103.49). This can occur if either\n 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or\n 2. your cache path is incorrectly configured (which is: /app/node_modules/.cache/puppeteer).\nFor (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.\nRemote Playwright WebSocket upgrade failed with HTTP 428\n",
@@ -101,6 +89,18 @@ _None_
       "title": "伟布丁生活日记",
       "type": "feed",
       "url": "rsshub://douyin/user/MS4wLjABAAAARcAHmmF9mAG3JEixq_CdP72APhBlGlLVbN-1eBcPqao"
+    },
+    {
+      "description": "姜胡说 - Powered by RSSHub",
+      "errorAt": "2025-11-11T16:10:38.172Z",
+      "errorMessage": "Could not find Chrome (ver. 136.0.7103.49). This can occur if either\n 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or\n 2. your cache path is incorrectly configured (which is: /app/node_modules/.cache/puppeteer).\nFor (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.\nTarget page, context or browser has been closed\nCall log:\n  - navigating to \"https://www.douyin.com/user/MS4wLjABAAAAxaSHyjKQyfWHKjIS1mYbpxxEQZpT8ogl_eyks2M_Twc\", waiting until \"networkidle\"\n\n",
+      "id": "188221989912814592",
+      "image": "https://p3-pc.douyinpic.com/origin/aweme-avatar/mosaic-legacy_3149e000524a7b8745c42.jpeg",
+      "ownerUserId": null,
+      "siteUrl": "https://www.douyin.com/user/MS4wLjABAAAAxaSHyjKQyfWHKjIS1mYbpxxEQZpT8ogl_eyks2M_Twc",
+      "title": "姜胡说",
+      "type": "feed",
+      "url": "rsshub://douyin/user/MS4wLjABAAAAxaSHyjKQyfWHKjIS1mYbpxxEQZpT8ogl_eyks2M_Twc"
     }
   ]
 }

@@ -69,16 +69,16 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "RSSNext/Folo: Issue & Pull request comments - Powered by RSSHub",
+      "description": "comfyanonymous/ComfyUI: Issue & Pull request comments - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "128737368338530304",
+      "id": "68377703545822208",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/RSSNext/Folo",
-      "title": "RSSNext/Folo: Issue & Pull request comments",
+      "siteUrl": "https://github.com/comfyanonymous/ComfyUI",
+      "title": "comfyanonymous/ComfyUI: Issue & Pull request comments",
       "type": "feed",
-      "url": "rsshub://github/comments/RSSNext/Folo"
+      "url": "rsshub://github/comments/comfyanonymous/ComfyUI"
     },
     {
       "description": "521xueweihan/HelloGitHub: Issue & Pull request comments - Powered by RSSHub",

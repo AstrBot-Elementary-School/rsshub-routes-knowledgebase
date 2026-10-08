@@ -58,7 +58,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 5485,
+  "heat": 5480,
   "location": "activities.ts",
   "maintainers": [
     "DIYgod"
@@ -94,7 +94,7 @@ _None_
     {
       "description": "学校≠教育≠技能；文凭溢价=80%信号传递+20%人力资本 - Powered by RSSHub",
       "errorAt": "2026-09-07T13:31:16.942Z",
-      "errorMessage": "Execution context was destroyed, most likely because of a navigation.\n",
+      "errorMessage": "zhihu: browser API request failed with HTTP 403\n",
       "id": "42176727619514386",
       "image": "https://pica.zhimg.com/v2-f1d7dc57926a68b812111df4bb3cef51_l.jpg?source=5a24d060&needBackground=1",
       "ownerUserId": "75467551039318016",

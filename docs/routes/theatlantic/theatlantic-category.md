@@ -82,7 +82,7 @@ More categories (except photo) can be found within the navigation bar at <https:
     {
       "description": "The Atlantic - LATEST - Powered by RSSHub",
       "errorAt": "2026-09-20T22:33:52.921Z",
-      "errorMessage": "502 \n[GET] \"https://www.theatlantic.com/latest/\": 403 \n[GET] \"https://www.theatlantic.com/latest/\": 403 Forbidden\n[GET] \"https://www.theatlantic.com/latest/\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.theatlantic.com/latest/\": <no response> fetch failed\n[GET] \"https://www.theatlantic.com/latest/\": 403 \n[GET] \"https://www.theatlantic.com/latest/\": 403 Forbidden\n[GET] \"https://www.theatlantic.com/latest/\": 403 Forbidden\n",
       "id": "61228164717836288",
       "image": null,
       "ownerUserId": null,

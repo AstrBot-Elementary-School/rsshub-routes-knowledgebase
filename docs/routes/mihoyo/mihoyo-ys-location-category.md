@@ -84,8 +84,8 @@
   "topFeeds": [
     {
       "description": "原神 - 最新 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-06T21:40:43.948Z",
+      "errorMessage": "[GET] \"https://api-takumi-static.mihoyo.com/content_v2_user/app/16471662a82d418a/getContentList?iPage=1&sLangKey=zh-cn&iChanId=719&iPageSize=50\": 522 <none>\n",
       "id": "156266162055355392",
       "image": null,
       "ownerUserId": null,
@@ -96,8 +96,8 @@
     },
     {
       "description": "原神 - 最新 - Powered by RSSHub",
-      "errorAt": "2026-10-06T11:16:58.314Z",
-      "errorMessage": "401 \n502 \n503 \n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "68834268354564096",
       "image": null,
       "ownerUserId": null,

@@ -68,8 +68,8 @@ _None_
   "topFeeds": [
     {
       "description": "通信人家园 - 论坛 最新500主题帖 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-07T11:06:26.930Z",
+      "errorMessage": "[GET] \"https://www.txrjy.com/c114-listnewtopic.php?typeid=1\": 522 <none>\n",
       "id": "67830377077194752",
       "image": null,
       "ownerUserId": null,
@@ -80,8 +80,8 @@ _None_
     },
     {
       "description": "通信人家园 - 论坛 一周热帖 - Powered by RSSHub",
-      "errorAt": "2026-10-05T20:16:21.681Z",
-      "errorMessage": "503 \n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "67830551877448704",
       "image": null,
       "ownerUserId": null,

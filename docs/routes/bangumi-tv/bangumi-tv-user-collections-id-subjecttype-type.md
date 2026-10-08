@@ -166,16 +166,16 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Nagisa.看过的动画列表 - Powered by RSSHub",
+      "description": "Kirito的Bangumi收藏列表 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "162508647613135872",
+      "id": "73642654898770944",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://bgm.tv/user/mydg0216/collections",
-      "title": "Nagisa.看过的动画列表",
+      "siteUrl": "https://bgm.tv/user/825720/collections",
+      "title": "Kirito的Bangumi收藏列表",
       "type": "feed",
-      "url": "rsshub://bangumi.tv/user/collections/mydg0216/2/2"
+      "url": "rsshub://bangumi.tv/user/collections/825720/all/all"
     },
     {
       "description": "Sai🖖想读的书籍列表 - Powered by RSSHub",

@@ -70,18 +70,6 @@ _None_
       "description": "焦點 - Line Today - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "59767191179278336",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://today.line.me/tw/v2/tab/top",
-      "title": "焦點 - Line Today",
-      "type": "feed",
-      "url": "rsshub://line/today"
-    },
-    {
-      "description": "焦點 - Line Today - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "79089289951263744",
       "image": null,
       "ownerUserId": null,
@@ -89,6 +77,18 @@ _None_
       "title": "焦點 - Line Today",
       "type": "feed",
       "url": "rsshub://line/today/tw"
+    },
+    {
+      "description": "焦點 - Line Today - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "59767191179278336",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://today.line.me/tw/v2/tab/top",
+      "title": "焦點 - Line Today",
+      "type": "feed",
+      "url": "rsshub://line/today"
     }
   ],
   "url": "today.line.me/"

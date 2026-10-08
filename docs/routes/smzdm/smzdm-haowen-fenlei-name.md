@@ -58,7 +58,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 0,
+  "heat": 291,
   "location": "haowen-fenlei.ts",
   "maintainers": [
     "LogicJake"
@@ -76,6 +76,31 @@ _None_
       "target": "/haowen/fenlei/:name"
     }
   ],
-  "topFeeds": []
+  "topFeeds": [
+    {
+      "description": "【NAS存储】价格- 什么值得买好文分类 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "63960223947361280",
+      "image": "http://eimg.smzdm.com/202609/20/6aaf7bddbe7fd9662.png",
+      "ownerUserId": null,
+      "siteUrl": "https://www.smzdm.com/fenlei/nascunchufuwuqi/",
+      "title": "【NAS存储】价格- 什么值得买好文分类",
+      "type": "feed",
+      "url": "rsshub://smzdm/haowen/fenlei/nascunchufuwuqi"
+    },
+    {
+      "description": "【家用电器】价格- 什么值得买好文分类 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "62650115641905152",
+      "image": "https://res.smzdm.com/images/fenlei/logo/27.png",
+      "ownerUserId": null,
+      "siteUrl": "https://www.smzdm.com/fenlei/jiayongdianqi/",
+      "title": "【家用电器】价格- 什么值得买好文分类",
+      "type": "feed",
+      "url": "rsshub://smzdm/haowen/fenlei/jiayongdianqi"
+    }
+  ]
 }
 ```
