@@ -104,6 +104,18 @@
   },
   "topFeeds": [
     {
+      "description": "A powerful plugin to manage various PvP combat features - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "123852126561305600",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://modrinth.com/project/1Ffl2uIq",
+      "title": "PvPManager Modrinth versions",
+      "type": "feed",
+      "url": "rsshub://modrinth/project/1Ffl2uIq/versions"
+    },
+    {
       "description": "Aesthetic Technology that empowers the Player - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -114,18 +126,6 @@
       "title": "Create Modrinth versions",
       "type": "feed",
       "url": "rsshub://modrinth/project/create/versions"
-    },
-    {
-      "description": "Add unlimited crates to your server with 11 different crate types to choose from! - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "114584532715532288",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/r3BBZyf3",
-      "title": "CrazyCrates Modrinth versions",
-      "type": "feed",
-      "url": "rsshub://modrinth/project/r3BBZyf3/versions"
     }
   ]
 }

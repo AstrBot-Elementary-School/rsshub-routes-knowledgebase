@@ -51,28 +51,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "特仑叔（大同彭于晏） 商铺上新 - Powered by RSSHub",
+      "description": "2Pac出品 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264526760603418624",
+      "id": "1264526453228044288",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1866311341",
-      "title": "特仑叔（大同彭于晏） 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1842314734",
+      "title": "2Pac出品 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1866311341"
+      "url": "rsshub://weidian/goods/1842314734"
     },
     {
-      "description": "ROG STUDIO 商铺上新 - Powered by RSSHub",
+      "description": "阿寇工作室 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264523568436084736",
+      "id": "1264525081824854016",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1348580183",
-      "title": "ROG STUDIO 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1727854294",
+      "title": "阿寇工作室 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1348580183"
+      "url": "rsshub://weidian/goods/1727854294"
     }
   ]
 }

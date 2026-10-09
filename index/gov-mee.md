@@ -6,7 +6,7 @@
 - URL: `www.mee.gov.cn`
 - Language: `_None_`
 - Aliases: `gov/mee, mee.gov.cn, www, www.mee.gov.cn, 中华人民共和国生态环境部`
-- Route Count: `2`
+- Route Count: `3`
 
 ## Routes
 
@@ -25,3 +25,11 @@
 - File Name: `gov-mee-ywdt-category.md`
 - Categories: `government`
 - Maintainers: `liuxsdev`
+
+### 政策文件
+- Route ID: `gov/mee:/gov/mee/zcwj/:category?`
+- Route Path: `/gov/mee/zcwj/:category?`
+- File: `docs/routes/gov-mee/gov-mee-zcwj-category.md`
+- File Name: `gov-mee-zcwj-category.md`
+- Categories: `government`
+- Maintainers: `DIYgod`

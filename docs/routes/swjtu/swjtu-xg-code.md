@@ -101,8 +101,8 @@
     },
     {
       "description": "西南交大-扬华素质网 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-07T16:50:56.132Z",
+      "errorMessage": "[GET] \"http://xg.swjtu.edu.cn/web/Home/PushNewsList?Lmk7LJw34Jmu=010j.shtml\": 521 <none>\n",
       "id": "72512219481102338",
       "image": null,
       "ownerUserId": null,

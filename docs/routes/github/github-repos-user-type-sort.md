@@ -89,16 +89,16 @@ _None_
       "url": "rsshub://github/repos/Quorafind"
     },
     {
-      "description": "ZHO-ZHO-ZHO's GitHub repositories - Powered by RSSHub",
+      "description": "CLIMADA-project's GitHub repositories - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "135939109364459520",
+      "id": "201677821604291584",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/ZHO-ZHO-ZHO",
-      "title": "ZHO-ZHO-ZHO's GitHub repositories",
+      "siteUrl": "https://github.com/CLIMADA-project",
+      "title": "CLIMADA-project's GitHub repositories",
       "type": "feed",
-      "url": "rsshub://github/repos/ZHO-ZHO-ZHO"
+      "url": "rsshub://github/repos/CLIMADA-project"
     }
   ]
 }

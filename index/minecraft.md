@@ -6,9 +6,17 @@
 - URL: `minecraft.net`
 - Language: `_None_`
 - Aliases: `minecraft, minecraft.net`
-- Route Count: `3`
+- Route Count: `4`
 
 ## Routes
+
+### Bedrock Beta and Preview changelogs
+- Route ID: `minecraft:/minecraft/bedrock/preview`
+- Route Path: `/minecraft/bedrock/preview`
+- File: `docs/routes/minecraft/minecraft-bedrock-preview.md`
+- File Name: `minecraft-bedrock-preview.md`
+- Categories: `game`
+- Maintainers: `DIYgod`
 
 ### Java Blocked Servers
 - Route ID: `minecraft:/minecraft/blockedservers`

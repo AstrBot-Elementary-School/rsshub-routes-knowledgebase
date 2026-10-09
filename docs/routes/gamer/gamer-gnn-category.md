@@ -11,7 +11,7 @@
 - Example: `/gamer/gnn/1`
 - URL: `acg.gamer.com.tw`
 - Language: `_None_`
-- Categories: `anime, popular`
+- Categories: `anime`
 - Maintainers: `Arracc, ladeng07, pseudoyu`
 - Source Location: `gnn-index.ts`
 - Source Module: `_None_`
@@ -38,8 +38,7 @@ _None_
 ```json
 {
   "categories": [
-    "anime",
-    "popular"
+    "anime"
   ],
   "description": "缺省為首頁",
   "example": "/gamer/gnn/1",

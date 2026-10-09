@@ -6,9 +6,17 @@
 - URL: `weibo.com`
 - Language: `_None_`
 - Aliases: `weibo, weibo.com, 微博`
-- Route Count: `9`
+- Route Count: `10`
 
 ## Routes
+
+### 新鲜事
+- Route ID: `weibo:/weibo/fresh/:id`
+- Route Path: `/weibo/fresh/:id`
+- File: `docs/routes/weibo/weibo-fresh-id.md`
+- File Name: `weibo-fresh-id.md`
+- Categories: `social-media`
+- Maintainers: `DIYgod`
 
 ### 最新关注时间线
 - Route ID: `weibo:/weibo/friends/:routeParams?`

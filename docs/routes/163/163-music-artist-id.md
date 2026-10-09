@@ -89,16 +89,16 @@ _None_
       "url": "rsshub://163/music/artist/32540734"
     },
     {
-      "description": "网易云音乐歌手专辑 - betcover!! - Powered by RSSHub",
+      "description": "网易云音乐歌手专辑 - 頭士奈生樹 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "129229946062307328",
-      "image": "https://p1.music.126.net/lrJiX7k6gV4GJorJUj8-zw==/109951171287877555.jpg",
+      "id": "93470816698220544",
+      "image": "https://p2.music.126.net/dmj0q3izqGRAC2c3bUSHFA==/109951170035042801.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://music.163.com/#/artist/album?id=30986109",
-      "title": "betcover!!",
+      "siteUrl": "https://music.163.com/#/artist/album?id=33497261",
+      "title": "頭士奈生樹",
       "type": "feed",
-      "url": "rsshub://163/music/artist/30986109"
+      "url": "rsshub://163/music/artist/33497261"
     }
   ]
 }

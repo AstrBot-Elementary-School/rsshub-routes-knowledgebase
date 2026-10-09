@@ -52,7 +52,7 @@ See the [official RSS page](https://www.scmp.com/rss) to get the ID of each cate
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 175,
+  "heat": 176,
   "location": "index.ts",
   "maintainers": [
     "proletarius101"
@@ -76,8 +76,8 @@ See the [official RSS page](https://www.scmp.com/rss) to get the ID of each cate
   "topFeeds": [
     {
       "description": "Breaking news, analysis and opinion from the SCMP's Asia edition. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-08T00:21:26.877Z",
+      "errorMessage": "[GET] \"https://www.scmp.com/week-asia/politics/article/3370221/philippines-using-new-anti-spying-laws-silence-critics\": 403 Forbidden\n",
       "id": "58381798255721483",
       "image": "https://assets-v2.i-scmp.com/production/static/img/icons/scmp-meta-1200x630.png",
       "ownerUserId": null,
@@ -89,7 +89,7 @@ See the [official RSS page](https://www.scmp.com/rss) to get the ID of each cate
     {
       "description": "The latest breaking news from China. - Powered by RSSHub",
       "errorAt": "2026-09-18T09:02:16.787Z",
-      "errorMessage": "[GET] \"https://www.scmp.com/news/china/diplomacy/article/3369943/how-traditional-chinese-medicine-shaping-kazakhstans-health-system\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.scmp.com/news/china/diplomacy/article/3369992/last-chance-saloon-eu-presses-china-sign-prove-trade-talks-can-work\": 403 Forbidden\n",
       "id": "58381798255721484",
       "image": "https://assets-v2.i-scmp.com/production/static/img/icons/scmp-meta-1200x630.png",
       "ownerUserId": null,

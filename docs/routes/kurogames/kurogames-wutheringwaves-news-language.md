@@ -100,8 +100,8 @@ _None_
     },
     {
       "description": "《鸣潮》— 游戏公告、新闻和活动 - Powered by RSSHub",
-      "errorAt": "2026-10-07T14:51:31.669Z",
-      "errorMessage": "503 \n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41645808521081856",
       "image": null,
       "ownerUserId": null,

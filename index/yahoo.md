@@ -6,7 +6,7 @@
 - URL: `news.yahoo.com`
 - Language: `_None_`
 - Aliases: `news, news.yahoo.com, yahoo`
-- Route Count: `5`
+- Route Count: `8`
 
 ## Routes
 
@@ -17,6 +17,22 @@
 - File Name: `yahoo-author-author.md`
 - Categories: `traditional-media`
 - Maintainers: `loganrockmore`
+
+### Finance news
+- Route ID: `yahoo:/yahoo/finance/:topic?`
+- Route Path: `/yahoo/finance/:topic?`
+- File: `docs/routes/yahoo/yahoo-finance-topic.md`
+- File Name: `yahoo-finance-topic.md`
+- Categories: `finance`
+- Maintainers: `DIYgod`
+
+### Gaming news
+- Route ID: `yahoo:/yahoo/gaming`
+- Route Path: `/yahoo/gaming`
+- File: `docs/routes/yahoo/yahoo-gaming.md`
+- File Name: `yahoo-gaming.md`
+- Categories: `game`
+- Maintainers: `DIYgod`
 
 ### News
 - Route ID: `yahoo:/yahoo/news/:region/:category?`
@@ -49,3 +65,11 @@
 - File Name: `yahoo-news-providers-region-list.md`
 - Categories: `new-media`
 - Maintainers: `TonyRL, williamgateszhao`
+
+### Publisher profiles
+- Route ID: `yahoo:/yahoo/news/publisher/:publisher`
+- Route Path: `/yahoo/news/publisher/:publisher`
+- File: `docs/routes/yahoo/yahoo-news-publisher-publisher.md`
+- File Name: `yahoo-news-publisher-publisher.md`
+- Categories: `new-media`
+- Maintainers: `DIYgod`

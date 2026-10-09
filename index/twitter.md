@@ -6,7 +6,7 @@
 - URL: `x.com`
 - Language: `_None_`
 - Aliases: `twitter, x, x (twitter), x-twitter, x.com, 推特`
-- Route Count: `9`
+- Route Count: `10`
 
 ## Routes
 
@@ -57,6 +57,14 @@
 - File Name: `twitter-media-id-routeparams.md`
 - Categories: `social-media, popular`
 - Maintainers: `DIYgod, yindaheng98, Rongronggg9`
+
+### Space speaking status
+- Route ID: `twitter:/twitter/spaces/:username`
+- Route Path: `/twitter/spaces/:username`
+- File: `docs/routes/twitter/twitter-spaces-username.md`
+- File Name: `twitter-spaces-username.md`
+- Categories: `social-media`
+- Maintainers: `DIYgod`
 
 ### Trends
 - Route ID: `twitter:/twitter/trends/:woeid?`

@@ -83,8 +83,8 @@ _None_
   "topFeeds": [
     {
       "description": "Petrick Animation's projects - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-08T09:11:37.214Z",
+      "errorMessage": "Failed to fetch\n[POST] \"https://www.behance.net/v3/graphql\": 403 Forbidden\n",
       "id": "56578471053323264",
       "image": "https://pps.services.adobe.com/api/profile/705741C3536196240A490D45@AdobeID/image/3a1f0f66-ebf9-4480-af90-ed75e7c49829/50",
       "ownerUserId": null,
@@ -96,7 +96,7 @@ _None_
     {
       "description": "Rondesignlab ⭐️'s projects - Powered by RSSHub",
       "errorAt": "2026-09-07T10:32:18.666Z",
-      "errorMessage": "502 \n[POST] \"https://www.behance.net/v3/graphql\": 403 Forbidden\n",
+      "errorMessage": "[POST] \"https://www.behance.net/v3/graphql\": <no response> fetch failed\n[POST] \"https://www.behance.net/v3/graphql\": 403 Forbidden\n",
       "id": "60616941982567424",
       "image": "https://pps.services.adobe.com/api/profile/070133B04B7456D1992015B9@AdobeID/image/74abc8ee-12d8-4690-8980-fd0681e41ecc/50",
       "ownerUserId": null,

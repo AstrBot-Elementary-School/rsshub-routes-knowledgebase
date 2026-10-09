@@ -88,16 +88,16 @@ _None_
       "url": "rsshub://luma/langchain"
     },
     {
-      "description": "vLLM Meetups and Events - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "265967053376549888",
+      "description": "Bogota Events powered by Startup Grind - Powered by RSSHub",
+      "errorAt": "2026-05-26T22:11:47.160Z",
+      "errorMessage": "[GET] \"https://api.lu.ma/url?url=sgbogota\": 429 Too Many Requests\n",
+      "id": "265966867461735424",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://lu.ma/vLLM-Meetups",
-      "title": "vLLM Meetups and Events",
+      "siteUrl": "https://lu.ma/sgbogota",
+      "title": "Bogota Events powered by Startup Grind",
       "type": "feed",
-      "url": "rsshub://luma/vLLM-Meetups"
+      "url": "rsshub://luma/sgbogota"
     }
   ],
   "url": "lu.ma"

@@ -77,18 +77,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "undefined 的追番列表 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "66424560658630656",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://space.bilibili.com/10730895/bangumi",
-      "title": "undefined 的追番列表",
-      "type": "feed",
-      "url": "rsshub://bilibili/user/bangumi/10730895"
-    },
-    {
       "description": "陈睿 的追番列表 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -99,6 +87,18 @@ _None_
       "title": "陈睿 的追番列表",
       "type": "feed",
       "url": "rsshub://bilibili/user/bangumi/208259"
+    },
+    {
+      "description": "咯弗弗 的追番列表 - Powered by RSSHub",
+      "errorAt": "2026-09-14T15:41:49.425Z",
+      "errorMessage": "[GET] \"https://api.bilibili.com/x/space/wbi/acc/info?mid=24656192&token=&platform=web&web_location=1550101&w_rid=6ca931c9f8320b10a0e3cb3529f08297&wts=1791441956\": 412 Precondition Failed\n",
+      "id": "87692193894050817",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://space.bilibili.com/24656192/bangumi",
+      "title": "咯弗弗 的追番列表",
+      "type": "feed",
+      "url": "rsshub://bilibili/user/bangumi/24656192"
     }
   ]
 }

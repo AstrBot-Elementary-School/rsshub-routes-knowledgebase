@@ -17,14 +17,14 @@
 - Source Module: `_None_`
 
 ## Description
-_None_
+Set `CI_EN_COOKIE` on a self-hosted instance to retrieve articles available to your account and subscribed plans.
 
 ## Parameters
 - `id`: Creator id, can be found in URL
 
 
 ## Features
-- `requireConfig`: false
+- `requireConfig`: [{"description": "Cookie of a signed-in Ci-en account with access to the desired articles", "name": "CI_EN_COOKIE", "optional": true}]
 - `requirePuppeteer`: false
 - `antiCrawler`: false
 - `supportBT`: false
@@ -44,11 +44,18 @@ _None_
   "categories": [
     "anime"
   ],
+  "description": "Set `CI_EN_COOKIE` on a self-hosted instance to retrieve articles available to your account and subscribed plans.",
   "example": "/dlsite/ci-en/7400/article",
   "features": {
     "antiCrawler": false,
     "nsfw": true,
-    "requireConfig": false,
+    "requireConfig": [
+      {
+        "description": "Cookie of a signed-in Ci-en account with access to the desired articles",
+        "name": "CI_EN_COOKIE",
+        "optional": true
+      }
+    ],
     "requirePuppeteer": false,
     "supportBT": false,
     "supportPodcast": false,

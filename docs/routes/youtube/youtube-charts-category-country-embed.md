@@ -112,7 +112,7 @@ _None_
     {
       "description": "YouTube Music Charts - Top music videos - Powered by RSSHub",
       "errorAt": "2026-10-05T19:55:47.485Z",
-      "errorMessage": "[POST] \"https://charts.youtube.com/youtubei/v1/browse?alt=json&key=AIzaSyCzEW7JUJdSql0-2V4tHUb6laYm4iAE_dM\": 403 Forbidden\n",
+      "errorMessage": "[POST] \"https://charts.youtube.com/youtubei/v1/browse?alt=json&key=AIzaSyCzEW7JUJdSql0-2V4tHUb6laYm4iAE_dM\": 429 Too Many Requests\n",
       "id": "57506261522656256",
       "image": null,
       "ownerUserId": null,

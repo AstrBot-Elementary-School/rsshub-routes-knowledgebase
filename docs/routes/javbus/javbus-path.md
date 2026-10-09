@@ -17,7 +17,7 @@
 - Source Module: `_None_`
 
 ## Description
-_None_
+The item title receives a \[中字] prefix and the 中文字幕 category when the magnet selected as the enclosure has a subtitle badge. The existing magnet selection order is preserved.
 
 ## Parameters
 - `path`: {"description": "Any path of list page on javbus"}
@@ -39,11 +39,12 @@ _None_
     "multimedia",
     "popular"
   ],
+  "description": "The item title receives a \\[中字] prefix and the 中文字幕 category when the magnet selected as the enclosure has a subtitle badge. The existing magnet selection order is preserved.",
   "example": "/javbus/star/rwt",
   "features": {
     "nsfw": true
   },
-  "heat": 12923,
+  "heat": 12921,
   "location": "index.tsx",
   "maintainers": [
     "MegrezZhu",

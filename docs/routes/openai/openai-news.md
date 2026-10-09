@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 259,
+  "heat": 258,
   "location": "news.ts",
   "maintainers": [
     "goestav",
@@ -65,7 +65,7 @@ _None_
     {
       "description": "OpenAI News - Powered by RSSHub",
       "errorAt": "2026-10-05T12:08:24.444Z",
-      "errorMessage": "[GET] \"https://openai.com/index/jump-trading\": 403 Forbidden\n[GET] \"https://openai.com/index/advancing-computer-use-with-ironclad/\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://openai.com/index/teens-learn-and-plan\": 403 Forbidden\n[GET] \"https://openai.com/index/sharing-ai-progress-in-mathematics/\": 403 Forbidden\n",
       "id": "139523607422199808",
       "image": null,
       "ownerUserId": null,

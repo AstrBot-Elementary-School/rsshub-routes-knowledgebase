@@ -6,9 +6,17 @@
 - URL: `douyin.com`
 - Language: `_None_`
 - Aliases: `douyin, douyin.com, 抖音直播`
-- Route Count: `3`
+- Route Count: `5`
 
 ## Routes
+
+### 收藏的视频
+- Route ID: `douyin:/douyin/collection`
+- Route Path: `/douyin/collection`
+- File: `docs/routes/douyin/douyin-collection.md`
+- File Name: `douyin-collection.md`
+- Categories: `social-media`
+- Maintainers: `DIYgod`
 
 ### 标签
 - Route ID: `douyin:/douyin/hashtag/:cid/:routeParams?`
@@ -18,11 +26,19 @@
 - Categories: `social-media`
 - Maintainers: `TonyRL`
 
+### 喜欢的视频
+- Route ID: `douyin:/douyin/likes/:uid`
+- Route Path: `/douyin/likes/:uid`
+- File: `docs/routes/douyin/douyin-likes-uid.md`
+- File Name: `douyin-likes-uid.md`
+- Categories: `social-media`
+- Maintainers: `DIYgod`
+
 ### 直播间开播
-- Route ID: `douyin:/douyin/live/:rid`
-- Route Path: `/douyin/live/:rid`
-- File: `docs/routes/douyin/douyin-live-rid.md`
-- File Name: `douyin-live-rid.md`
+- Route ID: `douyin:/douyin/live/:rid/:showTime?`
+- Route Path: `/douyin/live/:rid/:showTime?`
+- File: `docs/routes/douyin/douyin-live-rid-showtime.md`
+- File Name: `douyin-live-rid-showtime.md`
 - Categories: `live`
 - Maintainers: `TonyRL`
 

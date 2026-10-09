@@ -347,10 +347,10 @@
 - Maintainers: `Qixingchen`
 
 ### 视频选集列表
-- Route ID: `bilibili:/bilibili/video/page/:bvid/:embed?`
-- Route Path: `/bilibili/video/page/:bvid/:embed?`
-- File: `docs/routes/bilibili/bilibili-video-page-bvid-embed.md`
-- File Name: `bilibili-video-page-bvid-embed.md`
+- Route ID: `bilibili:/bilibili/video/page/:bvid/:embed?/:sort?`
+- Route Path: `/bilibili/video/page/:bvid/:embed?/:sort?`
+- File: `docs/routes/bilibili/bilibili-video-page-bvid-embed-sort.md`
+- File Name: `bilibili-video-page-bvid-embed-sort.md`
 - Categories: `social-media`
 - Maintainers: `sxzz`
 

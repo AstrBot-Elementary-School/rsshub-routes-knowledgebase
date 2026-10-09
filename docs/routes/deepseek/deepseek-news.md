@@ -1,11 +1,11 @@
-# Deepseek - 新闻
+# DeepSeek - 新闻
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `deepseek`
-- Namespace Name: `Deepseek`
+- Namespace Name: `DeepSeek`
 - Route Path: `/deepseek/news`
 - Route Name: `新闻`
 - Example: `/deepseek/news`

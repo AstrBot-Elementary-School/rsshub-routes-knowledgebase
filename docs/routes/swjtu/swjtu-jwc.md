@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "西南交大-教务网通知 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-07T16:51:06.319Z",
+      "errorMessage": "[GET] \"http://jwc.swjtu.edu.cn/vatuu/WebAction?setAction=newsList\": 521 <none>\n",
       "id": "72512219481102339",
       "image": null,
       "ownerUserId": null,

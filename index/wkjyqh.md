@@ -11,9 +11,9 @@
 ## Routes
 
 ### 研究报告
-- Route ID: `wkjyqh:/wkjyqh/research`
-- Route Path: `/wkjyqh/research`
-- File: `docs/routes/wkjyqh/wkjyqh-research.md`
-- File Name: `wkjyqh-research.md`
+- Route ID: `wkjyqh:/wkjyqh/research/:variety?/:type?`
+- Route Path: `/wkjyqh/research/:variety?/:type?`
+- File: `docs/routes/wkjyqh/wkjyqh-research-variety-type.md`
+- File Name: `wkjyqh-research-variety-type.md`
 - Categories: `finance`
 - Maintainers: `TonyRL`

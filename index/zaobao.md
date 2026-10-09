@@ -6,7 +6,7 @@
 - URL: `www.zaobao.com`
 - Language: `_None_`
 - Aliases: `www, www.zaobao.com, zaobao, zaobao.com, 联合早报`
-- Route Count: `4`
+- Route Count: `5`
 
 ## Routes
 
@@ -25,6 +25,14 @@
 - File Name: `zaobao-other-type-section.md`
 - Categories: `traditional-media`
 - Maintainers: `shunf4`
+
+### 热门新闻
+- Route ID: `zaobao:/zaobao/popular/:period?`
+- Route Path: `/zaobao/popular/:period?`
+- File: `docs/routes/zaobao/zaobao-popular-period.md`
+- File Name: `zaobao-popular-period.md`
+- Categories: `traditional-media`
+- Maintainers: `DIYgod`
 
 ### 即时新闻
 - Route ID: `zaobao:/zaobao/realtime/:section?`

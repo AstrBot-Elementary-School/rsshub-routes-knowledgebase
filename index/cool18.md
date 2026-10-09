@@ -6,7 +6,7 @@
 - URL: `cool18.com`
 - Language: `_None_`
 - Aliases: `cool18, cool18.com, 禁忌书屋`
-- Route Count: `1`
+- Route Count: `2`
 
 ## Routes
 
@@ -17,3 +17,11 @@
 - File Name: `cool18-id-type-keyword.md`
 - Categories: `bbs`
 - Maintainers: `nczitzk, Gabrlie`
+
+### 热门泛原创
+- Route ID: `cool18:/cool18/original`
+- Route Path: `/cool18/original`
+- File: `docs/routes/cool18/cool18-original.md`
+- File Name: `cool18-original.md`
+- Categories: `bbs`
+- Maintainers: `DIYgod`

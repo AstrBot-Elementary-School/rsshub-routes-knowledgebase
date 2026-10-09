@@ -1,14 +1,22 @@
-# Deepseek Route Index
+# DeepSeek Route Index
 
 ## Namespace
 - Namespace: `deepseek`
-- Display Name: `Deepseek`
+- Display Name: `DeepSeek`
 - URL: `api-docs.deepseek.com`
 - Language: `_None_`
 - Aliases: `api-docs, api-docs.deepseek.com, deepseek`
-- Route Count: `1`
+- Route Count: `2`
 
 ## Routes
+
+### Change Log
+- Route ID: `deepseek:/deepseek/changelog/:language?`
+- Route Path: `/deepseek/changelog/:language?`
+- File: `docs/routes/deepseek/deepseek-changelog-language.md`
+- File Name: `deepseek-changelog-language.md`
+- Categories: `program-update`
+- Maintainers: `ljh12138164`
 
 ### 新闻
 - Route ID: `deepseek:/deepseek/news`

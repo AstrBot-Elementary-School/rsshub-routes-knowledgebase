@@ -6,7 +6,7 @@
 - URL: `mastodon.social`
 - Language: `_None_`
 - Aliases: `mastodon, mastodon.social`
-- Route Count: `5`
+- Route Count: `6`
 
 ## Routes
 
@@ -49,3 +49,11 @@
 - File Name: `mastodon-timeline-site-only_media.md`
 - Categories: `social-media`
 - Maintainers: `hoilc`
+
+### Trending posts, hashtags and links
+- Route ID: `mastodon:/mastodon/trends/:site/:type?`
+- Route Path: `/mastodon/trends/:site/:type?`
+- File: `docs/routes/mastodon/mastodon-trends-site-type.md`
+- File Name: `mastodon-trends-site-type.md`
+- Categories: `social-media`
+- Maintainers: `DIYgod`

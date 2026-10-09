@@ -86,8 +86,8 @@ _None_
     },
     {
       "description": "00后富一代的知乎想法 - Powered by RSSHub",
-      "errorAt": "2026-10-07T07:41:06.971Z",
-      "errorMessage": "[GET] \"https://api.zhihu.com/pins/mei-hao-wei-lai-9-78-87/moments?limit=10&offset=0\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "111705971907407872",
       "image": null,
       "ownerUserId": null,

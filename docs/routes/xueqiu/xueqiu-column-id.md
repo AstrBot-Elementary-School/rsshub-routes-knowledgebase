@@ -24,7 +24,7 @@ _None_
 
 
 ## Features
-- `requireConfig`: false
+- `requireConfig`: [{"description": "需要登录才能访问的专栏请配置雪球登录 Cookie。", "name": "XUEQIU_COOKIES", "optional": true}]
 - `requirePuppeteer`: false
 - `antiCrawler`: true
 - `supportBT`: false
@@ -45,7 +45,13 @@ _None_
   "example": "/xueqiu/column/9962554712",
   "features": {
     "antiCrawler": true,
-    "requireConfig": false,
+    "requireConfig": [
+      {
+        "description": "需要登录才能访问的专栏请配置雪球登录 Cookie。",
+        "name": "XUEQIU_COOKIES",
+        "optional": true
+      }
+    ],
     "requirePuppeteer": false,
     "supportBT": false,
     "supportPodcast": false,

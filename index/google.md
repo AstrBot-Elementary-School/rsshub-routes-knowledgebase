@@ -6,7 +6,7 @@
 - URL: `www.google.com`
 - Language: `_None_`
 - Aliases: `google, google.com, www, www.google.com`
-- Route Count: `13`
+- Route Count: `14`
 
 ## Routes
 
@@ -25,6 +25,14 @@
 - File Name: `google-alerts-keyword.md`
 - Categories: `other`
 - Maintainers: `TonyRL`
+
+### Arts & Culture featured stories
+- Route ID: `google:/google/arts-and-culture`
+- Route Path: `/google/arts-and-culture`
+- File: `docs/routes/google/google-arts-and-culture.md`
+- File Name: `google-arts-and-culture.md`
+- Categories: `design`
+- Maintainers: `DIYgod`
 
 ### Extension Update
 - Route ID: `google:/google/chrome/extension/:id`

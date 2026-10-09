@@ -45,7 +45,7 @@ _None_
   "features": {
     "antiCrawler": true
   },
-  "heat": 111,
+  "heat": 112,
   "location": "index.ts",
   "maintainers": [
     "xzzpig"
@@ -62,8 +62,8 @@ _None_
   "topFeeds": [
     {
       "description": "全球游戏交流中心-所有 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-08T07:21:39.643Z",
+      "errorMessage": "Failed to fetch\n[GET] \"https://www.gamer520.com/wp-json/wp/v2/categories\": 403 Forbidden\n[GET] \"https://www.gamer520.com/wp-json/wp/v2/posts?\": 520 <none>\n",
       "id": "78689933854680064",
       "image": null,
       "ownerUserId": null,
@@ -74,8 +74,8 @@ _None_
     },
     {
       "description": "全球游戏交流中心-所有 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-08T02:29:47.805Z",
+      "errorMessage": "[GET] \"https://www.gamer520.com/wp-json/wp/v2/posts?\": 520 <none>\n",
       "id": "153752488543499264",
       "image": null,
       "ownerUserId": null,

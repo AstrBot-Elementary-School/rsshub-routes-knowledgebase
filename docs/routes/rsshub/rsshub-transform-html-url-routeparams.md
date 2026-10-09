@@ -87,7 +87,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 7406,
+  "heat": 7408,
   "location": "transform/html.ts",
   "maintainers": [
     "ttttmr",
@@ -105,18 +105,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Proxy https://imnks.com/ - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "68731140035191863",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://imnks.com/",
-      "title": "我不是矿神 - 群晖,威联通,铁威马,绿联UGOS,万由UNAS,飞牛fnOS,UNRAID,ESXI,PVE,OPENWRT",
-      "type": "feed",
-      "url": "rsshub://rsshub/transform/html/https%3A%2F%2Fimnks.com%2F/item=article&itemTitle=span%5Bclass=entry-title%5D&itemLink=span%5Bclass=entry-title%5D+a&itemDesc=div%5Bclass*=entry-summary%5D&itemPubDate=div%5Bclass=entry-meta%5D+time&itemPubDateAttr=datetime"
-    },
-    {
       "description": "Proxy https://javdb.com/uncensored - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -127,6 +115,18 @@ _None_
       "title": "javDB无码",
       "type": "feed",
       "url": "rsshub://rsshub/transform/html/https%3A%2F%2Fjavdb.com%2Funcensored/title%3DjavDB%E6%97%A0%E7%A0%81"
+    },
+    {
+      "description": "Proxy https://imnks.com/ - Powered by RSSHub",
+      "errorAt": "2026-10-08T14:19:26.190Z",
+      "errorMessage": "This RSS is disabled unless 'ALLOW_USER_SUPPLY_UNSAFE_DOMAIN' is set to 'true'.\nAuthentication failed. Access denied.\n/rsshub/transform/html/https%3A%2F%2Fimnks.com%2F/item=article&itemTitle=span%5Bclass=entry-title%5D&itemLink=span%5Bclass=entry-title%5D+a&itemDesc=div%5Bclass*=entry-summary%5D&itemPubDate=div%5Bclass=entry-meta%5D+time&itemPubDateAttr=datetime\nThis RSS is disabled unless 'ALLOW_USER_SUPPLY_UNSAFE_DOMAIN' is set to 'true'.\n[GET] \"https://imnks.com/\": 522 <none>\n",
+      "id": "68731140035191863",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://imnks.com/",
+      "title": "我不是矿神 - 群晖,威联通,铁威马,绿联UGOS,万由UNAS,飞牛fnOS,UNRAID,ESXI,PVE,OPENWRT",
+      "type": "feed",
+      "url": "rsshub://rsshub/transform/html/https%3A%2F%2Fimnks.com%2F/item=article&itemTitle=span%5Bclass=entry-title%5D&itemLink=span%5Bclass=entry-title%5D+a&itemDesc=div%5Bclass*=entry-summary%5D&itemPubDate=div%5Bclass=entry-meta%5D+time&itemPubDateAttr=datetime"
     }
   ]
 }

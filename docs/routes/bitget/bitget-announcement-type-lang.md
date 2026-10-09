@@ -61,7 +61,7 @@ _None_
   ],
   "description": "type:\n\n| Type              | Description |\n| ----------------- | ----------- |\n| all               | 全部通知    |\n| new-listing       | 新币上线    |\n| latest-activities | 最新活动    |\n| new-announcement  | 最新公告    |\n\nlang:\n\n| Lang  | Description |\n| ----- | ----------- |\n| zh-CN | 中文        |\n| en-US | English     |\n| es-ES | Español     |\n| fr-FR | Français    |\n| de-DE | Deutsch     |\n| ja-JP | 日本語      |\n| ru-RU | Русский     |\n| ar-SA | العربية     |",
   "example": "/bitget/announcement/all/zh-CN",
-  "heat": 612,
+  "heat": 611,
   "location": "announcement.ts",
   "maintainers": [
     "YukiCoco"

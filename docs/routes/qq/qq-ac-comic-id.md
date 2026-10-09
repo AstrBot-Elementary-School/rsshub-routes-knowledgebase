@@ -40,7 +40,7 @@ _None_
     "anime"
   ],
   "example": "/qq/ac/comic/531490",
-  "heat": 119,
+  "heat": 117,
   "location": "ac/comic.ts",
   "maintainers": [
     "nczitzk"

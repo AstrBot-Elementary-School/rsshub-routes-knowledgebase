@@ -137,7 +137,7 @@ _None_
     {
       "description": "bilibili 排行榜-知识 - Powered by RSSHub",
       "errorAt": "2026-07-15T05:32:42.190Z",
-      "errorMessage": "-352\n请求错误\n[GET] \"https://api.bilibili.com/x/web-interface/ranking/v2?rid=9&type=all&web_location=333.934\": 412 Precondition Failed\n",
+      "errorMessage": "-352\nFailed to fetch\n[GET] \"https://api.bilibili.com/x/web-interface/ranking/v2?rid=9&type=all&web_location=333.934\": 412 Precondition Failed\n",
       "id": "78844164657093632",
       "image": null,
       "ownerUserId": null,

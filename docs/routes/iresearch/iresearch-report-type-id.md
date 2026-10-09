@@ -659,8 +659,8 @@
   "topFeeds": [
     {
       "description": "艾瑞咨询 - Powered by RSSHub",
-      "errorAt": "2026-10-03T18:33:46.825Z",
-      "errorMessage": "(intermediate value).List.slice is not a function\n(intermediate value).List.slice is not a function\n(intermediate value).List.slice is not a function\n(intermediate value).List.slice is not a function\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "65643152571614208",
       "image": null,
       "ownerUserId": null,

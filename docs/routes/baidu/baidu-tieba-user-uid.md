@@ -48,7 +48,7 @@ _None_
       }
     ]
   },
-  "heat": 12,
+  "heat": 13,
   "location": "tieba/user.ts",
   "maintainers": [
     "igxlin",
@@ -65,18 +65,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "dengchunlai 的贴吧 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "104695101579488257",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://tieba.baidu.com/home/main?un=dengchunlai",
-      "title": "dengchunlai 的贴吧",
-      "type": "feed",
-      "url": "rsshub://baidu/tieba/user/dengchunlai"
-    },
-    {
       "description": "在逃双皮奶 的贴吧 - Powered by RSSHub",
       "errorAt": "2025-11-21T21:51:21.614Z",
       "errorMessage": "[GET] \"https://tieba.baidu.com/home/main?un=在逃双皮奶🎀\": 403 Forbidden\n",
@@ -87,6 +75,18 @@ _None_
       "title": "在逃双皮奶 的贴吧",
       "type": "feed",
       "url": "rsshub://baidu/tieba/user/%E5%9C%A8%E9%80%83%E5%8F%8C%E7%9A%AE%E5%A5%B6%F0%9F%8E%80"
+    },
+    {
+      "description": "林子君 的贴吧 - Powered by RSSHub",
+      "errorAt": "2026-07-26T02:15:19.346Z",
+      "errorMessage": "Tieba user 林子◎君 not found\n",
+      "id": "86267276958861312",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://tieba.baidu.com/home/main?un=%E6%9E%97%E5%AD%90%E2%97%8E%E5%90%9B",
+      "title": "林子君 的贴吧",
+      "type": "feed",
+      "url": "rsshub://baidu/tieba/user/%E6%9E%97%E5%AD%90%E2%97%8E%E5%90%9B"
     }
   ]
 }

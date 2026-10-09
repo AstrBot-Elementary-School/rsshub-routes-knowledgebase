@@ -6,7 +6,7 @@
 - URL: `www.douban.com`
 - Language: `_None_`
 - Aliases: `douban, douban.com, www, www.douban.com, 豆瓣`
-- Route Count: `29`
+- Route Count: `30`
 
 ## Routes
 
@@ -112,6 +112,14 @@
 - File: `docs/routes/douban/douban-group-groupid-type.md`
 - File Name: `douban-group-groupid-type.md`
 - Categories: `social-media, popular`
+- Maintainers: `DIYgod`
+
+### 小组帖子更新
+- Route ID: `douban:/douban/group/topic/:id/:author?`
+- Route Path: `/douban/group/topic/:id/:author?`
+- File: `docs/routes/douban/douban-group-topic-id-author.md`
+- File Name: `douban-group-topic-id-author.md`
+- Categories: `social-media`
 - Maintainers: `DIYgod`
 
 ### 豆瓣招聘

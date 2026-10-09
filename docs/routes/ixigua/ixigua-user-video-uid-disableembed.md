@@ -54,7 +54,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 72,
+  "heat": 74,
   "location": "user-video.tsx",
   "maintainers": [
     "FlashWingShadow",
@@ -95,12 +95,12 @@ _None_
     },
     {
       "description": "一个爱科普的豆比中学老师 - Powered by RSSHub",
-      "errorAt": "2025-06-05T12:19:25.914Z",
-      "errorMessage": "Failed to find SSR_HYDRATED_DATA\nFailed to find SSR_HYDRATED_DATA\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "77019657545759744",
-      "image": null,
+      "image": "https://sf6-cdn-tos.toutiaostatic.com/img/user-avatar/5d294b45d329edc4885af582eb93f053~1080x1080.image",
       "ownerUserId": null,
-      "siteUrl": "https://www.ixigua.com/home/4234740937/?wid_try=1",
+      "siteUrl": "https://www.ixigua.com/home/4234740937/",
       "title": "李永乐老师 的西瓜视频",
       "type": "feed",
       "url": "rsshub://ixigua/user/video/4234740937"

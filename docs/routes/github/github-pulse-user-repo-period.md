@@ -79,28 +79,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "2noise/ChatTTS weekly Pulse - Powered by RSSHub",
+      "description": "haoheliu/AudioLDM weekly Pulse - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "220767323256864792",
+      "id": "220767323256864791",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/2noise/ChatTTS/pulse/weekly",
-      "title": "2noise/ChatTTS weekly Pulse",
+      "siteUrl": "https://github.com/haoheliu/AudioLDM/pulse/weekly",
+      "title": "haoheliu/AudioLDM weekly Pulse",
       "type": "feed",
-      "url": "rsshub://github/pulse/2noise/ChatTTS/weekly"
+      "url": "rsshub://github/pulse/haoheliu/AudioLDM/weekly"
     },
     {
-      "description": "facebookresearch/audiocraft weekly Pulse - Powered by RSSHub",
+      "description": "openai/whisper weekly Pulse - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "220767323256864790",
+      "id": "220767323256864796",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/facebookresearch/audiocraft/pulse/weekly",
-      "title": "facebookresearch/audiocraft weekly Pulse",
+      "siteUrl": "https://github.com/openai/whisper/pulse/weekly",
+      "title": "openai/whisper weekly Pulse",
       "type": "feed",
-      "url": "rsshub://github/pulse/facebookresearch/audiocraft/weekly"
+      "url": "rsshub://github/pulse/openai/whisper/weekly"
     }
   ]
 }

@@ -20,7 +20,7 @@
 ::: warning
 需要对应用户打开页面进行授权生成 token 才能生成内容
 
-自部署需要申请并配置微博 key，具体见部署文档
+自部署需要申请并配置微博 key，具体见部署文档。开启 ACCESS\_KEY 时，先使用有效 key/code 打开订阅地址发起授权；回调使用十分钟内有效的一次性 state，要求可用的 memory 或 Redis 缓存。
 :::
 
 ## Parameters
@@ -46,7 +46,7 @@ _None_
   "categories": [
     "social-media"
   ],
-  "description": "::: warning\n需要对应用户打开页面进行授权生成 token 才能生成内容\n\n自部署需要申请并配置微博 key，具体见部署文档\n:::",
+  "description": "::: warning\n需要对应用户打开页面进行授权生成 token 才能生成内容\n\n自部署需要申请并配置微博 key，具体见部署文档。开启 ACCESS\\_KEY 时，先使用有效 key/code 打开订阅地址发起授权；回调使用十分钟内有效的一次性 state，要求可用的 memory 或 Redis 缓存。\n:::",
   "example": "/weibo/timeline/3306934123",
   "features": {
     "antiCrawler": false,
@@ -83,18 +83,6 @@ _None_
   "topFeeds": [
     {
       "description": "undefined - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "1120465570618015744",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://docs.rsshub.app/",
-      "title": "RSSHub",
-      "type": "feed",
-      "url": "rsshub://weibo/timeline/1961069891/0"
-    },
-    {
-      "description": "undefined - Powered by RSSHub",
       "errorAt": "2026-08-31T15:51:19.516Z",
       "errorMessage": "Invalid RSSHub JSON Feed from default\n",
       "id": "70642816621002752",
@@ -104,6 +92,18 @@ _None_
       "title": "RSSHub",
       "type": "feed",
       "url": "rsshub://weibo/timeline/3306934123/0"
+    },
+    {
+      "description": "undefined - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "176484777557408768",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://docs.rsshub.app/",
+      "title": "RSSHub",
+      "type": "feed",
+      "url": "rsshub://weibo/timeline/6078539369%3F"
     }
   ]
 }

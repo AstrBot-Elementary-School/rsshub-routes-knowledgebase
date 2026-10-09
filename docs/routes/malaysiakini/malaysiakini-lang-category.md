@@ -125,7 +125,7 @@
     {
       "description": "News & Views That Matter - Powered by RSSHub",
       "errorAt": "2026-09-07T10:16:30.919Z",
-      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/886361-%E6%94%BF%E5%BA%9C%E5%91%88%E4%BF%AE%E8%AE%A2%E6%A1%88%E6%8B%9F%E8%B5%8B%E6%9D%83%E9%83%A8%E9%95%BF%E5%90%8A%E9%94%80%E6%9C%89%E5%AE%B3%E4%BD%93%E8%82%B2%E7%BB%84%E7%BB%87\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/886495-%E5%8C%85%E6%9C%BA%E5%85%AC%E5%8F%B8%E5%90%A6%E8%AE%A4%E5%8F%82%E4%B8%8E%E8%BF%90%E6%AF%92%E5%9C%A8%E5%AF%AE%E5%9B%BD%E6%9C%BA%E5%9C%BA%E6%97%A9%E5%B0%B1%E6%8B%92%E8%BD%BD%E8%A3%85%E6%AF%92%E8%A1%8C%E6%9D%8E\": 404 Not Found\n",
       "id": "69685104073634816",
       "image": null,
       "ownerUserId": null,
@@ -137,7 +137,7 @@
     {
       "description": "News & Views That Matter - Powered by RSSHub",
       "errorAt": "2026-09-07T09:32:19.566Z",
-      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/886312-msia-ends-12-year-drought-with-win-over-vietnam\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/886482-manila-bound-private-jet-intercepted-at-subang-airport-four-nabbed-in-laos-linked-drug-bust\": 404 Not Found\n",
       "id": "61840955600323584",
       "image": null,
       "ownerUserId": null,

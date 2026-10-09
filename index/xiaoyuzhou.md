@@ -6,7 +6,7 @@
 - URL: `xiaoyuzhoufm.com`
 - Language: `_None_`
 - Aliases: `xiaoyuzhou, xiaoyuzhoufm, xiaoyuzhoufm.com, 小宇宙`
-- Route Count: `2`
+- Route Count: `3`
 
 ## Routes
 
@@ -17,6 +17,14 @@
 - File Name: `xiaoyuzhou.md`
 - Categories: `multimedia`
 - Maintainers: `prnake, Maecenas`
+
+### 单集热门评论
+- Route ID: `xiaoyuzhou:/xiaoyuzhou/comments/:id`
+- Route Path: `/xiaoyuzhou/comments/:id`
+- File: `docs/routes/xiaoyuzhou/xiaoyuzhou-comments-id.md`
+- File Name: `xiaoyuzhou-comments-id.md`
+- Categories: `multimedia`
+- Maintainers: `DIYgod`
 
 ### 播客
 - Route ID: `xiaoyuzhou:/xiaoyuzhou/podcast/:id`

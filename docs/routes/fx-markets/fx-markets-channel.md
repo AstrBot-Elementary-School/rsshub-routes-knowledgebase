@@ -81,8 +81,8 @@ _None_
     },
     {
       "description": "FX-Markets Trading - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-08T09:50:52.528Z",
+      "errorMessage": "Cannot read properties of null (reading 'groups')\n",
       "id": "59063696285536256",
       "image": null,
       "ownerUserId": null,

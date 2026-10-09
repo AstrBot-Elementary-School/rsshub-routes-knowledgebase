@@ -113,8 +113,8 @@
     },
     {
       "description": "热点 - 珠海网 - Powered by RSSHub",
-      "errorAt": "2026-10-06T19:58:35.399Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "76267574626993152",
       "image": null,
       "ownerUserId": null,

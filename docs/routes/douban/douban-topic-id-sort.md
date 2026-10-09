@@ -17,7 +17,7 @@
 - Source Module: `_None_`
 
 ## Description
-_None_
+源详情页明确显示的作者 IP 属地和首屏回帖 IP 属地分别放入 IP 属地：… 和 回帖 IP 属地：… 分类，可使用通用过滤参数。不以作者个人资料所在地替代 IP。需要登录才能查看的内容请配置 DOUBAN\_COOKIE。
 
 ## Parameters
 - `id`: 话题id
@@ -25,7 +25,7 @@ _None_
 
 
 ## Features
-- `requireConfig`: false
+- `requireConfig`: [{"description": "仅登录可见的话题或IP属地详情需要本人豆瓣 Cookie。", "name": "DOUBAN_COOKIE", "optional": true}]
 - `requirePuppeteer`: false
 - `antiCrawler`: false
 - `supportBT`: false
@@ -41,10 +41,17 @@ _None_
   "categories": [
     "social-media"
   ],
+  "description": "源详情页明确显示的作者 IP 属地和首屏回帖 IP 属地分别放入 IP 属地：… 和 回帖 IP 属地：… 分类，可使用通用过滤参数。不以作者个人资料所在地替代 IP。需要登录才能查看的内容请配置 DOUBAN\\_COOKIE。",
   "example": "/douban/topic/48823",
   "features": {
     "antiCrawler": false,
-    "requireConfig": false,
+    "requireConfig": [
+      {
+        "description": "仅登录可见的话题或IP属地详情需要本人豆瓣 Cookie。",
+        "name": "DOUBAN_COOKIE",
+        "optional": true
+      }
+    ],
     "requirePuppeteer": false,
     "supportBT": false,
     "supportPodcast": false,

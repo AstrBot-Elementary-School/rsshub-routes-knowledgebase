@@ -85,18 +85,6 @@ _None_
       "description": "國家地理雜誌｜呈現最新的自然、科學、生態與文化專題報導。探索動物保護、環境變遷、考古發現等豐富內容，並通過精美的攝影和深度分析，帶您深入了解世界各地的故事與現象。 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "59442359778246659",
-      "image": "https://www.natgeomedia.com/img/app_icon.png",
-      "ownerUserId": null,
-      "siteUrl": "https://www.natgeomedia.com/environment/article",
-      "title": "文章總匯 - 國家地理雜誌官方網站｜探索自然、科學與文化的最佳權",
-      "type": "feed",
-      "url": "rsshub://natgeo/environment/article"
-    },
-    {
-      "description": "國家地理雜誌｜呈現最新的自然、科學、生態與文化專題報導。探索動物保護、環境變遷、考古發現等豐富內容，並通過精美的攝影和深度分析，帶您深入了解世界各地的故事與現象。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "67036766288113664",
       "image": "https://www.natgeomedia.com/img/app_icon.png",
       "ownerUserId": null,
@@ -104,6 +92,18 @@ _None_
       "title": "每日一圖 - 國家地理雜誌官方網站｜探索自然、科學與文化的最佳權",
       "type": "feed",
       "url": "rsshub://natgeo/travel/photo"
+    },
+    {
+      "description": "國家地理雜誌｜呈現最新的自然、科學、生態與文化專題報導。探索動物保護、環境變遷、考古發現等豐富內容，並通過精美的攝影和深度分析，帶您深入了解世界各地的故事與現象。 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "59442359778246659",
+      "image": "https://www.natgeomedia.com/img/app_icon.png",
+      "ownerUserId": null,
+      "siteUrl": "https://www.natgeomedia.com/environment/article",
+      "title": "文章總匯 - 國家地理雜誌官方網站｜探索自然、科學與文化的最佳權",
+      "type": "feed",
+      "url": "rsshub://natgeo/environment/article"
     }
   ]
 }

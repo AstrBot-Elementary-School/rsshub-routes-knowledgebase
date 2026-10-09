@@ -81,7 +81,7 @@ _None_
     {
       "description": "xbookcn - Powered by RSSHub",
       "errorAt": "2026-10-06T16:22:03.013Z",
-      "errorMessage": "[GET] \"https://blog.xbookcn.net/search/label/精选作品\": 404 \n[GET] \"https://blog.xbookcn.net/search/label/精选作品\": 404 Not Found\n[GET] \"https://blog.xbookcn.net/search/label/精选作品\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://blog.xbookcn.net/search/label/精选作品\": 404 \nFailed to fetch\n[GET] \"https://blog.xbookcn.net/search/label/精选作品\": 404 Not Found\n",
       "id": "66735517584488448",
       "image": null,
       "ownerUserId": null,

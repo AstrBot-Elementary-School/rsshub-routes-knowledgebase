@@ -35,7 +35,7 @@ You can also search for keywords. `/search/Blog` to search for the keyword "Blog
 
 
 ## Features
-- `requireConfig`: [{"description": "This RSS is disabled unless 'ALLOW_USER_SUPPLY_UNSAFE_DOMAIN' is set to 'true'.", "name": "ALLOW_USER_SUPPLY_UNSAFE_DOMAIN", "optional": false}]
+- `requireConfig`: [{"description": "Enable requests to any WordPress domain. Alternatively, use WORDPRESS_ALLOWED_DOMAINS to permit specific domains.", "name": "ALLOW_USER_SUPPLY_UNSAFE_DOMAIN", "optional": true}, {"description": "Comma-separated hostnames allowed without ALLOW_USER_SUPPLY_UNSAFE_DOMAIN, for example wordpress.org,blog.example.com.", "name": "WORDPRESS_ALLOWED_DOMAINS", "optional": true}]
 - `requirePuppeteer`: false
 - `antiCrawler`: false
 - `supportRadar`: false
@@ -58,9 +58,14 @@ _None_
     "antiCrawler": false,
     "requireConfig": [
       {
-        "description": "This RSS is disabled unless 'ALLOW_USER_SUPPLY_UNSAFE_DOMAIN' is set to 'true'.",
+        "description": "Enable requests to any WordPress domain. Alternatively, use WORDPRESS_ALLOWED_DOMAINS to permit specific domains.",
         "name": "ALLOW_USER_SUPPLY_UNSAFE_DOMAIN",
-        "optional": false
+        "optional": true
+      },
+      {
+        "description": "Comma-separated hostnames allowed without ALLOW_USER_SUPPLY_UNSAFE_DOMAIN, for example wordpress.org,blog.example.com.",
+        "name": "WORDPRESS_ALLOWED_DOMAINS",
+        "optional": true
       }
     ],
     "requirePuppeteer": false,
@@ -87,8 +92,8 @@ _None_
   "topFeeds": [
     {
       "description": "switch520,switch游戏下载,PC游戏下载,PC破解游戏下载,Gamer520 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-07T23:01:49.005Z",
+      "errorMessage": "The property 'options.path' must be a path-only request target. Received '//feed/'\n",
       "id": "76290647520065536",
       "image": "https://v1.imagehub.cc/images/2026/04/21/1210e985ce56b56f20e06094f6817d28.png",
       "ownerUserId": null,

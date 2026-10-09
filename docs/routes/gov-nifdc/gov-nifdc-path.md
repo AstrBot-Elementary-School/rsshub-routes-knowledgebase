@@ -73,7 +73,7 @@ _None_
     {
       "description": "中国药品检定研究院公告通知相关信息 - Powered by RSSHub",
       "errorAt": "2026-09-11T14:20:53.099Z",
-      "errorMessage": "[GET] \"https://www.nifdc.org.cn/nifdc/bshff/ylqxbzhgl/qxggtzh/\": 526 <none>\n",
+      "errorMessage": "[GET] \"https://www.nifdc.org.cn/nifdc/bshff/ylqxbzhgl/qxggtzh/\": 530 \n",
       "id": "1280244517156290560",
       "image": "https://www.nifdc.org.cn/nifdc/images/logo.png",
       "ownerUserId": null,

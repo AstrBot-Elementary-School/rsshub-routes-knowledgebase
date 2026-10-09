@@ -11,9 +11,9 @@
 ## Routes
 
 ### Inbox
-- Route ID: `mail:/mail/imap/:email/:folder{.+}?`
-- Route Path: `/mail/imap/:email/:folder{.+}?`
-- File: `docs/routes/mail/mail-imap-email-folder.md`
-- File Name: `mail-imap-email-folder.md`
+- Route ID: `mail:/mail/imap/:email/subaddress/:subaddress/:folder{.+}?`
+- Route Path: `/mail/imap/:email/subaddress/:subaddress/:folder{.+}?`
+- File: `docs/routes/mail/mail-imap-email-subaddress-subaddress-folder.md`
+- File Name: `mail-imap-email-subaddress-subaddress-folder.md`
 - Categories: `other`
 - Maintainers: `kt286`

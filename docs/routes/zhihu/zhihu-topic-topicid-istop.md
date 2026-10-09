@@ -91,16 +91,16 @@ _None_
       "url": "rsshub://zhihu/topic/19551275"
     },
     {
-      "description": "知乎话题-19783871-讨论 - Powered by RSSHub",
-      "errorAt": "2025-10-29T08:17:58.014Z",
-      "errorMessage": "[GET] \"https://www.zhihu.com/api/v4/topics/19783871/intro?include=content.meta.content.photos\": 403 Forbidden\n",
-      "id": "105261369151721472",
+      "description": "渐进阅读是一种学习技巧，它使人们能够同时阅读成千上万篇文章而不会遗忘。渐进阅读从电子渠道（如互联网）导入文章开始。然后，学生摘录个别文章中最重要的片段供进一步复习。摘录的片段在复习后转换成问题和答案。然后经过系统性的间隔复习后转换为长期记忆。间隔复习过程就是被称为SuperMemo方法的间隔复习算法。 - Powered by RSSHub",
+      "errorAt": "2025-10-29T10:08:20.394Z",
+      "errorMessage": "[GET] \"https://www.zhihu.com/api/v4/topics/21754100/intro?include=content.meta.content.photos\": 403 Forbidden\n",
+      "id": "105268398559082496",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.zhihu.com/topic/19783871/newest",
-      "title": "知乎话题-19783871-讨论",
+      "siteUrl": "https://www.zhihu.com/topic/21754100/newest",
+      "title": "知乎话题-21754100-讨论",
       "type": "feed",
-      "url": "rsshub://zhihu/topic/19783871"
+      "url": "rsshub://zhihu/topic/21754100"
     }
   ]
 }

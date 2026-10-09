@@ -1,11 +1,11 @@
-# 华为开发者联盟 - HarmonyOS 示例代码
+# 华为 - HarmonyOS 示例代码
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `huawei`
-- Namespace Name: `华为开发者联盟`
+- Namespace Name: `华为`
 - Route Path: `/huawei/developer/harmonyos/sample-code`
 - Route Name: `HarmonyOS 示例代码`
 - Example: `/huawei/developer/harmonyos/sample-code`

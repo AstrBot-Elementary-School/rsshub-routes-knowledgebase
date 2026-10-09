@@ -122,7 +122,7 @@ _None_
   "topFeeds": [
     {
       "description": "Announcement list from Binance message center. - Powered by RSSHub",
-      "errorAt": "2026-10-07T05:05:10.413Z",
+      "errorAt": "2026-10-08T08:35:49.677Z",
       "errorMessage": "[GET] \"https://www.binance.com/bapi/apex/v1/public/apex/cms/article/list/query?type=1&pageNo=1&pageSize=20&catalogId=48\": 403 Forbidden\n",
       "id": "54390728350522368",
       "image": null,

@@ -75,8 +75,8 @@ _None_
   "topFeeds": [
     {
       "description": "系统升级通知 - 中国教育考试网 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-08T01:25:48.339Z",
+      "errorMessage": "Failed to fetch\n[GET] \"https://jlpt.neea.cn/index.do\": 412 Precondition Failed\n",
       "id": "106226114484296704",
       "image": null,
       "ownerUserId": null,

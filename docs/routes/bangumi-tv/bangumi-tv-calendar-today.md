@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 287,
+  "heat": 288,
   "location": "calendar/today.tsx",
   "maintainers": [
     "magic-akari"

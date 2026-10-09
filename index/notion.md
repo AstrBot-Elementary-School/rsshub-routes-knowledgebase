@@ -6,7 +6,7 @@
 - URL: `notion.so`
 - Language: `_None_`
 - Aliases: `notion, notion.so`
-- Route Count: `2`
+- Route Count: `3`
 
 ## Routes
 
@@ -25,3 +25,11 @@
 - File Name: `notion-release.md`
 - Categories: `program-update`
 - Maintainers: `equt`
+
+### Public site pages
+- Route ID: `notion:/notion/site/:domain`
+- Route Path: `/notion/site/:domain`
+- File: `docs/routes/notion/notion-site-domain.md`
+- File Name: `notion-site-domain.md`
+- Categories: `blog`
+- Maintainers: `DIYgod`

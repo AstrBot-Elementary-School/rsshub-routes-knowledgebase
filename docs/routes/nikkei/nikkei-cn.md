@@ -88,18 +88,6 @@ _None_
       "description": "日经中文网--日本经济新闻中文版 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "57030132765825024",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://cn.nikkei.com/cn",
-      "title": "日经中文网--日本经济新闻中文版",
-      "type": "feed",
-      "url": "rsshub://nikkei/cn"
-    },
-    {
-      "description": "日经中文网--日本经济新闻中文版 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "62743886183348224",
       "image": null,
       "ownerUserId": null,
@@ -107,6 +95,18 @@ _None_
       "title": "日经中文网--日本经济新闻中文版",
       "type": "feed",
       "url": "rsshub://nikkei/cn/*"
+    },
+    {
+      "description": "日经中文网--日本经济新闻中文版 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "57030132765825024",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://cn.nikkei.com/cn",
+      "title": "日经中文网--日本经济新闻中文版",
+      "type": "feed",
+      "url": "rsshub://nikkei/cn"
     }
   ]
 }

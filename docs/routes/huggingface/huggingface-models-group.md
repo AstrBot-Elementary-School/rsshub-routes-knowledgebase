@@ -88,8 +88,8 @@ _None_
     },
     {
       "description": "Huggingface qwen Models - Powered by RSSHub",
-      "errorAt": "2026-10-07T07:30:53.386Z",
-      "errorMessage": "[GET] \"https://huggingface.co/qwen/models?sort=created\": 429 Too Many Requests\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "220820120722097152",
       "image": null,
       "ownerUserId": null,
