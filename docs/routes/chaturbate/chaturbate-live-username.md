@@ -25,6 +25,7 @@ Reports public live streams using the actual broadcast start time as the entry I
 
 ## Features
 - `nsfw`: true
+- `antiCrawler`: true
 
 ## Radar
 ### Rule 1
@@ -40,6 +41,7 @@ Reports public live streams using the actual broadcast start time as the entry I
   "description": "Reports public live streams using the actual broadcast start time as the entry ID and publication date. When the room is offline or not public, it returns a status entry with a fixed ID and no publication date, so polling does not create new notifications. Only stream status and viewer counts are included.",
   "example": "/chaturbate/live/nakedbakers",
   "features": {
+    "antiCrawler": true,
     "nsfw": true
   },
   "heat": 0,

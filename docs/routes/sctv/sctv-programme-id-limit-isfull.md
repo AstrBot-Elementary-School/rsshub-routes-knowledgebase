@@ -134,8 +134,8 @@ _None_
     },
     {
       "description": "四川广播电视台 - 四川新闻联播 - Powered by RSSHub",
-      "errorAt": "2026-10-08T08:30:28.058Z",
-      "errorMessage": "[GET] \"https://kscgc.sctv-tf.com/sctv/lookback/1/date.json\": 522 <none>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "178834515500019712",
       "image": "/sctv/1/image/public/202101/20210118094118_abbi6fxq9i.jpg",
       "ownerUserId": null,

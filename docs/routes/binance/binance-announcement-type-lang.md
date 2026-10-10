@@ -42,7 +42,7 @@ _None_
   ],
   "description": "Announcement list from Binance message center with language and type selection.",
   "example": "/binance/announcement/new-cryptocurrency-listing",
-  "heat": 1744,
+  "heat": 1745,
   "location": "announcement.ts",
   "maintainers": [
     "enpitsulin",
@@ -122,8 +122,8 @@ _None_
   "topFeeds": [
     {
       "description": "Announcement list from Binance message center. - Powered by RSSHub",
-      "errorAt": "2026-10-08T08:35:49.677Z",
-      "errorMessage": "[GET] \"https://www.binance.com/bapi/apex/v1/public/apex/cms/article/list/query?type=1&pageNo=1&pageSize=20&catalogId=48\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "54390728350522368",
       "image": null,
       "ownerUserId": null,

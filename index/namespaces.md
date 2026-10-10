@@ -4004,6 +4004,12 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `1`
 - Index File: `index/freexcomic.md`
 
+## FreshPlaza
+- Namespace: `freshplaza`
+- Aliases: `freshplaza, freshplaza.com, www, www.freshplaza.com`
+- Route Count: `1`
+- Index File: `index/freshplaza.md`
+
 ## Fruit Data Kings
 - Namespace: `fruitdatakings`
 - Aliases: `fruit data kings, fruitdatakings, fruitdatakings.com, www, www.fruitdatakings.com`
@@ -10115,7 +10121,7 @@ Use this file to select the target namespace before opening route documents.
 ## Steam
 - Namespace: `steam`
 - Aliases: `steam, store, store.steampowered.com`
-- Route Count: `6`
+- Route Count: `8`
 - Index File: `index/steam.md`
 
 ## 星島日報

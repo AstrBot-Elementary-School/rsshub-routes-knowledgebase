@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1828,
+  "heat": 1826,
   "location": "blog.ts",
   "maintainers": [
     "Lyunvy"
@@ -69,7 +69,7 @@ _None_
     {
       "description": "xbookcn - Powered by RSSHub",
       "errorAt": "2026-10-06T17:21:14.280Z",
-      "errorMessage": "Authentication failed. Access denied.\n/xbookcn/%E7%B2%BE%E9%80%89%E4%BD%9C%E5%93%81\n[GET] \"https://blog.xbookcn.net/search/label/精选作品\": 404 Not Found\n[GET] \"https://blog.xbookcn.net/search/label/精选作品\": 404 Not Found\n",
+      "errorMessage": "Authentication failed. Access denied.\n/xbookcn/%E7%B2%BE%E9%80%89%E4%BD%9C%E5%93%81\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "65082601526572032",
       "image": null,
       "ownerUserId": null,
@@ -81,7 +81,7 @@ _None_
     {
       "description": "xbookcn - Powered by RSSHub",
       "errorAt": "2026-10-06T16:22:03.013Z",
-      "errorMessage": "[GET] \"https://blog.xbookcn.net/search/label/精选作品\": 404 \nFailed to fetch\n[GET] \"https://blog.xbookcn.net/search/label/精选作品\": 404 Not Found\n",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "66735517584488448",
       "image": null,
       "ownerUserId": null,

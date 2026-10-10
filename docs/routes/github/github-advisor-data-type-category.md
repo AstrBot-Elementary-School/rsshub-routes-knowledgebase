@@ -104,8 +104,8 @@ _None_
     },
     {
       "description": "GitHub Advisory Database RSS - composer - reviewed - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-09T06:09:21.093Z",
+      "errorMessage": "[GET] \"https://github.com/advisories/GHSA-396x-xmvh-p563\": 504 Gateway Timeout\n",
       "id": "95003691455117312",
       "image": null,
       "ownerUserId": null,

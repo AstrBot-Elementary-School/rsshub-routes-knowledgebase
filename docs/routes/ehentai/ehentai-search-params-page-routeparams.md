@@ -72,8 +72,8 @@ _None_
   "topFeeds": [
     {
       "description": "undefined - E-Hentai Search - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-09T14:01:29.280Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "96502911354921984",
       "image": null,
       "ownerUserId": null,

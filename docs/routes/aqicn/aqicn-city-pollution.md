@@ -77,16 +77,16 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "成都AQI-aqicn.org - Powered by RSSHub",
+      "description": "深圳AQI-aqicn.org - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "77548977644380168",
+      "id": "162871762768590848",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://aqicn.org/city/chengdu",
-      "title": "成都AQI",
+      "siteUrl": "https://aqicn.org/city/shenzhen",
+      "title": "深圳AQI",
       "type": "feed",
-      "url": "rsshub://aqicn/chengdu/pm25,pm10"
+      "url": "rsshub://aqicn/shenzhen/pm25"
     },
     {
       "description": "上海AQI-aqicn.org - Powered by RSSHub",

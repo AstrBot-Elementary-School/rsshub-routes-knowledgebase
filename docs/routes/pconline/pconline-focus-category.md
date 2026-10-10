@@ -88,8 +88,8 @@
   "topFeeds": [
     {
       "description": "太平洋科技-全部 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-08T21:14:48.686Z",
+      "errorMessage": "[GET] \"https:\": <no response> Invalid URL: https:\n",
       "id": "59139256789618688",
       "image": null,
       "ownerUserId": null,
@@ -100,8 +100,8 @@
     },
     {
       "description": "太平洋科技-全部 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-08T21:16:33.447Z",
+      "errorMessage": "Failed to fetch\n[GET] \"https:\": <no response> Invalid URL: https:\n",
       "id": "84175249418008576",
       "image": null,
       "ownerUserId": null,

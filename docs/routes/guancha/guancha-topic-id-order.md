@@ -99,8 +99,8 @@
     },
     {
       "description": "观察者网 - 国际 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-09T14:42:39.103Z",
+      "errorMessage": "Failed to fetch\n[GET] \"https://user.guancha.cn/main/content?id=1750044&page=0\": 522 <none>\n",
       "id": "113028454025389056",
       "image": null,
       "ownerUserId": null,

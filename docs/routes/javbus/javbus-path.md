@@ -44,7 +44,7 @@ The item title receives a \[中字] prefix and the 中文字幕 category when th
   "features": {
     "nsfw": true
   },
-  "heat": 12921,
+  "heat": 12920,
   "location": "index.tsx",
   "maintainers": [
     "MegrezZhu",

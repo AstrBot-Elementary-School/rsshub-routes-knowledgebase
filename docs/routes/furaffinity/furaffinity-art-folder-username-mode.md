@@ -115,16 +115,16 @@ _None_
       "url": "rsshub://furaffinity/art/gallery/oddeyresproductions/nsfw"
     },
     {
-      "description": "Fur Affinity Gallery of allsonwa - Powered by RSSHub",
-      "errorAt": "2026-05-25T13:42:58.944Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://faexport.spangle.org.uk/user/allsonwa/gallery.json?full=1\": 500 Internal Server Error\n",
-      "id": "79208565277485056",
+      "description": "Fur Affinity Gallery of davcr4zy - Powered by RSSHub",
+      "errorAt": "2026-05-25T13:07:16.524Z",
+      "errorMessage": "Failed to fetch\n[GET] \"https://faexport.spangle.org.uk/user/davcr4zy/gallery.json?full=1\": 500 Internal Server Error\n",
+      "id": "79207785434458112",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.furaffinity.net/gallery/allsonwa",
-      "title": "Fur Affinity | Gallery of allsonwa",
+      "siteUrl": "https://www.furaffinity.net/gallery/davcr4zy",
+      "title": "Fur Affinity | Gallery of davcr4zy",
       "type": "feed",
-      "url": "rsshub://furaffinity/art/gallery/allsonwa/nsfw"
+      "url": "rsshub://furaffinity/art/gallery/davcr4zy/nsfw"
     }
   ],
   "url": "furaffinity.net"

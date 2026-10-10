@@ -76,8 +76,8 @@ _None_
   "topFeeds": [
     {
       "description": "Reporting, Profiles, breaking news, cultural coverage, podcasts, videos, and cartoons from The New Yorker. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-09T13:36:04.078Z",
+      "errorMessage": "503 \n",
       "id": "62040507105143808",
       "image": null,
       "ownerUserId": null,

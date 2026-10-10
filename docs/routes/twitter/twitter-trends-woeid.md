@@ -91,7 +91,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 8,
+  "heat": 9,
   "location": "trends.ts",
   "maintainers": [
     "sakamossan"

@@ -43,7 +43,7 @@ _None_
   ],
   "description": "| 最新字幕 | 热门字幕 | 剧集字幕 | 电影字幕 |\n| -------- | -------- | -------- | -------- |\n| new      | top      | tv       | movie    |",
   "example": "/subhd/sub/new",
-  "heat": 17,
+  "heat": 18,
   "location": "index.ts",
   "maintainers": [
     "laampui",

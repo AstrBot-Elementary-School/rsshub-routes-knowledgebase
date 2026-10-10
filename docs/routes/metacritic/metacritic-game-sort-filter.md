@@ -75,8 +75,8 @@ _None_
   "topFeeds": [
     {
       "description": "Metacritic aggregates music, game, tv, and movie reviews from the leading critics. Only Metacritic.com uses METASCORES, which let you know at a glance how each item was reviewed. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-09T07:09:44.220Z",
+      "errorMessage": "Cannot read properties of null (reading '1')\n",
       "id": "70313043997076480",
       "image": "https://www.metacritic.com/a/img/favicon.svg",
       "ownerUserId": null,

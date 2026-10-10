@@ -68,18 +68,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "轻声惆怅 的 bilibili 收藏夹 剧情合集 - Powered by RSSHub",
-      "errorAt": "2026-09-07T17:02:19.801Z",
-      "errorMessage": "[GET] \"https://api.bilibili.com/x/v3/fav/resource/list?media_id=3604184927&ps=20\": 412 Precondition Failed\n",
-      "id": "170412661881765888",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://space.bilibili.com/3546765649250827/#/favlist?fid=3604184927",
-      "title": "轻声惆怅 的 bilibili 收藏夹 剧情合集",
-      "type": "feed",
-      "url": "rsshub://bilibili/fav/3546765649250827/3604184927"
-    },
-    {
       "description": "观海聽风声 的 bilibili 收藏夹 二次元 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -90,6 +78,18 @@ _None_
       "title": "观海聽风声 的 bilibili 收藏夹 二次元",
       "type": "feed",
       "url": "rsshub://bilibili/fav/399964818/1771644318"
+    },
+    {
+      "description": "X_2365 的 bilibili 收藏夹 I-教程 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "150729327792288768",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://space.bilibili.com/356718655/#/favlist?fid=3405681255",
+      "title": "X_2365 的 bilibili 收藏夹 I-教程",
+      "type": "feed",
+      "url": "rsshub://bilibili/fav/356718655/3405681255"
     }
   ]
 }

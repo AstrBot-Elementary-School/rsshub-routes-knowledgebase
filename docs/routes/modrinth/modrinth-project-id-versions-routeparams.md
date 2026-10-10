@@ -104,16 +104,16 @@
   },
   "topFeeds": [
     {
-      "description": "A powerful plugin to manage various PvP combat features - Powered by RSSHub",
+      "description": "Transforming the visuals of Minecraft with exceptional quality, detail, and performance. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "123852126561305600",
+      "id": "120303120316993536",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/1Ffl2uIq",
-      "title": "PvPManager Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/complementary-unbound",
+      "title": "Complementary Shaders - Unbound Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/1Ffl2uIq/versions"
+      "url": "rsshub://modrinth/project/complementary-unbound/versions"
     },
     {
       "description": "Aesthetic Technology that empowers the Player - Powered by RSSHub",

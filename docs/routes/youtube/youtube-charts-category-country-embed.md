@@ -99,8 +99,8 @@ _None_
   "topFeeds": [
     {
       "description": "YouTube Music Charts - Top songs - Powered by RSSHub",
-      "errorAt": "2026-10-05T22:31:05.637Z",
-      "errorMessage": "[POST] \"https://charts.youtube.com/youtubei/v1/browse?alt=json&key=AIzaSyCzEW7JUJdSql0-2V4tHUb6laYm4iAE_dM\": 429 Too Many Requests\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "57503645768295424",
       "image": null,
       "ownerUserId": null,

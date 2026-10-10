@@ -6,7 +6,7 @@
 - URL: `store.steampowered.com`
 - Language: `_None_`
 - Aliases: `steam, store, store.steampowered.com`
-- Route Count: `6`
+- Route Count: `8`
 
 ## Routes
 
@@ -25,6 +25,22 @@
 - File Name: `steam-curator-id-routeparams.md`
 - Categories: `game`
 - Maintainers: `naremloa, fenxer`
+
+### Discussion Thread
+- Route ID: `steam:/steam/discussion/:appid/:feature/:topicId`
+- Route Path: `/steam/discussion/:appid/:feature/:topicId`
+- File: `docs/routes/steam/steam-discussion-appid-feature-topicid.md`
+- File Name: `steam-discussion-appid-feature-topicid.md`
+- Categories: `game`
+- Maintainers: `NekoAria`
+
+### Discussion List
+- Route ID: `steam:/steam/discussions/:appid/:feature?`
+- Route Path: `/steam/discussions/:appid/:feature?`
+- File: `docs/routes/steam/steam-discussions-appid-feature.md`
+- File Name: `steam-discussions-appid-feature.md`
+- Categories: `game`
+- Maintainers: `NekoAria`
 
 ### News
 - Route ID: `steam:/steam/news/:appid/:language?`

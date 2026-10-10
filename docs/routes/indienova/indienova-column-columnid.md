@@ -91,7 +91,7 @@ Game Jam
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 55,
+  "heat": 53,
   "location": "column.ts",
   "maintainers": [
     "TonyRL"

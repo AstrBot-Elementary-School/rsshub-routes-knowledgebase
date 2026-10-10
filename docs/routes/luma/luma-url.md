@@ -76,6 +76,18 @@ _None_
   },
   "topFeeds": [
     {
+      "description": "The AI Collective - Powered by RSSHub",
+      "errorAt": "2026-10-08T02:31:21.638Z",
+      "errorMessage": "[GET] \"https://api.lu.ma/url?url=genai-collective\": 429 Too Many Requests\n",
+      "id": "265935647087177728",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://lu.ma/genai-collective",
+      "title": "The AI Collective",
+      "type": "feed",
+      "url": "rsshub://luma/genai-collective"
+    },
+    {
       "description": "LangChain Events - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -86,18 +98,6 @@ _None_
       "title": "LangChain Events",
       "type": "feed",
       "url": "rsshub://luma/langchain"
-    },
-    {
-      "description": "Bogota Events powered by Startup Grind - Powered by RSSHub",
-      "errorAt": "2026-05-26T22:11:47.160Z",
-      "errorMessage": "[GET] \"https://api.lu.ma/url?url=sgbogota\": 429 Too Many Requests\n",
-      "id": "265966867461735424",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://lu.ma/sgbogota",
-      "title": "Bogota Events powered by Startup Grind",
-      "type": "feed",
-      "url": "rsshub://luma/sgbogota"
     }
   ],
   "url": "lu.ma"

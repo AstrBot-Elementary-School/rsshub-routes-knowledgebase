@@ -74,16 +74,16 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "DBLP manipulation RSS - Powered by RSSHub",
-      "errorAt": "2026-09-07T10:46:16.426Z",
+      "description": "DBLP robotics RSS - Powered by RSSHub",
+      "errorAt": "2026-09-07T17:40:52.698Z",
       "errorMessage": "Cannot read properties of undefined (reading 'hits')\n",
-      "id": "231673359707123712",
+      "id": "257777668080712704",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://dblp.org/search?q=manipulation",
-      "title": "【dblp】manipulation",
+      "siteUrl": "https://dblp.org/search?q=robotics",
+      "title": "【dblp】robotics",
       "type": "feed",
-      "url": "rsshub://dblp/manipulation"
+      "url": "rsshub://dblp/robotics"
     },
     {
       "description": "DBLP knowledge tracing RSS - Powered by RSSHub",

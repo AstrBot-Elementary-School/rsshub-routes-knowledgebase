@@ -82,18 +82,6 @@
   },
   "topFeeds": [
     {
-      "description": "研究生通知-西安电子科技大学计算机科学与技术学院 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "209182901587636245",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://cs.xidian.edu.cn/yjsjy/yjstz.htm",
-      "title": "研究生通知-西安电子科技大学计算机科学与技术学院",
-      "type": "feed",
-      "url": "rsshub://xidian/cs/yjsjy_yjstz"
-    },
-    {
       "description": "学院新闻-西安电子科技大学计算机科学与技术学院 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -104,6 +92,18 @@
       "title": "学院新闻-西安电子科技大学计算机科学与技术学院",
       "type": "feed",
       "url": "rsshub://xidian/cs/xyxw"
+    },
+    {
+      "description": "通知公告-西安电子科技大学计算机科学与技术学院 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "181646857914188800",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://cs.xidian.edu.cn//tzgg.htm",
+      "title": "通知公告-西安电子科技大学计算机科学与技术学院",
+      "type": "feed",
+      "url": "rsshub://xidian/cs/tzgg"
     }
   ],
   "url": "cs.xidian.edu.cn"

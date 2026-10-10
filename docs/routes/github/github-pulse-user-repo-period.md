@@ -79,28 +79,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "haoheliu/AudioLDM weekly Pulse - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "220767323256864791",
+      "description": null,
+      "errorAt": "2025-12-08T08:14:07.792Z",
+      "errorMessage": "[GET] \"https://github.com/tencent-ailab/cosyvoice/pulse/weekly\": 404 Not Found\n[GET] \"https://github.com/tencent-ailab/cosyvoice/pulse/weekly\": 404 Not Found\n",
+      "id": "220767323256864793",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/haoheliu/AudioLDM/pulse/weekly",
-      "title": "haoheliu/AudioLDM weekly Pulse",
+      "siteUrl": null,
+      "title": "Importing",
       "type": "feed",
-      "url": "rsshub://github/pulse/haoheliu/AudioLDM/weekly"
+      "url": "rsshub://github/pulse/tencent-ailab/cosyvoice/weekly"
     },
     {
-      "description": "openai/whisper weekly Pulse - Powered by RSSHub",
+      "description": "RVC-Project/Retrieval-based-Voice-Conversion-WebUI weekly Pulse - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "220767323256864796",
+      "id": "220767323256864795",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/openai/whisper/pulse/weekly",
-      "title": "openai/whisper weekly Pulse",
+      "siteUrl": "https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/pulse/weekly",
+      "title": "RVC-Project/Retrieval-based-Voice-Conversion-WebUI weekly Pulse",
       "type": "feed",
-      "url": "rsshub://github/pulse/openai/whisper/weekly"
+      "url": "rsshub://github/pulse/RVC-Project/Retrieval-based-Voice-Conversion-WebUI/weekly"
     }
   ]
 }

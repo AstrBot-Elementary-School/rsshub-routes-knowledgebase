@@ -90,8 +90,8 @@ _None_
     },
     {
       "description": "bili_1287649879 的 bilibili 点赞视频 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-09T07:09:20.190Z",
+      "errorMessage": "[GET] \"https://api.bilibili.com/x/space/wbi/acc/info?mid=1287649879&token=&platform=web&web_location=1550101&w_rid=bc78d4b703d0d5f0dce0962b58f3ff57&wts=1791529760\": 412 Precondition Failed\n",
       "id": "91131582967148544",
       "image": null,
       "ownerUserId": null,

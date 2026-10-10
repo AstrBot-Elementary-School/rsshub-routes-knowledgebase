@@ -165,8 +165,8 @@ _None_
   "topFeeds": [
     {
       "description": "澎湃新闻栏目 - 思想市场 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-09T12:02:48.207Z",
+      "errorMessage": "[GET] \"https://m.thepaper.cn/detail/33978019\": 403 Forbidden\n[GET] \"https://m.thepaper.cn/detail/33978019\": 403 Forbidden\n",
       "id": "57799650925552640",
       "image": "https://image.thepaper.cn/depository/image/4/158/104.png",
       "ownerUserId": null,

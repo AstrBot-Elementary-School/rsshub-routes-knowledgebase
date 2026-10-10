@@ -105,8 +105,8 @@ _None_
   "topFeeds": [
     {
       "description": "连享会 - 全部专题 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-09T09:36:23.508Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "71511658456989696",
       "image": null,
       "ownerUserId": null,

@@ -51,28 +51,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "2Pac出品 商铺上新 - Powered by RSSHub",
+      "description": "蚂蚁MADE 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264526453228044288",
+      "id": "1264527015382220800",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1842314734",
-      "title": "2Pac出品 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=207814537",
+      "title": "蚂蚁MADE 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1842314734"
+      "url": "rsshub://weidian/goods/207814537"
     },
     {
-      "description": "阿寇工作室 商铺上新 - Powered by RSSHub",
+      "description": "Joker世家2店 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264525081824854016",
+      "id": "1264526741678718976",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1727854294",
-      "title": "阿寇工作室 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1858725248",
+      "title": "Joker世家2店 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1727854294"
+      "url": "rsshub://weidian/goods/1858725248"
     }
   ]
 }

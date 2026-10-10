@@ -10,10 +10,10 @@
 
 ## Routes
 
-### Infrastructure insights
-- Route ID: `bcg:/bcg/infrastructure`
-- Route Path: `/bcg/infrastructure`
-- File: `docs/routes/bcg/bcg-infrastructure.md`
-- File Name: `bcg-infrastructure.md`
+### Search
+- Route ID: `bcg:/bcg/search/:params?`
+- Route Path: `/bcg/search/:params?`
+- File: `docs/routes/bcg/bcg-search-params.md`
+- File Name: `bcg-search-params.md`
 - Categories: `new-media`
 - Maintainers: `DIYgod`

@@ -37,7 +37,7 @@ _None_
     "social-media"
   ],
   "example": "/bilibili/user/video-all/2267573",
-  "heat": 1265,
+  "heat": 1264,
   "location": "video-all.ts",
   "maintainers": [
     "CcccFz"
@@ -67,7 +67,7 @@ _None_
     {
       "description": "小Lin说 的 bilibili 所有视频 - Powered by RSSHub",
       "errorAt": "2026-08-26T23:43:23.393Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://space.bilibili.com/520819684/video?tid=0&page=1&keyword=&order=pubdate\": 412 Precondition Failed\n",
+      "errorMessage": "[GET] \"https://space.bilibili.com/520819684/video?tid=0&page=1&keyword=&order=pubdate\": 412 Precondition Failed\n",
       "id": "69028952282503168",
       "image": null,
       "ownerUserId": null,

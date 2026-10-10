@@ -79,8 +79,8 @@ _None_
     },
     {
       "description": "MySQL :: MySQL 8.0 Release Notes - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-09T12:47:31.934Z",
+      "errorMessage": "503 \n",
       "id": "62150011386109952",
       "image": null,
       "ownerUserId": null,

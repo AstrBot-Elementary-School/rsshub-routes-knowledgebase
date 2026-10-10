@@ -113,8 +113,8 @@ _None_
   "topFeeds": [
     {
       "description": "news - Sputnik News - Powered by RSSHub",
-      "errorAt": "2026-10-08T13:01:31.868Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://sputniknews.com/services/news/more.html\": 530 \n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "60322104504418309",
       "image": null,
       "ownerUserId": null,

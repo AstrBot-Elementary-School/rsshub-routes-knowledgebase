@@ -40,7 +40,7 @@ _None_
   "features": {
     "antiCrawler": true
   },
-  "heat": 1,
+  "heat": 2,
   "location": "index.ts",
   "maintainers": [
     "hoilc"

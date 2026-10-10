@@ -83,8 +83,8 @@ _None_
   "topFeeds": [
     {
       "description": "澎湃新闻 - 澎湃热榜 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-09T10:30:36.875Z",
+      "errorMessage": "[GET] \"https://m.thepaper.cn/detail/34214381\": 403 Forbidden\n",
       "id": "56001539986599972",
       "image": null,
       "ownerUserId": null,
@@ -95,8 +95,8 @@ _None_
     },
     {
       "description": "澎湃新闻 - 澎湃热榜 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-09T11:48:10.022Z",
+      "errorMessage": "[GET] \"https://m.thepaper.cn/detail/34213131\": 403 Forbidden\n[GET] \"https://m.thepaper.cn/detail/34210927\": 403 \n[GET] \"https://m.thepaper.cn/detail/34217295\": 403 Forbidden\n",
       "id": "61246261602249728",
       "image": null,
       "ownerUserId": null,

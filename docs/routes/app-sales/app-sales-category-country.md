@@ -224,18 +224,6 @@ To subscribe to [Highlights](https://www.app-sales.net/highlights/), where the s
   },
   "topFeeds": [
     {
-      "description": "Android apps and games that are free for a limited time on Google Play - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "198041350264348672",
-      "image": "https://www.app-sales.net/img/appsales_logo_claim.png",
-      "ownerUserId": null,
-      "siteUrl": "https://www.app-sales.net/nowfree/",
-      "title": "Now Free | AppSales",
-      "type": "feed",
-      "url": "rsshub://app-sales/nowfree/us"
-    },
-    {
       "description": "Most recent discounted and temporarily free Android apps and games on Google Play - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -246,6 +234,18 @@ To subscribe to [Highlights](https://www.app-sales.net/highlights/), where the s
       "title": "Active Sales | AppSales",
       "type": "feed",
       "url": "rsshub://app-sales/activesales/us"
+    },
+    {
+      "description": "Android apps and games that are free for a limited time on Google Play - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "198041350264348672",
+      "image": "https://www.app-sales.net/img/appsales_logo_claim.png",
+      "ownerUserId": null,
+      "siteUrl": "https://www.app-sales.net/nowfree/",
+      "title": "Now Free | AppSales",
+      "type": "feed",
+      "url": "rsshub://app-sales/nowfree/us"
     }
   ],
   "url": "app-sales.net",

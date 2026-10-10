@@ -84,7 +84,7 @@ _None_
     {
       "description": "Petrick Animation's projects - Powered by RSSHub",
       "errorAt": "2026-10-08T09:11:37.214Z",
-      "errorMessage": "Failed to fetch\n[POST] \"https://www.behance.net/v3/graphql\": 403 Forbidden\n",
+      "errorMessage": "[POST] \"https://www.behance.net/v3/graphql\": 403 Forbidden\n",
       "id": "56578471053323264",
       "image": "https://pps.services.adobe.com/api/profile/705741C3536196240A490D45@AdobeID/image/3a1f0f66-ebf9-4480-af90-ed75e7c49829/50",
       "ownerUserId": null,

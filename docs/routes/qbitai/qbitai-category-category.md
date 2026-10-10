@@ -89,8 +89,8 @@
     },
     {
       "description": "量子位 - 资讯 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-09T12:03:34.423Z",
+      "errorMessage": "Failed to fetch\n502 \n502 \n503 \n",
       "id": "61288440756878337",
       "image": null,
       "ownerUserId": null,

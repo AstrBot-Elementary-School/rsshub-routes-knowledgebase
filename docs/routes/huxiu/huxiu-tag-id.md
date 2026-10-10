@@ -80,7 +80,7 @@ _None_
       "url": "rsshub://huxiu/tag/689"
     },
     {
-      "description": "虎嗅标签-AI - Powered by RSSHub",
+      "description": "人工智能的英文简称 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "111032291110780928",

@@ -65,7 +65,7 @@ _None_
     {
       "description": "OpenAI News - Powered by RSSHub",
       "errorAt": "2026-10-05T12:08:24.444Z",
-      "errorMessage": "[GET] \"https://openai.com/index/teens-learn-and-plan\": 403 Forbidden\n[GET] \"https://openai.com/index/sharing-ai-progress-in-mathematics/\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://openai.com/index/sophos\": 403 Forbidden\n[GET] \"https://openai.com/index/radisson/\": 403 Forbidden\n",
       "id": "139523607422199808",
       "image": null,
       "ownerUserId": null,

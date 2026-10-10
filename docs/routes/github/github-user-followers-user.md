@@ -74,16 +74,16 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "yihangtao's followers - Powered by RSSHub",
+      "description": "strajk's followers - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "162676813047378944",
+      "id": "178709617272142848",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/yihangtao",
-      "title": "yihangtao's followers",
+      "siteUrl": "https://github.com/strajk",
+      "title": "strajk's followers",
       "type": "feed",
-      "url": "rsshub://github/user/followers/yihangtao"
+      "url": "rsshub://github/user/followers/strajk"
     },
     {
       "description": "Shubxam's followers - Powered by RSSHub",

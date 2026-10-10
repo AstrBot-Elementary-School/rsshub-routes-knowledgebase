@@ -96,7 +96,7 @@ If you subscribe to [InfoQ Live Jan 2024](https://www.infoq.com/infoq-live-jan-2
       "errorAt": null,
       "errorMessage": null,
       "id": "70149738744378368",
-      "image": "https://cdn.infoq.com/statics_s1_20261007095240/styles/static/images/logo/logo-big.jpg",
+      "image": "https://cdn.infoq.com/statics_s1_20261009100522/styles/static/images/logo/logo-big.jpg",
       "ownerUserId": null,
       "siteUrl": "https://www.infoq.com/presentations/",
       "title": "Presentations > Page #1 - InfoQ",

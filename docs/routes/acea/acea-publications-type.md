@@ -20,7 +20,7 @@
 _None_
 
 ## Parameters
-- `type`: Native content type, e.g. press-releases, facts, figures or publications. Defaults to press-releases.
+- `type`: {"default": "press-releases", "description": "Native content type", "options": [{"label": "Press releases", "value": "press-releases"}, {"label": "News", "value": "news"}, {"label": "Facts", "value": "facts"}, {"label": "Figures", "value": "figures"}, {"label": "Publications", "value": "publications"}]}
 
 
 ## Features
@@ -46,7 +46,32 @@ _None_
   ],
   "name": "Publications",
   "parameters": {
-    "type": "Native content type, e.g. press-releases, facts, figures or publications. Defaults to press-releases."
+    "type": {
+      "default": "press-releases",
+      "description": "Native content type",
+      "options": [
+        {
+          "label": "Press releases",
+          "value": "press-releases"
+        },
+        {
+          "label": "News",
+          "value": "news"
+        },
+        {
+          "label": "Facts",
+          "value": "facts"
+        },
+        {
+          "label": "Figures",
+          "value": "figures"
+        },
+        {
+          "label": "Publications",
+          "value": "publications"
+        }
+      ]
+    }
   },
   "path": "/publications/:type?",
   "radar": [

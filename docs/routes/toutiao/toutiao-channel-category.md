@@ -46,7 +46,7 @@ _None_
   "features": {
     "antiCrawler": true
   },
-  "heat": 2,
+  "heat": 3,
   "location": "channel.ts",
   "maintainers": [
     "TonyRL"

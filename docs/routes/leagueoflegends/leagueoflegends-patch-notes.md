@@ -39,7 +39,7 @@ _None_
     "game"
   ],
   "example": "/leagueoflegends/patch-notes",
-  "heat": 13,
+  "heat": 14,
   "location": "patch-notes.ts",
   "maintainers": [
     "noahm"

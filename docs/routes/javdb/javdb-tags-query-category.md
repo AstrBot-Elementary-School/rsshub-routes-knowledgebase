@@ -72,7 +72,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 10,
+  "heat": 11,
   "location": "tags.ts",
   "maintainers": [
     "nczitzk"

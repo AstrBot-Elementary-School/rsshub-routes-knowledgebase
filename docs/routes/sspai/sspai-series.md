@@ -73,8 +73,8 @@ _None_
   "topFeeds": [
     {
       "description": "少数派 -- 最新上架付费专栏 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-09T13:36:04.074Z",
+      "errorMessage": "503 \n",
       "id": "55218960049839106",
       "image": null,
       "ownerUserId": null,

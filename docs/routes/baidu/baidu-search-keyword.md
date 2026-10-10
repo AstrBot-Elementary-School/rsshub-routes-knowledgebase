@@ -77,16 +77,16 @@ _None_
       "url": "rsshub://baidu/search/%E7%BD%97%E6%BA%90%20%E6%96%B0%E9%97%BB&oq=%E7%BD%97%E6%BA%90%20%E6%96%B0%E9%97%BB&rsv_pq=87e4d4de002132b7&rsv_t=17e00LA1HanVp7Pv33dkIizci6Ej6zyjhAhPYV%2BjjrC8YXa2Vq%2BkkYMiUgs&rqlang=cn&rsv_enter=1&rsv_dl=tb&gpc=stf%3D1712564688%2C1715243088%7Cstftype%3D1&tfflag=1"
     },
     {
-      "description": "念空大叔百家号 - 百度搜索 - Powered by RSSHub",
+      "description": "符号学 - 百度搜索 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "70226158864332800",
+      "id": "177651896288583681",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.baidu.com/s?wd=%E5%BF%B5%E7%A9%BA%E5%A4%A7%E5%8F%94%E7%99%BE%E5%AE%B6%E5%8F%B7",
-      "title": "念空大叔百家号 - 百度搜索",
+      "siteUrl": "https://www.baidu.com/s?wd=%E7%AC%A6%E5%8F%B7%E5%AD%A6",
+      "title": "符号学 - 百度搜索",
       "type": "feed",
-      "url": "rsshub://baidu/search/%E5%BF%B5%E7%A9%BA%E5%A4%A7%E5%8F%94%E7%99%BE%E5%AE%B6%E5%8F%B7"
+      "url": "rsshub://baidu/search/%E7%AC%A6%E5%8F%B7%E5%AD%A6"
     }
   ]
 }

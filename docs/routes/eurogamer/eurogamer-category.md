@@ -59,7 +59,7 @@ Eurogamer's official RSS feeds only include excerpts. This route fetches the ful
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 0,
+  "heat": 1,
   "location": "index.ts",
   "maintainers": [
     "mcdp-adk"

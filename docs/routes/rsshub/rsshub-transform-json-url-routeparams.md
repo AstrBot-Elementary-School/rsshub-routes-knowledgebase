@@ -103,18 +103,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Proxy https://api.github.com/repos/zed-industries/zed/releases - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "185694005069753344",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://api.github.com/repos/zed-industries/zed/releases",
-      "title": "zed releases",
-      "type": "feed",
-      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fapi.github.com%2Frepos%2Fzed-industries%2Fzed%2Freleases/title=zed%20releases&itemTitle=tag_name&itemLink=html_url&itemDesc=body"
-    },
-    {
       "description": "Proxy https://seed.bytedance.com/api/get_article_list_v2?article_type=2&count=20&order_desc=true&page_token=0 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -125,6 +113,18 @@ _None_
       "title": "ByteDance Seed Tech Blog",
       "type": "feed",
       "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fseed.bytedance.com%2Fapi%2Fget_article_list_v2%3Farticle_type%3D2%26count%3D20%26order_desc%3Dtrue%26page_token%3D0/title%3DByteDance%2520Seed%2520Tech%2520Blog%26item%3Dsub_article_list%26itemTitle%3DArticleSubContentEn.Title%26itemLink%3DArticleSubContentEn.TitleKey%26itemLinkPrefix%3Dhttps%253A%252F%252Fseed.bytedance.com%252Fen%252Fblog%252F%26itemDesc%3DArticleSubContentEn.Abstract%26itemPubDate%3DArticleMeta.PublishDate"
+    },
+    {
+      "description": "Proxy https://api.github.com/repos/zed-industries/zed/releases - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "185694005069753344",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://api.github.com/repos/zed-industries/zed/releases",
+      "title": "zed releases",
+      "type": "feed",
+      "url": "rsshub://rsshub/transform/json/https%3A%2F%2Fapi.github.com%2Frepos%2Fzed-industries%2Fzed%2Freleases/title=zed%20releases&itemTitle=tag_name&itemLink=html_url&itemDesc=body"
     }
   ]
 }

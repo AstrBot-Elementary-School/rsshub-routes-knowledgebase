@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 763,
+  "heat": 762,
   "location": "topics.ts",
   "maintainers": [
     "zoenglinghou",
@@ -85,7 +85,7 @@ _None_
     {
       "description": "Trending News | What's New Around the World | AP News - Powered by RSSHub",
       "errorAt": "2026-09-16T05:01:39.475Z",
-      "errorMessage": "[GET] \"https://apnews.com/hub/trending-news\": 403 Forbidden\n[GET] \"https://apnews.com/hub/trending-news\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://apnews.com/hub/trending-news\": 403 Forbidden\n",
       "id": "52388449895612416",
       "image": null,
       "ownerUserId": null,

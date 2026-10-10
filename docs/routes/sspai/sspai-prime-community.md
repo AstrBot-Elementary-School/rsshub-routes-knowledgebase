@@ -75,7 +75,7 @@ _None_
     {
       "description": "少数派会员社区 - Powered by RSSHub",
       "errorAt": "2025-11-06T02:28:22.630Z",
-      "errorMessage": "[GET] \"https://sspai.com/api/v1/community/page/get\": 401 Unauthorized\n[GET] \"https://sspai.com/api/v1/community/page/get\": 401 Unauthorized\n",
+      "errorMessage": "Failed to fetch\n[GET] \"https://sspai.com/api/v1/community/page/get\": 401 Unauthorized\n",
       "id": "68530810459857920",
       "image": null,
       "ownerUserId": null,
