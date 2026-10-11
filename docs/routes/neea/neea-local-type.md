@@ -357,18 +357,6 @@
   },
   "topFeeds": [
     {
-      "description": "全国四六级考试（CET）动态 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "64540490348717056",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://cet.neea.edu.cn/html1/category/16093/1124-1.htm",
-      "title": "全国四六级考试（CET）动态",
-      "type": "feed",
-      "url": "rsshub://neea/local/cet"
-    },
-    {
       "description": "中小学教师资格考试动态 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -379,6 +367,18 @@
       "title": "中小学教师资格考试动态",
       "type": "feed",
       "url": "rsshub://neea/local/ntce"
+    },
+    {
+      "description": "全国四六级考试（CET）动态 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "64540490348717056",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://cet.neea.edu.cn/html1/category/16093/1124-1.htm",
+      "title": "全国四六级考试（CET）动态",
+      "type": "feed",
+      "url": "rsshub://neea/local/cet"
     }
   ],
   "url": "www.neea.edu.cn"

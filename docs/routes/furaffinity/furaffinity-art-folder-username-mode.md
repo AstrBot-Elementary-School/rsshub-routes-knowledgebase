@@ -64,7 +64,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 64,
+  "heat": 63,
   "location": "art.ts",
   "maintainers": [
     "TigerCubDen",
@@ -115,16 +115,16 @@ _None_
       "url": "rsshub://furaffinity/art/gallery/oddeyresproductions/nsfw"
     },
     {
-      "description": "Fur Affinity Gallery of davcr4zy - Powered by RSSHub",
-      "errorAt": "2026-05-25T13:07:16.524Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://faexport.spangle.org.uk/user/davcr4zy/gallery.json?full=1\": 500 Internal Server Error\n",
-      "id": "79207785434458112",
+      "description": "Fur Affinity Gallery of Smileeeeeee - Powered by RSSHub",
+      "errorAt": "2026-05-25T14:23:20.010Z",
+      "errorMessage": "[GET] \"https://faexport.spangle.org.uk/user/Smileeeeeee/gallery.json?full=1\": 500 Internal Server Error\n",
+      "id": "106706133600239616",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.furaffinity.net/gallery/davcr4zy",
-      "title": "Fur Affinity | Gallery of davcr4zy",
+      "siteUrl": "https://www.furaffinity.net/gallery/Smileeeeeee",
+      "title": "Fur Affinity | Gallery of Smileeeeeee",
       "type": "feed",
-      "url": "rsshub://furaffinity/art/gallery/davcr4zy/nsfw"
+      "url": "rsshub://furaffinity/art/gallery/Smileeeeeee/nsfw"
     }
   ],
   "url": "furaffinity.net"

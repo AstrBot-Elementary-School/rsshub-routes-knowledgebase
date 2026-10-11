@@ -51,28 +51,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "蚂蚁MADE 商铺上新 - Powered by RSSHub",
+      "description": "大反派（点首页链接新店） 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264527015382220800",
+      "id": "1264526499885481984",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=207814537",
-      "title": "蚂蚁MADE 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1845691520",
+      "title": "大反派（点首页链接新店） 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/207814537"
+      "url": "rsshub://weidian/goods/1845691520"
     },
     {
-      "description": "Joker世家2店 商铺上新 - Powered by RSSHub",
+      "description": "Ture 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264526741678718976",
+      "id": "1264524888048009216",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1858725248",
-      "title": "Joker世家2店 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1718752418",
+      "title": "Ture 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1858725248"
+      "url": "rsshub://weidian/goods/1718752418"
     }
   ]
 }

@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 0,
+  "heat": 23,
   "location": "page.ts",
   "maintainers": [
     "sxzz"
@@ -64,6 +64,31 @@ _None_
     "sort": "选集排序：desc（默认，降序）或 asc（升序）"
   },
   "path": "/video/page/:bvid/:embed?/:sort?",
-  "topFeeds": []
+  "topFeeds": [
+    {
+      "description": "视频 【国际象棋基础教程】【143集全】B站最牛国际象棋初级教程，最好的青少年启蒙教程 的视频选集列表 - Powered by RSSHub",
+      "errorAt": "2026-09-01T05:33:25.125Z",
+      "errorMessage": "[GET] \"https://api.bilibili.com/x/web-interface/view?bvid=BV1g14y1b7ME\": 412 Precondition Failed\n",
+      "id": "77620127529375744",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.bilibili.com/video/BV1g14y1b7ME",
+      "title": "视频 【国际象棋基础教程】【143集全】B站最牛国际象棋初级教程，最好的青少年启蒙教程 的选集列表",
+      "type": "feed",
+      "url": "rsshub://bilibili/video/page/BV1g14y1b7ME"
+    },
+    {
+      "description": "视频 美女热舞合集 的视频选集列表 - Powered by RSSHub",
+      "errorAt": "2025-05-30T12:00:46.109Z",
+      "errorMessage": "[GET] \"https://api.bilibili.com/x/web-interface/view?bvid=BV1nU1kYgEKE\": 412 Precondition Failed\n",
+      "id": "69945630785231872",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.bilibili.com/video/BV1nU1kYgEKE",
+      "title": "视频 美女热舞合集 的选集列表",
+      "type": "feed",
+      "url": "rsshub://bilibili/video/page/BV1nU1kYgEKE"
+    }
+  ]
 }
 ```

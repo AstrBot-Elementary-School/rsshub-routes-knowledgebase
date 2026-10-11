@@ -38,7 +38,7 @@ _None_
     "traditional-media"
   ],
   "example": "/wired/tag/facebook",
-  "heat": 197,
+  "heat": 198,
   "location": "tag.ts",
   "maintainers": [
     "Naiqus"

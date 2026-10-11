@@ -136,6 +136,18 @@ _None_
   },
   "topFeeds": [
     {
+      "description": "GitHub events received by vancaem (filtered: star) - includes private events - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "198776976440163328",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://github.com/vancaem",
+      "title": "vancaem's GitHub Private Feed - Events: star",
+      "type": "feed",
+      "url": "rsshub://github/feed/vancaem/star"
+    },
+    {
       "description": "GitHub events received by ardubev16 - includes private events - Powered by RSSHub",
       "errorAt": "2025-11-04T02:13:08.676Z",
       "errorMessage": "Failed to fetch\n",
@@ -146,18 +158,6 @@ _None_
       "title": "ardubev16's GitHub Private Feed - All Events",
       "type": "feed",
       "url": "rsshub://github/feed/ardubev16/all"
-    },
-    {
-      "description": "GitHub events received by DrZhang99 - includes private events - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "171031261327364096",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://github.com/DrZhang99",
-      "title": "DrZhang99's GitHub Private Feed - All Events",
-      "type": "feed",
-      "url": "rsshub://github/feed/DrZhang99/all"
     }
   ],
   "view": 5

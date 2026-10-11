@@ -64,8 +64,8 @@ _None_
   "topFeeds": [
     {
       "description": "V2EX-xna - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-10T11:01:48.169Z",
+      "errorMessage": "[GET] \"https://v2ex.com/xna\": 403 Forbidden\n",
       "id": "41726560948568064",
       "image": null,
       "ownerUserId": null,

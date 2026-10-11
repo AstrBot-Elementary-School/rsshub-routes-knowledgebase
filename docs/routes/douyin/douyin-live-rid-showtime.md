@@ -53,7 +53,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 7,
+  "heat": 16,
   "location": "live.ts",
   "maintainers": [
     "TonyRL"
@@ -73,28 +73,28 @@
   ],
   "topFeeds": [
     {
-      "description": "欢迎来到碳碳啊的抖音直播间，碳碳啊与大家一起记录美好生活 - 抖音直播 - Powered by RSSHub",
-      "errorAt": "2026-10-09T10:55:46.699Z",
-      "errorMessage": "Invalid room ID. Room ID should be a number.\n",
-      "id": "1244807888635822080",
-      "image": "https://p11.douyinpic.com/origin/aweme-avatar/tos-cn-avt-0015_7638c3c366c0dd37b02949cb6415915c.jpeg",
-      "ownerUserId": null,
-      "siteUrl": "https://live.douyin.com/mxw0617.",
-      "title": "碳碳啊的抖音直播间 - 抖音直播",
-      "type": "feed",
-      "url": "rsshub://douyin/live/mxw0617."
-    },
-    {
       "description": "欢迎来到五月儿的抖音直播间，五月儿与大家一起记录美好生活 - 抖音直播 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "130245278681074688",
-      "image": "https://p3.douyinpic.com/origin/aweme-avatar/tos-cn-avt-0015_e8d1c5dc1085920d4e0ef2f61c57a318.jpeg",
+      "image": "https://p11.douyinpic.com/origin/aweme-avatar/tos-cn-avt-0015_e8d1c5dc1085920d4e0ef2f61c57a318.jpeg",
       "ownerUserId": null,
       "siteUrl": "https://live.douyin.com/942387616310",
       "title": "五月儿的抖音直播间 - 抖音直播",
       "type": "feed",
       "url": "rsshub://douyin/live/942387616310"
+    },
+    {
+      "description": "欢迎来到小贱贱G.E.D的抖音直播间，小贱贱G.E.D与大家一起记录美好生活 - 抖音直播 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "77971920502319104",
+      "image": "https://p26.douyinpic.com/origin/aweme-avatar/tos-cn-avt-0015_f6355335c38db184c01043e66e7d6e3c.jpeg",
+      "ownerUserId": null,
+      "siteUrl": "https://live.douyin.com/672861437605",
+      "title": "小贱贱G.E.D的抖音直播间 - 抖音直播",
+      "type": "feed",
+      "url": "rsshub://douyin/live/672861437605"
     }
   ]
 }

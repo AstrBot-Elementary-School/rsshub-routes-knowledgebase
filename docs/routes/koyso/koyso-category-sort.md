@@ -394,14 +394,14 @@
       "url": "rsshub://koyso/7/latest"
     },
     {
-      "description": "403 Forbidden - - - Powered by RSSHub",
+      "description": "Free pre-installed PC games download. No speed limits, no installation required. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "186257019396793344",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://koyso.to/?sort=latest",
-      "title": "403 Forbidden - -",
+      "title": "PlayZip - PC Games Free Download - All - Latest",
       "type": "feed",
       "url": "rsshub://koyso"
     }

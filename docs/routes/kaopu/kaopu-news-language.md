@@ -66,7 +66,7 @@ _None_
     {
       "description": "靠谱新闻 - Powered by RSSHub",
       "errorAt": "2026-06-23T19:21:40.808Z",
-      "errorMessage": "[GET] \"https://kaopustorage.blob.core.windows.net/jsondata/news_list_beta_hans_0.json\": <no response> fetch failed (getaddrinfo ENOTFOUND kaopustorage.blob.core.windows.net)\n",
+      "errorMessage": "[GET] \"https://kaopustorage.blob.core.windows.net/jsondata/news_list_beta_hans_0.json\": 530 \n",
       "id": "60732733478199296",
       "image": null,
       "ownerUserId": null,

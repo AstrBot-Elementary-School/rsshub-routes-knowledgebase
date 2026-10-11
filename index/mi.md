@@ -10,7 +10,7 @@
 
 ## Routes
 
-### 小米众筹
+### 众筹
 - Route ID: `mi:/mi/crowdfunding`
 - Route Path: `/mi/crowdfunding`
 - File: `docs/routes/mi/mi-crowdfunding.md`
@@ -26,7 +26,7 @@
 - Categories: `program-update`
 - Maintainers: `nczitzk`
 
-### 小米上新
+### 上新
 - Route ID: `mi:/mi/newproducts`
 - Route Path: `/mi/newproducts`
 - File: `docs/routes/mi/mi-newproducts.md`

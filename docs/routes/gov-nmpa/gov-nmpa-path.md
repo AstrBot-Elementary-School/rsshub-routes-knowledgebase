@@ -71,14 +71,14 @@ _None_
   },
   "topFeeds": [
     {
-      "description": null,
-      "errorAt": "2025-09-12T15:31:54.965Z",
+      "description": "国家药品监督管理局公告通告相关信息 - Powered by RSSHub",
+      "errorAt": "2026-10-10T12:52:18.391Z",
       "errorMessage": "[GET] \"https://www.nmpa.gov.cn/xxgk/ggtg/index.html\": 412 Precondition Failed\n",
       "id": "189349754051776515",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": null,
-      "title": "Importing",
+      "siteUrl": "https://www.nmpa.gov.cn/xxgk/ggtg/index.html",
+      "title": "公告通告",
       "type": "feed",
       "url": "rsshub://gov/nmpa/xxgk/ggtg"
     }

@@ -1,4 +1,4 @@
-# 小米 - 小米众筹
+# 小米 - 众筹
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `mi`
 - Namespace Name: `小米`
 - Route Path: `/mi/crowdfunding`
-- Route Name: `小米众筹`
+- Route Name: `众筹`
 - Example: `/mi/crowdfunding`
 - URL: `mi.com`
 - Language: `_None_`
@@ -60,7 +60,7 @@ _None_
     "DIYgod",
     "nuomi1"
   ],
-  "name": "小米众筹",
+  "name": "众筹",
   "path": "/crowdfunding",
   "radar": [
     {

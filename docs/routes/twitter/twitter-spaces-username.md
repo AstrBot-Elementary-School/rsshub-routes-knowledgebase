@@ -17,7 +17,7 @@
 - Source Module: `_None_`
 
 ## Description
-Reports a user speaking in a live Space, including Spaces hosted by other users. Hosts and co-hosts are also included; listeners are excluded. Each user/Space pair has a stable entry ID and uses the actual Space start time. When the user is not speaking in a live Space, a status entry has a fixed ID and no publication date. This does not join or listen to a Space. Requires your own authorized TWITTER\_AUTH\_TOKEN on a self-hosted instance.
+Reports a user speaking in a live Space, including Spaces hosted by other users. Hosts and co-hosts are also included; listeners are excluded. Each user/Space pair has a stable entry ID and uses the actual Space start time. When the user is not in a live Space, or is in one without speaking, a status entry says so with a fixed ID and no publication date. This does not join or listen to a Space.
 
 ## Parameters
 - `username`: The X username, without @.
@@ -66,7 +66,7 @@ Currently supported authentication methods:
 
 
 ## Features
-- `requireConfig`: [{"description": "An authorized login session for the X web API. Developer API keys and third-party timeline providers are not used by this route.", "name": "TWITTER_AUTH_TOKEN"}]
+- `requireConfig`: [{"description": "Please see above for details.", "name": "TWITTER_AUTH_TOKEN"}]
 
 ## Radar
 ### Rule 1
@@ -80,12 +80,12 @@ Currently supported authentication methods:
   "categories": [
     "social-media"
   ],
-  "description": "Reports a user speaking in a live Space, including Spaces hosted by other users. Hosts and co-hosts are also included; listeners are excluded. Each user/Space pair has a stable entry ID and uses the actual Space start time. When the user is not speaking in a live Space, a status entry has a fixed ID and no publication date. This does not join or listen to a Space. Requires your own authorized TWITTER\\_AUTH\\_TOKEN on a self-hosted instance.",
+  "description": "Reports a user speaking in a live Space, including Spaces hosted by other users. Hosts and co-hosts are also included; listeners are excluded. Each user/Space pair has a stable entry ID and uses the actual Space start time. When the user is not in a live Space, or is in one without speaking, a status entry says so with a fixed ID and no publication date. This does not join or listen to a Space.",
   "example": "/twitter/spaces/_RSSHub",
   "features": {
     "requireConfig": [
       {
-        "description": "An authorized login session for the X web API. Developer API keys and third-party timeline providers are not used by this route.",
+        "description": "Please see above for details.",
         "name": "TWITTER_AUTH_TOKEN"
       }
     ]

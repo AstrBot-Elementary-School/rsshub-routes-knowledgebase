@@ -1024,8 +1024,8 @@
   "topFeeds": [
     {
       "description": "搬书匠 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-09T20:46:25.915Z",
+      "errorMessage": "[GET] \"http://banshujiang.cn/e_books/page/1\": 520 <none>\n",
       "id": "190045554505808896",
       "image": "http://banshujiang.cn/logo.png?imageView2/2/w/128/h/128/q/100",
       "ownerUserId": null,

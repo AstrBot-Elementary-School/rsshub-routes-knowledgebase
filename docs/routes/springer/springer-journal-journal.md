@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 164,
+  "heat": 165,
   "location": "journal.tsx",
   "maintainers": [
     "Derekmini",
@@ -76,18 +76,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Journal of Happiness Studies - Powered by RSSHub",
-      "errorAt": "2026-02-03T16:31:01.622Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'replace')\n",
-      "id": "42411432461774848",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://link.springer.com/journal/10902/volumes-and-issues",
-      "title": "Journal of Happiness Studies",
-      "type": "feed",
-      "url": "rsshub://springer/journal/10902"
-    },
-    {
       "description": "Virtual Reality - Powered by RSSHub",
       "errorAt": "2026-02-03T17:46:17.963Z",
       "errorMessage": "[GET] \"https://link.springer.comundefined\": <no response> fetch failed\nCannot read properties of undefined (reading 'replace')\n",
@@ -98,6 +86,18 @@ _None_
       "title": "Virtual Reality",
       "type": "feed",
       "url": "rsshub://springer/journal/10055"
+    },
+    {
+      "description": "Journal of Happiness Studies - Powered by RSSHub",
+      "errorAt": "2026-02-03T16:31:01.622Z",
+      "errorMessage": "Cannot read properties of undefined (reading 'replace')\n",
+      "id": "42411432461774848",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://link.springer.com/journal/10902/volumes-and-issues",
+      "title": "Journal of Happiness Studies",
+      "type": "feed",
+      "url": "rsshub://springer/journal/10902"
     }
   ]
 }

@@ -84,18 +84,6 @@ For example:
   },
   "topFeeds": [
     {
-      "description": " - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "63500086553914368",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://mmda.booru.org/index.php?page=post&s=list",
-      "title": "RSSHub",
-      "type": "feed",
-      "url": "rsshub://booru/mmda/tags"
-    },
-    {
       "description": "blue_archive - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -106,6 +94,18 @@ For example:
       "title": "blue_archive",
       "type": "feed",
       "url": "rsshub://booru/mmda/tags/blue_archive"
+    },
+    {
+      "description": " - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "63500086553914368",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://mmda.booru.org/index.php?page=post&s=list",
+      "title": "RSSHub",
+      "type": "feed",
+      "url": "rsshub://booru/mmda/tags"
     }
   ]
 }

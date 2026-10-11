@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 3795,
+  "heat": 3797,
   "location": "featured.ts",
   "maintainers": [
     "HenryQW",
@@ -76,7 +76,7 @@ _None_
     {
       "description": "澎湃新闻 - 首页头条 - Powered by RSSHub",
       "errorAt": "2026-10-09T11:22:09.919Z",
-      "errorMessage": "[GET] \"https://m.thepaper.cn/detail/34219670\": 403 Forbidden\n[GET] \"https://m.thepaper.cn/detail/34219833\": 403 \n[GET] \"https://m.thepaper.cn/detail/34220797\": 403 \nAuthentication failed. Access denied.\n/thepaper/featured\n[GET] \"https://m.thepaper.cn\": 403 Forbidden\n[GET] \"https://m.thepaper.cn/detail/34219835\": 403 \n[GET] \"https://m.thepaper.cn/detail/34219833\": 403 Forbidden\n[GET] \"https://m.thepaper.cn/detail/34219670\": 403 Forbidden\n[GET] \"https://m.thepaper.cn/detail/34219833\": 403 \n[GET] \"https://m.thepaper.cn/detail/34219833\": 403 Forbidden\n[GET] \"https://m.thepaper.cn/detail/34220424\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://m.thepaper.cn/detail/34226698\": 403 Forbidden\n[GET] \"https://m.thepaper.cn/detail/34227666\": 403 \nAuthentication failed. Access denied.\n/thepaper/featured\n[GET] \"https://m.thepaper.cn\": 403 Forbidden\n[GET] \"https://m.thepaper.cn/detail/34227666\": 403 \n[GET] \"https://m.thepaper.cn/detail/34226698\": 403 Forbidden\n[GET] \"https://m.thepaper.cn/detail/34226704\": 403 Forbidden\n[GET] \"https://m.thepaper.cn/detail/34226704\": 403 \n[GET] \"https://m.thepaper.cn/detail/34227666\": 403 Forbidden\n[GET] \"https://m.thepaper.cn/detail/34225748\": 403 Forbidden\n",
       "id": "41572238273905689",
       "image": "https://m.thepaper.cn/_next/static/media/logo.8d76cf45.png",
       "ownerUserId": null,

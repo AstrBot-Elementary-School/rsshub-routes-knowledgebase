@@ -9314,6 +9314,12 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `1`
 - Index File: `index/rss3.md`
 
+## RssEverything
+- Namespace: `rsseverything`
+- Aliases: `rsseverything, rsseverything.com`
+- Route Count: `1`
+- Index File: `index/rsseverything.md`
+
 ## RSSHub
 - Namespace: `rsshub`
 - Aliases: `docs, docs.rsshub.app, rsshub`
@@ -11749,6 +11755,12 @@ Use this file to select the target namespace before opening route documents.
 - Aliases: `xiaomi, xiaomi.eu`
 - Route Count: `1`
 - Index File: `index/xiaomi-eu.md`
+
+## 小米汽车
+- Namespace: `xiaomiev`
+- Aliases: `xiaomiev, xiaomiev.com, 小米汽车`
+- Route Count: `1`
+- Index File: `index/xiaomiev.md`
 
 ## 小米有品
 - Namespace: `xiaomiyoupin`

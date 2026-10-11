@@ -75,7 +75,7 @@ _None_
     {
       "description": "China - Powered by RSSHub",
       "errorAt": "2025-09-05T17:22:28.529Z",
-      "errorMessage": "[GET] \"https://www.economist.com/china/2026/08/17/a-glum-china-pines-for-the-1990s\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.economist.com/china/2026/09/09/only-children-in-china-prefer-to-marry-other-only-children\": 403 Forbidden\n",
       "id": "41461870197170199",
       "image": null,
       "ownerUserId": null,
@@ -87,7 +87,7 @@ _None_
     {
       "description": "The most recent blogs and online articles from The Economist - Powered by RSSHub",
       "errorAt": "2025-09-05T18:15:19.885Z",
-      "errorMessage": "[GET] \"https://www.economist.com/podcasts/2026/10/06/chinas-obsession-with-safety\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.economist.com/the-americas/2026/10/08/brazil-falls-into-magas-orbit\": 403 Forbidden\n",
       "id": "54859243036899328",
       "image": null,
       "ownerUserId": null,

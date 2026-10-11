@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 769,
+  "heat": 770,
   "location": "blog.ts",
   "maintainers": [
     "fengkx"

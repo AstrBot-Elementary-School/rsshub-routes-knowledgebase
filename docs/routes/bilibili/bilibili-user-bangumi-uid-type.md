@@ -91,7 +91,7 @@ _None_
     {
       "description": "咯弗弗 的追番列表 - Powered by RSSHub",
       "errorAt": "2026-09-14T15:41:49.425Z",
-      "errorMessage": "[GET] \"https://api.bilibili.com/x/space/wbi/acc/info?mid=24656192&token=&platform=web&web_location=1550101&w_rid=6ca931c9f8320b10a0e3cb3529f08297&wts=1791441956\": 412 Precondition Failed\n",
+      "errorMessage": "[GET] \"https://api.bilibili.com/x/space/wbi/acc/info?mid=24656192&token=&platform=web&web_location=1550101&w_rid=ce477c906aa0b5ca8539b1cc94f09a41&wts=1791590842\": 412 Precondition Failed\n",
       "id": "87692193894050817",
       "image": null,
       "ownerUserId": null,

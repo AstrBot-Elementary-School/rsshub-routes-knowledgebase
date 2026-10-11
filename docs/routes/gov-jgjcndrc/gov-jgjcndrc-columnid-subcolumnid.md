@@ -82,18 +82,6 @@
   },
   "topFeeds": [
     {
-      "description": "中华人民共和国国家发展和改革委员会 价格监测中心 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "72251568820057088",
-      "image": "https://www.jgjcndrc.org.cn/_nuxt/logo.nPIpRnSK.svg",
-      "ownerUserId": null,
-      "siteUrl": "https://www.jgjcndrc.org.cn/list?clmId=1832739866673426433",
-      "title": "中华人民共和国国家发展和改革委员会 - 通知公告",
-      "type": "feed",
-      "url": "rsshub://gov/jgjcndrc/1832739866673426433"
-    },
-    {
       "description": "监测信息 - 猪料、鸡料、蛋料比价信息 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -104,6 +92,18 @@
       "title": "中华人民共和国国家发展和改革委员会 - 监测信息-猪料、鸡料、蛋料比价信息",
       "type": "feed",
       "url": "rsshub://gov/jgjcndrc/1832298113994649601/1840280592963387394"
+    },
+    {
+      "description": "中华人民共和国国家发展和改革委员会 价格监测中心 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "72251568820057088",
+      "image": "https://www.jgjcndrc.org.cn/_nuxt/logo.nPIpRnSK.svg",
+      "ownerUserId": null,
+      "siteUrl": "https://www.jgjcndrc.org.cn/list?clmId=1832739866673426433",
+      "title": "中华人民共和国国家发展和改革委员会 - 通知公告",
+      "type": "feed",
+      "url": "rsshub://gov/jgjcndrc/1832739866673426433"
     }
   ],
   "url": "www.jgjcndrc.org.cn"

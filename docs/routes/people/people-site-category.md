@@ -36,7 +36,7 @@ _None_
     "traditional-media"
   ],
   "example": "/people",
-  "heat": 350,
+  "heat": 349,
   "location": "index.ts",
   "maintainers": [
     "nczitzk",

@@ -80,18 +80,6 @@
   },
   "topFeeds": [
     {
-      "description": "ACM信息 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "184150422654729217",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.ccf.org.cn/ACM_News/",
-      "title": "ACM信息",
-      "type": "feed",
-      "url": "rsshub://ccf/news/ACM_News"
-    },
-    {
       "description": "CCF新闻 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -102,6 +90,18 @@
       "title": "CCF新闻",
       "type": "feed",
       "url": "rsshub://ccf/news"
+    },
+    {
+      "description": "ACM信息 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "184150422654729217",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.ccf.org.cn/ACM_News/",
+      "title": "ACM信息",
+      "type": "feed",
+      "url": "rsshub://ccf/news/ACM_News"
     }
   ]
 }

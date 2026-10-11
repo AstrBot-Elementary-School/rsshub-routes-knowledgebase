@@ -58,7 +58,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1096,
+  "heat": 1095,
   "location": "tuwen.ts",
   "maintainers": [
     "xizeyoupan"

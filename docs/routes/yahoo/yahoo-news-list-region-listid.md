@@ -110,7 +110,7 @@
     {
       "description": "Yahoo 新聞 - 法新社 - Powered by RSSHub",
       "errorAt": "2026-09-05T16:25:49.296Z",
-      "errorMessage": "[GET] \"https://hk.news.yahoo.com/_td-news/api/resource/StreamService;category=LISTID%3A1cc44280-facb-11e9-ad7c-f3ba971275c8;useNCP=true\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://hk.news.yahoo.com/_td-news/api/resource/StreamService;category=LISTID%3A1cc44280-facb-11e9-ad7c-f3ba971275c8;useNCP=true\": 500 Internal Server Error\n",
       "id": "78795698559475712",
       "image": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
       "ownerUserId": null,

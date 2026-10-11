@@ -64,28 +64,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "米游社 - 雷肾老司机 的发帖 - Powered by RSSHub",
+      "description": "米游社 - 崩坏星穹铁道 的发帖 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "198686660668527616",
+      "id": "144943828575256576",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=81879993",
-      "title": "米游社 - 雷肾老司机 的发帖",
+      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=288909600",
+      "title": "米游社 - 崩坏星穹铁道 的发帖",
       "type": "feed",
-      "url": "rsshub://mihoyo/bbs/user-post/81879993"
+      "url": "rsshub://mihoyo/bbs/user-post/288909600"
     },
     {
-      "description": "米游社 - 小新sama 的发帖 - Powered by RSSHub",
+      "description": "米游社 - MRYU 的发帖 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "198688595211734016",
+      "id": "164612226252672000",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=76062032",
-      "title": "米游社 - 小新sama 的发帖",
+      "siteUrl": "https://www.miyoushe.com/ys/accountCenter/postList?id=82959572",
+      "title": "米游社 - MRYU 的发帖",
       "type": "feed",
-      "url": "rsshub://mihoyo/bbs/user-post/76062032"
+      "url": "rsshub://mihoyo/bbs/user-post/82959572"
     }
   ]
 }

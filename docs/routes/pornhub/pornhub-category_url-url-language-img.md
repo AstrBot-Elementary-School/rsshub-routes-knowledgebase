@@ -60,7 +60,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 255,
+  "heat": 256,
   "location": "category-url.ts",
   "maintainers": [
     "I2IMk",
@@ -92,8 +92,8 @@ _None_
     },
     {
       "description": "Free XXX Porn Videos: Hardcore Adult Sex Movies, Porno Hub Tube - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-10T13:45:53.156Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "149468002441700352",
       "image": null,
       "ownerUserId": null,

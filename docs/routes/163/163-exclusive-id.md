@@ -91,18 +91,6 @@
   },
   "topFeeds": [
     {
-      "description": "网易独家 - 数读 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "63141095180029955",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://3g.163.com/touch/exclusive/sub/sd",
-      "title": "网易独家 - 数读",
-      "type": "feed",
-      "url": "rsshub://163/exclusive/sd"
-    },
-    {
       "description": "网易独家 - 轻松一刻 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -113,6 +101,18 @@
       "title": "网易独家 - 轻松一刻",
       "type": "feed",
       "url": "rsshub://163/exclusive/qsyk"
+    },
+    {
+      "description": "网易独家 - 数读 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "63141095180029955",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://3g.163.com/touch/exclusive/sub/sd",
+      "title": "网易独家 - 数读",
+      "type": "feed",
+      "url": "rsshub://163/exclusive/sd"
     }
   ]
 }

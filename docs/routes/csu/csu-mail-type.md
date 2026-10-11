@@ -68,8 +68,8 @@ _None_
   "topFeeds": [
     {
       "description": "中南大学学校信箱 - 校长信箱 - Powered by RSSHub",
-      "errorAt": "2026-09-03T05:16:11.642Z",
-      "errorMessage": "[POST] \"https://oa.csu.edu.cn/mailbox/NoAuth/Get_MailList_Pub\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "81350858120764416",
       "image": null,
       "ownerUserId": null,

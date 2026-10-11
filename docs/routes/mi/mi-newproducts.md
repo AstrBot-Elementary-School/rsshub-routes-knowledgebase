@@ -1,4 +1,4 @@
-# 小米 - 小米上新
+# 小米 - 上新
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `mi`
 - Namespace Name: `小米`
 - Route Path: `/mi/newproducts`
-- Route Name: `小米上新`
+- Route Name: `上新`
 - Example: `/mi/newproducts`
 - URL: `mi.com`
 - Language: `_None_`
@@ -56,7 +56,7 @@ _None_
   "maintainers": [
     "nuomi1"
   ],
-  "name": "小米上新",
+  "name": "上新",
   "path": "/newproducts",
   "test": {
     "code": 1,

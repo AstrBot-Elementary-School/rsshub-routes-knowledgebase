@@ -199,16 +199,16 @@ _None_
       "url": "rsshub://carousell/sg/GPU"
     },
     {
-      "description": "Carousell SG Search - FX2 sony - Powered by RSSHub",
-      "errorAt": "2026-09-06T09:31:24.021Z",
+      "description": "Carousell SG Search - RAM - Powered by RSSHub",
+      "errorAt": "2026-09-07T11:21:10.034Z",
       "errorMessage": "[GET] \"https://www.carousell.sg\": 403 Forbidden\n",
-      "id": "1206833631872286720",
+      "id": "1182663805922836480",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://docs.rsshub.app/",
-      "title": "Carousell SG Search - FX2 sony",
+      "title": "Carousell SG Search - RAM",
       "type": "feed",
-      "url": "rsshub://carousell/sg/FX2%20sony"
+      "url": "rsshub://carousell/sg/RAM"
     }
   ]
 }

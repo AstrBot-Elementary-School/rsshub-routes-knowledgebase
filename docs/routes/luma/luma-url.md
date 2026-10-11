@@ -76,18 +76,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "The AI Collective - Powered by RSSHub",
-      "errorAt": "2026-10-08T02:31:21.638Z",
-      "errorMessage": "[GET] \"https://api.lu.ma/url?url=genai-collective\": 429 Too Many Requests\n",
-      "id": "265935647087177728",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://lu.ma/genai-collective",
-      "title": "The AI Collective",
-      "type": "feed",
-      "url": "rsshub://luma/genai-collective"
-    },
-    {
       "description": "LangChain Events - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -98,6 +86,18 @@ _None_
       "title": "LangChain Events",
       "type": "feed",
       "url": "rsshub://luma/langchain"
+    },
+    {
+      "description": "Google Gemma - Powered by RSSHub",
+      "errorAt": "2026-08-25T00:07:39.694Z",
+      "errorMessage": "[GET] \"https://api.lu.ma/url?url=gemma-events\": 429 Too Many Requests\n",
+      "id": "265966966744675328",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://lu.ma/gemma-events",
+      "title": "Google Gemma",
+      "type": "feed",
+      "url": "rsshub://luma/gemma-events"
     }
   ],
   "url": "lu.ma"

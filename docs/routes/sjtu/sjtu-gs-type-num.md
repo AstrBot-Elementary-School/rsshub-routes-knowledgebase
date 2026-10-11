@@ -92,18 +92,6 @@
   },
   "topFeeds": [
     {
-      "description": "硕士招生 - 招生信息 - 资讯公告 - 上海交通大学研究生院 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "66124550888512512",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.gs.sjtu.edu.cn/announcement/enroll/59",
-      "title": "硕士招生 - 招生信息 - 资讯公告 - 上海交通大学研究生院",
-      "type": "feed",
-      "url": "rsshub://sjtu/gs/enroll/59"
-    },
-    {
       "description": "培养信息 - 资讯公告 - 上海交通大学研究生院 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -114,6 +102,18 @@
       "title": "培养信息 - 资讯公告 - 上海交通大学研究生院",
       "type": "feed",
       "url": "rsshub://sjtu/gs/train"
+    },
+    {
+      "description": "硕士招生 - 招生信息 - 资讯公告 - 上海交通大学研究生院 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "66124550888512512",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.gs.sjtu.edu.cn/announcement/enroll/59",
+      "title": "硕士招生 - 招生信息 - 资讯公告 - 上海交通大学研究生院",
+      "type": "feed",
+      "url": "rsshub://sjtu/gs/enroll/59"
     }
   ]
 }

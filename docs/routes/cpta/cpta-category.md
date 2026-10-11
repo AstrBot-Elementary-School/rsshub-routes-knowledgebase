@@ -100,18 +100,6 @@
   },
   "topFeeds": [
     {
-      "description": "中国人事考试网 考试通知公告汇总 - Powered by RSSHub",
-      "errorAt": "2025-11-06T18:02:50.011Z",
-      "errorMessage": "[GET] \"http://www.cpta.com.cn/notice.html\": 405 Method Not Allowed\n",
-      "id": "101869703891043328",
-      "image": "https://www.gov.cn/images/gtrs_logo_lt.png",
-      "ownerUserId": null,
-      "siteUrl": "http://www.cpta.com.cn/notice.html",
-      "title": "中国人事考试网-通知公告",
-      "type": "feed",
-      "url": "rsshub://cpta/notice"
-    },
-    {
       "description": "中国人事考试网 考试成绩公布汇总 - Powered by RSSHub",
       "errorAt": "2025-05-30T12:00:11.935Z",
       "errorMessage": "[GET] \"http://www.cpta.com.cn/performance.html\": 522 <none>\n",
@@ -122,6 +110,18 @@
       "title": "中国人事考试网-成绩公布",
       "type": "feed",
       "url": "rsshub://cpta/performance"
+    },
+    {
+      "description": "中国人事考试网 考试通知公告汇总 - Powered by RSSHub",
+      "errorAt": "2025-11-06T18:02:50.011Z",
+      "errorMessage": "[GET] \"http://www.cpta.com.cn/notice.html\": 405 Method Not Allowed\n",
+      "id": "101869703891043328",
+      "image": "https://www.gov.cn/images/gtrs_logo_lt.png",
+      "ownerUserId": null,
+      "siteUrl": "http://www.cpta.com.cn/notice.html",
+      "title": "中国人事考试网-通知公告",
+      "type": "feed",
+      "url": "rsshub://cpta/notice"
     }
   ]
 }

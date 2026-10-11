@@ -143,7 +143,20 @@ Eurogamer's official RSS feeds only include excerpts. This route fetches the ful
   "test": {
     "code": 0
   },
-  "topFeeds": [],
+  "topFeeds": [
+    {
+      "description": "Latest Articles | Eurogamer.net - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "1325024367452487680",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.eurogamer.net/latest",
+      "title": "Latest Articles | Eurogamer.net",
+      "type": "feed",
+      "url": "rsshub://eurogamer"
+    }
+  ],
   "url": "www.eurogamer.net/latest",
   "view": 0
 }
