@@ -89,16 +89,16 @@ _None_
       "url": "rsshub://bilibili/user/bangumi/208259"
     },
     {
-      "description": "咯弗弗 的追番列表 - Powered by RSSHub",
-      "errorAt": "2026-09-14T15:41:49.425Z",
-      "errorMessage": "[GET] \"https://api.bilibili.com/x/space/wbi/acc/info?mid=24656192&token=&platform=web&web_location=1550101&w_rid=ce477c906aa0b5ca8539b1cc94f09a41&wts=1791590842\": 412 Precondition Failed\n",
-      "id": "87692193894050817",
+      "description": "undefined 的追番列表 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "147826498734491650",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://space.bilibili.com/24656192/bangumi",
-      "title": "咯弗弗 的追番列表",
+      "siteUrl": "https://space.bilibili.com/11675531/bangumi",
+      "title": "undefined 的追番列表",
       "type": "feed",
-      "url": "rsshub://bilibili/user/bangumi/24656192"
+      "url": "rsshub://bilibili/user/bangumi/11675531/1"
     }
   ]
 }

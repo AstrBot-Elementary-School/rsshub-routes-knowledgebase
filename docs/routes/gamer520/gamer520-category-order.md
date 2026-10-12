@@ -62,8 +62,8 @@ _None_
   "topFeeds": [
     {
       "description": "全球游戏交流中心-所有 - Powered by RSSHub",
-      "errorAt": "2026-10-09T09:11:30.137Z",
-      "errorMessage": "[GET] \"https://www.gamer520.com/wp-json/wp/v2/categories\": 403 Forbidden\n[GET] \"https://www.gamer520.com/wp-json/wp/v2/posts?\": 520 <none>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "78689933854680064",
       "image": null,
       "ownerUserId": null,
@@ -74,8 +74,8 @@ _None_
     },
     {
       "description": "全球游戏交流中心-所有 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-11T12:16:01.835Z",
+      "errorMessage": "[GET] \"https://www.gamer520.com/wp-json/wp/v2/posts?\": 401 Unauthorized\n",
       "id": "153752488543499264",
       "image": null,
       "ownerUserId": null,

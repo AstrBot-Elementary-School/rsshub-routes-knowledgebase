@@ -194,8 +194,8 @@
   "topFeeds": [
     {
       "description": "4/pick/all/ search - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-11T13:31:01.125Z",
+      "errorMessage": "Authentication failed. Access denied.\n/notefolio/search/4/pick/all\n503 \n",
       "id": "80060928310239232",
       "image": null,
       "ownerUserId": null,

@@ -231,7 +231,7 @@
 - Route Path: `/bilibili/ranking/:rid?/:embed?/:redirect1?/:redirect2?`
 - File: `docs/routes/bilibili/bilibili-ranking-rid-embed-redirect1-redirect2.md`
 - File Name: `bilibili-ranking-rid-embed-redirect1-redirect2.md`
-- Categories: `social-media, popular`
+- Categories: `social-media`
 - Maintainers: `DIYgod, hyoban`
 
 ### 专栏文集

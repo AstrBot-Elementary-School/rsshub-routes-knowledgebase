@@ -126,18 +126,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "The New York Times Best Sellers - Combined Print & E-Book Nonfiction- August 16, 2026 - Powered by RSSHub",
-      "errorAt": "2026-08-10T07:17:05.822Z",
-      "errorMessage": "[GET] \"https://www.nytimes.com/books/best-sellers/combined-print-and-e-book-nonfiction\": 403 Forbidden\n",
-      "id": "56271356825466880",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.nytimes.com/books/best-sellers/combined-print-and-e-book-nonfiction",
-      "title": "The New York Times Best Sellers - Combined Print & E-Book Nonfiction- August 16, 2026",
-      "type": "feed",
-      "url": "rsshub://nytimes/book/combined-print-and-e-book-nonfiction"
-    },
-    {
       "description": "The New York Times Best Sellers - Combined Print & E-Book Fiction- August 16, 2026 - Powered by RSSHub",
       "errorAt": "2026-08-11T15:37:56.961Z",
       "errorMessage": "[GET] \"https://www.nytimes.com/books/best-sellers/combined-print-and-e-book-fiction\": 403 Forbidden\n",
@@ -148,6 +136,18 @@ _None_
       "title": "The New York Times Best Sellers - Combined Print & E-Book Fiction- August 16, 2026",
       "type": "feed",
       "url": "rsshub://nytimes/book/combined-print-and-e-book-fiction"
+    },
+    {
+      "description": "The New York Times Best Sellers - Combined Print & E-Book Nonfiction- August 16, 2026 - Powered by RSSHub",
+      "errorAt": "2026-08-10T07:17:05.822Z",
+      "errorMessage": "[GET] \"https://www.nytimes.com/books/best-sellers/combined-print-and-e-book-nonfiction\": 403 Forbidden\n",
+      "id": "56271356825466880",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.nytimes.com/books/best-sellers/combined-print-and-e-book-nonfiction",
+      "title": "The New York Times Best Sellers - Combined Print & E-Book Nonfiction- August 16, 2026",
+      "type": "feed",
+      "url": "rsshub://nytimes/book/combined-print-and-e-book-nonfiction"
     }
   ],
   "url": "nytimes.com/",

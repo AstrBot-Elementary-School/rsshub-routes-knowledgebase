@@ -81,7 +81,7 @@ _None_
     {
       "description": "FTChinese RSS - Hot Weekly - Powered by RSSHub",
       "errorAt": "2026-07-05T00:21:03.547Z",
-      "errorMessage": "[GET] \"https://www.ftchinese.com/interactive/296731?full=y&archive\": 403 Forbidden\nCannot read properties of undefined (reading 'title')\n",
+      "errorMessage": "[GET] \"https://www.ftchinese.com/interactive/297439?full=y&archive\": 403 Forbidden\n[GET] \"https://www.ftchinese.com/story/001111048?full=y&archive\": 429 Too Many Requests\n",
       "id": "41377818806739968",
       "image": null,
       "ownerUserId": null,
@@ -93,7 +93,7 @@ _None_
     {
       "description": "FTChinese RSS - All Feed - Powered by RSSHub",
       "errorAt": "2026-09-23T10:02:51.153Z",
-      "errorMessage": "[GET] \"https://www.ftchinese.com/story/001111062?full=y&archive\": 429 \n[GET] \"https://www.ftchinese.com/story/001111067?full=y&archive\": 429 Too Many Requests\n",
+      "errorMessage": "[GET] \"https://www.ftchinese.com/story/001111070?full=y&archive\": 429 Too Many Requests\n[GET] \"https://www.ftchinese.com/story/001111070?full=y&archive\": 429 \n[GET] \"https://www.ftchinese.com/story/001111065?full=y&archive\": 429 Too Many Requests\n",
       "id": "61693185811247104",
       "image": null,
       "ownerUserId": null,

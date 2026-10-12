@@ -77,8 +77,8 @@ _None_
     },
     {
       "description": "科技 - ZAKER新闻 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-11T03:56:22.399Z",
+      "errorMessage": "503 \n",
       "id": "56326657469609999",
       "image": null,
       "ownerUserId": null,

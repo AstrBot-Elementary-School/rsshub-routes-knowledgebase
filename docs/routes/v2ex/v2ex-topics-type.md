@@ -78,18 +78,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "V2EX-最新主题 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "41374278075966464",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.v2ex.com/",
-      "title": "V2EX-最新主题",
-      "type": "feed",
-      "url": "rsshub://v2ex/topics/latest"
-    },
-    {
       "description": "V2EX-最热主题 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -100,6 +88,18 @@ _None_
       "title": "V2EX-最热主题",
       "type": "feed",
       "url": "rsshub://v2ex/topics/hot"
+    },
+    {
+      "description": "V2EX-最新主题 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "41374278075966464",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.v2ex.com/",
+      "title": "V2EX-最新主题",
+      "type": "feed",
+      "url": "rsshub://v2ex/topics/latest"
     }
   ],
   "view": 0

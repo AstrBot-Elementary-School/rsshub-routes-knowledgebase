@@ -96,18 +96,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "快讯 - Followin - Powered by RSSHub",
-      "errorAt": "2026-08-19T09:54:04.768Z",
-      "errorMessage": "[GET] \"https://followin.io\": 429 Too Many Requests\n",
-      "id": "41419133062574080",
-      "image": "https://followin.io/favicon.ico",
-      "ownerUserId": null,
-      "siteUrl": "https://followin.io/zh-Hans/news",
-      "title": "快讯 - Followin",
-      "type": "feed",
-      "url": "rsshub://followin/news/zh-Hans"
-    },
-    {
       "description": "News - Followin - Powered by RSSHub",
       "errorAt": "2026-08-20T01:29:45.299Z",
       "errorMessage": "[GET] \"https://followin.io\": 429 Too Many Requests\n",
@@ -118,6 +106,18 @@ _None_
       "title": "News - Followin",
       "type": "feed",
       "url": "rsshub://followin/news"
+    },
+    {
+      "description": "快讯 - Followin - Powered by RSSHub",
+      "errorAt": "2026-08-19T09:54:04.768Z",
+      "errorMessage": "[GET] \"https://followin.io\": 429 Too Many Requests\n",
+      "id": "41419133062574080",
+      "image": "https://followin.io/favicon.ico",
+      "ownerUserId": null,
+      "siteUrl": "https://followin.io/zh-Hans/news",
+      "title": "快讯 - Followin",
+      "type": "feed",
+      "url": "rsshub://followin/news/zh-Hans"
     }
   ],
   "view": 0

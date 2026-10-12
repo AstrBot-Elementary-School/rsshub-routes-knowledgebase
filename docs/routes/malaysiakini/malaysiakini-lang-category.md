@@ -124,20 +124,8 @@
   "topFeeds": [
     {
       "description": "News & Views That Matter - Powered by RSSHub",
-      "errorAt": "2026-09-07T10:16:30.919Z",
-      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/886722-%E7%9B%B4%E5%8C%BA%E6%9C%AC%E5%9C%B0%E7%94%B5%E5%BD%B1%E5%89%A7%E5%9C%BA%E7%A5%A8%E5%88%B8%E5%85%8D%E5%A8%B1%E4%B9%90%E7%A8%8E%E6%97%85%E6%B8%B8%E5%B9%B4%E5%BB%B6%E8%87%B32027\": 404 Not Found\n",
-      "id": "69685104073634816",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.malaysiakini.com/",
-      "title": "Malaysiakini",
-      "type": "feed",
-      "url": "rsshub://malaysiakini/zh/news"
-    },
-    {
-      "description": "News & Views That Matter - Powered by RSSHub",
       "errorAt": "2026-09-07T09:32:19.566Z",
-      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/886714-health-groups-welcome-end-to-contract-doctor-system-but-warn-of-lingering-manpower-issues\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/886756-egyptian-president-accorded-state-welcoming-ceremony-at-istana-negara\": 404 Not Found\n",
       "id": "61840955600323584",
       "image": null,
       "ownerUserId": null,
@@ -145,6 +133,18 @@
       "title": "Malaysiakini",
       "type": "feed",
       "url": "rsshub://malaysiakini/en"
+    },
+    {
+      "description": "News & Views That Matter - Powered by RSSHub",
+      "errorAt": "2026-09-07T10:16:30.919Z",
+      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/886763-diwali%E9%9D%9E%E5%B1%A0%E5%A6%96%E8%8A%82%E5%AE%98%E7%A7%B0%E6%B2%99%E6%8B%89%E7%93%A6%E5%8D%97%E4%BF%83%E6%9D%A8%E5%B7%A7%E5%8F%8C%E7%BA%A0%E6%AD%A3%E6%A8%AA%E5%B9%85%E7%94%A8%E8%AF%8D\": 404 Not Found\n",
+      "id": "69685104073634816",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.malaysiakini.com/",
+      "title": "Malaysiakini",
+      "type": "feed",
+      "url": "rsshub://malaysiakini/zh/news"
     }
   ]
 }

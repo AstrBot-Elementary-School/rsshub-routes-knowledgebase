@@ -75,7 +75,7 @@ _None_
     {
       "description": "十年之约——专题展示 - Powered by RSSHub",
       "errorAt": "2026-10-03T14:18:47.464Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "Failed to fetch\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "53110725864198144",
       "image": null,
       "ownerUserId": null,

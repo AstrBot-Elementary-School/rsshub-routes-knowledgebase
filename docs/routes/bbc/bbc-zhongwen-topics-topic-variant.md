@@ -75,6 +75,18 @@ _None_
   },
   "topFeeds": [
     {
+      "description": "中國 - BBC News 中文 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "249427201828975616",
+      "image": "https://www.bbc.com/favicon.ico",
+      "ownerUserId": null,
+      "siteUrl": "https://www.bbc.com/zhongwen/topics/ckr7mn6r003t/trad",
+      "title": "中國 - BBC News 中文",
+      "type": "feed",
+      "url": "rsshub://bbc/zhongwen/topics/ckr7mn6r003t"
+    },
+    {
       "description": "中国 - BBC News 中文 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,

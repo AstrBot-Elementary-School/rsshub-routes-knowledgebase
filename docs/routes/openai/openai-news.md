@@ -65,7 +65,7 @@ _None_
     {
       "description": "OpenAI News - Powered by RSSHub",
       "errorAt": "2026-10-05T12:08:24.444Z",
-      "errorMessage": "[GET] \"https://openai.com/index/sophos\": 403 Forbidden\n[GET] \"https://openai.com/index/oracle/\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://openai.com/index/asana-browser-agent\": 403 Forbidden\n[GET] \"https://openai.com/index/disrupting-ai-enabled-false-front-operations/\": 403 Forbidden\n",
       "id": "139523607422199808",
       "image": null,
       "ownerUserId": null,

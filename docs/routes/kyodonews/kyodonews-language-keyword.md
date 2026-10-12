@@ -96,9 +96,9 @@
       "errorAt": null,
       "errorMessage": null,
       "id": "66155011953127424",
-      "image": "https://china-kyodo.ismcdn.jp/common/images/apple-touch-icon-180x180.png",
+      "image": "https://china.kyodonews.net/apple-touch-icon-180x180.png",
       "ownerUserId": null,
-      "siteUrl": "https://china.kyodonews.net/list/feed/rss4news",
+      "siteUrl": "https://china.kyodonews.net/rss/news.xml",
       "title": "新闻 - 共同网",
       "type": "feed",
       "url": "rsshub://kyodonews/china/rss"

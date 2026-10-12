@@ -166,7 +166,7 @@ _None_
     {
       "description": "澎湃新闻栏目 - 思想市场 - Powered by RSSHub",
       "errorAt": "2026-10-09T12:02:48.207Z",
-      "errorMessage": "[GET] \"https://m.thepaper.cn/detail/34140522\": 403 Forbidden\n[GET] \"https://m.thepaper.cn/detail/33978019\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://m.thepaper.cn/detail/34132865\": 403 Forbidden\n[GET] \"https://m.thepaper.cn/detail/34132865\": 403 Forbidden\n",
       "id": "57799650925552640",
       "image": "https://image.thepaper.cn/depository/image/4/158/104.png",
       "ownerUserId": null,
@@ -178,7 +178,7 @@ _None_
     {
       "description": "澎湃新闻栏目 - 上海书评 - Powered by RSSHub",
       "errorAt": "2026-10-10T03:50:49.570Z",
-      "errorMessage": "[GET] \"https://m.thepaper.cn/detail/34216939\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://m.thepaper.cn/detail/34204978\": 403 Forbidden\n",
       "id": "65685705337799701",
       "image": "https://image.thepaper.cn/depository/image/5/352/565.jpg",
       "ownerUserId": null,

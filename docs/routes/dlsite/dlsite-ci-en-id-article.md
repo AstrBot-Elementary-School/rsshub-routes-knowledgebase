@@ -61,7 +61,7 @@ Set `CI_EN_COOKIE` on a self-hosted instance to retrieve articles available to y
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 30,
+  "heat": 35,
   "location": "ci-en/article.ts",
   "maintainers": [
     "nczitzk"
@@ -97,8 +97,8 @@ Set `CI_EN_COOKIE` on a self-hosted instance to retrieve articles available to y
     },
     {
       "description": "しもばしら工房の記事一覧 - Ci-en（シエン） - Powered by RSSHub",
-      "errorAt": "2025-11-06T04:28:44.197Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "71888583981323264",
       "image": null,
       "ownerUserId": null,

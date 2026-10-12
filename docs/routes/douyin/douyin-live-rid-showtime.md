@@ -53,7 +53,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 16,
+  "heat": 47,
   "location": "live.ts",
   "maintainers": [
     "TonyRL"
@@ -77,7 +77,7 @@
       "errorAt": null,
       "errorMessage": null,
       "id": "130245278681074688",
-      "image": "https://p11.douyinpic.com/origin/aweme-avatar/tos-cn-avt-0015_e8d1c5dc1085920d4e0ef2f61c57a318.jpeg",
+      "image": "https://p26.douyinpic.com/origin/aweme-avatar/tos-cn-avt-0015_e8d1c5dc1085920d4e0ef2f61c57a318.jpeg",
       "ownerUserId": null,
       "siteUrl": "https://live.douyin.com/942387616310",
       "title": "五月儿的抖音直播间 - 抖音直播",
@@ -85,16 +85,16 @@
       "url": "rsshub://douyin/live/942387616310"
     },
     {
-      "description": "欢迎来到小贱贱G.E.D的抖音直播间，小贱贱G.E.D与大家一起记录美好生活 - 抖音直播 - Powered by RSSHub",
+      "description": "欢迎来到陈伯(全能王)的抖音直播间，陈伯(全能王)与大家一起记录美好生活 - 抖音直播 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "77971920502319104",
-      "image": "https://p26.douyinpic.com/origin/aweme-avatar/tos-cn-avt-0015_f6355335c38db184c01043e66e7d6e3c.jpeg",
+      "id": "72456550295913472",
+      "image": "https://p3.douyinpic.com/origin/aweme-avatar/tos-cn-avt-0015_bed947cccd9ad785a0a96dbec1fb2fe3.jpeg",
       "ownerUserId": null,
-      "siteUrl": "https://live.douyin.com/672861437605",
-      "title": "小贱贱G.E.D的抖音直播间 - 抖音直播",
+      "siteUrl": "https://live.douyin.com/921169302662",
+      "title": "陈伯(全能王)的抖音直播间 - 抖音直播",
       "type": "feed",
-      "url": "rsshub://douyin/live/672861437605"
+      "url": "rsshub://douyin/live/921169302662"
     }
   ]
 }

@@ -78,7 +78,7 @@ _None_
       "errorAt": null,
       "errorMessage": null,
       "id": "159056464110272512",
-      "image": "https://cognitionai.mintlify.app/_mintlify/api/og/v2?division=Releases&title=Devin+Desktop+changelog&description=Release+notes+for+every+Devin+Desktop+%28Windsurf%29+stable+release%3A+new+features%2C+improvements%2C+and+fixes+in+each+version+of+the+agent-native+editor.&theme=0713c6ac62f0fe20fbbf80d4&signature=0899460b25274eef167da9bd19df96b9ce23ffc8b3525fbe7fdde462878f1a47",
+      "image": "https://cognitionai.mintlify.app/_mintlify/api/og/v2?division=Releases&title=Devin+Desktop+changelog&description=Release+notes+for+every+Devin+Desktop+%28Windsurf%29+stable+release%3A+new+features%2C+improvements%2C+and+fixes+in+each+version+of+the+agent-native+editor.&theme=c4b0ec3de672a1e755249f4f&signature=37dcdf3bee5cf063d34dcc07b948d9206271089c1753bd6f47c77c23b3e750fa",
       "ownerUserId": null,
       "siteUrl": "https://windsurf.com/changelog",
       "title": "Devin Desktop changelog - Devin Docs",

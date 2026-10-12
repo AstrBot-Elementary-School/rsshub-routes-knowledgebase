@@ -82,18 +82,6 @@ UP 主关注用户现在需要 b 站登录后的 Cookie 值，所以只能自建
   ],
   "topFeeds": [
     {
-      "description": "鱆_octopus 的 bilibili 关注 - Powered by RSSHub",
-      "errorAt": "2026-01-30T03:43:24.581Z",
-      "errorMessage": "缺少对应 loginUid 的 Bilibili 用户登录后的 Cookie 值 <a href=\"https://docs.rsshub.app/zh/deploy/config#route-specific-configurations\">bilibili 用户关注动态系列路由</a>\n",
-      "id": "199190003559014400",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://space.bilibili.com/22975/#/fans/follow",
-      "title": "鱆_octopus 的 bilibili 关注",
-      "type": "feed",
-      "url": "rsshub://bilibili/user/followings/22975/114145696"
-    },
-    {
       "description": "w小璃 的 bilibili 关注 - Powered by RSSHub",
       "errorAt": "2026-01-30T03:43:23.009Z",
       "errorMessage": "缺少对应 loginUid 的 Bilibili 用户登录后的 Cookie 值 <a href=\"https://docs.rsshub.app/zh/deploy/config#route-specific-configurations\">bilibili 用户关注动态系列路由</a>\n",
@@ -104,6 +92,18 @@ UP 主关注用户现在需要 b 站登录后的 Cookie 值，所以只能自建
       "title": "w小璃 的 bilibili 关注",
       "type": "feed",
       "url": "rsshub://bilibili/user/followings/36084148/114145696"
+    },
+    {
+      "description": "Sakura酱です 的 bilibili 关注 - Powered by RSSHub",
+      "errorAt": "2026-01-30T03:43:24.653Z",
+      "errorMessage": "缺少对应 loginUid 的 Bilibili 用户登录后的 Cookie 值 <a href=\"https://docs.rsshub.app/zh/deploy/config#route-specific-configurations\">bilibili 用户关注动态系列路由</a>\n",
+      "id": "198986334902707200",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://space.bilibili.com/10220425/#/fans/follow",
+      "title": "Sakura酱です 的 bilibili 关注",
+      "type": "feed",
+      "url": "rsshub://bilibili/user/followings/10220425/114145696"
     }
   ]
 }

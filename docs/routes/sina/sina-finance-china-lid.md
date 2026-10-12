@@ -56,7 +56,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 255,
+  "heat": 256,
   "location": "finance/china.ts",
   "maintainers": [
     "yubinbai"

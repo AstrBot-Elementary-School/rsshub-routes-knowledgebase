@@ -73,18 +73,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Obsidian 更新推送 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "64601197070503936",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://beta.sspai.com/tag/Obsidian",
-      "title": "#Obsidian - 少数派",
-      "type": "feed",
-      "url": "rsshub://sspai/tag/Obsidian"
-    },
-    {
       "description": "本周看什么 更新推送 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -95,6 +83,18 @@ _None_
       "title": "#本周看什么 - 少数派",
       "type": "feed",
       "url": "rsshub://sspai/tag/%E6%9C%AC%E5%91%A8%E7%9C%8B%E4%BB%80%E4%B9%88"
+    },
+    {
+      "description": "Obsidian 更新推送 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "64601197070503936",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://beta.sspai.com/tag/Obsidian",
+      "title": "#Obsidian - 少数派",
+      "type": "feed",
+      "url": "rsshub://sspai/tag/Obsidian"
     }
   ]
 }

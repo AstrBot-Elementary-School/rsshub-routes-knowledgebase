@@ -38,7 +38,7 @@ _None_
     "anime"
   ],
   "example": "/bangumi.moe",
-  "heat": 9,
+  "heat": 0,
   "location": "index.ts",
   "maintainers": [
     "nczitzk"
@@ -58,20 +58,7 @@ _None_
   "test": {
     "code": 0
   },
-  "topFeeds": [
-    {
-      "description": "萌番组 Bangumi Moe - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "94265600487790592",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://bangumi.moe/",
-      "title": "萌番组 Bangumi Moe",
-      "type": "feed",
-      "url": "rsshub://bangumi.moe"
-    }
-  ],
+  "topFeeds": [],
   "url": "bangumi.moe/"
 }
 ```

@@ -112,18 +112,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "「DLsite 成年コミック - R18」はエロマンガ・アダルトマンガのダウンロードショップ。お気に入りの作品をすぐダウンロードできてすぐ楽しめる！毎日更新しているのであなたが探している作品にきっと出会えます。国内最大級の二次元総合ダウンロードショップ「DLsite」！ - 日本語作品 言語不問作品 検索結果 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "72497415352780800",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.dlsite.com/books/fsr/=/campaign/campaign/work_category[0]/books/order[0]/cstart_d/per_page/30/show_type/1/is_free/1/",
-      "title": "「DLsite 成年コミック - R18」 | 割引中の作品",
-      "type": "feed",
-      "url": "rsshub://dlsite/campaign/books/1"
-    },
-    {
       "description": "「DLsite 同人 - R18」は同人誌・同人ゲーム・同人ボイス・ASMRのダウンロードショップ。お気に入りの作品をすぐダウンロードできてすぐ楽しめる！毎日更新しているのであなたが探している作品にきっと出会えます。国内最大級の二次元総合ダウンロードショップ「DLsite」！ - 日本語作品 言語不問作品 検索結果 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -134,6 +122,18 @@ _None_
       "title": "「DLsite 同人 - R18」 | 割引中の作品",
       "type": "feed",
       "url": "rsshub://dlsite/campaign/maniax/1"
+    },
+    {
+      "description": "「DLsite 成年コミック - R18」はエロマンガ・アダルトマンガのダウンロードショップ。お気に入りの作品をすぐダウンロードできてすぐ楽しめる！毎日更新しているのであなたが探している作品にきっと出会えます。国内最大級の二次元総合ダウンロードショップ「DLsite」！ - 日本語作品 言語不問作品 検索結果 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "72497415352780800",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.dlsite.com/books/fsr/=/campaign/campaign/work_category[0]/books/order[0]/cstart_d/per_page/30/show_type/1/is_free/1/",
+      "title": "「DLsite 成年コミック - R18」 | 割引中の作品",
+      "type": "feed",
+      "url": "rsshub://dlsite/campaign/books/1"
     }
   ]
 }

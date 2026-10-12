@@ -9200,6 +9200,12 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `1`
 - Index File: `index/rebase.md`
 
+## 日本不動産研究所
+- Namespace: `reinet`
+- Aliases: `reinet, reinet.or.jp, www, www.reinet.or.jp, 日本不動産研究所`
+- Route Count: `1`
+- Index File: `index/reinet.md`
+
 ## RemNote
 - Namespace: `remnote`
 - Aliases: `remnote, remnote.com`

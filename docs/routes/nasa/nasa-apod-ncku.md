@@ -75,7 +75,7 @@ _None_
     {
       "description": "NASA 每日一天文圖 (成大物理分站) - Powered by RSSHub",
       "errorAt": "2026-09-30T06:20:50.111Z",
-      "errorMessage": "[GET] \"http://sprite.phys.ncku.edu.tw/astrolab/mirrors/apod/archivepix.html\": <no response> fetch failed (other side closed)\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "63858618178298972",
       "image": null,
       "ownerUserId": null,

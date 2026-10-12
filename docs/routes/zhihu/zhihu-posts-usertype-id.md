@@ -101,7 +101,7 @@
     {
       "description": "公众号：大猿搬砖简记 - Powered by RSSHub",
       "errorAt": "2025-04-22T11:33:42.477Z",
-      "errorMessage": "Execution context was destroyed, most likely because of a navigation.\n",
+      "errorMessage": "zhihu: browser API request failed with HTTP 403\n",
       "id": "66390660650222592",
       "image": "https://pic1.zhimg.com/v2-6304b8f8dd717ed99eeddd211d5714d1_l.jpg",
       "ownerUserId": null,

@@ -76,7 +76,7 @@ _None_
     {
       "description": "澎湃新闻 - 首页头条 - Powered by RSSHub",
       "errorAt": "2026-10-09T11:22:09.919Z",
-      "errorMessage": "[GET] \"https://m.thepaper.cn/detail/34226698\": 403 Forbidden\n[GET] \"https://m.thepaper.cn/detail/34227666\": 403 \nAuthentication failed. Access denied.\n/thepaper/featured\n[GET] \"https://m.thepaper.cn\": 403 Forbidden\n[GET] \"https://m.thepaper.cn/detail/34227666\": 403 \n[GET] \"https://m.thepaper.cn/detail/34226698\": 403 Forbidden\n[GET] \"https://m.thepaper.cn/detail/34226704\": 403 Forbidden\n[GET] \"https://m.thepaper.cn/detail/34226704\": 403 \n[GET] \"https://m.thepaper.cn/detail/34227666\": 403 Forbidden\n[GET] \"https://m.thepaper.cn/detail/34225748\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://m.thepaper.cn\": 403 Forbidden\n[GET] \"https://m.thepaper.cn/detail/34232681\": 403 Forbidden\n[GET] \"https://m.thepaper.cn/detail/34232410\": 403 \nAuthentication failed. Access denied.\n/thepaper/featured\n[GET] \"https://m.thepaper.cn\": 403 Forbidden\n[GET] \"https://m.thepaper.cn/detail/34232610\": 403 \n[GET] \"https://m.thepaper.cn/detail/34232851\": 403 Forbidden\n[GET] \"https://m.thepaper.cn/detail/34232271\": 403 Forbidden\n[GET] \"https://m.thepaper.cn/detail/34232410\": 403 \n[GET] \"https://m.thepaper.cn/detail/34232271\": 403 Forbidden\n[GET] \"https://m.thepaper.cn/detail/34232905\": 403 Forbidden\n",
       "id": "41572238273905689",
       "image": "https://m.thepaper.cn/_next/static/media/logo.8d76cf45.png",
       "ownerUserId": null,

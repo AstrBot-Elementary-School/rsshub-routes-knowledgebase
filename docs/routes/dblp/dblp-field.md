@@ -74,18 +74,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "DBLP manipulation RSS - Powered by RSSHub",
-      "errorAt": "2026-09-07T10:46:16.426Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'hits')\n",
-      "id": "231673359707123712",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://dblp.org/search?q=manipulation",
-      "title": "【dblp】manipulation",
-      "type": "feed",
-      "url": "rsshub://dblp/manipulation"
-    },
-    {
       "description": "DBLP knowledge tracing RSS - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -96,6 +84,18 @@ _None_
       "title": "【dblp】knowledge tracing",
       "type": "feed",
       "url": "rsshub://dblp/knowledge%20tracing"
+    },
+    {
+      "description": "DBLP grasp RSS - Powered by RSSHub",
+      "errorAt": "2026-09-07T13:06:17.508Z",
+      "errorMessage": "Cannot read properties of undefined (reading 'hits')\n",
+      "id": "179692167689031680",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://dblp.org/search?q=grasp",
+      "title": "【dblp】grasp",
+      "type": "feed",
+      "url": "rsshub://dblp/grasp"
     }
   ]
 }

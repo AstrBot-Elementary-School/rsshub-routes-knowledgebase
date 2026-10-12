@@ -75,7 +75,7 @@ _None_
     {
       "description": "China - Powered by RSSHub",
       "errorAt": "2025-09-05T17:22:28.529Z",
-      "errorMessage": "[GET] \"https://www.economist.com/china/2026/09/09/only-children-in-china-prefer-to-marry-other-only-children\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.economist.com/china/2026/09/03/the-serious-rivalrous-business-of-chinese-barbecue\": 403 Forbidden\n",
       "id": "41461870197170199",
       "image": null,
       "ownerUserId": null,

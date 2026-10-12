@@ -133,6 +133,18 @@ _None_
   },
   "topFeeds": [
     {
+      "description": "掘金前端本周最热 - Powered by RSSHub",
+      "errorAt": "2026-10-11T13:21:12.348Z",
+      "errorMessage": "Authentication failed. Access denied.\n/juejin/trending/frontend/weekly\n[GET] \"https://juejin.cn/post/7694115089584308233\": 403 Forbidden\n",
+      "id": "55215029121101832",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://juejin.im/frontend?sort=weekly_hottest",
+      "title": "掘金前端本周最热",
+      "type": "feed",
+      "url": "rsshub://juejin/trending/frontend/weekly"
+    },
+    {
       "description": "掘金本周最热 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -143,18 +155,6 @@ _None_
       "title": "掘金本周最热",
       "type": "feed",
       "url": "rsshub://juejin/trending/all/weekly"
-    },
-    {
-      "description": "掘金前端本周最热 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "55215029121101832",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://juejin.im/frontend?sort=weekly_hottest",
-      "title": "掘金前端本周最热",
-      "type": "feed",
-      "url": "rsshub://juejin/trending/frontend/weekly"
     }
   ]
 }

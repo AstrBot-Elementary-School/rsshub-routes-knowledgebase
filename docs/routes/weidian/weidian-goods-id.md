@@ -51,28 +51,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "大反派（点首页链接新店） 商铺上新 - Powered by RSSHub",
+      "description": "晓知出品 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264526499885481984",
+      "id": "1264524876874383360",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1845691520",
-      "title": "大反派（点首页链接新店） 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1693862262",
+      "title": "晓知出品 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1845691520"
+      "url": "rsshub://weidian/goods/1693862262"
     },
     {
-      "description": "Ture 商铺上新 - Powered by RSSHub",
+      "description": "Dylan出品 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264524888048009216",
+      "id": "1264523928189927424",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1718752418",
-      "title": "Ture 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1649084157",
+      "title": "Dylan出品 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1718752418"
+      "url": "rsshub://weidian/goods/1649084157"
     }
   ]
 }

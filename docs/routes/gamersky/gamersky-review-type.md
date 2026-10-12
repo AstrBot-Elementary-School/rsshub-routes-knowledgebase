@@ -78,18 +78,6 @@
   },
   "topFeeds": [
     {
-      "description": "单机 - 游民星空评测 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "56355573445982208",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.gamersky.com/review",
-      "title": "单机 - 游民星空评测",
-      "type": "feed",
-      "url": "rsshub://gamersky/review/pc"
-    },
-    {
       "description": "全部评测 - 游民星空评测 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -100,6 +88,18 @@
       "title": "全部评测 - 游民星空评测",
       "type": "feed",
       "url": "rsshub://gamersky/review/all"
+    },
+    {
+      "description": "单机 - 游民星空评测 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "56355573445982208",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.gamersky.com/review",
+      "title": "单机 - 游民星空评测",
+      "type": "feed",
+      "url": "rsshub://gamersky/review/pc"
     }
   ]
 }

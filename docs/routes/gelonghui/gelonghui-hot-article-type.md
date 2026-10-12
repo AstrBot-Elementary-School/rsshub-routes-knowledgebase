@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2021,
+  "heat": 2022,
   "location": "hot-article.ts",
   "maintainers": [
     "nczitzk"

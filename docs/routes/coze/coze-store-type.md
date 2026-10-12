@@ -37,7 +37,7 @@ _None_
   ],
   "description": "订阅扣子中国站公开商店按上架时间排列的首屏内容。商品版本变化时会生成新的 GUID。模板包括智能体、工作流和项目模板。",
   "example": "/coze/store/project",
-  "heat": 0,
+  "heat": 1,
   "location": "store.ts",
   "maintainers": [
     "DIYgod"
