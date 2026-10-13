@@ -88,16 +88,16 @@ _None_
       "url": "rsshub://luma/langchain"
     },
     {
-      "description": "Google Gemma - Powered by RSSHub",
-      "errorAt": "2026-08-25T00:07:39.694Z",
-      "errorMessage": "[GET] \"https://api.lu.ma/url?url=gemma-events\": 429 Too Many Requests\n",
-      "id": "265966966744675328",
+      "description": "Eventos Ignia - Powered by RSSHub",
+      "errorAt": "2026-10-08T06:15:54.919Z",
+      "errorMessage": "[GET] \"https://api.lu.ma/url?url=ignia\": 429 Too Many Requests\n",
+      "id": "265966934845992960",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://lu.ma/gemma-events",
-      "title": "Google Gemma",
+      "siteUrl": "https://lu.ma/ignia",
+      "title": "Eventos Ignia",
       "type": "feed",
-      "url": "rsshub://luma/gemma-events"
+      "url": "rsshub://luma/ignia"
     }
   ],
   "url": "lu.ma"

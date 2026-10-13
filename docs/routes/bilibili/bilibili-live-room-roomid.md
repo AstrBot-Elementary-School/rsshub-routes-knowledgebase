@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 230,
+  "heat": 229,
   "location": "live-room.ts",
   "maintainers": [
     "Qixingchen"

@@ -104,8 +104,8 @@ _None_
     },
     {
       "description": "中国气象局提供权威的天气预报、气象预警、卫星云图、雷达图等专业服务产品 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-12T13:32:34.039Z",
+      "errorMessage": "Authentication failed. Access denied.\n/cma/channel/da5d55817ad5430fb9796a0780178533\n503 \n",
       "id": "62458101978222592",
       "image": "https://weather.cma.cn/assets/cmalogo.png",
       "ownerUserId": null,

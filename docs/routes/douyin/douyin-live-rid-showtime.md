@@ -89,7 +89,7 @@
       "errorAt": null,
       "errorMessage": null,
       "id": "72456550295913472",
-      "image": "https://p3.douyinpic.com/origin/aweme-avatar/tos-cn-avt-0015_bed947cccd9ad785a0a96dbec1fb2fe3.jpeg",
+      "image": "https://p11.douyinpic.com/origin/aweme-avatar/tos-cn-avt-0015_bed947cccd9ad785a0a96dbec1fb2fe3.jpeg",
       "ownerUserId": null,
       "siteUrl": "https://live.douyin.com/921169302662",
       "title": "陈伯(全能王)的抖音直播间 - 抖音直播",

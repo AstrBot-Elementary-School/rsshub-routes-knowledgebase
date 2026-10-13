@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 948,
+  "heat": 947,
   "location": "index.ts",
   "maintainers": [
     "naixy28"

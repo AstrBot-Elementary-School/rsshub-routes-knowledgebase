@@ -55,7 +55,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 253,
+  "heat": 252,
   "location": "comic.ts",
   "maintainers": [
     "MegrezZhu"
@@ -89,7 +89,7 @@ _None_
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.manhuagui.com/comic/1128/",
-      "title": "看漫画 - ONE PIECE航海王 已下架",
+      "title": "看漫画 - ONE PIECE航海王",
       "type": "feed",
       "url": "rsshub://manhuagui/comic/1128"
     },

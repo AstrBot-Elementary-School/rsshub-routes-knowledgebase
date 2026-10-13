@@ -112,8 +112,8 @@ For other Yahoo News, this route's RSS provides the author field. You can use RS
   "topFeeds": [
     {
       "description": "Yahoo 新聞 TW - 所有類別 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-12T02:16:25.732Z",
+      "errorMessage": "[GET] \"https://tw.news.yahoo.com/%E8%94%A3%E8%90%AC%E5%AE%89%E7%BF%BB%E6%B2%88%E4%BC%AF%E6%B4%8B%E8%88%8A%E6%96%87%E8%A2%AB%E9%85%B8-%E5%8F%A4%E6%96%87%E8%A7%80%E6%AD%A2-%E6%9E%97%E4%BF%8A%E6%86%B2-%E8%BE%AF%E8%AB%96%E8%B6%8A%E5%A4%9A%E8%B6%8A%E9%9B%A3%E8%83%8C%E7%A8%BF-%E4%B8%8A%E9%BB%83%E5%9C%8B%E6%98%8C%E7%9B%B4%E6%92%AD%E6%80%8E%E9%BA%BC%E6%B2%92%E5%85%88%E6%AF%94-094910537.html\": 404 Not Found\n",
       "id": "58739494825370651",
       "image": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
       "ownerUserId": null,

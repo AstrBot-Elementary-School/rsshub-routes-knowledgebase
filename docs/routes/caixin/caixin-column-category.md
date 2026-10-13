@@ -86,18 +86,6 @@ _None_
       "description": "财新网 - 提供财经新闻及资讯服务 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "42855045334971395",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://weekly.caixin.com/coverstory",
-      "title": "封面报道_财新周刊频道_财新网",
-      "type": "feed",
-      "url": "rsshub://caixin/weekly/coverstory"
-    },
-    {
-      "description": "财新网 - 提供财经新闻及资讯服务 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "60143536924270599",
       "image": null,
       "ownerUserId": null,
@@ -105,6 +93,18 @@ _None_
       "title": "监管_金融频道_财新网",
       "type": "feed",
       "url": "rsshub://caixin/finance/regulation"
+    },
+    {
+      "description": "财新网 - 提供财经新闻及资讯服务 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "42855045334971395",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://weekly.caixin.com/coverstory",
+      "title": "封面报道_财新周刊频道_财新网",
+      "type": "feed",
+      "url": "rsshub://caixin/weekly/coverstory"
     }
   ]
 }

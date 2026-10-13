@@ -47,6 +47,19 @@ _None_
     "type": "内容类型：project（项目，默认）、agent（智能体）或 template（模板）。"
   },
   "path": "/store/:type?",
-  "topFeeds": []
+  "topFeeds": [
+    {
+      "description": "扣子 - 智能体商店更新 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "1327775162371538944",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.coze.cn/store/agent",
+      "title": "扣子 - 智能体商店更新",
+      "type": "feed",
+      "url": "rsshub://coze/store/agent"
+    }
+  ]
 }
 ```

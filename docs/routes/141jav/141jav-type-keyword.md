@@ -104,8 +104,8 @@ _None_
     },
     {
       "description": "141JAV - New - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-12T04:25:58.544Z",
+      "errorMessage": "[GET] \"https://www.141jav.com/new\": 403 Forbidden\n",
       "id": "53022189134482432",
       "image": null,
       "ownerUserId": null,

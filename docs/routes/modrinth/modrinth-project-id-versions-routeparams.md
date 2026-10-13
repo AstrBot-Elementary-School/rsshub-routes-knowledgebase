@@ -116,16 +116,16 @@
       "url": "rsshub://modrinth/project/create/versions"
     },
     {
-      "description": "Track, compete, and get rewarded for your item collections with seamless plugin integrations and per-collection leaderboards! - Powered by RSSHub",
+      "description": "Highly customizable, global player leveling plugin with many integrations. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "114582489961986048",
+      "id": "113662012738039808",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/PjHvoAob",
-      "title": "AuroraCollections Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/86biV1Ic",
+      "title": "AuroraLevels Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/PjHvoAob/versions"
+      "url": "rsshub://modrinth/project/86biV1Ic/versions"
     }
   ]
 }

@@ -66,28 +66,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "吉林大学计算机科学与技术学院 - 新闻中心新闻中心 - Powered by RSSHub",
-      "errorAt": "2026-10-11T10:55:55.217Z",
-      "errorMessage": "503 \n",
-      "id": "1217985769201598464",
+      "description": "吉林大学计算机科学与技术学院 - 新闻中心学院新闻 - Powered by RSSHub",
+      "errorAt": "2026-01-09T04:20:40.130Z",
+      "errorMessage": "[GET] \"https://ccst.jlu.edu.cn/xwzx/xyxw.htm\": <no response> fetch failed\n",
+      "id": "88875751771012096",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://ccst.jlu.edu.cn/",
-      "title": "吉林大学计算机科学与技术学院 - 新闻中心新闻中心",
+      "title": "吉林大学计算机科学与技术学院 - 新闻中心学院新闻",
       "type": "feed",
-      "url": "rsshub://jlu/ccst/xwzx/..%2Fxwzx%2Fxytz"
+      "url": "rsshub://jlu/ccst/xwzx/xyxw"
     },
     {
-      "description": "吉林大学计算机科学与技术学院 - 新闻中心新闻中心 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "1217983497180676096",
+      "description": "吉林大学计算机科学与技术学院 - 新闻中心学院通知 - Powered by RSSHub",
+      "errorAt": "2026-01-09T04:19:01.903Z",
+      "errorMessage": "[GET] \"https://ccst.jlu.edu.cn/xwzx/xytz.htm\": <no response> fetch failed\n",
+      "id": "88875607580897280",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://ccst.jlu.edu.cn/",
-      "title": "吉林大学计算机科学与技术学院 - 新闻中心新闻中心",
+      "title": "吉林大学计算机科学与技术学院 - 新闻中心学院通知",
       "type": "feed",
-      "url": "rsshub://jlu/ccst/xwzx/..%2Frcpy%2Fyjsjy%2Fgltz"
+      "url": "rsshub://jlu/ccst/xwzx/xytz"
     }
   ],
   "url": "ccst.jlu.edu.cn"

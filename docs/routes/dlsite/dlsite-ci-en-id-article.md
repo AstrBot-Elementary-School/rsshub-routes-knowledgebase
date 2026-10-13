@@ -61,7 +61,7 @@ Set `CI_EN_COOKIE` on a self-hosted instance to retrieve articles available to y
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 35,
+  "heat": 36,
   "location": "ci-en/article.ts",
   "maintainers": [
     "nczitzk"

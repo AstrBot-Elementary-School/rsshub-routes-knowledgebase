@@ -121,21 +121,21 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "四川广播电视台 - 吃八方 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "198402459807542272",
-      "image": "/sctv/1/image/public/202010/20201010094714_nrfep8uqvu.jpg",
-      "ownerUserId": null,
-      "siteUrl": "https://www.sctv.com/column/detail?programmeIndex=/sctv/lookback/7343/index.json",
-      "title": "四川广播电视台 - 吃八方",
-      "type": "feed",
-      "url": "rsshub://sctv/programme/7343"
-    },
-    {
       "description": "四川广播电视台 - 四川新闻联播 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
+      "id": "163898423688988672",
+      "image": "/sctv/1/image/public/202101/20210118094118_abbi6fxq9i.jpg",
+      "ownerUserId": null,
+      "siteUrl": "https://www.sctv.com/column/detail?programmeIndex=/sctv/lookback/1/index.json",
+      "title": "四川广播电视台 - 四川新闻联播",
+      "type": "feed",
+      "url": "rsshub://sctv/programme"
+    },
+    {
+      "description": "四川广播电视台 - 四川新闻联播 - Powered by RSSHub",
+      "errorAt": "2026-10-12T09:21:44.508Z",
+      "errorMessage": "[GET] \"https://kscgc.sctv-tf.com/sctv/lookback/1/date.json\": 522 <none>\n",
       "id": "178834515500019712",
       "image": "/sctv/1/image/public/202101/20210118094118_abbi6fxq9i.jpg",
       "ownerUserId": null,

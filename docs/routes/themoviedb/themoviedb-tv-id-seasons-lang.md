@@ -78,16 +78,16 @@ _None_
       "url": "rsshub://themoviedb/tv/70593/seasons"
     },
     {
-      "description": "A missing child causes four families to help each other for answers. What they could not imagine is that this mystery would be connected to innumerable other secrets of the small town. - Powered by RSSHub",
+      "description": "Rumi, Tamoko and their mother are being blackmailed by Mr. Nogawa and his son. They must learn to fight back just enough to be able to take revenge when the time is right. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "82918388383633408",
-      "image": "https://image.tmdb.org/t/p/original/apbrbWs8M9lyOpJYU5WXrpFbk1Z.jpg",
+      "id": "146311702677387264",
+      "image": "https://image.tmdb.org/t/p/original/uA2zWEasPhJLe6rs8NlU1qlHYJv.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://www.themoviedb.org/tv/70523/seasons",
-      "title": "Dark - Seasons — TMDB",
+      "siteUrl": "https://www.themoviedb.org/tv/60593/seasons",
+      "title": "Immoral Sisters - Seasons — TMDB",
       "type": "feed",
-      "url": "rsshub://themoviedb/tv/70523-dark/seasons"
+      "url": "rsshub://themoviedb/tv/60593/seasons"
     }
   ],
   "view": 5

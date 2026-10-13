@@ -134,8 +134,8 @@ _None_
   "topFeeds": [
     {
       "description": "掘金前端本周最热 - Powered by RSSHub",
-      "errorAt": "2026-10-11T13:21:12.348Z",
-      "errorMessage": "Authentication failed. Access denied.\n/juejin/trending/frontend/weekly\n[GET] \"https://juejin.cn/post/7694115089584308233\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "55215029121101832",
       "image": null,
       "ownerUserId": null,

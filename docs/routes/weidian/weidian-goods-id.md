@@ -51,28 +51,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "晓知出品 商铺上新 - Powered by RSSHub",
+      "description": "718制造 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264524876874383360",
+      "id": "1264524576058900480",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1693862262",
-      "title": "晓知出品 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1679474173",
+      "title": "718制造 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1693862262"
+      "url": "rsshub://weidian/goods/1679474173"
     },
     {
-      "description": "Dylan出品 商铺上新 - Powered by RSSHub",
+      "description": "Ture 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264523928189927424",
+      "id": "1264524888048009216",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1649084157",
-      "title": "Dylan出品 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1718752418",
+      "title": "Ture 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1649084157"
+      "url": "rsshub://weidian/goods/1718752418"
     }
   ]
 }

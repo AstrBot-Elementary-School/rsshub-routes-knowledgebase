@@ -58,8 +58,8 @@ _None_
   "topFeeds": [
     {
       "description": "智篆商业-消费报告 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-12T14:56:34.997Z",
+      "errorMessage": "[GET] \"https://www.zhizhuan100.com.cn/analysis\": 522 <none>\n",
       "id": "176591270098243584",
       "image": null,
       "ownerUserId": null,

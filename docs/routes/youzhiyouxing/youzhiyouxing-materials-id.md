@@ -74,7 +74,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2968,
+  "heat": 2967,
   "location": "materials.ts",
   "maintainers": [
     "broven",
@@ -181,20 +181,8 @@
   "topFeeds": [
     {
       "description": "有知有行 - 全部 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "56535849521479680",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://youzhiyouxing.cn/materials?column_id=0",
-      "title": "有知有行 - 全部",
-      "type": "feed",
-      "url": "rsshub://youzhiyouxing/materials/0"
-    },
-    {
-      "description": "有知有行 - 全部 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-12T11:37:24.174Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "55311155740901376",
       "image": null,
       "ownerUserId": null,
@@ -202,6 +190,18 @@
       "title": "有知有行 - 全部",
       "type": "feed",
       "url": "rsshub://youzhiyouxing/materials"
+    },
+    {
+      "description": "有知有行 - 全部 - Powered by RSSHub",
+      "errorAt": "2026-10-12T10:43:07.360Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nFailed to fetch\n404 Not Found\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "id": "56535849521479680",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://youzhiyouxing.cn/materials?column_id=0",
+      "title": "有知有行 - 全部",
+      "type": "feed",
+      "url": "rsshub://youzhiyouxing/materials/0"
     }
   ],
   "url": "youzhiyouxing.cn/materials",

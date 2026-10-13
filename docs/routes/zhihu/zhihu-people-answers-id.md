@@ -94,7 +94,7 @@ _None_
     {
       "description": "王子君的知乎回答 - Powered by RSSHub",
       "errorAt": "2025-04-22T12:23:04.103Z",
-      "errorMessage": "Execution context was destroyed, most likely because of a navigation.\n",
+      "errorMessage": "zhihu: browser API request failed with HTTP 403\n",
       "id": "62090527887115299",
       "image": null,
       "ownerUserId": null,

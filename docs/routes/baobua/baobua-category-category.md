@@ -78,7 +78,7 @@ _None_
     {
       "description": "BaoBua - Category: xiuren - Powered by RSSHub",
       "errorAt": "2025-09-16T08:27:34.576Z",
-      "errorMessage": "[GET] \"https://baobua.com/cat/xiuren/\": 530 \n",
+      "errorMessage": "[GET] \"https://baobua.com/cat/xiuren/\": <no response> fetch failed\n[GET] \"https://baobua.com/cat/xiuren/\": 530 \n",
       "id": "146189302661421056",
       "image": null,
       "ownerUserId": null,

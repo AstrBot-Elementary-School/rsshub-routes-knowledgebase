@@ -91,8 +91,8 @@
     },
     {
       "description": "加拿大国际广播电台 | Radio-Canada.ca - Powered by RSSHub",
-      "errorAt": "2026-10-11T07:46:01.803Z",
-      "errorMessage": "503 \n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "59770798244269056",
       "image": null,
       "ownerUserId": null,

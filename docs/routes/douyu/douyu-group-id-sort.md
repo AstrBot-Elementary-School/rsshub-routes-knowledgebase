@@ -98,16 +98,16 @@
       "url": "rsshub://douyu/group/534"
     },
     {
-      "description": "目黒川i的鱼吧 - Powered by RSSHub",
+      "description": "洞主的鱼吧 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "191990328080228352",
+      "id": "69260526927299584",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://yuba.douyu.com/group/newself/7133482",
-      "title": "斗鱼鱼吧 - 目黒川i",
+      "siteUrl": "https://yuba.douyu.com/group/newall/199511",
+      "title": "斗鱼鱼吧 - 洞主丨歌神洞庭湖",
       "type": "feed",
-      "url": "rsshub://douyu/group/7133482"
+      "url": "rsshub://douyu/group/199511/1"
     }
   ]
 }

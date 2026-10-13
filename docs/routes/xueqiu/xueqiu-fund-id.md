@@ -65,7 +65,7 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "基金代码 017093 <br> 今日净值(2026-10-08) ¥2.9515 <br> 日涨跌 0.4834% - Powered by RSSHub",
+      "description": "基金代码 017093 <br> 今日净值(2026-10-09) ¥2.9491 <br> 日跌跌 -0.0813% - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "64899487882088448",

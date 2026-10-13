@@ -87,7 +87,7 @@ _None_
     {
       "description": "The most recent blogs and online articles from The Economist - Powered by RSSHub",
       "errorAt": "2025-09-05T18:15:19.885Z",
-      "errorMessage": "[GET] \"https://www.economist.com/the-americas/2026/10/08/brazil-falls-into-magas-orbit\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.economist.com/science-and-technology/2026/10/08/this-years-nobel-science-prizes-are-real-life-sci-fi\": 403 Forbidden\n",
       "id": "54859243036899328",
       "image": null,
       "ownerUserId": null,

@@ -81,7 +81,7 @@
     {
       "description": "动画情报-动漫之家新闻站 - Powered by RSSHub",
       "errorAt": "2025-06-07T18:19:07.444Z",
-      "errorMessage": "[GET] \"https://news.dmzj.com/donghuaqingbao\": <no response> fetch failed (getaddrinfo ENOTFOUND news.dmzj.com)\n[GET] \"https://news.dmzj.com/donghuaqingbao\": 530 \n",
+      "errorMessage": "[GET] \"https://news.dmzj.com/donghuaqingbao\": 530 \n",
       "id": "61406402714086400",
       "image": null,
       "ownerUserId": null,

@@ -166,8 +166,8 @@ _None_
   "topFeeds": [
     {
       "description": "undefined | NHK WORLD-JAPAN News - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-12T02:35:50.742Z",
+      "errorMessage": "[GET] \"https://www3.nhk.or.jp/nhkworld/common/assets/news/config/en.json\": 403 Forbidden\n",
       "id": "61596371943710720",
       "image": null,
       "ownerUserId": null,

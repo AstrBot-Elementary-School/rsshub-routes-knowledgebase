@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4500,
+  "heat": 4499,
   "location": "search.ts",
   "maintainers": [
     "nczitzk"
@@ -83,8 +83,8 @@ _None_
     },
     {
       "description": "Pornhub - asiam - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-12T04:45:58.475Z",
+      "errorMessage": "Cannot read properties of undefined (reading 'map')\n",
       "id": "59970246903171072",
       "image": null,
       "ownerUserId": null,

@@ -82,6 +82,18 @@ _None_
   },
   "topFeeds": [
     {
+      "description": "品玩 - 腾讯元宝 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "128314253577785344",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.pingwest.com/tag/22218",
+      "title": "品玩 - 腾讯元宝",
+      "type": "feed",
+      "url": "rsshub://pingwest/tag/22218/1"
+    },
+    {
       "description": "品玩 - AIGC - Powered by RSSHub",
       "errorAt": "2026-05-25T10:17:17.755Z",
       "errorMessage": "[GET] \"https://www.pingwest.com/api/tag_article_list?id=20327&type=0\": 405 Not Allowed\n",
@@ -92,18 +104,6 @@ _None_
       "title": "品玩 - AIGC",
       "type": "feed",
       "url": "rsshub://pingwest/tag/20327/1/fulltext"
-    },
-    {
-      "description": "品玩 - 新零售 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "86387422106570752",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.pingwest.com/tag/12279",
-      "title": "品玩 - 新零售",
-      "type": "feed",
-      "url": "rsshub://pingwest/tag/12279/1"
     }
   ]
 }

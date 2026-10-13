@@ -181,7 +181,7 @@ _None_
     {
       "description": "bilibili 电脑装机分区 - Powered by RSSHub",
       "errorAt": "2026-07-02T14:32:08.821Z",
-      "errorMessage": "[GET] \"https://api.bilibili.com/x/web-interface/newlist?ps=15&rid=189&_=1790851916419\": 412 Precondition Failed\n",
+      "errorMessage": "[GET] \"https://api.bilibili.com/x/web-interface/newlist?ps=15&rid=189&_=1791764275063\": 412 Precondition Failed\n",
       "id": "61803024269907968",
       "image": null,
       "ownerUserId": null,

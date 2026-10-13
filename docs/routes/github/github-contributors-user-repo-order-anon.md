@@ -83,16 +83,16 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "New contributors for obaby/baby-wechat - Powered by RSSHub",
+      "description": "New contributors for LOWERTOP/Shadowrocket-First - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "183741893306669056",
+      "id": "126806034891658240",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/obaby/baby-wechat/graphs/contributors",
-      "title": "obaby/baby-wechat Contributors",
+      "siteUrl": "https://github.com/LOWERTOP/Shadowrocket-First/graphs/contributors",
+      "title": "LOWERTOP/Shadowrocket-First Contributors",
       "type": "feed",
-      "url": "rsshub://github/contributors/obaby/baby-wechat"
+      "url": "rsshub://github/contributors/LOWERTOP/Shadowrocket-First"
     },
     {
       "description": "New contributors for yang991178/fluent-reader - Powered by RSSHub",
