@@ -18,7 +18,7 @@
 - Categories: `programming`
 - Maintainers: `cscnk52`
 
-### Visual Studio Code Plugins Marketplace
+### Code Extensions Marketplace
 - Route ID: `visualstudio:/visualstudio/marketplace/:type?`
 - Route Path: `/visualstudio/marketplace/:type?`
 - File: `docs/routes/visualstudio/visualstudio-marketplace-type.md`

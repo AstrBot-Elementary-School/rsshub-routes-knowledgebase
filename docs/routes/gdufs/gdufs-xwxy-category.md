@@ -35,20 +35,20 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `xwxy.gdufs.edu.cn/xwzx/xyxw`
+  - `xwxy.gdufs.edu.cn/xwzx/xyxw.htm`
   - `xwxy.gdufs.edu.cn/`
 - `target`: `/xwxy/news`
 ### Rule 2
 - `source`:
-  - `xwxy.gdufs.edu.cn/xwzx/tzgg/tz`
+  - `xwxy.gdufs.edu.cn/xwzx/tzgg/tz.htm`
 - `target`: `/xwxy/notices`
 ### Rule 3
 - `source`:
-  - `xwxy.gdufs.edu.cn/xwzx/tzgg/gg`
+  - `xwxy.gdufs.edu.cn/xwzx/tzgg/gg.htm`
 - `target`: `/xwxy/announcements`
 ### Rule 4
 - `source`:
-  - `xwxy.gdufs.edu.cn/xwzx/mtjj`
+  - `xwxy.gdufs.edu.cn/xwzx/mtjj.htm`
 - `target`: `/xwxy/media`
 
 ## Raw JSON
@@ -100,26 +100,26 @@ _None_
   "radar": [
     {
       "source": [
-        "xwxy.gdufs.edu.cn/xwzx/xyxw",
+        "xwxy.gdufs.edu.cn/xwzx/xyxw.htm",
         "xwxy.gdufs.edu.cn/"
       ],
       "target": "/xwxy/news"
     },
     {
       "source": [
-        "xwxy.gdufs.edu.cn/xwzx/tzgg/tz"
+        "xwxy.gdufs.edu.cn/xwzx/tzgg/tz.htm"
       ],
       "target": "/xwxy/notices"
     },
     {
       "source": [
-        "xwxy.gdufs.edu.cn/xwzx/tzgg/gg"
+        "xwxy.gdufs.edu.cn/xwzx/tzgg/gg.htm"
       ],
       "target": "/xwxy/announcements"
     },
     {
       "source": [
-        "xwxy.gdufs.edu.cn/xwzx/mtjj"
+        "xwxy.gdufs.edu.cn/xwzx/mtjj.htm"
       ],
       "target": "/xwxy/media"
     }
@@ -132,18 +132,6 @@ _None_
       "description": "广东外语外贸大学新闻与传播学院官网-新闻中心 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "192034066149117952",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://xwxy.gdufs.edu.cn/xwzx/mtjj.htm",
-      "title": "广外新传学院-媒体聚焦",
-      "type": "feed",
-      "url": "rsshub://gdufs/xwxy/media"
-    },
-    {
-      "description": "广东外语外贸大学新闻与传播学院官网-新闻中心 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "192033567747366912",
       "image": null,
       "ownerUserId": null,
@@ -151,6 +139,18 @@ _None_
       "title": "广外新传学院-学院新闻",
       "type": "feed",
       "url": "rsshub://gdufs/xwxy/news"
+    },
+    {
+      "description": "广东外语外贸大学新闻与传播学院官网-新闻中心 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "192033772591022080",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://xwxy.gdufs.edu.cn/xwzx/tzgg/tz.htm",
+      "title": "广外新传学院-通知",
+      "type": "feed",
+      "url": "rsshub://gdufs/xwxy/notices"
     }
   ],
   "url": "xwxy.gdufs.edu.cn"

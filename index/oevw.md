@@ -10,7 +10,7 @@
 
 ## Routes
 
-### ÖVW Suche
+### Suche
 - Route ID: `oevw:/oevw/:json?`
 - Route Path: `/oevw/:json?`
 - File: `docs/routes/oevw/oevw-json.md`

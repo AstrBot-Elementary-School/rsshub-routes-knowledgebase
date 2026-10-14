@@ -1,4 +1,4 @@
-# 麦当劳 - 麦当劳活动资讯
+# 麦当劳 - 活动资讯
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `mcdonalds`
 - Namespace Name: `麦当劳`
 - Route Path: `/mcdonalds/cn/:category`
-- Route Name: `麦当劳活动资讯`
+- Route Name: `活动资讯`
 - Example: `/mcdonalds/cn/sales+event`
 - URL: `www.mcdonalds.com.cn`
 - Language: `_None_`
@@ -44,7 +44,7 @@ _None_
   "maintainers": [
     "huyyi"
   ],
-  "name": "麦当劳活动资讯",
+  "name": "活动资讯",
   "parameters": {
     "category": "分类名（可用 + 连接多个分类）"
   },

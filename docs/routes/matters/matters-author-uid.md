@@ -30,6 +30,7 @@ _None_
 ### Rule 1
 - `source`:
   - `matters.town/:uid`
+- `target`: `/author/:uid`
 
 ## Raw JSON
 ```json
@@ -53,7 +54,8 @@ _None_
     {
       "source": [
         "matters.town/:uid"
-      ]
+      ],
+      "target": "/author/:uid"
     }
   ],
   "test": {

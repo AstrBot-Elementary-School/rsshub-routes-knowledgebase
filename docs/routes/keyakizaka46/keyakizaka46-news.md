@@ -1,4 +1,4 @@
-# 欅坂46 - Keyakizaka46 News 欅坂 46 新闻
+# 欅坂46 - News 新闻
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `keyakizaka46`
 - Namespace Name: `欅坂46`
 - Route Path: `/keyakizaka46/news`
-- Route Name: `Keyakizaka46 News 欅坂 46 新闻`
+- Route Name: `News 新闻`
 - Example: `/keyakizaka46/news`
 - URL: `www.keyakizaka46.com`
 - Language: `_None_`
@@ -41,7 +41,7 @@ _None_
   "maintainers": [
     "crispgm"
   ],
-  "name": "Keyakizaka46 News 欅坂 46 新闻",
+  "name": "News 新闻",
   "path": "/news",
   "test": {
     "code": 0

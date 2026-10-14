@@ -10,7 +10,7 @@
 
 ## Routes
 
-### Nintendo Direct
+### Direct
 - Route ID: `nintendo:/nintendo/direct`
 - Route Path: `/nintendo/direct`
 - File: `docs/routes/nintendo/nintendo-direct.md`

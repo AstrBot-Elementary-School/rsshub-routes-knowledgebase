@@ -38,6 +38,7 @@ _None_
 - `source`:
   - `www.txks.org.cn/index/work`
   - `www.txks.org.cn`
+  - `www.txks.org.cn/index/work.html`
 - `target`: `/news`
 
 ## Raw JSON
@@ -68,7 +69,8 @@ _None_
     {
       "source": [
         "www.txks.org.cn/index/work",
-        "www.txks.org.cn"
+        "www.txks.org.cn",
+        "www.txks.org.cn/index/work.html"
       ],
       "target": "/news",
       "title": "全国通信专业技术人员职业水平考试动态"

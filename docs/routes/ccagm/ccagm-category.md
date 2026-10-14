@@ -55,56 +55,66 @@
 ## Radar
 ### Rule 1
 - `source`:
-  - `www.ccagm.org.cn/category?`
-- `target`: `/:category`
+  - `www.ccagm.org.cn/`
+- `target`: `/association-news`
 ### Rule 2
 - `title`: `协会动态`
 - `source`:
+  - `www.ccagm.org.cn/association-news`
   - `www.ccagm.org.cn/association-news.html`
 - `target`: `/association-news`
 ### Rule 3
 - `title`: `会议活动`
 - `source`:
+  - `www.ccagm.org.cn/xh-activity/activities-huiyi`
   - `www.ccagm.org.cn/xh-activity/activities-huiyi.html`
 - `target`: `/xh-activity/activities-huiyi`
 ### Rule 4
 - `title`: `调研与报告`
 - `source`:
+  - `www.ccagm.org.cn/xh-activity/bg-yj`
   - `www.ccagm.org.cn/xh-activity/bg-yj.html`
 - `target`: `/xh-activity/bg-yj`
 ### Rule 5
 - `title`: `协会党建`
 - `source`:
+  - `www.ccagm.org.cn/xie-hui-dang-jian`
   - `www.ccagm.org.cn/xie-hui-dang-jian.html`
 - `target`: `/xie-hui-dang-jian`
 ### Rule 6
 - `title`: `行业新闻`
 - `source`:
+  - `www.ccagm.org.cn/members-info`
   - `www.ccagm.org.cn/members-info.html`
 - `target`: `/members-info`
 ### Rule 7
 - `title`: `行业研究`
 - `source`:
+  - `www.ccagm.org.cn/bg-yj`
   - `www.ccagm.org.cn/bg-yj.html`
 - `target`: `/bg-yj`
 ### Rule 8
 - `title`: `行业标准`
 - `source`:
+  - `www.ccagm.org.cn/industry-policy/industry-standard`
   - `www.ccagm.org.cn/industry-policy/industry-standard.html`
 - `target`: `/industry-policy/industry-standard`
 ### Rule 9
 - `title`: `法律法规`
 - `source`:
+  - `www.ccagm.org.cn/industry-policy/policies-regulations`
   - `www.ccagm.org.cn/industry-policy/policies-regulations.html`
 - `target`: `/industry-policy/policies-regulations`
 ### Rule 10
 - `title`: `资料下载`
 - `source`:
+  - `www.ccagm.org.cn/download`
   - `www.ccagm.org.cn/download.html`
 - `target`: `/download`
 ### Rule 11
 - `title`: `工作总结与计划`
 - `source`:
+  - `www.ccagm.org.cn/about-association/gong-zuo-zong-jie-yu-ji-hua`
   - `www.ccagm.org.cn/about-association/gong-zuo-zong-jie-yu-ji-hua.html`
 - `target`: `/about-association/gong-zuo-zong-jie-yu-ji-hua`
 
@@ -182,12 +192,13 @@
   "radar": [
     {
       "source": [
-        "www.ccagm.org.cn/category?"
+        "www.ccagm.org.cn/"
       ],
-      "target": "/:category"
+      "target": "/association-news"
     },
     {
       "source": [
+        "www.ccagm.org.cn/association-news",
         "www.ccagm.org.cn/association-news.html"
       ],
       "target": "/association-news",
@@ -195,6 +206,7 @@
     },
     {
       "source": [
+        "www.ccagm.org.cn/xh-activity/activities-huiyi",
         "www.ccagm.org.cn/xh-activity/activities-huiyi.html"
       ],
       "target": "/xh-activity/activities-huiyi",
@@ -202,6 +214,7 @@
     },
     {
       "source": [
+        "www.ccagm.org.cn/xh-activity/bg-yj",
         "www.ccagm.org.cn/xh-activity/bg-yj.html"
       ],
       "target": "/xh-activity/bg-yj",
@@ -209,6 +222,7 @@
     },
     {
       "source": [
+        "www.ccagm.org.cn/xie-hui-dang-jian",
         "www.ccagm.org.cn/xie-hui-dang-jian.html"
       ],
       "target": "/xie-hui-dang-jian",
@@ -216,6 +230,7 @@
     },
     {
       "source": [
+        "www.ccagm.org.cn/members-info",
         "www.ccagm.org.cn/members-info.html"
       ],
       "target": "/members-info",
@@ -223,6 +238,7 @@
     },
     {
       "source": [
+        "www.ccagm.org.cn/bg-yj",
         "www.ccagm.org.cn/bg-yj.html"
       ],
       "target": "/bg-yj",
@@ -230,6 +246,7 @@
     },
     {
       "source": [
+        "www.ccagm.org.cn/industry-policy/industry-standard",
         "www.ccagm.org.cn/industry-policy/industry-standard.html"
       ],
       "target": "/industry-policy/industry-standard",
@@ -237,6 +254,7 @@
     },
     {
       "source": [
+        "www.ccagm.org.cn/industry-policy/policies-regulations",
         "www.ccagm.org.cn/industry-policy/policies-regulations.html"
       ],
       "target": "/industry-policy/policies-regulations",
@@ -244,6 +262,7 @@
     },
     {
       "source": [
+        "www.ccagm.org.cn/download",
         "www.ccagm.org.cn/download.html"
       ],
       "target": "/download",
@@ -251,6 +270,7 @@
     },
     {
       "source": [
+        "www.ccagm.org.cn/about-association/gong-zuo-zong-jie-yu-ji-hua",
         "www.ccagm.org.cn/about-association/gong-zuo-zong-jie-yu-ji-hua.html"
       ],
       "target": "/about-association/gong-zuo-zong-jie-yu-ji-hua",

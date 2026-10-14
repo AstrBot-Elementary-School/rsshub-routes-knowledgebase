@@ -40,6 +40,34 @@
 - `source`:
   - `inewsweek.cn/:channel`
   - `inewsweek.cn/`
+### Rule 2
+- `source`:
+  - `news.inewsweek.cn/cover`
+- `target`: `/cover`
+### Rule 3
+- `source`:
+  - `news.inewsweek.cn/politics`
+- `target`: `/politics`
+### Rule 4
+- `source`:
+  - `news.inewsweek.cn/society`
+- `target`: `/society`
+### Rule 5
+- `source`:
+  - `news.inewsweek.cn/finance`
+- `target`: `/finance`
+### Rule 6
+- `source`:
+  - `news.inewsweek.cn/world`
+- `target`: `/world`
+### Rule 7
+- `source`:
+  - `news.inewsweek.cn/survey`
+- `target`: `/survey`
+### Rule 8
+- `source`:
+  - `news.inewsweek.cn/people`
+- `target`: `/people`
 
 ## Raw JSON
 ```json
@@ -73,6 +101,48 @@
         "inewsweek.cn/:channel",
         "inewsweek.cn/"
       ]
+    },
+    {
+      "source": [
+        "news.inewsweek.cn/cover"
+      ],
+      "target": "/cover"
+    },
+    {
+      "source": [
+        "news.inewsweek.cn/politics"
+      ],
+      "target": "/politics"
+    },
+    {
+      "source": [
+        "news.inewsweek.cn/society"
+      ],
+      "target": "/society"
+    },
+    {
+      "source": [
+        "news.inewsweek.cn/finance"
+      ],
+      "target": "/finance"
+    },
+    {
+      "source": [
+        "news.inewsweek.cn/world"
+      ],
+      "target": "/world"
+    },
+    {
+      "source": [
+        "news.inewsweek.cn/survey"
+      ],
+      "target": "/survey"
+    },
+    {
+      "source": [
+        "news.inewsweek.cn/people"
+      ],
+      "target": "/people"
     }
   ],
   "test": {
@@ -93,8 +163,8 @@
     },
     {
       "description": "中国新闻周刊--国际 - Powered by RSSHub",
-      "errorAt": "2026-10-12T14:10:48.601Z",
-      "errorMessage": "503 \n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "66134229854672896",
       "image": null,
       "ownerUserId": null,

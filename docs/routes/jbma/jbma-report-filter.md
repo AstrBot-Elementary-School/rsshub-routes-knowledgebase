@@ -66,7 +66,8 @@ To subscribe to [Metals Forcus](https://jbma.net/cat_report/metals-forcus/), whe
 ## Radar
 ### Rule 1
 - `source`:
-  - `jbma.net/:type/:name?`
+  - `jbma.net/report`
+- `target`: `/report`
 ### Rule 2
 - `title`: `Metals Forcus`
 - `source`:
@@ -167,6 +168,14 @@ To subscribe to [Metals Forcus](https://jbma.net/cat_report/metals-forcus/), whe
 - `source`:
   - `jbma.net/tag_report/report`
 - `target`: `/report/tag_report/report`
+### Rule 22
+- `source`:
+  - `jbma.net/cat_report/:keyword`
+- `target`: `/report/cat_report/:keyword`
+### Rule 23
+- `source`:
+  - `jbma.net/tag_report/:keyword`
+- `target`: `/report/tag_report/:keyword`
 
 ## Raw JSON
 ```json
@@ -286,8 +295,9 @@ To subscribe to [Metals Forcus](https://jbma.net/cat_report/metals-forcus/), whe
   "radar": [
     {
       "source": [
-        "jbma.net/:type/:name?"
-      ]
+        "jbma.net/report"
+      ],
+      "target": "/report"
     },
     {
       "source": [
@@ -428,6 +438,18 @@ To subscribe to [Metals Forcus](https://jbma.net/cat_report/metals-forcus/), whe
       ],
       "target": "/report/tag_report/report",
       "title": "レポート"
+    },
+    {
+      "source": [
+        "jbma.net/cat_report/:keyword"
+      ],
+      "target": "/report/cat_report/:keyword"
+    },
+    {
+      "source": [
+        "jbma.net/tag_report/:keyword"
+      ],
+      "target": "/report/tag_report/:keyword"
     }
   ],
   "test": {

@@ -99,7 +99,7 @@ _None_
   "topFeeds": [
     {
       "description": "YouTube Music Charts - Top songs - Powered by RSSHub",
-      "errorAt": "2026-10-09T20:36:23.312Z",
+      "errorAt": "2026-10-13T00:46:22.847Z",
       "errorMessage": "[POST] \"https://charts.youtube.com/youtubei/v1/browse?alt=json&key=AIzaSyCzEW7JUJdSql0-2V4tHUb6laYm4iAE_dM\": 429 Too Many Requests\n",
       "id": "57503645768295424",
       "image": null,
@@ -111,7 +111,7 @@ _None_
     },
     {
       "description": "YouTube Music Charts - Top music videos - Powered by RSSHub",
-      "errorAt": "2026-10-10T14:46:11.007Z",
+      "errorAt": "2026-10-13T00:31:21.557Z",
       "errorMessage": "[POST] \"https://charts.youtube.com/youtubei/v1/browse?alt=json&key=AIzaSyCzEW7JUJdSql0-2V4tHUb6laYm4iAE_dM\": 429 Too Many Requests\n",
       "id": "57506261522656256",
       "image": null,

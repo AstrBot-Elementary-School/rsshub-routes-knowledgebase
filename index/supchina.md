@@ -3,9 +3,9 @@
 ## Namespace
 - Namespace: `supchina`
 - Display Name: `SupChina`
-- URL: `supchina.com`
+- URL: `thechinaproject.com`
 - Language: `_None_`
-- Aliases: `supchina, supchina.com`
+- Aliases: `supchina, thechinaproject, thechinaproject.com`
 - Route Count: `2`
 
 ## Routes

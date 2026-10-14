@@ -9,7 +9,7 @@
 - Route Path: `/bupt/portal`
 - Route Name: `信息门户`
 - Example: `/bupt/portal`
-- URL: `bupt.edu.cn`
+- URL: `www.bupt.edu.cn`
 - Language: `_None_`
 - Categories: `university`
 - Maintainers: `jiaming-shi, wzekin`

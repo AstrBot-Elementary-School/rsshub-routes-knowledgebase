@@ -10,7 +10,7 @@
 
 ## Routes
 
-### Lens Profile
+### Profile
 - Route ID: `lens:/lens/profile/:handle`
 - Route Path: `/lens/profile/:handle`
 - File: `docs/routes/lens/lens-profile-handle.md`

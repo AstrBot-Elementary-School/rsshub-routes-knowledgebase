@@ -31,9 +31,15 @@ _None_
 
 ## Radar
 ### Rule 1
+- `title`: `Videos (Latest, Ecchi)`
 - `source`:
   - `www.iwara.tv/videos`
+- `target`: `/ranking/video`
+### Rule 2
+- `title`: `Images (Latest, Ecchi)`
+- `source`:
   - `www.iwara.tv/images`
+- `target`: `/ranking/image`
 
 ## Raw JSON
 ```json
@@ -61,9 +67,17 @@ _None_
   "radar": [
     {
       "source": [
-        "www.iwara.tv/videos",
+        "www.iwara.tv/videos"
+      ],
+      "target": "/ranking/video",
+      "title": "Videos (Latest, Ecchi)"
+    },
+    {
+      "source": [
         "www.iwara.tv/images"
-      ]
+      ],
+      "target": "/ranking/image",
+      "title": "Images (Latest, Ecchi)"
     }
   ],
   "test": {

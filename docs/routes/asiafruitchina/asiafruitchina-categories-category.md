@@ -81,249 +81,246 @@
 
 ## Radar
 ### Rule 1
-- `source`:
-  - `asiafruitchina.net/categories`
-### Rule 2
 - `title`: `全部`
 - `source`:
   - `asiafruitchina.net/categories`
 - `target`: `/categories/all`
-### Rule 3
+### Rule 2
 - `title`: `橙`
 - `source`:
   - `asiafruitchina.net/categories`
 - `target`: `/categories/chengzi`
-### Rule 4
+### Rule 3
 - `title`: `百香果`
 - `source`:
   - `asiafruitchina.net/categories`
 - `target`: `/categories/baixiangguo`
-### Rule 5
+### Rule 4
 - `title`: `菠萝/凤梨`
 - `source`:
   - `asiafruitchina.net/categories`
 - `target`: `/categories/boluo`
-### Rule 6
+### Rule 5
 - `title`: `菠萝蜜`
 - `source`:
   - `asiafruitchina.net/categories`
 - `target`: `/categories/boluomi`
-### Rule 7
+### Rule 6
 - `title`: `草莓`
 - `source`:
   - `asiafruitchina.net/categories`
 - `target`: `/categories/caomei`
-### Rule 8
+### Rule 7
 - `title`: `番荔枝/释迦`
 - `source`:
   - `asiafruitchina.net/categories`
 - `target`: `/categories/fanlizhi`
-### Rule 9
+### Rule 8
 - `title`: `番茄`
 - `source`:
   - `asiafruitchina.net/categories`
 - `target`: `/categories/fanqie`
-### Rule 10
+### Rule 9
 - `title`: `柑橘`
 - `source`:
   - `asiafruitchina.net/categories`
 - `target`: `/categories/ganju`
-### Rule 11
+### Rule 10
 - `title`: `哈密瓜`
 - `source`:
   - `asiafruitchina.net/categories`
 - `target`: `/categories/hamigua`
-### Rule 12
+### Rule 11
 - `title`: `核果`
 - `source`:
   - `asiafruitchina.net/categories`
 - `target`: `/categories/heguo`
-### Rule 13
+### Rule 12
 - `title`: `红毛丹`
 - `source`:
   - `asiafruitchina.net/categories`
 - `target`: `/categories/hongmaodan`
-### Rule 14
+### Rule 13
 - `title`: `火龙果`
 - `source`:
   - `asiafruitchina.net/categories`
 - `target`: `/categories/huolongguo`
-### Rule 15
+### Rule 14
 - `title`: `浆果`
 - `source`:
   - `asiafruitchina.net/categories`
 - `target`: `/categories/jiangguo`
-### Rule 16
+### Rule 15
 - `title`: `桔子`
 - `source`:
   - `asiafruitchina.net/categories`
 - `target`: `/categories/juzi`
-### Rule 17
+### Rule 16
 - `title`: `蓝莓`
 - `source`:
   - `asiafruitchina.net/categories`
 - `target`: `/categories/lanmei`
-### Rule 18
+### Rule 17
 - `title`: `梨`
 - `source`:
   - `asiafruitchina.net/categories`
 - `target`: `/categories/li`
-### Rule 19
+### Rule 18
 - `title`: `荔枝`
 - `source`:
   - `asiafruitchina.net/categories`
 - `target`: `/categories/lizhi`
-### Rule 20
+### Rule 19
 - `title`: `李子`
 - `source`:
   - `asiafruitchina.net/categories`
 - `target`: `/categories/lizi`
-### Rule 21
+### Rule 20
 - `title`: `榴莲`
 - `source`:
   - `asiafruitchina.net/categories`
 - `target`: `/categories/liulian`
-### Rule 22
+### Rule 21
 - `title`: `龙眼`
 - `source`:
   - `asiafruitchina.net/categories`
 - `target`: `/categories/lognyan`
-### Rule 23
+### Rule 22
 - `title`: `芦笋`
 - `source`:
   - `asiafruitchina.net/categories`
 - `target`: `/categories/lusun`
-### Rule 24
+### Rule 23
 - `title`: `蔓越莓`
 - `source`:
   - `asiafruitchina.net/categories`
 - `target`: `/categories/manyuemei`
-### Rule 25
+### Rule 24
 - `title`: `芒果`
 - `source`:
   - `asiafruitchina.net/categories`
 - `target`: `/categories/mangguo`
-### Rule 26
+### Rule 25
 - `title`: `猕猴桃/奇异果`
 - `source`:
   - `asiafruitchina.net/categories`
 - `target`: `/categories/mihoutao`
-### Rule 27
+### Rule 26
 - `title`: `柠檬`
 - `source`:
   - `asiafruitchina.net/categories`
 - `target`: `/categories/ningmeng`
-### Rule 28
+### Rule 27
 - `title`: `牛油果`
 - `source`:
   - `asiafruitchina.net/categories`
 - `target`: `/categories/niuyouguo`
-### Rule 29
+### Rule 28
 - `title`: `苹果`
 - `source`:
   - `asiafruitchina.net/categories`
 - `target`: `/categories/pingguo`
-### Rule 30
+### Rule 29
 - `title`: `葡萄/提子`
 - `source`:
   - `asiafruitchina.net/categories`
 - `target`: `/categories/putao`
-### Rule 31
+### Rule 30
 - `title`: `其他`
 - `source`:
   - `asiafruitchina.net/categories`
 - `target`: `/categories/qita`
-### Rule 32
+### Rule 31
 - `title`: `奇异莓`
 - `source`:
   - `asiafruitchina.net/categories`
 - `target`: `/categories/qiyimei`
-### Rule 33
+### Rule 32
 - `title`: `热带水果`
 - `source`:
   - `asiafruitchina.net/categories`
 - `target`: `/categories/redaishuiguo`
-### Rule 34
+### Rule 33
 - `title`: `山竹`
 - `source`:
   - `asiafruitchina.net/categories`
 - `target`: `/categories/shanzhu`
-### Rule 35
+### Rule 34
 - `title`: `石榴`
 - `source`:
   - `asiafruitchina.net/categories`
 - `target`: `/categories/shiliu`
-### Rule 36
+### Rule 35
 - `title`: `蔬菜`
 - `source`:
   - `asiafruitchina.net/categories`
 - `target`: `/categories/shucai`
-### Rule 37
+### Rule 36
 - `title`: `树莓`
 - `source`:
   - `asiafruitchina.net/categories`
 - `target`: `/categories/shumei`
-### Rule 38
+### Rule 37
 - `title`: `桃`
 - `source`:
   - `asiafruitchina.net/categories`
 - `target`: `/categories/tao`
-### Rule 39
+### Rule 38
 - `title`: `甜瓜`
 - `source`:
   - `asiafruitchina.net/categories`
 - `target`: `/categories/tiangua`
-### Rule 40
+### Rule 39
 - `title`: `甜椒`
 - `source`:
   - `asiafruitchina.net/categories`
 - `target`: `/categories/tianjiao`
-### Rule 41
+### Rule 40
 - `title`: `甜柿`
 - `source`:
   - `asiafruitchina.net/categories`
 - `target`: `/categories/tianshi`
-### Rule 42
+### Rule 41
 - `title`: `香蕉`
 - `source`:
   - `asiafruitchina.net/categories`
 - `target`: `/categories/xiangjiao`
-### Rule 43
+### Rule 42
 - `title`: `西瓜`
 - `source`:
   - `asiafruitchina.net/categories`
 - `target`: `/categories/xigua`
-### Rule 44
+### Rule 43
 - `title`: `西梅`
 - `source`:
   - `asiafruitchina.net/categories`
 - `target`: `/categories/ximei`
-### Rule 45
+### Rule 44
 - `title`: `杏`
 - `source`:
   - `asiafruitchina.net/categories`
 - `target`: `/categories/xing`
-### Rule 46
+### Rule 45
 - `title`: `椰子`
 - `source`:
   - `asiafruitchina.net/categories`
 - `target`: `/categories/yezi`
-### Rule 47
+### Rule 46
 - `title`: `杨梅`
 - `source`:
   - `asiafruitchina.net/categories`
 - `target`: `/categories/yangmei`
-### Rule 48
+### Rule 47
 - `title`: `樱桃`
 - `source`:
   - `asiafruitchina.net/categories`
 - `target`: `/categories/yintao`
-### Rule 49
+### Rule 48
 - `title`: `油桃`
 - `source`:
   - `asiafruitchina.net/categories`
 - `target`: `/categories/youtao`
-### Rule 50
+### Rule 49
 - `title`: `柚子`
 - `source`:
   - `asiafruitchina.net/categories`
@@ -557,11 +554,6 @@
   },
   "path": "/categories/:category?",
   "radar": [
-    {
-      "source": [
-        "asiafruitchina.net/categories"
-      ]
-    },
     {
       "source": [
         "asiafruitchina.net/categories"

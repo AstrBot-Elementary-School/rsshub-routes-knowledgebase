@@ -1,11 +1,11 @@
-# WziFile - Version History
+# WizFile - Version History
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `wizfile`
-- Namespace Name: `WziFile`
+- Namespace Name: `WizFile`
 - Route Path: `/wizfile/updates`
 - Route Name: `Version History`
 - Example: `/wizfile/updates`

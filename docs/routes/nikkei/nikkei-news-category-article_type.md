@@ -34,7 +34,7 @@ _None_
 - `source`:
   - `www.nikkei.com/:category/archive`
   - `www.nikkei.com/:category`
-- `target`: `/:category`
+- `target`: `/news/:category`
 
 ## Raw JSON
 ```json
@@ -62,7 +62,7 @@ _None_
         "www.nikkei.com/:category/archive",
         "www.nikkei.com/:category"
       ],
-      "target": "/:category"
+      "target": "/news/:category"
     }
   ],
   "test": {

@@ -17,11 +17,11 @@
 - Source Module: `_None_`
 
 ## Description
-Sepcific MangaDex MDList Feed
+Specific MangaDex MDList Feed. The existing `private` query option requires authentication to access a private list.
 
 ## Parameters
 - `id`: {"description": "The list id of the manga list"}
-- `private`: {"description": "(Query Param) Needed to access private lists, any value will be treated as true"}
+- `lang`: {"description": "The translated chapter language, combined with the configured language preferences"}
 
 
 ## Features
@@ -40,7 +40,7 @@ Sepcific MangaDex MDList Feed
   "categories": [
     "anime"
   ],
-  "description": "Sepcific MangaDex MDList Feed",
+  "description": "Specific MangaDex MDList Feed. The existing `private` query option requires authentication to access a private list.",
   "example": "/mangadex/mdlist/10cca803-8dc9-4f0e-86a8-6659a3ce5188?limit=10&private=true",
   "features": {
     "nsfw": true,
@@ -82,8 +82,8 @@ Sepcific MangaDex MDList Feed
     "id": {
       "description": "The list id of the manga list"
     },
-    "private": {
-      "description": "(Query Param) Needed to access private lists, any value will be treated as true"
+    "lang": {
+      "description": "The translated chapter language, combined with the configured language preferences"
     }
   },
   "path": "/mdlist/:id/:lang?",

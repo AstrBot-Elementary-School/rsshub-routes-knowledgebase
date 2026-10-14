@@ -1,11 +1,11 @@
-# 重庆科技学院 - 教务处公告
+# 重庆科技大学 - 教务处公告
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `cqust`
-- Namespace Name: `重庆科技学院`
+- Namespace Name: `重庆科技大学`
 - Route Path: `/cqust/jw/:type?`
 - Route Name: `教务处公告`
 - Example: `/cqust/jw/notify`

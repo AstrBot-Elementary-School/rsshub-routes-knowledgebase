@@ -1,4 +1,4 @@
-# 「ONE · 一个」 - 「ONE · 一个」
+# 「ONE · 一个」 - 首页更新
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `wufazhuce`
 - Namespace Name: `「ONE · 一个」`
 - Route Path: `/wufazhuce/one`
-- Route Name: `「ONE · 一个」`
+- Route Name: `首页更新`
 - Example: `/wufazhuce/one`
 - URL: `wufazhuce.com`
 - Language: `_None_`
@@ -58,7 +58,7 @@ _None_
     "fengkx",
     "sicheng1806"
   ],
-  "name": "「ONE · 一个」",
+  "name": "首页更新",
   "path": "/one",
   "radar": [
     {

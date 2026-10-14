@@ -26,7 +26,7 @@
 
 ## Features
 - `requireConfig`: false
-- `requirePuppeteer`: false
+- `requirePuppeteer`: true
 - `antiCrawler`: true
 - `supportBT`: false
 - `supportPodcast`: false
@@ -35,7 +35,7 @@
 ## Radar
 ### Rule 1
 - `source`:
-  - `xueqiu.com/:uid/:id`
+  - `xueqiu.com/`
 - `target`: `/status/:uid/:id`
 
 ## Raw JSON
@@ -49,7 +49,7 @@
   "features": {
     "antiCrawler": true,
     "requireConfig": false,
-    "requirePuppeteer": false,
+    "requirePuppeteer": true,
     "supportBT": false,
     "supportPodcast": false,
     "supportScihub": false
@@ -68,7 +68,7 @@
   "radar": [
     {
       "source": [
-        "xueqiu.com/:uid/:id"
+        "xueqiu.com/"
       ],
       "target": "/status/:uid/:id"
     }

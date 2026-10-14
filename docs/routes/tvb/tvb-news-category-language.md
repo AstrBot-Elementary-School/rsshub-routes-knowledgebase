@@ -45,8 +45,12 @@
 ## Radar
 ### Rule 1
 - `source`:
-  - `tvb.com/:language/:category`
-  - `tvb.com/`
+  - `news.tvb.com/`
+- `target`: `/news`
+### Rule 2
+- `source`:
+  - `news.tvb.com/:language/:category`
+- `target`: `/news/:category/:language`
 
 ## Raw JSON
 ```json
@@ -78,9 +82,15 @@
   "radar": [
     {
       "source": [
-        "tvb.com/:language/:category",
-        "tvb.com/"
-      ]
+        "news.tvb.com/"
+      ],
+      "target": "/news"
+    },
+    {
+      "source": [
+        "news.tvb.com/:language/:category"
+      ],
+      "target": "/news/:category/:language"
     }
   ],
   "test": {

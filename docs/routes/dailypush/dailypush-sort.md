@@ -26,7 +26,7 @@ _None_
 ## Features
 - `requireConfig`: false
 - `requirePuppeteer`: true
-- `antiCrawler`: false
+- `antiCrawler`: true
 - `supportBT`: false
 - `supportPodcast`: false
 - `supportScihub`: false
@@ -35,8 +35,15 @@ _None_
 ### Rule 1
 - `source`:
   - `dailypush.dev/`
-  - `dailypush.dev/latest`
+  - `dailypush.dev/`
+  - `dailypush.dev/`
 - `target`: `/`
+### Rule 2
+- `source`:
+  - `dailypush.dev/latest`
+  - `dailypush.dev/latest`
+  - `dailypush.dev/latest`
+- `target`: `/latest`
 
 ## Raw JSON
 ```json
@@ -46,7 +53,7 @@ _None_
   ],
   "example": "/dailypush/latest",
   "features": {
-    "antiCrawler": false,
+    "antiCrawler": true,
     "requireConfig": false,
     "requirePuppeteer": true,
     "supportBT": false,
@@ -80,9 +87,18 @@ _None_
     {
       "source": [
         "dailypush.dev/",
-        "dailypush.dev/latest"
+        "dailypush.dev/",
+        "dailypush.dev/"
       ],
       "target": "/"
+    },
+    {
+      "source": [
+        "dailypush.dev/latest",
+        "dailypush.dev/latest",
+        "dailypush.dev/latest"
+      ],
+      "target": "/latest"
     }
   ],
   "test": {

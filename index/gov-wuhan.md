@@ -10,7 +10,7 @@
 
 ## Routes
 
-### 武汉市科学技术局 - 新闻中心
+### 市科学技术局 - 新闻中心
 - Route ID: `gov/wuhan:/gov/wuhan/kjj/:caty`
 - Route Path: `/gov/wuhan/kjj/:caty`
 - File: `docs/routes/gov-wuhan/gov-wuhan-kjj-caty.md`
@@ -26,7 +26,7 @@
 - Categories: `government`
 - Maintainers: `nczitzk`
 
-### 武汉东湖新技术开发区 - 光谷新闻
+### 东湖新技术开发区 - 光谷新闻
 - Route ID: `gov/wuhan:/gov/wuhan/wehdz/:caty`
 - Route Path: `/gov/wuhan/wehdz/:caty`
 - File: `docs/routes/gov-wuhan/gov-wuhan-wehdz-caty.md`

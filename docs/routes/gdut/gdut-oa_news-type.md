@@ -29,7 +29,7 @@
 | 招标公告 | tender\_invite | 否               |
 
 ## Parameters
-- `type`: 通知类型，留空则获取所有分类
+- `type`: 通知类型，默认为 notice（校内通知），可选值见下表
 
 
 ## Features
@@ -71,7 +71,7 @@
   ],
   "name": "通知公文网",
   "parameters": {
-    "type": "通知类型，留空则获取所有分类"
+    "type": "通知类型，默认为 notice（校内通知），可选值见下表"
   },
   "path": "/oa_news/:type?",
   "radar": [

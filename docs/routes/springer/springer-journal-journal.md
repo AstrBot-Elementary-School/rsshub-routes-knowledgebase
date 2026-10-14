@@ -25,7 +25,7 @@ _None_
 
 ## Features
 - `requireConfig`: false
-- `requirePuppeteer`: false
+- `requirePuppeteer`: true
 - `antiCrawler`: false
 - `supportBT`: false
 - `supportPodcast`: false
@@ -34,7 +34,14 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
+  - `www.springer.com/journal/:journal`
   - `www.springer.com/journal/:journal/*`
+- `target`: `/journal/:journal`
+### Rule 2
+- `source`:
+  - `link.springer.com/journal/:journal`
+  - `link.springer.com/journal/:journal/*`
+- `target`: `/journal/:journal`
 
 ## Raw JSON
 ```json
@@ -46,7 +53,7 @@ _None_
   "features": {
     "antiCrawler": false,
     "requireConfig": false,
-    "requirePuppeteer": false,
+    "requirePuppeteer": true,
     "supportBT": false,
     "supportPodcast": false,
     "supportScihub": false
@@ -66,8 +73,17 @@ _None_
   "radar": [
     {
       "source": [
+        "www.springer.com/journal/:journal",
         "www.springer.com/journal/:journal/*"
-      ]
+      ],
+      "target": "/journal/:journal"
+    },
+    {
+      "source": [
+        "link.springer.com/journal/:journal",
+        "link.springer.com/journal/:journal/*"
+      ],
+      "target": "/journal/:journal"
     }
   ],
   "test": {

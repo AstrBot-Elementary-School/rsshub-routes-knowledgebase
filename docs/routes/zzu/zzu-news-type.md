@@ -1,4 +1,4 @@
-# 郑州大学 - 郑大新闻网
+# 郑州大学 - 新闻网
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `zzu`
 - Namespace Name: `郑州大学`
 - Route Path: `/zzu/news/:type`
-- Route Name: `郑大新闻网`
+- Route Name: `新闻网`
 - Example: `/zzu/news/ywsd`
 - URL: `www.zzu.edu.cn`
 - Language: `_None_`
@@ -60,7 +60,7 @@
     "nia3y",
     "amandus1990"
   ],
-  "name": "郑大新闻网",
+  "name": "新闻网",
   "parameters": {
     "type": "分类名"
   },

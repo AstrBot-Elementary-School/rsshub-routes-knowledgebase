@@ -23,7 +23,7 @@
 
 | 全部 | 深度 | 精选 | 热点追踪 |
 | :--: | :--: | :--: | :------: |
-|      |  -2  |   1  |     2    |
+|   0  |   1  |   2  |     3    |
 
 ## Parameters
 - `channel`: {"default": "newsflash", "description": "类型", "options": [{"label": "快讯", "value": "newsflash"}, {"label": "文章", "value": "article"}]}
@@ -51,7 +51,7 @@ _None_
   "categories": [
     "finance"
   ],
-  "description": "|    快讯   |   文章  |\n| :-------: | :-----: |\n| newsflash | article |\n\n| 全部 | 深度 | 精选 | 热点追踪 |\n| :--: | :--: | :--: | :------: |\n|      |  -2  |   1  |     2    |",
+  "description": "|    快讯   |   文章  |\n| :-------: | :-----: |\n| newsflash | article |\n\n| 全部 | 深度 | 精选 | 热点追踪 |\n| :--: | :--: | :--: | :------: |\n|   0  |   1  |   2  |     3    |",
   "example": "/theblockbeats/newsflash",
   "heat": 816,
   "location": "index.tsx",

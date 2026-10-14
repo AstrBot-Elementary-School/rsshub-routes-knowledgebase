@@ -1,4 +1,4 @@
-# Maven - Maven Central Feed
+# Maven - Central Feed
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `maven`
 - Namespace Name: `Maven`
 - Route Path: `/maven/central/:group/:artifact`
-- Route Name: `Maven Central Feed`
+- Route Name: `Central Feed`
 - Example: `/maven/central/org.springframework/spring-core`
 - URL: `central.sonatype.com/`
 - Language: `_None_`
@@ -39,7 +39,7 @@ Get the latest versions of a Maven artifact from Maven Central Repository.
 - `source`:
   - `central.sonatype.com/artifact/:group/:artifact/:suffix`
   - `central.sonatype.com/artifact/:group/:artifact`
-- `target`: `/maven/central/:group/:artifact`
+- `target`: `/central/:group/:artifact`
 
 ## Raw JSON
 ```json
@@ -64,7 +64,7 @@ Get the latest versions of a Maven artifact from Maven Central Repository.
   "maintainers": [
     "chrisis58"
   ],
-  "name": "Maven Central Feed",
+  "name": "Central Feed",
   "parameters": {
     "artifact": {
       "description": "The artifact ID of the Maven artifact (e.g., spring-core)"
@@ -80,7 +80,7 @@ Get the latest versions of a Maven artifact from Maven Central Repository.
         "central.sonatype.com/artifact/:group/:artifact/:suffix",
         "central.sonatype.com/artifact/:group/:artifact"
       ],
-      "target": "/maven/central/:group/:artifact"
+      "target": "/central/:group/:artifact"
     }
   ],
   "test": {

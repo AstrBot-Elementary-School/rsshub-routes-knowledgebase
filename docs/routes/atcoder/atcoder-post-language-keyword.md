@@ -20,7 +20,7 @@
 _None_
 
 ## Parameters
-- `language`: Language, `jp` as Japanese or `en` as English, English by default
+- `language`: Language, `ja` (or legacy `jp`) as Japanese or `en` as English, English by default
 - `keyword`: Keyword
 
 
@@ -58,7 +58,7 @@ _None_
   "name": "Posts",
   "parameters": {
     "keyword": "Keyword",
-    "language": "Language, `jp` as Japanese or `en` as English, English by default"
+    "language": "Language, `ja` (or legacy `jp`) as Japanese or `en` as English, English by default"
   },
   "path": "/post/:language?/:keyword?",
   "test": {

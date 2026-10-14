@@ -1,4 +1,4 @@
-# 豆瓣 - 豆瓣招聘
+# 豆瓣 - 招聘
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `douban`
 - Namespace Name: `豆瓣`
 - Route Path: `/douban/jobs/:type`
-- Route Name: `豆瓣招聘`
+- Route Name: `招聘`
 - Example: `/douban/jobs/campus`
 - URL: `www.douban.com`
 - Language: `_None_`
@@ -57,7 +57,7 @@ _None_
   "maintainers": [
     "Fatpandac"
   ],
-  "name": "豆瓣招聘",
+  "name": "招聘",
   "parameters": {
     "type": "招聘类型，见下表"
   },

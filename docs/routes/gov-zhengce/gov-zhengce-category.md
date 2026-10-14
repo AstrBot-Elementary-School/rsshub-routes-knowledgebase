@@ -36,8 +36,21 @@
 ## Radar
 ### Rule 1
 - `source`:
-  - `www.gov.cn/zhengce/*category`
-- `target`: `/:category`
+  - `www.gov.cn/zhengce/`
+  - `www.gov.cn/zhengce/index.htm`
+  - `www.gov.cn/zhengce/zuixin/`
+  - `www.gov.cn/zhengce/zuixin/index.htm`
+- `target`: `/`
+### Rule 2
+- `source`:
+  - `www.gov.cn/zhengce/jiedu/`
+  - `www.gov.cn/zhengce/jiedu/index.htm`
+- `target`: `/jiedu`
+### Rule 3
+- `source`:
+  - `www.gov.cn/zhengce/jiedu/tujie/`
+  - `www.gov.cn/zhengce/jiedu/tujie/index.htm`
+- `target`: `/jiedu/tujie`
 
 ## Raw JSON
 ```json
@@ -68,9 +81,26 @@
   "radar": [
     {
       "source": [
-        "www.gov.cn/zhengce/*category"
+        "www.gov.cn/zhengce/",
+        "www.gov.cn/zhengce/index.htm",
+        "www.gov.cn/zhengce/zuixin/",
+        "www.gov.cn/zhengce/zuixin/index.htm"
       ],
-      "target": "/:category"
+      "target": "/"
+    },
+    {
+      "source": [
+        "www.gov.cn/zhengce/jiedu/",
+        "www.gov.cn/zhengce/jiedu/index.htm"
+      ],
+      "target": "/jiedu"
+    },
+    {
+      "source": [
+        "www.gov.cn/zhengce/jiedu/tujie/",
+        "www.gov.cn/zhengce/jiedu/tujie/index.htm"
+      ],
+      "target": "/jiedu/tujie"
     }
   ],
   "test": {

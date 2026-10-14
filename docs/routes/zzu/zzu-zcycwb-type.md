@@ -1,4 +1,4 @@
-# 郑州大学 - 郑大资产与财务部
+# 郑州大学 - 资产与财务部
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `zzu`
 - Namespace Name: `郑州大学`
 - Route Path: `/zzu/zcycwb/:type`
-- Route Name: `郑大资产与财务部`
+- Route Name: `资产与财务部`
 - Example: `/zzu/zcycwb/xwzx`
 - URL: `www.zzu.edu.cn`
 - Language: `_None_`
@@ -59,7 +59,7 @@
   "maintainers": [
     "amandus1990"
   ],
-  "name": "郑大资产与财务部",
+  "name": "资产与财务部",
   "parameters": {
     "type": "分类名"
   },

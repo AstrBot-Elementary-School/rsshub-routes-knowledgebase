@@ -9,7 +9,7 @@
 - Route Path: `/eeo/:column?/:category?`
 - Route Name: `栏目`
 - Example: `/eeo/yaowen/dashi`
-- URL: `eeo.com.cn`
+- URL: `www.eeo.com.cn`
 - Language: `_None_`
 - Categories: `traditional-media`
 - Maintainers: `epirus, nczitzk`

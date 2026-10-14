@@ -9,7 +9,7 @@
 - Route Path: `/earthquake/ceic/:type?`
 - Route Name: `中国地震台`
 - Example: `/earthquake/ceic/1`
-- URL: `www.cea.gov.cn/cea/xwzx/zqsd/index.html`
+- URL: `www.ceic.ac.cn`
 - Language: `_None_`
 - Categories: `forecast`
 - Maintainers: `SettingDust`
@@ -44,9 +44,8 @@
 ## Radar
 ### Rule 1
 - `source`:
-  - `www.cea.gov.cn/cea/xwzx/zqsd/index.html`
-  - `www.cea.gov.cn/`
-- `target`: ``
+  - `www.ceic.ac.cn/`
+- `target`: `/ceic/1`
 
 ## Raw JSON
 ```json
@@ -77,10 +76,9 @@
   "radar": [
     {
       "source": [
-        "www.cea.gov.cn/cea/xwzx/zqsd/index.html",
-        "www.cea.gov.cn/"
+        "www.ceic.ac.cn/"
       ],
-      "target": ""
+      "target": "/ceic/1"
     }
   ],
   "test": {
@@ -101,6 +99,6 @@
       "url": "rsshub://earthquake/ceic/1"
     }
   ],
-  "url": "www.cea.gov.cn/cea/xwzx/zqsd/index.html"
+  "url": "www.ceic.ac.cn"
 }
 ```

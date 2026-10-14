@@ -3,9 +3,9 @@
 ## Namespace
 - Namespace: `dapenti`
 - Display Name: `喷嚏`
-- URL: `dapenti.com`
+- URL: `www.dapenti.com`
 - Language: `_None_`
-- Aliases: `dapenti, dapenti.com, 喷嚏`
+- Aliases: `dapenti, dapenti.com, www, www.dapenti.com, 喷嚏`
 - Route Count: `2`
 
 ## Routes

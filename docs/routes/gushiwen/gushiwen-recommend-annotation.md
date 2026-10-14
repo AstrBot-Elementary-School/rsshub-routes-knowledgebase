@@ -9,7 +9,7 @@
 - Route Path: `/gushiwen/recommend/:annotation?`
 - Route Name: `首页推荐`
 - Example: `/gushiwen/recommend/zhushang`
-- URL: `www.gushiwen.cn`
+- URL: `www.guwendao.net`
 - Language: `_None_`
 - Categories: `other`
 - Maintainers: `LogicJake`

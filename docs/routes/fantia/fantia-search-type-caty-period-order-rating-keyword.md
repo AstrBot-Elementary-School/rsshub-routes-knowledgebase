@@ -70,7 +70,7 @@ Rating
 ## Parameters
 - `type`: {"default": "posts", "description": "Type, see the table below, `posts` by default", "options": [{"label": "クリエイター", "value": "fanclubs"}, {"label": "投稿", "value": "posts"}, {"label": "商品", "value": "products"}, {"label": "コミッション", "value": "commissions"}]}
 - `caty`: {"default": "all", "description": "Category, see the table below, can also be found in search page URL, `すべてのクリエイター` by default", "options": [{"label": "すべてのクリエイター", "value": "all"}, {"label": "イラスト", "value": "illust"}, {"label": "漫画", "value": "comic"}, {"label": "コスプレ", "value": "cosplay"}, {"label": "YouTuber・配信者", "value": "youtuber"}, {"label": "Vtuber", "value": "vtuber"}, {"label": "音声作品・ASMR", "value": "voice"}, {"label": "声優・歌い手", "value": "voiceactor"}, {"label": "アイドル", "value": "idol"}, {"label": "アニメ・映像・写真", "value": "anime"}, {"label": "3D", "value": "3d"}, {"label": "ゲーム制作", "value": "game"}, {"label": "音楽", "value": "music"}, {"label": "小説", "value": "novel"}, {"label": "ドール", "value": "doll"}, {"label": "アート・デザイン", "value": "art"}, {"label": "プログラム", "value": "program"}, {"label": "創作・ハンドメイド", "value": "handmade"}, {"label": "歴史・評論・情報", "value": "history"}, {"label": "鉄道・旅行・ミリタリー", "value": "railroad"}, {"label": "ショップ", "value": "shop"}, {"label": "その他", "value": "other"}]}
-- `period`: {"default": "", "description": "Ranking period, see the table below, empty by default", "options": [{"label": "デイリー", "value": "daily"}, {"label": "ウィークリー", "value": "weekly"}, {"label": "マンスリー", "value": "monthly"}, {"label": "全期間", "value": "all"}]}
+- `period`: {"default": "", "description": "Ranking period, see the table below, empty by default. Rankings cannot be combined with a keyword or a custom search order.", "options": [{"label": "デイリー", "value": "daily"}, {"label": "ウィークリー", "value": "weekly"}, {"label": "マンスリー", "value": "monthly"}, {"label": "全期間", "value": "all"}]}
 - `order`: {"default": "updater", "description": "Sorting, see the table below, `更新の新しい順` by default", "options": [{"label": "更新の新しい順", "value": "updater"}, {"label": "更新の古い順", "value": "update_old"}, {"label": "投稿の新しい順", "value": "newer"}, {"label": "投稿の古い順", "value": "create_old"}, {"label": "お気に入り数順", "value": "popular"}]}
 - `rating`: {"default": "all", "description": "Rating, see the table below, `すべて` by default", "options": [{"label": "すべて", "value": "all"}, {"label": "一般のみ", "value": "general"}, {"label": "R18 のみ", "value": "adult"}]}
 - `keyword`: Keyword, empty by default
@@ -241,7 +241,7 @@ _None_
     },
     "period": {
       "default": "",
-      "description": "Ranking period, see the table below, empty by default",
+      "description": "Ranking period, see the table below, empty by default. Rankings cannot be combined with a keyword or a custom search order.",
       "options": [
         {
           "label": "デイリー",

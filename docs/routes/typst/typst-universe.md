@@ -9,7 +9,7 @@
 - Route Path: `/typst/universe`
 - Route Name: `Universe`
 - Example: `/typst/universe`
-- URL: `typst.com`
+- URL: `typst.app`
 - Language: `_None_`
 - Categories: `program-update`
 - Maintainers: `HPDell`

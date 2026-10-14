@@ -15,5 +15,5 @@
 - Route Path: `/lmu/jobs`
 - File: `docs/routes/lmu/lmu-jobs.md`
 - File Name: `lmu-jobs.md`
-- Categories: `university, study`
+- Categories: `university`
 - Maintainers: `StarDxxx`

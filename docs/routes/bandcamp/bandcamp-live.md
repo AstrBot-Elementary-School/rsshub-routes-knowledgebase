@@ -1,4 +1,4 @@
-# Bandcamp - Upcoming Live Streams
+# Bandcamp - Upcoming Live Events
 
 ## Coverage
 `index-only`
@@ -7,13 +7,13 @@
 - Namespace: `bandcamp`
 - Namespace Name: `Bandcamp`
 - Route Path: `/bandcamp/live`
-- Route Name: `Upcoming Live Streams`
+- Route Name: `Upcoming Live Events`
 - Example: `/bandcamp/live`
-- URL: `bandcamp.com/live_schedule`
+- URL: `bandcamp.com/live`
 - Language: `_None_`
 - Categories: `multimedia`
 - Maintainers: `nczitzk`
-- Source Location: `live.ts`
+- Source Location: `live.tsx`
 - Source Module: `_None_`
 
 ## Description
@@ -35,6 +35,7 @@ _None_
 ### Rule 1
 - `source`:
   - `bandcamp.com/live_schedule`
+  - `bandcamp.com/live`
 
 ## Raw JSON
 ```json
@@ -52,17 +53,18 @@ _None_
     "supportScihub": false
   },
   "heat": 1,
-  "location": "live.ts",
+  "location": "live.tsx",
   "maintainers": [
     "nczitzk"
   ],
-  "name": "Upcoming Live Streams",
+  "name": "Upcoming Live Events",
   "parameters": {},
   "path": "/live",
   "radar": [
     {
       "source": [
-        "bandcamp.com/live_schedule"
+        "bandcamp.com/live_schedule",
+        "bandcamp.com/live"
       ]
     }
   ],
@@ -84,6 +86,6 @@ _None_
       "url": "rsshub://bandcamp/live"
     }
   ],
-  "url": "bandcamp.com/live_schedule"
+  "url": "bandcamp.com/live"
 }
 ```

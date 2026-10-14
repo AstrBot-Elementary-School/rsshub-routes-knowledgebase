@@ -21,7 +21,7 @@ _None_
 
 ## Parameters
 - `cate`: Category, get by URL, `all` by default
-- `language`: {"default": "en", "description": "Language", "options": [{"label": "cn", "value": "cn"}, {"label": "tw", "value": "tw"}, {"label": "en", "value": "en"}]}
+- `language`: {"default": "cn", "description": "Language", "options": [{"label": "cn", "value": "cn"}, {"label": "tw", "value": "tw"}, {"label": "en", "value": "en"}, {"label": "jp", "value": "jp"}, {"label": "kr", "value": "kr"}, {"label": "es", "value": "es"}, {"label": "de", "value": "de"}, {"label": "ru", "value": "ru"}]}
 
 
 ## Features
@@ -37,6 +37,62 @@ _None_
 - `source`:
   - `cn.eagle.cool/blog`
 - `target`: `/blog`
+### Rule 2
+- `source`:
+  - `cn.eagle.cool/blog/design-resources`
+- `target`: `/blog/design-resources/cn`
+### Rule 3
+- `source`:
+  - `cn.eagle.cool/blog/learn-design`
+- `target`: `/blog/learn-design/cn`
+### Rule 4
+- `source`:
+  - `cn.eagle.cool/blog/inside-eagle`
+- `target`: `/blog/inside-eagle/cn`
+### Rule 5
+- `source`:
+  - `cn.eagle.cool/blog/why-eagle`
+- `target`: `/blog/why-eagle/cn`
+### Rule 6
+- `source`:
+  - `tw.eagle.cool/blog/design-resources`
+- `target`: `/blog/design-resources/tw`
+### Rule 7
+- `source`:
+  - `tw.eagle.cool/blog/learn-design`
+- `target`: `/blog/learn-design/tw`
+### Rule 8
+- `source`:
+  - `tw.eagle.cool/blog/inside-eagle`
+- `target`: `/blog/inside-eagle/tw`
+### Rule 9
+- `source`:
+  - `tw.eagle.cool/blog/why-eagle`
+- `target`: `/blog/why-eagle/tw`
+### Rule 10
+- `source`:
+  - `tw.eagle.cool/blog`
+- `target`: `/blog/all/tw`
+### Rule 11
+- `source`:
+  - `en.eagle.cool/blog/design-resources`
+- `target`: `/blog/design-resources/en`
+### Rule 12
+- `source`:
+  - `en.eagle.cool/blog/learn-design`
+- `target`: `/blog/learn-design/en`
+### Rule 13
+- `source`:
+  - `en.eagle.cool/blog/inside-eagle`
+- `target`: `/blog/inside-eagle/en`
+### Rule 14
+- `source`:
+  - `en.eagle.cool/blog/why-eagle`
+- `target`: `/blog/why-eagle/en`
+### Rule 15
+- `source`:
+  - `en.eagle.cool/blog`
+- `target`: `/blog/all/en`
 
 ## Raw JSON
 ```json
@@ -62,7 +118,7 @@ _None_
   "parameters": {
     "cate": "Category, get by URL, `all` by default",
     "language": {
-      "default": "en",
+      "default": "cn",
       "description": "Language",
       "options": [
         {
@@ -76,6 +132,26 @@ _None_
         {
           "label": "en",
           "value": "en"
+        },
+        {
+          "label": "jp",
+          "value": "jp"
+        },
+        {
+          "label": "kr",
+          "value": "kr"
+        },
+        {
+          "label": "es",
+          "value": "es"
+        },
+        {
+          "label": "de",
+          "value": "de"
+        },
+        {
+          "label": "ru",
+          "value": "ru"
         }
       ]
     }
@@ -87,6 +163,90 @@ _None_
         "cn.eagle.cool/blog"
       ],
       "target": "/blog"
+    },
+    {
+      "source": [
+        "cn.eagle.cool/blog/design-resources"
+      ],
+      "target": "/blog/design-resources/cn"
+    },
+    {
+      "source": [
+        "cn.eagle.cool/blog/learn-design"
+      ],
+      "target": "/blog/learn-design/cn"
+    },
+    {
+      "source": [
+        "cn.eagle.cool/blog/inside-eagle"
+      ],
+      "target": "/blog/inside-eagle/cn"
+    },
+    {
+      "source": [
+        "cn.eagle.cool/blog/why-eagle"
+      ],
+      "target": "/blog/why-eagle/cn"
+    },
+    {
+      "source": [
+        "tw.eagle.cool/blog/design-resources"
+      ],
+      "target": "/blog/design-resources/tw"
+    },
+    {
+      "source": [
+        "tw.eagle.cool/blog/learn-design"
+      ],
+      "target": "/blog/learn-design/tw"
+    },
+    {
+      "source": [
+        "tw.eagle.cool/blog/inside-eagle"
+      ],
+      "target": "/blog/inside-eagle/tw"
+    },
+    {
+      "source": [
+        "tw.eagle.cool/blog/why-eagle"
+      ],
+      "target": "/blog/why-eagle/tw"
+    },
+    {
+      "source": [
+        "tw.eagle.cool/blog"
+      ],
+      "target": "/blog/all/tw"
+    },
+    {
+      "source": [
+        "en.eagle.cool/blog/design-resources"
+      ],
+      "target": "/blog/design-resources/en"
+    },
+    {
+      "source": [
+        "en.eagle.cool/blog/learn-design"
+      ],
+      "target": "/blog/learn-design/en"
+    },
+    {
+      "source": [
+        "en.eagle.cool/blog/inside-eagle"
+      ],
+      "target": "/blog/inside-eagle/en"
+    },
+    {
+      "source": [
+        "en.eagle.cool/blog/why-eagle"
+      ],
+      "target": "/blog/why-eagle/en"
+    },
+    {
+      "source": [
+        "en.eagle.cool/blog"
+      ],
+      "target": "/blog/all/en"
     }
   ],
   "test": {

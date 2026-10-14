@@ -44,29 +44,26 @@
 
 ## Radar
 ### Rule 1
-- `source`:
-  - `www.cbndata.com/information`
-### Rule 2
 - `title`: `全部`
 - `source`:
   - `www.cbndata.com/information`
 - `target`: `/information/all`
-### Rule 3
+### Rule 2
 - `title`: `美妆个护`
 - `source`:
   - `www.cbndata.com/information`
 - `target`: `/information/1`
-### Rule 4
+### Rule 3
 - `title`: `服饰鞋包`
 - `source`:
   - `www.cbndata.com/information`
 - `target`: `/information/2559`
-### Rule 5
+### Rule 4
 - `title`: `宠物`
 - `source`:
   - `www.cbndata.com/information`
 - `target`: `/information/2419`
-### Rule 6
+### Rule 5
 - `title`: `营销`
 - `source`:
   - `www.cbndata.com/information`
@@ -124,11 +121,6 @@
   },
   "path": "/information/:id?",
   "radar": [
-    {
-      "source": [
-        "www.cbndata.com/information"
-      ]
-    },
     {
       "source": [
         "www.cbndata.com/information"

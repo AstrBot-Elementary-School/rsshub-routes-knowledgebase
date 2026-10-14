@@ -35,7 +35,7 @@ _None_
 ### Rule 1
 - `source`:
   - `developer.huawei.com/consumer/cn/samples`
-- `target`: `/huawei/developer/harmonyos/sample-code`
+- `target`: `/developer/harmonyos/sample-code`
 
 ## Raw JSON
 ```json
@@ -64,7 +64,7 @@ _None_
       "source": [
         "developer.huawei.com/consumer/cn/samples"
       ],
-      "target": "/huawei/developer/harmonyos/sample-code"
+      "target": "/developer/harmonyos/sample-code"
     }
   ],
   "test": {

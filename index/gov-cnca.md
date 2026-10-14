@@ -1,11 +1,11 @@
-# 中国国家认证认可监管管理员会 Route Index
+# 国家认证认可监督管理委员会 Route Index
 
 ## Namespace
 - Namespace: `gov/cnca`
-- Display Name: `中国国家认证认可监管管理员会`
+- Display Name: `国家认证认可监督管理委员会`
 - URL: `www.cnca.gov.cn`
 - Language: `_None_`
-- Aliases: `cnca.gov.cn, gov/cnca, www, www.cnca.gov.cn, 中国国家认证认可监管管理员会`
+- Aliases: `cnca.gov.cn, gov/cnca, www, www.cnca.gov.cn, 国家认证认可监督管理委员会`
 - Route Count: `3`
 
 ## Routes

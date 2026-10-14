@@ -28,12 +28,12 @@
 ## Parameters
 - `type`: 专辑类型, 通常可以使用 `album`，可在对应专辑页面的 URL 中找到
 - `id`: 专辑 id, 可在对应专辑页面的 URL 中找到
-- `all`: 是否需要获取全部节目，填入 `1`、`true`、`all` 视为获取所有节目，填入其他则不获取。
+- `all`: 是否获取首屏最多 200 个节目，填入 `1`、`true`、`all` 视为开启，填入其他则获取首屏最多 30 个节目。
 - `shownote`: 是否需要获取节目的 ShowNote，填入 `1`、`true`,`shownote` 视为获取，填入其他则不获取。
 
 
 ## Features
-- `requireConfig`: [{"description": "", "name": "XIMALAYA_TOKEN"}]
+- `requireConfig`: [{"description": "仅获取已购买的付费内容时需要配置。", "name": "XIMALAYA_TOKEN", "optional": true}]
 - `requirePuppeteer`: false
 - `antiCrawler`: false
 - `supportBT`: false
@@ -55,8 +55,9 @@ _None_
     "antiCrawler": false,
     "requireConfig": [
       {
-        "description": "",
-        "name": "XIMALAYA_TOKEN"
+        "description": "仅获取已购买的付费内容时需要配置。",
+        "name": "XIMALAYA_TOKEN",
+        "optional": true
       }
     ],
     "requirePuppeteer": false,
@@ -73,7 +74,7 @@ _None_
   ],
   "name": "专辑",
   "parameters": {
-    "all": "是否需要获取全部节目，填入 `1`、`true`、`all` 视为获取所有节目，填入其他则不获取。",
+    "all": "是否获取首屏最多 200 个节目，填入 `1`、`true`、`all` 视为开启，填入其他则获取首屏最多 30 个节目。",
     "id": "专辑 id, 可在对应专辑页面的 URL 中找到",
     "shownote": "是否需要获取节目的 ShowNote，填入 `1`、`true`,`shownote` 视为获取，填入其他则不获取。",
     "type": "专辑类型, 通常可以使用 `album`，可在对应专辑页面的 URL 中找到"

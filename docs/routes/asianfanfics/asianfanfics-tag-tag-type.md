@@ -35,6 +35,11 @@ _None_
 
 ## Radar
 ### Rule 1
+- `title`: `标签 - 最近发布`
+- `source`:
+  - `www.asianfanfics.com/browse/tag/:tag`
+- `target`: `/tag/:tag/N`
+### Rule 2
 - `source`:
   - `www.asianfanfics.com/browse/tag/:tag/:type`
 - `target`: `/tag/:tag/:type`
@@ -59,6 +64,13 @@ _None_
   },
   "path": "/tag/:tag/:type",
   "radar": [
+    {
+      "source": [
+        "www.asianfanfics.com/browse/tag/:tag"
+      ],
+      "target": "/tag/:tag/N",
+      "title": "标签 - 最近发布"
+    },
     {
       "source": [
         "www.asianfanfics.com/browse/tag/:tag/:type"

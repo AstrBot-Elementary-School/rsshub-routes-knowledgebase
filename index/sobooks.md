@@ -3,10 +3,10 @@
 ## Namespace
 - Namespace: `sobooks`
 - Display Name: `SoBooks`
-- URL: `sobooks.net`
+- URL: `sobooks.cc`
 - Language: `_None_`
-- Aliases: `sobooks, sobooks.net`
-- Route Count: `3`
+- Aliases: `sobooks, sobooks.cc`
+- Route Count: `4`
 
 ## Routes
 
@@ -23,6 +23,14 @@
 - Route Path: `/sobooks/date/:date?`
 - File: `docs/routes/sobooks/sobooks-date-date.md`
 - File Name: `sobooks-date-date.md`
+- Categories: `reading`
+- Maintainers: `nczitzk`
+
+### 归档
+- Route ID: `sobooks:/sobooks/date/:year/:month`
+- Route Path: `/sobooks/date/:year/:month`
+- File: `docs/routes/sobooks/sobooks-date-year-month.md`
+- File Name: `sobooks-date-year-month.md`
 - Categories: `reading`
 - Maintainers: `nczitzk`
 

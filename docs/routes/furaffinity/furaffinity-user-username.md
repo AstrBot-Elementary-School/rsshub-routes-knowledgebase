@@ -8,7 +8,7 @@
 - Namespace Name: `Furaffinity`
 - Route Path: `/furaffinity/user/:username`
 - Route Name: `Userpage`
-- Example: `/furaffinity/user/fender/nsfw`
+- Example: `/furaffinity/user/fender`
 - URL: `furaffinity.net`
 - Language: `_None_`
 - Categories: `social-media`
@@ -44,7 +44,7 @@ _None_
   "categories": [
     "social-media"
   ],
-  "example": "/furaffinity/user/fender/nsfw",
+  "example": "/furaffinity/user/fender",
   "features": {
     "antiCrawler": false,
     "nsfw": true,

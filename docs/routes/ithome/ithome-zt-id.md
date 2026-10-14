@@ -1,11 +1,11 @@
-# iThome 台灣 - 专题
+# IT之家 / iThome - 专题
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `ithome`
-- Namespace Name: `iThome 台灣`
+- Namespace Name: `IT之家 / iThome`
 - Route Path: `/ithome/zt/:id?`
 - Route Name: `专题`
 - Example: `/ithome/zt/xijiayi`
@@ -22,7 +22,7 @@
 :::
 
 ## Parameters
-- `category`: 专题 id，默认为 xijiayi，即 [喜加一](https://www.ithome.com/zt/xijiayi)，可在对应专题页 URL 中找到
+- `id`: 专题 id，默认为 xijiayi，即 [喜加一](https://www.ithome.com/zt/xijiayi)，可在对应专题页 URL 中找到
 
 
 ## Features
@@ -64,7 +64,7 @@
   ],
   "name": "专题",
   "parameters": {
-    "category": "专题 id，默认为 xijiayi，即 [喜加一](https://www.ithome.com/zt/xijiayi)，可在对应专题页 URL 中找到"
+    "id": "专题 id，默认为 xijiayi，即 [喜加一](https://www.ithome.com/zt/xijiayi)，可在对应专题页 URL 中找到"
   },
   "path": "/zt/:id?",
   "radar": [

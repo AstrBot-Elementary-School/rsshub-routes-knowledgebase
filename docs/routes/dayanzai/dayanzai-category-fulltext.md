@@ -37,9 +37,24 @@
 ## Radar
 ### Rule 1
 - `source`:
-  - `dayanzai.me/:category`
-  - `dayanzai.me/:category/*`
-- `target`: `/:category`
+  - `dayanzai.me/windows`
+  - `dayanzai.me/windows/*`
+- `target`: `/windows`
+### Rule 2
+- `source`:
+  - `dayanzai.me/android`
+  - `dayanzai.me/android/*`
+- `target`: `/android`
+### Rule 3
+- `source`:
+  - `dayanzai.me/tutorial`
+  - `dayanzai.me/tutorial/*`
+- `target`: `/tutorial`
+### Rule 4
+- `source`:
+  - `dayanzai.me/other`
+  - `dayanzai.me/other/*`
+- `target`: `/other`
 
 ## Raw JSON
 ```json
@@ -71,10 +86,31 @@
   "radar": [
     {
       "source": [
-        "dayanzai.me/:category",
-        "dayanzai.me/:category/*"
+        "dayanzai.me/windows",
+        "dayanzai.me/windows/*"
       ],
-      "target": "/:category"
+      "target": "/windows"
+    },
+    {
+      "source": [
+        "dayanzai.me/android",
+        "dayanzai.me/android/*"
+      ],
+      "target": "/android"
+    },
+    {
+      "source": [
+        "dayanzai.me/tutorial",
+        "dayanzai.me/tutorial/*"
+      ],
+      "target": "/tutorial"
+    },
+    {
+      "source": [
+        "dayanzai.me/other",
+        "dayanzai.me/other/*"
+      ],
+      "target": "/other"
     }
   ],
   "test": {

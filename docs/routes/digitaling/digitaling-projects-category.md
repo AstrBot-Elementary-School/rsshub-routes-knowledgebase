@@ -1,4 +1,4 @@
-# 数英网 - 数英网项目专题
+# 数英网 - 项目专题
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `digitaling`
 - Namespace Name: `数英网`
 - Route Path: `/digitaling/projects/:category`
-- Route Name: `数英网项目专题`
+- Route Name: `项目专题`
 - Example: `/digitaling/projects/all`
 - URL: `www.digitaling.com`
 - Language: `_None_`
@@ -44,7 +44,7 @@ _None_
   "maintainers": [
     "occupy5"
   ],
-  "name": "数英网项目专题",
+  "name": "项目专题",
   "parameters": {
     "category": "项目专题分类"
   },

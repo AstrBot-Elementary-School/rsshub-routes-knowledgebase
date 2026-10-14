@@ -1,4 +1,4 @@
-# 武汉市人民政府 - 武汉市科学技术局 - 新闻中心
+# 武汉市人民政府 - 市科学技术局 - 新闻中心
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `gov/wuhan`
 - Namespace Name: `武汉市人民政府`
 - Route Path: `/gov/wuhan/kjj/:caty`
-- Route Name: `武汉市科学技术局 - 新闻中心`
+- Route Name: `市科学技术局 - 新闻中心`
 - Example: `/gov/wuhan/kjj/tzgg`
 - URL: `www.wuhan.gov.cn`
 - Language: `_None_`
@@ -44,7 +44,7 @@ _None_
   "maintainers": [
     "tudou027"
   ],
-  "name": "武汉市科学技术局 - 新闻中心",
+  "name": "市科学技术局 - 新闻中心",
   "parameters": {
     "caty": "类别"
   },

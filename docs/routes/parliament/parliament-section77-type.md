@@ -1,4 +1,4 @@
-# Thailand Parliament - Thailand Parliament Draft of Law's public hearing system
+# Thailand Parliament - Draft law public hearings
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `parliament`
 - Namespace Name: `Thailand Parliament`
 - Route Path: `/parliament/section77/:type?`
-- Route Name: `Thailand Parliament Draft of Law's public hearing system`
+- Route Name: `Draft law public hearings`
 - Example: `/parliament/section77`
 - URL: `parliament.go.th`
 - Language: `_None_`
@@ -63,7 +63,7 @@ _None_
   "maintainers": [
     "itpcc"
   ],
-  "name": "Thailand Parliament Draft of Law's public hearing system",
+  "name": "Draft law public hearings",
   "parameters": {
     "type": "Type of hearing status, see below"
   },

@@ -9,7 +9,7 @@
 - Route Path: `/qdu/houqin`
 - Route Name: `后勤管理处通知`
 - Example: `/qdu/houqin`
-- URL: `houqin.qdu.edu.cn/tzgg.htm`
+- URL: `houqin.qdu.edu.cn/index/tzgg.htm`
 - Language: `_None_`
 - Categories: `university`
 - Maintainers: `abc1763613206`
@@ -34,7 +34,7 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `houqin.qdu.edu.cn/tzgg.htm`
+  - `houqin.qdu.edu.cn/index/tzgg.htm`
   - `houqin.qdu.edu.cn/`
 
 ## Raw JSON
@@ -63,7 +63,7 @@ _None_
   "radar": [
     {
       "source": [
-        "houqin.qdu.edu.cn/tzgg.htm",
+        "houqin.qdu.edu.cn/index/tzgg.htm",
         "houqin.qdu.edu.cn/"
       ]
     }
@@ -73,6 +73,6 @@ _None_
     "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:108:41\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
   "topFeeds": [],
-  "url": "houqin.qdu.edu.cn/tzgg.htm"
+  "url": "houqin.qdu.edu.cn/index/tzgg.htm"
 }
 ```

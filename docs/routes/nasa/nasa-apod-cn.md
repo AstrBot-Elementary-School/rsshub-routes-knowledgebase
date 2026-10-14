@@ -1,4 +1,4 @@
-# NASA - NASA 中文
+# NASA - Chinese Mirror
 
 ## Coverage
 `index-only`
@@ -7,9 +7,9 @@
 - Namespace: `nasa`
 - Namespace Name: `NASA`
 - Route Path: `/nasa/apod-cn`
-- Route Name: `NASA 中文`
+- Route Name: `Chinese Mirror`
 - Example: `/nasa/apod-cn`
-- URL: `apod.nasa.govundefined`
+- URL: `www.nasachina.cn/nasa-image-of-the-day`
 - Language: `_None_`
 - Categories: `picture`
 - Maintainers: `nczitzk, williamgateszhao`
@@ -36,7 +36,7 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `apod.nasa.govundefined`
+  - `www.nasachina.cn/nasa-image-of-the-day`
 
 ## Raw JSON
 ```json
@@ -54,19 +54,19 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1048,
+  "heat": 1049,
   "location": "apod-cn.ts",
   "maintainers": [
     "nczitzk",
     "williamgateszhao"
   ],
-  "name": "NASA 中文",
+  "name": "Chinese Mirror",
   "parameters": {},
   "path": "/apod-cn",
   "radar": [
     {
       "source": [
-        "apod.nasa.govundefined"
+        "www.nasachina.cn/nasa-image-of-the-day"
       ]
     }
   ],
@@ -78,7 +78,7 @@ _None_
     {
       "description": "NASA中文 - 天文·每日一图 - Powered by RSSHub",
       "errorAt": "2026-09-08T19:13:05.477Z",
-      "errorMessage": "[GET] \"https://www.nasachina.cn/wp-json/wp/v2/posts?categories=2&per_page=10\": 403 Forbidden\n[GET] \"https://www.nasachina.cn/wp-json/wp/v2/posts?categories=2&per_page=10\": 403 Forbidden\n[GET] \"https://www.nasachina.cn/wp-json/wp/v2/posts?categories=2&per_page=10\": 403 \n[GET] \"https://www.nasachina.cn/wp-json/wp/v2/posts?categories=2&per_page=10\": 403 \nAuthentication failed. Access denied.\n/nasa/apod-cn\n[GET] \"https://www.nasachina.cn/wp-json/wp/v2/posts?categories=2&per_page=10\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.nasachina.cn/wp-json/wp/v2/posts?categories=2&per_page=10\": 403 Forbidden\n[GET] \"https://www.nasachina.cn/wp-json/wp/v2/posts?categories=2&per_page=10\": 403 Forbidden\n[GET] \"https://www.nasachina.cn/wp-json/wp/v2/posts?categories=2&per_page=10\": 403 \nFailed to fetch\nAuthentication failed. Access denied.\n/nasa/apod-cn\n[GET] \"https://www.nasachina.cn/wp-json/wp/v2/posts?categories=2&per_page=10\": 403 Forbidden\n",
       "id": "41857927240047616",
       "image": null,
       "ownerUserId": null,
@@ -88,6 +88,6 @@ _None_
       "url": "rsshub://nasa/apod-cn"
     }
   ],
-  "url": "apod.nasa.govundefined"
+  "url": "www.nasachina.cn/nasa-image-of-the-day"
 }
 ```

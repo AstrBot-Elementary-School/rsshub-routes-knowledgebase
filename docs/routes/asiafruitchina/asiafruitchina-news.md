@@ -36,7 +36,7 @@ _None_
 ### Rule 1
 - `source`:
   - `asiafruitchina.net/category/news`
-- `target`: `/asiafruitchina/news`
+- `target`: `/news`
 
 ## Raw JSON
 ```json
@@ -66,7 +66,7 @@ _None_
       "source": [
         "asiafruitchina.net/category/news"
       ],
-      "target": "/asiafruitchina/news"
+      "target": "/news"
     }
   ],
   "test": {

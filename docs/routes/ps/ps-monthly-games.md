@@ -1,4 +1,4 @@
-# PlayStation Store - PlayStation Monthly Games
+# PlayStation Store - Monthly Games
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `ps`
 - Namespace Name: `PlayStation Store`
 - Route Path: `/ps/monthly-games`
-- Route Name: `PlayStation Monthly Games`
+- Route Name: `Monthly Games`
 - Example: `/ps/monthly-games`
 - URL: `www.playstation.com/en-sg/ps-plus/whats-new`
 - Language: `_None_`
@@ -53,12 +53,12 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 51793,
+  "heat": 51872,
   "location": "monthly-games.tsx",
   "maintainers": [
     "justjustCC"
   ],
-  "name": "PlayStation Monthly Games",
+  "name": "Monthly Games",
   "parameters": {},
   "path": "/monthly-games",
   "radar": [

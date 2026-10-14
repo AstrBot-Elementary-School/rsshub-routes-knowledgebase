@@ -1,11 +1,11 @@
-# Corona Virus Disease 2019 Route Index
+# South China Morning Post Route Index
 
 ## Namespace
 - Namespace: `scmp`
-- Display Name: `Corona Virus Disease 2019`
+- Display Name: `South China Morning Post`
 - URL: `scmp.com`
 - Language: `_None_`
-- Aliases: `corona virus disease 2019, scmp, scmp.com`
+- Aliases: `scmp, scmp.com, south china morning post`
 - Route Count: `3`
 
 ## Routes
@@ -18,7 +18,7 @@
 - Categories: `traditional-media`
 - Maintainers: `proletarius101`
 
-### South China Morning Post - China coronavirus outbreak
+### China coronavirus outbreak
 - Route ID: `scmp:/scmp/coronavirus`
 - Route Path: `/scmp/coronavirus`
 - File: `docs/routes/scmp/scmp-coronavirus.md`

@@ -30,6 +30,7 @@ _None_
 ### Rule 1
 - `source`:
   - `psy.ecnu.edu.cn`
+  - `psy.ecnu.edu.cn/tzgg/list.htm`
 - `target`: `/psy`
 
 ## Raw JSON
@@ -51,7 +52,8 @@ _None_
   "radar": [
     {
       "source": [
-        "psy.ecnu.edu.cn"
+        "psy.ecnu.edu.cn",
+        "psy.ecnu.edu.cn/tzgg/list.htm"
       ],
       "target": "/psy"
     }

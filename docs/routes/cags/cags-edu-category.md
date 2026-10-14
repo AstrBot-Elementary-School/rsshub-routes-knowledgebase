@@ -35,8 +35,10 @@
 
 ## Radar
 ### Rule 1
+- `title`: `通知公告`
 - `source`:
   - `edu.cags.ac.cn/`
+- `target`: `/edu/tzgg`
 
 ## Raw JSON
 ```json
@@ -68,7 +70,9 @@
     {
       "source": [
         "edu.cags.ac.cn/"
-      ]
+      ],
+      "target": "/edu/tzgg",
+      "title": "通知公告"
     }
   ],
   "test": {

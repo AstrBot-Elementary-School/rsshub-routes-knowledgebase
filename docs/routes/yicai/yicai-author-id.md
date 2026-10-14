@@ -36,7 +36,7 @@ _None_
 - `source`:
   - `yicai.com/author/:id`
   - `yicai.com/author`
-- `target`: `/author/:id`
+- `target`: `/author/:id?`
 
 ## Raw JSON
 ```json
@@ -69,7 +69,7 @@ _None_
         "yicai.com/author/:id",
         "yicai.com/author"
       ],
-      "target": "/author/:id"
+      "target": "/author/:id?"
     }
   ],
   "test": {

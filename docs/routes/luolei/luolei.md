@@ -1,4 +1,4 @@
-# 罗磊的独立博客 - 罗磊的独立博客
+# 罗磊的独立博客 - 文章
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `luolei`
 - Namespace Name: `罗磊的独立博客`
 - Route Path: `/luolei/`
-- Route Name: `罗磊的独立博客`
+- Route Name: `文章`
 - Example: `/luolei`
 - URL: `luolei.org`
 - Language: `_None_`
@@ -60,7 +60,7 @@ _None_
   "maintainers": [
     "nczitzk"
   ],
-  "name": "罗磊的独立博客",
+  "name": "文章",
   "path": "/",
   "radar": [
     {

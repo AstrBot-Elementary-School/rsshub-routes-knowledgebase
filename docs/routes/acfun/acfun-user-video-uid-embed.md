@@ -30,8 +30,8 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `www.acfun.cn/u/:id`
-- `target`: `/user/video/:id`
+  - `www.acfun.cn/u/:uid`
+- `target`: `/user/video/:uid`
 
 ## Raw JSON
 ```json
@@ -54,9 +54,9 @@ _None_
   "radar": [
     {
       "source": [
-        "www.acfun.cn/u/:id"
+        "www.acfun.cn/u/:uid"
       ],
-      "target": "/user/video/:id"
+      "target": "/user/video/:uid"
     }
   ],
   "test": {

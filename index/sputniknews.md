@@ -3,9 +3,9 @@
 ## Namespace
 - Namespace: `sputniknews`
 - Display Name: `Sputnik News 俄罗斯卫星通讯社`
-- URL: `sputniknews.cn`
+- URL: `sputniknews.com`
 - Language: `_None_`
-- Aliases: `sputnik news 俄罗斯卫星通讯社, sputniknews, sputniknews.cn`
+- Aliases: `sputnik news 俄罗斯卫星通讯社, sputniknews, sputniknews.com`
 - Route Count: `1`
 
 ## Routes

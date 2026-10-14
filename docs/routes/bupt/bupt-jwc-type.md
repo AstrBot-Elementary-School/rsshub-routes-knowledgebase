@@ -25,8 +25,8 @@ _None_
 
 ## Features
 - `requireConfig`: false
-- `requirePuppeteer`: false
-- `antiCrawler`: false
+- `requirePuppeteer`: true
+- `antiCrawler`: true
 - `supportBT`: false
 - `supportPodcast`: false
 - `supportScihub`: false
@@ -49,9 +49,9 @@ _None_
   ],
   "example": "/bupt/jwc/tzgg",
   "features": {
-    "antiCrawler": false,
+    "antiCrawler": true,
     "requireConfig": false,
-    "requirePuppeteer": false,
+    "requirePuppeteer": true,
     "supportBT": false,
     "supportPodcast": false,
     "supportScihub": false

@@ -29,8 +29,8 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `cn.club.vmall.com/mhw/consumer/cn/community/mhwnews/bluevstore/id_:uid`
-- `target`: `/community/user/:uid`
+  - `cn.club.vmall.com/mhw/consumer/cn/community/mhwnews/bluevstore/id_1000014645695`
+- `target`: `/community/user/1000014645695`
 
 ## Raw JSON
 ```json
@@ -53,9 +53,9 @@ _None_
   "radar": [
     {
       "source": [
-        "cn.club.vmall.com/mhw/consumer/cn/community/mhwnews/bluevstore/id_:uid"
+        "cn.club.vmall.com/mhw/consumer/cn/community/mhwnews/bluevstore/id_1000014645695"
       ],
-      "target": "/community/user/:uid"
+      "target": "/community/user/1000014645695"
     }
   ],
   "topFeeds": []

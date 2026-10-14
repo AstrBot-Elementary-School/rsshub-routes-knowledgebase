@@ -35,7 +35,7 @@ _None_
 ### Rule 1
 - `source`:
   - `physics.cnu.edu.cn/news/index.htm`
-- `target`: `/cnu/physics`
+- `target`: `/physics`
 
 ## Raw JSON
 ```json
@@ -65,7 +65,7 @@ _None_
       "source": [
         "physics.cnu.edu.cn/news/index.htm"
       ],
-      "target": "/cnu/physics"
+      "target": "/physics"
     }
   ],
   "test": {

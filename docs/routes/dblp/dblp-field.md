@@ -25,8 +25,8 @@ _None_
 
 ## Features
 - `requireConfig`: false
-- `requirePuppeteer`: false
-- `antiCrawler`: false
+- `requirePuppeteer`: true
+- `antiCrawler`: true
 - `supportBT`: false
 - `supportPodcast`: false
 - `supportScihub`: false
@@ -34,7 +34,7 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `dblp.org/:field`
+  - `dblp.org/search`
 
 ## Raw JSON
 ```json
@@ -44,9 +44,9 @@ _None_
   ],
   "example": "/dblp/knowledge%20tracing",
   "features": {
-    "antiCrawler": false,
+    "antiCrawler": true,
     "requireConfig": false,
-    "requirePuppeteer": false,
+    "requirePuppeteer": true,
     "supportBT": false,
     "supportPodcast": false,
     "supportScihub": false
@@ -64,7 +64,7 @@ _None_
   "radar": [
     {
       "source": [
-        "dblp.org/:field"
+        "dblp.org/search"
       ]
     }
   ],

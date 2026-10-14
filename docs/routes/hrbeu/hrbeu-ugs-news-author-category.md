@@ -83,8 +83,120 @@ category 列表：
 ## Radar
 ### Rule 1
 - `source`:
-  - `ugs.hrbeu.edu.cn/:author/list.htm`
-- `target`: `/ugs/news/:author`
+  - `ugs.hrbeu.edu.cn/2821/list.htm`
+- `target`: `/ugs/news/gztz/all`
+### Rule 2
+- `source`:
+  - `ugs.hrbeu.edu.cn/jwc/list.htm`
+- `target`: `/ugs/news/jwc/all`
+### Rule 3
+- `source`:
+  - `ugs.hrbeu.edu.cn/2847/list.htm`
+- `target`: `/ugs/news/jwc/jxap`
+### Rule 4
+- `source`:
+  - `ugs.hrbeu.edu.cn/2895/list.htm`
+- `target`: `/ugs/news/jwc/ksgl`
+### Rule 5
+- `source`:
+  - `ugs.hrbeu.edu.cn/2902/list.htm`
+- `target`: `/ugs/news/jwc/xjgl`
+### Rule 6
+- `source`:
+  - `ugs.hrbeu.edu.cn/2897/list.htm`
+- `target`: `/ugs/news/jwc/wytk`
+### Rule 7
+- `source`:
+  - `ugs.hrbeu.edu.cn/2901/list.htm`
+- `target`: `/ugs/news/jwc/cjgl`
+### Rule 8
+- `source`:
+  - `ugs.hrbeu.edu.cn/3206/list.htm`
+- `target`: `/ugs/news/sjjxyjlc/all`
+### Rule 9
+- `source`:
+  - `ugs.hrbeu.edu.cn/2847/list.htm`
+- `target`: `/ugs/news/sjjxyjlc/syjx`
+### Rule 10
+- `source`:
+  - `ugs.hrbeu.edu.cn/sysjs/list.htm`
+- `target`: `/ugs/news/sjjxyjlc/sysjs`
+### Rule 11
+- `source`:
+  - `ugs.hrbeu.edu.cn/2909/list.htm`
+- `target`: `/ugs/news/sjjxyjlc/xwsx`
+### Rule 12
+- `source`:
+  - `ugs.hrbeu.edu.cn/2910/list.htm`
+- `target`: `/ugs/news/sjjxyjlc/xwlw`
+### Rule 13
+- `source`:
+  - `ugs.hrbeu.edu.cn/2911/list.htm`
+- `target`: `/ugs/news/sjjxyjlc/kcsj`
+### Rule 14
+- `source`:
+  - `ugs.hrbeu.edu.cn/2913/list.htm`
+- `target`: `/ugs/news/sjjxyjlc/cxcy`
+### Rule 15
+- `source`:
+  - `ugs.hrbeu.edu.cn/xjjl/list.htm`
+- `target`: `/ugs/news/sjjxyjlc/xjjl`
+### Rule 16
+- `source`:
+  - `ugs.hrbeu.edu.cn/3207/list.htm`
+- `target`: `/ugs/news/jypgc/all`
+### Rule 17
+- `source`:
+  - `ugs.hrbeu.edu.cn/2916/list.htm`
+- `target`: `/ugs/news/jypgc/jxyjyjxcg`
+### Rule 18
+- `source`:
+  - `ugs.hrbeu.edu.cn/2917/list.htm`
+- `target`: `/ugs/news/jypgc/zljk`
+### Rule 19
+- `source`:
+  - `ugs.hrbeu.edu.cn/3208/list.htm`
+- `target`: `/ugs/news/zyjsc/all`
+### Rule 20
+- `source`:
+  - `ugs.hrbeu.edu.cn/2914/list.htm`
+- `target`: `/ugs/news/zyjsc/zyyjcjs`
+### Rule 21
+- `source`:
+  - `ugs.hrbeu.edu.cn/2925/list.htm`
+- `target`: `/ugs/news/zyjsc/cgsyb`
+### Rule 22
+- `source`:
+  - `ugs.hrbeu.edu.cn/2918/list.htm`
+- `target`: `/ugs/news/zyjsc/jxmsyyxzjjs`
+### Rule 23
+- `source`:
+  - `ugs.hrbeu.edu.cn/2919/list.htm`
+- `target`: `/ugs/news/zyjsc/ktjs`
+### Rule 24
+- `source`:
+  - `ugs.hrbeu.edu.cn/2920/list.htm`
+- `target`: `/ugs/news/zyjsc/syjx`
+### Rule 25
+- `source`:
+  - `ugs.hrbeu.edu.cn/3209/list.htm`
+- `target`: `/ugs/news/gjdxswhszjd/all`
+### Rule 26
+- `source`:
+  - `ugs.hrbeu.edu.cn/3210/list.htm`
+- `target`: `/ugs/news/jsjxfzzx/all`
+### Rule 27
+- `source`:
+  - `ugs.hrbeu.edu.cn/2915/list.htm`
+- `target`: `/ugs/news/jsjxfzzx/jspx`
+### Rule 28
+- `source`:
+  - `ugs.hrbeu.edu.cn/3211/list.htm`
+- `target`: `/ugs/news/zhbgs/all`
+### Rule 29
+- `source`:
+  - `ugs.hrbeu.edu.cn/lxkc/list.htm`
+- `target`: `/ugs/news/zhbgs/lxkc`
 
 ## Raw JSON
 ```json
@@ -116,9 +228,177 @@ category 列表：
   "radar": [
     {
       "source": [
-        "ugs.hrbeu.edu.cn/:author/list.htm"
+        "ugs.hrbeu.edu.cn/2821/list.htm"
       ],
-      "target": "/ugs/news/:author"
+      "target": "/ugs/news/gztz/all"
+    },
+    {
+      "source": [
+        "ugs.hrbeu.edu.cn/jwc/list.htm"
+      ],
+      "target": "/ugs/news/jwc/all"
+    },
+    {
+      "source": [
+        "ugs.hrbeu.edu.cn/2847/list.htm"
+      ],
+      "target": "/ugs/news/jwc/jxap"
+    },
+    {
+      "source": [
+        "ugs.hrbeu.edu.cn/2895/list.htm"
+      ],
+      "target": "/ugs/news/jwc/ksgl"
+    },
+    {
+      "source": [
+        "ugs.hrbeu.edu.cn/2902/list.htm"
+      ],
+      "target": "/ugs/news/jwc/xjgl"
+    },
+    {
+      "source": [
+        "ugs.hrbeu.edu.cn/2897/list.htm"
+      ],
+      "target": "/ugs/news/jwc/wytk"
+    },
+    {
+      "source": [
+        "ugs.hrbeu.edu.cn/2901/list.htm"
+      ],
+      "target": "/ugs/news/jwc/cjgl"
+    },
+    {
+      "source": [
+        "ugs.hrbeu.edu.cn/3206/list.htm"
+      ],
+      "target": "/ugs/news/sjjxyjlc/all"
+    },
+    {
+      "source": [
+        "ugs.hrbeu.edu.cn/2847/list.htm"
+      ],
+      "target": "/ugs/news/sjjxyjlc/syjx"
+    },
+    {
+      "source": [
+        "ugs.hrbeu.edu.cn/sysjs/list.htm"
+      ],
+      "target": "/ugs/news/sjjxyjlc/sysjs"
+    },
+    {
+      "source": [
+        "ugs.hrbeu.edu.cn/2909/list.htm"
+      ],
+      "target": "/ugs/news/sjjxyjlc/xwsx"
+    },
+    {
+      "source": [
+        "ugs.hrbeu.edu.cn/2910/list.htm"
+      ],
+      "target": "/ugs/news/sjjxyjlc/xwlw"
+    },
+    {
+      "source": [
+        "ugs.hrbeu.edu.cn/2911/list.htm"
+      ],
+      "target": "/ugs/news/sjjxyjlc/kcsj"
+    },
+    {
+      "source": [
+        "ugs.hrbeu.edu.cn/2913/list.htm"
+      ],
+      "target": "/ugs/news/sjjxyjlc/cxcy"
+    },
+    {
+      "source": [
+        "ugs.hrbeu.edu.cn/xjjl/list.htm"
+      ],
+      "target": "/ugs/news/sjjxyjlc/xjjl"
+    },
+    {
+      "source": [
+        "ugs.hrbeu.edu.cn/3207/list.htm"
+      ],
+      "target": "/ugs/news/jypgc/all"
+    },
+    {
+      "source": [
+        "ugs.hrbeu.edu.cn/2916/list.htm"
+      ],
+      "target": "/ugs/news/jypgc/jxyjyjxcg"
+    },
+    {
+      "source": [
+        "ugs.hrbeu.edu.cn/2917/list.htm"
+      ],
+      "target": "/ugs/news/jypgc/zljk"
+    },
+    {
+      "source": [
+        "ugs.hrbeu.edu.cn/3208/list.htm"
+      ],
+      "target": "/ugs/news/zyjsc/all"
+    },
+    {
+      "source": [
+        "ugs.hrbeu.edu.cn/2914/list.htm"
+      ],
+      "target": "/ugs/news/zyjsc/zyyjcjs"
+    },
+    {
+      "source": [
+        "ugs.hrbeu.edu.cn/2925/list.htm"
+      ],
+      "target": "/ugs/news/zyjsc/cgsyb"
+    },
+    {
+      "source": [
+        "ugs.hrbeu.edu.cn/2918/list.htm"
+      ],
+      "target": "/ugs/news/zyjsc/jxmsyyxzjjs"
+    },
+    {
+      "source": [
+        "ugs.hrbeu.edu.cn/2919/list.htm"
+      ],
+      "target": "/ugs/news/zyjsc/ktjs"
+    },
+    {
+      "source": [
+        "ugs.hrbeu.edu.cn/2920/list.htm"
+      ],
+      "target": "/ugs/news/zyjsc/syjx"
+    },
+    {
+      "source": [
+        "ugs.hrbeu.edu.cn/3209/list.htm"
+      ],
+      "target": "/ugs/news/gjdxswhszjd/all"
+    },
+    {
+      "source": [
+        "ugs.hrbeu.edu.cn/3210/list.htm"
+      ],
+      "target": "/ugs/news/jsjxfzzx/all"
+    },
+    {
+      "source": [
+        "ugs.hrbeu.edu.cn/2915/list.htm"
+      ],
+      "target": "/ugs/news/jsjxfzzx/jspx"
+    },
+    {
+      "source": [
+        "ugs.hrbeu.edu.cn/3211/list.htm"
+      ],
+      "target": "/ugs/news/zhbgs/all"
+    },
+    {
+      "source": [
+        "ugs.hrbeu.edu.cn/lxkc/list.htm"
+      ],
+      "target": "/ugs/news/zhbgs/lxkc"
     }
   ],
   "test": {

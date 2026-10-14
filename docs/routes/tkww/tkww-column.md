@@ -18,9 +18,9 @@
 
 ## Description
 ::: tip
-欄目可用`名稱`或對應網頁的`path`，
-如 `https://www.tkww.hk/hong_kong` 的欄目可以填`香港`或是`hong_kong`
-而 `https://www.tkww.hk/china/shanghai` 的欄目則需填`china/shanghai`
+欄目可用完整的名稱路徑或網頁路徑。
+如 `https://www.tkww.hk/top_news/hong_kong` 對應 `top_news/hong_kong` 或 `新聞/香港`。
+唯一的目錄名稱也可以單獨使用，例如 `hong_kong`；名稱重複時，請使用完整路徑。
 :::
 
 ## Parameters
@@ -39,6 +39,66 @@
 - `source`:
   - `www.tkww.hk/:column`
 - `target`: `/:column`
+### Rule 2
+- `source`:
+  - `www.tkww.hk/home/*column`
+- `target`: `/home/:column`
+### Rule 3
+- `source`:
+  - `www.tkww.hk/top_news/*column`
+- `target`: `/top_news/:column`
+### Rule 4
+- `source`:
+  - `www.tkww.hk/video/*column`
+- `target`: `/video/:column`
+### Rule 5
+- `source`:
+  - `www.tkww.hk/opinion/*column`
+- `target`: `/opinion/:column`
+### Rule 6
+- `source`:
+  - `www.tkww.hk/Go-China/*column`
+- `target`: `/Go-China/:column`
+### Rule 7
+- `source`:
+  - `www.tkww.hk/sports/*column`
+- `target`: `/sports/:column`
+### Rule 8
+- `source`:
+  - `www.tkww.hk/vohk/*column`
+- `target`: `/vohk/:column`
+### Rule 9
+- `source`:
+  - `www.tkww.hk/dwPlan/*column`
+- `target`: `/dwPlan/:column`
+### Rule 10
+- `source`:
+  - `www.tkww.hk/spec/*column`
+- `target`: `/spec/:column`
+### Rule 11
+- `source`:
+  - `www.tkww.hk/brand/*column`
+- `target`: `/brand/:column`
+### Rule 12
+- `source`:
+  - `www.tkww.hk/brandAct/*column`
+- `target`: `/brandAct/:column`
+### Rule 13
+- `source`:
+  - `www.tkww.hk/tag/*column`
+- `target`: `/tag/:column`
+### Rule 14
+- `source`:
+  - `www.tkww.hk/topics/*column`
+- `target`: `/topics/:column`
+### Rule 15
+- `source`:
+  - `www.tkww.hk/info/*column`
+- `target`: `/info/:column`
+### Rule 16
+- `source`:
+  - `www.tkww.hk/poll/*column`
+- `target`: `/poll/:column`
 
 ## Raw JSON
 ```json
@@ -46,7 +106,7 @@
   "categories": [
     "traditional-media"
   ],
-  "description": "::: tip\n欄目可用`名稱`或對應網頁的`path`，\n如 `https://www.tkww.hk/hong_kong` 的欄目可以填`香港`或是`hong_kong`\n而 `https://www.tkww.hk/china/shanghai` 的欄目則需填`china/shanghai`\n:::",
+  "description": "::: tip\n欄目可用完整的名稱路徑或網頁路徑。\n如 `https://www.tkww.hk/top_news/hong_kong` 對應 `top_news/hong_kong` 或 `新聞/香港`。\n唯一的目錄名稱也可以單獨使用，例如 `hong_kong`；名稱重複時，請使用完整路徑。\n:::",
   "example": "/tkww/hong_kong",
   "features": {
     "antiCrawler": false,
@@ -71,6 +131,96 @@
         "www.tkww.hk/:column"
       ],
       "target": "/:column"
+    },
+    {
+      "source": [
+        "www.tkww.hk/home/*column"
+      ],
+      "target": "/home/:column"
+    },
+    {
+      "source": [
+        "www.tkww.hk/top_news/*column"
+      ],
+      "target": "/top_news/:column"
+    },
+    {
+      "source": [
+        "www.tkww.hk/video/*column"
+      ],
+      "target": "/video/:column"
+    },
+    {
+      "source": [
+        "www.tkww.hk/opinion/*column"
+      ],
+      "target": "/opinion/:column"
+    },
+    {
+      "source": [
+        "www.tkww.hk/Go-China/*column"
+      ],
+      "target": "/Go-China/:column"
+    },
+    {
+      "source": [
+        "www.tkww.hk/sports/*column"
+      ],
+      "target": "/sports/:column"
+    },
+    {
+      "source": [
+        "www.tkww.hk/vohk/*column"
+      ],
+      "target": "/vohk/:column"
+    },
+    {
+      "source": [
+        "www.tkww.hk/dwPlan/*column"
+      ],
+      "target": "/dwPlan/:column"
+    },
+    {
+      "source": [
+        "www.tkww.hk/spec/*column"
+      ],
+      "target": "/spec/:column"
+    },
+    {
+      "source": [
+        "www.tkww.hk/brand/*column"
+      ],
+      "target": "/brand/:column"
+    },
+    {
+      "source": [
+        "www.tkww.hk/brandAct/*column"
+      ],
+      "target": "/brandAct/:column"
+    },
+    {
+      "source": [
+        "www.tkww.hk/tag/*column"
+      ],
+      "target": "/tag/:column"
+    },
+    {
+      "source": [
+        "www.tkww.hk/topics/*column"
+      ],
+      "target": "/topics/:column"
+    },
+    {
+      "source": [
+        "www.tkww.hk/info/*column"
+      ],
+      "target": "/info/:column"
+    },
+    {
+      "source": [
+        "www.tkww.hk/poll/*column"
+      ],
+      "target": "/poll/:column"
     }
   ],
   "test": {

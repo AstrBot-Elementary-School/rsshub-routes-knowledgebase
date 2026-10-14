@@ -1,11 +1,11 @@
-# 财新博客 - 最新文章
+# 财新网 - 最新文章
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `caixin`
-- Namespace Name: `财新博客`
+- Namespace Name: `财新网`
 - Route Path: `/caixin/latest`
 - Route Name: `最新文章`
 - Example: `/caixin/latest`
@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 14055,
+  "heat": 14056,
   "location": "latest.ts",
   "maintainers": [
     "tpnonthealps"

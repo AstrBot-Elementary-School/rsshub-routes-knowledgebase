@@ -6,11 +6,11 @@
 - URL: `tencent.com`
 - Language: `_None_`
 - Aliases: `tencent, tencent.com, 腾讯`
-- Route Count: `7`
+- Route Count: `5`
 
 ## Routes
 
-### 腾讯云开发者社区专栏
+### 开发者社区专栏
 - Route ID: `tencent:/tencent/cloud/developer/column/:categoryId?`
 - Route Path: `/tencent/cloud/developer/column/:categoryId?`
 - File: `docs/routes/tencent/tencent-cloud-developer-column-categoryid.md`
@@ -26,22 +26,6 @@
 - Categories: `new-media`
 - Maintainers: `LogicJake, miles170`
 
-### 新型冠状病毒肺炎疫情实时追踪 - 省市疫情数据
-- Route ID: `tencent:/tencent/news/coronavirus/data/:province?/:city?`
-- Route Path: `/tencent/news/coronavirus/data/:province?/:city?`
-- File: `docs/routes/tencent/tencent-news-coronavirus-data-province-city.md`
-- File Name: `tencent-news-coronavirus-data-province-city.md`
-- Categories: `other`
-- Maintainers: `CaoMeiYouRen`
-
-### 新型冠状病毒肺炎疫情实时追踪 - 中国本土数据统计
-- Route ID: `tencent:/tencent/news/coronavirus/total`
-- Route Path: `/tencent/news/coronavirus/total`
-- File: `docs/routes/tencent/tencent-news-coronavirus-total.md`
-- File Name: `tencent-news-coronavirus-total.md`
-- Categories: `other`
-- Maintainers: `CaoMeiYouRen`
-
 ### 新闻中心
 - Route ID: `tencent:/tencent/pvp/newsindex/:type`
 - Route Path: `/tencent/pvp/newsindex/:type`
@@ -50,7 +34,7 @@
 - Categories: `game`
 - Maintainers: `Jeason0228, HenryQW`
 
-### 腾讯云移动直播 SDK 更新日志
+### 移动直播 SDK 更新日志
 - Route ID: `tencent:/tencent/qcloud/mlvb/changelog`
 - Route Path: `/tencent/qcloud/mlvb/changelog`
 - File: `docs/routes/tencent/tencent-qcloud-mlvb-changelog.md`

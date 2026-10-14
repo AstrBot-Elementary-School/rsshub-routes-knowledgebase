@@ -1,4 +1,4 @@
-# Python - Active Python Releases
+# Python - Active Releases
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `python`
 - Namespace Name: `Python`
 - Route Path: `/python/release`
-- Route Name: `Active Python Releases`
+- Route Name: `Active Releases`
 - Example: `/python/release`
 - URL: `www.python.org`
 - Language: `_None_`
@@ -60,7 +60,7 @@ _None_
   "maintainers": [
     "nczitzk"
   ],
-  "name": "Active Python Releases",
+  "name": "Active Releases",
   "path": "/release",
   "radar": [
     {

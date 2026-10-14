@@ -1,4 +1,4 @@
-# 豆瓣 - 豆瓣每月推荐片单
+# 豆瓣 - 每月推荐片单
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `douban`
 - Namespace Name: `豆瓣`
 - Route Path: `/douban/recommended/:type?/:routeParams?`
-- Route Name: `豆瓣每月推荐片单`
+- Route Name: `每月推荐片单`
 - Example: `/douban/recommended/tv`
 - URL: `www.douban.com`
 - Language: `_None_`
@@ -65,7 +65,7 @@ _None_
   "maintainers": [
     "honue"
   ],
-  "name": "豆瓣每月推荐片单",
+  "name": "每月推荐片单",
   "parameters": {
     "routeParams": "额外参数；请参阅以下说明和表格",
     "type": "片单类型剧集/电影，tv或movie，默认为tv"

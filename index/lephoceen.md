@@ -10,7 +10,7 @@
 
 ## Routes
 
-### Fil Info Le Phocéen (Chrono)
+### Fil Info (Chrono)
 - Route ID: `lephoceen:/lephoceen/chrono`
 - Route Path: `/lephoceen/chrono`
 - File: `docs/routes/lephoceen/lephoceen-chrono.md`

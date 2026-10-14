@@ -35,7 +35,7 @@ _None_
 - `source`:
   - `club.6parkbbs.com/:id/index.php`
   - `club.6parkbbs.com/`
-- `target`: `/:id?`
+- `target`: `/index/:id?`
 
 ## Raw JSON
 ```json
@@ -64,7 +64,7 @@ _None_
         "club.6parkbbs.com/:id/index.php",
         "club.6parkbbs.com/"
       ],
-      "target": "/:id?"
+      "target": "/index/:id?"
     }
   ],
   "test": {

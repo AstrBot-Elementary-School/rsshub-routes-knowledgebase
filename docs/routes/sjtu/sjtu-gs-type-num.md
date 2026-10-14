@@ -51,6 +51,18 @@
 - `source`:
   - `gs.sjtu.edu.cn/announcement/:type`
 - `target`: `/gs/:type`
+### Rule 2
+- `source`:
+  - `www.gs.sjtu.edu.cn/announcement/:type`
+- `target`: `/gs/:type`
+### Rule 3
+- `source`:
+  - `gs.sjtu.edu.cn/announcement/:type/:num`
+- `target`: `/gs/:type/:num`
+### Rule 4
+- `source`:
+  - `www.gs.sjtu.edu.cn/announcement/:type/:num`
+- `target`: `/gs/:type/:num`
 
 ## Raw JSON
 ```json
@@ -85,6 +97,24 @@
         "gs.sjtu.edu.cn/announcement/:type"
       ],
       "target": "/gs/:type"
+    },
+    {
+      "source": [
+        "www.gs.sjtu.edu.cn/announcement/:type"
+      ],
+      "target": "/gs/:type"
+    },
+    {
+      "source": [
+        "gs.sjtu.edu.cn/announcement/:type/:num"
+      ],
+      "target": "/gs/:type/:num"
+    },
+    {
+      "source": [
+        "www.gs.sjtu.edu.cn/announcement/:type/:num"
+      ],
+      "target": "/gs/:type/:num"
     }
   ],
   "test": {

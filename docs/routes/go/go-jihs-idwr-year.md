@@ -38,6 +38,7 @@ To subscribe to [感染症発生動向調査週報](https://id-info.jihs.go.jp/s
 ### Rule 1
 - `source`:
   - `id-info.jihs.go.jp/surveillance/idwr/idwr/:year`
+- `target`: `/jihs/idwr/:year`
 
 ## Raw JSON
 ```json
@@ -72,7 +73,8 @@ To subscribe to [感染症発生動向調査週報](https://id-info.jihs.go.jp/s
     {
       "source": [
         "id-info.jihs.go.jp/surveillance/idwr/idwr/:year"
-      ]
+      ],
+      "target": "/jihs/idwr/:year"
     }
   ],
   "test": {

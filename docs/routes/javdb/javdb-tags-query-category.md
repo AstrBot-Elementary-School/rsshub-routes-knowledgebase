@@ -30,7 +30,7 @@
 | censored | uncensored | western |
 
 ## Parameters
-- `query`: 筛选，默认为 `c10=1`
+- `query`: 筛选，默认为空
 - `category`: 分类，见下表，默认为 `有碼`
 
 
@@ -80,7 +80,7 @@
   "name": "分類",
   "parameters": {
     "category": "分类，见下表，默认为 `有碼`",
-    "query": "筛选，默认为 `c10=1`"
+    "query": "筛选，默认为空"
   },
   "path": "/tags/:query?/:category?",
   "radar": [

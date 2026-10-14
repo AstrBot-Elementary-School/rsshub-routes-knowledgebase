@@ -1,4 +1,4 @@
-# 饭否 - 饭否搜索
+# 饭否 - 搜索
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `fanfou`
 - Namespace Name: `饭否`
 - Route Path: `/fanfou/public_timeline/:keyword`
-- Route Name: `饭否搜索`
+- Route Name: `搜索`
 - Example: `/fanfou/public_timeline/RSSHub`
 - URL: `fanfou.com`
 - Language: `_None_`
@@ -61,7 +61,7 @@ _None_
   "maintainers": [
     "junbaor"
   ],
-  "name": "饭否搜索",
+  "name": "搜索",
   "parameters": {
     "keyword": "关键字"
   },

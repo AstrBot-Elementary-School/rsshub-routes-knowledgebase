@@ -44,8 +44,13 @@
 ## Radar
 ### Rule 1
 - `source`:
-  - `news.cctv.com/:category`
-- `target`: `/:category`
+  - `tv.cctv.com/lm/:id`
+  - `tv.cctv.com/lm/:id/*`
+- `target`: `/lm/:id`
+### Rule 2
+- `source`:
+  - `tv.cctv.com/lm`
+- `target`: `/lm`
 
 ## Raw JSON
 ```json
@@ -63,7 +68,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 210,
+  "heat": 223,
   "location": "lm.ts",
   "maintainers": [
     "nczitzk"
@@ -76,9 +81,16 @@
   "radar": [
     {
       "source": [
-        "news.cctv.com/:category"
+        "tv.cctv.com/lm/:id",
+        "tv.cctv.com/lm/:id/*"
       ],
-      "target": "/:category"
+      "target": "/lm/:id"
+    },
+    {
+      "source": [
+        "tv.cctv.com/lm"
+      ],
+      "target": "/lm"
     }
   ],
   "test": {

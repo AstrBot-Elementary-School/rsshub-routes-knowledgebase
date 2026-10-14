@@ -1,11 +1,11 @@
-# 新乡医学院三全学院 Route Index
+# 豫北医学院 Route Index
 
 ## Namespace
 - Namespace: `sqmc`
-- Display Name: `新乡医学院三全学院`
+- Display Name: `豫北医学院`
 - URL: `sqmc.edu.cn`
 - Language: `_None_`
-- Aliases: `sqmc, sqmc.edu.cn, 新乡医学院三全学院`
+- Aliases: `sqmc, sqmc.edu.cn, 豫北医学院`
 - Route Count: `1`
 
 ## Routes

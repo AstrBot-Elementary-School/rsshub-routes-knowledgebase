@@ -11,9 +11,9 @@
 ## Routes
 
 ### Exhibitions
-- Route ID: `newmuseum:/newmuseum/exhibitions`
-- Route Path: `/newmuseum/exhibitions`
-- File: `docs/routes/newmuseum/newmuseum-exhibitions.md`
-- File Name: `newmuseum-exhibitions.md`
+- Route ID: `newmuseum:/newmuseum/exhibitions/:state?`
+- Route Path: `/newmuseum/exhibitions/:state?`
+- File: `docs/routes/newmuseum/newmuseum-exhibitions-state.md`
+- File Name: `newmuseum-exhibitions-state.md`
 - Categories: `travel`
 - Maintainers: `chazeon`

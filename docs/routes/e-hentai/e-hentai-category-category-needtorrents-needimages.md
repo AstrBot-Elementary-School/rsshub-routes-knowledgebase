@@ -49,9 +49,52 @@
 ## Radar
 ### Rule 1
 - `source`:
-  - `e-hentai.org/:category`
   - `e-hentai.org/`
-- `target`: `/category/:category`
+- `target`: `/category`
+### Rule 2
+- `source`:
+  - `e-hentai.org/doujinshi`
+- `target`: `/category/doujinshi`
+### Rule 3
+- `source`:
+  - `e-hentai.org/manga`
+- `target`: `/category/manga`
+### Rule 4
+- `source`:
+  - `e-hentai.org/artistcg`
+- `target`: `/category/artistcg`
+### Rule 5
+- `source`:
+  - `e-hentai.org/gamecg`
+- `target`: `/category/gamecg`
+### Rule 6
+- `source`:
+  - `e-hentai.org/western`
+- `target`: `/category/western`
+### Rule 7
+- `source`:
+  - `e-hentai.org/non-h`
+- `target`: `/category/non-h`
+### Rule 8
+- `source`:
+  - `e-hentai.org/imageset`
+- `target`: `/category/imageset`
+### Rule 9
+- `source`:
+  - `e-hentai.org/cosplay`
+- `target`: `/category/cosplay`
+### Rule 10
+- `source`:
+  - `e-hentai.org/asianporn`
+- `target`: `/category/asianporn`
+### Rule 11
+- `source`:
+  - `e-hentai.org/misc`
+- `target`: `/category/misc`
+### Rule 12
+- `source`:
+  - `e-hentai.org/popular`
+- `target`: `/category/popular`
 
 ## Raw JSON
 ```json
@@ -79,10 +122,75 @@
   "radar": [
     {
       "source": [
-        "e-hentai.org/:category",
         "e-hentai.org/"
       ],
-      "target": "/category/:category"
+      "target": "/category"
+    },
+    {
+      "source": [
+        "e-hentai.org/doujinshi"
+      ],
+      "target": "/category/doujinshi"
+    },
+    {
+      "source": [
+        "e-hentai.org/manga"
+      ],
+      "target": "/category/manga"
+    },
+    {
+      "source": [
+        "e-hentai.org/artistcg"
+      ],
+      "target": "/category/artistcg"
+    },
+    {
+      "source": [
+        "e-hentai.org/gamecg"
+      ],
+      "target": "/category/gamecg"
+    },
+    {
+      "source": [
+        "e-hentai.org/western"
+      ],
+      "target": "/category/western"
+    },
+    {
+      "source": [
+        "e-hentai.org/non-h"
+      ],
+      "target": "/category/non-h"
+    },
+    {
+      "source": [
+        "e-hentai.org/imageset"
+      ],
+      "target": "/category/imageset"
+    },
+    {
+      "source": [
+        "e-hentai.org/cosplay"
+      ],
+      "target": "/category/cosplay"
+    },
+    {
+      "source": [
+        "e-hentai.org/asianporn"
+      ],
+      "target": "/category/asianporn"
+    },
+    {
+      "source": [
+        "e-hentai.org/misc"
+      ],
+      "target": "/category/misc"
+    },
+    {
+      "source": [
+        "e-hentai.org/popular"
+      ],
+      "target": "/category/popular"
     }
   ],
   "test": {

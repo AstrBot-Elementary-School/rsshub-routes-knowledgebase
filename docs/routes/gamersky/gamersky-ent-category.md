@@ -22,7 +22,7 @@
 |热点图文|趣囧时间|游民影院|游观天下|壁纸图库|游民盘点|游民福利|
 
 ## Parameters
-- `type`: 分类类型，留空为 `all`
+- `category`: 分类类型，留空为 `all`
 
 
 ## Features
@@ -93,7 +93,7 @@
   ],
   "name": "娱乐",
   "parameters": {
-    "type": "分类类型，留空为 `all`"
+    "category": "分类类型，留空为 `all`"
   },
   "path": "/ent/:category?",
   "radar": [

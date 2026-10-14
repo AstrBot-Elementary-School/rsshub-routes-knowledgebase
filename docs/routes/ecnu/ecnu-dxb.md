@@ -30,6 +30,7 @@ _None_
 ### Rule 1
 - `source`:
   - `dxb.ecnu.edu.cn`
+  - `dxb.ecnu.edu.cn/18277/list.htm`
 - `target`: `/dxb`
 
 ## Raw JSON
@@ -51,7 +52,8 @@ _None_
   "radar": [
     {
       "source": [
-        "dxb.ecnu.edu.cn"
+        "dxb.ecnu.edu.cn",
+        "dxb.ecnu.edu.cn/18277/list.htm"
       ],
       "target": "/dxb"
     }

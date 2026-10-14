@@ -3,9 +3,9 @@
 ## Namespace
 - Namespace: `3kns`
 - Display Name: `3k-Switch游戏库`
-- URL: `www.3kns.com`
+- URL: `www.3kmin.com`
 - Language: `_None_`
-- Aliases: `3k-switch游戏库, 3kns, 3kns.com, www, www.3kns.com`
+- Aliases: `3k-switch游戏库, 3kmin.com, 3kns, www, www.3kmin.com`
 - Route Count: `1`
 
 ## Routes

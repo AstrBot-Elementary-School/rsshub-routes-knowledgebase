@@ -38,6 +38,10 @@
 - `source`:
   - `instructables.com/projects`
 - `target`: `/projects`
+### Rule 2
+- `source`:
+  - `instructables.com/circuits/projects`
+- `target`: `/projects/circuits`
 
 ## Raw JSON
 ```json
@@ -71,6 +75,12 @@
         "instructables.com/projects"
       ],
       "target": "/projects"
+    },
+    {
+      "source": [
+        "instructables.com/circuits/projects"
+      ],
+      "target": "/projects/circuits"
     }
   ],
   "test": {

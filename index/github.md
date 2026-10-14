@@ -18,7 +18,7 @@
 - Categories: `programming, popular`
 - Maintainers: `hyoban`
 
-### Github Advisory Database RSS
+### Advisory Database RSS
 - Route ID: `github:/github/advisor/data/:type?/:category?`
 - Route Path: `/github/advisor/data/:type?/:category?`
 - File: `docs/routes/github/github-advisor-data-type-category.md`

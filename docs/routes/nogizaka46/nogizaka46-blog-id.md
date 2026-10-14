@@ -79,6 +79,10 @@ Member ID
 - `source`:
   - `blog.nogizaka46.com/s/n46/diary/MEMBER`
 - `target`: `/blog`
+### Rule 2
+- `source`:
+  - `www.nogizaka46.com/s/n46/diary/MEMBER`
+- `target`: `/blog`
 
 ## Raw JSON
 ```json
@@ -111,6 +115,12 @@ Member ID
     {
       "source": [
         "blog.nogizaka46.com/s/n46/diary/MEMBER"
+      ],
+      "target": "/blog"
+    },
+    {
+      "source": [
+        "www.nogizaka46.com/s/n46/diary/MEMBER"
       ],
       "target": "/blog"
     }

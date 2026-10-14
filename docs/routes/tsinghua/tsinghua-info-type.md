@@ -26,7 +26,7 @@
 :::
 
 ## Parameters
-- `type`: 默认为重要公告
+- `type`: 分类，必填，见下表，例如 `zhongyao`（重要公告）
 
 
 ## Features
@@ -50,7 +50,7 @@ _None_
   ],
   "name": "校内信息发布平台",
   "parameters": {
-    "type": "默认为重要公告"
+    "type": "分类，必填，见下表，例如 `zhongyao`（重要公告）"
   },
   "path": "/info/:type",
   "test": {

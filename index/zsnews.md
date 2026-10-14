@@ -10,7 +10,7 @@
 
 ## Routes
 
-### 中山网新闻
+### 新闻
 - Route ID: `zsnews:/zsnews/index/:cateid`
 - Route Path: `/zsnews/index/:cateid`
 - File: `docs/routes/zsnews/zsnews-index-cateid.md`

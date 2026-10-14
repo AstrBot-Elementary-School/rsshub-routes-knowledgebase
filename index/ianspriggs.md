@@ -1,11 +1,11 @@
-# Ian Spriggss Route Index
+# Ian Spriggs Route Index
 
 ## Namespace
 - Namespace: `ianspriggs`
-- Display Name: `Ian Spriggss`
+- Display Name: `Ian Spriggs`
 - URL: `ianspriggs.com`
 - Language: `_None_`
-- Aliases: `ian spriggss, ianspriggs, ianspriggs.com`
+- Aliases: `ian spriggs, ianspriggs, ianspriggs.com`
 - Route Count: `1`
 
 ## Routes

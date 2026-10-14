@@ -20,11 +20,12 @@
 _None_
 
 ## Parameters
-- `category`: {"default": "Mandarin", "description": "通知语言", "options": [{"label": "国语", "value": "Mandarin"}, {"label": "粵語", "value": "Cantonese"}, {"label": "English", "value": "English"}]}
+- `lang`: {"default": "Mandarin", "description": "通知语言", "options": [{"label": "国语", "value": "Mandarin"}, {"label": "粵語", "value": "Cantonese"}, {"label": "English", "value": "English"}]}
 
 
 ## Features
 - `supportRadar`: true
+- `supportPodcast`: true
 
 ## Radar
 ### Rule 1
@@ -48,6 +49,7 @@ _None_
   ],
   "example": "/futunn/live",
   "features": {
+    "supportPodcast": true,
     "supportRadar": true
   },
   "heat": 23,
@@ -57,7 +59,7 @@ _None_
   ],
   "name": "快讯",
   "parameters": {
-    "category": {
+    "lang": {
       "default": "Mandarin",
       "description": "通知语言",
       "options": [

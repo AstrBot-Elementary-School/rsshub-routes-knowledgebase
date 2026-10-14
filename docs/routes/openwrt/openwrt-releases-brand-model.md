@@ -30,8 +30,8 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `openwrt.org/toh/:band/:model`
-- `target`: `/releases/:model`
+  - `openwrt.org/toh/:brand/:model`
+- `target`: `/releases/:brand/:model`
 
 ## Raw JSON
 ```json
@@ -54,9 +54,9 @@ _None_
   "radar": [
     {
       "source": [
-        "openwrt.org/toh/:band/:model"
+        "openwrt.org/toh/:brand/:model"
       ],
-      "target": "/releases/:model"
+      "target": "/releases/:brand/:model"
     }
   ],
   "test": {

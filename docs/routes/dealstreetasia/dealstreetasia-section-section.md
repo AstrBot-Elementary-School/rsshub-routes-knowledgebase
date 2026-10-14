@@ -29,7 +29,8 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `dealstreetasia.com/`
+  - `dealstreetasia.com/section/:section/`
+- `target`: `/section/:section`
 
 ## Raw JSON
 ```json
@@ -51,8 +52,9 @@ _None_
   "radar": [
     {
       "source": [
-        "dealstreetasia.com/"
-      ]
+        "dealstreetasia.com/section/:section/"
+      ],
+      "target": "/section/:section"
     }
   ],
   "test": {

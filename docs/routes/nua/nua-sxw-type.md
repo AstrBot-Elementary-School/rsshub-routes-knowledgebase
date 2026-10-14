@@ -9,7 +9,7 @@
 - Route Path: `/nua/sxw/:type`
 - Route Name: `Shuangxing Information`
 - Example: `/nua/sxw/230`
-- URL: `index.nua.edu.cn`
+- URL: `www.nua.edu.cn`
 - Language: `_None_`
 - Categories: `university`
 - Maintainers: `evnydd0sf`

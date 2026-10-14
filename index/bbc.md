@@ -42,7 +42,7 @@
 - Categories: `traditional-media`
 - Maintainers: `TonyRL`
 
-### Topics - BBC News 中文
+### Topics - 中文
 - Route ID: `bbc:/bbc/zhongwen/topics/:topic/:variant?`
 - Route Path: `/bbc/zhongwen/topics/:topic/:variant?`
 - File: `docs/routes/bbc/bbc-zhongwen-topics-topic-variant.md`

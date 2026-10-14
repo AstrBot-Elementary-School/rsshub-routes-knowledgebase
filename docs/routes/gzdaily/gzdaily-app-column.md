@@ -9,7 +9,7 @@
 - Route Path: `/gzdaily/app/:column?`
 - Route Name: `客户端`
 - Example: `/gzdaily/app/74`
-- URL: `gzdaily.cn`
+- URL: `www.gzdaily.cn`
 - Language: `_None_`
 - Categories: `traditional-media`
 - Maintainers: `TimWu007`

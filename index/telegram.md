@@ -10,7 +10,7 @@
 
 ## Routes
 
-### Telegram Blog
+### Blog
 - Route ID: `telegram:/telegram/blog`
 - Route Path: `/telegram/blog`
 - File: `docs/routes/telegram/telegram-blog.md`

@@ -24,7 +24,7 @@ _None_
 
 
 ## Features
-_None_
+- `requirePuppeteer`: true
 
 ## Radar
 ### Rule 1
@@ -38,6 +38,9 @@ _None_
     "design"
   ],
   "example": "/makerworld/contests",
+  "features": {
+    "requirePuppeteer": true
+  },
   "heat": 4,
   "location": "contest.ts",
   "maintainers": [

@@ -1,4 +1,4 @@
-# 中山网 - 中山网新闻
+# 中山网 - 新闻
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `zsnews`
 - Namespace Name: `中山网`
 - Route Path: `/zsnews/index/:cateid`
-- Route Name: `中山网新闻`
+- Route Name: `新闻`
 - Example: `/zsnews/index/35`
 - URL: `www.zsnews.cn`
 - Language: `_None_`
@@ -44,7 +44,7 @@ _None_
   "maintainers": [
     "laampui"
   ],
-  "name": "中山网新闻",
+  "name": "新闻",
   "parameters": {
     "cateid": "类别"
   },

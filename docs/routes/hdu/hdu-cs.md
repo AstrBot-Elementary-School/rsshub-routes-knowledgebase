@@ -9,7 +9,7 @@
 - Route Path: `/hdu/cs`
 - Route Name: `计算机学院 - 通知公告`
 - Example: `/hdu/cs`
-- URL: `computer.hdu.edu.cn/6738/list.htm`
+- URL: `computer.hdu.edu.cn/12269/list.htm`
 - Language: `_None_`
 - Categories: `university`
 - Maintainers: `legr4ndk`
@@ -34,7 +34,7 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `computer.hdu.edu.cn/6738/list.htm`
+  - `computer.hdu.edu.cn/12269/list.htm`
 
 ## Raw JSON
 ```json
@@ -62,7 +62,7 @@ _None_
   "radar": [
     {
       "source": [
-        "computer.hdu.edu.cn/6738/list.htm"
+        "computer.hdu.edu.cn/12269/list.htm"
       ]
     }
   ],
@@ -83,6 +83,6 @@ _None_
       "url": "rsshub://hdu/cs"
     }
   ],
-  "url": "computer.hdu.edu.cn/6738/list.htm"
+  "url": "computer.hdu.edu.cn/12269/list.htm"
 }
 ```

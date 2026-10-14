@@ -22,6 +22,7 @@ _None_
 ## Parameters
 - `id`: 漫画ID
 - `chapterCnt`: 返回章节的数量，默认为0，返回所有章节
+- `domain`: 域名，可选 mhgui、twmanhuagui；不填或其他值默认使用 www.manhuagui.com
 
 
 ## Features
@@ -63,6 +64,7 @@ _None_
   "name": "漫画更新",
   "parameters": {
     "chapterCnt": "返回章节的数量，默认为0，返回所有章节",
+    "domain": "域名，可选 mhgui、twmanhuagui；不填或其他值默认使用 www.manhuagui.com",
     "id": "漫画ID"
   },
   "path": [
@@ -89,7 +91,7 @@ _None_
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.manhuagui.com/comic/1128/",
-      "title": "看漫画 - ONE PIECE航海王",
+      "title": "看漫画 - ONE PIECE航海王 已下架",
       "type": "feed",
       "url": "rsshub://manhuagui/comic/1128"
     },

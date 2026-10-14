@@ -1,11 +1,11 @@
-# Koyso Route Index
+# PlayZip (Koyso) Route Index
 
 ## Namespace
 - Namespace: `koyso`
-- Display Name: `Koyso`
-- URL: `koyso.to`
+- Display Name: `PlayZip (Koyso)`
+- URL: `playzip.com`
 - Language: `_None_`
-- Aliases: `koyso, koyso.to`
+- Aliases: `koyso, playzip, playzip (koyso), playzip.com`
 - Route Count: `1`
 
 ## Routes

@@ -10,7 +10,7 @@
 
 ## Routes
 
-### 中央日报中文版
+### 中文版
 - Route ID: `joins:/joins/chinese/:category?`
 - Route Path: `/joins/chinese/:category?`
 - File: `docs/routes/joins/joins-chinese-category.md`

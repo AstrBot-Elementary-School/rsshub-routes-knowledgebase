@@ -17,7 +17,7 @@
 - Source Module: `_None_`
 
 ## Description
-_None_
+Articles requiring a subscription are limited to the public preview returned by the source.
 
 ## Parameters
 _None_
@@ -37,6 +37,7 @@ _None_
   "categories": [
     "other"
   ],
+  "description": "Articles requiring a subscription are limited to the public preview returned by the source.",
   "example": "/dataguidance/news",
   "heat": 21,
   "location": "index.ts",

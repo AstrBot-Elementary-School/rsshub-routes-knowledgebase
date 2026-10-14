@@ -62,7 +62,7 @@
 - `source`:
   - `yicai.com/news/:id`
   - `yicai.com/news`
-- `target`: `/news/:id`
+- `target`: `/news/:id?`
 
 ## Raw JSON
 ```json
@@ -96,7 +96,7 @@
         "yicai.com/news/:id",
         "yicai.com/news"
       ],
-      "target": "/news/:id"
+      "target": "/news/:id?"
     }
   ],
   "test": {

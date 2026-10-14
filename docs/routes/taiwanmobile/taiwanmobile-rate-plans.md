@@ -9,7 +9,7 @@
 - Route Path: `/taiwanmobile/rate-plans`
 - Route Name: `資費公告`
 - Example: `/taiwanmobile/rate-plans`
-- URL: `www.taiwanmobile.com/cs/public/servAnn/queryList.htm?type=1`
+- URL: `www.taiwanmobile.com/csonline/service/plan.html`
 - Language: `_None_`
 - Categories: `other`
 - Maintainers: `Tsuyumi25`
@@ -30,6 +30,7 @@ _None_
 ### Rule 1
 - `source`:
   - `taiwanmobile.com/cs/public/servAnn/queryList.htm`
+  - `taiwanmobile.com/csonline/service/plan.html`
 
 ## Raw JSON
 ```json
@@ -48,7 +49,8 @@ _None_
   "radar": [
     {
       "source": [
-        "taiwanmobile.com/cs/public/servAnn/queryList.htm"
+        "taiwanmobile.com/cs/public/servAnn/queryList.htm",
+        "taiwanmobile.com/csonline/service/plan.html"
       ]
     }
   ],
@@ -69,6 +71,6 @@ _None_
       "url": "rsshub://taiwanmobile/rate-plans"
     }
   ],
-  "url": "www.taiwanmobile.com/cs/public/servAnn/queryList.htm?type=1"
+  "url": "www.taiwanmobile.com/csonline/service/plan.html"
 }
 ```

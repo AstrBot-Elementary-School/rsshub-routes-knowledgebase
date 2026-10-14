@@ -35,7 +35,7 @@ _None_
 ### Rule 1
 - `source`:
   - `daily-blog.chlinlearn.top/blogs/*`
-- `target`: `/chlinlearn/daily-blog`
+- `target`: `/daily-blog`
 
 ## Raw JSON
 ```json
@@ -64,7 +64,7 @@ _None_
       "source": [
         "daily-blog.chlinlearn.top/blogs/*"
       ],
-      "target": "/chlinlearn/daily-blog"
+      "target": "/daily-blog"
     }
   ],
   "test": {

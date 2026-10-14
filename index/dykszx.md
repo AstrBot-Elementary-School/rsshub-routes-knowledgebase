@@ -3,9 +3,9 @@
 ## Namespace
 - Namespace: `dykszx`
 - Display Name: `德阳人事考试网`
-- URL: `www.dykszx.com`
+- URL: `www.dykszx.cn`
 - Language: `_None_`
-- Aliases: `dykszx, dykszx.com, www, www.dykszx.com, 德阳人事考试网`
+- Aliases: `dykszx, dykszx.cn, www, www.dykszx.cn, 德阳人事考试网`
 - Route Count: `1`
 
 ## Routes

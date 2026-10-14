@@ -42,6 +42,10 @@ An unknown 市区町村 slug is answered by the site with the whole prefecture a
 - `source`:
   - `www.i-tenpo.com/:pref/:city/:type`
 - `target`: `/:pref/:city/:type`
+### Rule 2
+- `source`:
+  - `www.i-tenpo.com/:pref/:city/`
+- `target`: `/:pref/:city`
 
 ## Raw JSON
 ```json
@@ -81,6 +85,12 @@ An unknown 市区町村 slug is answered by the site with the whole prefecture a
         "www.i-tenpo.com/:pref/:city/:type"
       ],
       "target": "/:pref/:city/:type"
+    },
+    {
+      "source": [
+        "www.i-tenpo.com/:pref/:city/"
+      ],
+      "target": "/:pref/:city"
     }
   ],
   "test": {

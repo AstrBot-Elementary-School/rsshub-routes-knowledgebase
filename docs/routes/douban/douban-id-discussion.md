@@ -1,4 +1,4 @@
-# 豆瓣 - 豆瓣读书论坛
+# 豆瓣 - 读书论坛
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `douban`
 - Namespace Name: `豆瓣`
 - Route Path: `/douban/:id/discussion`
-- Route Name: `豆瓣读书论坛`
+- Route Name: `读书论坛`
 - Example: `/douban/36328704/discussion`
 - URL: `www.douban.com`
 - Language: `_None_`
@@ -34,7 +34,8 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `book.douban.com/:id/discussion`
+  - `book.douban.com/subject/:id/discussion`
+- `target`: `/:id/discussion`
 
 ## Raw JSON
 ```json
@@ -56,7 +57,7 @@ _None_
   "maintainers": [
     "nightmare-mio"
   ],
-  "name": "豆瓣读书论坛",
+  "name": "读书论坛",
   "parameters": {
     "id": "书本id;默认论坛文章使用\"按回应时间排序\",仅第一页文章"
   },
@@ -64,8 +65,9 @@ _None_
   "radar": [
     {
       "source": [
-        "book.douban.com/:id/discussion"
-      ]
+        "book.douban.com/subject/:id/discussion"
+      ],
+      "target": "/:id/discussion"
     }
   ],
   "test": {

@@ -38,7 +38,7 @@
 - `source`:
   - `keti.bjsk.org.cn/indexAction!to_index.action`
   - `keti.bjsk.org.cn/`
-- `target`: `/keti/:id`
+- `target`: `/keti`
 
 ## Raw JSON
 ```json
@@ -72,7 +72,7 @@
         "keti.bjsk.org.cn/indexAction!to_index.action",
         "keti.bjsk.org.cn/"
       ],
-      "target": "/keti/:id"
+      "target": "/keti"
     }
   ],
   "test": {

@@ -36,7 +36,16 @@
 ## Radar
 ### Rule 1
 - `source`:
-  - `uae.hrbeu.edu.cn/:id.htm`
+  - `uae.hrbeu.edu.cn/xwdt.htm`
+- `target`: `/uae/xwdt`
+### Rule 2
+- `source`:
+  - `uae.hrbeu.edu.cn/tzgg.htm`
+- `target`: `/uae/tzgg`
+### Rule 3
+- `source`:
+  - `uae.hrbeu.edu.cn/kxyj/kydt.htm`
+- `target`: `/uae/kxyj-kydt`
 
 ## Raw JSON
 ```json
@@ -67,8 +76,21 @@
   "radar": [
     {
       "source": [
-        "uae.hrbeu.edu.cn/:id.htm"
-      ]
+        "uae.hrbeu.edu.cn/xwdt.htm"
+      ],
+      "target": "/uae/xwdt"
+    },
+    {
+      "source": [
+        "uae.hrbeu.edu.cn/tzgg.htm"
+      ],
+      "target": "/uae/tzgg"
+    },
+    {
+      "source": [
+        "uae.hrbeu.edu.cn/kxyj/kydt.htm"
+      ],
+      "target": "/uae/kxyj-kydt"
     }
   ],
   "test": {

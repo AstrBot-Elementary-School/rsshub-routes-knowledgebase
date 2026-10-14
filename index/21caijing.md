@@ -3,9 +3,9 @@
 ## Namespace
 - Namespace: `21caijing`
 - Display Name: `21财经`
-- URL: `21caijing.com`
+- URL: `m.21jingji.com`
 - Language: `_None_`
-- Aliases: `21caijing, 21caijing.com, 21财经`
+- Aliases: `21caijing, 21财经, m, m.21jingji.com`
 - Route Count: `1`
 
 ## Routes

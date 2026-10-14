@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1120,
+  "heat": 1122,
   "location": "news.tsx",
   "maintainers": [
     "TonyRL",
@@ -166,8 +166,8 @@ _None_
   "topFeeds": [
     {
       "description": "undefined | NHK WORLD-JAPAN News - Powered by RSSHub",
-      "errorAt": "2026-10-12T02:35:50.742Z",
-      "errorMessage": "[GET] \"https://www3.nhk.or.jp/nhkworld/common/assets/news/config/en.json\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "61596371943710720",
       "image": null,
       "ownerUserId": null,

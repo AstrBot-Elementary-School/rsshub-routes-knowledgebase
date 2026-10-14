@@ -1,13 +1,13 @@
-# Sakamichi Series 坂道系列官网资讯 - Hinatazaka46 News 日向坂 46 新闻
+# 日向坂46 - 新闻
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `hinatazaka46`
-- Namespace Name: `Sakamichi Series 坂道系列官网资讯`
+- Namespace Name: `日向坂46`
 - Route Path: `/hinatazaka46/news`
-- Route Name: `Hinatazaka46 News 日向坂 46 新闻`
+- Route Name: `新闻`
 - Example: `/hinatazaka46/news`
 - URL: `hinatazaka46.com/s/official/news/list`
 - Language: `_None_`
@@ -58,7 +58,7 @@ _None_
     "crispgm",
     "AkashiGakki"
   ],
-  "name": "Hinatazaka46 News 日向坂 46 新闻",
+  "name": "新闻",
   "parameters": {},
   "path": "/news",
   "radar": [

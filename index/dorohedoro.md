@@ -15,5 +15,5 @@
 - Route Path: `/dorohedoro/news`
 - File: `docs/routes/dorohedoro/dorohedoro-news.md`
 - File Name: `dorohedoro-news.md`
-- Categories: `game`
+- Categories: `anime`
 - Maintainers: `nczitzk`

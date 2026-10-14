@@ -1,4 +1,4 @@
-# Google - Google Fonts
+# Google - Fonts
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `google`
 - Namespace Name: `Google`
 - Route Path: `/google/fonts/:sort?`
-- Route Name: `Google Fonts`
+- Route Name: `Fonts`
 - Example: `/google/fonts/date`
 - URL: `www.google.com`
 - Language: `_None_`
@@ -66,7 +66,7 @@ _None_
   "maintainers": [
     "Fatpandac"
   ],
-  "name": "Google Fonts",
+  "name": "Fonts",
   "parameters": {
     "sort": "Sorting type, see below, default to `date`"
   },

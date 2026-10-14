@@ -30,7 +30,7 @@ _None_
 ### Rule 1
 - `source`:
   - `mei5.vip/:tab`
-- `target`: `/:tab`
+- `target`: `/tab/:tab`
 
 ## Raw JSON
 ```json
@@ -58,7 +58,7 @@ _None_
       "source": [
         "mei5.vip/:tab"
       ],
-      "target": "/:tab"
+      "target": "/tab/:tab"
     }
   ],
   "test": {

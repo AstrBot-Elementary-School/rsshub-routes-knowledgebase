@@ -61,7 +61,7 @@
 ### Rule 1
 - `source`:
   - `due.hitsz.edu.cn/jwxw/jwgl.htm`
-- `target`: `/hitsz/due/general`
+- `target`: `/due/general`
 
 ## Raw JSON
 ```json
@@ -120,7 +120,7 @@
       "source": [
         "due.hitsz.edu.cn/jwxw/jwgl.htm"
       ],
-      "target": "/hitsz/due/general"
+      "target": "/due/general"
     }
   ],
   "test": {

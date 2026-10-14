@@ -1,11 +1,11 @@
-# 厦门理工大学 - 本科生教务处
+# 厦门理工学院 - 本科生教务处
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `xmut`
-- Namespace Name: `厦门理工大学`
+- Namespace Name: `厦门理工学院`
 - Route Path: `/xmut/jwc/bkjw/:category?`
 - Route Name: `本科生教务处`
 - Example: `/xmut/jwc/bkjw/jxyx`

@@ -1,11 +1,11 @@
-# iThome 台灣 - 热榜
+# IT之家 / iThome - 热榜
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `ithome`
-- Namespace Name: `iThome 台灣`
+- Namespace Name: `IT之家 / iThome`
 - Route Path: `/ithome/ranking/:type`
 - Route Name: `热榜`
 - Example: `/ithome/ranking/24h`

@@ -40,8 +40,84 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `espn.com/:sport*`
-- `target`: `/news/:sport`
+  - `www.espn.com/nba`
+  - `www.espn.com/nba/*path`
+- `target`: `/news/nba`
+### Rule 2
+- `source`:
+  - `www.espn.com/wnba`
+  - `www.espn.com/wnba/*path`
+- `target`: `/news/wnba`
+### Rule 3
+- `source`:
+  - `www.espn.com/nfl`
+  - `www.espn.com/nfl/*path`
+- `target`: `/news/nfl`
+### Rule 4
+- `source`:
+  - `www.espn.com/mlb`
+  - `www.espn.com/mlb/*path`
+- `target`: `/news/mlb`
+### Rule 5
+- `source`:
+  - `www.espn.com/nhl`
+  - `www.espn.com/nhl/*path`
+- `target`: `/news/nhl`
+### Rule 6
+- `source`:
+  - `www.espn.com/mens-college-basketball`
+  - `www.espn.com/mens-college-basketball/*path`
+- `target`: `/news/ncb`
+### Rule 7
+- `source`:
+  - `www.espn.com/college-football`
+  - `www.espn.com/college-football/*path`
+- `target`: `/news/ncf`
+### Rule 8
+- `source`:
+  - `www.espn.com/rugby`
+  - `www.espn.com/rugby/*path`
+- `target`: `/news/rugby`
+### Rule 9
+- `source`:
+  - `www.espn.com/tennis`
+  - `www.espn.com/tennis/*path`
+- `target`: `/news/tennis`
+### Rule 10
+- `source`:
+  - `www.espn.com/golf`
+  - `www.espn.com/golf/*path`
+- `target`: `/news/golf`
+### Rule 11
+- `source`:
+  - `www.espn.com/cricket`
+  - `www.espn.com/cricket/*path`
+- `target`: `/news/cricket`
+### Rule 12
+- `source`:
+  - `www.espn.com/soccer`
+  - `www.espn.com/soccer/*path`
+- `target`: `/news/soccer`
+### Rule 13
+- `source`:
+  - `www.espn.com/f1`
+  - `www.espn.com/f1/*path`
+- `target`: `/news/f1`
+### Rule 14
+- `source`:
+  - `www.espn.com/mma`
+  - `www.espn.com/mma/*path`
+- `target`: `/news/mma`
+### Rule 15
+- `source`:
+  - `www.espn.com/ufl`
+  - `www.espn.com/ufl/*path`
+- `target`: `/news/ufl`
+### Rule 16
+- `source`:
+  - `www.espn.com/sports-betting`
+  - `www.espn.com/sports-betting/*path`
+- `target`: `/news/poker`
 
 ## Raw JSON
 ```json
@@ -64,9 +140,115 @@ _None_
   "radar": [
     {
       "source": [
-        "espn.com/:sport*"
+        "www.espn.com/nba",
+        "www.espn.com/nba/*path"
       ],
-      "target": "/news/:sport"
+      "target": "/news/nba"
+    },
+    {
+      "source": [
+        "www.espn.com/wnba",
+        "www.espn.com/wnba/*path"
+      ],
+      "target": "/news/wnba"
+    },
+    {
+      "source": [
+        "www.espn.com/nfl",
+        "www.espn.com/nfl/*path"
+      ],
+      "target": "/news/nfl"
+    },
+    {
+      "source": [
+        "www.espn.com/mlb",
+        "www.espn.com/mlb/*path"
+      ],
+      "target": "/news/mlb"
+    },
+    {
+      "source": [
+        "www.espn.com/nhl",
+        "www.espn.com/nhl/*path"
+      ],
+      "target": "/news/nhl"
+    },
+    {
+      "source": [
+        "www.espn.com/mens-college-basketball",
+        "www.espn.com/mens-college-basketball/*path"
+      ],
+      "target": "/news/ncb"
+    },
+    {
+      "source": [
+        "www.espn.com/college-football",
+        "www.espn.com/college-football/*path"
+      ],
+      "target": "/news/ncf"
+    },
+    {
+      "source": [
+        "www.espn.com/rugby",
+        "www.espn.com/rugby/*path"
+      ],
+      "target": "/news/rugby"
+    },
+    {
+      "source": [
+        "www.espn.com/tennis",
+        "www.espn.com/tennis/*path"
+      ],
+      "target": "/news/tennis"
+    },
+    {
+      "source": [
+        "www.espn.com/golf",
+        "www.espn.com/golf/*path"
+      ],
+      "target": "/news/golf"
+    },
+    {
+      "source": [
+        "www.espn.com/cricket",
+        "www.espn.com/cricket/*path"
+      ],
+      "target": "/news/cricket"
+    },
+    {
+      "source": [
+        "www.espn.com/soccer",
+        "www.espn.com/soccer/*path"
+      ],
+      "target": "/news/soccer"
+    },
+    {
+      "source": [
+        "www.espn.com/f1",
+        "www.espn.com/f1/*path"
+      ],
+      "target": "/news/f1"
+    },
+    {
+      "source": [
+        "www.espn.com/mma",
+        "www.espn.com/mma/*path"
+      ],
+      "target": "/news/mma"
+    },
+    {
+      "source": [
+        "www.espn.com/ufl",
+        "www.espn.com/ufl/*path"
+      ],
+      "target": "/news/ufl"
+    },
+    {
+      "source": [
+        "www.espn.com/sports-betting",
+        "www.espn.com/sports-betting/*path"
+      ],
+      "target": "/news/poker"
     }
   ],
   "test": {

@@ -24,7 +24,7 @@ _None_
 
 
 ## Features
-- `requireConfig`: false
+- `requireConfig`: [{"description": "Pixiv refresh token required for accessing the app API.", "name": "PIXIV_REFRESHTOKEN"}]
 - `requirePuppeteer`: false
 - `antiCrawler`: false
 - `supportBT`: false
@@ -48,7 +48,12 @@ _None_
   "features": {
     "antiCrawler": false,
     "nsfw": true,
-    "requireConfig": false,
+    "requireConfig": [
+      {
+        "description": "Pixiv refresh token required for accessing the app API.",
+        "name": "PIXIV_REFRESHTOKEN"
+      }
+    ],
     "requirePuppeteer": false,
     "supportBT": false,
     "supportPodcast": false,

@@ -9,7 +9,7 @@
 - Route Path: `/aijishu/:type/:name?`
 - Route Name: `频道、专栏、用户`
 - Example: `/aijishu/channel/ai`
-- URL: `www.aijishu`
+- URL: `community.aijishu.com`
 - Language: `_None_`
 - Categories: `programming`
 - Maintainers: `bigfei`

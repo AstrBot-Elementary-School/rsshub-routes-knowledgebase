@@ -3,9 +3,9 @@
 ## Namespace
 - Namespace: `hiring.cafe`
 - Display Name: `HiringCafe`
-- URL: `hiring.cafe`
+- URL: `hiringcafe.com`
 - Language: `_None_`
-- Aliases: `hiring, hiring.cafe, hiringcafe`
+- Aliases: `hiring.cafe, hiringcafe, hiringcafe.com`
 - Route Count: `1`
 
 ## Routes

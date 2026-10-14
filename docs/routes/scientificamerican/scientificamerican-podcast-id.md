@@ -35,24 +35,18 @@ If you subscribe to [Science Quickly](https://www.scientificamerican.com/podcast
 - `antiCrawler`: false
 - `supportRadar`: true
 - `supportBT`: false
-- `supportPodcast`: false
+- `supportPodcast`: true
 - `supportScihub`: false
 
 ## Radar
 ### Rule 1
 - `source`:
   - `www.scientificamerican.com/podcasts/`
-  - `www.scientificamerican.com/podcast/:id`
+- `target`: `/podcast`
 ### Rule 2
-- `title`: `Science Quickly`
 - `source`:
-  - `www.scientificamerican.com/podcast/science-quickly/`
-- `target`: `/podcast/science-quickly`
-### Rule 3
-- `title`: `Uncertain`
-- `source`:
-  - `www.scientificamerican.com/podcast/science-talk/`
-- `target`: `/podcast/science-talk`
+  - `www.scientificamerican.com/podcast/:id`
+- `target`: `/podcast/:id`
 
 ## Raw JSON
 ```json
@@ -67,7 +61,7 @@ If you subscribe to [Science Quickly](https://www.scientificamerican.com/podcast
     "requireConfig": false,
     "requirePuppeteer": false,
     "supportBT": false,
-    "supportPodcast": false,
+    "supportPodcast": true,
     "supportRadar": true,
     "supportScihub": false
   },
@@ -84,23 +78,15 @@ If you subscribe to [Science Quickly](https://www.scientificamerican.com/podcast
   "radar": [
     {
       "source": [
-        "www.scientificamerican.com/podcasts/",
+        "www.scientificamerican.com/podcasts/"
+      ],
+      "target": "/podcast"
+    },
+    {
+      "source": [
         "www.scientificamerican.com/podcast/:id"
-      ]
-    },
-    {
-      "source": [
-        "www.scientificamerican.com/podcast/science-quickly/"
       ],
-      "target": "/podcast/science-quickly",
-      "title": "Science Quickly"
-    },
-    {
-      "source": [
-        "www.scientificamerican.com/podcast/science-talk/"
-      ],
-      "target": "/podcast/science-talk",
-      "title": "Uncertain"
+      "target": "/podcast/:id"
     }
   ],
   "test": {

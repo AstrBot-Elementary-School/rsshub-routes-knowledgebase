@@ -60,7 +60,7 @@
 | [glbraina20\_](https://rsshub.app/ncc-cma/cmdp/image/glbraina20_) | [glbraina30\_](https://rsshub.app/ncc-cma/cmdp/image/glbraina30_) | [glbraina90\_](https://rsshub.app/ncc-cma/cmdp/image/glbraina90_) |
 
 ## Parameters
-- `category`: 图片，默认为 RPJQWQYZ，即日平均气温距平，可在对应列表项 data-id 属性中找到
+- `id`: 图片，默认为 RPJQWQYZ，即日平均气温距平，可在对应列表项 data-id 属性中找到
 
 
 ## Features
@@ -142,7 +142,7 @@
 - `title`: `本月以来降水量`
 - `source`:
   - `cmdp.ncc-cma.net/cn/index.htm`
-- `target`: `/ncc-cma/cmdp/image/BYYLJSL`
+- `target`: `/cmdp/image/BYYLJSL`
 ### Rule 15
 - `title`: `本季以来降水量`
 - `source`:
@@ -283,7 +283,7 @@
   ],
   "name": "最新监测",
   "parameters": {
-    "category": "图片，默认为 RPJQWQYZ，即日平均气温距平，可在对应列表项 data-id 属性中找到"
+    "id": "图片，默认为 RPJQWQYZ，即日平均气温距平，可在对应列表项 data-id 属性中找到"
   },
   "path": "/cmdp/image/:id{.+}?",
   "radar": [
@@ -382,7 +382,7 @@
       "source": [
         "cmdp.ncc-cma.net/cn/index.htm"
       ],
-      "target": "/ncc-cma/cmdp/image/BYYLJSL",
+      "target": "/cmdp/image/BYYLJSL",
       "title": "本月以来降水量"
     },
     {

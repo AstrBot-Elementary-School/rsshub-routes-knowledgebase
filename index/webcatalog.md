@@ -3,9 +3,9 @@
 ## Namespace
 - Namespace: `webcatalog`
 - Display Name: `WebCatalog`
-- URL: `desktop.webcatalog.io`
+- URL: `webcatalog.io/en/desktop`
 - Language: `_None_`
-- Aliases: `desktop, desktop.webcatalog.io, webcatalog`
+- Aliases: `webcatalog, webcatalog.io/en/desktop`
 - Route Count: `1`
 
 ## Routes

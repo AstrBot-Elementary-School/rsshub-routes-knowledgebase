@@ -38,6 +38,10 @@
 - `source`:
   - `cib.com.cn/`
 - `target`: `/whpj`
+### Rule 2
+- `source`:
+  - `personalbank.cib.com.cn/pers/main/pubinfo/ifxQuotationQuery.do`
+- `target`: `/whpj`
 
 ## Raw JSON
 ```json
@@ -69,6 +73,12 @@
     {
       "source": [
         "cib.com.cn/"
+      ],
+      "target": "/whpj"
+    },
+    {
+      "source": [
+        "personalbank.cib.com.cn/pers/main/pubinfo/ifxQuotationQuery.do"
       ],
       "target": "/whpj"
     }

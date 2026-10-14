@@ -54,7 +54,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 7506,
+  "heat": 7507,
   "location": "index.ts",
   "maintainers": [
     "moke8",
@@ -72,18 +72,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "HelloGithub - 全部开源项目 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "80951006332301312",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://hellogithub.com/?sort_by=all",
-      "title": "HelloGithub - 全部开源项目",
-      "type": "feed",
-      "url": "rsshub://hellogithub/home/all"
-    },
-    {
       "description": "HelloGithub - 精选开源项目 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -94,6 +82,18 @@ _None_
       "title": "HelloGithub - 精选开源项目",
       "type": "feed",
       "url": "rsshub://hellogithub/home"
+    },
+    {
+      "description": "HelloGithub - 全部开源项目 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "80951006332301312",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://hellogithub.com/?sort_by=all",
+      "title": "HelloGithub - 全部开源项目",
+      "type": "feed",
+      "url": "rsshub://hellogithub/home/all"
     }
   ]
 }

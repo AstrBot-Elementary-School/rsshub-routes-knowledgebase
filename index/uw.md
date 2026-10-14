@@ -3,9 +3,9 @@
 ## Namespace
 - Namespace: `uw`
 - Display Name: `University of Washington`
-- URL: `gixnetwork.org`
+- URL: `gix.uw.edu`
 - Language: `_None_`
-- Aliases: `gixnetwork, gixnetwork.org, university of washington, uw`
+- Aliases: `gix, gix.uw.edu, university of washington, uw`
 - Route Count: `1`
 
 ## Routes

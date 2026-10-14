@@ -9,7 +9,7 @@
 - Route Path: `/odaily/newsflash`
 - Route Name: `快讯`
 - Example: `/odaily/newsflash`
-- URL: `0daily.com/newsflash`
+- URL: `www.odaily.news/zh-CN/newsflash`
 - Language: `_None_`
 - Categories: `new-media`
 - Maintainers: `nczitzk`
@@ -34,8 +34,9 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `0daily.com/newsflash`
-  - `0daily.com/`
+  - `www.odaily.news/:locale/newsflash`
+  - `www.odaily.news/newsflash`
+  - `www.odaily.news/`
 
 ## Raw JSON
 ```json
@@ -63,8 +64,9 @@ _None_
   "radar": [
     {
       "source": [
-        "0daily.com/newsflash",
-        "0daily.com/"
+        "www.odaily.news/:locale/newsflash",
+        "www.odaily.news/newsflash",
+        "www.odaily.news/"
       ]
     }
   ],
@@ -86,6 +88,6 @@ _None_
       "url": "rsshub://odaily/newsflash"
     }
   ],
-  "url": "0daily.com/newsflash"
+  "url": "www.odaily.news/zh-CN/newsflash"
 }
 ```

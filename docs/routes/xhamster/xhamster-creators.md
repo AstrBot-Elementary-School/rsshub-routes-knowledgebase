@@ -9,7 +9,7 @@
 - Route Path: `/xhamster/:creators`
 - Route Name: `Newest Videos by Creator`
 - Example: `/xhamster/faustina-pierre`
-- URL: `xhamster.com/faustina-pierre/newest`
+- URL: `xhamster.com/creators/faustina-pierre/newest`
 - Language: `_None_`
 - Categories: `multimedia`
 - Maintainers: `eve2ptp`
@@ -91,6 +91,6 @@ _None_
       "url": "rsshub://xhamster/Xxx"
     }
   ],
-  "url": "xhamster.com/faustina-pierre/newest"
+  "url": "xhamster.com/creators/faustina-pierre/newest"
 }
 ```

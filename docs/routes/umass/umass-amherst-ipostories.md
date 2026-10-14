@@ -24,7 +24,8 @@ _None_
 
 
 ## Features
-_None_
+- `requirePuppeteer`: true
+- `antiCrawler`: true
 
 ## Radar
 ### Rule 1
@@ -38,6 +39,10 @@ _None_
     "university"
   ],
   "example": "/umass/amherst/ipostories",
+  "features": {
+    "antiCrawler": true,
+    "requirePuppeteer": true
+  },
   "heat": 0,
   "location": "ipostories.ts",
   "maintainers": [

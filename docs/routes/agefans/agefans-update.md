@@ -9,7 +9,7 @@
 - Route Path: `/agefans/update`
 - Route Name: `最近更新`
 - Example: `/agefans/update`
-- URL: `agemys.org/update`
+- URL: `www.agedm.io/update`
 - Language: `_None_`
 - Categories: `anime`
 - Maintainers: `nczitzk`
@@ -34,8 +34,8 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `agemys.org/update`
-  - `agemys.org/`
+  - `www.agedm.io/update`
+  - `www.agedm.io/`
 
 ## Raw JSON
 ```json
@@ -63,8 +63,8 @@ _None_
   "radar": [
     {
       "source": [
-        "agemys.org/update",
-        "agemys.org/"
+        "www.agedm.io/update",
+        "www.agedm.io/"
       ]
     }
   ],
@@ -86,6 +86,6 @@ _None_
       "url": "rsshub://agefans/update"
     }
   ],
-  "url": "agemys.org/update"
+  "url": "www.agedm.io/update"
 }
 ```

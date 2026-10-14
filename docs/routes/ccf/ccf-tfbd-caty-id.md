@@ -36,7 +36,10 @@ _None_
 ### Rule 1
 - `source`:
   - `tfbd.ccf.org.cn/tfbd/:caty/:id`
+### Rule 2
+- `source`:
   - `tfbd.ccf.org.cn/`
+- `target`: `/tfbd/xwdt/tzgg`
 
 ## Raw JSON
 ```json
@@ -67,9 +70,14 @@ _None_
   "radar": [
     {
       "source": [
-        "tfbd.ccf.org.cn/tfbd/:caty/:id",
-        "tfbd.ccf.org.cn/"
+        "tfbd.ccf.org.cn/tfbd/:caty/:id"
       ]
+    },
+    {
+      "source": [
+        "tfbd.ccf.org.cn/"
+      ],
+      "target": "/tfbd/xwdt/tzgg"
     }
   ],
   "test": {

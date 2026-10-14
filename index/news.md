@@ -10,7 +10,7 @@
 
 ## Routes
 
-### 新华社新闻
+### 新闻
 - Route ID: `news:/news/xhsxw`
 - Route Path: `/news/xhsxw`
 - File: `docs/routes/news/news-xhsxw.md`

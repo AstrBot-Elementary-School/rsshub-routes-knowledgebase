@@ -17,7 +17,7 @@
 - Source Module: `_None_`
 
 ## Description
-Return results from 2020
+Accepted papers from the latest symposium and workshop pages.
 
 ## Parameters
 _None_
@@ -42,7 +42,7 @@ _None_
   "categories": [
     "journal"
   ],
-  "description": "Return results from 2020",
+  "description": "Accepted papers from the latest symposium and workshop pages.",
   "example": "/ndss-symposium/ndss",
   "features": {
     "antiCrawler": false,

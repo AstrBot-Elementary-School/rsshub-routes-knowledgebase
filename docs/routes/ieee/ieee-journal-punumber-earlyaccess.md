@@ -1,4 +1,4 @@
-# IEEE Xplore - IEEE Journal Articles
+# IEEE Xplore - Journal Articles
 
 ## Coverage
 `index-only`
@@ -7,9 +7,9 @@
 - Namespace: `ieee`
 - Namespace Name: `IEEE Xplore`
 - Route Path: `/ieee/journal/:punumber/:earlyAccess?`
-- Route Name: `IEEE Journal Articles`
+- Route Name: `Journal Articles`
 - Example: `/ieee/journal/6287639/preprint`
-- URL: `www.ieee.org`
+- URL: `ieeexplore.ieee.org`
 - Language: `_None_`
 - Categories: `journal`
 - Maintainers: `HenryQW`
@@ -42,7 +42,7 @@ _None_
   "maintainers": [
     "HenryQW"
   ],
-  "name": "IEEE Journal Articles",
+  "name": "Journal Articles",
   "parameters": {
     "earlyAccess": "Optional, set any value to get early access articles",
     "punumber": "Publication Number, look for `punumber` in the URL"

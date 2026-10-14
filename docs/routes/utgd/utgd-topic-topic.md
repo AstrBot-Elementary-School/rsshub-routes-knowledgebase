@@ -39,7 +39,7 @@
 - `source`:
   - `utgd.net/topic`
   - `utgd.net/`
-- `target`: `/topic/:topic`
+- `target`: `/topic`
 
 ## Raw JSON
 ```json
@@ -73,7 +73,7 @@
         "utgd.net/topic",
         "utgd.net/"
       ],
-      "target": "/topic/:topic"
+      "target": "/topic"
     }
   ],
   "test": {

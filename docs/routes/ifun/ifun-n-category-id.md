@@ -1,15 +1,15 @@
-# 趣集 - 盐选故事分类
+# iRead 趣读 - 盐选故事分类
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `ifun`
-- Namespace Name: `趣集`
+- Namespace Name: `iRead 趣读`
 - Route Path: `/ifun/n/category/:id?`
 - Route Name: `盐选故事分类`
 - Example: `/ifun/n/category`
-- URL: `n.ifun.cool`
+- URL: `iread.life`
 - Language: `_None_`
 - Categories: `new-media`
 - Maintainers: `nczitzk`
@@ -61,6 +61,24 @@
 - `title`: `趣集精选`
 - `source`:
   - `n.ifun.cool`
+- `target`: `/n/category/3`
+### Rule 6
+- `title`: `全部`
+- `source`:
+  - `iread.life/`
+  - `iread.life/articles`
+- `target`: `/n/category`
+### Rule 7
+- `source`:
+  - `iread.life/categories/通告`
+- `target`: `/n/category/1`
+### Rule 8
+- `source`:
+  - `iread.life/categories/故事盐选`
+- `target`: `/n/category/2`
+### Rule 9
+- `source`:
+  - `iread.life/categories/趣集精选`
 - `target`: `/n/category/3`
 
 ## Raw JSON
@@ -124,6 +142,32 @@
       ],
       "target": "/n/category/3",
       "title": "趣集精选"
+    },
+    {
+      "source": [
+        "iread.life/",
+        "iread.life/articles"
+      ],
+      "target": "/n/category",
+      "title": "全部"
+    },
+    {
+      "source": [
+        "iread.life/categories/通告"
+      ],
+      "target": "/n/category/1"
+    },
+    {
+      "source": [
+        "iread.life/categories/故事盐选"
+      ],
+      "target": "/n/category/2"
+    },
+    {
+      "source": [
+        "iread.life/categories/趣集精选"
+      ],
+      "target": "/n/category/3"
     }
   ],
   "test": {
@@ -144,7 +188,7 @@
       "url": "rsshub://ifun/n/category"
     }
   ],
-  "url": "n.ifun.cool",
+  "url": "iread.life",
   "view": 0
 }
 ```

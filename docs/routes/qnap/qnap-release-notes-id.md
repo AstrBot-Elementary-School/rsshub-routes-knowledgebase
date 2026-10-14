@@ -26,7 +26,7 @@
 
 
 ## Features
-_None_
+- `requirePuppeteer`: true
 
 ## Radar
 _None_
@@ -39,6 +39,9 @@ _None_
   ],
   "description": "| QTS | QuTS hero  | QuTScloud | QSS | QuWAN Orchestrator  | QES | QVP | QuRouter | TAS | AfoBot |\n| --- | ---------- | --------- | --- | ------------------- | --- | --- | -------- | --- | ------ |\n| qts | quts\\_hero | qutscloud | qss | quwan\\_orchestrator | qes | qvp | qurouter | tas | afobot |",
   "example": "/qnap/release-notes/qts",
+  "features": {
+    "requirePuppeteer": true
+  },
   "heat": 0,
   "location": "release-notes.ts",
   "maintainers": [

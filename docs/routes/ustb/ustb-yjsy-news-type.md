@@ -36,7 +36,9 @@
 ## Radar
 ### Rule 1
 - `source`:
-  - `gs.ustb.edu.cn/:type`
+  - `gs.ustb.edu.cn/`
+  - `gs.ustb.edu.cn/index.php/cms/item-list-category-1049`
+- `target`: `/yjsy/news/all`
 
 ## Raw JSON
 ```json
@@ -67,8 +69,10 @@
   "radar": [
     {
       "source": [
-        "gs.ustb.edu.cn/:type"
-      ]
+        "gs.ustb.edu.cn/",
+        "gs.ustb.edu.cn/index.php/cms/item-list-category-1049"
+      ],
+      "target": "/yjsy/news/all"
     }
   ],
   "test": {

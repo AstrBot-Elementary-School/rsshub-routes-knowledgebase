@@ -1,11 +1,11 @@
-# iThome 台灣 Route Index
+# IT之家 / iThome Route Index
 
 ## Namespace
 - Namespace: `ithome`
-- Display Name: `iThome 台灣`
+- Display Name: `IT之家 / iThome`
 - URL: `ithome.com`
 - Language: `_None_`
-- Aliases: `ithome, ithome 台灣, ithome.com`
+- Aliases: `ithome, ithome.com, it之家 / ithome`
 - Route Count: `5`
 
 ## Routes

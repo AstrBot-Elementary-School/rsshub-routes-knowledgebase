@@ -34,8 +34,16 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `secretsanfrancisco.com/:category`
-- `target`: `/:category`
+  - `secretsanfrancisco.com/top-news`
+- `target`: `/top-news`
+### Rule 2
+- `source`:
+  - `secretsanfrancisco.com/things-to-do`
+- `target`: `/things-to-do`
+### Rule 3
+- `source`:
+  - `secretsanfrancisco.com/culture`
+- `target`: `/culture`
 
 ## Raw JSON
 ```json
@@ -65,9 +73,21 @@ _None_
   "radar": [
     {
       "source": [
-        "secretsanfrancisco.com/:category"
+        "secretsanfrancisco.com/top-news"
       ],
-      "target": "/:category"
+      "target": "/top-news"
+    },
+    {
+      "source": [
+        "secretsanfrancisco.com/things-to-do"
+      ],
+      "target": "/things-to-do"
+    },
+    {
+      "source": [
+        "secretsanfrancisco.com/culture"
+      ],
+      "target": "/culture"
     }
   ],
   "test": {

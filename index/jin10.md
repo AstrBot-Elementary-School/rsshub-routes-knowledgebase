@@ -18,7 +18,7 @@
 - Categories: `finance, popular`
 - Maintainers: `laampui`
 
-### 外汇
+### 分类快讯
 - Route ID: `jin10:/jin10/category/:id`
 - Route Path: `/jin10/category/:id`
 - File: `docs/routes/jin10/jin10-category-id.md`

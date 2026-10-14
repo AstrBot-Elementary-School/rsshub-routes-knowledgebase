@@ -3,9 +3,9 @@
 ## Namespace
 - Namespace: `biquge`
 - Display Name: `笔趣阁`
-- URL: `xbiquwx.la`
+- URL: `www.b520.cc`
 - Language: `_None_`
-- Aliases: `biquge, xbiquwx, xbiquwx.la, 笔趣阁`
+- Aliases: `b520.cc, biquge, www, www.b520.cc, 笔趣阁`
 - Route Count: `1`
 
 ## Routes

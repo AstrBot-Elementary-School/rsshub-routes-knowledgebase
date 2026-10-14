@@ -30,6 +30,7 @@ _None_
 ### Rule 1
 - `source`:
   - `geoai.ecnu.edu.cn`
+  - `geoai.ecnu.edu.cn/tzgg/list.htm`
 - `target`: `/geoai`
 
 ## Raw JSON
@@ -51,7 +52,8 @@ _None_
   "radar": [
     {
       "source": [
-        "geoai.ecnu.edu.cn"
+        "geoai.ecnu.edu.cn",
+        "geoai.ecnu.edu.cn/tzgg/list.htm"
       ],
       "target": "/geoai"
     }

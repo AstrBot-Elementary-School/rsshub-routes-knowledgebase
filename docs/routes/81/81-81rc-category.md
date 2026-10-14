@@ -37,7 +37,9 @@
 ## Radar
 ### Rule 1
 - `source`:
-  - `81rc.81.cn/:category`
+  - `81rc.81.cn/*category`
+  - `81rc.81.cn/`
+- `target`: `/81rc/:category?`
 
 ## Raw JSON
 ```json
@@ -69,8 +71,10 @@
   "radar": [
     {
       "source": [
-        "81rc.81.cn/:category"
-      ]
+        "81rc.81.cn/*category",
+        "81rc.81.cn/"
+      ],
+      "target": "/81rc/:category?"
     }
   ],
   "test": {

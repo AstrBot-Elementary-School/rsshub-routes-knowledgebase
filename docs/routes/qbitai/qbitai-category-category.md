@@ -57,7 +57,8 @@
   "heat": 391,
   "location": "category.ts",
   "maintainers": [
-    "FuryMartin, Geraldxm"
+    "FuryMartin",
+    "Geraldxm"
   ],
   "name": "分类",
   "parameters": {

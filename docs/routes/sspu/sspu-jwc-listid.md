@@ -31,7 +31,8 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `jwc.sspu.edu.cn/jwc/:listId/list.htm`
+  - `jwc.sspu.edu.cn/:listId/list.htm`
+- `target`: `/jwc/:listId`
 
 ## Raw JSON
 ```json
@@ -54,8 +55,9 @@ _None_
   "radar": [
     {
       "source": [
-        "jwc.sspu.edu.cn/jwc/:listId/list.htm"
-      ]
+        "jwc.sspu.edu.cn/:listId/list.htm"
+      ],
+      "target": "/jwc/:listId"
     }
   ],
   "test": {

@@ -6,10 +6,10 @@
 ## Route
 - Namespace: `hunau`
 - Namespace Name: `湖南农业大学`
-- Route Path: `/hunau/gfxy/:category?/:page?`
+- Route Path: `/hunau/gfxy/:category?`
 - Route Name: `公共管理与法学学院`
 - Example: `/hunau/gfxy`
-- URL: `xky.hunau.edu.cn/`
+- URL: `gfxy.hunau.edu.cn/`
 - Language: `_None_`
 - Categories: `university`
 - Maintainers: `lcandy2`
@@ -17,13 +17,12 @@
 - Source Module: `_None_`
 
 ## Description
-| 分类 | 通知公告 | 学院新闻 | 其他分类通知... |
+| 分类 | 通知公告 | 学院要闻 | 其他分类通知... |
 | ---- | -------- | -------- | --------------- |
-| 参数 | tzgg     | xyxw     | 对应 URL        |
+| 参数 | tzgg     | xyyw     | 对应 URL        |
 
 ## Parameters
 - `category`: 页面分类，默认为 `tzgg`
-- `page`: 页码，默认为 `1`
 
 
 ## Features
@@ -37,10 +36,18 @@
 ## Radar
 ### Rule 1
 - `source`:
-  - `xky.hunau.edu.cn/`
-  - `xky.hunau.edu.cn/tzgg_8472`
-  - `xky.hunau.edu.cn/:category`
-- `target`: `/:category`
+  - `gfxy.hunau.edu.cn/`
+- `target`: `/gfxy`
+### Rule 2
+- `source`:
+  - `gfxy.hunau.edu.cn/tzgg_0`
+  - `gfxy.hunau.edu.cn/tzgg_0/index.html`
+- `target`: `/gfxy`
+### Rule 3
+- `source`:
+  - `gfxy.hunau.edu.cn/xyyw`
+  - `gfxy.hunau.edu.cn/xyyw/index.html`
+- `target`: `/gfxy/xyyw`
 
 ## Raw JSON
 ```json
@@ -48,7 +55,7 @@
   "categories": [
     "university"
   ],
-  "description": "| 分类 | 通知公告 | 学院新闻 | 其他分类通知... |\n| ---- | -------- | -------- | --------------- |\n| 参数 | tzgg     | xyxw     | 对应 URL        |",
+  "description": "| 分类 | 通知公告 | 学院要闻 | 其他分类通知... |\n| ---- | -------- | -------- | --------------- |\n| 参数 | tzgg     | xyyw     | 对应 URL        |",
   "example": "/hunau/gfxy",
   "features": {
     "antiCrawler": false,
@@ -65,24 +72,32 @@
   ],
   "name": "公共管理与法学学院",
   "parameters": {
-    "category": "页面分类，默认为 `tzgg`",
-    "page": "页码，默认为 `1`"
+    "category": "页面分类，默认为 `tzgg`"
   },
-  "path": "/gfxy/:category?/:page?",
+  "path": "/gfxy/:category?",
   "radar": [
     {
       "source": [
-        "xky.hunau.edu.cn/",
-        "xky.hunau.edu.cn/tzgg_8472",
-        "xky.hunau.edu.cn/:category"
+        "gfxy.hunau.edu.cn/"
       ],
-      "target": "/:category"
+      "target": "/gfxy"
+    },
+    {
+      "source": [
+        "gfxy.hunau.edu.cn/tzgg_0",
+        "gfxy.hunau.edu.cn/tzgg_0/index.html"
+      ],
+      "target": "/gfxy"
+    },
+    {
+      "source": [
+        "gfxy.hunau.edu.cn/xyyw",
+        "gfxy.hunau.edu.cn/xyyw/index.html"
+      ],
+      "target": "/gfxy/xyyw"
     }
   ],
-  "test": {
-    "code": 1
-  },
   "topFeeds": [],
-  "url": "xky.hunau.edu.cn/"
+  "url": "gfxy.hunau.edu.cn/"
 }
 ```

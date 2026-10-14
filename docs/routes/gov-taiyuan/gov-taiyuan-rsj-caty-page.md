@@ -23,7 +23,7 @@
 
 ## Parameters
 - `caty`: 信息类别
-- `page`: 页码
+- `page`: 历史兼容参数，所有值均返回第 1 页，不翻页
 
 
 ## Features
@@ -37,7 +37,8 @@
 ## Radar
 ### Rule 1
 - `source`:
-  - `rsj.taiyuan.gov.cn/*`
+  - `rsj.taiyuan.gov.cn/zfxxgk/:caty/index.shtml`
+- `target`: `/rsj/:caty`
 
 ## Raw JSON
 ```json
@@ -63,14 +64,15 @@
   "name": "人力资源和社会保障局政府公开信息",
   "parameters": {
     "caty": "信息类别",
-    "page": "页码"
+    "page": "历史兼容参数，所有值均返回第 1 页，不翻页"
   },
   "path": "/rsj/:caty/:page?",
   "radar": [
     {
       "source": [
-        "rsj.taiyuan.gov.cn/*"
-      ]
+        "rsj.taiyuan.gov.cn/zfxxgk/:caty/index.shtml"
+      ],
+      "target": "/rsj/:caty"
     }
   ],
   "test": {

@@ -3,9 +3,9 @@
 ## Namespace
 - Namespace: `chinanews`
 - Display Name: `中国新闻网`
-- URL: `chinanews.com.cn`
+- URL: `www.chinanews.com.cn`
 - Language: `_None_`
-- Aliases: `chinanews, chinanews.com.cn, 中国新闻网`
+- Aliases: `chinanews, chinanews.com.cn, www, www.chinanews.com.cn, 中国新闻网`
 - Route Count: `1`
 
 ## Routes

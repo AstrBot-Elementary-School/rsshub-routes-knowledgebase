@@ -28,7 +28,8 @@
 
 
 ## Features
-_None_
+- `requirePuppeteer`: true
+- `antiCrawler`: true
 
 ## Radar
 _None_
@@ -41,6 +42,10 @@ _None_
   ],
   "description": "::: tip\n尚不支持需要登录访问的版块\n:::",
   "example": "/muchong/290",
+  "features": {
+    "antiCrawler": true,
+    "requirePuppeteer": true
+  },
   "heat": 4,
   "location": "index.ts",
   "maintainers": [

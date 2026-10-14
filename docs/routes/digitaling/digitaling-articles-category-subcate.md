@@ -1,4 +1,4 @@
-# 数英网 - 数英网文章专题
+# 数英网 - 文章专题
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `digitaling`
 - Namespace Name: `数英网`
 - Route Path: `/digitaling/articles/:category/:subcate?`
-- Route Name: `数英网文章专题`
+- Route Name: `文章专题`
 - Example: `/digitaling/articles/latest`
 - URL: `www.digitaling.com`
 - Language: `_None_`
@@ -51,7 +51,7 @@ _None_
   "maintainers": [
     "occupy5"
   ],
-  "name": "数英网文章专题",
+  "name": "文章专题",
   "parameters": {
     "category": "文章专题分类",
     "subcate": "hot 分类下的子类"

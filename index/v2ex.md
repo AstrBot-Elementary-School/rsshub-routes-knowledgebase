@@ -39,5 +39,5 @@
 - Route Path: `/v2ex/xna`
 - File: `docs/routes/v2ex/v2ex-xna.md`
 - File Name: `v2ex-xna.md`
-- Categories: `bbs, blog`
+- Categories: `bbs`
 - Maintainers: `luckyscript`

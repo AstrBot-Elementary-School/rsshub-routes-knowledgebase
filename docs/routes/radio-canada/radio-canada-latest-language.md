@@ -36,8 +36,9 @@
 ## Radar
 ### Rule 1
 - `source`:
-  - `ici.radio-canada.ca/rci/:lang`
+  - `ici.radio-canada.ca/rci/:language`
   - `ici.radio-canada.ca/`
+- `target`: `/latest/:language?`
 
 ## Raw JSON
 ```json
@@ -68,9 +69,10 @@
   "radar": [
     {
       "source": [
-        "ici.radio-canada.ca/rci/:lang",
+        "ici.radio-canada.ca/rci/:language",
         "ici.radio-canada.ca/"
-      ]
+      ],
+      "target": "/latest/:language?"
     }
   ],
   "test": {

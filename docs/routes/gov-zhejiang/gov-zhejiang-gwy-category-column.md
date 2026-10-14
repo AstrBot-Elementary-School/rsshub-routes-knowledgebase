@@ -9,7 +9,7 @@
 - Route Path: `/gov/zhejiang/gwy/:category?/:column?`
 - Route Name: `通知`
 - Example: `/gov/zhejiang/gwy/1`
-- URL: `zjks.gov.cn/zjgwy/website/init.htm`
+- URL: `gwy.zjks.gov.cn/zjgwy/website/init.htm`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `nczitzk`
@@ -57,9 +57,9 @@
 ## Radar
 ### Rule 1
 - `source`:
-  - `zjks.gov.cn/zjgwy/website/init.htm`
-  - `zjks.gov.cn/zjgwy/website/queryDetail.htm`
-  - `zjks.gov.cn/zjgwy/website/queryMore.htm`
+  - `gwy.zjks.gov.cn/zjgwy/website/init.htm`
+  - `gwy.zjks.gov.cn/zjgwy/website/queryDetail.htm`
+  - `gwy.zjks.gov.cn/zjgwy/website/queryMore.htm`
 - `target`: `/gwy`
 
 ## Raw JSON
@@ -92,9 +92,9 @@
   "radar": [
     {
       "source": [
-        "zjks.gov.cn/zjgwy/website/init.htm",
-        "zjks.gov.cn/zjgwy/website/queryDetail.htm",
-        "zjks.gov.cn/zjgwy/website/queryMore.htm"
+        "gwy.zjks.gov.cn/zjgwy/website/init.htm",
+        "gwy.zjks.gov.cn/zjgwy/website/queryDetail.htm",
+        "gwy.zjks.gov.cn/zjgwy/website/queryMore.htm"
       ],
       "target": "/gwy"
     }
@@ -103,6 +103,6 @@
     "code": 1
   },
   "topFeeds": [],
-  "url": "zjks.gov.cn/zjgwy/website/init.htm"
+  "url": "gwy.zjks.gov.cn/zjgwy/website/init.htm"
 }
 ```

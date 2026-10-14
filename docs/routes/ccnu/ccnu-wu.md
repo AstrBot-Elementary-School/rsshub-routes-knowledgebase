@@ -1,4 +1,4 @@
-# 华中师范大学 - 伍论贡学院
+# 华中师范大学 - 伍伦贡联合研究院
 
 ## Coverage
 `index-only`
@@ -7,9 +7,9 @@
 - Namespace: `ccnu`
 - Namespace Name: `华中师范大学`
 - Route Path: `/ccnu/wu`
-- Route Name: `伍论贡学院`
+- Route Name: `伍伦贡联合研究院`
 - Example: `/ccnu/wu`
-- URL: `uowji.ccnu.edu.cn/xwzx/tzgg.htm`
+- URL: `uowji.ccnu.edu.cn/index/tzgg.htm`
 - Language: `_None_`
 - Categories: `university`
 - Maintainers: `shengmaosu`
@@ -34,7 +34,7 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `uowji.ccnu.edu.cn/xwzx/tzgg.htm`
+  - `uowji.ccnu.edu.cn/index/tzgg.htm`
   - `uowji.ccnu.edu.cn/`
 
 ## Raw JSON
@@ -57,13 +57,13 @@ _None_
   "maintainers": [
     "shengmaosu"
   ],
-  "name": "伍论贡学院",
+  "name": "伍伦贡联合研究院",
   "parameters": {},
   "path": "/wu",
   "radar": [
     {
       "source": [
-        "uowji.ccnu.edu.cn/xwzx/tzgg.htm",
+        "uowji.ccnu.edu.cn/index/tzgg.htm",
         "uowji.ccnu.edu.cn/"
       ]
     }
@@ -73,6 +73,6 @@ _None_
     "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:108:41\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
   "topFeeds": [],
-  "url": "uowji.ccnu.edu.cn/xwzx/tzgg.htm"
+  "url": "uowji.ccnu.edu.cn/index/tzgg.htm"
 }
 ```

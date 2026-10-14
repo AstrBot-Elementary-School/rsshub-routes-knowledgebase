@@ -18,7 +18,7 @@
 
 ## Description
 ::: warning
-小宇宙的 api 需要验证 `x-jike-device-id`、`x-jike-access-token` 和 `x-jike-refresh-token` 。必要时需要自行配置，具体见部署文档。
+需要配置小宇宙账户的 `XIAOYUZHOU_TOKEN`（refresh token）。可选配置 `XIAOYUZHOU_ID`（设备 ID），具体见部署文档。
 :::
 
 ## Parameters
@@ -26,7 +26,7 @@ _None_
 
 
 ## Features
-_None_
+- `requireConfig`: [{"description": "小宇宙账户的 refresh token，用于获取编辑精选。", "name": "XIAOYUZHOU_TOKEN"}, {"description": "小宇宙账户的设备 ID。", "name": "XIAOYUZHOU_ID", "optional": true}]
 
 ## Radar
 ### Rule 1
@@ -40,8 +40,21 @@ _None_
   "categories": [
     "multimedia"
   ],
-  "description": "::: warning\n小宇宙的 api 需要验证 `x-jike-device-id`、`x-jike-access-token` 和 `x-jike-refresh-token` 。必要时需要自行配置，具体见部署文档。\n:::",
+  "description": "::: warning\n需要配置小宇宙账户的 `XIAOYUZHOU_TOKEN`（refresh token）。可选配置 `XIAOYUZHOU_ID`（设备 ID），具体见部署文档。\n:::",
   "example": "/xiaoyuzhou",
+  "features": {
+    "requireConfig": [
+      {
+        "description": "小宇宙账户的 refresh token，用于获取编辑精选。",
+        "name": "XIAOYUZHOU_TOKEN"
+      },
+      {
+        "description": "小宇宙账户的设备 ID。",
+        "name": "XIAOYUZHOU_ID",
+        "optional": true
+      }
+    ]
+  },
   "heat": 0,
   "location": "pickup.ts",
   "maintainers": [

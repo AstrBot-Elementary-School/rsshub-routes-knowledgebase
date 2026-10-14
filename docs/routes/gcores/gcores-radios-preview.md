@@ -36,7 +36,7 @@ _None_
 ### Rule 1
 - `source`:
   - `www.gcores.com/radios/preview`
-- `target`: `/gcores/radios/preview`
+- `target`: `/radios/preview`
 
 ## Raw JSON
 ```json
@@ -66,7 +66,7 @@ _None_
       "source": [
         "www.gcores.com/radios/preview"
       ],
-      "target": "/gcores/radios/preview"
+      "target": "/radios/preview"
     }
   ],
   "test": {

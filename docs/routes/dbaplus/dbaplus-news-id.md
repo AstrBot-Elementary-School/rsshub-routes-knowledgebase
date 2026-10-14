@@ -51,7 +51,7 @@
 </details>
 
 ## Parameters
-- `category`: {"description": "分类，默认为 `9`，即全部，可在对应分类页 URL 中找到", "options": [{"label": "全部", "value": "9"}, {"label": "数据库", "value": "153"}, {"label": "国产数据库", "value": "217"}, {"label": "ORACLE", "value": "10"}, {"label": "MySQL", "value": "11"}, {"label": "SQL优化", "value": "155"}, {"label": "Newsletter", "value": "156"}, {"label": "其它", "value": "154"}, {"label": "运维", "value": "134"}, {"label": "大数据", "value": "73"}, {"label": "架构", "value": "141"}, {"label": "PaaS云", "value": "72"}, {"label": "职场生涯", "value": "149"}, {"label": "标准评估", "value": "248"}, {"label": "这里有毒", "value": "21"}, {"label": "最新活动", "value": "152"}, {"label": "往期干货", "value": "148"}, {"label": "特别策划", "value": "150"}, {"label": "荐书", "value": "151"}]}
+- `id`: {"description": "分类，默认为 `9`，即全部，可在对应分类页 URL 中找到", "options": [{"label": "全部", "value": "9"}, {"label": "数据库", "value": "153"}, {"label": "国产数据库", "value": "217"}, {"label": "ORACLE", "value": "10"}, {"label": "MySQL", "value": "11"}, {"label": "SQL优化", "value": "155"}, {"label": "Newsletter", "value": "156"}, {"label": "其它", "value": "154"}, {"label": "运维", "value": "134"}, {"label": "大数据", "value": "73"}, {"label": "架构", "value": "141"}, {"label": "PaaS云", "value": "72"}, {"label": "职场生涯", "value": "149"}, {"label": "标准评估", "value": "248"}, {"label": "这里有毒", "value": "21"}, {"label": "最新活动", "value": "152"}, {"label": "往期干货", "value": "148"}, {"label": "特别策划", "value": "150"}, {"label": "荐书", "value": "151"}]}
 
 
 ## Features
@@ -66,7 +66,8 @@
 ## Radar
 ### Rule 1
 - `source`:
-  - `dbaplus.cn/news*`
+  - `dbaplus.cn/news-160-1.html`
+- `target`: `/news/160`
 ### Rule 2
 - `title`: `全部`
 - `source`:
@@ -187,7 +188,7 @@
   ],
   "name": "资讯",
   "parameters": {
-    "category": {
+    "id": {
       "description": "分类，默认为 `9`，即全部，可在对应分类页 URL 中找到",
       "options": [
         {
@@ -273,8 +274,9 @@
   "radar": [
     {
       "source": [
-        "dbaplus.cn/news*"
-      ]
+        "dbaplus.cn/news-160-1.html"
+      ],
+      "target": "/news/160"
     },
     {
       "source": [

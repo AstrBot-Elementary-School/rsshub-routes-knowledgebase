@@ -10,7 +10,7 @@
 
 ## Routes
 
-### 游研社 - 分类文章
+### 分类文章
 - Route ID: `yystv:/yystv/category/:category`
 - Route Path: `/yystv/category/:category`
 - File: `docs/routes/yystv/yystv-category-category.md`
@@ -18,7 +18,7 @@
 - Categories: `game`
 - Maintainers: `betta-cyber, dousha`
 
-### 游研社 - 全部文章
+### 全部文章
 - Route ID: `yystv:/yystv/docs`
 - Route Path: `/yystv/docs`
 - File: `docs/routes/yystv/yystv-docs.md`

@@ -74,7 +74,13 @@ If you subscribe to [Updates in English](https://www.counter-strike.net/news/upd
 ## Radar
 ### Rule 1
 - `source`:
+  - `www.counter-strike.net/news`
+  - `www.counter-strike.net/`
+- `target`: `/news/all`
+### Rule 2
+- `source`:
   - `www.counter-strike.net/news/:category`
+- `target`: `/news/:category`
 
 ## Raw JSON
 ```json
@@ -107,8 +113,16 @@ If you subscribe to [Updates in English](https://www.counter-strike.net/news/upd
   "radar": [
     {
       "source": [
+        "www.counter-strike.net/news",
+        "www.counter-strike.net/"
+      ],
+      "target": "/news/all"
+    },
+    {
+      "source": [
         "www.counter-strike.net/news/:category"
-      ]
+      ],
+      "target": "/news/:category"
     }
   ],
   "test": {

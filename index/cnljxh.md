@@ -3,9 +3,9 @@
 ## Namespace
 - Namespace: `cnljxh`
 - Display Name: `中国炼焦行业协会`
-- URL: `cnljxh.com`
+- URL: `www.cnljxh.org.cn`
 - Language: `_None_`
-- Aliases: `cnljxh, cnljxh.com, 中国炼焦行业协会`
+- Aliases: `cnljxh, cnljxh.org.cn, www, www.cnljxh.org.cn, 中国炼焦行业协会`
 - Route Count: `1`
 
 ## Routes

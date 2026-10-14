@@ -37,8 +37,8 @@ To subscribe to [Apps](https://scoop.sh/#/apps?s=2\&d=1\&n=true\&dm=true\&o=true
 ## Radar
 ### Rule 1
 - `source`:
-  - `scoop.sh/#/apps`
   - `scoop.sh`
+- `target`: `/apps`
 
 ## Raw JSON
 ```json
@@ -72,9 +72,9 @@ To subscribe to [Apps](https://scoop.sh/#/apps?s=2\&d=1\&n=true\&dm=true\&o=true
   "radar": [
     {
       "source": [
-        "scoop.sh/#/apps",
         "scoop.sh"
-      ]
+      ],
+      "target": "/apps"
     }
   ],
   "test": {

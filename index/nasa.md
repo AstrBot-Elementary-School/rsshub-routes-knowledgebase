@@ -18,7 +18,7 @@
 - Categories: `picture, popular`
 - Maintainers: `nczitzk, williamgateszhao`
 
-### NASA 中文
+### Chinese Mirror
 - Route ID: `nasa:/nasa/apod-cn`
 - Route Path: `/nasa/apod-cn`
 - File: `docs/routes/nasa/nasa-apod-cn.md`

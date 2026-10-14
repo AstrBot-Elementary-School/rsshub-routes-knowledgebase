@@ -6,7 +6,7 @@
 - URL: `news.yahoo.com`
 - Language: `_None_`
 - Aliases: `news, news.yahoo.com, yahoo`
-- Route Count: `8`
+- Route Count: `9`
 
 ## Routes
 
@@ -25,6 +25,14 @@
 - File Name: `yahoo-finance-topic.md`
 - Categories: `finance`
 - Maintainers: `DIYgod`
+
+### Finance news (Hong Kong)
+- Route ID: `yahoo:/yahoo/finance/hk/:topic?`
+- Route Path: `/yahoo/finance/hk/:topic?`
+- File: `docs/routes/yahoo/yahoo-finance-hk-topic.md`
+- File Name: `yahoo-finance-hk-topic.md`
+- Categories: `finance`
+- Maintainers: `pseudoyu`
 
 ### Gaming news
 - Route ID: `yahoo:/yahoo/gaming`

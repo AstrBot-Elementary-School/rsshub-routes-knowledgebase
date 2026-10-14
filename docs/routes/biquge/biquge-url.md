@@ -8,8 +8,8 @@
 - Namespace Name: `笔趣阁`
 - Route Path: `/biquge/:url{.+}`
 - Route Name: `小说`
-- Example: `/biquge/http://www.biqu5200.net/0_7/`
-- URL: `xbiquwx.la`
+- Example: `/biquge/https://www.b520.cc/0_7/`
+- URL: `www.b520.cc`
 - Language: `_None_`
 - Categories: `reading`
 - Maintainers: `jjeejj, machsix, nczitzk`
@@ -21,15 +21,13 @@
 
 #### 使用方法
 
-如订阅 [《大主宰》](http://www.biqu5200.net/0_7/)，此时在 [biqu5200.net](http://www.biqu5200.net) 中查询得到对应小说详情页 URL 为 `http://www.biqu5200.net/0_7/`。此时，路由为 [`/biquge/http://www.biqu5200.net/0_7/`](https://rsshub.app/biquge/http://www.biqu5200.net/0_7/)
-
-又如同样订阅 [《大主宰》](https://www.shuquge.com/txt/70/index.html)，此时在 [shuquge.com](https://www.shuquge.com) 中查询得到对应小说详情页 URL 为 `https://www.shuquge.com/txt/70/index.html`。此时，把末尾的 `index.html` 去掉，路由为 [`/biquge/https://www.shuquge.com/txt/70/`](https://rsshub.app/biquge/https://www.shuquge.com/txt/70/)
+如订阅 [《大主宰》](https://www.b520.cc/0_7/)，此时在 [b520.cc](https://www.b520.cc) 中查询得到对应小说详情页 URL 为 `https://www.b520.cc/0_7/`。此时，路由为 [`/biquge/https://www.b520.cc/0_7/`](https://rsshub.app/biquge/https://www.b520.cc/0_7/)
 
 #### 关于章节数
 
-路由默认返回最新 **1** 个章节，如有需要一次性获取多个章节，可在路由后指定 `limit` 参数。如上面的例子：订阅 [《大主宰》](http://www.biqu5200.net/0_7/) 并获取最新的 **10** 个章节。此时，路由为 [`/biquge/http://www.biqu5200.net/0_7/?limit=10`](https://rsshub.app/biquge/http://www.biqu5200.net/0_7/?limit=10)
+路由默认返回最新 **1** 个章节，如有需要一次性获取多个章节，可在路由后指定 `limit` 参数。如上面的例子：订阅 [《大主宰》](https://www.b520.cc/0_7/) 并指定最多获取最新的 **10** 个章节。此时，路由为 [`/biquge/https://www.b520.cc/0_7/?limit=10`](https://rsshub.app/biquge/https://www.b520.cc/0_7/?limit=10)
 
-需要注意的是，单次获取的所有章节更新时间统一设定为最新章节的更新时间。也就是说，获取最新的 **10** 个章节时，除了最新 **1** 个章节的更新时间是准确的（和网站一致的），其他 **9** 个章节的更新时间是不准确的。
+源站仅提供最新章节的更新时间，因此只有与源站最新章节信息匹配的条目包含更新时间，其他章节不提供时间。
 
 另外，若设置获取章节数目过多，可能会触发网站反爬，导致路由不可用。
 :::
@@ -54,8 +52,8 @@ _None_
   "categories": [
     "reading"
   ],
-  "description": "::: tip\n\n#### 使用方法\n\n如订阅 [《大主宰》](http://www.biqu5200.net/0_7/)，此时在 [biqu5200.net](http://www.biqu5200.net) 中查询得到对应小说详情页 URL 为 `http://www.biqu5200.net/0_7/`。此时，路由为 [`/biquge/http://www.biqu5200.net/0_7/`](https://rsshub.app/biquge/http://www.biqu5200.net/0_7/)\n\n又如同样订阅 [《大主宰》](https://www.shuquge.com/txt/70/index.html)，此时在 [shuquge.com](https://www.shuquge.com) 中查询得到对应小说详情页 URL 为 `https://www.shuquge.com/txt/70/index.html`。此时，把末尾的 `index.html` 去掉，路由为 [`/biquge/https://www.shuquge.com/txt/70/`](https://rsshub.app/biquge/https://www.shuquge.com/txt/70/)\n\n#### 关于章节数\n\n路由默认返回最新 **1** 个章节，如有需要一次性获取多个章节，可在路由后指定 `limit` 参数。如上面的例子：订阅 [《大主宰》](http://www.biqu5200.net/0_7/) 并获取最新的 **10** 个章节。此时，路由为 [`/biquge/http://www.biqu5200.net/0_7/?limit=10`](https://rsshub.app/biquge/http://www.biqu5200.net/0_7/?limit=10)\n\n需要注意的是，单次获取的所有章节更新时间统一设定为最新章节的更新时间。也就是说，获取最新的 **10** 个章节时，除了最新 **1** 个章节的更新时间是准确的（和网站一致的），其他 **9** 个章节的更新时间是不准确的。\n\n另外，若设置获取章节数目过多，可能会触发网站反爬，导致路由不可用。\n:::\n\n::: warning\n上方列举的网址可能部分不可用，这取决于该网站的维护者是否持续运营网站。请选择可以正常访问的网址，获取更新的前提是该网站可以正常访问。\n:::",
-  "example": "/biquge/http://www.biqu5200.net/0_7/",
+  "description": "::: tip\n\n#### 使用方法\n\n如订阅 [《大主宰》](https://www.b520.cc/0_7/)，此时在 [b520.cc](https://www.b520.cc) 中查询得到对应小说详情页 URL 为 `https://www.b520.cc/0_7/`。此时，路由为 [`/biquge/https://www.b520.cc/0_7/`](https://rsshub.app/biquge/https://www.b520.cc/0_7/)\n\n#### 关于章节数\n\n路由默认返回最新 **1** 个章节，如有需要一次性获取多个章节，可在路由后指定 `limit` 参数。如上面的例子：订阅 [《大主宰》](https://www.b520.cc/0_7/) 并指定最多获取最新的 **10** 个章节。此时，路由为 [`/biquge/https://www.b520.cc/0_7/?limit=10`](https://rsshub.app/biquge/https://www.b520.cc/0_7/?limit=10)\n\n源站仅提供最新章节的更新时间，因此只有与源站最新章节信息匹配的条目包含更新时间，其他章节不提供时间。\n\n另外，若设置获取章节数目过多，可能会触发网站反爬，导致路由不可用。\n:::\n\n::: warning\n上方列举的网址可能部分不可用，这取决于该网站的维护者是否持续运营网站。请选择可以正常访问的网址，获取更新的前提是该网站可以正常访问。\n:::",
+  "example": "/biquge/https://www.b520.cc/0_7/",
   "features": {
     "antiCrawler": true
   },

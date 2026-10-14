@@ -34,7 +34,7 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `www.zongheng.org/detail/:id`
+  - `www.zongheng.com/detail/:id`
 
 ## Raw JSON
 ```json
@@ -65,7 +65,7 @@ _None_
   "radar": [
     {
       "source": [
-        "www.zongheng.org/detail/:id"
+        "www.zongheng.com/detail/:id"
       ]
     }
   ],

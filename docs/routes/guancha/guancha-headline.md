@@ -9,7 +9,7 @@
 - Route Path: `/guancha/headline`
 - Route Name: `头条`
 - Example: `/guancha/headline`
-- URL: `guancha.cn/GuanChaZheTouTiao`
+- URL: `guancha.cn/special/GuanChaZheTouTiao/1`
 - Language: `_None_`
 - Categories: `new-media`
 - Maintainers: `nczitzk`
@@ -34,8 +34,9 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `guancha.cn/GuanChaZheTouTiao`
+  - `guancha.cn/GuanChaZheTouTiao/list_1.shtml`
   - `guancha.cn/`
+  - `guancha.cn/special/GuanChaZheTouTiao/1`
 
 ## Raw JSON
 ```json
@@ -63,8 +64,9 @@ _None_
   "radar": [
     {
       "source": [
-        "guancha.cn/GuanChaZheTouTiao",
-        "guancha.cn/"
+        "guancha.cn/GuanChaZheTouTiao/list_1.shtml",
+        "guancha.cn/",
+        "guancha.cn/special/GuanChaZheTouTiao/1"
       ]
     }
   ],
@@ -86,6 +88,6 @@ _None_
       "url": "rsshub://guancha/headline"
     }
   ],
-  "url": "guancha.cn/GuanChaZheTouTiao"
+  "url": "guancha.cn/special/GuanChaZheTouTiao/1"
 }
 ```

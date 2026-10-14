@@ -41,29 +41,26 @@
 
 ## Radar
 ### Rule 1
-- `source`:
-  - `www.gcores.com/collections/:id`
-### Rule 2
 - `title`: `全部`
 - `source`:
   - `www.gcores.com/collections/:id`
 - `target`: `/collections/:id`
-### Rule 3
+### Rule 2
 - `title`: `播客`
 - `source`:
   - `www.gcores.com/collections/:id`
 - `target`: `/collections/:id/radios`
-### Rule 4
+### Rule 3
 - `title`: `文章`
 - `source`:
   - `www.gcores.com/collections/:id`
 - `target`: `/collections/:id/articles`
-### Rule 5
+### Rule 4
 - `title`: `资讯`
 - `source`:
   - `www.gcores.com/collections/:id`
 - `target`: `/collections/:id/news`
-### Rule 6
+### Rule 5
 - `title`: `视频`
 - `source`:
   - `www.gcores.com/collections/:id`
@@ -125,11 +122,6 @@
   },
   "path": "/collections/:id/:tab?",
   "radar": [
-    {
-      "source": [
-        "www.gcores.com/collections/:id"
-      ]
-    },
     {
       "source": [
         "www.gcores.com/collections/:id"

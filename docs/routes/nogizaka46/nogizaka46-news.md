@@ -35,6 +35,9 @@ _None_
 ### Rule 1
 - `source`:
   - `news.nogizaka46.com/s/n46/news/list`
+### Rule 2
+- `source`:
+  - `www.nogizaka46.com/s/n46/news/list`
 
 ## Raw JSON
 ```json
@@ -64,6 +67,11 @@ _None_
     {
       "source": [
         "news.nogizaka46.com/s/n46/news/list"
+      ]
+    },
+    {
+      "source": [
+        "www.nogizaka46.com/s/n46/news/list"
       ]
     }
   ],

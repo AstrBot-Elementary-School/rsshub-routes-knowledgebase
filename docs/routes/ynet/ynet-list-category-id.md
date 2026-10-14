@@ -39,6 +39,11 @@
 ### Rule 1
 - `source`:
   - `ynet.com`
+- `target`: `/list`
+### Rule 2
+- `source`:
+  - `news.ynet.com/list/2121t76.html`
+- `target`: `/list/news/2121t76`
 
 ## Raw JSON
 ```json
@@ -76,7 +81,14 @@
     {
       "source": [
         "ynet.com"
-      ]
+      ],
+      "target": "/list"
+    },
+    {
+      "source": [
+        "news.ynet.com/list/2121t76.html"
+      ],
+      "target": "/list/news/2121t76"
     }
   ],
   "test": {

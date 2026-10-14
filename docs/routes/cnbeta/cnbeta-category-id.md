@@ -32,6 +32,8 @@ _None_
 ### Rule 1
 - `source`:
   - `cnbeta.com.tw/category/:id`
+  - `www.cnbeta.com.tw/category/:id`
+- `target`: `/category/:id`
 
 ## Raw JSON
 ```json
@@ -54,8 +56,10 @@ _None_
   "radar": [
     {
       "source": [
-        "cnbeta.com.tw/category/:id"
-      ]
+        "cnbeta.com.tw/category/:id",
+        "www.cnbeta.com.tw/category/:id"
+      ],
+      "target": "/category/:id"
     }
   ],
   "test": {

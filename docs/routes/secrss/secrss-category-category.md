@@ -8,7 +8,7 @@
 - Namespace Name: `安全内参`
 - Route Path: `/secrss/category/:category?`
 - Route Name: `分类`
-- Example: `/secrss/category/产业趋势`
+- Example: `/secrss/category/产业研究`
 - URL: `secrss.com`
 - Language: `_None_`
 - Categories: `programming`
@@ -40,7 +40,7 @@ _None_
   "categories": [
     "programming"
   ],
-  "example": "/secrss/category/产业趋势",
+  "example": "/secrss/category/产业研究",
   "features": {
     "antiCrawler": false,
     "requireConfig": false,

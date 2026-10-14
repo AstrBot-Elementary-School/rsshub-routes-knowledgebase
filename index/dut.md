@@ -11,9 +11,9 @@
 ## Routes
 
 ### 通用
-- Route ID: `dut:/dut/*/*`
-- Route Path: `/dut/*/*`
-- File: `docs/routes/dut/dut.md`
-- File Name: `dut.md`
+- Route ID: `dut:/dut/:site/:category{.+}`
+- Route Path: `/dut/:site/:category{.+}`
+- File: `docs/routes/dut/dut-site-category.md`
+- File Name: `dut-site-category.md`
 - Categories: `university`
 - Maintainers: `beautyyuyanli, nczitzk, ueiu`

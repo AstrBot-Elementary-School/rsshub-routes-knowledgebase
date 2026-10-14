@@ -35,8 +35,16 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `cosplaytele.com/:period`
-- `target`: `/popular/:period`
+  - `cosplaytele.com/3-day`
+- `target`: `/popular/3`
+### Rule 2
+- `source`:
+  - `cosplaytele.com/7-day`
+- `target`: `/popular/7`
+### Rule 3
+- `source`:
+  - `cosplaytele.com/24-hours`
+- `target`: `/popular/1`
 
 ## Raw JSON
 ```json
@@ -67,9 +75,21 @@ _None_
   "radar": [
     {
       "source": [
-        "cosplaytele.com/:period"
+        "cosplaytele.com/3-day"
       ],
-      "target": "/popular/:period"
+      "target": "/popular/3"
+    },
+    {
+      "source": [
+        "cosplaytele.com/7-day"
+      ],
+      "target": "/popular/7"
+    },
+    {
+      "source": [
+        "cosplaytele.com/24-hours"
+      ],
+      "target": "/popular/1"
     }
   ],
   "test": {

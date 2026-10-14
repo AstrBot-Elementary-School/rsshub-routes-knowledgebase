@@ -37,7 +37,8 @@
 ## Radar
 ### Rule 1
 - `source`:
-  - `keylol.com/:path`
+  - `keylol.com/f161-1`
+- `target`: `/f161-1`
 
 ## Raw JSON
 ```json
@@ -75,8 +76,9 @@
   "radar": [
     {
       "source": [
-        "keylol.com/:path"
-      ]
+        "keylol.com/f161-1"
+      ],
+      "target": "/f161-1"
     }
   ],
   "test": {

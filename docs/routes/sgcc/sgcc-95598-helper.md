@@ -27,7 +27,9 @@ _None_
 _None_
 
 ## Radar
-_None_
+### Rule 1
+- `source`:
+  - `www.95598.cn/osgweb/blackoutNotice`
 
 ## Raw JSON
 ```json
@@ -43,6 +45,13 @@ _None_
   ],
   "name": "停电通知地区代码",
   "path": "/95598/helper",
+  "radar": [
+    {
+      "source": [
+        "www.95598.cn/osgweb/blackoutNotice"
+      ]
+    }
+  ],
   "test": {
     "code": 1,
     "message": "AssertionError: expected [ Array(114) ] to not include '211200'\n    at Proxy.<anonymous> (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+expect@4.1.11/node_modules/@vitest/expect/dist/index.js:1319:15)\n    at Proxy.<anonymous> (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+expect@4.1.11/node_modules/@vitest/expect/dist/index.js:1156:15)\n    at Proxy.methodWrapper (file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/chai@6.2.2/node_modules/chai/index.js:1700:25)\n    at checkRSS (/home/runner/work/RSSHub/RSSHub/lib/app.test.ts:94:27)\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:109:17\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"

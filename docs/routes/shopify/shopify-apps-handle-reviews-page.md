@@ -21,6 +21,7 @@ _None_
 
 ## Parameters
 - `handle`: 例如一个 App 的链接 https://apps.shopify.com/flow，其中 flow 就是指的是 handle
+- `page`: 兼容旧链接；始终返回最新评论第一页
 
 
 ## Features
@@ -29,7 +30,7 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `apps.shopify.com/:handle`
+  - `apps.shopify.com/:handle/reviews`
 
 ## Raw JSON
 ```json
@@ -45,13 +46,14 @@ _None_
   ],
   "name": "App reviews",
   "parameters": {
-    "handle": "例如一个 App 的链接 https://apps.shopify.com/flow，其中 flow 就是指的是 handle"
+    "handle": "例如一个 App 的链接 https://apps.shopify.com/flow，其中 flow 就是指的是 handle",
+    "page": "兼容旧链接；始终返回最新评论第一页"
   },
   "path": "/apps/:handle/reviews/:page?",
   "radar": [
     {
       "source": [
-        "apps.shopify.com/:handle"
+        "apps.shopify.com/:handle/reviews"
       ]
     }
   ],

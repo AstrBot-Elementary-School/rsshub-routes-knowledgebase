@@ -68,7 +68,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 89,
+  "heat": 88,
   "location": "super-index.ts",
   "maintainers": [
     "zengxs",

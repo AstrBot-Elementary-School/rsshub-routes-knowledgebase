@@ -3,9 +3,9 @@
 ## Namespace
 - Namespace: `cuit`
 - Display Name: `成都信息工程大学`
-- URL: `cuit.edu.cn`
+- URL: `www.cuit.edu.cn`
 - Language: `_None_`
-- Aliases: `cuit, cuit.edu.cn, 成都信息工程大学`
+- Aliases: `cuit, cuit.edu.cn, www, www.cuit.edu.cn, 成都信息工程大学`
 - Route Count: `1`
 
 ## Routes

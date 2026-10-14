@@ -52,7 +52,8 @@
 - `target`: `/`
 ### Rule 2
 - `source`:
-  - `geekpark.net/column/:column?`
+  - `geekpark.net/column/:column`
+- `target`: `/:column`
 ### Rule 3
 - `title`: `综合报道`
 - `source`:
@@ -131,8 +132,9 @@
     },
     {
       "source": [
-        "geekpark.net/column/:column?"
-      ]
+        "geekpark.net/column/:column"
+      ],
+      "target": "/:column"
     },
     {
       "source": [

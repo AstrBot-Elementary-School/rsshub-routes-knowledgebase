@@ -36,8 +36,8 @@
 ## Radar
 ### Rule 1
 - `source`:
-  - `hacking8.com/index/:category`
-  - `hacking8.com/`
+  - `i.hacking8.com/index/:category`
+  - `i.hacking8.com/`
 
 ## Raw JSON
 ```json
@@ -68,8 +68,8 @@
   "radar": [
     {
       "source": [
-        "hacking8.com/index/:category",
-        "hacking8.com/"
+        "i.hacking8.com/index/:category",
+        "i.hacking8.com/"
       ]
     }
   ],

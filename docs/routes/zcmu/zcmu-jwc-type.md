@@ -8,7 +8,7 @@
 - Namespace Name: `浙江中医药大学`
 - Route Path: `/zcmu/jwc/:type?`
 - Route Name: `教务处`
-- Example: `/zcmu/jwc/1`
+- Example: `/zcmu/jwc/0`
 - URL: `jwc.zcmu.edu.cn`
 - Language: `_None_`
 - Categories: `university`
@@ -17,9 +17,9 @@
 - Source Module: `_None_`
 
 ## Description
-| 教务管理 | 成绩管理 | 学籍管理 | 考试管理 | 选课管理 | 排课管理 |
-| -------- | -------- | -------- | -------- | -------- | -------- |
-| 0        | 1        | 2        | 3        | 4        | 5        |
+| 教务管理 | 学籍管理 | 考试管理 | 选课管理 | 排课管理 |
+| -------- | -------- | -------- | -------- | -------- |
+| 0        | 2        | 3        | 4        | 5        |
 
 ## Parameters
 - `type`: 通知模块id
@@ -42,8 +42,8 @@ _None_
   "categories": [
     "university"
   ],
-  "description": "| 教务管理 | 成绩管理 | 学籍管理 | 考试管理 | 选课管理 | 排课管理 |\n| -------- | -------- | -------- | -------- | -------- | -------- |\n| 0        | 1        | 2        | 3        | 4        | 5        |",
-  "example": "/zcmu/jwc/1",
+  "description": "| 教务管理 | 学籍管理 | 考试管理 | 选课管理 | 排课管理 |\n| -------- | -------- | -------- | -------- | -------- |\n| 0        | 2        | 3        | 4        | 5        |",
+  "example": "/zcmu/jwc/0",
   "features": {
     "antiCrawler": true,
     "requireConfig": false,
@@ -67,16 +67,16 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "教务处 -- 教务管理 - Powered by RSSHub",
+      "description": "教务处 -- 排课管理 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "65682896413916160",
+      "id": "84227265299092494",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://jwc.zcmu.edu.cn/jwgl",
-      "title": "教务处 -- 教务管理",
+      "siteUrl": "https://jwc.zcmu.edu.cn/jwgl/pkgl",
+      "title": "教务处 -- 排课管理",
       "type": "feed",
-      "url": "rsshub://zcmu/jwc/0"
+      "url": "rsshub://zcmu/jwc/5"
     },
     {
       "description": "教务处 -- 选课管理 - Powered by RSSHub",

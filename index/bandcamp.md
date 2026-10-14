@@ -10,7 +10,7 @@
 
 ## Routes
 
-### Upcoming Live Streams
+### Upcoming Live Events
 - Route ID: `bandcamp:/bandcamp/live`
 - Route Path: `/bandcamp/live`
 - File: `docs/routes/bandcamp/bandcamp-live.md`

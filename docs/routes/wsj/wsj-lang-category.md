@@ -17,9 +17,9 @@
 - Source Module: `_None_`
 
 ## Description
-en\_us
+en-us
 
-| World | U.S. | Politics | Economy | Business | Tech       | Markets | Opinion | Books & Arts | Real Estate | Life & Work | Sytle               | Sports |
+| World | U.S. | Politics | Economy | Business | Tech       | Markets | Opinion | Books & Arts | Real Estate | Life & Work | Style               | Sports |
 | ----- | ---- | -------- | ------- | -------- | ---------- | ------- | ------- | ------------ | ----------- | ----------- | ------------------- | ------ |
 | world | us   | politics | economy | business | technology | markets | opinion | books-arts   | realestate  | life-work   | style-entertainment | sports |
 
@@ -39,7 +39,7 @@ Provide full article RSS for WSJ topics.
 ## Features
 - `requireConfig`: false
 - `requirePuppeteer`: false
-- `antiCrawler`: false
+- `antiCrawler`: true
 - `supportBT`: false
 - `supportPodcast`: false
 - `supportScihub`: false
@@ -53,10 +53,10 @@ _None_
   "categories": [
     "traditional-media"
   ],
-  "description": "en\\_us\n\n| World | U.S. | Politics | Economy | Business | Tech       | Markets | Opinion | Books & Arts | Real Estate | Life & Work | Sytle               | Sports |\n| ----- | ---- | -------- | ------- | -------- | ---------- | ------- | ------- | ------------ | ----------- | ----------- | ------------------- | ------ |\n| world | us   | politics | economy | business | technology | markets | opinion | books-arts   | realestate  | life-work   | style-entertainment | sports |\n\nzh-cn / zh-tw\n\n| 国际  | 中国  | 金融市场 | 经济    | 商业     | 科技       | 派        | 专栏与观点 |\n| ----- | ----- | -------- | ------- | -------- | ---------- | --------- | ---------- |\n| world | china | markets  | economy | business | technology | life-arts | opinion    |\n\nProvide full article RSS for WSJ topics.",
+  "description": "en-us\n\n| World | U.S. | Politics | Economy | Business | Tech       | Markets | Opinion | Books & Arts | Real Estate | Life & Work | Style               | Sports |\n| ----- | ---- | -------- | ------- | -------- | ---------- | ------- | ------- | ------------ | ----------- | ----------- | ------------------- | ------ |\n| world | us   | politics | economy | business | technology | markets | opinion | books-arts   | realestate  | life-work   | style-entertainment | sports |\n\nzh-cn / zh-tw\n\n| 国际  | 中国  | 金融市场 | 经济    | 商业     | 科技       | 派        | 专栏与观点 |\n| ----- | ----- | -------- | ------- | -------- | ---------- | --------- | ---------- |\n| world | china | markets  | economy | business | technology | life-arts | opinion    |\n\nProvide full article RSS for WSJ topics.",
   "example": "/wsj/en-us/opinion",
   "features": {
-    "antiCrawler": false,
+    "antiCrawler": true,
     "requireConfig": false,
     "requirePuppeteer": false,
     "supportBT": false,

@@ -25,7 +25,7 @@ By extracting the full text of articles, we provide a better reading experience 
 
 ## Features
 - `requireConfig`: false
-- `requirePuppeteer`: false
+- `requirePuppeteer`: true
 - `antiCrawler`: false
 - `supportBT`: false
 - `supportPodcast`: false
@@ -49,12 +49,12 @@ By extracting the full text of articles, we provide a better reading experience 
   "features": {
     "antiCrawler": false,
     "requireConfig": false,
-    "requirePuppeteer": false,
+    "requirePuppeteer": true,
     "supportBT": false,
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 8510,
+  "heat": 8511,
   "location": "index.ts",
   "maintainers": [
     "HenryQW",

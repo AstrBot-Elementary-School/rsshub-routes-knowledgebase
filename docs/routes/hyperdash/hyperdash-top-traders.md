@@ -9,7 +9,7 @@
 - Route Path: `/hyperdash/top-traders`
 - Route Name: `Top Traders`
 - Example: `/hyperdash/top-traders`
-- URL: `hyperdash.info`
+- URL: `hyperdash.com`
 - Language: `_None_`
 - Categories: `finance`
 - Maintainers: `pseudoyu`
@@ -34,7 +34,8 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `hyperdash.info/`
+  - `hyperdash.com/`
+  - `hyperdash.com/leaderboard`
 
 ## Raw JSON
 ```json
@@ -63,7 +64,8 @@ _None_
   "radar": [
     {
       "source": [
-        "hyperdash.info/"
+        "hyperdash.com/",
+        "hyperdash.com/leaderboard"
       ]
     }
   ],

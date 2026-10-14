@@ -3,9 +3,9 @@
 ## Namespace
 - Namespace: `egsea`
 - Display Name: `e 公司`
-- URL: `egsea.com`
+- URL: `www.egsea.com`
 - Language: `_None_`
-- Aliases: `e 公司, egsea, egsea.com`
+- Aliases: `e 公司, egsea, egsea.com, www, www.egsea.com`
 - Route Count: `1`
 
 ## Routes

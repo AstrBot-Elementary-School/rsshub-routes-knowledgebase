@@ -34,7 +34,20 @@
 ## Radar
 ### Rule 1
 - `source`:
-  - `www.ifanr.com/category/:name`
+  - `www.ifanr.com/category/ifanrnews`
+- `target`: `/category/早报`
+### Rule 2
+- `source`:
+  - `www.ifanr.com/category/review`
+- `target`: `/category/评测`
+### Rule 3
+- `source`:
+  - `www.ifanr.com/category/tangzhi-evaluation`
+- `target`: `/category/糖纸众测`
+### Rule 4
+- `source`:
+  - `www.ifanr.com/category/product`
+- `target`: `/category/产品`
 
 ## Raw JSON
 ```json
@@ -85,8 +98,27 @@
   "radar": [
     {
       "source": [
-        "www.ifanr.com/category/:name"
-      ]
+        "www.ifanr.com/category/ifanrnews"
+      ],
+      "target": "/category/早报"
+    },
+    {
+      "source": [
+        "www.ifanr.com/category/review"
+      ],
+      "target": "/category/评测"
+    },
+    {
+      "source": [
+        "www.ifanr.com/category/tangzhi-evaluation"
+      ],
+      "target": "/category/糖纸众测"
+    },
+    {
+      "source": [
+        "www.ifanr.com/category/product"
+      ],
+      "target": "/category/产品"
     }
   ],
   "test": {

@@ -30,6 +30,7 @@ _None_
 ### Rule 1
 - `source`:
   - `sees.ecnu.edu.cn`
+  - `sees.ecnu.edu.cn/41127/list.htm`
 - `target`: `/sees`
 
 ## Raw JSON
@@ -51,7 +52,8 @@ _None_
   "radar": [
     {
       "source": [
-        "sees.ecnu.edu.cn"
+        "sees.ecnu.edu.cn",
+        "sees.ecnu.edu.cn/41127/list.htm"
       ],
       "target": "/sees"
     }

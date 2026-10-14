@@ -38,7 +38,6 @@
 ## Radar
 ### Rule 1
 - `source`:
-  - `manhua.zaimanhua.com/details`
   - `manhua.zaimanhua.com/details/:id`
 - `target`: `/comic/:id`
 
@@ -78,7 +77,6 @@
   "radar": [
     {
       "source": [
-        "manhua.zaimanhua.com/details",
         "manhua.zaimanhua.com/details/:id"
       ],
       "target": "/comic/:id"

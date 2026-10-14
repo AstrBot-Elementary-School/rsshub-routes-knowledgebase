@@ -3,9 +3,9 @@
 ## Namespace
 - Namespace: `gamegene`
 - Display Name: `游戏基因`
-- URL: `news.gamegene.cn`
+- URL: `gamegene.cn`
 - Language: `_None_`
-- Aliases: `gamegene, news, news.gamegene.cn, 游戏基因`
+- Aliases: `gamegene, gamegene.cn, 游戏基因`
 - Route Count: `1`
 
 ## Routes

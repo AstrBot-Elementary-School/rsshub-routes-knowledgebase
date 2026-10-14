@@ -35,7 +35,7 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `www.ifanr.comdigest`
+  - `www.ifanr.com/digest`
 - `target`: `/digest`
 
 ## Raw JSON
@@ -64,7 +64,7 @@ _None_
   "radar": [
     {
       "source": [
-        "www.ifanr.comdigest"
+        "www.ifanr.com/digest"
       ],
       "target": "/digest"
     }

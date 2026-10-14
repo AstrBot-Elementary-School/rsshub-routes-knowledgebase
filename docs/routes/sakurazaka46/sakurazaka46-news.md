@@ -1,13 +1,13 @@
-# Sakamichi Series 坂道系列官网资讯 - Sakurazaka46 News 櫻坂 46 新闻
+# 櫻坂46 - 新闻
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `sakurazaka46`
-- Namespace Name: `Sakamichi Series 坂道系列官网资讯`
+- Namespace Name: `櫻坂46`
 - Route Path: `/sakurazaka46/news`
-- Route Name: `Sakurazaka46 News 櫻坂 46 新闻`
+- Route Name: `新闻`
 - Example: `/sakurazaka46/news`
 - URL: `sakurazaka46.com/s/s46/news/list`
 - Language: `_None_`
@@ -57,7 +57,7 @@ _None_
   "maintainers": [
     "nczitzk"
   ],
-  "name": "Sakurazaka46 News 櫻坂 46 新闻",
+  "name": "新闻",
   "parameters": {},
   "path": "/news",
   "radar": [

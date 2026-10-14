@@ -9,7 +9,7 @@
 - Route Path: `/pku/ss/notice`
 - Route Name: `软件与微电子学院 - 通知公告`
 - Example: `/pku/ss/notice`
-- URL: `ss.pku.edu.cn/index.php/newscenter/notice`
+- URL: `ss.pku.edu.cn/xwzx/tzgg/index.htm`
 - Language: `_None_`
 - Categories: `university`
 - Maintainers: `legr4ndk`
@@ -34,7 +34,7 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `ss.pku.edu.cn/index.php/newscenter/notice`
+  - `ss.pku.edu.cn/xwzx/tzgg/index.htm`
   - `ss.pku.edu.cn/`
 
 ## Raw JSON
@@ -63,7 +63,7 @@ _None_
   "radar": [
     {
       "source": [
-        "ss.pku.edu.cn/index.php/newscenter/notice",
+        "ss.pku.edu.cn/xwzx/tzgg/index.htm",
         "ss.pku.edu.cn/"
       ]
     }
@@ -72,6 +72,6 @@ _None_
     "code": 1
   },
   "topFeeds": [],
-  "url": "ss.pku.edu.cn/index.php/newscenter/notice"
+  "url": "ss.pku.edu.cn/xwzx/tzgg/index.htm"
 }
 ```

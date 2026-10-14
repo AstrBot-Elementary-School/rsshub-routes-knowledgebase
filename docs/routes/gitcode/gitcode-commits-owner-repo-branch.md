@@ -38,6 +38,7 @@ _None_
 - `source`:
   - `gitcode.com/:owner/:repo/commits`
   - `gitcode.com/:owner/:repo/commits/:branch`
+- `target`: `/commits/:owner/:repo/:branch?`
 
 ## Raw JSON
 ```json
@@ -71,7 +72,8 @@ _None_
       "source": [
         "gitcode.com/:owner/:repo/commits",
         "gitcode.com/:owner/:repo/commits/:branch"
-      ]
+      ],
+      "target": "/commits/:owner/:repo/:branch?"
     }
   ],
   "test": {

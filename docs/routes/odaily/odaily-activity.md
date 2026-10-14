@@ -9,7 +9,7 @@
 - Route Path: `/odaily/activity`
 - Route Name: `活动`
 - Example: `/odaily/activity`
-- URL: `0daily.com/activityPage`
+- URL: `www.odaily.news/zh-CN/activity`
 - Language: `_None_`
 - Categories: `new-media`
 - Maintainers: `nczitzk`
@@ -34,8 +34,9 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `0daily.com/activityPage`
-  - `0daily.com/`
+  - `www.odaily.news/:locale/activity`
+  - `www.odaily.news/activity`
+  - `www.odaily.news/`
 
 ## Raw JSON
 ```json
@@ -63,8 +64,9 @@ _None_
   "radar": [
     {
       "source": [
-        "0daily.com/activityPage",
-        "0daily.com/"
+        "www.odaily.news/:locale/activity",
+        "www.odaily.news/activity",
+        "www.odaily.news/"
       ]
     }
   ],
@@ -86,6 +88,6 @@ _None_
       "url": "rsshub://odaily/activity"
     }
   ],
-  "url": "0daily.com/activityPage"
+  "url": "www.odaily.news/zh-CN/activity"
 }
 ```

@@ -30,7 +30,8 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `https://pkgs.alpinelinux.org/packages`
+  - `pkgs.alpinelinux.org/package/:branch/:repo/:arch/:name`
+- `target`: `/pkgs/:name`
 
 ## Raw JSON
 ```json
@@ -54,8 +55,9 @@ _None_
   "radar": [
     {
       "source": [
-        "https://pkgs.alpinelinux.org/packages"
-      ]
+        "pkgs.alpinelinux.org/package/:branch/:repo/:arch/:name"
+      ],
+      "target": "/pkgs/:name"
     }
   ],
   "test": {

@@ -30,7 +30,8 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `javtrailers.com/casts/:category`
+  - `javtrailers.com/casts/:cast`
+- `target`: `/casts/:cast`
 
 ## Raw JSON
 ```json
@@ -56,8 +57,9 @@ _None_
   "radar": [
     {
       "source": [
-        "javtrailers.com/casts/:category"
-      ]
+        "javtrailers.com/casts/:cast"
+      ],
+      "target": "/casts/:cast"
     }
   ],
   "test": {

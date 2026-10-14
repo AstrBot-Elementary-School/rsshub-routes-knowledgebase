@@ -27,10 +27,10 @@
 - Maintainers: `HaoyuLee`
 
 ### 全省政府网站统一搜索
-- Route ID: `gov/zj:/gov/zj/search/:websiteid?/:word/:cateid?`
-- Route Path: `/gov/zj/search/:websiteid?/:word/:cateid?`
-- File: `docs/routes/gov-zj/gov-zj-search-websiteid-word-cateid.md`
-- File Name: `gov-zj-search-websiteid-word-cateid.md`
+- Route ID: `gov/zj:/gov/zj/search/:websiteid?/:word?/:cateid?/:sortType?`
+- Route Path: `/gov/zj/search/:websiteid?/:word?/:cateid?/:sortType?`
+- File: `docs/routes/gov-zj/gov-zj-search-websiteid-word-cateid-sorttype.md`
+- File Name: `gov-zj-search-websiteid-word-cateid-sorttype.md`
 - Categories: `government`
 - Maintainers: `HaoyuLee`
 

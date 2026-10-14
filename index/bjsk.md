@@ -3,9 +3,9 @@
 ## Namespace
 - Namespace: `bjsk`
 - Display Name: `北京社科网`
-- URL: `bjsk.org.cn`
+- URL: `www.bjsk.org.cn`
 - Language: `_None_`
-- Aliases: `bjsk, bjsk.org.cn, 北京社科网`
+- Aliases: `bjsk, bjsk.org.cn, www, www.bjsk.org.cn, 北京社科网`
 - Route Count: `2`
 
 ## Routes

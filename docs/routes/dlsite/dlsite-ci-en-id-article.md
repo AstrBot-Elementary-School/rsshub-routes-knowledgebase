@@ -35,8 +35,10 @@ Set `CI_EN_COOKIE` on a self-hosted instance to retrieve articles available to y
 ## Radar
 ### Rule 1
 - `source`:
-  - `ci-en.dlsite.com/creator/:id/article/843558`
-  - `ci-en.dlsite.com/`
+  - `ci-en.dlsite.com/creator/:id`
+  - `ci-en.dlsite.com/creator/:id/article`
+  - `ci-en.dlsite.com/creator/:id/article/:articleId`
+- `target`: `/ci-en/:id/article`
 
 ## Raw JSON
 ```json
@@ -74,9 +76,11 @@ Set `CI_EN_COOKIE` on a self-hosted instance to retrieve articles available to y
   "radar": [
     {
       "source": [
-        "ci-en.dlsite.com/creator/:id/article/843558",
-        "ci-en.dlsite.com/"
-      ]
+        "ci-en.dlsite.com/creator/:id",
+        "ci-en.dlsite.com/creator/:id/article",
+        "ci-en.dlsite.com/creator/:id/article/:articleId"
+      ],
+      "target": "/ci-en/:id/article"
     }
   ],
   "test": {

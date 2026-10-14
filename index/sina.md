@@ -58,7 +58,7 @@
 - Categories: `new-media`
 - Maintainers: `xyqfer`
 
-### 新浪体育
+### 体育
 - Route ID: `sina:/sina/sports/:type?`
 - Route Path: `/sina/sports/:type?`
 - File: `docs/routes/sina/sina-sports-type.md`

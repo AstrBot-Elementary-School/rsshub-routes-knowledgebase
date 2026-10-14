@@ -10,7 +10,7 @@
 
 ## Routes
 
-### 温州商学院
+### 资讯
 - Route ID: `wzbc:/wzbc/:type?`
 - Route Path: `/wzbc/:type?`
 - File: `docs/routes/wzbc/wzbc-type.md`

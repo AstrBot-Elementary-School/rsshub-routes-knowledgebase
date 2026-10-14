@@ -37,12 +37,80 @@
 ## Radar
 ### Rule 1
 - `source`:
-  - `news.hrbust.edu.cn/:category.htm`
-- `target`: `/news/:category`
+  - `news.hrbust.edu.cn/lgyw.htm`
+- `target`: `/news/lgyw`
 ### Rule 2
 - `source`:
+  - `news.hrbust.edu.cn/xwdd.htm`
+- `target`: `/news/xwdd`
+### Rule 3
+- `source`:
+  - `news.hrbust.edu.cn/twbd.htm`
+- `target`: `/news/twbd`
+### Rule 4
+- `source`:
+  - `news.hrbust.edu.cn/zhenew.htm`
+- `target`: `/news/zhenew`
+### Rule 5
+- `source`:
+  - `news.hrbust.edu.cn/jxky.htm`
+- `target`: `/news/jxky`
+### Rule 6
+- `source`:
+  - `news.hrbust.edu.cn/ycdt.htm`
+- `target`: `/news/ycdt`
+### Rule 7
+- `source`:
+  - `news.hrbust.edu.cn/xskc.htm`
+- `target`: `/news/xskc`
+### Rule 8
+- `source`:
+  - `news.hrbust.edu.cn/jlhz.htm`
+- `target`: `/news/jlhz`
+### Rule 9
+- `source`:
+  - `news.hrbust.edu.cn/xstd.htm`
+- `target`: `/news/xstd`
+### Rule 10
+- `source`:
+  - `news.hrbust.edu.cn/zsjy.htm`
+- `target`: `/news/zsjy`
+### Rule 11
+- `source`:
+  - `news.hrbust.edu.cn/djsz.htm`
+- `target`: `/news/djsz`
+### Rule 12
+- `source`:
+  - `news.hrbust.edu.cn/zxbf.htm`
+- `target`: `/news/zxbf`
+### Rule 13
+- `source`:
+  - `news.hrbust.edu.cn/lgrw.htm`
+- `target`: `/news/lgrw`
+### Rule 14
+- `source`:
+  - `news.hrbust.edu.cn/lgxb.htm`
+- `target`: `/news/lgxb`
+### Rule 15
+- `source`:
+  - `news.hrbust.edu.cn/mtlg.htm`
+- `target`: `/news/mtlg`
+### Rule 16
+- `source`:
+  - `news.hrbust.edu.cn/jzlt.htm`
+- `target`: `/news/jzlt`
+### Rule 17
+- `source`:
+  - `news.hrbust.edu.cn/rczp.htm`
+- `target`: `/news/rczp`
+### Rule 18
+- `source`:
+  - `news.hrbust.edu.cn/xkjs.htm`
+- `target`: `/news/xkjs`
+### Rule 19
+- `source`:
   - `news.hrbust.edu.cn/`
-- `target`: `/news/`
+- `target`: `/news`
 
 ## Raw JSON
 ```json
@@ -74,15 +142,117 @@
   "radar": [
     {
       "source": [
-        "news.hrbust.edu.cn/:category.htm"
+        "news.hrbust.edu.cn/lgyw.htm"
       ],
-      "target": "/news/:category"
+      "target": "/news/lgyw"
+    },
+    {
+      "source": [
+        "news.hrbust.edu.cn/xwdd.htm"
+      ],
+      "target": "/news/xwdd"
+    },
+    {
+      "source": [
+        "news.hrbust.edu.cn/twbd.htm"
+      ],
+      "target": "/news/twbd"
+    },
+    {
+      "source": [
+        "news.hrbust.edu.cn/zhenew.htm"
+      ],
+      "target": "/news/zhenew"
+    },
+    {
+      "source": [
+        "news.hrbust.edu.cn/jxky.htm"
+      ],
+      "target": "/news/jxky"
+    },
+    {
+      "source": [
+        "news.hrbust.edu.cn/ycdt.htm"
+      ],
+      "target": "/news/ycdt"
+    },
+    {
+      "source": [
+        "news.hrbust.edu.cn/xskc.htm"
+      ],
+      "target": "/news/xskc"
+    },
+    {
+      "source": [
+        "news.hrbust.edu.cn/jlhz.htm"
+      ],
+      "target": "/news/jlhz"
+    },
+    {
+      "source": [
+        "news.hrbust.edu.cn/xstd.htm"
+      ],
+      "target": "/news/xstd"
+    },
+    {
+      "source": [
+        "news.hrbust.edu.cn/zsjy.htm"
+      ],
+      "target": "/news/zsjy"
+    },
+    {
+      "source": [
+        "news.hrbust.edu.cn/djsz.htm"
+      ],
+      "target": "/news/djsz"
+    },
+    {
+      "source": [
+        "news.hrbust.edu.cn/zxbf.htm"
+      ],
+      "target": "/news/zxbf"
+    },
+    {
+      "source": [
+        "news.hrbust.edu.cn/lgrw.htm"
+      ],
+      "target": "/news/lgrw"
+    },
+    {
+      "source": [
+        "news.hrbust.edu.cn/lgxb.htm"
+      ],
+      "target": "/news/lgxb"
+    },
+    {
+      "source": [
+        "news.hrbust.edu.cn/mtlg.htm"
+      ],
+      "target": "/news/mtlg"
+    },
+    {
+      "source": [
+        "news.hrbust.edu.cn/jzlt.htm"
+      ],
+      "target": "/news/jzlt"
+    },
+    {
+      "source": [
+        "news.hrbust.edu.cn/rczp.htm"
+      ],
+      "target": "/news/rczp"
+    },
+    {
+      "source": [
+        "news.hrbust.edu.cn/xkjs.htm"
+      ],
+      "target": "/news/xkjs"
     },
     {
       "source": [
         "news.hrbust.edu.cn/"
       ],
-      "target": "/news/"
+      "target": "/news"
     }
   ],
   "test": {

@@ -10,7 +10,7 @@
 
 ## Routes
 
-### HKU Shop 黑胶专区
+### 黑胶专区
 - Route ID: `hkushop:/hkushop/vinyl/:cat?`
 - Route Path: `/hkushop/vinyl/:cat?`
 - File: `docs/routes/hkushop/hkushop-vinyl-cat.md`

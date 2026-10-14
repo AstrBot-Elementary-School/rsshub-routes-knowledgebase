@@ -1,4 +1,4 @@
-# 禁忌书屋 - 禁忌书屋
+# 禁忌书屋 - 帖子
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `cool18`
 - Namespace Name: `禁忌书屋`
 - Route Path: `/cool18/:id?/:type?/:keyword?`
-- Route Name: `禁忌书屋`
+- Route Name: `帖子`
 - Example: `/cool18/bbs4`
 - URL: `cool18.com`
 - Language: `_None_`
@@ -31,8 +31,44 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `cool18.com/:id/`
-- `target`: `/:id/:type?/:keyword?`
+  - `cool18.com/bbs/`
+  - `cool18.com/bbs/index.php`
+- `target`: `/bbs`
+### Rule 2
+- `source`:
+  - `cool18.com/bbs2/`
+  - `cool18.com/bbs2/index.php`
+- `target`: `/bbs2`
+### Rule 3
+- `source`:
+  - `cool18.com/bbs3/`
+  - `cool18.com/bbs3/index.php`
+- `target`: `/bbs3`
+### Rule 4
+- `source`:
+  - `cool18.com/bbs4/`
+  - `cool18.com/bbs4/index.php`
+- `target`: `/bbs4`
+### Rule 5
+- `source`:
+  - `cool18.com/bbs5/`
+  - `cool18.com/bbs5/index.php`
+- `target`: `/bbs5`
+### Rule 6
+- `source`:
+  - `cool18.com/bbs6/`
+  - `cool18.com/bbs6/index.php`
+- `target`: `/bbs6`
+### Rule 7
+- `source`:
+  - `cool18.com/bbs7/`
+  - `cool18.com/bbs7/index.php`
+- `target`: `/bbs7`
+### Rule 8
+- `source`:
+  - `cool18.com/bj/`
+  - `cool18.com/bj/index.php`
+- `target`: `/bj`
 
 ## Raw JSON
 ```json
@@ -44,13 +80,13 @@ _None_
   "features": {
     "nsfw": true
   },
-  "heat": 1222,
+  "heat": 1224,
   "location": "index.ts",
   "maintainers": [
     "nczitzk",
     "Gabrlie"
   ],
-  "name": "禁忌书屋",
+  "name": "帖子",
   "parameters": {
     "id": "the name of the bbs, use `global` for site-wide search",
     "keyword": "the keyword to search.",
@@ -60,9 +96,59 @@ _None_
   "radar": [
     {
       "source": [
-        "cool18.com/:id/"
+        "cool18.com/bbs/",
+        "cool18.com/bbs/index.php"
       ],
-      "target": "/:id/:type?/:keyword?"
+      "target": "/bbs"
+    },
+    {
+      "source": [
+        "cool18.com/bbs2/",
+        "cool18.com/bbs2/index.php"
+      ],
+      "target": "/bbs2"
+    },
+    {
+      "source": [
+        "cool18.com/bbs3/",
+        "cool18.com/bbs3/index.php"
+      ],
+      "target": "/bbs3"
+    },
+    {
+      "source": [
+        "cool18.com/bbs4/",
+        "cool18.com/bbs4/index.php"
+      ],
+      "target": "/bbs4"
+    },
+    {
+      "source": [
+        "cool18.com/bbs5/",
+        "cool18.com/bbs5/index.php"
+      ],
+      "target": "/bbs5"
+    },
+    {
+      "source": [
+        "cool18.com/bbs6/",
+        "cool18.com/bbs6/index.php"
+      ],
+      "target": "/bbs6"
+    },
+    {
+      "source": [
+        "cool18.com/bbs7/",
+        "cool18.com/bbs7/index.php"
+      ],
+      "target": "/bbs7"
+    },
+    {
+      "source": [
+        "cool18.com/bj/",
+        "cool18.com/bj/index.php"
+      ],
+      "target": "/bj"
     }
   ],
   "test": {

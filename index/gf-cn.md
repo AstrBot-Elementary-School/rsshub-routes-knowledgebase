@@ -3,9 +3,9 @@
 ## Namespace
 - Namespace: `gf-cn`
 - Display Name: `少女前线`
-- URL: `sunborngame.com`
+- URL: `gf-cn.sunborngame.com`
 - Language: `_None_`
-- Aliases: `gf-cn, sunborngame, sunborngame.com, 少女前线`
+- Aliases: `gf-cn, gf-cn.sunborngame.com, 少女前线`
 - Route Count: `1`
 
 ## Routes

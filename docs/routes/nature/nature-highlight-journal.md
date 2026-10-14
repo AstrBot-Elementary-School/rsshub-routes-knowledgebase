@@ -37,9 +37,8 @@ Only some journals are supported.
 ### Rule 1
 - `source`:
   - `nature.com/:journal/articles`
-  - `nature.com/:journal`
   - `nature.com/`
-- `target`: `/highlight/:journal`
+- `target`: `/highlight/:journal?`
 
 ## Raw JSON
 ```json
@@ -72,10 +71,9 @@ Only some journals are supported.
     {
       "source": [
         "nature.com/:journal/articles",
-        "nature.com/:journal",
         "nature.com/"
       ],
-      "target": "/highlight/:journal"
+      "target": "/highlight/:journal?"
     }
   ],
   "test": {

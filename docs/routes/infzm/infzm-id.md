@@ -31,9 +31,7 @@
 _None_
 
 ## Radar
-### Rule 1
-- `source`:
-  - `infzm.com/contents`
+_None_
 
 ## Raw JSON
 ```json
@@ -56,13 +54,6 @@ _None_
     "id": "南方周末频道 id, 可在该频道的 URL 中找到（即 https://www.infzm.com/contents?term_id=:id)"
   },
   "path": "/:id",
-  "radar": [
-    {
-      "source": [
-        "infzm.com/contents"
-      ]
-    }
-  ],
   "test": {
     "code": 1
   },

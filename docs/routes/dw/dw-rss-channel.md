@@ -21,7 +21,7 @@ For a full list of RSS Feed Channels in English, please refer to [DW RSS Feeds](
 RSS Feed Channels in other languages are also available, for example: `rss-chi-all` renders the RSS feed in Chinese and `rss-de-all` for the RSS Feed in German
 
 ## Parameters
-- `category`: RSS Feed Channel, see below, `rss-en-all` by default
+- `channel`: RSS Feed Channel, see below, `rss-en-all` by default
 
 
 ## Features
@@ -58,7 +58,7 @@ _None_
   ],
   "name": "RSS",
   "parameters": {
-    "category": "RSS Feed Channel, see below, `rss-en-all` by default"
+    "channel": "RSS Feed Channel, see below, `rss-en-all` by default"
   },
   "path": "/rss/:channel?",
   "test": {

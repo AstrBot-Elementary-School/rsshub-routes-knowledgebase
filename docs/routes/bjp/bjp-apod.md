@@ -9,7 +9,7 @@
 - Route Path: `/bjp/apod`
 - Route Name: `每日一图`
 - Example: `/bjp/apod`
-- URL: `bjp.org.cn/APOD/today.shtml`
+- URL: `www.bjp.org.cn/APOD/list.shtml`
 - Language: `_None_`
 - Categories: `picture, popular`
 - Maintainers: `HenryQW`
@@ -34,9 +34,9 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `bjp.org.cn/APOD/today.shtml`
-  - `bjp.org.cn/APOD/list.shtml`
-  - `bjp.org.cn/`
+  - `www.bjp.org.cn/APOD/:id.shtml`
+  - `www.bjp.org.cn/`
+- `target`: `/apod`
 
 ## Raw JSON
 ```json
@@ -65,10 +65,10 @@ _None_
   "radar": [
     {
       "source": [
-        "bjp.org.cn/APOD/today.shtml",
-        "bjp.org.cn/APOD/list.shtml",
-        "bjp.org.cn/"
-      ]
+        "www.bjp.org.cn/APOD/:id.shtml",
+        "www.bjp.org.cn/"
+      ],
+      "target": "/apod"
     }
   ],
   "test": {
@@ -88,7 +88,7 @@ _None_
       "url": "rsshub://bjp/apod"
     }
   ],
-  "url": "bjp.org.cn/APOD/today.shtml",
+  "url": "www.bjp.org.cn/APOD/list.shtml",
   "view": 2
 }
 ```

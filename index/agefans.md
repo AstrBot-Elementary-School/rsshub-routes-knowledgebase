@@ -3,9 +3,9 @@
 ## Namespace
 - Namespace: `agefans`
 - Display Name: `AGE 动漫`
-- URL: `agemys.cc`
+- URL: `www.agedm.io`
 - Language: `_None_`
-- Aliases: `age 动漫, agefans, agemys, agemys.cc`
+- Aliases: `age 动漫, agedm.io, agefans, www, www.agedm.io`
 - Route Count: `2`
 
 ## Routes

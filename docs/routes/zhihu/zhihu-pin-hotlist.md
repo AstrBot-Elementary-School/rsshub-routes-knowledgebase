@@ -1,4 +1,4 @@
-# 知乎 - 知乎想法热榜
+# 知乎 - 想法热榜
 
 ## Coverage
 `index-only`
@@ -7,9 +7,9 @@
 - Namespace: `zhihu`
 - Namespace Name: `知乎`
 - Route Path: `/zhihu/pin/hotlist`
-- Route Name: `知乎想法热榜`
+- Route Name: `想法热榜`
 - Example: `/zhihu/pin/hotlist`
-- URL: `www.zhihu.com/zhihu/bookstore/newest`
+- URL: `www.zhihu.com`
 - Language: `_None_`
 - Categories: `social-media`
 - Maintainers: `xyqfer`
@@ -32,9 +32,7 @@ _None_
 - `supportScihub`: false
 
 ## Radar
-### Rule 1
-- `source`:
-  - `www.zhihu.com/zhihu/bookstore/newest`
+_None_
 
 ## Raw JSON
 ```json
@@ -56,16 +54,9 @@ _None_
   "maintainers": [
     "xyqfer"
   ],
-  "name": "知乎想法热榜",
+  "name": "想法热榜",
   "parameters": {},
   "path": "/pin/hotlist",
-  "radar": [
-    {
-      "source": [
-        "www.zhihu.com/zhihu/bookstore/newest"
-      ]
-    }
-  ],
   "test": {
     "code": 1
   },
@@ -82,7 +73,6 @@ _None_
       "type": "feed",
       "url": "rsshub://zhihu/pin/hotlist"
     }
-  ],
-  "url": "www.zhihu.com/zhihu/bookstore/newest"
+  ]
 }
 ```

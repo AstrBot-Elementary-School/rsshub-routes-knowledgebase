@@ -38,6 +38,18 @@
 ### Rule 1
 - `source`:
   - `www.chinaratings.com.cn/CreditResearch/:category`
+  - `www.chinaratings.com.cn/CreditResearch/:category/index.html`
+- `target`: `/CreditResearch/:category`
+### Rule 2
+- `source`:
+  - `www.chinaratings.com.cn/CreditResearch/Industry/:category`
+  - `www.chinaratings.com.cn/CreditResearch/Industry/:category/index.html`
+- `target`: `/CreditResearch/Industry/:category`
+### Rule 3
+- `source`:
+  - `www.chinaratings.com.cn/CreditResearch/StructuredFinancial/:category`
+  - `www.chinaratings.com.cn/CreditResearch/StructuredFinancial/:category/index.html`
+- `target`: `/CreditResearch/StructuredFinancial/:category`
 
 ## Raw JSON
 ```json
@@ -69,8 +81,24 @@
   "radar": [
     {
       "source": [
-        "www.chinaratings.com.cn/CreditResearch/:category"
-      ]
+        "www.chinaratings.com.cn/CreditResearch/:category",
+        "www.chinaratings.com.cn/CreditResearch/:category/index.html"
+      ],
+      "target": "/CreditResearch/:category"
+    },
+    {
+      "source": [
+        "www.chinaratings.com.cn/CreditResearch/Industry/:category",
+        "www.chinaratings.com.cn/CreditResearch/Industry/:category/index.html"
+      ],
+      "target": "/CreditResearch/Industry/:category"
+    },
+    {
+      "source": [
+        "www.chinaratings.com.cn/CreditResearch/StructuredFinancial/:category",
+        "www.chinaratings.com.cn/CreditResearch/StructuredFinancial/:category/index.html"
+      ],
+      "target": "/CreditResearch/StructuredFinancial/:category"
     }
   ],
   "test": {

@@ -35,7 +35,7 @@ _None_
 ### Rule 1
 - `source`:
   - `iec.cnu.edu.cn/ggml/tzgg1/index.htm`
-- `target`: `/cnu/iec`
+- `target`: `/iec`
 
 ## Raw JSON
 ```json
@@ -65,7 +65,7 @@ _None_
       "source": [
         "iec.cnu.edu.cn/ggml/tzgg1/index.htm"
       ],
-      "target": "/cnu/iec"
+      "target": "/iec"
     }
   ],
   "test": {

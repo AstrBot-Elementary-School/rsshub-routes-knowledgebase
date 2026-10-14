@@ -34,7 +34,15 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `www.manus.im`
+  - `manus.im/`
+  - `manus.im/blog`
+  - `manus.im/blog/:slug`
+- `target`: `/blog`
+### Rule 2
+- `source`:
+  - `www.manus.im/`
+  - `www.manus.im/blog`
+  - `www.manus.im/blog/:slug`
 - `target`: `/blog`
 
 ## Raw JSON
@@ -64,7 +72,17 @@ _None_
   "radar": [
     {
       "source": [
-        "www.manus.im"
+        "manus.im/",
+        "manus.im/blog",
+        "manus.im/blog/:slug"
+      ],
+      "target": "/blog"
+    },
+    {
+      "source": [
+        "www.manus.im/",
+        "www.manus.im/blog",
+        "www.manus.im/blog/:slug"
       ],
       "target": "/blog"
     }

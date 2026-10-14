@@ -41,7 +41,8 @@
 ## Radar
 ### Rule 1
 - `source`:
-  - `www.gjs.moa.gov.cn/:category{.+}?`
+  - `www.gjs.moa.gov.cn/`
+- `target`: `/gjs`
 ### Rule 2
 - `title`: `工作动态`
 - `source`:
@@ -66,6 +67,35 @@
 - `title`: `多双边合作`
 - `source`:
   - `www.gjs.moa.gov.cn/dsbhz/`
+- `target`: `/gjs/dsbhz`
+### Rule 7
+- `source`:
+  - `gjs.moa.gov.cn/`
+- `target`: `/gjs`
+### Rule 8
+- `title`: `工作动态`
+- `source`:
+  - `gjs.moa.gov.cn/gzdt/`
+- `target`: `/gjs/gzdt`
+### Rule 9
+- `title`: `通知公告`
+- `source`:
+  - `gjs.moa.gov.cn/tzgg/`
+- `target`: `/gjs/tzgg`
+### Rule 10
+- `title`: `“一带一路”合作和农业走出去`
+- `source`:
+  - `gjs.moa.gov.cn/ydylhzhhnyzcq/`
+- `target`: `/gjs/ydylhzhhnyzcq`
+### Rule 11
+- `title`: `农业国际贸易监测与展望`
+- `source`:
+  - `gjs.moa.gov.cn/ncpmy/`
+- `target`: `/gjs/ncpmy`
+### Rule 12
+- `title`: `多双边合作`
+- `source`:
+  - `gjs.moa.gov.cn/dsbhz/`
 - `target`: `/gjs/dsbhz`
 
 ## Raw JSON
@@ -122,8 +152,9 @@
   "radar": [
     {
       "source": [
-        "www.gjs.moa.gov.cn/:category{.+}?"
-      ]
+        "www.gjs.moa.gov.cn/"
+      ],
+      "target": "/gjs"
     },
     {
       "source": [
@@ -156,6 +187,47 @@
     {
       "source": [
         "www.gjs.moa.gov.cn/dsbhz/"
+      ],
+      "target": "/gjs/dsbhz",
+      "title": "多双边合作"
+    },
+    {
+      "source": [
+        "gjs.moa.gov.cn/"
+      ],
+      "target": "/gjs"
+    },
+    {
+      "source": [
+        "gjs.moa.gov.cn/gzdt/"
+      ],
+      "target": "/gjs/gzdt",
+      "title": "工作动态"
+    },
+    {
+      "source": [
+        "gjs.moa.gov.cn/tzgg/"
+      ],
+      "target": "/gjs/tzgg",
+      "title": "通知公告"
+    },
+    {
+      "source": [
+        "gjs.moa.gov.cn/ydylhzhhnyzcq/"
+      ],
+      "target": "/gjs/ydylhzhhnyzcq",
+      "title": "“一带一路”合作和农业走出去"
+    },
+    {
+      "source": [
+        "gjs.moa.gov.cn/ncpmy/"
+      ],
+      "target": "/gjs/ncpmy",
+      "title": "农业国际贸易监测与展望"
+    },
+    {
+      "source": [
+        "gjs.moa.gov.cn/dsbhz/"
       ],
       "target": "/gjs/dsbhz",
       "title": "多双边合作"

@@ -20,11 +20,11 @@
 _None_
 
 ## Parameters
-- `specialId`: 板块 ID，可在对应板块页 URL 中找到
+- `boardId`: 板块 ID，可在对应板块页 URL 中找到
 
 
 ## Features
-_None_
+- `antiCrawler`: true
 
 ## Radar
 ### Rule 1
@@ -43,6 +43,9 @@ _None_
     "bbs"
   ],
   "example": "/dxy/bbs/board/46",
+  "features": {
+    "antiCrawler": true
+  },
   "heat": 11,
   "location": "board.ts",
   "maintainers": [
@@ -50,7 +53,7 @@ _None_
   ],
   "name": "板块",
   "parameters": {
-    "specialId": "板块 ID，可在对应板块页 URL 中找到"
+    "boardId": "板块 ID，可在对应板块页 URL 中找到"
   },
   "path": "/bbs/board/:boardId",
   "radar": [

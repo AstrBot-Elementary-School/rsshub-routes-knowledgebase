@@ -9,7 +9,7 @@
 - Route Path: `/cfmmc/:id{.+}?`
 - Route Name: `栏目`
 - Example: `/cfmmc/main/noticeannouncement/cfmmcnotice`
-- URL: `cfmmc.com`
+- URL: `www.cfmmc.com`
 - Language: `_None_`
 - Categories: `finance`
 - Maintainers: `nczitzk`

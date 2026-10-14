@@ -38,15 +38,15 @@ _None_
 ### Rule 1
 - `source`:
   - `furaffinity.net/gallery/:username`
-- `target`: `/gallery/:username`
+- `target`: `/art/gallery/:username`
 ### Rule 2
 - `source`:
   - `furaffinity.net/scraps/:username`
-- `target`: `/scraps/:username`
+- `target`: `/art/scraps/:username`
 ### Rule 3
 - `source`:
   - `furaffinity.net/favorites/:username`
-- `target`: `/favorites/:username`
+- `target`: `/art/favorites/:username`
 
 ## Raw JSON
 ```json
@@ -82,19 +82,19 @@ _None_
       "source": [
         "furaffinity.net/gallery/:username"
       ],
-      "target": "/gallery/:username"
+      "target": "/art/gallery/:username"
     },
     {
       "source": [
         "furaffinity.net/scraps/:username"
       ],
-      "target": "/scraps/:username"
+      "target": "/art/scraps/:username"
     },
     {
       "source": [
         "furaffinity.net/favorites/:username"
       ],
-      "target": "/favorites/:username"
+      "target": "/art/favorites/:username"
     }
   ],
   "test": {
@@ -115,16 +115,16 @@ _None_
       "url": "rsshub://furaffinity/art/gallery/oddeyresproductions/nsfw"
     },
     {
-      "description": "Fur Affinity Gallery of carbondheat - Powered by RSSHub",
-      "errorAt": "2026-05-25T17:47:53.134Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://faexport.spangle.org.uk/user/carbondheat/gallery.json?sfw=1&full=1\": 500 Internal Server Error\n",
-      "id": "79001724977710080",
+      "description": "Fur Affinity Gallery of Smileeeeeee - Powered by RSSHub",
+      "errorAt": "2026-05-25T14:23:20.010Z",
+      "errorMessage": "[GET] \"https://faexport.spangle.org.uk/user/Smileeeeeee/gallery.json?full=1\": 500 Internal Server Error\n",
+      "id": "106706133600239616",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.furaffinity.net/gallery/carbondheat",
-      "title": "Fur Affinity | Gallery of carbondheat",
+      "siteUrl": "https://www.furaffinity.net/gallery/Smileeeeeee",
+      "title": "Fur Affinity | Gallery of Smileeeeeee",
       "type": "feed",
-      "url": "rsshub://furaffinity/art/gallery/carbondheat"
+      "url": "rsshub://furaffinity/art/gallery/Smileeeeeee/nsfw"
     }
   ],
   "url": "furaffinity.net"

@@ -20,7 +20,7 @@
 _None_
 
 ## Parameters
-- `id`: Numeric thread ID at the end of the URL
+- `id`: Numeric thread ID or the slug.ID identifier from the thread URL
 
 
 ## Features
@@ -29,7 +29,7 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `resetera.com/threads/:slug.:id/`
+  - `resetera.com/threads/:id/:page?`
 - `target`: `/thread/:id`
 
 ## Raw JSON
@@ -46,13 +46,13 @@ _None_
   ],
   "name": "Thread latest posts (text & images)",
   "parameters": {
-    "id": "Numeric thread ID at the end of the URL"
+    "id": "Numeric thread ID or the slug.ID identifier from the thread URL"
   },
   "path": "/thread/:id",
   "radar": [
     {
       "source": [
-        "resetera.com/threads/:slug.:id/"
+        "resetera.com/threads/:id/:page?"
       ],
       "target": "/thread/:id"
     }

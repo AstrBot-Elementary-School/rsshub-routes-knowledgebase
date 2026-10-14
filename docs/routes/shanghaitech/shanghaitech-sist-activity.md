@@ -1,4 +1,4 @@
-# 上海科技大学 - 信息科技与技术学院活动
+# 上海科技大学 - 信息科学与技术学院活动
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `shanghaitech`
 - Namespace Name: `上海科技大学`
 - Route Path: `/shanghaitech/sist/activity`
-- Route Name: `信息科技与技术学院活动`
+- Route Name: `信息科学与技术学院活动`
 - Example: `/shanghaitech/sist/activity`
 - URL: `sist.shanghaitech.edu.cn/xyhd/list.htm`
 - Language: `_None_`
@@ -43,7 +43,7 @@ _None_
   "maintainers": [
     "HenryQW"
   ],
-  "name": "信息科技与技术学院活动",
+  "name": "信息科学与技术学院活动",
   "path": "/sist/activity",
   "radar": [
     {

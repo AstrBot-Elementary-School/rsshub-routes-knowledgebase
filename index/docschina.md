@@ -10,7 +10,7 @@
 
 ## Routes
 
-### 周刊 - JavaScript
+### 周刊
 - Route ID: `docschina:/docschina/weekly/:category?`
 - Route Path: `/docschina/weekly/:category?`
 - File: `docs/routes/docschina/docschina-weekly-category.md`

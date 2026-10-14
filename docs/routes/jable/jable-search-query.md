@@ -1,4 +1,4 @@
-# jable - Jable 搜索结果
+# jable - 搜索结果
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `jable`
 - Namespace Name: `jable`
 - Route Path: `/jable/search/:query`
-- Route Name: `Jable 搜索结果`
+- Route Name: `搜索结果`
 - Example: `/jable/search/みなみ羽琉`
 - URL: `jable.tv`
 - Language: `_None_`
@@ -59,7 +59,7 @@ _None_
   "maintainers": [
     "eve2ptp"
   ],
-  "name": "Jable 搜索结果",
+  "name": "搜索结果",
   "parameters": {
     "query": "Search keyword"
   },

@@ -76,8 +76,8 @@
 ## Radar
 ### Rule 1
 - `source`:
-  - `nnsa.mee.gov.cn/:category`
-- `target`: `/nnsa/:category`
+  - `nnsa.mee.gov.cn/`
+- `target`: `/nnsa`
 ### Rule 2
 - `title`: `要闻动态 - 时政要闻`
 - `source`:
@@ -284,9 +284,9 @@
   "radar": [
     {
       "source": [
-        "nnsa.mee.gov.cn/:category"
+        "nnsa.mee.gov.cn/"
       ],
-      "target": "/nnsa/:category"
+      "target": "/nnsa"
     },
     {
       "source": [

@@ -33,7 +33,7 @@ One caveat on 造作価格: the publisher occasionally appends 万円 to a figur
 
 ## Parameters
 - `pref`: {"default": "tokyo", "description": "Prefecture", "options": [{"label": "東京都", "value": "tokyo"}, {"label": "神奈川県", "value": "kanagawa"}, {"label": "埼玉県", "value": "saitama"}, {"label": "千葉県", "value": "chiba"}, {"label": "北海道", "value": "hokkaido"}, {"label": "愛知県", "value": "aichi"}, {"label": "静岡県", "value": "shizuoka"}]}
-- `city`: {"description": "Optional 市区町村, as a 5-digit JIS X 0402 code (新宿区 `13104`, 港区 `13103`, 横浜市中区 `14104`). Must belong to `pref`; omit for the whole prefecture."}
+- `city`: {"description": "Optional 市区町村, as a 5-digit JIS X 0402 code (新宿区 `13104`, 港区 `13103`, 横浜市中区 `14104`). The native URL prefix `A` is also accepted. Must belong to `pref`; omit for the whole prefecture."}
 
 
 ## Features
@@ -46,7 +46,14 @@ One caveat on 造作価格: the publisher occasionally appends 万円 to a figur
 ### Rule 1
 - `source`:
   - `canaeru.usen.com/bukken/:pref/search/:city`
+  - `canaeru.usen.com/bukken_h/:pref/search/:city`
+  - `canaeru.usen.com/bukken_tokai/:pref/search/:city`
+- `target`: `/:pref/:city`
+### Rule 2
+- `source`:
   - `canaeru.usen.com/bukken/:pref/search`
+  - `canaeru.usen.com/bukken_h/:pref/search`
+  - `canaeru.usen.com/bukken_tokai/:pref/search`
 - `target`: `/:pref`
 
 ## Raw JSON
@@ -71,7 +78,7 @@ One caveat on 造作価格: the publisher occasionally appends 万円 to a figur
   "name": "居抜き・貸店舗物件",
   "parameters": {
     "city": {
-      "description": "Optional 市区町村, as a 5-digit JIS X 0402 code (新宿区 `13104`, 港区 `13103`, 横浜市中区 `14104`). Must belong to `pref`; omit for the whole prefecture."
+      "description": "Optional 市区町村, as a 5-digit JIS X 0402 code (新宿区 `13104`, 港区 `13103`, 横浜市中区 `14104`). The native URL prefix `A` is also accepted. Must belong to `pref`; omit for the whole prefecture."
     },
     "pref": {
       "default": "tokyo",
@@ -113,7 +120,16 @@ One caveat on 造作価格: the publisher occasionally appends 万円 to a figur
     {
       "source": [
         "canaeru.usen.com/bukken/:pref/search/:city",
-        "canaeru.usen.com/bukken/:pref/search"
+        "canaeru.usen.com/bukken_h/:pref/search/:city",
+        "canaeru.usen.com/bukken_tokai/:pref/search/:city"
+      ],
+      "target": "/:pref/:city"
+    },
+    {
+      "source": [
+        "canaeru.usen.com/bukken/:pref/search",
+        "canaeru.usen.com/bukken_h/:pref/search",
+        "canaeru.usen.com/bukken_tokai/:pref/search"
       ],
       "target": "/:pref"
     }

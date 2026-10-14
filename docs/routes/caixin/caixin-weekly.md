@@ -1,11 +1,11 @@
-# 财新博客 - 财新周刊
+# 财新网 - 财新周刊
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `caixin`
-- Namespace Name: `财新博客`
+- Namespace Name: `财新网`
 - Route Path: `/caixin/weekly`
 - Route Name: `财新周刊`
 - Example: `/caixin/weekly`
@@ -39,7 +39,7 @@ _None_
     "traditional-media"
   ],
   "example": "/caixin/weekly",
-  "heat": 1203,
+  "heat": 1204,
   "location": "weekly.ts",
   "maintainers": [
     "TonyRL"

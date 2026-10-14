@@ -10,7 +10,7 @@
 
 ## Routes
 
-### Community Posts
+### Topic Stories
 - Route ID: `digg:/digg/community/:community`
 - Route Path: `/digg/community/:community`
 - File: `docs/routes/digg/digg-community-community.md`

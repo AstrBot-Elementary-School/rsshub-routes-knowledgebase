@@ -29,7 +29,16 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `psyche.co/:topic`
+  - `psyche.co/therapeia`
+- `target`: `/topic/therapeia`
+### Rule 2
+- `source`:
+  - `psyche.co/eudaimonia`
+- `target`: `/topic/eudaimonia`
+### Rule 3
+- `source`:
+  - `psyche.co/poiesis`
+- `target`: `/topic/poiesis`
 
 ## Raw JSON
 ```json
@@ -52,8 +61,21 @@ _None_
   "radar": [
     {
       "source": [
-        "psyche.co/:topic"
-      ]
+        "psyche.co/therapeia"
+      ],
+      "target": "/topic/therapeia"
+    },
+    {
+      "source": [
+        "psyche.co/eudaimonia"
+      ],
+      "target": "/topic/eudaimonia"
+    },
+    {
+      "source": [
+        "psyche.co/poiesis"
+      ],
+      "target": "/topic/poiesis"
     }
   ],
   "test": {

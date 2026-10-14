@@ -37,7 +37,9 @@ To subscribe to [Press Releases - Asia Pacific - Preliminary](https://www.costar
 ## Radar
 ### Rule 1
 - `source`:
-  - `www.costar.com`
+  - `www.costar.com/`
+  - `www.costar.com/products/benchmark/resources/press-releases`
+- `target`: `/press-releases`
 
 ## Raw JSON
 ```json
@@ -71,8 +73,10 @@ To subscribe to [Press Releases - Asia Pacific - Preliminary](https://www.costar
   "radar": [
     {
       "source": [
-        "www.costar.com"
-      ]
+        "www.costar.com/",
+        "www.costar.com/products/benchmark/resources/press-releases"
+      ],
+      "target": "/press-releases"
     }
   ],
   "test": {

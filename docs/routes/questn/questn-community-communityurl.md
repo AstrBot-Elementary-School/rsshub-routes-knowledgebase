@@ -20,7 +20,7 @@
 _None_
 
 ## Parameters
-- `community_url`: Community URL
+- `communityUrl`: Community URL
 
 
 ## Features
@@ -59,7 +59,7 @@ _None_
   ],
   "name": "Community Events",
   "parameters": {
-    "community_url": "Community URL"
+    "communityUrl": "Community URL"
   },
   "path": "/community/:communityUrl",
   "radar": [

@@ -72,7 +72,7 @@
 - `source`:
   - `yicai.com/video/:id`
   - `yicai.com/video`
-- `target`: `/video/:id`
+- `target`: `/video/:id?`
 
 ## Raw JSON
 ```json
@@ -106,7 +106,7 @@
         "yicai.com/video/:id",
         "yicai.com/video"
       ],
-      "target": "/video/:id"
+      "target": "/video/:id?"
     }
   ],
   "test": {

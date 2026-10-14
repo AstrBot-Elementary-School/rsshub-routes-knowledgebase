@@ -9,7 +9,7 @@
 - Route Path: `/cugb/jwc/:channel?`
 - Route Name: `教务处`
 - Example: `/cugb/jwc/xszq`
-- URL: `cugb.edu.cn`
+- URL: `www.cugb.edu.cn`
 - Language: `_None_`
 - Categories: `university`
 - Maintainers: `syncmeta`

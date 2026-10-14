@@ -34,6 +34,7 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
+  - `roll.caijing.com.cn/index1.html`
   - `roll.caijing.com.cn/`
 
 ## Raw JSON
@@ -62,6 +63,7 @@ _None_
   "radar": [
     {
       "source": [
+        "roll.caijing.com.cn/index1.html",
         "roll.caijing.com.cn/"
       ]
     }
@@ -74,7 +76,7 @@ _None_
     {
       "description": "滚动新闻-财经网 - Powered by RSSHub",
       "errorAt": "2026-09-24T05:55:56.858Z",
-      "errorMessage": "[GET] \"https://roll.caijing.com.cn/json/lists1.json?time=0.7428281041998767\": 526 <none>\n",
+      "errorMessage": "[GET] \"https://roll.caijing.com.cn/json/lists1.json?time=0.485723088614638\": 526 <none>\n",
       "id": "59951906827705344",
       "image": "https://www.caijing.com.cn/favicon.ico",
       "ownerUserId": null,

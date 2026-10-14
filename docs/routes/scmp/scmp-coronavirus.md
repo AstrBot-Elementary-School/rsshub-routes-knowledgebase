@@ -1,13 +1,13 @@
-# Corona Virus Disease 2019 - South China Morning Post - China coronavirus outbreak
+# South China Morning Post - China coronavirus outbreak
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `scmp`
-- Namespace Name: `Corona Virus Disease 2019`
+- Namespace Name: `South China Morning Post`
 - Route Path: `/scmp/coronavirus`
-- Route Name: `South China Morning Post - China coronavirus outbreak`
+- Route Name: `China coronavirus outbreak`
 - Example: `/scmp/coronavirus`
 - URL: `scmp.com`
 - Language: `_None_`
@@ -54,7 +54,7 @@ _None_
   "maintainers": [
     "DIYgod"
   ],
-  "name": "South China Morning Post - China coronavirus outbreak",
+  "name": "China coronavirus outbreak",
   "parameters": {},
   "path": "/coronavirus",
   "test": {

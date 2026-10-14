@@ -1,11 +1,11 @@
-# 重庆科技学院 Route Index
+# 重庆科技大学 Route Index
 
 ## Namespace
 - Namespace: `cqust`
-- Display Name: `重庆科技学院`
+- Display Name: `重庆科技大学`
 - URL: `www.cqust.edu.cn`
 - Language: `_None_`
-- Aliases: `cqust, cqust.edu.cn, www, www.cqust.edu.cn, 重庆科技学院`
+- Aliases: `cqust, cqust.edu.cn, www, www.cqust.edu.cn, 重庆科技大学`
 - Route Count: `2`
 
 ## Routes

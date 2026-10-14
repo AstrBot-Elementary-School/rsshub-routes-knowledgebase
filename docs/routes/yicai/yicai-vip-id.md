@@ -36,7 +36,7 @@ _None_
 - `source`:
   - `yicai.com/vip/product/:id`
   - `yicai.com/`
-- `target`: `/vip/:id`
+- `target`: `/vip/:id?`
 
 ## Raw JSON
 ```json
@@ -69,7 +69,7 @@ _None_
         "yicai.com/vip/product/:id",
         "yicai.com/"
       ],
-      "target": "/vip/:id"
+      "target": "/vip/:id?"
     }
   ],
   "test": {

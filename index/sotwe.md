@@ -1,16 +1,16 @@
-# X (Twitter) Route Index
+# Sotwe Route Index
 
 ## Namespace
 - Namespace: `sotwe`
-- Display Name: `X (Twitter)`
-- URL: `x.com`
+- Display Name: `Sotwe`
+- URL: `sotwe.com`
 - Language: `_None_`
-- Aliases: `sotwe, x, x (twitter), x.com`
+- Aliases: `sotwe, sotwe.com`
 - Route Count: `1`
 
 ## Routes
 
-### User timeline - Sotwe
+### User timeline
 - Route ID: `sotwe:/sotwe/user/:id`
 - Route Path: `/sotwe/user/:id`
 - File: `docs/routes/sotwe/sotwe-user-id.md`

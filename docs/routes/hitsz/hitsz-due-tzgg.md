@@ -48,13 +48,13 @@ _None_
 ### Rule 1
 - `source`:
   - `due.hitsz.edu.cn`
-  - `due.hitsz.edu.cn/index/:id/list.htm`
-- `target`: `/hitsz/due/:id`
+  - `due.hitsz.edu.cn/index.htm`
+- `target`: `/due/tzgg`
 ### Rule 2
 - `title`: `通知公告`
 - `source`:
   - `due.hitsz.edu.cn/index/tzggqb.htm`
-- `target`: `/hitsz/due/tzgg`
+- `target`: `/due/tzgg`
 
 ## Raw JSON
 ```json
@@ -85,15 +85,15 @@ _None_
     {
       "source": [
         "due.hitsz.edu.cn",
-        "due.hitsz.edu.cn/index/:id/list.htm"
+        "due.hitsz.edu.cn/index.htm"
       ],
-      "target": "/hitsz/due/:id"
+      "target": "/due/tzgg"
     },
     {
       "source": [
         "due.hitsz.edu.cn/index/tzggqb.htm"
       ],
-      "target": "/hitsz/due/tzgg",
+      "target": "/due/tzgg",
       "title": "通知公告"
     }
   ],

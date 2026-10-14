@@ -1,4 +1,4 @@
-# 线报酷 - 线板酷
+# 线报酷 - 线报
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `xianbao`
 - Namespace Name: `线报酷`
 - Route Path: `/xianbao/:category?`
-- Route Name: `线板酷`
+- Route Name: `线报`
 - Example: `/xianbao`
 - URL: `new.xianbao.fun`
 - Language: `_None_`
@@ -91,7 +91,7 @@
   "maintainers": [
     "nashi23"
   ],
-  "name": "线板酷",
+  "name": "线报",
   "parameters": {
     "category": "类别id，默认为：latest"
   },

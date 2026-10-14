@@ -22,7 +22,7 @@
 | zhxw     | pygl     | gjjl     |
 
 ## Parameters
-- `type`: 分类，默认为学术公告
+- `type`: 分类，默认为综合新闻
 
 
 ## Features
@@ -62,7 +62,7 @@
   ],
   "name": "研究生院",
   "parameters": {
-    "type": "分类，默认为学术公告"
+    "type": "分类，默认为综合新闻"
   },
   "path": "/gs/:type?",
   "radar": [

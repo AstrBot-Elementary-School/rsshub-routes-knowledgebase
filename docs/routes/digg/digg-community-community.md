@@ -1,4 +1,4 @@
-# Digg - Community Posts
+# Digg - Topic Stories
 
 ## Coverage
 `index-only`
@@ -7,8 +7,8 @@
 - Namespace: `digg`
 - Namespace Name: `Digg`
 - Route Path: `/digg/community/:community`
-- Route Name: `Community Posts`
-- Example: `/digg/community/askdigg`
+- Route Name: `Topic Stories`
+- Example: `/digg/community/tech`
 - URL: `digg.com/`
 - Language: `_None_`
 - Categories: `social-media`
@@ -17,10 +17,10 @@
 - Source Module: `_None_`
 
 ## Description
-_None_
+Digg now publishes topic stories instead of the former community posts. Retired communities such as askdigg are unavailable. Only the current first page of published stories is returned.
 
 ## Parameters
-- `community`: Community slug, can be found in the URL
+- `community`: Current topic slug from the Digg URL, such as tech, ai, gaming, entertainment, world-business, science, or sports
 
 
 ## Features
@@ -42,7 +42,8 @@ _None_
   "categories": [
     "social-media"
   ],
-  "example": "/digg/community/askdigg",
+  "description": "Digg now publishes topic stories instead of the former community posts. Retired communities such as askdigg are unavailable. Only the current first page of published stories is returned.",
+  "example": "/digg/community/tech",
   "features": {
     "antiCrawler": false,
     "requireConfig": false,
@@ -56,9 +57,9 @@ _None_
   "maintainers": [
     "TonyRL"
   ],
-  "name": "Community Posts",
+  "name": "Topic Stories",
   "parameters": {
-    "community": "Community slug, can be found in the URL"
+    "community": "Current topic slug from the Digg URL, such as tech, ai, gaming, entertainment, world-business, science, or sports"
   },
   "path": "/community/:community",
   "radar": [

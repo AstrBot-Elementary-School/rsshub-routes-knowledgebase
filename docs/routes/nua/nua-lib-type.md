@@ -9,7 +9,7 @@
 - Route Path: `/nua/lib/:type`
 - Route Name: `Library`
 - Example: `/nua/lib/xwdt`
-- URL: `index.nua.edu.cn`
+- URL: `www.nua.edu.cn`
 - Language: `_None_`
 - Categories: `university`
 - Maintainers: `evnydd0sf`

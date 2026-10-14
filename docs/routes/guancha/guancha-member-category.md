@@ -37,7 +37,25 @@
 ### Rule 1
 - `source`:
   - `guancha.cn/`
-- `target`: `/:category?`
+- `target`: `/member/recommend`
+### Rule 2
+- `source`:
+  - `member.guancha.cn/`
+  - `member.guancha.cn/index.html`
+  - `member.guancha.cn/gczedit/index.html`
+- `target`: `/member/recommend`
+### Rule 3
+- `source`:
+  - `member.guancha.cn/zaixianke/index.html`
+- `target`: `/member/courses`
+### Rule 4
+- `source`:
+  - `member.guancha.cn/guanshutang/summary.html`
+- `target`: `/member/books`
+### Rule 5
+- `source`:
+  - `member.guancha.cn/guanxueyuan/content.html`
+- `target`: `/member/huodongs`
 
 ## Raw JSON
 ```json
@@ -70,7 +88,33 @@
       "source": [
         "guancha.cn/"
       ],
-      "target": "/:category?"
+      "target": "/member/recommend"
+    },
+    {
+      "source": [
+        "member.guancha.cn/",
+        "member.guancha.cn/index.html",
+        "member.guancha.cn/gczedit/index.html"
+      ],
+      "target": "/member/recommend"
+    },
+    {
+      "source": [
+        "member.guancha.cn/zaixianke/index.html"
+      ],
+      "target": "/member/courses"
+    },
+    {
+      "source": [
+        "member.guancha.cn/guanshutang/summary.html"
+      ],
+      "target": "/member/books"
+    },
+    {
+      "source": [
+        "member.guancha.cn/guanxueyuan/content.html"
+      ],
+      "target": "/member/huodongs"
     }
   ],
   "test": {

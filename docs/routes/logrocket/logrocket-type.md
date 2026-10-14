@@ -1,4 +1,4 @@
-# logrocket blog - blog.logrocket
+# logrocket blog - Blog
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `logrocket`
 - Namespace Name: `logrocket blog`
 - Route Path: `/logrocket/:type`
-- Route Name: `blog.logrocket`
+- Route Name: `Blog`
 - Example: `/logrocket/dev`
 - URL: `blog.logrocket.com/`
 - Language: `_None_`
@@ -30,6 +30,19 @@ _None_
 ### Rule 1
 - `source`:
   - `blog.logrocket.com`
+- `target`: `/dev`
+### Rule 2
+- `source`:
+  - `blog.logrocket.com/dev`
+- `target`: `/dev`
+### Rule 3
+- `source`:
+  - `blog.logrocket.com/product-management`
+- `target`: `/product-management`
+### Rule 4
+- `source`:
+  - `blog.logrocket.com/ux-design`
+- `target`: `/ux-design`
 
 ## Raw JSON
 ```json
@@ -43,7 +56,7 @@ _None_
   "maintainers": [
     "findwei"
   ],
-  "name": "blog.logrocket",
+  "name": "Blog",
   "parameters": {
     "type": "dev | product-management | ux-design"
   },
@@ -52,7 +65,26 @@ _None_
     {
       "source": [
         "blog.logrocket.com"
-      ]
+      ],
+      "target": "/dev"
+    },
+    {
+      "source": [
+        "blog.logrocket.com/dev"
+      ],
+      "target": "/dev"
+    },
+    {
+      "source": [
+        "blog.logrocket.com/product-management"
+      ],
+      "target": "/product-management"
+    },
+    {
+      "source": [
+        "blog.logrocket.com/ux-design"
+      ],
+      "target": "/ux-design"
     }
   ],
   "test": {

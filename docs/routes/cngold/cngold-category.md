@@ -55,7 +55,7 @@
 </details>
 
 ## Parameters
-- `category`: 分类，默认为 `news-325`，即行业资讯，可在对应分类页 URL 中找到, Category, `news-325`，即行业资讯by default
+- `category`: 分类，默认为 `news-325`，即行业资讯，可在对应分类页 URL 中找到, Category, `news-325`，即行业资讯by default；也支持官网文件名，例如 `news-325.html`
 
 
 ## Features
@@ -70,7 +70,8 @@
 ## Radar
 ### Rule 1
 - `source`:
-  - `www.cngold.org.cn/:category?`
+  - `www.cngold.org.cn/:category`
+- `target`: `/:category?`
 ### Rule 2
 - `title`: `政策法规 - 法律法规`
 - `source`:
@@ -151,14 +152,15 @@
   ],
   "name": "分类",
   "parameters": {
-    "category": "分类，默认为 `news-325`，即行业资讯，可在对应分类页 URL 中找到, Category, `news-325`，即行业资讯by default"
+    "category": "分类，默认为 `news-325`，即行业资讯，可在对应分类页 URL 中找到, Category, `news-325`，即行业资讯by default；也支持官网文件名，例如 `news-325.html`"
   },
   "path": "/:category?",
   "radar": [
     {
       "source": [
-        "www.cngold.org.cn/:category?"
-      ]
+        "www.cngold.org.cn/:category"
+      ],
+      "target": "/:category?"
     },
     {
       "source": [

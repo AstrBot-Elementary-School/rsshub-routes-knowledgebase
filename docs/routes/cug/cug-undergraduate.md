@@ -1,4 +1,4 @@
-# 中国地质大学（武汉） - 中国地质大学通知公告
+# 中国地质大学（武汉） - 通知公告
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `cug`
 - Namespace Name: `中国地质大学（武汉）`
 - Route Path: `/cug/undergraduate`
-- Route Name: `中国地质大学通知公告`
+- Route Name: `通知公告`
 - Example: `/cug/undergraduate`
 - URL: `www.cug.edu.cn`
 - Language: `_None_`
@@ -41,7 +41,7 @@ _None_
   "maintainers": [
     "chunibyo-wly"
   ],
-  "name": "中国地质大学通知公告",
+  "name": "通知公告",
   "path": "/undergraduate",
   "test": {
     "code": 1,

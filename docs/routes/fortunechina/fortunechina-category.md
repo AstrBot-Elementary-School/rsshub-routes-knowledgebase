@@ -19,7 +19,7 @@
 ## Description
 | 商业    | 领导力    | 科技 | 研究   |
 | ------- | --------- | ---- | ------ |
-| shangye | lindgaoli | keji | report |
+| shangye | lingdaoli | keji | report |
 
 ## Parameters
 - `category`: 分类，见下表，默认为首页
@@ -45,7 +45,7 @@
   "categories": [
     "new-media"
   ],
-  "description": "| 商业    | 领导力    | 科技 | 研究   |\n| ------- | --------- | ---- | ------ |\n| shangye | lindgaoli | keji | report |",
+  "description": "| 商业    | 领导力    | 科技 | 研究   |\n| ------- | --------- | ---- | ------ |\n| shangye | lingdaoli | keji | report |",
   "example": "/fortunechina",
   "features": {
     "antiCrawler": false,

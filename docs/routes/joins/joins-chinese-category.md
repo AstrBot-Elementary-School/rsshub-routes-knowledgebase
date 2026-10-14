@@ -1,4 +1,4 @@
-# 中央日报 - 中央日报中文版
+# 中央日报 - 中文版
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `joins`
 - Namespace Name: `中央日报`
 - Route Path: `/joins/chinese/:category?`
-- Route Name: `中央日报中文版`
+- Route Name: `中文版`
 - Example: `/joins/chinese`
 - URL: `chinese.joins.com`
 - Language: `_None_`
@@ -54,6 +54,7 @@
 ### Rule 1
 - `source`:
   - `chinese.joins.com/news/articleList.html`
+- `target`: `/chinese`
 ### Rule 2
 - `title`: `财经`
 - `source`:
@@ -142,7 +143,7 @@
   "maintainers": [
     "nczitzk"
   ],
-  "name": "中央日报中文版",
+  "name": "中文版",
   "parameters": {
     "category": "分类，默认为空，可在对应分类页 URL 中找到 `sc_section_code`"
   },
@@ -151,7 +152,8 @@
     {
       "source": [
         "chinese.joins.com/news/articleList.html"
-      ]
+      ],
+      "target": "/chinese"
     },
     {
       "source": [

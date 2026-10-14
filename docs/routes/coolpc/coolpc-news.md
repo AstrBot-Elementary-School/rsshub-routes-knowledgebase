@@ -35,6 +35,7 @@ _None_
 ### Rule 1
 - `source`:
   - `www.coolpc.com.tw/`
+  - `www.coolpc.com.tw/tw/`
 
 ## Raw JSON
 ```json
@@ -62,7 +63,8 @@ _None_
   "radar": [
     {
       "source": [
-        "www.coolpc.com.tw/"
+        "www.coolpc.com.tw/",
+        "www.coolpc.com.tw/tw/"
       ]
     }
   ],

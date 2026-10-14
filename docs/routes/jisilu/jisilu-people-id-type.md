@@ -27,7 +27,7 @@
 
 ## Parameters
 - `id`: 用户 id，可在对应用户页 URL 中找到
-- `type`: 类型，可选值为 `questions` 即 `主题` 或 `answer` 即 `回复`，默认为 `questions` 即 `主题`
+- `type`: 类型，可选值为 `questions` 即 `主题` 或 `answers` 即 `回复`，默认为 `questions` 即 `主题`
 
 
 ## Features
@@ -70,7 +70,7 @@
   "name": "用户",
   "parameters": {
     "id": "用户 id，可在对应用户页 URL 中找到",
-    "type": "类型，可选值为 `questions` 即 `主题` 或 `answer` 即 `回复`，默认为 `questions` 即 `主题`"
+    "type": "类型，可选值为 `questions` 即 `主题` 或 `answers` 即 `回复`，默认为 `questions` 即 `主题`"
   },
   "path": "/people/:id/:type?",
   "radar": [

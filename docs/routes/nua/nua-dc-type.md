@@ -9,7 +9,7 @@
 - Route Path: `/nua/dc/:type`
 - Route Name: `School of Design`
 - Example: `/nua/dc/news`
-- URL: `index.nua.edu.cn`
+- URL: `www.nua.edu.cn`
 - Language: `_None_`
 - Categories: `university`
 - Maintainers: `evnydd0sf`
@@ -41,7 +41,8 @@
 ## Radar
 ### Rule 1
 - `source`:
-  - `dc.nua.edu.cn/:type/list.htm`
+  - `dc.nua.edu.cn/`
+- `target`: `/dc/news`
 
 ## Raw JSON
 ```json
@@ -72,8 +73,9 @@
   "radar": [
     {
       "source": [
-        "dc.nua.edu.cn/:type/list.htm"
-      ]
+        "dc.nua.edu.cn/"
+      ],
+      "target": "/dc/news"
     }
   ],
   "test": {

@@ -1,4 +1,4 @@
-# 国家发展和改革委员会价格监测中心 - 中华人民共和国国家发展和改革委员会价格监测中心
+# 国家发展和改革委员会价格监测中心 - 通用
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `gov/jgjcndrc`
 - Namespace Name: `国家发展和改革委员会价格监测中心`
 - Route Path: `/gov/jgjcndrc/:columnId?/:subColumnId?`
-- Route Name: `中华人民共和国国家发展和改革委员会价格监测中心`
+- Route Name: `通用`
 - Example: `/gov/jgjcndrc/1832739866673426433`
 - URL: `www.jgjcndrc.org.cn`
 - Language: `_None_`
@@ -64,7 +64,7 @@
   "maintainers": [
     "nczitzk"
   ],
-  "name": "中华人民共和国国家发展和改革委员会价格监测中心",
+  "name": "通用",
   "parameters": {
     "columnId": "栏目 id，默认为 `1832739866673426433`，即通知公告，可在对应栏目页 URL 中找到",
     "subColumnId": "子栏目 id，默认为空，可在对应子栏目页 URL 中找到"

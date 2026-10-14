@@ -1,4 +1,4 @@
-# 郑州大学 - 郑大校长办
+# 郑州大学 - 校长办
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `zzu`
 - Namespace Name: `郑州大学`
 - Route Path: `/zzu/xbx/:type`
-- Route Name: `郑大校长办`
+- Route Name: `校长办`
 - Example: `/zzu/xbx/xwzx`
 - URL: `www.zzu.edu.cn`
 - Language: `_None_`
@@ -59,7 +59,7 @@
   "maintainers": [
     "amandus1990"
   ],
-  "name": "郑大校长办",
+  "name": "校长办",
   "parameters": {
     "type": "分类名"
   },

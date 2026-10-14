@@ -1,4 +1,4 @@
-# 河南财政金融学院 - 河南财政金融学院
+# 河南财政金融学院 - 公告通知
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `hafu`
 - Namespace Name: `河南财政金融学院`
 - Route Path: `/hafu/news/:type?`
-- Route Name: `河南财政金融学院`
+- Route Name: `公告通知`
 - Example: `/hafu/news/ggtz`
 - URL: `www.hafu.edu.cn`
 - Language: `_None_`
@@ -57,7 +57,7 @@ _None_
   "maintainers": [
     "deep1nlife"
   ],
-  "name": "河南财政金融学院",
+  "name": "公告通知",
   "parameters": {
     "type": "分类，见下表（默认为 `ggtz`)"
   },

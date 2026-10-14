@@ -37,6 +37,10 @@ To subscribe to [Section](https://indianexpress.com/), where the source URL is `
 ## Radar
 ### Rule 1
 - `source`:
+  - `indianexpress.com/section/:id/:subId`
+- `target`: `/section/:id/:subId`
+### Rule 2
+- `source`:
   - `indianexpress.com/section/:id`
 - `target`: `/section/:id`
 
@@ -70,6 +74,12 @@ To subscribe to [Section](https://indianexpress.com/), where the source URL is `
   },
   "path": "/section/:id{.+}?",
   "radar": [
+    {
+      "source": [
+        "indianexpress.com/section/:id/:subId"
+      ],
+      "target": "/section/:id/:subId"
+    },
     {
       "source": [
         "indianexpress.com/section/:id"

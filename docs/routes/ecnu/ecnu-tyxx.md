@@ -30,6 +30,7 @@ _None_
 ### Rule 1
 - `source`:
   - `tyxx.ecnu.edu.cn`
+  - `tyxx.ecnu.edu.cn/37979/list.htm`
 - `target`: `/tyxx`
 
 ## Raw JSON
@@ -51,7 +52,8 @@ _None_
   "radar": [
     {
       "source": [
-        "tyxx.ecnu.edu.cn"
+        "tyxx.ecnu.edu.cn",
+        "tyxx.ecnu.edu.cn/37979/list.htm"
       ],
       "target": "/tyxx"
     }

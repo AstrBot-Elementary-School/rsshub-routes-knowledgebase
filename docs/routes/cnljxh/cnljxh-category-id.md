@@ -109,7 +109,8 @@
 ## Radar
 ### Rule 1
 - `source`:
-  - `www.cnljxh.org.cn/:category`
+  - `www.cnljxh.org.cn/`
+- `target`: `/news/10`
 ### Rule 2
 - `title`: `协会专区 - 协会简介`
 - `source`:
@@ -463,8 +464,9 @@
   "radar": [
     {
       "source": [
-        "www.cnljxh.org.cn/:category"
-      ]
+        "www.cnljxh.org.cn/"
+      ],
+      "target": "/news/10"
     },
     {
       "source": [

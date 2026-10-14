@@ -34,7 +34,26 @@
 - `supportScihub`: false
 
 ## Radar
-_None_
+### Rule 1
+- `source`:
+  - `zhaopin.ucas.ac.cn/gjob/login.do`
+- `title`: `博士后`
+- `target`: `/job/bsh`
+### Rule 2
+- `source`:
+  - `zhaopin.ucas.ac.cn/gjob/login.do`
+- `title`: `课题项目聘用`
+- `target`: `/job/ktxmpy`
+### Rule 3
+- `source`:
+  - `zhaopin.ucas.ac.cn/gjob/login.do`
+- `title`: `管理支撑人才`
+- `target`: `/job/glzcrc`
+### Rule 4
+- `source`:
+  - `zhaopin.ucas.ac.cn/gjob/login.do`
+- `title`: `教学科研人才`
+- `target`: `/job/jxkyrc`
 
 ## Raw JSON
 ```json
@@ -62,6 +81,36 @@ _None_
     "type": "招聘类型，默认为博士后"
   },
   "path": "/job/:type?",
+  "radar": [
+    {
+      "source": [
+        "zhaopin.ucas.ac.cn/gjob/login.do"
+      ],
+      "target": "/job/bsh",
+      "title": "博士后"
+    },
+    {
+      "source": [
+        "zhaopin.ucas.ac.cn/gjob/login.do"
+      ],
+      "target": "/job/ktxmpy",
+      "title": "课题项目聘用"
+    },
+    {
+      "source": [
+        "zhaopin.ucas.ac.cn/gjob/login.do"
+      ],
+      "target": "/job/glzcrc",
+      "title": "管理支撑人才"
+    },
+    {
+      "source": [
+        "zhaopin.ucas.ac.cn/gjob/login.do"
+      ],
+      "target": "/job/jxkyrc",
+      "title": "教学科研人才"
+    }
+  ],
   "test": {
     "code": 1
   },

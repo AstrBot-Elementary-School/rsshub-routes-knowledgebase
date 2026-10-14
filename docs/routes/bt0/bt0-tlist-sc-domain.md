@@ -35,7 +35,24 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `2bt0.com/tlist/`
+  - `2bt0.com/tlist/1_1.html`
+- `target`: `/tlist/1`
+### Rule 2
+- `source`:
+  - `2bt0.com/tlist/2_1.html`
+- `target`: `/tlist/2`
+### Rule 3
+- `source`:
+  - `2bt0.com/tlist/3_1.html`
+- `target`: `/tlist/3`
+### Rule 4
+- `source`:
+  - `2bt0.com/tlist/4_1.html`
+- `target`: `/tlist/4`
+### Rule 5
+- `source`:
+  - `2bt0.com/tlist/5_1.html`
+- `target`: `/tlist/5`
 
 ## Raw JSON
 ```json
@@ -66,8 +83,33 @@ _None_
   "radar": [
     {
       "source": [
-        "2bt0.com/tlist/"
-      ]
+        "2bt0.com/tlist/1_1.html"
+      ],
+      "target": "/tlist/1"
+    },
+    {
+      "source": [
+        "2bt0.com/tlist/2_1.html"
+      ],
+      "target": "/tlist/2"
+    },
+    {
+      "source": [
+        "2bt0.com/tlist/3_1.html"
+      ],
+      "target": "/tlist/3"
+    },
+    {
+      "source": [
+        "2bt0.com/tlist/4_1.html"
+      ],
+      "target": "/tlist/4"
+    },
+    {
+      "source": [
+        "2bt0.com/tlist/5_1.html"
+      ],
+      "target": "/tlist/5"
     }
   ],
   "test": {

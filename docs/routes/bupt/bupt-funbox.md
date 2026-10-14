@@ -9,7 +9,7 @@
 - Route Path: `/bupt/funbox`
 - Route Name: `BTBYR 趣味盒`
 - Example: `/bupt/funbox`
-- URL: `bupt.edu.cn`
+- URL: `www.bupt.edu.cn`
 - Language: `_None_`
 - Categories: `university`
 - Maintainers: `prnake`

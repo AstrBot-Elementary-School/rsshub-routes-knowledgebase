@@ -8,7 +8,7 @@
 - Namespace Name: `福建考试报名网`
 - Route Path: `/fjksbm/:category?`
 - Route Name: `分类`
-- Example: `/fjksbm`
+- Example: `/fjksbm/news`
 - URL: `fjksbm.com`
 - Language: `_None_`
 - Categories: `study`
@@ -22,7 +22,7 @@
 | 0                           | 1              | 2                          | 3              | 4                      | 5          | news     | policy   |
 
 ## Parameters
-- `category`: 分类，见下表，默认为网络报名进行中
+- `category`: 分类，见下表，默认为 0（已发布公告，方案即将开始）
 
 
 ## Features
@@ -46,7 +46,7 @@
     "study"
   ],
   "description": "| 已发布公告 (方案)，即将开始 | 网络报名进行中 | 网络报名结束等待打印准考证 | 正在打印准考证 | 考试结束，等待发布成绩 | 已发布成绩 | 新闻动态 | 政策法规 |\n| --------------------------- | -------------- | -------------------------- | -------------- | ---------------------- | ---------- | -------- | -------- |\n| 0                           | 1              | 2                          | 3              | 4                      | 5          | news     | policy   |",
-  "example": "/fjksbm",
+  "example": "/fjksbm/news",
   "features": {
     "antiCrawler": false,
     "requireConfig": false,
@@ -62,7 +62,7 @@
   ],
   "name": "分类",
   "parameters": {
-    "category": "分类，见下表，默认为网络报名进行中"
+    "category": "分类，见下表，默认为 0（已发布公告，方案即将开始）"
   },
   "path": "/:category?",
   "radar": [

@@ -29,8 +29,12 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `www.taiwanplus.com/news/:category*`
+  - `www.taiwanplus.com/news/:category`
 - `target`: `/news/:category`
+### Rule 2
+- `source`:
+  - `www.taiwanplus.com/news/:category/:subcategory`
+- `target`: `/news/:category/:subcategory`
 
 ## Raw JSON
 ```json
@@ -52,9 +56,15 @@ _None_
   "radar": [
     {
       "source": [
-        "www.taiwanplus.com/news/:category*"
+        "www.taiwanplus.com/news/:category"
       ],
       "target": "/news/:category"
+    },
+    {
+      "source": [
+        "www.taiwanplus.com/news/:category/:subcategory"
+      ],
+      "target": "/news/:category/:subcategory"
     }
   ],
   "topFeeds": []

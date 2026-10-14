@@ -11,7 +11,7 @@
 - Example: `/lmu/jobs`
 - URL: `lmu.de`
 - Language: `_None_`
-- Categories: `university, study`
+- Categories: `university`
 - Maintainers: `StarDxxx`
 - Source Location: `jobs.tsx`
 - Source Module: `_None_`
@@ -30,14 +30,13 @@ _None_
 ### Rule 1
 - `source`:
   - `www.lmu.de/en/about-lmu/working-at-lmu/job-portal/academic-staff/`
-- `target`: `/lmu/jobs`
+- `target`: `/jobs`
 
 ## Raw JSON
 ```json
 {
   "categories": [
-    "university",
-    "study"
+    "university"
   ],
   "description": "RSS feed for LMU academic staff job openings.",
   "example": "/lmu/jobs",
@@ -53,7 +52,7 @@ _None_
       "source": [
         "www.lmu.de/en/about-lmu/working-at-lmu/job-portal/academic-staff/"
       ],
-      "target": "/lmu/jobs"
+      "target": "/jobs"
     }
   ],
   "test": {

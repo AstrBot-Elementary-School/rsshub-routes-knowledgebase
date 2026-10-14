@@ -1,4 +1,4 @@
-# Nature Journal - Nature News
+# Nature Journal - News
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `nature`
 - Namespace Name: `Nature Journal`
 - Route Path: `/nature/news`
-- Route Name: `Nature News`
+- Route Name: `News`
 - Example: `/nature/news`
 - URL: `nature.com/latest-news`
 - Language: `_None_`
@@ -59,7 +59,7 @@ _None_
     "y9c",
     "TonyRL"
   ],
-  "name": "Nature News",
+  "name": "News",
   "parameters": {},
   "path": "/news",
   "radar": [

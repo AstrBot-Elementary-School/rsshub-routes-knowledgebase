@@ -20,7 +20,7 @@
 _None_
 
 ## Parameters
-- `name`: 用户 UID
+- `uid`: 用户 UID
 
 
 ## Features
@@ -61,7 +61,7 @@ _None_
   ],
   "name": "用户文章",
   "parameters": {
-    "name": "用户 UID"
+    "uid": "用户 UID"
   },
   "path": "/user/article/:uid",
   "radar": [

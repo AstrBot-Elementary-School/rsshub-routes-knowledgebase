@@ -139,7 +139,7 @@
 </details>
 
 ## Parameters
-- `category`: 分类，默认为热点，可在对应分类页 URL 中找到
+- `name`: 频道名称，默认为热点，可在对应分类页 URL 中找到
 
 
 ## Features
@@ -937,7 +937,7 @@
   ],
   "name": "频道",
   "parameters": {
-    "category": "分类，默认为热点，可在对应分类页 URL 中找到"
+    "name": "频道名称，默认为热点，可在对应分类页 URL 中找到"
   },
   "path": "/channel/:name{.+}?",
   "radar": [

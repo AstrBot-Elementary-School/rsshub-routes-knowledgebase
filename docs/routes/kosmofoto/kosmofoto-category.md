@@ -51,7 +51,11 @@ The official feed only carries excerpts; this route returns the full post with a
 - `source`:
   - `kosmofoto.com/category/:category`
   - `kosmofoto.com/category/:parent/:category`
+- `target`: `/:category`
+### Rule 2
+- `source`:
   - `kosmofoto.com/`
+- `target`: `/`
 
 ## Raw JSON
 ```json
@@ -83,9 +87,15 @@ The official feed only carries excerpts; this route returns the full post with a
     {
       "source": [
         "kosmofoto.com/category/:category",
-        "kosmofoto.com/category/:parent/:category",
+        "kosmofoto.com/category/:parent/:category"
+      ],
+      "target": "/:category"
+    },
+    {
+      "source": [
         "kosmofoto.com/"
-      ]
+      ],
+      "target": "/"
     }
   ],
   "test": {

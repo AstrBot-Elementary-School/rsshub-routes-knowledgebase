@@ -10,7 +10,7 @@
 
 ## Routes
 
-### 经济信息工程学院
+### 计算机与人工智能学院
 - Route ID: `swufe:/swufe/seie/:type?`
 - Route Path: `/swufe/seie/:type?`
 - File: `docs/routes/swufe/swufe-seie-type.md`

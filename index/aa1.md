@@ -3,9 +3,9 @@
 ## Namespace
 - Namespace: `aa1`
 - Display Name: `夏柔`
-- URL: `aa1.cn`
+- URL: `www.aa1.cn`
 - Language: `_None_`
-- Aliases: `aa1, aa1.cn, 夏柔`
+- Aliases: `aa1, aa1.cn, www, www.aa1.cn, 夏柔`
 - Route Count: `1`
 
 ## Routes

@@ -24,7 +24,7 @@ _None_
 
 
 ## Features
-_None_
+- `supportBT`: true
 
 ## Radar
 ### Rule 1
@@ -38,6 +38,9 @@ _None_
     "anime"
   ],
   "example": "/bangumi.moe",
+  "features": {
+    "supportBT": true
+  },
   "heat": 0,
   "location": "index.ts",
   "maintainers": [

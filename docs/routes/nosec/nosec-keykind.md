@@ -37,8 +37,36 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `nosec.org/home/index/:keykind`
   - `nosec.org/home/index`
+- `target`: `/`
+### Rule 2
+- `source`:
+  - `nosec.org/home/index/threaten.html`
+- `target`: `/threaten`
+### Rule 3
+- `source`:
+  - `nosec.org/home/index/security.html`
+- `target`: `/security`
+### Rule 4
+- `source`:
+  - `nosec.org/home/index/hole.html`
+- `target`: `/hole`
+### Rule 5
+- `source`:
+  - `nosec.org/home/index/leakage.html`
+- `target`: `/leakage`
+### Rule 6
+- `source`:
+  - `nosec.org/home/index/speech.html`
+- `target`: `/speech`
+### Rule 7
+- `source`:
+  - `nosec.org/home/index/skill.html`
+- `target`: `/skill`
+### Rule 8
+- `source`:
+  - `nosec.org/home/index/tool.html`
+- `target`: `/tool`
 
 ## Raw JSON
 ```json
@@ -61,9 +89,51 @@ _None_
   "radar": [
     {
       "source": [
-        "nosec.org/home/index/:keykind",
         "nosec.org/home/index"
-      ]
+      ],
+      "target": "/"
+    },
+    {
+      "source": [
+        "nosec.org/home/index/threaten.html"
+      ],
+      "target": "/threaten"
+    },
+    {
+      "source": [
+        "nosec.org/home/index/security.html"
+      ],
+      "target": "/security"
+    },
+    {
+      "source": [
+        "nosec.org/home/index/hole.html"
+      ],
+      "target": "/hole"
+    },
+    {
+      "source": [
+        "nosec.org/home/index/leakage.html"
+      ],
+      "target": "/leakage"
+    },
+    {
+      "source": [
+        "nosec.org/home/index/speech.html"
+      ],
+      "target": "/speech"
+    },
+    {
+      "source": [
+        "nosec.org/home/index/skill.html"
+      ],
+      "target": "/skill"
+    },
+    {
+      "source": [
+        "nosec.org/home/index/tool.html"
+      ],
+      "target": "/tool"
     }
   ],
   "test": {

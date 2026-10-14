@@ -26,7 +26,7 @@ _None_
 
 
 ## Features
-- `requirePuppeteer`: false
+- `requirePuppeteer`: true
 - `antiCrawler`: true
 - `supportBT`: true
 - `nsfw`: true
@@ -47,7 +47,7 @@ _None_
   "features": {
     "antiCrawler": true,
     "nsfw": true,
-    "requirePuppeteer": false,
+    "requirePuppeteer": true,
     "supportBT": true
   },
   "heat": 122,

@@ -24,7 +24,7 @@ _None_
 
 
 ## Features
-_None_
+- `supportBT`: true
 
 ## Radar
 ### Rule 1
@@ -39,6 +39,9 @@ _None_
     "other"
   ],
   "example": "/u9a9/search/新片速递",
+  "features": {
+    "supportBT": true
+  },
   "heat": 11,
   "location": "index.ts",
   "maintainers": [

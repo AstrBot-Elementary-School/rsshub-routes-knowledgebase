@@ -50,6 +50,7 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
+  - `www.bitget.com/:lang/promotion/inmail`
   - `www.bitget.com/:lang/inmail`
 - `target`: `/announcement/all/:lang`
 
@@ -133,6 +134,7 @@ _None_
   "radar": [
     {
       "source": [
+        "www.bitget.com/:lang/promotion/inmail",
         "www.bitget.com/:lang/inmail"
       ],
       "target": "/announcement/all/:lang"

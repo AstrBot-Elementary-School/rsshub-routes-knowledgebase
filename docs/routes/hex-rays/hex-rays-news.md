@@ -1,4 +1,4 @@
-# Hex-Rays - Hex-Rays News
+# Hex-Rays - News
 
 ## Coverage
 `index-only`
@@ -7,12 +7,12 @@
 - Namespace: `hex-rays`
 - Namespace Name: `Hex-Rays`
 - Route Path: `/hex-rays/news`
-- Route Name: `Hex-Rays News`
+- Route Name: `News`
 - Example: `/hex-rays/news`
 - URL: `hex-rays.com/`
 - Language: `_None_`
 - Categories: `programming`
-- Maintainers: `hellodword , TonyRL, Mas0n`
+- Maintainers: `hellodword, TonyRL, Mas0n`
 - Source Location: `index.ts`
 - Source Module: `_None_`
 
@@ -55,11 +55,11 @@ _None_
   "heat": 16,
   "location": "index.ts",
   "maintainers": [
-    "hellodword ",
+    "hellodword",
     "TonyRL",
     "Mas0n"
   ],
-  "name": "Hex-Rays News",
+  "name": "News",
   "parameters": {},
   "path": "/news",
   "radar": [

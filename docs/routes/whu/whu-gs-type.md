@@ -38,6 +38,7 @@
 - `source`:
   - `gs.whu.edu.cn/index.htm`
   - `gs.whu.edu.cn/`
+  - `gs.whu.edu.cn/xwdt.htm`
 - `target`: `/gs`
 
 ## Raw JSON
@@ -70,7 +71,8 @@
     {
       "source": [
         "gs.whu.edu.cn/index.htm",
-        "gs.whu.edu.cn/"
+        "gs.whu.edu.cn/",
+        "gs.whu.edu.cn/xwdt.htm"
       ],
       "target": "/gs"
     }

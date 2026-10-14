@@ -9,7 +9,7 @@
 - Route Path: `/7mmtv/:language?/:category?/:type?`
 - Route Name: `Category`
 - Example: `/7mmtv/zh/censored_list/all`
-- URL: `7mmtv.tv`
+- URL: `7mmtv.sx`
 - Language: `_None_`
 - Categories: `multimedia, popular`
 - Maintainers: `nczitzk`
@@ -75,7 +75,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 3479,
+  "heat": 3478,
   "location": "index.tsx",
   "maintainers": [
     "nczitzk"
@@ -96,18 +96,6 @@ _None_
       "description": "7mmtv,Avグル 無修正エロ動画ファンに7MMが贈る、人気AV女優や可愛い素人の高画質独占配信アダルト動画・免費成人影片、日本AV、無碼高清視頻播放・Free HD Porn Videos & JAV Streaming・Japan AV - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "58329137020611584",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://7mmtv.sx/zh/censored_list/all/1.html",
-      "title": "有碼AV - 7mmtv.sx",
-      "type": "feed",
-      "url": "rsshub://7mmtv/zh/censored_list/all"
-    },
-    {
-      "description": "7mmtv,Avグル 無修正エロ動画ファンに7MMが贈る、人気AV女優や可愛い素人の高画質独占配信アダルト動画・免費成人影片、日本AV、無碼高清視頻播放・Free HD Porn Videos & JAV Streaming・Japan AV - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "58807882601762816",
       "image": null,
       "ownerUserId": null,
@@ -115,6 +103,18 @@ _None_
       "title": "無碼AV - 7mmtv.sx",
       "type": "feed",
       "url": "rsshub://7mmtv/zh/uncensored_list/all"
+    },
+    {
+      "description": "7mmtv,Avグル 無修正エロ動画ファンに7MMが贈る、人気AV女優や可愛い素人の高画質独占配信アダルト動画・免費成人影片、日本AV、無碼高清視頻播放・Free HD Porn Videos & JAV Streaming・Japan AV - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "58329137020611584",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://7mmtv.sx/zh/censored_list/all/1.html",
+      "title": "有碼AV - 7mmtv.sx",
+      "type": "feed",
+      "url": "rsshub://7mmtv/zh/censored_list/all"
     }
   ]
 }

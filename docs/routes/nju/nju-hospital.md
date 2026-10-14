@@ -9,7 +9,7 @@
 - Route Path: `/nju/hospital`
 - Route Name: `校医院`
 - Example: `/nju/hospital`
-- URL: `hospital.nju.edu.cn/ggtz/index.html`
+- URL: `hospital.nju.edu.cn/xwgg/ggtz/index.html`
 - Language: `_None_`
 - Categories: `university`
 - Maintainers: `ret-1`
@@ -34,7 +34,7 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `hospital.nju.edu.cn/ggtz/index.html`
+  - `hospital.nju.edu.cn/xwgg/ggtz/index.html`
 
 ## Raw JSON
 ```json
@@ -62,7 +62,7 @@ _None_
   "radar": [
     {
       "source": [
-        "hospital.nju.edu.cn/ggtz/index.html"
+        "hospital.nju.edu.cn/xwgg/ggtz/index.html"
       ]
     }
   ],
@@ -84,6 +84,6 @@ _None_
       "url": "rsshub://nju/hospital"
     }
   ],
-  "url": "hospital.nju.edu.cn/ggtz/index.html"
+  "url": "hospital.nju.edu.cn/xwgg/ggtz/index.html"
 }
 ```

@@ -3,9 +3,9 @@
 ## Namespace
 - Namespace: `hyperdash`
 - Display Name: `HyperDash`
-- URL: `hyperdash.info`
+- URL: `hyperdash.com`
 - Language: `_None_`
-- Aliases: `hyperdash, hyperdash.info`
+- Aliases: `hyperdash, hyperdash.com`
 - Route Count: `1`
 
 ## Routes

@@ -1,11 +1,11 @@
-# iThome 台灣 - Feeds
+# IT之家 / iThome - Feeds
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `ithome`
-- Namespace Name: `iThome 台灣`
+- Namespace Name: `IT之家 / iThome`
 - Route Path: `/ithome/tw/feeds/:category`
 - Route Name: `Feeds`
 - Example: `/ithome/tw/feeds/news`

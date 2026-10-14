@@ -41,33 +41,30 @@
 
 ## Radar
 ### Rule 1
-- `source`:
-  - `www.gcores.com/tags/:id/originals`
-### Rule 2
 - `title`: `全部`
 - `source`:
   - `www.gcores.com/tags/:id/originals`
-- `target`: `/gcores/tags/:id`
-### Rule 3
+- `target`: `/tags/:id`
+### Rule 2
 - `title`: `播客`
 - `source`:
   - `www.gcores.com/tags/:id/originals`
-- `target`: `/gcores/tags/:id/radios`
-### Rule 4
+- `target`: `/tags/:id/radios`
+### Rule 3
 - `title`: `文章`
 - `source`:
   - `www.gcores.com/tags/:id/originals`
-- `target`: `/gcores/tags/:id/articles`
-### Rule 5
+- `target`: `/tags/:id/articles`
+### Rule 4
 - `title`: `资讯`
 - `source`:
   - `www.gcores.com/tags/:id/originals`
-- `target`: `/gcores/tags/:id/news`
-### Rule 6
+- `target`: `/tags/:id/news`
+### Rule 5
 - `title`: `视频`
 - `source`:
   - `www.gcores.com/tags/:id/originals`
-- `target`: `/gcores/tags/:id/videos`
+- `target`: `/tags/:id/videos`
 
 ## Raw JSON
 ```json
@@ -128,41 +125,36 @@
     {
       "source": [
         "www.gcores.com/tags/:id/originals"
-      ]
-    },
-    {
-      "source": [
-        "www.gcores.com/tags/:id/originals"
       ],
-      "target": "/gcores/tags/:id",
+      "target": "/tags/:id",
       "title": "全部"
     },
     {
       "source": [
         "www.gcores.com/tags/:id/originals"
       ],
-      "target": "/gcores/tags/:id/radios",
+      "target": "/tags/:id/radios",
       "title": "播客"
     },
     {
       "source": [
         "www.gcores.com/tags/:id/originals"
       ],
-      "target": "/gcores/tags/:id/articles",
+      "target": "/tags/:id/articles",
       "title": "文章"
     },
     {
       "source": [
         "www.gcores.com/tags/:id/originals"
       ],
-      "target": "/gcores/tags/:id/news",
+      "target": "/tags/:id/news",
       "title": "资讯"
     },
     {
       "source": [
         "www.gcores.com/tags/:id/originals"
       ],
-      "target": "/gcores/tags/:id/videos",
+      "target": "/tags/:id/videos",
       "title": "视频"
     }
   ],

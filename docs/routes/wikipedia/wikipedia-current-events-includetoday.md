@@ -35,7 +35,7 @@ Wikipedia Portal: Current events - Latest news and events from the past 7 days
 ### Rule 1
 - `source`:
   - `en.wikipedia.org/wiki/Portal:Current_events`
-- `target`: `/wikipedia/current-events`
+- `target`: `/current-events`
 
 ## Raw JSON
 ```json
@@ -89,7 +89,7 @@ Wikipedia Portal: Current events - Latest news and events from the past 7 days
       "source": [
         "en.wikipedia.org/wiki/Portal:Current_events"
       ],
-      "target": "/wikipedia/current-events"
+      "target": "/current-events"
     }
   ],
   "test": {

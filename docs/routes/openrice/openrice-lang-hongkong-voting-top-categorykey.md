@@ -1,4 +1,4 @@
-# Openrice開飯喇 - OpenRice 開飯熱店 - 年度餐廳投票
+# Openrice開飯喇 - 開飯熱店 - 年度餐廳投票
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `openrice`
 - Namespace Name: `Openrice開飯喇`
 - Route Path: `/openrice/:lang/hongkong/voting/top/:categoryKey`
-- Route Name: `OpenRice 開飯熱店 - 年度餐廳投票`
+- Route Name: `開飯熱店 - 年度餐廳投票`
 - Example: `/openrice/zh/hongkong/voting/top/chinese`
 - URL: `www.openrice.com`
 - Language: `_None_`
@@ -53,7 +53,7 @@ _None_
   "maintainers": [
     "after9"
   ],
-  "name": "OpenRice 開飯熱店 - 年度餐廳投票",
+  "name": "開飯熱店 - 年度餐廳投票",
   "parameters": {
     "categoryKey": "类别，缺省为 chinese",
     "lang": "语言，缺省为 zh"

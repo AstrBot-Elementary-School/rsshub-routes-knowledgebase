@@ -35,6 +35,11 @@ _None_
 ### Rule 1
 - `source`:
   - `rsj.sh.gov.cn/`
+- `target`: `/rsj/ksxm`
+### Rule 2
+- `source`:
+  - `rsj.sh.gov.cn/tksxm_17825/index.html`
+- `target`: `/rsj/ksxm`
 
 ## Raw JSON
 ```json
@@ -63,7 +68,14 @@ _None_
     {
       "source": [
         "rsj.sh.gov.cn/"
-      ]
+      ],
+      "target": "/rsj/ksxm"
+    },
+    {
+      "source": [
+        "rsj.sh.gov.cn/tksxm_17825/index.html"
+      ],
+      "target": "/rsj/ksxm"
     }
   ],
   "test": {

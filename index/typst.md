@@ -3,9 +3,9 @@
 ## Namespace
 - Namespace: `typst`
 - Display Name: `Typst`
-- URL: `typst.com`
+- URL: `typst.app`
 - Language: `_None_`
-- Aliases: `typst, typst.com`
+- Aliases: `typst, typst.app`
 - Route Count: `1`
 
 ## Routes

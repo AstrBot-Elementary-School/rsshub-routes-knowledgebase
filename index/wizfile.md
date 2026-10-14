@@ -1,11 +1,11 @@
-# WziFile Route Index
+# WizFile Route Index
 
 ## Namespace
 - Namespace: `wizfile`
-- Display Name: `WziFile`
+- Display Name: `WizFile`
 - URL: `antibody-software.com`
 - Language: `_None_`
-- Aliases: `antibody-software, antibody-software.com, wizfile, wzifile`
+- Aliases: `antibody-software, antibody-software.com, wizfile`
 - Route Count: `1`
 
 ## Routes

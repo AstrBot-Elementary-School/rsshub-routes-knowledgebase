@@ -9,7 +9,7 @@
 - Route Path: `/discuz/:ver{[7x]}/:cid{[0-9]{2}}/:link{.+}`
 - Route Name: `通用子版块`
 - Example: `/discuz/x/https%3a%2f%2fwww.52pojie.cn%2fforum-16-1.html`
-- URL: `https://www.discuz.vip/`
+- URL: `www.discuz.vip`
 - Language: `_None_`
 - Categories: `bbs`
 - Maintainers: `junfengP, pseudoyu`

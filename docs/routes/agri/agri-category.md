@@ -90,7 +90,9 @@
 ## Radar
 ### Rule 1
 - `source`:
-  - `www.agri.cn/:category?`
+  - `www.agri.cn/*category`
+  - `www.agri.cn/`
+- `target`: `/:category?`
 ### Rule 2
 - `title`: `机构 - 成果展示`
 - `source`:
@@ -237,8 +239,10 @@
   "radar": [
     {
       "source": [
-        "www.agri.cn/:category?"
-      ]
+        "www.agri.cn/*category",
+        "www.agri.cn/"
+      ],
+      "target": "/:category?"
     },
     {
       "source": [

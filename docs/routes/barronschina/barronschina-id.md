@@ -9,7 +9,7 @@
 - Route Path: `/barronschina/:id?`
 - Route Name: `栏目`
 - Example: `/barronschina`
-- URL: `barronschina.com.cn/`
+- URL: `www.barrons.com.cn`
 - Language: `_None_`
 - Categories: `finance`
 - Maintainers: `nczitzk`
@@ -17,9 +17,7 @@
 - Source Module: `_None_`
 
 ## Description
-::: tip
-栏目 id 留空则返回快讯，在对应页地址栏 `columnId=` 后可以看到。
-:::
+栏目 id 留空则返回快报，可在新站栏目地址 `https://www.barrons.com.cn/column/121` 中找到栏目 id，例如 `121` 为选股、`4891` 为财富。付费文章只返回源站公开提供的预览内容。
 
 ## Parameters
 - `id`: 栏目 id，默认为快讯
@@ -36,8 +34,13 @@
 ## Radar
 ### Rule 1
 - `source`:
-  - `barronschina.com.cn/`
-- `target`: `/:category?`
+  - `www.barrons.com.cn/`
+  - `www.barrons.com.cn/news`
+- `target`: `/`
+### Rule 2
+- `source`:
+  - `www.barrons.com.cn/column/:id`
+- `target`: `/:id`
 
 ## Raw JSON
 ```json
@@ -45,7 +48,7 @@
   "categories": [
     "finance"
   ],
-  "description": "::: tip\n栏目 id 留空则返回快讯，在对应页地址栏 `columnId=` 后可以看到。\n:::",
+  "description": "栏目 id 留空则返回快报，可在新站栏目地址 `https://www.barrons.com.cn/column/121` 中找到栏目 id，例如 `121` 为选股、`4891` 为财富。付费文章只返回源站公开提供的预览内容。",
   "example": "/barronschina",
   "features": {
     "antiCrawler": false,
@@ -68,9 +71,16 @@
   "radar": [
     {
       "source": [
-        "barronschina.com.cn/"
+        "www.barrons.com.cn/",
+        "www.barrons.com.cn/news"
       ],
-      "target": "/:category?"
+      "target": "/"
+    },
+    {
+      "source": [
+        "www.barrons.com.cn/column/:id"
+      ],
+      "target": "/:id"
     }
   ],
   "test": {
@@ -91,6 +101,6 @@
       "url": "rsshub://barronschina"
     }
   ],
-  "url": "barronschina.com.cn/"
+  "url": "www.barrons.com.cn"
 }
 ```

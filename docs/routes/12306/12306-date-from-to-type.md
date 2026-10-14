@@ -8,7 +8,7 @@
 - Namespace Name: `12306`
 - Route Path: `/12306/:date/:from/:to/:type?`
 - Route Name: `售票信息`
-- Example: `/12306/2022-02-19/重庆/永川东`
+- Example: `/12306/tomorrow/重庆/永川东`
 - URL: `kyfw.12306.cn`
 - Language: `_None_`
 - Categories: `travel`
@@ -20,7 +20,7 @@
 _None_
 
 ## Parameters
-- `date`: 时间，格式为（YYYY-MM-DD）
+- `date`: 时间，格式为 YYYY-MM-DD，也支持 today（今天）和 tomorrow（明天），使用中国标准时间
 - `from`: 始发站
 - `to`: 终点站
 - `type`: 售票类型，成人和学生可选，默认为成人
@@ -43,7 +43,7 @@ _None_
   "categories": [
     "travel"
   ],
-  "example": "/12306/2022-02-19/重庆/永川东",
+  "example": "/12306/tomorrow/重庆/永川东",
   "features": {
     "antiCrawler": false,
     "requireConfig": false,
@@ -59,7 +59,7 @@ _None_
   ],
   "name": "售票信息",
   "parameters": {
-    "date": "时间，格式为（YYYY-MM-DD）",
+    "date": "时间，格式为 YYYY-MM-DD，也支持 today（今天）和 tomorrow（明天），使用中国标准时间",
     "from": "始发站",
     "to": "终点站",
     "type": "售票类型，成人和学生可选，默认为成人"

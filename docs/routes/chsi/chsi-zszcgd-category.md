@@ -26,7 +26,7 @@
 
 
 ## Features
-_None_
+- `requirePuppeteer`: true
 
 ## Radar
 _None_
@@ -39,6 +39,9 @@ _None_
   ],
   "description": "| 招生政策 | 深化考试招生制度改革 | 教育法律法规 |\n| -------- | -------------------- | ------------ |\n| dnzszc   | zdgg                 | jyflfg       |",
   "example": "/chsi/zszcgd",
+  "features": {
+    "requirePuppeteer": true
+  },
   "heat": 0,
   "location": "zszcgd.ts",
   "maintainers": [

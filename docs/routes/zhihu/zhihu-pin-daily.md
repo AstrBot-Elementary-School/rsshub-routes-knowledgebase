@@ -1,4 +1,4 @@
-# 知乎 - 知乎想法 - 24 小时新闻汇总
+# 知乎 - 想法 - 24 小时新闻汇总
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `zhihu`
 - Namespace Name: `知乎`
 - Route Path: `/zhihu/pin/daily`
-- Route Name: `知乎想法 - 24 小时新闻汇总`
+- Route Name: `想法 - 24 小时新闻汇总`
 - Example: `/zhihu/pin/daily`
 - URL: `daily.zhihu.com/*`
 - Language: `_None_`
@@ -32,10 +32,7 @@ _None_
 - `supportScihub`: false
 
 ## Radar
-### Rule 1
-- `source`:
-  - `daily.zhihu.com/*`
-- `target`: `/daily`
+_None_
 
 ## Raw JSON
 ```json
@@ -57,17 +54,9 @@ _None_
   "maintainers": [
     "xyqfer"
   ],
-  "name": "知乎想法 - 24 小时新闻汇总",
+  "name": "想法 - 24 小时新闻汇总",
   "parameters": {},
   "path": "/pin/daily",
-  "radar": [
-    {
-      "source": [
-        "daily.zhihu.com/*"
-      ],
-      "target": "/daily"
-    }
-  ],
   "test": {
     "code": 1
   },

@@ -38,7 +38,7 @@
 - `source`:
   - `yicai.com/feed/:id`
   - `yicai.com/feed`
-- `target`: `/feed/:id`
+- `target`: `/feed/:id?`
 
 ## Raw JSON
 ```json
@@ -72,7 +72,7 @@
         "yicai.com/feed/:id",
         "yicai.com/feed"
       ],
-      "target": "/feed/:id"
+      "target": "/feed/:id?"
     }
   ],
   "test": {

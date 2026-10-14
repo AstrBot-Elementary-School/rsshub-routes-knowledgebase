@@ -1,15 +1,15 @@
-# X (Twitter) - User timeline - Sotwe
+# Sotwe - User timeline
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `sotwe`
-- Namespace Name: `X (Twitter)`
+- Namespace Name: `Sotwe`
 - Route Path: `/sotwe/user/:id`
-- Route Name: `User timeline - Sotwe`
+- Route Name: `User timeline`
 - Example: `/sotwe/user/_RSSHub`
-- URL: `x.com`
+- URL: `sotwe.com`
 - Language: `_None_`
 - Categories: `social-media`
 - Maintainers: `TonyRL`
@@ -57,7 +57,7 @@ _None_
   "maintainers": [
     "TonyRL"
   ],
-  "name": "User timeline - Sotwe",
+  "name": "User timeline",
   "parameters": {
     "id": "Twitter username"
   },

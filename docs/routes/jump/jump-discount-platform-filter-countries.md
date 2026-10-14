@@ -26,15 +26,15 @@
 | all    | ✔      | ✔   | ✔   | ✔     |
 | jx     | ✔      | ✔   | ❌  | ✔     |
 | sd     | ✔      | ✔   | ✔   | ✔     |
-| dl     | ❌     | ✔   | ❌  | ✔     |
-| vip    | ❌     | ❌  | ✔   | ❌    |
+| dl     | ❌     | ❌  | ❌  | ✔     |
+| vip    | ❌     | ✔   | ✔   | ❌    |
 
 | 北美 | 欧洲（英语） | 法国 | 德国 | 日本 |
 | ---- | ------------ | ---- | ---- | ---- |
 | na   | eu           | fr   | de   | jp   |
 
 ## Parameters
-- `platform`: 平台:switch,ps4,ps5,xbox,steam,epic
+- `platform`: 平台:switch,ps4,ps5,steam
 - `filter`: 过滤参数,all-全部，jx-精选，sd-史低，dl-独立，vip-会员
 - `countries`: 地区，具体支持较多，可自信查看地区简写
 
@@ -56,7 +56,7 @@ _None_
   "categories": [
     "game"
   ],
-  "description": "| switch | ps4  | ps5  | xbox   | steam | epic   |\n| ------ | ---- | ---- | ------ | ----- | ------ |\n| 可用   | 可用 | 可用 | 不可用 | 可用  | 不可用 |\n\n| filter | switch | ps4 | ps5 | steam |\n| ------ | ------ | --- | --- | ----- |\n| all    | ✔      | ✔   | ✔   | ✔     |\n| jx     | ✔      | ✔   | ❌  | ✔     |\n| sd     | ✔      | ✔   | ✔   | ✔     |\n| dl     | ❌     | ✔   | ❌  | ✔     |\n| vip    | ❌     | ❌  | ✔   | ❌    |\n\n| 北美 | 欧洲（英语） | 法国 | 德国 | 日本 |\n| ---- | ------------ | ---- | ---- | ---- |\n| na   | eu           | fr   | de   | jp   |",
+  "description": "| switch | ps4  | ps5  | xbox   | steam | epic   |\n| ------ | ---- | ---- | ------ | ----- | ------ |\n| 可用   | 可用 | 可用 | 不可用 | 可用  | 不可用 |\n\n| filter | switch | ps4 | ps5 | steam |\n| ------ | ------ | --- | --- | ----- |\n| all    | ✔      | ✔   | ✔   | ✔     |\n| jx     | ✔      | ✔   | ❌  | ✔     |\n| sd     | ✔      | ✔   | ✔   | ✔     |\n| dl     | ❌     | ❌  | ❌  | ✔     |\n| vip    | ❌     | ✔   | ✔   | ❌    |\n\n| 北美 | 欧洲（英语） | 法国 | 德国 | 日本 |\n| ---- | ------------ | ---- | ---- | ---- |\n| na   | eu           | fr   | de   | jp   |",
   "example": "/jump/discount/ps5/all",
   "features": {
     "antiCrawler": false,
@@ -75,7 +75,7 @@ _None_
   "parameters": {
     "countries": "地区，具体支持较多，可自信查看地区简写",
     "filter": "过滤参数,all-全部，jx-精选，sd-史低，dl-独立，vip-会员",
-    "platform": "平台:switch,ps4,ps5,xbox,steam,epic"
+    "platform": "平台:switch,ps4,ps5,steam"
   },
   "path": "/discount/:platform/:filter?/:countries?",
   "test": {

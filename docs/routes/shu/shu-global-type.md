@@ -37,8 +37,11 @@
 ### Rule 1
 - `source`:
   - `global.shu.edu.cn/cd/tzgg.htm`
+- `target`: `/global/tzgg`
+### Rule 2
+- `source`:
   - `global.shu.edu.cn/cd/xwsd.htm`
-- `target`: `/global`
+- `target`: `/global/xwsd`
 
 ## Raw JSON
 ```json
@@ -69,10 +72,15 @@
   "radar": [
     {
       "source": [
-        "global.shu.edu.cn/cd/tzgg.htm",
+        "global.shu.edu.cn/cd/tzgg.htm"
+      ],
+      "target": "/global/tzgg"
+    },
+    {
+      "source": [
         "global.shu.edu.cn/cd/xwsd.htm"
       ],
-      "target": "/global"
+      "target": "/global/xwsd"
     }
   ],
   "test": {

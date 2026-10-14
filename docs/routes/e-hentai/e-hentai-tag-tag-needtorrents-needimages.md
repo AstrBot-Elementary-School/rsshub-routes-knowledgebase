@@ -36,7 +36,6 @@
 ### Rule 1
 - `source`:
   - `e-hentai.org/tag/:tag`
-  - `e-hentai.org/`
 - `target`: `/tag/:tag`
 
 ## Raw JSON
@@ -65,8 +64,7 @@
   "radar": [
     {
       "source": [
-        "e-hentai.org/tag/:tag",
-        "e-hentai.org/"
+        "e-hentai.org/tag/:tag"
       ],
       "target": "/tag/:tag"
     }

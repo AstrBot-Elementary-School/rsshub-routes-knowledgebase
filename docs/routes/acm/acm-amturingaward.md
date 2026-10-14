@@ -24,7 +24,7 @@ _None_
 
 
 ## Features
-_None_
+- `antiCrawler`: true
 
 ## Radar
 _None_
@@ -36,6 +36,9 @@ _None_
     "programming"
   ],
   "example": "/acm/amturingaward",
+  "features": {
+    "antiCrawler": true
+  },
   "heat": 1,
   "location": "amturingaward.ts",
   "maintainers": [

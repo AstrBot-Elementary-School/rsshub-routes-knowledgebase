@@ -20,7 +20,7 @@
 _None_
 
 ## Parameters
-- `slug`: {"default": "all", "description": "Series slug, e.g. nfl, nba, mlb. If omitted, lists all series."}
+- `slug`: {"description": "Series slug, e.g. nfl, nba, mlb. If omitted, lists all series."}
 
 
 ## Features
@@ -60,7 +60,6 @@ _None_
   "name": "Series",
   "parameters": {
     "slug": {
-      "default": "all",
       "description": "Series slug, e.g. nfl, nba, mlb. If omitted, lists all series."
     }
   },

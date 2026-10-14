@@ -98,16 +98,16 @@
       "url": "rsshub://douyu/group/534"
     },
     {
-      "description": "洞主的鱼吧 - Powered by RSSHub",
+      "description": "寅子的鱼吧 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "69260526927299584",
+      "id": "185721495210266624",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://yuba.douyu.com/group/newall/199511",
-      "title": "斗鱼鱼吧 - 洞主丨歌神洞庭湖",
+      "siteUrl": "https://yuba.douyu.com/group/newself/561",
+      "title": "斗鱼鱼吧 - 寅子",
       "type": "feed",
-      "url": "rsshub://douyu/group/199511/1"
+      "url": "rsshub://douyu/group/561"
     }
   ]
 }

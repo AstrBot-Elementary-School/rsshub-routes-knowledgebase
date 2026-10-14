@@ -64,7 +64,7 @@ Language
 - `source`:
   - `zh.myfigurecollection.net/browse`
   - `zh.myfigurecollection.net/`
-- `target`: `/:category?/:language?`
+- `target`: `/activity/:category?/:language?`
 
 ## Raw JSON
 ```json
@@ -103,7 +103,7 @@ Language
         "zh.myfigurecollection.net/browse",
         "zh.myfigurecollection.net/"
       ],
-      "target": "/:category?/:language?"
+      "target": "/activity/:category?/:language?"
     }
   ],
   "test": {

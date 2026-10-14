@@ -76,7 +76,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 38,
+  "heat": 39,
   "location": "yjxx.ts",
   "maintainers": [
     "muzea",
@@ -116,8 +116,8 @@
     },
     {
       "description": "国家应急广播 - 预警信息 - Powered by RSSHub",
-      "errorAt": "2026-10-12T13:32:44.977Z",
-      "errorMessage": "503 \n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "62187667731240974",
       "image": null,
       "ownerUserId": null,

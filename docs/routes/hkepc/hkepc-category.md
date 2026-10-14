@@ -1,4 +1,4 @@
-# HKEPC - HKEPC 电脑领域
+# HKEPC - 电脑领域
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `hkepc`
 - Namespace Name: `HKEPC`
 - Route Path: `/hkepc/:category?`
-- Route Name: `HKEPC 电脑领域`
+- Route Name: `电脑领域`
 - Example: `/hkepc/news`
 - URL: `hkepc.com/`
 - Language: `_None_`
@@ -60,7 +60,7 @@
   "maintainers": [
     "TonyRL"
   ],
-  "name": "HKEPC 电脑领域",
+  "name": "电脑领域",
   "parameters": {
     "category": "分类，见下表，默认为最新消息"
   },

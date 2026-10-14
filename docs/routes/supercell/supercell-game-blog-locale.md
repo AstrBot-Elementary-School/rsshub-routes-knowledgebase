@@ -61,7 +61,8 @@ Language codes
 ### Rule 1
 - `source`:
   - `supercell.com/en/games/:game/:locale/blog`
-- `target`: `/:game/blog/:locale`
+  - `supercell.com/en/games/:game/blog`
+- `target`: `/:game/blog/:locale?`
 
 ## Raw JSON
 ```json
@@ -93,9 +94,10 @@ Language codes
   "radar": [
     {
       "source": [
-        "supercell.com/en/games/:game/:locale/blog"
+        "supercell.com/en/games/:game/:locale/blog",
+        "supercell.com/en/games/:game/blog"
       ],
-      "target": "/:game/blog/:locale"
+      "target": "/:game/blog/:locale?"
     }
   ],
   "test": {

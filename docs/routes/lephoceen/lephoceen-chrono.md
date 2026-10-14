@@ -1,4 +1,4 @@
-# Le Phocéen - Fil Info Le Phocéen (Chrono)
+# Le Phocéen - Fil Info (Chrono)
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `lephoceen`
 - Namespace Name: `Le Phocéen`
 - Route Path: `/lephoceen/chrono`
-- Route Name: `Fil Info Le Phocéen (Chrono)`
+- Route Name: `Fil Info (Chrono)`
 - Example: `/lephoceen/chrono`
 - URL: `lephoceen.fr`
 - Language: `_None_`
@@ -57,7 +57,7 @@ _None_
   "maintainers": [
     "Loopy03"
   ],
-  "name": "Fil Info Le Phocéen (Chrono)",
+  "name": "Fil Info (Chrono)",
   "parameters": {},
   "path": "/chrono",
   "radar": [

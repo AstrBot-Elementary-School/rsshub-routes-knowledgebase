@@ -34,7 +34,16 @@ Supported types: Ideas, Guides, and Films.
 ## Radar
 ### Rule 1
 - `source`:
-  - `psyche.co/:type`
+  - `psyche.co/ideas`
+- `target`: `/type/ideas`
+### Rule 2
+- `source`:
+  - `psyche.co/guides`
+- `target`: `/type/guides`
+### Rule 3
+- `source`:
+  - `psyche.co/films`
+- `target`: `/type/films`
 
 ## Raw JSON
 ```json
@@ -65,8 +74,21 @@ Supported types: Ideas, Guides, and Films.
   "radar": [
     {
       "source": [
-        "psyche.co/:type"
-      ]
+        "psyche.co/ideas"
+      ],
+      "target": "/type/ideas"
+    },
+    {
+      "source": [
+        "psyche.co/guides"
+      ],
+      "target": "/type/guides"
+    },
+    {
+      "source": [
+        "psyche.co/films"
+      ],
+      "target": "/type/films"
     }
   ],
   "test": {

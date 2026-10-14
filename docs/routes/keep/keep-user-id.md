@@ -34,7 +34,8 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `gotokeep.com/users/:id`
+  - `show.gotokeep.com/users/:id`
+- `target`: `/user/:id`
 
 ## Raw JSON
 ```json
@@ -65,8 +66,9 @@ _None_
   "radar": [
     {
       "source": [
-        "gotokeep.com/users/:id"
-      ]
+        "show.gotokeep.com/users/:id"
+      ],
+      "target": "/user/:id"
     }
   ],
   "test": {

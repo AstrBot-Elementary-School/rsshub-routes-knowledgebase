@@ -1,11 +1,11 @@
-# cpcaauto.com - 文章
+# 中国汽车流通协会汽车市场研究分会 - 文章
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `cpcaauto`
-- Namespace Name: `cpcaauto.com`
+- Namespace Name: `中国汽车流通协会汽车市场研究分会`
 - Route Path: `/cpcaauto/news/:type?/:id?`
 - Route Name: `文章`
 - Example: `/cpcaauto/news/news`
@@ -57,7 +57,7 @@
 
 ## Parameters
 - `type`: 分类，默认为 news，可在对应分类页 URL 中找到
-- `id`: id，默认为 news，可在对应分类页 URL 中找到
+- `id`: 子分类 ID，对应分类页 URL 中的 anid；不填时返回该分类下的全部内容
 
 
 ## Features
@@ -72,7 +72,9 @@
 ## Radar
 ### Rule 1
 - `source`:
+  - `cpcaauto.com/`
   - `cpcaauto.com/news.php`
+- `target`: `/news/news`
 ### Rule 2
 - `title`: `行业新闻 - 国内乘用车`
 - `source`:
@@ -208,15 +210,17 @@
   ],
   "name": "文章",
   "parameters": {
-    "id": "id，默认为 news，可在对应分类页 URL 中找到",
+    "id": "子分类 ID，对应分类页 URL 中的 anid；不填时返回该分类下的全部内容",
     "type": "分类，默认为 news，可在对应分类页 URL 中找到"
   },
   "path": "/news/:type?/:id?",
   "radar": [
     {
       "source": [
+        "cpcaauto.com/",
         "cpcaauto.com/news.php"
-      ]
+      ],
+      "target": "/news/news"
     },
     {
       "source": [

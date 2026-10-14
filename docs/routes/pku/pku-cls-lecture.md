@@ -9,7 +9,7 @@
 - Route Path: `/pku/cls/lecture`
 - Route Name: `生命科学学院近期讲座`
 - Example: `/pku/cls/lecture`
-- URL: `bio.pku.edu.cn/homes/Index/news_jz/7/7.html`
+- URL: `www.bio.pku.edu.cn/homes/Index/news_jz/7/7.html`
 - Language: `_None_`
 - Categories: `university`
 - Maintainers: `TPOB`
@@ -34,8 +34,8 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `bio.pku.edu.cn/homes/Index/news_jz/7/7.html`
-  - `bio.pku.edu.cn/`
+  - `www.bio.pku.edu.cn/homes/Index/news_jz/7/7.html`
+  - `www.bio.pku.edu.cn/`
 
 ## Raw JSON
 ```json
@@ -63,8 +63,8 @@ _None_
   "radar": [
     {
       "source": [
-        "bio.pku.edu.cn/homes/Index/news_jz/7/7.html",
-        "bio.pku.edu.cn/"
+        "www.bio.pku.edu.cn/homes/Index/news_jz/7/7.html",
+        "www.bio.pku.edu.cn/"
       ]
     }
   ],
@@ -85,6 +85,6 @@ _None_
       "url": "rsshub://pku/cls/lecture"
     }
   ],
-  "url": "bio.pku.edu.cn/homes/Index/news_jz/7/7.html"
+  "url": "www.bio.pku.edu.cn/homes/Index/news_jz/7/7.html"
 }
 ```

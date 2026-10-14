@@ -30,7 +30,7 @@ If you subscribe to [Trends & Insights (China)](https://www.joneslanglasalle.com
 
 ## Parameters
 - `language`: Language, `zh` for China Mainland Chinese, `en` for China Mainland English, `zh-hk` for Hong Kong Chinese, `en-hk` for Hong Kong English, `zh` by default
-- `category`: Category, `trends-and-insights` by default
+- `category`: Legacy compatibility segment. The current insights API selects content by language; this segment does not filter a category.
 
 
 ## Features
@@ -44,23 +44,20 @@ If you subscribe to [Trends & Insights (China)](https://www.joneslanglasalle.com
 
 ## Radar
 ### Rule 1
-- `source`:
-  - `joneslanglasalle.com.cn/:language/:category`
-### Rule 2
 - `title`: `Latest`
 - `source`:
   - `joneslanglasalle.com.cn/en-cn/insights`
 - `target`: `/en/trends-and-insights`
-### Rule 3
+### Rule 2
 - `title`: `房地产趋势与洞察`
 - `source`:
   - `joneslanglasalle.com.cn/zh-cn/insights`
 - `target`: `/zh/trends-and-insights`
-### Rule 4
+### Rule 3
 - `source`:
   - `jll.com/zh-hk/insights`
 - `target`: `/zh-hk/trends-and-insights`
-### Rule 5
+### Rule 4
 - `source`:
   - `jll.com/en-hk/insights`
 - `target`: `/en-hk/trends-and-insights`
@@ -90,16 +87,11 @@ If you subscribe to [Trends & Insights (China)](https://www.joneslanglasalle.com
   ],
   "name": "Trends & Insights",
   "parameters": {
-    "category": "Category, `trends-and-insights` by default",
+    "category": "Legacy compatibility segment. The current insights API selects content by language; this segment does not filter a category.",
     "language": "Language, `zh` for China Mainland Chinese, `en` for China Mainland English, `zh-hk` for Hong Kong Chinese, `en-hk` for Hong Kong English, `zh` by default"
   },
   "path": "/:language?/:category{.+}?",
   "radar": [
-    {
-      "source": [
-        "joneslanglasalle.com.cn/:language/:category"
-      ]
-    },
     {
       "source": [
         "joneslanglasalle.com.cn/en-cn/insights"
@@ -150,7 +142,7 @@ If you subscribe to [Trends & Insights (China)](https://www.joneslanglasalle.com
     "description": "::: tip\n若订阅 [中国大陆洞察](https://www.joneslanglasalle.com.cn/zh-cn/insights)，语言参数为 `zh`。若订阅 [香港洞察](https://www.jll.com/zh-hk/insights)，语言参数为 `zh-hk`。\n:::\n\n| 地区     | 语言    | 参数  |\n| -------- | ------- | ----- |\n| 中国大陆 | 中文    | zh    |\n| 中国大陆 | English | en    |\n| 香港     | 中文    | zh-hk |\n| 香港     | English | en-hk |",
     "name": "房地产趋势与洞察",
     "parameters": {
-      "category": "分类，默认为 `trends-and-insights`",
+      "category": "兼容旧链接的可选路径段。当前洞察 API 按语言选择内容，此路径段不筛选分类。",
       "language": "语言，`zh` 为中国大陆中文，`en` 为中国大陆英文，`zh-hk` 为香港中文，`en-hk` 为香港英文，默认为 `zh`"
     }
   }

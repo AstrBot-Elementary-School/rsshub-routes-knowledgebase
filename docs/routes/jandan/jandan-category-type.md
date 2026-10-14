@@ -35,8 +35,32 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `i.jandan.net/:category`
-- `target`: `/jandan/:category?`
+  - `i.jandan.net/top`
+- `target`: `/top`
+### Rule 2
+- `source`:
+  - `i.jandan.net/qa`
+- `target`: `/qa`
+### Rule 3
+- `source`:
+  - `i.jandan.net/treehole`
+- `target`: `/treehole`
+### Rule 4
+- `source`:
+  - `i.jandan.net/ooxx`
+- `target`: `/ooxx`
+### Rule 5
+- `source`:
+  - `i.jandan.net/beauty`
+- `target`: `/beauty`
+### Rule 6
+- `source`:
+  - `i.jandan.net/pic`
+- `target`: `/pic`
+### Rule 7
+- `source`:
+  - `i.jandan.net/bbs`
+- `target`: `/bbs`
 
 ## Raw JSON
 ```json
@@ -121,9 +145,45 @@ _None_
   "radar": [
     {
       "source": [
-        "i.jandan.net/:category"
+        "i.jandan.net/top"
       ],
-      "target": "/jandan/:category?"
+      "target": "/top"
+    },
+    {
+      "source": [
+        "i.jandan.net/qa"
+      ],
+      "target": "/qa"
+    },
+    {
+      "source": [
+        "i.jandan.net/treehole"
+      ],
+      "target": "/treehole"
+    },
+    {
+      "source": [
+        "i.jandan.net/ooxx"
+      ],
+      "target": "/ooxx"
+    },
+    {
+      "source": [
+        "i.jandan.net/beauty"
+      ],
+      "target": "/beauty"
+    },
+    {
+      "source": [
+        "i.jandan.net/pic"
+      ],
+      "target": "/pic"
+    },
+    {
+      "source": [
+        "i.jandan.net/bbs"
+      ],
+      "target": "/bbs"
     }
   ],
   "test": {

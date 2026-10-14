@@ -34,8 +34,9 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `0daily.com/user/:id`
-  - `0daily.com/`
+  - `www.odaily.news/:locale/author/:id`
+  - `www.odaily.news/author/:id`
+- `target`: `/user/:id`
 
 ## Raw JSON
 ```json
@@ -65,9 +66,10 @@ _None_
   "radar": [
     {
       "source": [
-        "0daily.com/user/:id",
-        "0daily.com/"
-      ]
+        "www.odaily.news/:locale/author/:id",
+        "www.odaily.news/author/:id"
+      ],
+      "target": "/user/:id"
     }
   ],
   "test": {

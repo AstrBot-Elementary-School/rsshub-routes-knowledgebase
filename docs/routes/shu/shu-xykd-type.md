@@ -22,7 +22,7 @@
 | whxx     | xsbg     |
 
 ## Parameters
-- `type`: 分类，默认为学术公告
+- `type`: 分类，默认为学术报告
 
 
 ## Features
@@ -62,7 +62,7 @@
   ],
   "name": "校园看点",
   "parameters": {
-    "type": "分类，默认为学术公告"
+    "type": "分类，默认为学术报告"
   },
   "path": "/xykd/:type?",
   "radar": [

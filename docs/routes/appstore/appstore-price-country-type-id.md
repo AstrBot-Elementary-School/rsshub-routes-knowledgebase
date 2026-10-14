@@ -8,7 +8,7 @@
 - Namespace Name: `App Store/Mac App Store`
 - Route Path: `/appstore/price/:country/:type/:id`
 - Route Name: `Price Drop`
-- Example: `/appstore/price/us/mac/id1152443474`
+- Example: `/appstore/price/us/mac/id441258766`
 - URL: `apps.apple.com/`
 - Language: `_None_`
 - Categories: `program-update`
@@ -20,9 +20,9 @@
 _None_
 
 ## Parameters
-- `country`: App Store Country, obtain from the app URL https://apps.apple.com/us/app/id1152443474, in this case, `us`
+- `country`: App Store Country, obtain from the app URL https://apps.apple.com/us/app/id441258766, in this case, `us`
 - `type`: App type，either `iOS` or `mac`
-- `id`: App Store app id, obtain from the app URL https://apps.apple.com/us/app/id1152443474, in this case, `id1152443474`
+- `id`: App Store app id, obtain from the app URL https://apps.apple.com/us/app/id441258766, in this case, `id441258766`
 
 
 ## Features
@@ -44,7 +44,7 @@ _None_
   "categories": [
     "program-update"
   ],
-  "example": "/appstore/price/us/mac/id1152443474",
+  "example": "/appstore/price/us/mac/id441258766",
   "features": {
     "antiCrawler": false,
     "requireConfig": false,
@@ -60,8 +60,8 @@ _None_
   ],
   "name": "Price Drop",
   "parameters": {
-    "country": "App Store Country, obtain from the app URL https://apps.apple.com/us/app/id1152443474, in this case, `us`",
-    "id": "App Store app id, obtain from the app URL https://apps.apple.com/us/app/id1152443474, in this case, `id1152443474`",
+    "country": "App Store Country, obtain from the app URL https://apps.apple.com/us/app/id441258766, in this case, `us`",
+    "id": "App Store app id, obtain from the app URL https://apps.apple.com/us/app/id441258766, in this case, `id441258766`",
     "type": "App type，either `iOS` or `mac`"
   },
   "path": "/price/:country/:type/:id",

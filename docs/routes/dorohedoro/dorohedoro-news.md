@@ -11,7 +11,7 @@
 - Example: `/dorohedoro/news`
 - URL: `dorohedoro.net/news`
 - Language: `_None_`
-- Categories: `game`
+- Categories: `anime`
 - Maintainers: `nczitzk`
 - Source Location: `news.ts`
 - Source Module: `_None_`
@@ -41,7 +41,7 @@ _None_
 ```json
 {
   "categories": [
-    "game"
+    "anime"
   ],
   "example": "/dorohedoro/news",
   "features": {

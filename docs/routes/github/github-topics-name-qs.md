@@ -41,7 +41,7 @@ For instance, the `/github/topics/framework/l=php&o=desc&s=stars` route will gen
 ## Radar
 ### Rule 1
 - `source`:
-  - `github.com/topics`
+  - `github.com/topics/:name`
 
 ## Raw JSON
 ```json
@@ -73,7 +73,7 @@ For instance, the `/github/topics/framework/l=php&o=desc&s=stars` route will gen
   "radar": [
     {
       "source": [
-        "github.com/topics"
+        "github.com/topics/:name"
       ]
     }
   ],

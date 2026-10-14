@@ -10,7 +10,7 @@
 
 ## Routes
 
-### Link3 Events
+### Events
 - Route ID: `link3:/link3/events`
 - Route Path: `/link3/events`
 - File: `docs/routes/link3/link3-events.md`
@@ -18,7 +18,7 @@
 - Categories: `other`
 - Maintainers: `cxheng315`
 
-### Link3 Profile
+### Profile
 - Route ID: `link3:/link3/profile/:handle`
 - Route Path: `/link3/profile/:handle`
 - File: `docs/routes/link3/link3-profile-handle.md`

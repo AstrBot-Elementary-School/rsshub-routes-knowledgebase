@@ -36,8 +36,19 @@
 ## Radar
 ### Rule 1
 - `source`:
-  - `swrh.whu.edu.cn/:type`
-- `target`: `/swrh/:type`
+  - `swrh.whu.edu.cn/index/xyxw.htm`
+  - `swrh.whu.edu.cn/0`
+- `target`: `/swrh/0`
+### Rule 2
+- `source`:
+  - `swrh.whu.edu.cn/index/xsky.htm`
+  - `swrh.whu.edu.cn/1`
+- `target`: `/swrh/1`
+### Rule 3
+- `source`:
+  - `swrh.whu.edu.cn/xxgk/tzgg.htm`
+  - `swrh.whu.edu.cn/2`
+- `target`: `/swrh/2`
 
 ## Raw JSON
 ```json
@@ -68,9 +79,24 @@
   "radar": [
     {
       "source": [
-        "swrh.whu.edu.cn/:type"
+        "swrh.whu.edu.cn/index/xyxw.htm",
+        "swrh.whu.edu.cn/0"
       ],
-      "target": "/swrh/:type"
+      "target": "/swrh/0"
+    },
+    {
+      "source": [
+        "swrh.whu.edu.cn/index/xsky.htm",
+        "swrh.whu.edu.cn/1"
+      ],
+      "target": "/swrh/1"
+    },
+    {
+      "source": [
+        "swrh.whu.edu.cn/xxgk/tzgg.htm",
+        "swrh.whu.edu.cn/2"
+      ],
+      "target": "/swrh/2"
     }
   ],
   "test": {

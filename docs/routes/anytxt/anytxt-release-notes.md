@@ -36,7 +36,7 @@ _None_
 ### Rule 1
 - `source`:
   - `anytxt.net`
-- `target`: `/anytxt/release-notes`
+- `target`: `/release-notes`
 
 ## Raw JSON
 ```json
@@ -66,7 +66,7 @@ _None_
       "source": [
         "anytxt.net"
       ],
-      "target": "/anytxt/release-notes"
+      "target": "/release-notes"
     }
   ],
   "test": {

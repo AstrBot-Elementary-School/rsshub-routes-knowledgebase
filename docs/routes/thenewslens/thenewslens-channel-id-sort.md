@@ -20,7 +20,7 @@
 _None_
 
 ## Parameters
-- `id`: 标签 id，可在对应标签页 URL 中找到
+- `id`: 频道 id，可在对应频道页 URL 中找到
 - `sort`: 排序方式，同上表，可在对应排序页 URL 中找到
 
 
@@ -30,7 +30,8 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `thenewslens.com/channel/:id/:sort?`
+  - `thenewslens.com/channel/:id/*sort`
+  - `thenewslens.com/channel/:id`
   - `thenewslens.com/`
 - `target`: `/channel/:id/:sort?`
 
@@ -48,14 +49,15 @@ _None_
   ],
   "name": "频道",
   "parameters": {
-    "id": "标签 id，可在对应标签页 URL 中找到",
+    "id": "频道 id，可在对应频道页 URL 中找到",
     "sort": "排序方式，同上表，可在对应排序页 URL 中找到"
   },
   "path": "/channel/:id/:sort{.+}?",
   "radar": [
     {
       "source": [
-        "thenewslens.com/channel/:id/:sort?",
+        "thenewslens.com/channel/:id/*sort",
+        "thenewslens.com/channel/:id",
         "thenewslens.com/"
       ],
       "target": "/channel/:id/:sort?"

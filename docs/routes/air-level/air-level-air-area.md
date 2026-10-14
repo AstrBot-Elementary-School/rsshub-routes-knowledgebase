@@ -30,6 +30,7 @@ _None_
 ### Rule 1
 - `source`:
   - `m.air-level.com/air/:area/`
+  - `www.air-level.com/air/:area/`
 - `target`: `/air/:area`
 
 ## Raw JSON
@@ -52,7 +53,8 @@ _None_
   "radar": [
     {
       "source": [
-        "m.air-level.com/air/:area/"
+        "m.air-level.com/air/:area/",
+        "www.air-level.com/air/:area/"
       ],
       "target": "/air/:area"
     }

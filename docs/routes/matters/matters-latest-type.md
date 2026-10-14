@@ -22,7 +22,7 @@
 | latest | heat | essence |
 
 ## Parameters
-- `uid`: Defaults to latest, see table below
+- `type`: Defaults to latest, see table below
 
 
 ## Features
@@ -50,7 +50,7 @@ _None_
   ],
   "name": "Latest, heat, essence",
   "parameters": {
-    "uid": "Defaults to latest, see table below"
+    "type": "Defaults to latest, see table below"
   },
   "path": "/latest/:type?",
   "radar": [

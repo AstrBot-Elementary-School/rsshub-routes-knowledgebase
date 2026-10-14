@@ -36,8 +36,32 @@
 ## Radar
 ### Rule 1
 - `source`:
-  - `lib.tsinghua.edu.cn/tzgg/:category`
   - `lib.tsinghua.edu.cn/tzgg.htm`
+- `target`: `/lib/tzgg`
+### Rule 2
+- `source`:
+  - `lib.tsinghua.edu.cn/tzgg/kgtz.htm`
+- `target`: `/lib/tzgg/kgtz`
+### Rule 3
+- `source`:
+  - `lib.tsinghua.edu.cn/tzgg/sgwx.htm`
+- `target`: `/lib/tzgg/sgwx`
+### Rule 4
+- `source`:
+  - `lib.tsinghua.edu.cn/tzgg/fwtz.htm`
+- `target`: `/lib/tzgg/fwtz`
+### Rule 5
+- `source`:
+  - `lib.tsinghua.edu.cn/tzgg/wgtb.htm`
+- `target`: `/lib/tzgg/wgtb`
+### Rule 6
+- `source`:
+  - `lib.tsinghua.edu.cn/tzgg/qtkx.htm`
+- `target`: `/lib/tzgg/qtkx`
+### Rule 7
+- `source`:
+  - `lib.tsinghua.edu.cn/tzgg/gjtz.htm`
+- `target`: `/lib/tzgg/gjtz`
 
 ## Raw JSON
 ```json
@@ -69,9 +93,45 @@
   "radar": [
     {
       "source": [
-        "lib.tsinghua.edu.cn/tzgg/:category",
         "lib.tsinghua.edu.cn/tzgg.htm"
-      ]
+      ],
+      "target": "/lib/tzgg"
+    },
+    {
+      "source": [
+        "lib.tsinghua.edu.cn/tzgg/kgtz.htm"
+      ],
+      "target": "/lib/tzgg/kgtz"
+    },
+    {
+      "source": [
+        "lib.tsinghua.edu.cn/tzgg/sgwx.htm"
+      ],
+      "target": "/lib/tzgg/sgwx"
+    },
+    {
+      "source": [
+        "lib.tsinghua.edu.cn/tzgg/fwtz.htm"
+      ],
+      "target": "/lib/tzgg/fwtz"
+    },
+    {
+      "source": [
+        "lib.tsinghua.edu.cn/tzgg/wgtb.htm"
+      ],
+      "target": "/lib/tzgg/wgtb"
+    },
+    {
+      "source": [
+        "lib.tsinghua.edu.cn/tzgg/qtkx.htm"
+      ],
+      "target": "/lib/tzgg/qtkx"
+    },
+    {
+      "source": [
+        "lib.tsinghua.edu.cn/tzgg/gjtz.htm"
+      ],
+      "target": "/lib/tzgg/gjtz"
     }
   ],
   "test": {

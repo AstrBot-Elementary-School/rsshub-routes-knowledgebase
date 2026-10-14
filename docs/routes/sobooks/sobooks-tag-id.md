@@ -9,7 +9,7 @@
 - Route Path: `/sobooks/tag/:id?`
 - Route Name: `标签`
 - Example: `/sobooks/tag/小说`
-- URL: `sobooks.net`
+- URL: `sobooks.cc`
 - Language: `_None_`
 - Categories: `reading`
 - Maintainers: `nczitzk`
@@ -44,6 +44,10 @@
 - `source`:
   - `sobooks.net/books/tag/:tag`
 - `target`: `/tag/:tag`
+### Rule 2
+- `source`:
+  - `sobooks.cc/books/tag/:tag`
+- `target`: `/tag/:tag`
 
 ## Raw JSON
 ```json
@@ -75,6 +79,12 @@
     {
       "source": [
         "sobooks.net/books/tag/:tag"
+      ],
+      "target": "/tag/:tag"
+    },
+    {
+      "source": [
+        "sobooks.cc/books/tag/:tag"
       ],
       "target": "/tag/:tag"
     }

@@ -38,7 +38,7 @@ _None_
   - `www.alicesoft.com/information`
   - `www.alicesoft.com/information/:category`
   - `www.alicesoft.com/information/:category/:game`
-- `target`: `/information/:category/:game`
+- `target`: `/information/:category?/:game?`
 
 ## Raw JSON
 ```json
@@ -73,7 +73,7 @@ _None_
         "www.alicesoft.com/information/:category",
         "www.alicesoft.com/information/:category/:game"
       ],
-      "target": "/information/:category/:game"
+      "target": "/information/:category?/:game?"
     }
   ],
   "test": {

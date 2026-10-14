@@ -18,10 +18,10 @@
 
 ## Description
 ::: tip
-若订阅 [列表](https://www.fangchan.com/)，网址为 `https://www.fangchan.com/`，请截取 `https://www.fangchan.com/` 到末尾 `.html` 的部分 `datalist` 作为 `id` 参数填入，此时目标路由为 [`/fangchan/datalist`](https://rsshub.app/fangchan/datalist)。
+若订阅 [数据研究](http://www.fangchan.com/datalist/)，可将分类页 URL 中的 `datalist` 填入 `id` 参数，对应路由为 [`/fangchan/list/datalist`](https://rsshub.app/fangchan/list/datalist)。
 :::
 
-| [数据研究](https://www.fangchan.com/datalist)         | [行业测评](https://www.fangchan.com/industrylist)             | [政策法规](https://www.fangchan.com/policylist)           |
+| [数据研究](http://www.fangchan.com/datalist/)         | [行业测评](http://www.fangchan.com/industrylist/)             | [政策法规](http://www.fangchan.com/policylist/)           |
 | ----------------------------------------------------- | ------------------------------------------------------------- | --------------------------------------------------------- |
 | [datalist](https://rsshub.app/fangchan/list/datalist) | [industrylist](https://rsshub.app/fangchan/list/industrylist) | [policylist](https://rsshub.app/fangchan/list/policylist) |
 
@@ -41,7 +41,8 @@
 ## Radar
 ### Rule 1
 - `source`:
-  - `www.fangchan.com/:id`
+  - `www.fangchan.com/`
+- `target`: `/list`
 ### Rule 2
 - `title`: `数据研究`
 - `source`:
@@ -64,7 +65,7 @@
   "categories": [
     "new-media"
   ],
-  "description": "::: tip\n若订阅 [列表](https://www.fangchan.com/)，网址为 `https://www.fangchan.com/`，请截取 `https://www.fangchan.com/` 到末尾 `.html` 的部分 `datalist` 作为 `id` 参数填入，此时目标路由为 [`/fangchan/datalist`](https://rsshub.app/fangchan/datalist)。\n:::\n\n| [数据研究](https://www.fangchan.com/datalist)         | [行业测评](https://www.fangchan.com/industrylist)             | [政策法规](https://www.fangchan.com/policylist)           |\n| ----------------------------------------------------- | ------------------------------------------------------------- | --------------------------------------------------------- |\n| [datalist](https://rsshub.app/fangchan/list/datalist) | [industrylist](https://rsshub.app/fangchan/list/industrylist) | [policylist](https://rsshub.app/fangchan/list/policylist) |",
+  "description": "::: tip\n若订阅 [数据研究](http://www.fangchan.com/datalist/)，可将分类页 URL 中的 `datalist` 填入 `id` 参数，对应路由为 [`/fangchan/list/datalist`](https://rsshub.app/fangchan/list/datalist)。\n:::\n\n| [数据研究](http://www.fangchan.com/datalist/)         | [行业测评](http://www.fangchan.com/industrylist/)             | [政策法规](http://www.fangchan.com/policylist/)           |\n| ----------------------------------------------------- | ------------------------------------------------------------- | --------------------------------------------------------- |\n| [datalist](https://rsshub.app/fangchan/list/datalist) | [industrylist](https://rsshub.app/fangchan/list/industrylist) | [policylist](https://rsshub.app/fangchan/list/policylist) |",
   "example": "/fangchan/list/datalist",
   "features": {
     "antiCrawler": false,
@@ -104,8 +105,9 @@
   "radar": [
     {
       "source": [
-        "www.fangchan.com/:id"
-      ]
+        "www.fangchan.com/"
+      ],
+      "target": "/list"
     },
     {
       "source": [

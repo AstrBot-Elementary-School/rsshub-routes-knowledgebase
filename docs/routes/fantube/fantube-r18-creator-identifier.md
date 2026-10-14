@@ -24,6 +24,7 @@ _None_
 
 
 ## Features
+- `nsfw`: true
 - `requireConfig`: false
 - `requirePuppeteer`: false
 - `antiCrawler`: false
@@ -45,6 +46,7 @@ _None_
   "example": "/fantube/r18/creator/miyuu",
   "features": {
     "antiCrawler": false,
+    "nsfw": true,
     "requireConfig": false,
     "requirePuppeteer": false,
     "supportBT": false,

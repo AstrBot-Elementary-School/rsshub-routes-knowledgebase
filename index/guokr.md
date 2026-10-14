@@ -10,7 +10,7 @@
 
 ## Routes
 
-### 果壳网专栏
+### 专栏
 - Route ID: `guokr:/guokr/column/:channel`
 - Route Path: `/guokr/column/:channel`
 - File: `docs/routes/guokr/guokr-column-channel.md`

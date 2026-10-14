@@ -82,22 +82,27 @@
 ### Rule 1
 - `source`:
   - `www.iresearch.com.cn/report.shtml`
+- `target`: `/report`
 ### Rule 2
 - `title`: `最新报告`
 - `source`:
   - `www.iresearch.com.cn/report.shtml`
+- `target`: `/report/1`
 ### Rule 3
 - `title`: `研究图表`
 - `source`:
   - `www.iresearch.com.cn/report.shtml`
+- `target`: `/report/4`
 ### Rule 4
 - `title`: `周度市场观察`
 - `source`:
   - `www.iresearch.com.cn/report.shtml`
+- `target`: `/report/3`
 ### Rule 5
 - `title`: `热门报告`
 - `source`:
   - `www.iresearch.com.cn/report.shtml`
+- `target`: `/report/2`
 ### Rule 6
 - `title`: `周度市场观察 - 家电行业`
 - `source`:
@@ -422,30 +427,35 @@
     {
       "source": [
         "www.iresearch.com.cn/report.shtml"
-      ]
+      ],
+      "target": "/report"
     },
     {
       "source": [
         "www.iresearch.com.cn/report.shtml"
       ],
+      "target": "/report/1",
       "title": "最新报告"
     },
     {
       "source": [
         "www.iresearch.com.cn/report.shtml"
       ],
+      "target": "/report/4",
       "title": "研究图表"
     },
     {
       "source": [
         "www.iresearch.com.cn/report.shtml"
       ],
+      "target": "/report/3",
       "title": "周度市场观察"
     },
     {
       "source": [
         "www.iresearch.com.cn/report.shtml"
       ],
+      "target": "/report/2",
       "title": "热门报告"
     },
     {

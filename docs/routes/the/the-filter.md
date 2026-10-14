@@ -56,61 +56,62 @@
 ### Rule 1
 - `source`:
   - `river.to/occasus/:category?`
+- `target`: `/:category?`
 ### Rule 2
 - `title`: `时局`
 - `source`:
   - `river.to/occasus/rawj7o4ypewv94`
-- `target`: `/the/category/rawj7o4ypewv94`
+- `target`: `/category/rawj7o4ypewv94`
 ### Rule 3
 - `title`: `剩余价值`
 - `source`:
   - `river.to/occasus/rawmw7dsta2jew`
-- `target`: `/the/category/rawmw7dsta2jew`
+- `target`: `/category/rawmw7dsta2jew`
 ### Rule 4
 - `title`: `Beijing`
 - `source`:
   - `river.to/occasus/rawbcvxkktdkq8`
-- `target`: `/the/category/rawbcvxkktdkq8`
+- `target`: `/category/rawbcvxkktdkq8`
 ### Rule 5
 - `title`: `稳中向好`
 - `source`:
   - `river.to/occasus/raw4krvx85dh27`
-- `target`: `/the/category/raw4krvx85dh27`
+- `target`: `/category/raw4krvx85dh27`
 ### Rule 6
 - `title`: `水深火热`
 - `source`:
   - `river.to/occasus/rawtn8jpsc6uvv`
-- `target`: `/the/category/rawtn8jpsc6uvv`
+- `target`: `/category/rawtn8jpsc6uvv`
 ### Rule 7
 - `title`: `东升西降`
 - `source`:
   - `river.to/occasus/rawai5kd4z15il`
-- `target`: `/the/category/rawai5kd4z15il`
+- `target`: `/category/rawai5kd4z15il`
 ### Rule 8
 - `title`: `大局`
 - `source`:
   - `river.to/occasus/raw2efkzejrsx8`
-- `target`: `/the/category/raw2efkzejrsx8`
+- `target`: `/category/raw2efkzejrsx8`
 ### Rule 9
 - `title`: `境外势力`
 - `source`:
   - `river.to/occasus/rawmpalhnlphuc`
-- `target`: `/the/category/rawmpalhnlphuc`
+- `target`: `/category/rawmpalhnlphuc`
 ### Rule 10
 - `title`: `副刊`
 - `source`:
   - `river.to/occasus/rawxght2jr2u5z`
-- `target`: `/the/category/rawxght2jr2u5z`
+- `target`: `/category/rawxght2jr2u5z`
 ### Rule 11
 - `title`: `天高地厚`
 - `source`:
   - `river.to/occasus/rawrsnh9zakqdx`
-- `target`: `/the/category/rawrsnh9zakqdx`
+- `target`: `/category/rawrsnh9zakqdx`
 ### Rule 12
 - `title`: `Oyster`
 - `source`:
   - `river.to/occasus/rawdhl9hugdfn9`
-- `target`: `/the/category/rawdhl9hugdfn9`
+- `target`: `/category/rawdhl9hugdfn9`
 
 ## Raw JSON
 ```json
@@ -144,83 +145,84 @@
     {
       "source": [
         "river.to/occasus/:category?"
-      ]
+      ],
+      "target": "/:category?"
     },
     {
       "source": [
         "river.to/occasus/rawj7o4ypewv94"
       ],
-      "target": "/the/category/rawj7o4ypewv94",
+      "target": "/category/rawj7o4ypewv94",
       "title": "时局"
     },
     {
       "source": [
         "river.to/occasus/rawmw7dsta2jew"
       ],
-      "target": "/the/category/rawmw7dsta2jew",
+      "target": "/category/rawmw7dsta2jew",
       "title": "剩余价值"
     },
     {
       "source": [
         "river.to/occasus/rawbcvxkktdkq8"
       ],
-      "target": "/the/category/rawbcvxkktdkq8",
+      "target": "/category/rawbcvxkktdkq8",
       "title": "Beijing"
     },
     {
       "source": [
         "river.to/occasus/raw4krvx85dh27"
       ],
-      "target": "/the/category/raw4krvx85dh27",
+      "target": "/category/raw4krvx85dh27",
       "title": "稳中向好"
     },
     {
       "source": [
         "river.to/occasus/rawtn8jpsc6uvv"
       ],
-      "target": "/the/category/rawtn8jpsc6uvv",
+      "target": "/category/rawtn8jpsc6uvv",
       "title": "水深火热"
     },
     {
       "source": [
         "river.to/occasus/rawai5kd4z15il"
       ],
-      "target": "/the/category/rawai5kd4z15il",
+      "target": "/category/rawai5kd4z15il",
       "title": "东升西降"
     },
     {
       "source": [
         "river.to/occasus/raw2efkzejrsx8"
       ],
-      "target": "/the/category/raw2efkzejrsx8",
+      "target": "/category/raw2efkzejrsx8",
       "title": "大局"
     },
     {
       "source": [
         "river.to/occasus/rawmpalhnlphuc"
       ],
-      "target": "/the/category/rawmpalhnlphuc",
+      "target": "/category/rawmpalhnlphuc",
       "title": "境外势力"
     },
     {
       "source": [
         "river.to/occasus/rawxght2jr2u5z"
       ],
-      "target": "/the/category/rawxght2jr2u5z",
+      "target": "/category/rawxght2jr2u5z",
       "title": "副刊"
     },
     {
       "source": [
         "river.to/occasus/rawrsnh9zakqdx"
       ],
-      "target": "/the/category/rawrsnh9zakqdx",
+      "target": "/category/rawrsnh9zakqdx",
       "title": "天高地厚"
     },
     {
       "source": [
         "river.to/occasus/rawdhl9hugdfn9"
       ],
-      "target": "/the/category/rawdhl9hugdfn9",
+      "target": "/category/rawdhl9hugdfn9",
       "title": "Oyster"
     }
   ],
@@ -233,7 +235,7 @@
       "errorAt": null,
       "errorMessage": null,
       "id": "43417089717578752",
-      "image": "https://mississippi.river.to/dight/07/zYkxFTAzGv0026.jpg",
+      "image": "https://mississippi.river.to/dight/07/zYkxFTAzGv0429.jpg",
       "ownerUserId": null,
       "siteUrl": "https://river.to/occasus/",
       "title": "江河日下 – 日下无有新事 - 江河日下",

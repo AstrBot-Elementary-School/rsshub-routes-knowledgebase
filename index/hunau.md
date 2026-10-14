@@ -11,33 +11,33 @@
 ## Routes
 
 ### 公共管理与法学学院
-- Route ID: `hunau:/hunau/gfxy/:category?/:page?`
-- Route Path: `/hunau/gfxy/:category?/:page?`
-- File: `docs/routes/hunau/hunau-gfxy-category-page.md`
-- File Name: `hunau-gfxy-category-page.md`
+- Route ID: `hunau:/hunau/gfxy/:category?`
+- Route Path: `/hunau/gfxy/:category?`
+- File: `docs/routes/hunau/hunau-gfxy-category.md`
+- File Name: `hunau-gfxy-category.md`
 - Categories: `university`
 - Maintainers: `lcandy2`
 
 ### 国际交流与合作处、国际教育学院、港澳台事务办公室
-- Route ID: `hunau:/hunau/ied/:type?/:category?/:page?`
-- Route Path: `/hunau/ied/:type?/:category?/:page?`
-- File: `docs/routes/hunau/hunau-ied-type-category-page.md`
-- File Name: `hunau-ied-type-category-page.md`
+- Route ID: `hunau:/hunau/ied/:type?/:category?`
+- Route Path: `/hunau/ied/:type?/:category?`
+- File: `docs/routes/hunau/hunau-ied-type-category.md`
+- File Name: `hunau-ied-type-category.md`
 - Categories: `university`
 - Maintainers: `lcandy2`
 
 ### 教务处
-- Route ID: `hunau:/hunau/jwc/:category?/:page?`
-- Route Path: `/hunau/jwc/:category?/:page?`
-- File: `docs/routes/hunau/hunau-jwc-category-page.md`
-- File Name: `hunau-jwc-category-page.md`
+- Route ID: `hunau:/hunau/jwc/:category?`
+- Route Path: `/hunau/jwc/:category?`
+- File: `docs/routes/hunau/hunau-jwc-category.md`
+- File Name: `hunau-jwc-category.md`
 - Categories: `university`
 - Maintainers: `lcandy2`
 
-### 信息与智能科学学院
-- Route ID: `hunau:/hunau/xky/:category?/:page?`
-- Route Path: `/hunau/xky/:category?/:page?`
-- File: `docs/routes/hunau/hunau-xky-category-page.md`
-- File Name: `hunau-xky-category-page.md`
+### 信息与智能科学技术学院
+- Route ID: `hunau:/hunau/xky/:category?`
+- Route Path: `/hunau/xky/:category?`
+- File: `docs/routes/hunau/hunau-xky-category.md`
+- File Name: `hunau-xky-category.md`
 - Categories: `university`
 - Maintainers: `lcandy2`

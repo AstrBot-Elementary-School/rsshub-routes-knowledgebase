@@ -44,7 +44,7 @@ If you subscibe to [arXiv Paper queryed by Detection](https://papers.cool/arxiv/
 - `title`: `arXiv Paper queryed by Keyword`
 - `source`:
   - `papers.cool/arxiv/search?highlight=1&query=*&sort=0`
-- `target`: `/papers/query/:keyword`
+- `target`: `/query/:keyword`
 
 ## Raw JSON
 ```json
@@ -78,7 +78,7 @@ If you subscibe to [arXiv Paper queryed by Detection](https://papers.cool/arxiv/
       "source": [
         "papers.cool/arxiv/search?highlight=1&query=*&sort=0"
       ],
-      "target": "/papers/query/:keyword",
+      "target": "/query/:keyword",
       "title": "arXiv Paper queryed by Keyword"
     }
   ],

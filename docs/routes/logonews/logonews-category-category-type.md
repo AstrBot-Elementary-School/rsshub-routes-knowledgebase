@@ -30,8 +30,8 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `logonews.cn/category/:category/:type?`
-- `target`: `/category/:category/:type?`
+  - `logonews.cn/category/:category/:type`
+- `target`: `/category/:category/:type`
 
 ## Raw JSON
 ```json
@@ -55,9 +55,9 @@ _None_
   "radar": [
     {
       "source": [
-        "logonews.cn/category/:category/:type?"
+        "logonews.cn/category/:category/:type"
       ],
-      "target": "/category/:category/:type?"
+      "target": "/category/:category/:type"
     }
   ],
   "test": {

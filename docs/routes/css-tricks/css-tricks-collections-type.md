@@ -20,7 +20,7 @@
 _None_
 
 ## Parameters
-- `category`: {"description": "Collection Type", "options": [{"label": "Latest CSS Guides", "value": "3"}, {"label": "Fresh From the Almanac", "value": "2"}, {"label": "Classic Tricks", "value": "4"}]}
+- `type`: {"description": "Collection Type", "options": [{"label": "Latest CSS Guides", "value": "3"}, {"label": "Fresh From the Almanac", "value": "2"}, {"label": "Classic Tricks", "value": "4"}]}
 
 
 ## Features
@@ -33,9 +33,20 @@ _None_
 
 ## Radar
 ### Rule 1
+- `title`: `Fresh From the Almanac`
 - `source`:
-  - `css-tricks.com`
-- `target`: `/collections/:type`
+  - `css-tricks.com/`
+- `target`: `/collections/2`
+### Rule 2
+- `title`: `CSS Guides`
+- `source`:
+  - `css-tricks.com/`
+- `target`: `/collections/3`
+### Rule 3
+- `title`: `Classic Tricks`
+- `source`:
+  - `css-tricks.com/`
+- `target`: `/collections/4`
 
 ## Raw JSON
 ```json
@@ -59,7 +70,7 @@ _None_
   ],
   "name": "CSS Guides",
   "parameters": {
-    "category": {
+    "type": {
       "description": "Collection Type",
       "options": [
         {
@@ -81,9 +92,24 @@ _None_
   "radar": [
     {
       "source": [
-        "css-tricks.com"
+        "css-tricks.com/"
       ],
-      "target": "/collections/:type"
+      "target": "/collections/2",
+      "title": "Fresh From the Almanac"
+    },
+    {
+      "source": [
+        "css-tricks.com/"
+      ],
+      "target": "/collections/3",
+      "title": "CSS Guides"
+    },
+    {
+      "source": [
+        "css-tricks.com/"
+      ],
+      "target": "/collections/4",
+      "title": "Classic Tricks"
     }
   ],
   "test": {

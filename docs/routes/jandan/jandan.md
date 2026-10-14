@@ -35,7 +35,7 @@ _None_
 ### Rule 1
 - `source`:
   - `i.jandan.net`
-- `target`: `/jandan`
+- `target`: `/`
 
 ## Raw JSON
 ```json
@@ -68,7 +68,7 @@ _None_
       "source": [
         "i.jandan.net"
       ],
-      "target": "/jandan"
+      "target": "/"
     }
   ],
   "test": {

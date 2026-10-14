@@ -29,7 +29,28 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `p-articles.com/:section/`
+  - `p-articles.com/works/`
+- `target`: `/section/works`
+### Rule 2
+- `source`:
+  - `p-articles.com/critics/`
+- `target`: `/section/critics`
+### Rule 3
+- `source`:
+  - `p-articles.com/issues/`
+- `target`: `/section/issues`
+### Rule 4
+- `source`:
+  - `p-articles.com/heteroglossia/`
+- `target`: `/section/heteroglossia`
+### Rule 5
+- `source`:
+  - `p-articles.com/nianhua/`
+- `target`: `/section/nianhua`
+### Rule 6
+- `source`:
+  - `p-articles.com/one_take/`
+- `target`: `/section/one_take`
 
 ## Raw JSON
 ```json
@@ -51,8 +72,39 @@ _None_
   "radar": [
     {
       "source": [
-        "p-articles.com/:section/"
-      ]
+        "p-articles.com/works/"
+      ],
+      "target": "/section/works"
+    },
+    {
+      "source": [
+        "p-articles.com/critics/"
+      ],
+      "target": "/section/critics"
+    },
+    {
+      "source": [
+        "p-articles.com/issues/"
+      ],
+      "target": "/section/issues"
+    },
+    {
+      "source": [
+        "p-articles.com/heteroglossia/"
+      ],
+      "target": "/section/heteroglossia"
+    },
+    {
+      "source": [
+        "p-articles.com/nianhua/"
+      ],
+      "target": "/section/nianhua"
+    },
+    {
+      "source": [
+        "p-articles.com/one_take/"
+      ],
+      "target": "/section/one_take"
     }
   ],
   "test": {

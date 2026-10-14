@@ -1,4 +1,4 @@
-# 豆瓣 - 豆瓣豆列
+# 豆瓣 - 豆列
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `douban`
 - Namespace Name: `豆瓣`
 - Route Path: `/douban/doulist/:id`
-- Route Name: `豆瓣豆列`
+- Route Name: `豆列`
 - Example: `/douban/doulist/37716774`
 - URL: `www.douban.com`
 - Language: `_None_`
@@ -55,7 +55,7 @@ _None_
     "LogicJake",
     "honue"
   ],
-  "name": "豆瓣豆列",
+  "name": "豆列",
   "parameters": {
     "id": "豆列id"
   },

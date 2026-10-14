@@ -9,7 +9,7 @@
 - Route Path: `/hackernews/:section?/:type?/:value?`
 - Route Name: `Stories`
 - Example: `/hackernews/threads/comments_list/dang`
-- URL: `ycombinator.com`
+- URL: `news.ycombinator.com`
 - Language: `_None_`
 - Categories: `programming, popular`
 - Maintainers: `nczitzk, xie-dongping`
@@ -42,8 +42,40 @@ Examples:
 ## Radar
 ### Rule 1
 - `source`:
-  - `news.ycombinator.com/:section`
   - `news.ycombinator.com/`
+- `target`: `/`
+### Rule 2
+- `source`:
+  - `news.ycombinator.com/news`
+- `target`: `/news`
+### Rule 3
+- `source`:
+  - `news.ycombinator.com/newest`
+- `target`: `/newest`
+### Rule 4
+- `source`:
+  - `news.ycombinator.com/ask`
+- `target`: `/ask`
+### Rule 5
+- `source`:
+  - `news.ycombinator.com/show`
+- `target`: `/show`
+### Rule 6
+- `source`:
+  - `news.ycombinator.com/jobs`
+- `target`: `/jobs`
+### Rule 7
+- `source`:
+  - `news.ycombinator.com/best`
+- `target`: `/best`
+### Rule 8
+- `source`:
+  - `news.ycombinator.com/front`
+- `target`: `/front`
+### Rule 9
+- `source`:
+  - `news.ycombinator.com/active`
+- `target`: `/active`
 
 ## Raw JSON
 ```json
@@ -62,7 +94,7 @@ Examples:
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 6742,
+  "heat": 6741,
   "location": "index.ts",
   "maintainers": [
     "nczitzk",
@@ -84,9 +116,57 @@ Examples:
   "radar": [
     {
       "source": [
-        "news.ycombinator.com/:section",
         "news.ycombinator.com/"
-      ]
+      ],
+      "target": "/"
+    },
+    {
+      "source": [
+        "news.ycombinator.com/news"
+      ],
+      "target": "/news"
+    },
+    {
+      "source": [
+        "news.ycombinator.com/newest"
+      ],
+      "target": "/newest"
+    },
+    {
+      "source": [
+        "news.ycombinator.com/ask"
+      ],
+      "target": "/ask"
+    },
+    {
+      "source": [
+        "news.ycombinator.com/show"
+      ],
+      "target": "/show"
+    },
+    {
+      "source": [
+        "news.ycombinator.com/jobs"
+      ],
+      "target": "/jobs"
+    },
+    {
+      "source": [
+        "news.ycombinator.com/best"
+      ],
+      "target": "/best"
+    },
+    {
+      "source": [
+        "news.ycombinator.com/front"
+      ],
+      "target": "/front"
+    },
+    {
+      "source": [
+        "news.ycombinator.com/active"
+      ],
+      "target": "/active"
     }
   ],
   "test": {

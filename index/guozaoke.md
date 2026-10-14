@@ -1,16 +1,16 @@
-# guozaoke Route Index
+# 过早客 Route Index
 
 ## Namespace
 - Namespace: `guozaoke`
-- Display Name: `guozaoke`
+- Display Name: `过早客`
 - URL: `guozaoke.com`
 - Language: `_None_`
-- Aliases: `guozaoke, guozaoke.com`
+- Aliases: `guozaoke, guozaoke.com, 过早客`
 - Route Count: `1`
 
 ## Routes
 
-### 过早客
+### 首页
 - Route ID: `guozaoke:/guozaoke/default`
 - Route Path: `/guozaoke/default`
 - File: `docs/routes/guozaoke/guozaoke-default.md`

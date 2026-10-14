@@ -1,11 +1,11 @@
-# 财新博客 - 新闻分类
+# 财新网 - 新闻分类
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `caixin`
-- Namespace Name: `财新博客`
+- Namespace Name: `财新网`
 - Route Path: `/caixin/:column/:category`
 - Route Name: `新闻分类`
 - Example: `/caixin/finance/regulation`

@@ -39,7 +39,8 @@
 ### Rule 1
 - `source`:
   - `diandong.com/news`
-- `target`: `/news/:cate`
+  - `diandong.com/news/:article`
+- `target`: `/news`
 
 ## Raw JSON
 ```json
@@ -70,9 +71,10 @@
   "radar": [
     {
       "source": [
-        "diandong.com/news"
+        "diandong.com/news",
+        "diandong.com/news/:article"
       ],
-      "target": "/news/:cate"
+      "target": "/news"
     }
   ],
   "test": {

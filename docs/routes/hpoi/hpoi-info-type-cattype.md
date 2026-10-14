@@ -12,7 +12,7 @@
 - URL: `www.hpoi.net`
 - Language: `_None_`
 - Categories: `anime`
-- Maintainers: `sanmmm DIYgod`
+- Maintainers: `sanmmm, DIYgod`
 - Source Location: `info.ts`
 - Source Module: `_None_`
 
@@ -60,7 +60,8 @@ _None_
   "heat": 20,
   "location": "info.ts",
   "maintainers": [
-    "sanmmm DIYgod"
+    "sanmmm",
+    "DIYgod"
   ],
   "name": "情报",
   "parameters": {

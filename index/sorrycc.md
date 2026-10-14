@@ -3,9 +3,9 @@
 ## Namespace
 - Namespace: `sorrycc`
 - Display Name: `云谦的博客`
-- URL: `sorrycc.com`
+- URL: `blog.sorrycc.com`
 - Language: `_None_`
-- Aliases: `sorrycc, sorrycc.com, 云谦的博客`
+- Aliases: `blog, blog.sorrycc.com, sorrycc, 云谦的博客`
 - Route Count: `1`
 
 ## Routes

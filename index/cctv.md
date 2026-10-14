@@ -34,7 +34,7 @@
 - Categories: `traditional-media`
 - Maintainers: `nczitzk`
 
-### 央视网图片《镜象》
+### 图片《镜象》
 - Route ID: `cctv:/cctv/photo/jx`
 - Route Path: `/cctv/photo/jx`
 - File: `docs/routes/cctv/cctv-photo-jx.md`

@@ -19,7 +19,7 @@
 ## Description
 | 新闻发布会 | 学术大会 | 标准 | 新闻专题 |
 | ---------- | -------- | ---- | -------- |
-| xwfdh      | xsdh     | bz   | xwzt     |
+| xwfbh      | xsdh     | bz   | xwzt     |
 
 ## Parameters
 - `id`: 分类 id，见下表，可在对应分类页 URL 中找到
@@ -39,7 +39,7 @@ _None_
   "categories": [
     "government"
   ],
-  "description": "| 新闻发布会 | 学术大会 | 标准 | 新闻专题 |\n| ---------- | -------- | ---- | -------- |\n| xwfdh      | xsdh     | bz   | xwzt     |",
+  "description": "| 新闻发布会 | 学术大会 | 标准 | 新闻专题 |\n| ---------- | -------- | ---- | -------- |\n| xwfbh      | xsdh     | bz   | xwzt     |",
   "example": "/gov/cmse/ztbd/xwfbh",
   "heat": 0,
   "location": "ztbd.ts",

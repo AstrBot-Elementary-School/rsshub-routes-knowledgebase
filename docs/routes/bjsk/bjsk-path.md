@@ -9,7 +9,7 @@
 - Route Path: `/bjsk/:path?`
 - Route Name: `通用`
 - Example: `/bjsk/newslist-1394-1474-0`
-- URL: `bjsk.org.cn`
+- URL: `www.bjsk.org.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `TonyRL`

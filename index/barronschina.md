@@ -3,9 +3,9 @@
 ## Namespace
 - Namespace: `barronschina`
 - Display Name: `巴伦周刊中文版`
-- URL: `barronschina.com.cn`
+- URL: `www.barrons.com.cn`
 - Language: `_None_`
-- Aliases: `barronschina, barronschina.com.cn, 巴伦周刊中文版`
+- Aliases: `barrons.com.cn, barronschina, www, www.barrons.com.cn, 巴伦周刊中文版`
 - Route Count: `1`
 
 ## Routes

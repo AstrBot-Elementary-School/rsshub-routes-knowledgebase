@@ -29,6 +29,7 @@
 ## Parameters
 - `language`: language, located on the top right corner of Greasy Fork's search page, set to `all` for including all languages
 - `domain`: the script's target domain
+- `sort`: Sorting mode from the table below; defaults to updated
 
 
 ## Features
@@ -70,7 +71,8 @@
   "name": "Script Update",
   "parameters": {
     "domain": "the script's target domain",
-    "language": "language, located on the top right corner of Greasy Fork's search page, set to `all` for including all languages"
+    "language": "language, located on the top right corner of Greasy Fork's search page, set to `all` for including all languages",
+    "sort": "Sorting mode from the table below; defaults to updated"
   },
   "path": [
     "/:language/:domain?",

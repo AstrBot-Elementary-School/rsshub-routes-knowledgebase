@@ -18,7 +18,7 @@
 
 ## Description
 ::: tip
-若订阅 [宏观经济](https://www.lhratings.com/research.html?type=92)，网址为 `https://www.lhratings.com/research.html?type=92`，请截取 `https://www.lhratings.com/research.html?type=` 到末尾的部分 `92` 作为 `type` 参数填入，此时目标路由为 [`/lhratings/research/92`](https://rsshub.app/lhratings/research/92)。
+若订阅 [宏观经济](https://www.lhratings.com/lists/92.html)，网址为 `https://www.lhratings.com/lists/92.html`，使用分类编号 `92` 作为 `type` 参数填入，此时目标路由为 [`/lhratings/research/92`](https://rsshub.app/lhratings/research/92)。
 :::
 
 | 宏观经济 | 债券市场 | 行业研究 | 每日资讯 | 其他 |
@@ -40,32 +40,29 @@
 
 ## Radar
 ### Rule 1
-- `source`:
-  - `www.lhratings.com/research.html`
-### Rule 2
 - `title`: `宏观经济`
 - `source`:
-  - `www.lhratings.com/research.html?type=92`
+  - `www.lhratings.com/lists/92.html`
 - `target`: `/research/92`
-### Rule 3
+### Rule 2
 - `title`: `债券市场`
 - `source`:
-  - `www.lhratings.com/research.html?type=93`
+  - `www.lhratings.com/lists/93.html`
 - `target`: `/research/93`
-### Rule 4
+### Rule 3
 - `title`: `行业研究`
 - `source`:
-  - `www.lhratings.com/research.html?type=94`
+  - `www.lhratings.com/lists/94.html`
 - `target`: `/research/94`
-### Rule 5
+### Rule 4
 - `title`: `每日资讯`
 - `source`:
-  - `www.lhratings.com/research.html?type=95`
+  - `www.lhratings.com/lists/95.html`
 - `target`: `/research/95`
-### Rule 6
+### Rule 5
 - `title`: `其他`
 - `source`:
-  - `www.lhratings.com/research.html?type=96`
+  - `www.lhratings.com/lists/96.html`
 - `target`: `/research/96`
 
 ## Raw JSON
@@ -74,7 +71,7 @@
   "categories": [
     "finance"
   ],
-  "description": "::: tip\n若订阅 [宏观经济](https://www.lhratings.com/research.html?type=92)，网址为 `https://www.lhratings.com/research.html?type=92`，请截取 `https://www.lhratings.com/research.html?type=` 到末尾的部分 `92` 作为 `type` 参数填入，此时目标路由为 [`/lhratings/research/92`](https://rsshub.app/lhratings/research/92)。\n:::\n\n| 宏观经济 | 债券市场 | 行业研究 | 每日资讯 | 其他 |\n| -------- | -------- | -------- | -------- | ---- |\n| 92       | 93       | 94       | 95       | 96   |",
+  "description": "::: tip\n若订阅 [宏观经济](https://www.lhratings.com/lists/92.html)，网址为 `https://www.lhratings.com/lists/92.html`，使用分类编号 `92` 作为 `type` 参数填入，此时目标路由为 [`/lhratings/research/92`](https://rsshub.app/lhratings/research/92)。\n:::\n\n| 宏观经济 | 债券市场 | 行业研究 | 每日资讯 | 其他 |\n| -------- | -------- | -------- | -------- | ---- |\n| 92       | 93       | 94       | 95       | 96   |",
   "example": "/lhratings/research/92",
   "features": {
     "antiCrawler": false,
@@ -98,40 +95,35 @@
   "radar": [
     {
       "source": [
-        "www.lhratings.com/research.html"
-      ]
-    },
-    {
-      "source": [
-        "www.lhratings.com/research.html?type=92"
+        "www.lhratings.com/lists/92.html"
       ],
       "target": "/research/92",
       "title": "宏观经济"
     },
     {
       "source": [
-        "www.lhratings.com/research.html?type=93"
+        "www.lhratings.com/lists/93.html"
       ],
       "target": "/research/93",
       "title": "债券市场"
     },
     {
       "source": [
-        "www.lhratings.com/research.html?type=94"
+        "www.lhratings.com/lists/94.html"
       ],
       "target": "/research/94",
       "title": "行业研究"
     },
     {
       "source": [
-        "www.lhratings.com/research.html?type=95"
+        "www.lhratings.com/lists/95.html"
       ],
       "target": "/research/95",
       "title": "每日资讯"
     },
     {
       "source": [
-        "www.lhratings.com/research.html?type=96"
+        "www.lhratings.com/lists/96.html"
       ],
       "target": "/research/96",
       "title": "其他"

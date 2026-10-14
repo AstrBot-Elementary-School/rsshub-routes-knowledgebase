@@ -9,7 +9,7 @@
 - Route Path: `/chuapp/:category?`
 - Route Name: `分类`
 - Example: `/chuapp/daily`
-- URL: `chuapp.com`
+- URL: `www.chuapp.com`
 - Language: `_None_`
 - Categories: `game`
 - Maintainers: `dousha`

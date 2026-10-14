@@ -35,7 +35,7 @@
 | [图片新闻](https://language.chinadaily.com.cn/news_photo)                    | [news\_photo](https://rsshub.app/chinadaily/language/news_photo)                                          |
 | [视频精选](https://language.chinadaily.com.cn/video_links)                   | [video\_links](https://rsshub.app/chinadaily/language/video_links)                                        |
 | [新闻播报](https://language.chinadaily.com.cn/audio_cd)                      | [audio\_cd](https://rsshub.app/chinadaily/language/audio_cd)                                              |
-| [专栏作家](https://language.chinadaily.com.cn/columnist)                     | [audio\_cd](https://rsshub.app/chinadaily/language/columnist)                                             |
+| [专栏作家](https://language.chinadaily.com.cn/columnist)                     | [columnist](https://rsshub.app/chinadaily/language/columnist)                                             |
 | [权威发布](https://language.chinadaily.com.cn/5af95d44a3103f6866ee845c)      | [5af95d44a3103f6866ee845c](https://rsshub.app/chinadaily/language/5af95d44a3103f6866ee845c)               |
 
 </details>
@@ -55,59 +55,56 @@
 
 ## Radar
 ### Rule 1
-- `source`:
-  - `language.chinadaily.com.cn/:category`
-### Rule 2
 - `title`: `精彩推荐`
 - `source`:
   - `language.chinadaily.com.cn/thelatest`
 - `target`: `/language/thelatest`
-### Rule 3
+### Rule 2
 - `title`: `每日一词`
 - `source`:
   - `language.chinadaily.com.cn/news_hotwords/word_of_the_day`
 - `target`: `/language/news_hotwords/word_of_the_day`
-### Rule 4
+### Rule 3
 - `title`: `双语新闻`
 - `source`:
   - `language.chinadaily.com.cn/news_bilingual`
 - `target`: `/language/news_bilingual`
-### Rule 5
+### Rule 4
 - `title`: `新闻热词`
 - `source`:
   - `language.chinadaily.com.cn/news_hotwords`
 - `target`: `/language/news_hotwords`
-### Rule 6
+### Rule 5
 - `title`: `实用口语`
 - `source`:
   - `language.chinadaily.com.cn/practice_tongue`
 - `target`: `/language/practice_tongue`
-### Rule 7
+### Rule 6
 - `title`: `译词课堂`
 - `source`:
   - `language.chinadaily.com.cn/trans_collect`
 - `target`: `/language/trans_collect`
-### Rule 8
+### Rule 7
 - `title`: `图片新闻`
 - `source`:
   - `language.chinadaily.com.cn/news_photo`
 - `target`: `/language/news_photo`
-### Rule 9
+### Rule 8
 - `title`: `视频精选`
 - `source`:
   - `language.chinadaily.com.cn/video_links`
 - `target`: `/language/video_links`
-### Rule 10
+### Rule 9
 - `title`: `新闻播报`
 - `source`:
   - `language.chinadaily.com.cn/audio_cd`
 - `target`: `/language/audio_cd`
-### Rule 11
+### Rule 10
 - `title`: `专栏作家`
 - `source`:
   - `language.chinadaily.com.cn/columnist`
 - `target`: `/language/columnist`
-### Rule 12
+### Rule 11
 - `title`: `权威发布`
 - `source`:
   - `language.chinadaily.com.cn/5af95d44a3103f6866ee845c`
@@ -119,7 +116,7 @@
   "categories": [
     "traditional-media"
   ],
-  "description": "::: tip\n若订阅 [精彩推荐](https://language.chinadaily.com.cn/thelatest)，网址为 `https://language.chinadaily.com.cn/thelatest`，请截取 `https://language.chinadaily.com.cn/` 到末尾的部分 `thelatest` 作为 `category` 参数填入，此时目标路由为 [`/chinadaily/language/thelatest`](https://rsshub.app/chinadaily/language/thelatest)。\n:::\n\n<details>\n  <summary>更多分类</summary>\n\n| 分类                                                                         | ID                                                                                                        |\n| ---------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |\n| [精彩推荐](https://language.chinadaily.com.cn/thelatest)                     | [thelatest](https://rsshub.app/chinadaily/language/thelatest)                                             |\n| [每日一词](https://language.chinadaily.com.cn/news_hotwords/word_of_the_day) | [news\\_hotwords/word\\_of\\_the\\_day](https://rsshub.app/chinadaily/language/news_hotwords/word_of_the_day) |\n| [双语新闻](https://language.chinadaily.com.cn/news_bilingual)                | [news\\_bilingual](https://rsshub.app/chinadaily/language/news_bilingual)                                  |\n| [新闻热词](https://language.chinadaily.com.cn/news_hotwords)                 | [news\\_hotwords](https://rsshub.app/chinadaily/language/news_hotwords)                                    |\n| [实用口语](https://language.chinadaily.com.cn/practice_tongue)               | [practice\\_tongue](https://rsshub.app/chinadaily/language/practice_tongue)                                |\n| [译词课堂](https://language.chinadaily.com.cn/trans_collect)                 | [trans\\_collect](https://rsshub.app/chinadaily/language/trans_collect)                                    |\n| [图片新闻](https://language.chinadaily.com.cn/news_photo)                    | [news\\_photo](https://rsshub.app/chinadaily/language/news_photo)                                          |\n| [视频精选](https://language.chinadaily.com.cn/video_links)                   | [video\\_links](https://rsshub.app/chinadaily/language/video_links)                                        |\n| [新闻播报](https://language.chinadaily.com.cn/audio_cd)                      | [audio\\_cd](https://rsshub.app/chinadaily/language/audio_cd)                                              |\n| [专栏作家](https://language.chinadaily.com.cn/columnist)                     | [audio\\_cd](https://rsshub.app/chinadaily/language/columnist)                                             |\n| [权威发布](https://language.chinadaily.com.cn/5af95d44a3103f6866ee845c)      | [5af95d44a3103f6866ee845c](https://rsshub.app/chinadaily/language/5af95d44a3103f6866ee845c)               |\n\n</details>",
+  "description": "::: tip\n若订阅 [精彩推荐](https://language.chinadaily.com.cn/thelatest)，网址为 `https://language.chinadaily.com.cn/thelatest`，请截取 `https://language.chinadaily.com.cn/` 到末尾的部分 `thelatest` 作为 `category` 参数填入，此时目标路由为 [`/chinadaily/language/thelatest`](https://rsshub.app/chinadaily/language/thelatest)。\n:::\n\n<details>\n  <summary>更多分类</summary>\n\n| 分类                                                                         | ID                                                                                                        |\n| ---------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |\n| [精彩推荐](https://language.chinadaily.com.cn/thelatest)                     | [thelatest](https://rsshub.app/chinadaily/language/thelatest)                                             |\n| [每日一词](https://language.chinadaily.com.cn/news_hotwords/word_of_the_day) | [news\\_hotwords/word\\_of\\_the\\_day](https://rsshub.app/chinadaily/language/news_hotwords/word_of_the_day) |\n| [双语新闻](https://language.chinadaily.com.cn/news_bilingual)                | [news\\_bilingual](https://rsshub.app/chinadaily/language/news_bilingual)                                  |\n| [新闻热词](https://language.chinadaily.com.cn/news_hotwords)                 | [news\\_hotwords](https://rsshub.app/chinadaily/language/news_hotwords)                                    |\n| [实用口语](https://language.chinadaily.com.cn/practice_tongue)               | [practice\\_tongue](https://rsshub.app/chinadaily/language/practice_tongue)                                |\n| [译词课堂](https://language.chinadaily.com.cn/trans_collect)                 | [trans\\_collect](https://rsshub.app/chinadaily/language/trans_collect)                                    |\n| [图片新闻](https://language.chinadaily.com.cn/news_photo)                    | [news\\_photo](https://rsshub.app/chinadaily/language/news_photo)                                          |\n| [视频精选](https://language.chinadaily.com.cn/video_links)                   | [video\\_links](https://rsshub.app/chinadaily/language/video_links)                                        |\n| [新闻播报](https://language.chinadaily.com.cn/audio_cd)                      | [audio\\_cd](https://rsshub.app/chinadaily/language/audio_cd)                                              |\n| [专栏作家](https://language.chinadaily.com.cn/columnist)                     | [columnist](https://rsshub.app/chinadaily/language/columnist)                                             |\n| [权威发布](https://language.chinadaily.com.cn/5af95d44a3103f6866ee845c)      | [5af95d44a3103f6866ee845c](https://rsshub.app/chinadaily/language/5af95d44a3103f6866ee845c)               |\n\n</details>",
   "example": "/chinadaily/language/thelatest",
   "features": {
     "antiCrawler": false,
@@ -194,11 +191,6 @@
   },
   "path": "/language/:category{.+}?",
   "radar": [
-    {
-      "source": [
-        "language.chinadaily.com.cn/:category"
-      ]
-    },
     {
       "source": [
         "language.chinadaily.com.cn/thelatest"

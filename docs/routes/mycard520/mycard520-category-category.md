@@ -42,6 +42,7 @@
 ### Rule 1
 - `source`:
   - `app.mycard520.com.tw/category/:category`
+- `target`: `/category/:category`
 ### Rule 2
 - `title`: `最新遊戲`
 - `source`:
@@ -123,7 +124,8 @@
     {
       "source": [
         "app.mycard520.com.tw/category/:category"
-      ]
+      ],
+      "target": "/category/:category"
     },
     {
       "source": [

@@ -44,6 +44,10 @@
 ## Radar
 ### Rule 1
 - `source`:
+  - `blog.simpleinfo.cc/shasha77`
+- `target`: `/`
+### Rule 2
+- `source`:
   - `blog.simpleinfo.cc/blog/:category`
 - `target`: `/:category`
 
@@ -76,6 +80,12 @@
   "radar": [
     {
       "source": [
+        "blog.simpleinfo.cc/shasha77"
+      ],
+      "target": "/"
+    },
+    {
+      "source": [
         "blog.simpleinfo.cc/blog/:category"
       ],
       "target": "/:category"
@@ -86,16 +96,16 @@
   },
   "topFeeds": [
     {
-      "description": "志祺七七 ACG快樂聊 - 簡訊設計 - Powered by RSSHub",
+      "description": "志祺七七 - 簡訊設計 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "55873602868576341",
+      "id": "126567950370039808",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://blog.simpleinfo.cc/shasha77?category=acg",
-      "title": "志祺七七 ACG快樂聊 - 簡訊設計",
+      "siteUrl": "https://blog.simpleinfo.cc/shasha77?category=%E8%AE%BE%E8%AE%A1",
+      "title": "志祺七七 - 簡訊設計",
       "type": "feed",
-      "url": "rsshub://simpleinfo/acg"
+      "url": "rsshub://simpleinfo/%E8%AE%BE%E8%AE%A1"
     },
     {
       "description": "志祺七七 全部 - 簡訊設計 - Powered by RSSHub",

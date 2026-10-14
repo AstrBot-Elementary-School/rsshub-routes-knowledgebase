@@ -65,6 +65,7 @@ To subscribe to [Blog](https://www.deepl.com/en/blog), where the source URL is `
 ### Rule 1
 - `source`:
   - `www.deepl.com/:lang/blog`
+- `target`: `/blog/:lang`
 ### Rule 2
 - `title`: `Deutsch`
 - `source`:
@@ -272,7 +273,8 @@ To subscribe to [Blog](https://www.deepl.com/en/blog), where the source URL is `
     {
       "source": [
         "www.deepl.com/:lang/blog"
-      ]
+      ],
+      "target": "/blog/:lang"
     },
     {
       "source": [

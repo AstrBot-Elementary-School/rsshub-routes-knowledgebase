@@ -9,7 +9,7 @@
 - Route Path: `/embassy/:country/:city?`
 - Route Name: `使领馆重要通知`
 - Example: `/embassy/us/chicago`
-- URL: `ca.china-embassy.org`
+- URL: `ca.china-embassy.gov.cn`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `HenryQW`

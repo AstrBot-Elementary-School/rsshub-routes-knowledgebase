@@ -30,7 +30,8 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `javtrailers.com/studios/:category`
+  - `javtrailers.com/studios/:studio`
+- `target`: `/studios/:studio`
 
 ## Raw JSON
 ```json
@@ -56,8 +57,9 @@ _None_
   "radar": [
     {
       "source": [
-        "javtrailers.com/studios/:category"
-      ]
+        "javtrailers.com/studios/:studio"
+      ],
+      "target": "/studios/:studio"
     }
   ],
   "test": {

@@ -30,6 +30,10 @@ _None_
 ### Rule 1
 - `source`:
   - `developers.googleblog.com`
+### Rule 2
+- `source`:
+  - `developers.googleblog.com/:locale/search`
+- `target`: `/developers/:locale`
 
 ## Raw JSON
 ```json
@@ -87,6 +91,12 @@ _None_
       "source": [
         "developers.googleblog.com"
       ]
+    },
+    {
+      "source": [
+        "developers.googleblog.com/:locale/search"
+      ],
+      "target": "/developers/:locale"
     }
   ],
   "test": {

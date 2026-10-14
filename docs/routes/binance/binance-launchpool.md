@@ -1,4 +1,4 @@
-# Binance - Binance数字货币及交易对上新
+# Binance - 数字货币及交易对上新
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `binance`
 - Namespace Name: `Binance`
 - Route Path: `/binance/launchpool`
-- Route Name: `Binance数字货币及交易对上新`
+- Route Name: `数字货币及交易对上新`
 - Example: `/binance/launchpool`
 - URL: `binance.com`
 - Language: `_None_`
@@ -43,7 +43,7 @@ _None_
   "maintainers": [
     "zhenlohuang"
   ],
-  "name": "Binance数字货币及交易对上新",
+  "name": "数字货币及交易对上新",
   "path": "/launchpool",
   "radar": [
     {

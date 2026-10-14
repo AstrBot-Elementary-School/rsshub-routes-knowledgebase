@@ -3,9 +3,9 @@
 ## Namespace
 - Namespace: `copymanga`
 - Display Name: `拷贝漫画`
-- URL: `copymanga.com`
+- URL: `www.mangacopy.com`
 - Language: `_None_`
-- Aliases: `copymanga, copymanga.com, 拷贝漫画`
+- Aliases: `copymanga, mangacopy.com, www, www.mangacopy.com, 拷贝漫画`
 - Route Count: `1`
 
 ## Routes

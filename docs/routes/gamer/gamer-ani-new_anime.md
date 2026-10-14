@@ -34,8 +34,13 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
+  - `ani.gamer.com.tw/animeVideo.php`
+  - `ani.gamer.com.tw/animeRef.php`
+- `target`: `/ani/new_anime`
+### Rule 2
+- `source`:
   - `ani.gamer.com.tw/`
-- `target`: `/new_anime`
+- `target`: `/ani/new_anime`
 
 ## Raw JSON
 ```json
@@ -64,9 +69,16 @@ _None_
   "radar": [
     {
       "source": [
+        "ani.gamer.com.tw/animeVideo.php",
+        "ani.gamer.com.tw/animeRef.php"
+      ],
+      "target": "/ani/new_anime"
+    },
+    {
+      "source": [
         "ani.gamer.com.tw/"
       ],
-      "target": "/new_anime"
+      "target": "/ani/new_anime"
     }
   ],
   "test": {

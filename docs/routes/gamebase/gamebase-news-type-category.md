@@ -42,7 +42,16 @@
 ### Rule 1
 - `source`:
   - `news.gamebase.com.tw/news`
-  - `news.gamebase.com.tw/news/:type`
+  - `news.gamebase.com.tw/`
+- `target`: `/news`
+### Rule 2
+- `source`:
+  - `news.gamebase.com.tw/news/newslist`
+- `target`: `/news/newslist`
+### Rule 3
+- `source`:
+  - `news.gamebase.com.tw/news/r18list`
+- `target`: `/news/r18list`
 
 ## Raw JSON
 ```json
@@ -76,8 +85,21 @@
     {
       "source": [
         "news.gamebase.com.tw/news",
-        "news.gamebase.com.tw/news/:type"
-      ]
+        "news.gamebase.com.tw/"
+      ],
+      "target": "/news"
+    },
+    {
+      "source": [
+        "news.gamebase.com.tw/news/newslist"
+      ],
+      "target": "/news/newslist"
+    },
+    {
+      "source": [
+        "news.gamebase.com.tw/news/r18list"
+      ],
+      "target": "/news/r18list"
     }
   ],
   "test": {

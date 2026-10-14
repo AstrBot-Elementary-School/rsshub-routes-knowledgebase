@@ -26,7 +26,8 @@
 
 
 ## Features
-_None_
+- `requirePuppeteer`: true
+- `antiCrawler`: true
 
 ## Radar
 _None_
@@ -39,6 +40,10 @@ _None_
   ],
   "description": "| SCI 期刊 | 中文期刊 |\n| -------- | -------- |\n|          | cn       |",
   "example": "/muchong/journal",
+  "features": {
+    "antiCrawler": true,
+    "requirePuppeteer": true
+  },
   "heat": 0,
   "location": "journal.ts",
   "maintainers": [

@@ -43,8 +43,8 @@ To subscribe to [Repositories](https://gitstar-ranking.com/repositories), where 
 ## Radar
 ### Rule 1
 - `source`:
-  - `gitstar-ranking.com/:category`
-- `target`: `/:category`
+  - `gitstar-ranking.com/`
+- `target`: `/repositories`
 ### Rule 2
 - `title`: `Users`
 - `source`:
@@ -107,9 +107,9 @@ To subscribe to [Repositories](https://gitstar-ranking.com/repositories), where 
   "radar": [
     {
       "source": [
-        "gitstar-ranking.com/:category"
+        "gitstar-ranking.com/"
       ],
-      "target": "/:category"
+      "target": "/repositories"
     },
     {
       "source": [

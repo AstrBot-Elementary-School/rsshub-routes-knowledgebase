@@ -9,7 +9,7 @@
 - Route Path: `/cqwu/news/:type?`
 - Route Name: `通知公告`
 - Example: `/cqwu/news/academiceve`
-- URL: `www.cqwu.net`
+- URL: `www.cqwu.edu.cn`
 - Language: `_None_`
 - Categories: `university`
 - Maintainers: `Fatpandac`

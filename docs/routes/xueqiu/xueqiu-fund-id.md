@@ -77,7 +77,7 @@ _None_
       "url": "rsshub://xueqiu/fund/017093"
     },
     {
-      "description": "基金代码 019305 <br> 今日净值(2026-10-08) ¥1.6998 <br> 日涨跌 1.4261% - Powered by RSSHub",
+      "description": "基金代码 019305 <br> 今日净值(2026-10-09) ¥1.7083 <br> 日涨跌 0.5001% - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "64899751385970688",

@@ -1,11 +1,11 @@
-# Corona Virus Disease 2019 - Topics
+# South China Morning Post - Topics
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `scmp`
-- Namespace Name: `Corona Virus Disease 2019`
+- Namespace Name: `South China Morning Post`
 - Route Path: `/scmp/topics/:topic`
 - Route Name: `Topics`
 - Example: `/scmp/topics/coronavirus-pandemic-all-stories`

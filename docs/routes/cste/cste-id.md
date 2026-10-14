@@ -9,7 +9,7 @@
 - Route Path: `/cste/:id?`
 - Route Name: `栏目`
 - Example: `/cste`
-- URL: `cste.org.cn`
+- URL: `www.cste.org.cn`
 - Language: `_None_`
 - Categories: `study`
 - Maintainers: `nczitzk`

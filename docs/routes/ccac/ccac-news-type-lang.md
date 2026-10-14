@@ -9,7 +9,7 @@
 - Route Path: `/ccac/news/:type/:lang?`
 - Route Name: `Latest News`
 - Example: `/ccac/news/all`
-- URL: `ccac.org.mo`
+- URL: `www.ccac.org.mo`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `linbuxiao`
@@ -30,7 +30,7 @@ Category
 
 ## Features
 - `requireConfig`: false
-- `requirePuppeteer`: true
+- `requirePuppeteer`: false
 - `antiCrawler`: false
 - `supportBT`: false
 - `supportPodcast`: false
@@ -50,7 +50,7 @@ _None_
   "features": {
     "antiCrawler": false,
     "requireConfig": false,
-    "requirePuppeteer": true,
+    "requirePuppeteer": false,
     "supportBT": false,
     "supportPodcast": false,
     "supportScihub": false

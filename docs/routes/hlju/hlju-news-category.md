@@ -34,9 +34,40 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `hdxw.hlju.edu.cn/:category.htm`
   - `hdxw.hlju.edu.cn/`
-- `target`: `/news/:category`
+- `target`: `/news`
+### Rule 2
+- `source`:
+  - `hdxw.hlju.edu.cn/hdyw.htm`
+- `target`: `/news/hdyw`
+### Rule 3
+- `source`:
+  - `hdxw.hlju.edu.cn/jjxy.htm`
+- `target`: `/news/jjxy`
+### Rule 4
+- `source`:
+  - `hdxw.hlju.edu.cn/rwfc.htm`
+- `target`: `/news/rwfc`
+### Rule 5
+- `source`:
+  - `hdxw.hlju.edu.cn/xwdt.htm`
+- `target`: `/news/xwdt`
+### Rule 6
+- `source`:
+  - `hdxw.hlju.edu.cn/jxky.htm`
+- `target`: `/news/jxky`
+### Rule 7
+- `source`:
+  - `hdxw.hlju.edu.cn/xyjw.htm`
+- `target`: `/news/xyjw`
+### Rule 8
+- `source`:
+  - `hdxw.hlju.edu.cn/jlhz.htm`
+- `target`: `/news/jlhz`
+### Rule 9
+- `source`:
+  - `hdxw.hlju.edu.cn/cxcy.htm`
+- `target`: `/news/cxcy`
 
 ## Raw JSON
 ```json
@@ -102,10 +133,57 @@ _None_
   "radar": [
     {
       "source": [
-        "hdxw.hlju.edu.cn/:category.htm",
         "hdxw.hlju.edu.cn/"
       ],
-      "target": "/news/:category"
+      "target": "/news"
+    },
+    {
+      "source": [
+        "hdxw.hlju.edu.cn/hdyw.htm"
+      ],
+      "target": "/news/hdyw"
+    },
+    {
+      "source": [
+        "hdxw.hlju.edu.cn/jjxy.htm"
+      ],
+      "target": "/news/jjxy"
+    },
+    {
+      "source": [
+        "hdxw.hlju.edu.cn/rwfc.htm"
+      ],
+      "target": "/news/rwfc"
+    },
+    {
+      "source": [
+        "hdxw.hlju.edu.cn/xwdt.htm"
+      ],
+      "target": "/news/xwdt"
+    },
+    {
+      "source": [
+        "hdxw.hlju.edu.cn/jxky.htm"
+      ],
+      "target": "/news/jxky"
+    },
+    {
+      "source": [
+        "hdxw.hlju.edu.cn/xyjw.htm"
+      ],
+      "target": "/news/xyjw"
+    },
+    {
+      "source": [
+        "hdxw.hlju.edu.cn/jlhz.htm"
+      ],
+      "target": "/news/jlhz"
+    },
+    {
+      "source": [
+        "hdxw.hlju.edu.cn/cxcy.htm"
+      ],
+      "target": "/news/cxcy"
     }
   ],
   "test": {

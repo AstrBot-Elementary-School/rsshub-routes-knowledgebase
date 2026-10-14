@@ -1,4 +1,4 @@
-# Voice of America (VOA) - Voice of America (VOA)
+# Voice of America (VOA) - News
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `voanews`
 - Namespace Name: `Voice of America (VOA)`
 - Route Path: `/voanews/:language/:channel?`
-- Route Name: `Voice of America (VOA)`
+- Route Name: `News`
 - Example: `/voanews/cantonese/zprtie-ttp`
 - URL: `www.voachinese.com`
 - Language: `_None_`
@@ -55,7 +55,7 @@ _None_
   "maintainers": [
     "zphw"
   ],
-  "name": "Voice of America (VOA)",
+  "name": "News",
   "parameters": {
     "channel": "頻道，可於官網獲取",
     "language": "語言"

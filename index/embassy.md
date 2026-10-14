@@ -3,9 +3,9 @@
 ## Namespace
 - Namespace: `embassy`
 - Display Name: `中国驻外使领馆`
-- URL: `ca.china-embassy.org`
+- URL: `ca.china-embassy.gov.cn`
 - Language: `_None_`
-- Aliases: `ca, ca.china-embassy.org, embassy, 中国驻外使领馆`
+- Aliases: `ca, ca.china-embassy.gov.cn, embassy, 中国驻外使领馆`
 - Route Count: `1`
 
 ## Routes

@@ -36,7 +36,14 @@
 ## Radar
 ### Rule 1
 - `source`:
-  - `www.shmtu.edu.cn/:type`
+  - `www.shmtu.edu.cn/xsjz/list.htm`
+  - `www.shmtu.edu.cn/events`
+- `target`: `/www/events`
+### Rule 2
+- `source`:
+  - `www.shmtu.edu.cn/12191/list.htm`
+  - `www.shmtu.edu.cn/notes`
+- `target`: `/www/notes`
 
 ## Raw JSON
 ```json
@@ -68,8 +75,17 @@
   "radar": [
     {
       "source": [
-        "www.shmtu.edu.cn/:type"
-      ]
+        "www.shmtu.edu.cn/xsjz/list.htm",
+        "www.shmtu.edu.cn/events"
+      ],
+      "target": "/www/events"
+    },
+    {
+      "source": [
+        "www.shmtu.edu.cn/12191/list.htm",
+        "www.shmtu.edu.cn/notes"
+      ],
+      "target": "/www/notes"
     }
   ],
   "test": {

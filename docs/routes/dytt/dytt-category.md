@@ -58,72 +58,86 @@
 ## Radar
 ### Rule 1
 - `source`:
-  - `${domain}/index.htm`
-  - `www.dydytt.net/html/:category`
+  - `www.dydytt.net/`
+  - `www.dydytt.net/index.htm`
+- `target`: `/gndy/dyzz`
 ### Rule 2
 - `title`: `最新影片`
 - `source`:
-  - `https://www.dydytt.net/html/gndy/dyzz/index.html`
+  - `www.dydytt.net/html/gndy/dyzz`
+  - `www.dydytt.net/html/gndy/dyzz/index.html`
 - `target`: `/gndy/dyzz`
 ### Rule 3
 - `title`: `经典影片`
 - `source`:
-  - `https://www.dydytt.net/html/gndy/index.html`
+  - `www.dydytt.net/html/gndy`
+  - `www.dydytt.net/html/gndy/index.html`
 - `target`: `/gndy`
 ### Rule 4
 - `title`: `国内电影`
 - `source`:
-  - `https://www.dydytt.net/html/gndy/china/index.html`
+  - `www.dydytt.net/html/gndy/china`
+  - `www.dydytt.net/html/gndy/china/index.html`
 - `target`: `/gndy/china`
 ### Rule 5
 - `title`: `欧美电影`
 - `source`:
-  - `https://www.dydytt.net/html/gndy/oumei/index.html`
+  - `www.dydytt.net/html/gndy/oumei`
+  - `www.dydytt.net/html/gndy/oumei/index.html`
 - `target`: `/gndy/oumei`
 ### Rule 6
 - `title`: `其它电影`
 - `source`:
-  - `https://www.dydytt.net/html/gndy/rihan/index.html`
+  - `www.dydytt.net/html/gndy/rihan`
+  - `www.dydytt.net/html/gndy/rihan/index.html`
 - `target`: `/gndy/rihan`
 ### Rule 7
 - `title`: `华语电视`
 - `source`:
-  - `https://www.dydytt.net/html/tv/hytv/index.html`
+  - `www.dydytt.net/html/tv/hytv`
+  - `www.dydytt.net/html/tv/hytv/index.html`
 - `target`: `/tv/hytv`
 ### Rule 8
 - `title`: `欧美电视`
 - `source`:
-  - `https://www.dydytt.net/html/tv/oumeitv/index.html`
+  - `www.dydytt.net/html/tv/oumeitv`
+  - `www.dydytt.net/html/tv/oumeitv/index.html`
 - `target`: `/tv/oumeitv`
 ### Rule 9
 - `title`: `最新综艺`
 - `source`:
-  - `https://www.dydytt.net/html/zongyi2013/index.html`
+  - `www.dydytt.net/html/zongyi2013`
+  - `www.dydytt.net/html/zongyi2013/index.html`
 - `target`: `/zongyi2013`
 ### Rule 10
 - `title`: `旧版综艺`
 - `source`:
-  - `https://www.dydytt.net/html/2009zongyi/index.html`
+  - `www.dydytt.net/html/2009zongyi`
+  - `www.dydytt.net/html/2009zongyi/index.html`
 - `target`: `/2009zongyi`
 ### Rule 11
 - `title`: `动漫资源`
 - `source`:
-  - `https://www.dydytt.net/html/dongman/index.html`
+  - `www.dydytt.net/html/dongman`
+  - `www.dydytt.net/html/dongman/index.html`
 - `target`: `/dongman`
 ### Rule 12
 - `title`: `旧版游戏`
 - `source`:
-  - `https://www.dydytt.net/html/game/index.html`
+  - `www.dydytt.net/html/game`
+  - `www.dydytt.net/html/game/index.html`
 - `target`: `/game`
 ### Rule 13
 - `title`: `游戏下载`
 - `source`:
-  - `https://www.dydytt.net/html/newgame/index.html`
+  - `www.dydytt.net/html/newgame`
+  - `www.dydytt.net/html/newgame/index.html`
 - `target`: `/newgame`
 ### Rule 14
 - `title`: `日韩剧集专区`
 - `source`:
-  - `https://www.dydytt.net/html/tv/rihantv/index.html`
+  - `www.dydytt.net/html/tv/rihantv`
+  - `www.dydytt.net/html/tv/rihantv/index.html`
 - `target`: `/tv/rihantv`
 
 ## Raw JSON
@@ -213,97 +227,111 @@
   "radar": [
     {
       "source": [
-        "${domain}/index.htm",
-        "www.dydytt.net/html/:category"
-      ]
+        "www.dydytt.net/",
+        "www.dydytt.net/index.htm"
+      ],
+      "target": "/gndy/dyzz"
     },
     {
       "source": [
-        "https://www.dydytt.net/html/gndy/dyzz/index.html"
+        "www.dydytt.net/html/gndy/dyzz",
+        "www.dydytt.net/html/gndy/dyzz/index.html"
       ],
       "target": "/gndy/dyzz",
       "title": "最新影片"
     },
     {
       "source": [
-        "https://www.dydytt.net/html/gndy/index.html"
+        "www.dydytt.net/html/gndy",
+        "www.dydytt.net/html/gndy/index.html"
       ],
       "target": "/gndy",
       "title": "经典影片"
     },
     {
       "source": [
-        "https://www.dydytt.net/html/gndy/china/index.html"
+        "www.dydytt.net/html/gndy/china",
+        "www.dydytt.net/html/gndy/china/index.html"
       ],
       "target": "/gndy/china",
       "title": "国内电影"
     },
     {
       "source": [
-        "https://www.dydytt.net/html/gndy/oumei/index.html"
+        "www.dydytt.net/html/gndy/oumei",
+        "www.dydytt.net/html/gndy/oumei/index.html"
       ],
       "target": "/gndy/oumei",
       "title": "欧美电影"
     },
     {
       "source": [
-        "https://www.dydytt.net/html/gndy/rihan/index.html"
+        "www.dydytt.net/html/gndy/rihan",
+        "www.dydytt.net/html/gndy/rihan/index.html"
       ],
       "target": "/gndy/rihan",
       "title": "其它电影"
     },
     {
       "source": [
-        "https://www.dydytt.net/html/tv/hytv/index.html"
+        "www.dydytt.net/html/tv/hytv",
+        "www.dydytt.net/html/tv/hytv/index.html"
       ],
       "target": "/tv/hytv",
       "title": "华语电视"
     },
     {
       "source": [
-        "https://www.dydytt.net/html/tv/oumeitv/index.html"
+        "www.dydytt.net/html/tv/oumeitv",
+        "www.dydytt.net/html/tv/oumeitv/index.html"
       ],
       "target": "/tv/oumeitv",
       "title": "欧美电视"
     },
     {
       "source": [
-        "https://www.dydytt.net/html/zongyi2013/index.html"
+        "www.dydytt.net/html/zongyi2013",
+        "www.dydytt.net/html/zongyi2013/index.html"
       ],
       "target": "/zongyi2013",
       "title": "最新综艺"
     },
     {
       "source": [
-        "https://www.dydytt.net/html/2009zongyi/index.html"
+        "www.dydytt.net/html/2009zongyi",
+        "www.dydytt.net/html/2009zongyi/index.html"
       ],
       "target": "/2009zongyi",
       "title": "旧版综艺"
     },
     {
       "source": [
-        "https://www.dydytt.net/html/dongman/index.html"
+        "www.dydytt.net/html/dongman",
+        "www.dydytt.net/html/dongman/index.html"
       ],
       "target": "/dongman",
       "title": "动漫资源"
     },
     {
       "source": [
-        "https://www.dydytt.net/html/game/index.html"
+        "www.dydytt.net/html/game",
+        "www.dydytt.net/html/game/index.html"
       ],
       "target": "/game",
       "title": "旧版游戏"
     },
     {
       "source": [
-        "https://www.dydytt.net/html/newgame/index.html"
+        "www.dydytt.net/html/newgame",
+        "www.dydytt.net/html/newgame/index.html"
       ],
       "target": "/newgame",
       "title": "游戏下载"
     },
     {
       "source": [
-        "https://www.dydytt.net/html/tv/rihantv/index.html"
+        "www.dydytt.net/html/tv/rihantv",
+        "www.dydytt.net/html/tv/rihantv/index.html"
       ],
       "target": "/tv/rihantv",
       "title": "日韩剧集专区"

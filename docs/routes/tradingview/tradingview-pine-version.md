@@ -31,6 +31,7 @@ _None_
 ### Rule 1
 - `source`:
   - `tradingview.com/pine-script-docs/en/:version/Release_notes.html`
+  - `tradingview.com/pine-script-docs/:version/release-notes/`
 - `target`: `/pine/:version`
 
 ## Raw JSON
@@ -54,7 +55,8 @@ _None_
   "radar": [
     {
       "source": [
-        "tradingview.com/pine-script-docs/en/:version/Release_notes.html"
+        "tradingview.com/pine-script-docs/en/:version/Release_notes.html",
+        "tradingview.com/pine-script-docs/:version/release-notes/"
       ],
       "target": "/pine/:version"
     }

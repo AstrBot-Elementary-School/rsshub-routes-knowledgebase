@@ -29,7 +29,8 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `thenewslens.com/review/:sort?`
+  - `thenewslens.com/review/*sort`
+  - `thenewslens.com/review`
   - `thenewslens.com/`
 - `target`: `/review/:sort?`
 
@@ -53,7 +54,8 @@ _None_
   "radar": [
     {
       "source": [
-        "thenewslens.com/review/:sort?",
+        "thenewslens.com/review/*sort",
+        "thenewslens.com/review",
         "thenewslens.com/"
       ],
       "target": "/review/:sort?"

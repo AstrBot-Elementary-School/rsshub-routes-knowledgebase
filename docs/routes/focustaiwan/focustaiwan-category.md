@@ -23,7 +23,7 @@
 
 | Politics | Cross-strait | Business | Society | Science & Tech | Culture | Sports |
 | -------- | ------------ | -------- | ------- | -------------- | ------- | ------ |
-| politics | cross-strait | business | society | science & tech | culture | sports |
+| politics | cross-strait | business | society | sci-tech       | culture | sports |
 
 ## Parameters
 - `category`: 分类，见下表，默认为 news
@@ -34,7 +34,7 @@
 - `requirePuppeteer`: false
 - `antiCrawler`: false
 - `supportBT`: false
-- `supportPodcast`: false
+- `supportPodcast`: true
 - `supportScihub`: false
 
 ## Radar
@@ -46,14 +46,14 @@ _None_
   "categories": [
     "new-media"
   ],
-  "description": "| Latest | Editor's Picks | Photos of the Day |\n| ------ | -------------- | ----------------- |\n| news   | editorspicks   | photos            |\n\n| Politics | Cross-strait | Business | Society | Science & Tech | Culture | Sports |\n| -------- | ------------ | -------- | ------- | -------------- | ------- | ------ |\n| politics | cross-strait | business | society | science & tech | culture | sports |",
+  "description": "| Latest | Editor's Picks | Photos of the Day |\n| ------ | -------------- | ----------------- |\n| news   | editorspicks   | photos            |\n\n| Politics | Cross-strait | Business | Society | Science & Tech | Culture | Sports |\n| -------- | ------------ | -------- | ------- | -------------- | ------- | ------ |\n| politics | cross-strait | business | society | sci-tech       | culture | sports |",
   "example": "/focustaiwan",
   "features": {
     "antiCrawler": false,
     "requireConfig": false,
     "requirePuppeteer": false,
     "supportBT": false,
-    "supportPodcast": false,
+    "supportPodcast": true,
     "supportScihub": false
   },
   "heat": 3,

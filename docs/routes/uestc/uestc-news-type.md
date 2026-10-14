@@ -17,9 +17,9 @@
 - Source Module: `_None_`
 
 ## Description
-| 学术    | 文化    | 公告         | 校内通知     |
-| ------- | ------- | ------------ | ------------ |
-| academy | culture | announcement | notification |
+| 学术    | 文化    | 公告         |
+| ------- | ------- | ------------ |
+| academy | culture | announcement |
 
 ## Parameters
 - `type`: 默认为 `announcement`
@@ -45,7 +45,7 @@
   "categories": [
     "university"
   ],
-  "description": "| 学术    | 文化    | 公告         | 校内通知     |\n| ------- | ------- | ------------ | ------------ |\n| academy | culture | announcement | notification |",
+  "description": "| 学术    | 文化    | 公告         |\n| ------- | ------- | ------------ |\n| academy | culture | announcement |",
   "example": "/uestc/news/culture",
   "features": {
     "antiCrawler": true,

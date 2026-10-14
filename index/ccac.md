@@ -3,9 +3,9 @@
 ## Namespace
 - Namespace: `ccac`
 - Display Name: `Macau Independent Commission Against Corruption 澳门廉政公署`
-- URL: `ccac.org.mo`
+- URL: `www.ccac.org.mo`
 - Language: `_None_`
-- Aliases: `ccac, ccac.org.mo, macau independent commission against corruption 澳门廉政公署`
+- Aliases: `ccac, ccac.org.mo, macau independent commission against corruption 澳门廉政公署, www, www.ccac.org.mo`
 - Route Count: `1`
 
 ## Routes

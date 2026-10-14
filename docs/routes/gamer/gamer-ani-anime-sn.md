@@ -32,10 +32,7 @@ _None_
 - `supportScihub`: false
 
 ## Radar
-### Rule 1
-- `source`:
-  - `ani.gamer.com.tw/`
-- `target`: `/anime/:sn`
+_None_
 
 ## Raw JSON
 ```json
@@ -63,14 +60,6 @@ _None_
     "sn": "動畫 sn，在 URL 可以找到"
   },
   "path": "/ani/anime/:sn",
-  "radar": [
-    {
-      "source": [
-        "ani.gamer.com.tw/"
-      ],
-      "target": "/anime/:sn"
-    }
-  ],
   "test": {
     "code": 1
   },

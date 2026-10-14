@@ -1,4 +1,4 @@
-# 牛客网 - 牛客热榜
+# 牛客网 - 热榜
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `nowcoder`
 - Namespace Name: `牛客网`
 - Route Path: `/nowcoder/hots/:type?`
-- Route Name: `牛客热榜`
+- Route Name: `热榜`
 - Example: `/nowcoder/hots/1?limit=20`
 - URL: `nowcoder.com/`
 - Language: `_None_`
@@ -57,7 +57,7 @@
   "maintainers": [
     "xia0ne"
   ],
-  "name": "牛客热榜",
+  "name": "热榜",
   "parameters": {
     "type": "热榜类型，`1` 指热议话题，`2` 指全站热贴，默认为 `1`"
   },

@@ -19,9 +19,9 @@
 ## Description
 ::: warning
 
-1. Open <https://ifi-audio.com/download-hub> and the Network panel
+1. Open <https://downloads.ifi-audio.com/support/download-hub> and the Network panel
 2. Select the device and the corresponding serial number in the website and click Search
-3. Find the last request named `https://ifi-audio.com/wp-admin/admin-ajax.php` in the Network panel, find out the val and id in the Payload panel, and fill in the url
+3. Find the last request named `https://downloads.ifi-audio.com/wp-admin/admin-ajax.php` in the Network panel, find out the val and id in the Payload panel, and fill in the url
 
 :::
 
@@ -47,7 +47,7 @@ _None_
   "categories": [
     "program-update"
   ],
-  "description": "::: warning\n\n1. Open <https://ifi-audio.com/download-hub> and the Network panel\n2. Select the device and the corresponding serial number in the website and click Search\n3. Find the last request named `https://ifi-audio.com/wp-admin/admin-ajax.php` in the Network panel, find out the val and id in the Payload panel, and fill in the url\n\n:::",
+  "description": "::: warning\n\n1. Open <https://downloads.ifi-audio.com/support/download-hub> and the Network panel\n2. Select the device and the corresponding serial number in the website and click Search\n3. Find the last request named `https://downloads.ifi-audio.com/wp-admin/admin-ajax.php` in the Network panel, find out the val and id in the Payload panel, and fill in the url\n\n:::",
   "example": "/ifi-audio/download/1503007035/44472",
   "features": {
     "antiCrawler": false,

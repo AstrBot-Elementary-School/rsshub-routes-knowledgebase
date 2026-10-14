@@ -34,8 +34,8 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
+  - `ruancan.com/p/category/:category`
   - `ruancan.com/cat/:category`
-  - `ruancan.com/`
 - `target`: `/category/:category`
 
 ## Raw JSON
@@ -66,8 +66,8 @@ _None_
   "radar": [
     {
       "source": [
-        "ruancan.com/cat/:category",
-        "ruancan.com/"
+        "ruancan.com/p/category/:category",
+        "ruancan.com/cat/:category"
       ],
       "target": "/category/:category"
     }

@@ -26,7 +26,7 @@ _None_
 ## Features
 - `requireConfig`: false
 - `requirePuppeteer`: false
-- `antiCrawler`: false
+- `antiCrawler`: true
 - `supportBT`: false
 - `supportPodcast`: false
 - `supportScihub`: false
@@ -34,8 +34,14 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
+  - `www.dxy.cn/bbs/newweb/pc/profile/:userId/threads`
+  - `www.dxy.cn/bbs/newweb/pc/profile/:userId`
+- `target`: `/bbs/profile/thread/:userId`
+### Rule 2
+- `source`:
   - `dxy.cn/bbs/newweb/pc/profile/:userId/threads`
   - `dxy.cn/bbs/newweb/pc/profile/:userId`
+- `target`: `/bbs/profile/thread/:userId`
 
 ## Raw JSON
 ```json
@@ -45,7 +51,7 @@ _None_
   ],
   "example": "/dxy/bbs/profile/thread/8335054",
   "features": {
-    "antiCrawler": false,
+    "antiCrawler": true,
     "requireConfig": false,
     "requirePuppeteer": false,
     "supportBT": false,
@@ -65,9 +71,17 @@ _None_
   "radar": [
     {
       "source": [
+        "www.dxy.cn/bbs/newweb/pc/profile/:userId/threads",
+        "www.dxy.cn/bbs/newweb/pc/profile/:userId"
+      ],
+      "target": "/bbs/profile/thread/:userId"
+    },
+    {
+      "source": [
         "dxy.cn/bbs/newweb/pc/profile/:userId/threads",
         "dxy.cn/bbs/newweb/pc/profile/:userId"
-      ]
+      ],
+      "target": "/bbs/profile/thread/:userId"
     }
   ],
   "test": {

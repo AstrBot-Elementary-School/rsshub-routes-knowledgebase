@@ -6,10 +6,10 @@
 ## Route
 - Namespace: `hunau`
 - Namespace Name: `湖南农业大学`
-- Route Path: `/hunau/jwc/:category?/:page?`
+- Route Path: `/hunau/jwc/:category?`
 - Route Name: `教务处`
 - Example: `/hunau/jwc`
-- URL: `xky.hunau.edu.cn/`
+- URL: `jwc.hunau.edu.cn/`
 - Language: `_None_`
 - Categories: `university`
 - Maintainers: `lcandy2`
@@ -19,11 +19,10 @@
 ## Description
 | 分类 | 通知公告 | 教务动态 | 其他教务通知... |
 | ---- | -------- | -------- | --------------- |
-| 参数 | tzgg     | jwds     | 对应 URL        |
+| 参数 | tzgg     | jwdt     | 对应 URL        |
 
 ## Parameters
 - `category`: 页面分类，默认为 `tzgg`
-- `page`: 页码，默认为 `1`
 
 
 ## Features
@@ -37,10 +36,18 @@
 ## Radar
 ### Rule 1
 - `source`:
-  - `xky.hunau.edu.cn/`
-  - `xky.hunau.edu.cn/tzgg_8472`
-  - `xky.hunau.edu.cn/:category`
-- `target`: `/:category`
+  - `jwc.hunau.edu.cn/`
+- `target`: `/jwc`
+### Rule 2
+- `source`:
+  - `jwc.hunau.edu.cn/tzgg`
+  - `jwc.hunau.edu.cn/tzgg/index.html`
+- `target`: `/jwc`
+### Rule 3
+- `source`:
+  - `jwc.hunau.edu.cn/jwdt`
+  - `jwc.hunau.edu.cn/jwdt/index.html`
+- `target`: `/jwc/jwdt`
 
 ## Raw JSON
 ```json
@@ -48,7 +55,7 @@
   "categories": [
     "university"
   ],
-  "description": "| 分类 | 通知公告 | 教务动态 | 其他教务通知... |\n| ---- | -------- | -------- | --------------- |\n| 参数 | tzgg     | jwds     | 对应 URL        |",
+  "description": "| 分类 | 通知公告 | 教务动态 | 其他教务通知... |\n| ---- | -------- | -------- | --------------- |\n| 参数 | tzgg     | jwdt     | 对应 URL        |",
   "example": "/hunau/jwc",
   "features": {
     "antiCrawler": false,
@@ -65,24 +72,32 @@
   ],
   "name": "教务处",
   "parameters": {
-    "category": "页面分类，默认为 `tzgg`",
-    "page": "页码，默认为 `1`"
+    "category": "页面分类，默认为 `tzgg`"
   },
-  "path": "/jwc/:category?/:page?",
+  "path": "/jwc/:category?",
   "radar": [
     {
       "source": [
-        "xky.hunau.edu.cn/",
-        "xky.hunau.edu.cn/tzgg_8472",
-        "xky.hunau.edu.cn/:category"
+        "jwc.hunau.edu.cn/"
       ],
-      "target": "/:category"
+      "target": "/jwc"
+    },
+    {
+      "source": [
+        "jwc.hunau.edu.cn/tzgg",
+        "jwc.hunau.edu.cn/tzgg/index.html"
+      ],
+      "target": "/jwc"
+    },
+    {
+      "source": [
+        "jwc.hunau.edu.cn/jwdt",
+        "jwc.hunau.edu.cn/jwdt/index.html"
+      ],
+      "target": "/jwc/jwdt"
     }
   ],
-  "test": {
-    "code": 1
-  },
   "topFeeds": [],
-  "url": "xky.hunau.edu.cn/"
+  "url": "jwc.hunau.edu.cn/"
 }
 ```

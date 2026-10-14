@@ -3,9 +3,9 @@
 ## Namespace
 - Namespace: `uptimerobot`
 - Display Name: `Uptime Robot`
-- URL: `rss.uptimerobot.com`
+- URL: `uptimerobot.com`
 - Language: `_None_`
-- Aliases: `rss, rss.uptimerobot.com, uptime robot, uptimerobot`
+- Aliases: `uptime robot, uptimerobot, uptimerobot.com`
 - Route Count: `1`
 
 ## Routes

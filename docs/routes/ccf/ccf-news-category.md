@@ -37,8 +37,11 @@
 ### Rule 1
 - `source`:
   - `ccf.org.cn/:category`
-  - `ccf.org.cn/`
 - `target`: `/news/:category`
+### Rule 2
+- `source`:
+  - `ccf.org.cn/`
+- `target`: `/news`
 
 ## Raw JSON
 ```json
@@ -69,10 +72,15 @@
   "radar": [
     {
       "source": [
-        "ccf.org.cn/:category",
-        "ccf.org.cn/"
+        "ccf.org.cn/:category"
       ],
       "target": "/news/:category"
+    },
+    {
+      "source": [
+        "ccf.org.cn/"
+      ],
+      "target": "/news"
     }
   ],
   "test": {

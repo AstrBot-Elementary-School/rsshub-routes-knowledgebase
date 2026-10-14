@@ -1,13 +1,13 @@
-# guozaoke - 过早客
+# 过早客 - 首页
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `guozaoke`
-- Namespace Name: `guozaoke`
+- Namespace Name: `过早客`
 - Route Path: `/guozaoke/default`
-- Route Name: `过早客`
+- Route Name: `首页`
 - Example: `/guozaoke/default`
 - URL: `guozaoke.com/`
 - Language: `_None_`
@@ -54,7 +54,7 @@ _None_
   "maintainers": [
     "xiaoshame"
   ],
-  "name": "过早客",
+  "name": "首页",
   "parameters": {},
   "path": "/default",
   "test": {

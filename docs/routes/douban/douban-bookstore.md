@@ -1,4 +1,4 @@
-# 豆瓣 - 豆瓣书店
+# 豆瓣 - 书店
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `douban`
 - Namespace Name: `豆瓣`
 - Route Path: `/douban/bookstore`
-- Route Name: `豆瓣书店`
+- Route Name: `书店`
 - Example: `/douban/bookstore`
 - URL: `www.douban.com`
 - Language: `_None_`
@@ -54,7 +54,7 @@ _None_
   "maintainers": [
     "xyqfer"
   ],
-  "name": "豆瓣书店",
+  "name": "书店",
   "parameters": {},
   "path": "/bookstore",
   "test": {

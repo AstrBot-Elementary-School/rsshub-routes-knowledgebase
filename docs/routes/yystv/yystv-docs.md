@@ -1,4 +1,4 @@
-# 游研社 - 游研社 - 全部文章
+# 游研社 - 全部文章
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `yystv`
 - Namespace Name: `游研社`
 - Route Path: `/yystv/docs`
-- Route Name: `游研社 - 全部文章`
+- Route Name: `全部文章`
 - Example: `/yystv/docs`
 - URL: `yystv.cn/docs`
 - Language: `_None_`
@@ -57,7 +57,7 @@ _None_
     "HaitianLiu",
     "yy4382"
   ],
-  "name": "游研社 - 全部文章",
+  "name": "全部文章",
   "parameters": {},
   "path": "/docs",
   "radar": [

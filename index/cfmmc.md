@@ -3,9 +3,9 @@
 ## Namespace
 - Namespace: `cfmmc`
 - Display Name: `中国期货市场监控中心`
-- URL: `cfmmc.com`
+- URL: `www.cfmmc.com`
 - Language: `_None_`
-- Aliases: `cfmmc, cfmmc.com, 中国期货市场监控中心`
+- Aliases: `cfmmc, cfmmc.com, www, www.cfmmc.com, 中国期货市场监控中心`
 - Route Count: `1`
 
 ## Routes

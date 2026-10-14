@@ -31,7 +31,7 @@ _None_
 - `source`:
   - `fda.gov/medical-devices/news-events-medical-devices/cdrhnew-news-and-updates`
   - `fda.gov/`
-- `target`: `/cdrh/:titleOnly`
+- `target`: `/cdrh`
 
 ## Raw JSON
 ```json
@@ -56,7 +56,7 @@ _None_
         "fda.gov/medical-devices/news-events-medical-devices/cdrhnew-news-and-updates",
         "fda.gov/"
       ],
-      "target": "/cdrh/:titleOnly"
+      "target": "/cdrh"
     }
   ],
   "test": {

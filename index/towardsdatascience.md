@@ -10,7 +10,7 @@
 
 ## Routes
 
-### Towards Data Science
+### Latest articles
 - Route ID: `towardsdatascience:/towardsdatascience/latest`
 - Route Path: `/towardsdatascience/latest`
 - File: `docs/routes/towardsdatascience/towardsdatascience-latest.md`

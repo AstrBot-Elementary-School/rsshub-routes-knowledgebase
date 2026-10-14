@@ -36,6 +36,7 @@
 ## Radar
 ### Rule 1
 - `source`:
+  - `www.crac.org.cn/`
   - `www.crac.org.cn/News/*`
 
 ## Raw JSON
@@ -67,6 +68,7 @@
   "radar": [
     {
       "source": [
+        "www.crac.org.cn/",
         "www.crac.org.cn/News/*"
       ]
     }

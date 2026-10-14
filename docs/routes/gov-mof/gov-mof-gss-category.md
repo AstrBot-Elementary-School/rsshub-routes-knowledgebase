@@ -39,6 +39,7 @@
 ### Rule 1
 - `source`:
   - `gss.mof.gov.cn/gzdt/:category/`
+  - `gss.mof.gov.cn/gzdt/:category/index.htm`
 - `target`: `/gss/:category`
 
 ## Raw JSON
@@ -70,7 +71,8 @@
   "radar": [
     {
       "source": [
-        "gss.mof.gov.cn/gzdt/:category/"
+        "gss.mof.gov.cn/gzdt/:category/",
+        "gss.mof.gov.cn/gzdt/:category/index.htm"
       ],
       "target": "/gss/:category"
     }
@@ -81,7 +83,7 @@
   "topFeeds": [
     {
       "description": "政策解读 - 中华人民共和国财政部 - Powered by RSSHub",
-      "errorAt": "2026-10-12T04:37:36.120Z",
+      "errorAt": "2026-10-13T15:44:16.060Z",
       "errorMessage": "[GET] \"https://gss.mof.gov.cn/gzdt/zhengcejiedu/\": 502 Bad Gateway\n",
       "id": "145117484898967552",
       "image": null,
@@ -93,8 +95,8 @@
     },
     {
       "description": "政策文件 - 中华人民共和国财政部 - Powered by RSSHub",
-      "errorAt": "2026-10-12T03:24:38.072Z",
-      "errorMessage": "[GET] \"https://gss.mof.gov.cn/gzdt/zhengcefabu/\": 502 Bad Gateway\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "133069318957962240",
       "image": null,
       "ownerUserId": null,

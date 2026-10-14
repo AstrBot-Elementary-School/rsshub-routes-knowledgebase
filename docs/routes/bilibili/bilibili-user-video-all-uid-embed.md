@@ -25,7 +25,7 @@ _None_
 
 
 ## Features
-_None_
+- `requirePuppeteer`: true
 
 ## Radar
 _None_
@@ -37,6 +37,9 @@ _None_
     "social-media"
   ],
   "example": "/bilibili/user/video-all/2267573",
+  "features": {
+    "requirePuppeteer": true
+  },
   "heat": 1264,
   "location": "video-all.ts",
   "maintainers": [

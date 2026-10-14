@@ -1,15 +1,15 @@
-# Gitpod - Blog
+# Ona - Blog
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gitpod`
-- Namespace Name: `Gitpod`
+- Namespace Name: `Ona`
 - Route Path: `/gitpod/blog`
 - Route Name: `Blog`
 - Example: `/gitpod/blog`
-- URL: `gitpod.io/blog`
+- URL: `ona.com/stories`
 - Language: `_None_`
 - Categories: `programming`
 - Maintainers: `TonyRL`
@@ -34,6 +34,8 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
+  - `ona.com/stories`
+  - `ona.com/`
   - `gitpod.io/blog`
   - `gitpod.io/`
 
@@ -63,6 +65,8 @@ _None_
   "radar": [
     {
       "source": [
+        "ona.com/stories",
+        "ona.com/",
         "gitpod.io/blog",
         "gitpod.io/"
       ]
@@ -86,6 +90,6 @@ _None_
       "url": "rsshub://gitpod/blog"
     }
   ],
-  "url": "gitpod.io/blog"
+  "url": "ona.com/stories"
 }
 ```

@@ -36,6 +36,7 @@
 ## Radar
 ### Rule 1
 - `source`:
+  - `jwc.shmtu.edu.cn/:type/list.htm`
   - `jwc.shmtu.edu.cn/:type`
 
 ## Raw JSON
@@ -68,6 +69,7 @@
   "radar": [
     {
       "source": [
+        "jwc.shmtu.edu.cn/:type/list.htm",
         "jwc.shmtu.edu.cn/:type"
       ]
     }

@@ -29,7 +29,8 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `thenewslens.com/videos/Projects/:sort?`
+  - `thenewslens.com/videos/Projects/*sort`
+  - `thenewslens.com/videos/Projects`
 - `target`: `/videos/Projects/:sort?`
 
 ## Raw JSON
@@ -52,7 +53,8 @@ _None_
   "radar": [
     {
       "source": [
-        "thenewslens.com/videos/Projects/:sort?"
+        "thenewslens.com/videos/Projects/*sort",
+        "thenewslens.com/videos/Projects"
       ],
       "target": "/videos/Projects/:sort?"
     }

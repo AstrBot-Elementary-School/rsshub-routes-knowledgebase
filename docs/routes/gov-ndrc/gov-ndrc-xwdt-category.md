@@ -30,9 +30,35 @@ _None_
 
 ## Radar
 ### Rule 1
-- `title`: `中华人民共和国国家发展和改革委员会 - 新闻动态`
+- `title`: `新闻发布`
 - `source`:
-  - `ndrc.gov.cn/xwdt/:category*`
+  - `ndrc.gov.cn/xwdt/xwfb/`
+  - `ndrc.gov.cn/xwdt/xwfb/*`
+- `target`: `/xwdt/xwfb`
+### Rule 2
+- `title`: `通知通告`
+- `source`:
+  - `ndrc.gov.cn/xwdt/tzgg/`
+  - `ndrc.gov.cn/xwdt/tzgg/*`
+- `target`: `/xwdt/tzgg`
+### Rule 3
+- `title`: `委领导动态`
+- `source`:
+  - `ndrc.gov.cn/xwdt/dt/wlddt/`
+  - `ndrc.gov.cn/xwdt/dt/wlddt/*`
+- `target`: `/xwdt/wlddt`
+### Rule 4
+- `title`: `司局动态`
+- `source`:
+  - `ndrc.gov.cn/xwdt/dt/sjdt/`
+  - `ndrc.gov.cn/xwdt/dt/sjdt/*`
+- `target`: `/xwdt/sjdt`
+### Rule 5
+- `title`: `地方动态`
+- `source`:
+  - `ndrc.gov.cn/xwdt/dt/dfdt/`
+  - `ndrc.gov.cn/xwdt/dt/dfdt/*`
+- `target`: `/xwdt/dfdt`
 
 ## Raw JSON
 ```json
@@ -55,9 +81,43 @@ _None_
   "radar": [
     {
       "source": [
-        "ndrc.gov.cn/xwdt/:category*"
+        "ndrc.gov.cn/xwdt/xwfb/",
+        "ndrc.gov.cn/xwdt/xwfb/*"
       ],
-      "title": "中华人民共和国国家发展和改革委员会 - 新闻动态"
+      "target": "/xwdt/xwfb",
+      "title": "新闻发布"
+    },
+    {
+      "source": [
+        "ndrc.gov.cn/xwdt/tzgg/",
+        "ndrc.gov.cn/xwdt/tzgg/*"
+      ],
+      "target": "/xwdt/tzgg",
+      "title": "通知通告"
+    },
+    {
+      "source": [
+        "ndrc.gov.cn/xwdt/dt/wlddt/",
+        "ndrc.gov.cn/xwdt/dt/wlddt/*"
+      ],
+      "target": "/xwdt/wlddt",
+      "title": "委领导动态"
+    },
+    {
+      "source": [
+        "ndrc.gov.cn/xwdt/dt/sjdt/",
+        "ndrc.gov.cn/xwdt/dt/sjdt/*"
+      ],
+      "target": "/xwdt/sjdt",
+      "title": "司局动态"
+    },
+    {
+      "source": [
+        "ndrc.gov.cn/xwdt/dt/dfdt/",
+        "ndrc.gov.cn/xwdt/dt/dfdt/*"
+      ],
+      "target": "/xwdt/dfdt",
+      "title": "地方动态"
     }
   ],
   "test": {

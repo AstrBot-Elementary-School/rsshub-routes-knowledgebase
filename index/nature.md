@@ -26,7 +26,7 @@
 - Categories: `journal`
 - Maintainers: `y9c, TonyRL`
 
-### Nature News
+### News
 - Route ID: `nature:/nature/news`
 - Route Path: `/nature/news`
 - File: `docs/routes/nature/nature-news.md`

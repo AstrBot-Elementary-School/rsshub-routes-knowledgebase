@@ -9,7 +9,7 @@
 - Route Path: `/supchina/`
 - Route Name: `Feed`
 - Example: `/supchina`
-- URL: `supchina.com/feed`
+- URL: `thechinaproject.com`
 - Language: `_None_`
 - Categories: `new-media`
 - Maintainers: `nczitzk`
@@ -17,7 +17,7 @@
 - Source Module: `_None_`
 
 ## Description
-_None_
+The China Project, formerly SupChina, closed in November 2023. This route provides its official news archive; the latest archived post is from December 2023.
 
 ## Parameters
 _None_
@@ -32,6 +32,11 @@ _None_
   - `supchina.com/feed`
   - `supchina.com/`
 - `target`: ``
+### Rule 2
+- `source`:
+  - `thechinaproject.com/feed`
+  - `thechinaproject.com/`
+- `target`: ``
 
 ## Raw JSON
 ```json
@@ -39,6 +44,7 @@ _None_
   "categories": [
     "new-media"
   ],
+  "description": "The China Project, formerly SupChina, closed in November 2023. This route provides its official news archive; the latest archived post is from December 2023.",
   "example": "/supchina",
   "heat": 0,
   "location": "index.ts",
@@ -54,12 +60,19 @@ _None_
         "supchina.com/"
       ],
       "target": ""
+    },
+    {
+      "source": [
+        "thechinaproject.com/feed",
+        "thechinaproject.com/"
+      ],
+      "target": ""
     }
   ],
   "test": {
     "code": 1
   },
   "topFeeds": [],
-  "url": "supchina.com/feed"
+  "url": "thechinaproject.com"
 }
 ```

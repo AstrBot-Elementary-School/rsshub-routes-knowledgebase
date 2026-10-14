@@ -41,21 +41,15 @@
 ## Radar
 ### Rule 1
 - `source`:
-  - `lib.tsinghua.edu.cn/zydt/:category?`
-### Rule 2
-- `title`: `图书馆资源动态`
-- `source`:
-  - `lib.tsinghua.edu.cn/zydt`
+  - `lib.tsinghua.edu.cn/zydt.htm`
 - `target`: `/lib/zydt`
-### Rule 3
-- `title`: `图书馆已购资源动态`
+### Rule 2
 - `source`:
-  - `lib.tsinghua.edu.cn/zydt/yg`
+  - `lib.tsinghua.edu.cn/zydt/yg.htm`
 - `target`: `/lib/zydt/yg`
-### Rule 4
-- `title`: `图书馆试用资源动态`
+### Rule 3
 - `source`:
-  - `lib.tsinghua.edu.cn/zydt/sy`
+  - `lib.tsinghua.edu.cn/zydt/sy.htm`
 - `target`: `/lib/zydt/sy`
 
 ## Raw JSON
@@ -88,29 +82,21 @@
   "radar": [
     {
       "source": [
-        "lib.tsinghua.edu.cn/zydt/:category?"
-      ]
+        "lib.tsinghua.edu.cn/zydt.htm"
+      ],
+      "target": "/lib/zydt"
     },
     {
       "source": [
-        "lib.tsinghua.edu.cn/zydt"
+        "lib.tsinghua.edu.cn/zydt/yg.htm"
       ],
-      "target": "/lib/zydt",
-      "title": "图书馆资源动态"
+      "target": "/lib/zydt/yg"
     },
     {
       "source": [
-        "lib.tsinghua.edu.cn/zydt/yg"
+        "lib.tsinghua.edu.cn/zydt/sy.htm"
       ],
-      "target": "/lib/zydt/yg",
-      "title": "图书馆已购资源动态"
-    },
-    {
-      "source": [
-        "lib.tsinghua.edu.cn/zydt/sy"
-      ],
-      "target": "/lib/zydt/sy",
-      "title": "图书馆试用资源动态"
+      "target": "/lib/zydt/sy"
     }
   ],
   "test": {

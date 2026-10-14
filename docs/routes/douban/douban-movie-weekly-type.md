@@ -12,7 +12,7 @@
 - URL: `www.douban.com`
 - Language: `_None_`
 - Categories: `social-media`
-- Maintainers: `numm233, nczitzk`
+- Maintainers: `umm233, nczitzk`
 - Source Location: `other/weekly-best.tsx`
 - Source Module: `_None_`
 
@@ -55,7 +55,7 @@ _None_
   "heat": 485,
   "location": "other/weekly-best.tsx",
   "maintainers": [
-    "numm233",
+    "umm233",
     "nczitzk"
   ],
   "name": "一周口碑榜",

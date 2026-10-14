@@ -35,7 +35,7 @@ _None_
 ### Rule 1
 - `source`:
   - `www.humanlayer.dev/blog`
-- `target`: `/humanlayer/blog`
+- `target`: `/blog`
 
 ## Raw JSON
 ```json
@@ -65,7 +65,7 @@ _None_
       "source": [
         "www.humanlayer.dev/blog"
       ],
-      "target": "/humanlayer/blog"
+      "target": "/blog"
     }
   ],
   "test": {

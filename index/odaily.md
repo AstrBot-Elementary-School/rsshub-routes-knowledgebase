@@ -11,10 +11,10 @@
 ## Routes
 
 ### 文章
-- Route ID: `odaily:/odaily/:id?`
-- Route Path: `/odaily/:id?`
-- File: `docs/routes/odaily/odaily-id.md`
-- File Name: `odaily-id.md`
+- Route ID: `odaily:/odaily/:id{280}?`
+- Route Path: `/odaily/:id{280}?`
+- File: `docs/routes/odaily/odaily-id-280.md`
+- File Name: `odaily-id-280.md`
 - Categories: `new-media`
 - Maintainers: `nczitzk`
 

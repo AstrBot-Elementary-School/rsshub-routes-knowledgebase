@@ -1,4 +1,4 @@
-# 知乎 - 知乎日报
+# 知乎 - 日报
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `zhihu`
 - Namespace Name: `知乎`
 - Route Path: `/zhihu/daily`
-- Route Name: `知乎日报`
+- Route Name: `日报`
 - Example: `/zhihu/daily`
 - URL: `daily.zhihu.com/*`
 - Language: `_None_`
@@ -51,13 +51,13 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 868,
+  "heat": 866,
   "location": "daily.ts",
   "maintainers": [
     "DHPO",
     "pseudoyu"
   ],
-  "name": "知乎日报",
+  "name": "日报",
   "parameters": {},
   "path": "/daily",
   "radar": [

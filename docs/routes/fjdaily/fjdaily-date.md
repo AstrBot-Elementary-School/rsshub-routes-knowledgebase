@@ -9,7 +9,7 @@
 - Route Path: `/fjdaily/:date?`
 - Route Name: `电子报`
 - Example: `/fjdaily/20260316`
-- URL: `fjdaily.com`
+- URL: `fjrb.fjdaily.com/pc/col/index.html`
 - Language: `_None_`
 - Categories: `traditional-media`
 - Maintainers: `DakoWang`
@@ -20,7 +20,7 @@
 留空时抓取最新一期全部版面，也可以通过日期参数抓取指定日期的全部版面内容。
 
 ## Parameters
-- `date`: 日期，格式为 `YYYYMMDD`，留空时抓取当天全部版面，例如 `20260316`
+- `date`: 日期，格式为 `YYYYMMDD`，留空时抓取最新一期全部版面，例如 `20260316`
 
 
 ## Features
@@ -63,7 +63,7 @@
   ],
   "name": "电子报",
   "parameters": {
-    "date": "日期，格式为 `YYYYMMDD`，留空时抓取当天全部版面，例如 `20260316`"
+    "date": "日期，格式为 `YYYYMMDD`，留空时抓取最新一期全部版面，例如 `20260316`"
   },
   "path": "/:date?",
   "radar": [

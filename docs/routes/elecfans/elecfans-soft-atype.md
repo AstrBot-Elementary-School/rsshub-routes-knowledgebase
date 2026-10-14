@@ -34,7 +34,8 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `www.elecfans.com`
+  - `www.elecfans.com/soft/:atype`
+- `target`: `/soft/:atype`
 
 ## Raw JSON
 ```json
@@ -64,8 +65,9 @@ _None_
   "radar": [
     {
       "source": [
-        "www.elecfans.com"
-      ]
+        "www.elecfans.com/soft/:atype"
+      ],
+      "target": "/soft/:atype"
     }
   ],
   "test": {

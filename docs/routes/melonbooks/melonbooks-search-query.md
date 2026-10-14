@@ -22,7 +22,7 @@
 :::
 
 ## Parameters
-- `category`: 链接参数，对应网址问号后的内容，不携带问号
+- `query`: 链接参数，对应网址问号后的内容，不携带问号
 
 
 ## Features
@@ -61,7 +61,7 @@ _None_
   ],
   "name": "搜索结果",
   "parameters": {
-    "category": "链接参数，对应网址问号后的内容，不携带问号"
+    "query": "链接参数，对应网址问号后的内容，不携带问号"
   },
   "path": "/search/:query?",
   "test": {

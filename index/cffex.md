@@ -3,9 +3,9 @@
 ## Namespace
 - Namespace: `cffex`
 - Display Name: `中国金融期货交易所`
-- URL: `cffex.com.cn`
+- URL: `www.cffex.com.cn`
 - Language: `_None_`
-- Aliases: `cffex, cffex.com.cn, 中国金融期货交易所`
+- Aliases: `cffex, cffex.com.cn, www, www.cffex.com.cn, 中国金融期货交易所`
 - Route Count: `1`
 
 ## Routes

@@ -10,7 +10,7 @@
 
 ## Routes
 
-### Thailand Parliament Draft of Law's public hearing system
+### Draft law public hearings
 - Route ID: `parliament:/parliament/section77/:type?`
 - Route Path: `/parliament/section77/:type?`
 - File: `docs/routes/parliament/parliament-section77-type.md`

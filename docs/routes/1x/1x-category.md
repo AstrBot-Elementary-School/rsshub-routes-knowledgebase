@@ -11,7 +11,7 @@
 - Example: `/1x/latest/awarded`
 - URL: `1x.com`
 - Language: `_None_`
-- Categories: `design, picture, popular`
+- Categories: `picture, popular`
 - Maintainers: `nczitzk`
 - Source Location: `index.tsx`
 - Source Module: `_None_`
@@ -49,7 +49,6 @@ If you subscribe to [Wildlife Published](https://1x.com/gallery/wildlife/publish
 ```json
 {
   "categories": [
-    "design",
     "picture",
     "popular"
   ],
@@ -64,7 +63,7 @@ If you subscribe to [Wildlife Published](https://1x.com/gallery/wildlife/publish
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 55382,
+  "heat": 55465,
   "location": "index.tsx",
   "maintainers": [
     "nczitzk"

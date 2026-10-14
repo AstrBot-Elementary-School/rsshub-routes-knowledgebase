@@ -31,13 +31,13 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `mixi.social/:id`
-- `target`: `/user/:id`
+  - `mixi.social/:name`
+- `target`: `/user/:name`
 - `title`: `ユーザー - ポスト`
 ### Rule 2
 - `source`:
-  - `mixi.social/:id`
-- `target`: `/user/:id/media`
+  - `mixi.social/:name`
+- `target`: `/user/:name/media`
 - `title`: `ユーザー - メディア`
 
 ## Raw JSON
@@ -78,16 +78,16 @@ _None_
   "radar": [
     {
       "source": [
-        "mixi.social/:id"
+        "mixi.social/:name"
       ],
-      "target": "/user/:id",
+      "target": "/user/:name",
       "title": "ユーザー - ポスト"
     },
     {
       "source": [
-        "mixi.social/:id"
+        "mixi.social/:name"
       ],
-      "target": "/user/:id/media",
+      "target": "/user/:name/media",
       "title": "ユーザー - メディア"
     }
   ],

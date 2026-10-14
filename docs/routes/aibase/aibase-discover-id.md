@@ -138,6 +138,7 @@
 ### Rule 1
 - `source`:
   - `top.aibase.com/discover/:id`
+- `target`: `/discover/:id?`
 ### Rule 2
 - `title`: `图像处理 - 图片背景移除`
 - `source`:
@@ -345,7 +346,8 @@
     {
       "source": [
         "top.aibase.com/discover/:id"
-      ]
+      ],
+      "target": "/discover/:id?"
     },
     {
       "source": [

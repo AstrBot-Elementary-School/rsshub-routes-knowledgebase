@@ -1,4 +1,4 @@
-# 西南财经大学 - 经济信息工程学院
+# 西南财经大学 - 计算机与人工智能学院
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `swufe`
 - Namespace Name: `西南财经大学`
 - Route Path: `/swufe/seie/:type?`
-- Route Name: `经济信息工程学院`
+- Route Name: `计算机与人工智能学院`
 - Example: `/swufe/seie/tzgg`
 - URL: `it.swufe.edu.cn`
 - Language: `_None_`
@@ -51,7 +51,7 @@ _None_
   "maintainers": [
     "Hivol"
   ],
-  "name": "经济信息工程学院",
+  "name": "计算机与人工智能学院",
   "parameters": {
     "type": "分类名，默认为 tzgg"
   },

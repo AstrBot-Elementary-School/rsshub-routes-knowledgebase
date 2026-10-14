@@ -38,7 +38,7 @@
 </details>
 
 ## Parameters
-- `category`: {"description": "分类，默认为 `tzgg`，即通知公告，可在对应分类页 URL 中找到", "options": [{"label": "通知公告", "value": "tzgg"}, {"label": "综合新闻", "value": "zhxw"}, {"label": "高水平课程与学术交流", "value": "gspkcyxsjl"}, {"label": "国家政策", "value": "gjzc"}, {"label": "规章制度", "value": "17546"}, {"label": "办事流程", "value": "17547"}, {"label": "常见问题", "value": "17548"}, {"label": "常见下载", "value": "17549"}]}
+- `id`: {"description": "分类，默认为 `tzgg`，即通知公告，可在对应分类页 URL 中找到", "options": [{"label": "通知公告", "value": "tzgg"}, {"label": "综合新闻", "value": "zhxw"}, {"label": "高水平课程与学术交流", "value": "gspkcyxsjl"}, {"label": "国家政策", "value": "gjzc"}, {"label": "规章制度", "value": "17546"}, {"label": "办事流程", "value": "17547"}, {"label": "常见问题", "value": "17548"}, {"label": "常见下载", "value": "17549"}]}
 
 
 ## Features
@@ -54,43 +54,48 @@
 ### Rule 1
 - `source`:
   - `hitgs.hit.edu.cn`
-  - `hitgs.hit.edu.cn/:id/list.htm`
+  - `hitgs.hit.edu.cn/main.htm`
+- `target`: `/hitgs`
 ### Rule 2
+- `source`:
+  - `hitgs.hit.edu.cn/:id/list.htm`
+- `target`: `/hitgs/:id`
+### Rule 3
 - `title`: `通知公告`
 - `source`:
   - `hitgs.hit.edu.cn/tzgg/list.htm`
 - `target`: `/hitgs/tzgg`
-### Rule 3
+### Rule 4
 - `title`: `综合新闻`
 - `source`:
   - `hitgs.hit.edu.cn/zhxw/list.htm`
 - `target`: `/hitgs/zhxw`
-### Rule 4
+### Rule 5
 - `title`: `高水平课程与学术交流`
 - `source`:
   - `hitgs.hit.edu.cn/gspkcyxsjl/list.htm`
 - `target`: `/hitgs/gspkcyxsjl`
-### Rule 5
+### Rule 6
 - `title`: `国家政策`
 - `source`:
   - `hitgs.hit.edu.cn/gjzc/list.htm`
 - `target`: `/hitgs/gjzc`
-### Rule 6
+### Rule 7
 - `title`: `规章制度`
 - `source`:
   - `hitgs.hit.edu.cn/17546/list.htm`
 - `target`: `/hitgs/17546`
-### Rule 7
+### Rule 8
 - `title`: `办事流程`
 - `source`:
   - `hitgs.hit.edu.cn/17547/list.htm`
 - `target`: `/hitgs/17547`
-### Rule 8
+### Rule 9
 - `title`: `常见问题`
 - `source`:
   - `hitgs.hit.edu.cn/17548/list.htm`
 - `target`: `/hitgs/17548`
-### Rule 9
+### Rule 10
 - `title`: `常见下载`
 - `source`:
   - `hitgs.hit.edu.cn/17549/list.htm`
@@ -121,7 +126,7 @@
   ],
   "name": "研究生院",
   "parameters": {
-    "category": {
+    "id": {
       "description": "分类，默认为 `tzgg`，即通知公告，可在对应分类页 URL 中找到",
       "options": [
         {
@@ -164,8 +169,15 @@
     {
       "source": [
         "hitgs.hit.edu.cn",
+        "hitgs.hit.edu.cn/main.htm"
+      ],
+      "target": "/hitgs"
+    },
+    {
+      "source": [
         "hitgs.hit.edu.cn/:id/list.htm"
-      ]
+      ],
+      "target": "/hitgs/:id"
     },
     {
       "source": [

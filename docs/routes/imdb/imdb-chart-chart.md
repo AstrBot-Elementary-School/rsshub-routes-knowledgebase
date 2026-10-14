@@ -31,7 +31,20 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `www.imdb.com/chart/:chart/`
+  - `www.imdb.com/chart/top/`
+- `target`: `/chart/top`
+### Rule 2
+- `source`:
+  - `www.imdb.com/chart/moviemeter/`
+- `target`: `/chart/moviemeter`
+### Rule 3
+- `source`:
+  - `www.imdb.com/chart/toptv/`
+- `target`: `/chart/toptv`
+### Rule 4
+- `source`:
+  - `www.imdb.com/chart/tvmeter/`
+- `target`: `/chart/tvmeter`
 
 ## Raw JSON
 ```json
@@ -76,8 +89,27 @@ _None_
   "radar": [
     {
       "source": [
-        "www.imdb.com/chart/:chart/"
-      ]
+        "www.imdb.com/chart/top/"
+      ],
+      "target": "/chart/top"
+    },
+    {
+      "source": [
+        "www.imdb.com/chart/moviemeter/"
+      ],
+      "target": "/chart/moviemeter"
+    },
+    {
+      "source": [
+        "www.imdb.com/chart/toptv/"
+      ],
+      "target": "/chart/toptv"
+    },
+    {
+      "source": [
+        "www.imdb.com/chart/tvmeter/"
+      ],
+      "target": "/chart/tvmeter"
     }
   ],
   "test": {

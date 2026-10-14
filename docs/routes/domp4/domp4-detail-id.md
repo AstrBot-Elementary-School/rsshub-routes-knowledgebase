@@ -40,6 +40,7 @@
 ## Radar
 ### Rule 1
 - `source`:
+  - `www.xlmp4.com/html/:id`
   - `www.xlmp4.com/detail/:id`
 
 ## Raw JSON
@@ -72,6 +73,7 @@
   "radar": [
     {
       "source": [
+        "www.xlmp4.com/html/:id",
         "www.xlmp4.com/detail/:id"
       ]
     }

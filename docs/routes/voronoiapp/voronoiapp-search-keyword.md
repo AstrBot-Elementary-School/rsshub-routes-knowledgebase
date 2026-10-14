@@ -30,6 +30,7 @@ _None_
 ### Rule 1
 - `source`:
   - `www.voronoiapp.com/explore`
+- `target`: `/search/:keyword`
 
 ## Raw JSON
 ```json
@@ -52,7 +53,8 @@ _None_
     {
       "source": [
         "www.voronoiapp.com/explore"
-      ]
+      ],
+      "target": "/search/:keyword"
     }
   ],
   "test": {

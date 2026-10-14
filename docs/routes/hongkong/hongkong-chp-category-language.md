@@ -9,7 +9,7 @@
 - Route Path: `/hongkong/chp/:category?/:language?`
 - Route Name: `Category`
 - Example: `/hongkong/chp`
-- URL: `dh.gov.hk/`
+- URL: `www.chp.gov.hk/`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `nczitzk`
@@ -40,7 +40,32 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `dh.gov.hk/`
+  - `www.chp.gov.hk/en/index.html`
+- `target`: `/chp/important_ft/en`
+### Rule 2
+- `source`:
+  - `www.chp.gov.hk/en/media/116/index.html`
+- `target`: `/chp/press_data_index/en`
+### Rule 3
+- `source`:
+  - `www.chp.gov.hk/sc/index.html`
+- `target`: `/chp/important_ft/zh_cn`
+### Rule 4
+- `source`:
+  - `www.chp.gov.hk/sc/media/116/index.html`
+- `target`: `/chp/press_data_index/zh_cn`
+### Rule 5
+- `source`:
+  - `www.chp.gov.hk/tc/index.html`
+- `target`: `/chp/important_ft/zh_tw`
+### Rule 6
+- `source`:
+  - `www.chp.gov.hk/tc/media/116/index.html`
+- `target`: `/chp/press_data_index/zh_tw`
+### Rule 7
+- `source`:
+  - `www.chp.gov.hk/`
+- `target`: `/chp`
 
 ## Raw JSON
 ```json
@@ -64,14 +89,51 @@ _None_
   "radar": [
     {
       "source": [
-        "dh.gov.hk/"
-      ]
+        "www.chp.gov.hk/en/index.html"
+      ],
+      "target": "/chp/important_ft/en"
+    },
+    {
+      "source": [
+        "www.chp.gov.hk/en/media/116/index.html"
+      ],
+      "target": "/chp/press_data_index/en"
+    },
+    {
+      "source": [
+        "www.chp.gov.hk/sc/index.html"
+      ],
+      "target": "/chp/important_ft/zh_cn"
+    },
+    {
+      "source": [
+        "www.chp.gov.hk/sc/media/116/index.html"
+      ],
+      "target": "/chp/press_data_index/zh_cn"
+    },
+    {
+      "source": [
+        "www.chp.gov.hk/tc/index.html"
+      ],
+      "target": "/chp/important_ft/zh_tw"
+    },
+    {
+      "source": [
+        "www.chp.gov.hk/tc/media/116/index.html"
+      ],
+      "target": "/chp/press_data_index/zh_tw"
+    },
+    {
+      "source": [
+        "www.chp.gov.hk/"
+      ],
+      "target": "/chp"
     }
   ],
   "test": {
     "code": 0
   },
   "topFeeds": [],
-  "url": "dh.gov.hk/"
+  "url": "www.chp.gov.hk/"
 }
 ```

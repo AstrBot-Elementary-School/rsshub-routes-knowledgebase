@@ -32,6 +32,7 @@ _None_
 ### Rule 1
 - `source`:
   - `idai.ly/`
+- `target`: `/`
 
 ## Raw JSON
 ```json
@@ -41,7 +42,7 @@ _None_
   ],
   "description": "| 简体中文 | 繁体中文 |\n| -------- | -------- |\n| zh-hans  | zh-hant  |",
   "example": "/idaily",
-  "heat": 574,
+  "heat": 573,
   "location": "index.tsx",
   "maintainers": [
     "zphw",
@@ -56,7 +57,8 @@ _None_
     {
       "source": [
         "idai.ly/"
-      ]
+      ],
+      "target": "/"
     }
   ],
   "test": {

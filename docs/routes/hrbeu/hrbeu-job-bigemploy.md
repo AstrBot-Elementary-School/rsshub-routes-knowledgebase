@@ -9,7 +9,7 @@
 - Route Path: `/hrbeu/job/bigemploy`
 - Route Name: `大型招聘会`
 - Example: `/hrbeu/job/bigemploy`
-- URL: `job.hrbeu.edu.cn/*`
+- URL: `job.hrbeu.edu.cn`
 - Language: `_None_`
 - Categories: `university`
 - Maintainers: `Derekmini`
@@ -84,6 +84,6 @@ _None_
       "url": "rsshub://hrbeu/job/bigemploy"
     }
   ],
-  "url": "job.hrbeu.edu.cn/*"
+  "url": "job.hrbeu.edu.cn"
 }
 ```

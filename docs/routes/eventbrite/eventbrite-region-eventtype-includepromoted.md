@@ -22,6 +22,7 @@ _None_
 ## Parameters
 - `eventType`: category of events for filtering
 - `region`: Region or scope of events
+- `includePromoted`: Include promoted events, `false` by default
 
 
 ## Features
@@ -65,6 +66,7 @@ _None_
   "name": "Events",
   "parameters": {
     "eventType": "category of events for filtering",
+    "includePromoted": "Include promoted events, `false` by default",
     "region": "Region or scope of events"
   },
   "path": "/:region/:eventType?/:includePromoted?",

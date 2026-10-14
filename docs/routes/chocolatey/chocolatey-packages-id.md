@@ -35,7 +35,9 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `community.chocolatey.org/packages`
+  - `community.chocolatey.org/packages/:id`
+  - `community.chocolatey.org/packages/:id/:version`
+- `target`: `/packages/:id`
 
 ## Raw JSON
 ```json
@@ -68,8 +70,10 @@ _None_
   "radar": [
     {
       "source": [
-        "community.chocolatey.org/packages"
-      ]
+        "community.chocolatey.org/packages/:id",
+        "community.chocolatey.org/packages/:id/:version"
+      ],
+      "target": "/packages/:id"
     }
   ],
   "test": {

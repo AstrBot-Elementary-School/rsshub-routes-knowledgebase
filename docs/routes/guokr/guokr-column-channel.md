@@ -1,4 +1,4 @@
-# 果壳网 - 果壳网专栏
+# 果壳网 - 专栏
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `guokr`
 - Namespace Name: `果壳网`
 - Route Path: `/guokr/column/:channel`
-- Route Name: `果壳网专栏`
+- Route Name: `专栏`
 - Example: `/guokr/column/calendar`
 - URL: `guokr.com/`
 - Language: `_None_`
@@ -31,7 +31,8 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `guokr.com/:channel`
+  - `guokr.com/scientific/channel/:channel`
+- `target`: `/column/:channel`
 
 ## Raw JSON
 ```json
@@ -47,7 +48,7 @@ _None_
     "DHPO",
     "hoilc"
   ],
-  "name": "果壳网专栏",
+  "name": "专栏",
   "parameters": {
     "channel": "专栏类别"
   },
@@ -55,8 +56,9 @@ _None_
   "radar": [
     {
       "source": [
-        "guokr.com/:channel"
-      ]
+        "guokr.com/scientific/channel/:channel"
+      ],
+      "target": "/column/:channel"
     }
   ],
   "test": {

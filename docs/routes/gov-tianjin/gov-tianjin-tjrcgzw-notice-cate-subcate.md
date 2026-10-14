@@ -20,7 +20,8 @@
 _None_
 
 ## Parameters
-- `channelId`: 公告分类id、详细信息点击源网站https://hrss.tj.gov.cn/ztzl/ztzl1/tjrcgzw/请求中寻找
+- `cate`: 栏目分类，可在源网站 URL 中找到，例如 rczc（人才政策）
+- `subCate`: 子栏目分类，例如 sjrczc（市级人才政策）
 
 
 ## Features
@@ -29,8 +30,8 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `hrss.tj.gov.cn/ztzl/ztzl1/tjrcgzw/`
-- `target`: `/tjrcgzw-notice/:cate/:subCate`
+  - `hrss.tj.gov.cn/ztzl/ztzl1/tjrcgzw/rczc/sjrczc/`
+- `target`: `/tjrcgzw-notice/rczc/sjrczc`
 
 ## Raw JSON
 ```json
@@ -46,15 +47,16 @@ _None_
   ],
   "name": "人才工作网-公告",
   "parameters": {
-    "channelId": "公告分类id、详细信息点击源网站https://hrss.tj.gov.cn/ztzl/ztzl1/tjrcgzw/请求中寻找"
+    "cate": "栏目分类，可在源网站 URL 中找到，例如 rczc（人才政策）",
+    "subCate": "子栏目分类，例如 sjrczc（市级人才政策）"
   },
   "path": "/tjrcgzw-notice/:cate/:subCate",
   "radar": [
     {
       "source": [
-        "hrss.tj.gov.cn/ztzl/ztzl1/tjrcgzw/"
+        "hrss.tj.gov.cn/ztzl/ztzl1/tjrcgzw/rczc/sjrczc/"
       ],
-      "target": "/tjrcgzw-notice/:cate/:subCate"
+      "target": "/tjrcgzw-notice/rczc/sjrczc"
     }
   ],
   "test": {

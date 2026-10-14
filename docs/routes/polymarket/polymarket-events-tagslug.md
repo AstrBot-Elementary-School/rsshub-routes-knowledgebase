@@ -34,7 +34,10 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `polymarket.com`
+  - `polymarket.com/`
+- `target`: `/events`
+### Rule 2
+- `source`:
   - `polymarket.com/:tagSlug`
 - `target`: `/events/:tagSlug`
 
@@ -66,7 +69,12 @@ _None_
   "radar": [
     {
       "source": [
-        "polymarket.com",
+        "polymarket.com/"
+      ],
+      "target": "/events"
+    },
+    {
+      "source": [
         "polymarket.com/:tagSlug"
       ],
       "target": "/events/:tagSlug"

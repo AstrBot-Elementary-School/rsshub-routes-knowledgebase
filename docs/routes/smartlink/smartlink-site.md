@@ -34,7 +34,8 @@ smartlink.bio link in bio takes your audience from Instagram and TikTok to your 
 ## Radar
 ### Rule 1
 - `source`:
-  - `smartlink.bio/`
+  - `smartlink.bio/:site`
+- `target`: `/:site`
 
 ## Raw JSON
 ```json
@@ -65,8 +66,9 @@ smartlink.bio link in bio takes your audience from Instagram and TikTok to your 
   "radar": [
     {
       "source": [
-        "smartlink.bio/"
-      ]
+        "smartlink.bio/:site"
+      ],
+      "target": "/:site"
     }
   ],
   "test": {

@@ -18,7 +18,7 @@
 - Categories: `traditional-media, popular`
 - Maintainers: `LyleLee, HenryQW, proletarius101, black-desk, nczitzk, pseudoyu`
 
-### Inverstigates
+### Investigates
 - Route ID: `reuters:/reuters/investigates`
 - Route Path: `/reuters/investigates`
 - File: `docs/routes/reuters/reuters-investigates.md`

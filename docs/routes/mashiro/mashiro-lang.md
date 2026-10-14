@@ -29,8 +29,11 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `mashiro.best/`
   - `mashiro.best/:lang/`
+### Rule 2
+- `source`:
+  - `mashiro.best/`
+- `target`: `/en`
 
 ## Raw JSON
 ```json
@@ -52,9 +55,14 @@ _None_
   "radar": [
     {
       "source": [
-        "mashiro.best/",
         "mashiro.best/:lang/"
       ]
+    },
+    {
+      "source": [
+        "mashiro.best/"
+      ],
+      "target": "/en"
     }
   ],
   "test": {

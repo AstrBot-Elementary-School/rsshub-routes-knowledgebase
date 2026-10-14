@@ -24,7 +24,7 @@ _None_
 
 
 ## Features
-- `requireConfig`: false
+- `requireConfig`: [{"description": "Telegram Bot API token", "name": "TELEGRAM_TOKEN", "optional": false}]
 - `requirePuppeteer`: false
 - `antiCrawler`: false
 - `supportBT`: false
@@ -43,7 +43,13 @@ _None_
   "example": "/telegram/stickerpack/DIYgod",
   "features": {
     "antiCrawler": false,
-    "requireConfig": false,
+    "requireConfig": [
+      {
+        "description": "Telegram Bot API token",
+        "name": "TELEGRAM_TOKEN",
+        "optional": false
+      }
+    ],
     "requirePuppeteer": false,
     "supportBT": false,
     "supportPodcast": false,

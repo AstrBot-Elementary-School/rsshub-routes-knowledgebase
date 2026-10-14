@@ -9,7 +9,7 @@
 - Route Path: `/scut/seie/news_center`
 - Route Name: `电子与信息学院 - 新闻速递`
 - Example: `/scut/seie/news_center`
-- URL: `www2.scut.edu.cn/ee/16285/list.htm`
+- URL: `www2.scut.edu.cn/ee/37355/list.htm`
 - Language: `_None_`
 - Categories: `university`
 - Maintainers: `auto-bot-ty`
@@ -36,6 +36,7 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
+  - `www2.scut.edu.cn/ee/37355/list.htm`
   - `www2.scut.edu.cn/ee/16285/list.htm`
 
 ## Raw JSON
@@ -65,6 +66,7 @@ _None_
   "radar": [
     {
       "source": [
+        "www2.scut.edu.cn/ee/37355/list.htm",
         "www2.scut.edu.cn/ee/16285/list.htm"
       ]
     }
@@ -74,6 +76,6 @@ _None_
     "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:108:41\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
   "topFeeds": [],
-  "url": "www2.scut.edu.cn/ee/16285/list.htm"
+  "url": "www2.scut.edu.cn/ee/37355/list.htm"
 }
 ```

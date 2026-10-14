@@ -9,7 +9,7 @@
 - Route Path: `/bupt/news`
 - Route Name: `校园新闻`
 - Example: `/bupt/news`
-- URL: `bupt.edu.cn`
+- URL: `www.bupt.edu.cn`
 - Language: `_None_`
 - Categories: `university`
 - Maintainers: `wzekin`

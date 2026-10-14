@@ -32,7 +32,7 @@
 
 
 ## Features
-- `requireConfig`: [{"description": "", "name": "WEIBO_COOKIES", "optional": true}]
+- `requireConfig`: [{"description": "", "name": "WEIBO_COOKIES"}]
 - `requirePuppeteer`: false
 - `antiCrawler`: false
 - `supportBT`: false
@@ -55,8 +55,7 @@ _None_
     "requireConfig": [
       {
         "description": "",
-        "name": "WEIBO_COOKIES",
-        "optional": true
+        "name": "WEIBO_COOKIES"
       }
     ],
     "requirePuppeteer": false,

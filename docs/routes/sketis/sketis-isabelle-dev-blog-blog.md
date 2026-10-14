@@ -37,18 +37,16 @@
 - `source`:
   - `isabelle-dev.sketis.net/phame/`
   - `isabelle-dev.sketis.net/phame/blog/`
-  - `isabelle-dev.sketis.net/phame/blog/view/:blog/`
-  - `isabelle-dev.sketis.net/phame/post/`
-  - `isabelle-dev.sketis.net/phame/post/view/:post_id/:post_title/`
 - `target`: `/isabelle-dev/blog/1`
 ### Rule 2
 - `source`:
   - `isabelle-dev.sketis.net/phame/`
   - `isabelle-dev.sketis.net/phame/blog/`
-  - `isabelle-dev.sketis.net/phame/blog/view/:blog/`
-  - `isabelle-dev.sketis.net/phame/post/`
-  - `isabelle-dev.sketis.net/phame/post/view/:post_id/:post_title/`
 - `target`: `/isabelle-dev/blog/2`
+### Rule 3
+- `source`:
+  - `isabelle-dev.sketis.net/phame/blog/view/:blog/`
+- `target`: `/isabelle-dev/blog/:blog`
 
 ## Raw JSON
 ```json
@@ -80,22 +78,22 @@
     {
       "source": [
         "isabelle-dev.sketis.net/phame/",
-        "isabelle-dev.sketis.net/phame/blog/",
-        "isabelle-dev.sketis.net/phame/blog/view/:blog/",
-        "isabelle-dev.sketis.net/phame/post/",
-        "isabelle-dev.sketis.net/phame/post/view/:post_id/:post_title/"
+        "isabelle-dev.sketis.net/phame/blog/"
       ],
       "target": "/isabelle-dev/blog/1"
     },
     {
       "source": [
         "isabelle-dev.sketis.net/phame/",
-        "isabelle-dev.sketis.net/phame/blog/",
-        "isabelle-dev.sketis.net/phame/blog/view/:blog/",
-        "isabelle-dev.sketis.net/phame/post/",
-        "isabelle-dev.sketis.net/phame/post/view/:post_id/:post_title/"
+        "isabelle-dev.sketis.net/phame/blog/"
       ],
       "target": "/isabelle-dev/blog/2"
+    },
+    {
+      "source": [
+        "isabelle-dev.sketis.net/phame/blog/view/:blog/"
+      ],
+      "target": "/isabelle-dev/blog/:blog"
     }
   ],
   "test": {

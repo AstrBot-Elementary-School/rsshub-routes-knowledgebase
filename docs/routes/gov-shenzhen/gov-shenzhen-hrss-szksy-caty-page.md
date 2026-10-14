@@ -23,7 +23,7 @@
 
 ## Parameters
 - `caty`: 信息类别
-- `page`: 页码
+- `page`: 历史兼容参数，所有值均返回第 1 页，不翻页
 
 
 ## Features
@@ -37,7 +37,8 @@
 ## Radar
 ### Rule 1
 - `source`:
-  - `xxgk.sz.gov.cn/cn/xxgk/zfxxgj/:caty`
+  - `hrss.sz.gov.cn/szksy/zwgk/:caty/index.html`
+- `target`: `/hrss/szksy/:caty`
 
 ## Raw JSON
 ```json
@@ -63,14 +64,15 @@
   "name": "考试院",
   "parameters": {
     "caty": "信息类别",
-    "page": "页码"
+    "page": "历史兼容参数，所有值均返回第 1 页，不翻页"
   },
   "path": "/hrss/szksy/:caty/:page?",
   "radar": [
     {
       "source": [
-        "xxgk.sz.gov.cn/cn/xxgk/zfxxgj/:caty"
-      ]
+        "hrss.sz.gov.cn/szksy/zwgk/:caty/index.html"
+      ],
+      "target": "/hrss/szksy/:caty"
     }
   ],
   "test": {

@@ -3,9 +3,9 @@
 ## Namespace
 - Namespace: `18comic`
 - Display Name: `禁漫天堂`
-- URL: `18comic.org`
+- URL: `jmcomic1.me`
 - Language: `_None_`
-- Aliases: `18comic, 18comic.org, 禁漫天堂`
+- Aliases: `18comic, jmcomic1, jmcomic1.me, 禁漫天堂`
 - Route Count: `4`
 
 ## Routes

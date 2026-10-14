@@ -26,8 +26,8 @@ _None_
 
 ## Features
 - `requireConfig`: false
-- `requirePuppeteer`: false
-- `antiCrawler`: false
+- `requirePuppeteer`: true
+- `antiCrawler`: true
 - `supportBT`: false
 - `supportPodcast`: false
 - `supportScihub`: false
@@ -43,9 +43,9 @@ _None_
   ],
   "example": "/google/search/rss/zh-CN,zh",
   "features": {
-    "antiCrawler": false,
+    "antiCrawler": true,
     "requireConfig": false,
-    "requirePuppeteer": false,
+    "requirePuppeteer": true,
     "supportBT": false,
     "supportPodcast": false,
     "supportScihub": false
@@ -66,18 +66,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "被查+site:thepaper.cn - Google Search - Powered by RSSHub",
-      "errorAt": "2025-09-10T17:16:47.805Z",
-      "errorMessage": "[GET] \"https://www.google.com/search?q=%E8%A2%AB%E6%9F%A5%2Bsite%3Athepaper.cn\": 429 Too Many Requests\n",
-      "id": "68685709659153408",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.google.com/search?q=%E8%A2%AB%E6%9F%A5%2Bsite%3Athepaper.cn",
-      "title": "被查+site:thepaper.cn - Google Search",
-      "type": "feed",
-      "url": "rsshub://google/search/%E8%A2%AB%E6%9F%A5+site:thepaper.cn"
-    },
-    {
       "description": "AI赚钱 - Google Search - Powered by RSSHub",
       "errorAt": "2025-10-27T06:01:24.457Z",
       "errorMessage": "[GET] \"https://www.google.com/search?q=AI%E8%B5%9A%E9%92%B1\": 429 Too Many Requests\n",
@@ -88,6 +76,18 @@ _None_
       "title": "AI赚钱 - Google Search",
       "type": "feed",
       "url": "rsshub://google/search/AI%E8%B5%9A%E9%92%B1"
+    },
+    {
+      "description": "被查+site:thepaper.cn - Google Search - Powered by RSSHub",
+      "errorAt": "2025-09-10T17:16:47.805Z",
+      "errorMessage": "[GET] \"https://www.google.com/search?q=%E8%A2%AB%E6%9F%A5%2Bsite%3Athepaper.cn\": 429 Too Many Requests\n",
+      "id": "68685709659153408",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.google.com/search?q=%E8%A2%AB%E6%9F%A5%2Bsite%3Athepaper.cn",
+      "title": "被查+site:thepaper.cn - Google Search",
+      "type": "feed",
+      "url": "rsshub://google/search/%E8%A2%AB%E6%9F%A5+site:thepaper.cn"
     }
   ]
 }

@@ -9,7 +9,7 @@
 - Route Path: `/nua/gra/:type`
 - Route Name: `Graduate Institute`
 - Example: `/nua/gra/1959`
-- URL: `index.nua.edu.cn`
+- URL: `www.nua.edu.cn`
 - Language: `_None_`
 - Categories: `university`
 - Maintainers: `evnydd0sf`

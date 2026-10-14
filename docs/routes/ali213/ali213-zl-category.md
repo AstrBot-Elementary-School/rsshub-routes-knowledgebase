@@ -42,6 +42,7 @@
 ### Rule 1
 - `source`:
   - `www.ali213.net/news/zl/:category`
+- `target`: `/zl/:category?`
 ### Rule 2
 - `title`: `首页`
 - `source`:
@@ -99,7 +100,8 @@
     {
       "source": [
         "www.ali213.net/news/zl/:category"
-      ]
+      ],
+      "target": "/zl/:category?"
     },
     {
       "source": [

@@ -6,17 +6,9 @@
 - URL: `linkedin.com`
 - Language: `_None_`
 - Aliases: `linkedin, linkedin.com`
-- Route Count: `3`
+- Route Count: `2`
 
 ## Routes
-
-### Jobs
-- Route ID: `linkedin:/linkedin/cn/jobs/:keywords?`
-- Route Path: `/linkedin/cn/jobs/:keywords?`
-- File: `docs/routes/linkedin/linkedin-cn-jobs-keywords.md`
-- File Name: `linkedin-cn-jobs-keywords.md`
-- Categories: `other`
-- Maintainers: `bigfei`
 
 ### Company Posts
 - Route ID: `linkedin:/linkedin/company/:company_id/posts`

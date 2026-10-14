@@ -9,7 +9,7 @@
 - Route Path: `/gov/chinatax/latest`
 - Route Name: `最新文件`
 - Example: `/gov/chinatax/latest`
-- URL: `www.chinatax.gov.cn/*`
+- URL: `fgk.chinatax.gov.cn/zcfgk/c100027/list.html`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `nczitzk, fuzy112`
@@ -33,6 +33,10 @@ _None_
 
 ## Radar
 ### Rule 1
+- `source`:
+  - `fgk.chinatax.gov.cn/zcfgk/c100027/list.html`
+- `target`: `/latest`
+### Rule 2
 - `source`:
   - `www.chinatax.gov.cn/*`
 
@@ -63,6 +67,12 @@ _None_
   "radar": [
     {
       "source": [
+        "fgk.chinatax.gov.cn/zcfgk/c100027/list.html"
+      ],
+      "target": "/latest"
+    },
+    {
+      "source": [
         "www.chinatax.gov.cn/*"
       ]
     }
@@ -84,6 +94,6 @@ _None_
       "url": "rsshub://gov/chinatax/latest"
     }
   ],
-  "url": "www.chinatax.gov.cn/*"
+  "url": "fgk.chinatax.gov.cn/zcfgk/c100027/list.html"
 }
 ```

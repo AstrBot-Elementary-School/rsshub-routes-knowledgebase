@@ -37,6 +37,10 @@ _None_
 - `source`:
   - `www.landiannews.com/archives/tag/:slug`
 - `target`: `/tag/:slug`
+### Rule 2
+- `source`:
+  - `www.landian.news/archives/tag/:slug`
+- `target`: `/tag/:slug`
 
 ## Raw JSON
 ```json
@@ -68,6 +72,12 @@ _None_
     {
       "source": [
         "www.landiannews.com/archives/tag/:slug"
+      ],
+      "target": "/tag/:slug"
+    },
+    {
+      "source": [
+        "www.landian.news/archives/tag/:slug"
       ],
       "target": "/tag/:slug"
     }

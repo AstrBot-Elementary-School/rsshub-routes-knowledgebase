@@ -78,16 +78,16 @@ _None_
       "url": "rsshub://themoviedb/tv/70593/seasons"
     },
     {
-      "description": "Rumi, Tamoko and their mother are being blackmailed by Mr. Nogawa and his son. They must learn to fight back just enough to be able to take revenge when the time is right. - Powered by RSSHub",
+      "description": "ABC World News is the flagship daily evening television news program of ABC News, the news division of the American Broadcasting Company television network in the United States. Currently the weekday editions (going by title ABC World News Tonight with David Muir) are anchored by David Muir. ABC World News has been anchored at various times by a number of other people since its debut in 1953. It also has used various titles, including ABC Evening News from 1970 to 1978 and World News Tonight from 1978 to 2006. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "146311702677387264",
-      "image": "https://image.tmdb.org/t/p/original/uA2zWEasPhJLe6rs8NlU1qlHYJv.jpg",
+      "id": "115243763367347200",
+      "image": "https://image.tmdb.org/t/p/original/nFzsDxjckW91S3Lerq7TNPMiOyO.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://www.themoviedb.org/tv/60593/seasons",
-      "title": "Immoral Sisters - Seasons — TMDB",
+      "siteUrl": "https://www.themoviedb.org/tv/1770/seasons",
+      "title": "World News Tonight with David Muir - Seasons — TMDB",
       "type": "feed",
-      "url": "rsshub://themoviedb/tv/60593/seasons"
+      "url": "rsshub://themoviedb/tv/1770/seasons"
     }
   ],
   "view": 5

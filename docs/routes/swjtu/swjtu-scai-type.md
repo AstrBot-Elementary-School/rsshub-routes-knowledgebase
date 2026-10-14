@@ -37,8 +37,23 @@
 
 ## Radar
 ### Rule 1
+- `title`: `计算机与人工智能学院 - 本科生教育`
 - `source`:
   - `scai.swjtu.edu.cn/`
+  - `scai.swjtu.edu.cn/web/page-module.html`
+- `target`: `/scai/bks`
+### Rule 2
+- `title`: `计算机与人工智能学院 - 研究生教育`
+- `source`:
+  - `scai.swjtu.edu.cn/`
+  - `scai.swjtu.edu.cn/web/page-module.html`
+- `target`: `/scai/yjs`
+### Rule 3
+- `title`: `计算机与人工智能学院 - 学生工作`
+- `source`:
+  - `scai.swjtu.edu.cn/`
+  - `scai.swjtu.edu.cn/web/page-module.html`
+- `target`: `/scai/xsgz`
 
 ## Raw JSON
 ```json
@@ -70,8 +85,27 @@
   "radar": [
     {
       "source": [
-        "scai.swjtu.edu.cn/"
-      ]
+        "scai.swjtu.edu.cn/",
+        "scai.swjtu.edu.cn/web/page-module.html"
+      ],
+      "target": "/scai/bks",
+      "title": "计算机与人工智能学院 - 本科生教育"
+    },
+    {
+      "source": [
+        "scai.swjtu.edu.cn/",
+        "scai.swjtu.edu.cn/web/page-module.html"
+      ],
+      "target": "/scai/yjs",
+      "title": "计算机与人工智能学院 - 研究生教育"
+    },
+    {
+      "source": [
+        "scai.swjtu.edu.cn/",
+        "scai.swjtu.edu.cn/web/page-module.html"
+      ],
+      "target": "/scai/xsgz",
+      "title": "计算机与人工智能学院 - 学生工作"
     }
   ],
   "test": {

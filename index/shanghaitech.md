@@ -18,7 +18,7 @@
 - Categories: `university`
 - Maintainers: `nczitzk`
 
-### 信息科技与技术学院活动
+### 信息科学与技术学院活动
 - Route ID: `shanghaitech:/shanghaitech/sist/activity`
 - Route Path: `/shanghaitech/sist/activity`
 - File: `docs/routes/shanghaitech/shanghaitech-sist-activity.md`

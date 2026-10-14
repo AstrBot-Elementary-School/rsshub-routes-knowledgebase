@@ -3,9 +3,9 @@
 ## Namespace
 - Namespace: `fjdaily`
 - Display Name: `福建日报`
-- URL: `fjdaily.com`
+- URL: `fjrb.fjdaily.com/pc/col/index.html`
 - Language: `_None_`
-- Aliases: `fjdaily, fjdaily.com, 福建日报`
+- Aliases: `fjdaily, fjrb, fjrb.fjdaily.com/pc/col/index.html, 福建日报`
 - Route Count: `1`
 
 ## Routes

@@ -9,7 +9,7 @@
 - Route Path: `/cfachina/servicesupport/analygarden/:program?`
 - Route Name: `分析师园地`
 - Example: `/cfachina/servicesupport/analygarden`
-- URL: `cfachina.org`
+- URL: `www.cfachina.org`
 - Language: `_None_`
 - Categories: `other`
 - Maintainers: `TonyRL`

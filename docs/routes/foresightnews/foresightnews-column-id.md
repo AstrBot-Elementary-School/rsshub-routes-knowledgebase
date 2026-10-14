@@ -35,7 +35,6 @@ _None_
 ### Rule 1
 - `source`:
   - `foresightnews.pro/column/detail/:id`
-  - `foresightnews.pro/`
 
 ## Raw JSON
 ```json
@@ -65,8 +64,7 @@ _None_
   "radar": [
     {
       "source": [
-        "foresightnews.pro/column/detail/:id",
-        "foresightnews.pro/"
+        "foresightnews.pro/column/detail/:id"
       ]
     }
   ],

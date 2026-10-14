@@ -35,7 +35,7 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `2bt0.com/mv/`
+  - `2bt0.com/mv/:number`
 
 ## Raw JSON
 ```json
@@ -66,7 +66,7 @@ _None_
   "radar": [
     {
       "source": [
-        "2bt0.com/mv/"
+        "2bt0.com/mv/:number"
       ]
     }
   ],

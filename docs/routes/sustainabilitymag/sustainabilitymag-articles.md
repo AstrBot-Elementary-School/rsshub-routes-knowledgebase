@@ -34,8 +34,8 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `https://sustainabilitymag.com/articles`
-- `target`: `/sustainabilitymag/articles`
+  - `sustainabilitymag.com/articles`
+- `target`: `/articles`
 
 ## Raw JSON
 ```json
@@ -62,9 +62,9 @@ _None_
   "radar": [
     {
       "source": [
-        "https://sustainabilitymag.com/articles"
+        "sustainabilitymag.com/articles"
       ],
-      "target": "/sustainabilitymag/articles"
+      "target": "/articles"
     }
   ],
   "test": {

@@ -8,7 +8,7 @@
 - Namespace Name: `北京科技大学`
 - Route Path: `/ustb/tj/news/:type?`
 - Route Name: `天津学院`
-- Example: `/ustb/tj/news/all`
+- Example: `/ustb/tj/news/xyxw`
 - URL: `gs.ustb.edu.cn`
 - Language: `_None_`
 - Categories: `university`
@@ -43,7 +43,7 @@ _None_
     "university"
   ],
   "description": "| 全部 | 学院新闻 | 学术活动 | 城市建设学院 | 信息工程学院 | 经济学院 | 管理学院 | 材料系 | 机械工程系 | 护理系 | 法律系 | 外语系 | 艺术系 |\n| ---- | -------- | -------- | ------------ | ------------ | -------- | -------- | ------ | ---------- | ------ | ------ | ------ | ------ |\n| all  | xyxw     | xshhd    | csjsxy       | xxgcxy       | jjx      | glxy     | clx    | jxgcx      | hlx    | flx    | wyx    | ysx    |",
-  "example": "/ustb/tj/news/all",
+  "example": "/ustb/tj/news/xyxw",
   "features": {
     "antiCrawler": false,
     "requireConfig": false,

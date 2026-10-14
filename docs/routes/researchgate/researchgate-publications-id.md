@@ -30,8 +30,8 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `researchgate.net/profile/:username`
-- `target`: `/publications/:username`
+  - `researchgate.net/profile/:id`
+- `target`: `/publications/:id`
 
 ## Raw JSON
 ```json
@@ -57,9 +57,9 @@ _None_
   "radar": [
     {
       "source": [
-        "researchgate.net/profile/:username"
+        "researchgate.net/profile/:id"
       ],
-      "target": "/publications/:username"
+      "target": "/publications/:id"
     }
   ],
   "test": {

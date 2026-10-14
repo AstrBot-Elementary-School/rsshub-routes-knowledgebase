@@ -18,7 +18,7 @@
 - Categories: `program-update`
 - Maintainers: `trim21`
 
-### Active Python Releases
+### Active Releases
 - Route ID: `python:/python/release`
 - Route Path: `/python/release`
 - File: `docs/routes/python/python-release.md`

@@ -38,8 +38,28 @@ _None_
 - `target`: `/latest`
 ### Rule 2
 - `source`:
-  - `joshwcomeau.com/:category`
-- `target`: `/latest/:category`
+  - `joshwcomeau.com/css`
+- `target`: `/latest/css`
+### Rule 3
+- `source`:
+  - `joshwcomeau.com/react`
+- `target`: `/latest/react`
+### Rule 4
+- `source`:
+  - `joshwcomeau.com/animation`
+- `target`: `/latest/animation`
+### Rule 5
+- `source`:
+  - `joshwcomeau.com/javascript`
+- `target`: `/latest/javascript`
+### Rule 6
+- `source`:
+  - `joshwcomeau.com/career`
+- `target`: `/latest/career`
+### Rule 7
+- `source`:
+  - `joshwcomeau.com/blog`
+- `target`: `/latest/blog`
 
 ## Raw JSON
 ```json
@@ -103,9 +123,39 @@ _None_
     },
     {
       "source": [
-        "joshwcomeau.com/:category"
+        "joshwcomeau.com/css"
       ],
-      "target": "/latest/:category"
+      "target": "/latest/css"
+    },
+    {
+      "source": [
+        "joshwcomeau.com/react"
+      ],
+      "target": "/latest/react"
+    },
+    {
+      "source": [
+        "joshwcomeau.com/animation"
+      ],
+      "target": "/latest/animation"
+    },
+    {
+      "source": [
+        "joshwcomeau.com/javascript"
+      ],
+      "target": "/latest/javascript"
+    },
+    {
+      "source": [
+        "joshwcomeau.com/career"
+      ],
+      "target": "/latest/career"
+    },
+    {
+      "source": [
+        "joshwcomeau.com/blog"
+      ],
+      "target": "/latest/blog"
     }
   ],
   "test": {

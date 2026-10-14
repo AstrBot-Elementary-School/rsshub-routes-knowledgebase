@@ -11,8 +11,8 @@
 ## Routes
 
 ### 通用
-- Route ID: `gov/nmpa:/gov/nmpa/:path{.+}`
-- Route Path: `/gov/nmpa/:path{.+}`
+- Route ID: `gov/nmpa:/gov/nmpa/:path{.+}?`
+- Route Path: `/gov/nmpa/:path{.+}?`
 - File: `docs/routes/gov-nmpa/gov-nmpa-path.md`
 - File Name: `gov-nmpa-path.md`
 - Categories: `government`

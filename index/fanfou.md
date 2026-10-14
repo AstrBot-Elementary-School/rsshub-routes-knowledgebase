@@ -26,7 +26,7 @@
 - Categories: `social-media`
 - Maintainers: `junbaor`
 
-### 饭否搜索
+### 搜索
 - Route ID: `fanfou:/fanfou/public_timeline/:keyword`
 - Route Path: `/fanfou/public_timeline/:keyword`
 - File: `docs/routes/fanfou/fanfou-public_timeline-keyword.md`

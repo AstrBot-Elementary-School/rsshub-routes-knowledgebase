@@ -26,7 +26,7 @@ Tumblr provides official RSS feeds for non "dashboard only" blogs, for instance 
 
 
 ## Features
-- `requireConfig`: [{"description": "Please see above for details.", "name": "TUMBLR_CLIENT_ID"}, {"description": "Please see above for details.", "name": "TUMBLR_CLIENT_SECRET"}, {"description": "Please see above for details.", "name": "TUMBLR_REFRESH_TOKEN"}]
+- `requireConfig`: [{"description": "Please see above for details.", "name": "TUMBLR_CLIENT_ID"}, {"description": "Please see above for details.", "name": "TUMBLR_CLIENT_SECRET", "optional": true}, {"description": "Please see above for details.", "name": "TUMBLR_REFRESH_TOKEN", "optional": true}]
 - `requirePuppeteer`: false
 - `antiCrawler`: false
 - `supportBT`: false
@@ -53,11 +53,13 @@ _None_
       },
       {
         "description": "Please see above for details.",
-        "name": "TUMBLR_CLIENT_SECRET"
+        "name": "TUMBLR_CLIENT_SECRET",
+        "optional": true
       },
       {
         "description": "Please see above for details.",
-        "name": "TUMBLR_REFRESH_TOKEN"
+        "name": "TUMBLR_REFRESH_TOKEN",
+        "optional": true
       }
     ],
     "requirePuppeteer": false,

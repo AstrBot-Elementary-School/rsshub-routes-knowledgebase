@@ -34,7 +34,7 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `thewirehindi.com/category/*`
+  - `thewirehindi.com/category/:category`
 
 ## Raw JSON
 ```json
@@ -148,7 +148,7 @@ _None_
   "radar": [
     {
       "source": [
-        "thewirehindi.com/category/*"
+        "thewirehindi.com/category/:category"
       ]
     }
   ],

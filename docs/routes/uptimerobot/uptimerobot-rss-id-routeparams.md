@@ -9,7 +9,7 @@
 - Route Path: `/uptimerobot/rss/:id/:routeParams?`
 - Route Name: `RSS`
 - Example: `/uptimerobot/rss/u358785-e4323652448755805d668f1a66506f2f`
-- URL: `rss.uptimerobot.com`
+- URL: `uptimerobot.com`
 - Language: `_None_`
 - Categories: `forecast`
 - Maintainers: `Rongronggg9`

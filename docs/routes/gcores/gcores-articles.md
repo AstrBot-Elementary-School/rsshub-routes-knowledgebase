@@ -35,8 +35,12 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
+  - `www.gcores.com/`
+- `target`: `/articles`
+### Rule 2
+- `source`:
   - `www.gcores.com/articles`
-- `target`: `/gcores/articles`
+- `target`: `/articles`
 
 ## Raw JSON
 ```json
@@ -64,9 +68,15 @@ _None_
   "radar": [
     {
       "source": [
+        "www.gcores.com/"
+      ],
+      "target": "/articles"
+    },
+    {
+      "source": [
         "www.gcores.com/articles"
       ],
-      "target": "/gcores/articles"
+      "target": "/articles"
     }
   ],
   "test": {

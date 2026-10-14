@@ -24,7 +24,7 @@ Categories:
 | A    | B    | F    | M    | D    |
 
 ## Parameters
-- `category`: Category, see below, defaults to all
+- `category`: Category, see below, defaults to A (華語)
 
 
 ## Features
@@ -65,7 +65,7 @@ Categories:
   ],
   "name": "新貨上架",
   "parameters": {
-    "category": "Category, see below, defaults to all"
+    "category": "Category, see below, defaults to A (華語)"
   },
   "path": "/new-releases/:category?",
   "radar": [

@@ -6,7 +6,7 @@
 - URL: `admission.pku.edu.cn`
 - Language: `_None_`
 - Aliases: `admission, admission.pku.edu.cn, pku, 北京大学`
-- Route Count: `12`
+- Route Count: `11`
 
 ## Routes
 
@@ -95,13 +95,5 @@
 - Route Path: `/pku/ss/notice`
 - File: `docs/routes/pku/pku-ss-notice.md`
 - File Name: `pku-ss-notice.md`
-- Categories: `university`
-- Maintainers: `legr4ndk`
-
-### 软件与微电子学院 - 硕士统考招生通知
-- Route ID: `pku:/pku/ss/pgadmin`
-- Route Path: `/pku/ss/pgadmin`
-- File: `docs/routes/pku/pku-ss-pgadmin.md`
-- File Name: `pku-ss-pgadmin.md`
 - Categories: `university`
 - Maintainers: `legr4ndk`

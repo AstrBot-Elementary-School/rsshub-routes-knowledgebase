@@ -10,7 +10,7 @@
 
 ## Routes
 
-### Maven Central Feed
+### Central Feed
 - Route ID: `maven:/maven/central/:group/:artifact`
 - Route Path: `/maven/central/:group/:artifact`
 - File: `docs/routes/maven/maven-central-group-artifact.md`

@@ -31,6 +31,10 @@ _None_
 - `source`:
   - `topbook.cc/content`
   - `topbook.cc/`
+- `target`: ``
+### Rule 2
+- `source`:
+  - `topbook.cc/content/:id`
 - `target`: `/:id`
 
 ## Raw JSON
@@ -55,6 +59,12 @@ _None_
       "source": [
         "topbook.cc/content",
         "topbook.cc/"
+      ],
+      "target": ""
+    },
+    {
+      "source": [
+        "topbook.cc/content/:id"
       ],
       "target": "/:id"
     }

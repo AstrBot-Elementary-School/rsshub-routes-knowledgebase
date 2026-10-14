@@ -1,4 +1,4 @@
-# 虚词 - 虛詞作者
+# 虚词 - 作者
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `p-articles`
 - Namespace Name: `虚词`
 - Route Path: `/p-articles/contributors/:author`
-- Route Name: `虛詞作者`
+- Route Name: `作者`
 - Example: `/p-articles/contributors/黃衍仁`
 - URL: `p-articles.com`
 - Language: `_None_`
@@ -43,7 +43,7 @@ _None_
   "maintainers": [
     "Insomnia1437"
   ],
-  "name": "虛詞作者",
+  "name": "作者",
   "parameters": {
     "author": "虛詞作者, 可在作者页面 URL 找到"
   },

@@ -10,7 +10,7 @@
 
 ## Routes
 
-### DailyArt
+### Artwork of the day
 - Route ID: `getdailyart:/getdailyart/:language?`
 - Route Path: `/getdailyart/:language?`
 - File: `docs/routes/getdailyart/getdailyart-language.md`

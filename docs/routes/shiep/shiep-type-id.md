@@ -104,271 +104,231 @@ _None_
   - `energy.shiep.edu.cn/:id/list.htm`
 - `target`: `/energy/:id`
 ### Rule 10
-- `title`: `上海热交换系统节能工程技术研究中心`
-- `source`:
-  - `energy-saving.shiep.edu.cn/:id/list.htm`
-- `target`: `/energy-saving/:id`
-### Rule 11
-- `title`: `Shanghai University of Electric Power`
-- `source`:
-  - `english.shiep.edu.cn/:id/list.htm`
-- `target`: `/english/:id`
-### Rule 12
 - `title`: `国际交流与合作处（港澳台办公室）`
 - `source`:
   - `fao.shiep.edu.cn/:id/list.htm`
 - `target`: `/fao/:id`
-### Rule 13
-- `title`: `妇工委`
-- `source`:
-  - `fgw.shiep.edu.cn/:id/list.htm`
-- `target`: `/fgw/:id`
-### Rule 14
+### Rule 11
 - `title`: `发展规划处`
 - `source`:
   - `fzghc.shiep.edu.cn/:id/list.htm`
 - `target`: `/fzghc/:id`
-### Rule 15
+### Rule 12
 - `title`: `上海新能源人才技术教育交流中心`
 - `source`:
   - `gec.shiep.edu.cn/:id/list.htm`
 - `target`: `/gec/:id`
-### Rule 16
+### Rule 13
 - `title`: `工会`
 - `source`:
   - `gonghui.shiep.edu.cn/:id/list.htm`
 - `target`: `/gonghui/:id`
-### Rule 17
+### Rule 14
 - `title`: `上海绿色能源并网技术研究中心`
 - `source`:
   - `green-energy.shiep.edu.cn/:id/list.htm`
 - `target`: `/green-energy/:id`
-### Rule 18
-- `title`: `能源化学实验教学中心`
-- `source`:
-  - `hhsyzx.shiep.edu.cn/:id/list.htm`
-- `target`: `/hhsyzx/:id`
-### Rule 19
+### Rule 15
 - `title`: `环境与化学工程学院`
 - `source`:
   - `hhxy.shiep.edu.cn/:id/list.htm`
 - `target`: `/hhxy/:id`
-### Rule 20
+### Rule 16
 - `title`: `后勤管理处（后勤服务中心）`
 - `source`:
   - `hqglc.shiep.edu.cn/:id/list.htm`
 - `target`: `/hqglc/:id`
-### Rule 21
+### Rule 17
 - `title`: `创新创业工程训练中心`
 - `source`:
   - `ieetc.shiep.edu.cn/:id/list.htm`
 - `target`: `/ieetc/:id`
-### Rule 22
+### Rule 18
 - `title`: `机关党委`
 - `source`:
   - `jgdw.shiep.edu.cn/:id/list.htm`
 - `target`: `/jgdw/:id`
-### Rule 23
+### Rule 19
 - `title`: `经济与管理学院`
 - `source`:
   - `jgxy.shiep.edu.cn/:id/list.htm`
 - `target`: `/jgxy/:id`
-### Rule 24
+### Rule 20
 - `title`: `纪委（监察专员办公室）`
 - `source`:
   - `jijian.shiep.edu.cn/:id/list.htm`
 - `target`: `/jijian/:id`
-### Rule 25
+### Rule 21
 - `title`: `基建处`
 - `source`:
   - `jjc.shiep.edu.cn/:id/list.htm`
 - `target`: `/jjc/:id`
-### Rule 26
+### Rule 22
 - `title`: `继续教育学院（国际教育学院）`
 - `source`:
   - `jjxy.shiep.edu.cn/:id/list.htm`
 - `target`: `/jjxy/:id`
-### Rule 27
-- `title`: `教师教学发展中心`
-- `source`:
-  - `jsjxfzzx.shiep.edu.cn/:id/list.htm`
-- `target`: `/jsjxfzzx/:id`
-### Rule 28
+### Rule 23
 - `title`: `计算机科学与技术学院`
 - `source`:
   - `jsjxy.shiep.edu.cn/:id/list.htm`
 - `target`: `/jsjxy/:id`
-### Rule 29
+### Rule 24
 - `title`: `技术转移中心`
 - `source`:
   - `jszyzx.shiep.edu.cn/:id/list.htm`
 - `target`: `/jszyzx/:id`
-### Rule 30
+### Rule 25
 - `title`: `教务处`
 - `source`:
   - `jwc.shiep.edu.cn/:id/list.htm`
 - `target`: `/jwc/:id`
-### Rule 31
-- `title`: `电力装备设计与制造虚拟仿真中心`
-- `source`:
-  - `jxfz.shiep.edu.cn/:id/list.htm`
-- `target`: `/jxfz/:id`
-### Rule 32
+### Rule 26
 - `title`: `能源电力科创中心`
 - `source`:
   - `kczx.shiep.edu.cn/:id/list.htm`
 - `target`: `/kczx/:id`
-### Rule 33
+### Rule 27
 - `title`: `科研处/融合办`
 - `source`:
   - `kyc.shiep.edu.cn/:id/list.htm`
 - `target`: `/kyc/:id`
-### Rule 34
+### Rule 28
 - `title`: `临港新校区建设综合办公室`
 - `source`:
   - `lgxq.shiep.edu.cn/:id/list.htm`
 - `target`: `/lgxq/:id`
-### Rule 35
+### Rule 29
 - `title`: `图书馆`
 - `source`:
   - `library.shiep.edu.cn/:id/list.htm`
 - `target`: `/library/:id`
-### Rule 36
+### Rule 30
 - `title`: `现代教育技术中心/信息办`
 - `source`:
   - `metc.shiep.edu.cn/:id/list.htm`
 - `target`: `/metc/:id`
-### Rule 37
-- `title`: `上海市电力材料防护与新材料重点实验室`
-- `source`:
-  - `mpep.shiep.edu.cn/:id/list.htm`
-- `target`: `/mpep/:id`
-### Rule 38
+### Rule 31
 - `title`: `新闻网`
 - `source`:
   - `news.shiep.edu.cn/:id/list.htm`
 - `target`: `/news/:id`
-### Rule 39
+### Rule 32
 - `title`: `能源电力智库`
 - `source`:
   - `nydlzk.shiep.edu.cn/:id/list.htm`
 - `target`: `/nydlzk/:id`
-### Rule 40
+### Rule 33
 - `title`: `校长办公室（档案馆）`
 - `source`:
   - `office.shiep.edu.cn/:id/list.htm`
 - `target`: `/office/:id`
-### Rule 41
-- `title`: `国家新能源电力系统实验教学示范中心`
-- `source`:
-  - `rpstec.shiep.edu.cn/:id/list.htm`
-- `target`: `/rpstec/:id`
-### Rule 42
+### Rule 34
 - `title`: `党委教师工作部/人事处`
 - `source`:
   - `rsc.shiep.edu.cn/:id/list.htm`
 - `target`: `/rsc/:id`
-### Rule 43
+### Rule 35
 - `title`: `人文艺术学院`
 - `source`:
   - `rwysxy.shiep.edu.cn/:id/list.htm`
 - `target`: `/rwysxy/:id`
-### Rule 44
+### Rule 36
 - `title`: `审计处`
 - `source`:
   - `sjc.shiep.edu.cn/:id/list.htm`
 - `target`: `/sjc/:id`
-### Rule 45
+### Rule 37
 - `title`: `马克思主义学院`
 - `source`:
   - `skb.shiep.edu.cn/:id/list.htm`
 - `target`: `/skb/:id`
-### Rule 46
+### Rule 38
 - `title`: `数理学院`
 - `source`:
   - `slxy.shiep.edu.cn/:id/list.htm`
 - `target`: `/slxy/:id`
-### Rule 47
+### Rule 39
 - `title`: `智能发电实验教学中心`
 - `source`:
   - `spgc.shiep.edu.cn/:id/list.htm`
 - `target`: `/spgc/:id`
-### Rule 48
+### Rule 40
 - `title`: `实验室与资产管理处`
 - `source`:
   - `sysyzcglc.shiep.edu.cn/:id/list.htm`
 - `target`: `/sysyzcglc/:id`
-### Rule 49
+### Rule 41
 - `title`: `离退休党委/退管办`
 - `source`:
   - `tgb.shiep.edu.cn/:id/list.htm`
 - `target`: `/tgb/:id`
-### Rule 50
+### Rule 42
 - `title`: `团委`
 - `source`:
   - `tw.shiep.edu.cn/:id/list.htm`
 - `target`: `/tw/:id`
-### Rule 51
+### Rule 43
 - `title`: `体育学院`
 - `source`:
   - `tyb.shiep.edu.cn/:id/list.htm`
 - `target`: `/tyb/:id`
-### Rule 52
+### Rule 44
 - `title`: `统战部`
 - `source`:
   - `tzb.shiep.edu.cn/:id/list.htm`
 - `target`: `/tzb/:id`
-### Rule 53
+### Rule 45
 - `title`: `文明办`
 - `source`:
   - `wenming.shiep.edu.cn/:id/list.htm`
 - `target`: `/wenming/:id`
-### Rule 54
+### Rule 46
 - `title`: `外国语学院`
 - `source`:
   - `wgyxy.shiep.edu.cn/:id/list.htm`
 - `target`: `/wgyxy/:id`
-### Rule 55
+### Rule 47
 - `title`: `宣传部（文明办、融媒体中心）`
 - `source`:
   - `xcb.shiep.edu.cn/:id/list.htm`
 - `target`: `/xcb/:id`
-### Rule 56
+### Rule 48
 - `title`: `学生处`
 - `source`:
   - `xsc.shiep.edu.cn/:id/list.htm`
 - `target`: `/xsc/:id`
-### Rule 57
+### Rule 49
 - `title`: `巡查办`
 - `source`:
   - `xunchaban.shiep.edu.cn/:id/list.htm`
 - `target`: `/xunchaban/:id`
-### Rule 58
+### Rule 50
 - `title`: `信息公开网`
 - `source`:
   - `xxgk.shiep.edu.cn/:id/list.htm`
 - `target`: `/xxgk/:id`
-### Rule 59
+### Rule 51
 - `title`: `研究生院/研工部`
 - `source`:
   - `yjsc.shiep.edu.cn/:id/list.htm`
 - `target`: `/yjsc/:id`
-### Rule 60
+### Rule 52
 - `title`: `自动化工程学院`
 - `source`:
   - `zdhxy.shiep.edu.cn/:id/list.htm`
 - `target`: `/zdhxy/:id`
-### Rule 61
+### Rule 53
 - `title`: `本科招生网`
 - `source`:
   - `zs.shiep.edu.cn/:id/list.htm`
 - `target`: `/zs/:id`
-### Rule 62
+### Rule 54
 - `title`: `学习路上`
 - `source`:
   - `ztjy.shiep.edu.cn/:id/list.htm`
 - `target`: `/ztjy/:id`
-### Rule 63
+### Rule 55
 - `title`: `组织部（老干部处、党校）`
 - `source`:
   - `zzb.shiep.edu.cn/:id/list.htm`
@@ -460,31 +420,10 @@ _None_
     },
     {
       "source": [
-        "energy-saving.shiep.edu.cn/:id/list.htm"
-      ],
-      "target": "/energy-saving/:id",
-      "title": "上海热交换系统节能工程技术研究中心"
-    },
-    {
-      "source": [
-        "english.shiep.edu.cn/:id/list.htm"
-      ],
-      "target": "/english/:id",
-      "title": "Shanghai University of Electric Power"
-    },
-    {
-      "source": [
         "fao.shiep.edu.cn/:id/list.htm"
       ],
       "target": "/fao/:id",
       "title": "国际交流与合作处（港澳台办公室）"
-    },
-    {
-      "source": [
-        "fgw.shiep.edu.cn/:id/list.htm"
-      ],
-      "target": "/fgw/:id",
-      "title": "妇工委"
     },
     {
       "source": [
@@ -513,13 +452,6 @@ _None_
       ],
       "target": "/green-energy/:id",
       "title": "上海绿色能源并网技术研究中心"
-    },
-    {
-      "source": [
-        "hhsyzx.shiep.edu.cn/:id/list.htm"
-      ],
-      "target": "/hhsyzx/:id",
-      "title": "能源化学实验教学中心"
     },
     {
       "source": [
@@ -579,13 +511,6 @@ _None_
     },
     {
       "source": [
-        "jsjxfzzx.shiep.edu.cn/:id/list.htm"
-      ],
-      "target": "/jsjxfzzx/:id",
-      "title": "教师教学发展中心"
-    },
-    {
-      "source": [
         "jsjxy.shiep.edu.cn/:id/list.htm"
       ],
       "target": "/jsjxy/:id",
@@ -604,13 +529,6 @@ _None_
       ],
       "target": "/jwc/:id",
       "title": "教务处"
-    },
-    {
-      "source": [
-        "jxfz.shiep.edu.cn/:id/list.htm"
-      ],
-      "target": "/jxfz/:id",
-      "title": "电力装备设计与制造虚拟仿真中心"
     },
     {
       "source": [
@@ -649,13 +567,6 @@ _None_
     },
     {
       "source": [
-        "mpep.shiep.edu.cn/:id/list.htm"
-      ],
-      "target": "/mpep/:id",
-      "title": "上海市电力材料防护与新材料重点实验室"
-    },
-    {
-      "source": [
         "news.shiep.edu.cn/:id/list.htm"
       ],
       "target": "/news/:id",
@@ -674,13 +585,6 @@ _None_
       ],
       "target": "/office/:id",
       "title": "校长办公室（档案馆）"
-    },
-    {
-      "source": [
-        "rpstec.shiep.edu.cn/:id/list.htm"
-      ],
-      "target": "/rpstec/:id",
-      "title": "国家新能源电力系统实验教学示范中心"
     },
     {
       "source": [

@@ -9,7 +9,7 @@
 - Route Path: `/hiring.cafe/jobs/:keywords`
 - Route Name: `Jobs`
 - Example: `/hiring.cafe/jobs/sustainability`
-- URL: `hiring.cafe`
+- URL: `hiringcafe.com`
 - Language: `_None_`
 - Categories: `other`
 - Maintainers: `mintyfrankie`
@@ -17,7 +17,7 @@
 - Source Module: `_None_`
 
 ## Description
-_None_
+Search uses the current public website’s default region, which HiringCafe selects from the visitor’s location. Public job summaries are included when full descriptions are unavailable.
 
 ## Parameters
 - `keywords`: Keywords to search for
@@ -25,7 +25,7 @@ _None_
 
 ## Features
 - `requireConfig`: false
-- `requirePuppeteer`: false
+- `requirePuppeteer`: true
 - `antiCrawler`: false
 - `supportBT`: false
 - `supportPodcast`: false
@@ -42,11 +42,12 @@ _None_
   "categories": [
     "other"
   ],
+  "description": "Search uses the current public website’s default region, which HiringCafe selects from the visitor’s location. Public job summaries are included when full descriptions are unavailable.",
   "example": "/hiring.cafe/jobs/sustainability",
   "features": {
     "antiCrawler": false,
     "requireConfig": false,
-    "requirePuppeteer": false,
+    "requirePuppeteer": true,
     "supportBT": false,
     "supportPodcast": false,
     "supportScihub": false

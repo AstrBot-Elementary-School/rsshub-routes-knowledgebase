@@ -28,7 +28,7 @@ _None_
 - `requirePuppeteer`: false
 - `antiCrawler`: false
 - `supportBT`: false
-- `supportPodcast`: false
+- `supportPodcast`: true
 - `supportScihub`: false
 
 ## Radar
@@ -48,7 +48,7 @@ _None_
     "requireConfig": false,
     "requirePuppeteer": false,
     "supportBT": false,
-    "supportPodcast": false,
+    "supportPodcast": true,
     "supportScihub": false
   },
   "heat": 0,

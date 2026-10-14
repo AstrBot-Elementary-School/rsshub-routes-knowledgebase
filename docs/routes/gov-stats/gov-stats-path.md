@@ -39,8 +39,16 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `www.stats.gov.cn/*path`
-- `target`: `/:path`
+  - `www.stats.gov.cn/sj/zxfb/`
+- `target`: `/sj/zxfb`
+### Rule 2
+- `source`:
+  - `www.stats.gov.cn/sj/sjjd/`
+- `target`: `/sj/sjjd`
+### Rule 3
+- `source`:
+  - `www.stats.gov.cn/xw/szyw/zyjs/`
+- `target`: `/xw/szyw/zyjs`
 
 ## Raw JSON
 ```json
@@ -66,9 +74,21 @@ _None_
   "radar": [
     {
       "source": [
-        "www.stats.gov.cn/*path"
+        "www.stats.gov.cn/sj/zxfb/"
       ],
-      "target": "/:path"
+      "target": "/sj/zxfb"
+    },
+    {
+      "source": [
+        "www.stats.gov.cn/sj/sjjd/"
+      ],
+      "target": "/sj/sjjd"
+    },
+    {
+      "source": [
+        "www.stats.gov.cn/xw/szyw/zyjs/"
+      ],
+      "target": "/xw/szyw/zyjs"
     }
   ],
   "test": {

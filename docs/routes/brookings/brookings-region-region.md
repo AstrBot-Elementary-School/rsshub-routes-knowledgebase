@@ -29,7 +29,7 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `www.brookings.edu/regions/:region+`
+  - `www.brookings.edu/regions/*region`
 - `target`: `/region/:region`
 
 ## Raw JSON
@@ -53,7 +53,7 @@ _None_
   "radar": [
     {
       "source": [
-        "www.brookings.edu/regions/:region+"
+        "www.brookings.edu/regions/*region"
       ],
       "target": "/region/:region"
     }

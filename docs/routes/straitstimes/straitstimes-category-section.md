@@ -1,11 +1,11 @@
-# The Strait Times - News
+# The Straits Times - News
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `straitstimes`
-- Namespace Name: `The Strait Times`
+- Namespace Name: `The Straits Times`
 - Route Path: `/straitstimes/:category?/:section?`
 - Route Name: `News`
 - Example: `/straitstimes/singapore`

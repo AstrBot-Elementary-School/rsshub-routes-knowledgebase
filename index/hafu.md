@@ -10,7 +10,7 @@
 
 ## Routes
 
-### 河南财政金融学院
+### 公告通知
 - Route ID: `hafu:/hafu/news/:type?`
 - Route Path: `/hafu/news/:type?`
 - File: `docs/routes/hafu/hafu-news-type.md`

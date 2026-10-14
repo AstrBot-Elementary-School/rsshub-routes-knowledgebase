@@ -24,12 +24,10 @@ _None_
 
 
 ## Features
-_None_
+- `requirePuppeteer`: true
 
 ## Radar
-### Rule 1
-- `source`:
-  - `apps.shopify.com/search`
+_None_
 
 ## Raw JSON
 ```json
@@ -38,6 +36,9 @@ _None_
     "programming"
   ],
   "example": "/shopify/apps/search/flow",
+  "features": {
+    "requirePuppeteer": true
+  },
   "heat": 0,
   "location": "apps/search.ts",
   "maintainers": [
@@ -48,13 +49,7 @@ _None_
     "q": "需要搜索的 App"
   },
   "path": "/apps/search/:q",
-  "radar": [
-    {
-      "source": [
-        "apps.shopify.com/search"
-      ]
-    }
-  ],
+  "radar": [],
   "test": {
     "code": 0
   },

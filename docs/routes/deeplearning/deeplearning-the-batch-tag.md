@@ -65,8 +65,8 @@ If you subscribe to [Data Points](https://www.deeplearning.ai/the-batch/tag/data
 ## Radar
 ### Rule 1
 - `source`:
-  - `www.deeplearning.ai/the-batch`
   - `www.deeplearning.ai/the-batch/tag/:tag/`
+- `target`: `/the-batch/:tag`
 ### Rule 2
 - `title`: `Weekly Issues`
 - `source`:
@@ -180,7 +180,7 @@ If you subscribe to [Data Points](https://www.deeplearning.ai/the-batch/tag/data
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 251,
+  "heat": 253,
   "location": "the-batch.ts",
   "maintainers": [
     "nczitzk",
@@ -195,9 +195,9 @@ If you subscribe to [Data Points](https://www.deeplearning.ai/the-batch/tag/data
   "radar": [
     {
       "source": [
-        "www.deeplearning.ai/the-batch",
         "www.deeplearning.ai/the-batch/tag/:tag/"
-      ]
+      ],
+      "target": "/the-batch/:tag"
     },
     {
       "source": [

@@ -17,14 +17,12 @@
 - Source Module: `_None_`
 
 ## Description
-::: tip
-分类字段处填写的是对应中国人民大学高瓴人工智能学院分类页网址中介于 **`http://ai.ruc.edu.cn/`** 和 **/index.htm** 中间的一段，并将其中的 `/` 修改为 `-`。
+分类参数填写分类页地址中介于 `https://ai.ruc.edu.cn/` 和 `/index.htm` 之间的路径，并将 `/` 替换为 `-`。
 
-如 [中国人民大学高瓴人工智能学院 - 新闻公告 - 学院新闻](http://ai.ruc.edu.cn/newslist/newsdetail/index.htm) 的网址为 `http://ai.ruc.edu.cn/newslist/newsdetail/index.htm` 其中介于 **`http://ai.ruc.edu.cn/`** 和 **/index.htm** 中间的一段为 `newslist/newsdetail`。随后，并将其中的 `/` 修改为 `-`，可以得到 `newslist-newsdetail`。所以最终我们的路由为 [`/ruc/ai/newslist-newsdetail`](https://rsshub.app/ruc/ai/newslist-newsdetail)
-:::
+例如 [学院公告](https://ai.ruc.edu.cn/xwgg/xygg/index.htm) 对应 `xwgg-xygg`；[学院新闻](https://ai.ruc.edu.cn/xwgg/xyxw/index.htm) 对应 `xwgg-xyxw`。旧参数 `newslist-notice` 和 `newslist-newsdetail` 分别映射到当前公告和新闻分类。
 
 ## Parameters
-- `category`: 分类，见下方说明，默认为首页公告
+- `category`: 分类，见下方说明，默认为学院公告（xwgg-xygg）
 
 
 ## Features
@@ -39,6 +37,8 @@
 ### Rule 1
 - `source`:
   - `ai.ruc.edu.cn/`
+  - `ai.ruc.edu.cn/xwgg/xygg/index.htm`
+- `target`: `/ai`
 
 ## Raw JSON
 ```json
@@ -46,7 +46,7 @@
   "categories": [
     "university"
   ],
-  "description": "::: tip\n分类字段处填写的是对应中国人民大学高瓴人工智能学院分类页网址中介于 **`http://ai.ruc.edu.cn/`** 和 **/index.htm** 中间的一段，并将其中的 `/` 修改为 `-`。\n\n如 [中国人民大学高瓴人工智能学院 - 新闻公告 - 学院新闻](http://ai.ruc.edu.cn/newslist/newsdetail/index.htm) 的网址为 `http://ai.ruc.edu.cn/newslist/newsdetail/index.htm` 其中介于 **`http://ai.ruc.edu.cn/`** 和 **/index.htm** 中间的一段为 `newslist/newsdetail`。随后，并将其中的 `/` 修改为 `-`，可以得到 `newslist-newsdetail`。所以最终我们的路由为 [`/ruc/ai/newslist-newsdetail`](https://rsshub.app/ruc/ai/newslist-newsdetail)\n:::",
+  "description": "分类参数填写分类页地址中介于 `https://ai.ruc.edu.cn/` 和 `/index.htm` 之间的路径，并将 `/` 替换为 `-`。\n\n例如 [学院公告](https://ai.ruc.edu.cn/xwgg/xygg/index.htm) 对应 `xwgg-xygg`；[学院新闻](https://ai.ruc.edu.cn/xwgg/xyxw/index.htm) 对应 `xwgg-xyxw`。旧参数 `newslist-notice` 和 `newslist-newsdetail` 分别映射到当前公告和新闻分类。",
   "example": "/ruc/ai",
   "features": {
     "antiCrawler": false,
@@ -63,14 +63,16 @@
   ],
   "name": "高瓴人工智能学院",
   "parameters": {
-    "category": "分类，见下方说明，默认为首页公告"
+    "category": "分类，见下方说明，默认为学院公告（xwgg-xygg）"
   },
   "path": "/ai/:category?",
   "radar": [
     {
       "source": [
-        "ai.ruc.edu.cn/"
-      ]
+        "ai.ruc.edu.cn/",
+        "ai.ruc.edu.cn/xwgg/xygg/index.htm"
+      ],
+      "target": "/ai"
     }
   ],
   "test": {

@@ -20,7 +20,7 @@
 _None_
 
 ## Parameters
-- `category`: {"description": "Optional category filter", "options": [{"label": "advanced-grammar", "value": "advanced-grammar"}, {"label": "basic-grammar", "value": "basic-grammar"}, {"label": "company", "value": "company"}, {"label": "confidence", "value": "confidence"}, {"label": "french", "value": "french"}, {"label": "humor", "value": "humor"}, {"label": "medellin", "value": "medellin"}, {"label": "motivation", "value": "motivation"}, {"label": "pronunciation", "value": "pronunciation"}, {"label": "study-tips", "value": "study-tips"}, {"label": "success-stories", "value": "success-stories"}, {"label": "travel", "value": "travel"}, {"label": "uncategorized", "value": "uncategorized"}, {"label": "vocabulary", "value": "vocabulary"}]}
+- `category`: {"description": "Optional category filter", "options": [{"label": "advanced-grammar", "value": "advanced-grammar"}, {"label": "basic-grammar", "value": "basic-grammar"}, {"label": "company", "value": "company"}, {"label": "confidence", "value": "confidence"}, {"label": "humor", "value": "humor"}, {"label": "medellin", "value": "medellin"}, {"label": "motivation", "value": "motivation"}, {"label": "pronunciation", "value": "pronunciation"}, {"label": "study-tips", "value": "study-tips"}, {"label": "success-stories", "value": "success-stories"}, {"label": "travel", "value": "travel"}, {"label": "uncategorized", "value": "uncategorized"}, {"label": "vocabulary", "value": "vocabulary"}]}
 
 
 ## Features
@@ -78,10 +78,6 @@ _None_
         {
           "label": "confidence",
           "value": "confidence"
-        },
-        {
-          "label": "french",
-          "value": "french"
         },
         {
           "label": "humor",

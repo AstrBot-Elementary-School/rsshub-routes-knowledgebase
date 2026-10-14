@@ -82,6 +82,10 @@
 - `source`:
   - `www.transcriptforest.com/en/channel`
 - `target`: ``
+### Rule 2
+- `source`:
+  - `www.transcriptforest.com/en/channel/:channel`
+- `target`: `/:channel`
 
 ## Raw JSON
 ```json
@@ -110,6 +114,12 @@
         "www.transcriptforest.com/en/channel"
       ],
       "target": ""
+    },
+    {
+      "source": [
+        "www.transcriptforest.com/en/channel/:channel"
+      ],
+      "target": "/:channel"
     }
   ],
   "test": {

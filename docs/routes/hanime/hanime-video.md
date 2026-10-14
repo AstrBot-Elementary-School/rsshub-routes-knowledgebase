@@ -24,7 +24,7 @@ _None_
 
 
 ## Features
-_None_
+- `nsfw`: true
 
 ## Radar
 _None_
@@ -36,6 +36,9 @@ _None_
     "anime"
   ],
   "example": "/hanime/video",
+  "features": {
+    "nsfw": true
+  },
   "heat": 0,
   "location": "video.ts",
   "maintainers": [

@@ -20,7 +20,7 @@
 _None_
 
 ## Parameters
-- `page`: 页数，默认第 1 页
+- `page`: 旧页数参数，仅支持第 1 页；可省略
 
 
 ## Features
@@ -59,7 +59,7 @@ _None_
   ],
   "name": "文旅局审批公告",
   "parameters": {
-    "page": "页数，默认第 1 页"
+    "page": "旧页数参数，仅支持第 1 页；可省略"
   },
   "path": "/wlt/:page?",
   "radar": [

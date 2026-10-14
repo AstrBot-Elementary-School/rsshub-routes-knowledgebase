@@ -8,7 +8,7 @@
 - Namespace Name: `Chicago Tribune`
 - Route Path: `/chicagotribune/:category/:subcategory?`
 - Route Name: `News`
-- Example: `/chicagotribune/news/nation`
+- Example: `/chicagotribune/news/national`
 - URL: `www.chicagotribune.com`
 - Language: `_None_`
 - Categories: `traditional-media`
@@ -39,7 +39,7 @@ _None_
     "traditional-media"
   ],
   "description": "Generates full-text that the official feed doesn't provide. For instance, `https://www.chicagotribune.com/news/national/` corresponds to `/chicagotribune/news/national`.",
-  "example": "/chicagotribune/news/nation",
+  "example": "/chicagotribune/news/national",
   "heat": 0,
   "location": "index.ts",
   "maintainers": [

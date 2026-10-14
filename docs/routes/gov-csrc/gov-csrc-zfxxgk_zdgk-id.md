@@ -135,7 +135,7 @@
 </details>
 
 ## Parameters
-- `id`: 频道 id，默认为 `c101971`，即行政处罚决定，可在对应频道页 URL 中找到
+- `id`: 频道 id，默认为 `c101972`，即市场禁入决定，可在对应频道页 URL 中找到
 
 
 ## Features
@@ -151,6 +151,7 @@
 ### Rule 1
 - `source`:
   - `www.csrc.gov.cn/csrc/:id/zfxxgk_zdgk.shtml`
+- `target`: `/zfxxgk_zdgk/:id`
 ### Rule 2
 - `title`: `主动公开目录 - 按主题查看`
 - `source`:
@@ -491,14 +492,15 @@
   ],
   "name": "政府信息公开",
   "parameters": {
-    "id": "频道 id，默认为 `c101971`，即行政处罚决定，可在对应频道页 URL 中找到"
+    "id": "频道 id，默认为 `c101972`，即市场禁入决定，可在对应频道页 URL 中找到"
   },
   "path": "/zfxxgk_zdgk/:id?",
   "radar": [
     {
       "source": [
         "www.csrc.gov.cn/csrc/:id/zfxxgk_zdgk.shtml"
-      ]
+      ],
+      "target": "/zfxxgk_zdgk/:id"
     },
     {
       "source": [

@@ -40,7 +40,7 @@ _None_
   - `github.com/:user/:repo/wiki/:page`
   - `github.com/:user/:repo/wiki/_history`
   - `github.com/:user/:repo/wiki`
-- `target`: `/wiki/:user/:repo/:page`
+- `target`: `/wiki/:user/:repo/:page?`
 
 ## Raw JSON
 ```json
@@ -77,7 +77,7 @@ _None_
         "github.com/:user/:repo/wiki/_history",
         "github.com/:user/:repo/wiki"
       ],
-      "target": "/wiki/:user/:repo/:page"
+      "target": "/wiki/:user/:repo/:page?"
     }
   ],
   "test": {

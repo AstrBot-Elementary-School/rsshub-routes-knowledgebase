@@ -9,7 +9,7 @@
 - Route Path: `/sobooks/:category?`
 - Route Name: `首页`
 - Example: `/sobooks`
-- URL: `sobooks.net`
+- URL: `sobooks.cc`
 - Language: `_None_`
 - Categories: `reading`
 - Maintainers: `nczitzk`
@@ -44,7 +44,11 @@
 ### Rule 1
 - `source`:
   - `sobooks.net/:category`
-- `target`: `/:category`
+- `target`: `/:category?`
+### Rule 2
+- `source`:
+  - `sobooks.cc/:category`
+- `target`: `/:category?`
 
 ## Raw JSON
 ```json
@@ -77,7 +81,13 @@
       "source": [
         "sobooks.net/:category"
       ],
-      "target": "/:category"
+      "target": "/:category?"
+    },
+    {
+      "source": [
+        "sobooks.cc/:category"
+      ],
+      "target": "/:category?"
     }
   ],
   "test": {

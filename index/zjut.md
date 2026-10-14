@@ -10,7 +10,7 @@
 
 ## Routes
 
-### 浙江工业大学
+### 首页
 - Route ID: `zjut:/zjut/:type?`
 - Route Path: `/zjut/:type?`
 - File: `docs/routes/zjut/zjut-type.md`
@@ -18,7 +18,7 @@
 - Categories: `university`
 - Maintainers: `junbaor`
 
-### 浙江工业大学计算机科学与技术学院、软件学院
+### 计算机科学与技术学院、软件学院
 - Route ID: `zjut:/zjut/cs/:type`
 - Route Path: `/zjut/cs/:type`
 - File: `docs/routes/zjut/zjut-cs-type.md`
@@ -42,7 +42,7 @@
 - Categories: `university`
 - Maintainers: `yikZero`
 
-### 浙江工业大学教务处
+### 教务处
 - Route ID: `zjut:/zjut/jwc/:type`
 - Route Path: `/zjut/jwc/:type`
 - File: `docs/routes/zjut/zjut-jwc-type.md`
@@ -50,7 +50,7 @@
 - Categories: `university`
 - Maintainers: `zhullyb`
 
-### 浙工大新闻
+### 新闻
 - Route ID: `zjut:/zjut/news/:type`
 - Route Path: `/zjut/news/:type`
 - File: `docs/routes/zjut/zjut-news-type.md`
@@ -58,7 +58,7 @@
 - Categories: `university`
 - Maintainers: `junbaor, yikZero`
 
-### 浙江工业大学首页
+### 首页
 - Route ID: `zjut:/zjut/www/:type`
 - Route Path: `/zjut/www/:type`
 - File: `docs/routes/zjut/zjut-www-type.md`

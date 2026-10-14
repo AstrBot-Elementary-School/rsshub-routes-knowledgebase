@@ -42,7 +42,7 @@
 - Categories: `university`
 - Maintainers: `SChen1024, nczitzk`
 
-### 武汉大学遥感信息工程学院
+### 遥感信息工程学院
 - Route ID: `whu:/whu/rsgis/:type/:sub?`
 - Route Path: `/whu/rsgis/:type/:sub?`
 - File: `docs/routes/whu/whu-rsgis-type-sub.md`

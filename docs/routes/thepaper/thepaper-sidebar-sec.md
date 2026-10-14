@@ -83,8 +83,8 @@ _None_
   "topFeeds": [
     {
       "description": "澎湃新闻 - 澎湃热榜 - Powered by RSSHub",
-      "errorAt": "2026-10-09T10:30:36.875Z",
-      "errorMessage": "[GET] \"https://m.thepaper.cn/detail/34233308\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "56001539986599972",
       "image": null,
       "ownerUserId": null,

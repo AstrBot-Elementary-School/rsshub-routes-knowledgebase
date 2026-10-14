@@ -34,7 +34,7 @@
 - Categories: `university`
 - Maintainers: `Doradx`
 
-### 中国地质大学通知公告
+### 通知公告
 - Route ID: `cug:/cug/undergraduate`
 - Route Path: `/cug/undergraduate`
 - File: `docs/routes/cug/cug-undergraduate.md`

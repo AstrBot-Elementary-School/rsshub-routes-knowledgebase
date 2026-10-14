@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 92,
+  "heat": 91,
   "location": "news.ts",
   "maintainers": [
     "pseudoyu"
@@ -75,8 +75,8 @@ _None_
   "topFeeds": [
     {
       "description": "Leader in cryptocurrency, Bitcoin, Ethereum, XRP, blockchain, DeFi, digital finance and Web 3.0 news with analysis, video and live price updates. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-13T13:50:24.760Z",
+      "errorMessage": "Cannot read properties of undefined (reading 'url')\nCannot read properties of undefined (reading 'url')\n",
       "id": "126922928969806848",
       "image": null,
       "ownerUserId": null,

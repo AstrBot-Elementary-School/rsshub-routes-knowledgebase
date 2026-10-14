@@ -3,9 +3,9 @@
 ## Namespace
 - Namespace: `nua`
 - Display Name: `Nanjing University of the Arts 南京艺术学院`
-- URL: `index.nua.edu.cn`
+- URL: `www.nua.edu.cn`
 - Language: `_None_`
-- Aliases: `index, index.nua.edu.cn, nanjing university of the arts 南京艺术学院, nua`
+- Aliases: `nanjing university of the arts 南京艺术学院, nua, nua.edu.cn, www, www.nua.edu.cn`
 - Route Count: `5`
 
 ## Routes

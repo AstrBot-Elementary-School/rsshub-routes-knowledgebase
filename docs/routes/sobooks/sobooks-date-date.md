@@ -9,7 +9,7 @@
 - Route Path: `/sobooks/date/:date?`
 - Route Name: `归档`
 - Example: `/sobooks/date/2020-11`
-- URL: `sobooks.net`
+- URL: `sobooks.cc`
 - Language: `_None_`
 - Categories: `reading`
 - Maintainers: `nczitzk`
@@ -32,10 +32,7 @@ _None_
 - `supportScihub`: false
 
 ## Radar
-### Rule 1
-- `source`:
-  - `sobooks.net/:category`
-- `target`: `/:category`
+_None_
 
 ## Raw JSON
 ```json
@@ -62,14 +59,6 @@ _None_
     "date": "日期，见例子，默认为当前年月"
   },
   "path": "/date/:date?",
-  "radar": [
-    {
-      "source": [
-        "sobooks.net/:category"
-      ],
-      "target": "/:category"
-    }
-  ],
   "test": {
     "code": 1
   },

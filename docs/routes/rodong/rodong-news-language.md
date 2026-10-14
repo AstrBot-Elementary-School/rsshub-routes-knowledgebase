@@ -37,12 +37,18 @@
 ### Rule 1
 - `source`:
   - `rodong.rep.kp/cn/index.php`
-  - `rodong.rep.kp/en/index.php`
-  - `rodong.rep.kp/ko/index.php`
   - `rodong.rep.kp/cn`
+- `target`: `/news/cn`
+### Rule 2
+- `source`:
+  - `rodong.rep.kp/en/index.php`
   - `rodong.rep.kp/en`
+- `target`: `/news/en`
+### Rule 3
+- `source`:
+  - `rodong.rep.kp/ko/index.php`
   - `rodong.rep.kp/ko`
-- `target`: `/news`
+- `target`: `/news/ko`
 
 ## Raw JSON
 ```json
@@ -74,13 +80,23 @@
     {
       "source": [
         "rodong.rep.kp/cn/index.php",
+        "rodong.rep.kp/cn"
+      ],
+      "target": "/news/cn"
+    },
+    {
+      "source": [
         "rodong.rep.kp/en/index.php",
+        "rodong.rep.kp/en"
+      ],
+      "target": "/news/en"
+    },
+    {
+      "source": [
         "rodong.rep.kp/ko/index.php",
-        "rodong.rep.kp/cn",
-        "rodong.rep.kp/en",
         "rodong.rep.kp/ko"
       ],
-      "target": "/news"
+      "target": "/news/ko"
     }
   ],
   "test": {

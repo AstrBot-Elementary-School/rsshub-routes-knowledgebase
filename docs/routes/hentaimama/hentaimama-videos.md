@@ -24,7 +24,7 @@ _None_
 
 
 ## Features
-_None_
+- `nsfw`: true
 
 ## Radar
 _None_
@@ -36,6 +36,9 @@ _None_
     "multimedia"
   ],
   "example": "/hentaimama/videos",
+  "features": {
+    "nsfw": true
+  },
   "heat": 2,
   "location": "videos.ts",
   "maintainers": [

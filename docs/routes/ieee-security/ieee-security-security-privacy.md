@@ -31,6 +31,32 @@ _None_
 - `source`:
   - `ieee-security.org/TC/SP-Index.html`
   - `ieee-security.org/`
+- `target`: `/security-privacy`
+### Rule 2
+- `source`:
+  - `www.ieee-security.org/TC/SP-Index.html`
+  - `www.ieee-security.org/`
+  - `www.ieee-security.org/TC/SP2020/program-papers.html`
+  - `www.ieee-security.org/TC/SP2021/program-papers.html`
+  - `www.ieee-security.org/TC/SP2022/program-papers.html`
+  - `www.ieee-security.org/TC/SP2023/program-papers.html`
+- `target`: `/security-privacy`
+### Rule 3
+- `source`:
+  - `sp2023.ieee-security.org/program-papers.html`
+- `target`: `/security-privacy`
+### Rule 4
+- `source`:
+  - `sp2024.ieee-security.org/accepted-papers.html`
+- `target`: `/security-privacy`
+### Rule 5
+- `source`:
+  - `sp2025.ieee-security.org/accepted-papers.html`
+- `target`: `/security-privacy`
+### Rule 6
+- `source`:
+  - `sp2026.ieee-security.org/accepted-papers.html`
+- `target`: `/security-privacy`
 
 ## Raw JSON
 ```json
@@ -52,7 +78,43 @@ _None_
       "source": [
         "ieee-security.org/TC/SP-Index.html",
         "ieee-security.org/"
-      ]
+      ],
+      "target": "/security-privacy"
+    },
+    {
+      "source": [
+        "www.ieee-security.org/TC/SP-Index.html",
+        "www.ieee-security.org/",
+        "www.ieee-security.org/TC/SP2020/program-papers.html",
+        "www.ieee-security.org/TC/SP2021/program-papers.html",
+        "www.ieee-security.org/TC/SP2022/program-papers.html",
+        "www.ieee-security.org/TC/SP2023/program-papers.html"
+      ],
+      "target": "/security-privacy"
+    },
+    {
+      "source": [
+        "sp2023.ieee-security.org/program-papers.html"
+      ],
+      "target": "/security-privacy"
+    },
+    {
+      "source": [
+        "sp2024.ieee-security.org/accepted-papers.html"
+      ],
+      "target": "/security-privacy"
+    },
+    {
+      "source": [
+        "sp2025.ieee-security.org/accepted-papers.html"
+      ],
+      "target": "/security-privacy"
+    },
+    {
+      "source": [
+        "sp2026.ieee-security.org/accepted-papers.html"
+      ],
+      "target": "/security-privacy"
     }
   ],
   "test": {

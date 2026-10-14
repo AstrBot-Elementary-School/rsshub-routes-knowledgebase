@@ -35,7 +35,7 @@ _None_
 ### Rule 1
 - `source`:
   - `deadbydaylight.com/news`
-- `target`: `/news`
+- `target`: `/blog`
 
 ## Raw JSON
 ```json
@@ -65,7 +65,7 @@ _None_
       "source": [
         "deadbydaylight.com/news"
       ],
-      "target": "/news"
+      "target": "/blog"
     }
   ],
   "test": {

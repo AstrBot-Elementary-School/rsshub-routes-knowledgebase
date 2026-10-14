@@ -24,7 +24,7 @@ _None_
 - `sid`: 合集 id, 可在合集页面的 URL 中找到
 - `embed`: 默认为开启内嵌视频, 任意值为关闭
 - `sortReverse`: 默认:默认排序 1:升序排序
-- `page`: 页码, 默认1
+- `page`: 兼容旧链接，始终返回第一页
 
 
 ## Features
@@ -36,7 +36,10 @@ _None_
 - `supportScihub`: false
 
 ## Radar
-_None_
+### Rule 1
+- `source`:
+  - `space.bilibili.com/:uid/lists/:sid`
+- `target`: `/user/collection/:uid/:sid`
 
 ## Raw JSON
 ```json
@@ -62,12 +65,20 @@ _None_
   "name": "UP 主频道的合集",
   "parameters": {
     "embed": "默认为开启内嵌视频, 任意值为关闭",
-    "page": "页码, 默认1",
+    "page": "兼容旧链接，始终返回第一页",
     "sid": "合集 id, 可在合集页面的 URL 中找到",
     "sortReverse": "默认:默认排序 1:升序排序",
     "uid": "用户 id, 可在 UP 主主页中找到"
   },
   "path": "/user/collection/:uid/:sid/:embed?/:sortReverse?/:page?",
+  "radar": [
+    {
+      "source": [
+        "space.bilibili.com/:uid/lists/:sid"
+      ],
+      "target": "/user/collection/:uid/:sid"
+    }
+  ],
   "test": {
     "code": 1
   },

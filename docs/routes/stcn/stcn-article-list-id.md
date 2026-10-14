@@ -30,7 +30,7 @@
 | cj   | kcb    | xsb    | zk  | gd   |
 
 ## Parameters
-- `category`: {"description": "分类，默认为 `yw`，即要闻，可在对应分类页 URL 中找到", "options": [{"label": "要闻", "value": "yw"}, {"label": "股市", "value": "gs"}, {"label": "公司", "value": "company"}, {"label": "基金", "value": "fund"}, {"label": "金融", "value": "finance"}, {"label": "评论", "value": "comment"}, {"label": "产经", "value": "cj"}, {"label": "科创板", "value": "kcb"}, {"label": "新三板", "value": "xsb"}, {"label": "ESG", "value": "zk"}, {"label": "滚动", "value": "gd"}]}
+- `id`: {"description": "分类，默认为 `yw`，即要闻，可在对应分类页 URL 中找到", "options": [{"label": "要闻", "value": "yw"}, {"label": "股市", "value": "gs"}, {"label": "公司", "value": "company"}, {"label": "基金", "value": "fund"}, {"label": "金融", "value": "finance"}, {"label": "评论", "value": "comment"}, {"label": "产经", "value": "cj"}, {"label": "科创板", "value": "kcb"}, {"label": "新三板", "value": "xsb"}, {"label": "ESG", "value": "zk"}, {"label": "滚动", "value": "gd"}]}
 
 
 ## Features
@@ -44,70 +44,66 @@
 
 ## Radar
 ### Rule 1
-- `source`:
-  - `www.stcn.com/article/list.html`
-  - `www.stcn.com/article/list/:id`
-### Rule 2
 - `title`: `要闻`
 - `source`:
   - `www.stcn.com/article/list.html`
   - `www.stcn.com/article/list/yw.html`
 - `target`: `/article/list/yw`
-### Rule 3
+### Rule 2
 - `title`: `股市`
 - `source`:
   - `www.stcn.com/article/list.html`
   - `www.stcn.com/article/list/gs.html`
 - `target`: `/article/list/gs`
-### Rule 4
+### Rule 3
 - `title`: `公司`
 - `source`:
   - `www.stcn.com/article/list.html`
   - `www.stcn.com/article/list/company.html`
 - `target`: `/article/list/company`
-### Rule 5
+### Rule 4
 - `title`: `基金`
 - `source`:
   - `www.stcn.com/article/list.html`
   - `www.stcn.com/article/list/fund.html`
 - `target`: `/article/list/fund`
-### Rule 6
+### Rule 5
 - `title`: `金融`
 - `source`:
   - `www.stcn.com/article/list.html`
   - `www.stcn.com/article/list/finance.html`
 - `target`: `/article/list/finance`
-### Rule 7
+### Rule 6
 - `title`: `评论`
 - `source`:
   - `www.stcn.com/article/list.html`
   - `www.stcn.com/article/list/comment.html`
 - `target`: `/article/list/comment`
-### Rule 8
+### Rule 7
 - `title`: `产经`
 - `source`:
   - `www.stcn.com/article/list.html`
   - `www.stcn.com/article/list/cj.html`
 - `target`: `/article/list/cj`
-### Rule 9
+### Rule 8
 - `title`: `科创板`
 - `source`:
   - `www.stcn.com/article/list.html`
   - `www.stcn.com/article/list/kcb.html`
 - `target`: `/article/list/kcb`
-### Rule 10
+### Rule 9
 - `title`: `新三板`
 - `source`:
   - `www.stcn.com/article/list.html`
   - `www.stcn.com/article/list/xsb.html`
 - `target`: `/article/list/xsb`
-### Rule 11
+### Rule 10
 - `title`: `ESG`
 - `source`:
   - `www.stcn.com/article/list.html`
   - `www.stcn.com/article/list/zk.html`
 - `target`: `/article/list/zk`
-### Rule 12
+### Rule 11
 - `title`: `滚动`
 - `source`:
   - `www.stcn.com/article/list.html`
@@ -138,7 +134,7 @@
   ],
   "name": "列表",
   "parameters": {
-    "category": {
+    "id": {
       "description": "分类，默认为 `yw`，即要闻，可在对应分类页 URL 中找到",
       "options": [
         {
@@ -190,12 +186,6 @@
   },
   "path": "/article/list/:id?",
   "radar": [
-    {
-      "source": [
-        "www.stcn.com/article/list.html",
-        "www.stcn.com/article/list/:id"
-      ]
-    },
     {
       "source": [
         "www.stcn.com/article/list.html",

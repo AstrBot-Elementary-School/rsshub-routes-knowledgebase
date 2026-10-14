@@ -10,7 +10,7 @@
 
 ## Routes
 
-### 线板酷
+### 线报
 - Route ID: `xianbao:/xianbao/:category?`
 - Route Path: `/xianbao/:category?`
 - File: `docs/routes/xianbao/xianbao-category.md`

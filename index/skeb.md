@@ -10,7 +10,7 @@
 
 ## Routes
 
-### Skeb
+### Works and Creators
 - Route ID: `skeb:/skeb/:category`
 - Route Path: `/skeb/:category`
 - File: `docs/routes/skeb/skeb-category.md`

@@ -10,7 +10,7 @@
 
 ## Routes
 
-### PlayStation Monthly Games
+### Monthly Games
 - Route ID: `ps:/ps/monthly-games`
 - Route Path: `/ps/monthly-games`
 - File: `docs/routes/ps/ps-monthly-games.md`
@@ -18,7 +18,7 @@
 - Categories: `game, popular`
 - Maintainers: `justjustCC`
 
-### PlayStation Network user trophy
+### Network user trophy
 - Route ID: `ps:/ps/trophy/:id`
 - Route Path: `/ps/trophy/:id`
 - File: `docs/routes/ps/ps-trophy-id.md`

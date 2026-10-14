@@ -71,6 +71,103 @@ To subscribe to [Bandizip Version History](https://www.bandisoft.com/bandizip/hi
 ### Rule 1
 - `source`:
   - `www.bandisoft.com/:id/history`
+- `target`: `/history/:id`
+### Rule 2
+- `source`:
+  - `en.bandisoft.com/:id/history`
+- `target`: `/history/:id/en`
+### Rule 3
+- `source`:
+  - `cn.bandisoft.com/:id/history`
+- `target`: `/history/:id/cn`
+### Rule 4
+- `source`:
+  - `tw.bandisoft.com/:id/history`
+- `target`: `/history/:id/tw`
+### Rule 5
+- `source`:
+  - `jp.bandisoft.com/:id/history`
+- `target`: `/history/:id/jp`
+### Rule 6
+- `source`:
+  - `ru.bandisoft.com/:id/history`
+- `target`: `/history/:id/ru`
+### Rule 7
+- `source`:
+  - `es.bandisoft.com/:id/history`
+- `target`: `/history/:id/es`
+### Rule 8
+- `source`:
+  - `fr.bandisoft.com/:id/history`
+- `target`: `/history/:id/fr`
+### Rule 9
+- `source`:
+  - `de.bandisoft.com/:id/history`
+- `target`: `/history/:id/de`
+### Rule 10
+- `source`:
+  - `it.bandisoft.com/:id/history`
+- `target`: `/history/:id/it`
+### Rule 11
+- `source`:
+  - `sk.bandisoft.com/:id/history`
+- `target`: `/history/:id/sk`
+### Rule 12
+- `source`:
+  - `uk.bandisoft.com/:id/history`
+- `target`: `/history/:id/uk`
+### Rule 13
+- `source`:
+  - `be.bandisoft.com/:id/history`
+- `target`: `/history/:id/be`
+### Rule 14
+- `source`:
+  - `da.bandisoft.com/:id/history`
+- `target`: `/history/:id/da`
+### Rule 15
+- `source`:
+  - `pl.bandisoft.com/:id/history`
+- `target`: `/history/:id/pl`
+### Rule 16
+- `source`:
+  - `br.bandisoft.com/:id/history`
+- `target`: `/history/:id/br`
+### Rule 17
+- `source`:
+  - `cs.bandisoft.com/:id/history`
+- `target`: `/history/:id/cs`
+### Rule 18
+- `source`:
+  - `nl.bandisoft.com/:id/history`
+- `target`: `/history/:id/nl`
+### Rule 19
+- `source`:
+  - `sl.bandisoft.com/:id/history`
+- `target`: `/history/:id/sl`
+### Rule 20
+- `source`:
+  - `tr.bandisoft.com/:id/history`
+- `target`: `/history/:id/tr`
+### Rule 21
+- `source`:
+  - `th.bandisoft.com/:id/history`
+- `target`: `/history/:id/th`
+### Rule 22
+- `source`:
+  - `gr.bandisoft.com/:id/history`
+- `target`: `/history/:id/gr`
+### Rule 23
+- `source`:
+  - `uz.bandisoft.com/:id/history`
+- `target`: `/history/:id/uz`
+### Rule 24
+- `source`:
+  - `ro.bandisoft.com/:id/history`
+- `target`: `/history/:id/ro`
+### Rule 25
+- `source`:
+  - `kr.bandisoft.com/:id/history`
+- `target`: `/history/:id/kr`
 
 ## Raw JSON
 ```json
@@ -224,7 +321,152 @@ To subscribe to [Bandizip Version History](https://www.bandisoft.com/bandizip/hi
     {
       "source": [
         "www.bandisoft.com/:id/history"
-      ]
+      ],
+      "target": "/history/:id"
+    },
+    {
+      "source": [
+        "en.bandisoft.com/:id/history"
+      ],
+      "target": "/history/:id/en"
+    },
+    {
+      "source": [
+        "cn.bandisoft.com/:id/history"
+      ],
+      "target": "/history/:id/cn"
+    },
+    {
+      "source": [
+        "tw.bandisoft.com/:id/history"
+      ],
+      "target": "/history/:id/tw"
+    },
+    {
+      "source": [
+        "jp.bandisoft.com/:id/history"
+      ],
+      "target": "/history/:id/jp"
+    },
+    {
+      "source": [
+        "ru.bandisoft.com/:id/history"
+      ],
+      "target": "/history/:id/ru"
+    },
+    {
+      "source": [
+        "es.bandisoft.com/:id/history"
+      ],
+      "target": "/history/:id/es"
+    },
+    {
+      "source": [
+        "fr.bandisoft.com/:id/history"
+      ],
+      "target": "/history/:id/fr"
+    },
+    {
+      "source": [
+        "de.bandisoft.com/:id/history"
+      ],
+      "target": "/history/:id/de"
+    },
+    {
+      "source": [
+        "it.bandisoft.com/:id/history"
+      ],
+      "target": "/history/:id/it"
+    },
+    {
+      "source": [
+        "sk.bandisoft.com/:id/history"
+      ],
+      "target": "/history/:id/sk"
+    },
+    {
+      "source": [
+        "uk.bandisoft.com/:id/history"
+      ],
+      "target": "/history/:id/uk"
+    },
+    {
+      "source": [
+        "be.bandisoft.com/:id/history"
+      ],
+      "target": "/history/:id/be"
+    },
+    {
+      "source": [
+        "da.bandisoft.com/:id/history"
+      ],
+      "target": "/history/:id/da"
+    },
+    {
+      "source": [
+        "pl.bandisoft.com/:id/history"
+      ],
+      "target": "/history/:id/pl"
+    },
+    {
+      "source": [
+        "br.bandisoft.com/:id/history"
+      ],
+      "target": "/history/:id/br"
+    },
+    {
+      "source": [
+        "cs.bandisoft.com/:id/history"
+      ],
+      "target": "/history/:id/cs"
+    },
+    {
+      "source": [
+        "nl.bandisoft.com/:id/history"
+      ],
+      "target": "/history/:id/nl"
+    },
+    {
+      "source": [
+        "sl.bandisoft.com/:id/history"
+      ],
+      "target": "/history/:id/sl"
+    },
+    {
+      "source": [
+        "tr.bandisoft.com/:id/history"
+      ],
+      "target": "/history/:id/tr"
+    },
+    {
+      "source": [
+        "th.bandisoft.com/:id/history"
+      ],
+      "target": "/history/:id/th"
+    },
+    {
+      "source": [
+        "gr.bandisoft.com/:id/history"
+      ],
+      "target": "/history/:id/gr"
+    },
+    {
+      "source": [
+        "uz.bandisoft.com/:id/history"
+      ],
+      "target": "/history/:id/uz"
+    },
+    {
+      "source": [
+        "ro.bandisoft.com/:id/history"
+      ],
+      "target": "/history/:id/ro"
+    },
+    {
+      "source": [
+        "kr.bandisoft.com/:id/history"
+      ],
+      "target": "/history/:id/kr"
     }
   ],
   "test": {
@@ -235,7 +477,7 @@ To subscribe to [Bandizip Version History](https://www.bandisoft.com/bandizip/hi
   "url": "www.bandisoft.com",
   "view": 0,
   "zh": {
-    "description": "::: tip\n若订阅 [Bandizip 更新记录](https://cn.bandisoft.com/bandizip/history/)，网址为 `https://cn.bandisoft.com/bandizip/history/`，请截取 `cn` 作为 `category` 参数填入，此时目标路由为 [`/bandisoft/:language?/:id?`](https://rsshub.app/bandisoft/:language?/:id?)。\n:::\n\n<details>\n  <summary>更多语言</summary>\n\n| Language             | ID |\n| -------------------- | -- |\n| English              | en |\n| 中文 (简体)          | cn |\n| 中文 (繁體)          | tw |\n| 日本語               | jp |\n| Русский              | ru |\n| Español              | es |\n| Français             | fr |\n| Deutsch              | de |\n| Italiano             | it |\n| Slovenčina           | sk |\n| Українська           | uk |\n| Беларуская           | be |\n| Dansk                | da |\n| Polski               | pl |\n| Português Brasileiro | br |\n| Čeština              | cs |\n| Nederlands           | nl |\n| Slovenščina          | sl |\n| Türkçe               | tr |\n| ภาษาไทย              | th |\n| Ελληνικά             | gr |\n| Oʻzbek               | uz |\n| Romanian             | ro |\n| 한국어               | kr |\n\n</details>",
+    "description": "::: tip\n若订阅 [Bandizip 更新记录](https://cn.bandisoft.com/bandizip/history/)，请将 `bandizip` 作为 `id`、`cn` 作为 `language` 参数，目标路由为 [`/bandisoft/history/bandizip/cn`](https://rsshub.app/bandisoft/history/bandizip/cn)。\n:::\n\n<details>\n  <summary>更多语言</summary>\n\n| Language             | ID |\n| -------------------- | -- |\n| English              | en |\n| 中文 (简体)          | cn |\n| 中文 (繁體)          | tw |\n| 日本語               | jp |\n| Русский              | ru |\n| Español              | es |\n| Français             | fr |\n| Deutsch              | de |\n| Italiano             | it |\n| Slovenčina           | sk |\n| Українська           | uk |\n| Беларуская           | be |\n| Dansk                | da |\n| Polski               | pl |\n| Português Brasileiro | br |\n| Čeština              | cs |\n| Nederlands           | nl |\n| Slovenščina          | sl |\n| Türkçe               | tr |\n| ภาษาไทย              | th |\n| Ελληνικά             | gr |\n| Oʻzbek               | uz |\n| Romanian             | ro |\n| 한국어               | kr |\n\n</details>",
     "name": "更新记录",
     "parameters": {
       "id": {

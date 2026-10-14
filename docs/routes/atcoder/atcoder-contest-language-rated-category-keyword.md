@@ -38,7 +38,7 @@ Category
 | 1002                        | 1200                 |
 
 ## Parameters
-- `language`: Language, `jp` as Japanese or `en` as English, English by default
+- `language`: Language, `ja` (or legacy `jp`) as Japanese or `en` as English, English by default
 - `rated`: Rated Range, see below, all by default
 - `category`: Category, see below, all by default
 - `keyword`: Keyword
@@ -80,7 +80,7 @@ _None_
   "parameters": {
     "category": "Category, see below, all by default",
     "keyword": "Keyword",
-    "language": "Language, `jp` as Japanese or `en` as English, English by default",
+    "language": "Language, `ja` (or legacy `jp`) as Japanese or `en` as English, English by default",
     "rated": "Rated Range, see below, all by default"
   },
   "path": "/contest/:language?/:rated?/:category?/:keyword?",

@@ -30,7 +30,7 @@ _None_
 ### Rule 1
 - `source`:
   - `www.yilinzazhi.com`
-- `target`: `/`
+- `target`: `/latest`
 
 ## Raw JSON
 ```json
@@ -52,7 +52,7 @@ _None_
       "source": [
         "www.yilinzazhi.com"
       ],
-      "target": "/"
+      "target": "/latest"
     }
   ],
   "test": {
@@ -62,7 +62,7 @@ _None_
     {
       "description": "意林 - 近期文章汇总 - Powered by RSSHub",
       "errorAt": "2024-10-08T03:58:34.168Z",
-      "errorMessage": "Failed to fetch\n(intermediate value).flatMap is not a function\n",
+      "errorMessage": "(intermediate value).flatMap is not a function\n(intermediate value).flatMap is not a function\n",
       "id": "60546375521699840",
       "image": null,
       "ownerUserId": null,

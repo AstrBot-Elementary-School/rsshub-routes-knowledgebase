@@ -35,8 +35,40 @@ New restaurant-property listings on 飲食店.COM sorted by 登録日 (first pag
 ## Radar
 ### Rule 1
 - `source`:
-  - `www.inshokuten.com/bukken/:region/bukkens/list`
-  - `www.inshokuten.com/bukken/:region/bukkens/list/local-:area`
+  - `www.inshokuten.com/bukken/kanto/bukkens/list`
+- `target`: `/bukken/kanto`
+### Rule 2
+- `source`:
+  - `www.inshokuten.com/bukken/kanto/bukkens/list/local-23ward`
+- `target`: `/bukken/23ward`
+### Rule 3
+- `source`:
+  - `www.inshokuten.com/bukken/kanto/bukkens/list/local-23ward_out`
+- `target`: `/bukken/23ward_out`
+### Rule 4
+- `source`:
+  - `www.inshokuten.com/bukken/kanto/bukkens/list/local-yokohama_kawasaki`
+- `target`: `/bukken/yokohama_kawasaki`
+### Rule 5
+- `source`:
+  - `www.inshokuten.com/bukken/kanto/bukkens/list/local-chiba`
+- `target`: `/bukken/chiba`
+### Rule 6
+- `source`:
+  - `www.inshokuten.com/bukken/kanto/bukkens/list/local-saitama`
+- `target`: `/bukken/saitama`
+### Rule 7
+- `source`:
+  - `www.inshokuten.com/bukken/kansai/bukkens/list`
+- `target`: `/bukken/kansai`
+### Rule 8
+- `source`:
+  - `www.inshokuten.com/bukken/tokai/bukkens/list`
+- `target`: `/bukken/tokai`
+### Rule 9
+- `source`:
+  - `www.inshokuten.com/bukken/kyushu/bukkens/list`
+- `target`: `/bukken/kyushu`
 
 ## Raw JSON
 ```json
@@ -109,9 +141,57 @@ New restaurant-property listings on 飲食店.COM sorted by 登録日 (first pag
   "radar": [
     {
       "source": [
-        "www.inshokuten.com/bukken/:region/bukkens/list",
-        "www.inshokuten.com/bukken/:region/bukkens/list/local-:area"
-      ]
+        "www.inshokuten.com/bukken/kanto/bukkens/list"
+      ],
+      "target": "/bukken/kanto"
+    },
+    {
+      "source": [
+        "www.inshokuten.com/bukken/kanto/bukkens/list/local-23ward"
+      ],
+      "target": "/bukken/23ward"
+    },
+    {
+      "source": [
+        "www.inshokuten.com/bukken/kanto/bukkens/list/local-23ward_out"
+      ],
+      "target": "/bukken/23ward_out"
+    },
+    {
+      "source": [
+        "www.inshokuten.com/bukken/kanto/bukkens/list/local-yokohama_kawasaki"
+      ],
+      "target": "/bukken/yokohama_kawasaki"
+    },
+    {
+      "source": [
+        "www.inshokuten.com/bukken/kanto/bukkens/list/local-chiba"
+      ],
+      "target": "/bukken/chiba"
+    },
+    {
+      "source": [
+        "www.inshokuten.com/bukken/kanto/bukkens/list/local-saitama"
+      ],
+      "target": "/bukken/saitama"
+    },
+    {
+      "source": [
+        "www.inshokuten.com/bukken/kansai/bukkens/list"
+      ],
+      "target": "/bukken/kansai"
+    },
+    {
+      "source": [
+        "www.inshokuten.com/bukken/tokai/bukkens/list"
+      ],
+      "target": "/bukken/tokai"
+    },
+    {
+      "source": [
+        "www.inshokuten.com/bukken/kyushu/bukkens/list"
+      ],
+      "target": "/bukken/kyushu"
     }
   ],
   "test": {

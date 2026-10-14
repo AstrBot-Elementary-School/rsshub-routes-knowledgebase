@@ -31,6 +31,9 @@ _None_
 - `source`:
   - `strategyand.pwc.com/at/en/functions/sustainability-strategy/publications.html`
   - `strategyand.pwc.com/`
+### Rule 2
+- `source`:
+  - `www.strategyand.pwc.com/at/en/functions/sustainability-strategy/publications.html`
 
 ## Raw JSON
 ```json
@@ -51,6 +54,11 @@ _None_
       "source": [
         "strategyand.pwc.com/at/en/functions/sustainability-strategy/publications.html",
         "strategyand.pwc.com/"
+      ]
+    },
+    {
+      "source": [
+        "www.strategyand.pwc.com/at/en/functions/sustainability-strategy/publications.html"
       ]
     }
   ],

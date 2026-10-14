@@ -29,8 +29,16 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `www.mplus.org.hk/tc/:section`
-- `target`: `/content/:section`
+  - `www.mplus.org.hk/tc/magazine`
+- `target`: `/content/magazine`
+### Rule 2
+- `source`:
+  - `www.mplus.org.hk/tc/exhibitions`
+- `target`: `/content/exhibitions`
+### Rule 3
+- `source`:
+  - `www.mplus.org.hk/tc/today`
+- `target`: `/content/today`
 
 ## Raw JSON
 ```json
@@ -52,9 +60,21 @@ _None_
   "radar": [
     {
       "source": [
-        "www.mplus.org.hk/tc/:section"
+        "www.mplus.org.hk/tc/magazine"
       ],
-      "target": "/content/:section"
+      "target": "/content/magazine"
+    },
+    {
+      "source": [
+        "www.mplus.org.hk/tc/exhibitions"
+      ],
+      "target": "/content/exhibitions"
+    },
+    {
+      "source": [
+        "www.mplus.org.hk/tc/today"
+      ],
+      "target": "/content/today"
     }
   ],
   "topFeeds": []

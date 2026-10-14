@@ -9,7 +9,7 @@
 - Route Path: `/devolverdigital/blog`
 - Route Name: `Official Blogs`
 - Example: `/devolverdigital/blog`
-- URL: `devolverdigital.com/blog`
+- URL: `devolverdigital.com/propaganda`
 - Language: `_None_`
 - Categories: `game`
 - Maintainers: `XXY233`
@@ -25,7 +25,7 @@ _None_
 
 ## Features
 - `requireConfig`: false
-- `requirePuppeteer`: false
+- `requirePuppeteer`: true
 - `antiCrawler`: false
 - `supportBT`: false
 - `supportPodcast`: false
@@ -34,6 +34,8 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
+  - `devolverdigital.com/propaganda`
+  - `devolverdigital.com/propaganda/:slug`
   - `devolverdigital.com/blog`
 
 ## Raw JSON
@@ -46,7 +48,7 @@ _None_
   "features": {
     "antiCrawler": false,
     "requireConfig": false,
-    "requirePuppeteer": false,
+    "requirePuppeteer": true,
     "supportBT": false,
     "supportPodcast": false,
     "supportScihub": false
@@ -62,6 +64,8 @@ _None_
   "radar": [
     {
       "source": [
+        "devolverdigital.com/propaganda",
+        "devolverdigital.com/propaganda/:slug",
         "devolverdigital.com/blog"
       ]
     }
@@ -84,6 +88,6 @@ _None_
       "url": "rsshub://devolverdigital/blog"
     }
   ],
-  "url": "devolverdigital.com/blog"
+  "url": "devolverdigital.com/propaganda"
 }
 ```

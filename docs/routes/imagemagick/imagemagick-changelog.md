@@ -9,7 +9,7 @@
 - Route Path: `/imagemagick/changelog`
 - Route Name: `Changelog`
 - Example: `/imagemagick/changelog`
-- URL: `imagemagick.org/script/download.php`
+- URL: `imagemagick.org/download`
 - Language: `_None_`
 - Categories: `program-update`
 - Maintainers: `nczitzk`
@@ -34,6 +34,8 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
+  - `imagemagick.org/download`
+  - `imagemagick.org/changelog`
   - `imagemagick.org/script/download.php`
   - `imagemagick.org/script`
   - `imagemagick.org/`
@@ -64,6 +66,8 @@ _None_
   "radar": [
     {
       "source": [
+        "imagemagick.org/download",
+        "imagemagick.org/changelog",
         "imagemagick.org/script/download.php",
         "imagemagick.org/script",
         "imagemagick.org/"
@@ -88,6 +92,6 @@ _None_
       "url": "rsshub://imagemagick/changelog"
     }
   ],
-  "url": "imagemagick.org/script/download.php"
+  "url": "imagemagick.org/download"
 }
 ```

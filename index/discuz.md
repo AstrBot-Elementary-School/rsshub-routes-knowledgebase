@@ -3,9 +3,9 @@
 ## Namespace
 - Namespace: `discuz`
 - Display Name: `Discuz`
-- URL: `https://www.discuz.vip/`
+- URL: `www.discuz.vip`
 - Language: `_None_`
-- Aliases: `discuz, https://discuz.vip/, https://www, https://www.discuz.vip/`
+- Aliases: `discuz, discuz.vip, www, www.discuz.vip`
 - Route Count: `1`
 
 ## Routes

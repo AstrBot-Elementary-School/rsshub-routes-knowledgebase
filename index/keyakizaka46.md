@@ -10,7 +10,7 @@
 
 ## Routes
 
-### Keyakizaka46 Blog 欅坂 46 博客
+### Blog 博客
 - Route ID: `keyakizaka46:/keyakizaka46/blog`
 - Route Path: `/keyakizaka46/blog`
 - File: `docs/routes/keyakizaka46/keyakizaka46-blog.md`
@@ -18,7 +18,7 @@
 - Categories: `new-media`
 - Maintainers: `yj-qin`
 
-### Keyakizaka46 News 欅坂 46 新闻
+### News 新闻
 - Route ID: `keyakizaka46:/keyakizaka46/news`
 - Route Path: `/keyakizaka46/news`
 - File: `docs/routes/keyakizaka46/keyakizaka46-news.md`

@@ -9,7 +9,7 @@
 - Route Path: `/pku/ss/admission`
 - Route Name: `软件与微电子学院 - 招生通知`
 - Example: `/pku/ss/admission`
-- URL: `ss.pku.edu.cn/admission/admnotice`
+- URL: `ss.pku.edu.cn/zsxx/zstz/index.htm`
 - Language: `_None_`
 - Categories: `university`
 - Maintainers: `legr4ndk`
@@ -34,7 +34,7 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `ss.pku.edu.cn/admission/admnotice`
+  - `ss.pku.edu.cn/zsxx/zstz/index.htm`
   - `ss.pku.edu.cn/`
 
 ## Raw JSON
@@ -63,7 +63,7 @@ _None_
   "radar": [
     {
       "source": [
-        "ss.pku.edu.cn/admission/admnotice",
+        "ss.pku.edu.cn/zsxx/zstz/index.htm",
         "ss.pku.edu.cn/"
       ]
     }
@@ -85,6 +85,6 @@ _None_
       "url": "rsshub://pku/ss/admission"
     }
   ],
-  "url": "ss.pku.edu.cn/admission/admnotice"
+  "url": "ss.pku.edu.cn/zsxx/zstz/index.htm"
 }
 ```

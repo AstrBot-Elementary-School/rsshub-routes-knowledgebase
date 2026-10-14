@@ -9,7 +9,7 @@
 - Route Path: `/panewslab/author/:id`
 - Route Name: `专栏`
 - Example: `/panewslab/author/166`
-- URL: `panewslab.com/`
+- URL: `www.panewslab.com/zh/columns/:id`
 - Language: `_None_`
 - Categories: `new-media`
 - Maintainers: `nczitzk`
@@ -34,7 +34,8 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `panewslab.com/`
+  - `www.panewslab.com/zh/columns/:id`
+- `target`: `/author/:id`
 
 ## Raw JSON
 ```json
@@ -67,8 +68,9 @@ _None_
   "radar": [
     {
       "source": [
-        "panewslab.com/"
-      ]
+        "www.panewslab.com/zh/columns/:id"
+      ],
+      "target": "/author/:id"
     }
   ],
   "test": {
@@ -89,6 +91,6 @@ _None_
       "url": "rsshub://panewslab/author/166"
     }
   ],
-  "url": "panewslab.com/"
+  "url": "www.panewslab.com/zh/columns/:id"
 }
 ```

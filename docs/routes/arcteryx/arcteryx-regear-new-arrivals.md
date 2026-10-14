@@ -9,7 +9,7 @@
 - Route Path: `/arcteryx/regear/new-arrivals`
 - Route Name: `Regear New Arrivals`
 - Example: `/arcteryx/regear/new-arrivals`
-- URL: `regear.arcteryx.com/shop/new-arrivals`
+- URL: `www.resale.arcteryx.com/collections/new-arrivals`
 - Language: `_None_`
 - Categories: `shopping`
 - Maintainers: `IvanWng97`
@@ -34,7 +34,10 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `regear.arcteryx.com/shop/new-arrivals`
+  - `www.resale.arcteryx.com/collections/new-arrivals`
+  - `www.resale.arcteryx.com/`
+### Rule 2
+- `source`:
   - `regear.arcteryx.com/`
 
 ## Raw JSON
@@ -63,7 +66,12 @@ _None_
   "radar": [
     {
       "source": [
-        "regear.arcteryx.com/shop/new-arrivals",
+        "www.resale.arcteryx.com/collections/new-arrivals",
+        "www.resale.arcteryx.com/"
+      ]
+    },
+    {
+      "source": [
         "regear.arcteryx.com/"
       ]
     }
@@ -73,6 +81,6 @@ _None_
     "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:108:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
   "topFeeds": [],
-  "url": "regear.arcteryx.com/shop/new-arrivals"
+  "url": "www.resale.arcteryx.com/collections/new-arrivals"
 }
 ```

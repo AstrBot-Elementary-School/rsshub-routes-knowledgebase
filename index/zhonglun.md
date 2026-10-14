@@ -10,7 +10,7 @@
 
 ## Routes
 
-### 中伦研究专业文章
+### 专业文章
 - Route ID: `zhonglun:/zhonglun/research/article/:language?`
 - Route Path: `/zhonglun/research/article/:language?`
 - File: `docs/routes/zhonglun/zhonglun-research-article-language.md`

@@ -1,4 +1,4 @@
-# 浙江工业大学 - 浙江工业大学计算机科学与技术学院、软件学院
+# 浙江工业大学 - 计算机科学与技术学院、软件学院
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `zjut`
 - Namespace Name: `浙江工业大学`
 - Route Path: `/zjut/cs/:type`
-- Route Name: `浙江工业大学计算机科学与技术学院、软件学院`
+- Route Name: `计算机科学与技术学院、软件学院`
 - Example: `/zjut/cs/54`
 - URL: `cs.zjut.edu.cn`
 - Language: `_None_`
@@ -34,10 +34,7 @@
 - `supportScihub`: false
 
 ## Radar
-### Rule 1
-- `source`:
-  - `cs.zjut.edu.cn/jsp/newsclass.jsp`
-- `target`: `/cs/:type`
+_None_
 
 ## Raw JSON
 ```json
@@ -60,19 +57,11 @@
   "maintainers": [
     "zhullyb"
   ],
-  "name": "浙江工业大学计算机科学与技术学院、软件学院",
+  "name": "计算机科学与技术学院、软件学院",
   "parameters": {
     "type": "分类，见下表"
   },
   "path": "/cs/:type",
-  "radar": [
-    {
-      "source": [
-        "cs.zjut.edu.cn/jsp/newsclass.jsp"
-      ],
-      "target": "/cs/:type"
-    }
-  ],
   "test": {
     "code": 1
   },

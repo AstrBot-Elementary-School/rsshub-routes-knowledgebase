@@ -1,4 +1,4 @@
-# OneJAV - OneJAV BT
+# OneJAV - BT
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `onejav`
 - Namespace Name: `OneJAV`
 - Route Path: `/onejav/:type/:key?`
-- Route Name: `OneJAV BT`
+- Route Name: `BT`
 - Example: `/onejav/popular/30`
 - URL: `onejav.com`
 - Language: `_None_`
@@ -63,11 +63,25 @@
 
 ## Radar
 ### Rule 1
-- `title`: `页面种子`
 - `source`:
-  - `onejav.com/:type`
-  - `onejav.com/:type/:key`
-  - `onejav.com/:type/:key/:morekey`
+  - `onejav.com/`
+- `target`: `/new`
+### Rule 2
+- `source`:
+  - `onejav.com/popular/:key?`
+- `target`: `/popular/:key?`
+### Rule 3
+- `source`:
+  - `onejav.com/random/:key?`
+- `target`: `/random/:key?`
+### Rule 4
+- `source`:
+  - `onejav.com/actress/:key`
+- `target`: `/actress/:key`
+### Rule 5
+- `source`:
+  - `onejav.com/tag/:key`
+- `target`: `/tag/:key`
 
 ## Raw JSON
 ```json
@@ -87,7 +101,7 @@
   "maintainers": [
     "monsterxcn"
   ],
-  "name": "OneJAV BT",
+  "name": "BT",
   "parameters": {
     "key": "关键词",
     "type": "类型"
@@ -96,11 +110,33 @@
   "radar": [
     {
       "source": [
-        "onejav.com/:type",
-        "onejav.com/:type/:key",
-        "onejav.com/:type/:key/:morekey"
+        "onejav.com/"
       ],
-      "title": "页面种子"
+      "target": "/new"
+    },
+    {
+      "source": [
+        "onejav.com/popular/:key?"
+      ],
+      "target": "/popular/:key?"
+    },
+    {
+      "source": [
+        "onejav.com/random/:key?"
+      ],
+      "target": "/random/:key?"
+    },
+    {
+      "source": [
+        "onejav.com/actress/:key"
+      ],
+      "target": "/actress/:key"
+    },
+    {
+      "source": [
+        "onejav.com/tag/:key"
+      ],
+      "target": "/tag/:key"
     }
   ],
   "test": {
@@ -120,16 +156,16 @@
       "url": "rsshub://onejav/popular"
     },
     {
-      "description": "OneJAV - new 30 - Powered by RSSHub",
+      "description": "OneJAV - favorite Ez6l7NN4hDwOwM1fPhnaNpH5yZaluczpttFHPxCnYbszcTsXqtap9S5PQMso - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "154611732345126921",
+      "id": "1279720161711882240",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://onejav.com/new",
-      "title": "OneJAV - new 30",
+      "siteUrl": "https://onejav.com/favorite/Ez6l7NN4hDwOwM1fPhnaNpH5yZaluczpttFHPxCnYbszcTsXqtap9S5PQMso",
+      "title": "OneJAV - favorite Ez6l7NN4hDwOwM1fPhnaNpH5yZaluczpttFHPxCnYbszcTsXqtap9S5PQMso",
       "type": "feed",
-      "url": "rsshub://onejav/new/30"
+      "url": "rsshub://onejav/favorite/Ez6l7NN4hDwOwM1fPhnaNpH5yZaluczpttFHPxCnYbszcTsXqtap9S5PQMso"
     }
   ]
 }

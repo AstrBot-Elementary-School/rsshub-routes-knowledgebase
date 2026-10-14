@@ -24,7 +24,8 @@ _None_
 
 
 ## Features
-_None_
+- `requirePuppeteer`: true
+- `antiCrawler`: true
 
 ## Radar
 ### Rule 1
@@ -39,6 +40,10 @@ _None_
   ],
   "description": "Note: The [source website](https://www.umass.edu/engineering/events) may be empty when there are no upcoming events. This is normal and will cause rsshub fail to fetch this feed.",
   "example": "/umass/amherst/eceseminar",
+  "features": {
+    "antiCrawler": true,
+    "requirePuppeteer": true
+  },
   "heat": 0,
   "location": "eceseminar.ts",
   "maintainers": [

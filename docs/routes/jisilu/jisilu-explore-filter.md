@@ -22,7 +22,7 @@
 :::
 
 ## Parameters
-- `category`: 过滤器，默认为空，可在对应页 URL 中找到
+- `filter`: 过滤器，默认为空，可在对应页 URL 中找到
 
 
 ## Features
@@ -38,8 +38,12 @@
 ### Rule 1
 - `source`:
   - `www.jisilu.cn/home/explore/:filter`
+- `target`: `/explore/:filter`
+### Rule 2
+- `source`:
   - `www.jisilu.cn/home/explore`
   - `www.jisilu.cn/explore`
+- `target`: `/explore`
 
 ## Raw JSON
 ```json
@@ -65,16 +69,22 @@
   ],
   "name": "广场",
   "parameters": {
-    "category": "过滤器，默认为空，可在对应页 URL 中找到"
+    "filter": "过滤器，默认为空，可在对应页 URL 中找到"
   },
   "path": "/explore/:filter?",
   "radar": [
     {
       "source": [
-        "www.jisilu.cn/home/explore/:filter",
+        "www.jisilu.cn/home/explore/:filter"
+      ],
+      "target": "/explore/:filter"
+    },
+    {
+      "source": [
         "www.jisilu.cn/home/explore",
         "www.jisilu.cn/explore"
-      ]
+      ],
+      "target": "/explore"
     }
   ],
   "test": {

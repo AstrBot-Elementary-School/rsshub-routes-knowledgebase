@@ -31,8 +31,8 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `komica1.org/:board/`
-- `target`: `/:host/:board`
+  - `gita.komica1.org/:board/`
+- `target`: `/gita/:board`
 
 ## Raw JSON
 ```json
@@ -57,9 +57,9 @@ _None_
   "radar": [
     {
       "source": [
-        "komica1.org/:board/"
+        "gita.komica1.org/:board/"
       ],
-      "target": "/:host/:board"
+      "target": "/gita/:board"
     }
   ],
   "test": {

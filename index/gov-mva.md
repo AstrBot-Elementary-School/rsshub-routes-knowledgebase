@@ -10,7 +10,7 @@
 
 ## Routes
 
-### 中华人民共和国退役军人事务部
+### 资讯
 - Route ID: `gov/mva:/gov/mva/:type`
 - Route Path: `/gov/mva/:type`
 - File: `docs/routes/gov-mva/gov-mva-type.md`

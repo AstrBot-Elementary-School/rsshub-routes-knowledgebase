@@ -9,7 +9,7 @@
 - Route Path: `/gf-cn/news/:category?`
 - Route Name: `情报局`
 - Example: `/gf-cn/news`
-- URL: `sunborngame.com`
+- URL: `gf-cn.sunborngame.com`
 - Language: `_None_`
 - Categories: `game`
 - Maintainers: `nczitzk`
@@ -36,8 +36,9 @@
 ## Radar
 ### Rule 1
 - `source`:
-  - `sunborngame.com/:category`
-  - `sunborngame.com/`
+  - `gf-cn.sunborngame.com/News`
+  - `gf-cn.sunborngame.com/`
+- `target`: `/news`
 
 ## Raw JSON
 ```json
@@ -68,9 +69,10 @@
   "radar": [
     {
       "source": [
-        "sunborngame.com/:category",
-        "sunborngame.com/"
-      ]
+        "gf-cn.sunborngame.com/News",
+        "gf-cn.sunborngame.com/"
+      ],
+      "target": "/news"
     }
   ],
   "test": {

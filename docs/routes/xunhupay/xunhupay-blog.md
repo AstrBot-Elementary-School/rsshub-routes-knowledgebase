@@ -9,7 +9,7 @@
 - Route Path: `/xunhupay/blog`
 - Route Name: `文章`
 - Example: `/xunhupay/blog`
-- URL: `www.xunhupay.com/blog`
+- URL: `www.xunhupay.com/blog.html`
 - Language: `_None_`
 - Categories: `blog`
 - Maintainers: `Joey`
@@ -35,6 +35,7 @@ _None_
 ### Rule 1
 - `source`:
   - `www.xunhupay.com/blog`
+  - `www.xunhupay.com/blog.html`
 
 ## Raw JSON
 ```json
@@ -62,7 +63,8 @@ _None_
   "radar": [
     {
       "source": [
-        "www.xunhupay.com/blog"
+        "www.xunhupay.com/blog",
+        "www.xunhupay.com/blog.html"
       ]
     }
   ],
@@ -83,6 +85,6 @@ _None_
       "url": "rsshub://xunhupay/blog"
     }
   ],
-  "url": "www.xunhupay.com/blog"
+  "url": "www.xunhupay.com/blog.html"
 }
 ```

@@ -8,7 +8,7 @@
 - Namespace Name: `哈尔滨工业大学（深圳）`
 - Route Path: `/hitsz/article/:category?`
 - Route Name: `新闻中心`
-- Example: `/hitsz/article/id-74`
+- Example: `/hitsz/article/id-77`
 - URL: `hitsz.edu.cn`
 - Language: `_None_`
 - Categories: `university`
@@ -43,7 +43,7 @@ _None_
     "university"
   ],
   "description": "| 校区要闻 | 媒体报道 | 综合新闻 | 校园动态 | 讲座论坛 | 热点专题 | 招标信息 | 重要关注 |\n| -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |\n| id-116   | id-80    | id-75    | id-77    | id-78    | id-79    | id-81    | id-124   |",
-  "example": "/hitsz/article/id-74",
+  "example": "/hitsz/article/id-77",
   "features": {
     "antiCrawler": false,
     "requireConfig": false,

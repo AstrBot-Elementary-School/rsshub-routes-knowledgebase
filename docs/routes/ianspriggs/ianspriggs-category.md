@@ -1,11 +1,11 @@
-# Ian Spriggss - Category
+# Ian Spriggs - Category
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `ianspriggs`
-- Namespace Name: `Ian Spriggss`
+- Namespace Name: `Ian Spriggs`
 - Route Path: `/ianspriggs/:category?`
 - Route Name: `Category`
 - Example: `/ianspriggs/portraits`

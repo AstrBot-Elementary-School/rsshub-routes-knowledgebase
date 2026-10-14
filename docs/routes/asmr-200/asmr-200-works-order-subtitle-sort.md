@@ -40,7 +40,7 @@
 ### Rule 1
 - `source`:
   - `asmr-200.com`
-- `target`: `asmr-200/works`
+- `target`: `/works`
 
 ## Raw JSON
 ```json
@@ -76,7 +76,7 @@
       "source": [
         "asmr-200.com"
       ],
-      "target": "asmr-200/works"
+      "target": "/works"
     }
   ],
   "test": {

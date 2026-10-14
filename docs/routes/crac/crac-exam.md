@@ -34,7 +34,7 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `www.crac.org.cn/*`
+  - `zhipu.allspectrum.cn/CRAC/crac/pages/list_examMsg.html`
 - `target`: `/exam`
 
 ## Raw JSON
@@ -62,7 +62,7 @@ _None_
   "radar": [
     {
       "source": [
-        "www.crac.org.cn/*"
+        "zhipu.allspectrum.cn/CRAC/crac/pages/list_examMsg.html"
       ],
       "target": "/exam"
     }

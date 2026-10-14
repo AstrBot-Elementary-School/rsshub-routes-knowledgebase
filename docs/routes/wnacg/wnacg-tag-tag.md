@@ -29,7 +29,8 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `wnacg.com/*`
+  - `wnacg.com/albums-index-tag-:tag.html`
+- `target`: `/tag/:tag`
 
 ## Raw JSON
 ```json
@@ -51,8 +52,9 @@ _None_
   "radar": [
     {
       "source": [
-        "wnacg.com/*"
-      ]
+        "wnacg.com/albums-index-tag-:tag.html"
+      ],
+      "target": "/tag/:tag"
     }
   ],
   "test": {

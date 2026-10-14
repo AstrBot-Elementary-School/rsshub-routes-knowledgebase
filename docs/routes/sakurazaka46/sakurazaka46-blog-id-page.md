@@ -1,13 +1,13 @@
-# Sakamichi Series 坂道系列官网资讯 - Sakurazaka46 Blog 櫻坂 46 博客
+# 櫻坂46 - 博客
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `sakurazaka46`
-- Namespace Name: `Sakamichi Series 坂道系列官网资讯`
+- Namespace Name: `櫻坂46`
 - Route Path: `/sakurazaka46/blog/:id?/:page?`
-- Route Name: `Sakurazaka46 Blog 櫻坂 46 博客`
+- Route Name: `博客`
 - Example: `/sakurazaka46/blog`
 - URL: `sakurazaka46.com`
 - Language: `_None_`
@@ -58,7 +58,7 @@ Member ID
 
 ## Parameters
 - `id`: Member ID, see below, `all` by default
-- `page`: Page, `0` by default
+- `page`: {"default": "0", "description": "Compatibility parameter; only the first page is fetched.", "options": [{"label": "First page", "value": "0"}]}
 
 
 ## Features
@@ -95,10 +95,19 @@ _None_
     "nczitzk",
     "AkashiGakki"
   ],
-  "name": "Sakurazaka46 Blog 櫻坂 46 博客",
+  "name": "博客",
   "parameters": {
     "id": "Member ID, see below, `all` by default",
-    "page": "Page, `0` by default"
+    "page": {
+      "default": "0",
+      "description": "Compatibility parameter; only the first page is fetched.",
+      "options": [
+        {
+          "label": "First page",
+          "value": "0"
+        }
+      ]
+    }
   },
   "path": "/blog/:id?/:page?",
   "test": {

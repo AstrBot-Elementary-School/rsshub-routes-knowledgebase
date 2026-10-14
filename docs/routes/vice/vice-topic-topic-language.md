@@ -31,6 +31,7 @@ _None_
 ### Rule 1
 - `source`:
   - `www.vice.com/:language/topic/:topic`
+  - `www.vice.com/:language/tag/:topic`
 - `target`: `/topic/:topic/:language`
 
 ## Raw JSON
@@ -54,7 +55,8 @@ _None_
   "radar": [
     {
       "source": [
-        "www.vice.com/:language/topic/:topic"
+        "www.vice.com/:language/topic/:topic",
+        "www.vice.com/:language/tag/:topic"
       ],
       "target": "/topic/:topic/:language"
     }

@@ -1,4 +1,4 @@
-# 温州商学院 - 温州商学院
+# 温州商学院 - 资讯
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `wzbc`
 - Namespace Name: `温州商学院`
 - Route Path: `/wzbc/:type?`
-- Route Name: `温州商学院`
+- Route Name: `资讯`
 - Example: `/wzbc/notice`
 - URL: `www.wzbc.edu.cn`
 - Language: `_None_`
@@ -44,7 +44,7 @@ _None_
   "maintainers": [
     "howel52"
   ],
-  "name": "温州商学院",
+  "name": "资讯",
   "parameters": {
     "type": "分类，见下表"
   },

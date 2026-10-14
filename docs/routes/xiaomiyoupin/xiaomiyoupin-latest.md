@@ -1,4 +1,4 @@
-# 小米有品 - 小米有品每日上新
+# 小米有品 - 每日上新
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `xiaomiyoupin`
 - Namespace Name: `小米有品`
 - Route Path: `/xiaomiyoupin/latest`
-- Route Name: `小米有品每日上新`
+- Route Name: `每日上新`
 - Example: `/xiaomiyoupin/latest`
 - URL: `xiaomiyoupin.com/`
 - Language: `_None_`
@@ -58,7 +58,7 @@ _None_
     "DIYgod",
     "bigfei"
   ],
-  "name": "小米有品每日上新",
+  "name": "每日上新",
   "parameters": {},
   "path": "/latest",
   "radar": [

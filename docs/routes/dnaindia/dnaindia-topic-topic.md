@@ -28,7 +28,7 @@ The URL of the form `https://www.dnaindia.com/topic/dna-verified` demonstrates t
 :::
 
 ## Parameters
-- `category`: Find it in the URL
+- `topic`: Find it in the URL
 
 
 ## Features
@@ -54,7 +54,7 @@ _None_
   ],
   "name": "Topic",
   "parameters": {
-    "category": "Find it in the URL"
+    "topic": "Find it in the URL"
   },
   "path": "/topic/:topic",
   "radar": [

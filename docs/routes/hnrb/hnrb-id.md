@@ -46,7 +46,7 @@
 ### Rule 1
 - `source`:
   - `voc.com.cn/`
-- `target`: `/:id`
+- `target`: `/`
 
 ## Raw JSON
 ```json
@@ -79,7 +79,7 @@
       "source": [
         "voc.com.cn/"
       ],
-      "target": "/:id"
+      "target": "/"
     }
   ],
   "test": {

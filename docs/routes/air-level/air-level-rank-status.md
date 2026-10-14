@@ -31,7 +31,9 @@ _None_
 - `source`:
   - `m.air-level.com/rank/:status`
   - `m.air-level.com/rank`
-- `target`: `/rank/:status`
+  - `www.air-level.com/rank/:status`
+  - `www.air-level.com/rank`
+- `target`: `/rank/:status?`
 
 ## Raw JSON
 ```json
@@ -54,9 +56,11 @@ _None_
     {
       "source": [
         "m.air-level.com/rank/:status",
-        "m.air-level.com/rank"
+        "m.air-level.com/rank",
+        "www.air-level.com/rank/:status",
+        "www.air-level.com/rank"
       ],
-      "target": "/rank/:status"
+      "target": "/rank/:status?"
     }
   ],
   "test": {

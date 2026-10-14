@@ -35,6 +35,11 @@ _None_
 ### Rule 1
 - `source`:
   - `wsjkw.sh.gov.cn/`
+- `target`: `/wsjkw/yqtb`
+### Rule 2
+- `source`:
+  - `wsjkw.sh.gov.cn/yqtb/index.html`
+- `target`: `/wsjkw/yqtb`
 
 ## Raw JSON
 ```json
@@ -63,7 +68,14 @@ _None_
     {
       "source": [
         "wsjkw.sh.gov.cn/"
-      ]
+      ],
+      "target": "/wsjkw/yqtb"
+    },
+    {
+      "source": [
+        "wsjkw.sh.gov.cn/yqtb/index.html"
+      ],
+      "target": "/wsjkw/yqtb"
     }
   ],
   "test": {

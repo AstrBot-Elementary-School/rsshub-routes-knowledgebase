@@ -36,7 +36,7 @@ _None_
 ### Rule 1
 - `source`:
   - `news.qq.com/omn/author/:uid`
-- `target`: `/qq/news/:uid`
+- `target`: `/news/:uid`
 
 ## Raw JSON
 ```json
@@ -69,7 +69,7 @@ _None_
       "source": [
         "news.qq.com/omn/author/:uid"
       ],
-      "target": "/qq/news/:uid"
+      "target": "/news/:uid"
     }
   ],
   "test": {

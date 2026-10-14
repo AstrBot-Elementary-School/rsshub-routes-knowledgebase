@@ -10,7 +10,7 @@
 
 ## Routes
 
-### 计算机技术与工程学院
+### 计算机科学与工程学院
 - Route ID: `seu:/seu/cse/:type?`
 - Route Path: `/seu/cse/:type?`
 - File: `docs/routes/seu/seu-cse-type.md`

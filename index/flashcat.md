@@ -10,7 +10,7 @@
 
 ## Routes
 
-### 快猫星云博客
+### 博客
 - Route ID: `flashcat:/flashcat/blog`
 - Route Path: `/flashcat/blog`
 - File: `docs/routes/flashcat/flashcat-blog.md`

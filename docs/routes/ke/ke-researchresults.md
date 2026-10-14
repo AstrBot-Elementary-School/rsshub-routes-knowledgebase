@@ -9,7 +9,7 @@
 - Route Path: `/ke/researchResults`
 - Route Name: `研究成果`
 - Example: `/ke/researchResults`
-- URL: `www.research.ke.com/researchResults`
+- URL: `research.ke.com/ResearchResults`
 - Language: `_None_`
 - Categories: `other`
 - Maintainers: `shaomingbo`
@@ -34,7 +34,8 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `www.research.ke.com/researchResults`
+  - `research.ke.com/ResearchResults`
+- `target`: `/researchResults`
 
 ## Raw JSON
 ```json
@@ -62,8 +63,9 @@ _None_
   "radar": [
     {
       "source": [
-        "www.research.ke.com/researchResults"
-      ]
+        "research.ke.com/ResearchResults"
+      ],
+      "target": "/researchResults"
     }
   ],
   "test": {
@@ -84,6 +86,6 @@ _None_
       "url": "rsshub://ke/researchResults"
     }
   ],
-  "url": "www.research.ke.com/researchResults"
+  "url": "research.ke.com/ResearchResults"
 }
 ```

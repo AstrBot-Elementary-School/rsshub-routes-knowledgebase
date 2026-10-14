@@ -51,28 +51,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "718制造 商铺上新 - Powered by RSSHub",
+      "description": "MADEBYPLANE 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264524576058900480",
+      "id": "1264523299748970496",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1679474173",
-      "title": "718制造 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1223146242",
+      "title": "MADEBYPLANE 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1679474173"
+      "url": "rsshub://weidian/goods/1223146242"
     },
     {
-      "description": "Ture 商铺上新 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "1264524888048009216",
+      "description": "人民ism 商铺上新 - Powered by RSSHub",
+      "errorAt": "2026-10-10T19:41:12.812Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "id": "1264523938205925376",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1718752418",
-      "title": "Ture 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1651238208",
+      "title": "人民ism 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1718752418"
+      "url": "rsshub://weidian/goods/1651238208"
     }
   ]
 }

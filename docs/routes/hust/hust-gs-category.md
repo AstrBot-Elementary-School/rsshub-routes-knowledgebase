@@ -83,7 +83,8 @@
 ## Radar
 ### Rule 1
 - `source`:
-  - `gs.hust.edu.cn/:category`
+  - `gs.hust.edu.cn/`
+- `target`: `/gs/xwdt`
 ### Rule 2
 - `title`: `新闻动态`
 - `source`:
@@ -245,8 +246,9 @@
   "radar": [
     {
       "source": [
-        "gs.hust.edu.cn/:category"
-      ]
+        "gs.hust.edu.cn/"
+      ],
+      "target": "/gs/xwdt"
     },
     {
       "source": [
@@ -437,16 +439,16 @@
   },
   "topFeeds": [
     {
-      "description": "同济医学院 - Powered by RSSHub",
+      "description": "课程及考试安排 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "73883799327836160",
+      "id": "66343158574786560",
       "image": "https://gs.hust.edu.cn/img/logo.png",
       "ownerUserId": null,
-      "siteUrl": "https://gs.hust.edu.cn/tzgg/tjyxy.htm",
-      "title": "华中科技大学研究生院 - 同济医学院",
+      "siteUrl": "https://gs.hust.edu.cn/tzgg/kcjksap.htm",
+      "title": "华中科技大学研究生院 - 课程及考试安排",
       "type": "feed",
-      "url": "rsshub://hust/gs/tzgg/tjyxy"
+      "url": "rsshub://hust/gs/tzgg/kcjksap"
     },
     {
       "description": "新闻动态 - Powered by RSSHub",

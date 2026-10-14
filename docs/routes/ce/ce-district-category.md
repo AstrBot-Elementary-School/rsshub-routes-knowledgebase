@@ -17,9 +17,9 @@
 - Source Module: `_None_`
 
 ## Description
-| 即时新闻 | 经济动态 | 独家视角 | 专题 | 数说地方 | 地方播报 | 专稿 | 港澳台 |
-| -------- | -------- | -------- | ---- | -------- | -------- | ---- | ------ |
-| roll     | jjdt     | poll     | ch   | ssdf     | dfbb     | zg   | gat    |
+| 即时新闻 | 经济动态 | 独家视角 | 专题 | 数说地方 | 地方播报 |
+| -------- | -------- | -------- | ---- | -------- | -------- |
+| roll     | jjdt     | poll     | ch   | ssdf     | dfbb     |
 
 ## Parameters
 - `category`: 栏目标识，默认为 roll（即时新闻）
@@ -54,7 +54,7 @@
   "categories": [
     "traditional-media"
   ],
-  "description": "| 即时新闻 | 经济动态 | 独家视角 | 专题 | 数说地方 | 地方播报 | 专稿 | 港澳台 |\n| -------- | -------- | -------- | ---- | -------- | -------- | ---- | ------ |\n| roll     | jjdt     | poll     | ch   | ssdf     | dfbb     | zg   | gat    |",
+  "description": "| 即时新闻 | 经济动态 | 独家视角 | 专题 | 数说地方 | 地方播报 |\n| -------- | -------- | -------- | ---- | -------- | -------- |\n| roll     | jjdt     | poll     | ch   | ssdf     | dfbb     |",
   "example": "/ce/district",
   "features": {
     "antiCrawler": false,

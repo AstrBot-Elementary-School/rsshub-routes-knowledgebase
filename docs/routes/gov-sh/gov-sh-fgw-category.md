@@ -41,17 +41,28 @@
 ## Radar
 ### Rule 1
 - `source`:
-  - `fgw.sh.gov.cn/:category`
+  - `fgw.sh.gov.cn/`
+- `target`: `/fgw`
 ### Rule 2
-- `title`: `最新信息公开`
 - `source`:
   - `fgw.sh.gov.cn/fgw_zxxxgk/index.html`
 - `target`: `/fgw/fgw_zxxxgk`
 ### Rule 3
-- `title`: `要闻动态`
 - `source`:
   - `fgw.sh.gov.cn/fgw_fzggdt/index.html`
 - `target`: `/fgw/fgw_fzggdt`
+### Rule 4
+- `source`:
+  - `fgw.sh.gov.cn/fgw_jggl/index.html`
+- `target`: `/fgw/fgw_jggl`
+### Rule 5
+- `source`:
+  - `fgw.sh.gov.cn/fgw_ny/index.html`
+- `target`: `/fgw/fgw_ny`
+### Rule 6
+- `source`:
+  - `fgw.sh.gov.cn/fgw_fzgh/index.html`
+- `target`: `/fgw/fgw_fzgh`
 
 ## Raw JSON
 ```json
@@ -83,22 +94,39 @@
   "radar": [
     {
       "source": [
-        "fgw.sh.gov.cn/:category"
-      ]
+        "fgw.sh.gov.cn/"
+      ],
+      "target": "/fgw"
     },
     {
       "source": [
         "fgw.sh.gov.cn/fgw_zxxxgk/index.html"
       ],
-      "target": "/fgw/fgw_zxxxgk",
-      "title": "最新信息公开"
+      "target": "/fgw/fgw_zxxxgk"
     },
     {
       "source": [
         "fgw.sh.gov.cn/fgw_fzggdt/index.html"
       ],
-      "target": "/fgw/fgw_fzggdt",
-      "title": "要闻动态"
+      "target": "/fgw/fgw_fzggdt"
+    },
+    {
+      "source": [
+        "fgw.sh.gov.cn/fgw_jggl/index.html"
+      ],
+      "target": "/fgw/fgw_jggl"
+    },
+    {
+      "source": [
+        "fgw.sh.gov.cn/fgw_ny/index.html"
+      ],
+      "target": "/fgw/fgw_ny"
+    },
+    {
+      "source": [
+        "fgw.sh.gov.cn/fgw_fzgh/index.html"
+      ],
+      "target": "/fgw/fgw_fzgh"
     }
   ],
   "test": {

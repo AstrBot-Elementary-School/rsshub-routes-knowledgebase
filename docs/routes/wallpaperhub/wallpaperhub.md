@@ -9,7 +9,7 @@
 - Route Path: `/wallpaperhub/`
 - Route Name: `Wallpapers`
 - Example: `/wallpaperhub`
-- URL: `wallpaperhub.app/wallpaperhub`
+- URL: `wallpaperhub.app/wallpapers`
 - Language: `_None_`
 - Categories: `picture`
 - Maintainers: `nczitzk`
@@ -29,7 +29,7 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `wallpaperhub.app/wallpaperhub`
+  - `wallpaperhub.app/wallpapers`
   - `wallpaperhub.app/`
 - `target`: ``
 
@@ -50,7 +50,7 @@ _None_
   "radar": [
     {
       "source": [
-        "wallpaperhub.app/wallpaperhub",
+        "wallpaperhub.app/wallpapers",
         "wallpaperhub.app/"
       ],
       "target": ""
@@ -60,6 +60,6 @@ _None_
     "code": 0
   },
   "topFeeds": [],
-  "url": "wallpaperhub.app/wallpaperhub"
+  "url": "wallpaperhub.app/wallpapers"
 }
 ```

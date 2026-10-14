@@ -8,7 +8,7 @@
 - Namespace Name: `Civitai`
 - Route Path: `/civitai/user/:username/articles`
 - Route Name: `User Article`
-- Example: `/civitai/user/Chenkin/articles`
+- Example: `/civitai/user/Moonbear_AIArt/articles`
 - URL: `civitai.com`
 - Language: `_None_`
 - Categories: `program-update`
@@ -38,7 +38,7 @@ _None_
   "categories": [
     "program-update"
   ],
-  "example": "/civitai/user/Chenkin/articles",
+  "example": "/civitai/user/Moonbear_AIArt/articles",
   "features": {
     "nsfw": true
   },

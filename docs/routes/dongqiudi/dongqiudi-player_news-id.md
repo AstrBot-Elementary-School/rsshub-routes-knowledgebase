@@ -29,7 +29,8 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `www.dongqiudi.com/player/*id`
+  - `www.dongqiudi.com/player/:id`
+- `target`: `/player_news/:id`
 
 ## Raw JSON
 ```json
@@ -51,8 +52,9 @@ _None_
   "radar": [
     {
       "source": [
-        "www.dongqiudi.com/player/*id"
-      ]
+        "www.dongqiudi.com/player/:id"
+      ],
+      "target": "/player_news/:id"
     }
   ],
   "test": {

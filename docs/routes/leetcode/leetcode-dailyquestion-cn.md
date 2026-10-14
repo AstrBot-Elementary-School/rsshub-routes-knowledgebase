@@ -38,7 +38,7 @@ _None_
     "programming"
   ],
   "example": "/leetcode/dailyquestion/cn",
-  "heat": 135,
+  "heat": 136,
   "location": "dailyquestion-cn.ts",
   "maintainers": [
     "IvanWng97"

@@ -93,21 +93,340 @@
 ## Radar
 ### Rule 1
 - `source`:
-  - `china.hket.com/:category/*`
-- `target`: `/:category`
+  - `china.hket.com/srac002`
+  - `china.hket.com/srac002/*`
+- `target`: `/srac002`
 ### Rule 2
 - `source`:
-  - `inews.hket.com/:category/*`
-- `target`: `/:category`
+  - `china.hket.com/srac003`
+  - `china.hket.com/srac003/*`
+- `target`: `/srac003`
 ### Rule 3
 - `source`:
-  - `topick.hket.com/:category/*`
-- `target`: `/:category`
+  - `china.hket.com/srac004`
+  - `china.hket.com/srac004/*`
+- `target`: `/srac004`
 ### Rule 4
 - `source`:
-  - `wealth.hket.com/:category/*`
-- `target`: `/:category`
+  - `china.hket.com/srac005`
+  - `china.hket.com/srac005/*`
+- `target`: `/srac005`
 ### Rule 5
+- `source`:
+  - `inews.hket.com/sran001`
+  - `inews.hket.com/sran001/*`
+- `target`: `/sran001`
+### Rule 6
+- `source`:
+  - `inews.hket.com/sran008`
+  - `inews.hket.com/sran008/*`
+- `target`: `/sran008`
+### Rule 7
+- `source`:
+  - `inews.hket.com/sran010`
+  - `inews.hket.com/sran010/*`
+- `target`: `/sran010`
+### Rule 8
+- `source`:
+  - `inews.hket.com/sran011`
+  - `inews.hket.com/sran011/*`
+- `target`: `/sran011`
+### Rule 9
+- `source`:
+  - `inews.hket.com/sran012`
+  - `inews.hket.com/sran012/*`
+- `target`: `/sran012`
+### Rule 10
+- `source`:
+  - `inews.hket.com/sran009`
+  - `inews.hket.com/sran009/*`
+- `target`: `/sran009`
+### Rule 11
+- `source`:
+  - `inews.hket.com/sran009-1`
+  - `inews.hket.com/sran009-1/*`
+- `target`: `/sran009-1`
+### Rule 12
+- `source`:
+  - `inews.hket.com/sran009-2`
+  - `inews.hket.com/sran009-2/*`
+- `target`: `/sran009-2`
+### Rule 13
+- `source`:
+  - `inews.hket.com/sran009-3`
+  - `inews.hket.com/sran009-3/*`
+- `target`: `/sran009-3`
+### Rule 14
+- `source`:
+  - `inews.hket.com/sran009-4`
+  - `inews.hket.com/sran009-4/*`
+- `target`: `/sran009-4`
+### Rule 15
+- `source`:
+  - `inews.hket.com/sran009-5`
+  - `inews.hket.com/sran009-5/*`
+- `target`: `/sran009-5`
+### Rule 16
+- `source`:
+  - `inews.hket.com/sran009-6`
+  - `inews.hket.com/sran009-6/*`
+- `target`: `/sran009-6`
+### Rule 17
+- `source`:
+  - `inews.hket.com/sran011-1`
+  - `inews.hket.com/sran011-1/*`
+- `target`: `/sran011-1`
+### Rule 18
+- `source`:
+  - `inews.hket.com/sran011-2`
+  - `inews.hket.com/sran011-2/*`
+- `target`: `/sran011-2`
+### Rule 19
+- `source`:
+  - `inews.hket.com/sran011-3`
+  - `inews.hket.com/sran011-3/*`
+- `target`: `/sran011-3`
+### Rule 20
+- `source`:
+  - `inews.hket.com/sran016`
+  - `inews.hket.com/sran016/*`
+- `target`: `/sran016`
+### Rule 21
+- `source`:
+  - `inews.hket.com/sran016-1`
+  - `inews.hket.com/sran016-1/*`
+- `target`: `/sran016-1`
+### Rule 22
+- `source`:
+  - `inews.hket.com/sran016-2`
+  - `inews.hket.com/sran016-2/*`
+- `target`: `/sran016-2`
+### Rule 23
+- `source`:
+  - `inews.hket.com/sran016-3`
+  - `inews.hket.com/sran016-3/*`
+- `target`: `/sran016-3`
+### Rule 24
+- `source`:
+  - `inews.hket.com/sran016-4`
+  - `inews.hket.com/sran016-4/*`
+- `target`: `/sran016-4`
+### Rule 25
+- `source`:
+  - `inews.hket.com/sran016-5`
+  - `inews.hket.com/sran016-5/*`
+- `target`: `/sran016-5`
+### Rule 26
+- `source`:
+  - `topick.hket.com/srat006`
+  - `topick.hket.com/srat006/*`
+- `target`: `/srat006`
+### Rule 27
+- `source`:
+  - `topick.hket.com/srat001`
+  - `topick.hket.com/srat001/*`
+- `target`: `/srat001`
+### Rule 28
+- `source`:
+  - `topick.hket.com/srat008`
+  - `topick.hket.com/srat008/*`
+- `target`: `/srat008`
+### Rule 29
+- `source`:
+  - `topick.hket.com/srat055`
+  - `topick.hket.com/srat055/*`
+- `target`: `/srat055`
+### Rule 30
+- `source`:
+  - `topick.hket.com/srat069`
+  - `topick.hket.com/srat069/*`
+- `target`: `/srat069`
+### Rule 31
+- `source`:
+  - `topick.hket.com/srat070`
+  - `topick.hket.com/srat070/*`
+- `target`: `/srat070`
+### Rule 32
+- `source`:
+  - `topick.hket.com/srat052`
+  - `topick.hket.com/srat052/*`
+- `target`: `/srat052`
+### Rule 33
+- `source`:
+  - `topick.hket.com/srat052-1`
+  - `topick.hket.com/srat052-1/*`
+- `target`: `/srat052-1`
+### Rule 34
+- `source`:
+  - `topick.hket.com/srat052-2`
+  - `topick.hket.com/srat052-2/*`
+- `target`: `/srat052-2`
+### Rule 35
+- `source`:
+  - `topick.hket.com/srat052-3`
+  - `topick.hket.com/srat052-3/*`
+- `target`: `/srat052-3`
+### Rule 36
+- `source`:
+  - `topick.hket.com/srat053`
+  - `topick.hket.com/srat053/*`
+- `target`: `/srat053`
+### Rule 37
+- `source`:
+  - `topick.hket.com/srat053-1`
+  - `topick.hket.com/srat053-1/*`
+- `target`: `/srat053-1`
+### Rule 38
+- `source`:
+  - `topick.hket.com/srat053-2`
+  - `topick.hket.com/srat053-2/*`
+- `target`: `/srat053-2`
+### Rule 39
+- `source`:
+  - `topick.hket.com/srat053-3`
+  - `topick.hket.com/srat053-3/*`
+- `target`: `/srat053-3`
+### Rule 40
+- `source`:
+  - `topick.hket.com/srat053-4`
+  - `topick.hket.com/srat053-4/*`
+- `target`: `/srat053-4`
+### Rule 41
+- `source`:
+  - `topick.hket.com/srat053-6`
+  - `topick.hket.com/srat053-6/*`
+- `target`: `/srat053-6`
+### Rule 42
+- `source`:
+  - `topick.hket.com/srat053-61`
+  - `topick.hket.com/srat053-61/*`
+- `target`: `/srat053-61`
+### Rule 43
+- `source`:
+  - `topick.hket.com/srat053-62`
+  - `topick.hket.com/srat053-62/*`
+- `target`: `/srat053-62`
+### Rule 44
+- `source`:
+  - `topick.hket.com/srat053-63`
+  - `topick.hket.com/srat053-63/*`
+- `target`: `/srat053-63`
+### Rule 45
+- `source`:
+  - `topick.hket.com/srat053-64`
+  - `topick.hket.com/srat053-64/*`
+- `target`: `/srat053-64`
+### Rule 46
+- `source`:
+  - `topick.hket.com/srat072-1`
+  - `topick.hket.com/srat072-1/*`
+- `target`: `/srat072-1`
+### Rule 47
+- `source`:
+  - `topick.hket.com/srat072-2`
+  - `topick.hket.com/srat072-2/*`
+- `target`: `/srat072-2`
+### Rule 48
+- `source`:
+  - `topick.hket.com/srat072-3`
+  - `topick.hket.com/srat072-3/*`
+- `target`: `/srat072-3`
+### Rule 49
+- `source`:
+  - `topick.hket.com/srat072-4`
+  - `topick.hket.com/srat072-4/*`
+- `target`: `/srat072-4`
+### Rule 50
+- `source`:
+  - `wealth.hket.com/sraw007`
+  - `wealth.hket.com/sraw007/*`
+- `target`: `/sraw007`
+### Rule 51
+- `source`:
+  - `wealth.hket.com/sraw009`
+  - `wealth.hket.com/sraw009/*`
+- `target`: `/sraw009`
+### Rule 52
+- `source`:
+  - `wealth.hket.com/sraw010`
+  - `wealth.hket.com/sraw010/*`
+- `target`: `/sraw010`
+### Rule 53
+- `source`:
+  - `wealth.hket.com/sraw011`
+  - `wealth.hket.com/sraw011/*`
+- `target`: `/sraw011`
+### Rule 54
+- `source`:
+  - `wealth.hket.com/sraw012`
+  - `wealth.hket.com/sraw012/*`
+- `target`: `/sraw012`
+### Rule 55
+- `source`:
+  - `wealth.hket.com/sraw014`
+  - `wealth.hket.com/sraw014/*`
+- `target`: `/sraw014`
+### Rule 56
+- `source`:
+  - `wealth.hket.com/sraw018`
+  - `wealth.hket.com/sraw018/*`
+- `target`: `/sraw018`
+### Rule 57
+- `source`:
+  - `wealth.hket.com/sraw019`
+  - `wealth.hket.com/sraw019/*`
+- `target`: `/sraw019`
+### Rule 58
+- `source`:
+  - `wealth.hket.com/sraw015`
+  - `wealth.hket.com/sraw015/*`
+- `target`: `/sraw015`
+### Rule 59
+- `source`:
+  - `wealth.hket.com/sraw015-07`
+  - `wealth.hket.com/sraw015-07/*`
+- `target`: `/sraw015-07`
+### Rule 60
+- `source`:
+  - `wealth.hket.com/sraw015-08`
+  - `wealth.hket.com/sraw015-08/*`
+- `target`: `/sraw015-08`
+### Rule 61
+- `source`:
+  - `wealth.hket.com/sraw015-09`
+  - `wealth.hket.com/sraw015-09/*`
+- `target`: `/sraw015-09`
+### Rule 62
+- `source`:
+  - `wealth.hket.com/sraw015-10`
+  - `wealth.hket.com/sraw015-10/*`
+- `target`: `/sraw015-10`
+### Rule 63
+- `source`:
+  - `wealth.hket.com/sraw020`
+  - `wealth.hket.com/sraw020/*`
+- `target`: `/sraw020`
+### Rule 64
+- `source`:
+  - `wealth.hket.com/sraw020-1`
+  - `wealth.hket.com/sraw020-1/*`
+- `target`: `/sraw020-1`
+### Rule 65
+- `source`:
+  - `wealth.hket.com/sraw020-2`
+  - `wealth.hket.com/sraw020-2/*`
+- `target`: `/sraw020-2`
+### Rule 66
+- `source`:
+  - `wealth.hket.com/sraw020-3`
+  - `wealth.hket.com/sraw020-3/*`
+- `target`: `/sraw020-3`
+### Rule 67
+- `source`:
+  - `wealth.hket.com/sraw020-4`
+  - `wealth.hket.com/sraw020-4/*`
+- `target`: `/sraw020-4`
+### Rule 68
 - `source`:
   - `www.hket.com/`
 - `target`: `/`
@@ -141,27 +460,472 @@
   "radar": [
     {
       "source": [
-        "china.hket.com/:category/*"
+        "china.hket.com/srac002",
+        "china.hket.com/srac002/*"
       ],
-      "target": "/:category"
+      "target": "/srac002"
     },
     {
       "source": [
-        "inews.hket.com/:category/*"
+        "china.hket.com/srac003",
+        "china.hket.com/srac003/*"
       ],
-      "target": "/:category"
+      "target": "/srac003"
     },
     {
       "source": [
-        "topick.hket.com/:category/*"
+        "china.hket.com/srac004",
+        "china.hket.com/srac004/*"
       ],
-      "target": "/:category"
+      "target": "/srac004"
     },
     {
       "source": [
-        "wealth.hket.com/:category/*"
+        "china.hket.com/srac005",
+        "china.hket.com/srac005/*"
       ],
-      "target": "/:category"
+      "target": "/srac005"
+    },
+    {
+      "source": [
+        "inews.hket.com/sran001",
+        "inews.hket.com/sran001/*"
+      ],
+      "target": "/sran001"
+    },
+    {
+      "source": [
+        "inews.hket.com/sran008",
+        "inews.hket.com/sran008/*"
+      ],
+      "target": "/sran008"
+    },
+    {
+      "source": [
+        "inews.hket.com/sran010",
+        "inews.hket.com/sran010/*"
+      ],
+      "target": "/sran010"
+    },
+    {
+      "source": [
+        "inews.hket.com/sran011",
+        "inews.hket.com/sran011/*"
+      ],
+      "target": "/sran011"
+    },
+    {
+      "source": [
+        "inews.hket.com/sran012",
+        "inews.hket.com/sran012/*"
+      ],
+      "target": "/sran012"
+    },
+    {
+      "source": [
+        "inews.hket.com/sran009",
+        "inews.hket.com/sran009/*"
+      ],
+      "target": "/sran009"
+    },
+    {
+      "source": [
+        "inews.hket.com/sran009-1",
+        "inews.hket.com/sran009-1/*"
+      ],
+      "target": "/sran009-1"
+    },
+    {
+      "source": [
+        "inews.hket.com/sran009-2",
+        "inews.hket.com/sran009-2/*"
+      ],
+      "target": "/sran009-2"
+    },
+    {
+      "source": [
+        "inews.hket.com/sran009-3",
+        "inews.hket.com/sran009-3/*"
+      ],
+      "target": "/sran009-3"
+    },
+    {
+      "source": [
+        "inews.hket.com/sran009-4",
+        "inews.hket.com/sran009-4/*"
+      ],
+      "target": "/sran009-4"
+    },
+    {
+      "source": [
+        "inews.hket.com/sran009-5",
+        "inews.hket.com/sran009-5/*"
+      ],
+      "target": "/sran009-5"
+    },
+    {
+      "source": [
+        "inews.hket.com/sran009-6",
+        "inews.hket.com/sran009-6/*"
+      ],
+      "target": "/sran009-6"
+    },
+    {
+      "source": [
+        "inews.hket.com/sran011-1",
+        "inews.hket.com/sran011-1/*"
+      ],
+      "target": "/sran011-1"
+    },
+    {
+      "source": [
+        "inews.hket.com/sran011-2",
+        "inews.hket.com/sran011-2/*"
+      ],
+      "target": "/sran011-2"
+    },
+    {
+      "source": [
+        "inews.hket.com/sran011-3",
+        "inews.hket.com/sran011-3/*"
+      ],
+      "target": "/sran011-3"
+    },
+    {
+      "source": [
+        "inews.hket.com/sran016",
+        "inews.hket.com/sran016/*"
+      ],
+      "target": "/sran016"
+    },
+    {
+      "source": [
+        "inews.hket.com/sran016-1",
+        "inews.hket.com/sran016-1/*"
+      ],
+      "target": "/sran016-1"
+    },
+    {
+      "source": [
+        "inews.hket.com/sran016-2",
+        "inews.hket.com/sran016-2/*"
+      ],
+      "target": "/sran016-2"
+    },
+    {
+      "source": [
+        "inews.hket.com/sran016-3",
+        "inews.hket.com/sran016-3/*"
+      ],
+      "target": "/sran016-3"
+    },
+    {
+      "source": [
+        "inews.hket.com/sran016-4",
+        "inews.hket.com/sran016-4/*"
+      ],
+      "target": "/sran016-4"
+    },
+    {
+      "source": [
+        "inews.hket.com/sran016-5",
+        "inews.hket.com/sran016-5/*"
+      ],
+      "target": "/sran016-5"
+    },
+    {
+      "source": [
+        "topick.hket.com/srat006",
+        "topick.hket.com/srat006/*"
+      ],
+      "target": "/srat006"
+    },
+    {
+      "source": [
+        "topick.hket.com/srat001",
+        "topick.hket.com/srat001/*"
+      ],
+      "target": "/srat001"
+    },
+    {
+      "source": [
+        "topick.hket.com/srat008",
+        "topick.hket.com/srat008/*"
+      ],
+      "target": "/srat008"
+    },
+    {
+      "source": [
+        "topick.hket.com/srat055",
+        "topick.hket.com/srat055/*"
+      ],
+      "target": "/srat055"
+    },
+    {
+      "source": [
+        "topick.hket.com/srat069",
+        "topick.hket.com/srat069/*"
+      ],
+      "target": "/srat069"
+    },
+    {
+      "source": [
+        "topick.hket.com/srat070",
+        "topick.hket.com/srat070/*"
+      ],
+      "target": "/srat070"
+    },
+    {
+      "source": [
+        "topick.hket.com/srat052",
+        "topick.hket.com/srat052/*"
+      ],
+      "target": "/srat052"
+    },
+    {
+      "source": [
+        "topick.hket.com/srat052-1",
+        "topick.hket.com/srat052-1/*"
+      ],
+      "target": "/srat052-1"
+    },
+    {
+      "source": [
+        "topick.hket.com/srat052-2",
+        "topick.hket.com/srat052-2/*"
+      ],
+      "target": "/srat052-2"
+    },
+    {
+      "source": [
+        "topick.hket.com/srat052-3",
+        "topick.hket.com/srat052-3/*"
+      ],
+      "target": "/srat052-3"
+    },
+    {
+      "source": [
+        "topick.hket.com/srat053",
+        "topick.hket.com/srat053/*"
+      ],
+      "target": "/srat053"
+    },
+    {
+      "source": [
+        "topick.hket.com/srat053-1",
+        "topick.hket.com/srat053-1/*"
+      ],
+      "target": "/srat053-1"
+    },
+    {
+      "source": [
+        "topick.hket.com/srat053-2",
+        "topick.hket.com/srat053-2/*"
+      ],
+      "target": "/srat053-2"
+    },
+    {
+      "source": [
+        "topick.hket.com/srat053-3",
+        "topick.hket.com/srat053-3/*"
+      ],
+      "target": "/srat053-3"
+    },
+    {
+      "source": [
+        "topick.hket.com/srat053-4",
+        "topick.hket.com/srat053-4/*"
+      ],
+      "target": "/srat053-4"
+    },
+    {
+      "source": [
+        "topick.hket.com/srat053-6",
+        "topick.hket.com/srat053-6/*"
+      ],
+      "target": "/srat053-6"
+    },
+    {
+      "source": [
+        "topick.hket.com/srat053-61",
+        "topick.hket.com/srat053-61/*"
+      ],
+      "target": "/srat053-61"
+    },
+    {
+      "source": [
+        "topick.hket.com/srat053-62",
+        "topick.hket.com/srat053-62/*"
+      ],
+      "target": "/srat053-62"
+    },
+    {
+      "source": [
+        "topick.hket.com/srat053-63",
+        "topick.hket.com/srat053-63/*"
+      ],
+      "target": "/srat053-63"
+    },
+    {
+      "source": [
+        "topick.hket.com/srat053-64",
+        "topick.hket.com/srat053-64/*"
+      ],
+      "target": "/srat053-64"
+    },
+    {
+      "source": [
+        "topick.hket.com/srat072-1",
+        "topick.hket.com/srat072-1/*"
+      ],
+      "target": "/srat072-1"
+    },
+    {
+      "source": [
+        "topick.hket.com/srat072-2",
+        "topick.hket.com/srat072-2/*"
+      ],
+      "target": "/srat072-2"
+    },
+    {
+      "source": [
+        "topick.hket.com/srat072-3",
+        "topick.hket.com/srat072-3/*"
+      ],
+      "target": "/srat072-3"
+    },
+    {
+      "source": [
+        "topick.hket.com/srat072-4",
+        "topick.hket.com/srat072-4/*"
+      ],
+      "target": "/srat072-4"
+    },
+    {
+      "source": [
+        "wealth.hket.com/sraw007",
+        "wealth.hket.com/sraw007/*"
+      ],
+      "target": "/sraw007"
+    },
+    {
+      "source": [
+        "wealth.hket.com/sraw009",
+        "wealth.hket.com/sraw009/*"
+      ],
+      "target": "/sraw009"
+    },
+    {
+      "source": [
+        "wealth.hket.com/sraw010",
+        "wealth.hket.com/sraw010/*"
+      ],
+      "target": "/sraw010"
+    },
+    {
+      "source": [
+        "wealth.hket.com/sraw011",
+        "wealth.hket.com/sraw011/*"
+      ],
+      "target": "/sraw011"
+    },
+    {
+      "source": [
+        "wealth.hket.com/sraw012",
+        "wealth.hket.com/sraw012/*"
+      ],
+      "target": "/sraw012"
+    },
+    {
+      "source": [
+        "wealth.hket.com/sraw014",
+        "wealth.hket.com/sraw014/*"
+      ],
+      "target": "/sraw014"
+    },
+    {
+      "source": [
+        "wealth.hket.com/sraw018",
+        "wealth.hket.com/sraw018/*"
+      ],
+      "target": "/sraw018"
+    },
+    {
+      "source": [
+        "wealth.hket.com/sraw019",
+        "wealth.hket.com/sraw019/*"
+      ],
+      "target": "/sraw019"
+    },
+    {
+      "source": [
+        "wealth.hket.com/sraw015",
+        "wealth.hket.com/sraw015/*"
+      ],
+      "target": "/sraw015"
+    },
+    {
+      "source": [
+        "wealth.hket.com/sraw015-07",
+        "wealth.hket.com/sraw015-07/*"
+      ],
+      "target": "/sraw015-07"
+    },
+    {
+      "source": [
+        "wealth.hket.com/sraw015-08",
+        "wealth.hket.com/sraw015-08/*"
+      ],
+      "target": "/sraw015-08"
+    },
+    {
+      "source": [
+        "wealth.hket.com/sraw015-09",
+        "wealth.hket.com/sraw015-09/*"
+      ],
+      "target": "/sraw015-09"
+    },
+    {
+      "source": [
+        "wealth.hket.com/sraw015-10",
+        "wealth.hket.com/sraw015-10/*"
+      ],
+      "target": "/sraw015-10"
+    },
+    {
+      "source": [
+        "wealth.hket.com/sraw020",
+        "wealth.hket.com/sraw020/*"
+      ],
+      "target": "/sraw020"
+    },
+    {
+      "source": [
+        "wealth.hket.com/sraw020-1",
+        "wealth.hket.com/sraw020-1/*"
+      ],
+      "target": "/sraw020-1"
+    },
+    {
+      "source": [
+        "wealth.hket.com/sraw020-2",
+        "wealth.hket.com/sraw020-2/*"
+      ],
+      "target": "/sraw020-2"
+    },
+    {
+      "source": [
+        "wealth.hket.com/sraw020-3",
+        "wealth.hket.com/sraw020-3/*"
+      ],
+      "target": "/sraw020-3"
+    },
+    {
+      "source": [
+        "wealth.hket.com/sraw020-4",
+        "wealth.hket.com/sraw020-4/*"
+      ],
+      "target": "/sraw020-4"
     },
     {
       "source": [

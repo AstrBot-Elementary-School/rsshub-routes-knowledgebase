@@ -34,6 +34,7 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
+  - `book.sfacg.com/Novel/:id`
   - `book.sfacg.com/Novel/:id/*`
 
 ## Raw JSON
@@ -64,6 +65,7 @@ _None_
   "radar": [
     {
       "source": [
+        "book.sfacg.com/Novel/:id",
         "book.sfacg.com/Novel/:id/*"
       ]
     }

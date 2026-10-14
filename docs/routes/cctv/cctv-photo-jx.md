@@ -1,4 +1,4 @@
-# 央视新闻 - 央视网图片《镜象》
+# 央视新闻 - 图片《镜象》
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `cctv`
 - Namespace Name: `央视新闻`
 - Route Path: `/cctv/photo/jx`
-- Route Name: `央视网图片《镜象》`
+- Route Name: `图片《镜象》`
 - Example: `/cctv/photo/jx`
 - URL: `photo.cctv.com/jx`
 - Language: `_None_`
@@ -57,7 +57,7 @@ _None_
   "maintainers": [
     "nczitzk"
   ],
-  "name": "央视网图片《镜象》",
+  "name": "图片《镜象》",
   "parameters": {},
   "path": "/photo/jx",
   "radar": [

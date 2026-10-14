@@ -37,6 +37,10 @@ To subscribe to [Latest News](https://www.semiconductors.org/news-events/latest-
 ## Radar
 ### Rule 1
 - `source`:
+  - `www.semiconductors.org/news-events/:category`
+- `target`: `/news-events/:category`
+### Rule 2
+- `source`:
   - `www.semiconductors.org/:category`
 - `target`: `/:category`
 
@@ -70,6 +74,12 @@ To subscribe to [Latest News](https://www.semiconductors.org/news-events/latest-
   },
   "path": "/:category{.+}?",
   "radar": [
+    {
+      "source": [
+        "www.semiconductors.org/news-events/:category"
+      ],
+      "target": "/news-events/:category"
+    },
     {
       "source": [
         "www.semiconductors.org/:category"

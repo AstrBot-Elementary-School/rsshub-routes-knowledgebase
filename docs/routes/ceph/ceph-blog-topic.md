@@ -20,7 +20,7 @@
 _None_
 
 ## Parameters
-- `category`: filter blog post by category, return all posts if not specified
+- `topic`: Blog topic slug; return all posts if not specified
 
 
 ## Features
@@ -58,7 +58,7 @@ _None_
   ],
   "name": "Blog",
   "parameters": {
-    "category": "filter blog post by category, return all posts if not specified"
+    "topic": "Blog topic slug; return all posts if not specified"
   },
   "path": "/blog/:topic?",
   "radar": [

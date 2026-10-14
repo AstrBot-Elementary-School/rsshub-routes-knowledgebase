@@ -60,41 +60,6 @@ To subscribe to [Cybersecurity](https://surfshark.com/blog/cybersecurity), where
 - `source`:
   - `surfshark.com/blog`
 - `target`: `/blog`
-### Rule 3
-- `title`: `Cybersecurity`
-- `source`:
-  - `surfshark.com/blog/cybersecurity`
-- `target`: `/blog/cybersecurity`
-### Rule 4
-- `title`: `All things VPN`
-- `source`:
-  - `surfshark.com/blog/all-things-vpn`
-- `target`: `/blog/all-things-vpn`
-### Rule 5
-- `title`: `Internet censorship`
-- `source`:
-  - `surfshark.com/blog/internet-censorship`
-- `target`: `/blog/internet-censorship`
-### Rule 6
-- `title`: `Entertainment`
-- `source`:
-  - `surfshark.com/blog/entertainment`
-- `target`: `/blog/entertainment`
-### Rule 7
-- `title`: `Expert Insights`
-- `source`:
-  - `surfshark.com/blog/expert-insights`
-- `target`: `/blog/expert-insights`
-### Rule 8
-- `title`: `Video`
-- `source`:
-  - `surfshark.com/blog/video`
-- `target`: `/blog/video`
-### Rule 9
-- `title`: `News`
-- `source`:
-  - `surfshark.com/blog/news`
-- `target`: `/blog/news`
 
 ## Raw JSON
 ```json
@@ -172,55 +137,6 @@ To subscribe to [Cybersecurity](https://surfshark.com/blog/cybersecurity), where
       ],
       "target": "/blog",
       "title": "All"
-    },
-    {
-      "source": [
-        "surfshark.com/blog/cybersecurity"
-      ],
-      "target": "/blog/cybersecurity",
-      "title": "Cybersecurity"
-    },
-    {
-      "source": [
-        "surfshark.com/blog/all-things-vpn"
-      ],
-      "target": "/blog/all-things-vpn",
-      "title": "All things VPN"
-    },
-    {
-      "source": [
-        "surfshark.com/blog/internet-censorship"
-      ],
-      "target": "/blog/internet-censorship",
-      "title": "Internet censorship"
-    },
-    {
-      "source": [
-        "surfshark.com/blog/entertainment"
-      ],
-      "target": "/blog/entertainment",
-      "title": "Entertainment"
-    },
-    {
-      "source": [
-        "surfshark.com/blog/expert-insights"
-      ],
-      "target": "/blog/expert-insights",
-      "title": "Expert Insights"
-    },
-    {
-      "source": [
-        "surfshark.com/blog/video"
-      ],
-      "target": "/blog/video",
-      "title": "Video"
-    },
-    {
-      "source": [
-        "surfshark.com/blog/news"
-      ],
-      "target": "/blog/news",
-      "title": "News"
     }
   ],
   "test": {

@@ -1,4 +1,4 @@
-# 郑州大学 - 郑大党委组织部
+# 郑州大学 - 党委组织部
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `zzu`
 - Namespace Name: `郑州大学`
 - Route Path: `/zzu/dwzzb/:type`
-- Route Name: `郑大党委组织部`
+- Route Name: `党委组织部`
 - Example: `/zzu/dwzzb/djgz`
 - URL: `www.zzu.edu.cn`
 - Language: `_None_`
@@ -59,7 +59,7 @@
   "maintainers": [
     "amandus1990"
   ],
-  "name": "郑大党委组织部",
+  "name": "党委组织部",
   "parameters": {
     "type": "分类名"
   },

@@ -9,7 +9,7 @@
 - Route Path: `/bfl/announcements`
 - Route Name: `Announcements`
 - Example: `/bfl/announcements`
-- URL: `bfl.ai/announcements`
+- URL: `bfl.ai/blog`
 - Language: `_None_`
 - Categories: `multimedia`
 - Maintainers: `thirteenkai`
@@ -34,6 +34,7 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
+  - `bfl.ai/blog`
   - `bfl.ai/announcements`
 - `target`: `/announcements`
 - `title`: `Announcements`
@@ -65,6 +66,7 @@ _None_
   "radar": [
     {
       "source": [
+        "bfl.ai/blog",
         "bfl.ai/announcements"
       ],
       "target": "/announcements",
@@ -89,6 +91,6 @@ _None_
       "url": "rsshub://bfl/announcements"
     }
   ],
-  "url": "bfl.ai/announcements"
+  "url": "bfl.ai/blog"
 }
 ```

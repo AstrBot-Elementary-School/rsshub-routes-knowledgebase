@@ -35,7 +35,7 @@ _None_
 ### Rule 1
 - `source`:
   - `www.bnext.com.tw`
-- `target`: `/bnext`
+- `target`: `/`
 
 ## Raw JSON
 ```json
@@ -65,7 +65,7 @@ _None_
       "source": [
         "www.bnext.com.tw"
       ],
-      "target": "/bnext"
+      "target": "/"
     }
   ],
   "test": {

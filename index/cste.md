@@ -3,9 +3,9 @@
 ## Namespace
 - Namespace: `cste`
 - Display Name: `中国技术经济学会`
-- URL: `cste.org.cn`
+- URL: `www.cste.org.cn`
 - Language: `_None_`
-- Aliases: `cste, cste.org.cn, 中国技术经济学会`
+- Aliases: `cste, cste.org.cn, www, www.cste.org.cn, 中国技术经济学会`
 - Route Count: `1`
 
 ## Routes

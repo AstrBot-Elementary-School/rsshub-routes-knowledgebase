@@ -1,4 +1,4 @@
-# 腾讯 - 腾讯云移动直播 SDK 更新日志
+# 腾讯 - 移动直播 SDK 更新日志
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `tencent`
 - Namespace Name: `腾讯`
 - Route Path: `/tencent/qcloud/mlvb/changelog`
-- Route Name: `腾讯云移动直播 SDK 更新日志`
+- Route Name: `移动直播 SDK 更新日志`
 - Example: `/tencent/qcloud/mlvb/changelog`
 - URL: `tencent.com`
 - Language: `_None_`
@@ -41,7 +41,7 @@ _None_
   "maintainers": [
     "EkkoG"
   ],
-  "name": "腾讯云移动直播 SDK 更新日志",
+  "name": "移动直播 SDK 更新日志",
   "path": "/qcloud/mlvb/changelog",
   "test": {
     "code": 1

@@ -36,6 +36,7 @@ _None_
 ### Rule 1
 - `source`:
   - `c114.com.cn/news/roll.asp`
+- `target`: `/roll`
 
 ## Raw JSON
 ```json
@@ -68,7 +69,8 @@ _None_
     {
       "source": [
         "c114.com.cn/news/roll.asp"
-      ]
+      ],
+      "target": "/roll"
     }
   ],
   "test": {

@@ -38,7 +38,7 @@
 - `source`:
   - `whitehouse.gov/:category`
   - `whitehouse.gov/`
-- `target`: `/news/:category`
+- `target`: `/news/:category?`
 
 ## Raw JSON
 ```json
@@ -73,7 +73,7 @@
         "whitehouse.gov/:category",
         "whitehouse.gov/"
       ],
-      "target": "/news/:category"
+      "target": "/news/:category?"
     }
   ],
   "test": {

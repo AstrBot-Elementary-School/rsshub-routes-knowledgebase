@@ -35,9 +35,15 @@
 
 ## Radar
 ### Rule 1
+- `title`: `信息学院 - 学院新闻`
 - `source`:
-  - `swpu.edu.cn/`
-- `target`: ``
+  - `www.swpu.edu.cn/is/xydt/xyxw.htm`
+- `target`: `/is/xyxw`
+### Rule 2
+- `title`: `信息学院 - 通知公告`
+- `source`:
+  - `www.swpu.edu.cn/is/xydt/tzgg.htm`
+- `target`: `/is/tzgg`
 
 ## Raw JSON
 ```json
@@ -68,9 +74,17 @@
   "radar": [
     {
       "source": [
-        "swpu.edu.cn/"
+        "www.swpu.edu.cn/is/xydt/xyxw.htm"
       ],
-      "target": ""
+      "target": "/is/xyxw",
+      "title": "信息学院 - 学院新闻"
+    },
+    {
+      "source": [
+        "www.swpu.edu.cn/is/xydt/tzgg.htm"
+      ],
+      "target": "/is/tzgg",
+      "title": "信息学院 - 通知公告"
     }
   ],
   "test": {

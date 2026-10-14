@@ -38,6 +38,11 @@
 - `source`:
   - `epaper.xmnn.cn/:id`
 - `target`: `/epaper/:id`
+### Rule 2
+- `source`:
+  - `epaper.xmrb.com/xmrb/*path`
+  - `epaper.xmrb.com/xmrb/`
+- `target`: `/epaper/xmrb`
 
 ## Raw JSON
 ```json
@@ -71,6 +76,13 @@
         "epaper.xmnn.cn/:id"
       ],
       "target": "/epaper/:id"
+    },
+    {
+      "source": [
+        "epaper.xmrb.com/xmrb/*path",
+        "epaper.xmrb.com/xmrb/"
+      ],
+      "target": "/epaper/xmrb"
     }
   ],
   "test": {

@@ -30,7 +30,8 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `thenewslens.com/author/:id/:sort?`
+  - `thenewslens.com/author/:id/*sort`
+  - `thenewslens.com/author/:id`
   - `thenewslens.com/`
 - `target`: `/author/:id/:sort?`
 
@@ -55,7 +56,8 @@ _None_
   "radar": [
     {
       "source": [
-        "thenewslens.com/author/:id/:sort?",
+        "thenewslens.com/author/:id/*sort",
+        "thenewslens.com/author/:id",
         "thenewslens.com/"
       ],
       "target": "/author/:id/:sort?"

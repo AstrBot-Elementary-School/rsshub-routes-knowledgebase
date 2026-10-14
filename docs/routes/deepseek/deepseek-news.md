@@ -35,6 +35,9 @@ _None_
 ### Rule 1
 - `source`:
   - `api-docs.deepseek.com`
+  - `api-docs.deepseek.com/zh-cn`
+  - `api-docs.deepseek.com/zh-cn/news/:article`
+  - `api-docs.deepseek.com/news/:article`
 - `target`: `/news`
 
 ## Raw JSON
@@ -62,7 +65,10 @@ _None_
   "radar": [
     {
       "source": [
-        "api-docs.deepseek.com"
+        "api-docs.deepseek.com",
+        "api-docs.deepseek.com/zh-cn",
+        "api-docs.deepseek.com/zh-cn/news/:article",
+        "api-docs.deepseek.com/news/:article"
       ],
       "target": "/news"
     }

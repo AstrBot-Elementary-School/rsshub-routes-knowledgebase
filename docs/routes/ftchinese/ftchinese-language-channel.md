@@ -1,4 +1,4 @@
-# FT 中文网 - FT 中文网
+# FT 中文网 - 频道
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `ftchinese`
 - Namespace Name: `FT 中文网`
 - Route Path: `/ftchinese/:language/:channel?`
-- Route Name: `FT 中文网`
+- Route Name: `频道`
 - Example: `/ftchinese/simplified/hotstoryby7day`
 - URL: `ftchinese.com`
 - Language: `_None_`
@@ -62,13 +62,13 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 975,
+  "heat": 974,
   "location": "channel.ts",
   "maintainers": [
     "HenryQW",
     "xyqfer"
   ],
-  "name": "FT 中文网",
+  "name": "频道",
   "parameters": {
     "channel": "频道，缺省为每日更新",
     "language": "语言，简体 `simplified`，繁体 `traditional`"
@@ -93,7 +93,7 @@ _None_
     {
       "description": "FTChinese RSS - All Feed - Powered by RSSHub",
       "errorAt": "2026-09-23T10:02:51.153Z",
-      "errorMessage": "[GET] \"https://www.ftchinese.com/story/001111076?full=y&archive\": 429 Too Many Requests\n[GET] \"https://www.ftchinese.com/story/001111077?full=y&archive\": 429 \n[GET] \"https://www.ftchinese.com/story/001111076?full=y&archive\": 429 Too Many Requests\n",
+      "errorMessage": "[GET] \"https://www.ftchinese.com/story/001111079?full=y&archive\": 429 Too Many Requests\n[GET] \"https://www.ftchinese.com/story/001111077?full=y&archive\": 429 \n[GET] \"https://www.ftchinese.com/story/001111077?full=y&archive\": 429 Too Many Requests\n",
       "id": "61693185811247104",
       "image": null,
       "ownerUserId": null,

@@ -9,7 +9,7 @@
 - Route Path: `/dushu/fuzhou`
 - Route Name: `樊登福州运营中心`
 - Example: `/dushu/fuzhou`
-- URL: `www.dushu365.com*`
+- URL: `www.dushu365.com`
 - Language: `_None_`
 - Categories: `new-media`
 - Maintainers: `Fatpandac`
@@ -34,7 +34,8 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `www.dushu365.com*`
+  - `www.dushu365.com/`
+- `target`: `/fuzhou`
 
 ## Raw JSON
 ```json
@@ -62,8 +63,9 @@ _None_
   "radar": [
     {
       "source": [
-        "www.dushu365.com*"
-      ]
+        "www.dushu365.com/"
+      ],
+      "target": "/fuzhou"
     }
   ],
   "test": {
@@ -83,6 +85,6 @@ _None_
       "url": "rsshub://dushu/fuzhou"
     }
   ],
-  "url": "www.dushu365.com*"
+  "url": "www.dushu365.com"
 }
 ```

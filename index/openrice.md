@@ -34,7 +34,7 @@
 - Categories: `shopping`
 - Maintainers: `after9`
 
-### OpenRice 開飯熱店 - 年度餐廳投票
+### 開飯熱店 - 年度餐廳投票
 - Route ID: `openrice:/openrice/:lang/hongkong/voting/top/:categoryKey`
 - Route Path: `/openrice/:lang/hongkong/voting/top/:categoryKey`
 - File: `docs/routes/openrice/openrice-lang-hongkong-voting-top-categorykey.md`

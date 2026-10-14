@@ -29,7 +29,84 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `wnacg.com/*`
+  - `wnacg.com/albums-index-cate-1.html`
+- `target`: `/category/1`
+### Rule 2
+- `source`:
+  - `wnacg.com/albums-index-cate-2.html`
+- `target`: `/category/2`
+### Rule 3
+- `source`:
+  - `wnacg.com/albums-index-cate-3.html`
+- `target`: `/category/3`
+### Rule 4
+- `source`:
+  - `wnacg.com/albums-index-cate-5.html`
+- `target`: `/category/5`
+### Rule 5
+- `source`:
+  - `wnacg.com/albums-index-cate-6.html`
+- `target`: `/category/6`
+### Rule 6
+- `source`:
+  - `wnacg.com/albums-index-cate-7.html`
+- `target`: `/category/7`
+### Rule 7
+- `source`:
+  - `wnacg.com/albums-index-cate-9.html`
+- `target`: `/category/9`
+### Rule 8
+- `source`:
+  - `wnacg.com/albums-index-cate-10.html`
+- `target`: `/category/10`
+### Rule 9
+- `source`:
+  - `wnacg.com/albums-index-cate-12.html`
+- `target`: `/category/12`
+### Rule 10
+- `source`:
+  - `wnacg.com/albums-index-cate-13.html`
+- `target`: `/category/13`
+### Rule 11
+- `source`:
+  - `wnacg.com/albums-index-cate-14.html`
+- `target`: `/category/14`
+### Rule 12
+- `source`:
+  - `wnacg.com/albums-index-cate-16.html`
+- `target`: `/category/16`
+### Rule 13
+- `source`:
+  - `wnacg.com/albums-index-cate-17.html`
+- `target`: `/category/17`
+### Rule 14
+- `source`:
+  - `wnacg.com/albums-index-cate-18.html`
+- `target`: `/category/18`
+### Rule 15
+- `source`:
+  - `wnacg.com/albums-index-cate-19.html`
+- `target`: `/category/19`
+### Rule 16
+- `source`:
+  - `wnacg.com/albums-index-cate-20.html`
+- `target`: `/category/20`
+### Rule 17
+- `source`:
+  - `wnacg.com/albums-index-cate-21.html`
+- `target`: `/category/21`
+### Rule 18
+- `source`:
+  - `wnacg.com/albums-index-cate-22.html`
+- `target`: `/category/22`
+### Rule 19
+- `source`:
+  - `wnacg.com/albums-index-cate-37.html`
+- `target`: `/category/37`
+### Rule 20
+- `source`:
+  - `wnacg.com/albums-index-cate-38.html`
+- `target`: `/category/38`
 
 ## Raw JSON
 ```json
@@ -51,8 +128,123 @@ _None_
   "radar": [
     {
       "source": [
-        "wnacg.com/*"
-      ]
+        "wnacg.com/albums-index-cate-1.html"
+      ],
+      "target": "/category/1"
+    },
+    {
+      "source": [
+        "wnacg.com/albums-index-cate-2.html"
+      ],
+      "target": "/category/2"
+    },
+    {
+      "source": [
+        "wnacg.com/albums-index-cate-3.html"
+      ],
+      "target": "/category/3"
+    },
+    {
+      "source": [
+        "wnacg.com/albums-index-cate-5.html"
+      ],
+      "target": "/category/5"
+    },
+    {
+      "source": [
+        "wnacg.com/albums-index-cate-6.html"
+      ],
+      "target": "/category/6"
+    },
+    {
+      "source": [
+        "wnacg.com/albums-index-cate-7.html"
+      ],
+      "target": "/category/7"
+    },
+    {
+      "source": [
+        "wnacg.com/albums-index-cate-9.html"
+      ],
+      "target": "/category/9"
+    },
+    {
+      "source": [
+        "wnacg.com/albums-index-cate-10.html"
+      ],
+      "target": "/category/10"
+    },
+    {
+      "source": [
+        "wnacg.com/albums-index-cate-12.html"
+      ],
+      "target": "/category/12"
+    },
+    {
+      "source": [
+        "wnacg.com/albums-index-cate-13.html"
+      ],
+      "target": "/category/13"
+    },
+    {
+      "source": [
+        "wnacg.com/albums-index-cate-14.html"
+      ],
+      "target": "/category/14"
+    },
+    {
+      "source": [
+        "wnacg.com/albums-index-cate-16.html"
+      ],
+      "target": "/category/16"
+    },
+    {
+      "source": [
+        "wnacg.com/albums-index-cate-17.html"
+      ],
+      "target": "/category/17"
+    },
+    {
+      "source": [
+        "wnacg.com/albums-index-cate-18.html"
+      ],
+      "target": "/category/18"
+    },
+    {
+      "source": [
+        "wnacg.com/albums-index-cate-19.html"
+      ],
+      "target": "/category/19"
+    },
+    {
+      "source": [
+        "wnacg.com/albums-index-cate-20.html"
+      ],
+      "target": "/category/20"
+    },
+    {
+      "source": [
+        "wnacg.com/albums-index-cate-21.html"
+      ],
+      "target": "/category/21"
+    },
+    {
+      "source": [
+        "wnacg.com/albums-index-cate-22.html"
+      ],
+      "target": "/category/22"
+    },
+    {
+      "source": [
+        "wnacg.com/albums-index-cate-37.html"
+      ],
+      "target": "/category/37"
+    },
+    {
+      "source": [
+        "wnacg.com/albums-index-cate-38.html"
+      ],
+      "target": "/category/38"
     }
   ],
   "test": {

@@ -1,4 +1,4 @@
-# Medium - Medium Feed
+# Medium - Feed
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `medium`
 - Namespace Name: `Medium`
 - Route Path: `/medium/feed/:user`
-- Route Name: `Medium Feed`
+- Route Name: `Feed`
 - Example: `/medium/feed/zhgchgli`
 - URL: `medium.com`
 - Language: `_None_`
@@ -57,7 +57,7 @@ _None_
   "maintainers": [
     "pseudoyu"
   ],
-  "name": "Medium Feed",
+  "name": "Feed",
   "parameters": {
     "user": "Username of the Medium"
   },

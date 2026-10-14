@@ -9,7 +9,7 @@
 - Route Path: `/ifanr/index`
 - Route Name: `首页`
 - Example: `/ifanr/index`
-- URL: `www.ifanr.com/index`
+- URL: `www.ifanr.com`
 - Language: `_None_`
 - Categories: `new-media`
 - Maintainers: `donghongfei`
@@ -34,7 +34,7 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `www.ifanr.com/index`
+  - `www.ifanr.com/`
 
 ## Raw JSON
 ```json
@@ -62,7 +62,7 @@ _None_
   "radar": [
     {
       "source": [
-        "www.ifanr.com/index"
+        "www.ifanr.com/"
       ]
     }
   ],
@@ -74,7 +74,7 @@ _None_
     {
       "description": "爱范儿首页 - Powered by RSSHub",
       "errorAt": "2026-09-17T06:27:06.197Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'post_cover_image')\nCannot read properties of undefined (reading 'post_cover_image')\nCannot read properties of undefined (reading 'post_cover_image')\n502 \nCannot read properties of undefined (reading 'post_cover_image')\n",
+      "errorMessage": "Cannot read properties of undefined (reading 'post_cover_image')\nCannot read properties of undefined (reading 'post_cover_image')\nCannot read properties of undefined (reading 'post_cover_image')\nCannot read properties of undefined (reading 'post_cover_image')\nCannot read properties of undefined (reading 'post_cover_image')\n",
       "id": "95440076991617024",
       "image": null,
       "ownerUserId": null,
@@ -84,7 +84,7 @@ _None_
       "url": "rsshub://ifanr/index"
     }
   ],
-  "url": "www.ifanr.com/index",
+  "url": "www.ifanr.com",
   "view": 0
 }
 ```

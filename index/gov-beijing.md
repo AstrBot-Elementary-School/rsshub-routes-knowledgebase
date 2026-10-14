@@ -34,9 +34,9 @@
 - Categories: `government`
 - Maintainers: `nczitzk`
 
-### 北京市科学技术委员会、中关村科技园区管理委员会
-- Route ID: `gov/beijing:/gov/beijing/kw/:channel`
-- Route Path: `/gov/beijing/kw/:channel`
+### 科学技术委员会、中关村科技园区管理委员会
+- Route ID: `gov/beijing:/gov/beijing/kw/:channel{.+}`
+- Route Path: `/gov/beijing/kw/:channel{.+}`
 - File: `docs/routes/gov-beijing/gov-beijing-kw-channel.md`
 - File Name: `gov-beijing-kw-channel.md`
 - Categories: `government`

@@ -53,7 +53,6 @@ Categories
 
 ## Parameters
 - `category`: Category, see below, Home by default
-- `limit`: {"default": "10", "description": "Number of articles, 10 by default"}
 
 
 ## Features
@@ -77,11 +76,7 @@ _None_
   ],
   "name": "Category",
   "parameters": {
-    "category": "Category, see below, Home by default",
-    "limit": {
-      "default": "10",
-      "description": "Number of articles, 10 by default"
-    }
+    "category": "Category, see below, Home by default"
   },
   "path": "/:category?",
   "test": {

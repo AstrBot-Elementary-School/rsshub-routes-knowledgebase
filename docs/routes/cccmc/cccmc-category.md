@@ -72,7 +72,9 @@
 ## Radar
 ### Rule 1
 - `source`:
-  - `www.cccmc.org.cn/:category`
+  - `www.cccmc.org.cn/`
+  - `www.cccmc.org.cn/ywgg/tzgg/`
+- `target`: `/ywgg/tzgg`
 ### Rule 2
 - `title`: `商业机会 - 供应信息`
 - `source`:
@@ -189,8 +191,10 @@
   "radar": [
     {
       "source": [
-        "www.cccmc.org.cn/:category"
-      ]
+        "www.cccmc.org.cn/",
+        "www.cccmc.org.cn/ywgg/tzgg/"
+      ],
+      "target": "/ywgg/tzgg"
     },
     {
       "source": [

@@ -47,6 +47,7 @@
 ### Rule 1
 - `source`:
   - `cuilingmag.com/category/:category`
+- `target`: `/:category`
 ### Rule 2
 - `title`: `全部`
 - `source`:
@@ -114,7 +115,8 @@
     {
       "source": [
         "cuilingmag.com/category/:category"
-      ]
+      ],
+      "target": "/:category"
     },
     {
       "source": [

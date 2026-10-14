@@ -3,9 +3,9 @@
 ## Namespace
 - Namespace: `chinawriter`
 - Display Name: `中国作家网`
-- URL: `chinawriter.com.cn`
+- URL: `www.chinawriter.com.cn`
 - Language: `_None_`
-- Aliases: `chinawriter, chinawriter.com.cn, 中国作家网`
+- Aliases: `chinawriter, chinawriter.com.cn, www, www.chinawriter.com.cn, 中国作家网`
 - Route Count: `1`
 
 ## Routes

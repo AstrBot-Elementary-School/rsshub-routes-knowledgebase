@@ -1,4 +1,4 @@
-# 金十数据 - 外汇
+# 金十数据 - 分类快讯
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `jin10`
 - Namespace Name: `金十数据`
 - Route Path: `/jin10/category/:id`
-- Route Name: `外汇`
+- Route Name: `分类快讯`
 - Example: `/jin10/category/36`
 - URL: `jin10.com/`
 - Language: `_None_`
@@ -190,7 +190,7 @@
   "maintainers": [
     "laampui"
   ],
-  "name": "外汇",
+  "name": "分类快讯",
   "parameters": {
     "id": "分类id，见下表"
   },

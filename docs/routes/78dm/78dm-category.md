@@ -106,7 +106,9 @@
 ## Radar
 ### Rule 1
 - `source`:
-  - `www.78dm.net/:category?`
+  - `www.78dm.net/*category`
+  - `www.78dm.net/`
+- `target`: `/:category?`
 ### Rule 2
 - `title`: `新品速递 - 全部`
 - `source`:
@@ -373,8 +375,10 @@
   "radar": [
     {
       "source": [
-        "www.78dm.net/:category?"
-      ]
+        "www.78dm.net/*category",
+        "www.78dm.net/"
+      ],
+      "target": "/:category?"
     },
     {
       "source": [

@@ -9,7 +9,7 @@
 - Route Path: `/panewslab/profundity/:category?`
 - Route Name: `深度`
 - Example: `/panewslab/profundity`
-- URL: `panewslab.com/`
+- URL: `www.panewslab.com/zh/in-depth`
 - Language: `_None_`
 - Categories: `new-media`
 - Maintainers: `nczitzk`
@@ -30,10 +30,8 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `panewslab.com/`
-### Rule 2
-- `source`:
-  - `www.panewslab.com/zh/profundity/index.html`
+  - `www.panewslab.com/zh/in-depth`
+- `target`: `/profundity`
 
 ## Raw JSON
 ```json
@@ -56,13 +54,9 @@ _None_
   "radar": [
     {
       "source": [
-        "panewslab.com/"
-      ]
-    },
-    {
-      "source": [
-        "www.panewslab.com/zh/profundity/index.html"
-      ]
+        "www.panewslab.com/zh/in-depth"
+      ],
+      "target": "/profundity"
     }
   ],
   "test": {
@@ -83,6 +77,6 @@ _None_
       "url": "rsshub://panewslab/profundity"
     }
   ],
-  "url": "panewslab.com/"
+  "url": "www.panewslab.com/zh/in-depth"
 }
 ```

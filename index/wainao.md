@@ -18,7 +18,7 @@
 - Categories: `new-media`
 - Maintainers: `shuiRong, nczitzk`
 
-### 歪脑读
+### 读
 - Route ID: `wainao:/wainao/wainao-reads`
 - Route Path: `/wainao/wainao-reads`
 - File: `docs/routes/wainao/wainao-wainao-reads.md`

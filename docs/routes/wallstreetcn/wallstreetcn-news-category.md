@@ -34,11 +34,11 @@
 | medicine     | 医药  |
 
 ## Parameters
-_None_
+- `category`: 资讯分类，默认为 `global`，可选值见下表
 
 
 ## Features
-_None_
+- `supportPodcast`: true
 
 ## Radar
 ### Rule 1
@@ -54,12 +54,18 @@ _None_
   ],
   "description": "| id           | 分类  |\n| ------------ | ----- |\n| global       | 最新  |\n| shares       | 股市  |\n| bonds        | 债市  |\n| commodities  | 商品  |\n| forex        | 外汇  |\n| finance      | 金融  |\n| enterprise   | 公司  |\n| asset-manage | 资管  |\n| tmt          | 科技  |\n| ai           | 硬 AI |\n| estate       | 地产  |\n| car          | 汽车  |\n| medicine     | 医药  |",
   "example": "/wallstreetcn/news",
+  "features": {
+    "supportPodcast": true
+  },
   "heat": 227,
   "location": "news.ts",
   "maintainers": [
     "nczitzk"
   ],
   "name": "资讯",
+  "parameters": {
+    "category": "资讯分类，默认为 `global`，可选值见下表"
+  },
   "path": "/news/:category?",
   "radar": [
     {

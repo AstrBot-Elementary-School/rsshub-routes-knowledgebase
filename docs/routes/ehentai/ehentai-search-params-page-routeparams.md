@@ -21,7 +21,7 @@ _None_
 
 ## Parameters
 - `params`: Search parameters. You can copy the content after `https://e-hentai.org/?`
-- `page`: Page number, set 0 to get latest
+- `page`: Compatibility parameter: omit it or use 0 for the latest first page; other values are unsupported
 - `routeParams`: Additional parameters, see the table above
 
 
@@ -61,7 +61,7 @@ _None_
   ],
   "name": "Search",
   "parameters": {
-    "page": "Page number, set 0 to get latest",
+    "page": "Compatibility parameter: omit it or use 0 for the latest first page; other values are unsupported",
     "params": "Search parameters. You can copy the content after `https://e-hentai.org/?`",
     "routeParams": "Additional parameters, see the table above"
   },
@@ -72,8 +72,8 @@ _None_
   "topFeeds": [
     {
       "description": "undefined - E-Hentai Search - Powered by RSSHub",
-      "errorAt": "2026-10-12T15:13:01.663Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "96502911354921984",
       "image": null,
       "ownerUserId": null,
@@ -84,8 +84,8 @@ _None_
     },
     {
       "description": "ごさいじ+language:\"chinese\" - E-Hentai Search - Powered by RSSHub",
-      "errorAt": "2026-10-12T10:31:15.048Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "132859028606370816",
       "image": null,
       "ownerUserId": null,

@@ -9,7 +9,7 @@
 - Route Path: `/sputniknews/:category?/:language?`
 - Route Name: `Category`
 - Example: `/sputniknews`
-- URL: `sputniknews.cn`
+- URL: `sputniknews.com`
 - Language: `_None_`
 - Categories: `traditional-media`
 - Maintainers: `nczitzk`

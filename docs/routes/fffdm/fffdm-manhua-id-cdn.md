@@ -21,7 +21,7 @@ _None_
 
 ## Parameters
 - `id`: 漫画ID。默认获取全部，建议使用通用参数limit获取指定数量
-- `cdn`: cdn加速器。默认5，当前可选1-5
+- `cdn`: 图片服务器。默认使用官网主线路img.fzacg.com，可选1-5指定旧CDN线路
 
 
 ## Features
@@ -36,7 +36,11 @@ _None_
 ### Rule 1
 - `source`:
   - `www.fffdm.com/manhua/:id`
-  - `www.fffdm.com/:id`
+  - `www.fffdm.com/manhua/:id`
+- `target`: `/manhua/:id`
+### Rule 2
+- `source`:
+  - `manhua.fffdm.com/:id/:chapter`
 - `target`: `/manhua/:id`
 
 ## Raw JSON
@@ -61,7 +65,7 @@ _None_
   ],
   "name": "在线漫画",
   "parameters": {
-    "cdn": "cdn加速器。默认5，当前可选1-5",
+    "cdn": "图片服务器。默认使用官网主线路img.fzacg.com，可选1-5指定旧CDN线路",
     "id": "漫画ID。默认获取全部，建议使用通用参数limit获取指定数量"
   },
   "path": "/manhua/:id/:cdn?",
@@ -69,7 +73,13 @@ _None_
     {
       "source": [
         "www.fffdm.com/manhua/:id",
-        "www.fffdm.com/:id"
+        "www.fffdm.com/manhua/:id"
+      ],
+      "target": "/manhua/:id"
+    },
+    {
+      "source": [
+        "manhua.fffdm.com/:id/:chapter"
       ],
       "target": "/manhua/:id"
     }

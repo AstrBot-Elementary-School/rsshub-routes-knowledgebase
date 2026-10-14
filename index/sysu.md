@@ -10,7 +10,7 @@
 
 ## Routes
 
-### 数据科学与计算机学院动态
+### 计算机学院动态
 - Route ID: `sysu:/sysu/cse`
 - Route Path: `/sysu/cse`
 - File: `docs/routes/sysu/sysu-cse.md`

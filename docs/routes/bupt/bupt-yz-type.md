@@ -9,7 +9,7 @@
 - Route Path: `/bupt/yz/:type`
 - Route Name: `硕士研究生招生通知`
 - Example: `/bupt/yz/all`
-- URL: `bupt.edu.cn`
+- URL: `www.bupt.edu.cn`
 - Language: `_None_`
 - Categories: `university`
 - Maintainers: `ihewro`

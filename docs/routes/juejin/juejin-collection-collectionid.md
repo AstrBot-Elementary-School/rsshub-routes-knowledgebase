@@ -8,7 +8,7 @@
 - Namespace Name: `掘金`
 - Route Path: `/juejin/collection/:collectionId`
 - Route Name: `单个收藏夹`
-- Example: `/juejin/collection/6845243180586123271`
+- Example: `/juejin/collection/6845243327650988046`
 - URL: `juejin.cn`
 - Language: `_None_`
 - Categories: `programming`
@@ -42,7 +42,7 @@ _None_
   "categories": [
     "programming"
   ],
-  "example": "/juejin/collection/6845243180586123271",
+  "example": "/juejin/collection/6845243327650988046",
   "features": {
     "antiCrawler": false,
     "requireConfig": false,

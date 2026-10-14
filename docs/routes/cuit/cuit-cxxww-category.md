@@ -30,6 +30,11 @@ _None_
 ### Rule 1
 - `source`:
   - `www.cuit.edu.cn/index/:category`
+- `target`: `/cxxww/:category`
+### Rule 2
+- `source`:
+  - `www.cuit.edu.cn/index/cxwh/whhd.htm`
+- `target`: `/cxxww/cxwh/whhd`
 
 ## Raw JSON
 ```json
@@ -81,7 +86,14 @@ _None_
     {
       "source": [
         "www.cuit.edu.cn/index/:category"
-      ]
+      ],
+      "target": "/cxxww/:category"
+    },
+    {
+      "source": [
+        "www.cuit.edu.cn/index/cxwh/whhd.htm"
+      ],
+      "target": "/cxxww/cxwh/whhd"
     }
   ],
   "test": {

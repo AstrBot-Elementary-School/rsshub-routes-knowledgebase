@@ -9,7 +9,7 @@
 - Route Path: `/nasa/apod-ncku`
 - Route Name: `Cheng Kung University Mirror`
 - Example: `/nasa/apod-ncku`
-- URL: `apod.nasa.govundefined`
+- URL: `sprite.phys.ncku.edu.tw/astrolab/mirrors/apod/`
 - Language: `_None_`
 - Categories: `picture`
 - Maintainers: `nczitzk, williamgateszhao`
@@ -34,7 +34,8 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `apod.nasa.govundefined`
+  - `sprite.phys.ncku.edu.tw/astrolab/mirrors/apod/*path`
+  - `sprite.phys.ncku.edu.tw/astrolab/mirrors/apod`
 
 ## Raw JSON
 ```json
@@ -63,7 +64,8 @@ _None_
   "radar": [
     {
       "source": [
-        "apod.nasa.govundefined"
+        "sprite.phys.ncku.edu.tw/astrolab/mirrors/apod/*path",
+        "sprite.phys.ncku.edu.tw/astrolab/mirrors/apod"
       ]
     }
   ],
@@ -85,6 +87,6 @@ _None_
       "url": "rsshub://nasa/apod-ncku"
     }
   ],
-  "url": "apod.nasa.govundefined"
+  "url": "sprite.phys.ncku.edu.tw/astrolab/mirrors/apod/"
 }
 ```

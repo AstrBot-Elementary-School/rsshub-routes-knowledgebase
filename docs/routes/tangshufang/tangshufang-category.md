@@ -45,7 +45,6 @@
 ### Rule 1
 - `source`:
   - `tangshufang.com/:category`
-  - `tangshufang.com/`
 
 ## Raw JSON
 ```json
@@ -76,8 +75,7 @@
   "radar": [
     {
       "source": [
-        "tangshufang.com/:category",
-        "tangshufang.com/"
+        "tangshufang.com/:category"
       ]
     }
   ],

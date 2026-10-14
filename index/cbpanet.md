@@ -3,9 +3,9 @@
 ## Namespace
 - Namespace: `cbpanet`
 - Display Name: `中国豆制品网`
-- URL: `cbpanet.com`
+- URL: `www.cbpanet.com`
 - Language: `_None_`
-- Aliases: `cbpanet, cbpanet.com, 中国豆制品网`
+- Aliases: `cbpanet, cbpanet.com, www, www.cbpanet.com, 中国豆制品网`
 - Route Count: `1`
 
 ## Routes

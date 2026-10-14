@@ -28,7 +28,7 @@ _None_
 - `requirePuppeteer`: false
 - `antiCrawler`: false
 - `supportBT`: false
-- `supportPodcast`: false
+- `supportPodcast`: true
 - `supportScihub`: false
 
 ## Radar
@@ -48,10 +48,10 @@ _None_
     "requireConfig": false,
     "requirePuppeteer": false,
     "supportBT": false,
-    "supportPodcast": false,
+    "supportPodcast": true,
     "supportScihub": false
   },
-  "heat": 1253,
+  "heat": 1254,
   "location": "hot.ts",
   "maintainers": [
     "nczitzk"

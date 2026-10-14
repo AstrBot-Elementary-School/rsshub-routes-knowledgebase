@@ -1,4 +1,4 @@
-# 中山大学 - 数据科学与计算机学院动态
+# 中山大学 - 计算机学院动态
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `sysu`
 - Namespace Name: `中山大学`
 - Route Path: `/sysu/cse`
-- Route Name: `数据科学与计算机学院动态`
+- Route Name: `计算机学院动态`
 - Example: `/sysu/cse`
 - URL: `cse.sysu.edu.cn/`
 - Language: `_None_`
@@ -58,7 +58,7 @@ _None_
     "Neutrino3316",
     "nczitzk"
   ],
-  "name": "数据科学与计算机学院动态",
+  "name": "计算机学院动态",
   "parameters": {},
   "path": "/cse",
   "radar": [

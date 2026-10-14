@@ -17,14 +17,17 @@
 - Source Module: `_None_`
 
 ## Description
-| `:class` | 类型                               |
-| :------: | ---------------------------------- |
-|     0    | Jeopardy \[解题]                   |
-|     1    | Attack with Defense \[AwD 攻防]    |
-|     2    | Robo Hacking Game \[RHG AI 自动化] |
-|     3    | Real World \[RW 真实世界]          |
-|     4    | King of The Hill \[KoH 抢占山头]   |
-|     5    | Mix \[混合]                        |
+| `:class` | 类型                                 |
+| :------: | ------------------------------------ |
+|     0    | Jeopardy \[解题]                     |
+|     1    | Attack with Defense \[AwD 攻防]      |
+|     2    | Attack with Defense Plus \[ADP 攻防] |
+|     3    | Jeopardy + AwD \[JAD 解题攻防]       |
+|     4    | Robo Hacking Game \[RHG AI 自动化]   |
+|     5    | Real World \[RW 真实世界]            |
+|     6    | Penetration \[场景渗透]              |
+|     7    | King of The Hill \[KoH 抢占山头]     |
+|     8    | Mix \[混合]                          |
 
 > class 以 <https://api.ctfhub.com/User_API/Event/getType> 的返回结果为准
 
@@ -52,7 +55,7 @@ _None_
   "categories": [
     "study"
   ],
-  "description": "| `:class` | 类型                               |\n| :------: | ---------------------------------- |\n|     0    | Jeopardy \\[解题]                   |\n|     1    | Attack with Defense \\[AwD 攻防]    |\n|     2    | Robo Hacking Game \\[RHG AI 自动化] |\n|     3    | Real World \\[RW 真实世界]          |\n|     4    | King of The Hill \\[KoH 抢占山头]   |\n|     5    | Mix \\[混合]                        |\n\n> class 以 <https://api.ctfhub.com/User_API/Event/getType> 的返回结果为准\n\n| `:form` | 形式   |\n| :-----: | ------ |\n|    0    | 线上赛 |\n|    1    | 线下赛 |",
+  "description": "| `:class` | 类型                                 |\n| :------: | ------------------------------------ |\n|     0    | Jeopardy \\[解题]                     |\n|     1    | Attack with Defense \\[AwD 攻防]      |\n|     2    | Attack with Defense Plus \\[ADP 攻防] |\n|     3    | Jeopardy + AwD \\[JAD 解题攻防]       |\n|     4    | Robo Hacking Game \\[RHG AI 自动化]   |\n|     5    | Real World \\[RW 真实世界]            |\n|     6    | Penetration \\[场景渗透]              |\n|     7    | King of The Hill \\[KoH 抢占山头]     |\n|     8    | Mix \\[混合]                          |\n\n> class 以 <https://api.ctfhub.com/User_API/Event/getType> 的返回结果为准\n\n| `:form` | 形式   |\n| :-----: | ------ |\n|    0    | 线上赛 |\n|    1    | 线下赛 |",
   "example": "/ctfhub/search",
   "heat": 0,
   "location": "search.ts",

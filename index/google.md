@@ -66,7 +66,7 @@
 - Categories: `picture`
 - Maintainers: `xyqfer`
 
-### Google Fonts
+### Fonts
 - Route ID: `google:/google/fonts/:sort?`
 - Route Path: `/google/fonts/:sort?`
 - File: `docs/routes/google/google-fonts-sort.md`

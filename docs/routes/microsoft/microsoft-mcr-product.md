@@ -17,10 +17,10 @@
 - Source Module: `_None_`
 
 ## Description
-_None_
+Append the repository path after `/mcr/product/`, including nested repository segments.
 
 ## Parameters
-- `product`: repository path in mcr.microsoft.com
+_None_
 
 
 ## Features
@@ -34,7 +34,8 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `https://mcr.microsoft.com/en-us/product/:product/tags`
+  - `mcr.microsoft.com/en-us/product/*product/tags`
+- `target`: `/mcr/product/:product`
 
 ## Raw JSON
 ```json
@@ -42,6 +43,7 @@ _None_
   "categories": [
     "program-update"
   ],
+  "description": "Append the repository path after `/mcr/product/`, including nested repository segments.",
   "example": "/microsoft/mcr/product/dotnet/framework/runtime",
   "features": {
     "antiCrawler": false,
@@ -57,15 +59,13 @@ _None_
     "margani"
   ],
   "name": "Product tags in mcr.microsoft.com",
-  "parameters": {
-    "product": "repository path in mcr.microsoft.com"
-  },
   "path": "/mcr/product/*",
   "radar": [
     {
       "source": [
-        "https://mcr.microsoft.com/en-us/product/:product/tags"
-      ]
+        "mcr.microsoft.com/en-us/product/*product/tags"
+      ],
+      "target": "/mcr/product/:product"
     }
   ],
   "test": {

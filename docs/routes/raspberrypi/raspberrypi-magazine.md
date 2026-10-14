@@ -36,7 +36,7 @@ _None_
 ### Rule 1
 - `source`:
   - `magazine.raspberrypi.com`
-- `target`: `/raspberrypi/magazine`
+- `target`: `/magazine`
 
 ## Raw JSON
 ```json
@@ -54,7 +54,7 @@ _None_
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 36,
+  "heat": 35,
   "location": "magazine.ts",
   "maintainers": [
     "nczitzk"
@@ -66,7 +66,7 @@ _None_
       "source": [
         "magazine.raspberrypi.com"
       ],
-      "target": "/raspberrypi/magazine"
+      "target": "/magazine"
     }
   ],
   "test": {

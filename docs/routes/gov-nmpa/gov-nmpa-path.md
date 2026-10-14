@@ -6,7 +6,7 @@
 ## Route
 - Namespace: `gov/nmpa`
 - Namespace Name: `国家药品监督管理局`
-- Route Path: `/gov/nmpa/:path{.+}`
+- Route Path: `/gov/nmpa/:path{.+}?`
 - Route Name: `通用`
 - Example: `/gov/nmpa/xxgk/ggtg`
 - URL: `www.nmpa.gov.cn`
@@ -36,7 +36,6 @@ _None_
 ### Rule 1
 - `source`:
   - `www.nmpa.gov.cn/*path/index.html`
-  - `www.nmpa.gov.cn/*path`
 - `target`: `/:path`
 
 ## Raw JSON
@@ -47,7 +46,7 @@ _None_
   ],
   "description": "::: tip\n\n路径处填写对应页面 URL 中 `https://www.nmpa.gov.cn/` 与 `/index.html` 之间的字段，下面是一个例子。\n\n若订阅 [公告通告](https://www.nmpa.gov.cn/xxgk/ggtg/index.html) 则将对应页面 URL <https://www.nmpa.gov.cn/xxgk/ggtg/index.html> 中 `https://www.nmpa.gov.cn/` 和 `/index.html` 之间的字段 `xxgk/ggtg` 作为路径填入。此时路由为 [`/gov/nmpa/xxgk/ggtg`](https://rsshub.app/gov/nmpa/xxgk/ggtg)\n\n:::",
   "example": "/gov/nmpa/xxgk/ggtg",
-  "heat": 1,
+  "heat": 0,
   "location": "generic.ts",
   "maintainers": [
     "TonyRL"
@@ -56,32 +55,15 @@ _None_
   "parameters": {
     "path": "路径，默认为公告通告"
   },
-  "path": "/:path{.+}",
+  "path": "/:path{.+}?",
   "radar": [
     {
       "source": [
-        "www.nmpa.gov.cn/*path/index.html",
-        "www.nmpa.gov.cn/*path"
+        "www.nmpa.gov.cn/*path/index.html"
       ],
       "target": "/:path"
     }
   ],
-  "test": {
-    "code": 1
-  },
-  "topFeeds": [
-    {
-      "description": "国家药品监督管理局公告通告相关信息 - Powered by RSSHub",
-      "errorAt": "2026-10-10T12:52:18.391Z",
-      "errorMessage": "[GET] \"https://www.nmpa.gov.cn/xxgk/ggtg/index.html\": 412 Precondition Failed\n",
-      "id": "189349754051776515",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.nmpa.gov.cn/xxgk/ggtg/index.html",
-      "title": "公告通告",
-      "type": "feed",
-      "url": "rsshub://gov/nmpa/xxgk/ggtg"
-    }
-  ]
+  "topFeeds": []
 }
 ```

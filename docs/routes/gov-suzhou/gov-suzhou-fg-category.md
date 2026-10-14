@@ -31,8 +31,12 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `fg.suzhou.gov.cn/*category`
-- `target`: `/fg/:category`
+  - `fg.suzhou.gov.cn/szfgw/ggl/nav_list.shtml`
+- `target`: `/fg/szfgw/ggl/nav_list`
+### Rule 2
+- `source`:
+  - `fg.suzhou.gov.cn/szfgw/gzdt/nav_list.shtml`
+- `target`: `/fg/szfgw/gzdt/nav_list`
 
 ## Raw JSON
 ```json
@@ -55,9 +59,15 @@ _None_
   "radar": [
     {
       "source": [
-        "fg.suzhou.gov.cn/*category"
+        "fg.suzhou.gov.cn/szfgw/ggl/nav_list.shtml"
       ],
-      "target": "/fg/:category"
+      "target": "/fg/szfgw/ggl/nav_list"
+    },
+    {
+      "source": [
+        "fg.suzhou.gov.cn/szfgw/gzdt/nav_list.shtml"
+      ],
+      "target": "/fg/szfgw/gzdt/nav_list"
     }
   ],
   "test": {

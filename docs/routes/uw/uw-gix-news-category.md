@@ -9,7 +9,7 @@
 - Route Path: `/uw/gix/news/:category`
 - Route Name: `Global Innovation Exchange News`
 - Example: `/uw/gix/news/blog`
-- URL: `gixnetwork.org`
+- URL: `gix.uw.edu`
 - Language: `_None_`
 - Categories: `university`
 - Maintainers: `dykderrick`

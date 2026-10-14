@@ -42,8 +42,14 @@
 ## Radar
 ### Rule 1
 - `source`:
-  - `www.kelownacapnews.com/:type`
-- `target`: `/:type`
+  - `kelownacapnews.com/category/news/regional-news/`
+  - `kelownacapnews.com/local-news`
+- `target`: `/local-news`
+### Rule 2
+- `source`:
+  - `www.kelownacapnews.com/category/news/regional-news/`
+  - `www.kelownacapnews.com/local-news`
+- `target`: `/local-news`
 
 ## Raw JSON
 ```json
@@ -74,9 +80,17 @@
   "radar": [
     {
       "source": [
-        "www.kelownacapnews.com/:type"
+        "kelownacapnews.com/category/news/regional-news/",
+        "kelownacapnews.com/local-news"
       ],
-      "target": "/:type"
+      "target": "/local-news"
+    },
+    {
+      "source": [
+        "www.kelownacapnews.com/category/news/regional-news/",
+        "www.kelownacapnews.com/local-news"
+      ],
+      "target": "/local-news"
     }
   ],
   "test": {

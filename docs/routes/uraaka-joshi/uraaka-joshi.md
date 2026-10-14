@@ -24,6 +24,7 @@ _None_
 
 
 ## Features
+- `requirePuppeteer`: true
 - `nsfw`: true
 
 ## Radar
@@ -40,7 +41,8 @@ _None_
   ],
   "example": "/uraaka-joshi",
   "features": {
-    "nsfw": true
+    "nsfw": true,
+    "requirePuppeteer": true
   },
   "heat": 0,
   "location": "uraaka-joshi.ts",

@@ -65,18 +65,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "V2EX-tab-apple - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "46752076079222784",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://v2ex.com/?tab=apple",
-      "title": "V2EX-apple",
-      "type": "feed",
-      "url": "rsshub://v2ex/tab/apple"
-    },
-    {
       "description": "V2EX-tab-hot - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -87,6 +75,18 @@ _None_
       "title": "V2EX-hot",
       "type": "feed",
       "url": "rsshub://v2ex/tab/hot"
+    },
+    {
+      "description": "V2EX-tab-apple - Powered by RSSHub",
+      "errorAt": "2026-10-13T11:28:19.710Z",
+      "errorMessage": "[GET] \"https://v2ex.com/?tab=apple\": <no response> fetch failed (Connect Timeout Error (attempted address: v2ex.com:443, timeout: 10000ms))\n[GET] \"https://v2ex.com/?tab=apple\": <no response> fetch failed\n[GET] \"https://v2ex.com/?tab=apple\": 403 Forbidden\n",
+      "id": "46752076079222784",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://v2ex.com/?tab=apple",
+      "title": "V2EX-apple",
+      "type": "feed",
+      "url": "rsshub://v2ex/tab/apple"
     }
   ],
   "view": 0

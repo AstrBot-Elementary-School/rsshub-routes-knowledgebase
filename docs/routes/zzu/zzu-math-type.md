@@ -1,4 +1,4 @@
-# 郑州大学 - 郑大数学与统计学院
+# 郑州大学 - 数学与统计学院
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `zzu`
 - Namespace Name: `郑州大学`
 - Route Path: `/zzu/math/:type`
-- Route Name: `郑大数学与统计学院`
+- Route Name: `数学与统计学院`
 - Example: `/zzu/math/xyxw`
 - URL: `www.zzu.edu.cn`
 - Language: `_None_`
@@ -59,7 +59,7 @@
   "maintainers": [
     "amandus1990"
   ],
-  "name": "郑大数学与统计学院",
+  "name": "数学与统计学院",
   "parameters": {
     "type": "分类名"
   },

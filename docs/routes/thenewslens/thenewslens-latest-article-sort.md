@@ -31,7 +31,8 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `thenewslens.com/latest-article/:sort?`
+  - `thenewslens.com/latest-article/*sort`
+  - `thenewslens.com/latest-article`
   - `thenewslens.com/`
 - `target`: `/latest-article/:sort?`
 
@@ -56,7 +57,8 @@ _None_
   "radar": [
     {
       "source": [
-        "thenewslens.com/latest-article/:sort?",
+        "thenewslens.com/latest-article/*sort",
+        "thenewslens.com/latest-article",
         "thenewslens.com/"
       ],
       "target": "/latest-article/:sort?"

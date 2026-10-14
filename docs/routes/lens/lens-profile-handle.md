@@ -1,4 +1,4 @@
-# Lens - Lens Profile
+# Lens - Profile
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `lens`
 - Namespace Name: `Lens`
 - Route Path: `/lens/profile/:handle`
-- Route Name: `Lens Profile`
+- Route Name: `Profile`
 - Example: `/lens/profile/stani`
 - URL: `www.lens.xyz`
 - Language: `_None_`
@@ -57,7 +57,7 @@ _None_
   "maintainers": [
     "DIYgod"
   ],
-  "name": "Lens Profile",
+  "name": "Profile",
   "parameters": {
     "handle": "Lens handle"
   },

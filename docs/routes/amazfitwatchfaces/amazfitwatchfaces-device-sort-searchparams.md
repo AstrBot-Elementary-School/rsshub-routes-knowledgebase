@@ -70,6 +70,7 @@ If you subscribe to [TOP for the last 6 months (Only new) - Xiaomi Smart Band 9]
 ### Rule 1
 - `source`:
   - `amazfitwatchfaces.com/:device/:sort`
+- `target`: `/:device/:sort`
 ### Rule 2
 - `title`: `Fresh watch faces for Amazfit X`
 - `source`:
@@ -310,7 +311,8 @@ If you subscribe to [TOP for the last 6 months (Only new) - Xiaomi Smart Band 9]
     {
       "source": [
         "amazfitwatchfaces.com/:device/:sort"
-      ]
+      ],
+      "target": "/:device/:sort"
     },
     {
       "source": [

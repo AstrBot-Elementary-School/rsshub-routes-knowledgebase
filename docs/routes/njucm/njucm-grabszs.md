@@ -9,7 +9,7 @@
 - Route Path: `/njucm/grabszs`
 - Route Name: `研究生院博士招生`
 - Example: `/njucm/grabszs`
-- URL: `lib.njucm.edu.cn/2899/list.htm`
+- URL: `gra.njucm.edu.cn/2899/list.htm`
 - Language: `_None_`
 - Categories: `university`
 - Maintainers: `real-jiakai`
@@ -34,8 +34,8 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `lib.njucm.edu.cn/2899/list.htm`
-  - `lib.njucm.edu.cn/`
+  - `gra.njucm.edu.cn/2899/list.htm`
+  - `gra.njucm.edu.cn/`
 
 ## Raw JSON
 ```json
@@ -63,8 +63,8 @@ _None_
   "radar": [
     {
       "source": [
-        "lib.njucm.edu.cn/2899/list.htm",
-        "lib.njucm.edu.cn/"
+        "gra.njucm.edu.cn/2899/list.htm",
+        "gra.njucm.edu.cn/"
       ]
     }
   ],
@@ -72,6 +72,6 @@ _None_
     "code": 1
   },
   "topFeeds": [],
-  "url": "lib.njucm.edu.cn/2899/list.htm"
+  "url": "gra.njucm.edu.cn/2899/list.htm"
 }
 ```

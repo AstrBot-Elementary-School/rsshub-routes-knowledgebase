@@ -36,7 +36,7 @@ _None_
 ### Rule 1
 - `source`:
   - `musikguru.de/news`
-- `target`: `news`
+- `target`: `/news`
 
 ## Raw JSON
 ```json
@@ -66,7 +66,7 @@ _None_
       "source": [
         "musikguru.de/news"
       ],
-      "target": "news"
+      "target": "/news"
     }
   ],
   "test": {

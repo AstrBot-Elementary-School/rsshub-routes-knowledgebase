@@ -10,7 +10,7 @@
 
 ## Routes
 
-### 麦当劳活动资讯
+### 活动资讯
 - Route ID: `mcdonalds:/mcdonalds/cn/:category`
 - Route Path: `/mcdonalds/cn/:category`
 - File: `docs/routes/mcdonalds/mcdonalds-cn-category.md`

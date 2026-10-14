@@ -27,12 +27,11 @@ To subscribe to [Potplayer Update History](https://t1.daumcdn.net/potplayer/PotP
 | [中文 (简体)](https://t1.daumcdn.net/potplayer/PotPlayer/v4/Update2/UpdateChs.html) | [Chs](https://rsshub.app/daum/potplayer/Chs) |
 | [中文 (繁体)](https://t1.daumcdn.net/potplayer/PotPlayer/v4/Update2/UpdateCht.html) | [Cht](https://rsshub.app/daum/potplayer/Cht) |
 | [ENGLISH](https://t1.daumcdn.net/potplayer/PotPlayer/v4/Update2/UpdateEng.html)     | [Eng](https://rsshub.app/daum/potplayer/Eng) |
-| [Українська](https://t1.daumcdn.net/potplayer/PotPlayer/v4/Update2/UpdateEng.html)  | [Eng](https://rsshub.app/daum/potplayer/Eng) |
-| [РУССКИЙ](https://t1.daumcdn.net/potplayer/PotPlayer/v4/Update2/UpdateRus.html)     | [Eng](https://rsshub.app/daum/potplayer/Rus) |
-| [Polski](https://t1.daumcdn.net/potplayer/PotPlayer/v4/Update2/UpdatePol.html)      | [Eng](https://rsshub.app/daum/potplayer/Pol) |
+| [РУССКИЙ](https://t1.daumcdn.net/potplayer/PotPlayer/v4/Update2/UpdateRus.html)     | [Rus](https://rsshub.app/daum/potplayer/Rus) |
+| [Polski](https://t1.daumcdn.net/potplayer/PotPlayer/v4/Update2/UpdatePol.html)      | [Pol](https://rsshub.app/daum/potplayer/Pol) |
 
 ## Parameters
-- `lang`: {"description": "Language, Korean by default", "options": [{"label": "한국어", "value": "Kor"}, {"label": "中文(简体)", "value": "Chs"}, {"label": "中文(繁体)", "value": "Cht"}, {"label": "English", "value": "Eng"}, {"label": "Українська", "value": "Eng"}, {"label": "Русский", "value": "Rus"}, {"label": "Polski", "value": "Pol"}]}
+- `lang`: {"description": "Language, Korean by default; Kor is an alias for the default changelog", "options": [{"label": "한국어", "value": "Kor"}, {"label": "中文(简体)", "value": "Chs"}, {"label": "中文(繁体)", "value": "Cht"}, {"label": "English", "value": "Eng"}, {"label": "Русский", "value": "Rus"}, {"label": "Polski", "value": "Pol"}]}
 
 
 ## Features
@@ -46,43 +45,71 @@ To subscribe to [Potplayer Update History](https://t1.daumcdn.net/potplayer/PotP
 
 ## Radar
 ### Rule 1
+- `title`: `한국어`
 - `source`:
   - `potplayer.daum.net`
+- `target`: `/potplayer`
 ### Rule 2
+- `title`: `中文(简体)`
+- `source`:
+  - `potplayer.daum.net`
+- `target`: `/potplayer/Chs`
+### Rule 3
+- `title`: `中文(繁体)`
+- `source`:
+  - `potplayer.daum.net`
+- `target`: `/potplayer/Cht`
+### Rule 4
+- `title`: `English`
+- `source`:
+  - `potplayer.daum.net`
+- `target`: `/potplayer/Eng`
+### Rule 5
+- `title`: `Русский`
+- `source`:
+  - `potplayer.daum.net`
+- `target`: `/potplayer/Rus`
+### Rule 6
+- `title`: `Polski`
+- `source`:
+  - `potplayer.daum.net`
+- `target`: `/potplayer/Pol`
+### Rule 7
 - `title`: `한국어`
 - `source`:
   - `t1.daumcdn.net/potplayer/PotPlayer/v4/Update2/Update.html`
 - `target`: `/potplayer`
-### Rule 3
+### Rule 8
 - `title`: `中文(简体)`
 - `source`:
   - `t1.daumcdn.net/potplayer/PotPlayer/v4/Update2/UpdateChs.html`
 - `target`: `/potplayer/Chs`
-### Rule 4
+### Rule 9
 - `title`: `中文(繁体)`
 - `source`:
   - `t1.daumcdn.net/potplayer/PotPlayer/v4/Update2/UpdateCht.html`
 - `target`: `/potplayer/Cht`
-### Rule 5
+### Rule 10
 - `title`: `English`
 - `source`:
   - `t1.daumcdn.net/potplayer/PotPlayer/v4/Update2/UpdateEng.html`
 - `target`: `/potplayer/Eng`
-### Rule 6
-- `title`: `Українська`
-- `source`:
-  - `t1.daumcdn.net/potplayer/PotPlayer/v4/Update2/UpdateEng.html`
-- `target`: `/potplayer/Eng`
-### Rule 7
+### Rule 11
 - `title`: `Русский`
 - `source`:
   - `t1.daumcdn.net/potplayer/PotPlayer/v4/Update2/UpdateRus.html`
 - `target`: `/potplayer/Rus`
-### Rule 8
+### Rule 12
 - `title`: `Polski`
 - `source`:
   - `t1.daumcdn.net/potplayer/PotPlayer/v4/Update2/UpdatePol.html`
 - `target`: `/potplayer/Pol`
+### Rule 13
+- `title`: `한국어`
+- `source`:
+  - `t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup.exe`
+  - `t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe`
+- `target`: `/potplayer`
 
 ## Raw JSON
 ```json
@@ -90,7 +117,7 @@ To subscribe to [Potplayer Update History](https://t1.daumcdn.net/potplayer/PotP
   "categories": [
     "program-update"
   ],
-  "description": "::: tip\nTo subscribe to [Potplayer Update History](https://t1.daumcdn.net/potplayer/PotPlayer/v4/Update2/UpdateEng.html), where the source URL is `https://t1.daumcdn.net/potplayer/PotPlayer/v4/Update2/UpdateEng.html`, extract the certain parts from this URL to be used as parameters, resulting in the route as [`/daum/potplayer/Eng`](https://rsshub.app/daum/potplayer/Eng).\n:::\n\n| Language                                                                            | Id                                           |\n| ----------------------------------------------------------------------------------- | -------------------------------------------- |\n| [한국어](https://t1.daumcdn.net/potplayer/PotPlayer/v4/Update2/Update.html)         |                                              |\n| [中文 (简体)](https://t1.daumcdn.net/potplayer/PotPlayer/v4/Update2/UpdateChs.html) | [Chs](https://rsshub.app/daum/potplayer/Chs) |\n| [中文 (繁体)](https://t1.daumcdn.net/potplayer/PotPlayer/v4/Update2/UpdateCht.html) | [Cht](https://rsshub.app/daum/potplayer/Cht) |\n| [ENGLISH](https://t1.daumcdn.net/potplayer/PotPlayer/v4/Update2/UpdateEng.html)     | [Eng](https://rsshub.app/daum/potplayer/Eng) |\n| [Українська](https://t1.daumcdn.net/potplayer/PotPlayer/v4/Update2/UpdateEng.html)  | [Eng](https://rsshub.app/daum/potplayer/Eng) |\n| [РУССКИЙ](https://t1.daumcdn.net/potplayer/PotPlayer/v4/Update2/UpdateRus.html)     | [Eng](https://rsshub.app/daum/potplayer/Rus) |\n| [Polski](https://t1.daumcdn.net/potplayer/PotPlayer/v4/Update2/UpdatePol.html)      | [Eng](https://rsshub.app/daum/potplayer/Pol) |",
+  "description": "::: tip\nTo subscribe to [Potplayer Update History](https://t1.daumcdn.net/potplayer/PotPlayer/v4/Update2/UpdateEng.html), where the source URL is `https://t1.daumcdn.net/potplayer/PotPlayer/v4/Update2/UpdateEng.html`, extract the certain parts from this URL to be used as parameters, resulting in the route as [`/daum/potplayer/Eng`](https://rsshub.app/daum/potplayer/Eng).\n:::\n\n| Language                                                                            | Id                                           |\n| ----------------------------------------------------------------------------------- | -------------------------------------------- |\n| [한국어](https://t1.daumcdn.net/potplayer/PotPlayer/v4/Update2/Update.html)         |                                              |\n| [中文 (简体)](https://t1.daumcdn.net/potplayer/PotPlayer/v4/Update2/UpdateChs.html) | [Chs](https://rsshub.app/daum/potplayer/Chs) |\n| [中文 (繁体)](https://t1.daumcdn.net/potplayer/PotPlayer/v4/Update2/UpdateCht.html) | [Cht](https://rsshub.app/daum/potplayer/Cht) |\n| [ENGLISH](https://t1.daumcdn.net/potplayer/PotPlayer/v4/Update2/UpdateEng.html)     | [Eng](https://rsshub.app/daum/potplayer/Eng) |\n| [РУССКИЙ](https://t1.daumcdn.net/potplayer/PotPlayer/v4/Update2/UpdateRus.html)     | [Rus](https://rsshub.app/daum/potplayer/Rus) |\n| [Polski](https://t1.daumcdn.net/potplayer/PotPlayer/v4/Update2/UpdatePol.html)      | [Pol](https://rsshub.app/daum/potplayer/Pol) |",
   "example": "/daum/potplayer",
   "features": {
     "antiCrawler": false,
@@ -109,7 +136,7 @@ To subscribe to [Potplayer Update History](https://t1.daumcdn.net/potplayer/PotP
   "name": "Potplayer Update History",
   "parameters": {
     "lang": {
-      "description": "Language, Korean by default",
+      "description": "Language, Korean by default; Kor is an alias for the default changelog",
       "options": [
         {
           "label": "한국어",
@@ -128,10 +155,6 @@ To subscribe to [Potplayer Update History](https://t1.daumcdn.net/potplayer/PotP
           "value": "Eng"
         },
         {
-          "label": "Українська",
-          "value": "Eng"
-        },
-        {
           "label": "Русский",
           "value": "Rus"
         },
@@ -147,7 +170,44 @@ To subscribe to [Potplayer Update History](https://t1.daumcdn.net/potplayer/PotP
     {
       "source": [
         "potplayer.daum.net"
-      ]
+      ],
+      "target": "/potplayer",
+      "title": "한국어"
+    },
+    {
+      "source": [
+        "potplayer.daum.net"
+      ],
+      "target": "/potplayer/Chs",
+      "title": "中文(简体)"
+    },
+    {
+      "source": [
+        "potplayer.daum.net"
+      ],
+      "target": "/potplayer/Cht",
+      "title": "中文(繁体)"
+    },
+    {
+      "source": [
+        "potplayer.daum.net"
+      ],
+      "target": "/potplayer/Eng",
+      "title": "English"
+    },
+    {
+      "source": [
+        "potplayer.daum.net"
+      ],
+      "target": "/potplayer/Rus",
+      "title": "Русский"
+    },
+    {
+      "source": [
+        "potplayer.daum.net"
+      ],
+      "target": "/potplayer/Pol",
+      "title": "Polski"
     },
     {
       "source": [
@@ -179,13 +239,6 @@ To subscribe to [Potplayer Update History](https://t1.daumcdn.net/potplayer/PotP
     },
     {
       "source": [
-        "t1.daumcdn.net/potplayer/PotPlayer/v4/Update2/UpdateEng.html"
-      ],
-      "target": "/potplayer/Eng",
-      "title": "Українська"
-    },
-    {
-      "source": [
         "t1.daumcdn.net/potplayer/PotPlayer/v4/Update2/UpdateRus.html"
       ],
       "target": "/potplayer/Rus",
@@ -197,6 +250,14 @@ To subscribe to [Potplayer Update History](https://t1.daumcdn.net/potplayer/PotP
       ],
       "target": "/potplayer/Pol",
       "title": "Polski"
+    },
+    {
+      "source": [
+        "t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup.exe",
+        "t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe"
+      ],
+      "target": "/potplayer",
+      "title": "한국어"
     }
   ],
   "test": {
@@ -232,11 +293,11 @@ To subscribe to [Potplayer Update History](https://t1.daumcdn.net/potplayer/PotP
   "url": "potplayer.daum.net",
   "view": 0,
   "zh": {
-    "description": "::: tip\n若订阅 [Potplayer Update History](https://t1.daumcdn.net/potplayer/PotPlayer/v4/Update2/UpdateChs.html)，网址为 `https://t1.daumcdn.net/potplayer/PotPlayer/v4/Update2/UpdateChs.html`，请截取 `https://t1.daumcdn.net/potplayer/PotPlayer/v4/Update2/Update` 到末尾的部分 `Chs` 作为 `lang` 参数填入，此时目标路由为 [`/daum/potplayer/Chs`](https://rsshub.app/daum/potplayer/Chs)。\n:::\n\n| Language                                                                            | Id                                           |\n| ----------------------------------------------------------------------------------- | -------------------------------------------- |\n| [한국어](https://t1.daumcdn.net/potplayer/PotPlayer/v4/Update2/Update.html)         |                                              |\n| [中文 (简体)](https://t1.daumcdn.net/potplayer/PotPlayer/v4/Update2/UpdateChs.html) | [Chs](https://rsshub.app/daum/potplayer/Chs) |\n| [中文 (繁体)](https://t1.daumcdn.net/potplayer/PotPlayer/v4/Update2/UpdateCht.html) | [Cht](https://rsshub.app/daum/potplayer/Cht) |\n| [ENGLISH](https://t1.daumcdn.net/potplayer/PotPlayer/v4/Update2/UpdateEng.html)     | [Eng](https://rsshub.app/daum/potplayer/Eng) |\n| [Українська](https://t1.daumcdn.net/potplayer/PotPlayer/v4/Update2/UpdateEng.html)  | [Eng](https://rsshub.app/daum/potplayer/Eng) |\n| [РУССКИЙ](https://t1.daumcdn.net/potplayer/PotPlayer/v4/Update2/UpdateRus.html)     | [Eng](https://rsshub.app/daum/potplayer/Rus) |\n| [Polski](https://t1.daumcdn.net/potplayer/PotPlayer/v4/Update2/UpdatePol.html)      | [Eng](https://rsshub.app/daum/potplayer/Pol) |",
+    "description": "::: tip\n若订阅 [Potplayer Update History](https://t1.daumcdn.net/potplayer/PotPlayer/v4/Update2/UpdateChs.html)，网址为 `https://t1.daumcdn.net/potplayer/PotPlayer/v4/Update2/UpdateChs.html`，请截取 `https://t1.daumcdn.net/potplayer/PotPlayer/v4/Update2/Update` 到末尾的部分 `Chs` 作为 `lang` 参数填入，此时目标路由为 [`/daum/potplayer/Chs`](https://rsshub.app/daum/potplayer/Chs)。\n:::\n\n| Language                                                                            | Id                                           |\n| ----------------------------------------------------------------------------------- | -------------------------------------------- |\n| [한국어](https://t1.daumcdn.net/potplayer/PotPlayer/v4/Update2/Update.html)         |                                              |\n| [中文 (简体)](https://t1.daumcdn.net/potplayer/PotPlayer/v4/Update2/UpdateChs.html) | [Chs](https://rsshub.app/daum/potplayer/Chs) |\n| [中文 (繁体)](https://t1.daumcdn.net/potplayer/PotPlayer/v4/Update2/UpdateCht.html) | [Cht](https://rsshub.app/daum/potplayer/Cht) |\n| [ENGLISH](https://t1.daumcdn.net/potplayer/PotPlayer/v4/Update2/UpdateEng.html)     | [Eng](https://rsshub.app/daum/potplayer/Eng) |\n| [РУССКИЙ](https://t1.daumcdn.net/potplayer/PotPlayer/v4/Update2/UpdateRus.html)     | [Rus](https://rsshub.app/daum/potplayer/Rus) |\n| [Polski](https://t1.daumcdn.net/potplayer/PotPlayer/v4/Update2/UpdatePol.html)      | [Pol](https://rsshub.app/daum/potplayer/Pol) |",
     "name": "PotPlayer 版本更新信息",
     "parameters": {
       "lang": {
-        "description": "语言，默认为韩语，可在对应页 URL 中找到",
+        "description": "语言，默认为韩语；Kor 为默认韩语日志的别名，其他语言可在对应页 URL 中找到",
         "options": [
           {
             "label": "한국어",
@@ -252,10 +313,6 @@ To subscribe to [Potplayer Update History](https://t1.daumcdn.net/potplayer/PotP
           },
           {
             "label": "English",
-            "value": "Eng"
-          },
-          {
-            "label": "Українська",
             "value": "Eng"
           },
           {

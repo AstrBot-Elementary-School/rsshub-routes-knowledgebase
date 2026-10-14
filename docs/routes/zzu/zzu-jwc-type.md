@@ -1,4 +1,4 @@
-# 郑州大学 - 郑大教务部
+# 郑州大学 - 教务部
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `zzu`
 - Namespace Name: `郑州大学`
 - Route Path: `/zzu/jwc/:type`
-- Route Name: `郑大教务部`
+- Route Name: `教务部`
 - Example: `/zzu/jwc/xwkd`
 - URL: `www.zzu.edu.cn`
 - Language: `_None_`
@@ -59,7 +59,7 @@
   "maintainers": [
     "amandus1990"
   ],
-  "name": "郑大教务部",
+  "name": "教务部",
   "parameters": {
     "type": "分类名"
   },

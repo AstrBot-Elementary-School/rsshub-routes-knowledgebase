@@ -10,7 +10,7 @@
 
 ## Routes
 
-### 锦天城
+### 专业文章
 - Route ID: `allbrightlaw:/allbrightlaw/`
 - Route Path: `/allbrightlaw/`
 - File: `docs/routes/allbrightlaw/allbrightlaw.md`

@@ -3,9 +3,9 @@
 ## Namespace
 - Namespace: `gushiwen`
 - Display Name: `古诗文网`
-- URL: `www.gushiwen.cn`
+- URL: `www.guwendao.net`
 - Language: `_None_`
-- Aliases: `gushiwen, gushiwen.cn, www, www.gushiwen.cn, 古诗文网`
+- Aliases: `gushiwen, guwendao.net, www, www.guwendao.net, 古诗文网`
 - Route Count: `1`
 
 ## Routes

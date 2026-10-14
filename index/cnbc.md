@@ -3,9 +3,9 @@
 ## Namespace
 - Namespace: `cnbc`
 - Display Name: `CNBC`
-- URL: `search.cnbc.com`
+- URL: `www.cnbc.com`
 - Language: `_None_`
-- Aliases: `cnbc, search, search.cnbc.com`
+- Aliases: `cnbc, cnbc.com, www, www.cnbc.com`
 - Route Count: `1`
 
 ## Routes

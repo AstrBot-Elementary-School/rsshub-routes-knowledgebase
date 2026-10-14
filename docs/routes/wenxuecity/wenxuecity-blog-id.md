@@ -31,6 +31,7 @@ _None_
 - `source`:
   - `blog.wenxuecity.com/myblog/:id`
   - `blog.wenxuecity.com/myoverview/:id`
+  - `blog.wenxuecity.com/myblog/:id/all.html`
 - `target`: `/blog/:id`
 
 ## Raw JSON
@@ -54,7 +55,8 @@ _None_
     {
       "source": [
         "blog.wenxuecity.com/myblog/:id",
-        "blog.wenxuecity.com/myoverview/:id"
+        "blog.wenxuecity.com/myoverview/:id",
+        "blog.wenxuecity.com/myblog/:id/all.html"
       ],
       "target": "/blog/:id"
     }

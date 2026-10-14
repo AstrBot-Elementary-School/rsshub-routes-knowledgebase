@@ -8,7 +8,7 @@
 - Namespace Name: `中国政府网`
 - Route Path: `/gov/cn/news/:uid`
 - Route Name: `政府新闻`
-- Example: `/gov/cn/news/bm`
+- Example: `/gov/cn/news/yw`
 - URL: `www.gov.cn/`
 - Language: `_None_`
 - Categories: `government`
@@ -43,7 +43,7 @@ _None_
     "government"
   ],
   "description": "| 政务部门 | 滚动新闻 | 新闻要闻 | 国务院新闻 | 国务院工作会议 | 政策文件 |\n| :------: | :------: | :------: | :--------: | :------------: | :------: |\n|    bm    |    gd    |    yw    |     gwy    |     gwyzzjg    |  zhengce |",
-  "example": "/gov/cn/news/bm",
+  "example": "/gov/cn/news/yw",
   "features": {
     "antiCrawler": false,
     "requireConfig": false,

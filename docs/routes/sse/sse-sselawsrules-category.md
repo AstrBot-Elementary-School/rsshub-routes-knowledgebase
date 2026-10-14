@@ -72,224 +72,221 @@
 
 ## Radar
 ### Rule 1
-- `source`:
-  - `www.sse.com.cn/lawandrules/sselawsrules/:category`
-### Rule 2
 - `title`: `最新规则`
 - `source`:
   - `www.sse.com.cn/lawandrules/sselawsrules/latest/`
 - `target`: `/sselawsrules/latest`
-### Rule 3
+### Rule 2
 - `title`: `章程`
 - `source`:
   - `www.sse.com.cn/lawandrules/sselawsrules/article/`
 - `target`: `/sselawsrules/article`
-### Rule 4
+### Rule 3
 - `title`: `首发`
 - `source`:
   - `www.sse.com.cn/lawandrules/sselawsrules/stocks/review/firstepisode/`
 - `target`: `/sselawsrules/stocks/review/firstepisode`
-### Rule 5
+### Rule 4
 - `title`: `再融资`
 - `source`:
   - `www.sse.com.cn/lawandrules/sselawsrules/stocks/review/refinancing/`
 - `target`: `/sselawsrules/stocks/review/refinancing`
-### Rule 6
+### Rule 5
 - `title`: `重组`
 - `source`:
   - `www.sse.com.cn/lawandrules/sselawsrules/stocks/review/recombination/`
 - `target`: `/sselawsrules/stocks/review/recombination`
-### Rule 7
+### Rule 6
 - `title`: `转板`
 - `source`:
   - `www.sse.com.cn/lawandrules/sselawsrules/stocks/review/flap/`
 - `target`: `/sselawsrules/stocks/review/flap`
-### Rule 8
+### Rule 7
 - `title`: `发行承销`
 - `source`:
   - `www.sse.com.cn/lawandrules/sselawsrules/stocks/issue/`
 - `target`: `/sselawsrules/stocks/issue`
-### Rule 9
+### Rule 8
 - `title`: `主板上市（挂牌）`
 - `source`:
   - `www.sse.com.cn/lawandrules/sselawsrules/stocks/mainipo/`
 - `target`: `/sselawsrules/stocks/mainipo`
-### Rule 10
+### Rule 9
 - `title`: `科创板上市（挂牌）`
 - `source`:
   - `www.sse.com.cn/lawandrules/sselawsrules/stocks/staripo/`
 - `target`: `/sselawsrules/stocks/staripo`
-### Rule 11
+### Rule 10
 - `title`: `股票交易`
 - `source`:
   - `www.sse.com.cn/lawandrules/sselawsrules/stocks/exchange/`
 - `target`: `/sselawsrules/stocks/exchange`
-### Rule 12
+### Rule 11
 - `title`: `试点创新企业`
 - `source`:
   - `www.sse.com.cn/lawandrules/sselawsrules/stocks/innovative/`
 - `target`: `/sselawsrules/stocks/innovative`
-### Rule 13
+### Rule 12
 - `title`: `股权分置改革`
 - `source`:
   - `www.sse.com.cn/lawandrules/sselawsrules/stocks/reform/`
 - `target`: `/sselawsrules/stocks/reform`
-### Rule 14
+### Rule 13
 - `title`: `发行上市审核`
 - `source`:
   - `www.sse.com.cn/lawandrules/sselawsrules/bond/review/`
 - `target`: `/sselawsrules/bond/review`
-### Rule 15
+### Rule 14
 - `title`: `发行承销`
 - `source`:
   - `www.sse.com.cn/lawandrules/sselawsrules/bond/issue/`
 - `target`: `/sselawsrules/bond/issue`
-### Rule 16
+### Rule 15
 - `title`: `公司债券上市（挂牌）`
 - `source`:
   - `www.sse.com.cn/lawandrules/sselawsrules/bond/listing/corporatebond/`
 - `target`: `/sselawsrules/bond/listing/corporatebond`
-### Rule 17
+### Rule 16
 - `title`: `资产支持证券上市（挂牌）`
 - `source`:
   - `www.sse.com.cn/lawandrules/sselawsrules/bond/listing/assets/`
 - `target`: `/sselawsrules/bond/listing/assets`
-### Rule 18
+### Rule 17
 - `title`: `债券交易通用`
 - `source`:
   - `www.sse.com.cn/lawandrules/sselawsrules/bond/trading/currency/`
 - `target`: `/sselawsrules/bond/trading/currency`
-### Rule 19
+### Rule 18
 - `title`: `国债预发行`
 - `source`:
   - `www.sse.com.cn/lawandrules/sselawsrules/bond/trading/tbondp/`
 - `target`: `/sselawsrules/bond/trading/tbondp`
-### Rule 20
+### Rule 19
 - `title`: `债券质押式三方回购`
 - `source`:
   - `www.sse.com.cn/lawandrules/sselawsrules/bond/trading/tripartyrepo/`
 - `target`: `/sselawsrules/bond/trading/tripartyrepo`
-### Rule 21
+### Rule 20
 - `title`: `债券质押式协议回购`
 - `source`:
   - `www.sse.com.cn/lawandrules/sselawsrules/bond/trading/repurchase/`
 - `target`: `/sselawsrules/bond/trading/repurchase`
-### Rule 22
+### Rule 21
 - `title`: `国债买断式回购交易`
 - `source`:
   - `www.sse.com.cn/lawandrules/sselawsrules/bond/trading/outrightrepo/`
 - `target`: `/sselawsrules/bond/trading/outrightrepo`
-### Rule 23
+### Rule 22
 - `title`: `信用保护工具`
 - `source`:
   - `www.sse.com.cn/lawandrules/sselawsrules/bond/trading/cdx/`
 - `target`: `/sselawsrules/bond/trading/cdx`
-### Rule 24
+### Rule 23
 - `title`: `上市公司可转债`
 - `source`:
   - `www.sse.com.cn/lawandrules/sselawsrules/bond/convertible/`
 - `target`: `/sselawsrules/bond/convertible`
-### Rule 25
+### Rule 24
 - `title`: `基金上市`
 - `source`:
   - `www.sse.com.cn/lawandrules/sselawsrules/fund/listing/`
 - `target`: `/sselawsrules/fund/listing`
-### Rule 26
+### Rule 25
 - `title`: `基金交易`
 - `source`:
   - `www.sse.com.cn/lawandrules/sselawsrules/fund/trading/`
 - `target`: `/sselawsrules/fund/trading`
-### Rule 27
+### Rule 26
 - `title`: `基础设施公募REITs`
 - `source`:
   - `www.sse.com.cn/lawandrules/sselawsrules/reits/`
 - `target`: `/sselawsrules/reits`
-### Rule 28
+### Rule 27
 - `title`: `期权`
 - `source`:
   - `www.sse.com.cn/lawandrules/sselawsrules/option/`
 - `target`: `/sselawsrules/option`
-### Rule 29
+### Rule 28
 - `title`: `通用类`
 - `source`:
   - `www.sse.com.cn/lawandrules/sselawsrules/trade/universal/`
 - `target`: `/sselawsrules/trade/universal`
-### Rule 30
+### Rule 29
 - `title`: `融资融券`
 - `source`:
   - `www.sse.com.cn/lawandrules/sselawsrules/trade/specific/margin/`
 - `target`: `/sselawsrules/trade/specific/margin`
-### Rule 31
+### Rule 30
 - `title`: `转融通`
 - `source`:
   - `www.sse.com.cn/lawandrules/sselawsrules/trade/specific/refinancing/`
 - `target`: `/sselawsrules/trade/specific/refinancing`
-### Rule 32
+### Rule 31
 - `title`: `质押式回购`
 - `source`:
   - `www.sse.com.cn/lawandrules/sselawsrules/trade/specific/repo/`
 - `target`: `/sselawsrules/trade/specific/repo`
-### Rule 33
+### Rule 32
 - `title`: `质押式报价回购`
 - `source`:
   - `www.sse.com.cn/lawandrules/sselawsrules/trade/specific/pricerepo/`
 - `target`: `/sselawsrules/trade/specific/pricerepo`
-### Rule 34
+### Rule 33
 - `title`: `约定购回`
 - `source`:
   - `www.sse.com.cn/lawandrules/sselawsrules/trade/specific/promise/`
 - `target`: `/sselawsrules/trade/specific/promise`
-### Rule 35
+### Rule 34
 - `title`: `协议转让`
 - `source`:
   - `www.sse.com.cn/lawandrules/sselawsrules/trade/specific/xyzr/`
 - `target`: `/sselawsrules/trade/specific/xyzr`
-### Rule 36
+### Rule 35
 - `title`: `其他`
 - `source`:
   - `www.sse.com.cn/lawandrules/sselawsrules/trade/specific/others/`
 - `target`: `/sselawsrules/trade/specific/others`
-### Rule 37
+### Rule 36
 - `title`: `沪港通`
 - `source`:
   - `www.sse.com.cn/lawandrules/sselawsrules/global/hkexsc/`
 - `target`: `/sselawsrules/global/hkexsc`
-### Rule 38
+### Rule 37
 - `title`: `互联互通存托凭证`
 - `source`:
   - `www.sse.com.cn/lawandrules/sselawsrules/global/slsc/`
 - `target`: `/sselawsrules/global/slsc`
-### Rule 39
+### Rule 38
 - `title`: `会员管理`
 - `source`:
   - `www.sse.com.cn/lawandrules/sselawsrules/member/personnel/`
 - `target`: `/sselawsrules/member/personnel`
-### Rule 40
+### Rule 39
 - `title`: `适当性管理`
 - `source`:
   - `www.sse.com.cn/lawandrules/sselawsrules/member/adequacy/`
 - `target`: `/sselawsrules/member/adequacy`
-### Rule 41
+### Rule 40
 - `title`: `纪律处分与复核`
 - `source`:
   - `www.sse.com.cn/lawandrules/sselawsrules/disciplinary/`
 - `target`: `/sselawsrules/disciplinary`
-### Rule 42
+### Rule 41
 - `title`: `交易收费`
 - `source`:
   - `www.sse.com.cn/lawandrules/sselawsrules/charge/`
 - `target`: `/sselawsrules/charge`
-### Rule 43
+### Rule 42
 - `title`: `其他业务规则`
 - `source`:
   - `www.sse.com.cn/lawandrules/sselawsrules/other/`
 - `target`: `/sselawsrules/other`
-### Rule 44
+### Rule 43
 - `title`: `业务规则废止公告`
 - `source`:
   - `www.sse.com.cn/lawandrules/sserules/repeal/announcement/`
 - `target`: `/sselawsrules//lawandrules/sserules/repeal/announcement`
-### Rule 45
+### Rule 44
 - `title`: `已废止规则文本`
 - `source`:
   - `www.sse.com.cn/lawandrules/sselawsrules/repeal/rules/`
@@ -323,11 +320,6 @@
   },
   "path": "/sselawsrules/:category{.+}?",
   "radar": [
-    {
-      "source": [
-        "www.sse.com.cn/lawandrules/sselawsrules/:category"
-      ]
-    },
     {
       "source": [
         "www.sse.com.cn/lawandrules/sselawsrules/latest/"
@@ -642,18 +634,6 @@
   },
   "topFeeds": [
     {
-      "description": "股票交易 | 上海证券交易所 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "72506899888155648",
-      "image": "https://www.sse.com.cn/undefined",
-      "ownerUserId": null,
-      "siteUrl": "https://www.sse.com.cn/lawandrules/sselawsrules/stocks/exchange",
-      "title": "股票交易 | 上海证券交易所",
-      "type": "feed",
-      "url": "rsshub://sse/sselawsrules/stocks/exchange"
-    },
-    {
       "description": "最新规则 | 上海证券交易所 - Powered by RSSHub",
       "errorAt": "2026-10-10T13:15:53.026Z",
       "errorMessage": "[GET] \"https://www.sse.com.cn/lawandrules/sselawsrules/latest\": 403 Forbidden\n",
@@ -664,6 +644,18 @@
       "title": "最新规则 | 上海证券交易所",
       "type": "feed",
       "url": "rsshub://sse/sselawsrules/latest"
+    },
+    {
+      "description": "股票交易 | 上海证券交易所 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "72506899888155648",
+      "image": "https://www.sse.com.cn/undefined",
+      "ownerUserId": null,
+      "siteUrl": "https://www.sse.com.cn/lawandrules/sselawsrules/stocks/exchange",
+      "title": "股票交易 | 上海证券交易所",
+      "type": "feed",
+      "url": "rsshub://sse/sselawsrules/stocks/exchange"
     }
   ],
   "url": "www.sse.com.cn"

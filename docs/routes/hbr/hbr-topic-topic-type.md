@@ -8,7 +8,7 @@
 - Namespace Name: `Harvard Business Review`
 - Route Path: `/hbr/topic/:topic?/:type?`
 - Route Name: `Topic`
-- Example: `/hbr/topic/Leadership/Popular`
+- Example: `/hbr/topic/Leadership/From%20the%20Store`
 - URL: `hbr.org`
 - Language: `_None_`
 - Categories: `new-media`
@@ -17,9 +17,7 @@
 - Source Module: `_None_`
 
 ## Description
-| POPULAR | FROM THE STORE | FOR YOU |
-| ------- | -------------- | ------- |
-| Popular | From the Store | For You |
+HBR currently provides public product summaries for `From the Store`. The former `Popular` and `For You` topic streams are no longer published.
 
 ::: tip
 Click here to view [All Topics](https://hbr.org/topics)
@@ -50,8 +48,8 @@ Click here to view [All Topics](https://hbr.org/topics)
   "categories": [
     "new-media"
   ],
-  "description": "| POPULAR | FROM THE STORE | FOR YOU |\n| ------- | -------------- | ------- |\n| Popular | From the Store | For You |\n\n::: tip\nClick here to view [All Topics](https://hbr.org/topics)\n:::",
-  "example": "/hbr/topic/Leadership/Popular",
+  "description": "HBR currently provides public product summaries for `From the Store`. The former `Popular` and `For You` topic streams are no longer published.\n\n::: tip\nClick here to view [All Topics](https://hbr.org/topics)\n:::",
+  "example": "/hbr/topic/Leadership/From%20the%20Store",
   "features": {
     "antiCrawler": false,
     "requireConfig": false,

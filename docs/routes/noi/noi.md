@@ -24,7 +24,7 @@ _None_
 
 
 ## Features
-_None_
+- `requirePuppeteer`: true
 
 ## Radar
 _None_
@@ -36,6 +36,9 @@ _None_
     "other"
   ],
   "example": "/noi",
+  "features": {
+    "requirePuppeteer": true
+  },
   "heat": 0,
   "location": "index.ts",
   "maintainers": [

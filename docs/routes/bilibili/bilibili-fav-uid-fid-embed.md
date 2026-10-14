@@ -68,16 +68,16 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "观海聽风声 的 bilibili 收藏夹 账号已注销 - Powered by RSSHub",
+      "description": "孤傲翼赤 的 bilibili 收藏夹 study - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "95590701963720704",
+      "id": "88261600988160000",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://space.bilibili.com/546711979/#/favlist?fid=3207327118",
-      "title": "观海聽风声 的 bilibili 收藏夹 账号已注销",
+      "siteUrl": "https://space.bilibili.com/155932898/#/favlist?fid=2244297198",
+      "title": "孤傲翼赤 的 bilibili 收藏夹 study",
       "type": "feed",
-      "url": "rsshub://bilibili/fav/546711979/3207327118"
+      "url": "rsshub://bilibili/fav/155932898/2244297198"
     },
     {
       "description": "观海聽风声 的 bilibili 收藏夹 二次元 - Powered by RSSHub",

@@ -3,9 +3,9 @@
 ## Namespace
 - Namespace: `cugb`
 - Display Name: `China University of Geosciences (Beijing)`
-- URL: `cugb.edu.cn`
+- URL: `www.cugb.edu.cn`
 - Language: `_None_`
-- Aliases: `china university of geosciences (beijing), cugb, cugb.edu.cn`
+- Aliases: `china university of geosciences (beijing), cugb, cugb.edu.cn, www, www.cugb.edu.cn`
 - Route Count: `2`
 
 ## Routes

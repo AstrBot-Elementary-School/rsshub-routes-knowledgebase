@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 21,
+  "heat": 22,
   "location": "kindle-software-updates.tsx",
   "maintainers": [
     "IvanWng97"

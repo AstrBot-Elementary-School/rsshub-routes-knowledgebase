@@ -17,7 +17,7 @@
 - Source Module: `_None_`
 
 ## Description
-Exhibitions come with artist, year, type and status as categories and the full exhibition page including all images.
+Exhibitions come with artist, year, type and status as categories and the full exhibition page including all images. The source supports at most 100 entries on its first API page.
 
 ## Parameters
 - `type`: `exhibitions` (default) or `posts` (the Conversations blog)
@@ -48,7 +48,7 @@ Exhibitions come with artist, year, type and status as categories and the full e
   "categories": [
     "picture"
   ],
-  "description": "Exhibitions come with artist, year, type and status as categories and the full exhibition page including all images.",
+  "description": "Exhibitions come with artist, year, type and status as categories and the full exhibition page including all images. The source supports at most 100 entries on its first API page.",
   "example": "/fraenkelgallery/exhibitions",
   "features": {
     "antiCrawler": false,

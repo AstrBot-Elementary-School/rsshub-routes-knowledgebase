@@ -24,7 +24,7 @@ _None_
 
 
 ## Features
-- `requireConfig`: [{"description": "", "name": "XSIJISHE_COOKIE"}]
+- `requireConfig`: false
 - `requirePuppeteer`: false
 - `antiCrawler`: true
 - `supportBT`: false
@@ -46,12 +46,7 @@ _None_
   "features": {
     "antiCrawler": true,
     "nsfw": true,
-    "requireConfig": [
-      {
-        "description": "",
-        "name": "XSIJISHE_COOKIE"
-      }
-    ],
+    "requireConfig": false,
     "requirePuppeteer": false,
     "supportBT": false,
     "supportPodcast": false,

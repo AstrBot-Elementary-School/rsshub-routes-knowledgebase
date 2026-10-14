@@ -1,4 +1,4 @@
-# 印记中文 - 周刊 - JavaScript
+# 印记中文 - 周刊
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `docschina`
 - Namespace Name: `印记中文`
 - Route Path: `/docschina/weekly/:category?`
-- Route Name: `周刊 - JavaScript`
+- Route Name: `周刊`
 - Example: `/docschina/weekly`
 - URL: `docschina.org`
 - Language: `_None_`
@@ -31,10 +31,13 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `docschina.org/news/weekly/js/*`
-  - `docschina.org/news/weekly/js`
+  - `docschina.org/news/weekly/:category/:issue`
+  - `docschina.org/news/weekly/:category`
+- `target`: `/weekly/:category`
+### Rule 2
+- `source`:
   - `docschina.org/`
-- `target`: `/jsweekly`
+- `target`: `/weekly`
 
 ## Raw JSON
 ```json
@@ -50,7 +53,7 @@ _None_
     "daijinru",
     "hestudy"
   ],
-  "name": "周刊 - JavaScript",
+  "name": "周刊",
   "parameters": {
     "category": "周刊分类，见下表，默认为js"
   },
@@ -58,11 +61,16 @@ _None_
   "radar": [
     {
       "source": [
-        "docschina.org/news/weekly/js/*",
-        "docschina.org/news/weekly/js",
+        "docschina.org/news/weekly/:category/:issue",
+        "docschina.org/news/weekly/:category"
+      ],
+      "target": "/weekly/:category"
+    },
+    {
+      "source": [
         "docschina.org/"
       ],
-      "target": "/jsweekly"
+      "target": "/weekly"
     }
   ],
   "test": {

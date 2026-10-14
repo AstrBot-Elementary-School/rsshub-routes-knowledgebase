@@ -10,7 +10,7 @@
 
 ## Routes
 
-### 豆瓣读书论坛
+### 读书论坛
 - Route ID: `douban:/douban/:id/discussion`
 - Route Path: `/douban/:id/discussion`
 - File: `docs/routes/douban/douban-id-discussion.md`
@@ -34,7 +34,7 @@
 - Categories: `social-media`
 - Maintainers: `xyqfer, queensferryme`
 
-### 豆瓣书店
+### 书店
 - Route ID: `douban:/douban/bookstore`
 - Route Path: `/douban/bookstore`
 - File: `docs/routes/douban/douban-bookstore.md`
@@ -42,7 +42,7 @@
 - Categories: `social-media`
 - Maintainers: `xyqfer`
 
-### 豆瓣电影人
+### 电影人
 - Route ID: `douban:/douban/celebrity/:id/:sort?`
 - Route Path: `/douban/celebrity/:id/:sort?`
 - File: `docs/routes/douban/douban-celebrity-id-sort.md`
@@ -74,7 +74,7 @@
 - Categories: `social-media`
 - Maintainers: `xyqfer`
 
-### 豆瓣豆列
+### 豆列
 - Route ID: `douban:/douban/doulist/:id`
 - Route Path: `/douban/doulist/:id`
 - File: `docs/routes/douban/douban-doulist-id.md`
@@ -106,7 +106,7 @@
 - Categories: `social-media`
 - Maintainers: `LogicJake`
 
-### 豆瓣小组
+### 小组
 - Route ID: `douban:/douban/group/:groupid/:type?`
 - Route Path: `/douban/group/:groupid/:type?`
 - File: `docs/routes/douban/douban-group-groupid-type.md`
@@ -122,7 +122,7 @@
 - Categories: `social-media`
 - Maintainers: `DIYgod`
 
-### 豆瓣招聘
+### 招聘
 - Route ID: `douban:/douban/jobs/:type`
 - Route Path: `/douban/jobs/:type`
 - File: `docs/routes/douban/douban-jobs-type.md`
@@ -130,7 +130,7 @@
 - Categories: `social-media`
 - Maintainers: `Fatpandac`
 
-### 豆瓣榜单与集合
+### 榜单与集合
 - Route ID: `douban:/douban/list/:type?/:routeParams?`
 - Route Path: `/douban/list/:type?/:routeParams?`
 - File: `docs/routes/douban/douban-list-type-routeparams.md`
@@ -138,7 +138,7 @@
 - Categories: `social-media, popular`
 - Maintainers: `5upernova-heng, honue`
 
-### 豆瓣电影分类
+### 电影分类
 - Route ID: `douban:/douban/movie/classification/:sort?/:score?/:tags?`
 - Route Path: `/douban/movie/classification/:sort?/:score?/:tags?`
 - File: `docs/routes/douban/douban-movie-classification-sort-score-tags.md`
@@ -184,7 +184,7 @@
 - File: `docs/routes/douban/douban-movie-weekly-type.md`
 - File Name: `douban-movie-weekly-type.md`
 - Categories: `social-media`
-- Maintainers: `numm233, nczitzk`
+- Maintainers: `umm233, nczitzk`
 
 ### 最新增加的音乐
 - Route ID: `douban:/douban/music/latest/:area?`
@@ -210,7 +210,7 @@
 - Categories: `social-media`
 - Maintainers: `exherb`
 
-### 豆瓣每月推荐片单
+### 每月推荐片单
 - Route ID: `douban:/douban/recommended/:type?/:routeParams?`
 - Route Path: `/douban/recommended/:type?/:routeParams?`
 - File: `docs/routes/douban/douban-recommended-type-routeparams.md`

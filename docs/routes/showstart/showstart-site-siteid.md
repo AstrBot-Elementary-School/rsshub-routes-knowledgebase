@@ -38,7 +38,7 @@
 ## Radar
 ### Rule 1
 - `source`:
-  - `www.showstart.com/venue/:id`
+  - `www.showstart.com/venue/:siteId`
 
 ## Raw JSON
 ```json
@@ -69,7 +69,7 @@
   "radar": [
     {
       "source": [
-        "www.showstart.com/venue/:id"
+        "www.showstart.com/venue/:siteId"
       ]
     }
   ],

@@ -10,7 +10,7 @@
 
 ## Routes
 
-### 中华人民共和国国家发展和改革委员会价格监测中心
+### 通用
 - Route ID: `gov/jgjcndrc:/gov/jgjcndrc/:columnId?/:subColumnId?`
 - Route Path: `/gov/jgjcndrc/:columnId?/:subColumnId?`
 - File: `docs/routes/gov-jgjcndrc/gov-jgjcndrc-columnid-subcolumnid.md`

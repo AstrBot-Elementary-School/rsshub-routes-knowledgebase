@@ -8,7 +8,7 @@
 - Namespace Name: `钛媒体`
 - Route Path: `/tmtpost/nictation`
 - Route Name: `快报`
-- Example: `/tmtpost/word`
+- Example: `/tmtpost/nictation`
 - URL: `www.tmtpost.com/nictation`
 - Language: `_None_`
 - Categories: `new-media`
@@ -42,7 +42,7 @@ _None_
   "categories": [
     "new-media"
   ],
-  "example": "/tmtpost/word",
+  "example": "/tmtpost/nictation",
   "features": {
     "antiCrawler": false,
     "requireConfig": false,

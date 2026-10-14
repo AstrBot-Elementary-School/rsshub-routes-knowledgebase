@@ -10,7 +10,7 @@
 
 ## Routes
 
-### HKEPC 电脑领域
+### 电脑领域
 - Route ID: `hkepc:/hkepc/:category?`
 - Route Path: `/hkepc/:category?`
 - File: `docs/routes/hkepc/hkepc-category.md`

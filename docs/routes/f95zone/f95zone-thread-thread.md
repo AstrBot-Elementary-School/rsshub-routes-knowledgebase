@@ -17,7 +17,7 @@
 - Source Module: `_None_`
 
 ## Description
-Track replies in a thread. Fetches the first page and the last page.
+Track replies on the first page of a thread.
 
 URL format: `https://f95zone.to/threads/{thread}/` → use `{thread}` as the parameter.
 
@@ -50,7 +50,7 @@ Note: If you want to track a specific post's content changes (e.g., first post w
   "categories": [
     "game"
   ],
-  "description": "Track replies in a thread. Fetches the first page and the last page.\n\nURL format: `https://f95zone.to/threads/{thread}/` → use `{thread}` as the parameter.\n\nExample: `https://f95zone.to/threads/ubermation-collection-2026-01-19-uebermation-uebermation.231247/` → `/f95zone/thread/ubermation-collection-2026-01-19-uebermation-uebermation.231247`\n\nNote: If you want to track a specific post's content changes (e.g., first post with download links), use the `/f95zone/post` route instead.",
+  "description": "Track replies on the first page of a thread.\n\nURL format: `https://f95zone.to/threads/{thread}/` → use `{thread}` as the parameter.\n\nExample: `https://f95zone.to/threads/ubermation-collection-2026-01-19-uebermation-uebermation.231247/` → `/f95zone/thread/ubermation-collection-2026-01-19-uebermation-uebermation.231247`\n\nNote: If you want to track a specific post's content changes (e.g., first post with download links), use the `/f95zone/post` route instead.",
   "example": "/f95zone/thread/ubermation-collection-2026-01-19-uebermation-uebermation.231247",
   "features": {
     "antiCrawler": false,
@@ -90,28 +90,28 @@ Note: If you want to track a specific post's content changes (e.g., first post w
   },
   "topFeeds": [
     {
-      "description": "[F95zone] Collection GIF Video theobrobine Collection [2026-06-24] [THEOBROBINE/theobrobine/ておぶろびん] - Powered by RSSHub",
+      "description": "[F95zone] Collection Video RDreamer Collection [2025-07-05] [RDreamer] - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "250446303116526592",
+      "id": "250523197875333120",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://f95zone.to/threads/theobrobine-collection-2025-12-28-theobrobine-theobrobine-teoburobin.93491/",
-      "title": "[F95zone] Collection GIF Video theobrobine Collection [2026-06-24] [THEOBROBINE/theobrobine/ておぶろびん]",
+      "siteUrl": "https://f95zone.to/threads/rdreamer-collection-2025-07-05-rdreamer.253184/",
+      "title": "[F95zone] Collection Video RDreamer Collection [2025-07-05] [RDreamer]",
       "type": "feed",
-      "url": "rsshub://f95zone/thread/theobrobine-collection-2025-12-28-theobrobine-theobrobine-teoburobin.93491"
+      "url": "rsshub://f95zone/thread/rdreamer-collection-2025-07-05-rdreamer.253184"
     },
     {
-      "description": "[F95zone] Collection Video Nagoonimation Collection [2026-05-05] [Nagoonimation] - Powered by RSSHub",
+      "description": "[F95zone] Collection Video Bamh3D Collection [2026-07-05] [Bamhor] - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "250522648576132096",
+      "id": "243703275624360960",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://f95zone.to/threads/nagoonimation-collection-2025-11-14-nagoonimation.52702/",
-      "title": "[F95zone] Collection Video Nagoonimation Collection [2026-05-05] [Nagoonimation]",
+      "siteUrl": "https://f95zone.to/threads/bamh3d-collection-2026-01-04-bamhor.181609/",
+      "title": "[F95zone] Collection Video Bamh3D Collection [2026-07-05] [Bamhor]",
       "type": "feed",
-      "url": "rsshub://f95zone/thread/nagoonimation-collection-2025-11-14-nagoonimation.52702"
+      "url": "rsshub://f95zone/thread/bamh3d-collection-2026-01-04-bamhor.181609"
     }
   ]
 }

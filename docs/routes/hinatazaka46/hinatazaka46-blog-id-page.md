@@ -1,13 +1,13 @@
-# Sakamichi Series 坂道系列官网资讯 - Hinatazaka46 Blog 日向坂 46 博客
+# 日向坂46 - 博客
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `hinatazaka46`
-- Namespace Name: `Sakamichi Series 坂道系列官网资讯`
+- Namespace Name: `日向坂46`
 - Route Path: `/hinatazaka46/blog/:id?/:page?`
-- Route Name: `Hinatazaka46 Blog 日向坂 46 博客`
+- Route Name: `博客`
 - Example: `/hinatazaka46/blog`
 - URL: `hinatazaka46.com`
 - Language: `_None_`
@@ -57,7 +57,7 @@ Member ID
 
 ## Parameters
 - `id`: Member ID, see below, `all` by default
-- `page`: Page, `0` by default
+- `page`: Only the first page (`0`) is supported; omit this parameter or use `0`
 
 
 ## Features
@@ -93,10 +93,10 @@ _None_
     "yj-qin",
     "AkashiGakki"
   ],
-  "name": "Hinatazaka46 Blog 日向坂 46 博客",
+  "name": "博客",
   "parameters": {
     "id": "Member ID, see below, `all` by default",
-    "page": "Page, `0` by default"
+    "page": "Only the first page (`0`) is supported; omit this parameter or use `0`"
   },
   "path": "/blog/:id?/:page?",
   "test": {

@@ -33,9 +33,16 @@ _None_
 
 ## Radar
 ### Rule 1
+- `title`: `政策解读`
 - `source`:
-  - `moa.gov.cn/`
-- `target`: `/suburl/:suburl`
+  - `www.moa.gov.cn/gk/zcjd/`
+  - `www.moa.gov.cn/`
+- `target`: `/suburl/gk/zcjd/`
+### Rule 2
+- `title`: `农业农村部动态`
+- `source`:
+  - `www.moa.gov.cn/xw/zwdt/`
+- `target`: `/suburl/xw/zwdt/`
 
 ## Raw JSON
 ```json
@@ -59,9 +66,18 @@ _None_
   "radar": [
     {
       "source": [
-        "moa.gov.cn/"
+        "www.moa.gov.cn/gk/zcjd/",
+        "www.moa.gov.cn/"
       ],
-      "target": "/suburl/:suburl"
+      "target": "/suburl/gk/zcjd/",
+      "title": "政策解读"
+    },
+    {
+      "source": [
+        "www.moa.gov.cn/xw/zwdt/"
+      ],
+      "target": "/suburl/xw/zwdt/",
+      "title": "农业农村部动态"
     }
   ],
   "test": {

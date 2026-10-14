@@ -82,8 +82,10 @@
 
 ## Radar
 ### Rule 1
+- `title`: `新闻发布`
 - `source`:
-  - `www.lswz.gov.cn/:category?`
+  - `www.lswz.gov.cn/`
+- `target`: `/html/xinwen/index`
 ### Rule 2
 - `title`: `新闻发布`
 - `source`:
@@ -245,8 +247,10 @@
   "radar": [
     {
       "source": [
-        "www.lswz.gov.cn/:category?"
-      ]
+        "www.lswz.gov.cn/"
+      ],
+      "target": "/html/xinwen/index",
+      "title": "新闻发布"
     },
     {
       "source": [

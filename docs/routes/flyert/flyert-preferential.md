@@ -9,7 +9,7 @@
 - Route Path: `/flyert/preferential`
 - Route Name: `优惠信息`
 - Example: `/flyert/preferential`
-- URL: `flyert.com/`
+- URL: `www.flyert.com.cn/`
 - Language: `_None_`
 - Categories: `travel`
 - Maintainers: `howel52`
@@ -84,6 +84,6 @@ _None_
       "url": "rsshub://flyert/preferential"
     }
   ],
-  "url": "flyert.com/"
+  "url": "www.flyert.com.cn/"
 }
 ```

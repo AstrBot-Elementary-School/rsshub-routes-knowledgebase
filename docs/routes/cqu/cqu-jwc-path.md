@@ -20,12 +20,12 @@
 _None_
 
 ## Parameters
-- `path`: {"default": "index/tzgg", "description": "路径参数，默认为 `index/tzgg`"}
+- `path`: {"default": "index/tzgg", "description": "路径参数，默认为 `index/tzgg`，也支持官网的 `index/tzgg.htm` 路径"}
 
 
 ## Features
 - `requireConfig`: false
-- `requirePuppeteer`: false
+- `requirePuppeteer`: true
 - `antiCrawler`: true
 - `supportBT`: false
 - `supportPodcast`: false
@@ -34,8 +34,8 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `jwc.cqu.edu.cn/:path`
-- `target`: `/jwc/:path`
+  - `jwc.cqu.edu.cn/index/:filename`
+- `target`: `/jwc/index/:filename`
 
 ## Raw JSON
 ```json
@@ -47,7 +47,7 @@ _None_
   "features": {
     "antiCrawler": true,
     "requireConfig": false,
-    "requirePuppeteer": false,
+    "requirePuppeteer": true,
     "supportBT": false,
     "supportPodcast": false,
     "supportScihub": false
@@ -63,16 +63,16 @@ _None_
   "parameters": {
     "path": {
       "default": "index/tzgg",
-      "description": "路径参数，默认为 `index/tzgg`"
+      "description": "路径参数，默认为 `index/tzgg`，也支持官网的 `index/tzgg.htm` 路径"
     }
   },
   "path": "/jwc/:path{.+}?",
   "radar": [
     {
       "source": [
-        "jwc.cqu.edu.cn/:path"
+        "jwc.cqu.edu.cn/index/:filename"
       ],
-      "target": "/jwc/:path"
+      "target": "/jwc/index/:filename"
     }
   ],
   "test": {

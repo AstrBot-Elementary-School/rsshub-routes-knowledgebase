@@ -1,4 +1,4 @@
-# PlayStation Store - PlayStation Network user trophy
+# PlayStation Store - Network user trophy
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `ps`
 - Namespace Name: `PlayStation Store`
 - Route Path: `/ps/trophy/:id`
-- Route Name: `PlayStation Network user trophy`
+- Route Name: `Network user trophy`
 - Example: `/ps/trophy/DIYgod_`
 - URL: `www.playstation.com`
 - Language: `_None_`
@@ -54,7 +54,7 @@ _None_
   "maintainers": [
     "DIYgod"
   ],
-  "name": "PlayStation Network user trophy",
+  "name": "Network user trophy",
   "parameters": {
     "id": "User ID"
   },

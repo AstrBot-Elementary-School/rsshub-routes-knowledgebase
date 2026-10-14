@@ -35,7 +35,7 @@ _None_
 ### Rule 1
 - `source`:
   - `jwc.cnu.edu.cn/tzgg/index.htm`
-- `target`: `/cnu/jwc`
+- `target`: `/jwc`
 
 ## Raw JSON
 ```json
@@ -65,7 +65,7 @@ _None_
       "source": [
         "jwc.cnu.edu.cn/tzgg/index.htm"
       ],
-      "target": "/cnu/jwc"
+      "target": "/jwc"
     }
   ],
   "test": {

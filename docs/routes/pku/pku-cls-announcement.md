@@ -9,7 +9,7 @@
 - Route Path: `/pku/cls/announcement`
 - Route Name: `生命科学学院通知公告`
 - Example: `/pku/cls/announcement`
-- URL: `bio.pku.edu.cn/homes/Index/news/21/21.html`
+- URL: `www.bio.pku.edu.cn/homes/Index/news/21/21.html`
 - Language: `_None_`
 - Categories: `university`
 - Maintainers: `william-swl`
@@ -34,8 +34,8 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `bio.pku.edu.cn/homes/Index/news/21/21.html`
-  - `bio.pku.edu.cn/`
+  - `www.bio.pku.edu.cn/homes/Index/news/21/21.html`
+  - `www.bio.pku.edu.cn/`
 
 ## Raw JSON
 ```json
@@ -63,8 +63,8 @@ _None_
   "radar": [
     {
       "source": [
-        "bio.pku.edu.cn/homes/Index/news/21/21.html",
-        "bio.pku.edu.cn/"
+        "www.bio.pku.edu.cn/homes/Index/news/21/21.html",
+        "www.bio.pku.edu.cn/"
       ]
     }
   ],
@@ -72,6 +72,6 @@ _None_
     "code": 1
   },
   "topFeeds": [],
-  "url": "bio.pku.edu.cn/homes/Index/news/21/21.html"
+  "url": "www.bio.pku.edu.cn/homes/Index/news/21/21.html"
 }
 ```

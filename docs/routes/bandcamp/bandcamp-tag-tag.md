@@ -13,14 +13,14 @@
 - Language: `_None_`
 - Categories: `multimedia`
 - Maintainers: `nczitzk`
-- Source Location: `tag.ts`
+- Source Location: `tag.tsx`
 - Source Module: `_None_`
 
 ## Description
 _None_
 
 ## Parameters
-- `tag`: Tag, can be found in URL
+- `tag`: Tag, can be found in URL. All music by default.
 
 
 ## Features
@@ -35,7 +35,12 @@ _None_
 ### Rule 1
 - `source`:
   - `bandcamp.com/tag/:tag`
+  - `bandcamp.com/discover/:tag`
 - `target`: `/tag/:tag`
+### Rule 2
+- `source`:
+  - `bandcamp.com/discover`
+- `target`: `/tag`
 
 ## Raw JSON
 ```json
@@ -53,21 +58,28 @@ _None_
     "supportScihub": false
   },
   "heat": 0,
-  "location": "tag.ts",
+  "location": "tag.tsx",
   "maintainers": [
     "nczitzk"
   ],
   "name": "Tag",
   "parameters": {
-    "tag": "Tag, can be found in URL"
+    "tag": "Tag, can be found in URL. All music by default."
   },
   "path": "/tag/:tag?",
   "radar": [
     {
       "source": [
-        "bandcamp.com/tag/:tag"
+        "bandcamp.com/tag/:tag",
+        "bandcamp.com/discover/:tag"
       ],
       "target": "/tag/:tag"
+    },
+    {
+      "source": [
+        "bandcamp.com/discover"
+      ],
+      "target": "/tag"
     }
   ],
   "test": {

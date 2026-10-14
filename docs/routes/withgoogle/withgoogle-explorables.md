@@ -1,4 +1,4 @@
-# People + AI Research (PAIR) - PAIR - AI Exploreables
+# People + AI Research (PAIR) - PAIR - AI Explorables
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `withgoogle`
 - Namespace Name: `People + AI Research (PAIR)`
 - Route Path: `/withgoogle/explorables`
-- Route Name: `PAIR - AI Exploreables`
+- Route Name: `PAIR - AI Explorables`
 - Example: `/withgoogle/explorables`
 - URL: `pair.withgoogle.com/explorables`
 - Language: `_None_`
@@ -44,7 +44,7 @@ _None_
   "maintainers": [
     "cesaryuan"
   ],
-  "name": "PAIR - AI Exploreables",
+  "name": "PAIR - AI Explorables",
   "path": "/explorables",
   "radar": [
     {

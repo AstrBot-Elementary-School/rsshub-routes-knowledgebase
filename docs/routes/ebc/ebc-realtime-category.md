@@ -34,8 +34,8 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `news.ebc.net.tw/realtime/:category`
-- `target`: `/:category`
+  - `news.ebc.net.tw/realtime/:category?`
+- `target`: `/realtime/:category?`
 
 ## Raw JSON
 ```json
@@ -66,9 +66,9 @@ _None_
   "radar": [
     {
       "source": [
-        "news.ebc.net.tw/realtime/:category"
+        "news.ebc.net.tw/realtime/:category?"
       ],
-      "target": "/:category"
+      "target": "/realtime/:category?"
     }
   ],
   "test": {

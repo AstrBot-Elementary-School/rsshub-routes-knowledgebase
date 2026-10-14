@@ -27,7 +27,7 @@ _None_
 
 
 ## Features
-_None_
+- `requirePuppeteer`: true
 
 ## Radar
 ### Rule 1
@@ -42,6 +42,9 @@ _None_
     "social-media"
   ],
   "example": "/bilibili/ranking/all",
+  "features": {
+    "requirePuppeteer": true
+  },
   "heat": 1044,
   "location": "ranking.ts",
   "maintainers": [

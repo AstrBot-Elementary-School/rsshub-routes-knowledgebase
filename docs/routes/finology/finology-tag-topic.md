@@ -53,7 +53,7 @@
 :::
 
 ## Parameters
-- `category`: Refer Table below or find in URL
+- `topic`: Refer Table below or find in URL
 
 
 ## Features
@@ -79,7 +79,7 @@ _None_
   ],
   "name": "Trending Topic",
   "parameters": {
-    "category": "Refer Table below or find in URL"
+    "topic": "Refer Table below or find in URL"
   },
   "path": "/tag/:topic",
   "radar": [

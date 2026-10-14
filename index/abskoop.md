@@ -3,9 +3,9 @@
 ## Namespace
 - Namespace: `abskoop`
 - Display Name: `A 姐分享`
-- URL: `nsfw.abskoop.com`
+- URL: `www.ahhhhfs.com`
 - Language: `_None_`
-- Aliases: `a 姐分享, abskoop, nsfw, nsfw.abskoop.com`
+- Aliases: `a 姐分享, abskoop, ahhhhfs.com, www, www.ahhhhfs.com`
 - Route Count: `2`
 
 ## Routes

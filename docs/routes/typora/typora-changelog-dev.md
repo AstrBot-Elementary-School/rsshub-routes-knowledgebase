@@ -9,7 +9,7 @@
 - Route Path: `/typora/changelog/dev`
 - Route Name: `Dev Release Changelog`
 - Example: `/typora/changelog/dev`
-- URL: `support.typora.io/`
+- URL: `typora.io/releases/dev`
 - Language: `_None_`
 - Categories: `program-update`
 - Maintainers: `nczitzk`
@@ -34,8 +34,8 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `support.typora.io/`
-- `target`: `/changelog`
+  - `typora.io/releases/dev`
+- `target`: `/changelog/dev`
 
 ## Raw JSON
 ```json
@@ -63,15 +63,15 @@ _None_
   "radar": [
     {
       "source": [
-        "support.typora.io/"
+        "typora.io/releases/dev"
       ],
-      "target": "/changelog"
+      "target": "/changelog/dev"
     }
   ],
   "test": {
     "code": 1
   },
   "topFeeds": [],
-  "url": "support.typora.io/"
+  "url": "typora.io/releases/dev"
 }
 ```

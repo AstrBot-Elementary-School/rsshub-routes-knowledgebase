@@ -9,7 +9,7 @@
 - Route Path: `/cmpxchg8b/articles`
 - Route Name: `Articles`
 - Example: `/cmpxchg8b/articles`
-- URL: `lock.cmpxchg8b.com/articles`
+- URL: `lock.cmpxchg8b.com`
 - Language: `_None_`
 - Categories: `blog`
 - Maintainers: `yuguorui`
@@ -34,7 +34,8 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `lock.cmpxchg8b.com/articles`
+  - `lock.cmpxchg8b.com/`
+- `target`: `/articles`
 
 ## Raw JSON
 ```json
@@ -62,8 +63,9 @@ _None_
   "radar": [
     {
       "source": [
-        "lock.cmpxchg8b.com/articles"
-      ]
+        "lock.cmpxchg8b.com/"
+      ],
+      "target": "/articles"
     }
   ],
   "test": {
@@ -83,6 +85,6 @@ _None_
       "url": "rsshub://cmpxchg8b/articles"
     }
   ],
-  "url": "lock.cmpxchg8b.com/articles"
+  "url": "lock.cmpxchg8b.com"
 }
 ```

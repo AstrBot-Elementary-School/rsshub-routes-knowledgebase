@@ -38,7 +38,7 @@
 - `source`:
   - `vom.mn/:lang`
   - `vom.mn/`
-- `target`: `/featured/:lang`
+- `target`: `/featured/:lang?`
 
 ## Raw JSON
 ```json
@@ -56,7 +56,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 8,
+  "heat": 9,
   "location": "featured.ts",
   "maintainers": [
     "TonyRL"
@@ -72,7 +72,7 @@
         "vom.mn/:lang",
         "vom.mn/"
       ],
-      "target": "/featured/:lang"
+      "target": "/featured/:lang?"
     }
   ],
   "test": {

@@ -20,12 +20,12 @@
 _None_
 
 ## Parameters
-- `topic`: research by topic, string, example: [research-briefing|buisness|economy]
+- `topic`: Publication type, research-briefing by default
 
 
 ## Features
 - `requireConfig`: false
-- `requirePuppeteer`: true
+- `requirePuppeteer`: false
 - `antiCrawler`: false
 - `supportBT`: false
 - `supportPodcast`: false
@@ -44,7 +44,7 @@ _None_
   "features": {
     "antiCrawler": false,
     "requireConfig": false,
-    "requirePuppeteer": true,
+    "requirePuppeteer": false,
     "supportBT": false,
     "supportPodcast": false,
     "supportScihub": false
@@ -56,7 +56,7 @@ _None_
   ],
   "name": "House of Lords Library",
   "parameters": {
-    "topic": "research by topic, string, example: [research-briefing|buisness|economy]"
+    "topic": "Publication type, research-briefing by default"
   },
   "path": "/lordslibrary/type/:topic?",
   "test": {

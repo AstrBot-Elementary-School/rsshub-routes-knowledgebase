@@ -104,6 +104,18 @@
   },
   "topFeeds": [
     {
+      "description": "This plugin makes spawners minable using SilkTouch tools - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "123852225922308096",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://modrinth.com/project/yqj3dcbL",
+      "title": "SilkSpawners Modrinth versions",
+      "type": "feed",
+      "url": "rsshub://modrinth/project/yqj3dcbL/versions"
+    },
+    {
       "description": "Aesthetic Technology that empowers the Player - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -114,18 +126,6 @@
       "title": "Create Modrinth versions",
       "type": "feed",
       "url": "rsshub://modrinth/project/create/versions"
-    },
-    {
-      "description": "Highly customizable, global player leveling plugin with many integrations. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "113662012738039808",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/86biV1Ic",
-      "title": "AuroraLevels Modrinth versions",
-      "type": "feed",
-      "url": "rsshub://modrinth/project/86biV1Ic/versions"
     }
   ]
 }

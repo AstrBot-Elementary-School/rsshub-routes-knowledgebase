@@ -9,7 +9,7 @@
 - Route Path: `/nua/index/:type`
 - Route Name: `Official Information`
 - Example: `/nua/index/346`
-- URL: `index.nua.edu.cn`
+- URL: `www.nua.edu.cn`
 - Language: `_None_`
 - Categories: `university`
 - Maintainers: `evnydd0sf`
@@ -37,7 +37,7 @@
 ## Radar
 ### Rule 1
 - `source`:
-  - `index.nua.edu.cn/:type/list.htm`
+  - `www.nua.edu.cn/:type/list.htm`
 
 ## Raw JSON
 ```json
@@ -68,7 +68,7 @@
   "radar": [
     {
       "source": [
-        "index.nua.edu.cn/:type/list.htm"
+        "www.nua.edu.cn/:type/list.htm"
       ]
     }
   ],

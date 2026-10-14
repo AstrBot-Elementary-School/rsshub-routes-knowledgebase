@@ -1,4 +1,4 @@
-# Visual Studio - Visual Studio Code Plugins Marketplace
+# Visual Studio - Code Extensions Marketplace
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `visualstudio`
 - Namespace Name: `Visual Studio`
 - Route Path: `/visualstudio/marketplace/:type?`
-- Route Name: `Visual Studio Code Plugins Marketplace`
+- Route Name: `Code Extensions Marketplace`
 - Example: `/visualstudio/marketplace`
 - URL: `visualstudio.com`
 - Language: `_None_`
@@ -44,7 +44,7 @@ _None_
   "maintainers": [
     "SeanChao"
   ],
-  "name": "Visual Studio Code Plugins Marketplace",
+  "name": "Code Extensions Marketplace",
   "parameters": {
     "type": "Category"
   },

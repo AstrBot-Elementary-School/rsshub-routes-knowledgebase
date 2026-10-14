@@ -10,7 +10,7 @@
 
 ## Routes
 
-### 小米有品众筹
+### 众筹
 - Route ID: `xiaomiyoupin:/xiaomiyoupin/crowdfunding`
 - Route Path: `/xiaomiyoupin/crowdfunding`
 - File: `docs/routes/xiaomiyoupin/xiaomiyoupin-crowdfunding.md`
@@ -18,7 +18,7 @@
 - Categories: `shopping`
 - Maintainers: `bigfei`
 
-### 小米有品每日上新
+### 每日上新
 - Route ID: `xiaomiyoupin:/xiaomiyoupin/latest`
 - Route Path: `/xiaomiyoupin/latest`
 - File: `docs/routes/xiaomiyoupin/xiaomiyoupin-latest.md`

@@ -10,7 +10,7 @@
 
 ## Routes
 
-### Toronto-Québec City High-Speed Rail Network - Alto News
+### Toronto-Québec City High-Speed Rail Network - News
 - Route ID: `altotrain:/altotrain/:language?`
 - Route Path: `/altotrain/:language?`
 - File: `docs/routes/altotrain/altotrain-language.md`

@@ -1,4 +1,4 @@
-# Link3 - Link3 Events
+# Link3 - Events
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `link3`
 - Namespace Name: `Link3`
 - Route Path: `/link3/events`
-- Route Name: `Link3 Events`
+- Route Name: `Events`
 - Example: `/link3/events`
 - URL: `link3.to`
 - Language: `_None_`
@@ -57,7 +57,7 @@ _None_
   "maintainers": [
     "cxheng315"
   ],
-  "name": "Link3 Events",
+  "name": "Events",
   "path": "/events",
   "radar": [
     {

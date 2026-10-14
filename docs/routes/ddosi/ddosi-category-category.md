@@ -20,7 +20,7 @@
 _None_
 
 ## Parameters
-- `category`: N
+- `category`: 分类名称，可在分类页面 URL 中找到，例如黑客工具
 
 
 ## Features
@@ -59,7 +59,7 @@ _None_
   ],
   "name": "分类",
   "parameters": {
-    "category": "N"
+    "category": "分类名称，可在分类页面 URL 中找到，例如黑客工具"
   },
   "path": "/category/:category?",
   "radar": [

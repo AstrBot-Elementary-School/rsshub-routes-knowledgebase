@@ -43,7 +43,28 @@
 ## Radar
 ### Rule 1
 - `source`:
-  - `storm.mg/:category/:id`
+  - `storm.mg/articles`
+- `target`: `/articles`
+### Rule 2
+- `source`:
+  - `storm.mg/localarticles`
+- `target`: `/localarticles`
+### Rule 3
+- `source`:
+  - `storm.mg/history`
+- `target`: `/history`
+### Rule 4
+- `source`:
+  - `storm.mg/all-comment`
+- `target`: `/all-comment`
+### Rule 5
+- `source`:
+  - `storm.mg/category/:id`
+- `target`: `/category/:id`
+### Rule 6
+- `source`:
+  - `storm.mg/localarticle-category/:id`
+- `target`: `/localarticle-category/:id`
 
 ## Raw JSON
 ```json
@@ -75,8 +96,39 @@
   "radar": [
     {
       "source": [
-        "storm.mg/:category/:id"
-      ]
+        "storm.mg/articles"
+      ],
+      "target": "/articles"
+    },
+    {
+      "source": [
+        "storm.mg/localarticles"
+      ],
+      "target": "/localarticles"
+    },
+    {
+      "source": [
+        "storm.mg/history"
+      ],
+      "target": "/history"
+    },
+    {
+      "source": [
+        "storm.mg/all-comment"
+      ],
+      "target": "/all-comment"
+    },
+    {
+      "source": [
+        "storm.mg/category/:id"
+      ],
+      "target": "/category/:id"
+    },
+    {
+      "source": [
+        "storm.mg/localarticle-category/:id"
+      ],
+      "target": "/localarticle-category/:id"
     }
   ],
   "test": {

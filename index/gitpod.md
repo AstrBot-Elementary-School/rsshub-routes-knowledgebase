@@ -1,11 +1,11 @@
-# Gitpod Route Index
+# Ona Route Index
 
 ## Namespace
 - Namespace: `gitpod`
-- Display Name: `Gitpod`
-- URL: `gitpod.io`
+- Display Name: `Ona`
+- URL: `ona.com`
 - Language: `_None_`
-- Aliases: `gitpod, gitpod.io`
+- Aliases: `gitpod, ona, ona.com`
 - Route Count: `2`
 
 ## Routes

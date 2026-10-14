@@ -8,7 +8,7 @@
 - Namespace Name: `Aqara`
 - Route Path: `/aqara/:path{.+}?`
 - Route Name: `分类、标签`
-- Example: `/aqara/en/category/press-release`
+- Example: `/aqara/en/category/news`
 - URL: `aqara.com`
 - Language: `_None_`
 - Categories: `other`
@@ -41,7 +41,7 @@ _None_
     "other"
   ],
   "description": "路径处填写对应页面 URL 中 `https://aqara.com/` 后的字段，形如 `:region/category/:id` 或 `:region/tag/:id`。\n\n| 参数   | 说明                                                     |\n| ------ | -------------------------------------------------------- |\n| region | 地区 id，可在对应分类页 URL 中找到，默认为 en，即 Global |\n| id     | 分类 id 或标签 id，可在对应分类页或标签页 URL 中找到     |",
-  "example": "/aqara/en/category/press-release",
+  "example": "/aqara/en/category/news",
   "heat": 0,
   "location": "post.tsx",
   "maintainers": [

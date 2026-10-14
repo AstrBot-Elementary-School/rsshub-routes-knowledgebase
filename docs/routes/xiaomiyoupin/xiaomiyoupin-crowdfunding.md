@@ -1,4 +1,4 @@
-# 小米有品 - 小米有品众筹
+# 小米有品 - 众筹
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `xiaomiyoupin`
 - Namespace Name: `小米有品`
 - Route Path: `/xiaomiyoupin/crowdfunding`
-- Route Name: `小米有品众筹`
+- Route Name: `众筹`
 - Example: `/xiaomiyoupin/crowdfunding`
 - URL: `xiaomiyoupin.com/`
 - Language: `_None_`
@@ -51,12 +51,12 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 886,
+  "heat": 885,
   "location": "crowdfunding.ts",
   "maintainers": [
     "bigfei"
   ],
-  "name": "小米有品众筹",
+  "name": "众筹",
   "parameters": {},
   "path": "/crowdfunding",
   "radar": [

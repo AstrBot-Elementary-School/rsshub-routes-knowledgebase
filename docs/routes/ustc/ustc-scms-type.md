@@ -36,8 +36,8 @@
 ## Radar
 ### Rule 1
 - `source`:
-  - `scms.ustc.edu.cn/:id/list.htm`
-- `target`: `/scms`
+  - `scms.ustc.edu.cn/:type/list.htm`
+- `target`: `/scms/:type`
 
 ## Raw JSON
 ```json
@@ -68,9 +68,9 @@
   "radar": [
     {
       "source": [
-        "scms.ustc.edu.cn/:id/list.htm"
+        "scms.ustc.edu.cn/:type/list.htm"
       ],
-      "target": "/scms"
+      "target": "/scms/:type"
     }
   ],
   "test": {

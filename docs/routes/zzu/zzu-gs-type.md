@@ -1,4 +1,4 @@
-# 郑州大学 - 郑大研究生院
+# 郑州大学 - 研究生院
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `zzu`
 - Namespace Name: `郑州大学`
 - Route Path: `/zzu/gs/:type`
-- Route Name: `郑大研究生院`
+- Route Name: `研究生院`
 - Example: `/zzu/gs/xwzx`
 - URL: `www.zzu.edu.cn`
 - Language: `_None_`
@@ -59,7 +59,7 @@
   "maintainers": [
     "amandus1990"
   ],
-  "name": "郑大研究生院",
+  "name": "研究生院",
   "parameters": {
     "type": "分类名"
   },

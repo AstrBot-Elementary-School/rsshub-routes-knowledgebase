@@ -6,7 +6,7 @@
 - URL: `www.iyingdi.com`
 - Language: `_None_`
 - Aliases: `iyingdi.com, lfsyd, www, www.iyingdi.com, 旅法师营地`
-- Route Count: `4`
+- Route Count: `3`
 
 ## Routes
 
@@ -15,14 +15,6 @@
 - Route Path: `/lfsyd/home`
 - File: `docs/routes/lfsyd/lfsyd-home.md`
 - File Name: `lfsyd-home.md`
-- Categories: `game`
-- Maintainers: `auto-bot-ty`
-
-### 首页（旧版）
-- Route ID: `lfsyd:/lfsyd/old_home`
-- Route Path: `/lfsyd/old_home`
-- File: `docs/routes/lfsyd/lfsyd-old_home.md`
-- File Name: `lfsyd-old_home.md`
 - Categories: `game`
 - Maintainers: `auto-bot-ty`
 

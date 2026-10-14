@@ -8,7 +8,7 @@
 - Namespace Name: `BOOTH`
 - Route Path: `/booth.pm/shop/:subdomain`
 - Route Name: `Shop`
-- Example: `/booth.pm/shop/annn-boc0123`
+- Example: `/booth.pm/shop/komado`
 - URL: `booth.pm`
 - Language: `_None_`
 - Categories: `shopping`
@@ -35,7 +35,7 @@ _None_
   "categories": [
     "shopping"
   ],
-  "example": "/booth.pm/shop/annn-boc0123",
+  "example": "/booth.pm/shop/komado",
   "heat": 0,
   "location": "shop.ts",
   "maintainers": [

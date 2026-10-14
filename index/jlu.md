@@ -10,7 +10,7 @@
 
 ## Routes
 
-### 吉林大学计算机科学与技术学院 - 新闻中心
+### 计算机科学与技术学院 - 新闻中心
 - Route ID: `jlu:/jlu/ccst/xwzx/:category`
 - Route Path: `/jlu/ccst/xwzx/:category`
 - File: `docs/routes/jlu/jlu-ccst-xwzx-category.md`

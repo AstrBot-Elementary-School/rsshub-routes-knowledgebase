@@ -24,7 +24,7 @@ _None_
 
 
 ## Features
-_None_
+- `requireConfig`: [{"description": "Login cookie required by the source website.", "name": "PIANYUAN_COOKIE"}]
 
 ## Radar
 ### Rule 1
@@ -40,6 +40,14 @@ _None_
   ],
   "description": "搜索路由模仿 jackett 的搜索 api, 以提供给 nastools 使用，填写在 nastools 配置 indexer 中",
   "example": "/pianyuan/indexers/pianyuan/results/search/api?t=test&q=长津湖",
+  "features": {
+    "requireConfig": [
+      {
+        "description": "Login cookie required by the source website.",
+        "name": "PIANYUAN_COOKIE"
+      }
+    ]
+  },
   "heat": 0,
   "location": "search.ts",
   "maintainers": [

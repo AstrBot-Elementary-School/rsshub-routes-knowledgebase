@@ -85,6 +85,7 @@
 ### Rule 1
 - `source`:
   - `www.chinania.org.cn/html/:category`
+- `target`: `/:category`
 ### Rule 2
 - `title`: `协会动态 - 协会动态`
 - `source`:
@@ -202,7 +203,8 @@
     {
       "source": [
         "www.chinania.org.cn/html/:category"
-      ]
+      ],
+      "target": "/:category"
     },
     {
       "source": [

@@ -1,4 +1,4 @@
-# Skeb - Skeb
+# Skeb - Works and Creators
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `skeb`
 - Namespace Name: `Skeb`
 - Route Path: `/skeb/:category`
-- Route Name: `Skeb`
+- Route Name: `Works and Creators`
 - Example: `/skeb/new_art_works`
 - URL: `skeb.jp`
 - Language: `_None_`
@@ -105,7 +105,7 @@ _None_
   "maintainers": [
     "SnowAgar25"
   ],
-  "name": "Skeb",
+  "name": "Works and Creators",
   "parameters": {
     "category": "Category, the div id of the section title on the homepage."
   },

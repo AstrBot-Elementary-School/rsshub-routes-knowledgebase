@@ -80,8 +80,8 @@ _None_
   "topFeeds": [
     {
       "description": "This release notes page tracks what’s new and changing in the current version of GitKraken Desktop, including new features, improvements, […] - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-13T12:54:50.195Z",
+      "errorMessage": "[GET] \"https://help.gitkraken.com/wp-json/wp/v2/posts/1964\": 403 \nCannot read properties of undefined (reading 'trim')\n",
       "id": "241250520993393664",
       "image": null,
       "ownerUserId": null,

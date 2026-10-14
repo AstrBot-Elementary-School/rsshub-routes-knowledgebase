@@ -1,16 +1,16 @@
-# ui.dev Route Index
+# React Newsletter Route Index
 
 ## Namespace
 - Namespace: `reactnewsletter`
-- Display Name: `ui.dev`
-- URL: `bytes.dev`
+- Display Name: `React Newsletter`
+- URL: `reactnewsletter.com`
 - Language: `_None_`
-- Aliases: `bytes, bytes.dev, reactnewsletter, ui.dev`
+- Aliases: `react newsletter, reactnewsletter, reactnewsletter.com`
 - Route Count: `1`
 
 ## Routes
 
-### React Newsletter
+### Archives
 - Route ID: `reactnewsletter:/reactnewsletter/`
 - Route Path: `/reactnewsletter/`
 - File: `docs/routes/reactnewsletter/reactnewsletter.md`

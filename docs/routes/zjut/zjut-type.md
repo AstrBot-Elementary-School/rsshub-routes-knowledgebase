@@ -1,4 +1,4 @@
-# 浙江工业大学 - 浙江工业大学
+# 浙江工业大学 - 首页
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `zjut`
 - Namespace Name: `浙江工业大学`
 - Route Path: `/zjut/:type?`
-- Route Name: `浙江工业大学`
+- Route Name: `首页`
 - Example: `/zjut/4528`
 - URL: `www.zjut.edu.cn`
 - Language: `_None_`
@@ -47,7 +47,7 @@ _None_
   "maintainers": [
     "junbaor"
   ],
-  "name": "浙江工业大学",
+  "name": "首页",
   "parameters": {
     "type": "板块 id，默认为 4528，即通知公告"
   },

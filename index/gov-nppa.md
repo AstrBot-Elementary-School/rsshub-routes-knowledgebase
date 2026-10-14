@@ -11,8 +11,8 @@
 ## Routes
 
 ### 通用
-- Route ID: `gov/nppa:/gov/nppa/:path{.+}`
-- Route Path: `/gov/nppa/:path{.+}`
+- Route ID: `gov/nppa:/gov/nppa/:path{.+}?`
+- Route Path: `/gov/nppa/:path{.+}?`
 - File: `docs/routes/gov-nppa/gov-nppa-path.md`
 - File Name: `gov-nppa-path.md`
 - Categories: `government`

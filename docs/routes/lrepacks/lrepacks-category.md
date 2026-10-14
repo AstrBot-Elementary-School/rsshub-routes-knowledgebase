@@ -50,7 +50,8 @@ If you subscribe to [Системные программы](https://lrepacks.net
 ## Radar
 ### Rule 1
 - `source`:
-  - `lrepacks.net/:category`
+  - `lrepacks.net/:category?`
+- `target`: `/:category?`
 ### Rule 2
 - `title`: `Новые репаки на сегодня`
 - `source`:
@@ -127,8 +128,9 @@ If you subscribe to [Системные программы](https://lrepacks.net
   "radar": [
     {
       "source": [
-        "lrepacks.net/:category"
-      ]
+        "lrepacks.net/:category?"
+      ],
+      "target": "/:category?"
     },
     {
       "source": [

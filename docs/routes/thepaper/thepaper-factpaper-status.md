@@ -35,7 +35,7 @@ _None_
 ### Rule 1
 - `source`:
   - `factpaper.cn/`
-- `target`: `/factpaper/:status`
+- `target`: `/factpaper/:status?`
 
 ## Raw JSON
 ```json
@@ -67,7 +67,7 @@ _None_
       "source": [
         "factpaper.cn/"
       ],
-      "target": "/factpaper/:status"
+      "target": "/factpaper/:status?"
     }
   ],
   "test": {

@@ -30,6 +30,7 @@ _None_
 ### Rule 1
 - `source`:
   - `www.philo.ecnu.edu.cn`
+  - `www.philo.ecnu.edu.cn/tzggw/list.htm`
 - `target`: `/philo`
 
 ## Raw JSON
@@ -51,7 +52,8 @@ _None_
   "radar": [
     {
       "source": [
-        "www.philo.ecnu.edu.cn"
+        "www.philo.ecnu.edu.cn",
+        "www.philo.ecnu.edu.cn/tzggw/list.htm"
       ],
       "target": "/philo"
     }

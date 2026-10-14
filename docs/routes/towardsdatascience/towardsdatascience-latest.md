@@ -1,4 +1,4 @@
-# Towards Data Science - Towards Data Science
+# Towards Data Science - Latest articles
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `towardsdatascience`
 - Namespace Name: `Towards Data Science`
 - Route Path: `/towardsdatascience/latest`
-- Route Name: `Towards Data Science`
+- Route Name: `Latest articles`
 - Example: `/towardsdatascience/latest`
 - URL: `towardsdatascience.com/latest`
 - Language: `_None_`
@@ -43,7 +43,7 @@ _None_
   "maintainers": [
     "mintyfrankie"
   ],
-  "name": "Towards Data Science",
+  "name": "Latest articles",
   "path": "/latest",
   "radar": [
     {

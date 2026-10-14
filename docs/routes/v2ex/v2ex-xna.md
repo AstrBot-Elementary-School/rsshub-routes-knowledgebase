@@ -11,7 +11,7 @@
 - Example: `/v2ex/xna`
 - URL: `v2ex.com`
 - Language: `_None_`
-- Categories: `bbs, blog`
+- Categories: `bbs`
 - Maintainers: `luckyscript`
 - Source Location: `xna.ts`
 - Source Module: `_None_`
@@ -38,8 +38,7 @@ _None_
 ```json
 {
   "categories": [
-    "bbs",
-    "blog"
+    "bbs"
   ],
   "example": "/v2ex/xna",
   "features": {

@@ -1,11 +1,11 @@
-# 仮面ライダ Route Index
+# 仮面ライダー Route Index
 
 ## Namespace
 - Namespace: `kamen-rider-official`
-- Display Name: `仮面ライダ`
+- Display Name: `仮面ライダー`
 - URL: `kamen-rider-official.com`
 - Language: `_None_`
-- Aliases: `kamen-rider-official, kamen-rider-official.com, 仮面ライダ`
+- Aliases: `kamen-rider-official, kamen-rider-official.com, 仮面ライダー`
 - Route Count: `1`
 
 ## Routes

@@ -48,7 +48,7 @@ _None_
   ],
   "description": "::: tip\nAll Topics in [Topic Library](https://abc.net.au/news/topics) are supported, you can fill in the field after `topic` in its URL, or fill in the `documentId`.\n\nFor example, the URL for [Computer Science](https://www.abc.net.au/news/topic/computer-science) is `https://www.abc.net.au/news/topic/computer-science`, the `category` is `news/topic/computer-science`, and the `documentId` of the Topic is `2302`, so the route is [/abc/news/topic/computer-science](https://rsshub.app/abc/news/topic/computer-science) and [/abc/2302](https://rsshub.app/abc/2302).\n\nChinese news is available at `/abc/news/chinese`. Chinese topics can also use their `documentId`, as described above.\n\nThe supported channels are all listed in the table below. For other channels, please find the `documentId` in the source code of the channel page and fill it in as above.\n:::",
   "example": "/abc/wa",
-  "heat": 104,
+  "heat": 105,
   "location": "index.ts",
   "maintainers": [
     "nczitzk",

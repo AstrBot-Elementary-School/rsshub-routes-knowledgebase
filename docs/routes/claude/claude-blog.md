@@ -35,6 +35,7 @@ _None_
 ### Rule 1
 - `source`:
   - `claude.com/blog`
+  - `claude.com/resources/articles`
 - `target`: `/blog`
 
 ## Raw JSON
@@ -52,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 101,
+  "heat": 100,
   "location": "blog.ts",
   "maintainers": [
     "zhenlohuang"
@@ -63,7 +64,8 @@ _None_
   "radar": [
     {
       "source": [
-        "claude.com/blog"
+        "claude.com/blog",
+        "claude.com/resources/articles"
       ],
       "target": "/blog"
     }

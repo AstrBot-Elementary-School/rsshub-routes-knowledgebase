@@ -25,7 +25,7 @@
 | 企业之窗 |  21 |
 
 ## Parameters
-- `id`: 栏目 id，见下表
+- `id`: 栏目 id，见下表，也支持官网路径中的文件名（如 19.html）
 
 
 ## Features
@@ -34,7 +34,7 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `www.hbsea.org.cn/portal/list/index/id/:id.html`
+  - `www.hbsea.org.cn/portal/list/index/id/:id`
 - `target`: `/:id`
 
 ## Raw JSON
@@ -52,13 +52,13 @@ _None_
   ],
   "name": "栏目",
   "parameters": {
-    "id": "栏目 id，见下表"
+    "id": "栏目 id，见下表，也支持官网路径中的文件名（如 19.html）"
   },
   "path": "/:id",
   "radar": [
     {
       "source": [
-        "www.hbsea.org.cn/portal/list/index/id/:id.html"
+        "www.hbsea.org.cn/portal/list/index/id/:id"
       ],
       "target": "/:id"
     }

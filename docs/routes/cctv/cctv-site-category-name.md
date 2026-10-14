@@ -38,6 +38,7 @@
 - `source`:
   - `tv.cctv.com/lm/xwlb`
   - `tv.cctv.com/`
+- `target`: `/tv/lm/xwlb`
 
 ## Raw JSON
 ```json
@@ -56,7 +57,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4510,
+  "heat": 4509,
   "location": "xwlb.ts",
   "maintainers": [
     "zengxs"
@@ -81,7 +82,8 @@
       "source": [
         "tv.cctv.com/lm/xwlb",
         "tv.cctv.com/"
-      ]
+      ],
+      "target": "/tv/lm/xwlb"
     }
   ],
   "test": {

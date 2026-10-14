@@ -31,8 +31,24 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `gzw.cq.gov.cn/*category`
-- `target`: `/gzw/*category`
+  - `gzw.cq.gov.cn/tzgg_191/`
+  - `gzw.cq.gov.cn/tzgg_191/*`
+- `target`: `/gzw/tzgg_191`
+### Rule 2
+- `source`:
+  - `gzw.cq.gov.cn/gqdj/`
+  - `gzw.cq.gov.cn/gqdj/*`
+- `target`: `/gzw/gqdj`
+### Rule 3
+- `source`:
+  - `gzw.cq.gov.cn/gqjj/`
+  - `gzw.cq.gov.cn/gqjj/*`
+- `target`: `/gzw/gqjj`
+### Rule 4
+- `source`:
+  - `gzw.cq.gov.cn/gqzp/`
+  - `gzw.cq.gov.cn/gqzp/*`
+- `target`: `/gzw/gqzp`
 
 ## Raw JSON
 ```json
@@ -55,9 +71,31 @@ _None_
   "radar": [
     {
       "source": [
-        "gzw.cq.gov.cn/*category"
+        "gzw.cq.gov.cn/tzgg_191/",
+        "gzw.cq.gov.cn/tzgg_191/*"
       ],
-      "target": "/gzw/*category"
+      "target": "/gzw/tzgg_191"
+    },
+    {
+      "source": [
+        "gzw.cq.gov.cn/gqdj/",
+        "gzw.cq.gov.cn/gqdj/*"
+      ],
+      "target": "/gzw/gqdj"
+    },
+    {
+      "source": [
+        "gzw.cq.gov.cn/gqjj/",
+        "gzw.cq.gov.cn/gqjj/*"
+      ],
+      "target": "/gzw/gqjj"
+    },
+    {
+      "source": [
+        "gzw.cq.gov.cn/gqzp/",
+        "gzw.cq.gov.cn/gqzp/*"
+      ],
+      "target": "/gzw/gqzp"
     }
   ],
   "test": {

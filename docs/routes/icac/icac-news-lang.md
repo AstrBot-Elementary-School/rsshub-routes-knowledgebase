@@ -55,7 +55,8 @@ _None_
   "heat": 0,
   "location": "news.ts",
   "maintainers": [
-    "linbuxiao, TonyRL"
+    "linbuxiao",
+    "TonyRL"
   ],
   "name": "Press Releases",
   "parameters": {

@@ -3,9 +3,9 @@
 ## Namespace
 - Namespace: `gzdaily`
 - Display Name: `广州日报`
-- URL: `gzdaily.cn`
+- URL: `www.gzdaily.cn`
 - Language: `_None_`
-- Aliases: `gzdaily, gzdaily.cn, 广州日报`
+- Aliases: `gzdaily, gzdaily.cn, www, www.gzdaily.cn, 广州日报`
 - Route Count: `1`
 
 ## Routes

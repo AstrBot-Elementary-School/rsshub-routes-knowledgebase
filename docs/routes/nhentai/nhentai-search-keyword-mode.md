@@ -25,7 +25,7 @@ _None_
 
 
 ## Features
-- `requirePuppeteer`: false
+- `requirePuppeteer`: true
 - `antiCrawler`: true
 - `supportBT`: true
 - `nsfw`: true
@@ -33,8 +33,7 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `nhentai.net/:key/:keyword`
-- `target`: `/:key/:keyword`
+  - `nhentai.net/search/`
 
 ## Raw JSON
 ```json
@@ -46,7 +45,7 @@ _None_
   "features": {
     "antiCrawler": true,
     "nsfw": true,
-    "requirePuppeteer": false,
+    "requirePuppeteer": true,
     "supportBT": true
   },
   "heat": 180,
@@ -65,9 +64,8 @@ _None_
   "radar": [
     {
       "source": [
-        "nhentai.net/:key/:keyword"
-      ],
-      "target": "/:key/:keyword"
+        "nhentai.net/search/"
+      ]
     }
   ],
   "test": {

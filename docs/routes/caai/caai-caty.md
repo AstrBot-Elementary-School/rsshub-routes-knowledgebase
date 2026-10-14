@@ -8,7 +8,7 @@
 - Namespace Name: `中国人工智能学会`
 - Route Path: `/caai/:caty`
 - Route Name: `学会动态`
-- Example: `/caai/45`
+- Example: `/caai/13`
 - URL: `caai.cn`
 - Language: `_None_`
 - Categories: `study`
@@ -40,7 +40,7 @@ _None_
   "categories": [
     "study"
   ],
-  "example": "/caai/45",
+  "example": "/caai/13",
   "features": {
     "antiCrawler": false,
     "requireConfig": false,

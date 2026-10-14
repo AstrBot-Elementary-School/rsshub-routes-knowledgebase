@@ -8,7 +8,7 @@
 - Namespace Name: `中国科学院`
 - Route Path: `/cas/cg/:caty?`
 - Route Name: `成果转化`
-- Example: `/cas/cg/cgzhld`
+- Example: `/cas/cg/zh`
 - URL: `www.cas.cn`
 - Language: `_None_`
 - Categories: `university`
@@ -17,9 +17,11 @@
 - Source Module: `_None_`
 
 ## Description
-| 工作动态 | 科技成果转移转化亮点工作 |
-| -------- | ------------------------ |
-| zh       | cgzhld                   |
+| 工作动态 |
+| -------- |
+| zh       |
+
+原科技成果转移转化亮点工作栏目（`cgzhld`）已由来源网站下线。
 
 ## Parameters
 - `caty`: 分类，见下表，默认为工作动态
@@ -44,8 +46,8 @@
   "categories": [
     "university"
   ],
-  "description": "| 工作动态 | 科技成果转移转化亮点工作 |\n| -------- | ------------------------ |\n| zh       | cgzhld                   |",
-  "example": "/cas/cg/cgzhld",
+  "description": "| 工作动态 |\n| -------- |\n| zh       |\n\n原科技成果转移转化亮点工作栏目（`cgzhld`）已由来源网站下线。",
+  "example": "/cas/cg/zh",
   "features": {
     "antiCrawler": false,
     "requireConfig": false,

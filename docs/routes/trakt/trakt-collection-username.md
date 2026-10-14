@@ -1,4 +1,4 @@
-# Trakt.tv - User Collection
+# Trakt.tv - User favorites
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `trakt`
 - Namespace Name: `Trakt.tv`
 - Route Path: `/trakt/collection/:username`
-- Route Name: `User Collection`
+- Route Name: `User favorites`
 - Example: `/trakt/collection/sonply`
 - URL: `trakt.tv`
 - Language: `_None_`
@@ -44,7 +44,7 @@ _None_
   "maintainers": [
     "hoilc"
   ],
-  "name": "User Collection",
+  "name": "User favorites",
   "parameters": {
     "username": "Username"
   },

@@ -9,7 +9,7 @@
 - Route Path: `/dapenti/tugua`
 - Route Name: `图卦`
 - Example: `/dapenti/tugua`
-- URL: `dapenti.com`
+- URL: `www.dapenti.com`
 - Language: `_None_`
 - Categories: `picture, popular`
 - Maintainers: `tgly307`
@@ -50,7 +50,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 5523,
+  "heat": 5521,
   "location": "tugua.ts",
   "maintainers": [
     "tgly307"

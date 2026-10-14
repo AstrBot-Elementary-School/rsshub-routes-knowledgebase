@@ -1,11 +1,11 @@
-# 财新博客 Route Index
+# 财新网 Route Index
 
 ## Namespace
 - Namespace: `caixin`
-- Display Name: `财新博客`
+- Display Name: `财新网`
 - URL: `caixin.com`
 - Language: `_None_`
-- Aliases: `caixin, caixin.com, 财新博客`
+- Aliases: `caixin, caixin.com, 财新网`
 - Route Count: `7`
 
 ## Routes

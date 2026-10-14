@@ -40,10 +40,7 @@
 - `supportScihub`: false
 
 ## Radar
-### Rule 1
-- `source`:
-  - `www.zhihu.com/people/:id`
-- `target`: `/people/activities/:id`
+_None_
 
 ## Raw JSON
 ```json
@@ -71,14 +68,6 @@
     "hexId": "用户的 16 进制 id，获取方式见下方说明"
   },
   "path": "/xhu/people/activities/:hexId",
-  "radar": [
-    {
-      "source": [
-        "www.zhihu.com/people/:id"
-      ],
-      "target": "/people/activities/:id"
-    }
-  ],
   "test": {
     "code": 1
   },

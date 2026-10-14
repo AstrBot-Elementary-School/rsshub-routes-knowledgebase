@@ -9,7 +9,7 @@
 - Route Path: `/panewslab/news`
 - Route Name: `快讯`
 - Example: `/panewslab/news`
-- URL: `panewslab.com/`
+- URL: `www.panewslab.com/zh/newsflash`
 - Language: `_None_`
 - Categories: `new-media`
 - Maintainers: `nczitzk`
@@ -29,7 +29,8 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `panewslab.com/`
+  - `www.panewslab.com/zh/newsflash`
+- `target`: `/news`
 
 ## Raw JSON
 ```json
@@ -48,8 +49,9 @@ _None_
   "radar": [
     {
       "source": [
-        "panewslab.com/"
-      ]
+        "www.panewslab.com/zh/newsflash"
+      ],
+      "target": "/news"
     }
   ],
   "test": {
@@ -70,6 +72,6 @@ _None_
       "url": "rsshub://panewslab/news"
     }
   ],
-  "url": "panewslab.com/"
+  "url": "www.panewslab.com/zh/newsflash"
 }
 ```

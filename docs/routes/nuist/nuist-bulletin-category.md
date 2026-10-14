@@ -46,7 +46,60 @@
 ## Radar
 ### Rule 1
 - `source`:
-  - `bulletin.nuist.edu.cn/:filename`
+  - `bulletin.nuist.edu.cn/index.htm`
+- `target`: `/bulletin`
+### Rule 2
+- `source`:
+  - `bulletin.nuist.edu.cn/wjgg.htm`
+- `target`: `/bulletin/wjgg`
+### Rule 3
+- `source`:
+  - `bulletin.nuist.edu.cn/zbxx.htm`
+- `target`: `/bulletin/zbxx`
+### Rule 4
+- `source`:
+  - `bulletin.nuist.edu.cn/xsbg.htm`
+- `target`: `/bulletin/xsbg`
+### Rule 5
+- `source`:
+  - `bulletin.nuist.edu.cn/dzsw.htm`
+- `target`: `/bulletin/dzsw`
+### Rule 6
+- `source`:
+  - `bulletin.nuist.edu.cn/jxks.htm`
+- `target`: `/bulletin/jxks`
+### Rule 7
+- `source`:
+  - `bulletin.nuist.edu.cn/hytz.htm`
+- `target`: `/bulletin/hytz`
+### Rule 8
+- `source`:
+  - `bulletin.nuist.edu.cn/zzrs.htm`
+- `target`: `/bulletin/zzrs`
+### Rule 9
+- `source`:
+  - `bulletin.nuist.edu.cn/kyxx.htm`
+- `target`: `/bulletin/kyxx`
+### Rule 10
+- `source`:
+  - `bulletin.nuist.edu.cn/zsjy.htm`
+- `target`: `/bulletin/zsjy`
+### Rule 11
+- `source`:
+  - `bulletin.nuist.edu.cn/cxcy.htm`
+- `target`: `/bulletin/cxcy`
+### Rule 12
+- `source`:
+  - `bulletin.nuist.edu.cn/xyhd.htm`
+- `target`: `/bulletin/xyhd`
+### Rule 13
+- `source`:
+  - `bulletin.nuist.edu.cn/xydt.htm`
+- `target`: `/bulletin/xydt`
+### Rule 14
+- `source`:
+  - `bulletin.nuist.edu.cn/ztjz.htm`
+- `target`: `/bulletin/ztjz`
 
 ## Raw JSON
 ```json
@@ -78,8 +131,87 @@
   "radar": [
     {
       "source": [
-        "bulletin.nuist.edu.cn/:filename"
-      ]
+        "bulletin.nuist.edu.cn/index.htm"
+      ],
+      "target": "/bulletin"
+    },
+    {
+      "source": [
+        "bulletin.nuist.edu.cn/wjgg.htm"
+      ],
+      "target": "/bulletin/wjgg"
+    },
+    {
+      "source": [
+        "bulletin.nuist.edu.cn/zbxx.htm"
+      ],
+      "target": "/bulletin/zbxx"
+    },
+    {
+      "source": [
+        "bulletin.nuist.edu.cn/xsbg.htm"
+      ],
+      "target": "/bulletin/xsbg"
+    },
+    {
+      "source": [
+        "bulletin.nuist.edu.cn/dzsw.htm"
+      ],
+      "target": "/bulletin/dzsw"
+    },
+    {
+      "source": [
+        "bulletin.nuist.edu.cn/jxks.htm"
+      ],
+      "target": "/bulletin/jxks"
+    },
+    {
+      "source": [
+        "bulletin.nuist.edu.cn/hytz.htm"
+      ],
+      "target": "/bulletin/hytz"
+    },
+    {
+      "source": [
+        "bulletin.nuist.edu.cn/zzrs.htm"
+      ],
+      "target": "/bulletin/zzrs"
+    },
+    {
+      "source": [
+        "bulletin.nuist.edu.cn/kyxx.htm"
+      ],
+      "target": "/bulletin/kyxx"
+    },
+    {
+      "source": [
+        "bulletin.nuist.edu.cn/zsjy.htm"
+      ],
+      "target": "/bulletin/zsjy"
+    },
+    {
+      "source": [
+        "bulletin.nuist.edu.cn/cxcy.htm"
+      ],
+      "target": "/bulletin/cxcy"
+    },
+    {
+      "source": [
+        "bulletin.nuist.edu.cn/xyhd.htm"
+      ],
+      "target": "/bulletin/xyhd"
+    },
+    {
+      "source": [
+        "bulletin.nuist.edu.cn/xydt.htm"
+      ],
+      "target": "/bulletin/xydt"
+    },
+    {
+      "source": [
+        "bulletin.nuist.edu.cn/ztjz.htm"
+      ],
+      "target": "/bulletin/ztjz"
     }
   ],
   "test": {

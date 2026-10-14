@@ -3,9 +3,9 @@
 ## Namespace
 - Namespace: `eeo`
 - Display Name: `经济观察网`
-- URL: `eeo.com.cn`
+- URL: `www.eeo.com.cn`
 - Language: `_None_`
-- Aliases: `eeo, eeo.com.cn, 经济观察网`
+- Aliases: `eeo, eeo.com.cn, www, www.eeo.com.cn, 经济观察网`
 - Route Count: `2`
 
 ## Routes

@@ -9,7 +9,7 @@
 - Route Path: `/pkmer/recent`
 - Route Name: `最近更新`
 - Example: `/pkmer/recent`
-- URL: `pkmer.cn/page/*`
+- URL: `pkmer.cn/page/1/`
 - Language: `_None_`
 - Categories: `bbs`
 - Maintainers: `Gnoyong`
@@ -83,6 +83,6 @@ _None_
       "url": "rsshub://pkmer/recent"
     }
   ],
-  "url": "pkmer.cn/page/*"
+  "url": "pkmer.cn/page/1/"
 }
 ```

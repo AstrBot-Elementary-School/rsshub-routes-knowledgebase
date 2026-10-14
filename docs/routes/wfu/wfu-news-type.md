@@ -9,7 +9,7 @@
 - Route Path: `/wfu/news/:type?`
 - Route Name: `新闻`
 - Example: `/wfu/news/wyyw`
-- URL: `news.wfu.edu.cn/`
+- URL: `www.wfu.edu.cn/50/list.htm`
 - Language: `_None_`
 - Categories: `university`
 - Maintainers: `cccht`
@@ -40,6 +40,18 @@
 - `source`:
   - `news.wfu.edu.cn/`
 - `target`: `/news`
+### Rule 2
+- `source`:
+  - `www.wfu.edu.cn/50/list.htm`
+- `target`: `/news/wyyw`
+### Rule 3
+- `source`:
+  - `www.wfu.edu.cn/52/list.htm`
+- `target`: `/news/zhxw`
+### Rule 4
+- `source`:
+  - `www.wfu.edu.cn/xszh/list.htm`
+- `target`: `/news/xszh`
 
 ## Raw JSON
 ```json
@@ -73,12 +85,30 @@
         "news.wfu.edu.cn/"
       ],
       "target": "/news"
+    },
+    {
+      "source": [
+        "www.wfu.edu.cn/50/list.htm"
+      ],
+      "target": "/news/wyyw"
+    },
+    {
+      "source": [
+        "www.wfu.edu.cn/52/list.htm"
+      ],
+      "target": "/news/zhxw"
+    },
+    {
+      "source": [
+        "www.wfu.edu.cn/xszh/list.htm"
+      ],
+      "target": "/news/xszh"
     }
   ],
   "test": {
     "code": 1
   },
   "topFeeds": [],
-  "url": "news.wfu.edu.cn/"
+  "url": "www.wfu.edu.cn/50/list.htm"
 }
 ```

@@ -66,7 +66,7 @@
 - Categories: `anime`
 - Maintainers: `nczitzk`
 
-### Bangumi 用户收藏列表
+### 用户收藏列表
 - Route ID: `bangumi.tv:/bangumi.tv/user/collections/:id/:subjectType/:type`
 - Route Path: `/bangumi.tv/user/collections/:id/:subjectType/:type`
 - File: `docs/routes/bangumi-tv/bangumi-tv-user-collections-id-subjecttype-type.md`

@@ -36,16 +36,19 @@
 ## Radar
 ### Rule 1
 - `source`:
+  - `ow.blizzard.cn/news`
   - `ow.blizzard.cn`
-- `target`: `/news-cn/`
+- `target`: `/news-cn/ow`
 ### Rule 2
 - `source`:
+  - `wow.blizzard.cn/news`
   - `wow.blizzard.cn`
-- `target`: `/news-cn/`
+- `target`: `/news-cn/wow`
 ### Rule 3
 - `source`:
+  - `hs.blizzard.cn/news`
   - `hs.blizzard.cn`
-- `target`: `/news-cn/`
+- `target`: `/news-cn/hs`
 
 ## Raw JSON
 ```json
@@ -76,21 +79,24 @@
   "radar": [
     {
       "source": [
+        "ow.blizzard.cn/news",
         "ow.blizzard.cn"
       ],
-      "target": "/news-cn/"
+      "target": "/news-cn/ow"
     },
     {
       "source": [
+        "wow.blizzard.cn/news",
         "wow.blizzard.cn"
       ],
-      "target": "/news-cn/"
+      "target": "/news-cn/wow"
     },
     {
       "source": [
+        "hs.blizzard.cn/news",
         "hs.blizzard.cn"
       ],
-      "target": "/news-cn/"
+      "target": "/news-cn/hs"
     }
   ],
   "test": {

@@ -35,6 +35,7 @@ _None_
 ### Rule 1
 - `source`:
   - `jwc.wfu.edu.cn/`
+  - `jwc.wfu.edu.cn/7448/list.htm`
 
 ## Raw JSON
 ```json
@@ -62,7 +63,8 @@ _None_
   "radar": [
     {
       "source": [
-        "jwc.wfu.edu.cn/"
+        "jwc.wfu.edu.cn/",
+        "jwc.wfu.edu.cn/7448/list.htm"
       ]
     }
   ],

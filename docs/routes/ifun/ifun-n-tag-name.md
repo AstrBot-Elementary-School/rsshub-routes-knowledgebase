@@ -1,15 +1,15 @@
-# 趣集 - 盐选故事专栏
+# iRead 趣读 - 盐选故事专栏
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `ifun`
-- Namespace Name: `趣集`
+- Namespace Name: `iRead 趣读`
 - Route Path: `/ifun/n/tag/:name`
 - Route Name: `盐选故事专栏`
 - Example: `/ifun/n/tag/zhihu`
-- URL: `n.ifun.cool`
+- URL: `iread.life`
 - Language: `_None_`
 - Categories: `new-media`
 - Maintainers: `nczitzk`
@@ -17,14 +17,10 @@
 - Source Module: `_None_`
 
 ## Description
-::: tip
-若订阅 [zhihu](https://n.ifun.cool/article-list/2?tagName=zhihu)，网址为 `https://n.ifun.cool/article-list/2?tagName=zhihu`，请截取 `tagName` 的值 `zhihu` 作为 `name` 参数填入，此时目标路由为 [`/ifun/n/tag/zhihu`](https://rsshub.app/ifun/n/tag/zhihu)。
-
-更多专栏请见 [盐选故事专栏](https://n.ifun.cool/tags)。
-:::
+例如 [zhihu 故事集](https://iread.life/tag/zhihu) 对应 `/ifun/n/tag/zhihu`。更多故事集请见 [iRead 故事集](https://iread.life/tag)。
 
 ## Parameters
-- `name`: 专栏 id，可在对应专栏页 URL 中找到
+- `name`: 故事集名称，可在对应故事集页 URL 的 /tag/ 后找到
 
 
 ## Features
@@ -39,7 +35,8 @@
 ## Radar
 ### Rule 1
 - `source`:
-  - `n.ifun.cool/article-list/1`
+  - `iread.life/tag/:name`
+- `target`: `/n/tag/:name`
 
 ## Raw JSON
 ```json
@@ -47,7 +44,7 @@
   "categories": [
     "new-media"
   ],
-  "description": "::: tip\n若订阅 [zhihu](https://n.ifun.cool/article-list/2?tagName=zhihu)，网址为 `https://n.ifun.cool/article-list/2?tagName=zhihu`，请截取 `tagName` 的值 `zhihu` 作为 `name` 参数填入，此时目标路由为 [`/ifun/n/tag/zhihu`](https://rsshub.app/ifun/n/tag/zhihu)。\n\n更多专栏请见 [盐选故事专栏](https://n.ifun.cool/tags)。\n:::",
+  "description": "例如 [zhihu 故事集](https://iread.life/tag/zhihu) 对应 `/ifun/n/tag/zhihu`。更多故事集请见 [iRead 故事集](https://iread.life/tag)。",
   "example": "/ifun/n/tag/zhihu",
   "features": {
     "antiCrawler": false,
@@ -65,14 +62,15 @@
   ],
   "name": "盐选故事专栏",
   "parameters": {
-    "name": "专栏 id，可在对应专栏页 URL 中找到"
+    "name": "故事集名称，可在对应故事集页 URL 的 /tag/ 后找到"
   },
   "path": "/n/tag/:name",
   "radar": [
     {
       "source": [
-        "n.ifun.cool/article-list/1"
-      ]
+        "iread.life/tag/:name"
+      ],
+      "target": "/n/tag/:name"
     }
   ],
   "test": {
@@ -105,7 +103,7 @@
       "url": "rsshub://ifun/n/tag/:name"
     }
   ],
-  "url": "n.ifun.cool",
+  "url": "iread.life",
   "view": 0
 }
 ```

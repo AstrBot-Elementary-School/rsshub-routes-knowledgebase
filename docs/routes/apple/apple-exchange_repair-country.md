@@ -20,7 +20,7 @@
 _None_
 
 ## Parameters
-- `country`: country code in apple.com URL (exception: for `United States` please use `us`), default to China `cn`
+- `country`: Apple Support locale, for example `zh-cn` or `en-us`. Country aliases `cn` and `us` are also supported. United States by default.
 
 
 ## Features
@@ -61,7 +61,7 @@ _None_
   ],
   "name": "Exchange and Repair Extension Programs",
   "parameters": {
-    "country": "country code in apple.com URL (exception: for `United States` please use `us`), default to China `cn`"
+    "country": "Apple Support locale, for example `zh-cn` or `en-us`. Country aliases `cn` and `us` are also supported. United States by default."
   },
   "path": "/exchange_repair/:country?",
   "radar": [

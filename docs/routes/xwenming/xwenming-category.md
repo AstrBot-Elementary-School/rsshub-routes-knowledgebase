@@ -18,16 +18,16 @@
 
 ## Description
 ::: tip
-订阅 [科技前沿](https://www.xwenming.com/index.php/category/news)，其源网址为 `https://www.xwenming.com/index.php/category/news`，请参考该 URL 指定部分构成参数，此时路由为 [`/xwenming/category/news`](https://rsshub.app/xwenming/category/news) 或 [`/xwenming/category/科技前沿`](https://rsshub.app/xwenming/category/科技前沿)。
+订阅 [科技前沿](https://www.xwenming.com/index.php/category/news)，其源网址为 `https://www.xwenming.com/index.php/category/news`，请参考该 URL 指定部分构成参数，此时路由为 [`/xwenming/news`](https://rsshub.app/xwenming/news) 或 [`/xwenming/科技前沿`](https://rsshub.app/xwenming/科技前沿)。
 :::
 
-| 分类                                                                | ID                                                                  |
-| ------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| [全部](https://www.xwenming.com)                                    | [<空>](https://rsshub.app/xwenming)                                 |
-| [科技前沿](https://www.xwenming.com/index.php/category/news)        | [news](https://rsshub.app/xwenming/category/news)                   |
-| [疑难杂症](https://www.xwenming.com/index.php/category/solve)       | [solve](https://rsshub.app/xwenming/category/solve)                 |
-| [通知专栏](https://www.xwenming.com/index.php/category/notice)      | [notice](https://rsshub.app/xwenming/category/notice)               |
-| [未分类](https://www.xwenming.com/index.php/category/uncategorized) | [uncategorized](https://rsshub.app/xwenming/category/uncategorized) |
+| 分类                                                                | ID                                                         |
+| ------------------------------------------------------------------- | ---------------------------------------------------------- |
+| [全部](https://www.xwenming.com)                                    | [<空>](https://rsshub.app/xwenming)                        |
+| [科技前沿](https://www.xwenming.com/index.php/category/news)        | [news](https://rsshub.app/xwenming/news)                   |
+| [疑难杂症](https://www.xwenming.com/index.php/category/solve)       | [solve](https://rsshub.app/xwenming/solve)                 |
+| [通知专栏](https://www.xwenming.com/index.php/category/notice)      | [notice](https://rsshub.app/xwenming/notice)               |
+| [未分类](https://www.xwenming.com/index.php/category/uncategorized) | [uncategorized](https://rsshub.app/xwenming/uncategorized) |
 
 ## Parameters
 - `category`: {"description": "分类，默认为全部，可在对应分类页 URL 中找到", "options": [{"label": "全部", "value": ""}, {"label": "科技前沿", "value": "news"}, {"label": "疑难杂症", "value": "solve"}, {"label": "通知专栏", "value": "notice"}, {"label": "未分类", "value": "uncategorized"}]}
@@ -45,7 +45,6 @@
 ## Radar
 ### Rule 1
 - `source`:
-  - `www.xwenming.com`
   - `www.xwenming.com/index.php/category/:category`
 - `target`: `/:category`
 ### Rule 2
@@ -80,7 +79,7 @@
   "categories": [
     "new-media"
   ],
-  "description": "::: tip\n订阅 [科技前沿](https://www.xwenming.com/index.php/category/news)，其源网址为 `https://www.xwenming.com/index.php/category/news`，请参考该 URL 指定部分构成参数，此时路由为 [`/xwenming/category/news`](https://rsshub.app/xwenming/category/news) 或 [`/xwenming/category/科技前沿`](https://rsshub.app/xwenming/category/科技前沿)。\n:::\n\n| 分类                                                                | ID                                                                  |\n| ------------------------------------------------------------------- | ------------------------------------------------------------------- |\n| [全部](https://www.xwenming.com)                                    | [<空>](https://rsshub.app/xwenming)                                 |\n| [科技前沿](https://www.xwenming.com/index.php/category/news)        | [news](https://rsshub.app/xwenming/category/news)                   |\n| [疑难杂症](https://www.xwenming.com/index.php/category/solve)       | [solve](https://rsshub.app/xwenming/category/solve)                 |\n| [通知专栏](https://www.xwenming.com/index.php/category/notice)      | [notice](https://rsshub.app/xwenming/category/notice)               |\n| [未分类](https://www.xwenming.com/index.php/category/uncategorized) | [uncategorized](https://rsshub.app/xwenming/category/uncategorized) |",
+  "description": "::: tip\n订阅 [科技前沿](https://www.xwenming.com/index.php/category/news)，其源网址为 `https://www.xwenming.com/index.php/category/news`，请参考该 URL 指定部分构成参数，此时路由为 [`/xwenming/news`](https://rsshub.app/xwenming/news) 或 [`/xwenming/科技前沿`](https://rsshub.app/xwenming/科技前沿)。\n:::\n\n| 分类                                                                | ID                                                         |\n| ------------------------------------------------------------------- | ---------------------------------------------------------- |\n| [全部](https://www.xwenming.com)                                    | [<空>](https://rsshub.app/xwenming)                        |\n| [科技前沿](https://www.xwenming.com/index.php/category/news)        | [news](https://rsshub.app/xwenming/news)                   |\n| [疑难杂症](https://www.xwenming.com/index.php/category/solve)       | [solve](https://rsshub.app/xwenming/solve)                 |\n| [通知专栏](https://www.xwenming.com/index.php/category/notice)      | [notice](https://rsshub.app/xwenming/notice)               |\n| [未分类](https://www.xwenming.com/index.php/category/uncategorized) | [uncategorized](https://rsshub.app/xwenming/uncategorized) |",
   "example": "/xwenming/news",
   "features": {
     "antiCrawler": false,
@@ -128,7 +127,6 @@
   "radar": [
     {
       "source": [
-        "www.xwenming.com",
         "www.xwenming.com/index.php/category/:category"
       ],
       "target": "/:category"

@@ -26,7 +26,7 @@ Need to configure `CIVITAI_COOKIE` to obtain image information of NSFW models.
 
 
 ## Features
-- `requireConfig`: [{"description": "", "name": "CIVITAI_COOKIE"}]
+- `requireConfig`: [{"description": "", "name": "CIVITAI_COOKIE", "optional": true}]
 - `requirePuppeteer`: false
 - `antiCrawler`: false
 - `supportBT`: false
@@ -53,7 +53,8 @@ Need to configure `CIVITAI_COOKIE` to obtain image information of NSFW models.
     "requireConfig": [
       {
         "description": "",
-        "name": "CIVITAI_COOKIE"
+        "name": "CIVITAI_COOKIE",
+        "optional": true
       }
     ],
     "requirePuppeteer": false,

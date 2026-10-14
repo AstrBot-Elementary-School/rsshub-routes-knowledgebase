@@ -37,7 +37,7 @@ _None_
 ### Rule 1
 - `source`:
   - `creative-comic.tw/book/:id/*`
-- `target`: `/:id`
+- `target`: `/book/:id`
 
 ## Raw JSON
 ```json
@@ -71,7 +71,7 @@ _None_
       "source": [
         "creative-comic.tw/book/:id/*"
       ],
-      "target": "/:id"
+      "target": "/book/:id"
     }
   ],
   "test": {

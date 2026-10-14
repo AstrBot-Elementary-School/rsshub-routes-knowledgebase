@@ -3,9 +3,9 @@
 ## Namespace
 - Namespace: `chuapp`
 - Display Name: `触乐`
-- URL: `chuapp.com`
+- URL: `www.chuapp.com`
 - Language: `_None_`
-- Aliases: `chuapp, chuapp.com, 触乐`
+- Aliases: `chuapp, chuapp.com, www, www.chuapp.com, 触乐`
 - Route Count: `1`
 
 ## Routes

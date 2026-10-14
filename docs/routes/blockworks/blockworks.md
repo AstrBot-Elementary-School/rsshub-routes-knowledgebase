@@ -35,6 +35,7 @@ _None_
 ### Rule 1
 - `source`:
   - `blockworks.co/`
+  - `blockworks.com/`
 - `target`: `/`
 
 ## Raw JSON
@@ -64,7 +65,8 @@ _None_
   "radar": [
     {
       "source": [
-        "blockworks.co/"
+        "blockworks.co/",
+        "blockworks.com/"
       ],
       "target": "/"
     }

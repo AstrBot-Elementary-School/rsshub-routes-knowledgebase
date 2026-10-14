@@ -9,7 +9,7 @@
 - Route Path: `/chinaventure/news/:id?`
 - Route Name: `分类`
 - Example: `/chinaventure/news/78`
-- URL: `chinaventure.com.cn/`
+- URL: `www.chinaventure.com.cn/`
 - Language: `_None_`
 - Categories: `new-media`
 - Maintainers: `yuxinliu-alex`
@@ -102,6 +102,6 @@
       "url": "rsshub://chinaventure/news"
     }
   ],
-  "url": "chinaventure.com.cn/"
+  "url": "www.chinaventure.com.cn/"
 }
 ```

@@ -22,7 +22,7 @@
 :::
 
 ## Parameters
-- `category`: 分类，默认为 1103，即A股盘面直播，可在对应话题页 URL 中找到
+- `id`: 话题 id，默认为 1103，即A股盘面直播，可在对应话题页 URL 中找到
 
 
 ## Features
@@ -31,13 +31,14 @@
 - `antiCrawler`: false
 - `supportRadar`: true
 - `supportBT`: false
-- `supportPodcast`: false
+- `supportPodcast`: true
 - `supportScihub`: false
 
 ## Radar
 ### Rule 1
 - `source`:
   - `www.cls.cn/subject/:id`
+- `target`: `/subject/:id`
 
 ## Raw JSON
 ```json
@@ -52,7 +53,7 @@
     "requireConfig": false,
     "requirePuppeteer": false,
     "supportBT": false,
-    "supportPodcast": false,
+    "supportPodcast": true,
     "supportRadar": true,
     "supportScihub": false
   },
@@ -63,14 +64,15 @@
   ],
   "name": "话题",
   "parameters": {
-    "category": "分类，默认为 1103，即A股盘面直播，可在对应话题页 URL 中找到"
+    "id": "话题 id，默认为 1103，即A股盘面直播，可在对应话题页 URL 中找到"
   },
   "path": "/subject/:id?",
   "radar": [
     {
       "source": [
         "www.cls.cn/subject/:id"
-      ]
+      ],
+      "target": "/subject/:id"
     }
   ],
   "test": {

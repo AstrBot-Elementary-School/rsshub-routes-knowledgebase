@@ -19,10 +19,10 @@
 - Maintainers: `nczitzk`
 
 ### 新闻、博客
-- Route ID: `aqara:/aqara/:region/:type?`
-- Route Path: `/aqara/:region/:type?`
-- File: `docs/routes/aqara/aqara-region-type.md`
-- File Name: `aqara-region-type.md`
+- Route ID: `aqara:/aqara/:region{cn|kr|eu|us|ru|en}/:type?`
+- Route Path: `/aqara/:region{cn|kr|eu|us|ru|en}/:type?`
+- File: `docs/routes/aqara/aqara-region-cn-kr-eu-us-ru-en-type.md`
+- File Name: `aqara-region-cn-kr-eu-us-ru-en-type.md`
 - Categories: `other`
 - Maintainers: `nczitzk`
 

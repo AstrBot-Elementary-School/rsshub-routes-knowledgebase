@@ -1,11 +1,11 @@
-# 财新博客 - 首页新闻
+# 财新网 - 首页新闻
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `caixin`
-- Namespace Name: `财新博客`
+- Namespace Name: `财新网`
 - Route Path: `/caixin/article`
 - Route Name: `首页新闻`
 - Example: `/caixin/article`
@@ -51,7 +51,7 @@ _None_
     "supportPodcast": true,
     "supportScihub": false
   },
-  "heat": 549,
+  "heat": 550,
   "location": "article.ts",
   "maintainers": [
     "EsuRt"

@@ -30,11 +30,12 @@ _None_
 ### Rule 1
 - `source`:
   - `www.jwc.ecnu.edu.cn`
-- `target`: `/tzgg`
+  - `www.jwc.ecnu.edu.cn/tzggwwxsgg/list.htm`
+- `target`: `/jwc`
 ### Rule 2
 - `source`:
   - `www.ecnu.edu.cn`
-- `target`: `/tzgg`
+- `target`: `/jwc`
 
 ## Raw JSON
 ```json
@@ -53,15 +54,16 @@ _None_
   "radar": [
     {
       "source": [
-        "www.jwc.ecnu.edu.cn"
+        "www.jwc.ecnu.edu.cn",
+        "www.jwc.ecnu.edu.cn/tzggwwxsgg/list.htm"
       ],
-      "target": "/tzgg"
+      "target": "/jwc"
     },
     {
       "source": [
         "www.ecnu.edu.cn"
       ],
-      "target": "/tzgg"
+      "target": "/jwc"
     }
   ],
   "test": {

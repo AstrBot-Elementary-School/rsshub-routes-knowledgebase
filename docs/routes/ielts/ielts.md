@@ -24,7 +24,7 @@ _None_
 
 
 ## Features
-_None_
+- `requirePuppeteer`: true
 
 ## Radar
 ### Rule 1
@@ -39,6 +39,9 @@ _None_
     "study"
   ],
   "example": "/ielts",
+  "features": {
+    "requirePuppeteer": true
+  },
   "heat": 0,
   "location": "index.ts",
   "maintainers": [

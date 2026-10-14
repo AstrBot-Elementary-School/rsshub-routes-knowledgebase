@@ -1,4 +1,4 @@
-# 環球唱片(香港)官方網上商店 - HKU Shop 黑胶专区
+# 環球唱片(香港)官方網上商店 - 黑胶专区
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `hkushop`
 - Namespace Name: `環球唱片(香港)官方網上商店`
 - Route Path: `/hkushop/vinyl/:cat?`
-- Route Name: `HKU Shop 黑胶专区`
+- Route Name: `黑胶专区`
 - Example: `/hkushop/vinyl`
 - URL: `hkushop.com/vinyl-or-picture-lp.html`
 - Language: `_None_`
@@ -65,7 +65,7 @@
   "maintainers": [
     "gideonsenku"
   ],
-  "name": "HKU Shop 黑胶专区",
+  "name": "黑胶专区",
   "parameters": {
     "cat": "分类，见下表，默认不分类"
   },

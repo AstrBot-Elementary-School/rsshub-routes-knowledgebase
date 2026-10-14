@@ -26,7 +26,7 @@
 :::
 
 ## Parameters
-- `id`: 话题 id，可在URL中找到，默认为全部，即为 `0`
+- `id`: 话题 id，可在 URL 中找到；使用 `0` 选择全部话题
 - `order`: 排序参数，见下表
 
 
@@ -42,7 +42,11 @@
 ### Rule 1
 - `source`:
   - `guancha.cn/`
-- `target`: `/:category?`
+- `target`: `/topic/0`
+### Rule 2
+- `source`:
+  - `user.guancha.cn/`
+- `target`: `/topic/0`
 
 ## Raw JSON
 ```json
@@ -68,7 +72,7 @@
   ],
   "name": "风闻话题",
   "parameters": {
-    "id": "话题 id，可在URL中找到，默认为全部，即为 `0`",
+    "id": "话题 id，可在 URL 中找到；使用 `0` 选择全部话题",
     "order": "排序参数，见下表"
   },
   "path": "/topic/:id/:order?",
@@ -77,7 +81,13 @@
       "source": [
         "guancha.cn/"
       ],
-      "target": "/:category?"
+      "target": "/topic/0"
+    },
+    {
+      "source": [
+        "user.guancha.cn/"
+      ],
+      "target": "/topic/0"
     }
   ],
   "test": {

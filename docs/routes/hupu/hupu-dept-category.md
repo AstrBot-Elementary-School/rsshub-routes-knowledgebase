@@ -1,4 +1,4 @@
-# 虎扑 - 手机虎扑网
+# 虎扑 - 移动版
 
 ## Coverage
 `index-only`
@@ -7,13 +7,13 @@
 - Namespace: `hupu`
 - Namespace Name: `虎扑`
 - Route Path: `/hupu/dept/:category?`
-- Route Name: `手机虎扑网`
+- Route Name: `移动版`
 - Example: `/hupu/nba`
 - URL: `m.hupu.com`
 - Language: `_None_`
 - Categories: `bbs`
 - Maintainers: `nczitzk, hyoban`
-- Source Location: `index.ts`
+- Source Location: `index-dept.ts`
 - Source Module: `_None_`
 
 ## Description
@@ -29,11 +29,7 @@
 _None_
 
 ## Radar
-### Rule 1
-- `source`:
-  - `m.hupu.com/:category`
-  - `m.hupu.com/`
-- `target`: `/:category`
+_None_
 
 ## Raw JSON
 ```json
@@ -44,12 +40,12 @@ _None_
   "description": "::: tip\n电竞分类参见 [游戏热帖](https://bbs.hupu.com/all-gg) 的对应路由 [`/hupu/all/all-gg`](https://rsshub.app/hupu/all/all-gg)。\n:::",
   "example": "/hupu/nba",
   "heat": 4,
-  "location": "index.ts",
+  "location": "index-dept.ts",
   "maintainers": [
     "nczitzk",
     "hyoban"
   ],
-  "name": "手机虎扑网",
+  "name": "移动版",
   "parameters": {
     "category": {
       "default": "",
@@ -74,19 +70,8 @@ _None_
       ]
     }
   },
-  "path": [
-    "/dept/:category?",
-    "/:category?"
-  ],
-  "radar": [
-    {
-      "source": [
-        "m.hupu.com/:category",
-        "m.hupu.com/"
-      ],
-      "target": "/:category"
-    }
-  ],
+  "path": "/dept/:category?",
+  "radar": [],
   "test": {
     "code": 1
   },

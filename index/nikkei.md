@@ -10,7 +10,7 @@
 
 ## Routes
 
-### Nikkei Asia Latest News
+### Asia Latest News
 - Route ID: `nikkei:/nikkei/asia`
 - Route Path: `/nikkei/asia`
 - File: `docs/routes/nikkei/nikkei-asia.md`

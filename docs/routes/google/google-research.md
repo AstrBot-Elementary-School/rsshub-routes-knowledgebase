@@ -30,6 +30,7 @@ _None_
 ### Rule 1
 - `source`:
   - `research.google`
+  - `research.google/blog`
 
 ## Raw JSON
 ```json
@@ -49,7 +50,8 @@ _None_
   "radar": [
     {
       "source": [
-        "research.google"
+        "research.google",
+        "research.google/blog"
       ]
     }
   ],

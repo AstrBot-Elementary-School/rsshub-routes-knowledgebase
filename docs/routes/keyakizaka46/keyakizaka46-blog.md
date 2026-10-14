@@ -1,4 +1,4 @@
-# 欅坂46 - Keyakizaka46 Blog 欅坂 46 博客
+# 欅坂46 - Blog 博客
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `keyakizaka46`
 - Namespace Name: `欅坂46`
 - Route Path: `/keyakizaka46/blog`
-- Route Name: `Keyakizaka46 Blog 欅坂 46 博客`
+- Route Name: `Blog 博客`
 - Example: `/keyakizaka46/blog`
 - URL: `www.keyakizaka46.com`
 - Language: `_None_`
@@ -41,7 +41,7 @@ _None_
   "maintainers": [
     "yj-qin"
   ],
-  "name": "Keyakizaka46 Blog 欅坂 46 博客",
+  "name": "Blog 博客",
   "path": "/blog",
   "test": {
     "code": 0

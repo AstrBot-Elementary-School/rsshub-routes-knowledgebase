@@ -10,7 +10,7 @@
 
 ## Routes
 
-### Steam Community Hub Feeds
+### Community Hub Feeds
 - Route ID: `steam:/steam/appcommunityfeed/:appid/:routeParams?`
 - Route Path: `/steam/appcommunityfeed/:appid/:routeParams?`
 - File: `docs/routes/steam/steam-appcommunityfeed-appid-routeparams.md`

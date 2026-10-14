@@ -43,36 +43,6 @@
 - `source`:
   - `www.jisilu.cn/category/:id`
 - `target`: `/category/:id`
-### Rule 2
-- `title`: `新股`
-- `source`:
-  - `www.jisilu.cn/category/3`
-- `target`: `/category/3`
-### Rule 3
-- `title`: `债券/可转债`
-- `source`:
-  - `www.jisilu.cn/category/4`
-- `target`: `/category/4`
-### Rule 4
-- `title`: `套利`
-- `source`:
-  - `www.jisilu.cn/category/5`
-- `target`: `/category/5`
-### Rule 5
-- `title`: `其他`
-- `source`:
-  - `www.jisilu.cn/category/6`
-- `target`: `/category/6`
-### Rule 6
-- `title`: `基金`
-- `source`:
-  - `www.jisilu.cn/category/7`
-- `target`: `/category/7`
-### Rule 7
-- `title`: `股票`
-- `source`:
-  - `www.jisilu.cn/category/8`
-- `target`: `/category/8`
 
 ## Raw JSON
 ```json
@@ -107,48 +77,6 @@
         "www.jisilu.cn/category/:id"
       ],
       "target": "/category/:id"
-    },
-    {
-      "source": [
-        "www.jisilu.cn/category/3"
-      ],
-      "target": "/category/3",
-      "title": "新股"
-    },
-    {
-      "source": [
-        "www.jisilu.cn/category/4"
-      ],
-      "target": "/category/4",
-      "title": "债券/可转债"
-    },
-    {
-      "source": [
-        "www.jisilu.cn/category/5"
-      ],
-      "target": "/category/5",
-      "title": "套利"
-    },
-    {
-      "source": [
-        "www.jisilu.cn/category/6"
-      ],
-      "target": "/category/6",
-      "title": "其他"
-    },
-    {
-      "source": [
-        "www.jisilu.cn/category/7"
-      ],
-      "target": "/category/7",
-      "title": "基金"
-    },
-    {
-      "source": [
-        "www.jisilu.cn/category/8"
-      ],
-      "target": "/category/8",
-      "title": "股票"
     }
   ],
   "test": {

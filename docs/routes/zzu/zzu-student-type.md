@@ -1,4 +1,4 @@
-# 郑州大学 - 郑大学生处
+# 郑州大学 - 学生处
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `zzu`
 - Namespace Name: `郑州大学`
 - Route Path: `/zzu/student/:type`
-- Route Name: `郑大学生处`
+- Route Name: `学生处`
 - Example: `/zzu/student/xwzx`
 - URL: `www.zzu.edu.cn`
 - Language: `_None_`
@@ -59,7 +59,7 @@
   "maintainers": [
     "amandus1990"
   ],
-  "name": "郑大学生处",
+  "name": "学生处",
   "parameters": {
     "type": "分类名"
   },

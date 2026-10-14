@@ -29,7 +29,7 @@ To subscribe to [Daily News](https://www.expats.cz/czech-news/daily-news), where
 | [Daily News](https://www.expats.cz/czech-news/daily-news)     | [daily-news](https://rsshub.app/expats/czech-news/daily-news)         |
 | [Prague Guide](https://www.expats.cz/czech-news/prague-guide) | [prague-guide](https://rsshub.app/expats/czech-news/prague-guide)     |
 | [Culture](https://www.expats.cz/czech-news/culture-events)    | [culture-events](https://rsshub.app/expats/czech-news/culture-events) |
-| [Food & Drink](https://www.expats.cz/czech-news/food-drink)   | [food-drink](https://rsshub.app/expats/czech-news/food)               |
+| [Food & Drink](https://www.expats.cz/czech-news/food-drink)   | [food-drink](https://rsshub.app/expats/czech-news/food-drink)         |
 | [Expat Life](https://www.expats.cz/czech-news/expat-life)     | [expat-life](https://rsshub.app/expats/czech-news/expat-life)         |
 | [Housing](https://www.expats.cz/czech-news/housing)           | [housing](https://rsshub.app/expats/czech-news/housing)               |
 | [Education](https://www.expats.cz/czech-news/education)       | [education](https://rsshub.app/expats/czech-news/education)           |
@@ -58,66 +58,67 @@ To subscribe to [Daily News](https://www.expats.cz/czech-news/daily-news), where
 ### Rule 1
 - `source`:
   - `www.expats.cz/czech-news/:category`
+- `target`: `/czech-news/:category`
 ### Rule 2
 - `title`: `Daily News`
 - `source`:
   - `www.expats.cz/czech-news/daily-news`
-- `target`: `/expats/czech-news/daily-news`
+- `target`: `/czech-news/daily-news`
 ### Rule 3
 - `title`: `Prague Guide`
 - `source`:
   - `www.expats.cz/czech-news/prague-guide`
-- `target`: `/expats/czech-news/prague-guide`
+- `target`: `/czech-news/prague-guide`
 ### Rule 4
 - `title`: `Culture & Events`
 - `source`:
   - `www.expats.cz/czech-news/culture-events`
-- `target`: `/expats/czech-news/culture-events`
+- `target`: `/czech-news/culture-events`
 ### Rule 5
 - `title`: `Food & Drink`
 - `source`:
   - `www.expats.cz/czech-news/food-drink`
-- `target`: `/expats/czech-news/food-drink`
+- `target`: `/czech-news/food-drink`
 ### Rule 6
 - `title`: `Expat Life`
 - `source`:
   - `www.expats.cz/czech-news/expat-life`
-- `target`: `/expats/czech-news/expat-life`
+- `target`: `/czech-news/expat-life`
 ### Rule 7
 - `title`: `Housing`
 - `source`:
   - `www.expats.cz/czech-news/housing`
-- `target`: `/expats/czech-news/housing`
+- `target`: `/czech-news/housing`
 ### Rule 8
 - `title`: `Education`
 - `source`:
   - `www.expats.cz/czech-news/education`
-- `target`: `/expats/czech-news/education`
+- `target`: `/czech-news/education`
 ### Rule 9
 - `title`: `Health`
 - `source`:
   - `www.expats.cz/czech-news/health`
-- `target`: `/expats/czech-news/health`
+- `target`: `/czech-news/health`
 ### Rule 10
 - `title`: `Work`
 - `source`:
   - `www.expats.cz/czech-news/work`
-- `target`: `/expats/czech-news/work`
+- `target`: `/czech-news/work`
 ### Rule 11
 - `title`: `Travel`
 - `source`:
   - `www.expats.cz/czech-news/travel`
-- `target`: `/expats/czech-news/travel`
+- `target`: `/czech-news/travel`
 ### Rule 12
 - `title`: `Economy`
 - `source`:
   - `www.expats.cz/czech-news/economy`
-- `target`: `/expats/czech-news/economy`
+- `target`: `/czech-news/economy`
 ### Rule 13
 - `title`: `Language`
 - `source`:
   - `www.expats.cz/czech-news/language`
-- `target`: `/expats/czech-news/language`
+- `target`: `/czech-news/language`
 
 ## Raw JSON
 ```json
@@ -125,7 +126,7 @@ To subscribe to [Daily News](https://www.expats.cz/czech-news/daily-news), where
   "categories": [
     "new-media"
   ],
-  "description": "::: tip\nTo subscribe to [Daily News](https://www.expats.cz/czech-news/daily-news), where the source URL is `https://www.expats.cz/czech-news/daily-news`, extract the certain parts from this URL to be used as parameters, resulting in the route as [`/expats/czech-news/daily-news`](https://rsshub.app/expats/czech-news/daily-news).\n:::\n\n<details>\n  <summary>More categories</summary>\n\n| Category                                                      | ID                                                                    |\n| ------------------------------------------------------------- | --------------------------------------------------------------------- |\n| [Daily News](https://www.expats.cz/czech-news/daily-news)     | [daily-news](https://rsshub.app/expats/czech-news/daily-news)         |\n| [Prague Guide](https://www.expats.cz/czech-news/prague-guide) | [prague-guide](https://rsshub.app/expats/czech-news/prague-guide)     |\n| [Culture](https://www.expats.cz/czech-news/culture-events)    | [culture-events](https://rsshub.app/expats/czech-news/culture-events) |\n| [Food & Drink](https://www.expats.cz/czech-news/food-drink)   | [food-drink](https://rsshub.app/expats/czech-news/food)               |\n| [Expat Life](https://www.expats.cz/czech-news/expat-life)     | [expat-life](https://rsshub.app/expats/czech-news/expat-life)         |\n| [Housing](https://www.expats.cz/czech-news/housing)           | [housing](https://rsshub.app/expats/czech-news/housing)               |\n| [Education](https://www.expats.cz/czech-news/education)       | [education](https://rsshub.app/expats/czech-news/education)           |\n| [Health](https://www.expats.cz/czech-news/health)             | [health](https://rsshub.app/expats/czech-news/health)                 |\n| [Work](https://www.expats.cz/czech-news/work)                 | [work](https://rsshub.app/expats/czech-news/work)                     |\n| [Travel](https://www.expats.cz/czech-news/travel)             | [travel](https://rsshub.app/expats/czech-news/travel)                 |\n| [Economy](https://www.expats.cz/czech-news/economy)           | [economy](https://rsshub.app/expats/czech-news/economy)               |\n| [Language](https://www.expats.cz/czech-news/language)         | [language](https://rsshub.app/expats/czech-news/language)             |\n\n</details>",
+  "description": "::: tip\nTo subscribe to [Daily News](https://www.expats.cz/czech-news/daily-news), where the source URL is `https://www.expats.cz/czech-news/daily-news`, extract the certain parts from this URL to be used as parameters, resulting in the route as [`/expats/czech-news/daily-news`](https://rsshub.app/expats/czech-news/daily-news).\n:::\n\n<details>\n  <summary>More categories</summary>\n\n| Category                                                      | ID                                                                    |\n| ------------------------------------------------------------- | --------------------------------------------------------------------- |\n| [Daily News](https://www.expats.cz/czech-news/daily-news)     | [daily-news](https://rsshub.app/expats/czech-news/daily-news)         |\n| [Prague Guide](https://www.expats.cz/czech-news/prague-guide) | [prague-guide](https://rsshub.app/expats/czech-news/prague-guide)     |\n| [Culture](https://www.expats.cz/czech-news/culture-events)    | [culture-events](https://rsshub.app/expats/czech-news/culture-events) |\n| [Food & Drink](https://www.expats.cz/czech-news/food-drink)   | [food-drink](https://rsshub.app/expats/czech-news/food-drink)         |\n| [Expat Life](https://www.expats.cz/czech-news/expat-life)     | [expat-life](https://rsshub.app/expats/czech-news/expat-life)         |\n| [Housing](https://www.expats.cz/czech-news/housing)           | [housing](https://rsshub.app/expats/czech-news/housing)               |\n| [Education](https://www.expats.cz/czech-news/education)       | [education](https://rsshub.app/expats/czech-news/education)           |\n| [Health](https://www.expats.cz/czech-news/health)             | [health](https://rsshub.app/expats/czech-news/health)                 |\n| [Work](https://www.expats.cz/czech-news/work)                 | [work](https://rsshub.app/expats/czech-news/work)                     |\n| [Travel](https://www.expats.cz/czech-news/travel)             | [travel](https://rsshub.app/expats/czech-news/travel)                 |\n| [Economy](https://www.expats.cz/czech-news/economy)           | [economy](https://rsshub.app/expats/czech-news/economy)               |\n| [Language](https://www.expats.cz/czech-news/language)         | [language](https://rsshub.app/expats/czech-news/language)             |\n\n</details>",
   "example": "/expats/czech-news/daily-news",
   "features": {
     "antiCrawler": false,
@@ -202,90 +203,91 @@ To subscribe to [Daily News](https://www.expats.cz/czech-news/daily-news), where
     {
       "source": [
         "www.expats.cz/czech-news/:category"
-      ]
+      ],
+      "target": "/czech-news/:category"
     },
     {
       "source": [
         "www.expats.cz/czech-news/daily-news"
       ],
-      "target": "/expats/czech-news/daily-news",
+      "target": "/czech-news/daily-news",
       "title": "Daily News"
     },
     {
       "source": [
         "www.expats.cz/czech-news/prague-guide"
       ],
-      "target": "/expats/czech-news/prague-guide",
+      "target": "/czech-news/prague-guide",
       "title": "Prague Guide"
     },
     {
       "source": [
         "www.expats.cz/czech-news/culture-events"
       ],
-      "target": "/expats/czech-news/culture-events",
+      "target": "/czech-news/culture-events",
       "title": "Culture & Events"
     },
     {
       "source": [
         "www.expats.cz/czech-news/food-drink"
       ],
-      "target": "/expats/czech-news/food-drink",
+      "target": "/czech-news/food-drink",
       "title": "Food & Drink"
     },
     {
       "source": [
         "www.expats.cz/czech-news/expat-life"
       ],
-      "target": "/expats/czech-news/expat-life",
+      "target": "/czech-news/expat-life",
       "title": "Expat Life"
     },
     {
       "source": [
         "www.expats.cz/czech-news/housing"
       ],
-      "target": "/expats/czech-news/housing",
+      "target": "/czech-news/housing",
       "title": "Housing"
     },
     {
       "source": [
         "www.expats.cz/czech-news/education"
       ],
-      "target": "/expats/czech-news/education",
+      "target": "/czech-news/education",
       "title": "Education"
     },
     {
       "source": [
         "www.expats.cz/czech-news/health"
       ],
-      "target": "/expats/czech-news/health",
+      "target": "/czech-news/health",
       "title": "Health"
     },
     {
       "source": [
         "www.expats.cz/czech-news/work"
       ],
-      "target": "/expats/czech-news/work",
+      "target": "/czech-news/work",
       "title": "Work"
     },
     {
       "source": [
         "www.expats.cz/czech-news/travel"
       ],
-      "target": "/expats/czech-news/travel",
+      "target": "/czech-news/travel",
       "title": "Travel"
     },
     {
       "source": [
         "www.expats.cz/czech-news/economy"
       ],
-      "target": "/expats/czech-news/economy",
+      "target": "/czech-news/economy",
       "title": "Economy"
     },
     {
       "source": [
         "www.expats.cz/czech-news/language"
       ],
-      "target": "/expats/czech-news/language",
+      "target": "/czech-news/language",
       "title": "Language"
     }
   ],

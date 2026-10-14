@@ -9,7 +9,7 @@
 - Route Path: `/sorrycc/`
 - Route Name: `文章`
 - Example: `/sorrycc`
-- URL: `sorrycc.com`
+- URL: `blog.sorrycc.com`
 - Language: `_None_`
 - Categories: `blog`
 - Maintainers: `KarasuShin`
@@ -17,7 +17,7 @@
 - Source Module: `_None_`
 
 ## Description
-云谦的博客，部分内容存在权限校验，访问完整内容请部署 RSSHub 私有实例并配置授权信息
+云谦的博客。受限文章仅包含网站公开提供的预览内容。
 
 ## Parameters
 _None_
@@ -25,12 +25,17 @@ _None_
 
 ## Features
 - `supportRadar`: true
-- `requireConfig`: [{"description": "登录用户的Cookie,获取方式：\n1. 登录sorrycc.com\n2. 打开浏览器开发者工具，切换到 Application 面板\n3. 点击侧边栏中的Storage -> Cookies -> https://sorrycc.com\n4. 复制 Cookie 中的 wordpress_logged_in_f05fca638390aed897fbe3c2fff03000 值", "name": "SORRYCC_COOKIES", "optional": true}]
 
 ## Radar
 ### Rule 1
 - `source`:
   - `sorrycc.com`
+- `target`: `/`
+### Rule 2
+- `source`:
+  - `blog.sorrycc.com/`
+  - `blog.sorrycc.com/*path`
+- `target`: `/`
 
 ## Raw JSON
 ```json
@@ -38,16 +43,9 @@ _None_
   "categories": [
     "blog"
   ],
-  "description": "云谦的博客，部分内容存在权限校验，访问完整内容请部署 RSSHub 私有实例并配置授权信息",
+  "description": "云谦的博客。受限文章仅包含网站公开提供的预览内容。",
   "example": "/sorrycc",
   "features": {
-    "requireConfig": [
-      {
-        "description": "登录用户的Cookie,获取方式：\n1. 登录sorrycc.com\n2. 打开浏览器开发者工具，切换到 Application 面板\n3. 点击侧边栏中的Storage -> Cookies -> https://sorrycc.com\n4. 复制 Cookie 中的 wordpress_logged_in_f05fca638390aed897fbe3c2fff03000 值",
-        "name": "SORRYCC_COOKIES",
-        "optional": true
-      }
-    ],
     "supportRadar": true
   },
   "heat": 0,
@@ -61,7 +59,15 @@ _None_
     {
       "source": [
         "sorrycc.com"
-      ]
+      ],
+      "target": "/"
+    },
+    {
+      "source": [
+        "blog.sorrycc.com/",
+        "blog.sorrycc.com/*path"
+      ],
+      "target": "/"
     }
   ],
   "test": {

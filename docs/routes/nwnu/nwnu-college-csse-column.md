@@ -40,7 +40,7 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `jsj.nwnu.edu.cn/:column/list`
+  - `jsj.nwnu.edu.cn/:column/list.htm`
 - `target`: `/college/csse/:column`
 
 ## Raw JSON
@@ -69,7 +69,7 @@ _None_
   "radar": [
     {
       "source": [
-        "jsj.nwnu.edu.cn/:column/list"
+        "jsj.nwnu.edu.cn/:column/list.htm"
       ],
       "target": "/college/csse/:column"
     }

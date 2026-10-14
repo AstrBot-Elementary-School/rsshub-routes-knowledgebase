@@ -26,7 +26,7 @@
 - Categories: `bbs`
 - Maintainers: `huyyi`
 
-### 牛客热榜
+### 热榜
 - Route ID: `nowcoder:/nowcoder/hots/:type?`
 - Route Path: `/nowcoder/hots/:type?`
 - File: `docs/routes/nowcoder/nowcoder-hots-type.md`
@@ -34,7 +34,7 @@
 - Categories: `bbs`
 - Maintainers: `xia0ne`
 
-### 牛客面试经验
+### 面试经验
 - Route ID: `nowcoder:/nowcoder/interview/:jobId`
 - Route Path: `/nowcoder/interview/:jobId`
 - File: `docs/routes/nowcoder/nowcoder-interview-jobid.md`

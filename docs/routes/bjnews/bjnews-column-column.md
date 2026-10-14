@@ -29,7 +29,7 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `m.bjnews.com.cn/column/:column.htm`
+  - `m.bjnews.com.cn/column/:column`
 
 ## Raw JSON
 ```json
@@ -52,7 +52,7 @@ _None_
   "radar": [
     {
       "source": [
-        "m.bjnews.com.cn/column/:column.htm"
+        "m.bjnews.com.cn/column/:column"
       ]
     }
   ],

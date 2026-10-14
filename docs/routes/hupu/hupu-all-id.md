@@ -9,7 +9,7 @@
 - Route Path: `/hupu/all/:id?`
 - Route Name: `热帖`
 - Example: `/hupu/all/topic-daily`
-- URL: `.hupu.com`
+- URL: `bbs.hupu.com`
 - Language: `_None_`
 - Categories: `bbs`
 - Maintainers: `nczitzk`
@@ -36,9 +36,8 @@
 ## Radar
 ### Rule 1
 - `source`:
-  - `m.hupu.com/:category`
-  - `m.hupu.com/`
-- `target`: `/:category`
+  - `bbs.hupu.com/topic-daily`
+- `target`: `/all/topic-daily`
 
 ## Raw JSON
 ```json
@@ -69,10 +68,9 @@
   "radar": [
     {
       "source": [
-        "m.hupu.com/:category",
-        "m.hupu.com/"
+        "bbs.hupu.com/topic-daily"
       ],
-      "target": "/:category"
+      "target": "/all/topic-daily"
     }
   ],
   "test": {

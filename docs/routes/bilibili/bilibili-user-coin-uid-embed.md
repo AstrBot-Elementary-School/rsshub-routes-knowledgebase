@@ -77,16 +77,16 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "hanser 的 bilibili 投币视频 - Powered by RSSHub",
+      "description": "哈喽的B站频道 的 bilibili 投币视频 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "202945335506028544",
+      "id": "62853430730507264",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://space.bilibili.com/11073",
-      "title": "hanser 的 bilibili 投币视频",
+      "siteUrl": "https://space.bilibili.com/383447486",
+      "title": "哈喽的B站频道 的 bilibili 投币视频",
       "type": "feed",
-      "url": "rsshub://bilibili/user/coin/11073"
+      "url": "rsshub://bilibili/user/coin/383447486"
     },
     {
       "description": "大闲人贾白 的 bilibili 投币视频 - Powered by RSSHub",

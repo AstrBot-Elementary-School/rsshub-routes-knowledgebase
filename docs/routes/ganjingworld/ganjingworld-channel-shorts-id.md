@@ -34,7 +34,8 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `ganjingworld.com`
+  - `ganjingworld.com/channel/:id`
+  - `www.ganjingworld.com/channel/:id`
 - `target`: `/channel/shorts/:id`
 
 ## Raw JSON
@@ -65,7 +66,8 @@ _None_
   "radar": [
     {
       "source": [
-        "ganjingworld.com"
+        "ganjingworld.com/channel/:id",
+        "www.ganjingworld.com/channel/:id"
       ],
       "target": "/channel/shorts/:id"
     }

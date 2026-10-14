@@ -1,4 +1,4 @@
-# NIO - NIO Radio
+# NIO - Radio
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `nio`
 - Namespace Name: `NIO`
 - Route Path: `/nio/nioradio/:albumid`
-- Route Name: `NIO Radio`
+- Route Name: `Radio`
 - Example: `/nio/nioradio/5`
 - URL: `nio.com`
 - Language: `_None_`
@@ -69,7 +69,7 @@ _None_
   "maintainers": [
     "marcosteam"
   ],
-  "name": "NIO Radio",
+  "name": "Radio",
   "parameters": {
     "albumid": "电台专辑 ID"
   },

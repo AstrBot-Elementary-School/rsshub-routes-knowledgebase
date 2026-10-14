@@ -79,18 +79,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Free Computer, Programming, Mathematics, Technical Books, Lecture Notes and Tutorials - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "62187667731240962",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://freecomputerbooks.com/",
-      "title": "Free Computer Books - Selected New Books",
-      "type": "feed",
-      "url": "rsshub://freecomputerbooks"
-    },
-    {
       "description": "Algorithms and Data Structures - Free Computer, Programming, Mathematics, Technical Books, Lecture Notes and Tutorials - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -101,6 +89,18 @@ _None_
       "title": "Free Computer Books - Algorithms and Data Structures",
       "type": "feed",
       "url": "rsshub://freecomputerbooks/compscAlgorithmBooks"
+    },
+    {
+      "description": "Free Computer, Programming, Mathematics, Technical Books, Lecture Notes and Tutorials - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "62187667731240962",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://freecomputerbooks.com/",
+      "title": "Free Computer Books - Selected New Books",
+      "type": "feed",
+      "url": "rsshub://freecomputerbooks"
     }
   ],
   "url": "freecomputerbooks.com"

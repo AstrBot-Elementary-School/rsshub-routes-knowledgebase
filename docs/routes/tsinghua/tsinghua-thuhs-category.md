@@ -36,7 +36,20 @@
 ## Radar
 ### Rule 1
 - `source`:
-  - `www.qhfz.edu.cn/:category.htm`
+  - `www.qhfz.edu.cn/tzgg.htm`
+- `target`: `/thuhs/tzgg`
+### Rule 2
+- `source`:
+  - `www.qhfz.edu.cn/xstd.htm`
+- `target`: `/thuhs/xstd`
+### Rule 3
+- `source`:
+  - `www.qhfz.edu.cn/jsfc.htm`
+- `target`: `/thuhs/jsfc`
+### Rule 4
+- `source`:
+  - `www.qhfz.edu.cn/xwdt.htm`
+- `target`: `/thuhs/xwdt`
 
 ## Raw JSON
 ```json
@@ -67,8 +80,27 @@
   "radar": [
     {
       "source": [
-        "www.qhfz.edu.cn/:category.htm"
-      ]
+        "www.qhfz.edu.cn/tzgg.htm"
+      ],
+      "target": "/thuhs/tzgg"
+    },
+    {
+      "source": [
+        "www.qhfz.edu.cn/xstd.htm"
+      ],
+      "target": "/thuhs/xstd"
+    },
+    {
+      "source": [
+        "www.qhfz.edu.cn/jsfc.htm"
+      ],
+      "target": "/thuhs/jsfc"
+    },
+    {
+      "source": [
+        "www.qhfz.edu.cn/xwdt.htm"
+      ],
+      "target": "/thuhs/xwdt"
     }
   ],
   "test": {

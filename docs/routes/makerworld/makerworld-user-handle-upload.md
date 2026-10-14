@@ -24,7 +24,7 @@ _None_
 
 
 ## Features
-_None_
+- `requirePuppeteer`: true
 
 ## Radar
 ### Rule 1
@@ -39,6 +39,9 @@ _None_
     "design"
   ],
   "example": "/makerworld/user/@Wcad00/upload",
+  "features": {
+    "requirePuppeteer": true
+  },
   "heat": 0,
   "location": "user-upload.ts",
   "maintainers": [

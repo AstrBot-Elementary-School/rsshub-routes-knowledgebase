@@ -37,6 +37,10 @@ _None_
 - `source`:
   - `windsurf.com/changelog`
 - `target`: `/changelog`
+### Rule 2
+- `source`:
+  - `docs.devin.ai/desktop/changelog`
+- `target`: `/changelog`
 
 ## Raw JSON
 ```json
@@ -65,6 +69,12 @@ _None_
     {
       "source": [
         "windsurf.com/changelog"
+      ],
+      "target": "/changelog"
+    },
+    {
+      "source": [
+        "docs.devin.ai/desktop/changelog"
       ],
       "target": "/changelog"
     }

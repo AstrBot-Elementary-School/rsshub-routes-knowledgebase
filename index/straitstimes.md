@@ -1,11 +1,11 @@
-# The Strait Times Route Index
+# The Straits Times Route Index
 
 ## Namespace
 - Namespace: `straitstimes`
-- Display Name: `The Strait Times`
+- Display Name: `The Straits Times`
 - URL: `straitstimes.com`
 - Language: `_None_`
-- Aliases: `straitstimes, straitstimes.com, the strait times`
+- Aliases: `straitstimes, straitstimes.com, the straits times`
 - Route Count: `1`
 
 ## Routes

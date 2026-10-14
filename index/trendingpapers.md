@@ -10,7 +10,7 @@
 
 ## Routes
 
-### Trending Papers on arXiv
+### arXiv paper ranking
 - Route ID: `trendingpapers:/trendingpapers/papers/:category?/:time?/:cited?`
 - Route Path: `/trendingpapers/papers/:category?/:time?/:cited?`
 - File: `docs/routes/trendingpapers/trendingpapers-papers-category-time-cited.md`

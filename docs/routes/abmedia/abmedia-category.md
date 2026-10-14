@@ -36,7 +36,13 @@
 ## Radar
 ### Rule 1
 - `source`:
-  - `www.abmedia.io/category/:catehory`
+  - `abmedia.io/category/:category`
+  - `abmedia.io/category/:parent/:category`
+- `target`: `/:category`
+### Rule 2
+- `source`:
+  - `www.abmedia.io/category/:category`
+  - `www.abmedia.io/category/:parent/:category`
 - `target`: `/:category`
 
 ## Raw JSON
@@ -68,7 +74,15 @@
   "radar": [
     {
       "source": [
-        "www.abmedia.io/category/:catehory"
+        "abmedia.io/category/:category",
+        "abmedia.io/category/:parent/:category"
+      ],
+      "target": "/:category"
+    },
+    {
+      "source": [
+        "www.abmedia.io/category/:category",
+        "www.abmedia.io/category/:parent/:category"
       ],
       "target": "/:category"
     }

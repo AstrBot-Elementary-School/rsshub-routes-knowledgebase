@@ -20,7 +20,7 @@
 在博客园主页的分类出可查看所有类型。例如，go 的分类地址为: `https://www.cnblogs.com/cate/go/`, 则: [`/cnblogs/cate/go`](https://rsshub.app/cnblogs/cate/go)
 
 ## Parameters
-_None_
+- `type`: 博客分类，仅用于 /cate/:type，可在对应分类页 URL 中找到，如 go
 
 
 ## Features
@@ -58,7 +58,9 @@ _None_
     "hujingnb"
   ],
   "name": "10 天推荐排行榜",
-  "parameters": {},
+  "parameters": {
+    "type": "博客分类，仅用于 /cate/:type，可在对应分类页 URL 中找到，如 go"
+  },
   "path": [
     "/aggsite/topdiggs",
     "/aggsite/topviews",

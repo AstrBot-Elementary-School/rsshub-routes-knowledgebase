@@ -36,7 +36,7 @@ _None_
 ### Rule 1
 - `source`:
   - `furaffinity.net`
-- `target`: `/`
+- `target`: `/status`
 
 ## Raw JSON
 ```json
@@ -68,7 +68,7 @@ _None_
       "source": [
         "furaffinity.net"
       ],
-      "target": "/"
+      "target": "/status"
     }
   ],
   "test": {

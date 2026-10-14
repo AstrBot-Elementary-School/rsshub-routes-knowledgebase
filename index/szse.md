@@ -26,7 +26,7 @@
 - Categories: `finance`
 - Maintainers: `Jeason0228, nczitzk`
 
-### 上市公告 - 可转换债券
+### 上市公司公告
 - Route ID: `szse:/szse/notice`
 - Route Path: `/szse/notice`
 - File: `docs/routes/szse/szse-notice.md`

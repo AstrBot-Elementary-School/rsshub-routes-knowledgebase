@@ -27,9 +27,7 @@ _None_
 _None_
 
 ## Radar
-### Rule 1
-- `source`:
-  - `inspirehep.net/literature`
+_None_
 
 ## Raw JSON
 ```json
@@ -48,13 +46,6 @@ _None_
     "q": "Search keyword"
   },
   "path": "/literature/:q",
-  "radar": [
-    {
-      "source": [
-        "inspirehep.net/literature"
-      ]
-    }
-  ],
   "test": {
     "code": 0
   },
@@ -63,25 +54,25 @@ _None_
       "description": "Literature Search - INSPIRE - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "69965125338796051",
+      "id": "69965125338796039",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20A.Puhm.1",
+      "siteUrl": "https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20G.Compere.1",
       "title": "Literature Search - INSPIRE",
       "type": "feed",
-      "url": "rsshub://inspirehep/literature/a%20A.Puhm.1"
+      "url": "rsshub://inspirehep/literature/a%20G.Compere.1"
     },
     {
       "description": "Literature Search - INSPIRE - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "69965125338796036",
+      "id": "67195512624501760",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20H.Casini.1",
+      "siteUrl": "https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=Physics",
       "title": "Literature Search - INSPIRE",
       "type": "feed",
-      "url": "rsshub://inspirehep/literature/a%20H.Casini.1"
+      "url": "rsshub://inspirehep/literature/Physics"
     }
   ]
 }

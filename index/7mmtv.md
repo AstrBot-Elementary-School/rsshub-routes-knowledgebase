@@ -3,9 +3,9 @@
 ## Namespace
 - Namespace: `7mmtv`
 - Display Name: `7mmtv`
-- URL: `7mmtv.tv`
+- URL: `7mmtv.sx`
 - Language: `_None_`
-- Aliases: `7mmtv, 7mmtv.tv`
+- Aliases: `7mmtv, 7mmtv.sx`
 - Route Count: `1`
 
 ## Routes

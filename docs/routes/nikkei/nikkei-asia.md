@@ -1,4 +1,4 @@
-# The Nikkei 日本経済新聞 - Nikkei Asia Latest News
+# The Nikkei 日本経済新聞 - Asia Latest News
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `nikkei`
 - Namespace Name: `The Nikkei 日本経済新聞`
 - Route Path: `/nikkei/asia`
-- Route Name: `Nikkei Asia Latest News`
+- Route Name: `Asia Latest News`
 - Example: `/nikkei/asia`
 - URL: `asia.nikkei.com`
 - Language: `_None_`
@@ -38,12 +38,12 @@ _None_
     "traditional-media"
   ],
   "example": "/nikkei/asia",
-  "heat": 151,
+  "heat": 152,
   "location": "asia/index.ts",
   "maintainers": [
     "rainrdx"
   ],
-  "name": "Nikkei Asia Latest News",
+  "name": "Asia Latest News",
   "path": "/asia",
   "radar": [
     {

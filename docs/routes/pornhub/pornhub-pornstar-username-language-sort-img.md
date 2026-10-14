@@ -21,7 +21,7 @@ _None_
 
 ## Parameters
 - `username`: {"description": "username, part of the url e.g. `pornhub.com/pornstar/june-liu`"}
-- `language`: {"default": "www", "description": "language, defaults to `www` (English)", "options": [{"label": "English", "value": "www"}, {"label": "Deutsch", "value": "de"}, {"label": "Español", "value": "es"}, {"label": "Français", "value": "fr"}, {"label": "Italiano", "value": "it"}, {"label": "日本語", "value": "ja"}, {"label": "Português", "value": "pt"}, {"label": "Polski", "value": "pl"}, {"label": "Русский", "value": "rt"}, {"label": "Dutch", "value": "nl"}, {"label": "Czech", "value": "cs"}, {"label": "中文（简体）", "value": "cn"}]}
+- `language`: {"default": "www", "description": "language, defaults to `www` (English)", "options": [{"label": "English", "value": "www"}, {"label": "Deutsch", "value": "de"}, {"label": "Español", "value": "es"}, {"label": "Français", "value": "fr"}, {"label": "Italiano", "value": "it"}, {"label": "日本語", "value": "jp"}, {"label": "Português", "value": "pt"}, {"label": "Polski", "value": "pl"}, {"label": "Русский", "value": "rt"}, {"label": "Dutch", "value": "nl"}, {"label": "Czech", "value": "cz"}, {"label": "中文（简体）", "value": "cn"}]}
 - `sort`: {"description": "sorting method, defaults to `mr` (Most Recent)", "options": [{"label": "Most Recent", "value": "mr"}, {"label": "Most Viewed", "value": "mv"}, {"label": "Top Rated", "value": "tr"}, {"label": "Longest", "value": "lg"}]}
 - `img`: show images, set to `img=1` to enable
 
@@ -114,7 +114,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2678,
+  "heat": 2677,
   "location": "pornstar.ts",
   "maintainers": [
     "I2IMk",
@@ -149,7 +149,7 @@ _None_
         },
         {
           "label": "日本語",
-          "value": "ja"
+          "value": "jp"
         },
         {
           "label": "Português",
@@ -169,7 +169,7 @@ _None_
         },
         {
           "label": "Czech",
-          "value": "cs"
+          "value": "cz"
         },
         {
           "label": "中文（简体）",
@@ -296,8 +296,8 @@ _None_
   "topFeeds": [
     {
       "description": "About Get all my videos on https://onlyfans.com/juneliu ❤️ or on Spicy-Gum.com - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-13T10:51:08.777Z",
+      "errorMessage": "Authentication failed. Access denied.\n/pornhub/pornstar/june-liu\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "60754322953807872",
       "image": "https://ei.phncdn.com/(m=bLWsSeKlbyaT)(mh=pKI7W133KHu0uEPf)5dbc36b7-71ee-42c2-b5bb-1a51c7e2f8cc.jpg",
       "ownerUserId": null,
@@ -311,7 +311,7 @@ _None_
       "errorAt": null,
       "errorMessage": null,
       "id": "62534515745689600",
-      "image": "https://ei.phprcdn.com/(m=bLWsSeKlbyaT)(mh=URsNE9MitabJ-6Qp)aa0291a2-3441-4a60-8cb0-029dd2f53c6c.jpg",
+      "image": "https://ei.phncdn.com/(m=bLWsSeKlbyaT)(mh=URsNE9MitabJ-6Qp)aa0291a2-3441-4a60-8cb0-029dd2f53c6c.jpg",
       "ownerUserId": null,
       "siteUrl": "https://www.pornhub.com/pornstar/elle-lee/videos?o=mr",
       "title": "Elle Lee",

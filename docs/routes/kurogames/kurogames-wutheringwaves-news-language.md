@@ -47,6 +47,7 @@ _None_
 - `source`:
   - `wutheringwaves.kurogames.com/en/main/news`
   - `wutheringwaves.kurogames.com/en/main`
+- `target`: `/wutheringwaves/news/en`
 
 ## Raw JSON
 ```json
@@ -79,6 +80,7 @@ _None_
         "wutheringwaves.kurogames.com/en/main/news",
         "wutheringwaves.kurogames.com/en/main"
       ],
+      "target": "/wutheringwaves/news/en",
       "title": "Wuthering Waves — Game announcements, news and events"
     }
   ],

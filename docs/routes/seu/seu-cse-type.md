@@ -1,4 +1,4 @@
-# 东南大学 - 计算机技术与工程学院
+# 东南大学 - 计算机科学与工程学院
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `seu`
 - Namespace Name: `东南大学`
 - Route Path: `/seu/cse/:type?`
-- Route Name: `计算机技术与工程学院`
+- Route Name: `计算机科学与工程学院`
 - Example: `/seu/cse/xyxw`
 - URL: `cse.seu.edu.cn`
 - Language: `_None_`
@@ -60,7 +60,7 @@
   "maintainers": [
     "LogicJake"
   ],
-  "name": "计算机技术与工程学院",
+  "name": "计算机科学与工程学院",
   "parameters": {
     "type": "分类名，默认为 `xyxw`"
   },

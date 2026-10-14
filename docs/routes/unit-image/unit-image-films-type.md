@@ -31,6 +31,10 @@ _None_
 - `source`:
   - `www.unit-image.fr/films`
 - `target`: `/films`
+### Rule 2
+- `source`:
+  - `www.unit-image.fr/category/:type`
+- `target`: `/films/:type`
 
 ## Raw JSON
 ```json
@@ -79,6 +83,12 @@ _None_
         "www.unit-image.fr/films"
       ],
       "target": "/films"
+    },
+    {
+      "source": [
+        "www.unit-image.fr/category/:type"
+      ],
+      "target": "/films/:type"
     }
   ],
   "test": {

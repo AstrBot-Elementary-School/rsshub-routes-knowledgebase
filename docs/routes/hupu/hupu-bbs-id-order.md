@@ -9,7 +9,7 @@
 - Route Path: `/hupu/bbs/:id?/:order?`
 - Route Name: `社区`
 - Example: `/hupu/bbs/topic-daily`
-- URL: `.hupu.com`
+- URL: `bbs.hupu.com`
 - Language: `_None_`
 - Categories: `bbs`
 - Maintainers: `LogicJake, nczitzk`
@@ -23,7 +23,7 @@
 
 ## Parameters
 - `id`: 编号，可在对应社区 URL 中找到，默认为#步行街主干道
-- `order`: 排序方式，可选 `0` 即 最新回复 或 `1` 即 最新发布，默认为最新回复
+- `order`: 排序方式，可选 `0` 即 最新回复 或 `1` 即 最新发布，默认为最新发布
 
 
 ## Features
@@ -37,9 +37,8 @@
 ## Radar
 ### Rule 1
 - `source`:
-  - `m.hupu.com/:category`
-  - `m.hupu.com/`
-- `target`: `/:category`
+  - `bbs.hupu.com/topic-daily-postdate`
+- `target`: `/bbs/topic-daily`
 
 ## Raw JSON
 ```json
@@ -66,19 +65,15 @@
   "name": "社区",
   "parameters": {
     "id": "编号，可在对应社区 URL 中找到，默认为#步行街主干道",
-    "order": "排序方式，可选 `0` 即 最新回复 或 `1` 即 最新发布，默认为最新回复"
+    "order": "排序方式，可选 `0` 即 最新回复 或 `1` 即 最新发布，默认为最新发布"
   },
-  "path": [
-    "/bbs/:id?/:order?",
-    "/bxj/:id?/:order?"
-  ],
+  "path": "/bbs/:id?/:order?",
   "radar": [
     {
       "source": [
-        "m.hupu.com/:category",
-        "m.hupu.com/"
+        "bbs.hupu.com/topic-daily-postdate"
       ],
-      "target": "/:category"
+      "target": "/bbs/topic-daily"
     }
   ],
   "test": {

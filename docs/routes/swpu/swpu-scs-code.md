@@ -35,9 +35,15 @@
 
 ## Radar
 ### Rule 1
+- `title`: `计算机与软件学院 - 通知公告`
 - `source`:
-  - `swpu.edu.cn/`
-- `target`: ``
+  - `www.swpu.edu.cn/scs/index/tzgg.htm`
+- `target`: `/scs/tzgg`
+### Rule 2
+- `title`: `计算机与软件学院 - 新闻速递`
+- `source`:
+  - `www.swpu.edu.cn/scs/index/xwsd.htm`
+- `target`: `/scs/xwsd`
 
 ## Raw JSON
 ```json
@@ -68,9 +74,17 @@
   "radar": [
     {
       "source": [
-        "swpu.edu.cn/"
+        "www.swpu.edu.cn/scs/index/tzgg.htm"
       ],
-      "target": ""
+      "target": "/scs/tzgg",
+      "title": "计算机与软件学院 - 通知公告"
+    },
+    {
+      "source": [
+        "www.swpu.edu.cn/scs/index/xwsd.htm"
+      ],
+      "target": "/scs/xwsd",
+      "title": "计算机与软件学院 - 新闻速递"
     }
   ],
   "test": {

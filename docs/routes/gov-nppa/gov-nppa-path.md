@@ -6,7 +6,7 @@
 ## Route
 - Namespace: `gov/nppa`
 - Namespace Name: `国家新闻出版署`
-- Route Path: `/gov/nppa/:path{.+}`
+- Route Path: `/gov/nppa/:path{.+}?`
 - Route Name: `通用`
 - Example: `/gov/nppa/xxfb/ywxx`
 - URL: `www.nppa.gov.cn`
@@ -45,10 +45,7 @@ _None_
   "parameters": {
     "path": "路径，留空默认 `xxfb/ywxx`"
   },
-  "path": "/:path{.+}",
-  "test": {
-    "code": 1
-  },
+  "path": "/:path{.+}?",
   "topFeeds": []
 }
 ```

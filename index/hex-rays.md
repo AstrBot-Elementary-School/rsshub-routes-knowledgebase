@@ -10,10 +10,10 @@
 
 ## Routes
 
-### Hex-Rays News
+### News
 - Route ID: `hex-rays:/hex-rays/news`
 - Route Path: `/hex-rays/news`
 - File: `docs/routes/hex-rays/hex-rays-news.md`
 - File Name: `hex-rays-news.md`
 - Categories: `programming`
-- Maintainers: `hellodword , TonyRL, Mas0n`
+- Maintainers: `hellodword, TonyRL, Mas0n`

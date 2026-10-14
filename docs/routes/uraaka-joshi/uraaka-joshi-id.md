@@ -36,6 +36,7 @@ _None_
 ### Rule 1
 - `source`:
   - `uraaka-joshi.com/:id`
+  - `uraaka-joshi.com/user/:id`
 
 ## Raw JSON
 ```json
@@ -67,7 +68,8 @@ _None_
   "radar": [
     {
       "source": [
-        "uraaka-joshi.com/:id"
+        "uraaka-joshi.com/:id",
+        "uraaka-joshi.com/user/:id"
       ]
     }
   ],

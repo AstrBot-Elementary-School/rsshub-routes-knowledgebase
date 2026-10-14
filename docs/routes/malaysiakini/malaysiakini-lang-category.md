@@ -125,7 +125,7 @@
     {
       "description": "News & Views That Matter - Powered by RSSHub",
       "errorAt": "2026-09-07T09:32:19.566Z",
-      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/886756-egyptian-president-accorded-state-welcoming-ceremony-at-istana-negara\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/886878-tuanku-muhriz-denies-receiving-invite-to-conference-of-rulers-meeting-says-not-attending\": 404 Not Found\n",
       "id": "61840955600323584",
       "image": null,
       "ownerUserId": null,
@@ -137,7 +137,7 @@
     {
       "description": "News & Views That Matter - Powered by RSSHub",
       "errorAt": "2026-09-07T10:16:30.919Z",
-      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/886763-diwali%E9%9D%9E%E5%B1%A0%E5%A6%96%E8%8A%82%E5%AE%98%E7%A7%B0%E6%B2%99%E6%8B%89%E7%93%A6%E5%8D%97%E4%BF%83%E6%9D%A8%E5%B7%A7%E5%8F%8C%E7%BA%A0%E6%AD%A3%E6%A8%AA%E5%B9%85%E7%94%A8%E8%AF%8D\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/886890-%E6%8A%A8%E6%94%BF%E5%BA%9C%E5%9C%A8%E6%89%8E%E5%B8%8C%E5%81%A5%E6%80%9D%E6%A1%88%E5%8F%8C%E6%A0%87%E9%9B%B7%E5%B0%94%E5%BC%BA%E8%B0%83%E6%97%A0%E4%BA%BA%E5%8F%AF%E8%B1%81%E5%85%8D\": 404 Not Found\n",
       "id": "69685104073634816",
       "image": null,
       "ownerUserId": null,

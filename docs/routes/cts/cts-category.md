@@ -36,6 +36,14 @@
 ## Radar
 ### Rule 1
 - `source`:
+  - `news.cts.com.tw/breaking/list`
+- `target`: `/real`
+### Rule 2
+- `source`:
+  - `news.cts.com.tw/:category/list`
+- `target`: `/:category`
+### Rule 3
+- `source`:
   - `news.cts.com.tw/:category/index.html`
 
 ## Raw JSON
@@ -65,6 +73,18 @@
   },
   "path": "/:category",
   "radar": [
+    {
+      "source": [
+        "news.cts.com.tw/breaking/list"
+      ],
+      "target": "/real"
+    },
+    {
+      "source": [
+        "news.cts.com.tw/:category/list"
+      ],
+      "target": "/:category"
+    },
     {
       "source": [
         "news.cts.com.tw/:category/index.html"

@@ -29,7 +29,12 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
+  - `daily.dev/squads/:squads`
+- `target`: `/squads/:squads`
+### Rule 2
+- `source`:
   - `app.daily.dev/squads/:squads`
+- `target`: `/squads/:squads`
 
 ## Raw JSON
 ```json
@@ -48,8 +53,15 @@ _None_
   "radar": [
     {
       "source": [
+        "daily.dev/squads/:squads"
+      ],
+      "target": "/squads/:squads"
+    },
+    {
+      "source": [
         "app.daily.dev/squads/:squads"
-      ]
+      ],
+      "target": "/squads/:squads"
     }
   ],
   "test": {

@@ -10,7 +10,7 @@
 
 ## Routes
 
-### 禁忌书屋
+### 帖子
 - Route ID: `cool18:/cool18/:id?/:type?/:keyword?`
 - Route Path: `/cool18/:id?/:type?/:keyword?`
 - File: `docs/routes/cool18/cool18-id-type-keyword.md`

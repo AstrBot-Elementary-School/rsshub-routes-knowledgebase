@@ -6,17 +6,9 @@
 - URL: `openai.com`
 - Language: `_None_`
 - Aliases: `openai, openai.com`
-- Route Count: `5`
+- Route Count: `4`
 
 ## Routes
-
-### ChatGPT Atlas - Release Notes
-- Route ID: `openai:/openai/chatgpt-atlas/release-notes`
-- Route Path: `/openai/chatgpt-atlas/release-notes`
-- File: `docs/routes/openai/openai-chatgpt-atlas-release-notes.md`
-- File Name: `openai-chatgpt-atlas-release-notes.md`
-- Categories: `program-update`
-- Maintainers: `xbot`
 
 ### ChatGPT - Release Notes
 - Route ID: `openai:/openai/chatgpt/release-notes`

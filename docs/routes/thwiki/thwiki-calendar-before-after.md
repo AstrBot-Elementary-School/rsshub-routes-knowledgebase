@@ -82,7 +82,7 @@ _None_
     {
       "description": "A Touhou related events calendar api from THBWiki - Powered by RSSHub",
       "errorAt": "2026-05-29T02:41:59.767Z",
-      "errorMessage": "[GET] \"https://calendar-serverless.thwiki.cc/api/events/2026-09-11/2026-11-10\": 525 <none>\n",
+      "errorMessage": "[GET] \"https://calendar-serverless.thwiki.cc/api/events/2026-09-12/2026-11-11\": 525 <none>\n",
       "id": "60280539896619008",
       "image": null,
       "ownerUserId": null,

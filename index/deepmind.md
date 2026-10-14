@@ -3,9 +3,9 @@
 ## Namespace
 - Namespace: `deepmind`
 - Display Name: `DeepMind`
-- URL: `deepmind.com`
+- URL: `deepmind.google`
 - Language: `_None_`
-- Aliases: `deepmind, deepmind.com`
+- Aliases: `deepmind, deepmind.google`
 - Route Count: `1`
 
 ## Routes

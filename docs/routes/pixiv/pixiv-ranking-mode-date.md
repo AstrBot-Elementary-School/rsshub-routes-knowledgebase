@@ -20,12 +20,12 @@
 _None_
 
 ## Parameters
-- `mode`: {"default": "day", "description": "rank type", "options": [{"label": "daily rank", "value": "day"}, {"label": "weekly rank", "value": "week"}, {"label": "monthly rank", "value": "month"}, {"label": "male rank", "value": "day_male"}, {"label": "female rank", "value": "day_felame"}, {"label": "AI-generated work Rankings", "value": "day_ai"}, {"label": "original rank", "value": "week_original"}, {"label": "rookie user rank", "value": "week_rookie"}, {"label": "R-18 daily rank", "value": "day_r18"}, {"label": "R-18 AI-generated work", "value": "day_r18_ai"}, {"label": "R-18 male rank", "value": "day_male_r18"}, {"label": "R-18 female rank", "value": "day_female_r18"}, {"label": "R-18 weekly rank", "value": "week_r18"}, {"label": "R-18G rank", "value": "week_r18g"}]}
+- `mode`: {"default": "day", "description": "rank type", "options": [{"label": "daily rank", "value": "day"}, {"label": "weekly rank", "value": "week"}, {"label": "monthly rank", "value": "month"}, {"label": "male rank", "value": "day_male"}, {"label": "female rank", "value": "day_female"}, {"label": "AI-generated work Rankings", "value": "day_ai"}, {"label": "original rank", "value": "week_original"}, {"label": "rookie user rank", "value": "week_rookie"}, {"label": "R-18 daily rank", "value": "day_r18"}, {"label": "R-18 AI-generated work", "value": "day_r18_ai"}, {"label": "R-18 male rank", "value": "day_male_r18"}, {"label": "R-18 female rank", "value": "day_female_r18"}, {"label": "R-18 weekly rank", "value": "week_r18"}, {"label": "R-18G rank", "value": "week_r18g"}]}
 - `date`: format: `2018-4-25`
 
 
 ## Features
-- `requireConfig`: false
+- `requireConfig`: [{"description": "Pixiv refresh token required for accessing the app API.", "name": "PIXIV_REFRESHTOKEN"}]
 - `requirePuppeteer`: false
 - `antiCrawler`: false
 - `supportBT`: false
@@ -47,13 +47,18 @@ _None_
   "features": {
     "antiCrawler": false,
     "nsfw": true,
-    "requireConfig": false,
+    "requireConfig": [
+      {
+        "description": "Pixiv refresh token required for accessing the app API.",
+        "name": "PIXIV_REFRESHTOKEN"
+      }
+    ],
     "requirePuppeteer": false,
     "supportBT": false,
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 7700,
+  "heat": 7701,
   "location": "ranking.ts",
   "maintainers": [
     "EYHN"
@@ -83,7 +88,7 @@ _None_
         },
         {
           "label": "female rank",
-          "value": "day_felame"
+          "value": "day_female"
         },
         {
           "label": "AI-generated work Rankings",
@@ -130,7 +135,7 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "2026年10月12日 pixiv 日排行 - Powered by RSSHub",
+      "description": "2026年10月13日 pixiv 日排行 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "41427688948323328",
@@ -142,7 +147,7 @@ _None_
       "url": "rsshub://pixiv/ranking/day"
     },
     {
-      "description": "2026年10月12日 pixiv 周排行 - Powered by RSSHub",
+      "description": "2026年10月13日 pixiv 周排行 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "41147805276726317",

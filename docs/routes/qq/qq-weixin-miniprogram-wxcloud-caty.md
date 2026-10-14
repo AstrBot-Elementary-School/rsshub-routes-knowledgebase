@@ -22,7 +22,7 @@
 | cloud-sdk                          | ide                           | server-sdk             |
 
 ## Parameters
-- `caty`: 日志分类
+- `caty`: 日志分类，默认为 cloud-sdk
 
 
 ## Features
@@ -46,7 +46,7 @@ _None_
   ],
   "name": "云开发更新日志",
   "parameters": {
-    "caty": "日志分类"
+    "caty": "日志分类，默认为 cloud-sdk"
   },
   "path": "/weixin/miniprogram/wxcloud/:caty?",
   "test": {

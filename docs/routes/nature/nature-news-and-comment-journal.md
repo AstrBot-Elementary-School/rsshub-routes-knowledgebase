@@ -9,7 +9,7 @@
 - Route Path: `/nature/news-and-comment/:journal?`
 - Route Name: `News & Comment`
 - Example: `/nature/news-and-comment/ng`
-- URL: `nature.com/latest-news`
+- URL: `nature.com/ng/news-and-comment`
 - Language: `_None_`
 - Categories: `journal`
 - Maintainers: `y9c, TonyRL`
@@ -46,10 +46,8 @@
 ## Radar
 ### Rule 1
 - `source`:
-  - `nature.com/latest-news`
-  - `nature.com/news`
-  - `nature.com/`
-- `target`: `/news`
+  - `nature.com/:journal/news-and-comment`
+- `target`: `/news-and-comment/:journal`
 
 ## Raw JSON
 ```json
@@ -81,11 +79,9 @@
   "radar": [
     {
       "source": [
-        "nature.com/latest-news",
-        "nature.com/news",
-        "nature.com/"
+        "nature.com/:journal/news-and-comment"
       ],
-      "target": "/news"
+      "target": "/news-and-comment/:journal"
     }
   ],
   "test": {
@@ -117,6 +113,6 @@
       "url": "rsshub://nature/news-and-comment/ngeo"
     }
   ],
-  "url": "nature.com/latest-news"
+  "url": "nature.com/ng/news-and-comment"
 }
 ```

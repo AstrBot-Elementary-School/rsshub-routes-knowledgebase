@@ -3,9 +3,9 @@
 ## Namespace
 - Namespace: `cupl`
 - Display Name: `CUPL`
-- URL: `jwc.cupl.edu.cn/index/tzgg.htm`
+- URL: `jwc.cupl.edu.cn/tz/tzgg.htm`
 - Language: `_None_`
-- Aliases: `cupl, jwc, jwc.cupl.edu.cn/index/tzgg.htm`
+- Aliases: `cupl, jwc, jwc.cupl.edu.cn/tz/tzgg.htm`
 - Route Count: `1`
 
 ## Routes

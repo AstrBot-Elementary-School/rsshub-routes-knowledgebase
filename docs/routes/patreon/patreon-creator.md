@@ -78,7 +78,7 @@ _None_
       "errorAt": null,
       "errorMessage": null,
       "id": "210727018282671124",
-      "image": "https://c10.patreonusercontent.com/4/patreon-media/p/user/3447535/5bfb46da077a4253a77bb46e612a0178/eyJoIjoxMDgwLCJ3IjoxMDgwfQ%3D%3D/3.jpg?token-hash=SooSkFpewlHTRsZBSDwtvd_YAxUUlxOsrHjvOgPST_o%3D&token-time=1793059200",
+      "image": "https://c10.patreonusercontent.com/4/patreon-media/p/user/3447535/5bfb46da077a4253a77bb46e612a0178/eyJoIjoxMDgwLCJ3IjoxMDgwfQ%3D%3D/3.jpg?token-hash=sCHRp3MqHWNYzao0oqL_WL_60DBBTFkDYVOwCY-2pMU%3D&token-time=1793145600",
       "ownerUserId": null,
       "siteUrl": "https://www.patreon.com/capturingchristianity",
       "title": "Cameron Bertuzzi",
@@ -86,16 +86,16 @@ _None_
       "url": "rsshub://patreon/capturingchristianity"
     },
     {
-      "description": "Yaoi/Gay AI artworks. (NSFW) - Powered by RSSHub",
+      "description": "Yaoi & Gay NSFW | Fanarts & Original | Not accepting commissions - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "107187512318883840",
-      "image": "https://c10.patreonusercontent.com/4/patreon-media/p/campaign/12481247/88cace64bc5f4c1581085f33ed4e684d/eyJoIjoxMDgwLCJ3IjoxMDgwfQ%3D%3D/7.png?token-hash=uLrrhArUQt60IpujYPdxULyBLaMgi237Pt6zK8Sbc74%3D&token-time=1793059200",
+      "id": "103451624702321664",
+      "image": "https://c10.patreonusercontent.com/4/patreon-media/p/user/132717298/4dd3ab4d5eb1433d972b076a325d0bce/eyJoIjoxMDgwLCJ3IjoxMDgwfQ%3D%3D/92.png?token-hash=5LzXsxJ1inf4OXmpJ--8Wkek_VImBwz9vrhiV8F92YA%3D&token-time=1793145600",
       "ownerUserId": null,
-      "siteUrl": "https://www.patreon.com/Valarant",
-      "title": "Valarant",
+      "siteUrl": "https://www.patreon.com/tianyu6671",
+      "title": "tianyu",
       "type": "feed",
-      "url": "rsshub://patreon/Valarant"
+      "url": "rsshub://patreon/tianyu6671"
     }
   ]
 }

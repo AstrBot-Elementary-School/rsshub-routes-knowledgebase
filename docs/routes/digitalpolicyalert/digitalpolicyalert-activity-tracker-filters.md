@@ -22,7 +22,7 @@ To subscribe to [Activity Tracker - International trade](https://digitalpolicyal
 :::
 
 ## Parameters
-- `filter`: {"description": "Filter, all by default"}
+- `filters`: {"description": "Filter, all by default"}
 
 
 ## Features
@@ -38,6 +38,9 @@ To subscribe to [Activity Tracker - International trade](https://digitalpolicyal
 ### Rule 1
 - `source`:
   - `digitalpolicyalert.org`
+  - `digitalpolicyalert.org/activity-tracker`
+  - `digitalpolicyalert.org/change/:slug`
+- `target`: `/activity-tracker`
 
 ## Raw JSON
 ```json
@@ -64,7 +67,7 @@ To subscribe to [Activity Tracker - International trade](https://digitalpolicyal
   ],
   "name": "Activity Tracker",
   "parameters": {
-    "filter": {
+    "filters": {
       "description": "Filter, all by default"
     }
   },
@@ -72,8 +75,11 @@ To subscribe to [Activity Tracker - International trade](https://digitalpolicyal
   "radar": [
     {
       "source": [
-        "digitalpolicyalert.org"
-      ]
+        "digitalpolicyalert.org",
+        "digitalpolicyalert.org/activity-tracker",
+        "digitalpolicyalert.org/change/:slug"
+      ],
+      "target": "/activity-tracker"
     }
   ],
   "test": {

@@ -65,7 +65,6 @@ Provides a better reading experience (full text articles) over the official one.
 ### Rule 1
 - `source`:
   - `theverge.com/:hub`
-  - `theverge.com/`
 
 ## Raw JSON
 ```json
@@ -97,8 +96,7 @@ Provides a better reading experience (full text articles) over the official one.
   "radar": [
     {
       "source": [
-        "theverge.com/:hub",
-        "theverge.com/"
+        "theverge.com/:hub"
       ]
     }
   ],

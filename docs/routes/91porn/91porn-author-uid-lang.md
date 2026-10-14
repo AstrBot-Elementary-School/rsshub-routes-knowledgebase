@@ -8,7 +8,7 @@
 - Namespace Name: `91porn`
 - Route Path: `/91porn/author/:uid/:lang?`
 - Route Name: `Author`
-- Example: `/91porn/author/2d6d2iWm4vVCwqujAZbSrKt2QJCbbaObv9HQ21Zo8wGJWudWBg`
+- Example: `/91porn/author/kBBKslfHMfbdECWuGu_WpJLObEpisdy0gzbzRHaI7iuo4Q`
 - URL: `91porn.com/index.php`
 - Language: `_None_`
 - Categories: `multimedia`
@@ -45,7 +45,7 @@ _None_
   "categories": [
     "multimedia"
   ],
-  "example": "/91porn/author/2d6d2iWm4vVCwqujAZbSrKt2QJCbbaObv9HQ21Zo8wGJWudWBg",
+  "example": "/91porn/author/kBBKslfHMfbdECWuGu_WpJLObEpisdy0gzbzRHaI7iuo4Q",
   "features": {
     "antiCrawler": true,
     "nsfw": true,

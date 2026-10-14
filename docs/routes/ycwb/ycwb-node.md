@@ -9,7 +9,7 @@
 - Route Path: `/ycwb/:node`
 - Route Name: `新闻`
 - Example: `/ycwb/1`
-- URL: `xwlb.com.cn`
+- URL: `news.ycwb.com`
 - Language: `_None_`
 - Categories: `traditional-media`
 - Maintainers: `TimWu007`

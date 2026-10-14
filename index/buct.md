@@ -3,9 +3,9 @@
 ## Namespace
 - Namespace: `buct`
 - Display Name: `北京化工大学`
-- URL: `buct.edu.cn`
+- URL: `www.buct.edu.cn`
 - Language: `_None_`
-- Aliases: `buct, buct.edu.cn, 北京化工大学`
+- Aliases: `buct, buct.edu.cn, www, www.buct.edu.cn, 北京化工大学`
 - Route Count: `3`
 
 ## Routes

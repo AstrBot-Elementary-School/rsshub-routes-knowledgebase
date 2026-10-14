@@ -1,11 +1,11 @@
-# iThome 台灣 - 标签
+# IT之家 / iThome - 标签
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `ithome`
-- Namespace Name: `iThome 台灣`
+- Namespace Name: `IT之家 / iThome`
 - Route Path: `/ithome/tag/:name`
 - Route Name: `标签`
 - Example: `/ithome/tag/win11`

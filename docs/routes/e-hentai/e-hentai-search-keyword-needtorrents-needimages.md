@@ -33,11 +33,7 @@
 - `nsfw`: true
 
 ## Radar
-### Rule 1
-- `source`:
-  - `e-hentai.org/:keyword`
-  - `e-hentai.org/`
-- `target`: `/search/:keyword`
+_None_
 
 ## Raw JSON
 ```json
@@ -62,15 +58,6 @@
     "needTorrents": "需要输出种子文件，填写 true/yes 表示需要，默认需要"
   },
   "path": "/search/:keyword?/:needTorrents?/:needImages?",
-  "radar": [
-    {
-      "source": [
-        "e-hentai.org/:keyword",
-        "e-hentai.org/"
-      ],
-      "target": "/search/:keyword"
-    }
-  ],
   "test": {
     "code": 1
   },

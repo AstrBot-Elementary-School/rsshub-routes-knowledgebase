@@ -9,7 +9,7 @@
 - Route Path: `/3kns/:filters?/:order?`
 - Route Name: `3k-Switch游戏库`
 - Example: `/3kns/category=all&lang=all`
-- URL: `www.3kns.com/`
+- URL: `www.3kmin.com/`
 - Language: `_None_`
 - Categories: `game`
 - Maintainers: `xzzpig`
@@ -120,6 +120,6 @@ _None_
       "url": "rsshub://3kns"
     }
   ],
-  "url": "www.3kns.com/"
+  "url": "www.3kmin.com/"
 }
 ```

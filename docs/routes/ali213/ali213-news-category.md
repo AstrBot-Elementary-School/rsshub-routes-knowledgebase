@@ -50,6 +50,7 @@
 ### Rule 1
 - `source`:
   - `www.ali213.net/news/:category`
+- `target`: `/news/:category?`
 ### Rule 2
 - `title`: `最新资讯`
 - `source`:
@@ -127,7 +128,8 @@
     {
       "source": [
         "www.ali213.net/news/:category"
-      ]
+      ],
+      "target": "/news/:category?"
     },
     {
       "source": [

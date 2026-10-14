@@ -1,4 +1,4 @@
-# Alto - Toronto-Québec City High-Speed Rail Network - Alto News
+# Alto - Toronto-Québec City High-Speed Rail Network - News
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `altotrain`
 - Namespace Name: `Alto - Toronto-Québec City High-Speed Rail Network`
 - Route Path: `/altotrain/:language?`
-- Route Name: `Alto News`
+- Route Name: `News`
 - Example: `/altotrain/en`
 - URL: `altotrain.ca`
 - Language: `_None_`
@@ -59,7 +59,7 @@ _None_
   "maintainers": [
     "elibroftw"
   ],
-  "name": "Alto News",
+  "name": "News",
   "path": "/:language?",
   "radar": [
     {

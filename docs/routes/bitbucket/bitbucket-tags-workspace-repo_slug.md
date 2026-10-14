@@ -9,7 +9,7 @@
 - Route Path: `/bitbucket/tags/:workspace/:repo_slug`
 - Route Name: `Tags`
 - Example: `/bitbucket/tags/blaze-lib/blaze`
-- URL: `bitbucket.com`
+- URL: `bitbucket.org`
 - Language: `_None_`
 - Categories: `programming`
 - Maintainers: `AuroraDysis`

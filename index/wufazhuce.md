@@ -10,7 +10,7 @@
 
 ## Routes
 
-### 「ONE · 一个」
+### 首页更新
 - Route ID: `wufazhuce:/wufazhuce/one`
 - Route Path: `/wufazhuce/one`
 - File: `docs/routes/wufazhuce/wufazhuce-one.md`

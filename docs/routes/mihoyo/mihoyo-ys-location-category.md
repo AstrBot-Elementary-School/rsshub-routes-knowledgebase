@@ -39,8 +39,12 @@
 ## Radar
 ### Rule 1
 - `source`:
-  - `genshin.hoyoverse.com/:location/news`
-- `target`: `/ys/:location`
+  - `genshin.hoyoverse.com/zh-tw/news`
+- `target`: `/ys/zh-tw`
+### Rule 2
+- `source`:
+  - `ys.mihoyo.com/main/news`
+- `target`: `/ys/main`
 
 ## Raw JSON
 ```json
@@ -72,9 +76,15 @@
   "radar": [
     {
       "source": [
-        "genshin.hoyoverse.com/:location/news"
+        "genshin.hoyoverse.com/zh-tw/news"
       ],
-      "target": "/ys/:location"
+      "target": "/ys/zh-tw"
+    },
+    {
+      "source": [
+        "ys.mihoyo.com/main/news"
+      ],
+      "target": "/ys/main"
     }
   ],
   "test": {

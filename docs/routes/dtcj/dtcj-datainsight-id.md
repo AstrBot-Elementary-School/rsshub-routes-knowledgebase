@@ -9,7 +9,7 @@
 - Route Path: `/dtcj/datainsight/:id?`
 - Route Name: `数据洞察`
 - Example: `/dtcj/datainsight`
-- URL: `dtcj.com/dtcj/datainsight`
+- URL: `dtcj.com/datainsight`
 - Language: `_None_`
 - Categories: `finance`
 - Maintainers: `nczitzk`
@@ -103,6 +103,6 @@
       "url": "rsshub://dtcj/datainsight"
     }
   ],
-  "url": "dtcj.com/dtcj/datainsight"
+  "url": "dtcj.com/datainsight"
 }
 ```

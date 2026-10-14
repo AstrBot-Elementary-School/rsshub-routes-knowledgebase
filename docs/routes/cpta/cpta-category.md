@@ -1,4 +1,4 @@
-# 中国人事考试网 - 中国人事考试网发布
+# 中国人事考试网 - 发布
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `cpta`
 - Namespace Name: `中国人事考试网`
 - Route Path: `/cpta/:category`
-- Route Name: `中国人事考试网发布`
+- Route Name: `发布`
 - Example: `/cpta/notice`
 - URL: `www.cpta.com.cn`
 - Language: `_None_`
@@ -71,7 +71,7 @@
   "maintainers": [
     "PrinOrange"
   ],
-  "name": "中国人事考试网发布",
+  "name": "发布",
   "parameters": {
     "category": "栏目参数，可见下表描述。"
   },

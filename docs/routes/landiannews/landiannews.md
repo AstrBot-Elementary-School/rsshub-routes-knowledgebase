@@ -37,6 +37,10 @@ _None_
 - `source`:
   - `www.landiannews.com`
 - `target`: `/`
+### Rule 2
+- `source`:
+  - `www.landian.news`
+- `target`: `/`
 
 ## Raw JSON
 ```json
@@ -66,6 +70,12 @@ _None_
     {
       "source": [
         "www.landiannews.com"
+      ],
+      "target": "/"
+    },
+    {
+      "source": [
+        "www.landian.news"
       ],
       "target": "/"
     }

@@ -20,7 +20,7 @@
 _None_
 
 ## Parameters
-_None_
+- `score`: 最低评分，默认不限制
 
 
 ## Features
@@ -55,7 +55,9 @@ _None_
     "DIYgod"
   ],
   "name": "正在上映的电影",
-  "parameters": {},
+  "parameters": {
+    "score": "最低评分，默认不限制"
+  },
   "path": [
     "/movie/playing",
     "/movie/playing/:score"

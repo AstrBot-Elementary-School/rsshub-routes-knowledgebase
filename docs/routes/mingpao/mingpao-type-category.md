@@ -59,12 +59,12 @@ _None_
 - `title`: `即時新聞`
 - `source`:
   - `news.mingpao.com/ins/:categoryName/section/:date/:category`
-- `target`: `/mingpao/ins/:category`
+- `target`: `/ins/:category`
 ### Rule 2
 - `title`: `每日明報`
 - `source`:
   - `news.mingpao.com/pns/:categoryName/section/:date/:category`
-- `target`: `/mingpao/pns/:category`
+- `target`: `/pns/:category`
 
 ## Raw JSON
 ```json
@@ -103,14 +103,14 @@ _None_
       "source": [
         "news.mingpao.com/ins/:categoryName/section/:date/:category"
       ],
-      "target": "/mingpao/ins/:category",
+      "target": "/ins/:category",
       "title": "即時新聞"
     },
     {
       "source": [
         "news.mingpao.com/pns/:categoryName/section/:date/:category"
       ],
-      "target": "/mingpao/pns/:category",
+      "target": "/pns/:category",
       "title": "每日明報"
     }
   ],

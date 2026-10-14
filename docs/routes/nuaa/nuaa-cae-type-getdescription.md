@@ -27,7 +27,7 @@
 
 
 ## Features
-_None_
+- `requirePuppeteer`: true
 
 ## Radar
 _None_
@@ -40,6 +40,9 @@ _None_
   ],
   "description": "| 综合新闻 | 党委行政 | 人事 / 合作 | 研究生培养 | 本科生培养 | 学生工作 | 通知公告 | 学术信息 | 答辩公告 |\n| -------- | -------- | ----------- | ---------- | ---------- | -------- | -------- | -------- | -------- |\n| zhxw     | dwxz     | rshz        | yjs        | bks        | xsgz     | tzgg     | xsxx     | dbgg     |",
   "example": "/nuaa/cae/zhxw",
+  "features": {
+    "requirePuppeteer": true
+  },
   "heat": 0,
   "location": "college/cae.ts",
   "maintainers": [

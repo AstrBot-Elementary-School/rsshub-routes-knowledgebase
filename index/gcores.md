@@ -6,7 +6,7 @@
 - URL: `gcores.com`
 - Language: `_None_`
 - Aliases: `gcores, gcores.com, 机核网`
-- Route Count: `11`
+- Route Count: `18`
 
 ## Routes
 
@@ -26,11 +26,43 @@
 - Categories: `game`
 - Maintainers: `MoguCloud, StevenRCE0, nczitzk`
 
+### 分类 - 播客
+- Route ID: `gcores:/gcores/categories/:id/radios`
+- Route Path: `/gcores/categories/:id/radios`
+- File: `docs/routes/gcores/gcores-categories-id-radios.md`
+- File Name: `gcores-categories-id-radios.md`
+- Categories: `game`
+- Maintainers: `MoguCloud, StevenRCE0, nczitzk`
+
+### 分类 - 视频
+- Route ID: `gcores:/gcores/categories/:id/videos`
+- Route Path: `/gcores/categories/:id/videos`
+- File: `docs/routes/gcores/gcores-categories-id-videos.md`
+- File Name: `gcores-categories-id-videos.md`
+- Categories: `game`
+- Maintainers: `MoguCloud, StevenRCE0, nczitzk`
+
 ### 专题
 - Route ID: `gcores:/gcores/collections/:id/:tab?`
 - Route Path: `/gcores/collections/:id/:tab?`
 - File: `docs/routes/gcores/gcores-collections-id-tab.md`
 - File Name: `gcores-collections-id-tab.md`
+- Categories: `game`
+- Maintainers: `kudryavka1013, nczitzk`
+
+### 专题 - 播客
+- Route ID: `gcores:/gcores/collections/:id/radios`
+- Route Path: `/gcores/collections/:id/radios`
+- File: `docs/routes/gcores/gcores-collections-id-radios.md`
+- File Name: `gcores-collections-id-radios.md`
+- Categories: `game`
+- Maintainers: `kudryavka1013, nczitzk`
+
+### 专题 - 视频
+- Route ID: `gcores:/gcores/collections/:id/videos`
+- Route Path: `/gcores/collections/:id/videos`
+- File: `docs/routes/gcores/gcores-collections-id-videos.md`
+- File Name: `gcores-collections-id-videos.md`
 - Categories: `game`
 - Maintainers: `kudryavka1013, nczitzk`
 
@@ -66,11 +98,35 @@
 - Categories: `game`
 - Maintainers: `StevenRCE0, nczitzk`
 
+### 标签 - 播客
+- Route ID: `gcores:/gcores/tags/:id/radios`
+- Route Path: `/gcores/tags/:id/radios`
+- File: `docs/routes/gcores/gcores-tags-id-radios.md`
+- File Name: `gcores-tags-id-radios.md`
+- Categories: `game`
+- Maintainers: `StevenRCE0, nczitzk`
+
+### 标签 - 视频
+- Route ID: `gcores:/gcores/tags/:id/videos`
+- Route Path: `/gcores/tags/:id/videos`
+- File: `docs/routes/gcores/gcores-tags-id-videos.md`
+- File Name: `gcores-tags-id-videos.md`
+- Categories: `game`
+- Maintainers: `StevenRCE0, nczitzk`
+
 ### 机组推荐
 - Route ID: `gcores:/gcores/topics/:id/recommend`
 - Route Path: `/gcores/topics/:id/recommend`
 - File: `docs/routes/gcores/gcores-topics-id-recommend.md`
 - File Name: `gcores-topics-id-recommend.md`
+- Categories: `game`
+- Maintainers: `nczitzk`
+
+### 全部机组推荐
+- Route ID: `gcores:/gcores/topics/recommend`
+- Route Path: `/gcores/topics/recommend`
+- File: `docs/routes/gcores/gcores-topics-recommend.md`
+- File Name: `gcores-topics-recommend.md`
 - Categories: `game`
 - Maintainers: `nczitzk`
 

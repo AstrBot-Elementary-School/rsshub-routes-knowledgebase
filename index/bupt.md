@@ -3,9 +3,9 @@
 ## Namespace
 - Namespace: `bupt`
 - Display Name: `北京邮电大学`
-- URL: `bupt.edu.cn`
+- URL: `www.bupt.edu.cn`
 - Language: `_None_`
-- Aliases: `bupt, bupt.edu.cn, 北京邮电大学`
+- Aliases: `bupt, bupt.edu.cn, www, www.bupt.edu.cn, 北京邮电大学`
 - Route Count: `8`
 
 ## Routes

@@ -49,7 +49,8 @@
 ## Radar
 ### Rule 1
 - `source`:
-  - `www.a9vg.com/list/:category`
+  - `www.a9vg.com/list/*category`
+- `target`: `/:category`
 ### Rule 2
 - `title`: `All`
 - `source`:
@@ -127,8 +128,9 @@
   "radar": [
     {
       "source": [
-        "www.a9vg.com/list/:category"
-      ]
+        "www.a9vg.com/list/*category"
+      ],
+      "target": "/:category"
     },
     {
       "source": [

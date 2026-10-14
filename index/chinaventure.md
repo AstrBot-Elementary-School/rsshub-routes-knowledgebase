@@ -3,9 +3,9 @@
 ## Namespace
 - Namespace: `chinaventure`
 - Display Name: `投中网`
-- URL: `chinaventure.com.cn`
+- URL: `www.chinaventure.com.cn`
 - Language: `_None_`
-- Aliases: `chinaventure, chinaventure.com.cn, 投中网`
+- Aliases: `chinaventure, chinaventure.com.cn, www, www.chinaventure.com.cn, 投中网`
 - Route Count: `1`
 
 ## Routes

@@ -1,4 +1,4 @@
-# Trending Papers - Trending Papers on arXiv
+# Trending Papers - arXiv paper ranking
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `trendingpapers`
 - Namespace Name: `Trending Papers`
 - Route Path: `/trendingpapers/papers/:category?/:time?/:cited?`
-- Route Name: `Trending Papers on arXiv`
+- Route Name: `arXiv paper ranking`
 - Example: `/trendingpapers/papers`
 - URL: `trendingpapers.com`
 - Language: `_None_`
@@ -56,7 +56,7 @@ _None_
   "maintainers": [
     "CookiePieWw"
   ],
-  "name": "Trending Papers on arXiv",
+  "name": "arXiv paper ranking",
   "parameters": {
     "category": "Category of papers, can be found in URL. `All categories` by default.",
     "cited": "Cited or uncited papers, can be found in URL. `Cited and uncited papers` by default.",

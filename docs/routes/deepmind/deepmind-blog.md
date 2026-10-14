@@ -9,7 +9,7 @@
 - Route Path: `/deepmind/blog`
 - Route Name: `Blog`
 - Example: `/deepmind/blog`
-- URL: `deepmind.com/blog`
+- URL: `deepmind.google/blog`
 - Language: `_None_`
 - Categories: `new-media, popular`
 - Maintainers: `nczitzk, TonyRL`
@@ -33,6 +33,11 @@ _None_
 
 ## Radar
 ### Rule 1
+- `source`:
+  - `deepmind.google/blog`
+  - `deepmind.google/blog/:slug`
+  - `deepmind.google/`
+### Rule 2
 - `source`:
   - `deepmind.com/blog`
   - `deepmind.com/`
@@ -65,6 +70,13 @@ _None_
   "radar": [
     {
       "source": [
+        "deepmind.google/blog",
+        "deepmind.google/blog/:slug",
+        "deepmind.google/"
+      ]
+    },
+    {
+      "source": [
         "deepmind.com/blog",
         "deepmind.com/"
       ]
@@ -87,6 +99,6 @@ _None_
       "url": "rsshub://deepmind/blog"
     }
   ],
-  "url": "deepmind.com/blog"
+  "url": "deepmind.google/blog"
 }
 ```

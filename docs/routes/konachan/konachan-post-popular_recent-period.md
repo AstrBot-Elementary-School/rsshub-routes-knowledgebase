@@ -23,7 +23,6 @@
 
 ## Parameters
 - `period`: {"default": "1d", "description": "展示时间", "options": [{"label": "最近 24 小时", "value": "1d"}, {"label": "最近一周", "value": "1w"}, {"label": "最近一月", "value": "1m"}, {"label": "最近一年", "value": "1y"}]}
-- `safe_search`: {"default": "false", "description": "是否使用无r18的站点konachan.net，若是,则在路径前加上 `/sfw`，如`/konachan/sfw/post/popular_recent/1d`，若否则默认使用 konachan.com"}
 
 
 ## Features
@@ -33,9 +32,7 @@
 ### Rule 1
 - `source`:
   - `konachan.com/post`
-### Rule 2
-- `source`:
-  - `konachan.net/post`
+- `target`: `/post/popular_recent`
 
 ## Raw JSON
 ```json
@@ -78,26 +75,15 @@
           "value": "1y"
         }
       ]
-    },
-    "safe_search": {
-      "default": "false",
-      "description": "是否使用无r18的站点konachan.net，若是,则在路径前加上 `/sfw`，如`/konachan/sfw/post/popular_recent/1d`，若否则默认使用 konachan.com"
     }
   },
-  "path": [
-    "/post/popular_recent/:period?",
-    "/sfw/post/popular_recent/:period?"
-  ],
+  "path": "/post/popular_recent/:period?",
   "radar": [
     {
       "source": [
         "konachan.com/post"
-      ]
-    },
-    {
-      "source": [
-        "konachan.net/post"
-      ]
+      ],
+      "target": "/post/popular_recent"
     }
   ],
   "test": {

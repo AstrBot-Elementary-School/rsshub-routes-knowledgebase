@@ -10,7 +10,7 @@
 
 ## Routes
 
-### Jable 搜索结果
+### 搜索结果
 - Route ID: `jable:/jable/search/:query`
 - Route Path: `/jable/search/:query`
 - File: `docs/routes/jable/jable-search-query.md`

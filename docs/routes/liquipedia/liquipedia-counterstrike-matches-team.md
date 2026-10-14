@@ -30,7 +30,6 @@ _None_
 ### Rule 1
 - `source`:
   - `liquipedia.net/counterstrike/:id/Matches`
-  - `liquipedia.net/dota2/:id`
 - `target`: `/counterstrike/matches/:id`
 
 ## Raw JSON
@@ -50,8 +49,7 @@ _None_
   "radar": [
     {
       "source": [
-        "liquipedia.net/counterstrike/:id/Matches",
-        "liquipedia.net/dota2/:id"
+        "liquipedia.net/counterstrike/:id/Matches"
       ],
       "target": "/counterstrike/matches/:id"
     }

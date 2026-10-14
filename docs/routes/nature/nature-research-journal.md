@@ -50,9 +50,8 @@
 ### Rule 1
 - `source`:
   - `nature.com/:journal/research-articles`
-  - `nature.com/:journal`
   - `nature.com/`
-- `target`: `/research/:journal`
+- `target`: `/research/:journal?`
 
 ## Raw JSON
 ```json
@@ -71,7 +70,7 @@
     "supportPodcast": false,
     "supportScihub": true
   },
-  "heat": 55470,
+  "heat": 55553,
   "location": "research.ts",
   "maintainers": [
     "y9c",
@@ -87,10 +86,9 @@
     {
       "source": [
         "nature.com/:journal/research-articles",
-        "nature.com/:journal",
         "nature.com/"
       ],
-      "target": "/research/:journal"
+      "target": "/research/:journal?"
     }
   ],
   "test": {

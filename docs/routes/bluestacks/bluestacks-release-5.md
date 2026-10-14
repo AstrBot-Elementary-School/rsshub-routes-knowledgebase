@@ -1,4 +1,4 @@
-# BlueStacks - BlueStacks 5 Release Notes
+# BlueStacks - 5 Release Notes
 
 ## Coverage
 `index-only`
@@ -7,9 +7,9 @@
 - Namespace: `bluestacks`
 - Namespace Name: `BlueStacks`
 - Route Path: `/bluestacks/release/5`
-- Route Name: `BlueStacks 5 Release Notes`
+- Route Name: `5 Release Notes`
 - Example: `/bluestacks/release/5`
-- URL: `bluestacks.com/hc/en-us/articles/360056960211-Release-Notes-BlueStacks-5`
+- URL: `support.bluestacks.com/hc/en-us/articles/360056960211-Release-Notes-BlueStacks-5`
 - Language: `_None_`
 - Categories: `program-update`
 - Maintainers: `TonyRL`
@@ -25,7 +25,7 @@ _None_
 
 ## Features
 - `requireConfig`: false
-- `requirePuppeteer`: true
+- `requirePuppeteer`: false
 - `antiCrawler`: true
 - `supportBT`: false
 - `supportPodcast`: false
@@ -34,7 +34,7 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `bluestacks.com/hc/en-us/articles/360056960211-Release-Notes-BlueStacks-5`
+  - `support.bluestacks.com/hc/en-us/articles/360056960211-Release-Notes-BlueStacks-5`
   - `bluestacks.com/`
 
 ## Raw JSON
@@ -47,7 +47,7 @@ _None_
   "features": {
     "antiCrawler": true,
     "requireConfig": false,
-    "requirePuppeteer": true,
+    "requirePuppeteer": false,
     "supportBT": false,
     "supportPodcast": false,
     "supportScihub": false
@@ -57,13 +57,13 @@ _None_
   "maintainers": [
     "TonyRL"
   ],
-  "name": "BlueStacks 5 Release Notes",
+  "name": "5 Release Notes",
   "parameters": {},
   "path": "/release/5",
   "radar": [
     {
       "source": [
-        "bluestacks.com/hc/en-us/articles/360056960211-Release-Notes-BlueStacks-5",
+        "support.bluestacks.com/hc/en-us/articles/360056960211-Release-Notes-BlueStacks-5",
         "bluestacks.com/"
       ]
     }
@@ -86,6 +86,6 @@ _None_
       "url": "rsshub://bluestacks/release/5"
     }
   ],
-  "url": "bluestacks.com/hc/en-us/articles/360056960211-Release-Notes-BlueStacks-5"
+  "url": "support.bluestacks.com/hc/en-us/articles/360056960211-Release-Notes-BlueStacks-5"
 }
 ```

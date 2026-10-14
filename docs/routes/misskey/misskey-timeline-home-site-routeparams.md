@@ -50,6 +50,7 @@ Examples:
 ### Rule 1
 - `source`:
   - `misskey.io`
+- `target`: `/timeline/home/misskey.io`
 
 ## Raw JSON
 ```json
@@ -88,7 +89,8 @@ Examples:
     {
       "source": [
         "misskey.io"
-      ]
+      ],
+      "target": "/timeline/home/misskey.io"
     }
   ],
   "topFeeds": [

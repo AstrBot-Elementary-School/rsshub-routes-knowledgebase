@@ -36,7 +36,6 @@ _None_
 ### Rule 1
 - `source`:
   - `www.sasac.gov.cn/*path/index.html`
-  - `www.sasac.gov.cn/*path`
 - `target`: `/:path`
 
 ## Raw JSON
@@ -60,8 +59,7 @@ _None_
   "radar": [
     {
       "source": [
-        "www.sasac.gov.cn/*path/index.html",
-        "www.sasac.gov.cn/*path"
+        "www.sasac.gov.cn/*path/index.html"
       ],
       "target": "/:path"
     }

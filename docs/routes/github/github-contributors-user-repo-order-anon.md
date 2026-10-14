@@ -95,16 +95,16 @@ _None_
       "url": "rsshub://github/contributors/LOWERTOP/Shadowrocket-First"
     },
     {
-      "description": "New contributors for yang991178/fluent-reader - Powered by RSSHub",
+      "description": "New contributors for cgw88/cgw321.com - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "83366105549031424",
+      "id": "162529901506768896",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/yang991178/fluent-reader/graphs/contributors",
-      "title": "yang991178/fluent-reader Contributors",
+      "siteUrl": "https://github.com/cgw88/cgw321.com/graphs/contributors",
+      "title": "cgw88/cgw321.com Contributors",
       "type": "feed",
-      "url": "rsshub://github/contributors/yang991178/fluent-reader"
+      "url": "rsshub://github/contributors/cgw88/cgw321.com"
     }
   ]
 }

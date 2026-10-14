@@ -18,7 +18,7 @@
 - Categories: `finance, popular`
 - Maintainers: `enpitsulin, DIYgod`
 
-### Binance数字货币及交易对上新
+### 数字货币及交易对上新
 - Route ID: `binance:/binance/launchpool`
 - Route Path: `/binance/launchpool`
 - File: `docs/routes/binance/binance-launchpool.md`

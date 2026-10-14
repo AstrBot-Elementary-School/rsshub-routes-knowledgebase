@@ -39,6 +39,10 @@ _None_
   - `pm.gc.ca/:language/news`
   - `pm.gc.ca/:language/nouvelles`
 - `target`: `/pm/:language`
+### Rule 2
+- `source`:
+  - `pm.gc.ca`
+- `target`: `/pm`
 
 ## Raw JSON
 ```json
@@ -74,6 +78,12 @@ _None_
         "pm.gc.ca/:language/nouvelles"
       ],
       "target": "/pm/:language"
+    },
+    {
+      "source": [
+        "pm.gc.ca"
+      ],
+      "target": "/pm"
     }
   ],
   "test": {

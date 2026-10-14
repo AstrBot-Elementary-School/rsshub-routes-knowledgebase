@@ -1,4 +1,4 @@
-# 中伦律师事务所 - 中伦研究专业文章
+# 中伦律师事务所 - 专业文章
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `zhonglun`
 - Namespace Name: `中伦律师事务所`
 - Route Path: `/zhonglun/research/article/:language?`
-- Route Name: `中伦研究专业文章`
+- Route Name: `专业文章`
 - Example: `/zhonglun/research/article/zh`
 - URL: `zhonglun.com`
 - Language: `_None_`
@@ -22,7 +22,7 @@
 | en  | zh       | ja     | kr     |
 
 ## Parameters
-- `category`: 语言，默认为 zh，即简体中文，可在对应分类页 URL 中找到
+- `language`: 语言，默认为 zh，即简体中文，可在对应分类页 URL 中找到
 
 
 ## Features
@@ -79,9 +79,9 @@
     "snipersteve",
     "nczitzk"
   ],
-  "name": "中伦研究专业文章",
+  "name": "专业文章",
   "parameters": {
-    "category": "语言，默认为 zh，即简体中文，可在对应分类页 URL 中找到"
+    "language": "语言，默认为 zh，即简体中文，可在对应分类页 URL 中找到"
   },
   "path": "/research/article/:language?",
   "radar": [
@@ -132,8 +132,8 @@
     },
     {
       "description": "中伦律师事务所官方网站 - ARTICLES 专业文章 - Powered by RSSHub",
-      "errorAt": "2026-10-12T14:10:04.922Z",
-      "errorMessage": "[GET] \"https://www.zhonglun.com/research/articles\": 522 <none>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "58764289153552384",
       "image": "https://www.zhonglun.com/upload/static/images/logo.png",
       "ownerUserId": null,

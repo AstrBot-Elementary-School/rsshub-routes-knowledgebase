@@ -9,7 +9,7 @@
 - Route Path: `/worldjournal/:path{.+}?`
 - Route Name: `新聞`
 - Example: `/worldjournal`
-- URL: `worldjournal.com/wj/*path`
+- URL: `worldjournal.com/wj/cate/breaking`
 - Language: `_None_`
 - Categories: `new-media`
 - Maintainers: `TonyRL`
@@ -29,8 +29,8 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `worldjournal.com/wj/*path`
-- `target`: `/:path`
+  - `worldjournal.com/wj/cate/*path`
+- `target`: `/cate/:path`
 
 ## Raw JSON
 ```json
@@ -52,9 +52,9 @@ _None_
   "radar": [
     {
       "source": [
-        "worldjournal.com/wj/*path"
+        "worldjournal.com/wj/cate/*path"
       ],
-      "target": "/:path"
+      "target": "/cate/:path"
     }
   ],
   "test": {
@@ -86,6 +86,6 @@ _None_
       "url": "rsshub://worldjournal/cate/breaking/121010"
     }
   ],
-  "url": "worldjournal.com/wj/*path"
+  "url": "worldjournal.com/wj/cate/breaking"
 }
 ```

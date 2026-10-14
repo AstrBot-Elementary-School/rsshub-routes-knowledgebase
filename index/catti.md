@@ -10,7 +10,7 @@
 
 ## Routes
 
-### CATTI 考试消息
+### 考试消息
 - Route ID: `catti:/catti/news/:category`
 - Route Path: `/catti/news/:category`
 - File: `docs/routes/catti/catti-news-category.md`

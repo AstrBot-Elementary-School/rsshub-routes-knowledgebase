@@ -58,7 +58,20 @@ _None_
   ],
   "name": "上新",
   "path": "/newproducts",
-  "topFeeds": [],
+  "topFeeds": [
+    {
+      "description": "小米汽车上新 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "1329405433978159104",
+      "image": "https://s1.xiaomiev.com/mi-car-shop/web-shop/assets/logo.svg",
+      "ownerUserId": null,
+      "siteUrl": "https://www.xiaomiev.com/",
+      "title": "小米汽车上新",
+      "type": "feed",
+      "url": "rsshub://xiaomiev/newproducts"
+    }
+  ],
   "view": 5
 }
 ```

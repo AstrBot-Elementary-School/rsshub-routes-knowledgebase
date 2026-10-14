@@ -10,7 +10,7 @@
 
 ## Routes
 
-### Medium Feed
+### Feed
 - Route ID: `medium:/medium/feed/:user`
 - Route Path: `/medium/feed/:user`
 - File: `docs/routes/medium/medium-feed-user.md`

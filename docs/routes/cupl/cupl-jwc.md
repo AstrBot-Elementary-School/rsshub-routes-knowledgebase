@@ -9,7 +9,7 @@
 - Route Path: `/cupl/jwc`
 - Route Name: `教务处通知公告`
 - Example: `/cupl/jwc`
-- URL: `jwc.cupl.edu.cn/index/tzgg.htm`
+- URL: `jwc.cupl.edu.cn/tz/tzgg.htm`
 - Language: `_None_`
 - Categories: `university`
 - Maintainers: `Fgju`
@@ -25,8 +25,8 @@ _None_
 
 ## Features
 - `requireConfig`: false
-- `requirePuppeteer`: false
-- `antiCrawler`: false
+- `requirePuppeteer`: true
+- `antiCrawler`: true
 - `supportBT`: false
 - `supportPodcast`: false
 - `supportScihub`: false
@@ -34,7 +34,7 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `jwc.cupl.edu.cn/index/tzgg.htm`
+  - `jwc.cupl.edu.cn/tz/tzgg.htm`
   - `jwc.cupl.edu.cn/`
 - `target`: `/jwc`
 
@@ -47,9 +47,9 @@ _None_
   "description": "中国政法大学教务处通知公告",
   "example": "/cupl/jwc",
   "features": {
-    "antiCrawler": false,
+    "antiCrawler": true,
     "requireConfig": false,
-    "requirePuppeteer": false,
+    "requirePuppeteer": true,
     "supportBT": false,
     "supportPodcast": false,
     "supportScihub": false
@@ -64,7 +64,7 @@ _None_
   "radar": [
     {
       "source": [
-        "jwc.cupl.edu.cn/index/tzgg.htm",
+        "jwc.cupl.edu.cn/tz/tzgg.htm",
         "jwc.cupl.edu.cn/"
       ],
       "target": "/jwc"
@@ -88,6 +88,6 @@ _None_
       "url": "rsshub://cupl/jwc"
     }
   ],
-  "url": "jwc.cupl.edu.cn/index/tzgg.htm"
+  "url": "jwc.cupl.edu.cn/tz/tzgg.htm"
 }
 ```

@@ -1,4 +1,4 @@
-# 武汉大学 - 武汉大学遥感信息工程学院
+# 武汉大学 - 遥感信息工程学院
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `whu`
 - Namespace Name: `武汉大学`
 - Route Path: `/whu/rsgis/:type/:sub?`
-- Route Name: `武汉大学遥感信息工程学院`
+- Route Name: `遥感信息工程学院`
 - Example: `/whu/rsgis/index`
 - URL: `cs.whu.edu.cn`
 - Language: `_None_`
@@ -63,7 +63,7 @@ _None_
   "maintainers": [
     "HPDell"
   ],
-  "name": "武汉大学遥感信息工程学院",
+  "name": "遥感信息工程学院",
   "parameters": {
     "sub": "子栏目。当 `type` 为 `index` 的时候不起效；当 `type` 为其他合法值时，默认为 `all` 表示所有子类，其他可选项见下表。",
     "type": "栏目，详见表格"

@@ -37,11 +37,20 @@
 ### Rule 1
 - `source`:
   - `sensortower.com/blog`
-  - `sensortower.com/zh-CN/blog`
-  - `sensortower.com/ja/blog`
-  - `sensortower.com/ko/blog`
   - `sensortower.com/`
 - `target`: `/blog`
+### Rule 2
+- `source`:
+  - `sensortower.com/zh-CN/blog`
+- `target`: `/blog/zh-CN`
+### Rule 3
+- `source`:
+  - `sensortower.com/ja/blog`
+- `target`: `/blog/ja`
+### Rule 4
+- `source`:
+  - `sensortower.com/ko/blog`
+- `target`: `/blog/ko`
 
 ## Raw JSON
 ```json
@@ -73,12 +82,27 @@
     {
       "source": [
         "sensortower.com/blog",
-        "sensortower.com/zh-CN/blog",
-        "sensortower.com/ja/blog",
-        "sensortower.com/ko/blog",
         "sensortower.com/"
       ],
       "target": "/blog"
+    },
+    {
+      "source": [
+        "sensortower.com/zh-CN/blog"
+      ],
+      "target": "/blog/zh-CN"
+    },
+    {
+      "source": [
+        "sensortower.com/ja/blog"
+      ],
+      "target": "/blog/ja"
+    },
+    {
+      "source": [
+        "sensortower.com/ko/blog"
+      ],
+      "target": "/blog/ko"
     }
   ],
   "test": {

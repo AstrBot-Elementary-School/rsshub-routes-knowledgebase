@@ -30,7 +30,7 @@ _None_
 ### Rule 1
 - `source`:
   - `www.grupoanimal.mx/estados`
-- `target`: `/grupoanimal/estados`
+- `target`: `/estados`
 
 ## Raw JSON
 ```json
@@ -51,7 +51,7 @@ _None_
       "source": [
         "www.grupoanimal.mx/estados"
       ],
-      "target": "/grupoanimal/estados"
+      "target": "/estados"
     }
   ],
   "test": {

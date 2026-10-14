@@ -35,8 +35,13 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `www.cnnic.net.cn/*path`
-- `target`: `/:path`
+  - `www.cnnic.net.cn/11/:id/index.html`
+  - `www.cnnic.net.cn/11/:id`
+- `target`: `/11/:id`
+### Rule 2
+- `source`:
+  - `www.cnnic.net.cn/`
+- `target`: `/`
 
 ## Raw JSON
 ```json
@@ -59,9 +64,16 @@ _None_
   "radar": [
     {
       "source": [
-        "www.cnnic.net.cn/*path"
+        "www.cnnic.net.cn/11/:id/index.html",
+        "www.cnnic.net.cn/11/:id"
       ],
-      "target": "/:path"
+      "target": "/11/:id"
+    },
+    {
+      "source": [
+        "www.cnnic.net.cn/"
+      ],
+      "target": "/"
     }
   ],
   "test": {

@@ -10,7 +10,7 @@
 
 ## Routes
 
-### Substack Subscription
+### Subscription
 - Route ID: `substack:/substack/subscribe/:user`
 - Route Path: `/substack/subscribe/:user`
 - File: `docs/routes/substack/substack-subscribe-user.md`

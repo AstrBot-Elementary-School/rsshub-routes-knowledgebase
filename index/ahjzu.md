@@ -3,9 +3,9 @@
 ## Namespace
 - Namespace: `ahjzu`
 - Display Name: `安徽建筑大学`
-- URL: `news.ahjzu.edu.cn`
+- URL: `www.ahjzu.edu.cn`
 - Language: `_None_`
-- Aliases: `ahjzu, news, news.ahjzu.edu.cn, 安徽建筑大学`
+- Aliases: `ahjzu, ahjzu.edu.cn, www, www.ahjzu.edu.cn, 安徽建筑大学`
 - Route Count: `1`
 
 ## Routes

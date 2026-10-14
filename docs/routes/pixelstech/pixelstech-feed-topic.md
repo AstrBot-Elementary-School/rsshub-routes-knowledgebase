@@ -47,7 +47,7 @@ To subscribe to [AI](https://www.pixelstech.net/feed/ai), where the source URL i
 </details>
 
 ## Parameters
-- `category`: {"description": "Topic, all by default", "options": [{"label": "All", "value": ""}, {"label": "AI", "value": "ai"}, {"label": "Alibaba", "value": "alibaba"}, {"label": "Apple", "value": "apple"}, {"label": "Database", "value": "database"}, {"label": "Go", "value": "go"}, {"label": "Huawei", "value": "huawei"}, {"label": "Java", "value": "java"}, {"label": "JavaScript", "value": "javascript"}, {"label": "Linux", "value": "linux"}, {"label": "LLM", "value": "llm"}, {"label": "Nvidia", "value": "nvidia"}, {"label": "Python", "value": "python"}, {"label": "Rust", "value": "rust"}, {"label": "Tesla", "value": "tesla"}, {"label": "Web", "value": "web"}, {"label": "Web3", "value": "web3"}, {"label": "Zig", "value": "zig"}]}
+- `topic`: {"description": "Topic, all by default", "options": [{"label": "All", "value": ""}, {"label": "AI", "value": "ai"}, {"label": "Alibaba", "value": "alibaba"}, {"label": "Apple", "value": "apple"}, {"label": "Database", "value": "database"}, {"label": "Go", "value": "go"}, {"label": "Huawei", "value": "huawei"}, {"label": "Java", "value": "java"}, {"label": "JavaScript", "value": "javascript"}, {"label": "Linux", "value": "linux"}, {"label": "LLM", "value": "llm"}, {"label": "Nvidia", "value": "nvidia"}, {"label": "Python", "value": "python"}, {"label": "Rust", "value": "rust"}, {"label": "Tesla", "value": "tesla"}, {"label": "Web", "value": "web"}, {"label": "Web3", "value": "web3"}, {"label": "Zig", "value": "zig"}]}
 
 
 ## Features
@@ -69,91 +69,6 @@ To subscribe to [AI](https://www.pixelstech.net/feed/ai), where the source URL i
 - `source`:
   - `www.pixelstech.net/feed/`
 - `target`: `/feed`
-### Rule 3
-- `title`: `AI`
-- `source`:
-  - `www.pixelstech.net/feed/ai`
-- `target`: `/feed/ai`
-### Rule 4
-- `title`: `Alibaba`
-- `source`:
-  - `www.pixelstech.net/feed/alibaba`
-- `target`: `/feed/alibaba`
-### Rule 5
-- `title`: `Apple`
-- `source`:
-  - `www.pixelstech.net/feed/apple`
-- `target`: `/feed/apple`
-### Rule 6
-- `title`: `Database`
-- `source`:
-  - `www.pixelstech.net/feed/database`
-- `target`: `/feed/database`
-### Rule 7
-- `title`: `Go`
-- `source`:
-  - `www.pixelstech.net/feed/go`
-- `target`: `/feed/go`
-### Rule 8
-- `title`: `Huawei`
-- `source`:
-  - `www.pixelstech.net/feed/huawei`
-- `target`: `/feed/huawei`
-### Rule 9
-- `title`: `Java`
-- `source`:
-  - `www.pixelstech.net/feed/java`
-- `target`: `/feed/java`
-### Rule 10
-- `title`: `JavaScript`
-- `source`:
-  - `www.pixelstech.net/feed/javascript`
-- `target`: `/feed/javascript`
-### Rule 11
-- `title`: `Linux`
-- `source`:
-  - `www.pixelstech.net/feed/linux`
-- `target`: `/feed/linux`
-### Rule 12
-- `title`: `LLM`
-- `source`:
-  - `www.pixelstech.net/feed/llm`
-- `target`: `/feed/llm`
-### Rule 13
-- `title`: `Nvidia`
-- `source`:
-  - `www.pixelstech.net/feed/nvidia`
-- `target`: `/feed/nvidia`
-### Rule 14
-- `title`: `Python`
-- `source`:
-  - `www.pixelstech.net/feed/python`
-- `target`: `/feed/python`
-### Rule 15
-- `title`: `Rust`
-- `source`:
-  - `www.pixelstech.net/feed/rust`
-- `target`: `/feed/rust`
-### Rule 16
-- `title`: `Tesla`
-- `source`:
-  - `www.pixelstech.net/feed/tesla`
-- `target`: `/feed/tesla`
-### Rule 17
-- `title`: `Web`
-- `source`:
-  - `www.pixelstech.net/feed/web`
-- `target`: `/feed/web`
-### Rule 18
-- `title`: `Web3`
-- `source`:
-  - `www.pixelstech.net/feed/web3`
-- `target`: `/feed/web3`
-### Rule 19
-- `title`: `Zig`
-- `source`:
-  - `www.pixelstech.net/feed/zig`
-- `target`: `/feed/zig`
 
 ## Raw JSON
 ```json
@@ -179,7 +94,7 @@ To subscribe to [AI](https://www.pixelstech.net/feed/ai), where the source URL i
   ],
   "name": "Feed",
   "parameters": {
-    "category": {
+    "topic": {
       "description": "Topic, all by default",
       "options": [
         {
@@ -271,125 +186,6 @@ To subscribe to [AI](https://www.pixelstech.net/feed/ai), where the source URL i
       ],
       "target": "/feed",
       "title": "All"
-    },
-    {
-      "source": [
-        "www.pixelstech.net/feed/ai"
-      ],
-      "target": "/feed/ai",
-      "title": "AI"
-    },
-    {
-      "source": [
-        "www.pixelstech.net/feed/alibaba"
-      ],
-      "target": "/feed/alibaba",
-      "title": "Alibaba"
-    },
-    {
-      "source": [
-        "www.pixelstech.net/feed/apple"
-      ],
-      "target": "/feed/apple",
-      "title": "Apple"
-    },
-    {
-      "source": [
-        "www.pixelstech.net/feed/database"
-      ],
-      "target": "/feed/database",
-      "title": "Database"
-    },
-    {
-      "source": [
-        "www.pixelstech.net/feed/go"
-      ],
-      "target": "/feed/go",
-      "title": "Go"
-    },
-    {
-      "source": [
-        "www.pixelstech.net/feed/huawei"
-      ],
-      "target": "/feed/huawei",
-      "title": "Huawei"
-    },
-    {
-      "source": [
-        "www.pixelstech.net/feed/java"
-      ],
-      "target": "/feed/java",
-      "title": "Java"
-    },
-    {
-      "source": [
-        "www.pixelstech.net/feed/javascript"
-      ],
-      "target": "/feed/javascript",
-      "title": "JavaScript"
-    },
-    {
-      "source": [
-        "www.pixelstech.net/feed/linux"
-      ],
-      "target": "/feed/linux",
-      "title": "Linux"
-    },
-    {
-      "source": [
-        "www.pixelstech.net/feed/llm"
-      ],
-      "target": "/feed/llm",
-      "title": "LLM"
-    },
-    {
-      "source": [
-        "www.pixelstech.net/feed/nvidia"
-      ],
-      "target": "/feed/nvidia",
-      "title": "Nvidia"
-    },
-    {
-      "source": [
-        "www.pixelstech.net/feed/python"
-      ],
-      "target": "/feed/python",
-      "title": "Python"
-    },
-    {
-      "source": [
-        "www.pixelstech.net/feed/rust"
-      ],
-      "target": "/feed/rust",
-      "title": "Rust"
-    },
-    {
-      "source": [
-        "www.pixelstech.net/feed/tesla"
-      ],
-      "target": "/feed/tesla",
-      "title": "Tesla"
-    },
-    {
-      "source": [
-        "www.pixelstech.net/feed/web"
-      ],
-      "target": "/feed/web",
-      "title": "Web"
-    },
-    {
-      "source": [
-        "www.pixelstech.net/feed/web3"
-      ],
-      "target": "/feed/web3",
-      "title": "Web3"
-    },
-    {
-      "source": [
-        "www.pixelstech.net/feed/zig"
-      ],
-      "target": "/feed/zig",
-      "title": "Zig"
     }
   ],
   "test": {

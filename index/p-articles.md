@@ -10,7 +10,7 @@
 
 ## Routes
 
-### 虛詞作者
+### 作者
 - Route ID: `p-articles:/p-articles/contributors/:author`
 - Route Path: `/p-articles/contributors/:author`
 - File: `docs/routes/p-articles/p-articles-contributors-author.md`

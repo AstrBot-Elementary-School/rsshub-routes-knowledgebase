@@ -10,7 +10,7 @@
 
 ## Routes
 
-### NIO Radio
+### Radio
 - Route ID: `nio:/nio/nioradio/:albumid`
 - Route Path: `/nio/nioradio/:albumid`
 - File: `docs/routes/nio/nio-nioradio-albumid.md`

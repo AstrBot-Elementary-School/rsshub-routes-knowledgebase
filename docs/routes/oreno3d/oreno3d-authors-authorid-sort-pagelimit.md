@@ -23,8 +23,12 @@
 
 ## Parameters
 - `authorid`: Author id, can be found in URL
+- `characterid`: Character id, can be found in URL
+- `originid`: Origin id, can be found in URL
+- `keyword`: Search keyword
+- `tagid`: Tag id, can be found in URL
 - `sort`: Sort method, see the table above
-- `pagelimit`: The maximum number of pages to be crawled, the default is 1
+- `pagelimit`: Deprecated; only the first page is fetched
 
 
 ## Features
@@ -64,8 +68,12 @@ _None_
   "name": "Author Search",
   "parameters": {
     "authorid": "Author id, can be found in URL",
-    "pagelimit": "The maximum number of pages to be crawled, the default is 1",
-    "sort": "Sort method, see the table above"
+    "characterid": "Character id, can be found in URL",
+    "keyword": "Search keyword",
+    "originid": "Origin id, can be found in URL",
+    "pagelimit": "Deprecated; only the first page is fetched",
+    "sort": "Sort method, see the table above",
+    "tagid": "Tag id, can be found in URL"
   },
   "path": [
     "/authors/:authorid/:sort/:pagelimit?",

@@ -34,7 +34,12 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
+  - `abmedia.io/`
+- `target`: `/index`
+### Rule 2
+- `source`:
   - `www.abmedia.io/`
+- `target`: `/index`
 
 ## Raw JSON
 ```json
@@ -62,8 +67,15 @@ _None_
   "radar": [
     {
       "source": [
+        "abmedia.io/"
+      ],
+      "target": "/index"
+    },
+    {
+      "source": [
         "www.abmedia.io/"
-      ]
+      ],
+      "target": "/index"
     }
   ],
   "test": {

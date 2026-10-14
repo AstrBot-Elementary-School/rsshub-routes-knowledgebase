@@ -1,26 +1,26 @@
-# 直播吧 - 子论坛
+# Anime1 - Search
 
 ## Coverage
 `index-only`
 
 ## Route
-- Namespace: `zhibo8`
-- Namespace Name: `直播吧`
-- Route Path: `/zhibo8/forum/:id`
-- Route Name: `子论坛`
-- Example: `/zhibo8/forum/8`
-- URL: `zhibo8.cc`
+- Namespace: `anime1`
+- Namespace Name: `Anime1`
+- Route Path: `/anime1/search/:keyword`
+- Route Name: `Search`
+- Example: `/anime1/search/神之塔`
+- URL: `anime1.me`
 - Language: `_None_`
-- Categories: `bbs`
-- Maintainers: `LogicJake`
-- Source Location: `forum.ts`
+- Categories: `anime`
+- Maintainers: `cxheng315`
+- Source Location: `search.ts`
 - Source Module: `_None_`
 
 ## Description
 _None_
 
 ## Parameters
-- `id`: 子论坛 id，可在子论坛 URL 找到
+- `keyword`: Anime1 Search Keyword
 
 
 ## Features
@@ -38,9 +38,9 @@ _None_
 ```json
 {
   "categories": [
-    "bbs"
+    "anime"
   ],
-  "example": "/zhibo8/forum/8",
+  "example": "/anime1/search/神之塔",
   "features": {
     "antiCrawler": false,
     "requireConfig": false,
@@ -50,18 +50,16 @@ _None_
     "supportScihub": false
   },
   "heat": 0,
-  "location": "forum.ts",
+  "location": "search.ts",
   "maintainers": [
-    "LogicJake"
+    "cxheng315"
   ],
-  "name": "子论坛",
+  "name": "Search",
   "parameters": {
-    "id": "子论坛 id，可在子论坛 URL 找到"
+    "keyword": "Anime1 Search Keyword"
   },
-  "path": "/forum/:id",
-  "test": {
-    "code": 1
-  },
-  "topFeeds": []
+  "path": "/search/:keyword",
+  "topFeeds": [],
+  "url": "anime1.me"
 }
 ```

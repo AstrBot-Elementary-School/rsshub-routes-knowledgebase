@@ -20,7 +20,7 @@
 _None_
 
 ## Parameters
-- `page`: 页数，默认第 1 页
+- `page`: 历史兼容参数，所有值均返回第 1 页，不翻页
 
 
 ## Features
@@ -35,6 +35,10 @@ _None_
 ### Rule 1
 - `source`:
   - `wsbs.wgj.sh.gov.cn/`
+- `target`: `/wgj`
+### Rule 2
+- `source`:
+  - `wsbs.wgj.sh.gov.cn/shwgj_ywtb/core/web/welcome/index!toResultNotice.action`
 - `target`: `/wgj`
 
 ## Raw JSON
@@ -59,13 +63,19 @@ _None_
   ],
   "name": "文旅局审批公告",
   "parameters": {
-    "page": "页数，默认第 1 页"
+    "page": "历史兼容参数，所有值均返回第 1 页，不翻页"
   },
   "path": "/wgj/:page?",
   "radar": [
     {
       "source": [
         "wsbs.wgj.sh.gov.cn/"
+      ],
+      "target": "/wgj"
+    },
+    {
+      "source": [
+        "wsbs.wgj.sh.gov.cn/shwgj_ywtb/core/web/welcome/index!toResultNotice.action"
       ],
       "target": "/wgj"
     }

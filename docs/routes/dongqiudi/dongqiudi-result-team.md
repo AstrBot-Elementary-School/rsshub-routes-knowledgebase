@@ -29,7 +29,8 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `www.dongqiudi.com/team/*team`
+  - `www.dongqiudi.com/team/:team`
+- `target`: `/result/:team`
 
 ## Raw JSON
 ```json
@@ -51,8 +52,9 @@ _None_
   "radar": [
     {
       "source": [
-        "www.dongqiudi.com/team/*team"
-      ]
+        "www.dongqiudi.com/team/:team"
+      ],
+      "target": "/result/:team"
     }
   ],
   "test": {

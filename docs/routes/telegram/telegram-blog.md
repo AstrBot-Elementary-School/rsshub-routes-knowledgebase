@@ -1,4 +1,4 @@
-# Telegram - Telegram Blog
+# Telegram - Blog
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `telegram`
 - Namespace Name: `Telegram`
 - Route Path: `/telegram/blog`
-- Route Name: `Telegram Blog`
+- Route Name: `Blog`
 - Example: `/telegram/blog`
 - URL: `telegram.org/blog`
 - Language: `_None_`
@@ -56,7 +56,7 @@ _None_
   "maintainers": [
     "fengkx"
   ],
-  "name": "Telegram Blog",
+  "name": "Blog",
   "parameters": {},
   "path": "/blog",
   "radar": [

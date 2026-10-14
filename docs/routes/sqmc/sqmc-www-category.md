@@ -1,11 +1,11 @@
-# 新乡医学院三全学院 - 官网信息
+# 豫北医学院 - 官网信息
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `sqmc`
-- Namespace Name: `新乡医学院三全学院`
+- Namespace Name: `豫北医学院`
 - Route Path: `/sqmc/www/:category?`
 - Route Name: `官网信息`
 - Example: `/sqmc/www/3157`

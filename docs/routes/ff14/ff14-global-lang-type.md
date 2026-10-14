@@ -1,4 +1,4 @@
-# FINAL FANTASY XIV - FINAL FANTASY XIV (The Lodestone)
+# FINAL FANTASY XIV - The Lodestone
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `ff14`
 - Namespace Name: `FINAL FANTASY XIV`
 - Route Path: `/ff14/global/:lang/:type?`
-- Route Name: `FINAL FANTASY XIV (The Lodestone)`
+- Route Name: `The Lodestone`
 - Example: `/ff14/global/na/all`
 - URL: `eu.finalfantasyxiv.com`
 - Language: `_None_`
@@ -65,7 +65,7 @@ _None_
   "maintainers": [
     "kmod-midori"
   ],
-  "name": "FINAL FANTASY XIV (The Lodestone)",
+  "name": "The Lodestone",
   "parameters": {
     "lang": "Region",
     "type": "Category, `all` by default"

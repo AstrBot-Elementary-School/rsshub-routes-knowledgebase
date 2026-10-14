@@ -1,4 +1,4 @@
-# 豆瓣 - 豆瓣小组
+# 豆瓣 - 小组
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `douban`
 - Namespace Name: `豆瓣`
 - Route Path: `/douban/group/:groupid/:type?`
-- Route Name: `豆瓣小组`
+- Route Name: `小组`
 - Example: `/douban/group/648102`
 - URL: `www.douban.com`
 - Language: `_None_`
@@ -54,12 +54,12 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 5955,
+  "heat": 5956,
   "location": "other/group.ts",
   "maintainers": [
     "DIYgod"
   ],
-  "name": "豆瓣小组",
+  "name": "小组",
   "parameters": {
     "groupid": "豆瓣小组的 id",
     "type": {

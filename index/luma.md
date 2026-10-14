@@ -3,9 +3,9 @@
 ## Namespace
 - Namespace: `luma`
 - Display Name: `LuMa`
-- URL: `lu.ma`
+- URL: `luma.com`
 - Language: `_None_`
-- Aliases: `lu, lu.ma, luma`
+- Aliases: `luma, luma.com`
 - Route Count: `1`
 
 ## Routes

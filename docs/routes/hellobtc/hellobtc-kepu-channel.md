@@ -17,7 +17,7 @@
 - Source Module: `_None_`
 
 ## Description
-| latest | bitcoin | ethereum | defi | inter\_blockchain | mining | safety | satoshi\_nakomoto | public\_blockchain |
+| latest | bitcoin | ethereum | defi | inter\_blockchain | mining | safety | satoshi\_nakamoto | public\_blockchain |
 | ------ | ------- | -------- | ---- | ----------------- | ------ | ------ | ----------------- | ------------------ |
 | 最新   | 比特币  | 以太坊   | DeFi | 跨链              | 挖矿   | 安全   | 中本聪            | 公链               |
 
@@ -42,7 +42,7 @@ _None_
   "categories": [
     "new-media"
   ],
-  "description": "| latest | bitcoin | ethereum | defi | inter\\_blockchain | mining | safety | satoshi\\_nakomoto | public\\_blockchain |\n| ------ | ------- | -------- | ---- | ----------------- | ------ | ------ | ----------------- | ------------------ |\n| 最新   | 比特币  | 以太坊   | DeFi | 跨链              | 挖矿   | 安全   | 中本聪            | 公链               |",
+  "description": "| latest | bitcoin | ethereum | defi | inter\\_blockchain | mining | safety | satoshi\\_nakamoto | public\\_blockchain |\n| ------ | ------- | -------- | ---- | ----------------- | ------ | ------ | ----------------- | ------------------ |\n| 最新   | 比特币  | 以太坊   | DeFi | 跨链              | 挖矿   | 安全   | 中本聪            | 公链               |",
   "example": "/hellobtc/kepu/latest",
   "features": {
     "antiCrawler": false,

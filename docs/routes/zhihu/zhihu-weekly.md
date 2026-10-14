@@ -1,4 +1,4 @@
-# 知乎 - 知乎书店 - 知乎周刊
+# 知乎 - 书店 - 周刊
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `zhihu`
 - Namespace Name: `知乎`
 - Route Path: `/zhihu/weekly`
-- Route Name: `知乎书店 - 知乎周刊`
+- Route Name: `书店 - 周刊`
 - Example: `/zhihu/weekly`
 - URL: `www.zhihu.com/pub/weekly`
 - Language: `_None_`
@@ -56,7 +56,7 @@ _None_
   "maintainers": [
     "LogicJake"
   ],
-  "name": "知乎书店 - 知乎周刊",
+  "name": "书店 - 周刊",
   "parameters": {},
   "path": "/weekly",
   "radar": [

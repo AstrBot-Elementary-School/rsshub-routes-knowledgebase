@@ -22,13 +22,13 @@ To subscribe to [Latest](https://musify.club/en), where the source URL is `https
 :::
 
 ## Parameters
-- `category`: {"description": "Language, Russian by default", "options": [{"label": "Russian", "value": ""}, {"label": "English", "value": "en"}]}
+- `language`: {"description": "Language, Russian by default", "options": [{"label": "Russian", "value": ""}, {"label": "English", "value": "en"}]}
 
 
 ## Features
 - `requireConfig`: false
-- `requirePuppeteer`: false
-- `antiCrawler`: false
+- `requirePuppeteer`: true
+- `antiCrawler`: true
 - `supportRadar`: true
 - `supportBT`: false
 - `supportPodcast`: false
@@ -59,9 +59,9 @@ To subscribe to [Latest](https://musify.club/en), where the source URL is `https
   "description": "::: tip\nTo subscribe to [Latest](https://musify.club/en), where the source URL is `https://musify.club/en`, extract the certain parts from this URL to be used as parameters, resulting in the route as [`/musify/en`](https://rsshub.app/musify/en).\n:::",
   "example": "/musify/en",
   "features": {
-    "antiCrawler": false,
+    "antiCrawler": true,
     "requireConfig": false,
-    "requirePuppeteer": false,
+    "requirePuppeteer": true,
     "supportBT": false,
     "supportPodcast": false,
     "supportRadar": true,
@@ -74,7 +74,7 @@ To subscribe to [Latest](https://musify.club/en), where the source URL is `https
   ],
   "name": "Latest",
   "parameters": {
-    "category": {
+    "language": {
       "description": "Language, Russian by default",
       "options": [
         {

@@ -1,4 +1,4 @@
-# 锦天城律师事务所 - 锦天城
+# 锦天城律师事务所 - 专业文章
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `allbrightlaw`
 - Namespace Name: `锦天城律师事务所`
 - Route Path: `/allbrightlaw/`
-- Route Name: `锦天城`
+- Route Name: `专业文章`
 - Example: `/allbrightlaw`
 - URL: `www.allbrightlaw.com`
 - Language: `_None_`
@@ -41,7 +41,7 @@ _None_
   "maintainers": [
     "snipersteve"
   ],
-  "name": "锦天城",
+  "name": "专业文章",
   "path": "/",
   "test": {
     "code": 0

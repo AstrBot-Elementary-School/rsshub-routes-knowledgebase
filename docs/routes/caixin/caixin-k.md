@@ -1,11 +1,11 @@
-# 财新博客 - 财新一线
+# 财新网 - 财新一线
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `caixin`
-- Namespace Name: `财新博客`
+- Namespace Name: `财新网`
 - Route Path: `/caixin/k`
 - Route Name: `财新一线`
 - Example: `/caixin/k`
@@ -32,7 +32,10 @@ _None_
 - `supportScihub`: false
 
 ## Radar
-_None_
+### Rule 1
+- `source`:
+  - `k.caixin.com/web`
+  - `k.caixin.com/`
 
 ## Raw JSON
 ```json
@@ -57,6 +60,14 @@ _None_
   "name": "财新一线",
   "parameters": {},
   "path": "/k",
+  "radar": [
+    {
+      "source": [
+        "k.caixin.com/web",
+        "k.caixin.com/"
+      ]
+    }
+  ],
   "test": {
     "code": 1
   },

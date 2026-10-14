@@ -27,7 +27,7 @@ _None_
 ## Features
 - `requireConfig`: false
 - `requirePuppeteer`: true
-- `antiCrawler`: false
+- `antiCrawler`: true
 - `supportBT`: false
 - `supportPodcast`: false
 - `supportScihub`: false
@@ -35,10 +35,16 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
+  - `dailypush.dev/backend`
+- `target`: `/tag/backend/trending`
+### Rule 2
+- `source`:
   - `dailypush.dev/:tag/trending`
+- `target`: `/tag/:tag/trending`
+### Rule 3
+- `source`:
   - `dailypush.dev/:tag/latest`
-  - `dailypush.dev/:tag`
-- `target`: `/tag/:tag/:sort?`
+- `target`: `/tag/:tag/latest`
 
 ## Raw JSON
 ```json
@@ -48,7 +54,7 @@ _None_
   ],
   "example": "/dailypush/tag/backend/trending",
   "features": {
-    "antiCrawler": false,
+    "antiCrawler": true,
     "requireConfig": false,
     "requirePuppeteer": true,
     "supportBT": false,
@@ -84,11 +90,21 @@ _None_
   "radar": [
     {
       "source": [
-        "dailypush.dev/:tag/trending",
-        "dailypush.dev/:tag/latest",
-        "dailypush.dev/:tag"
+        "dailypush.dev/backend"
       ],
-      "target": "/tag/:tag/:sort?"
+      "target": "/tag/backend/trending"
+    },
+    {
+      "source": [
+        "dailypush.dev/:tag/trending"
+      ],
+      "target": "/tag/:tag/trending"
+    },
+    {
+      "source": [
+        "dailypush.dev/:tag/latest"
+      ],
+      "target": "/tag/:tag/latest"
     }
   ],
   "test": {

@@ -17,10 +17,10 @@
 - Source Module: `_None_`
 
 ## Description
-`https://fe.bnu.edu.cn/pc/cms1info/list/1/18` 则对应为 \`/bnu/fe/18
+订阅教育学部当前网站的培养动态栏目。旧网站分类编号 `18` 保持兼容；其他旧分类编号尚未确认对应栏目。
 
 ## Parameters
-_None_
+- `category`: 分类编号，目前支持 `18`（培养动态）
 
 
 ## Features
@@ -29,7 +29,8 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `fe.bnu.edu.cn/pc/cms1info/list/1/:category`
+  - `fe.bnu.edu.cn/jyjx/pydt/index.htm`
+- `target`: `/fe/18`
 
 ## Raw JSON
 ```json
@@ -37,7 +38,7 @@ _None_
   "categories": [
     "university"
   ],
-  "description": "`https://fe.bnu.edu.cn/pc/cms1info/list/1/18` 则对应为 \\`/bnu/fe/18",
+  "description": "订阅教育学部当前网站的培养动态栏目。旧网站分类编号 `18` 保持兼容；其他旧分类编号尚未确认对应栏目。",
   "example": "/bnu/fe/18",
   "heat": 0,
   "location": "fe.ts",
@@ -45,13 +46,16 @@ _None_
     "etShaw-zh"
   ],
   "name": "教育学部-培养动态",
-  "parameters": {},
+  "parameters": {
+    "category": "分类编号，目前支持 `18`（培养动态）"
+  },
   "path": "/fe/:category",
   "radar": [
     {
       "source": [
-        "fe.bnu.edu.cn/pc/cms1info/list/1/:category"
-      ]
+        "fe.bnu.edu.cn/jyjx/pydt/index.htm"
+      ],
+      "target": "/fe/18"
     }
   ],
   "test": {

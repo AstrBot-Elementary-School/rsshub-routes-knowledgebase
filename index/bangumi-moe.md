@@ -3,9 +3,9 @@
 ## Namespace
 - Namespace: `bangumi.moe`
 - Display Name: `萌番组`
-- URL: `bangumi.online`
+- URL: `bangumi.moe`
 - Language: `_None_`
-- Aliases: `bangumi, bangumi.moe, bangumi.online, 萌番组`
+- Aliases: `bangumi, bangumi.moe, 萌番组`
 - Route Count: `1`
 
 ## Routes

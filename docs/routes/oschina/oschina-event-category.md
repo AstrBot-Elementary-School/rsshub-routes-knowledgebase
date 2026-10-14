@@ -40,17 +40,14 @@
 
 ## Radar
 ### Rule 1
-- `source`:
-  - `www.oschina.net`
-### Rule 2
 - `title`: `强力推荐`
 - `source`:
-  - `www.oschina.net`
+  - `www.oschina.net/event`
 - `target`: `/event/recommend`
-### Rule 3
+### Rule 2
 - `title`: `最新活动`
 - `source`:
-  - `www.oschina.net`
+  - `www.oschina.net/event`
 - `target`: `/event/latest`
 
 ## Raw JSON
@@ -83,19 +80,14 @@
   "radar": [
     {
       "source": [
-        "www.oschina.net"
-      ]
-    },
-    {
-      "source": [
-        "www.oschina.net"
+        "www.oschina.net/event"
       ],
       "target": "/event/recommend",
       "title": "强力推荐"
     },
     {
       "source": [
-        "www.oschina.net"
+        "www.oschina.net/event"
       ],
       "target": "/event/latest",
       "title": "最新活动"

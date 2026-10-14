@@ -17,11 +17,16 @@
 - Source Module: `_None_`
 
 ## Description
-若订阅 [标签：妖](https://www.cbaigui.com/post-tag/妖)，网址为 `https://www.cbaigui.com/post-tag/妖`。截取 `https://www.cbaigui.com` 到末尾的部分 `/post-tag/妖` 作为参数，此时路由为 [`/cbaigui/post-tag/妖`](https://rsshub.app/cbaigui/post-tag/妖)。
+默认订阅[首页](https://cbaigui.com)的妖怪词条、杂谈和站点公告。网站改版后，原分类和标签路径仍可作为路由参数，名称对应[妖怪列表](https://cbaigui.com/monster)中的属性或书籍筛选项。
 
-若订阅 [分类：埃及](https://www.cbaigui.com/post-category/世界/非洲/埃及)，网址为 `https://www.cbaigui.com/post-category/世界/非洲/埃及`。截取 `https://www.cbaigui.com` 到末尾的部分 `/post-category/世界/非洲/埃及` 作为参数，此时路由为 [`/cbaigui/post-category/世界/非洲/埃及`](https://rsshub.app/cbaigui/post-category/世界/非洲/埃及)。
-
-若订阅 [词条：白泽图](https://www.cbaigui.com/post-category/词条/白泽图)，网址为 `https://www.cbaigui.com/post-category/词条/白泽图`。截取 `https://www.cbaigui.com` 到末尾的部分 `/post-category/词条/白泽图` 作为参数，此时路由为 [`/cbaigui/post-category/词条/白泽图`](https://rsshub.app/cbaigui/post-category/词条/白泽图)。
+| 筛选项   | 路径参数                           |
+| -------- | ---------------------------------- |
+| 妖怪词条 | monster                            |
+| 杂谈     | essays                             |
+| 站点公告 | notice                             |
+| 妖       | post-tag / 妖                      |
+| 埃及     | post-category / 世界 / 非洲 / 埃及 |
+| 白泽图   | post-category / 词条 / 白泽图      |
 
 ## Parameters
 - `path`: 路径，默认为首页
@@ -39,7 +44,7 @@ _None_
   "categories": [
     "new-media"
   ],
-  "description": "若订阅 [标签：妖](https://www.cbaigui.com/post-tag/妖)，网址为 `https://www.cbaigui.com/post-tag/妖`。截取 `https://www.cbaigui.com` 到末尾的部分 `/post-tag/妖` 作为参数，此时路由为 [`/cbaigui/post-tag/妖`](https://rsshub.app/cbaigui/post-tag/妖)。\n\n若订阅 [分类：埃及](https://www.cbaigui.com/post-category/世界/非洲/埃及)，网址为 `https://www.cbaigui.com/post-category/世界/非洲/埃及`。截取 `https://www.cbaigui.com` 到末尾的部分 `/post-category/世界/非洲/埃及` 作为参数，此时路由为 [`/cbaigui/post-category/世界/非洲/埃及`](https://rsshub.app/cbaigui/post-category/世界/非洲/埃及)。\n\n若订阅 [词条：白泽图](https://www.cbaigui.com/post-category/词条/白泽图)，网址为 `https://www.cbaigui.com/post-category/词条/白泽图`。截取 `https://www.cbaigui.com` 到末尾的部分 `/post-category/词条/白泽图` 作为参数，此时路由为 [`/cbaigui/post-category/词条/白泽图`](https://rsshub.app/cbaigui/post-category/词条/白泽图)。",
+  "description": "默认订阅[首页](https://cbaigui.com)的妖怪词条、杂谈和站点公告。网站改版后，原分类和标签路径仍可作为路由参数，名称对应[妖怪列表](https://cbaigui.com/monster)中的属性或书籍筛选项。\n\n| 筛选项   | 路径参数                           |\n| -------- | ---------------------------------- |\n| 妖怪词条 | monster                            |\n| 杂谈     | essays                             |\n| 站点公告 | notice                             |\n| 妖       | post-tag / 妖                      |\n| 埃及     | post-category / 世界 / 非洲 / 埃及 |\n| 白泽图   | post-category / 词条 / 白泽图      |",
   "example": "/cbaigui",
   "heat": 0,
   "location": "index.ts",

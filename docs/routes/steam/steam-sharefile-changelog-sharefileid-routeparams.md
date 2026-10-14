@@ -21,7 +21,7 @@ Steam Community Sharefile's Changelog. Primary used for a workshop item.
 Helpful route parameters:
 
 - `l=` language parameter, change the language of description.
-- `p=` page parameter, change the results page. p=1 by default.
+- `p=` compatibility parameter; always requests the first page (p=1).
 
 ## Parameters
 - `sharefileID`: Steam community sharefile id. Usually refers to a workshop item.
@@ -44,7 +44,7 @@ _None_
   "categories": [
     "game"
   ],
-  "description": "Steam Community Sharefile's Changelog. Primary used for a workshop item.\nHelpful route parameters:\n\n- `l=` language parameter, change the language of description.\n- `p=` page parameter, change the results page. p=1 by default.",
+  "description": "Steam Community Sharefile's Changelog. Primary used for a workshop item.\nHelpful route parameters:\n\n- `l=` language parameter, change the language of description.\n- `p=` compatibility parameter; always requests the first page (p=1).",
   "example": "/steam/sharefile-changelog/2851063440/l=schinese",
   "heat": 1,
   "location": "sharefile-changelog.ts",

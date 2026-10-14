@@ -1,11 +1,11 @@
-# 中国国家认证认可监管管理员会 - 监管动态
+# 国家认证认可监督管理委员会 - 监管动态
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `gov/cnca`
-- Namespace Name: `中国国家认证认可监管管理员会`
+- Namespace Name: `国家认证认可监督管理委员会`
 - Route Path: `/gov/cnca/jgdt`
 - Route Name: `监管动态`
 - Example: `/gov/cnca/jgdt`

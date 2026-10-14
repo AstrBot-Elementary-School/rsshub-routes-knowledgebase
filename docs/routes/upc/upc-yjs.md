@@ -9,7 +9,7 @@
 - Route Path: `/upc/yjs`
 - Route Name: `研究生院通知公告`
 - Example: `/upc/yjs`
-- URL: `zs.gs.upc.edu.cn/sszs/list.htm`
+- URL: `yz.upc.edu.cn/sszs/list.htm`
 - Language: `_None_`
 - Categories: `university`
 - Maintainers: `shengmaosu`
@@ -34,8 +34,8 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `zs.gs.upc.edu.cn/sszs/list.htm`
-  - `zs.gs.upc.edu.cn/`
+  - `yz.upc.edu.cn/sszs/list.htm`
+  - `yz.upc.edu.cn/`
 
 ## Raw JSON
 ```json
@@ -63,8 +63,8 @@ _None_
   "radar": [
     {
       "source": [
-        "zs.gs.upc.edu.cn/sszs/list.htm",
-        "zs.gs.upc.edu.cn/"
+        "yz.upc.edu.cn/sszs/list.htm",
+        "yz.upc.edu.cn/"
       ]
     }
   ],
@@ -85,6 +85,6 @@ _None_
       "url": "rsshub://upc/yjs"
     }
   ],
-  "url": "zs.gs.upc.edu.cn/sszs/list.htm"
+  "url": "yz.upc.edu.cn/sszs/list.htm"
 }
 ```

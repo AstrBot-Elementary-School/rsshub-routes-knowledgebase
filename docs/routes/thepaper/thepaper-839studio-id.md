@@ -22,7 +22,7 @@
 | 2    | 4    | 3      | 453      |
 
 ## Parameters
-- `id`: 分类 id，默认订阅全部分类
+- `id`: 分类 id，可在分类页 URL 的 cat 参数中找到；全部作品使用 /thepaper/839studio
 
 
 ## Features
@@ -48,7 +48,7 @@ _None_
   ],
   "name": "澎湃美数课作品集 - 分类",
   "parameters": {
-    "id": "分类 id，默认订阅全部分类"
+    "id": "分类 id，可在分类页 URL 的 cat 参数中找到；全部作品使用 /thepaper/839studio"
   },
   "path": "/839studio/:id",
   "radar": [

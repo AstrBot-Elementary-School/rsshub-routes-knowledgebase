@@ -38,7 +38,7 @@
 ### Rule 1
 - `source`:
   - `www.bookwalker.com.tw/search`
-- `target`: `/bookwalker/search`
+- `target`: `/search`
 
 ## Raw JSON
 ```json
@@ -75,7 +75,7 @@
       "source": [
         "www.bookwalker.com.tw/search"
       ],
-      "target": "/bookwalker/search"
+      "target": "/search"
     }
   ],
   "test": {

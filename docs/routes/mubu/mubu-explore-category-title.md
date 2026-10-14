@@ -8,7 +8,7 @@
 - Namespace Name: `幕布`
 - Route Path: `/mubu/explore/:category?/:title?`
 - Route Name: `精选社区`
-- Example: `/mubu/explore/16/读书笔记`
+- Example: `/mubu/explore/2/读书笔记`
 - URL: `mubu.com`
 - Language: `_None_`
 - Categories: `study`
@@ -36,7 +36,7 @@ _None_
   "categories": [
     "study"
   ],
-  "example": "/mubu/explore/16/读书笔记",
+  "example": "/mubu/explore/2/读书笔记",
   "heat": 0,
   "location": "explore.ts",
   "maintainers": [

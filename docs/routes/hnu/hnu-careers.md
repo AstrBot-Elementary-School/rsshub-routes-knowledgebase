@@ -9,7 +9,7 @@
 - Route Path: `/hnu/careers`
 - Route Name: `校园招聘`
 - Example: `/hnu/careers`
-- URL: `scc.hnu.edu.cnundefined`
+- URL: `scc.hnu.edu.cn/module/careers`
 - Language: `_None_`
 - Categories: `university`
 - Maintainers: `ningyougan`
@@ -34,7 +34,9 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `scc.hnu.edu.cnundefined`
+  - `scc.hnu.edu.cn/module/careers`
+  - `scc.hnu.edu.cn/`
+- `target`: `/careers`
 
 ## Raw JSON
 ```json
@@ -62,8 +64,10 @@ _None_
   "radar": [
     {
       "source": [
-        "scc.hnu.edu.cnundefined"
-      ]
+        "scc.hnu.edu.cn/module/careers",
+        "scc.hnu.edu.cn/"
+      ],
+      "target": "/careers"
     }
   ],
   "test": {
@@ -83,6 +87,6 @@ _None_
       "url": "rsshub://hnu/careers"
     }
   ],
-  "url": "scc.hnu.edu.cnundefined"
+  "url": "scc.hnu.edu.cn/module/careers"
 }
 ```

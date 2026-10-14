@@ -70,6 +70,7 @@
 ### Rule 1
 - `source`:
   - `top.aibase.com/topic/:id`
+- `target`: `/topic/:id?`
 ### Rule 2
 - `title`: `AI`
 - `source`:
@@ -603,7 +604,8 @@
     {
       "source": [
         "top.aibase.com/topic/:id"
-      ]
+      ],
+      "target": "/topic/:id?"
     },
     {
       "source": [

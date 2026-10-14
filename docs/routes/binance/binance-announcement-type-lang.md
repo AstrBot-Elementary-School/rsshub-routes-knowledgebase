@@ -31,7 +31,7 @@ _None_
 ### Rule 1
 - `source`:
   - `www.binance.com/:lang/messages/v2/group/announcement`
-- `target`: `/binance/announcement/all/:lang`
+- `target`: `/announcement/all/:lang`
 
 ## Raw JSON
 ```json
@@ -113,7 +113,7 @@ _None_
       "source": [
         "www.binance.com/:lang/messages/v2/group/announcement"
       ],
-      "target": "/binance/announcement/all/:lang"
+      "target": "/announcement/all/:lang"
     }
   ],
   "test": {
@@ -122,7 +122,7 @@ _None_
   "topFeeds": [
     {
       "description": "Announcement list from Binance message center. - Powered by RSSHub",
-      "errorAt": "2026-10-11T21:56:32.830Z",
+      "errorAt": "2026-10-13T03:32:27.659Z",
       "errorMessage": "[GET] \"https://www.binance.com/bapi/apex/v1/public/apex/cms/article/list/query?type=1&pageNo=1&pageSize=20&catalogId=48\": 403 Forbidden\n",
       "id": "54390728350522368",
       "image": null,

@@ -35,7 +35,7 @@ _None_
 ### Rule 1
 - `source`:
   - `www.qidian.com/free`
-- `target`: `/free`
+- `target`: `/free-next`
 
 ## Raw JSON
 ```json
@@ -68,7 +68,7 @@ _None_
       "source": [
         "www.qidian.com/free"
       ],
-      "target": "/free"
+      "target": "/free-next"
     }
   ],
   "test": {

@@ -35,6 +35,7 @@ _None_
 ### Rule 1
 - `source`:
   - `visionias.in/current-affairs/weekly-focus`
+  - `visionias.in/current-affairs/weekly-focus/archive`
 - `target`: `/weeklyFocus`
 
 ## Raw JSON
@@ -62,7 +63,8 @@ _None_
   "radar": [
     {
       "source": [
-        "visionias.in/current-affairs/weekly-focus"
+        "visionias.in/current-affairs/weekly-focus",
+        "visionias.in/current-affairs/weekly-focus/archive"
       ],
       "target": "/weeklyFocus"
     }

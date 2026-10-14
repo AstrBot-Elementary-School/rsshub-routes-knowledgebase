@@ -9,7 +9,7 @@
 - Route Path: `/guangdiu/rank`
 - Route Name: `一小时风云榜`
 - Example: `/guangdiu/rank`
-- URL: `guangdiu.com/rank`
+- URL: `guangdiu.com/rank.php`
 - Language: `_None_`
 - Categories: `shopping`
 - Maintainers: `fatpandac`
@@ -34,7 +34,7 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `guangdiu.com/rank`
+  - `guangdiu.com/rank.php`
 
 ## Raw JSON
 ```json
@@ -62,7 +62,7 @@ _None_
   "radar": [
     {
       "source": [
-        "guangdiu.com/rank"
+        "guangdiu.com/rank.php"
       ]
     }
   ],
@@ -83,6 +83,6 @@ _None_
       "url": "rsshub://guangdiu/rank"
     }
   ],
-  "url": "guangdiu.com/rank"
+  "url": "guangdiu.com/rank.php"
 }
 ```

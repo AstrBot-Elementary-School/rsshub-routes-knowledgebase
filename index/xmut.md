@@ -1,11 +1,11 @@
-# 厦门理工大学 Route Index
+# 厦门理工学院 Route Index
 
 ## Namespace
 - Namespace: `xmut`
-- Display Name: `厦门理工大学`
+- Display Name: `厦门理工学院`
 - URL: `jwc.xmut.edu.cn`
 - Language: `_None_`
-- Aliases: `jwc, jwc.xmut.edu.cn, xmut, 厦门理工大学`
+- Aliases: `jwc, jwc.xmut.edu.cn, xmut, 厦门理工学院`
 - Route Count: `2`
 
 ## Routes

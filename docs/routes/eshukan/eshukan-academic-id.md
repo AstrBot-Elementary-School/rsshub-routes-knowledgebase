@@ -22,7 +22,7 @@
 :::
 
 ## Parameters
-- `category`: 栏目 id，默认为 `1`，即期刊动态，可在对应栏目页 URL 中找到
+- `id`: 栏目 id，默认为 `1`，即期刊动态，可在对应栏目页 URL 中找到
 
 
 ## Features
@@ -63,7 +63,7 @@
   ],
   "name": "学术资讯",
   "parameters": {
-    "category": "栏目 id，默认为 `1`，即期刊动态，可在对应栏目页 URL 中找到"
+    "id": "栏目 id，默认为 `1`，即期刊动态，可在对应栏目页 URL 中找到"
   },
   "path": "/academic/:id?",
   "radar": [

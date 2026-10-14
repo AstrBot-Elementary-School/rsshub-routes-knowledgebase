@@ -21,7 +21,7 @@ _None_
 
 ## Parameters
 - `tag`: {"description": "标签，留空为全部", "options": [{"label": "AI编程", "value": "AI编程"}, {"label": "Claude", "value": "Claude"}, {"label": "Trae", "value": "Trae"}, {"label": "MCP", "value": "MCP"}, {"label": "Cursor", "value": "Cursor"}, {"label": "Cline", "value": "Cline"}, {"label": "Github Copilot", "value": "Github Copilot"}, {"label": "bolt", "value": "bolt"}, {"label": "V0", "value": "V0"}, {"label": "replit", "value": "replit"}, {"label": "Warp", "value": "Warp"}, {"label": "Visual Studio IntelliCode", "value": "Visual Studio IntelliCode"}, {"label": "WindSurf", "value": "WindSurf"}, {"label": "豆包MarsCode", "value": "豆包MarsCode"}, {"label": "通义灵码", "value": "通义灵码"}, {"label": "Devin", "value": "Devin"}, {"label": "文心快码", "value": "文心快码"}, {"label": "imgcook", "value": "imgcook"}, {"label": "CodeWhisperer", "value": "CodeWhisperer"}, {"label": "Lovable", "value": "Lovable"}, {"label": "FittenCode", "value": "FittenCode"}, {"label": "Solo", "value": "Solo"}, {"label": "CodeFuse", "value": "CodeFuse"}, {"label": "Tabnine", "value": "Tabnine"}]}
-- `sort`: {"default": "hot", "description": "排序方式，默认为最新发布", "options": [{"label": "热门", "value": "hot"}, {"label": "最新", "value": "latest"}]}
+- `sort`: {"default": "latest", "description": "排序方式，默认为最新发布", "options": [{"label": "热门", "value": "hot"}, {"label": "最新", "value": "latest"}]}
 
 
 ## Features
@@ -35,7 +35,8 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `juejin.cn/books`
+  - `aicoding.juejin.cn/`
+- `target`: `/aicoding`
 
 ## Raw JSON
 ```json
@@ -60,7 +61,7 @@ _None_
   "name": "AI 编程",
   "parameters": {
     "sort": {
-      "default": "hot",
+      "default": "latest",
       "description": "排序方式，默认为最新发布",
       "options": [
         {
@@ -179,8 +180,9 @@ _None_
   "radar": [
     {
       "source": [
-        "juejin.cn/books"
-      ]
+        "aicoding.juejin.cn/"
+      ],
+      "target": "/aicoding"
     }
   ],
   "test": {
@@ -189,8 +191,8 @@ _None_
   "topFeeds": [
     {
       "description": "AI 编程 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-13T13:51:57.979Z",
+      "errorMessage": "[GET] \"https://juejin.cn/post/7695971363199123494\": 403 Forbidden\n[GET] \"https://juejin.cn/post/7695976921429147686\": 403 Forbidden\n",
       "id": "189493956607037440",
       "image": "https://lf-web-assets.juejin.cn/obj/juejin-web/goofy_deploy_edenx/toutiao-fe/xitu_juejin_aicoding/favicon.ico",
       "ownerUserId": null,
@@ -201,8 +203,8 @@ _None_
     },
     {
       "description": "AI编程 - AI 编程 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-13T13:51:46.716Z",
+      "errorMessage": "[GET] \"https://juejin.cn/post/7695971363199123494\": 403 Forbidden\n",
       "id": "190049393455791104",
       "image": "https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/1fa3c0a49ab34943aa26b26202891e7f~tplv-k3u1fbpfcp-jj-mark:0:0:0:0:q75.image#?w=200&h=200&s=11771&e=png&b=0a0909",
       "ownerUserId": null,

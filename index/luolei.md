@@ -10,7 +10,7 @@
 
 ## Routes
 
-### 罗磊的独立博客
+### 文章
 - Route ID: `luolei:/luolei/`
 - Route Path: `/luolei/`
 - File: `docs/routes/luolei/luolei.md`

@@ -35,7 +35,7 @@ _None_
 ### Rule 1
 - `source`:
   - `zhuanlan.zhihu.com/:id`
-- `target`: `/zhuanlan/:id`
+- `target`: `/xhu/zhuanlan/:id`
 
 ## Raw JSON
 ```json
@@ -67,7 +67,7 @@ _None_
       "source": [
         "zhuanlan.zhihu.com/:id"
       ],
-      "target": "/zhuanlan/:id"
+      "target": "/xhu/zhuanlan/:id"
     }
   ],
   "test": {

@@ -11,17 +11,17 @@
 ## Routes
 
 ### Anime
-- Route ID: `anime1:/anime1anime/:category/:name`
-- Route Path: `/anime1anime/:category/:name`
-- File: `docs/routes/anime1/anime1anime-category-name.md`
-- File Name: `anime1anime-category-name.md`
+- Route ID: `anime1:/anime1/anime/:category/:name`
+- Route Path: `/anime1/anime/:category/:name`
+- File: `docs/routes/anime1/anime1-anime-category-name.md`
+- File Name: `anime1-anime-category-name.md`
 - Categories: `anime`
 - Maintainers: `cxheng315`
 
 ### Search
-- Route ID: `anime1:/anime1search/:keyword`
-- Route Path: `/anime1search/:keyword`
-- File: `docs/routes/anime1/anime1search-keyword.md`
-- File Name: `anime1search-keyword.md`
+- Route ID: `anime1:/anime1/search/:keyword`
+- Route Path: `/anime1/search/:keyword`
+- File: `docs/routes/anime1/anime1-search-keyword.md`
+- File Name: `anime1-search-keyword.md`
 - Categories: `anime`
 - Maintainers: `cxheng315`

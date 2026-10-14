@@ -34,7 +34,18 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
+  - `www.cockroachlabs.com/blog/:category`
+- `target`: `/blog/:category`
+### Rule 2
+- `source`:
+  - `www.cockroachlabs.com/blog`
+- `target`: `/blog`
+### Rule 3
+- `source`:
   - `cockroachlabs.com/blog/:category`
+- `target`: `/blog/:category`
+### Rule 4
+- `source`:
   - `cockroachlabs.com/blog`
 - `target`: `/blog`
 
@@ -66,7 +77,24 @@ _None_
   "radar": [
     {
       "source": [
-        "cockroachlabs.com/blog/:category",
+        "www.cockroachlabs.com/blog/:category"
+      ],
+      "target": "/blog/:category"
+    },
+    {
+      "source": [
+        "www.cockroachlabs.com/blog"
+      ],
+      "target": "/blog"
+    },
+    {
+      "source": [
+        "cockroachlabs.com/blog/:category"
+      ],
+      "target": "/blog/:category"
+    },
+    {
+      "source": [
         "cockroachlabs.com/blog"
       ],
       "target": "/blog"

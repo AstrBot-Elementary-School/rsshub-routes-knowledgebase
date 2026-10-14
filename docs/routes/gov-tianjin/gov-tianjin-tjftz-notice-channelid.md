@@ -1,4 +1,4 @@
-# 天津市人民政府 - 天津港保税区-公告
+# 天津市人民政府 - 港保税区公告
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `gov/tianjin`
 - Namespace Name: `天津市人民政府`
 - Route Path: `/gov/tianjin/tjftz-notice/:channelId`
-- Route Name: `天津港保税区-公告`
+- Route Name: `港保税区公告`
 - Example: `/gov/tianjin/tjftz-notice/6302`
 - URL: `tjftz.gov.cn`
 - Language: `_None_`
@@ -31,8 +31,9 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `tjftz.gov.cn/channels/:channelId.html`
-- `target`: `/tjftz-notice/:channelId`
+  - `www.tjftz.gov.cn/channels/6302.html`
+  - `tjftz.gov.cn/channels/6302.html`
+- `target`: `/tjftz-notice/6302`
 
 ## Raw JSON
 ```json
@@ -47,7 +48,7 @@ _None_
   "maintainers": [
     "HaoyuLee"
   ],
-  "name": "天津港保税区-公告",
+  "name": "港保税区公告",
   "parameters": {
     "channelId": "公告分类id、详细信息点击源网站https://www.tjftz.gov.cn/请求中寻找"
   },
@@ -55,9 +56,10 @@ _None_
   "radar": [
     {
       "source": [
-        "tjftz.gov.cn/channels/:channelId.html"
+        "www.tjftz.gov.cn/channels/6302.html",
+        "tjftz.gov.cn/channels/6302.html"
       ],
-      "target": "/tjftz-notice/:channelId"
+      "target": "/tjftz-notice/6302"
     }
   ],
   "test": {

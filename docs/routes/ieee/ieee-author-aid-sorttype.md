@@ -1,4 +1,4 @@
-# IEEE Xplore - IEEE Author Articles
+# IEEE Xplore - Author Articles
 
 ## Coverage
 `index-only`
@@ -7,9 +7,9 @@
 - Namespace: `ieee`
 - Namespace Name: `IEEE Xplore`
 - Route Path: `/ieee/author/:aid/:sortType`
-- Route Name: `IEEE Author Articles`
+- Route Name: `Author Articles`
 - Example: `/ieee/author/37264968900/newest`
-- URL: `www.ieee.org`
+- URL: `ieeexplore.ieee.org`
 - Language: `_None_`
 - Categories: `journal`
 - Maintainers: `Derekmini`
@@ -55,7 +55,7 @@ _None_
   "maintainers": [
     "Derekmini"
   ],
-  "name": "IEEE Author Articles",
+  "name": "Author Articles",
   "parameters": {
     "aid": "Author ID",
     "sortType": "Sort Type of papers"

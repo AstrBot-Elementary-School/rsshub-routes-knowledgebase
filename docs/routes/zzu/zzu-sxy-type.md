@@ -1,4 +1,4 @@
-# 郑州大学 - 郑大商学院
+# 郑州大学 - 商学院
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `zzu`
 - Namespace Name: `郑州大学`
 - Route Path: `/zzu/sxy/:type`
-- Route Name: `郑大商学院`
+- Route Name: `商学院`
 - Example: `/zzu/sxy/xyxw`
 - URL: `www.zzu.edu.cn`
 - Language: `_None_`
@@ -59,7 +59,7 @@
   "maintainers": [
     "amandus1990"
   ],
-  "name": "郑大商学院",
+  "name": "商学院",
   "parameters": {
     "type": "分类名"
   },

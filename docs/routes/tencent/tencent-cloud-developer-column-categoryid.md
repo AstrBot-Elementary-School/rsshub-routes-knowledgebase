@@ -1,4 +1,4 @@
-# 腾讯 - 腾讯云开发者社区专栏
+# 腾讯 - 开发者社区专栏
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `tencent`
 - Namespace Name: `腾讯`
 - Route Path: `/tencent/cloud/developer/column/:categoryId?`
-- Route Name: `腾讯云开发者社区专栏`
+- Route Name: `开发者社区专栏`
 - Example: `/tencent/cloud/developer/column/1`
 - URL: `tencent.com`
 - Language: `_None_`
@@ -43,7 +43,7 @@ _None_
   "maintainers": [
     "lyling"
   ],
-  "name": "腾讯云开发者社区专栏",
+  "name": "开发者社区专栏",
   "parameters": {
     "categoryId": "categoryId from page url"
   },

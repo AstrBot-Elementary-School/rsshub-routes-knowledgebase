@@ -40,8 +40,12 @@
 ## Radar
 ### Rule 1
 - `source`:
+  - `www.scpta.com.cn/front/News/List/:category`
+- `target`: `/news/:category`
+### Rule 2
+- `source`:
   - `www.scpta.com.cn/front/News/List`
-- `target`: `/news`
+- `target`: `/news/33`
 
 ## Raw JSON
 ```json
@@ -75,9 +79,15 @@
   "radar": [
     {
       "source": [
+        "www.scpta.com.cn/front/News/List/:category"
+      ],
+      "target": "/news/:category"
+    },
+    {
+      "source": [
         "www.scpta.com.cn/front/News/List"
       ],
-      "target": "/news"
+      "target": "/news/33"
     }
   ],
   "test": {

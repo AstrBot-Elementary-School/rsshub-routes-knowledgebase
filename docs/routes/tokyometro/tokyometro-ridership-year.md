@@ -32,8 +32,28 @@ Annual 駅別乗降人員 (one-day average) for every Tokyo Metro station, from 
 ## Radar
 ### Rule 1
 - `source`:
-  - `www.tokyometro.jp/corporate/enterprise/passenger_rail/transportation/passengers/:page`
+  - `www.tokyometro.jp/corporate/enterprise/passenger_rail/transportation/passengers/index.html`
 - `target`: `/ridership`
+### Rule 2
+- `source`:
+  - `www.tokyometro.jp/corporate/enterprise/passenger_rail/transportation/passengers/2024.html`
+- `target`: `/ridership/2024`
+### Rule 3
+- `source`:
+  - `www.tokyometro.jp/corporate/enterprise/passenger_rail/transportation/passengers/2023.html`
+- `target`: `/ridership/2023`
+### Rule 4
+- `source`:
+  - `www.tokyometro.jp/corporate/enterprise/passenger_rail/transportation/passengers/2022.html`
+- `target`: `/ridership/2022`
+### Rule 5
+- `source`:
+  - `www.tokyometro.jp/corporate/enterprise/passenger_rail/transportation/passengers/2021.html`
+- `target`: `/ridership/2021`
+### Rule 6
+- `source`:
+  - `www.tokyometro.jp/corporate/enterprise/passenger_rail/transportation/passengers/2020.html`
+- `target`: `/ridership/2020`
 
 ## Raw JSON
 ```json
@@ -64,9 +84,39 @@ Annual 駅別乗降人員 (one-day average) for every Tokyo Metro station, from 
   "radar": [
     {
       "source": [
-        "www.tokyometro.jp/corporate/enterprise/passenger_rail/transportation/passengers/:page"
+        "www.tokyometro.jp/corporate/enterprise/passenger_rail/transportation/passengers/index.html"
       ],
       "target": "/ridership"
+    },
+    {
+      "source": [
+        "www.tokyometro.jp/corporate/enterprise/passenger_rail/transportation/passengers/2024.html"
+      ],
+      "target": "/ridership/2024"
+    },
+    {
+      "source": [
+        "www.tokyometro.jp/corporate/enterprise/passenger_rail/transportation/passengers/2023.html"
+      ],
+      "target": "/ridership/2023"
+    },
+    {
+      "source": [
+        "www.tokyometro.jp/corporate/enterprise/passenger_rail/transportation/passengers/2022.html"
+      ],
+      "target": "/ridership/2022"
+    },
+    {
+      "source": [
+        "www.tokyometro.jp/corporate/enterprise/passenger_rail/transportation/passengers/2021.html"
+      ],
+      "target": "/ridership/2021"
+    },
+    {
+      "source": [
+        "www.tokyometro.jp/corporate/enterprise/passenger_rail/transportation/passengers/2020.html"
+      ],
+      "target": "/ridership/2020"
     }
   ],
   "test": {

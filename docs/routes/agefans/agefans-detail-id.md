@@ -9,7 +9,7 @@
 - Route Path: `/agefans/detail/:id`
 - Route Name: `番剧详情`
 - Example: `/agefans/detail/20200035`
-- URL: `agemys.cc`
+- URL: `www.agedm.io`
 - Language: `_None_`
 - Categories: `anime`
 - Maintainers: `s2marine`
@@ -34,7 +34,7 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `agemys.org/detail/:id`
+  - `www.agedm.io/detail/:id`
 
 ## Raw JSON
 ```json
@@ -64,7 +64,7 @@ _None_
   "radar": [
     {
       "source": [
-        "agemys.org/detail/:id"
+        "www.agedm.io/detail/:id"
       ]
     }
   ],

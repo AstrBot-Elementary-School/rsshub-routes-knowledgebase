@@ -37,6 +37,7 @@ _None_
   - `vimeo.com/channels/:channel`
   - `vimeo.com/channels/:channel/videos`
   - `vimeo.com/channels/:channel/videos/:sort/:format`
+  - `vimeo.com/channels/:channel/videos/:page/:sort/:format`
 
 ## Raw JSON
 ```json
@@ -68,7 +69,8 @@ _None_
       "source": [
         "vimeo.com/channels/:channel",
         "vimeo.com/channels/:channel/videos",
-        "vimeo.com/channels/:channel/videos/:sort/:format"
+        "vimeo.com/channels/:channel/videos/:sort/:format",
+        "vimeo.com/channels/:channel/videos/:page/:sort/:format"
       ]
     }
   ],

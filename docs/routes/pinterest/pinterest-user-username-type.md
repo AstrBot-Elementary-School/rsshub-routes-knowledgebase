@@ -30,9 +30,16 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `www.pinterest.com/:id/:type?`
-  - `www.pinterest.com/:id`
-- `target`: `/user/:id/:type?`
+  - `www.pinterest.com/:username/_created`
+- `target`: `/user/:username/_created`
+### Rule 2
+- `source`:
+  - `www.pinterest.com/:username/_saved`
+- `target`: `/user/:username/_saved`
+### Rule 3
+- `source`:
+  - `www.pinterest.com/:username`
+- `target`: `/user/:username`
 
 ## Raw JSON
 ```json
@@ -68,10 +75,21 @@ _None_
   "radar": [
     {
       "source": [
-        "www.pinterest.com/:id/:type?",
-        "www.pinterest.com/:id"
+        "www.pinterest.com/:username/_created"
       ],
-      "target": "/user/:id/:type?"
+      "target": "/user/:username/_created"
+    },
+    {
+      "source": [
+        "www.pinterest.com/:username/_saved"
+      ],
+      "target": "/user/:username/_saved"
+    },
+    {
+      "source": [
+        "www.pinterest.com/:username"
+      ],
+      "target": "/user/:username"
     }
   ],
   "test": {

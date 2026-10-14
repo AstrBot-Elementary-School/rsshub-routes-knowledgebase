@@ -29,7 +29,7 @@
 - `id`: 游戏 ID，游戏主页 URL 中获取
 - `type`: 论坛版块，默认显示所有帖子，论坛版块 URL 中 `type` 参数，见下表，默认为 `feed`
 - `sort`: 排序，见下表，默认为 `created`
-- `lang`: 语言，`zh-CN`或`zh-TW`，默认为`zh-CN`
+- `lang`: 语言，`zh_CN`或`zh_TW`，默认为`zh_CN`
 
 
 ## Features
@@ -45,6 +45,11 @@
 - `source`:
   - `taptap.cn/app/:id/topic`
   - `taptap.cn/app/:id`
+- `target`: `/topic/:id`
+### Rule 2
+- `source`:
+  - `www.taptap.cn/app/:id/topic`
+  - `www.taptap.cn/app/:id`
 - `target`: `/topic/:id`
 
 ## Raw JSON
@@ -72,7 +77,7 @@
   "name": "游戏论坛",
   "parameters": {
     "id": "游戏 ID，游戏主页 URL 中获取",
-    "lang": "语言，`zh-CN`或`zh-TW`，默认为`zh-CN`",
+    "lang": "语言，`zh_CN`或`zh_TW`，默认为`zh_CN`",
     "sort": "排序，见下表，默认为 `created`",
     "type": "论坛版块，默认显示所有帖子，论坛版块 URL 中 `type` 参数，见下表，默认为 `feed`"
   },
@@ -82,6 +87,13 @@
       "source": [
         "taptap.cn/app/:id/topic",
         "taptap.cn/app/:id"
+      ],
+      "target": "/topic/:id"
+    },
+    {
+      "source": [
+        "www.taptap.cn/app/:id/topic",
+        "www.taptap.cn/app/:id"
       ],
       "target": "/topic/:id"
     }

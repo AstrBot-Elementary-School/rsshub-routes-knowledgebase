@@ -17,7 +17,7 @@
 - Source Module: `_None_`
 
 ## Description
-Provide full article RSS for CBC topics.
+Provide full article RSS for NPR topics.
 
 ## Parameters
 - `endpoint`: Channel ID, can be found in Official RSS URL, `1001` by default
@@ -40,7 +40,7 @@ _None_
   "categories": [
     "traditional-media"
   ],
-  "description": "Provide full article RSS for CBC topics.",
+  "description": "Provide full article RSS for NPR topics.",
   "example": "/npr/1001",
   "features": {
     "antiCrawler": false,

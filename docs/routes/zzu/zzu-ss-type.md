@@ -1,4 +1,4 @@
-# 郑州大学 - 郑大社科院
+# 郑州大学 - 社科院
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `zzu`
 - Namespace Name: `郑州大学`
 - Route Path: `/zzu/ss/:type`
-- Route Name: `郑大社科院`
+- Route Name: `社科院`
 - Example: `/zzu/ss/xwzx`
 - URL: `www.zzu.edu.cn`
 - Language: `_None_`
@@ -59,7 +59,7 @@
   "maintainers": [
     "amandus1990"
   ],
-  "name": "郑大社科院",
+  "name": "社科院",
   "parameters": {
     "type": "分类名"
   },

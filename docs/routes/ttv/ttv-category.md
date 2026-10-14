@@ -29,7 +29,20 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `news.ttv.com.tw/:category`
+  - `news.ttv.com.tw/`
+- `target`: `/`
+### Rule 2
+- `source`:
+  - `news.ttv.com.tw/realtime`
+- `target`: `/realtime`
+### Rule 3
+- `source`:
+  - `news.ttv.com.tw/focus`
+- `target`: `/focus`
+### Rule 4
+- `source`:
+  - `news.ttv.com.tw/category/:category`
+- `target`: `/:category`
 
 ## Raw JSON
 ```json
@@ -51,8 +64,27 @@ _None_
   "radar": [
     {
       "source": [
-        "news.ttv.com.tw/:category"
-      ]
+        "news.ttv.com.tw/"
+      ],
+      "target": "/"
+    },
+    {
+      "source": [
+        "news.ttv.com.tw/realtime"
+      ],
+      "target": "/realtime"
+    },
+    {
+      "source": [
+        "news.ttv.com.tw/focus"
+      ],
+      "target": "/focus"
+    },
+    {
+      "source": [
+        "news.ttv.com.tw/category/:category"
+      ],
+      "target": "/:category"
     }
   ],
   "test": {

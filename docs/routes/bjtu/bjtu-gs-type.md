@@ -17,27 +17,19 @@
 - Source Module: `_None_`
 
 ## Description
-| 文章来源            | 参数         |
-| ------------------- | ------------ |
-| 通知公告\_招生      | noti\_zs     |
-| 通知公告            | noti         |
-| 新闻动态            | news         |
-| 招生宣传            | zsxc         |
-| 培养                | py           |
-| 招生                | zs           |
-| 学位                | xw           |
-| 研工部              | ygb          |
-| 通知公告 - 研工部   | ygbtzgg      |
-| 新闻动态 - 研工部   | ygbnews      |
-| 新闻封面 - 研工部   | ygbnewscover |
-| 文章列表            | all          |
-| 博士招生 - 招生专题 | bszs\_zszt   |
-| 硕士招生 - 招生专题 | sszs\_zszt   |
-| 招生简章 - 招生专题 | zsjz\_zszt   |
-| 政策法规 - 招生专题 | zcfg\_zszt   |
+| 文章来源            | 参数       |
+| ------------------- | ---------- |
+| 通知公告\_招生      | noti\_zs   |
+| 通知公告            | noti       |
+| 新闻动态            | news       |
+| 培养                | py         |
+| 学位                | xw         |
+| 博士招生 - 招生专题 | bszs\_zszt |
+| 硕士招生 - 招生专题 | sszs\_zszt |
+| 招生简章 - 招生专题 | zsjz\_zszt |
 
 ::: tip
-文章来源的命名均来自研究生院网站标题。
+文章来源的命名均来自研究生院网站标题。官网改版后，当前支持 noti\_zs、noti、news、py、xw、bszs\_zszt、sszs\_zszt 和 zsjz\_zszt；其余旧栏目没有可验证的对应列表。
 最常用的几项有 “通知公告\_招生”、“通知公告”、“博士招生 - 招生专题”、“硕士招生 - 招生专题”。
 :::
 
@@ -64,7 +56,7 @@
   "categories": [
     "university"
   ],
-  "description": "| 文章来源            | 参数         |\n| ------------------- | ------------ |\n| 通知公告\\_招生      | noti\\_zs     |\n| 通知公告            | noti         |\n| 新闻动态            | news         |\n| 招生宣传            | zsxc         |\n| 培养                | py           |\n| 招生                | zs           |\n| 学位                | xw           |\n| 研工部              | ygb          |\n| 通知公告 - 研工部   | ygbtzgg      |\n| 新闻动态 - 研工部   | ygbnews      |\n| 新闻封面 - 研工部   | ygbnewscover |\n| 文章列表            | all          |\n| 博士招生 - 招生专题 | bszs\\_zszt   |\n| 硕士招生 - 招生专题 | sszs\\_zszt   |\n| 招生简章 - 招生专题 | zsjz\\_zszt   |\n| 政策法规 - 招生专题 | zcfg\\_zszt   |\n\n::: tip\n文章来源的命名均来自研究生院网站标题。\n最常用的几项有 “通知公告\\_招生”、“通知公告”、“博士招生 - 招生专题”、“硕士招生 - 招生专题”。\n:::",
+  "description": "| 文章来源            | 参数       |\n| ------------------- | ---------- |\n| 通知公告\\_招生      | noti\\_zs   |\n| 通知公告            | noti       |\n| 新闻动态            | news       |\n| 培养                | py         |\n| 学位                | xw         |\n| 博士招生 - 招生专题 | bszs\\_zszt |\n| 硕士招生 - 招生专题 | sszs\\_zszt |\n| 招生简章 - 招生专题 | zsjz\\_zszt |\n\n::: tip\n文章来源的命名均来自研究生院网站标题。官网改版后，当前支持 noti\\_zs、noti、news、py、xw、bszs\\_zszt、sszs\\_zszt 和 zsjz\\_zszt；其余旧栏目没有可验证的对应列表。\n最常用的几项有 “通知公告\\_招生”、“通知公告”、“博士招生 - 招生专题”、“硕士招生 - 招生专题”。\n:::",
   "example": "/bjtu/gs/noti",
   "features": {
     "antiCrawler": true,

@@ -136,7 +136,9 @@
 ## Radar
 ### Rule 1
 - `source`:
-  - `mse.hust.edu.cn/:category?`
+  - `mse.hust.edu.cn/`
+  - `mse.hust.edu.cn/sylm/xyxw.htm`
+- `target`: `/mse/sylm/xyxw`
 ### Rule 2
 - `title`: `首页栏目 - 学院新闻`
 - `source`:
@@ -518,8 +520,10 @@
   "radar": [
     {
       "source": [
-        "mse.hust.edu.cn/:category?"
-      ]
+        "mse.hust.edu.cn/",
+        "mse.hust.edu.cn/sylm/xyxw.htm"
+      ],
+      "target": "/mse/sylm/xyxw"
     },
     {
       "source": [

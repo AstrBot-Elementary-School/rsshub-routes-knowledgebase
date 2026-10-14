@@ -26,6 +26,7 @@ _None_
 
 ## Features
 - `antiCrawler`: true
+- `nsfw`: true
 
 ## Radar
 _None_
@@ -38,7 +39,8 @@ _None_
   ],
   "example": "/hentai-cosplays-xxx/tag/jk",
   "features": {
-    "antiCrawler": true
+    "antiCrawler": true,
+    "nsfw": true
   },
   "heat": 2,
   "location": "index.ts",

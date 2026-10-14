@@ -37,7 +37,7 @@ To subscribe to [Apples](https://www.producereport.com/produce/fresh-fruits/appl
 ## Radar
 ### Rule 1
 - `source`:
-  - `www.producereport.com/:category`
+  - `www.producereport.com/*category`
 - `target`: `/:category`
 
 ## Raw JSON
@@ -72,7 +72,7 @@ To subscribe to [Apples](https://www.producereport.com/produce/fresh-fruits/appl
   "radar": [
     {
       "source": [
-        "www.producereport.com/:category"
+        "www.producereport.com/*category"
       ],
       "target": "/:category"
     }

@@ -35,7 +35,7 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `/legal-updates`
+  - `junhe.com/legal-updates`
 - `target`: `/legal-updates`
 
 ## Raw JSON
@@ -66,7 +66,7 @@ _None_
   "radar": [
     {
       "source": [
-        "/legal-updates"
+        "junhe.com/legal-updates"
       ],
       "target": "/legal-updates"
     }

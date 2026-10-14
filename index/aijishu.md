@@ -3,9 +3,9 @@
 ## Namespace
 - Namespace: `aijishu`
 - Display Name: `极术社区`
-- URL: `www.aijishu`
+- URL: `community.aijishu.com`
 - Language: `_None_`
-- Aliases: `aijishu, www, www.aijishu, 极术社区`
+- Aliases: `aijishu, community, community.aijishu.com, 极术社区`
 - Route Count: `1`
 
 ## Routes

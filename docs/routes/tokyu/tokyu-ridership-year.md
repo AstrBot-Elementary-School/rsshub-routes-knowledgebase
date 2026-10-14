@@ -33,8 +33,11 @@ Annual 駅別乗降人員 (one-day average) for every Tokyu station, from [駅�
 ### Rule 1
 - `source`:
   - `www.tokyu.co.jp/railway/company/business/passengers/:year`
-  - `www.tokyu.co.jp/railway/company/business/passengers/`
 - `target`: `/ridership/:year`
+### Rule 2
+- `source`:
+  - `www.tokyu.co.jp/railway/company/business/passengers/`
+- `target`: `/ridership`
 
 ## Raw JSON
 ```json
@@ -65,10 +68,15 @@ Annual 駅別乗降人員 (one-day average) for every Tokyu station, from [駅�
   "radar": [
     {
       "source": [
-        "www.tokyu.co.jp/railway/company/business/passengers/:year",
-        "www.tokyu.co.jp/railway/company/business/passengers/"
+        "www.tokyu.co.jp/railway/company/business/passengers/:year"
       ],
       "target": "/ridership/:year"
+    },
+    {
+      "source": [
+        "www.tokyu.co.jp/railway/company/business/passengers/"
+      ],
+      "target": "/ridership"
     }
   ],
   "test": {

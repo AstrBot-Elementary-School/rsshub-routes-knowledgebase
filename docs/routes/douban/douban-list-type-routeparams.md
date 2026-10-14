@@ -1,4 +1,4 @@
-# 豆瓣 - 豆瓣榜单与集合
+# 豆瓣 - 榜单与集合
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `douban`
 - Namespace Name: `豆瓣`
 - Route Path: `/douban/list/:type?/:routeParams?`
-- Route Name: `豆瓣榜单与集合`
+- Route Name: `榜单与集合`
 - Example: `/douban/list/subject_real_time_hotest`
 - URL: `www.douban.com`
 - Language: `_None_`
@@ -68,6 +68,10 @@
 ## Radar
 ### Rule 1
 - `source`:
+  - `m.douban.com/subject_collection/:type`
+- `target`: `/list/:type`
+### Rule 2
+- `source`:
   - `www.douban.com/subject_collection/:type`
 - `target`: `/list/:type`
 
@@ -94,13 +98,19 @@
     "5upernova-heng",
     "honue"
   ],
-  "name": "豆瓣榜单与集合",
+  "name": "榜单与集合",
   "parameters": {
     "routeParams": "额外参数；请参阅以下说明和表格",
     "type": "榜单类型，见下表。默认为实时热门书影音"
   },
   "path": "/list/:type?/:routeParams?",
   "radar": [
+    {
+      "source": [
+        "m.douban.com/subject_collection/:type"
+      ],
+      "target": "/list/:type"
+    },
     {
       "source": [
         "www.douban.com/subject_collection/:type"

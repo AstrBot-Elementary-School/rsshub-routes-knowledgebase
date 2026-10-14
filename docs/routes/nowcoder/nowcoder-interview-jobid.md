@@ -1,4 +1,4 @@
-# 牛客网 - 牛客面试经验
+# 牛客网 - 面试经验
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `nowcoder`
 - Namespace Name: `牛客网`
 - Route Path: `/nowcoder/interview/:jobId`
-- Route Name: `牛客面试经验`
+- Route Name: `面试经验`
 - Example: `/nowcoder/interview/11200`
 - URL: `nowcoder.com/`
 - Language: `_None_`
@@ -20,7 +20,7 @@
 牛客面试经验
 
 ## Parameters
-- `jobId`: 岗位 ID，如 11200（全部）、11002（Java）
+- `jobId`: 岗位 ID，可从官网岗位列表获取，如 11200（后端开发）
 
 
 ## Features
@@ -35,6 +35,7 @@
 ### Rule 1
 - `source`:
   - `www.nowcoder.com/interview/`
+- `target`: `/interview/11200`
 
 ## Raw JSON
 ```json
@@ -57,16 +58,17 @@
   "maintainers": [
     "xia0ne"
   ],
-  "name": "牛客面试经验",
+  "name": "面试经验",
   "parameters": {
-    "jobId": "岗位 ID，如 11200（全部）、11002（Java）"
+    "jobId": "岗位 ID，可从官网岗位列表获取，如 11200（后端开发）"
   },
   "path": "/interview/:jobId",
   "radar": [
     {
       "source": [
         "www.nowcoder.com/interview/"
-      ]
+      ],
+      "target": "/interview/11200"
     }
   ],
   "test": {

@@ -1,16 +1,16 @@
-# Sakamichi Series 坂道系列官网资讯 Route Index
+# 櫻坂46 Route Index
 
 ## Namespace
 - Namespace: `sakurazaka46`
-- Display Name: `Sakamichi Series 坂道系列官网资讯`
+- Display Name: `櫻坂46`
 - URL: `sakurazaka46.com`
 - Language: `_None_`
-- Aliases: `sakamichi series 坂道系列官网资讯, sakurazaka46, sakurazaka46.com`
+- Aliases: `sakurazaka46, sakurazaka46.com, 櫻坂46`
 - Route Count: `2`
 
 ## Routes
 
-### Sakurazaka46 Blog 櫻坂 46 博客
+### 博客
 - Route ID: `sakurazaka46:/sakurazaka46/blog/:id?/:page?`
 - Route Path: `/sakurazaka46/blog/:id?/:page?`
 - File: `docs/routes/sakurazaka46/sakurazaka46-blog-id-page.md`
@@ -18,7 +18,7 @@
 - Categories: `new-media`
 - Maintainers: `victor21813, nczitzk, AkashiGakki`
 
-### Sakurazaka46 News 櫻坂 46 新闻
+### 新闻
 - Route ID: `sakurazaka46:/sakurazaka46/news`
 - Route Path: `/sakurazaka46/news`
 - File: `docs/routes/sakurazaka46/sakurazaka46-news.md`

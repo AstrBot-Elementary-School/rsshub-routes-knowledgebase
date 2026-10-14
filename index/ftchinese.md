@@ -10,7 +10,7 @@
 
 ## Routes
 
-### FT 中文网
+### 频道
 - Route ID: `ftchinese:/ftchinese/:language/:channel?`
 - Route Path: `/ftchinese/:language/:channel?`
 - File: `docs/routes/ftchinese/ftchinese-language-channel.md`

@@ -9,7 +9,7 @@
 - Route Path: `/cugb/news/:channel?`
 - Route Name: `校园新闻`
 - Example: `/cugb/news/bdxw`
-- URL: `cugb.edu.cn`
+- URL: `www.cugb.edu.cn`
 - Language: `_None_`
 - Categories: `university`
 - Maintainers: `syncmeta`

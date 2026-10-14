@@ -22,7 +22,7 @@
 |      | playable | single   | download | cnsub | preview |
 
 ## Parameters
-- `id`: 番号前缀
+- `code`: 番号前缀
 - `filter`: 过滤，见下表，默认为 `全部`
 
 
@@ -72,8 +72,8 @@
   ],
   "name": "番号",
   "parameters": {
-    "filter": "过滤，见下表，默认为 `全部`",
-    "id": "番号前缀"
+    "code": "番号前缀",
+    "filter": "过滤，见下表，默认为 `全部`"
   },
   "path": "/video_codes/:code/:filter?",
   "radar": [

@@ -1,4 +1,4 @@
-# ÖVW - ÖVW Suche
+# ÖVW - Suche
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `oevw`
 - Namespace Name: `ÖVW`
 - Route Path: `/oevw/:json?`
-- Route Name: `ÖVW Suche`
+- Route Name: `Suche`
 - Example: `/oevw/%7B%22rooms%22%3A%5B%222%22%2C%223%22%5D%7D`
 - URL: `oevw.at`
 - Language: `_None_`
@@ -45,7 +45,7 @@ _None_
   "maintainers": [
     "sk22"
   ],
-  "name": "ÖVW Suche",
+  "name": "Suche",
   "parameters": {
     "json": "JSON request body, as sent to oevw.at/suche"
   },

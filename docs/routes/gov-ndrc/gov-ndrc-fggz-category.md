@@ -200,456 +200,548 @@ _None_
 ### Rule 1
 - `title`: `发展改革工作`
 - `source`:
-  - `ndrc.gov.cn/fggz/:category*`
+  - `ndrc.gov.cn/fggz/`
+  - `ndrc.gov.cn/fggz/index.html`
+- `target`: `/fggz`
 ### Rule 2
 - `title`: `机关办公 - 业务工作`
 - `source`:
   - `ndrc.gov.cn/fggz/jgbg/ywgz`
+  - `ndrc.gov.cn/fggz/jgbg/ywgz/*`
 - `target`: `/fggz/jgbg/ywgz`
 ### Rule 3
 - `title`: `机关办公 - 学思践悟`
 - `source`:
   - `ndrc.gov.cn/fggz/jgbg/xsjw`
+  - `ndrc.gov.cn/fggz/jgbg/xsjw/*`
 - `target`: `/fggz/jgbg/xsjw`
 ### Rule 4
 - `title`: `发改政研 - 经济数据概览`
 - `source`:
   - `ndrc.gov.cn/fggz/fgzy/jjsjgl`
+  - `ndrc.gov.cn/fggz/fgzy/jjsjgl/*`
 - `target`: `/fggz/fgzy/jjsjgl`
 ### Rule 5
 - `title`: `发改政研 - 社会关切回应`
 - `source`:
   - `ndrc.gov.cn/fggz/fgzy/shgqhy`
+  - `ndrc.gov.cn/fggz/fgzy/shgqhy/*`
 - `target`: `/fggz/fgzy/shgqhy`
 ### Rule 6
 - `title`: `发改政研 - 新媒体解读`
 - `source`:
   - `ndrc.gov.cn/fggz/fgzy/xmtjd`
+  - `ndrc.gov.cn/fggz/fgzy/xmtjd/*`
 - `target`: `/fggz/fgzy/xmtjd`
 ### Rule 7
 - `title`: `发展战略和规划 - 国家发展战略和规划`
 - `source`:
   - `ndrc.gov.cn/fggz/fzzlgh/gjfzgh`
+  - `ndrc.gov.cn/fggz/fzzlgh/gjfzgh/*`
 - `target`: `/fggz/fzzlgh/gjfzgh`
 ### Rule 8
 - `title`: `发展战略和规划 - 国家级专项规划`
 - `source`:
   - `ndrc.gov.cn/fggz/fzzlgh/gjjzxgh`
+  - `ndrc.gov.cn/fggz/fzzlgh/gjjzxgh/*`
 - `target`: `/fggz/fzzlgh/gjjzxgh`
 ### Rule 9
 - `title`: `发展战略和规划 - 地方发展规划`
 - `source`:
   - `ndrc.gov.cn/fggz/fzzlgh/dffzgh`
+  - `ndrc.gov.cn/fggz/fzzlgh/dffzgh/*`
 - `target`: `/fggz/fzzlgh/dffzgh`
 ### Rule 10
 - `title`: `发展战略和规划 - 发展规划工作`
 - `source`:
   - `ndrc.gov.cn/fggz/fzzlgh/fzgggz`
+  - `ndrc.gov.cn/fggz/fzzlgh/fzgggz/*`
 - `target`: `/fggz/fzzlgh/fzgggz`
 ### Rule 11
 - `title`: `发改综合 - 国内经济监测`
 - `source`:
   - `ndrc.gov.cn/fggz/fgzh/gnjjjc`
+  - `ndrc.gov.cn/fggz/fgzh/gnjjjc/*`
 - `target`: `/fggz/fgzh/gnjjjc`
 ### Rule 12
 - `title`: `发改综合 - 工业经济`
 - `source`:
   - `ndrc.gov.cn/fggz/fgzh/gnjjjc/gyjj`
+  - `ndrc.gov.cn/fggz/fgzh/gnjjjc/gyjj/*`
 - `target`: `/fggz/fgzh/gnjjjc/gyjj`
 ### Rule 13
 - `title`: `发改综合 - 投资运行`
 - `source`:
   - `ndrc.gov.cn/fggz/fgzh/gnjjjc/tzyx`
+  - `ndrc.gov.cn/fggz/fgzh/gnjjjc/tzyx/*`
 - `target`: `/fggz/fgzh/gnjjjc/tzyx`
 ### Rule 14
 - `title`: `发改综合 - 市场消费`
 - `source`:
   - `ndrc.gov.cn/fggz/fgzh/gnjjjc/scxf`
+  - `ndrc.gov.cn/fggz/fgzh/gnjjjc/scxf/*`
 - `target`: `/fggz/fgzh/gnjjjc/scxf`
 ### Rule 15
 - `title`: `发改综合 - 价格情况`
 - `source`:
   - `ndrc.gov.cn/fggz/fgzh/gnjjjc/jgqk`
+  - `ndrc.gov.cn/fggz/fgzh/gnjjjc/jgqk/*`
 - `target`: `/fggz/fgzh/gnjjjc/jgqk`
 ### Rule 16
 - `title`: `发改综合 - 财政收支`
 - `source`:
   - `ndrc.gov.cn/fggz/fgzh/gnjjjc/czsz`
+  - `ndrc.gov.cn/fggz/fgzh/gnjjjc/czsz/*`
 - `target`: `/fggz/fgzh/gnjjjc/czsz`
 ### Rule 17
 - `title`: `发改综合 - 货币金融`
 - `source`:
   - `ndrc.gov.cn/fggz/fgzh/gnjjjc/hbjr`
+  - `ndrc.gov.cn/fggz/fgzh/gnjjjc/hbjr/*`
 - `target`: `/fggz/fgzh/gnjjjc/hbjr`
 ### Rule 18
 - `title`: `发改综合 - 就业情况`
 - `source`:
   - `ndrc.gov.cn/fggz/fgzh/gnjjjc/jyqk`
+  - `ndrc.gov.cn/fggz/fgzh/gnjjjc/jyqk/*`
 - `target`: `/fggz/fgzh/gnjjjc/jyqk`
 ### Rule 19
 - `title`: `发改综合 - 地区经济`
 - `source`:
   - `ndrc.gov.cn/fggz/fgzh/gnjjjc/dqjj`
+  - `ndrc.gov.cn/fggz/fgzh/gnjjjc/dqjj/*`
 - `target`: `/fggz/fgzh/gnjjjc/dqjj`
 ### Rule 20
 - `title`: `发改综合 - 国际经济监测`
 - `source`:
   - `ndrc.gov.cn/fggz/fgzh/gjjjjc`
+  - `ndrc.gov.cn/fggz/fgzh/gjjjjc/*`
 - `target`: `/fggz/fgzh/gjjjjc`
 ### Rule 21
 - `title`: `发改综合 - 先行指数`
 - `source`:
   - `ndrc.gov.cn/fggz/fgzh/gjjjjc/xxzs`
+  - `ndrc.gov.cn/fggz/fgzh/gjjjjc/xxzs/*`
 - `target`: `/fggz/fgzh/gjjjjc/xxzs`
 ### Rule 22
 - `title`: `发改综合 - 大宗商品市场情况`
 - `source`:
   - `ndrc.gov.cn/fggz/fgzh/gjjjjc/dzspscqk`
+  - `ndrc.gov.cn/fggz/fgzh/gjjjjc/dzspscqk/*`
 - `target`: `/fggz/fgzh/gjjjjc/dzspscqk`
 ### Rule 23
 - `title`: `发改综合 - 国别分析`
 - `source`:
   - `ndrc.gov.cn/fggz/fgzh/gjjjjc/gbfx`
+  - `ndrc.gov.cn/fggz/fgzh/gjjjjc/gbfx/*`
 - `target`: `/fggz/fgzh/gjjjjc/gbfx`
 ### Rule 24
 - `title`: `发改综合 - 国际组织预测和研究动态`
 - `source`:
   - `ndrc.gov.cn/fggz/fgzh/gjzzychyjdt`
+  - `ndrc.gov.cn/fggz/fgzh/gjzzychyjdt/*`
 - `target`: `/fggz/fgzh/gjzzychyjdt`
 ### Rule 25
 - `title`: `发改综合 - 国际组织预测`
 - `source`:
   - `ndrc.gov.cn/fggz/fgzh/gjzzychyjdt/gjzzyc`
+  - `ndrc.gov.cn/fggz/fgzh/gjzzychyjdt/gjzzyc/*`
 - `target`: `/fggz/fgzh/gjzzychyjdt/gjzzyc`
 ### Rule 26
 - `title`: `发改综合 - 国际组织研究动态`
 - `source`:
   - `ndrc.gov.cn/fggz/fgzh/gjzzychyjdt/gjzzyjdt`
+  - `ndrc.gov.cn/fggz/fgzh/gjzzychyjdt/gjzzyjdt/*`
 - `target`: `/fggz/fgzh/gjzzychyjdt/gjzzyjdt`
 ### Rule 27
 - `title`: `经济运行与调节 - 宏观经济运行`
 - `source`:
   - `ndrc.gov.cn/fggz/jjyxtj/hgjjyx`
+  - `ndrc.gov.cn/fggz/jjyxtj/hgjjyx/*`
 - `target`: `/fggz/jjyxtj/hgjjyx`
 ### Rule 28
 - `title`: `经济运行与调节 - 地方经济运行`
 - `source`:
   - `ndrc.gov.cn/fggz/jjyxtj/dfjjyx`
+  - `ndrc.gov.cn/fggz/jjyxtj/dfjjyx/*`
 - `target`: `/fggz/jjyxtj/dfjjyx`
 ### Rule 29
 - `title`: `经济运行与调节 - 煤电油气运`
 - `source`:
   - `ndrc.gov.cn/fggz/jjyxtj/mdyqy`
+  - `ndrc.gov.cn/fggz/jjyxtj/mdyqy/*`
 - `target`: `/fggz/jjyxtj/mdyqy`
 ### Rule 30
 - `title`: `经济运行与调节 - 现代物流`
 - `source`:
   - `ndrc.gov.cn/fggz/jjyxtj/xdwl`
+  - `ndrc.gov.cn/fggz/jjyxtj/xdwl/*`
 - `target`: `/fggz/jjyxtj/xdwl`
 ### Rule 31
 - `title`: `经济运行与调节 - 应急管理`
 - `source`:
   - `ndrc.gov.cn/fggz/jjyxtj/yjgl`
+  - `ndrc.gov.cn/fggz/jjyxtj/yjgl/*`
 - `target`: `/fggz/jjyxtj/yjgl`
 ### Rule 32
 - `title`: `体制改革 - 改革快讯`
 - `source`:
   - `ndrc.gov.cn/fggz/tzgg/ggkx`
+  - `ndrc.gov.cn/fggz/tzgg/ggkx/*`
 - `target`: `/fggz/tzgg/ggkx`
 ### Rule 33
 - `title`: `体制改革 - 半月改革动态`
 - `source`:
   - `ndrc.gov.cn/fggz/tzgg/byggdt`
+  - `ndrc.gov.cn/fggz/tzgg/byggdt/*`
 - `target`: `/fggz/tzgg/byggdt`
 ### Rule 34
 - `title`: `体制改革 - 地方改革经验`
 - `source`:
   - `ndrc.gov.cn/fggz/tzgg/dfggjx`
+  - `ndrc.gov.cn/fggz/tzgg/dfggjx/*`
 - `target`: `/fggz/tzgg/dfggjx`
 ### Rule 35
 - `title`: `固定资产投资 - 投资法规与政策动态`
 - `source`:
   - `ndrc.gov.cn/fggz/gdzctz/tzfg`
+  - `ndrc.gov.cn/fggz/gdzctz/tzfg/*`
 - `target`: `/fggz/gdzctz/tzfg`
 ### Rule 36
 - `title`: `利用外资和境外投资 - 境外投资`
 - `source`:
   - `ndrc.gov.cn/fggz/lywzjw/jwtz`
+  - `ndrc.gov.cn/fggz/lywzjw/jwtz/*`
 - `target`: `/fggz/lywzjw/jwtz`
 ### Rule 37
 - `title`: `利用外资和境外投资 - 外商投资`
 - `source`:
   - `ndrc.gov.cn/fggz/lywzjw/wstz`
+  - `ndrc.gov.cn/fggz/lywzjw/wstz/*`
 - `target`: `/fggz/lywzjw/wstz`
 ### Rule 38
 - `title`: `利用外资和境外投资 - 外债管理`
 - `source`:
   - `ndrc.gov.cn/fggz/lywzjw/wzgl`
+  - `ndrc.gov.cn/fggz/lywzjw/wzgl/*`
 - `target`: `/fggz/lywzjw/wzgl`
 ### Rule 39
 - `title`: `利用外资和境外投资 - 政策法规`
 - `source`:
   - `ndrc.gov.cn/fggz/lywzjw/zcfg`
+  - `ndrc.gov.cn/fggz/lywzjw/zcfg/*`
 - `target`: `/fggz/lywzjw/zcfg`
 ### Rule 40
 - `title`: `地区经济 - 重大战略`
 - `source`:
   - `ndrc.gov.cn/fggz/dqjj/zdzl`
+  - `ndrc.gov.cn/fggz/dqjj/zdzl/*`
 - `target`: `/fggz/dqjj/zdzl`
 ### Rule 41
 - `title`: `地区经济 - 四大板块`
 - `source`:
   - `ndrc.gov.cn/fggz/dqjj/sdbk`
+  - `ndrc.gov.cn/fggz/dqjj/sdbk/*`
 - `target`: `/fggz/dqjj/sdbk`
 ### Rule 42
 - `title`: `地区经济 - 国土海洋流域新区`
 - `source`:
   - `ndrc.gov.cn/fggz/dqjj/qt`
+  - `ndrc.gov.cn/fggz/dqjj/qt/*`
 - `target`: `/fggz/dqjj/qt`
 ### Rule 43
 - `title`: `地区振兴 - 巩固拓展脱贫攻坚成果和欠发达地区振兴发展`
 - `source`:
   - `ndrc.gov.cn/fggz/dqzx/tpgjypkfq`
+  - `ndrc.gov.cn/fggz/dqzx/tpgjypkfq/*`
 - `target`: `/fggz/dqzx/tpgjypkfq`
 ### Rule 44
 - `title`: `地区振兴 - 对口支援与合作`
 - `source`:
   - `ndrc.gov.cn/fggz/dqzx/dkzyyhz`
+  - `ndrc.gov.cn/fggz/dqzx/dkzyyhz/*`
 - `target`: `/fggz/dqzx/dkzyyhz`
 ### Rule 45
 - `title`: `地区振兴 - 革命老区振兴发展`
 - `source`:
   - `ndrc.gov.cn/fggz/dqzx/gglqzxfz`
+  - `ndrc.gov.cn/fggz/dqzx/gglqzxfz/*`
 - `target`: `/fggz/dqzx/gglqzxfz`
 ### Rule 46
 - `title`: `地区振兴 - 生态退化地区治理`
 - `source`:
   - `ndrc.gov.cn/fggz/dqzx/stthdqzl`
+  - `ndrc.gov.cn/fggz/dqzx/stthdqzl/*`
 - `target`: `/fggz/dqzx/stthdqzl`
 ### Rule 47
 - `title`: `地区振兴 - 资源型地区转型发展`
 - `source`:
   - `ndrc.gov.cn/fggz/dqzx/zyxdqzxfz`
+  - `ndrc.gov.cn/fggz/dqzx/zyxdqzxfz/*`
 - `target`: `/fggz/dqzx/zyxdqzxfz`
 ### Rule 48
 - `title`: `地区振兴 - 老工业地区振兴发展`
 - `source`:
   - `ndrc.gov.cn/fggz/dqzx/lzydfzxfz`
+  - `ndrc.gov.cn/fggz/dqzx/lzydfzxfz/*`
 - `target`: `/fggz/dqzx/lzydfzxfz`
 ### Rule 49
 - `title`: `区域开放 - 信息集萃`
 - `source`:
   - `ndrc.gov.cn/fggz/qykf/xxjc`
+  - `ndrc.gov.cn/fggz/qykf/xxjc/*`
 - `target`: `/fggz/qykf/xxjc`
 ### Rule 50
 - `title`: `农业农村经济 - 重点建设`
 - `source`:
   - `ndrc.gov.cn/fggz/nyncjj/zdjs`
+  - `ndrc.gov.cn/fggz/nyncjj/zdjs/*`
 - `target`: `/fggz/nyncjj/zdjs`
 ### Rule 51
 - `title`: `农业农村经济 - 投资指南`
 - `source`:
   - `ndrc.gov.cn/fggz/nyncjj/tzzn`
+  - `ndrc.gov.cn/fggz/nyncjj/tzzn/*`
 - `target`: `/fggz/nyncjj/tzzn`
 ### Rule 52
 - `title`: `农业农村经济 - 乡村振兴`
 - `source`:
   - `ndrc.gov.cn/fggz/nyncjj/xczx`
+  - `ndrc.gov.cn/fggz/nyncjj/xczx/*`
 - `target`: `/fggz/nyncjj/xczx`
 ### Rule 53
 - `title`: `农业农村经济 - 农经信息`
 - `source`:
   - `ndrc.gov.cn/fggz/nyncjj/njxx`
+  - `ndrc.gov.cn/fggz/nyncjj/njxx/*`
 - `target`: `/fggz/nyncjj/njxx`
 ### Rule 54
 - `title`: `基础设施发展 - 政策规划`
 - `source`:
   - `ndrc.gov.cn/fggz/zcssfz/zcgh`
+  - `ndrc.gov.cn/fggz/zcssfz/zcgh/*`
 - `target`: `/fggz/zcssfz/zcgh`
 ### Rule 55
 - `title`: `基础设施发展 - 城轨监管`
 - `source`:
   - `ndrc.gov.cn/fggz/zcssfz/cgjg`
+  - `ndrc.gov.cn/fggz/zcssfz/cgjg/*`
 - `target`: `/fggz/zcssfz/cgjg`
 ### Rule 56
 - `title`: `基础设施发展 - 重大工程`
 - `source`:
   - `ndrc.gov.cn/fggz/zcssfz/zdgc`
+  - `ndrc.gov.cn/fggz/zcssfz/zdgc/*`
 - `target`: `/fggz/zcssfz/zdgc`
 ### Rule 57
 - `title`: `基础设施发展 - 问题研究`
 - `source`:
   - `ndrc.gov.cn/fggz/zcssfz/wtyj`
+  - `ndrc.gov.cn/fggz/zcssfz/wtyj/*`
 - `target`: `/fggz/zcssfz/wtyj`
 ### Rule 58
 - `title`: `基础设施发展 - 行业数据`
 - `source`:
   - `ndrc.gov.cn/fggz/zcssfz/hysj`
+  - `ndrc.gov.cn/fggz/zcssfz/hysj/*`
 - `target`: `/fggz/zcssfz/hysj`
 ### Rule 59
 - `title`: `基础设施发展 - 地方发展`
 - `source`:
   - `ndrc.gov.cn/fggz/zcssfz/dffz`
+  - `ndrc.gov.cn/fggz/zcssfz/dffz/*`
 - `target`: `/fggz/zcssfz/dffz`
 ### Rule 60
 - `title`: `产业发展 - 制造业发展`
 - `source`:
   - `ndrc.gov.cn/fggz/cyfz/zcyfz`
+  - `ndrc.gov.cn/fggz/cyfz/zcyfz/*`
 - `target`: `/fggz/cyfz/zcyfz`
 ### Rule 61
 - `title`: `产业发展 - 服务业发展`
 - `source`:
   - `ndrc.gov.cn/fggz/cyfz/fwyfz`
+  - `ndrc.gov.cn/fggz/cyfz/fwyfz/*`
 - `target`: `/fggz/cyfz/fwyfz`
 ### Rule 62
 - `title`: `创新和高技术发展 - 地方进展`
 - `source`:
   - `ndrc.gov.cn/fggz/cxhgjsfz/dfjz`
+  - `ndrc.gov.cn/fggz/cxhgjsfz/dfjz/*`
 - `target`: `/fggz/cxhgjsfz/dfjz`
 ### Rule 63
 - `title`: `环境与资源 - 碳达峰碳中和`
 - `source`:
   - `ndrc.gov.cn/fggz/hjyzy/tdftzh`
+  - `ndrc.gov.cn/fggz/hjyzy/tdftzh/*`
 - `target`: `/fggz/hjyzy/tdftzh`
 ### Rule 64
 - `title`: `环境与资源 - 生态文明建设`
 - `source`:
   - `ndrc.gov.cn/fggz/hjyzy/stwmjs`
+  - `ndrc.gov.cn/fggz/hjyzy/stwmjs/*`
 - `target`: `/fggz/hjyzy/stwmjs`
 ### Rule 65
 - `title`: `环境与资源 - 节能和能效`
 - `source`:
   - `ndrc.gov.cn/fggz/hjyzy/jnhnx`
+  - `ndrc.gov.cn/fggz/hjyzy/jnhnx/*`
 - `target`: `/fggz/hjyzy/jnhnx`
 ### Rule 66
 - `title`: `环境与资源 - 资源利用和循环经济`
 - `source`:
   - `ndrc.gov.cn/fggz/hjyzy/zyzhlyhxhjj`
+  - `ndrc.gov.cn/fggz/hjyzy/zyzhlyhxhjj/*`
 - `target`: `/fggz/hjyzy/zyzhlyhxhjj`
 ### Rule 67
 - `title`: `环境与资源 - 水节约与保护`
 - `source`:
   - `ndrc.gov.cn/fggz/hjyzy/sjyybh`
+  - `ndrc.gov.cn/fggz/hjyzy/sjyybh/*`
 - `target`: `/fggz/hjyzy/sjyybh`
 ### Rule 68
 - `title`: `环境与资源 - 环境与保护`
 - `source`:
   - `ndrc.gov.cn/fggz/hjyzy/hjybh`
+  - `ndrc.gov.cn/fggz/hjyzy/hjybh/*`
 - `target`: `/fggz/hjyzy/hjybh`
 ### Rule 69
 - `title`: `就业与收入 - 就业收入社保消费`
 - `source`:
   - `ndrc.gov.cn/fggz/jyysr/jysrsbxf`
+  - `ndrc.gov.cn/fggz/jyysr/jysrsbxf/*`
 - `target`: `/fggz/jyysr/jysrsbxf`
 ### Rule 70
 - `title`: `就业与收入 - 地方经验`
 - `source`:
   - `ndrc.gov.cn/fggz/jyysr/dfjx`
+  - `ndrc.gov.cn/fggz/jyysr/dfjx/*`
 - `target`: `/fggz/jyysr/dfjx`
 ### Rule 71
 - `title`: `经济贸易 - 重要商品情况`
 - `source`:
   - `ndrc.gov.cn/fggz/jjmy/zyspqk`
+  - `ndrc.gov.cn/fggz/jjmy/zyspqk/*`
 - `target`: `/fggz/jjmy/zyspqk`
 ### Rule 72
 - `title`: `经济贸易 - 对外经贸及政策分析`
 - `source`:
   - `ndrc.gov.cn/fggz/jjmy/dwjmjzcfx`
+  - `ndrc.gov.cn/fggz/jjmy/dwjmjzcfx/*`
 - `target`: `/fggz/jjmy/dwjmjzcfx`
 ### Rule 73
 - `title`: `经济贸易 - 流通业发展`
 - `source`:
   - `ndrc.gov.cn/fggz/jjmy/ltyfz`
+  - `ndrc.gov.cn/fggz/jjmy/ltyfz/*`
 - `target`: `/fggz/jjmy/ltyfz`
 ### Rule 74
 - `title`: `财金信用 - 工作动态`
 - `source`:
   - `ndrc.gov.cn/fggz/cjxy/gzdt03`
+  - `ndrc.gov.cn/fggz/cjxy/gzdt03/*`
 - `target`: `/fggz/cjxy/gzdt03`
 ### Rule 75
 - `title`: `价格管理 - 地方工作`
 - `source`:
   - `ndrc.gov.cn/fggz/jggl/dfgz`
+  - `ndrc.gov.cn/fggz/jggl/dfgz/*`
 - `target`: `/fggz/jggl/dfgz`
 ### Rule 76
 - `title`: `发改法规 - 地方信息`
 - `source`:
   - `ndrc.gov.cn/fggz/fgfg/dfxx`
+  - `ndrc.gov.cn/fggz/fgfg/dfxx/*`
 - `target`: `/fggz/fgfg/dfxx`
 ### Rule 77
 - `title`: `国际合作 - 世经动态`
 - `source`:
   - `ndrc.gov.cn/fggz/gjhz/zywj`
+  - `ndrc.gov.cn/fggz/gjhz/zywj/*`
 - `target`: `/fggz/gjhz/zywj`
 ### Rule 78
 - `title`: `干部之家 - 系统风采`
 - `source`:
   - `ndrc.gov.cn/fggz/gbzj/xtfc`
+  - `ndrc.gov.cn/fggz/gbzj/xtfc/*`
 - `target`: `/fggz/gbzj/xtfc`
 ### Rule 79
 - `title`: `干部之家 - 人才招聘`
 - `source`:
   - `ndrc.gov.cn/fggz/gbzj/rczp`
+  - `ndrc.gov.cn/fggz/gbzj/rczp/*`
 - `target`: `/fggz/gbzj/rczp`
 ### Rule 80
 - `title`: `干部之家 - 委属工作`
 - `source`:
   - `ndrc.gov.cn/fggz/gbzj/wsgz`
+  - `ndrc.gov.cn/fggz/gbzj/wsgz/*`
 - `target`: `/fggz/gbzj/wsgz`
 ### Rule 81
 - `title`: `干部之家 - 学习园地`
 - `source`:
   - `ndrc.gov.cn/fggz/gbzj/xxyd`
+  - `ndrc.gov.cn/fggz/gbzj/xxyd/*`
 - `target`: `/fggz/gbzj/xxyd`
 ### Rule 82
 - `title`: `评估督导 - 评督动态`
 - `source`:
   - `ndrc.gov.cn/fggz/pgdd/pddt`
+  - `ndrc.gov.cn/fggz/pgdd/pddt/*`
 - `target`: `/fggz/pgdd/pddt`
 ### Rule 83
 - `title`: `评估督导 - 评督经验`
 - `source`:
   - `ndrc.gov.cn/fggz/pgdd/pdjy`
+  - `ndrc.gov.cn/fggz/pgdd/pdjy/*`
 - `target`: `/fggz/pgdd/pdjy`
 ### Rule 84
 - `title`: `发改党建 - 中央精神`
 - `source`:
   - `ndrc.gov.cn/fggz/fgdj/zydj`
+  - `ndrc.gov.cn/fggz/fgdj/zydj/*`
 - `target`: `/fggz/fgdj/zydj`
 ### Rule 85
 - `title`: `发改党建 - 机关党建`
 - `source`:
   - `ndrc.gov.cn/fggz/fgdj/jgdj`
+  - `ndrc.gov.cn/fggz/fgdj/jgdj/*`
 - `target`: `/fggz/fgdj/jgdj`
 ### Rule 86
 - `title`: `发改党建 - 委属党建`
 - `source`:
   - `ndrc.gov.cn/fggz/fgdj/wsdj`
+  - `ndrc.gov.cn/fggz/fgdj/wsdj/*`
 - `target`: `/fggz/fgdj/wsdj`
 ### Rule 87
 - `title`: `发改党建 - 系统党建`
 - `source`:
   - `ndrc.gov.cn/fggz/fgdj/xtdj`
+  - `ndrc.gov.cn/fggz/fgdj/xtdj/*`
 - `target`: `/fggz/fgdj/xtdj`
 ### Rule 88
 - `title`: `发改金辉 - 党建之窗`
 - `source`:
   - `ndrc.gov.cn/fggz/fgjh/djzc`
+  - `ndrc.gov.cn/fggz/fgjh/djzc/*`
 - `target`: `/fggz/fgjh/djzc`
 ### Rule 89
 - `title`: `发改金辉 - 系统交流`
 - `source`:
   - `ndrc.gov.cn/fggz/fgjh/zthd`
+  - `ndrc.gov.cn/fggz/fgjh/zthd/*`
 - `target`: `/fggz/fgjh/zthd`
 ### Rule 90
 - `title`: `发改金辉 - 学习园地`
 - `source`:
   - `ndrc.gov.cn/fggz/fgjh/yxyd`
+  - `ndrc.gov.cn/fggz/fgjh/yxyd/*`
 - `target`: `/fggz/fgjh/yxyd`
 ### Rule 91
 - `title`: `发改金辉 - 金色夕阳`
 - `source`:
   - `ndrc.gov.cn/fggz/fgjh/jsxy`
+  - `ndrc.gov.cn/fggz/fgjh/jsxy/*`
 - `target`: `/fggz/fgjh/jsxy`
 
 ## Raw JSON
@@ -673,636 +765,728 @@ _None_
   "radar": [
     {
       "source": [
-        "ndrc.gov.cn/fggz/:category*"
+        "ndrc.gov.cn/fggz/",
+        "ndrc.gov.cn/fggz/index.html"
       ],
+      "target": "/fggz",
       "title": "发展改革工作"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/jgbg/ywgz"
+        "ndrc.gov.cn/fggz/jgbg/ywgz",
+        "ndrc.gov.cn/fggz/jgbg/ywgz/*"
       ],
       "target": "/fggz/jgbg/ywgz",
       "title": "机关办公 - 业务工作"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/jgbg/xsjw"
+        "ndrc.gov.cn/fggz/jgbg/xsjw",
+        "ndrc.gov.cn/fggz/jgbg/xsjw/*"
       ],
       "target": "/fggz/jgbg/xsjw",
       "title": "机关办公 - 学思践悟"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/fgzy/jjsjgl"
+        "ndrc.gov.cn/fggz/fgzy/jjsjgl",
+        "ndrc.gov.cn/fggz/fgzy/jjsjgl/*"
       ],
       "target": "/fggz/fgzy/jjsjgl",
       "title": "发改政研 - 经济数据概览"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/fgzy/shgqhy"
+        "ndrc.gov.cn/fggz/fgzy/shgqhy",
+        "ndrc.gov.cn/fggz/fgzy/shgqhy/*"
       ],
       "target": "/fggz/fgzy/shgqhy",
       "title": "发改政研 - 社会关切回应"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/fgzy/xmtjd"
+        "ndrc.gov.cn/fggz/fgzy/xmtjd",
+        "ndrc.gov.cn/fggz/fgzy/xmtjd/*"
       ],
       "target": "/fggz/fgzy/xmtjd",
       "title": "发改政研 - 新媒体解读"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/fzzlgh/gjfzgh"
+        "ndrc.gov.cn/fggz/fzzlgh/gjfzgh",
+        "ndrc.gov.cn/fggz/fzzlgh/gjfzgh/*"
       ],
       "target": "/fggz/fzzlgh/gjfzgh",
       "title": "发展战略和规划 - 国家发展战略和规划"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/fzzlgh/gjjzxgh"
+        "ndrc.gov.cn/fggz/fzzlgh/gjjzxgh",
+        "ndrc.gov.cn/fggz/fzzlgh/gjjzxgh/*"
       ],
       "target": "/fggz/fzzlgh/gjjzxgh",
       "title": "发展战略和规划 - 国家级专项规划"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/fzzlgh/dffzgh"
+        "ndrc.gov.cn/fggz/fzzlgh/dffzgh",
+        "ndrc.gov.cn/fggz/fzzlgh/dffzgh/*"
       ],
       "target": "/fggz/fzzlgh/dffzgh",
       "title": "发展战略和规划 - 地方发展规划"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/fzzlgh/fzgggz"
+        "ndrc.gov.cn/fggz/fzzlgh/fzgggz",
+        "ndrc.gov.cn/fggz/fzzlgh/fzgggz/*"
       ],
       "target": "/fggz/fzzlgh/fzgggz",
       "title": "发展战略和规划 - 发展规划工作"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/fgzh/gnjjjc"
+        "ndrc.gov.cn/fggz/fgzh/gnjjjc",
+        "ndrc.gov.cn/fggz/fgzh/gnjjjc/*"
       ],
       "target": "/fggz/fgzh/gnjjjc",
       "title": "发改综合 - 国内经济监测"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/fgzh/gnjjjc/gyjj"
+        "ndrc.gov.cn/fggz/fgzh/gnjjjc/gyjj",
+        "ndrc.gov.cn/fggz/fgzh/gnjjjc/gyjj/*"
       ],
       "target": "/fggz/fgzh/gnjjjc/gyjj",
       "title": "发改综合 - 工业经济"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/fgzh/gnjjjc/tzyx"
+        "ndrc.gov.cn/fggz/fgzh/gnjjjc/tzyx",
+        "ndrc.gov.cn/fggz/fgzh/gnjjjc/tzyx/*"
       ],
       "target": "/fggz/fgzh/gnjjjc/tzyx",
       "title": "发改综合 - 投资运行"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/fgzh/gnjjjc/scxf"
+        "ndrc.gov.cn/fggz/fgzh/gnjjjc/scxf",
+        "ndrc.gov.cn/fggz/fgzh/gnjjjc/scxf/*"
       ],
       "target": "/fggz/fgzh/gnjjjc/scxf",
       "title": "发改综合 - 市场消费"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/fgzh/gnjjjc/jgqk"
+        "ndrc.gov.cn/fggz/fgzh/gnjjjc/jgqk",
+        "ndrc.gov.cn/fggz/fgzh/gnjjjc/jgqk/*"
       ],
       "target": "/fggz/fgzh/gnjjjc/jgqk",
       "title": "发改综合 - 价格情况"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/fgzh/gnjjjc/czsz"
+        "ndrc.gov.cn/fggz/fgzh/gnjjjc/czsz",
+        "ndrc.gov.cn/fggz/fgzh/gnjjjc/czsz/*"
       ],
       "target": "/fggz/fgzh/gnjjjc/czsz",
       "title": "发改综合 - 财政收支"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/fgzh/gnjjjc/hbjr"
+        "ndrc.gov.cn/fggz/fgzh/gnjjjc/hbjr",
+        "ndrc.gov.cn/fggz/fgzh/gnjjjc/hbjr/*"
       ],
       "target": "/fggz/fgzh/gnjjjc/hbjr",
       "title": "发改综合 - 货币金融"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/fgzh/gnjjjc/jyqk"
+        "ndrc.gov.cn/fggz/fgzh/gnjjjc/jyqk",
+        "ndrc.gov.cn/fggz/fgzh/gnjjjc/jyqk/*"
       ],
       "target": "/fggz/fgzh/gnjjjc/jyqk",
       "title": "发改综合 - 就业情况"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/fgzh/gnjjjc/dqjj"
+        "ndrc.gov.cn/fggz/fgzh/gnjjjc/dqjj",
+        "ndrc.gov.cn/fggz/fgzh/gnjjjc/dqjj/*"
       ],
       "target": "/fggz/fgzh/gnjjjc/dqjj",
       "title": "发改综合 - 地区经济"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/fgzh/gjjjjc"
+        "ndrc.gov.cn/fggz/fgzh/gjjjjc",
+        "ndrc.gov.cn/fggz/fgzh/gjjjjc/*"
       ],
       "target": "/fggz/fgzh/gjjjjc",
       "title": "发改综合 - 国际经济监测"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/fgzh/gjjjjc/xxzs"
+        "ndrc.gov.cn/fggz/fgzh/gjjjjc/xxzs",
+        "ndrc.gov.cn/fggz/fgzh/gjjjjc/xxzs/*"
       ],
       "target": "/fggz/fgzh/gjjjjc/xxzs",
       "title": "发改综合 - 先行指数"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/fgzh/gjjjjc/dzspscqk"
+        "ndrc.gov.cn/fggz/fgzh/gjjjjc/dzspscqk",
+        "ndrc.gov.cn/fggz/fgzh/gjjjjc/dzspscqk/*"
       ],
       "target": "/fggz/fgzh/gjjjjc/dzspscqk",
       "title": "发改综合 - 大宗商品市场情况"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/fgzh/gjjjjc/gbfx"
+        "ndrc.gov.cn/fggz/fgzh/gjjjjc/gbfx",
+        "ndrc.gov.cn/fggz/fgzh/gjjjjc/gbfx/*"
       ],
       "target": "/fggz/fgzh/gjjjjc/gbfx",
       "title": "发改综合 - 国别分析"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/fgzh/gjzzychyjdt"
+        "ndrc.gov.cn/fggz/fgzh/gjzzychyjdt",
+        "ndrc.gov.cn/fggz/fgzh/gjzzychyjdt/*"
       ],
       "target": "/fggz/fgzh/gjzzychyjdt",
       "title": "发改综合 - 国际组织预测和研究动态"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/fgzh/gjzzychyjdt/gjzzyc"
+        "ndrc.gov.cn/fggz/fgzh/gjzzychyjdt/gjzzyc",
+        "ndrc.gov.cn/fggz/fgzh/gjzzychyjdt/gjzzyc/*"
       ],
       "target": "/fggz/fgzh/gjzzychyjdt/gjzzyc",
       "title": "发改综合 - 国际组织预测"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/fgzh/gjzzychyjdt/gjzzyjdt"
+        "ndrc.gov.cn/fggz/fgzh/gjzzychyjdt/gjzzyjdt",
+        "ndrc.gov.cn/fggz/fgzh/gjzzychyjdt/gjzzyjdt/*"
       ],
       "target": "/fggz/fgzh/gjzzychyjdt/gjzzyjdt",
       "title": "发改综合 - 国际组织研究动态"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/jjyxtj/hgjjyx"
+        "ndrc.gov.cn/fggz/jjyxtj/hgjjyx",
+        "ndrc.gov.cn/fggz/jjyxtj/hgjjyx/*"
       ],
       "target": "/fggz/jjyxtj/hgjjyx",
       "title": "经济运行与调节 - 宏观经济运行"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/jjyxtj/dfjjyx"
+        "ndrc.gov.cn/fggz/jjyxtj/dfjjyx",
+        "ndrc.gov.cn/fggz/jjyxtj/dfjjyx/*"
       ],
       "target": "/fggz/jjyxtj/dfjjyx",
       "title": "经济运行与调节 - 地方经济运行"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/jjyxtj/mdyqy"
+        "ndrc.gov.cn/fggz/jjyxtj/mdyqy",
+        "ndrc.gov.cn/fggz/jjyxtj/mdyqy/*"
       ],
       "target": "/fggz/jjyxtj/mdyqy",
       "title": "经济运行与调节 - 煤电油气运"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/jjyxtj/xdwl"
+        "ndrc.gov.cn/fggz/jjyxtj/xdwl",
+        "ndrc.gov.cn/fggz/jjyxtj/xdwl/*"
       ],
       "target": "/fggz/jjyxtj/xdwl",
       "title": "经济运行与调节 - 现代物流"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/jjyxtj/yjgl"
+        "ndrc.gov.cn/fggz/jjyxtj/yjgl",
+        "ndrc.gov.cn/fggz/jjyxtj/yjgl/*"
       ],
       "target": "/fggz/jjyxtj/yjgl",
       "title": "经济运行与调节 - 应急管理"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/tzgg/ggkx"
+        "ndrc.gov.cn/fggz/tzgg/ggkx",
+        "ndrc.gov.cn/fggz/tzgg/ggkx/*"
       ],
       "target": "/fggz/tzgg/ggkx",
       "title": "体制改革 - 改革快讯"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/tzgg/byggdt"
+        "ndrc.gov.cn/fggz/tzgg/byggdt",
+        "ndrc.gov.cn/fggz/tzgg/byggdt/*"
       ],
       "target": "/fggz/tzgg/byggdt",
       "title": "体制改革 - 半月改革动态"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/tzgg/dfggjx"
+        "ndrc.gov.cn/fggz/tzgg/dfggjx",
+        "ndrc.gov.cn/fggz/tzgg/dfggjx/*"
       ],
       "target": "/fggz/tzgg/dfggjx",
       "title": "体制改革 - 地方改革经验"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/gdzctz/tzfg"
+        "ndrc.gov.cn/fggz/gdzctz/tzfg",
+        "ndrc.gov.cn/fggz/gdzctz/tzfg/*"
       ],
       "target": "/fggz/gdzctz/tzfg",
       "title": "固定资产投资 - 投资法规与政策动态"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/lywzjw/jwtz"
+        "ndrc.gov.cn/fggz/lywzjw/jwtz",
+        "ndrc.gov.cn/fggz/lywzjw/jwtz/*"
       ],
       "target": "/fggz/lywzjw/jwtz",
       "title": "利用外资和境外投资 - 境外投资"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/lywzjw/wstz"
+        "ndrc.gov.cn/fggz/lywzjw/wstz",
+        "ndrc.gov.cn/fggz/lywzjw/wstz/*"
       ],
       "target": "/fggz/lywzjw/wstz",
       "title": "利用外资和境外投资 - 外商投资"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/lywzjw/wzgl"
+        "ndrc.gov.cn/fggz/lywzjw/wzgl",
+        "ndrc.gov.cn/fggz/lywzjw/wzgl/*"
       ],
       "target": "/fggz/lywzjw/wzgl",
       "title": "利用外资和境外投资 - 外债管理"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/lywzjw/zcfg"
+        "ndrc.gov.cn/fggz/lywzjw/zcfg",
+        "ndrc.gov.cn/fggz/lywzjw/zcfg/*"
       ],
       "target": "/fggz/lywzjw/zcfg",
       "title": "利用外资和境外投资 - 政策法规"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/dqjj/zdzl"
+        "ndrc.gov.cn/fggz/dqjj/zdzl",
+        "ndrc.gov.cn/fggz/dqjj/zdzl/*"
       ],
       "target": "/fggz/dqjj/zdzl",
       "title": "地区经济 - 重大战略"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/dqjj/sdbk"
+        "ndrc.gov.cn/fggz/dqjj/sdbk",
+        "ndrc.gov.cn/fggz/dqjj/sdbk/*"
       ],
       "target": "/fggz/dqjj/sdbk",
       "title": "地区经济 - 四大板块"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/dqjj/qt"
+        "ndrc.gov.cn/fggz/dqjj/qt",
+        "ndrc.gov.cn/fggz/dqjj/qt/*"
       ],
       "target": "/fggz/dqjj/qt",
       "title": "地区经济 - 国土海洋流域新区"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/dqzx/tpgjypkfq"
+        "ndrc.gov.cn/fggz/dqzx/tpgjypkfq",
+        "ndrc.gov.cn/fggz/dqzx/tpgjypkfq/*"
       ],
       "target": "/fggz/dqzx/tpgjypkfq",
       "title": "地区振兴 - 巩固拓展脱贫攻坚成果和欠发达地区振兴发展"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/dqzx/dkzyyhz"
+        "ndrc.gov.cn/fggz/dqzx/dkzyyhz",
+        "ndrc.gov.cn/fggz/dqzx/dkzyyhz/*"
       ],
       "target": "/fggz/dqzx/dkzyyhz",
       "title": "地区振兴 - 对口支援与合作"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/dqzx/gglqzxfz"
+        "ndrc.gov.cn/fggz/dqzx/gglqzxfz",
+        "ndrc.gov.cn/fggz/dqzx/gglqzxfz/*"
       ],
       "target": "/fggz/dqzx/gglqzxfz",
       "title": "地区振兴 - 革命老区振兴发展"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/dqzx/stthdqzl"
+        "ndrc.gov.cn/fggz/dqzx/stthdqzl",
+        "ndrc.gov.cn/fggz/dqzx/stthdqzl/*"
       ],
       "target": "/fggz/dqzx/stthdqzl",
       "title": "地区振兴 - 生态退化地区治理"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/dqzx/zyxdqzxfz"
+        "ndrc.gov.cn/fggz/dqzx/zyxdqzxfz",
+        "ndrc.gov.cn/fggz/dqzx/zyxdqzxfz/*"
       ],
       "target": "/fggz/dqzx/zyxdqzxfz",
       "title": "地区振兴 - 资源型地区转型发展"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/dqzx/lzydfzxfz"
+        "ndrc.gov.cn/fggz/dqzx/lzydfzxfz",
+        "ndrc.gov.cn/fggz/dqzx/lzydfzxfz/*"
       ],
       "target": "/fggz/dqzx/lzydfzxfz",
       "title": "地区振兴 - 老工业地区振兴发展"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/qykf/xxjc"
+        "ndrc.gov.cn/fggz/qykf/xxjc",
+        "ndrc.gov.cn/fggz/qykf/xxjc/*"
       ],
       "target": "/fggz/qykf/xxjc",
       "title": "区域开放 - 信息集萃"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/nyncjj/zdjs"
+        "ndrc.gov.cn/fggz/nyncjj/zdjs",
+        "ndrc.gov.cn/fggz/nyncjj/zdjs/*"
       ],
       "target": "/fggz/nyncjj/zdjs",
       "title": "农业农村经济 - 重点建设"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/nyncjj/tzzn"
+        "ndrc.gov.cn/fggz/nyncjj/tzzn",
+        "ndrc.gov.cn/fggz/nyncjj/tzzn/*"
       ],
       "target": "/fggz/nyncjj/tzzn",
       "title": "农业农村经济 - 投资指南"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/nyncjj/xczx"
+        "ndrc.gov.cn/fggz/nyncjj/xczx",
+        "ndrc.gov.cn/fggz/nyncjj/xczx/*"
       ],
       "target": "/fggz/nyncjj/xczx",
       "title": "农业农村经济 - 乡村振兴"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/nyncjj/njxx"
+        "ndrc.gov.cn/fggz/nyncjj/njxx",
+        "ndrc.gov.cn/fggz/nyncjj/njxx/*"
       ],
       "target": "/fggz/nyncjj/njxx",
       "title": "农业农村经济 - 农经信息"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/zcssfz/zcgh"
+        "ndrc.gov.cn/fggz/zcssfz/zcgh",
+        "ndrc.gov.cn/fggz/zcssfz/zcgh/*"
       ],
       "target": "/fggz/zcssfz/zcgh",
       "title": "基础设施发展 - 政策规划"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/zcssfz/cgjg"
+        "ndrc.gov.cn/fggz/zcssfz/cgjg",
+        "ndrc.gov.cn/fggz/zcssfz/cgjg/*"
       ],
       "target": "/fggz/zcssfz/cgjg",
       "title": "基础设施发展 - 城轨监管"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/zcssfz/zdgc"
+        "ndrc.gov.cn/fggz/zcssfz/zdgc",
+        "ndrc.gov.cn/fggz/zcssfz/zdgc/*"
       ],
       "target": "/fggz/zcssfz/zdgc",
       "title": "基础设施发展 - 重大工程"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/zcssfz/wtyj"
+        "ndrc.gov.cn/fggz/zcssfz/wtyj",
+        "ndrc.gov.cn/fggz/zcssfz/wtyj/*"
       ],
       "target": "/fggz/zcssfz/wtyj",
       "title": "基础设施发展 - 问题研究"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/zcssfz/hysj"
+        "ndrc.gov.cn/fggz/zcssfz/hysj",
+        "ndrc.gov.cn/fggz/zcssfz/hysj/*"
       ],
       "target": "/fggz/zcssfz/hysj",
       "title": "基础设施发展 - 行业数据"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/zcssfz/dffz"
+        "ndrc.gov.cn/fggz/zcssfz/dffz",
+        "ndrc.gov.cn/fggz/zcssfz/dffz/*"
       ],
       "target": "/fggz/zcssfz/dffz",
       "title": "基础设施发展 - 地方发展"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/cyfz/zcyfz"
+        "ndrc.gov.cn/fggz/cyfz/zcyfz",
+        "ndrc.gov.cn/fggz/cyfz/zcyfz/*"
       ],
       "target": "/fggz/cyfz/zcyfz",
       "title": "产业发展 - 制造业发展"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/cyfz/fwyfz"
+        "ndrc.gov.cn/fggz/cyfz/fwyfz",
+        "ndrc.gov.cn/fggz/cyfz/fwyfz/*"
       ],
       "target": "/fggz/cyfz/fwyfz",
       "title": "产业发展 - 服务业发展"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/cxhgjsfz/dfjz"
+        "ndrc.gov.cn/fggz/cxhgjsfz/dfjz",
+        "ndrc.gov.cn/fggz/cxhgjsfz/dfjz/*"
       ],
       "target": "/fggz/cxhgjsfz/dfjz",
       "title": "创新和高技术发展 - 地方进展"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/hjyzy/tdftzh"
+        "ndrc.gov.cn/fggz/hjyzy/tdftzh",
+        "ndrc.gov.cn/fggz/hjyzy/tdftzh/*"
       ],
       "target": "/fggz/hjyzy/tdftzh",
       "title": "环境与资源 - 碳达峰碳中和"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/hjyzy/stwmjs"
+        "ndrc.gov.cn/fggz/hjyzy/stwmjs",
+        "ndrc.gov.cn/fggz/hjyzy/stwmjs/*"
       ],
       "target": "/fggz/hjyzy/stwmjs",
       "title": "环境与资源 - 生态文明建设"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/hjyzy/jnhnx"
+        "ndrc.gov.cn/fggz/hjyzy/jnhnx",
+        "ndrc.gov.cn/fggz/hjyzy/jnhnx/*"
       ],
       "target": "/fggz/hjyzy/jnhnx",
       "title": "环境与资源 - 节能和能效"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/hjyzy/zyzhlyhxhjj"
+        "ndrc.gov.cn/fggz/hjyzy/zyzhlyhxhjj",
+        "ndrc.gov.cn/fggz/hjyzy/zyzhlyhxhjj/*"
       ],
       "target": "/fggz/hjyzy/zyzhlyhxhjj",
       "title": "环境与资源 - 资源利用和循环经济"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/hjyzy/sjyybh"
+        "ndrc.gov.cn/fggz/hjyzy/sjyybh",
+        "ndrc.gov.cn/fggz/hjyzy/sjyybh/*"
       ],
       "target": "/fggz/hjyzy/sjyybh",
       "title": "环境与资源 - 水节约与保护"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/hjyzy/hjybh"
+        "ndrc.gov.cn/fggz/hjyzy/hjybh",
+        "ndrc.gov.cn/fggz/hjyzy/hjybh/*"
       ],
       "target": "/fggz/hjyzy/hjybh",
       "title": "环境与资源 - 环境与保护"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/jyysr/jysrsbxf"
+        "ndrc.gov.cn/fggz/jyysr/jysrsbxf",
+        "ndrc.gov.cn/fggz/jyysr/jysrsbxf/*"
       ],
       "target": "/fggz/jyysr/jysrsbxf",
       "title": "就业与收入 - 就业收入社保消费"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/jyysr/dfjx"
+        "ndrc.gov.cn/fggz/jyysr/dfjx",
+        "ndrc.gov.cn/fggz/jyysr/dfjx/*"
       ],
       "target": "/fggz/jyysr/dfjx",
       "title": "就业与收入 - 地方经验"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/jjmy/zyspqk"
+        "ndrc.gov.cn/fggz/jjmy/zyspqk",
+        "ndrc.gov.cn/fggz/jjmy/zyspqk/*"
       ],
       "target": "/fggz/jjmy/zyspqk",
       "title": "经济贸易 - 重要商品情况"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/jjmy/dwjmjzcfx"
+        "ndrc.gov.cn/fggz/jjmy/dwjmjzcfx",
+        "ndrc.gov.cn/fggz/jjmy/dwjmjzcfx/*"
       ],
       "target": "/fggz/jjmy/dwjmjzcfx",
       "title": "经济贸易 - 对外经贸及政策分析"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/jjmy/ltyfz"
+        "ndrc.gov.cn/fggz/jjmy/ltyfz",
+        "ndrc.gov.cn/fggz/jjmy/ltyfz/*"
       ],
       "target": "/fggz/jjmy/ltyfz",
       "title": "经济贸易 - 流通业发展"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/cjxy/gzdt03"
+        "ndrc.gov.cn/fggz/cjxy/gzdt03",
+        "ndrc.gov.cn/fggz/cjxy/gzdt03/*"
       ],
       "target": "/fggz/cjxy/gzdt03",
       "title": "财金信用 - 工作动态"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/jggl/dfgz"
+        "ndrc.gov.cn/fggz/jggl/dfgz",
+        "ndrc.gov.cn/fggz/jggl/dfgz/*"
       ],
       "target": "/fggz/jggl/dfgz",
       "title": "价格管理 - 地方工作"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/fgfg/dfxx"
+        "ndrc.gov.cn/fggz/fgfg/dfxx",
+        "ndrc.gov.cn/fggz/fgfg/dfxx/*"
       ],
       "target": "/fggz/fgfg/dfxx",
       "title": "发改法规 - 地方信息"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/gjhz/zywj"
+        "ndrc.gov.cn/fggz/gjhz/zywj",
+        "ndrc.gov.cn/fggz/gjhz/zywj/*"
       ],
       "target": "/fggz/gjhz/zywj",
       "title": "国际合作 - 世经动态"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/gbzj/xtfc"
+        "ndrc.gov.cn/fggz/gbzj/xtfc",
+        "ndrc.gov.cn/fggz/gbzj/xtfc/*"
       ],
       "target": "/fggz/gbzj/xtfc",
       "title": "干部之家 - 系统风采"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/gbzj/rczp"
+        "ndrc.gov.cn/fggz/gbzj/rczp",
+        "ndrc.gov.cn/fggz/gbzj/rczp/*"
       ],
       "target": "/fggz/gbzj/rczp",
       "title": "干部之家 - 人才招聘"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/gbzj/wsgz"
+        "ndrc.gov.cn/fggz/gbzj/wsgz",
+        "ndrc.gov.cn/fggz/gbzj/wsgz/*"
       ],
       "target": "/fggz/gbzj/wsgz",
       "title": "干部之家 - 委属工作"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/gbzj/xxyd"
+        "ndrc.gov.cn/fggz/gbzj/xxyd",
+        "ndrc.gov.cn/fggz/gbzj/xxyd/*"
       ],
       "target": "/fggz/gbzj/xxyd",
       "title": "干部之家 - 学习园地"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/pgdd/pddt"
+        "ndrc.gov.cn/fggz/pgdd/pddt",
+        "ndrc.gov.cn/fggz/pgdd/pddt/*"
       ],
       "target": "/fggz/pgdd/pddt",
       "title": "评估督导 - 评督动态"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/pgdd/pdjy"
+        "ndrc.gov.cn/fggz/pgdd/pdjy",
+        "ndrc.gov.cn/fggz/pgdd/pdjy/*"
       ],
       "target": "/fggz/pgdd/pdjy",
       "title": "评估督导 - 评督经验"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/fgdj/zydj"
+        "ndrc.gov.cn/fggz/fgdj/zydj",
+        "ndrc.gov.cn/fggz/fgdj/zydj/*"
       ],
       "target": "/fggz/fgdj/zydj",
       "title": "发改党建 - 中央精神"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/fgdj/jgdj"
+        "ndrc.gov.cn/fggz/fgdj/jgdj",
+        "ndrc.gov.cn/fggz/fgdj/jgdj/*"
       ],
       "target": "/fggz/fgdj/jgdj",
       "title": "发改党建 - 机关党建"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/fgdj/wsdj"
+        "ndrc.gov.cn/fggz/fgdj/wsdj",
+        "ndrc.gov.cn/fggz/fgdj/wsdj/*"
       ],
       "target": "/fggz/fgdj/wsdj",
       "title": "发改党建 - 委属党建"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/fgdj/xtdj"
+        "ndrc.gov.cn/fggz/fgdj/xtdj",
+        "ndrc.gov.cn/fggz/fgdj/xtdj/*"
       ],
       "target": "/fggz/fgdj/xtdj",
       "title": "发改党建 - 系统党建"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/fgjh/djzc"
+        "ndrc.gov.cn/fggz/fgjh/djzc",
+        "ndrc.gov.cn/fggz/fgjh/djzc/*"
       ],
       "target": "/fggz/fgjh/djzc",
       "title": "发改金辉 - 党建之窗"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/fgjh/zthd"
+        "ndrc.gov.cn/fggz/fgjh/zthd",
+        "ndrc.gov.cn/fggz/fgjh/zthd/*"
       ],
       "target": "/fggz/fgjh/zthd",
       "title": "发改金辉 - 系统交流"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/fgjh/yxyd"
+        "ndrc.gov.cn/fggz/fgjh/yxyd",
+        "ndrc.gov.cn/fggz/fgjh/yxyd/*"
       ],
       "target": "/fggz/fgjh/yxyd",
       "title": "发改金辉 - 学习园地"
     },
     {
       "source": [
-        "ndrc.gov.cn/fggz/fgjh/jsxy"
+        "ndrc.gov.cn/fggz/fgjh/jsxy",
+        "ndrc.gov.cn/fggz/fgjh/jsxy/*"
       ],
       "target": "/fggz/fgjh/jsxy",
       "title": "发改金辉 - 金色夕阳"

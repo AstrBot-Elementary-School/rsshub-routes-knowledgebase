@@ -32,7 +32,6 @@ _None_
 ### Rule 1
 - `source`:
   - `thinkingmachines.ai/news`
-  - `thinkingmachines.ai/news/`
 - `target`: `/news`
 
 ## Raw JSON
@@ -57,8 +56,7 @@ _None_
   "radar": [
     {
       "source": [
-        "thinkingmachines.ai/news",
-        "thinkingmachines.ai/news/"
+        "thinkingmachines.ai/news"
       ],
       "target": "/news"
     }

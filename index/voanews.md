@@ -10,7 +10,7 @@
 
 ## Routes
 
-### Voice of America (VOA)
+### News
 - Route ID: `voanews:/voanews/:language/:channel?`
 - Route Path: `/voanews/:language/:channel?`
 - File: `docs/routes/voanews/voanews-language-channel.md`

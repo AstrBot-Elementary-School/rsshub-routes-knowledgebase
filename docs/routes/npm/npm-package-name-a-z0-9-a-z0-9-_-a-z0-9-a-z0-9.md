@@ -69,16 +69,16 @@ _None_
       "url": "rsshub://npm/package/@vue/language-server"
     },
     {
-      "description": "typescript - npm - Powered by RSSHub",
+      "description": "@antfu/eslint-config - npm - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "115376694953118720",
+      "id": "175925709458059264",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.npmjs.com/package/typescript",
-      "title": "typescript - npm",
+      "siteUrl": "https://www.npmjs.com/package/@antfu/eslint-config",
+      "title": "@antfu/eslint-config - npm",
       "type": "feed",
-      "url": "rsshub://npm/package/typescript"
+      "url": "rsshub://npm/package/@antfu/eslint-config"
     }
   ]
 }

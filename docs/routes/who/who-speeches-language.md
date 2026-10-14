@@ -9,7 +9,7 @@
 - Route Path: `/who/speeches/:language?`
 - Route Name: `Speeches`
 - Example: `/who/speeches`
-- URL: `who.int/director-general/speeches`
+- URL: `who.int/news-room/speeches`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `nczitzk`
@@ -39,6 +39,7 @@ Language
 ### Rule 1
 - `source`:
   - `who.int/director-general/speeches`
+  - `who.int/news-room/speeches`
 - `target`: `/speeches`
 
 ## Raw JSON
@@ -70,7 +71,8 @@ Language
   "radar": [
     {
       "source": [
-        "who.int/director-general/speeches"
+        "who.int/director-general/speeches",
+        "who.int/news-room/speeches"
       ],
       "target": "/speeches"
     }
@@ -92,6 +94,6 @@ Language
       "url": "rsshub://who/speeches"
     }
   ],
-  "url": "who.int/director-general/speeches"
+  "url": "who.int/news-room/speeches"
 }
 ```

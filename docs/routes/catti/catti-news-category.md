@@ -1,4 +1,4 @@
-# 全国翻译专业资格水平考试 (CATTI) - CATTI 考试消息
+# 全国翻译专业资格水平考试 (CATTI) - 考试消息
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `catti`
 - Namespace Name: `全国翻译专业资格水平考试 (CATTI)`
 - Route Path: `/catti/news/:category`
-- Route Name: `CATTI 考试消息`
+- Route Name: `考试消息`
 - Example: `/catti/news/zxzc`
 - URL: `www.catticenter.com`
 - Language: `_None_`
@@ -63,7 +63,7 @@
   "maintainers": [
     "PrinOrange"
   ],
-  "name": "CATTI 考试消息",
+  "name": "考试消息",
   "parameters": {
     "category": "消息分类名，可在下面的描述中找到。"
   },

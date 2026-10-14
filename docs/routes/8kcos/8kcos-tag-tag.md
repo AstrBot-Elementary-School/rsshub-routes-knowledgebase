@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 35,
+  "heat": 36,
   "location": "tag.ts",
   "maintainers": [
     "KotoriK"
@@ -89,8 +89,8 @@ _None_
     },
     {
       "description": "鹿八岁 Archives - 8k Cosplay Zone - Powered by RSSHub",
-      "errorAt": "2026-10-07T11:01:50.574Z",
-      "errorMessage": "[GET] \"https://www.8kcosplay.com/wp-json/wp/v2/posts?per_page=10&_embed&tags=1939\": 520 <none>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "251905695964091392",
       "image": null,
       "ownerUserId": null,

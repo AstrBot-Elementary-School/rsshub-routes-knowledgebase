@@ -46,6 +46,7 @@
 ### Rule 1
 - `source`:
   - `www.iresearch.com.cn/report.shtml`
+- `target`: `/weekly`
 ### Rule 2
 - `title`: `家电行业`
 - `source`:
@@ -131,7 +132,8 @@
     {
       "source": [
         "www.iresearch.com.cn/report.shtml"
-      ]
+      ],
+      "target": "/weekly"
     },
     {
       "source": [

@@ -1,4 +1,4 @@
-# 新浪 - 新浪体育
+# 新浪 - 体育
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `sina`
 - Namespace Name: `新浪`
 - Route Path: `/sina/sports/:type?`
-- Route Name: `新浪体育`
+- Route Name: `体育`
 - Example: `/sina/sports`
 - URL: `finance.sina.com.cn`
 - Language: `_None_`
@@ -41,7 +41,7 @@ _None_
   "maintainers": [
     "nczitzk"
   ],
-  "name": "新浪体育",
+  "name": "体育",
   "parameters": {
     "type": "类别"
   },

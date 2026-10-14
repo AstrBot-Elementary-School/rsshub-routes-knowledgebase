@@ -20,7 +20,7 @@
 _None_
 
 ## Parameters
-_None_
+- `colType`: 合集类型：0 精选文章、1 专栏、2 周刊、3 月刊。
 
 
 ## Features
@@ -44,6 +44,9 @@ _None_
     "cnkmmk"
   ],
   "name": "合集",
+  "parameters": {
+    "colType": "合集类型：0 精选文章、1 专栏、2 周刊、3 月刊。"
+  },
   "path": "/collection/:colType",
   "radar": [
     {

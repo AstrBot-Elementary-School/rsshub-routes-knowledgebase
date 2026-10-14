@@ -9,7 +9,7 @@
 - Route Path: `/langchain/blog`
 - Route Name: `Blog`
 - Example: `/langchain/blog`
-- URL: `blog.langchain.dev/`
+- URL: `www.langchain.com/blog`
 - Language: `_None_`
 - Categories: `blog`
 - Maintainers: `liyaozhong`
@@ -30,6 +30,9 @@ _None_
 ### Rule 1
 - `source`:
   - `blog.langchain.dev/`
+### Rule 2
+- `source`:
+  - `www.langchain.com/blog`
 
 ## Raw JSON
 ```json
@@ -51,6 +54,11 @@ _None_
       "source": [
         "blog.langchain.dev/"
       ]
+    },
+    {
+      "source": [
+        "www.langchain.com/blog"
+      ]
     }
   ],
   "test": {
@@ -71,6 +79,6 @@ _None_
       "url": "rsshub://langchain/blog"
     }
   ],
-  "url": "blog.langchain.dev/"
+  "url": "www.langchain.com/blog"
 }
 ```

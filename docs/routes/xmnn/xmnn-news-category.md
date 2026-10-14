@@ -46,6 +46,14 @@
 - `source`:
   - `news.xmnn.cn/:category`
 - `target`: `/news/:category`
+### Rule 2
+- `source`:
+  - `www.xmnn.cn/news/:category/*path`
+- `target`: `/news/:category`
+### Rule 3
+- `source`:
+  - `news.xmnn.cn/:category/*path`
+- `target`: `/news/:category`
 
 ## Raw JSON
 ```json
@@ -77,6 +85,18 @@
     {
       "source": [
         "news.xmnn.cn/:category"
+      ],
+      "target": "/news/:category"
+    },
+    {
+      "source": [
+        "www.xmnn.cn/news/:category/*path"
+      ],
+      "target": "/news/:category"
+    },
+    {
+      "source": [
+        "news.xmnn.cn/:category/*path"
       ],
       "target": "/news/:category"
     }

@@ -37,8 +37,11 @@
 ### Rule 1
 - `source`:
   - `utgd.net/category/s/:category`
-  - `utgd.net/`
 - `target`: `/category/:category`
+### Rule 2
+- `source`:
+  - `utgd.net/`
+- `target`: `/category`
 
 ## Raw JSON
 ```json
@@ -69,10 +72,15 @@
   "radar": [
     {
       "source": [
-        "utgd.net/category/s/:category",
-        "utgd.net/"
+        "utgd.net/category/s/:category"
       ],
       "target": "/category/:category"
+    },
+    {
+      "source": [
+        "utgd.net/"
+      ],
+      "target": "/category"
     }
   ],
   "test": {

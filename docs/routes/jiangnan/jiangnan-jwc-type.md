@@ -17,7 +17,7 @@
 - Source Module: `_None_`
 
 ## Description
-| all  | tzgg     | ksap     | wjgg     | tmgz     | djks     | xjgl     | bysj     | syjs     |
+| all  | tzgg     | ksap     | wjgg     | tmgz     | djks     | xjgl     | bysj     | syjx     |
 | ---- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |
 | 全部 | 通知公告 | 考试安排 | 违纪公告 | 推免工作 | 等级考试 | 学籍管理 | 毕业设计 | 实验教学 |
 
@@ -41,7 +41,7 @@ _None_
   "categories": [
     "university"
   ],
-  "description": "| all  | tzgg     | ksap     | wjgg     | tmgz     | djks     | xjgl     | bysj     | syjs     |\n| ---- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |\n| 全部 | 通知公告 | 考试安排 | 违纪公告 | 推免工作 | 等级考试 | 学籍管理 | 毕业设计 | 实验教学 |\n\n| sjcx     | xkjs     | yjszj      | jxgg     | zyjs     | kcjs     | jcjs     | jxcg     | xsbg     |\n| -------- | -------- | ---------- | -------- | -------- | -------- | -------- | -------- | -------- |\n| 实践创新 | 学科竞赛 | 研究生助教 | 教学改革 | 专业建设 | 课程建设 | 教材建设 | 教学成果 | 学术报告 |",
+  "description": "| all  | tzgg     | ksap     | wjgg     | tmgz     | djks     | xjgl     | bysj     | syjx     |\n| ---- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- |\n| 全部 | 通知公告 | 考试安排 | 违纪公告 | 推免工作 | 等级考试 | 学籍管理 | 毕业设计 | 实验教学 |\n\n| sjcx     | xkjs     | yjszj      | jxgg     | zyjs     | kcjs     | jcjs     | jxcg     | xsbg     |\n| -------- | -------- | ---------- | -------- | -------- | -------- | -------- | -------- | -------- |\n| 实践创新 | 学科竞赛 | 研究生助教 | 教学改革 | 专业建设 | 课程建设 | 教材建设 | 教学成果 | 学术报告 |",
   "example": "/jiangnan/jwc/all",
   "features": {
     "antiCrawler": true

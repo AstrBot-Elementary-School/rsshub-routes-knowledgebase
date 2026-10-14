@@ -31,15 +31,18 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `www.bjeea.com/bjeeagg`
+  - `www.bjeea.cn/html/bjeeagg/:path?`
+  - `www.bjeea.cn/html/bjeeagg`
 - `target`: `/bjeeagg`
 ### Rule 2
 - `source`:
-  - `www.bjeea.com/zkzc`
+  - `www.bjeea.cn/html/zkzc/:path?`
+  - `www.bjeea.cn/html/zkzc`
 - `target`: `/zkzc`
 ### Rule 3
 - `source`:
-  - `www.bjeea.com/zkkd`
+  - `www.bjeea.cn/html/zkkd/:path?`
+  - `www.bjeea.cn/html/zkkd`
 - `target`: `/zkkd`
 
 ## Raw JSON
@@ -63,19 +66,22 @@ _None_
   "radar": [
     {
       "source": [
-        "www.bjeea.com/bjeeagg"
+        "www.bjeea.cn/html/bjeeagg/:path?",
+        "www.bjeea.cn/html/bjeeagg"
       ],
       "target": "/bjeeagg"
     },
     {
       "source": [
-        "www.bjeea.com/zkzc"
+        "www.bjeea.cn/html/zkzc/:path?",
+        "www.bjeea.cn/html/zkzc"
       ],
       "target": "/zkzc"
     },
     {
       "source": [
-        "www.bjeea.com/zkkd"
+        "www.bjeea.cn/html/zkkd/:path?",
+        "www.bjeea.cn/html/zkkd"
       ],
       "target": "/zkkd"
     }

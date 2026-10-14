@@ -24,7 +24,7 @@ _None_
 
 
 ## Features
-_None_
+- `requirePuppeteer`: true
 
 ## Radar
 ### Rule 1
@@ -38,6 +38,9 @@ _None_
     "design"
   ],
   "example": "/makerworld/trending",
+  "features": {
+    "requirePuppeteer": true
+  },
   "heat": 64,
   "location": "trending.ts",
   "maintainers": [

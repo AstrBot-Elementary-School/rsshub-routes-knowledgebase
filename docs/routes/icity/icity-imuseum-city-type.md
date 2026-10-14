@@ -32,6 +32,30 @@ _None_
 - `source`:
   - `art.icity.ly/:city`
 - `target`: `/imuseum/:city`
+### Rule 2
+- `source`:
+  - `art.icity.ly/:city/all`
+- `target`: `/imuseum/:city/all`
+### Rule 3
+- `source`:
+  - `art.icity.ly/:city/latest`
+- `target`: `/imuseum/:city/latest`
+### Rule 4
+- `source`:
+  - `art.icity.ly/:city/hot`
+- `target`: `/imuseum/:city/hot`
+### Rule 5
+- `source`:
+  - `art.icity.ly/:city/end_soon`
+- `target`: `/imuseum/:city/end_soon`
+### Rule 6
+- `source`:
+  - `art.icity.ly/:city/coming`
+- `target`: `/imuseum/:city/coming`
+### Rule 7
+- `source`:
+  - `art.icity.ly/:city/outdated`
+- `target`: `/imuseum/:city/outdated`
 
 ## Raw JSON
 ```json
@@ -87,6 +111,42 @@ _None_
         "art.icity.ly/:city"
       ],
       "target": "/imuseum/:city"
+    },
+    {
+      "source": [
+        "art.icity.ly/:city/all"
+      ],
+      "target": "/imuseum/:city/all"
+    },
+    {
+      "source": [
+        "art.icity.ly/:city/latest"
+      ],
+      "target": "/imuseum/:city/latest"
+    },
+    {
+      "source": [
+        "art.icity.ly/:city/hot"
+      ],
+      "target": "/imuseum/:city/hot"
+    },
+    {
+      "source": [
+        "art.icity.ly/:city/end_soon"
+      ],
+      "target": "/imuseum/:city/end_soon"
+    },
+    {
+      "source": [
+        "art.icity.ly/:city/coming"
+      ],
+      "target": "/imuseum/:city/coming"
+    },
+    {
+      "source": [
+        "art.icity.ly/:city/outdated"
+      ],
+      "target": "/imuseum/:city/outdated"
     }
   ],
   "test": {

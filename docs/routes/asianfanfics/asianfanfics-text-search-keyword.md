@@ -29,7 +29,7 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `www.asianfanfics.com/browse/text_search?q=:keyword`
+  - `www.asianfanfics.com/browse/search`
 - `target`: `/text-search/:keyword`
 
 ## Raw JSON
@@ -53,7 +53,7 @@ _None_
   "radar": [
     {
       "source": [
-        "www.asianfanfics.com/browse/text_search?q=:keyword"
+        "www.asianfanfics.com/browse/search"
       ],
       "target": "/text-search/:keyword"
     }

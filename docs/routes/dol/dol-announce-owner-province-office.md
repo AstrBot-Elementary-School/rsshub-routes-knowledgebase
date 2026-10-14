@@ -20,9 +20,9 @@
 _None_
 
 ## Parameters
-- `owner`: Requester/former land owner
-- `province`: Province which the land is belongs to
-- `office`: DOL office name which the land is belongs to (สำนักงานที่ดิน(กรุงเทพมหานคร|จังหวัด*) [สาขา*])
+- `owner`: Requester/former land owner. Use _ to omit it when selecting a province or office.
+- `province`: Province which the land belongs to. Use _ to omit it when selecting an office.
+- `office`: DOL office name which the land belongs to (สำนักงานที่ดิน(กรุงเทพมหานคร|จังหวัด*) [สาขา*])
 
 
 ## Features
@@ -58,9 +58,9 @@ _None_
   ],
   "name": "e-LandsAnnouncement",
   "parameters": {
-    "office": "DOL office name which the land is belongs to (สำนักงานที่ดิน(กรุงเทพมหานคร|จังหวัด*) [สาขา*])",
-    "owner": "Requester/former land owner",
-    "province": "Province which the land is belongs to"
+    "office": "DOL office name which the land belongs to (สำนักงานที่ดิน(กรุงเทพมหานคร|จังหวัด*) [สาขา*])",
+    "owner": "Requester/former land owner. Use _ to omit it when selecting a province or office.",
+    "province": "Province which the land belongs to. Use _ to omit it when selecting an office."
   },
   "path": "/announce/:owner?/:province?/:office?",
   "test": {

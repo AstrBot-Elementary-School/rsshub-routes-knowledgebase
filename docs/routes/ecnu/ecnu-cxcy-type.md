@@ -33,6 +33,10 @@ _None_
 - `source`:
   - `cxcy.ecnu.edu.cn`
 - `target`: `/cxcy`
+### Rule 2
+- `source`:
+  - `www.cxcy.ecnu.edu.cn`
+- `target`: `/cxcy`
 
 ## Raw JSON
 ```json
@@ -58,6 +62,12 @@ _None_
     {
       "source": [
         "cxcy.ecnu.edu.cn"
+      ],
+      "target": "/cxcy"
+    },
+    {
+      "source": [
+        "www.cxcy.ecnu.edu.cn"
       ],
       "target": "/cxcy"
     }

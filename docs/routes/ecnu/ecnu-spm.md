@@ -30,6 +30,7 @@ _None_
 ### Rule 1
 - `source`:
   - `spm.ecnu.edu.cn`
+  - `spm.ecnu.edu.cn/42688/list.htm`
 - `target`: `/spm`
 
 ## Raw JSON
@@ -51,7 +52,8 @@ _None_
   "radar": [
     {
       "source": [
-        "spm.ecnu.edu.cn"
+        "spm.ecnu.edu.cn",
+        "spm.ecnu.edu.cn/42688/list.htm"
       ],
       "target": "/spm"
     }

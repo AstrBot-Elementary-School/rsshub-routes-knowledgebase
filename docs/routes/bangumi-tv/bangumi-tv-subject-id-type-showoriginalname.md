@@ -39,7 +39,7 @@
 ### Rule 1
 - `source`:
   - `bgm.tv/subject/:id`
-- `target`: `/tv/subject/:id`
+- `target`: `/subject/:id`
 
 ## Raw JSON
 ```json
@@ -74,7 +74,7 @@
       "source": [
         "bgm.tv/subject/:id"
       ],
-      "target": "/tv/subject/:id"
+      "target": "/subject/:id"
     }
   ],
   "test": {

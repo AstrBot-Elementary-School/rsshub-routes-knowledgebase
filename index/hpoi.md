@@ -24,7 +24,7 @@
 - File: `docs/routes/hpoi/hpoi-info-type-cattype.md`
 - File Name: `hpoi-info-type-cattype.md`
 - Categories: `anime`
-- Maintainers: `sanmmm DIYgod`
+- Maintainers: `sanmmm, DIYgod`
 
 ### 所有周边
 - Route ID: `hpoi:/hpoi/items/all/:order?`

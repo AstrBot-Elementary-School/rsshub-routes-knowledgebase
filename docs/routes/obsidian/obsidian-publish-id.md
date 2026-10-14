@@ -8,7 +8,7 @@
 - Namespace Name: `Obsidian`
 - Route Path: `/obsidian/publish/:id`
 - Route Name: `Publish`
-- Example: `/obsidian/publish/marshallontheroad`
+- Example: `/obsidian/publish/obsidian`
 - URL: `publish.obsidian.md/`
 - Language: `_None_`
 - Categories: `blog`
@@ -42,7 +42,7 @@ _None_
   "categories": [
     "blog"
   ],
-  "example": "/obsidian/publish/marshallontheroad",
+  "example": "/obsidian/publish/obsidian",
   "features": {
     "antiCrawler": false,
     "requireConfig": false,

@@ -1,4 +1,4 @@
-# 郑州大学 - 郑大人事部
+# 郑州大学 - 人事部
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `zzu`
 - Namespace Name: `郑州大学`
 - Route Path: `/zzu/rsc/:type`
-- Route Name: `郑大人事部`
+- Route Name: `人事部`
 - Example: `/zzu/rsc/rsyw`
 - URL: `www.zzu.edu.cn`
 - Language: `_None_`
@@ -59,7 +59,7 @@
   "maintainers": [
     "amandus1990"
   ],
-  "name": "郑大人事部",
+  "name": "人事部",
   "parameters": {
     "type": "分类名"
   },

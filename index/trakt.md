@@ -10,7 +10,7 @@
 
 ## Routes
 
-### User Collection
+### User favorites
 - Route ID: `trakt:/trakt/collection/:username`
 - Route Path: `/trakt/collection/:username`
 - File: `docs/routes/trakt/trakt-collection-username.md`

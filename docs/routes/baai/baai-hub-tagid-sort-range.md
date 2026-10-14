@@ -41,7 +41,8 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `baai.ac.cn/`
+  - `hub.baai.ac.cn/`
+- `target`: `/hub`
 
 ## Raw JSON
 ```json
@@ -66,8 +67,9 @@ _None_
   "radar": [
     {
       "source": [
-        "baai.ac.cn/"
-      ]
+        "hub.baai.ac.cn/"
+      ],
+      "target": "/hub"
     }
   ],
   "test": {

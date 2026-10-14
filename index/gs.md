@@ -10,7 +10,7 @@
 
 ## Routes
 
-### Goldman Sachs Developer Blog
+### Developer Blog
 - Route ID: `gs:/gs/developer/blog`
 - Route Path: `/gs/developer/blog`
 - File: `docs/routes/gs/gs-developer-blog.md`

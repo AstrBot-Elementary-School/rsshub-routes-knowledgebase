@@ -42,7 +42,7 @@
 - Categories: `government`
 - Maintainers: `lonn`
 
-### 深圳市委组织部
+### 市委组织部
 - Route ID: `gov/shenzhen:/gov/shenzhen/zzb/:caty/:page?`
 - Route Path: `/gov/shenzhen/zzb/:caty/:page?`
 - File: `docs/routes/gov-shenzhen/gov-shenzhen-zzb-caty-page.md`

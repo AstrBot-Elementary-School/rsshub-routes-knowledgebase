@@ -1,4 +1,4 @@
-# 中华人民共和国退役军人事务部 - 中华人民共和国退役军人事务部
+# 中华人民共和国退役军人事务部 - 资讯
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `gov/mva`
 - Namespace Name: `中华人民共和国退役军人事务部`
 - Route Path: `/gov/mva/:type`
-- Route Name: `中华人民共和国退役军人事务部`
+- Route Name: `资讯`
 - Example: `/gov/mva/bnxx`
 - URL: `www.mva.gov.cn`
 - Language: `_None_`
@@ -44,7 +44,7 @@ _None_
   "maintainers": [
     "sunshinenny"
   ],
-  "name": "中华人民共和国退役军人事务部",
+  "name": "资讯",
   "parameters": {
     "type": "分类名"
   },

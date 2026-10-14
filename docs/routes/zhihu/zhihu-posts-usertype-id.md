@@ -22,8 +22,8 @@
 | people   | org      |
 
 ## Parameters
-- `usertype`: 作者 id，可在用户主页 URL 中找到
-- `id`: 用户类型usertype，参考用户主页的URL。目前有两种，见下表
+- `usertype`: 用户类型usertype，参考用户主页的URL。目前有两种，见下表
+- `id`: 作者 id，可在用户主页 URL 中找到
 
 
 ## Features
@@ -62,7 +62,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1320,
+  "heat": 1318,
   "location": "posts.ts",
   "maintainers": [
     "whtsky",
@@ -70,8 +70,8 @@
   ],
   "name": "用户文章",
   "parameters": {
-    "id": "用户类型usertype，参考用户主页的URL。目前有两种，见下表",
-    "usertype": "作者 id，可在用户主页 URL 中找到"
+    "id": "作者 id，可在用户主页 URL 中找到",
+    "usertype": "用户类型usertype，参考用户主页的URL。目前有两种，见下表"
   },
   "path": "/posts/:usertype/:id",
   "radar": [

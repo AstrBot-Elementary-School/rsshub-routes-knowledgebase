@@ -10,7 +10,7 @@
 
 ## Routes
 
-### OneJAV BT
+### BT
 - Route ID: `onejav:/onejav/:type/:key?`
 - Route Path: `/onejav/:type/:key?`
 - File: `docs/routes/onejav/onejav-type-key.md`

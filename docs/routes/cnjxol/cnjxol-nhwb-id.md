@@ -34,7 +34,7 @@
 | 第 12 版：悦读坊                     | 12   |
 
 ## Parameters
-- `id`: 编号，见下表，默认为全部
+- `id`: 编号，见下表，默认为全部；也支持官网文件名，例如 `node_01.html`
 
 
 ## Features
@@ -43,7 +43,12 @@
 ## Radar
 ### Rule 1
 - `source`:
-  - `cnjxol.com/`
+  - `nhwb.cnjxol.com/`
+  - `nhwb.cnjxol.com/nhwbPaper/pc/layout/`
+- `target`: `/nhwb`
+### Rule 2
+- `source`:
+  - `nhwb.cnjxol.com/nhwbPaper/pc/layout/:yearMonth/:day/:id`
 - `target`: `/nhwb/:id`
 
 ## Raw JSON
@@ -64,13 +69,20 @@
   ],
   "name": "南湖晚报",
   "parameters": {
-    "id": "编号，见下表，默认为全部"
+    "id": "编号，见下表，默认为全部；也支持官网文件名，例如 `node_01.html`"
   },
   "path": "/nhwb/:id?",
   "radar": [
     {
       "source": [
-        "cnjxol.com/"
+        "nhwb.cnjxol.com/",
+        "nhwb.cnjxol.com/nhwbPaper/pc/layout/"
+      ],
+      "target": "/nhwb"
+    },
+    {
+      "source": [
+        "nhwb.cnjxol.com/nhwbPaper/pc/layout/:yearMonth/:day/:id"
       ],
       "target": "/nhwb/:id"
     }

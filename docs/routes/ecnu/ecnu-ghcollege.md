@@ -30,6 +30,7 @@ _None_
 ### Rule 1
 - `source`:
   - `www.ghcollege.ecnu.edu.cn`
+  - `www.ghcollege.ecnu.edu.cn/8609/list.htm`
 - `target`: `/ghcollege`
 
 ## Raw JSON
@@ -51,7 +52,8 @@ _None_
   "radar": [
     {
       "source": [
-        "www.ghcollege.ecnu.edu.cn"
+        "www.ghcollege.ecnu.edu.cn",
+        "www.ghcollege.ecnu.edu.cn/8609/list.htm"
       ],
       "target": "/ghcollege"
     }

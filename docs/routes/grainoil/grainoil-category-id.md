@@ -56,6 +56,7 @@
 ### Rule 1
 - `source`:
   - `load.grainoil.com.cn/:category/:id`
+- `target`: `/:category/:id`
 ### Rule 2
 - `title`: `政务信息`
 - `source`:
@@ -148,7 +149,8 @@
     {
       "source": [
         "load.grainoil.com.cn/:category/:id"
-      ]
+      ],
+      "target": "/:category/:id"
     },
     {
       "source": [

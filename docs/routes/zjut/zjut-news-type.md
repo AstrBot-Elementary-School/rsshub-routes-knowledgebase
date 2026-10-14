@@ -1,4 +1,4 @@
-# 浙江工业大学 - 浙工大新闻
+# 浙江工业大学 - 新闻
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `zjut`
 - Namespace Name: `浙江工业大学`
 - Route Path: `/zjut/news/:type`
-- Route Name: `浙工大新闻`
+- Route Name: `新闻`
 - Example: `/zjut/news/5414`
 - URL: `www.news.zjut.edu.cn`
 - Language: `_None_`
@@ -60,7 +60,7 @@
     "junbaor",
     "yikZero"
   ],
-  "name": "浙工大新闻",
+  "name": "新闻",
   "parameters": {
     "type": "分类，见下表"
   },

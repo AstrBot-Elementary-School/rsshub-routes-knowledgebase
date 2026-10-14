@@ -34,7 +34,10 @@ _None_
 - `supportScihub`: false
 
 ## Radar
-_None_
+### Rule 1
+- `source`:
+  - `space.bilibili.com/:uid/lists/:sid`
+- `target`: `/user/channel/:uid/:sid`
 
 ## Raw JSON
 ```json
@@ -63,21 +66,29 @@ _None_
     "uid": "用户 id, 可在 UP 主主页中找到"
   },
   "path": "/user/channel/:uid/:sid/:embed?",
+  "radar": [
+    {
+      "source": [
+        "space.bilibili.com/:uid/lists/:sid"
+      ],
+      "target": "/user/channel/:uid/:sid"
+    }
+  ],
   "test": {
     "code": 1
   },
   "topFeeds": [
     {
-      "description": "黑马程序员 的 bilibili 频道 - Powered by RSSHub",
-      "errorAt": "2026-09-08T03:23:17.224Z",
-      "errorMessage": "[GET] \"https://api.bilibili.com/x/series/series?series_id=240490\": 412 Precondition Failed\n",
-      "id": "66328356640256000",
-      "image": "https://i0.hdslb.com/bfs/face/a71b4dd6647ddf0c813bcf74e062edab9224cb0e.jpg",
+      "description": "DIYgod 的 bilibili 频道 - Powered by RSSHub",
+      "errorAt": "2026-09-07T14:01:29.179Z",
+      "errorMessage": "[GET] \"https://api.bilibili.com/x/series/series?series_id=396050\": 412 Precondition Failed\n",
+      "id": "57641453192576000",
+      "image": "https://i2.hdslb.com/bfs/face/9882696336717748a66cb70b0ed3f488f0cc9dad.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://space.bilibili.com/37974444/channel/seriesdetail?sid=240490",
-      "title": "黑马程序员 的 bilibili 频道 c/c++免费视频教程",
+      "siteUrl": "https://space.bilibili.com/2267573/channel/seriesdetail?sid=396050",
+      "title": "DIYgod 的 bilibili 频道 怪物猎人实况",
       "type": "feed",
-      "url": "rsshub://bilibili/user/channel/37974444/240490"
+      "url": "rsshub://bilibili/user/channel/2267573/396050"
     },
     {
       "description": "跟李沐学AI 的 bilibili 频道 - Powered by RSSHub",

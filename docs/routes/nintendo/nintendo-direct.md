@@ -1,4 +1,4 @@
-# Nintendo - Nintendo Direct
+# Nintendo - Direct
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `nintendo`
 - Namespace Name: `Nintendo`
 - Route Path: `/nintendo/direct`
-- Route Name: `Nintendo Direct`
+- Route Name: `Direct`
 - Example: `/nintendo/direct`
 - URL: `nintendo.com/nintendo-direct/archive`
 - Language: `_None_`
@@ -57,7 +57,7 @@ _None_
   "maintainers": [
     "HFO4"
   ],
-  "name": "Nintendo Direct",
+  "name": "Direct",
   "parameters": {},
   "path": "/direct",
   "radar": [

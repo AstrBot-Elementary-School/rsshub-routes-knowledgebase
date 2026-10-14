@@ -36,8 +36,51 @@
 ## Radar
 ### Rule 1
 - `source`:
-  - `www.nippon.com/nippon/:category?`
   - `www.nippon.com/cn`
+### Rule 2
+- `source`:
+  - `www.nippon.com/cn/politics`
+- `target`: `/Politics`
+### Rule 3
+- `source`:
+  - `www.nippon.com/cn/economy`
+- `target`: `/Economy`
+### Rule 4
+- `source`:
+  - `www.nippon.com/cn/society`
+- `target`: `/Society`
+### Rule 5
+- `source`:
+  - `www.nippon.com/cn/culture`
+- `target`: `/Culture`
+### Rule 6
+- `source`:
+  - `www.nippon.com/cn/sci-tech`
+- `target`: `/Science,Technology`
+### Rule 7
+- `source`:
+  - `www.nippon.com/cn/in-depth`
+- `target`: `/In-depth`
+### Rule 8
+- `source`:
+  - `www.nippon.com/cn/japan-topics`
+- `target`: `/japan-topics`
+### Rule 9
+- `source`:
+  - `www.nippon.com/cn/japan-data`
+- `target`: `/japan-data`
+### Rule 10
+- `source`:
+  - `www.nippon.com/cn/japan-glances`
+- `target`: `/japan-glances`
+### Rule 11
+- `source`:
+  - `www.nippon.com/cn/people`
+- `target`: `/People`
+### Rule 12
+- `source`:
+  - `www.nippon.com/cn/announcements`
+- `target`: `/Announcements`
 
 ## Raw JSON
 ```json
@@ -55,7 +98,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 47,
+  "heat": 52,
   "location": "index.ts",
   "maintainers": [
     "laampui"
@@ -68,9 +111,74 @@
   "radar": [
     {
       "source": [
-        "www.nippon.com/nippon/:category?",
         "www.nippon.com/cn"
       ]
+    },
+    {
+      "source": [
+        "www.nippon.com/cn/politics"
+      ],
+      "target": "/Politics"
+    },
+    {
+      "source": [
+        "www.nippon.com/cn/economy"
+      ],
+      "target": "/Economy"
+    },
+    {
+      "source": [
+        "www.nippon.com/cn/society"
+      ],
+      "target": "/Society"
+    },
+    {
+      "source": [
+        "www.nippon.com/cn/culture"
+      ],
+      "target": "/Culture"
+    },
+    {
+      "source": [
+        "www.nippon.com/cn/sci-tech"
+      ],
+      "target": "/Science,Technology"
+    },
+    {
+      "source": [
+        "www.nippon.com/cn/in-depth"
+      ],
+      "target": "/In-depth"
+    },
+    {
+      "source": [
+        "www.nippon.com/cn/japan-topics"
+      ],
+      "target": "/japan-topics"
+    },
+    {
+      "source": [
+        "www.nippon.com/cn/japan-data"
+      ],
+      "target": "/japan-data"
+    },
+    {
+      "source": [
+        "www.nippon.com/cn/japan-glances"
+      ],
+      "target": "/japan-glances"
+    },
+    {
+      "source": [
+        "www.nippon.com/cn/people"
+      ],
+      "target": "/People"
+    },
+    {
+      "source": [
+        "www.nippon.com/cn/announcements"
+      ],
+      "target": "/Announcements"
     }
   ],
   "test": {

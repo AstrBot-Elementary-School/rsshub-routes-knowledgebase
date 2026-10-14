@@ -20,7 +20,7 @@
 _None_
 
 ## Parameters
-- `category`: `news`, `biography`
+- `category`: `news` (default), `biography`
 
 
 ## Features
@@ -60,7 +60,7 @@ _None_
   ],
   "name": "News & Biography",
   "parameters": {
-    "category": "`news`, `biography`"
+    "category": "`news` (default), `biography`"
   },
   "path": "/info/:category?",
   "radar": [

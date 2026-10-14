@@ -35,6 +35,7 @@ _None_
 ### Rule 1
 - `source`:
   - `thegadgetflow.com/categories/:category`
+  - `thegadgetflow.com/collections/:category`
 - `target`: `/:category`
 
 ## Raw JSON
@@ -65,7 +66,8 @@ _None_
   "radar": [
     {
       "source": [
-        "thegadgetflow.com/categories/:category"
+        "thegadgetflow.com/categories/:category",
+        "thegadgetflow.com/collections/:category"
       ],
       "target": "/:category"
     }

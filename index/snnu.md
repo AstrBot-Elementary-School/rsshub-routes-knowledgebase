@@ -18,7 +18,7 @@
 - Categories: `university`
 - Maintainers: `alterkeyy`
 
-### 计算机科学学院
+### 人工智能与计算机学院
 - Route ID: `snnu:/snnu/ccs/:type?`
 - Route Path: `/snnu/ccs/:type?`
 - File: `docs/routes/snnu/snnu-ccs-type.md`

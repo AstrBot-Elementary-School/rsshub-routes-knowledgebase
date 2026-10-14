@@ -19,13 +19,13 @@
 ## Description
 ::: tip
 
-若订阅 [基金要闻 - 通知公告](https://www.nsfc.gov.cn/publish/portal0/tab442)，网址为 <https://www.nsfc.gov.cn/publish/portal0/tab442>。截取 `https://www.nsfc.gov.cn` 到末尾的部分 `/publish/portal0/tab442` 作为参数，此时路由为 [`/gov/nsfc/publish/portal0/tab442`](https://rsshub.app/gov/nsfc/publish/portal0/tab442)。
+若订阅 [基金要闻 - 通知公告](https://www.nsfc.gov.cn/p1/3381/2822/tzsm1.html)，网址为 <https://www.nsfc.gov.cn/p1/3381/2822/tzsm1.html>。截取 `https://www.nsfc.gov.cn` 到末尾的部分 `/p1/3381/2822/tzsm1.html` 作为参数，此时路由为 [`/gov/nsfc/p1/3381/2822/tzsm1.html`](https://rsshub.app/gov/nsfc/p1/3381/2822/tzsm1.html)。
 
-当然，也可以填入路径在下表中对应的快捷方式。其中 [基金要闻 - 通知公告](https://www.nsfc.gov.cn/publish/portal0/tab442) 的快捷方式为 `tzgg`，此时路由为 [`/gov/nsfc/tzgg`](https://rsshub.app/gov/nsfc/tzgg)。
+当然，也可以填入路径在下表中对应的快捷方式。其中 [基金要闻 - 通知公告](https://www.nsfc.gov.cn/p1/3381/2822/tzsm1.html) 的快捷方式为 `tzgg`，此时路由为 [`/gov/nsfc/tzgg`](https://rsshub.app/gov/nsfc/tzgg)。
 
-若订阅 [管理科学部 - 通知公告](https://www.nsfc.gov.cn/publish/portal0/tab1212)，网址为 <https://www.nsfc.gov.cn/publish/portal0/tab1212>。截取 `https://www.nsfc.gov.cn` 到末尾的部分 `/publish/portal0/tab1212` 作为参数，此时路由为 [`/gov/nsfc/publish/portal0/tab1212`](https://rsshub.app/gov/nsfc/publish/portal0/tab1212)。
+若订阅 [管理科学部 - 通知公告](https://www.nsfc.gov.cn/p1/2857/3203/glkxbtzgg.html)，网址为 <https://www.nsfc.gov.cn/p1/2857/3203/glkxbtzgg.html>。截取 `https://www.nsfc.gov.cn` 到末尾的部分 `/p1/2857/3203/glkxbtzgg.html` 作为参数，此时路由为 [`/gov/nsfc/p1/2857/3203/glkxbtzgg.html`](https://rsshub.app/gov/nsfc/p1/2857/3203/glkxbtzgg.html)。
 
-同理，也可以填入路径在下表中对应的快捷方式。其中 [管理科学部 - 通知公告](https://www.nsfc.gov.cn/publish/portal0/tab1212) 的快捷方式为 `glkxb-tzgg`，此时路由为 [`/gov/nsfc/glkxb-tzgg`](https://rsshub.app/gov/nsfc/glkxb-tzgg)。
+同理，也可以填入路径在下表中对应的快捷方式。其中 [管理科学部 - 通知公告](https://www.nsfc.gov.cn/p1/2857/3203/glkxbtzgg.html) 的快捷方式为 `glkxb-tzgg`，此时路由为 [`/gov/nsfc/glkxb-tzgg`](https://rsshub.app/gov/nsfc/glkxb-tzgg)。
 
 :::
 
@@ -54,7 +54,7 @@
 | gjhzj-xmzn | gjhzj-csjg | gjhzj-pztz | gjhzj-jcjb | gjhzj-xxgk |
 
 ## Parameters
-- `path`: 路径，默认为基金要闻
+- `path`: 路径，默认为通知公告
 
 
 ## Features
@@ -69,7 +69,7 @@ _None_
   "categories": [
     "government"
   ],
-  "description": "::: tip\n\n若订阅 [基金要闻 - 通知公告](https://www.nsfc.gov.cn/publish/portal0/tab442)，网址为 <https://www.nsfc.gov.cn/publish/portal0/tab442>。截取 `https://www.nsfc.gov.cn` 到末尾的部分 `/publish/portal0/tab442` 作为参数，此时路由为 [`/gov/nsfc/publish/portal0/tab442`](https://rsshub.app/gov/nsfc/publish/portal0/tab442)。\n\n当然，也可以填入路径在下表中对应的快捷方式。其中 [基金要闻 - 通知公告](https://www.nsfc.gov.cn/publish/portal0/tab442) 的快捷方式为 `tzgg`，此时路由为 [`/gov/nsfc/tzgg`](https://rsshub.app/gov/nsfc/tzgg)。\n\n若订阅 [管理科学部 - 通知公告](https://www.nsfc.gov.cn/publish/portal0/tab1212)，网址为 <https://www.nsfc.gov.cn/publish/portal0/tab1212>。截取 `https://www.nsfc.gov.cn` 到末尾的部分 `/publish/portal0/tab1212` 作为参数，此时路由为 [`/gov/nsfc/publish/portal0/tab1212`](https://rsshub.app/gov/nsfc/publish/portal0/tab1212)。\n\n同理，也可以填入路径在下表中对应的快捷方式。其中 [管理科学部 - 通知公告](https://www.nsfc.gov.cn/publish/portal0/tab1212) 的快捷方式为 `glkxb-tzgg`，此时路由为 [`/gov/nsfc/glkxb-tzgg`](https://rsshub.app/gov/nsfc/glkxb-tzgg)。\n\n:::\n\n基金要闻\n\n| 基金要闻 | 通知公告 | 部门动态 | 科普快讯 | 资助成果 |\n| -------- | -------- | -------- | -------- | -------- |\n| jjyw     | tzgg     | bmdt     | kpkx     | zzcg     |\n\n政策法规\n\n| 国家自然科学基金条例 | 国家自然科学基金发展规划 | 国家自然科学基金规章制度 | 国家科学技术相关法律法规 |\n| -------------------- | ------------------------ | ------------------------ | ------------------------ |\n| zcfg-jjtl            | zcfg-fzgh                | zcfg-gzzd                | zcfg-flfg                |\n\n管理科学部\n\n| 工作动态   | 通知公告   | 资助成果   |\n| ---------- | ---------- | ---------- |\n| glkxb-gzdt | glkxb-tzgg | glkxb-zzcg |\n\n国际合作局\n\n| 项目指南   | 初审结果   | 批准通知   | 进程简表   | 信息公开   |\n| ---------- | ---------- | ---------- | ---------- | ---------- |\n| gjhzj-xmzn | gjhzj-csjg | gjhzj-pztz | gjhzj-jcjb | gjhzj-xxgk |",
+  "description": "::: tip\n\n若订阅 [基金要闻 - 通知公告](https://www.nsfc.gov.cn/p1/3381/2822/tzsm1.html)，网址为 <https://www.nsfc.gov.cn/p1/3381/2822/tzsm1.html>。截取 `https://www.nsfc.gov.cn` 到末尾的部分 `/p1/3381/2822/tzsm1.html` 作为参数，此时路由为 [`/gov/nsfc/p1/3381/2822/tzsm1.html`](https://rsshub.app/gov/nsfc/p1/3381/2822/tzsm1.html)。\n\n当然，也可以填入路径在下表中对应的快捷方式。其中 [基金要闻 - 通知公告](https://www.nsfc.gov.cn/p1/3381/2822/tzsm1.html) 的快捷方式为 `tzgg`，此时路由为 [`/gov/nsfc/tzgg`](https://rsshub.app/gov/nsfc/tzgg)。\n\n若订阅 [管理科学部 - 通知公告](https://www.nsfc.gov.cn/p1/2857/3203/glkxbtzgg.html)，网址为 <https://www.nsfc.gov.cn/p1/2857/3203/glkxbtzgg.html>。截取 `https://www.nsfc.gov.cn` 到末尾的部分 `/p1/2857/3203/glkxbtzgg.html` 作为参数，此时路由为 [`/gov/nsfc/p1/2857/3203/glkxbtzgg.html`](https://rsshub.app/gov/nsfc/p1/2857/3203/glkxbtzgg.html)。\n\n同理，也可以填入路径在下表中对应的快捷方式。其中 [管理科学部 - 通知公告](https://www.nsfc.gov.cn/p1/2857/3203/glkxbtzgg.html) 的快捷方式为 `glkxb-tzgg`，此时路由为 [`/gov/nsfc/glkxb-tzgg`](https://rsshub.app/gov/nsfc/glkxb-tzgg)。\n\n:::\n\n基金要闻\n\n| 基金要闻 | 通知公告 | 部门动态 | 科普快讯 | 资助成果 |\n| -------- | -------- | -------- | -------- | -------- |\n| jjyw     | tzgg     | bmdt     | kpkx     | zzcg     |\n\n政策法规\n\n| 国家自然科学基金条例 | 国家自然科学基金发展规划 | 国家自然科学基金规章制度 | 国家科学技术相关法律法规 |\n| -------------------- | ------------------------ | ------------------------ | ------------------------ |\n| zcfg-jjtl            | zcfg-fzgh                | zcfg-gzzd                | zcfg-flfg                |\n\n管理科学部\n\n| 工作动态   | 通知公告   | 资助成果   |\n| ---------- | ---------- | ---------- |\n| glkxb-gzdt | glkxb-tzgg | glkxb-zzcg |\n\n国际合作局\n\n| 项目指南   | 初审结果   | 批准通知   | 进程简表   | 信息公开   |\n| ---------- | ---------- | ---------- | ---------- | ---------- |\n| gjhzj-xmzn | gjhzj-csjg | gjhzj-pztz | gjhzj-jcjb | gjhzj-xxgk |",
   "example": "/gov/nsfc",
   "heat": 20,
   "location": "index.ts",
@@ -79,7 +79,7 @@ _None_
   ],
   "name": "通用",
   "parameters": {
-    "path": "路径，默认为基金要闻"
+    "path": "路径，默认为通知公告"
   },
   "path": "/:path{.+}?",
   "test": {

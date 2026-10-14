@@ -1,4 +1,4 @@
-# 游研社 - 游研社 - 分类文章
+# 游研社 - 分类文章
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `yystv`
 - Namespace Name: `游研社`
 - Route Path: `/yystv/category/:category`
-- Route Name: `游研社 - 分类文章`
+- Route Name: `分类文章`
 - Example: `/yystv/category/recommend`
 - URL: `yystv.cn`
 - Language: `_None_`
@@ -58,7 +58,7 @@ _None_
     "betta-cyber",
     "dousha"
   ],
-  "name": "游研社 - 分类文章",
+  "name": "分类文章",
   "parameters": {
     "category": "专栏类型"
   },

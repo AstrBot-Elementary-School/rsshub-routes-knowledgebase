@@ -8,7 +8,7 @@
 - Namespace Name: `全球游戏交流中心`
 - Route Path: `/gamer520/:category?/:order?`
 - Route Name: `文章`
-- Example: `/gamer520/switchyouxi`
+- Example: `/gamer520/gameswitch`
 - URL: `www.gamer520.com/`
 - Language: `_None_`
 - Categories: `game`
@@ -19,9 +19,9 @@
 ## Description
 分类
 
-| 所有 | Switch 游戏下载 | 金手指     | 3A 巨作 | switch 主题 | PC 游戏 |
+| 所有 | Switch 游戏下载 | 金手指     | 3A 巨作 | switch 主题 | PC PLAY |
 | ---- | --------------- | ---------- | ------- | ----------- | ------- |
-| all  | switchyouxi     | jinshouzhi | 3ajuzuo | zhuti       | pcgame  |
+| all  | gameswitch      | jinshouzhi | 3ajuzuo | zhuti       | pcplay  |
 
 ## Parameters
 - `category`: 分类，见下表
@@ -40,8 +40,8 @@ _None_
   "categories": [
     "game"
   ],
-  "description": "分类\n\n| 所有 | Switch 游戏下载 | 金手指     | 3A 巨作 | switch 主题 | PC 游戏 |\n| ---- | --------------- | ---------- | ------- | ----------- | ------- |\n| all  | switchyouxi     | jinshouzhi | 3ajuzuo | zhuti       | pcgame  |",
-  "example": "/gamer520/switchyouxi",
+  "description": "分类\n\n| 所有 | Switch 游戏下载 | 金手指     | 3A 巨作 | switch 主题 | PC PLAY |\n| ---- | --------------- | ---------- | ------- | ----------- | ------- |\n| all  | gameswitch      | jinshouzhi | 3ajuzuo | zhuti       | pcplay  |",
+  "example": "/gamer520/gameswitch",
   "features": {
     "antiCrawler": true
   },

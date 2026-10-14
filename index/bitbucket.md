@@ -3,9 +3,9 @@
 ## Namespace
 - Namespace: `bitbucket`
 - Display Name: `Bitbucket`
-- URL: `bitbucket.com`
+- URL: `bitbucket.org`
 - Language: `_None_`
-- Aliases: `bitbucket, bitbucket.com`
+- Aliases: `bitbucket, bitbucket.org`
 - Route Count: `2`
 
 ## Routes

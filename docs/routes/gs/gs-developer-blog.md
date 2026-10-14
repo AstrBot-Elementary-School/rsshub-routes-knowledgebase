@@ -1,4 +1,4 @@
-# Goldman Sachs - Goldman Sachs Developer Blog
+# Goldman Sachs - Developer Blog
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `gs`
 - Namespace Name: `Goldman Sachs`
 - Route Path: `/gs/developer/blog`
-- Route Name: `Goldman Sachs Developer Blog`
+- Route Name: `Developer Blog`
 - Example: `/gs/developer/blog`
 - URL: `goldmansachs.com`
 - Language: `_None_`
@@ -57,7 +57,7 @@ _None_
   "maintainers": [
     "chesha1"
   ],
-  "name": "Goldman Sachs Developer Blog",
+  "name": "Developer Blog",
   "parameters": {},
   "path": "/developer/blog",
   "radar": [
@@ -86,7 +86,7 @@ _None_
     }
   ],
   "zh": {
-    "name": "高盛开发者博客"
+    "name": "开发者博客"
   }
 }
 ```

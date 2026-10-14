@@ -22,7 +22,7 @@
 | 434      | 436      | 438      | 440      |
 
 ## Parameters
-- `type`: 文章类型ID，见下表
+- `typeId`: 文章类型ID，见下表
 
 
 ## Features
@@ -59,7 +59,7 @@ _None_
   ],
   "name": "资讯信息",
   "parameters": {
-    "type": "文章类型ID，见下表"
+    "typeId": "文章类型ID，见下表"
   },
   "path": "/news/:typeId",
   "test": {

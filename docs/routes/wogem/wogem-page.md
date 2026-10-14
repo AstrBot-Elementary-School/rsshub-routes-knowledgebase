@@ -17,10 +17,10 @@
 - Source Module: `_None_`
 
 ## Description
-Pass in the name of the php file, e.g. `angebote` for \`/de/angebote.php\`\`.
+Pass in the name of the PHP file, e.g. `angebote` for `/de/angebote.php`.
 
 ## Parameters
-- `page`: Page name, e.g. `angebote` for `angebote.php. Defaults to `angebote`
+- `page`: Page name, e.g. `angebote` for `angebote.php`. Defaults to `angebote`.
 
 
 ## Features
@@ -35,7 +35,7 @@ _None_
   "categories": [
     "other"
   ],
-  "description": "Pass in the name of the php file, e.g. `angebote` for \\`/de/angebote.php\\`\\`.",
+  "description": "Pass in the name of the PHP file, e.g. `angebote` for `/de/angebote.php`.",
   "example": "/wogem/angebote?filter=Graz",
   "heat": 0,
   "location": "index.ts",
@@ -44,7 +44,7 @@ _None_
   ],
   "name": "Angebote",
   "parameters": {
-    "page": "Page name, e.g. `angebote` for `angebote.php. Defaults to `angebote`"
+    "page": "Page name, e.g. `angebote` for `angebote.php`. Defaults to `angebote`."
   },
   "path": "/:page?",
   "test": {

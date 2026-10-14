@@ -39,12 +39,14 @@ _None_
   - `cn.nikkei.com/:category/:type`
   - `cn.nikkei.com/:category`
   - `cn.nikkei.com/`
+- `target`: `/cn/cn/:category?/:type?`
 ### Rule 2
 - `title`: `中文版新聞`
 - `source`:
   - `zh.cn.nikkei.com/:category/:type`
   - `zh.cn.nikkei.com/:category`
   - `zh.cn.nikkei.com/`
+- `target`: `/cn/zh/:category?/:type?`
 
 ## Raw JSON
 ```json
@@ -68,6 +70,7 @@ _None_
         "cn.nikkei.com/:category",
         "cn.nikkei.com/"
       ],
+      "target": "/cn/cn/:category?/:type?",
       "title": "中文版新闻"
     },
     {
@@ -76,6 +79,7 @@ _None_
         "zh.cn.nikkei.com/:category",
         "zh.cn.nikkei.com/"
       ],
+      "target": "/cn/zh/:category?/:type?",
       "title": "中文版新聞"
     }
   ],

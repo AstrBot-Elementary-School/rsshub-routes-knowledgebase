@@ -50,7 +50,64 @@
 ## Radar
 ### Rule 1
 - `source`:
-  - `neunews.neu.edu.cn/:type/list.htm`
+  - `neunews.neu.edu.cn/`
+- `target`: `/news/ddyw`
+### Rule 2
+- `source`:
+  - `neunews.neu.edu.cn/ddyw.htm`
+- `target`: `/news/ddyw`
+### Rule 3
+- `source`:
+  - `neunews.neu.edu.cn/mtdd.htm`
+- `target`: `/news/mtdd`
+### Rule 4
+- `source`:
+  - `neunews.neu.edu.cn/tzgg.htm`
+- `target`: `/news/tzgg`
+### Rule 5
+- `source`:
+  - `neunews.neu.edu.cn/rcpy.htm`
+- `target`: `/news/rcpy`
+### Rule 6
+- `source`:
+  - `neunews.neu.edu.cn/zhxw.htm`
+- `target`: `/news/zhxw`
+### Rule 7
+- `source`:
+  - `neunews.neu.edu.cn/yxdt.htm`
+- `target`: `/news/yxdt`
+### Rule 8
+- `source`:
+  - `neunews.neu.edu.cn/jsdd.htm`
+- `target`: `/news/jsdd`
+### Rule 9
+- `source`:
+  - `neunews.neu.edu.cn/tsdd.htm`
+- `target`: `/news/tsdd`
+### Rule 10
+- `source`:
+  - `neunews.neu.edu.cn/xykd.htm`
+- `target`: `/news/xykd`
+### Rule 11
+- `source`:
+  - `neunews.neu.edu.cn/rmdd.htm`
+- `target`: `/news/rmdd`
+### Rule 12
+- `source`:
+  - `neunews.neu.edu.cn/wsd.htm`
+- `target`: `/news/wsd`
+### Rule 13
+- `source`:
+  - `neunews.neu.edu.cn/Focus.htm`
+- `target`: `/news/Focus`
+### Rule 14
+- `source`:
+  - `neunews.neu.edu.cn/Media.htm`
+- `target`: `/news/Media`
+### Rule 15
+- `source`:
+  - `neunews.neu.edu.cn/Research.htm`
+- `target`: `/news/Research`
 
 ## Raw JSON
 ```json
@@ -81,8 +138,93 @@
   "radar": [
     {
       "source": [
-        "neunews.neu.edu.cn/:type/list.htm"
-      ]
+        "neunews.neu.edu.cn/"
+      ],
+      "target": "/news/ddyw"
+    },
+    {
+      "source": [
+        "neunews.neu.edu.cn/ddyw.htm"
+      ],
+      "target": "/news/ddyw"
+    },
+    {
+      "source": [
+        "neunews.neu.edu.cn/mtdd.htm"
+      ],
+      "target": "/news/mtdd"
+    },
+    {
+      "source": [
+        "neunews.neu.edu.cn/tzgg.htm"
+      ],
+      "target": "/news/tzgg"
+    },
+    {
+      "source": [
+        "neunews.neu.edu.cn/rcpy.htm"
+      ],
+      "target": "/news/rcpy"
+    },
+    {
+      "source": [
+        "neunews.neu.edu.cn/zhxw.htm"
+      ],
+      "target": "/news/zhxw"
+    },
+    {
+      "source": [
+        "neunews.neu.edu.cn/yxdt.htm"
+      ],
+      "target": "/news/yxdt"
+    },
+    {
+      "source": [
+        "neunews.neu.edu.cn/jsdd.htm"
+      ],
+      "target": "/news/jsdd"
+    },
+    {
+      "source": [
+        "neunews.neu.edu.cn/tsdd.htm"
+      ],
+      "target": "/news/tsdd"
+    },
+    {
+      "source": [
+        "neunews.neu.edu.cn/xykd.htm"
+      ],
+      "target": "/news/xykd"
+    },
+    {
+      "source": [
+        "neunews.neu.edu.cn/rmdd.htm"
+      ],
+      "target": "/news/rmdd"
+    },
+    {
+      "source": [
+        "neunews.neu.edu.cn/wsd.htm"
+      ],
+      "target": "/news/wsd"
+    },
+    {
+      "source": [
+        "neunews.neu.edu.cn/Focus.htm"
+      ],
+      "target": "/news/Focus"
+    },
+    {
+      "source": [
+        "neunews.neu.edu.cn/Media.htm"
+      ],
+      "target": "/news/Media"
+    },
+    {
+      "source": [
+        "neunews.neu.edu.cn/Research.htm"
+      ],
+      "target": "/news/Research"
     }
   ],
   "test": {

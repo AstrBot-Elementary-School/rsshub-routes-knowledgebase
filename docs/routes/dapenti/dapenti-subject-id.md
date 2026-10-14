@@ -9,7 +9,7 @@
 - Route Path: `/dapenti/subject/:id`
 - Route Name: `主题`
 - Example: `/dapenti/subject/184`
-- URL: `dapenti.com`
+- URL: `www.dapenti.com`
 - Language: `_None_`
 - Categories: `picture`
 - Maintainers: `xyqfer`

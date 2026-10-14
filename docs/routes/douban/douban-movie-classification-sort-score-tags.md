@@ -1,4 +1,4 @@
-# 豆瓣 - 豆瓣电影分类
+# 豆瓣 - 电影分类
 
 ## Coverage
 `index-only`
@@ -7,8 +7,8 @@
 - Namespace: `douban`
 - Namespace Name: `豆瓣`
 - Route Path: `/douban/movie/classification/:sort?/:score?/:tags?`
-- Route Name: `豆瓣电影分类`
-- Example: `/douban/movie/classification/R/7.5/Netflix,2020`
+- Route Name: `电影分类`
+- Example: `/douban/movie/classification/R/6/Netflix,2020`
 - URL: `www.douban.com`
 - Language: `_None_`
 - Categories: `social-media`
@@ -47,7 +47,7 @@ _None_
     "social-media"
   ],
   "description": "排序方式可选值如下\n\n| 近期热门 | 标记最多 | 评分最高 | 最近上映 |\n| -------- | -------- | -------- | -------- |\n| U        | T        | S        | R        |",
-  "example": "/douban/movie/classification/R/7.5/Netflix,2020",
+  "example": "/douban/movie/classification/R/6/Netflix,2020",
   "features": {
     "antiCrawler": false,
     "requireConfig": false,
@@ -61,7 +61,7 @@ _None_
   "maintainers": [
     "zzwab"
   ],
-  "name": "豆瓣电影分类",
+  "name": "电影分类",
   "parameters": {
     "score": "最低评分，默认不限制",
     "sort": "排序方式，默认为U",
@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "豆瓣电影分类超过 7.5 分的影视 - Powered by RSSHub",
-      "errorAt": "2026-10-12T13:32:09.749Z",
-      "errorMessage": "[GET] \"https://movie.douban.com/j/new_search_subjects?sort=R&range=0,10&tags=%E7%A7%91%E5%B9%BB&start=0\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "64117673690336325",
       "image": null,
       "ownerUserId": null,

@@ -9,7 +9,7 @@
 - Route Path: `/bitbucket/commits/:workspace/:repo_slug`
 - Route Name: `Commits`
 - Example: `/bitbucket/commits/blaze-lib/blaze`
-- URL: `bitbucket.com`
+- URL: `bitbucket.org`
 - Language: `_None_`
 - Categories: `programming`
 - Maintainers: `AuroraDysis`
@@ -35,7 +35,7 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `bitbucket.com/commits/:workspace/:repo_slug`
+  - `bitbucket.org/:workspace/:repo_slug/commits`
 
 ## Raw JSON
 ```json
@@ -66,7 +66,7 @@ _None_
   "radar": [
     {
       "source": [
-        "bitbucket.com/commits/:workspace/:repo_slug"
+        "bitbucket.org/:workspace/:repo_slug/commits"
       ]
     }
   ],

@@ -32,6 +32,7 @@ _None_
 ### Rule 1
 - `source`:
   - `subhd.tv/zu/:category`
+  - `subhd.tv/zu/:category/l`
   - `subhd.tv/`
 - `target`: `/zu/:category?`
 
@@ -57,6 +58,7 @@ _None_
     {
       "source": [
         "subhd.tv/zu/:category",
+        "subhd.tv/zu/:category/l",
         "subhd.tv/"
       ],
       "target": "/zu/:category?"

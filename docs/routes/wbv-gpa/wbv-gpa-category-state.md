@@ -31,8 +31,11 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `https://www.wbv-gpa.at/wohnungen/`
-  - `https://www.wbv-gpa.at/angebote//:category`
+  - `www.wbv-gpa.at/wohnungen/`
+- `target`: `/wohnungen`
+### Rule 2
+- `source`:
+  - `www.wbv-gpa.at/angebote/:category`
 - `target`: `/:category`
 
 ## Raw JSON
@@ -57,8 +60,13 @@ _None_
   "radar": [
     {
       "source": [
-        "https://www.wbv-gpa.at/wohnungen/",
-        "https://www.wbv-gpa.at/angebote//:category"
+        "www.wbv-gpa.at/wohnungen/"
+      ],
+      "target": "/wohnungen"
+    },
+    {
+      "source": [
+        "www.wbv-gpa.at/angebote/:category"
       ],
       "target": "/:category"
     }

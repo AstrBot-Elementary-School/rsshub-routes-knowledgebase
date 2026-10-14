@@ -10,7 +10,7 @@
 
 ## Routes
 
-### blog.logrocket
+### Blog
 - Route ID: `logrocket:/logrocket/:type`
 - Route Path: `/logrocket/:type`
 - File: `docs/routes/logrocket/logrocket-type.md`

@@ -8,7 +8,7 @@
 - Namespace Name: `Furaffinity`
 - Route Path: `/furaffinity/home/:category/:mode?`
 - Route Name: `Home`
-- Example: `/furaffinity/home/nsfw`
+- Example: `/furaffinity/home/artwork/nsfw`
 - URL: `furaffinity.net`
 - Language: `_None_`
 - Categories: `social-media`
@@ -37,7 +37,7 @@ _None_
 ### Rule 1
 - `source`:
   - `furaffinity.net`
-- `target`: `/`
+- `target`: `/home/artwork`
 
 ## Raw JSON
 ```json
@@ -45,7 +45,7 @@ _None_
   "categories": [
     "social-media"
   ],
-  "example": "/furaffinity/home/nsfw",
+  "example": "/furaffinity/home/artwork/nsfw",
   "features": {
     "antiCrawler": false,
     "nsfw": true,
@@ -72,7 +72,7 @@ _None_
       "source": [
         "furaffinity.net"
       ],
-      "target": "/"
+      "target": "/home/artwork"
     }
   ],
   "test": {
@@ -84,13 +84,13 @@ _None_
       "description": "Fur Affinity Index - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "85914165909319680",
+      "id": "94287099178847232",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.furaffinity.net/",
       "title": "Fur Affinity | Home",
       "type": "feed",
-      "url": "rsshub://furaffinity/home/home"
+      "url": "rsshub://furaffinity/home/artwork"
     },
     {
       "description": "Fur Affinity Index - Powered by RSSHub",

@@ -9,7 +9,7 @@
 - Route Path: `/ahjzu/news`
 - Route Name: `通知公告`
 - Example: `/ahjzu/news`
-- URL: `news.ahjzu.edu.cn/20/list.htm`
+- URL: `www.ahjzu.edu.cn/20/list.htm`
 - Language: `_None_`
 - Categories: `university`
 - Maintainers: `Yuk-0v0`
@@ -34,7 +34,7 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `news.ahjzu.edu.cn/20/list.htm`
+  - `www.ahjzu.edu.cn/20/list.htm`
 
 ## Raw JSON
 ```json
@@ -62,7 +62,7 @@ _None_
   "radar": [
     {
       "source": [
-        "news.ahjzu.edu.cn/20/list.htm"
+        "www.ahjzu.edu.cn/20/list.htm"
       ]
     }
   ],
@@ -71,6 +71,6 @@ _None_
     "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:108:41\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
   "topFeeds": [],
-  "url": "news.ahjzu.edu.cn/20/list.htm"
+  "url": "www.ahjzu.edu.cn/20/list.htm"
 }
 ```

@@ -3,9 +3,9 @@
 ## Namespace
 - Namespace: `hackernews`
 - Display Name: `Hacker News`
-- URL: `ycombinator.com`
+- URL: `news.ycombinator.com`
 - Language: `_None_`
-- Aliases: `hacker news, hackernews, ycombinator, ycombinator.com`
+- Aliases: `hacker news, hackernews, news, news.ycombinator.com`
 - Route Count: `1`
 
 ## Routes

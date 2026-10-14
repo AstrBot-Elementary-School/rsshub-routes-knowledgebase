@@ -1,4 +1,4 @@
-# 郑州大学 - 郑大科研院
+# 郑州大学 - 科研院
 
 ## Coverage
 `index-only`
@@ -7,8 +7,8 @@
 - Namespace: `zzu`
 - Namespace Name: `郑州大学`
 - Route Path: `/zzu/kjc/:type`
-- Route Name: `郑大科研院`
-- Example: `_None_`
+- Route Name: `科研院`
+- Example: `/zzu/kjc/xwzx`
 - URL: `www.zzu.edu.cn`
 - Language: `_None_`
 - Categories: `university`
@@ -45,7 +45,7 @@
     "university"
   ],
   "description": "| 新闻资讯 | 通知公告 |\n| -------- | -------- |\n| xwzx     | tzgg     |",
-  "example": "",
+  "example": "/zzu/kjc/xwzx",
   "features": {
     "antiCrawler": false,
     "requireConfig": false,
@@ -59,7 +59,7 @@
   "maintainers": [
     "amandus1990"
   ],
-  "name": "郑大科研院",
+  "name": "科研院",
   "parameters": {
     "type": "分类名"
   },

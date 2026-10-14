@@ -1,4 +1,4 @@
-# GitHub - Github Advisory Database RSS
+# GitHub - Advisory Database RSS
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `github`
 - Namespace Name: `GitHub`
 - Route Path: `/github/advisor/data/:type?/:category?`
-- Route Name: `Github Advisory Database RSS`
+- Route Name: `Advisory Database RSS`
 - Example: `/github/advisor/data/reviewed/composer`
 - URL: `github.com`
 - Language: `_None_`
@@ -76,7 +76,7 @@ _None_
   "maintainers": [
     "sd0ric4"
   ],
-  "name": "Github Advisory Database RSS",
+  "name": "Advisory Database RSS",
   "path": "/advisor/data/:type?/:category?",
   "radar": [
     {

@@ -1,4 +1,4 @@
-# 深圳市人民政府 - 深圳市委组织部
+# 深圳市人民政府 - 市委组织部
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `gov/shenzhen`
 - Namespace Name: `深圳市人民政府`
 - Route Path: `/gov/shenzhen/zzb/:caty/:page?`
-- Route Name: `深圳市委组织部`
+- Route Name: `市委组织部`
 - Example: `/gov/shenzhen/zzb/tzgg`
 - URL: `zzb.sz.gov.cn/*`
 - Language: `_None_`
@@ -23,7 +23,7 @@
 
 ## Parameters
 - `caty`: 信息类别
-- `page`: 页码
+- `page`: 历史兼容参数，所有值均返回第 1 页，不翻页
 
 
 ## Features
@@ -37,7 +37,24 @@
 ## Radar
 ### Rule 1
 - `source`:
-  - `zzb.sz.gov.cn/*`
+  - `www.zzb.sz.gov.cn/notice/announcement`
+  - `www.zzb.sz.gov.cn/notice/announcement/index.html`
+- `target`: `/zzb/tzgg`
+### Rule 2
+- `source`:
+  - `www.zzb.sz.gov.cn/notice/appointment`
+  - `www.zzb.sz.gov.cn/notice/appointment/index.html`
+- `target`: `/zzb/rqgs`
+### Rule 3
+- `source`:
+  - `www.zzb.sz.gov.cn/service/policy`
+  - `www.zzb.sz.gov.cn/service/policy/index.html`
+- `target`: `/zzb/zcfg`
+### Rule 4
+- `source`:
+  - `www.zzb.sz.gov.cn/service/file`
+  - `www.zzb.sz.gov.cn/service/file/index.html`
+- `target`: `/zzb/bgxz`
 
 ## Raw JSON
 ```json
@@ -60,17 +77,40 @@
   "maintainers": [
     "zlasd"
   ],
-  "name": "深圳市委组织部",
+  "name": "市委组织部",
   "parameters": {
     "caty": "信息类别",
-    "page": "页码"
+    "page": "历史兼容参数，所有值均返回第 1 页，不翻页"
   },
   "path": "/zzb/:caty/:page?",
   "radar": [
     {
       "source": [
-        "zzb.sz.gov.cn/*"
-      ]
+        "www.zzb.sz.gov.cn/notice/announcement",
+        "www.zzb.sz.gov.cn/notice/announcement/index.html"
+      ],
+      "target": "/zzb/tzgg"
+    },
+    {
+      "source": [
+        "www.zzb.sz.gov.cn/notice/appointment",
+        "www.zzb.sz.gov.cn/notice/appointment/index.html"
+      ],
+      "target": "/zzb/rqgs"
+    },
+    {
+      "source": [
+        "www.zzb.sz.gov.cn/service/policy",
+        "www.zzb.sz.gov.cn/service/policy/index.html"
+      ],
+      "target": "/zzb/zcfg"
+    },
+    {
+      "source": [
+        "www.zzb.sz.gov.cn/service/file",
+        "www.zzb.sz.gov.cn/service/file/index.html"
+      ],
+      "target": "/zzb/bgxz"
     }
   ],
   "test": {

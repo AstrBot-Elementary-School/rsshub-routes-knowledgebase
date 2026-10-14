@@ -1,11 +1,11 @@
-# Corona Virus Disease 2019 - News
+# South China Morning Post - News
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `scmp`
-- Namespace Name: `Corona Virus Disease 2019`
+- Namespace Name: `South China Morning Post`
 - Route Path: `/scmp/:category_id`
 - Route Name: `News`
 - Example: `/scmp/3`
@@ -77,7 +77,7 @@ See the [official RSS page](https://www.scmp.com/rss) to get the ID of each cate
     {
       "description": "Breaking news, analysis and opinion from the SCMP's Asia edition. - Powered by RSSHub",
       "errorAt": "2026-10-08T00:21:26.877Z",
-      "errorMessage": "[GET] \"https://www.scmp.com/week-asia/politics/article/3370630/indias-opposition-marches-supreme-court-cockroach-protests-gain-ground\": 403 Forbidden\n",
+      "errorMessage": "Failed to fetch\n[GET] \"https://www.scmp.com/news/asia/east-asia/article/3370755/south-korea-shopping-centre-stabbing-leaves-8-injured\": 403 Forbidden\n",
       "id": "58381798255721483",
       "image": "https://assets-v2.i-scmp.com/production/static/img/icons/scmp-meta-1200x630.png",
       "ownerUserId": null,

@@ -30,7 +30,14 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
+  - `daily.dev/posts/upvoted`
+  - `daily.dev/upvoted`
+- `target`: `/upvoted`
+### Rule 2
+- `source`:
+  - `app.daily.dev/posts/upvoted`
   - `app.daily.dev/upvoted`
+- `target`: `/upvoted`
 
 ## Raw JSON
 ```json
@@ -83,8 +90,17 @@ _None_
   "radar": [
     {
       "source": [
+        "daily.dev/posts/upvoted",
+        "daily.dev/upvoted"
+      ],
+      "target": "/upvoted"
+    },
+    {
+      "source": [
+        "app.daily.dev/posts/upvoted",
         "app.daily.dev/upvoted"
-      ]
+      ],
+      "target": "/upvoted"
     }
   ],
   "test": {

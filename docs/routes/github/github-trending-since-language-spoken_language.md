@@ -37,7 +37,13 @@ _None_
 ### Rule 1
 - `source`:
   - `github.com/trending`
-- `target`: `/trending/:since`
+- `title`: `Daily Trending`
+- `target`: `/trending/daily/any`
+### Rule 2
+- `source`:
+  - `github.com/trending/:language`
+- `title`: `Daily Trending`
+- `target`: `/trending/daily/:language`
 
 ## Raw JSON
 ```json
@@ -60,7 +66,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 69721,
+  "heat": 69808,
   "location": "trending.tsx",
   "maintainers": [
     "DIYgod",
@@ -99,7 +105,15 @@ _None_
       "source": [
         "github.com/trending"
       ],
-      "target": "/trending/:since"
+      "target": "/trending/daily/any",
+      "title": "Daily Trending"
+    },
+    {
+      "source": [
+        "github.com/trending/:language"
+      ],
+      "target": "/trending/daily/:language",
+      "title": "Daily Trending"
     }
   ],
   "topFeeds": [

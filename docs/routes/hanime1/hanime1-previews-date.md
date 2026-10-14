@@ -37,7 +37,7 @@ _None_
 - `source`:
   - `hanime1.me/previews/:date`
   - `hanime1.me/previews`
-- `target`: `/previews/:date`
+- `target`: `/previews/:date?`
 
 ## Raw JSON
 ```json
@@ -73,7 +73,7 @@ _None_
         "hanime1.me/previews/:date",
         "hanime1.me/previews"
       ],
-      "target": "/previews/:date"
+      "target": "/previews/:date?"
     }
   ],
   "test": {

@@ -1,11 +1,11 @@
-# 趣集 Route Index
+# iRead 趣读 Route Index
 
 ## Namespace
 - Namespace: `ifun`
-- Display Name: `趣集`
-- URL: `ifun.cool`
+- Display Name: `iRead 趣读`
+- URL: `iread.life`
 - Language: `_None_`
-- Aliases: `ifun, ifun.cool, 趣集`
+- Aliases: `ifun, iread, iread 趣读, iread.life`
 - Route Count: `3`
 
 ## Routes

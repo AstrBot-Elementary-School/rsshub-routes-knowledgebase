@@ -1,4 +1,4 @@
-# 知乎 - 知乎日报 - 合集
+# 知乎 - 日报 - 合集
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `zhihu`
 - Namespace Name: `知乎`
 - Route Path: `/zhihu/daily/section/:sectionId`
-- Route Name: `知乎日报 - 合集`
+- Route Name: `日报 - 合集`
 - Example: `/zhihu/daily/section/2`
 - URL: `daily.zhihu.com/*`
 - Language: `_None_`
@@ -32,10 +32,7 @@ _None_
 - `supportScihub`: false
 
 ## Radar
-### Rule 1
-- `source`:
-  - `daily.zhihu.com/*`
-- `target`: `/daily`
+_None_
 
 ## Raw JSON
 ```json
@@ -52,24 +49,16 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 52,
+  "heat": 53,
   "location": "daily-section.ts",
   "maintainers": [
     "ccbikai"
   ],
-  "name": "知乎日报 - 合集",
+  "name": "日报 - 合集",
   "parameters": {
     "sectionId": "合集 id，可在 https://news-at.zhihu.com/api/7/sections 找到"
   },
   "path": "/daily/section/:sectionId",
-  "radar": [
-    {
-      "source": [
-        "daily.zhihu.com/*"
-      ],
-      "target": "/daily"
-    }
-  ],
   "test": {
     "code": 1
   },

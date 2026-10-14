@@ -22,7 +22,7 @@
 | rumor-mill | issue-observatory | weekly-top-ten-rumors | expert-columns | research-and-updates |
 
 ## Parameters
-- `category`: 分類，見下表，預設為 `weekly-top-ten-rumors`
+- `category`: 分類，見下表
 
 
 ## Features
@@ -46,7 +46,7 @@ _None_
   ],
   "name": "分類",
   "parameters": {
-    "category": "分類，見下表，預設為 `weekly-top-ten-rumors`"
+    "category": "分類，見下表"
   },
   "path": "/category/:category",
   "test": {

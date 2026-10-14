@@ -1,4 +1,4 @@
-# 武汉市人民政府 - 武汉东湖新技术开发区 - 光谷新闻
+# 武汉市人民政府 - 东湖新技术开发区 - 光谷新闻
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `gov/wuhan`
 - Namespace Name: `武汉市人民政府`
 - Route Path: `/gov/wuhan/wehdz/:caty`
-- Route Name: `武汉东湖新技术开发区 - 光谷新闻`
+- Route Name: `东湖新技术开发区 - 光谷新闻`
 - Example: `/gov/wuhan/wehdz/tz_68628`
 - URL: `www.wuhan.gov.cn`
 - Language: `_None_`
@@ -44,7 +44,7 @@ _None_
   "maintainers": [
     "tudou027"
   ],
-  "name": "武汉东湖新技术开发区 - 光谷新闻",
+  "name": "东湖新技术开发区 - 光谷新闻",
   "parameters": {
     "caty": "类别"
   },

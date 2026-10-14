@@ -9,7 +9,7 @@
 - Route Path: `/bit/jwc`
 - Route Name: `教务处通知`
 - Example: `/bit/jwc`
-- URL: `jwc.bit.edu.cn/tzgg`
+- URL: `jwb.bit.edu.cn/tzgg/index.htm`
 - Language: `_None_`
 - Categories: `university`
 - Maintainers: `sinofp`
@@ -34,7 +34,10 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `jwc.bit.edu.cn/tzgg`
+  - `jwb.bit.edu.cn/tzgg/index.htm`
+  - `jwb.bit.edu.cn/`
+### Rule 2
+- `source`:
   - `jwc.bit.edu.cn/`
 
 ## Raw JSON
@@ -63,7 +66,12 @@ _None_
   "radar": [
     {
       "source": [
-        "jwc.bit.edu.cn/tzgg",
+        "jwb.bit.edu.cn/tzgg/index.htm",
+        "jwb.bit.edu.cn/"
+      ]
+    },
+    {
+      "source": [
         "jwc.bit.edu.cn/"
       ]
     }
@@ -73,6 +81,6 @@ _None_
     "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:108:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
   "topFeeds": [],
-  "url": "jwc.bit.edu.cn/tzgg"
+  "url": "jwb.bit.edu.cn/tzgg/index.htm"
 }
 ```

@@ -1,11 +1,11 @@
-# 财新博客 - 用户博客
+# 财新网 - 用户博客
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `caixin`
-- Namespace Name: `财新博客`
+- Namespace Name: `财新网`
 - Route Path: `/caixin/blog/:column?`
 - Route Name: `用户博客`
 - Example: `/caixin/blog/zhangwuchang`

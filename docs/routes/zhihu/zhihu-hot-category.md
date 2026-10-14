@@ -1,4 +1,4 @@
-# 知乎 - 知乎热榜
+# 知乎 - 热榜
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `zhihu`
 - Namespace Name: `知乎`
 - Route Path: `/zhihu/hot/:category?`
-- Route Name: `知乎热榜`
+- Route Name: `热榜`
 - Example: `/zhihu/hot`
 - URL: `www.zhihu.com`
 - Language: `_None_`
@@ -56,14 +56,14 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 15725,
+  "heat": 15724,
   "location": "hot.ts",
   "maintainers": [
     "nczitzk",
     "pseudoyu",
     "DIYgod"
   ],
-  "name": "知乎热榜",
+  "name": "热榜",
   "path": "/hot/:category?",
   "test": {
     "code": 1

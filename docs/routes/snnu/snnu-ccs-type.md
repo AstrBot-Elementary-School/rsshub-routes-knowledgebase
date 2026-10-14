@@ -1,4 +1,4 @@
-# Shaanxi Normal University - 计算机科学学院
+# Shaanxi Normal University - 人工智能与计算机学院
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `snnu`
 - Namespace Name: `Shaanxi Normal University`
 - Route Path: `/snnu/ccs/:type?`
-- Route Name: `计算机科学学院`
+- Route Name: `人工智能与计算机学院`
 - Example: `/snnu/ccs`
 - URL: `ccs.snnu.edu.cn`
 - Language: `_None_`
@@ -67,7 +67,7 @@ _None_
   "maintainers": [
     "alterkeyy"
   ],
-  "name": "计算机科学学院",
+  "name": "人工智能与计算机学院",
   "parameters": {
     "type": "类型，默认为通知公告 (tzgg)，可选学院动态 (news)、学术活动 (xshd)"
   },

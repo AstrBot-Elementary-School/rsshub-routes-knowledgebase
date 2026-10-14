@@ -30,6 +30,7 @@ _None_
 ### Rule 1
 - `source`:
   - `dx.ecnu.edu.cn`
+  - `dx.ecnu.edu.cn/xydt/list.htm`
 - `target`: `/dx`
 
 ## Raw JSON
@@ -51,7 +52,8 @@ _None_
   "radar": [
     {
       "source": [
-        "dx.ecnu.edu.cn"
+        "dx.ecnu.edu.cn",
+        "dx.ecnu.edu.cn/xydt/list.htm"
       ],
       "target": "/dx"
     }

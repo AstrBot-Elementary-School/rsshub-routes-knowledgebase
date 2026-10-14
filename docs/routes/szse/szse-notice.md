@@ -1,4 +1,4 @@
-# 深圳证券交易所 - 上市公告 - 可转换债券
+# 深圳证券交易所 - 上市公司公告
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `szse`
 - Namespace Name: `深圳证券交易所`
 - Route Path: `/szse/notice`
-- Route Name: `上市公告 - 可转换债券`
+- Route Name: `上市公司公告`
 - Example: `/szse/notice`
 - URL: `szse.cn/disclosure/notice/company/index.html`
 - Language: `_None_`
@@ -58,7 +58,7 @@ _None_
     "Jeason0228",
     "nczitzk"
   ],
-  "name": "上市公告 - 可转换债券",
+  "name": "上市公司公告",
   "parameters": {},
   "path": "/notice",
   "radar": [

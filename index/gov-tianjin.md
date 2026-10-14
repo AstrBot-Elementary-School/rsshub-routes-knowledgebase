@@ -10,7 +10,7 @@
 
 ## Routes
 
-### 天津港保税区-公告
+### 港保税区公告
 - Route ID: `gov/tianjin:/gov/tianjin/tjftz-notice/:channelId`
 - Route Path: `/gov/tianjin/tjftz-notice/:channelId`
 - File: `docs/routes/gov-tianjin/gov-tianjin-tjftz-notice-channelid.md`

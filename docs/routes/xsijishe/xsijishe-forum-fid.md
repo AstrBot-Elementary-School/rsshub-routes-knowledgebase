@@ -73,8 +73,8 @@ _None_
   "topFeeds": [
     {
       "description": "司机社国产视频论坛 - Powered by RSSHub",
-      "errorAt": "2026-10-12T01:35:38.105Z",
-      "errorMessage": "[GET] \"https://xsijishe.com/forum-48-1.html\": 520 <none>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41708590536881152",
       "image": null,
       "ownerUserId": null,
@@ -85,8 +85,8 @@ _None_
     },
     {
       "description": "司机社日本AV论坛 - Powered by RSSHub",
-      "errorAt": "2026-10-12T00:00:52.840Z",
-      "errorMessage": "Authentication failed. Access denied.\n/xsijishe/forum/51\n[GET] \"https://xsijishe.com/forum-51-1.html\": 520 <none>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "55159238633029632",
       "image": null,
       "ownerUserId": null,

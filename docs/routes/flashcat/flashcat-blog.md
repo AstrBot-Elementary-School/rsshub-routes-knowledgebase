@@ -1,4 +1,4 @@
-# Flashcat - 快猫星云博客
+# Flashcat - 博客
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `flashcat`
 - Namespace Name: `Flashcat`
 - Route Path: `/flashcat/blog`
-- Route Name: `快猫星云博客`
+- Route Name: `博客`
 - Example: `/flashcat/blog`
 - URL: `flashcat.cloud`
 - Language: `_None_`
@@ -57,7 +57,7 @@ _None_
   "maintainers": [
     "chesha1"
   ],
-  "name": "快猫星云博客",
+  "name": "博客",
   "parameters": {},
   "path": "/blog",
   "radar": [

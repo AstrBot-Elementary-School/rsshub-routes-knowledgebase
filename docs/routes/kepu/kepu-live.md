@@ -27,7 +27,7 @@ _None_
 - `requireConfig`: false
 - `requirePuppeteer`: false
 - `antiCrawler`: false
-- `supportBT`: true
+- `supportBT`: false
 - `supportPodcast`: false
 - `supportScihub`: false
 
@@ -47,7 +47,7 @@ _None_
     "antiCrawler": false,
     "requireConfig": false,
     "requirePuppeteer": false,
-    "supportBT": true,
+    "supportBT": false,
     "supportPodcast": false,
     "supportScihub": false
   },

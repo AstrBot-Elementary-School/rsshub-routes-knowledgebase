@@ -9,7 +9,7 @@
 - Route Path: `/gov/suzhou/doc`
 - Route Name: `政府信息公开文件`
 - Example: `/gov/suzhou/doc`
-- URL: `www.suzhou.gov.cn/szxxgk/front/xxgk_right.jsp`
+- URL: `www.suzhou.gov.cn/szsrmzf/cslm/contnet.shtml`
 - Language: `_None_`
 - Categories: `government`
 - Maintainers: `EsuRt`
@@ -34,8 +34,9 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `www.suzhou.gov.cn/szxxgk/front/xxgk_right.jsp`
+  - `www.suzhou.gov.cn/szsrmzf/cslm/contnet.shtml`
   - `www.suzhou.gov.cn/`
+- `target`: `/doc`
 
 ## Raw JSON
 ```json
@@ -63,9 +64,10 @@ _None_
   "radar": [
     {
       "source": [
-        "www.suzhou.gov.cn/szxxgk/front/xxgk_right.jsp",
+        "www.suzhou.gov.cn/szsrmzf/cslm/contnet.shtml",
         "www.suzhou.gov.cn/"
-      ]
+      ],
+      "target": "/doc"
     }
   ],
   "test": {
@@ -85,6 +87,6 @@ _None_
       "url": "rsshub://gov/suzhou/doc"
     }
   ],
-  "url": "www.suzhou.gov.cn/szxxgk/front/xxgk_right.jsp"
+  "url": "www.suzhou.gov.cn/szsrmzf/cslm/contnet.shtml"
 }
 ```

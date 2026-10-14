@@ -20,7 +20,7 @@
 _None_
 
 ## Parameters
-_None_
+- `type`: Temporary Exhibition type, supported values: now （正在展出）、past（展览回顾）。Default: All temporary exhibitions (now and past).
 
 
 ## Features
@@ -45,6 +45,9 @@ _None_
     "magazian"
   ],
   "name": "Temporary Exhibition",
+  "parameters": {
+    "type": "Temporary Exhibition type, supported values: now （正在展出）、past（展览回顾）。Default: All temporary exhibitions (now and past)."
+  },
   "path": "/exhibition/temporary/:type?",
   "radar": [
     {

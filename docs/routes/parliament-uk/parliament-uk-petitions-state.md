@@ -56,6 +56,7 @@ If you subscribe to [Recent petitions](https://petition.parliament.uk/petitions?
 ### Rule 1
 - `source`:
   - `petition.parliament.uk/petitions`
+- `target`: `/petitions`
 ### Rule 2
 - `title`: `All petitions`
 - `source`:
@@ -138,7 +139,8 @@ If you subscribe to [Recent petitions](https://petition.parliament.uk/petitions?
     {
       "source": [
         "petition.parliament.uk/petitions"
-      ]
+      ],
+      "target": "/petitions"
     },
     {
       "source": [

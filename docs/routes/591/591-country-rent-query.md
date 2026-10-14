@@ -18,7 +18,7 @@
 
 ## Description
 ::: tip
-Copy the URL of the 591 filter housing page and remove the front part `https://rent.591.com.tw/?`, you will get the query parameters.
+Copy the query parameters after `?` from the 591 filter housing page URL. The feed always requests the first page of matching listings.
 :::
 
 ## Parameters
@@ -43,7 +43,7 @@ _None_
   "categories": [
     "other"
   ],
-  "description": "::: tip\nCopy the URL of the 591 filter housing page and remove the front part `https://rent.591.com.tw/?`, you will get the query parameters.\n:::",
+  "description": "::: tip\nCopy the query parameters after `?` from the 591 filter housing page URL. The feed always requests the first page of matching listings.\n:::",
   "example": "/591/tw/rent/order=posttime&orderType=desc",
   "features": {
     "antiCrawler": false,

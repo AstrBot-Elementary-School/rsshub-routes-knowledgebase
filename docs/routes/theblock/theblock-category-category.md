@@ -35,6 +35,7 @@ Get latest news from TheBlock by category. Note that due to website limitations,
 ### Rule 1
 - `source`:
   - `theblock.co/category/:category`
+  - `theblock.co/news/:category`
 - `target`: `/category/:category`
 
 ## Raw JSON
@@ -66,7 +67,8 @@ Get latest news from TheBlock by category. Note that due to website limitations,
   "radar": [
     {
       "source": [
-        "theblock.co/category/:category"
+        "theblock.co/category/:category",
+        "theblock.co/news/:category"
       ],
       "target": "/category/:category"
     }

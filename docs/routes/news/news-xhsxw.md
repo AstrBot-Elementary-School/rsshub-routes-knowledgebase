@@ -1,4 +1,4 @@
-# 新华社 - 新华社新闻
+# 新华社 - 新闻
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `news`
 - Namespace Name: `新华社`
 - Route Path: `/news/xhsxw`
-- Route Name: `新华社新闻`
+- Route Name: `新闻`
 - Example: `/news/xhsxw`
 - URL: `news.cn/xhsxw.htm`
 - Language: `_None_`
@@ -56,7 +56,7 @@ _None_
   "maintainers": [
     "nczitzk"
   ],
-  "name": "新华社新闻",
+  "name": "新闻",
   "parameters": {},
   "path": [
     "/xhsxw",

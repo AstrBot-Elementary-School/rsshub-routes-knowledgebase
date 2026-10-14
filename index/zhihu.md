@@ -10,7 +10,7 @@
 
 ## Routes
 
-### 知乎书店 - 新书
+### 书店 - 新书
 - Route ID: `zhihu:/zhihu/bookstore/newest`
 - Route Path: `/zhihu/bookstore/newest`
 - File: `docs/routes/zhihu/zhihu-bookstore-newest.md`
@@ -26,7 +26,7 @@
 - Categories: `social-media`
 - Maintainers: `huruji, Colin-XKL, Fatpandac`
 
-### 知乎日报
+### 日报
 - Route ID: `zhihu:/zhihu/daily`
 - Route Path: `/zhihu/daily`
 - File: `docs/routes/zhihu/zhihu-daily.md`
@@ -34,7 +34,7 @@
 - Categories: `social-media`
 - Maintainers: `DHPO, pseudoyu`
 
-### 知乎日报 - 合集
+### 日报 - 合集
 - Route ID: `zhihu:/zhihu/daily/section/:sectionId`
 - Route Path: `/zhihu/daily/section/:sectionId`
 - File: `docs/routes/zhihu/zhihu-daily-section-sectionid.md`
@@ -42,7 +42,7 @@
 - Categories: `social-media`
 - Maintainers: `ccbikai`
 
-### 知乎热榜
+### 热榜
 - Route ID: `zhihu:/zhihu/hot/:category?`
 - Route Path: `/zhihu/hot/:category?`
 - File: `docs/routes/zhihu/zhihu-hot-category.md`
@@ -82,7 +82,7 @@
 - Categories: `social-media`
 - Maintainers: `xyqfer`
 
-### 知乎想法 - 24 小时新闻汇总
+### 想法 - 24 小时新闻汇总
 - Route ID: `zhihu:/zhihu/pin/daily`
 - Route Path: `/zhihu/pin/daily`
 - File: `docs/routes/zhihu/zhihu-pin-daily.md`
@@ -90,7 +90,7 @@
 - Categories: `social-media`
 - Maintainers: `xyqfer`
 
-### 知乎想法热榜
+### 想法热榜
 - Route ID: `zhihu:/zhihu/pin/hotlist`
 - Route Path: `/zhihu/pin/hotlist`
 - File: `docs/routes/zhihu/zhihu-pin-hotlist.md`
@@ -130,7 +130,7 @@
 - Categories: `social-media`
 - Maintainers: `xyqfer`
 
-### 知乎书店 - 知乎周刊
+### 书店 - 周刊
 - Route ID: `zhihu:/zhihu/weekly`
 - Route Path: `/zhihu/weekly`
 - File: `docs/routes/zhihu/zhihu-weekly.md`

@@ -1,11 +1,11 @@
-# iThome 台灣 - 分类资讯
+# IT之家 / iThome - 分类资讯
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `ithome`
-- Namespace Name: `iThome 台灣`
+- Namespace Name: `IT之家 / iThome`
 - Route Path: `/ithome/:caty`
 - Route Name: `分类资讯`
 - Example: `/ithome/it`

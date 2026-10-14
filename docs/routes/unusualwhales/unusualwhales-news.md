@@ -35,6 +35,7 @@ _None_
 ### Rule 1
 - `source`:
   - `unusualwhales.com/news`
+  - `unusualwhales.com/news-feed`
   - `unusualwhales.com/`
 
 ## Raw JSON
@@ -64,6 +65,7 @@ _None_
     {
       "source": [
         "unusualwhales.com/news",
+        "unusualwhales.com/news-feed",
         "unusualwhales.com/"
       ]
     }

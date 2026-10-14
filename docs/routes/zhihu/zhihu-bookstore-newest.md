@@ -1,4 +1,4 @@
-# 知乎 - 知乎书店 - 新书
+# 知乎 - 书店 - 新书
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `zhihu`
 - Namespace Name: `知乎`
 - Route Path: `/zhihu/bookstore/newest`
-- Route Name: `知乎书店 - 新书`
+- Route Name: `书店 - 新书`
 - Example: `/zhihu/bookstore/newest`
 - URL: `www.zhihu.com`
 - Language: `_None_`
@@ -54,7 +54,7 @@ _None_
   "maintainers": [
     "xyqfer"
   ],
-  "name": "知乎书店 - 新书",
+  "name": "书店 - 新书",
   "parameters": {},
   "path": "/bookstore/newest",
   "test": {
@@ -63,8 +63,8 @@ _None_
   "topFeeds": [
     {
       "description": "知乎书店-新书抢鲜 - Powered by RSSHub",
-      "errorAt": "2026-10-12T08:13:31.992Z",
-      "errorMessage": "[GET] \"https://api.zhihu.com/books/features/new\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "64653030416649216",
       "image": null,
       "ownerUserId": null,

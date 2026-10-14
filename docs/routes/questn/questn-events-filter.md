@@ -28,7 +28,6 @@ Filter parameters:
 - chain\_filter: 0: all chains, 1: ethereum, 56: bsc, 137: polygon, 42161: arb, 10: op, 324: zksync, 43114: avax
 - search: 'Search keyword',
 - count: 'Number of events to fetch',
-- page: 'Page number',
 
 :::
 
@@ -48,7 +47,7 @@ Filter parameters:
 ### Rule 1
 - `source`:
   - `app.questn.com/explore`
-- `target`: `/events/:category?/:status_filter?/:community_filter?/:reward_filter?/:chain_filter?/:search?/:count?/:page?`
+- `target`: `/events`
 
 ## Raw JSON
 ```json
@@ -56,7 +55,7 @@ Filter parameters:
   "categories": [
     "other"
   ],
-  "description": "::: tip\n\nFilter parameters:\n\n- category: 100: trending, 200: newest, 300: top\n- status\\_filter: 0: all, 100: available, 400: missed\n- community\\_filter: 0: all community, 100: verified, 200: followed\n- rewards\\_filter: 0: all rewards, 100: nft, 200: token, 400: whitelist\n- chain\\_filter: 0: all chains, 1: ethereum, 56: bsc, 137: polygon, 42161: arb, 10: op, 324: zksync, 43114: avax\n- search: 'Search keyword',\n- count: 'Number of events to fetch',\n- page: 'Page number',\n\n:::",
+  "description": "::: tip\n\nFilter parameters:\n\n- category: 100: trending, 200: newest, 300: top\n- status\\_filter: 0: all, 100: available, 400: missed\n- community\\_filter: 0: all community, 100: verified, 200: followed\n- rewards\\_filter: 0: all rewards, 100: nft, 200: token, 400: whitelist\n- chain\\_filter: 0: all chains, 1: ethereum, 56: bsc, 137: polygon, 42161: arb, 10: op, 324: zksync, 43114: avax\n- search: 'Search keyword',\n- count: 'Number of events to fetch',\n\n:::",
   "example": "/questn/events",
   "features": {
     "antiCrawler": false,
@@ -81,7 +80,7 @@ Filter parameters:
       "source": [
         "app.questn.com/explore"
       ],
-      "target": "/events/:category?/:status_filter?/:community_filter?/:reward_filter?/:chain_filter?/:search?/:count?/:page?"
+      "target": "/events"
     }
   ],
   "test": {

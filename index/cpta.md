@@ -10,7 +10,7 @@
 
 ## Routes
 
-### 中国人事考试网发布
+### 发布
 - Route ID: `cpta:/cpta/:category`
 - Route Path: `/cpta/:category`
 - File: `docs/routes/cpta/cpta-category.md`

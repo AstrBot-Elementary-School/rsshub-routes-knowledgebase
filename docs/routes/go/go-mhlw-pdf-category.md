@@ -20,7 +20,7 @@
 ::: tip
 Subscribing to this route will give you access to all PDF files on this page.
 
-If you subscribe to [新型コロナウイルス感染症の定点当たり報告数の推移](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii.html)，where the URL is `https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii.html`, extract the part `https://www.mhlw.go.jp/` to the end, which is `.html`, and use it as the parameter to fill in. Therefore, the route will be [`/go/mhlw/stf/seisakunitsuite/bunya/houkokusuunosuii`](https://rsshub.app/go/mhlw/stf/seisakunitsuite/bunya/houkokusuunosuii).
+If you subscribe to [新型コロナウイルス感染症の定点当たり報告数の推移](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii.html)，where the URL is `https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii.html`, Use the path `stf/seisakunitsuite/bunya/houkokusuunosuii` as the category parameter. The resulting route is [`/go/mhlw/pdf/stf/seisakunitsuite/bunya/houkokusuunosuii`](https://rsshub.app/go/mhlw/pdf/stf/seisakunitsuite/bunya/houkokusuunosuii).
 :::
 
 ## Parameters
@@ -39,7 +39,8 @@ If you subscribe to [新型コロナウイルス感染症の定点当たり報�
 ## Radar
 ### Rule 1
 - `source`:
-  - `www.mhlw.go.jp`
+  - `www.mhlw.go.jp/*category`
+- `target`: `/mhlw/pdf/:category`
 
 ## Raw JSON
 ```json
@@ -47,7 +48,7 @@ If you subscribe to [新型コロナウイルス感染症の定点当たり報�
   "categories": [
     "government"
   ],
-  "description": "::: tip\nSubscribing to this route will give you access to all PDF files on this page.\n\nIf you subscribe to [新型コロナウイルス感染症の定点当たり報告数の推移](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii.html)，where the URL is `https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii.html`, extract the part `https://www.mhlw.go.jp/` to the end, which is `.html`, and use it as the parameter to fill in. Therefore, the route will be [`/go/mhlw/stf/seisakunitsuite/bunya/houkokusuunosuii`](https://rsshub.app/go/mhlw/stf/seisakunitsuite/bunya/houkokusuunosuii).\n:::",
+  "description": "::: tip\nSubscribing to this route will give you access to all PDF files on this page.\n\nIf you subscribe to [新型コロナウイルス感染症の定点当たり報告数の推移](https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii.html)，where the URL is `https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/houkokusuunosuii.html`, Use the path `stf/seisakunitsuite/bunya/houkokusuunosuii` as the category parameter. The resulting route is [`/go/mhlw/pdf/stf/seisakunitsuite/bunya/houkokusuunosuii`](https://rsshub.app/go/mhlw/pdf/stf/seisakunitsuite/bunya/houkokusuunosuii).\n:::",
   "example": "/go/mhlw/pdf/stf/seisakunitsuite/bunya/houkokusuunosuii",
   "features": {
     "antiCrawler": false,
@@ -71,8 +72,9 @@ If you subscribe to [新型コロナウイルス感染症の定点当たり報�
   "radar": [
     {
       "source": [
-        "www.mhlw.go.jp"
-      ]
+        "www.mhlw.go.jp/*category"
+      ],
+      "target": "/mhlw/pdf/:category"
     }
   ],
   "test": {

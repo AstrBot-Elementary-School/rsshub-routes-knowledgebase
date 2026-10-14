@@ -10,7 +10,7 @@
 
 ## Routes
 
-### Artist Profolio
+### Artist Portfolio
 - Route ID: `artstation:/artstation/:handle`
 - Route Path: `/artstation/:handle`
 - File: `docs/routes/artstation/artstation-handle.md`

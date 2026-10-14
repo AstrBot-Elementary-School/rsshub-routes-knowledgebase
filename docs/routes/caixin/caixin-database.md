@@ -1,15 +1,15 @@
-# 财新博客 - 财新数据通
+# 财新网 - 财新数据通
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `caixin`
-- Namespace Name: `财新博客`
+- Namespace Name: `财新网`
 - Route Path: `/caixin/database`
 - Route Name: `财新数据通`
 - Example: `/caixin/database`
-- URL: `k.caixin.com/web`
+- URL: `database.caixin.com/news/`
 - Language: `_None_`
 - Categories: `traditional-media`
 - Maintainers: `nczitzk`
@@ -34,8 +34,8 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `k.caixin.com/web`
-  - `k.caixin.com/`
+  - `database.caixin.com/news/`
+  - `database.caixin.com/`
 
 ## Raw JSON
 ```json
@@ -63,8 +63,8 @@ _None_
   "radar": [
     {
       "source": [
-        "k.caixin.com/web",
-        "k.caixin.com/"
+        "database.caixin.com/news/",
+        "database.caixin.com/"
       ]
     }
   ],
@@ -85,6 +85,6 @@ _None_
       "url": "rsshub://caixin/database"
     }
   ],
-  "url": "k.caixin.com/web"
+  "url": "database.caixin.com/news/"
 }
 ```

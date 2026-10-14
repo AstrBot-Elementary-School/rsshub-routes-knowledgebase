@@ -29,8 +29,12 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `www.sctu.edu.cn/jwc/wenzhangg/:category.htm`
-- `target`: `/jwc/:category`
+  - `www.sctu.edu.cn/jwc/wenzhangg/tzgg.htm`
+- `target`: `/jwc/tzgg`
+### Rule 2
+- `source`:
+  - `www.sctu.edu.cn/jwc/wenzhangg/xwdt.htm`
+- `target`: `/jwc/xwdt`
 
 ## Raw JSON
 ```json
@@ -65,9 +69,15 @@ _None_
   "radar": [
     {
       "source": [
-        "www.sctu.edu.cn/jwc/wenzhangg/:category.htm"
+        "www.sctu.edu.cn/jwc/wenzhangg/tzgg.htm"
       ],
-      "target": "/jwc/:category"
+      "target": "/jwc/tzgg"
+    },
+    {
+      "source": [
+        "www.sctu.edu.cn/jwc/wenzhangg/xwdt.htm"
+      ],
+      "target": "/jwc/xwdt"
     }
   ],
   "test": {

@@ -36,8 +36,28 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `phy.jlu.edu.cn/:category/:column`
-  - `phy.jlu.edu.cn/:category/:column/:subcolumn`
+  - `phy.jlu.edu.cn/xzgz/:column`
+- `target`: `/phy/xzgz/:column`
+### Rule 2
+- `source`:
+  - `phy.jlu.edu.cn/xzgz/:column/:subcolumn`
+- `target`: `/phy/xzgz/:column/:subcolumn`
+### Rule 3
+- `source`:
+  - `phy.jlu.edu.cn/kxyj/:column`
+- `target`: `/phy/kxyj/:column`
+### Rule 4
+- `source`:
+  - `phy.jlu.edu.cn/kxyj/:column/:subcolumn`
+- `target`: `/phy/kxyj/:column/:subcolumn`
+### Rule 5
+- `source`:
+  - `phy.jlu.edu.cn/rcpy/:column`
+- `target`: `/phy/rcpy/:column`
+### Rule 6
+- `source`:
+  - `phy.jlu.edu.cn/rcpy/:column/:subcolumn`
+- `target`: `/phy/rcpy/:column/:subcolumn`
 
 ## Raw JSON
 ```json
@@ -69,9 +89,39 @@ _None_
   "radar": [
     {
       "source": [
-        "phy.jlu.edu.cn/:category/:column",
-        "phy.jlu.edu.cn/:category/:column/:subcolumn"
-      ]
+        "phy.jlu.edu.cn/xzgz/:column"
+      ],
+      "target": "/phy/xzgz/:column"
+    },
+    {
+      "source": [
+        "phy.jlu.edu.cn/xzgz/:column/:subcolumn"
+      ],
+      "target": "/phy/xzgz/:column/:subcolumn"
+    },
+    {
+      "source": [
+        "phy.jlu.edu.cn/kxyj/:column"
+      ],
+      "target": "/phy/kxyj/:column"
+    },
+    {
+      "source": [
+        "phy.jlu.edu.cn/kxyj/:column/:subcolumn"
+      ],
+      "target": "/phy/kxyj/:column/:subcolumn"
+    },
+    {
+      "source": [
+        "phy.jlu.edu.cn/rcpy/:column"
+      ],
+      "target": "/phy/rcpy/:column"
+    },
+    {
+      "source": [
+        "phy.jlu.edu.cn/rcpy/:column/:subcolumn"
+      ],
+      "target": "/phy/rcpy/:column/:subcolumn"
     }
   ],
   "test": {

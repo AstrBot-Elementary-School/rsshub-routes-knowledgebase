@@ -41,7 +41,7 @@
 | [政策权威解读](http://www.ccfa.org.cn/portal/cn/fangyizhuanqu_list.jsp?type=40) | [40](https://rsshub.app/ccfa/40) |
 
 ## Parameters
-- `category`: 分类，默认为 `1`，即协会动态，可在对应分类页 URL 中找到
+- `type`: 分类，默认为 `1`，即协会动态，可在对应分类页 URL 中找到
 
 
 ## Features
@@ -55,63 +55,56 @@
 
 ## Radar
 ### Rule 1
-- `source`:
-  - `www.ccfa.org.cn/portal/cn/xiehui_list.jsp`
-  - `www.ccfa.org.cn/portal/cn/hybz_list.jsp`
-  - `www.ccfa.org.cn/portal/cn/lsbq.jsp`
-  - `www.ccfa.org.cn/portal/cn/hybzs_list.jsp`
-  - `www.ccfa.org.cn/portal/cn/fangyizhuanqu_list.jsp`
-### Rule 2
 - `title`: `协会动态`
 - `source`:
   - `www.ccfa.org.cn/portal/cn/xiehui_list.jsp`
 - `target`: `/1`
-### Rule 3
+### Rule 2
 - `title`: `行业动态`
 - `source`:
   - `www.ccfa.org.cn/portal/cn/xiehui_list.jsp`
 - `target`: `/2`
-### Rule 4
+### Rule 3
 - `title`: `政策/报告/标准`
 - `source`:
   - `www.ccfa.org.cn/portal/cn/hybz_list.jsp`
 - `target`: `/33`
-### Rule 5
+### Rule 4
 - `title`: `行业统计`
 - `source`:
   - `www.ccfa.org.cn/portal/cn/lsbq.jsp`
 - `target`: `/10003`
-### Rule 6
+### Rule 5
 - `title`: `创新案例`
 - `source`:
   - `www.ccfa.org.cn/portal/cn/hybzs_list.jsp`
 - `target`: `/10004`
-### Rule 7
+### Rule 6
 - `title`: `党建工作`
 - `source`:
   - `www.ccfa.org.cn/portal/cn/xiehui_list.jsp`
 - `target`: `/7`
-### Rule 8
+### Rule 7
 - `title`: `新消费论坛`
 - `source`:
   - `www.ccfa.org.cn/portal/cn/xiehui_list.jsp`
 - `target`: `/10005`
-### Rule 9
+### Rule 8
 - `title`: `政策/报告/标准 - 行业报告`
 - `source`:
   - `www.ccfa.org.cn/portal/cn/hybz_list.jsp`
 - `target`: `/33`
-### Rule 10
+### Rule 9
 - `title`: `政策/报告/标准 - 行业标准`
 - `source`:
   - `www.ccfa.org.cn/portal/cn/hybz_list.jsp`
 - `target`: `/34`
-### Rule 11
+### Rule 10
 - `title`: `政策/报告/标准 - 行业政策`
 - `source`:
   - `www.ccfa.org.cn/portal/cn/fangyizhuanqu_list.jsp`
 - `target`: `/39`
-### Rule 12
+### Rule 11
 - `title`: `政策/报告/标准 - 政策权威解读`
 - `source`:
   - `www.ccfa.org.cn/portal/cn/fangyizhuanqu_list.jsp`
@@ -141,19 +134,10 @@
   ],
   "name": "分类",
   "parameters": {
-    "category": "分类，默认为 `1`，即协会动态，可在对应分类页 URL 中找到"
+    "type": "分类，默认为 `1`，即协会动态，可在对应分类页 URL 中找到"
   },
   "path": "/:type?",
   "radar": [
-    {
-      "source": [
-        "www.ccfa.org.cn/portal/cn/xiehui_list.jsp",
-        "www.ccfa.org.cn/portal/cn/hybz_list.jsp",
-        "www.ccfa.org.cn/portal/cn/lsbq.jsp",
-        "www.ccfa.org.cn/portal/cn/hybzs_list.jsp",
-        "www.ccfa.org.cn/portal/cn/fangyizhuanqu_list.jsp"
-      ]
-    },
     {
       "source": [
         "www.ccfa.org.cn/portal/cn/xiehui_list.jsp"

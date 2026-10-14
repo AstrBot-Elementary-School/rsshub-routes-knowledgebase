@@ -9,7 +9,7 @@
 - Route Path: `/flyert/creditcard/:bank`
 - Route Name: `信用卡`
 - Example: `/flyert/creditcard/zhongxin`
-- URL: `flyert.com/`
+- URL: `www.flyert.com.cn/`
 - Language: `_None_`
 - Categories: `travel`
 - Maintainers: `nicolaszf`
@@ -54,7 +54,156 @@
 ## Radar
 ### Rule 1
 - `source`:
-  - `flyert.com.cn/`
+  - `flyert.com.cn/forum-creditcard-1.html`
+- `target`: `/creditcard/creditcard`
+### Rule 2
+- `source`:
+  - `flyert.com.cn/forum-pufa-1.html`
+- `target`: `/creditcard/pufa`
+### Rule 3
+- `source`:
+  - `flyert.com.cn/forum-zhaoshang-1.html`
+- `target`: `/creditcard/zhaoshang`
+### Rule 4
+- `source`:
+  - `flyert.com.cn/forum-zhongxin-1.html`
+- `target`: `/creditcard/zhongxin`
+### Rule 5
+- `source`:
+  - `flyert.com.cn/forum-jiaotong-1.html`
+- `target`: `/creditcard/jiaotong`
+### Rule 6
+- `source`:
+  - `flyert.com.cn/forum-zhonghang-1.html`
+- `target`: `/creditcard/zhonghang`
+### Rule 7
+- `source`:
+  - `flyert.com.cn/forum-gongshang-1.html`
+- `target`: `/creditcard/gongshang`
+### Rule 8
+- `source`:
+  - `flyert.com.cn/forum-guangfa-1.html`
+- `target`: `/creditcard/guangfa`
+### Rule 9
+- `source`:
+  - `flyert.com.cn/forum-nongye-1.html`
+- `target`: `/creditcard/nongye`
+### Rule 10
+- `source`:
+  - `flyert.com.cn/forum-jianshe-1.html`
+- `target`: `/creditcard/jianshe`
+### Rule 11
+- `source`:
+  - `flyert.com.cn/forum-huifeng-1.html`
+- `target`: `/creditcard/huifeng`
+### Rule 12
+- `source`:
+  - `flyert.com.cn/forum-mingsheng-1.html`
+- `target`: `/creditcard/mingsheng`
+### Rule 13
+- `source`:
+  - `flyert.com.cn/forum-xingye-1.html`
+- `target`: `/creditcard/xingye`
+### Rule 14
+- `source`:
+  - `flyert.com.cn/forum-huaqi-1.html`
+- `target`: `/creditcard/huaqi`
+### Rule 15
+- `source`:
+  - `flyert.com.cn/forum-shanghai-1.html`
+- `target`: `/creditcard/shanghai`
+### Rule 16
+- `source`:
+  - `flyert.com.cn/forum-wuka-1.html`
+- `target`: `/creditcard/wuka`
+### Rule 17
+- `source`:
+  - `flyert.com.cn/forum-137-1.html`
+- `target`: `/creditcard/137`
+### Rule 18
+- `source`:
+  - `flyert.com.cn/forum-145-1.html`
+- `target`: `/creditcard/145`
+### Rule 19
+- `source`:
+  - `flyert.com.cn/forum-intcreditcard-1.html`
+- `target`: `/creditcard/intcreditcard`
+### Rule 20
+- `source`:
+  - `www.flyert.com.cn/forum-creditcard-1.html`
+- `target`: `/creditcard/creditcard`
+### Rule 21
+- `source`:
+  - `www.flyert.com.cn/forum-pufa-1.html`
+- `target`: `/creditcard/pufa`
+### Rule 22
+- `source`:
+  - `www.flyert.com.cn/forum-zhaoshang-1.html`
+- `target`: `/creditcard/zhaoshang`
+### Rule 23
+- `source`:
+  - `www.flyert.com.cn/forum-zhongxin-1.html`
+- `target`: `/creditcard/zhongxin`
+### Rule 24
+- `source`:
+  - `www.flyert.com.cn/forum-jiaotong-1.html`
+- `target`: `/creditcard/jiaotong`
+### Rule 25
+- `source`:
+  - `www.flyert.com.cn/forum-zhonghang-1.html`
+- `target`: `/creditcard/zhonghang`
+### Rule 26
+- `source`:
+  - `www.flyert.com.cn/forum-gongshang-1.html`
+- `target`: `/creditcard/gongshang`
+### Rule 27
+- `source`:
+  - `www.flyert.com.cn/forum-guangfa-1.html`
+- `target`: `/creditcard/guangfa`
+### Rule 28
+- `source`:
+  - `www.flyert.com.cn/forum-nongye-1.html`
+- `target`: `/creditcard/nongye`
+### Rule 29
+- `source`:
+  - `www.flyert.com.cn/forum-jianshe-1.html`
+- `target`: `/creditcard/jianshe`
+### Rule 30
+- `source`:
+  - `www.flyert.com.cn/forum-huifeng-1.html`
+- `target`: `/creditcard/huifeng`
+### Rule 31
+- `source`:
+  - `www.flyert.com.cn/forum-mingsheng-1.html`
+- `target`: `/creditcard/mingsheng`
+### Rule 32
+- `source`:
+  - `www.flyert.com.cn/forum-xingye-1.html`
+- `target`: `/creditcard/xingye`
+### Rule 33
+- `source`:
+  - `www.flyert.com.cn/forum-huaqi-1.html`
+- `target`: `/creditcard/huaqi`
+### Rule 34
+- `source`:
+  - `www.flyert.com.cn/forum-shanghai-1.html`
+- `target`: `/creditcard/shanghai`
+### Rule 35
+- `source`:
+  - `www.flyert.com.cn/forum-wuka-1.html`
+- `target`: `/creditcard/wuka`
+### Rule 36
+- `source`:
+  - `www.flyert.com.cn/forum-137-1.html`
+- `target`: `/creditcard/137`
+### Rule 37
+- `source`:
+  - `www.flyert.com.cn/forum-145-1.html`
+- `target`: `/creditcard/145`
+### Rule 38
+- `source`:
+  - `www.flyert.com.cn/forum-intcreditcard-1.html`
+- `target`: `/creditcard/intcreditcard`
 
 ## Raw JSON
 ```json
@@ -85,8 +234,231 @@
   "radar": [
     {
       "source": [
-        "flyert.com.cn/"
-      ]
+        "flyert.com.cn/forum-creditcard-1.html"
+      ],
+      "target": "/creditcard/creditcard"
+    },
+    {
+      "source": [
+        "flyert.com.cn/forum-pufa-1.html"
+      ],
+      "target": "/creditcard/pufa"
+    },
+    {
+      "source": [
+        "flyert.com.cn/forum-zhaoshang-1.html"
+      ],
+      "target": "/creditcard/zhaoshang"
+    },
+    {
+      "source": [
+        "flyert.com.cn/forum-zhongxin-1.html"
+      ],
+      "target": "/creditcard/zhongxin"
+    },
+    {
+      "source": [
+        "flyert.com.cn/forum-jiaotong-1.html"
+      ],
+      "target": "/creditcard/jiaotong"
+    },
+    {
+      "source": [
+        "flyert.com.cn/forum-zhonghang-1.html"
+      ],
+      "target": "/creditcard/zhonghang"
+    },
+    {
+      "source": [
+        "flyert.com.cn/forum-gongshang-1.html"
+      ],
+      "target": "/creditcard/gongshang"
+    },
+    {
+      "source": [
+        "flyert.com.cn/forum-guangfa-1.html"
+      ],
+      "target": "/creditcard/guangfa"
+    },
+    {
+      "source": [
+        "flyert.com.cn/forum-nongye-1.html"
+      ],
+      "target": "/creditcard/nongye"
+    },
+    {
+      "source": [
+        "flyert.com.cn/forum-jianshe-1.html"
+      ],
+      "target": "/creditcard/jianshe"
+    },
+    {
+      "source": [
+        "flyert.com.cn/forum-huifeng-1.html"
+      ],
+      "target": "/creditcard/huifeng"
+    },
+    {
+      "source": [
+        "flyert.com.cn/forum-mingsheng-1.html"
+      ],
+      "target": "/creditcard/mingsheng"
+    },
+    {
+      "source": [
+        "flyert.com.cn/forum-xingye-1.html"
+      ],
+      "target": "/creditcard/xingye"
+    },
+    {
+      "source": [
+        "flyert.com.cn/forum-huaqi-1.html"
+      ],
+      "target": "/creditcard/huaqi"
+    },
+    {
+      "source": [
+        "flyert.com.cn/forum-shanghai-1.html"
+      ],
+      "target": "/creditcard/shanghai"
+    },
+    {
+      "source": [
+        "flyert.com.cn/forum-wuka-1.html"
+      ],
+      "target": "/creditcard/wuka"
+    },
+    {
+      "source": [
+        "flyert.com.cn/forum-137-1.html"
+      ],
+      "target": "/creditcard/137"
+    },
+    {
+      "source": [
+        "flyert.com.cn/forum-145-1.html"
+      ],
+      "target": "/creditcard/145"
+    },
+    {
+      "source": [
+        "flyert.com.cn/forum-intcreditcard-1.html"
+      ],
+      "target": "/creditcard/intcreditcard"
+    },
+    {
+      "source": [
+        "www.flyert.com.cn/forum-creditcard-1.html"
+      ],
+      "target": "/creditcard/creditcard"
+    },
+    {
+      "source": [
+        "www.flyert.com.cn/forum-pufa-1.html"
+      ],
+      "target": "/creditcard/pufa"
+    },
+    {
+      "source": [
+        "www.flyert.com.cn/forum-zhaoshang-1.html"
+      ],
+      "target": "/creditcard/zhaoshang"
+    },
+    {
+      "source": [
+        "www.flyert.com.cn/forum-zhongxin-1.html"
+      ],
+      "target": "/creditcard/zhongxin"
+    },
+    {
+      "source": [
+        "www.flyert.com.cn/forum-jiaotong-1.html"
+      ],
+      "target": "/creditcard/jiaotong"
+    },
+    {
+      "source": [
+        "www.flyert.com.cn/forum-zhonghang-1.html"
+      ],
+      "target": "/creditcard/zhonghang"
+    },
+    {
+      "source": [
+        "www.flyert.com.cn/forum-gongshang-1.html"
+      ],
+      "target": "/creditcard/gongshang"
+    },
+    {
+      "source": [
+        "www.flyert.com.cn/forum-guangfa-1.html"
+      ],
+      "target": "/creditcard/guangfa"
+    },
+    {
+      "source": [
+        "www.flyert.com.cn/forum-nongye-1.html"
+      ],
+      "target": "/creditcard/nongye"
+    },
+    {
+      "source": [
+        "www.flyert.com.cn/forum-jianshe-1.html"
+      ],
+      "target": "/creditcard/jianshe"
+    },
+    {
+      "source": [
+        "www.flyert.com.cn/forum-huifeng-1.html"
+      ],
+      "target": "/creditcard/huifeng"
+    },
+    {
+      "source": [
+        "www.flyert.com.cn/forum-mingsheng-1.html"
+      ],
+      "target": "/creditcard/mingsheng"
+    },
+    {
+      "source": [
+        "www.flyert.com.cn/forum-xingye-1.html"
+      ],
+      "target": "/creditcard/xingye"
+    },
+    {
+      "source": [
+        "www.flyert.com.cn/forum-huaqi-1.html"
+      ],
+      "target": "/creditcard/huaqi"
+    },
+    {
+      "source": [
+        "www.flyert.com.cn/forum-shanghai-1.html"
+      ],
+      "target": "/creditcard/shanghai"
+    },
+    {
+      "source": [
+        "www.flyert.com.cn/forum-wuka-1.html"
+      ],
+      "target": "/creditcard/wuka"
+    },
+    {
+      "source": [
+        "www.flyert.com.cn/forum-137-1.html"
+      ],
+      "target": "/creditcard/137"
+    },
+    {
+      "source": [
+        "www.flyert.com.cn/forum-145-1.html"
+      ],
+      "target": "/creditcard/145"
+    },
+    {
+      "source": [
+        "www.flyert.com.cn/forum-intcreditcard-1.html"
+      ],
+      "target": "/creditcard/intcreditcard"
     }
   ],
   "test": {
@@ -96,8 +468,8 @@
   "topFeeds": [
     {
       "description": "飞客茶馆信用卡 - 国内信用卡 - Powered by RSSHub",
-      "errorAt": "2026-10-12T11:18:07.314Z",
-      "errorMessage": "[GET] \"https://www.flyert.com.cn/forum.php?mod=viewthread&tid=4830775&extra=page%3D1\": 493 <none>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "55873225615650816",
       "image": null,
       "ownerUserId": null,
@@ -119,6 +491,6 @@
       "url": "rsshub://flyert/creditcard/zhaoshang"
     }
   ],
-  "url": "flyert.com/"
+  "url": "www.flyert.com.cn/"
 }
 ```

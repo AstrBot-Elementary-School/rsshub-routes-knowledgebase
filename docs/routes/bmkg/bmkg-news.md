@@ -9,7 +9,7 @@
 - Route Path: `/bmkg/news`
 - Route Name: `News`
 - Example: `/bmkg/news`
-- URL: `bmkg.go.id/`
+- URL: `bmkg.go.id/berita/utama`
 - Language: `_None_`
 - Categories: `forecast`
 - Maintainers: `Shinanory`
@@ -35,7 +35,7 @@ _None_
 ### Rule 1
 - `source`:
   - `bmkg.go.id/`
-  - `bmkg.go.id/berita`
+  - `bmkg.go.id/berita/utama`
 
 ## Raw JSON
 ```json
@@ -64,7 +64,7 @@ _None_
     {
       "source": [
         "bmkg.go.id/",
-        "bmkg.go.id/berita"
+        "bmkg.go.id/berita/utama"
       ]
     }
   ],
@@ -86,6 +86,6 @@ _None_
       "url": "rsshub://bmkg/news"
     }
   ],
-  "url": "bmkg.go.id/"
+  "url": "bmkg.go.id/berita/utama"
 }
 ```

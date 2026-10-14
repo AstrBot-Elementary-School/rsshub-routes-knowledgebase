@@ -10,7 +10,7 @@
 
 ## Routes
 
-### 数英网文章专题
+### 文章专题
 - Route ID: `digitaling:/digitaling/articles/:category/:subcate?`
 - Route Path: `/digitaling/articles/:category/:subcate?`
 - File: `docs/routes/digitaling/digitaling-articles-category-subcate.md`
@@ -18,7 +18,7 @@
 - Categories: `new-media`
 - Maintainers: `occupy5`
 
-### 数英网最新文章
+### 最新文章
 - Route ID: `digitaling:/digitaling/index`
 - Route Path: `/digitaling/index`
 - File: `docs/routes/digitaling/digitaling-index.md`
@@ -26,7 +26,7 @@
 - Categories: `new-media`
 - Maintainers: `occupy5`
 
-### 数英网项目专题
+### 项目专题
 - Route ID: `digitaling:/digitaling/projects/:category`
 - Route Path: `/digitaling/projects/:category`
 - File: `docs/routes/digitaling/digitaling-projects-category.md`

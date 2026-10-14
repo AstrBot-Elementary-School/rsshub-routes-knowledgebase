@@ -20,6 +20,7 @@
 _None_
 
 ## Parameters
+- `type`: Content type: U3C3, Video, Photo, Book, Game, Software, or Other; the homepage is used when omitted
 - `keyword`: Search keyword
 - `preview`: Show image preview, off by default, non empty value means on
 
@@ -58,7 +59,8 @@ _None_
   "name": "Search",
   "parameters": {
     "keyword": "Search keyword",
-    "preview": "Show image preview, off by default, non empty value means on"
+    "preview": "Show image preview, off by default, non empty value means on",
+    "type": "Content type: U3C3, Video, Photo, Book, Game, Software, or Other; the homepage is used when omitted"
   },
   "path": [
     "/search/:keyword/:preview?",
@@ -87,7 +89,7 @@ _None_
       "id": "68549075258311680",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.u3c3.com/?search2=64zalukt&search=%E6%96%B0%E7%89%87%E9%80%9F%E9%80%92",
+      "siteUrl": "https://www.u3c3.com/?search2=9majn0yd&search=%E6%96%B0%E7%89%87%E9%80%9F%E9%80%92",
       "title": "search 新片速递 - u3c3",
       "type": "feed",
       "url": "rsshub://u3c3/search/%E6%96%B0%E7%89%87%E9%80%9F%E9%80%92"

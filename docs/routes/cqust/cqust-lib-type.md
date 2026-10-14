@@ -1,11 +1,11 @@
-# 重庆科技学院 - 图书馆公告
+# 重庆科技大学 - 图书馆公告
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `cqust`
-- Namespace Name: `重庆科技学院`
+- Namespace Name: `重庆科技大学`
 - Route Path: `/cqust/lib/:type?`
 - Route Name: `图书馆公告`
 - Example: `/cqust/lib/news`

@@ -18,7 +18,7 @@
 
 ## Description
 ::: tip
-若订阅 [独家新闻](https://fashionnetwork.cn)，网址为 `https://fashionnetwork.cn/lists/13.html`。截取 `https://fashionnetwork.cn/` 到末尾 `.html` 的部分 `13` 作为参数填入，此时路由为 [`/fashionnetwork/cn/lists/13`](https://rsshub.app/fashionnetwork/cn/lists/13)。
+若订阅 [独家新闻](https://fashionnetwork.cn/lists/13)，可将分类页 URL 中 `lists/` 后的 `13` 填入 `id` 参数，对应路由为 [`/fashionnetwork/cn/lists/13`](https://rsshub.app/fashionnetwork/cn/lists/13)。
 :::
 
 | 分类                                           | ID                                                  |
@@ -33,7 +33,7 @@
 | [新闻资讯](https://fashionnetwork.cn/lists/11) | [11](https://rsshub.app/fashionnetwork/cn/lists/11) |
 
 ## Parameters
-- `category`: 分类，默认为 0，可在对应分类页 URL 中找到
+- `id`: 分类，默认为 0，可在对应分类页 URL 中找到
 
 
 ## Features
@@ -48,46 +48,57 @@
 ## Radar
 ### Rule 1
 - `source`:
-  - `fashionnetwork.cn/lists/:id`
+  - `fashionnetwork.cn/`
+  - `fashionnetwork.cn/lists/0`
+  - `fashionnetwork.cn/lists/0.html`
+- `target`: `/cn/lists/0`
 ### Rule 2
 - `title`: `独家`
 - `source`:
   - `fashionnetwork.cn/lists/13`
+  - `fashionnetwork.cn/lists/13.html`
 - `target`: `/cn/lists/13`
 ### Rule 3
 - `title`: `商业`
 - `source`:
   - `fashionnetwork.cn/lists/1`
+  - `fashionnetwork.cn/lists/1.html`
 - `target`: `/cn/lists/1`
 ### Rule 4
 - `title`: `人物`
 - `source`:
   - `fashionnetwork.cn/lists/8`
+  - `fashionnetwork.cn/lists/8.html`
 - `target`: `/cn/lists/8`
 ### Rule 5
 - `title`: `设计`
 - `source`:
   - `fashionnetwork.cn/lists/3`
+  - `fashionnetwork.cn/lists/3.html`
 - `target`: `/cn/lists/3`
 ### Rule 6
 - `title`: `产业`
 - `source`:
   - `fashionnetwork.cn/lists/5`
+  - `fashionnetwork.cn/lists/5.html`
 - `target`: `/cn/lists/5`
 ### Rule 7
 - `title`: `创新研究`
 - `source`:
   - `fashionnetwork.cn/lists/6`
+  - `fashionnetwork.cn/lists/6.html`
 - `target`: `/cn/lists/6`
 ### Rule 8
 - `title`: `人事变动`
 - `source`:
   - `fashionnetwork.cn/lists/12`
+  - `fashionnetwork.cn/lists/12.html`
 - `target`: `/cn/lists/12`
 ### Rule 9
 - `title`: `新闻资讯`
 - `source`:
   - `fashionnetwork.cn/lists/11`
+  - `fashionnetwork.cn/lists/11.html`
 - `target`: `/cn/lists/11`
 
 ## Raw JSON
@@ -96,7 +107,7 @@
   "categories": [
     "new-media"
   ],
-  "description": "::: tip\n若订阅 [独家新闻](https://fashionnetwork.cn)，网址为 `https://fashionnetwork.cn/lists/13.html`。截取 `https://fashionnetwork.cn/` 到末尾 `.html` 的部分 `13` 作为参数填入，此时路由为 [`/fashionnetwork/cn/lists/13`](https://rsshub.app/fashionnetwork/cn/lists/13)。\n:::\n\n| 分类                                           | ID                                                  |\n| ---------------------------------------------- | --------------------------------------------------- |\n| [独家](https://fashionnetwork.cn/lists/13)     | [13](https://rsshub.app/fashionnetwork/cn/lists/13) |\n| [商业](https://fashionnetwork.cn/lists/1)      | [1](https://rsshub.app/fashionnetwork/cn/lists/1)   |\n| [人物](https://fashionnetwork.cn/lists/8)      | [8](https://rsshub.app/fashionnetwork/cn/lists/8)   |\n| [设计](https://fashionnetwork.cn/lists/3)      | [3](https://rsshub.app/fashionnetwork/cn/lists/3)   |\n| [产业](https://fashionnetwork.cn/lists/5)      | [5](https://rsshub.app/fashionnetwork/cn/lists/5)   |\n| [创新研究](https://fashionnetwork.cn/lists/6)  | [6](https://rsshub.app/fashionnetwork/cn/lists/6)   |\n| [人事变动](https://fashionnetwork.cn/lists/12) | [12](https://rsshub.app/fashionnetwork/cn/lists/12) |\n| [新闻资讯](https://fashionnetwork.cn/lists/11) | [11](https://rsshub.app/fashionnetwork/cn/lists/11) |",
+  "description": "::: tip\n若订阅 [独家新闻](https://fashionnetwork.cn/lists/13)，可将分类页 URL 中 `lists/` 后的 `13` 填入 `id` 参数，对应路由为 [`/fashionnetwork/cn/lists/13`](https://rsshub.app/fashionnetwork/cn/lists/13)。\n:::\n\n| 分类                                           | ID                                                  |\n| ---------------------------------------------- | --------------------------------------------------- |\n| [独家](https://fashionnetwork.cn/lists/13)     | [13](https://rsshub.app/fashionnetwork/cn/lists/13) |\n| [商业](https://fashionnetwork.cn/lists/1)      | [1](https://rsshub.app/fashionnetwork/cn/lists/1)   |\n| [人物](https://fashionnetwork.cn/lists/8)      | [8](https://rsshub.app/fashionnetwork/cn/lists/8)   |\n| [设计](https://fashionnetwork.cn/lists/3)      | [3](https://rsshub.app/fashionnetwork/cn/lists/3)   |\n| [产业](https://fashionnetwork.cn/lists/5)      | [5](https://rsshub.app/fashionnetwork/cn/lists/5)   |\n| [创新研究](https://fashionnetwork.cn/lists/6)  | [6](https://rsshub.app/fashionnetwork/cn/lists/6)   |\n| [人事变动](https://fashionnetwork.cn/lists/12) | [12](https://rsshub.app/fashionnetwork/cn/lists/12) |\n| [新闻资讯](https://fashionnetwork.cn/lists/11) | [11](https://rsshub.app/fashionnetwork/cn/lists/11) |",
   "example": "/fashionnetwork/cn/lists/0",
   "features": {
     "antiCrawler": false,
@@ -114,67 +125,78 @@
   ],
   "name": "FashionNetwork 中国",
   "parameters": {
-    "category": "分类，默认为 0，可在对应分类页 URL 中找到"
+    "id": "分类，默认为 0，可在对应分类页 URL 中找到"
   },
   "path": "/cn/lists/:id?",
   "radar": [
     {
       "source": [
-        "fashionnetwork.cn/lists/:id"
-      ]
+        "fashionnetwork.cn/",
+        "fashionnetwork.cn/lists/0",
+        "fashionnetwork.cn/lists/0.html"
+      ],
+      "target": "/cn/lists/0"
     },
     {
       "source": [
-        "fashionnetwork.cn/lists/13"
+        "fashionnetwork.cn/lists/13",
+        "fashionnetwork.cn/lists/13.html"
       ],
       "target": "/cn/lists/13",
       "title": "独家"
     },
     {
       "source": [
-        "fashionnetwork.cn/lists/1"
+        "fashionnetwork.cn/lists/1",
+        "fashionnetwork.cn/lists/1.html"
       ],
       "target": "/cn/lists/1",
       "title": "商业"
     },
     {
       "source": [
-        "fashionnetwork.cn/lists/8"
+        "fashionnetwork.cn/lists/8",
+        "fashionnetwork.cn/lists/8.html"
       ],
       "target": "/cn/lists/8",
       "title": "人物"
     },
     {
       "source": [
-        "fashionnetwork.cn/lists/3"
+        "fashionnetwork.cn/lists/3",
+        "fashionnetwork.cn/lists/3.html"
       ],
       "target": "/cn/lists/3",
       "title": "设计"
     },
     {
       "source": [
-        "fashionnetwork.cn/lists/5"
+        "fashionnetwork.cn/lists/5",
+        "fashionnetwork.cn/lists/5.html"
       ],
       "target": "/cn/lists/5",
       "title": "产业"
     },
     {
       "source": [
-        "fashionnetwork.cn/lists/6"
+        "fashionnetwork.cn/lists/6",
+        "fashionnetwork.cn/lists/6.html"
       ],
       "target": "/cn/lists/6",
       "title": "创新研究"
     },
     {
       "source": [
-        "fashionnetwork.cn/lists/12"
+        "fashionnetwork.cn/lists/12",
+        "fashionnetwork.cn/lists/12.html"
       ],
       "target": "/cn/lists/12",
       "title": "人事变动"
     },
     {
       "source": [
-        "fashionnetwork.cn/lists/11"
+        "fashionnetwork.cn/lists/11",
+        "fashionnetwork.cn/lists/11.html"
       ],
       "target": "/cn/lists/11",
       "title": "新闻资讯"

@@ -49,7 +49,9 @@
 ## Radar
 ### Rule 1
 - `source`:
-  - `beijingprice.cn/:category?`
+  - `beijingprice.cn/*category`
+  - `beijingprice.cn/`
+- `target`: `/:category?`
 ### Rule 2
 - `title`: `价格资讯 - 新闻资讯`
 - `source`:
@@ -121,8 +123,10 @@
   "radar": [
     {
       "source": [
-        "beijingprice.cn/:category?"
-      ]
+        "beijingprice.cn/*category",
+        "beijingprice.cn/"
+      ],
+      "target": "/:category?"
     },
     {
       "source": [

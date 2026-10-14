@@ -17,7 +17,7 @@
 - Source Module: `_None_`
 
 ## Description
-Listings on 店舗ネットワーク sorted by 新着順 (first two pages, 20 listings). Each item's `_extra` carries the structured listing fields (賃料，坪，階，最寄駅，保証金，礼金，造作譲渡料，不可業態，…) parsed from the list and detail pages; unknown values are `null`. The site does not publish listing dates, so items have no `pubDate`; the same unit may be listed by several agencies under different ids.
+Listings on 店舗ネットワーク sorted by 新着順 (first page, 10 listings). Each item's `_extra` carries the structured listing fields (賃料，坪，階，最寄駅，保証金，礼金，造作譲渡料，不可業態，…) parsed from the list and detail pages; unknown values are `null`. The site does not publish listing dates, so items have no `pubDate`; the same unit may be listed by several agencies under different ids.
 
 ## Parameters
 - `area`: {"description": "`tokyo` for the 23 wards of Tokyo; omit for nationwide", "options": [{"label": "東京23区", "value": "tokyo"}]}
@@ -42,7 +42,7 @@ Listings on 店舗ネットワーク sorted by 新着順 (first two pages, 20 li
   "categories": [
     "other"
   ],
-  "description": "Listings on 店舗ネットワーク sorted by 新着順 (first two pages, 20 listings). Each item's `_extra` carries the structured listing fields (賃料，坪，階，最寄駅，保証金，礼金，造作譲渡料，不可業態，…) parsed from the list and detail pages; unknown values are `null`. The site does not publish listing dates, so items have no `pubDate`; the same unit may be listed by several agencies under different ids.",
+  "description": "Listings on 店舗ネットワーク sorted by 新着順 (first page, 10 listings). Each item's `_extra` carries the structured listing fields (賃料，坪，階，最寄駅，保証金，礼金，造作譲渡料，不可業態，…) parsed from the list and detail pages; unknown values are `null`. The site does not publish listing dates, so items have no `pubDate`; the same unit may be listed by several agencies under different ids.",
   "example": "/temponw/estates/tokyo",
   "features": {
     "antiCrawler": false,

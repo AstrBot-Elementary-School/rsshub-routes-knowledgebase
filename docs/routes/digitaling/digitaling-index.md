@@ -1,4 +1,4 @@
-# 数英网 - 数英网最新文章
+# 数英网 - 最新文章
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `digitaling`
 - Namespace Name: `数英网`
 - Route Path: `/digitaling/index`
-- Route Name: `数英网最新文章`
+- Route Name: `最新文章`
 - Example: `/digitaling/index`
 - URL: `www.digitaling.com`
 - Language: `_None_`
@@ -41,7 +41,7 @@ _None_
   "maintainers": [
     "occupy5"
   ],
-  "name": "数英网最新文章",
+  "name": "最新文章",
   "path": "/index",
   "test": {
     "code": 0

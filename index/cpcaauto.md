@@ -1,9 +1,9 @@
-# cpcaauto.com Route Index
+# 中国汽车流通协会汽车市场研究分会 Route Index
 
 ## Namespace
 - Namespace: `cpcaauto`
-- Display Name: `cpcaauto.com`
-- URL: `中国汽车流通协会汽车市场研究分会`
+- Display Name: `中国汽车流通协会汽车市场研究分会`
+- URL: `cpcaauto.com`
 - Language: `_None_`
 - Aliases: `cpcaauto, cpcaauto.com, 中国汽车流通协会汽车市场研究分会`
 - Route Count: `1`

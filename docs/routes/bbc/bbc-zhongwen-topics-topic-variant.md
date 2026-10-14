@@ -1,4 +1,4 @@
-# BBC - Topics - BBC News 中文
+# BBC - Topics - 中文
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `bbc`
 - Namespace Name: `BBC`
 - Route Path: `/bbc/zhongwen/topics/:topic/:variant?`
-- Route Name: `Topics - BBC News 中文`
+- Route Name: `Topics - 中文`
 - Example: `/bbc/zhongwen/topics/ckr7mn6r003t`
 - URL: `bbc.com`
 - Language: `_None_`
@@ -44,7 +44,7 @@ _None_
   "maintainers": [
     "TonyRL"
   ],
-  "name": "Topics - BBC News 中文",
+  "name": "Topics - 中文",
   "parameters": {
     "topic": "The topic ID to fetch news for, can be found in the URL.",
     "variant": {

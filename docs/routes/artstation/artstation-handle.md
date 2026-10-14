@@ -1,4 +1,4 @@
-# ArtStation - Artist Profolio
+# ArtStation - Artist Portfolio
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `artstation`
 - Namespace Name: `ArtStation`
 - Route Path: `/artstation/:handle`
-- Route Name: `Artist Profolio`
+- Route Name: `Artist Portfolio`
 - Example: `/artstation/wlop`
 - URL: `www.artstation.com`
 - Language: `_None_`
@@ -56,7 +56,7 @@ _None_
   "maintainers": [
     "TonyRL"
   ],
-  "name": "Artist Profolio",
+  "name": "Artist Portfolio",
   "parameters": {
     "handle": "Artist handle, can be found in URL"
   },

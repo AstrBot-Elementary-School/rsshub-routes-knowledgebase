@@ -10,7 +10,7 @@
 
 ## Routes
 
-### PAIR - AI Exploreables
+### PAIR - AI Explorables
 - Route ID: `withgoogle:/withgoogle/explorables`
 - Route Path: `/withgoogle/explorables`
 - File: `docs/routes/withgoogle/withgoogle-explorables.md`

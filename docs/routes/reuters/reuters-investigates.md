@@ -1,4 +1,4 @@
-# Reuters - Inverstigates
+# Reuters - Investigates
 
 ## Coverage
 `index-only`
@@ -7,7 +7,7 @@
 - Namespace: `reuters`
 - Namespace Name: `Reuters`
 - Route Path: `/reuters/investigates`
-- Route Name: `Inverstigates`
+- Route Name: `Investigates`
 - Example: `/reuters/investigates`
 - URL: `reuters.com`
 - Language: `_None_`
@@ -49,12 +49,12 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 231,
+  "heat": 232,
   "location": "investigates.ts",
   "maintainers": [
     "LyleLee"
   ],
-  "name": "Inverstigates",
+  "name": "Investigates",
   "parameters": {},
   "path": "/investigates",
   "test": {

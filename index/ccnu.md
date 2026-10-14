@@ -3,9 +3,9 @@
 ## Namespace
 - Namespace: `ccnu`
 - Display Name: `华中师范大学`
-- URL: `ccnu.91wllm.com`
+- URL: `www.ccnu.edu.cn`
 - Language: `_None_`
-- Aliases: `ccnu, ccnu.91wllm.com, 华中师范大学`
+- Aliases: `ccnu, ccnu.edu.cn, www, www.ccnu.edu.cn, 华中师范大学`
 - Route Count: `4`
 
 ## Routes
@@ -26,7 +26,7 @@
 - Categories: `university`
 - Maintainers: `shengmaosu`
 
-### 伍论贡学院
+### 伍伦贡联合研究院
 - Route ID: `ccnu:/ccnu/wu`
 - Route Path: `/ccnu/wu`
 - File: `docs/routes/ccnu/ccnu-wu.md`

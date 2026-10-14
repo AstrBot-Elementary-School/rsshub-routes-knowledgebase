@@ -78,12 +78,12 @@
 ## Radar
 ### Rule 1
 - `source`:
-  - `www.investor.org.cn/:id`
-- `target`: `/:id`
+  - `www.investor.org.cn/`
+- `target`: `/home/zxdt`
 ### Rule 2
 - `title`: `最新动态`
 - `source`:
-  - `https://www.investor.org.cn/home/zxdt/`
+  - `www.investor.org.cn/home/zxdt/`
 - `target`: `/home/zxdt`
 ### Rule 3
 - `title`: `政策资讯 - 政策资讯`
@@ -358,13 +358,13 @@
   "radar": [
     {
       "source": [
-        "www.investor.org.cn/:id"
+        "www.investor.org.cn/"
       ],
-      "target": "/:id"
+      "target": "/home/zxdt"
     },
     {
       "source": [
-        "https://www.investor.org.cn/home/zxdt/"
+        "www.investor.org.cn/home/zxdt/"
       ],
       "target": "/home/zxdt",
       "title": "最新动态"

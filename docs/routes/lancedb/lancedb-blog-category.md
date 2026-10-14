@@ -9,7 +9,7 @@
 - Route Path: `/lancedb/blog/:category?`
 - Route Name: `Blog`
 - Example: `/lancedb/blog`
-- URL: `lancedb.com/blog`
+- URL: `www.lancedb.com/blog`
 - Language: `_None_`
 - Categories: `programming`
 - Maintainers: `HUSTERGS`
@@ -36,7 +36,12 @@ _None_
 - `source`:
   - `lancedb.com/blog`
   - `lancedb.com/blog/category/:category`
-- `target`: `/blog/:category`
+- `target`: `/blog/:category?`
+### Rule 2
+- `source`:
+  - `www.lancedb.com/blog`
+  - `www.lancedb.com/category/:category`
+- `target`: `/blog/:category?`
 
 ## Raw JSON
 ```json
@@ -69,7 +74,14 @@ _None_
         "lancedb.com/blog",
         "lancedb.com/blog/category/:category"
       ],
-      "target": "/blog/:category"
+      "target": "/blog/:category?"
+    },
+    {
+      "source": [
+        "www.lancedb.com/blog",
+        "www.lancedb.com/category/:category"
+      ],
+      "target": "/blog/:category?"
     }
   ],
   "test": {
@@ -90,7 +102,7 @@ _None_
       "url": "rsshub://lancedb/blog"
     }
   ],
-  "url": "lancedb.com/blog",
+  "url": "www.lancedb.com/blog",
   "view": 0
 }
 ```

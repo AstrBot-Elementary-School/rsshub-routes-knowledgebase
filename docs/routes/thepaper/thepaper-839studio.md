@@ -27,7 +27,10 @@ _None_
 _None_
 
 ## Radar
-_None_
+### Rule 1
+- `source`:
+  - `projects.thepaper.cn/thepaper-cases/839studio/`
+- `target`: `/839studio`
 
 ## Raw JSON
 ```json
@@ -43,6 +46,14 @@ _None_
   ],
   "name": "澎湃美数课作品集",
   "path": "/839studio",
+  "radar": [
+    {
+      "source": [
+        "projects.thepaper.cn/thepaper-cases/839studio/"
+      ],
+      "target": "/839studio"
+    }
+  ],
   "test": {
     "code": 1
   },

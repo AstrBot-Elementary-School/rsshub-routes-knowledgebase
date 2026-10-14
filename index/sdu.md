@@ -34,7 +34,7 @@
 - Categories: `university`
 - Maintainers: `kukeya, wiketool`
 
-### 能源与动力工程学院通知
+### 核科学与能源动力学院通知
 - Route ID: `sdu:/sdu/epe/:type?`
 - Route Path: `/sdu/epe/:type?`
 - File: `docs/routes/sdu/sdu-epe-type.md`

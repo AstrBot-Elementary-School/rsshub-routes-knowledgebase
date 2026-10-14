@@ -76,18 +76,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "看雪论坛最新主题 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "56202182890270720",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://bbs.kanxue.com/new-tid.htm",
-      "title": "看雪论坛最新主题",
-      "type": "feed",
-      "url": "rsshub://kanxue/topic"
-    },
-    {
       "description": "看雪论坛精华主题 - Android安全 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -98,6 +86,18 @@ _None_
       "title": "看雪论坛精华主题 - Android安全",
       "type": "feed",
       "url": "rsshub://kanxue/topic/android/digest"
+    },
+    {
+      "description": "看雪论坛最新主题 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "56202182890270720",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://bbs.kanxue.com/new-tid.htm",
+      "title": "看雪论坛最新主题",
+      "type": "feed",
+      "url": "rsshub://kanxue/topic"
     }
   ]
 }

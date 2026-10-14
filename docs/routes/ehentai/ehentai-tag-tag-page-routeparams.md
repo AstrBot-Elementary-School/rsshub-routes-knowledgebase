@@ -21,7 +21,7 @@ _None_
 
 ## Parameters
 - `tag`: Tag
-- `page`: Page number, set 0 to get latest
+- `page`: Compatibility parameter: omit it or use 0 for the latest first page; other values are unsupported
 - `routeParams`: Additional parameters, see the table above
 
 
@@ -61,7 +61,7 @@ _None_
   ],
   "name": "Tag",
   "parameters": {
-    "page": "Page number, set 0 to get latest",
+    "page": "Compatibility parameter: omit it or use 0 for the latest first page; other values are unsupported",
     "routeParams": "Additional parameters, see the table above",
     "tag": "Tag"
   },
@@ -84,8 +84,8 @@ _None_
     },
     {
       "description": "language:chinese - E-Hentai Tag - Powered by RSSHub",
-      "errorAt": "2026-10-12T09:31:36.878Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "76924878996884480",
       "image": null,
       "ownerUserId": null,

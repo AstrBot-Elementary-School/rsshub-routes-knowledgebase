@@ -29,7 +29,14 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
+  - `daily.dev/posts`
+  - `daily.dev/popular`
+- `target`: `/popular`
+### Rule 2
+- `source`:
+  - `app.daily.dev/posts`
   - `app.daily.dev/popular`
+- `target`: `/popular`
 
 ## Raw JSON
 ```json
@@ -64,8 +71,17 @@ _None_
   "radar": [
     {
       "source": [
+        "daily.dev/posts",
+        "daily.dev/popular"
+      ],
+      "target": "/popular"
+    },
+    {
+      "source": [
+        "app.daily.dev/posts",
         "app.daily.dev/popular"
-      ]
+      ],
+      "target": "/popular"
     }
   ],
   "test": {

@@ -38,7 +38,7 @@
 | 第 16 版：走进高新区 | 16   |
 
 ## Parameters
-- `id`: 编号，见下表，默认为全部
+- `id`: 编号，见下表，默认为全部；也支持官网文件名，例如 `node_01.html`
 
 
 ## Features
@@ -47,7 +47,12 @@
 ## Radar
 ### Rule 1
 - `source`:
-  - `cnjxol.com/`
+  - `jxrb.cnjxol.com/`
+  - `jxrb.cnjxol.com/jxrbPaper/pc/layout/`
+- `target`: `/jxrb`
+### Rule 2
+- `source`:
+  - `jxrb.cnjxol.com/jxrbPaper/pc/layout/:yearMonth/:day/:id`
 - `target`: `/jxrb/:id`
 
 ## Raw JSON
@@ -68,13 +73,20 @@
   ],
   "name": "嘉兴日报",
   "parameters": {
-    "id": "编号，见下表，默认为全部"
+    "id": "编号，见下表，默认为全部；也支持官网文件名，例如 `node_01.html`"
   },
   "path": "/jxrb/:id?",
   "radar": [
     {
       "source": [
-        "cnjxol.com/"
+        "jxrb.cnjxol.com/",
+        "jxrb.cnjxol.com/jxrbPaper/pc/layout/"
+      ],
+      "target": "/jxrb"
+    },
+    {
+      "source": [
+        "jxrb.cnjxol.com/jxrbPaper/pc/layout/:yearMonth/:day/:id"
       ],
       "target": "/jxrb/:id"
     }

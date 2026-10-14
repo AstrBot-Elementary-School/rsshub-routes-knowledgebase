@@ -9,7 +9,7 @@
 - Route Path: `/camchina/:id?`
 - Route Name: `栏目`
 - Example: `/camchina`
-- URL: `cste.org.cn`
+- URL: `www.camchina.org.cn`
 - Language: `_None_`
 - Categories: `study`
 - Maintainers: `nczitzk`
@@ -36,8 +36,8 @@
 ## Radar
 ### Rule 1
 - `source`:
-  - `cste.org.cn/categories/:id`
-  - `cste.org.cn/`
+  - `www.camchina.org.cn/categories/:id`
+  - `www.camchina.org.cn/`
 
 ## Raw JSON
 ```json
@@ -68,8 +68,8 @@
   "radar": [
     {
       "source": [
-        "cste.org.cn/categories/:id",
-        "cste.org.cn/"
+        "www.camchina.org.cn/categories/:id",
+        "www.camchina.org.cn/"
       ]
     }
   ],

@@ -10,7 +10,7 @@
 
 ## Routes
 
-### BlueStacks 5 Release Notes
+### 5 Release Notes
 - Route ID: `bluestacks:/bluestacks/release/5`
 - Route Path: `/bluestacks/release/5`
 - File: `docs/routes/bluestacks/bluestacks-release-5.md`

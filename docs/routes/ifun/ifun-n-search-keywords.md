@@ -1,15 +1,15 @@
-# 趣集 - 盐选故事搜索
+# iRead 趣读 - 盐选故事搜索
 
 ## Coverage
 `index-only`
 
 ## Route
 - Namespace: `ifun`
-- Namespace Name: `趣集`
+- Namespace Name: `iRead 趣读`
 - Route Path: `/ifun/n/search/:keywords`
 - Route Name: `盐选故事搜索`
 - Example: `/ifun/n/search/NPC`
-- URL: `n.ifun.cool`
+- URL: `iread.life`
 - Language: `_None_`
 - Categories: `new-media`
 - Maintainers: `nczitzk`
@@ -17,9 +17,7 @@
 - Source Module: `_None_`
 
 ## Description
-::: tip
-若订阅 [关键词：NPC](https://n.ifun.cool/search-result/?s=NPC)，网址为 `https://n.ifun.cool/search-result/?s=NPC`，请截取 `s` 的值 `NPC` 作为 `keywords` 参数填入，此时目标路由为 [`/ifun/n/search/NPC`](https://rsshub.app/ifun/n/search/NPC)。
-:::
+在 [iRead 故事](https://iread.life/articles) 页面输入搜索词。例如关键词 `NPC` 对应 `/ifun/n/search/NPC`。网站搜索条件不保存在 URL 中，请手动填写路由关键词。
 
 ## Parameters
 - `keywords`: 搜索关键字
@@ -29,15 +27,13 @@
 - `requireConfig`: false
 - `requirePuppeteer`: false
 - `antiCrawler`: false
-- `supportRadar`: true
+- `supportRadar`: false
 - `supportBT`: false
 - `supportPodcast`: false
 - `supportScihub`: false
 
 ## Radar
-### Rule 1
-- `source`:
-  - `n.ifun.cool/search-result`
+_None_
 
 ## Raw JSON
 ```json
@@ -45,7 +41,7 @@
   "categories": [
     "new-media"
   ],
-  "description": "::: tip\n若订阅 [关键词：NPC](https://n.ifun.cool/search-result/?s=NPC)，网址为 `https://n.ifun.cool/search-result/?s=NPC`，请截取 `s` 的值 `NPC` 作为 `keywords` 参数填入，此时目标路由为 [`/ifun/n/search/NPC`](https://rsshub.app/ifun/n/search/NPC)。\n:::",
+  "description": "在 [iRead 故事](https://iread.life/articles) 页面输入搜索词。例如关键词 `NPC` 对应 `/ifun/n/search/NPC`。网站搜索条件不保存在 URL 中，请手动填写路由关键词。",
   "example": "/ifun/n/search/NPC",
   "features": {
     "antiCrawler": false,
@@ -53,7 +49,7 @@
     "requirePuppeteer": false,
     "supportBT": false,
     "supportPodcast": false,
-    "supportRadar": true,
+    "supportRadar": false,
     "supportScihub": false
   },
   "heat": 0,
@@ -66,19 +62,12 @@
     "keywords": "搜索关键字"
   },
   "path": "/n/search/:keywords",
-  "radar": [
-    {
-      "source": [
-        "n.ifun.cool/search-result"
-      ]
-    }
-  ],
   "test": {
     "code": 1,
     "message": "AssertionError: expected 503 to be 200 // Object.is equality\n    at /home/runner/work/RSSHub/RSSHub/lib/app.test.ts:108:41\n    at processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at file:///home/runner/work/RSSHub/RSSHub/node_modules/.pnpm/@vitest+runner@4.1.11/node_modules/@vitest/runner/dist/chunk-artifact.js:1903:20"
   },
   "topFeeds": [],
-  "url": "n.ifun.cool",
+  "url": "iread.life",
   "view": 0
 }
 ```

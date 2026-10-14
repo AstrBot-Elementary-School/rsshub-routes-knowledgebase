@@ -38,7 +38,11 @@ If you subscribe to [InfoQ Live Jan 2024](https://www.infoq.com/infoq-live-jan-2
 ### Rule 1
 - `source`:
   - `www.infoq.com/presentations`
+- `target`: `/presentations`
+### Rule 2
+- `source`:
   - `www.infoq.com/:conference/presentations`
+- `target`: `/presentations/:conference`
 
 ## Raw JSON
 ```json
@@ -70,9 +74,15 @@ If you subscribe to [InfoQ Live Jan 2024](https://www.infoq.com/infoq-live-jan-2
   "radar": [
     {
       "source": [
-        "www.infoq.com/presentations",
+        "www.infoq.com/presentations"
+      ],
+      "target": "/presentations"
+    },
+    {
+      "source": [
         "www.infoq.com/:conference/presentations"
-      ]
+      ],
+      "target": "/presentations/:conference"
     }
   ],
   "test": {
@@ -96,7 +106,7 @@ If you subscribe to [InfoQ Live Jan 2024](https://www.infoq.com/infoq-live-jan-2
       "errorAt": null,
       "errorMessage": null,
       "id": "70149738744378368",
-      "image": "https://cdn.infoq.com/statics_s2_20261009100537/styles/static/images/logo/logo-big.jpg",
+      "image": "https://cdn.infoq.com/statics_s1_20261013135953/styles/static/images/logo/logo-big.jpg",
       "ownerUserId": null,
       "siteUrl": "https://www.infoq.com/presentations/",
       "title": "Presentations > Page #1 - InfoQ",

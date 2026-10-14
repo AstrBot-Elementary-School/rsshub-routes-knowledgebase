@@ -29,7 +29,12 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
+  - `daily.dev/sources/:sourceId`
+- `target`: `/source/:sourceId`
+### Rule 2
+- `source`:
   - `app.daily.dev/sources/:sourceId`
+- `target`: `/source/:sourceId`
 
 ## Raw JSON
 ```json
@@ -51,8 +56,15 @@ _None_
   "radar": [
     {
       "source": [
+        "daily.dev/sources/:sourceId"
+      ],
+      "target": "/source/:sourceId"
+    },
+    {
+      "source": [
         "app.daily.dev/sources/:sourceId"
-      ]
+      ],
+      "target": "/source/:sourceId"
     }
   ],
   "test": {

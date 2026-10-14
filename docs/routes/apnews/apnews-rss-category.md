@@ -34,8 +34,8 @@ _None_
 ## Radar
 ### Rule 1
 - `source`:
-  - `apnews.com/:rss`
-- `target`: `/rss/:rss`
+  - `apnews.com/:category`
+- `target`: `/rss/:category`
 
 ## Raw JSON
 ```json
@@ -70,9 +70,9 @@ _None_
   "radar": [
     {
       "source": [
-        "apnews.com/:rss"
+        "apnews.com/:category"
       ],
-      "target": "/rss/:rss"
+      "target": "/rss/:category"
     }
   ],
   "test": {

@@ -3,9 +3,9 @@
 ## Namespace
 - Namespace: `camchina`
 - Display Name: `中国管理现代化研究会`
-- URL: `cste.org.cn`
+- URL: `www.camchina.org.cn`
 - Language: `_None_`
-- Aliases: `camchina, cste, cste.org.cn, 中国管理现代化研究会`
+- Aliases: `camchina, camchina.org.cn, www, www.camchina.org.cn, 中国管理现代化研究会`
 - Route Count: `1`
 
 ## Routes

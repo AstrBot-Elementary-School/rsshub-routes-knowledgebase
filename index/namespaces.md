@@ -76,7 +76,7 @@ Use this file to select the target namespace before opening route documents.
 
 ## 禁漫天堂
 - Namespace: `18comic`
-- Aliases: `18comic, 18comic.org, 禁漫天堂`
+- Aliases: `18comic, jmcomic1, jmcomic1.me, 禁漫天堂`
 - Route Count: `4`
 - Index File: `index/18comic.md`
 
@@ -124,7 +124,7 @@ Use this file to select the target namespace before opening route documents.
 
 ## 21财经
 - Namespace: `21caijing`
-- Aliases: `21caijing, 21caijing.com, 21财经`
+- Aliases: `21caijing, 21财经, m, m.21jingji.com`
 - Route Count: `1`
 - Index File: `index/21caijing.md`
 
@@ -166,7 +166,7 @@ Use this file to select the target namespace before opening route documents.
 
 ## 3k-Switch游戏库
 - Namespace: `3kns`
-- Aliases: `3k-switch游戏库, 3kns, 3kns.com, www, www.3kns.com`
+- Aliases: `3k-switch游戏库, 3kmin.com, 3kns, www, www.3kmin.com`
 - Route Count: `1`
 - Index File: `index/3kns.md`
 
@@ -298,7 +298,7 @@ Use this file to select the target namespace before opening route documents.
 
 ## 7mmtv
 - Namespace: `7mmtv`
-- Aliases: `7mmtv, 7mmtv.tv`
+- Aliases: `7mmtv, 7mmtv.sx`
 - Route Count: `1`
 - Index File: `index/7mmtv.md`
 
@@ -364,7 +364,7 @@ Use this file to select the target namespace before opening route documents.
 
 ## 夏柔
 - Namespace: `aa1`
-- Aliases: `aa1, aa1.cn, 夏柔`
+- Aliases: `aa1, aa1.cn, www, www.aa1.cn, 夏柔`
 - Route Count: `1`
 - Index File: `index/aa1.md`
 
@@ -394,7 +394,7 @@ Use this file to select the target namespace before opening route documents.
 
 ## A 姐分享
 - Namespace: `abskoop`
-- Aliases: `a 姐分享, abskoop, nsfw, nsfw.abskoop.com`
+- Aliases: `a 姐分享, abskoop, ahhhhfs.com, www, www.ahhhhfs.com`
 - Route Count: `2`
 - Index File: `index/abskoop.md`
 
@@ -496,7 +496,7 @@ Use this file to select the target namespace before opening route documents.
 
 ## AGE 动漫
 - Namespace: `agefans`
-- Aliases: `age 动漫, agefans, agemys, agemys.cc`
+- Aliases: `age 动漫, agedm.io, agefans, www, www.agedm.io`
 - Route Count: `2`
 - Index File: `index/agefans.md`
 
@@ -526,7 +526,7 @@ Use this file to select the target namespace before opening route documents.
 
 ## 安徽建筑大学
 - Namespace: `ahjzu`
-- Aliases: `ahjzu, news, news.ahjzu.edu.cn, 安徽建筑大学`
+- Aliases: `ahjzu, ahjzu.edu.cn, www, www.ahjzu.edu.cn, 安徽建筑大学`
 - Route Count: `1`
 - Index File: `index/ahjzu.md`
 
@@ -592,7 +592,7 @@ Use this file to select the target namespace before opening route documents.
 
 ## 极术社区
 - Namespace: `aijishu`
-- Aliases: `aijishu, www, www.aijishu, 极术社区`
+- Aliases: `aijishu, community, community.aijishu.com, 极术社区`
 - Route Count: `1`
 - Index File: `index/aijishu.md`
 
@@ -811,12 +811,6 @@ Use this file to select the target namespace before opening route documents.
 - Aliases: `apnic, blog, blog.apnic.net`
 - Route Count: `1`
 - Index File: `index/apnic.md`
-
-## App Center
-- Namespace: `app-center`
-- Aliases: `app center, app-center, install, install.appcenter.ms`
-- Route Count: `1`
-- Index File: `index/app-center.md`
 
 ## AppSales
 - Namespace: `app-sales`
@@ -1072,7 +1066,7 @@ Use this file to select the target namespace before opening route documents.
 
 ## 萌番组
 - Namespace: `bangumi.moe`
-- Aliases: `bangumi, bangumi.moe, bangumi.online, 萌番组`
+- Aliases: `bangumi, bangumi.moe, 萌番组`
 - Route Count: `1`
 - Index File: `index/bangumi-moe.md`
 
@@ -1120,7 +1114,7 @@ Use this file to select the target namespace before opening route documents.
 
 ## 巴伦周刊中文版
 - Namespace: `barronschina`
-- Aliases: `barronschina, barronschina.com.cn, 巴伦周刊中文版`
+- Aliases: `barrons.com.cn, barronschina, www, www.barrons.com.cn, 巴伦周刊中文版`
 - Route Count: `1`
 - Index File: `index/barronschina.md`
 
@@ -1252,7 +1246,7 @@ Use this file to select the target namespace before opening route documents.
 
 ## 笔趣阁
 - Namespace: `biquge`
-- Aliases: `biquge, xbiquwx, xbiquwx.la, 笔趣阁`
+- Aliases: `b520.cc, biquge, www, www.b520.cc, 笔趣阁`
 - Route Count: `1`
 - Index File: `index/biquge.md`
 
@@ -1264,7 +1258,7 @@ Use this file to select the target namespace before opening route documents.
 
 ## Bitbucket
 - Namespace: `bitbucket`
-- Aliases: `bitbucket, bitbucket.com`
+- Aliases: `bitbucket, bitbucket.org`
 - Route Count: `2`
 - Index File: `index/bitbucket.md`
 
@@ -1306,7 +1300,7 @@ Use this file to select the target namespace before opening route documents.
 
 ## 北京社科网
 - Namespace: `bjsk`
-- Aliases: `bjsk, bjsk.org.cn, 北京社科网`
+- Aliases: `bjsk, bjsk.org.cn, www, www.bjsk.org.cn, 北京社科网`
 - Route Count: `2`
 - Index File: `index/bjsk.md`
 
@@ -1498,7 +1492,7 @@ Use this file to select the target namespace before opening route documents.
 
 ## 北京化工大学
 - Namespace: `buct`
-- Aliases: `buct, buct.edu.cn, 北京化工大学`
+- Aliases: `buct, buct.edu.cn, www, www.buct.edu.cn, 北京化工大学`
 - Route Count: `3`
 - Index File: `index/buct.md`
 
@@ -1528,7 +1522,7 @@ Use this file to select the target namespace before opening route documents.
 
 ## 北京邮电大学
 - Namespace: `bupt`
-- Aliases: `bupt, bupt.edu.cn, 北京邮电大学`
+- Aliases: `bupt, bupt.edu.cn, www, www.bupt.edu.cn, 北京邮电大学`
 - Route Count: `8`
 - Index File: `index/bupt.md`
 
@@ -1616,9 +1610,9 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `1`
 - Index File: `index/caijing.md`
 
-## 财新博客
+## 财新网
 - Namespace: `caixin`
-- Aliases: `caixin, caixin.com, 财新博客`
+- Aliases: `caixin, caixin.com, 财新网`
 - Route Count: `7`
 - Index File: `index/caixin.md`
 
@@ -1630,7 +1624,7 @@ Use this file to select the target namespace before opening route documents.
 
 ## 中国管理现代化研究会
 - Namespace: `camchina`
-- Aliases: `camchina, cste, cste.org.cn, 中国管理现代化研究会`
+- Aliases: `camchina, camchina.org.cn, www, www.camchina.org.cn, 中国管理现代化研究会`
 - Route Count: `1`
 - Index File: `index/camchina.md`
 
@@ -1768,7 +1762,7 @@ Use this file to select the target namespace before opening route documents.
 
 ## 中国豆制品网
 - Namespace: `cbpanet`
-- Aliases: `cbpanet, cbpanet.com, 中国豆制品网`
+- Aliases: `cbpanet, cbpanet.com, www, www.cbpanet.com, 中国豆制品网`
 - Route Count: `1`
 - Index File: `index/cbpanet.md`
 
@@ -1780,7 +1774,7 @@ Use this file to select the target namespace before opening route documents.
 
 ## Macau Independent Commission Against Corruption 澳门廉政公署
 - Namespace: `ccac`
-- Aliases: `ccac, ccac.org.mo, macau independent commission against corruption 澳门廉政公署`
+- Aliases: `ccac, ccac.org.mo, macau independent commission against corruption 澳门廉政公署, www, www.ccac.org.mo`
 - Route Count: `1`
 - Index File: `index/ccac.md`
 
@@ -1828,7 +1822,7 @@ Use this file to select the target namespace before opening route documents.
 
 ## 华中师范大学
 - Namespace: `ccnu`
-- Aliases: `ccnu, ccnu.91wllm.com, 华中师范大学`
+- Aliases: `ccnu, ccnu.edu.cn, www, www.ccnu.edu.cn, 华中师范大学`
 - Route Count: `4`
 - Index File: `index/ccnu.md`
 
@@ -1858,7 +1852,7 @@ Use this file to select the target namespace before opening route documents.
 
 ## 国家高端智库 / 综合开发研究院
 - Namespace: `cdi`
-- Aliases: `cdi, cdi.com.cn, 国家高端智库 / 综合开发研究院`
+- Aliases: `cdi, cdi.org.cn, www, www.cdi.org.cn, 国家高端智库 / 综合开发研究院`
 - Route Count: `1`
 - Index File: `index/cdi.md`
 
@@ -1912,19 +1906,19 @@ Use this file to select the target namespace before opening route documents.
 
 ## 中国期货业协会
 - Namespace: `cfachina`
-- Aliases: `cfachina, cfachina.org, 中国期货业协会`
+- Aliases: `cfachina, cfachina.org, www, www.cfachina.org, 中国期货业协会`
 - Route Count: `1`
 - Index File: `index/cfachina.md`
 
 ## 中国金融期货交易所
 - Namespace: `cffex`
-- Aliases: `cffex, cffex.com.cn, 中国金融期货交易所`
+- Aliases: `cffex, cffex.com.cn, www, www.cffex.com.cn, 中国金融期货交易所`
 - Route Count: `1`
 - Index File: `index/cffex.md`
 
 ## 中国期货市场监控中心
 - Namespace: `cfmmc`
-- Aliases: `cfmmc, cfmmc.com, 中国期货市场监控中心`
+- Aliases: `cfmmc, cfmmc.com, www, www.cfmmc.com, 中国期货市场监控中心`
 - Route Count: `1`
 - Index File: `index/cfmmc.md`
 
@@ -2062,7 +2056,7 @@ Use this file to select the target namespace before opening route documents.
 
 ## 中国新闻网
 - Namespace: `chinanews`
-- Aliases: `chinanews, chinanews.com.cn, 中国新闻网`
+- Aliases: `chinanews, chinanews.com.cn, www, www.chinanews.com.cn, 中国新闻网`
 - Route Count: `1`
 - Index File: `index/chinanews.md`
 
@@ -2104,13 +2098,13 @@ Use this file to select the target namespace before opening route documents.
 
 ## 投中网
 - Namespace: `chinaventure`
-- Aliases: `chinaventure, chinaventure.com.cn, 投中网`
+- Aliases: `chinaventure, chinaventure.com.cn, www, www.chinaventure.com.cn, 投中网`
 - Route Count: `1`
 - Index File: `index/chinaventure.md`
 
 ## 中国作家网
 - Namespace: `chinawriter`
-- Aliases: `chinawriter, chinawriter.com.cn, 中国作家网`
+- Aliases: `chinawriter, chinawriter.com.cn, www, www.chinawriter.com.cn, 中国作家网`
 - Route Count: `1`
 - Index File: `index/chinawriter.md`
 
@@ -2182,7 +2176,7 @@ Use this file to select the target namespace before opening route documents.
 
 ## 触乐
 - Namespace: `chuapp`
-- Aliases: `chuapp, chuapp.com, 触乐`
+- Aliases: `chuapp, chuapp.com, www, www.chuapp.com, 触乐`
 - Route Count: `1`
 - Index File: `index/chuapp.md`
 
@@ -2320,7 +2314,7 @@ Use this file to select the target namespace before opening route documents.
 
 ## CNBC
 - Namespace: `cnbc`
-- Aliases: `cnbc, search, search.cnbc.com`
+- Aliases: `cnbc, cnbc.com, www, www.cnbc.com`
 - Route Count: `1`
 - Index File: `index/cnbc.md`
 
@@ -2380,7 +2374,7 @@ Use this file to select the target namespace before opening route documents.
 
 ## 中国炼焦行业协会
 - Namespace: `cnljxh`
-- Aliases: `cnljxh, cnljxh.com, 中国炼焦行业协会`
+- Aliases: `cnljxh, cnljxh.org.cn, www, www.cnljxh.org.cn, 中国炼焦行业协会`
 - Route Count: `1`
 - Index File: `index/cnljxh.md`
 
@@ -2542,7 +2536,7 @@ Use this file to select the target namespace before opening route documents.
 
 ## 拷贝漫画
 - Namespace: `copymanga`
-- Aliases: `copymanga, copymanga.com, 拷贝漫画`
+- Aliases: `copymanga, mangacopy.com, www, www.mangacopy.com, 拷贝漫画`
 - Route Count: `1`
 - Index File: `index/copymanga.md`
 
@@ -2576,7 +2570,7 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `2`
 - Index File: `index/coze.md`
 
-## cpcaauto.com
+## 中国汽车流通协会汽车市场研究分会
 - Namespace: `cpcaauto`
 - Aliases: `cpcaauto, cpcaauto.com, 中国汽车流通协会汽车市场研究分会`
 - Route Count: `1`
@@ -2618,9 +2612,9 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `6`
 - Index File: `index/cqu.md`
 
-## 重庆科技学院
+## 重庆科技大学
 - Namespace: `cqust`
-- Aliases: `cqust, cqust.edu.cn, www, www.cqust.edu.cn, 重庆科技学院`
+- Aliases: `cqust, cqust.edu.cn, www, www.cqust.edu.cn, 重庆科技大学`
 - Route Count: `2`
 - Index File: `index/cqust.md`
 
@@ -2632,7 +2626,7 @@ Use this file to select the target namespace before opening route documents.
 
 ## 重庆文理学院
 - Namespace: `cqwu`
-- Aliases: `cqwu, cqwu.net, www, www.cqwu.net, 重庆文理学院`
+- Aliases: `cqwu, cqwu.edu.cn, www, www.cqwu.edu.cn, 重庆文理学院`
 - Route Count: `1`
 - Index File: `index/cqwu.md`
 
@@ -2710,7 +2704,7 @@ Use this file to select the target namespace before opening route documents.
 
 ## 中国技术经济学会
 - Namespace: `cste`
-- Aliases: `cste, cste.org.cn, 中国技术经济学会`
+- Aliases: `cste, cste.org.cn, www, www.cste.org.cn, 中国技术经济学会`
 - Route Count: `1`
 - Index File: `index/cste.md`
 
@@ -2770,7 +2764,7 @@ Use this file to select the target namespace before opening route documents.
 
 ## China University of Geosciences (Beijing)
 - Namespace: `cugb`
-- Aliases: `china university of geosciences (beijing), cugb, cugb.edu.cn`
+- Aliases: `china university of geosciences (beijing), cugb, cugb.edu.cn, www, www.cugb.edu.cn`
 - Route Count: `2`
 - Index File: `index/cugb.md`
 
@@ -2782,13 +2776,13 @@ Use this file to select the target namespace before opening route documents.
 
 ## 成都信息工程大学
 - Namespace: `cuit`
-- Aliases: `cuit, cuit.edu.cn, 成都信息工程大学`
+- Aliases: `cuit, cuit.edu.cn, www, www.cuit.edu.cn, 成都信息工程大学`
 - Route Count: `1`
 - Index File: `index/cuit.md`
 
 ## CUPL
 - Namespace: `cupl`
-- Aliases: `cupl, jwc, jwc.cupl.edu.cn/index/tzgg.htm`
+- Aliases: `cupl, jwc, jwc.cupl.edu.cn/tz/tzgg.htm`
 - Route Count: `1`
 - Index File: `index/cupl.md`
 
@@ -2884,7 +2878,7 @@ Use this file to select the target namespace before opening route documents.
 
 ## 喷嚏
 - Namespace: `dapenti`
-- Aliases: `dapenti, dapenti.com, 喷嚏`
+- Aliases: `dapenti, dapenti.com, www, www.dapenti.com, 喷嚏`
 - Route Count: `2`
 - Index File: `index/dapenti.md`
 
@@ -3004,7 +2998,7 @@ Use this file to select the target namespace before opening route documents.
 
 ## DeepMind
 - Namespace: `deepmind`
-- Aliases: `deepmind, deepmind.com`
+- Aliases: `deepmind, deepmind.google`
 - Route Count: `1`
 - Index File: `index/deepmind.md`
 
@@ -3067,12 +3061,6 @@ Use this file to select the target namespace before opening route documents.
 - Aliases: `dewu, dewu.com, 得物`
 - Route Count: `2`
 - Index File: `index/dewu.md`
-
-## 东莞教研网
-- Namespace: `dgjyw`
-- Aliases: `dgjyw, dgjyw.com, 东莞教研网`
-- Route Count: `1`
-- Index File: `index/dgjyw.md`
 
 ## 数字尾巴
 - Namespace: `dgtle`
@@ -3166,7 +3154,7 @@ Use this file to select the target namespace before opening route documents.
 
 ## Discuz
 - Namespace: `discuz`
-- Aliases: `discuz, https://discuz.vip/, https://www, https://www.discuz.vip/`
+- Aliases: `discuz, discuz.vip, www, www.discuz.vip`
 - Route Count: `1`
 - Index File: `index/discuz.md`
 
@@ -3382,7 +3370,7 @@ Use this file to select the target namespace before opening route documents.
 
 ## 德阳人事考试网
 - Namespace: `dykszx`
-- Aliases: `dykszx, dykszx.com, www, www.dykszx.com, 德阳人事考试网`
+- Aliases: `dykszx, dykszx.cn, www, www.dykszx.cn, 德阳人事考试网`
 - Route Count: `1`
 - Index File: `index/dykszx.md`
 
@@ -3484,7 +3472,7 @@ Use this file to select the target namespace before opening route documents.
 
 ## 经济观察网
 - Namespace: `eeo`
-- Aliases: `eeo, eeo.com.cn, 经济观察网`
+- Aliases: `eeo, eeo.com.cn, www, www.eeo.com.cn, 经济观察网`
 - Route Count: `2`
 - Index File: `index/eeo.md`
 
@@ -3496,7 +3484,7 @@ Use this file to select the target namespace before opening route documents.
 
 ## e 公司
 - Namespace: `egsea`
-- Aliases: `e 公司, egsea, egsea.com`
+- Aliases: `e 公司, egsea, egsea.com, www, www.egsea.com`
 - Route Count: `1`
 - Index File: `index/egsea.md`
 
@@ -3556,7 +3544,7 @@ Use this file to select the target namespace before opening route documents.
 
 ## 中国驻外使领馆
 - Namespace: `embassy`
-- Aliases: `ca, ca.china-embassy.org, embassy, 中国驻外使领馆`
+- Aliases: `ca, ca.china-embassy.gov.cn, embassy, 中国驻外使领馆`
 - Route Count: `1`
 - Index File: `index/embassy.md`
 
@@ -3868,7 +3856,7 @@ Use this file to select the target namespace before opening route documents.
 
 ## 福建日报
 - Namespace: `fjdaily`
-- Aliases: `fjdaily, fjdaily.com, 福建日报`
+- Aliases: `fjdaily, fjrb, fjrb.fjdaily.com/pc/col/index.html, 福建日报`
 - Route Count: `1`
 - Index File: `index/fjdaily.md`
 
@@ -4132,7 +4120,7 @@ Use this file to select the target namespace before opening route documents.
 
 ## 游戏基因
 - Namespace: `gamegene`
-- Aliases: `gamegene, news, news.gamegene.cn, 游戏基因`
+- Aliases: `gamegene, gamegene.cn, 游戏基因`
 - Route Count: `1`
 - Index File: `index/gamegene.md`
 
@@ -4199,7 +4187,7 @@ Use this file to select the target namespace before opening route documents.
 ## 机核网
 - Namespace: `gcores`
 - Aliases: `gcores, gcores.com, 机核网`
-- Route Count: `11`
+- Route Count: `18`
 - Index File: `index/gcores.md`
 
 ## Guangdong Museum
@@ -4300,7 +4288,7 @@ Use this file to select the target namespace before opening route documents.
 
 ## 少女前线
 - Namespace: `gf-cn`
-- Aliases: `gf-cn, sunborngame, sunborngame.com, 少女前线`
+- Aliases: `gf-cn, gf-cn.sunborngame.com, 少女前线`
 - Route Count: `1`
 - Index File: `index/gf-cn.md`
 
@@ -4358,9 +4346,9 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `3`
 - Index File: `index/gitlab.md`
 
-## Gitpod
+## Ona
 - Namespace: `gitpod`
-- Aliases: `gitpod, gitpod.io`
+- Aliases: `gitpod, ona, ona.com`
 - Route Count: `2`
 - Index File: `index/gitpod.md`
 
@@ -4508,9 +4496,9 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `2`
 - Index File: `index/gov-cn.md`
 
-## 中国国家认证认可监管管理员会
+## 国家认证认可监督管理委员会
 - Namespace: `gov/cnca`
-- Aliases: `cnca.gov.cn, gov/cnca, www, www.cnca.gov.cn, 中国国家认证认可监管管理员会`
+- Aliases: `cnca.gov.cn, gov/cnca, www, www.cnca.gov.cn, 国家认证认可监督管理委员会`
 - Route Count: `3`
 - Index File: `index/gov-cnca.md`
 
@@ -5078,15 +5066,15 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `2`
 - Index File: `index/guokr.md`
 
-## guozaoke
+## 过早客
 - Namespace: `guozaoke`
-- Aliases: `guozaoke, guozaoke.com`
+- Aliases: `guozaoke, guozaoke.com, 过早客`
 - Route Count: `1`
 - Index File: `index/guozaoke.md`
 
 ## 古诗文网
 - Namespace: `gushiwen`
-- Aliases: `gushiwen, gushiwen.cn, www, www.gushiwen.cn, 古诗文网`
+- Aliases: `gushiwen, guwendao.net, www, www.guwendao.net, 古诗文网`
 - Route Count: `1`
 - Index File: `index/gushiwen.md`
 
@@ -5104,7 +5092,7 @@ Use this file to select the target namespace before opening route documents.
 
 ## 广州日报
 - Namespace: `gzdaily`
-- Aliases: `gzdaily, gzdaily.cn, 广州日报`
+- Aliases: `gzdaily, gzdaily.cn, www, www.gzdaily.cn, 广州日报`
 - Route Count: `1`
 - Index File: `index/gzdaily.md`
 
@@ -5122,7 +5110,7 @@ Use this file to select the target namespace before opening route documents.
 
 ## Hacker News
 - Namespace: `hackernews`
-- Aliases: `hacker news, hackernews, ycombinator, ycombinator.com`
+- Aliases: `hacker news, hackernews, news, news.ycombinator.com`
 - Route Count: `1`
 - Index File: `index/hackernews.md`
 
@@ -5336,15 +5324,15 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `1`
 - Index File: `index/hicairo.md`
 
-## Sakamichi Series 坂道系列官网资讯
+## 日向坂46
 - Namespace: `hinatazaka46`
-- Aliases: `hinatazaka46, hinatazaka46.com, sakamichi series 坂道系列官网资讯`
+- Aliases: `hinatazaka46, hinatazaka46.com, 日向坂46`
 - Route Count: `2`
 - Index File: `index/hinatazaka46.md`
 
 ## HiringCafe
 - Namespace: `hiring.cafe`
-- Aliases: `hiring, hiring.cafe, hiringcafe`
+- Aliases: `hiring.cafe, hiringcafe, hiringcafe.com`
 - Route Count: `1`
 - Index File: `index/hiring-cafe.md`
 
@@ -5596,8 +5584,8 @@ Use this file to select the target namespace before opening route documents.
 
 ## 虎扑
 - Namespace: `hupu`
-- Aliases: `.hupu.com, hupu, 虎扑`
-- Route Count: `4`
+- Aliases: `bbs, bbs.hupu.com, hupu, 虎扑`
+- Route Count: `6`
 - Index File: `index/hupu.md`
 
 ## 华中科技大学
@@ -5620,7 +5608,7 @@ Use this file to select the target namespace before opening route documents.
 
 ## HyperDash
 - Namespace: `hyperdash`
-- Aliases: `hyperdash, hyperdash.info`
+- Aliases: `hyperdash, hyperdash.com`
 - Route Count: `1`
 - Index File: `index/hyperdash.md`
 
@@ -5648,9 +5636,9 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `2`
 - Index File: `index/i-tenpo.md`
 
-## Ian Spriggss
+## Ian Spriggs
 - Namespace: `ianspriggs`
-- Aliases: `ian spriggss, ianspriggs, ianspriggs.com`
+- Aliases: `ian spriggs, ianspriggs, ianspriggs.com`
 - Route Count: `1`
 - Index File: `index/ianspriggs.md`
 
@@ -5722,7 +5710,7 @@ Use this file to select the target namespace before opening route documents.
 
 ## IEEE Xplore
 - Namespace: `ieee`
-- Aliases: `ieee, ieee xplore, ieee.org, www, www.ieee.org`
+- Aliases: `ieee, ieee xplore, ieeexplore, ieeexplore.ieee.org`
 - Route Count: `2`
 - Index File: `index/ieee.md`
 
@@ -5774,9 +5762,9 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `1`
 - Index File: `index/ifs.md`
 
-## 趣集
+## iRead 趣读
 - Namespace: `ifun`
-- Aliases: `ifun, ifun.cool, 趣集`
+- Aliases: `ifun, iread, iread 趣读, iread.life`
 - Route Count: `3`
 - Index File: `index/ifun.md`
 
@@ -6044,9 +6032,9 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `3`
 - Index File: `index/itch.md`
 
-## iThome 台灣
+## IT之家 / iThome
 - Namespace: `ithome`
-- Aliases: `ithome, ithome 台灣, ithome.com`
+- Aliases: `ithome, ithome.com, it之家 / ithome`
 - Route Count: `5`
 - Index File: `index/ithome.md`
 
@@ -6404,9 +6392,9 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `1`
 - Index File: `index/kakuyomu.md`
 
-## 仮面ライダ
+## 仮面ライダー
 - Namespace: `kamen-rider-official`
-- Aliases: `kamen-rider-official, kamen-rider-official.com, 仮面ライダ`
+- Aliases: `kamen-rider-official, kamen-rider-official.com, 仮面ライダー`
 - Route Count: `1`
 - Index File: `index/kamen-rider-official.md`
 
@@ -6557,7 +6545,7 @@ Use this file to select the target namespace before opening route documents.
 ## Konachan.com Anime Wallpapers
 - Namespace: `konachan`
 - Aliases: `konachan, konachan.com, konachan.com anime wallpapers`
-- Route Count: `1`
+- Route Count: `2`
 - Index File: `index/konachan.md`
 
 ## 孔夫子旧书网
@@ -6590,9 +6578,9 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `1`
 - Index File: `index/kovidgoyal.md`
 
-## Koyso
+## PlayZip (Koyso)
 - Namespace: `koyso`
-- Aliases: `koyso, koyso.to`
+- Aliases: `koyso, playzip, playzip (koyso), playzip.com`
 - Route Count: `1`
 - Index File: `index/koyso.md`
 
@@ -6821,7 +6809,7 @@ Use this file to select the target namespace before opening route documents.
 ## 旅法师营地
 - Namespace: `lfsyd`
 - Aliases: `iyingdi.com, lfsyd, www, www.iyingdi.com, 旅法师营地`
-- Route Count: `4`
+- Route Count: `3`
 - Index File: `index/lfsyd.md`
 
 ## Japan Local Government
@@ -6887,7 +6875,7 @@ Use this file to select the target namespace before opening route documents.
 ## LinkedIn
 - Namespace: `linkedin`
 - Aliases: `linkedin, linkedin.com`
-- Route Count: `3`
+- Route Count: `2`
 - Index File: `index/linkedin.md`
 
 ## Link Research
@@ -7054,7 +7042,7 @@ Use this file to select the target namespace before opening route documents.
 
 ## LuMa
 - Namespace: `luma`
-- Aliases: `lu, lu.ma, luma`
+- Aliases: `luma, luma.com`
 - Route Count: `1`
 - Index File: `index/luma.md`
 
@@ -8230,7 +8218,7 @@ Use this file to select the target namespace before opening route documents.
 
 ## Nanjing University of the Arts 南京艺术学院
 - Namespace: `nua`
-- Aliases: `index, index.nua.edu.cn, nanjing university of the arts 南京艺术学院, nua`
+- Aliases: `nanjing university of the arts 南京艺术学院, nua, nua.edu.cn, www, www.nua.edu.cn`
 - Route Count: `5`
 - Index File: `index/nua.md`
 
@@ -8435,7 +8423,7 @@ Use this file to select the target namespace before opening route documents.
 ## OpenAI
 - Namespace: `openai`
 - Aliases: `openai, openai.com`
-- Route Count: `5`
+- Route Count: `4`
 - Index File: `index/openai.md`
 
 ## OpenAlex
@@ -8747,7 +8735,7 @@ Use this file to select the target namespace before opening route documents.
 ## 北京大学
 - Namespace: `pku`
 - Aliases: `admission, admission.pku.edu.cn, pku, 北京大学`
-- Route Count: `12`
+- Route Count: `11`
 - Index File: `index/pku.md`
 
 ## PLAYNO.1 玩樂達人
@@ -9170,9 +9158,9 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `1`
 - Index File: `index/reactnativenewsletter.md`
 
-## ui.dev
+## React Newsletter
 - Namespace: `reactnewsletter`
-- Aliases: `bytes, bytes.dev, reactnewsletter, ui.dev`
+- Aliases: `react newsletter, reactnewsletter, reactnewsletter.com`
 - Route Count: `1`
 - Index File: `index/reactnewsletter.md`
 
@@ -9392,9 +9380,9 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `1`
 - Index File: `index/ryo-lu.md`
 
-## Sakamichi Series 坂道系列官网资讯
+## 櫻坂46
 - Namespace: `sakurazaka46`
-- Aliases: `sakamichi series 坂道系列官网资讯, sakurazaka46, sakurazaka46.com`
+- Aliases: `sakurazaka46, sakurazaka46.com, 櫻坂46`
 - Route Count: `2`
 - Index File: `index/sakurazaka46.md`
 
@@ -9494,9 +9482,9 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `1`
 - Index File: `index/scitechvista.md`
 
-## Corona Virus Disease 2019
+## South China Morning Post
 - Namespace: `scmp`
-- Aliases: `corona virus disease 2019, scmp, scmp.com`
+- Aliases: `scmp, scmp.com, south china morning post`
 - Route Count: `3`
 - Index File: `index/scmp.md`
 
@@ -9922,8 +9910,8 @@ Use this file to select the target namespace before opening route documents.
 
 ## SoBooks
 - Namespace: `sobooks`
-- Aliases: `sobooks, sobooks.net`
-- Route Count: `3`
+- Aliases: `sobooks, sobooks.cc`
+- Route Count: `4`
 - Index File: `index/sobooks.md`
 
 ## SocialBeta
@@ -9964,13 +9952,13 @@ Use this file to select the target namespace before opening route documents.
 
 ## 云谦的博客
 - Namespace: `sorrycc`
-- Aliases: `sorrycc, sorrycc.com, 云谦的博客`
+- Aliases: `blog, blog.sorrycc.com, sorrycc, 云谦的博客`
 - Route Count: `1`
 - Index File: `index/sorrycc.md`
 
-## X (Twitter)
+## Sotwe
 - Namespace: `sotwe`
-- Aliases: `sotwe, x, x (twitter), x.com`
+- Aliases: `sotwe, sotwe.com`
 - Route Count: `1`
 - Index File: `index/sotwe.md`
 
@@ -10060,13 +10048,13 @@ Use this file to select the target namespace before opening route documents.
 
 ## Sputnik News 俄罗斯卫星通讯社
 - Namespace: `sputniknews`
-- Aliases: `sputnik news 俄罗斯卫星通讯社, sputniknews, sputniknews.cn`
+- Aliases: `sputnik news 俄罗斯卫星通讯社, sputniknews, sputniknews.com`
 - Route Count: `1`
 - Index File: `index/sputniknews.md`
 
-## 新乡医学院三全学院
+## 豫北医学院
 - Namespace: `sqmc`
-- Aliases: `sqmc, sqmc.edu.cn, 新乡医学院三全学院`
+- Aliases: `sqmc, sqmc.edu.cn, 豫北医学院`
 - Route Count: `1`
 - Index File: `index/sqmc.md`
 
@@ -10160,9 +10148,9 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `2`
 - Index File: `index/storyfm.md`
 
-## The Strait Times
+## The Straits Times
 - Namespace: `straitstimes`
-- Aliases: `straitstimes, straitstimes.com, the strait times`
+- Aliases: `straitstimes, straitstimes.com, the straits times`
 - Route Count: `1`
 - Index File: `index/straitstimes.md`
 
@@ -10204,7 +10192,7 @@ Use this file to select the target namespace before opening route documents.
 
 ## SupChina
 - Namespace: `supchina`
-- Aliases: `supchina, supchina.com`
+- Aliases: `supchina, thechinaproject, thechinaproject.com`
 - Route Count: `2`
 - Index File: `index/supchina.md`
 
@@ -10457,7 +10445,7 @@ Use this file to select the target namespace before opening route documents.
 ## 腾讯
 - Namespace: `tencent`
 - Aliases: `tencent, tencent.com, 腾讯`
-- Route Count: `7`
+- Route Count: `5`
 - Index File: `index/tencent.md`
 
 ## 特斯拉中国
@@ -10559,7 +10547,7 @@ Use this file to select the target namespace before opening route documents.
 ## The Initium
 - Namespace: `theinitium`
 - Aliases: `the initium, theinitium, theinitium.com`
-- Route Count: `5`
+- Route Count: `4`
 - Index File: `index/theinitium.md`
 
 ## The Movie Database
@@ -10972,7 +10960,7 @@ Use this file to select the target namespace before opening route documents.
 
 ## Typst
 - Namespace: `typst`
-- Aliases: `typst, typst.com`
+- Aliases: `typst, typst.app`
 - Route Count: `1`
 - Index File: `index/typst.md`
 
@@ -11098,7 +11086,7 @@ Use this file to select the target namespace before opening route documents.
 
 ## Uptime Robot
 - Namespace: `uptimerobot`
-- Aliases: `rss, rss.uptimerobot.com, uptime robot, uptimerobot`
+- Aliases: `uptime robot, uptimerobot, uptimerobot.com`
 - Route Count: `1`
 - Index File: `index/uptimerobot.md`
 
@@ -11176,7 +11164,7 @@ Use this file to select the target namespace before opening route documents.
 
 ## University of Washington
 - Namespace: `uw`
-- Aliases: `gixnetwork, gixnetwork.org, university of washington, uw`
+- Aliases: `gix, gix.uw.edu, university of washington, uw`
 - Route Count: `1`
 - Index File: `index/uw.md`
 
@@ -11203,6 +11191,12 @@ Use this file to select the target namespace before opening route documents.
 - Aliases: `v2rayshare, v2rayshare.com`
 - Route Count: `1`
 - Index File: `index/v2rayshare.md`
+
+## VB-Audio
+- Namespace: `vb-audio`
+- Aliases: `forum, forum.vb-audio.com, vb-audio`
+- Route Count: `1`
+- Index File: `index/vb-audio.md`
 
 ## VCB-Studio
 - Namespace: `vcb-s`
@@ -11392,7 +11386,7 @@ Use this file to select the target namespace before opening route documents.
 
 ## WebCatalog
 - Namespace: `webcatalog`
-- Aliases: `desktop, desktop.webcatalog.io, webcatalog`
+- Aliases: `webcatalog, webcatalog.io/en/desktop`
 - Route Count: `1`
 - Index File: `index/webcatalog.md`
 
@@ -11498,12 +11492,6 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `1`
 - Index File: `index/wiensued.md`
 
-## 维基新闻
-- Namespace: `wikinews`
-- Aliases: `wikinews, zh, zh.wikinews.org, 维基新闻`
-- Route Count: `1`
-- Index File: `index/wikinews.md`
-
 ## Wikipedia
 - Namespace: `wikipedia`
 - Aliases: `en, en.wikipedia.org, wikipedia`
@@ -11540,9 +11528,9 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `1`
 - Index File: `index/withgoogle.md`
 
-## WziFile
+## WizFile
 - Namespace: `wizfile`
-- Aliases: `antibody-software, antibody-software.com, wizfile, wzifile`
+- Aliases: `antibody-software, antibody-software.com, wizfile`
 - Route Count: `1`
 - Index File: `index/wizfile.md`
 
@@ -11858,9 +11846,9 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `2`
 - Index File: `index/xmu.md`
 
-## 厦门理工大学
+## 厦门理工学院
 - Namespace: `xmut`
-- Aliases: `jwc, jwc.xmut.edu.cn, xmut, 厦门理工大学`
+- Aliases: `jwc, jwc.xmut.edu.cn, xmut, 厦门理工学院`
 - Route Count: `2`
 - Index File: `index/xmut.md`
 
@@ -11945,7 +11933,7 @@ Use this file to select the target namespace before opening route documents.
 ## Yahoo
 - Namespace: `yahoo`
 - Aliases: `news, news.yahoo.com, yahoo`
-- Route Count: `8`
+- Route Count: `9`
 - Index File: `index/yahoo.md`
 
 ## YAMAP
@@ -11974,7 +11962,7 @@ Use this file to select the target namespace before opening route documents.
 
 ## 羊城晚报金羊网
 - Namespace: `ycwb`
-- Aliases: `xwlb, xwlb.com.cn, ycwb, 羊城晚报金羊网`
+- Aliases: `news, news.ycwb.com, ycwb, 羊城晚报金羊网`
 - Route Count: `1`
 - Index File: `index/ycwb.md`
 
@@ -12215,7 +12203,7 @@ Use this file to select the target namespace before opening route documents.
 ## 直播吧
 - Namespace: `zhibo8`
 - Aliases: `zhibo8, zhibo8.cc, 直播吧`
-- Route Count: `4`
+- Route Count: `2`
 - Index File: `index/zhibo8.md`
 
 ## 知乎
