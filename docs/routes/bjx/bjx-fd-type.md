@@ -81,14 +81,14 @@ _None_
       "url": "rsshub://bjx/fd/zc"
     },
     {
-      "description": "北极星风力发电网要闻 - Powered by RSSHub",
+      "description": "要闻-北极星风力发电网 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "74275326708265984",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://fd.bjx.com.cn/yw/",
-      "title": "北极星风力发电网要闻",
+      "title": "要闻-北极星风力发电网",
       "type": "feed",
       "url": "rsshub://bjx/fd/yw"
     }

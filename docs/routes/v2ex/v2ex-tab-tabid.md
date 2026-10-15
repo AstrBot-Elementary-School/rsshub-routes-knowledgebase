@@ -50,7 +50,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1396,
+  "heat": 1397,
   "location": "tab.ts",
   "maintainers": [
     "liyefox"
@@ -78,8 +78,8 @@ _None_
     },
     {
       "description": "V2EX-tab-apple - Powered by RSSHub",
-      "errorAt": "2026-10-13T11:28:19.710Z",
-      "errorMessage": "[GET] \"https://v2ex.com/?tab=apple\": <no response> fetch failed (Connect Timeout Error (attempted address: v2ex.com:443, timeout: 10000ms))\n[GET] \"https://v2ex.com/?tab=apple\": <no response> fetch failed\n[GET] \"https://v2ex.com/?tab=apple\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "46752076079222784",
       "image": null,
       "ownerUserId": null,

@@ -79,14 +79,14 @@ _None_
       "url": "rsshub://cnbeta/category/soft"
     },
     {
-      "description": "cnBeta.COM - 中文业界资讯站 - Powered by RSSHub",
+      "description": "影视首页 - CBHot！ - cnBeta.COM - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "61806357094007808",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.cnbeta.com.tw/",
-      "title": "cnBeta.COM - 中文业界资讯站",
+      "siteUrl": "https://www.cnbeta.com.tw/category/movie.htm",
+      "title": "影视首页 - CBHot！ - cnBeta.COM",
       "type": "feed",
       "url": "rsshub://cnbeta/category/movie"
     }

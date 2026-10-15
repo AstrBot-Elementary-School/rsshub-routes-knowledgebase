@@ -86,8 +86,8 @@ _None_
     },
     {
       "description": "Remote Sensing - Powered by RSSHub",
-      "errorAt": "2026-10-12T16:06:50.895Z",
-      "errorMessage": "[GET] \"https://www.mdpi.comundefined\": <no response> fetch failed\n[GET] \"https://www.mdpi.comundefined\": 530 \n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "85233533576043520",
       "image": null,
       "ownerUserId": null,

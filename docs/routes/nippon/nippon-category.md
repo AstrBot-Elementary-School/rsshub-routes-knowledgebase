@@ -192,7 +192,7 @@
       "id": "82398566855976960",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.nippon.com/cn/economy/",
+      "siteUrl": "https://www.nippon.com/cn/society/",
       "title": "走进日本 - Society",
       "type": "feed",
       "url": "rsshub://nippon/Society"
@@ -204,7 +204,7 @@
       "id": "56644563871459336",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.nippon.com/cn/economy/",
+      "siteUrl": "https://www.nippon.com/cn/politics/",
       "title": "走进日本 - Politics",
       "type": "feed",
       "url": "rsshub://nippon/Politics"

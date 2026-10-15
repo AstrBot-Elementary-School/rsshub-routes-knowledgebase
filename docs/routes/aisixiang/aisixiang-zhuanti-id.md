@@ -68,18 +68,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "地缘政治 （geopolitics），政治地理学中的一种理论。它根据各种地理要素和政治格局的地域形式，分析和预测世界或地区范围的战略形势和有关国家的政治行为。它把地理因素视为影响甚至决定国家政治行为的一个基本因素。地缘政治学又称“地理政治学”。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "75412234442756096",
-      "image": "https://oss.aisixiang.com/images/logo_zhuanti.jpg",
-      "ownerUserId": null,
-      "siteUrl": "https://www.aisixiang.com/zhuanti/366.html",
-      "title": "爱思想 - 地缘政治",
-      "type": "feed",
-      "url": "rsshub://aisixiang/zhuanti/366"
-    },
-    {
       "description": "党的建设，简称党建，是指党为保持自己的性质而从事的一系列自我完善的活动，是中国革命取得成功的“三大法宝”之一。党的建设关系重大、牵动全局。在长期执政的历史条件下，建设什么样的党、怎样建设党是一个重大现实问题，直接关系到我们党和国家的前途命运。中国共产党要领导全国各族人民实现“两个一百年”奋斗目标、实现中华民族伟大复兴的中国梦，必须紧密围绕党的基本路线，坚持党要管党、全面从严治党，加强党的长期执政能力建设、先进性和纯洁性建设，以改革创新精神全面推进党的建设新的伟大工程，以党的政治建设为统领，全面推进党的政治建设、思想建设、组织建设、作风建设、纪律建设，把制度建设贯穿其中，深入推进反腐败斗争，全面提高党的建设科学化水平。（党的领导） - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -90,6 +78,18 @@ _None_
       "title": "爱思想 - 党的建设 (党建)",
       "type": "feed",
       "url": "rsshub://aisixiang/zhuanti/694"
+    },
+    {
+      "description": "地缘政治 （geopolitics），政治地理学中的一种理论。它根据各种地理要素和政治格局的地域形式，分析和预测世界或地区范围的战略形势和有关国家的政治行为。它把地理因素视为影响甚至决定国家政治行为的一个基本因素。地缘政治学又称“地理政治学”。 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "75412234442756096",
+      "image": "https://oss.aisixiang.com/images/logo_zhuanti.jpg",
+      "ownerUserId": null,
+      "siteUrl": "https://www.aisixiang.com/zhuanti/366.html",
+      "title": "爱思想 - 地缘政治",
+      "type": "feed",
+      "url": "rsshub://aisixiang/zhuanti/366"
     }
   ]
 }

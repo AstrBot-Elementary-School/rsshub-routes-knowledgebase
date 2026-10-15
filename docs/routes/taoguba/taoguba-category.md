@@ -56,7 +56,7 @@ _None_
     {
       "description": "淘股吧散户炒股交流点赞牛贴 - Powered by RSSHub",
       "errorAt": "2026-07-02T22:09:34.740Z",
-      "errorMessage": "[GET] \"https://www.tgb.cn//a/2vQ32TUgyPp\": 404 Not Found\n",
+      "errorMessage": "503 \n",
       "id": "115961018043937792",
       "image": null,
       "ownerUserId": null,

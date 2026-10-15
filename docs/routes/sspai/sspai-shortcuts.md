@@ -74,7 +74,7 @@ _None_
     {
       "description": "Shortcuts Gallery - 少数派 - Powered by RSSHub",
       "errorAt": "2024-09-26T04:41:26.784Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'flatMap')\n",
+      "errorMessage": "Shortcuts Gallery returned no workflow categories. Verify that its public workflow API is still available.\n",
       "id": "55873602868576299",
       "image": null,
       "ownerUserId": null,

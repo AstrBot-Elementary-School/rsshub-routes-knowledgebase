@@ -80,7 +80,7 @@ _None_
       "id": "57251990358714368",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://eleduck.com/category/5",
+      "siteUrl": "https://eleduck.com/categories/5",
       "title": "招聘 | 电鸭社区",
       "type": "feed",
       "url": "rsshub://eleduck/jobs"

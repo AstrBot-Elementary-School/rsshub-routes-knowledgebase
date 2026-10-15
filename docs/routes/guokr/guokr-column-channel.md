@@ -66,18 +66,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "果壳网 吃货研究所 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "41843304175275008",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "http://www.guokr.com/scientific/channel/predator/",
-      "title": "果壳网 吃货研究所",
-      "type": "feed",
-      "url": "rsshub://guokr/column/institute"
-    },
-    {
       "description": "果壳网 物种日历 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -88,6 +76,18 @@ _None_
       "title": "果壳网 物种日历",
       "type": "feed",
       "url": "rsshub://guokr/column/calendar"
+    },
+    {
+      "description": "果壳网 吃货研究所 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "41843304175275008",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "http://www.guokr.com/scientific/channel/predator/",
+      "title": "果壳网 吃货研究所",
+      "type": "feed",
+      "url": "rsshub://guokr/column/institute"
     }
   ],
   "url": "guokr.com/"

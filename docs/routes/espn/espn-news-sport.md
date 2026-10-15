@@ -259,7 +259,7 @@ _None_
     {
       "description": "ESPN NBA News - Powered by RSSHub",
       "errorAt": "2026-09-07T13:36:18.003Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'story')\n",
+      "errorMessage": "[GET] \"https://onefeed.fan.api.espn.com/apis/v3/cached/contentEngine/oneFeed/leagues/nba?offset=0\": 403 Forbidden\n",
       "id": "60547975805774848",
       "image": null,
       "ownerUserId": null,

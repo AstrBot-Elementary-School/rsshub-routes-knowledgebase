@@ -68,8 +68,8 @@ _None_
   "topFeeds": [
     {
       "description": "xbookcn - Powered by RSSHub",
-      "errorAt": "2026-10-06T16:22:03.013Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "66735517584488448",
       "image": null,
       "ownerUserId": null,
@@ -80,8 +80,8 @@ _None_
     },
     {
       "description": "xbookcn - Powered by RSSHub",
-      "errorAt": "2026-10-06T17:21:14.280Z",
-      "errorMessage": "Authentication failed. Access denied.\n/xbookcn/%E7%B2%BE%E9%80%89%E4%BD%9C%E5%93%81\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "65082601526572032",
       "image": null,
       "ownerUserId": null,

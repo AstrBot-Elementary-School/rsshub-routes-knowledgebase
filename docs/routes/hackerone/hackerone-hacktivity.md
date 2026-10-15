@@ -58,8 +58,8 @@ _None_
   "topFeeds": [
     {
       "description": "HackerOne Hacker Activity - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-14T08:50:44.035Z",
+      "errorMessage": "[GET] \"https://hackerone.com/reports/3973135.json\": 429 Too Many Requests\n",
       "id": "154479685635981327",
       "image": null,
       "ownerUserId": null,

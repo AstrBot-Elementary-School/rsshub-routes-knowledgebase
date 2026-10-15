@@ -115,12 +115,12 @@
     },
     {
       "description": "公主连结台服-最新公告 - Powered by RSSHub",
-      "errorAt": "2025-11-19T09:38:12.766Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "66023614482950154",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "http://www.princessconnect.so-net.tw/news",
+      "siteUrl": "https://www.princessconnect.so-net.tw/news",
       "title": "公主连结台服-最新公告",
       "type": "feed",
       "url": "rsshub://priconne-redive/news/zh-tw"

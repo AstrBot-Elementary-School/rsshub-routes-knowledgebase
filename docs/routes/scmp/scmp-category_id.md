@@ -76,8 +76,8 @@ See the [official RSS page](https://www.scmp.com/rss) to get the ID of each cate
   "topFeeds": [
     {
       "description": "Breaking news, analysis and opinion from the SCMP's Asia edition. - Powered by RSSHub",
-      "errorAt": "2026-10-08T00:21:26.877Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://www.scmp.com/news/asia/east-asia/article/3370755/south-korea-shopping-centre-stabbing-leaves-8-injured\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "58381798255721483",
       "image": "https://assets-v2.i-scmp.com/production/static/img/icons/scmp-meta-1200x630.png",
       "ownerUserId": null,
@@ -89,7 +89,7 @@ See the [official RSS page](https://www.scmp.com/rss) to get the ID of each cate
     {
       "description": "The latest breaking news from China. - Powered by RSSHub",
       "errorAt": "2026-09-18T09:02:16.787Z",
-      "errorMessage": "[GET] \"https://www.scmp.com/news/china/diplomacy/article/3370295/bessent-may-skip-apec-hong-kong-focus-trumps-shenzhen-visit-sources-say\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.scmp.com/news/china/diplomacy/article/3370497/putin-aide-looks-boost-russian-shipbuilding-ties-china-during-visit\": 403 Forbidden\n",
       "id": "58381798255721484",
       "image": "https://assets-v2.i-scmp.com/production/static/img/icons/scmp-meta-1200x630.png",
       "ownerUserId": null,

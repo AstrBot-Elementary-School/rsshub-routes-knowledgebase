@@ -73,13 +73,13 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "1. DeepSeek 考虑入局具身智能，梁文锋正密集与相关创业者交流 2. 消息称腾讯将推出「元宝助手」App，布局 Personal Agent 赛道 3. 月之暗面高管计划赴港 IPO 前与股东展开纠纷和解谈判 金额或超 7 亿美元 4. iPhone Duo 预售前夕 苹果 COO 到访富士康称正扩大生产规模 5. 霸王茶姬将发放 1350 万元专项奖励感谢员工 6. 网传住酒店可参观「中国天眼」核心区 中国科学院：正核查 7. 宜信集团向类固收投资者发致歉信：可能已资不抵债 8. 宇树科技王兴兴：具身智能临界点最快一两年到来 9. 编造月之暗面相关谣言人员已被警方采取刑事强制措施 10. 英伟达据悉洽谈追加投资或收购 AI 初创公司 Reflection AI 11. 微软明年将大规模部署自研 AI 芯片，目标推理效率提升 40% 12. 被封禁情感博主推出 AI 应用，月流水破百万 13. 字节旗下出海短剧 PineDrama 下载破亿，海外复制红果模式待验证 - Powered by RSSHub",
+      "description": "1. 苹果推出全新智能家居配件系列 Apple Home Collection 2. DeepSeek 拟完成约千亿元融资，投前估值约 5000 亿元 3. 月之暗面完成 Pre-IPO 轮融资 估值 500 亿美元冲刺港股上市 4. 懂车帝相关负责人连发 4 条微博，质疑尊界检测结果 5. LVMH 称起诉茉莉奶白有负面影响 Q3 中国客群需求降 15% 6. 千问将推出 Personal Agent「千问 Go」 7. 字节跳动 Seed 单独设立大模型安全与对齐部门 8. 阿里组织近百人开发千问办公电商版 计划双十一预售前发布 9. Character.AI 申请破产，迪士尼 2000 万美元接手部分资产 10. 消息称 OpenAI 计划复活 Sora 换赛道进军 AI 专业影视工具 11. 重庆市原市长黄奇帆被查 12. 报告称国内 AI 六小龙 AI 相关收入合计约为 OpenAI 与 Anthropic 的 10% 13. 网易云音乐与宇树科技达成深度合作 14. 雅思因技术原因取消多场考试 将安排复考并增设免费专场 15. 阿里千问发布全新 AI 眼镜、AI 耳机，1099 元起开售 16. 微软推进 AI 架构改革 重组 Azure 云业务部门 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "52347176714948614",
       "image": "https://readhub.cn/icons/icon-192x192.png",
       "ownerUserId": null,
-      "siteUrl": "https://readhub.cn/daily",
+      "siteUrl": "https://api.readhub.cn/daily",
       "title": "Readhub - 每日早报",
       "type": "feed",
       "url": "rsshub://readhub/daily"

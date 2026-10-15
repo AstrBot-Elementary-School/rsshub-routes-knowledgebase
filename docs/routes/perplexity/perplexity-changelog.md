@@ -77,8 +77,8 @@ _None_
   "topFeeds": [
     {
       "description": "Stay up to date with what’s new in Perplexity. The changelog highlights the latest features, improvements, and experiments, so you can get the most out of Perplexity as it gets better every week. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-14T12:20:40.957Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "241365598746245120",
       "image": "https://frontend-cdn.perplexity.ai/_agi_assets/marketing/hub/hub-og-image.jpg",
       "ownerUserId": null,

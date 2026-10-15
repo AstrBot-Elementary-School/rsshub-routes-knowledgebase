@@ -78,7 +78,7 @@ _None_
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://grist.org/",
-      "title": "Gist Featured Articles",
+      "title": "Grist Featured Articles",
       "type": "feed",
       "url": "rsshub://grist/featured"
     }

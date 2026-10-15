@@ -86,16 +86,16 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "The AI Collective - Powered by RSSHub",
-      "errorAt": "2026-10-08T02:31:21.638Z",
-      "errorMessage": "[GET] \"https://api.lu.ma/url?url=genai-collective\": 429 Too Many Requests\n",
-      "id": "265935647087177728",
+      "description": "Comunidad de Innovación LATAM - Powered by RSSHub",
+      "errorAt": "2026-10-08T02:31:15.825Z",
+      "errorMessage": "[GET] \"https://api.lu.ma/url?url=comunidadinnovacion\": 429 Too Many Requests\n",
+      "id": "265966889769333760",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://lu.ma/genai-collective",
-      "title": "The AI Collective",
+      "siteUrl": "https://lu.ma/comunidadinnovacion",
+      "title": "Comunidad de Innovación LATAM",
       "type": "feed",
-      "url": "rsshub://luma/genai-collective"
+      "url": "rsshub://luma/comunidadinnovacion"
     },
     {
       "description": "LangChain Events - Powered by RSSHub",

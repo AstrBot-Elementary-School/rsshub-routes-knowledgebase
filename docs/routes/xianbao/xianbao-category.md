@@ -109,14 +109,14 @@
   },
   "topFeeds": [
     {
-      "description": "线板酷-赚客吧 - Powered by RSSHub",
+      "description": "线报酷-赚客吧 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "67550789955228672",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "http://new.xianbao.fun/category-zuankeba",
-      "title": "线板酷-赚客吧",
+      "title": "线报酷-赚客吧",
       "type": "feed",
       "url": "rsshub://xianbao/zuankeba"
     },

@@ -51,28 +51,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "MADEBYPLANE 商铺上新 - Powered by RSSHub",
+      "description": "HOTSHOT BLACKSWAN STORE 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264523299748970496",
+      "id": "1264524582266470400",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1223146242",
-      "title": "MADEBYPLANE 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1666710580",
+      "title": "HOTSHOT BLACKSWAN STORE 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1223146242"
+      "url": "rsshub://weidian/goods/1666710580"
     },
     {
-      "description": "人民ism 商铺上新 - Powered by RSSHub",
-      "errorAt": "2026-10-10T19:41:12.812Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
-      "id": "1264523938205925376",
+      "description": "白菜制造 商铺上新 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "1264526906061881344",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1651238208",
-      "title": "人民ism 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1875967188",
+      "title": "白菜制造 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1651238208"
+      "url": "rsshub://weidian/goods/1875967188"
     }
   ]
 }

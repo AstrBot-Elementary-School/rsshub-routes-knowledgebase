@@ -76,7 +76,7 @@ _None_
     {
       "description": "北极星环保 - 环保行业垂直门户网站 - Powered by RSSHub",
       "errorAt": "2026-03-22T09:12:24.850Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "503 \n",
       "id": "64312560808977408",
       "image": null,
       "ownerUserId": null,

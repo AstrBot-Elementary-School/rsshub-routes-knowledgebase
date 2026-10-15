@@ -92,7 +92,7 @@ _None_
       "errorAt": null,
       "errorMessage": null,
       "id": "73704015177969664",
-      "image": "https://rpic.douyucdn.cn/asrpic/261012/71415_src_1816.avif/dy4",
+      "image": "https://rpic.douyucdn.cn/asrpic/261014/71415_src_0725.avif/dy4",
       "ownerUserId": null,
       "siteUrl": "https://www.douyu.com/71415",
       "title": "寅子的斗鱼直播间",

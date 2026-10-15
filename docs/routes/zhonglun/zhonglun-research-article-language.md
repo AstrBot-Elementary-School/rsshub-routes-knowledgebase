@@ -120,8 +120,8 @@
   "topFeeds": [
     {
       "description": "中伦律师事务所官方网站 - ARTICLES 专业文章 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-14T13:32:52.437Z",
+      "errorMessage": "[GET] \"https://www.zhonglun.com/research/articles\": 522 <none>\n",
       "id": "166932773326277632",
       "image": "https://www.zhonglun.com/upload/static/images/logo.png",
       "ownerUserId": null,

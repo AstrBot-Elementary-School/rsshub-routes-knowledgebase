@@ -81,14 +81,14 @@ _None_
       "url": "rsshub://gov/nopss/GB/219469/431028"
     },
     {
-      "description": "鍚庢湡璧勫姪椤圭洰- 鍏ㄥ浗鍝插绀句細绉戝宸ヤ綔鍔炲叕瀹� - Powered by RSSHub",
-      "errorAt": "2025-12-27T08:01:57.393Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "description": "后期资助项目- 全国哲学社会科学工作办公室 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "68892056440478837",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "http://www.nopss.gov.cn/GB/219469/431030",
-      "title": "鍚庢湡璧勫姪椤圭洰- 鍏ㄥ浗鍝插绀句細绉戝宸ヤ綔鍔炲叕瀹�",
+      "title": "后期资助项目- 全国哲学社会科学工作办公室",
       "type": "feed",
       "url": "rsshub://gov/nopss/GB/219469/431030"
     }

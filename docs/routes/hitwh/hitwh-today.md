@@ -75,8 +75,8 @@ _None_
   "topFeeds": [
     {
       "description": "哈尔滨工业大学（威海）通知公告 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-14T09:07:17.241Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "88150334662734848",
       "image": null,
       "ownerUserId": null,

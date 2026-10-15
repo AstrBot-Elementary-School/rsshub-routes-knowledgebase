@@ -178,7 +178,7 @@ _None_
       "id": "82873456631622656",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://cybersecurityventures.com//today",
+      "siteUrl": "https://cybersecurityventures.com/today",
       "title": "Today's News - Cybercrime Magazine",
       "type": "feed",
       "url": "rsshub://cybersecurityventures/news/today"

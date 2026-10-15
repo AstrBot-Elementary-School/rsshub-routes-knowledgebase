@@ -81,7 +81,7 @@ _None_
       "image": "https://magazine.raspberrypi.com/storage/representations/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MTE1NTYsInB1ciI6ImJsb2JfaWQifX0=--06ad0ead9c74c7a1a313fb7386da50e10a0a4b22/eyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fZml0IjpbMTIwMCw2MzBdfSwicHVyIjoidmFyaWF0aW9uIn19--d672719dc1e39d5124317a96745efdd8005f6b08/RPOM170-grey-flat.png",
       "ownerUserId": null,
       "siteUrl": "https://magazine.raspberrypi.com/issues",
-      "title": "Issues — Raspberry Pi Official MagazineRaspberry PiRaspberry Pi Official Magazine",
+      "title": "Raspberry Pi Official Magazine",
       "type": "feed",
       "url": "rsshub://raspberrypi/magazine"
     }

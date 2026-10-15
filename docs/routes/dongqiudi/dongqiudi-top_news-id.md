@@ -55,7 +55,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 373,
+  "heat": 374,
   "location": "top-news.ts",
   "maintainers": [
     "HendricksZheng"
@@ -91,8 +91,8 @@
     },
     {
       "description": "懂球帝 - 头条 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-14T16:10:35.982Z",
+      "errorMessage": "[GET] \"https://www.dongqiudi.com/articles/6487499.html\": 403 Forbidden\n",
       "id": "73989204856510464",
       "image": null,
       "ownerUserId": null,

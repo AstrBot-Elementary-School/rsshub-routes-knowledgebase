@@ -88,7 +88,7 @@ More jounals can be found in [AEA Journals](https://www.aeaweb.org/journals).
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.aeaweb.org/journals/app",
-      "title": "RSSHub",
+      "title": "American Economic Journal: Applied Economics",
       "type": "feed",
       "url": "rsshub://aeaweb/app"
     },
@@ -100,7 +100,7 @@ More jounals can be found in [AEA Journals](https://www.aeaweb.org/journals).
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.aeaweb.org/journals/aer",
-      "title": "RSSHub",
+      "title": "American Economic Review",
       "type": "feed",
       "url": "rsshub://aeaweb/aer"
     }

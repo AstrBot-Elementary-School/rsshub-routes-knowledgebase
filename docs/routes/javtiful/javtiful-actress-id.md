@@ -69,26 +69,26 @@ _None_
   },
   "topFeeds": [
     {
-      "description": " - Powered by RSSHub",
+      "description": "Akari Tsumugi - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "63617818932634624",
-      "image": "https://javtiful.com/media/categories/actress/THUMB-ACTRESS-271-6438402B2B69B.jpg?class=tmbactpage",
+      "image": "/uploads/uploads/collections/actresses/2026/04/27/09de335a007187a2ccfb69269920102a.jpg",
       "ownerUserId": null,
       "siteUrl": "https://javtiful.com/actress/akari-tsumugi",
-      "title": "RSSHub",
+      "title": "Akari Tsumugi",
       "type": "feed",
       "url": "rsshub://javtiful/actress/akari-tsumugi"
     },
     {
-      "description": " - Powered by RSSHub",
+      "description": "Mikami Yua - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "75560870348182528",
-      "image": "https://javtiful.com/media/categories/actress/THUMB-ACTRESS-414-64370447C77C0.jpg?class=tmbactpage",
+      "image": "/uploads/uploads/collections/actresses/2026/04/27/ecc150ff8778706120aa68e0d3997872.jpg",
       "ownerUserId": null,
       "siteUrl": "https://javtiful.com/actress/mikami-yua",
-      "title": "RSSHub",
+      "title": "Mikami Yua",
       "type": "feed",
       "url": "rsshub://javtiful/actress/mikami-yua"
     }

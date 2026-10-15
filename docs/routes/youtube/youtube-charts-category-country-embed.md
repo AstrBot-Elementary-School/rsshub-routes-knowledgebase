@@ -111,8 +111,8 @@ _None_
     },
     {
       "description": "YouTube Music Charts - Top music videos - Powered by RSSHub",
-      "errorAt": "2026-10-13T00:31:21.557Z",
-      "errorMessage": "[POST] \"https://charts.youtube.com/youtubei/v1/browse?alt=json&key=AIzaSyCzEW7JUJdSql0-2V4tHUb6laYm4iAE_dM\": 429 Too Many Requests\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "57506261522656256",
       "image": null,
       "ownerUserId": null,

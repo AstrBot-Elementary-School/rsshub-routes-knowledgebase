@@ -147,12 +147,12 @@ _None_
   "topFeeds": [
     {
       "description": "Bitget | All - Powered by RSSHub",
-      "errorAt": "2026-06-06T06:32:19.917Z",
-      "errorMessage": "Unexpected end of JSON input\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "72615354761558016",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.bitget.com/zh-CN/inmail",
+      "siteUrl": "https://www.bitget.com/zh-CN/promotion/inmail",
       "title": "Bitget | All",
       "type": "feed",
       "url": "rsshub://bitget/announcement/all"

@@ -67,7 +67,7 @@ _None_
     {
       "description": "三角洲行动 的动态 - Powered by RSSHub",
       "errorAt": "2026-03-19T13:40:53.604Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'username')\nCannot read properties of undefined (reading 'username')\n",
+      "errorMessage": "Cannot read properties of undefined (reading 'username')\nXiaoheihe did not return a public user profile. Please retry later or check whether the source is available.\n",
       "id": "89892270853491712",
       "image": null,
       "ownerUserId": null,

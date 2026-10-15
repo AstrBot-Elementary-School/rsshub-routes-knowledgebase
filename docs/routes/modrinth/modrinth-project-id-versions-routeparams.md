@@ -104,16 +104,16 @@
   },
   "topFeeds": [
     {
-      "description": "This plugin makes spawners minable using SilkTouch tools - Powered by RSSHub",
+      "description": "A lightweight but feature rich & multi-currency trade plugin with a simple configuration. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "123852225922308096",
+      "id": "114582838985083904",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/yqj3dcbL",
-      "title": "SilkSpawners Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/nZSk44a8",
+      "title": "AxTrade Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/yqj3dcbL/versions"
+      "url": "rsshub://modrinth/project/nZSk44a8/versions"
     },
     {
       "description": "Aesthetic Technology that empowers the Player - Powered by RSSHub",

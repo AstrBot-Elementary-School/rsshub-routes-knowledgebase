@@ -143,8 +143,8 @@ Member ID
     },
     {
       "description": "乃木坂46 公式ブログ - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-14T16:10:52.044Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "70371597455258640",
       "image": null,
       "ownerUserId": null,

@@ -79,7 +79,7 @@ _None_
       "id": "157556838203262976",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.storm.mg/api/getArticleList",
+      "siteUrl": "https://www.storm.mg/channel/2",
       "title": "風傳媒",
       "type": "feed",
       "url": "rsshub://storm/channel/2"

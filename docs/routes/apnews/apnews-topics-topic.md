@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 761,
+  "heat": 760,
   "location": "topics.ts",
   "maintainers": [
     "zoenglinghou",
@@ -97,7 +97,7 @@ _None_
     {
       "description": "Associated Press News: Breaking News, Latest Headlines and Videos | AP News - Powered by RSSHub",
       "errorAt": "2026-09-15T20:16:24.094Z",
-      "errorMessage": "[GET] \"https://apnews.com/hub/apf-topnews\": 403 Forbidden\n",
+      "errorMessage": "AP News returned 403 for https://apnews.com/hub/apf-topnews. Check that the official source is public and available.\n",
       "id": "41648644680942592",
       "image": null,
       "ownerUserId": null,

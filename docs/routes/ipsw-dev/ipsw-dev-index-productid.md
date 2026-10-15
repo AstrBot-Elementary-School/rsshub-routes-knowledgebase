@@ -52,14 +52,14 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Released - Powered by RSSHub",
+      "description": "iPhone 16 Pro Released - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "168663519061177344",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://ipsw.dev/product/version/iPhone17,1",
-      "title": "Released",
+      "siteUrl": "https://ipsw.dev/iPhone17,1",
+      "title": "iPhone 16 Pro Released",
       "type": "feed",
       "url": "rsshub://ipsw.dev/index/iPhone17%2C1"
     },

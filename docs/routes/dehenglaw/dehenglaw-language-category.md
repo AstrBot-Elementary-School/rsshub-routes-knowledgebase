@@ -120,8 +120,8 @@
       "id": "174674333066488832",
       "image": "https://www.dehenglaw.com/images/logo_deheng.png",
       "ownerUserId": null,
-      "siteUrl": "https://www.dehenglaw.com/CN/publish/0008/000901.aspx",
-      "title": "德恒论坛 - 德恒探索 - 德恒律师事务所",
+      "siteUrl": "https://www.dehenglaw.com/CN/publish/0008/000903.aspx",
+      "title": "出版物 - 德恒探索 - 德恒律师事务所",
       "type": "feed",
       "url": "rsshub://dehenglaw/CN/publish"
     },
@@ -132,8 +132,8 @@
       "id": "64491755230449667",
       "image": "https://www.dehenglaw.com/images/logo_deheng.png",
       "ownerUserId": null,
-      "siteUrl": "https://www.dehenglaw.com/CN/paper/0008/000901.aspx",
-      "title": "德恒论坛 - 德恒探索 - 德恒律师事务所",
+      "siteUrl": "https://www.dehenglaw.com/CN/paper/0008/000902.aspx",
+      "title": "专业文章 - 德恒探索 - 德恒律师事务所",
       "type": "feed",
       "url": "rsshub://dehenglaw/CN/paper"
     }

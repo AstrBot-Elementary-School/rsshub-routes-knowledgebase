@@ -68,7 +68,7 @@ _None_
       "id": "119928653973749760",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.foreignaffairs.com/rss.xml",
+      "siteUrl": "https://www.foreignaffairs.com/",
       "title": "Foreign Affairs - RSS",
       "type": "feed",
       "url": "rsshub://foreignaffairs/rss"

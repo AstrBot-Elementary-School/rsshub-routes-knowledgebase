@@ -186,7 +186,7 @@ _None_
     {
       "description": "All News - Newsroom - Netflix - Powered by RSSHub",
       "errorAt": "2026-10-05T19:30:54.615Z",
-      "errorMessage": "Unhandled node type: heading-1\n",
+      "errorMessage": "Unhandled mark type: superscript\n",
       "id": "238930364614695936",
       "image": "https://about.netflix.com/favicon.ico",
       "ownerUserId": null,

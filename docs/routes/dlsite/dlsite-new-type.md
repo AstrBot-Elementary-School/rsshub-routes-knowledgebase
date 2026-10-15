@@ -123,7 +123,7 @@ _None_
       "id": "72604834390187008",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "rsshub://dlsite/new/maniax/new",
+      "siteUrl": "https://www.dlsite.com/maniax/new",
       "title": "発売カレンダー: 同人誌・同人ゲーム・同人ボイス・ASMRのダウンロードなら「DLsite 同人 - R18」",
       "type": "feed",
       "url": "rsshub://dlsite/new/maniax"

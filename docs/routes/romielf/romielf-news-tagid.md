@@ -36,7 +36,7 @@ _None_
     "sport"
   ],
   "example": "/romielf/news",
-  "heat": 0,
+  "heat": 1,
   "location": "news.ts",
   "maintainers": [
     "TonyRL"

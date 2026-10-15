@@ -6,7 +6,7 @@
 - URL: `www.playstation.com`
 - Language: `_None_`
 - Aliases: `playstation store, playstation.com, ps, www, www.playstation.com`
-- Route Count: `2`
+- Route Count: `3`
 
 ## Routes
 
@@ -17,6 +17,14 @@
 - File Name: `ps-monthly-games.md`
 - Categories: `game, popular`
 - Maintainers: `justjustCC`
+
+### Game Price
+- Route ID: `ps:/ps/price/:id/:locale?`
+- Route Path: `/ps/price/:id/:locale?`
+- File: `docs/routes/ps/ps-price-id-locale.md`
+- File Name: `ps-price-id-locale.md`
+- Categories: `game`
+- Maintainers: `pseudoyu`
 
 ### Network user trophy
 - Route ID: `ps:/ps/trophy/:id`

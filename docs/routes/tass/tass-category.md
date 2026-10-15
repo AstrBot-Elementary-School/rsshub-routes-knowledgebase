@@ -84,7 +84,7 @@
       "id": "64310795153576960",
       "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
       "ownerUserId": null,
-      "siteUrl": "https://docs.rsshub.app/",
+      "siteUrl": "https://tass.com/politics",
       "title": "Russian Politics & Diplomacy - TASS",
       "type": "feed",
       "url": "rsshub://tass/politics"
@@ -96,7 +96,7 @@
       "id": "64311310991740928",
       "image": "https://tass.com/img/blocks/common/tass_logo_share_eng.png",
       "ownerUserId": null,
-      "siteUrl": "https://docs.rsshub.app/",
+      "siteUrl": "https://tass.com/world",
       "title": "World - TASS",
       "type": "feed",
       "url": "rsshub://tass/world"

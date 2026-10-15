@@ -89,8 +89,8 @@
     },
     {
       "description": "立法_中国人大网 - Powered by RSSHub",
-      "errorAt": "2026-09-07T23:38:03.336Z",
-      "errorMessage": "Cannot read properties of null (reading '1')\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "62717033472135175",
       "image": null,
       "ownerUserId": null,

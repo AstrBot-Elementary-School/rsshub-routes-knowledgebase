@@ -82,7 +82,7 @@
       "id": "41147805272531998",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.slowmist.com/api/get_list?type=research",
+      "siteUrl": "https://www.slowmist.com/zh/news.html",
       "title": "慢雾科技 - 技术研究",
       "type": "feed",
       "url": "rsshub://slowmist/research"

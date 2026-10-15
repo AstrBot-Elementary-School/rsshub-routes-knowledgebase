@@ -68,7 +68,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 153,
+  "heat": 152,
   "location": "news.tsx",
   "maintainers": [
     "nczitzk"
@@ -100,7 +100,7 @@
     {
       "description": "TVB News - 要闻 - Powered by RSSHub",
       "errorAt": "2026-10-09T14:36:12.477Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "TVB could not retrieve focus news (NA01010003). Please try again later.\n",
       "id": "68507536443122688",
       "image": null,
       "ownerUserId": null,

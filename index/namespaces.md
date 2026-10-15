@@ -5537,7 +5537,7 @@ Use this file to select the target namespace before opening route documents.
 ## Huggingface
 - Namespace: `huggingface`
 - Aliases: `huggingface, huggingface.co`
-- Route Count: `7`
+- Route Count: `8`
 - Index File: `index/huggingface.md`
 
 ## 中央汇金投资有限责任公司
@@ -8510,6 +8510,12 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `2`
 - Index File: `index/p-articles.md`
 
+## Premium Bandai
+- Namespace: `p-bandai`
+- Aliases: `p-bandai, p-bandai.jp, premium bandai`
+- Route Count: `1`
+- Index File: `index/p-bandai.md`
+
 ## 普世社会科学研究所
 - Namespace: `pacilution`
 - Aliases: `pacilution, pacilution.com, www, www.pacilution.com, 普世社会科学研究所`
@@ -8837,7 +8843,7 @@ Use this file to select the target namespace before opening route documents.
 ## PlayStation Store
 - Namespace: `ps`
 - Aliases: `playstation store, playstation.com, ps, www, www.playstation.com`
-- Route Count: `2`
+- Route Count: `3`
 - Index File: `index/ps.md`
 
 ## PSN 中文站

@@ -439,18 +439,6 @@
   },
   "topFeeds": [
     {
-      "description": "课程及考试安排 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "66343158574786560",
-      "image": "https://gs.hust.edu.cn/img/logo.png",
-      "ownerUserId": null,
-      "siteUrl": "https://gs.hust.edu.cn/tzgg/kcjksap.htm",
-      "title": "华中科技大学研究生院 - 课程及考试安排",
-      "type": "feed",
-      "url": "rsshub://hust/gs/tzgg/kcjksap"
-    },
-    {
       "description": "新闻动态 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -461,6 +449,18 @@
       "title": "华中科技大学研究生院 - 新闻动态",
       "type": "feed",
       "url": "rsshub://hust/gs/xwdt"
+    },
+    {
+      "description": "华中科技大学研究生院 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "73885764596009984",
+      "image": "https://gs.hust.edu.cn/img/logo.png",
+      "ownerUserId": null,
+      "siteUrl": "https://gs.hust.edu.cn/gzzd/zhgl.htm",
+      "title": "华中科技大学研究生院",
+      "type": "feed",
+      "url": "rsshub://hust/gs/gzzd/zhgl"
     }
   ],
   "url": "gs.hust.edu.cn"

@@ -73,7 +73,7 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Termux releases on F-Droid - Powered by RSSHub",
+      "description": "Terminal emulator with packages - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "59812950247047168",

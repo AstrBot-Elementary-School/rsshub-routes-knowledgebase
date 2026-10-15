@@ -135,14 +135,14 @@
       "url": "rsshub://malaysiakini/en"
     },
     {
-      "description": "News & Views That Matter - Powered by RSSHub",
-      "errorAt": "2026-09-07T10:16:30.919Z",
-      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/886890-%E6%8A%A8%E6%94%BF%E5%BA%9C%E5%9C%A8%E6%89%8E%E5%B8%8C%E5%81%A5%E6%80%9D%E6%A1%88%E5%8F%8C%E6%A0%87%E9%9B%B7%E5%B0%94%E5%BC%BA%E8%B0%83%E6%97%A0%E4%BA%BA%E5%8F%AF%E8%B1%81%E5%85%8D\": 404 Not Found\n",
+      "description": "Latest articles from 新聞 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "69685104073634816",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.malaysiakini.com/",
-      "title": "Malaysiakini",
+      "siteUrl": "https://www.malaysiakini.com/zh/latest/news",
+      "title": "新聞 - Malaysiakini",
       "type": "feed",
       "url": "rsshub://malaysiakini/zh/news"
     }

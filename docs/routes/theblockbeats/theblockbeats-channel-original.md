@@ -53,7 +53,7 @@ _None_
   ],
   "description": "|    快讯   |   文章  |\n| :-------: | :-----: |\n| newsflash | article |\n\n| 全部 | 深度 | 精选 | 热点追踪 |\n| :--: | :--: | :--: | :------: |\n|   0  |   1  |   2  |     3    |",
   "example": "/theblockbeats/newsflash",
-  "heat": 816,
+  "heat": 818,
   "location": "index.tsx",
   "maintainers": [
     "Fatpandac",

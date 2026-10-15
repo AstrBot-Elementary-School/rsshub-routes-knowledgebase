@@ -102,8 +102,8 @@
     },
     {
       "description": "三立新聞網 - 政治 - Powered by RSSHub",
-      "errorAt": "2026-07-05T12:10:44.402Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "88520448616402944",
       "image": null,
       "ownerUserId": null,

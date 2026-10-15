@@ -83,7 +83,7 @@ _None_
       "id": "67022535379083293",
       "image": "https://cdn10.dcfever.com/images/android_192.png",
       "ownerUserId": null,
-      "siteUrl": "https://www.dcfever.com/news/index.php?type=undefined",
+      "siteUrl": "https://www.dcfever.com/news/index.php",
       "title": "最新消息 - DCFever.com 香港最受歡迎數碼產品資訊互動平台",
       "type": "feed",
       "url": "rsshub://dcfever/news"

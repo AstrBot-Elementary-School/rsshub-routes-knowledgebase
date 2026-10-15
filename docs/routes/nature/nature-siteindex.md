@@ -69,7 +69,7 @@ _None_
       "id": "137598992929939456",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://docs.rsshub.app/",
+      "siteUrl": "https://www.nature.com/siteindex",
       "title": "Nature siteindex",
       "type": "feed",
       "url": "rsshub://nature/siteindex"

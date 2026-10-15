@@ -95,7 +95,7 @@ _None_
       "id": "70321821822859264",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://misskon.com/wp-json/wp/v2/posts?search=video&tags_exclude=353,3100&per_page=5",
+      "siteUrl": "https://misskon.com/",
       "title": "MissKON - search=video&tags_exclude=353,3100&per_page=5",
       "type": "feed",
       "url": "rsshub://misskon/posts/search=video&tags_exclude=353,3100&per_page=5"

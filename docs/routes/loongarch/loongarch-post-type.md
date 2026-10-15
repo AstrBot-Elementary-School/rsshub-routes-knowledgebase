@@ -80,7 +80,7 @@ _None_
       "id": "69988054872006656",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://bbs.loongarch.org/api/discussions",
+      "siteUrl": "https://bbs.loongarch.org/",
       "title": "LA UOSC-最新帖子",
       "type": "feed",
       "url": "rsshub://loongarch/post/newest"

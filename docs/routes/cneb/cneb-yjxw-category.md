@@ -92,8 +92,8 @@
     },
     {
       "description": "国家应急广播 - 新闻 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-14T13:03:05.456Z",
+      "errorMessage": "Failed to fetch\nFailed to fetch\n",
       "id": "57295548899554304",
       "image": null,
       "ownerUserId": null,

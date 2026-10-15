@@ -91,16 +91,16 @@ _None_
       "url": "rsshub://github/pulse/massCodeIO/massCode"
     },
     {
-      "description": "facebookresearch/audiocraft weekly Pulse - Powered by RSSHub",
+      "description": "wood3n/biu weekly Pulse - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "220767323256864790",
+      "id": "215344700650354688",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/facebookresearch/audiocraft/pulse/weekly",
-      "title": "facebookresearch/audiocraft weekly Pulse",
+      "siteUrl": "https://github.com/wood3n/biu/pulse/weekly",
+      "title": "wood3n/biu weekly Pulse",
       "type": "feed",
-      "url": "rsshub://github/pulse/facebookresearch/audiocraft/weekly"
+      "url": "rsshub://github/pulse/wood3n/biu"
     }
   ]
 }

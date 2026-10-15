@@ -76,7 +76,7 @@ _None_
     {
       "description": "qBittorrent News - Powered by RSSHub",
       "errorAt": "2025-07-01T19:06:28.681Z",
-      "errorMessage": "[GET] \"https://www.qbittorrent.org/news.php\": 403 Forbidden\n[GET] \"https://www.qbittorrent.org/news.php\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.qbittorrent.org/news.php\": <no response> fetch failed\n[GET] \"https://www.qbittorrent.org/news.php\": 403 Forbidden\n",
       "id": "43121778624967680",
       "image": null,
       "ownerUserId": null,

@@ -326,7 +326,7 @@ _None_
       "id": "74696531705607168",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://fantia.jp/posts?keyword=&peroid=all&brand_type=0&category=&order=updater&per_page=30",
+      "siteUrl": "https://fantia.jp/ranking?brand_type=0&category=&per_page=30&period=all&kind=point&rating_type=all&content=post",
       "title": "Fantia - Search posts",
       "type": "feed",
       "url": "rsshub://fantia/search/posts/all/all/updater/all"

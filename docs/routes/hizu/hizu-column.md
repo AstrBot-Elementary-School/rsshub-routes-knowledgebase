@@ -113,8 +113,8 @@
     },
     {
       "description": "热点 - 珠海网 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-13T22:36:29.398Z",
+      "errorMessage": "[GET] \"https://www.hizh.cn/channels/zjyapp/columns/5dd92265e4b0bf88dd8c1175/stories.json\": 522 <none>\n",
       "id": "76267574626993152",
       "image": null,
       "ownerUserId": null,

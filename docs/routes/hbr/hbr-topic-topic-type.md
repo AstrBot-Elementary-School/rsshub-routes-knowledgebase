@@ -115,7 +115,7 @@ Click here to view [All Topics](https://hbr.org/topics)
     {
       "description": "Leadership - HBR - Popular - Powered by RSSHub",
       "errorAt": "2025-03-06T20:21:02.722Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "HBR no longer publishes the Popular topic feed. Use the From the Store type for its public store summaries.\n",
       "id": "87319836309791744",
       "image": null,
       "ownerUserId": null,

@@ -63,8 +63,8 @@ _None_
   "topFeeds": [
     {
       "description": "USENIX Security Symposium Accpeted Papers - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-14T09:16:14.868Z",
+      "errorMessage": "503 \n",
       "id": "41467327574791203",
       "image": null,
       "ownerUserId": null,

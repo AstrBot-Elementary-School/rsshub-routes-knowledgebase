@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "沸点 - 推荐 - Powered by RSSHub",
-      "errorAt": "2025-01-15T09:08:35.167Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'map')\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "55215029121101840",
       "image": null,
       "ownerUserId": null,

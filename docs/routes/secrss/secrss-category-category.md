@@ -68,7 +68,7 @@ _None_
     {
       "description": "安全内参-产业趋势 - Powered by RSSHub",
       "errorAt": "2025-03-26T04:39:26.148Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'map')\n",
+      "errorMessage": "Category \"产业趋势\" is unavailable. Choose a current category from https://www.secrss.com.\n",
       "id": "59424053436911616",
       "image": null,
       "ownerUserId": null,

@@ -85,7 +85,7 @@ More could be found in the URL of the category/topic page.
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 6079,
+  "heat": 6073,
   "location": "common.tsx",
   "maintainers": [
     "LyleLee",
@@ -166,7 +166,7 @@ More could be found in the URL of the category/topic page.
     {
       "description": "Follow the latest international and world news, breaking stories and global current events from your trusted online news source. - Powered by RSSHub",
       "errorAt": "2026-10-01T05:03:02.506Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://www.reuters.com/arc/outboundfeeds/v4/mobile/section/world/?outputType=json\": 404 \n[GET] \"https://www.reuters.com/arc/outboundfeeds/v4/mobile/section/world/?outputType=json\": 404 \n[GET] \"https://www.reuters.com/arc/outboundfeeds/v4/mobile/section/world/?outputType=json\": 404 \n[GET] \"https://www.reuters.com/arc/outboundfeeds/v4/mobile/section/world/?outputType=json\": 404 Not Found\n[GET] \"https://www.reuters.com/arc/outboundfeeds/v4/mobile/section/world/?outputType=json\": 404 Not Found\n[GET] \"https://www.reuters.com/arc/outboundfeeds/v4/mobile/section/world/?outputType=json\": 404 Not Found\n[GET] \"https://www.reuters.com/arc/outboundfeeds/v4/mobile/section/world/?outputType=json\": 404 Not Found\n[GET] \"https://www.reuters.com/arc/outboundfeeds/v4/mobile/section/world/?outputType=json\": 404 Not Found\n[GET] \"https://www.reuters.com/arc/outboundfeeds/v4/mobile/section/world/?outputType=json\": 404 Not Found\n[GET] \"https://www.reuters.com/arc/outboundfeeds/v4/mobile/section/world/?outputType=json\": 404 Not Found\n",
+      "errorMessage": "Failed to fetch\n[GET] \"https://www.reuters.com/arc/outboundfeeds/v4/mobile/section/world/?outputType=json\": 404 \n[GET] \"https://www.reuters.com/arc/outboundfeeds/v4/mobile/section/world/?outputType=json\": 404 \n[GET] \"https://www.reuters.com/arc/outboundfeeds/v4/mobile/section/world/?outputType=json\": 404 \n[GET] \"https://www.reuters.com/arc/outboundfeeds/v4/mobile/section/world/?outputType=json\": 404 Not Found\n[GET] \"https://www.reuters.com/arc/outboundfeeds/v4/mobile/section/world/?outputType=json\": 404 \n[GET] \"https://www.reuters.com/arc/outboundfeeds/v4/mobile/section/world/?outputType=json\": 404 Not Found\n[GET] \"https://www.reuters.com/arc/outboundfeeds/v4/mobile/section/world/?outputType=json\": 404 Not Found\nFailed to fetch\n[GET] \"https://www.reuters.com/arc/outboundfeeds/v4/mobile/section/world/?outputType=json\": 404 Not Found\n[GET] \"https://www.reuters.com/arc/outboundfeeds/v4/mobile/section/world/?outputType=json\": 404 Not Found\n",
       "id": "42371779203556352",
       "image": "https://www.reuters.com/pf/resources/images/reuters/logo-vertical-default-512x512.png?d=116",
       "ownerUserId": null,

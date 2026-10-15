@@ -83,8 +83,8 @@ _None_
     },
     {
       "description": "Pornhub - asiam - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-14T02:05:17.380Z",
+      "errorMessage": "Cannot read properties of undefined (reading 'map')\n",
       "id": "59970246903171072",
       "image": null,
       "ownerUserId": null,

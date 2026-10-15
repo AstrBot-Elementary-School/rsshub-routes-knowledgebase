@@ -6,7 +6,7 @@
 - URL: `huggingface.co`
 - Language: `_None_`
 - Aliases: `huggingface, huggingface.co`
-- Route Count: `7`
+- Route Count: `8`
 
 ## Routes
 
@@ -17,6 +17,14 @@
 - File Name: `huggingface-activity-user-likes.md`
 - Categories: `programming`
 - Maintainers: `dotwee`
+
+### User Posts Activity
+- Route ID: `huggingface:/huggingface/activity/:user/posts`
+- Route Path: `/huggingface/activity/:user/posts`
+- File: `docs/routes/huggingface/huggingface-activity-user-posts.md`
+- File Name: `huggingface-activity-user-posts.md`
+- Categories: `programming`
+- Maintainers: `qqc20043, pseudoyu`
 
 ### 英文博客
 - Route ID: `huggingface:/huggingface/blog`

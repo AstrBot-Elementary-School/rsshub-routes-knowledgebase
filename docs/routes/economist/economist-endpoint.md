@@ -87,7 +87,7 @@ _None_
     {
       "description": "The most recent blogs and online articles from The Economist - Powered by RSSHub",
       "errorAt": "2025-09-05T18:15:19.885Z",
-      "errorMessage": "[GET] \"https://www.economist.com/science-and-technology/2026/10/12/ais-mathematics-blitz-pushes-science-into-strange-new-territory\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.economist.com/podcasts/2026/10/14/kemi-badenoch-tries-to-unite-britains-right\": 403 Forbidden\n",
       "id": "54859243036899328",
       "image": null,
       "ownerUserId": null,

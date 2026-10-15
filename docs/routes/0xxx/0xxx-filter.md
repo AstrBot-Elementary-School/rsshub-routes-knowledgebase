@@ -90,7 +90,7 @@ To subscribe to [Movie HD 1080p](https://0xxx.ws?category=Movie-HD-1080p), where
       "image": "https://0xxx.ws/images/logo.png",
       "ownerUserId": null,
       "siteUrl": "https://0xxx.ws/",
-      "title": "0xxx.ws - undefined",
+      "title": "0xxx.ws",
       "type": "feed",
       "url": "rsshub://0xxx"
     },

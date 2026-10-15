@@ -77,14 +77,14 @@
   },
   "topFeeds": [
     {
-      "description": "中文热门游戏折扣合集-游戏打折情报 - Powered by RSSHub",
-      "errorAt": "2026-09-28T15:01:23.016Z",
-      "errorMessage": "Authentication failed. Access denied.\n/yxdzqb/popular_cn\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "description": "热门游戏折扣-游戏打折情报 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41476070206969860",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.yxdzqb.com/index_popular_cn.html",
-      "title": "中文热门游戏折扣合集-游戏打折情报",
+      "title": "热门游戏折扣-游戏打折情报",
       "type": "feed",
       "url": "rsshub://yxdzqb/popular_cn"
     },

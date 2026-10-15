@@ -114,7 +114,7 @@ Currently supported authentication methods:
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 972632,
+  "heat": 973516,
   "location": "user.ts",
   "maintainers": [
     "DIYgod",
@@ -152,8 +152,8 @@ Currently supported authentication methods:
     },
     {
       "description": "Twitter @Elon Musk - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-14T16:10:47.795Z",
+      "errorMessage": "An internal error occurred while refreshing the feed.",
       "id": "100411504863520768",
       "image": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG.jpg",
       "ownerUserId": null,

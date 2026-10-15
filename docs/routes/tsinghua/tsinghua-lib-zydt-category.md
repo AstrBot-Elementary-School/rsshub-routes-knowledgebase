@@ -108,7 +108,7 @@
       "errorAt": null,
       "errorMessage": null,
       "id": "55800849364779008",
-      "image": "https://lib.tsinghua.edu.cn/undefined",
+      "image": "https://lib.tsinghua.edu.cn/images/logo1.png",
       "ownerUserId": null,
       "siteUrl": "https://lib.tsinghua.edu.cn/zydt.htm",
       "title": "资源动态-清华大学图书馆",

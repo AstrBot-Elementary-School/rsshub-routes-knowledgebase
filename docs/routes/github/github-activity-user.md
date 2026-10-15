@@ -93,7 +93,7 @@ Get the activities of a user on GitHub, based on the GitHub official RSS feed
       "errorAt": null,
       "errorMessage": null,
       "id": "41213691921864704",
-      "image": "https://avatars.githubusercontent.com/u/11247099?s=30&amp;v=4",
+      "image": "https://avatars.githubusercontent.com/u/11247099?s=30&v=4",
       "ownerUserId": null,
       "siteUrl": "https://github.com/antfu",
       "title": "antfu's GitHub activities",

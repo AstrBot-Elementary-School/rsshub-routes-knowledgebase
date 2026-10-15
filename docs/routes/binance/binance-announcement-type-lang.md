@@ -122,7 +122,7 @@ _None_
   "topFeeds": [
     {
       "description": "Announcement list from Binance message center. - Powered by RSSHub",
-      "errorAt": "2026-10-13T03:32:27.659Z",
+      "errorAt": "2026-10-14T14:50:30.034Z",
       "errorMessage": "[GET] \"https://www.binance.com/bapi/apex/v1/public/apex/cms/article/list/query?type=1&pageNo=1&pageSize=20&catalogId=48\": 403 Forbidden\n",
       "id": "54390728350522368",
       "image": null,
@@ -134,8 +134,8 @@ _None_
     },
     {
       "description": "Announcement list from Binance message center. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-14T04:35:53.528Z",
+      "errorMessage": "[GET] \"https://www.binance.com/bapi/apex/v1/public/apex/cms/article/list/query?type=1&pageNo=1&pageSize=20&catalogId=49\": 403 Forbidden\n",
       "id": "56573138387473408",
       "image": null,
       "ownerUserId": null,

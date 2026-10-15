@@ -93,7 +93,7 @@
     {
       "description": ":name - Powered by RSSHub",
       "errorAt": "2024-12-27T08:10:00.277Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'records')\n",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "86762794364010496",
       "image": null,
       "ownerUserId": null,

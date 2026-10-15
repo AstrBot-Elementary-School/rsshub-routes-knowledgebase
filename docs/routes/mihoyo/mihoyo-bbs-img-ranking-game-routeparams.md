@@ -529,8 +529,8 @@
     },
     {
       "description": "米游社-崩坏：星穹铁道-同人榜-日榜 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-13T22:36:45.262Z",
+      "errorMessage": "503 \n",
       "id": "74617383214838784",
       "image": null,
       "ownerUserId": null,

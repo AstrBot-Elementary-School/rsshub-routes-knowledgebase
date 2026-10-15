@@ -135,8 +135,8 @@
   "topFeeds": [
     {
       "description": "联合资信评估股份有限公司 - 服务介绍 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-14T15:55:41.911Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "104824308798705664",
       "image": "https://www.lhratings.com/home/images/logo.png",
       "ownerUserId": null,
@@ -147,8 +147,8 @@
     },
     {
       "description": "联合资信评估股份有限公司 - 非金融企业 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-14T14:20:33.440Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "101364983690255360",
       "image": "https://www.lhratings.com/home/images/logo.png",
       "ownerUserId": null,

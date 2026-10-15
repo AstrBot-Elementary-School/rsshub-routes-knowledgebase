@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 289,
+  "heat": 290,
   "location": "search.ts",
   "maintainers": [
     "yindaheng98",
@@ -71,14 +71,14 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "undefined - E-Hentai Search - Powered by RSSHub",
+      "description": "Search - E-Hentai Search - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "96502911354921984",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://e-hentai.org/?undefined",
-      "title": "undefined - E-Hentai Search",
+      "siteUrl": "https://e-hentai.org/?",
+      "title": "Search - E-Hentai Search",
       "type": "feed",
       "url": "rsshub://ehentai/search"
     },

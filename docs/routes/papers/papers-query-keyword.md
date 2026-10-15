@@ -106,7 +106,7 @@ If you subscibe to [arXiv Paper queryed by Detection](https://papers.cool/arxiv/
       "id": "191737387979350016",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://papers.cool/arxiv/search?highlight=1&query=LLMs%20for%20Scientific%20Discovery&sort=0",
+      "siteUrl": "https://papers.cool/arxiv/search?highlight=1&query=LLMs+for+Scientific+Discovery&sort=0",
       "title": "llms for scientific discovery",
       "type": "feed",
       "url": "rsshub://papers/query/LLMs%20for%20Scientific%20Discovery"

@@ -89,16 +89,16 @@ _None_
       "url": "rsshub://tiktok/user/@policiadecolombia"
     },
     {
-      "description": "Just out here building cool stuff and showing you how! - Powered by RSSHub",
+      "description": "26 | collab: chicgirlmoment@gmail.com Instagram/tumblr/pinterest: chicgirlmoment - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1294380702568939520",
-      "image": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-avt-0068-euttp/f449f1f942e44275d2cada2db3b64236~tplv-tiktokx-cropcenter:100:100.jpeg?dr=10399&refresh_token=d4c1c470&x-expires=1792069200&x-signature=sePxlbOIJm4F5d6s36rKRwAvEvo%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=no1a",
+      "id": "1330206939031666688",
+      "image": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-avt-0068-euttp/ace9e4888f2a72858a085be8127fd3a2~tplv-tiktokx-cropcenter:100:100.jpeg?dr=10399&refresh_token=6dcf55bc&x-expires=1792159200&x-signature=H0hcvTCytbiTimKOU3dgWj9PuRo%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=no1a",
       "ownerUserId": null,
-      "siteUrl": "https://www.tiktok.com/@frankly_built",
-      "title": "frankly_built (@frankly_built) | TikTok",
+      "siteUrl": "https://www.tiktok.com/@chicgirlmoment",
+      "title": "𝓘 (@chicgirlmoment) | TikTok",
       "type": "feed",
-      "url": "rsshub://tiktok/user/@frankly_built"
+      "url": "rsshub://tiktok/user/chicgirlmoment"
     }
   ]
 }

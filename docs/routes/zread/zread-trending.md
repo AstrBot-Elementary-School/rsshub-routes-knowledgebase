@@ -40,7 +40,7 @@ _None_
   ],
   "description": "订阅当周的热门 GitHub 项目，优先使用源站提供的中文简介。源站没有提供项目进入榜单的时间，因此条目不设置发布日期。",
   "example": "/zread/trending",
-  "heat": 0,
+  "heat": 1,
   "location": "trending.tsx",
   "maintainers": [
     "DIYgod"

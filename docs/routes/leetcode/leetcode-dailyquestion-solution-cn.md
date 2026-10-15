@@ -38,7 +38,7 @@ _None_
     "programming"
   ],
   "example": "/leetcode/dailyquestion/solution/cn",
-  "heat": 114,
+  "heat": 115,
   "location": "dailyquestion-solution-cn.ts",
   "maintainers": [
     "woaidouya123"
@@ -58,12 +58,12 @@ _None_
   "topFeeds": [
     {
       "description": "LeetCode 每日一题题解 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-14T12:22:06.567Z",
+      "errorMessage": "Authentication failed. Access denied.\n/leetcode/dailyquestion/solution/cn\nFailed to fetch\n[POST] \"https://leetcode.cn/graphql/\": 522 <none>\n",
       "id": "56597410818564096",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://leetcode.cn/problems/maximum-alternating-sum-of-squares/",
+      "siteUrl": "https://leetcode.cn/problems/maximize-sum-of-squares-of-digits/",
       "title": "LeetCode 每日一题题解",
       "type": "feed",
       "url": "rsshub://leetcode/dailyquestion/solution/cn"

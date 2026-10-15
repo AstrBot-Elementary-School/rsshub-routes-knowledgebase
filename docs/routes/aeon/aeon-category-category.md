@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 504,
+  "heat": 506,
   "location": "category.ts",
   "maintainers": [
     "emdoe"
@@ -115,7 +115,7 @@ _None_
       "id": "71782163523746816",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://aeon.co/category/philosophy",
+      "siteUrl": "https://aeon.co/philosophy",
       "title": "AEON | Philosophy",
       "type": "feed",
       "url": "rsshub://aeon/category/philosophy"

@@ -718,7 +718,7 @@
     {
       "description": "变形金刚玩具,高达模型,PG,MG,HGUC,SD,高达模型制作,模玩论坛,动漫周边,玩具店,海贼王周边,圣衣神话 - Powered by RSSHub",
       "errorAt": "2026-01-20T09:36:26.980Z",
-      "errorMessage": "[GET] \"https://bbs.78dm.net/forum/post/1918843.html\": 404 Not Found\n[GET] \"https://bbs.78dm.net/forum/post/1918846.html\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://bbs.78dm.net/forum/post/1918867.html\": 404 Not Found\n[GET] \"https://bbs.78dm.net/forum/post/1918865.html\": 404 Not Found\n",
       "id": "61450581766908928",
       "image": "https://www.78dm.net/assets/e40a0f68/images/logo.png",
       "ownerUserId": null,
@@ -730,7 +730,7 @@
     {
       "description": "变形金刚玩具,高达模型,PG,MG,HGUC,SD,高达模型制作,模玩论坛,动漫周边,玩具店,海贼王周边,圣衣神话 - Powered by RSSHub",
       "errorAt": "2025-08-22T11:19:39.461Z",
-      "errorMessage": "[GET] \"https://bbs.78dm.net/forum/post/1918089.html\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://bbs.78dm.net/forum/post/1918275.html\": 404 Not Found\n",
       "id": "84513352590783488",
       "image": "https://www.78dm.net/assets/56dc74ac/images/logo.png",
       "ownerUserId": null,

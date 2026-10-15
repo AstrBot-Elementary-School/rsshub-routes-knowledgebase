@@ -69,18 +69,6 @@ _None_
       "description": "南方都市报奥一网 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "150755089712076808",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.oeeee.com/api/channel.php?s=/index/index/channel/depth",
-      "title": "南方都市报奥一网",
-      "type": "feed",
-      "url": "rsshub://oeeee/web/168"
-    },
-    {
-      "description": "南方都市报奥一网 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "150755089712076802",
       "image": null,
       "ownerUserId": null,
@@ -88,6 +76,18 @@ _None_
       "title": "南方都市报奥一网",
       "type": "feed",
       "url": "rsshub://oeeee/web/588"
+    },
+    {
+      "description": "南方都市报奥一网 - Powered by RSSHub",
+      "errorAt": "2026-10-14T14:46:26.834Z",
+      "errorMessage": "[GET] \"https://m.mp.oeeee.com/oe/BAAFRD0000202610141682363.html\": 525 <none>\n",
+      "id": "150755089712076808",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.oeeee.com/api/channel.php?s=/index/index/channel/depth",
+      "title": "南方都市报奥一网",
+      "type": "feed",
+      "url": "rsshub://oeeee/web/168"
     }
   ]
 }

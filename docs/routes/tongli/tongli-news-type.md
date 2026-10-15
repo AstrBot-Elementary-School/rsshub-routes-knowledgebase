@@ -70,7 +70,7 @@ _None_
       "id": "78620198692811776",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://docs.rsshub.app/",
+      "siteUrl": "https://www.tongli.com.tw/TNews_List.aspx?Type=6&Page=1",
       "title": "T-NEWS首頁",
       "type": "feed",
       "url": "rsshub://tongli/news/6"

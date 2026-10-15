@@ -91,8 +91,8 @@
     },
     {
       "description": "合肥工业大学 - 通知公告 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-14T13:41:13.957Z",
+      "errorMessage": "[GET] \"http://wzqpt.hfut.edu.cn/_s85/2026/1014/c2118a323790/page.psp\": 522 <none>\n",
       "id": "84842310298817536",
       "image": null,
       "ownerUserId": null,

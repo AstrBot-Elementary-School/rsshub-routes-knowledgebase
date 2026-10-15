@@ -95,18 +95,6 @@
       "description": "集思录，一个以数据为本的投资社区 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "133377208716175360",
-      "image": "https://www.jisilu.cn/static/css/jisilu/img/logo_jisilu.png",
-      "ownerUserId": null,
-      "siteUrl": "https://www.jisilu.cn/home/explore/sort_type-hot____day-1",
-      "title": "集思录 - 热门|当天",
-      "type": "feed",
-      "url": "rsshub://jisilu/explore/sort_type-hot____day-1"
-    },
-    {
-      "description": "集思录，一个以数据为本的投资社区 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "60339440727459840",
       "image": "https://www.jisilu.cn/static/css/jisilu/img/logo_jisilu.png",
       "ownerUserId": null,
@@ -114,6 +102,18 @@
       "title": "集思录 - 最新",
       "type": "feed",
       "url": "rsshub://jisilu/explore"
+    },
+    {
+      "description": "集思录，一个以数据为本的投资社区 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "133377208716175360",
+      "image": "https://www.jisilu.cn/static/css/jisilu/img/logo_jisilu.png",
+      "ownerUserId": null,
+      "siteUrl": "https://www.jisilu.cn/home/explore/sort_type-hot____day-1",
+      "title": "集思录 - 热门|当天",
+      "type": "feed",
+      "url": "rsshub://jisilu/explore/sort_type-hot____day-1"
     }
   ],
   "url": "www.jisilu.cn",

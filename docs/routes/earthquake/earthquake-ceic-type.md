@@ -88,12 +88,12 @@
   "topFeeds": [
     {
       "description": "最近24小时地震信息 - Powered by RSSHub",
-      "errorAt": "2024-09-29T07:49:59.550Z",
-      "errorMessage": "Unexpected token '!', \"!doctype h\"... is not valid JSON\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "55611775416893440",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "http://www.ceic.ac.cn/speedsearch",
+      "siteUrl": "https://www.ceic.ac.cn/",
       "title": "最近24小时地震信息",
       "type": "feed",
       "url": "rsshub://earthquake/ceic/1"

@@ -93,7 +93,7 @@
       "id": "59139256789618688",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.pconline.com.cn/3g/other/focus/index.html",
+      "siteUrl": "https://www.pconline.com.cn/focus/",
       "title": "太平洋科技-全部",
       "type": "feed",
       "url": "rsshub://pconline/focus"

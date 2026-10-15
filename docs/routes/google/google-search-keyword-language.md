@@ -80,7 +80,7 @@ _None_
     {
       "description": "被查+site:thepaper.cn - Google Search - Powered by RSSHub",
       "errorAt": "2025-09-10T17:16:47.805Z",
-      "errorMessage": "[GET] \"https://www.google.com/search?q=%E8%A2%AB%E6%9F%A5%2Bsite%3Athepaper.cn\": 429 Too Many Requests\n",
+      "errorMessage": "Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('#search a:has(h3)')\n\n",
       "id": "68685709659153408",
       "image": null,
       "ownerUserId": null,

@@ -86,16 +86,16 @@ _None_
       "url": "rsshub://gitee/events/zepc-hhy"
     },
     {
-      "description": "callmer - 公开动态 - Powered by RSSHub",
+      "description": "NanGePlus - 公开动态 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "158419992977388544",
+      "id": "163616006553730048",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://gitee.com/callmer",
-      "title": "callmer - 公开动态",
+      "siteUrl": "https://gitee.com/NanGePlus",
+      "title": "NanGePlus - 公开动态",
       "type": "feed",
-      "url": "rsshub://gitee/events/callmer"
+      "url": "rsshub://gitee/events/NanGePlus"
     }
   ]
 }

@@ -82,8 +82,8 @@
   "topFeeds": [
     {
       "description": "南开大学研究生院-综合信息 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-14T15:42:55.397Z",
+      "errorMessage": "Could not find the graduate notice content: https://graduate.nankai.edu.cn/2026/0511/c82a594756/page.htm\n",
       "id": "190697912128162816",
       "image": null,
       "ownerUserId": null,

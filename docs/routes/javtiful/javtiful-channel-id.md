@@ -68,26 +68,26 @@ _None_
   },
   "topFeeds": [
     {
-      "description": " - Powered by RSSHub",
+      "description": "FC2PPV - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "66507508116600832",
-      "image": "https://javtiful.com/media/categories/collection/8.jpg?width=140",
+      "image": "/uploads/uploads/collections/channels/2026/04/27/7aded8ab71998f38edf0f671211d728a.jpg",
       "ownerUserId": null,
       "siteUrl": "https://javtiful.com/channel/FC2PPV",
-      "title": "RSSHub",
+      "title": "FC2PPV",
       "type": "feed",
       "url": "rsshub://javtiful/channel/FC2PPV"
     },
     {
-      "description": " - Powered by RSSHub",
+      "description": "Madonna - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "63624830978450432",
-      "image": "https://javtiful.com/media/categories/collection/44.jpg?width=140",
+      "image": "/uploads/uploads/collections/channels/2026/04/27/4b087639fa1a1a63db886b3b87bf6784.jpg",
       "ownerUserId": null,
       "siteUrl": "https://javtiful.com/channel/madonna",
-      "title": "RSSHub",
+      "title": "Madonna",
       "type": "feed",
       "url": "rsshub://javtiful/channel/madonna"
     }

@@ -81,8 +81,8 @@ _None_
     },
     {
       "description": "Google Scholar Citation Monitor: Yan Meng; Profile: School of Computer Science; HomePage: http://yan4meng.github.io/ - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-14T04:20:28.104Z",
+      "errorMessage": "[GET] \"https://scholar.google.com/citations?user=mlmE4JMAAAAJ\": 403 Forbidden\n",
       "id": "65416235395226624",
       "image": null,
       "ownerUserId": null,

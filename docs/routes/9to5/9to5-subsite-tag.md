@@ -76,7 +76,7 @@ _None_
       "id": "63183844748751872",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://9to5mac.com/feed/",
+      "siteUrl": "https://9to5mac.com/",
       "title": "9To5Mac",
       "type": "feed",
       "url": "rsshub://9to5/mac"

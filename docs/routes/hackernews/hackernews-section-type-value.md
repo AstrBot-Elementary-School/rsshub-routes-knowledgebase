@@ -94,7 +94,7 @@ Examples:
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 6741,
+  "heat": 6743,
   "location": "index.ts",
   "maintainers": [
     "nczitzk",

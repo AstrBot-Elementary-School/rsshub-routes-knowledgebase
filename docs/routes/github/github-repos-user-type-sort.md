@@ -89,16 +89,16 @@ _None_
       "url": "rsshub://github/repos/Quorafind"
     },
     {
-      "description": "opendatalab's GitHub repositories - Powered by RSSHub",
+      "description": "CLIMADA-project's GitHub repositories - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "59875311102368768",
+      "id": "201677821604291584",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/opendatalab",
-      "title": "opendatalab's GitHub repositories",
+      "siteUrl": "https://github.com/CLIMADA-project",
+      "title": "CLIMADA-project's GitHub repositories",
       "type": "feed",
-      "url": "rsshub://github/repos/opendatalab"
+      "url": "rsshub://github/repos/CLIMADA-project"
     }
   ]
 }

@@ -97,7 +97,7 @@ _None_
       "id": "76290647520065536",
       "image": "https://v1.imagehub.cc/images/2026/04/21/1210e985ce56b56f20e06094f6817d28.png",
       "ownerUserId": null,
-      "siteUrl": "https://www.gamer520.com//",
+      "siteUrl": "https://www.gamer520.com/",
       "title": "Switch520-Gamer520",
       "type": "feed",
       "url": "rsshub://wordpress/https%3A%2F%2Fwww.gamer520.com%2F"
