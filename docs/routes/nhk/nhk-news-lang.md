@@ -165,14 +165,14 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "undefined | NHK WORLD-JAPAN News - Powered by RSSHub",
-      "errorAt": "2026-10-14T10:02:08.551Z",
-      "errorMessage": "Failed to fetch\n503 \n",
+      "description": "Top | NHK WORLD-JAPAN News - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "61596371943710720",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www3.nhk.or.jp/nhkworld/en/news/list/",
-      "title": "undefined | NHK WORLD-JAPAN News",
+      "title": "Top | NHK WORLD-JAPAN News",
       "type": "feed",
       "url": "rsshub://nhk/news"
     },

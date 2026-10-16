@@ -175,18 +175,6 @@
       "description": "同花顺财经 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "72148510666881024",
-      "image": "http://i.thsi.cn/images/thscj/THSLogo.png",
-      "ownerUserId": null,
-      "siteUrl": "https://news.10jqka.com.cn/realtimenews.html",
-      "title": "7*24小时全球财经直播_同花顺财经",
-      "type": "feed",
-      "url": "rsshub://10jqka/realtimenews/%E5%85%A8%E9%83%A8"
-    },
-    {
-      "description": "同花顺财经 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "72098833744560128",
       "image": "http://i.thsi.cn/images/thscj/THSLogo.png",
       "ownerUserId": null,
@@ -194,6 +182,18 @@
       "title": "7*24小时全球财经直播_同花顺财经",
       "type": "feed",
       "url": "rsshub://10jqka/realtimenews"
+    },
+    {
+      "description": "同花顺财经 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "72148510666881024",
+      "image": "http://i.thsi.cn/images/thscj/THSLogo.png",
+      "ownerUserId": null,
+      "siteUrl": "https://news.10jqka.com.cn/realtimenews.html",
+      "title": "7*24小时全球财经直播_同花顺财经",
+      "type": "feed",
+      "url": "rsshub://10jqka/realtimenews/%E5%85%A8%E9%83%A8"
     }
   ],
   "url": "news.10jqka.com.cn"

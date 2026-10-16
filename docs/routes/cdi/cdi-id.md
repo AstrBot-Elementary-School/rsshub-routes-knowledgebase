@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 11,
+  "heat": 28,
   "location": "index.ts",
   "maintainers": [
     "nczitzk"
@@ -64,18 +64,6 @@ _None_
   "path": "/:id",
   "topFeeds": [
     {
-      "description": "综研专访 - 国家高端智库/综合开发研究院 - Powered by RSSHub",
-      "errorAt": "2025-12-25T06:36:59.003Z",
-      "errorMessage": "Available CDI categories: 102, 150, 154.\n",
-      "id": "69696647515980800",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "http://www.cdi.com.cn/Article/List?ColumnId=153",
-      "title": "综研专访 - 国家高端智库/综合开发研究院",
-      "type": "feed",
-      "url": "rsshub://cdi/153"
-    },
-    {
       "description": "综研国策 - 国家高端智库/综合开发研究院 - Powered by RSSHub",
       "errorAt": "2025-12-25T10:28:48.274Z",
       "errorMessage": "Available CDI categories: 102, 150, 154.\n",
@@ -86,6 +74,18 @@ _None_
       "title": "综研国策 - 国家高端智库/综合开发研究院",
       "type": "feed",
       "url": "rsshub://cdi/152"
+    },
+    {
+      "description": "综研观察 - 国家高端智库/综合开发研究院 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "65950460200200203",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "http://www.cdi.org.cn/Research/zygc/index.html",
+      "title": "综研观察 - 国家高端智库/综合开发研究院",
+      "type": "feed",
+      "url": "rsshub://cdi/150"
     }
   ]
 }

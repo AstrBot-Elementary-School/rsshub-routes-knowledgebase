@@ -62,7 +62,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 12,
+  "heat": 13,
   "location": "chuapp.ts",
   "maintainers": [
     "dousha"

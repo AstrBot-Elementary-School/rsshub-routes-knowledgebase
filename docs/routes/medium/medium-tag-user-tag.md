@@ -23,6 +23,8 @@ There are many tags, which can be obtained by clicking on a tag from the homepag
 Personalized recommendations require the cookie value after logging in, so only self-hosting is supported. See the configuration module on the deployment page for details.
 :::
 
+When Medium blocks article pages, their publicly visible previews may be returned.
+
 ## Parameters
 - `user`: Username
 - `tag`: Subscribed Tag
@@ -30,7 +32,7 @@ Personalized recommendations require the cookie value after logging in, so only 
 
 ## Features
 - `requireConfig`: [{"description": "", "name": "MEDIUM_COOKIE_*"}]
-- `requirePuppeteer`: false
+- `requirePuppeteer`: true
 - `antiCrawler`: false
 - `supportBT`: false
 - `supportPodcast`: false
@@ -45,7 +47,7 @@ _None_
   "categories": [
     "blog"
   ],
-  "description": "There are many tags, which can be obtained by clicking on a tag from the homepage and looking at the URL. For example, if the URL is `https://medium.com/?tag=web3`, then the tag is `web3`.\n\n::: warning\nPersonalized recommendations require the cookie value after logging in, so only self-hosting is supported. See the configuration module on the deployment page for details.\n:::",
+  "description": "There are many tags, which can be obtained by clicking on a tag from the homepage and looking at the URL. For example, if the URL is `https://medium.com/?tag=web3`, then the tag is `web3`.\n\n::: warning\nPersonalized recommendations require the cookie value after logging in, so only self-hosting is supported. See the configuration module on the deployment page for details.\n:::\n\nWhen Medium blocks article pages, their publicly visible previews may be returned.",
   "example": "/medium/tag/imsingee/cybersecurity",
   "features": {
     "antiCrawler": false,
@@ -55,7 +57,7 @@ _None_
         "name": "MEDIUM_COOKIE_*"
       }
     ],
-    "requirePuppeteer": false,
+    "requirePuppeteer": true,
     "supportBT": false,
     "supportPodcast": false,
     "supportScihub": false

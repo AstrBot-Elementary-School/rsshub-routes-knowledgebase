@@ -69,12 +69,12 @@ _None_
   "topFeeds": [
     {
       "description": "哈尔滨工业大学（深圳）-校区要闻 - Powered by RSSHub",
-      "errorAt": "2025-12-26T14:31:26.531Z",
-      "errorMessage": "[GET] \"https://www.hitsz.edu.cn/article/id-116.html\": 404 Not Found\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "163581729920492544",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.hitsz.edu.cn/article/id-116.html",
+      "siteUrl": "https://www.hitsz.edu.cn/news/6/list.htm",
       "title": "哈尔滨工业大学（深圳）-校区要闻",
       "type": "feed",
       "url": "rsshub://hitsz/article/id-116"

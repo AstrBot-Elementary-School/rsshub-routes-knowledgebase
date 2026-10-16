@@ -3,9 +3,9 @@
 ## Namespace
 - Namespace: `cloudnative`
 - Display Name: `云原生社区`
-- URL: `cloudnative.to`
+- URL: `cloudnative.jimmysong.io`
 - Language: `_None_`
-- Aliases: `cloudnative, cloudnative.to, 云原生社区`
+- Aliases: `cloudnative, cloudnative.jimmysong.io, 云原生社区`
 - Route Count: `1`
 
 ## Routes

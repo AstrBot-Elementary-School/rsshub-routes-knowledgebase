@@ -55,7 +55,7 @@
 
 ## Features
 - `requireConfig`: false
-- `requirePuppeteer`: false
+- `requirePuppeteer`: true
 - `antiCrawler`: false
 - `supportRadar`: true
 - `supportBT`: false
@@ -165,7 +165,7 @@
   "features": {
     "antiCrawler": false,
     "requireConfig": false,
-    "requirePuppeteer": false,
+    "requirePuppeteer": true,
     "supportBT": false,
     "supportPodcast": false,
     "supportRadar": true,

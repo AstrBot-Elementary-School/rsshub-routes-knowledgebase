@@ -62,8 +62,8 @@ _None_
   "topFeeds": [
     {
       "description": "ChatGPT Release Notes - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-15T13:51:03.007Z",
+      "errorMessage": "[GET] \"https://help.openai.com/en/articles/6825453-chatgpt-release-notes\": 403 Forbidden\n",
       "id": "241365607440964608",
       "image": null,
       "ownerUserId": null,

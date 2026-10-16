@@ -76,8 +76,8 @@ _None_
   "topFeeds": [
     {
       "description": "差评资讯 - 科技新鲜事 - Powered by RSSHub",
-      "errorAt": "2025-05-11T04:02:59.828Z",
-      "errorMessage": "[GET] \"https://chaping.cn/news/139958\": 502 Bad Gateway\n[GET] \"https://chaping.cn/news/139131\": 502 Bad Gateway\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "59933051315126274",
       "image": null,
       "ownerUserId": null,
@@ -87,14 +87,14 @@ _None_
       "url": "rsshub://chaping/news/3"
     },
     {
-      "description": "差评资讯 - undefined - Powered by RSSHub",
-      "errorAt": "2025-05-10T23:17:54.110Z",
-      "errorMessage": "[GET] \"https://chaping.cn/news/139938\": 502 Bad Gateway\n",
+      "description": "差评资讯 - 全部 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "61432264574446592",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://chaping.cn/news?cate=",
-      "title": "差评资讯 - undefined",
+      "title": "差评资讯 - 全部",
       "type": "feed",
       "url": "rsshub://chaping/news"
     }

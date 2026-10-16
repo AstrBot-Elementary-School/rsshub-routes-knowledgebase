@@ -1,11 +1,11 @@
-# Mox.moe Route Index
+# Kmoe Route Index
 
 ## Namespace
 - Namespace: `mox`
-- Display Name: `Mox.moe`
-- URL: `mox.moe`
+- Display Name: `Kmoe`
+- URL: `kxx.moe`
 - Language: `_None_`
-- Aliases: `mox, mox.moe`
+- Aliases: `kmoe, kxx, kxx.moe, mox`
 - Route Count: `1`
 
 ## Routes

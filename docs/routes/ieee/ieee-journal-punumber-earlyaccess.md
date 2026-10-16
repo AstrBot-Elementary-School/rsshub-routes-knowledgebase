@@ -25,7 +25,7 @@ _None_
 
 
 ## Features
-_None_
+- `requirePuppeteer`: true
 
 ## Radar
 _None_
@@ -37,6 +37,9 @@ _None_
     "journal"
   ],
   "example": "/ieee/journal/6287639/preprint",
+  "features": {
+    "requirePuppeteer": true
+  },
   "heat": 268,
   "location": "journal.ts",
   "maintainers": [

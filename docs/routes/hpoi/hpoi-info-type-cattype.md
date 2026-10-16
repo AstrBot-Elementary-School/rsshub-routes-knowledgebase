@@ -119,12 +119,12 @@ _None_
   "topFeeds": [
     {
       "description": "手办维基 - 情报 - 全部 - Powered by RSSHub",
-      "errorAt": "2026-01-12T06:56:07.568Z",
-      "errorMessage": "[POST] \"https://www.hpoi.net/user/home/ajax?page=1&type=info&subType=all\": 404 Not Found\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "55126637717323806",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.hpoi.net/user/home?type=info&subType=all&catType=all",
+      "siteUrl": "https://www.hpoi.net/user/home?actionType=401&subType=all&catType=all",
       "title": "手办维基 - 情报 - 全部",
       "type": "feed",
       "url": "rsshub://hpoi/info/all"

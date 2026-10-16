@@ -21,13 +21,15 @@
 Personalized recommendations require the cookie value after logging in, so only self-hosting is supported. See the configuration module on the deployment page for details.
 :::
 
+When Medium blocks article pages, their publicly visible previews may be returned.
+
 ## Parameters
 - `user`: Username
 
 
 ## Features
 - `requireConfig`: [{"description": "", "name": "MEDIUM_COOKIE_*"}]
-- `requirePuppeteer`: false
+- `requirePuppeteer`: true
 - `antiCrawler`: false
 - `supportBT`: false
 - `supportPodcast`: false
@@ -42,7 +44,7 @@ _None_
   "categories": [
     "blog"
   ],
-  "description": "::: warning\nPersonalized recommendations require the cookie value after logging in, so only self-hosting is supported. See the configuration module on the deployment page for details.\n:::",
+  "description": "::: warning\nPersonalized recommendations require the cookie value after logging in, so only self-hosting is supported. See the configuration module on the deployment page for details.\n:::\n\nWhen Medium blocks article pages, their publicly visible previews may be returned.",
   "example": "/medium/following/imsingee",
   "features": {
     "antiCrawler": false,
@@ -52,7 +54,7 @@ _None_
         "name": "MEDIUM_COOKIE_*"
       }
     ],
-    "requirePuppeteer": false,
+    "requirePuppeteer": true,
     "supportBT": false,
     "supportPodcast": false,
     "supportScihub": false

@@ -87,14 +87,14 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "指南通告 - Powered by RSSHub",
-      "errorAt": "2025-09-04T11:28:28.610Z",
-      "errorMessage": "[GET] \"https://www.nsfc.gov.cn/publish/portal0/tab442/\": 404 Not Found\n",
+      "description": "国家自然科学基金委员会 - 业务资讯 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "63261228706922499",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.nsfc.gov.cn/publish/portal0/tab442/",
-      "title": "国家自然科学基金委员会 - 基金要闻 - 指南通告",
+      "siteUrl": "https://www.nsfc.gov.cn/p1/3381/2822/tzsm1.html",
+      "title": "国家自然科学基金委员会 - 业务资讯",
       "type": "feed",
       "url": "rsshub://gov/nsfc/news/tzgg"
     },

@@ -76,12 +76,12 @@ _None_
   "topFeeds": [
     {
       "description": "苏州市政府 - 政策公开文件 - Powered by RSSHub",
-      "errorAt": "2025-11-27T04:24:28.818Z",
-      "errorMessage": "[GET] \"https://www.suzhou.gov.cn/szxxgk/front/xxgk_right.jsp\": 404 \n[GET] \"https://www.suzhou.gov.cn/szxxgk/front/xxgk_right.jsp\": 404 Not Found\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "73327549478375424",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.suzhou.gov.cn/szxxgk/front/xxgk_right.jsp",
+      "siteUrl": "https://www.suzhou.gov.cn/szsrmzf/cslm/contnet.shtml?sitecode=szsrmzf&CN_NAME=%E6%94%BF%E7%AD%96%E6%96%87%E4%BB%B6",
       "title": "苏州市政府 - 政策公开文件",
       "type": "feed",
       "url": "rsshub://gov/suzhou/doc"

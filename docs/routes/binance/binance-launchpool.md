@@ -60,7 +60,7 @@ _None_
     {
       "description": null,
       "errorAt": "2025-11-05T17:49:45.597Z",
-      "errorMessage": "Unexpected end of JSON input\n",
+      "errorMessage": "[GET] \"https://www.binance.com/bapi/apex/v1/public/apex/cms/article/list/query?type=1&pageNo=1&pageSize=20&catalogId=48\": 403 Forbidden\n",
       "id": "208953371452225542",
       "image": null,
       "ownerUserId": null,

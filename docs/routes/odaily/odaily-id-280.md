@@ -54,7 +54,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 0,
+  "heat": 95,
   "location": "post.ts",
   "maintainers": [
     "nczitzk"
@@ -73,7 +73,20 @@
       "target": "/"
     }
   ],
-  "topFeeds": [],
+  "topFeeds": [
+    {
+      "description": "最新 - Odaily星球日报 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "56204588915011597",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.odaily.news/",
+      "title": "最新 - Odaily星球日报",
+      "type": "feed",
+      "url": "rsshub://odaily"
+    }
+  ],
   "url": "www.odaily.news/zh-CN/post"
 }
 ```

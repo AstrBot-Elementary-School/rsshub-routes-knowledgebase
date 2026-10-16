@@ -242,12 +242,6 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `2`
 - Index File: `index/52hrtt.md`
 
-## 明月中文网
-- Namespace: `56kog`
-- Aliases: `56kog, 56kog.com, 明月中文网`
-- Route Count: `2`
-- Index File: `index/56kog.md`
-
 ## 591 Rental house
 - Namespace: `591`
 - Aliases: `591, 591 rental house, rent, rent.591.com.tw`
@@ -271,12 +265,6 @@ Use this file to select the target namespace before opening route documents.
 - Aliases: `69shu, 69shuba, 69shuba.cx, 69书吧`
 - Route Count: `1`
 - Index File: `index/69shu.md`
-
-## 留园网
-- Namespace: `6park`
-- Aliases: `6park, club, club.6parkbbs.com, 留园网`
-- Route Count: `2`
-- Index File: `index/6park.md`
 
 ## 6v 电影
 - Namespace: `6v123`
@@ -427,12 +415,6 @@ Use this file to select the target namespace before opening route documents.
 - Aliases: `acg17, acg17.com`
 - Route Count: `1`
 - Index File: `index/acg17.md`
-
-## ACG Vinyl - 黑胶
-- Namespace: `acgvinyl`
-- Aliases: `acg vinyl - 黑胶, acgvinyl, acgvinyl.com, www, www.acgvinyl.com`
-- Route Count: `1`
-- Index File: `index/acgvinyl.md`
 
 ## Association for Computing Machinery (ACM)
 - Namespace: `acm`
@@ -1055,7 +1037,7 @@ Use this file to select the target namespace before opening route documents.
 ## Bandcamp
 - Namespace: `bandcamp`
 - Aliases: `bandcamp, bandcamp.com`
-- Route Count: `3`
+- Route Count: `4`
 - Index File: `index/bandcamp.md`
 
 ## Bandisoft
@@ -1138,7 +1120,7 @@ Use this file to select the target namespace before opening route documents.
 
 ## BBC News Labs
 - Namespace: `bbcnewslabs`
-- Aliases: `bbc news labs, bbcnewslabs, bbcnewslabs.co.uk`
+- Aliases: `bbc news labs, bbc.co.uk/rdnewslabs, bbcnewslabs, www, www.bbc.co.uk/rdnewslabs`
 - Route Count: `1`
 - Index File: `index/bbcnewslabs.md`
 
@@ -1681,12 +1663,6 @@ Use this file to select the target namespace before opening route documents.
 - Aliases: `carousell, carousell.com`
 - Route Count: `1`
 - Index File: `index/carousell.md`
-
-## 動漫狂
-- Namespace: `cartoonmad`
-- Aliases: `cartoonmad, cartoonmad.com, 動漫狂`
-- Route Count: `1`
-- Index File: `index/cartoonmad.md`
 
 ## 中国科学院
 - Namespace: `cas`
@@ -2266,7 +2242,7 @@ Use this file to select the target namespace before opening route documents.
 
 ## 云原生社区
 - Namespace: `cloudnative`
-- Aliases: `cloudnative, cloudnative.to, 云原生社区`
+- Aliases: `cloudnative, cloudnative.jimmysong.io, 云原生社区`
 - Route Count: `1`
 - Index File: `index/cloudnative.md`
 
@@ -3247,12 +3223,6 @@ Use this file to select the target namespace before opening route documents.
 - Aliases: `announce, announce.dol.go.th, dol, thailand department of lands`
 - Route Count: `1`
 - Index File: `index/dol.md`
-
-## DoMP4 影视
-- Namespace: `domp4`
-- Aliases: `domp4, domp4 影视, www, www.xlmp4.com, xlmp4.com`
-- Route Count: `3`
-- Index File: `index/domp4.md`
 
 ## 咚漫
 - Namespace: `dongmanmanhua`
@@ -5524,7 +5494,7 @@ Use this file to select the target namespace before opening route documents.
 
 ## 湖北大学
 - Namespace: `hubu`
-- Aliases: `hubu, hubu.edu.cn, 湖北大学`
+- Aliases: `hubu, hubu.edu.cn, www, www.hubu.edu.cn, 湖北大学`
 - Route Count: `2`
 - Index File: `index/hubu.md`
 
@@ -7568,9 +7538,9 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `1`
 - Index File: `index/moodysmismicrosite.md`
 
-## Mox.moe
+## Kmoe
 - Namespace: `mox`
-- Aliases: `mox, mox.moe`
+- Aliases: `kmoe, kxx, kxx.moe, mox`
 - Route Count: `1`
 - Index File: `index/mox.md`
 

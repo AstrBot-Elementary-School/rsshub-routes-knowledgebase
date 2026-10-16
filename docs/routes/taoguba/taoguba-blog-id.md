@@ -24,7 +24,7 @@ _None_
 
 
 ## Features
-- `requireConfig`: false
+- `requireConfig`: [{"description": "Your own www.tgb.cn Cookie for articles that require login. Anonymous excerpts remain available without it.", "name": "TAOGUBA_COOKIE", "optional": true}]
 - `requirePuppeteer`: false
 - `antiCrawler`: false
 - `supportBT`: false
@@ -46,13 +46,19 @@ _None_
   "example": "/taoguba/blog/252069",
   "features": {
     "antiCrawler": false,
-    "requireConfig": false,
+    "requireConfig": [
+      {
+        "description": "Your own www.tgb.cn Cookie for articles that require login. Anonymous excerpts remain available without it.",
+        "name": "TAOGUBA_COOKIE",
+        "optional": true
+      }
+    ],
     "requirePuppeteer": false,
     "supportBT": false,
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 703,
+  "heat": 702,
   "location": "blog.ts",
   "maintainers": [
     "nczitzk"
@@ -76,8 +82,8 @@ _None_
   "topFeeds": [
     {
       "description": "淘股吧湖南人的博客,湖南人为所有投资者提供股票、证券、金融、港股、行情、基金、实盘、期货等极具价值的实用参考信息。欢迎访问湖南人淘股吧博客! - Powered by RSSHub",
-      "errorAt": "2026-06-24T19:17:56.818Z",
-      "errorMessage": "[GET] \"https://www.tgb.cn//a/2v8Hp4qCHnA\": 404 Not Found\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "69384991748864006",
       "image": "https://image.tgb.cn/img/2016/02/02/bfi12304d7t6.jpg_80wh.png",
       "ownerUserId": null,

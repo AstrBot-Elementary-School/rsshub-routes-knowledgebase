@@ -82,7 +82,7 @@ _None_
     {
       "description": "游研社-推游 - Powered by RSSHub",
       "errorAt": "2025-08-26T12:35:22.570Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "[GET] \"https://www.yystv.cn/b/recommend\": 522 <none>\n",
       "id": "52353637010143243",
       "image": null,
       "ownerUserId": null,

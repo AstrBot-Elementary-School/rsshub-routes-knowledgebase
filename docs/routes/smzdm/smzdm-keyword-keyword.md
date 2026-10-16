@@ -56,7 +56,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4571,
+  "heat": 4572,
   "location": "keyword.ts",
   "maintainers": [
     "DIYgod",
@@ -69,18 +69,6 @@ _None_
   "path": "/keyword/:keyword",
   "topFeeds": [
     {
-      "description": "绝对值 - 什么值得买 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "56874574824669184",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://search.smzdm.com/?c=home&s=%E7%BB%9D%E5%AF%B9%E5%80%BC&order=time",
-      "title": "绝对值 - 什么值得买",
-      "type": "feed",
-      "url": "rsshub://smzdm/keyword/%E7%BB%9D%E5%AF%B9%E5%80%BC"
-    },
-    {
       "description": "历史低价 - 什么值得买 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -91,6 +79,18 @@ _None_
       "title": "历史低价 - 什么值得买",
       "type": "feed",
       "url": "rsshub://smzdm/keyword/%E5%8E%86%E5%8F%B2%E4%BD%8E%E4%BB%B7"
+    },
+    {
+      "description": "绝对值 - 什么值得买 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "56874574824669184",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://search.smzdm.com/?c=home&s=%E7%BB%9D%E5%AF%B9%E5%80%BC&order=time",
+      "title": "绝对值 - 什么值得买",
+      "type": "feed",
+      "url": "rsshub://smzdm/keyword/%E7%BB%9D%E5%AF%B9%E5%80%BC"
     }
   ],
   "view": 5

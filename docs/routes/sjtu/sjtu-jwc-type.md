@@ -68,8 +68,8 @@ _None_
   "topFeeds": [
     {
       "description": "上海交通大学教务处 通知通告 - Powered by RSSHub",
-      "errorAt": "2026-10-14T14:40:56.515Z",
-      "errorMessage": "[GET] \"https://jwc.sjtu.edu.cn/xwtg/tztg.htm\": 520 <none>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "1143779419517485056",
       "image": null,
       "ownerUserId": null,

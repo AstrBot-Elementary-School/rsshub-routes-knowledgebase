@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 548,
+  "heat": 551,
   "location": "article.ts",
   "maintainers": [
     "Maecenas",

@@ -38,7 +38,7 @@ _None_
     "programming"
   ],
   "example": "/web/blog",
-  "heat": 42,
+  "heat": 43,
   "location": "blog.ts",
   "maintainers": [
     "KarasuShin"

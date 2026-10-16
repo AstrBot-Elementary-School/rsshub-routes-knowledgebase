@@ -80,8 +80,8 @@ _None_
     },
     {
       "description": "ulapia - 策略研报 - Powered by RSSHub",
-      "errorAt": "2026-10-14T10:16:24.896Z",
-      "errorMessage": "[GET] \"http://www.ulapia.com/reports/strategy_research\": 522 <none>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "60865831498850372",
       "image": null,
       "ownerUserId": null,

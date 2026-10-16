@@ -76,16 +76,16 @@ _None_
       "url": "rsshub://baidu/tieba/post/lz/9083587772"
     },
     {
-      "description": "回复：2024全新配置贴的最新回复 - Powered by RSSHub",
-      "errorAt": "2025-04-23T10:27:58.883Z",
-      "errorMessage": "[GET] \"https://tieba.baidu.com/p/9124987214?see_lz=1&pn=7000000&ajax=1\": 403 Forbidden\n",
-      "id": "73928822623715328",
+      "description": "回复：【饿殍第三线】——落荒的最新回复 - Powered by RSSHub",
+      "errorAt": "2026-03-01T23:08:24.204Z",
+      "errorMessage": "[GET] \"https://tieba.baidu.com/p/9093613735?see_lz=1&pn=7000000&ajax=1\": 403 Forbidden\n[GET] \"https://tieba.baidu.com/p/9093613735?see_lz=1&pn=7000000&ajax=1\": 403 Forbidden\n",
+      "id": "137785439754288128",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://tieba.baidu.com/p/9124987214?see_lz=1",
-      "title": "【只看楼主】回复：2024全新配置贴",
+      "siteUrl": "https://tieba.baidu.com/p/9093613735?see_lz=1",
+      "title": "【只看楼主】回复：【饿殍第三线】——落荒",
       "type": "feed",
-      "url": "rsshub://baidu/tieba/post/lz/9124987214"
+      "url": "rsshub://baidu/tieba/post/lz/9093613735"
     }
   ]
 }

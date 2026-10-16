@@ -64,8 +64,8 @@ _None_
   "topFeeds": [
     {
       "description": "OpenAI News - Powered by RSSHub",
-      "errorAt": "2026-10-14T15:59:36.133Z",
-      "errorMessage": "[GET] \"https://openai.com/index/third-moment-research\": 403 Forbidden\n[GET] \"https://openai.com/index/third-moment-research/\": 403 Forbidden\n",
+      "errorAt": "2026-10-15T14:03:29.651Z",
+      "errorMessage": "[GET] \"https://openai.com/index/teaching-students-to-think-and-learn-through-questions\": 403 Forbidden\n[GET] \"https://openai.com/index/teaching-students-to-think-and-learn-through-questions/\": 403 Forbidden\n",
       "id": "139523607422199808",
       "image": null,
       "ownerUserId": null,

@@ -23,7 +23,7 @@
 - Route Path: `/javdb/home/:category?/:sort?/:filter?`
 - File: `docs/routes/javdb/javdb-home-category-sort-filter.md`
 - File Name: `javdb-home-category-sort-filter.md`
-- Categories: `multimedia, popular`
+- Categories: `multimedia`
 - Maintainers: `nczitzk`
 
 ### 清单

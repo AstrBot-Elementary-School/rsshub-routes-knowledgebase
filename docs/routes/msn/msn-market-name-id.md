@@ -91,7 +91,7 @@ MSN News
     {
       "description": "Bloomberg - Powered by RSSHub",
       "errorAt": "2026-07-19T07:58:45.756Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'cards')\n",
+      "errorMessage": "MSN returned no articles for this channel. Check the market and source ID on its public page.\n",
       "id": "99576216016317440",
       "image": "https://www.msn.com/favicon.ico",
       "ownerUserId": null,

@@ -60,14 +60,14 @@ _None_
   },
   "topFeeds": [
     {
-      "description": null,
-      "errorAt": "2025-06-13T10:07:31.857Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'items')\n",
+      "description": "AI 财经社 - 最新文章 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "156287304989484033",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": null,
-      "title": "Importing",
+      "siteUrl": "https://www.aicaijing.com.cn/",
+      "title": "AI 财经社 - 最新文章",
       "type": "feed",
       "url": "rsshub://aicaijing/latest"
     }

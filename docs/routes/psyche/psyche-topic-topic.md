@@ -84,14 +84,14 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Expert insights and practical help from psychologists, therapists and other professionals who can help you deal with the emotional and psychological challenges of life. - Powered by RSSHub",
-      "errorAt": "2025-01-09T00:35:57.859Z",
-      "errorMessage": "Unexpected end of JSON input\n",
+      "description": "Clinical psychologists and other experts offer research and advice on managing emotional and psychological challenges - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "73541535521044480",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://psyche.co/therapeia",
-      "title": "Psyche | Therapeia",
+      "siteUrl": "https://psyche.co/heal",
+      "title": "Heal | Emotional & Mental Health | Psyche",
       "type": "feed",
       "url": "rsshub://psyche/topic/therapeia"
     }

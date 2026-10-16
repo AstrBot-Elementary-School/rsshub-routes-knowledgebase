@@ -68,7 +68,7 @@ _None_
     {
       "description": "视频 【国际象棋基础教程】【143集全】B站最牛国际象棋初级教程，最好的青少年启蒙教程 的视频选集列表 - Powered by RSSHub",
       "errorAt": "2026-09-01T05:33:25.125Z",
-      "errorMessage": "[GET] \"https://api.bilibili.com/x/web-interface/view?bvid=BV1g14y1b7ME\": 412 Precondition Failed\n",
+      "errorMessage": "[GET] \"https://api.bilibili.com/x/player/pagelist?bvid=BV1g14y1b7ME\": 412 Precondition Failed\n",
       "id": "77620127529375744",
       "image": null,
       "ownerUserId": null,
@@ -80,7 +80,7 @@ _None_
     {
       "description": "视频 美女热舞合集 的视频选集列表 - Powered by RSSHub",
       "errorAt": "2025-05-30T12:00:46.109Z",
-      "errorMessage": "[GET] \"https://api.bilibili.com/x/web-interface/view?bvid=BV1nU1kYgEKE\": 412 Precondition Failed\n",
+      "errorMessage": "[GET] \"https://api.bilibili.com/x/player/pagelist?bvid=BV1nU1kYgEKE\": 412 Precondition Failed\n",
       "id": "69945630785231872",
       "image": null,
       "ownerUserId": null,

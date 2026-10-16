@@ -73,8 +73,8 @@ _None_
   "topFeeds": [
     {
       "description": "游研社-全部文章 - Powered by RSSHub",
-      "errorAt": "2025-08-26T14:03:06.997Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nAuthentication failed. Access denied.\n/yystv/docs\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41841081038965760",
       "image": null,
       "ownerUserId": null,

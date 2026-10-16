@@ -225,7 +225,7 @@
     {
       "description": "macOS 标签下的所有主题 - Powered by RSSHub",
       "errorAt": "2026-03-03T02:50:45.460Z",
-      "errorMessage": "f328.included is not iterable\n",
+      "errorMessage": "Yuanliao discussions API did not return forum data. Check whether the upstream site has moved or is blocking access.\n",
       "id": "150754386348295168",
       "image": "https://yuanliao.info/assets/logo-f9tlxmqd.png",
       "ownerUserId": null,

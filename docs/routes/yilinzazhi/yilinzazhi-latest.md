@@ -24,7 +24,8 @@ _None_
 
 
 ## Features
-_None_
+- `requirePuppeteer`: true
+- `antiCrawler`: true
 
 ## Radar
 ### Rule 1
@@ -40,6 +41,10 @@ _None_
   ],
   "description": "最近一期的文章汇总",
   "example": "/yilinzazhi/latest",
+  "features": {
+    "antiCrawler": true,
+    "requirePuppeteer": true
+  },
   "heat": 520,
   "location": "latest.ts",
   "maintainers": [

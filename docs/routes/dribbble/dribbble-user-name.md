@@ -76,7 +76,7 @@ _None_
     {
       "description": "Gleb Kuznetsov ✈ | A designer transforms ideas into reality. As technology gets smarter, reality is exploding. Today, it takes an artist to make human and product interaction awe-inspiring. Connection is key. Gleb is crafting the future of digital experiences through emotional design. 🇺🇸🇨🇭 | Connect with them on Dribbble; the global community for designers and creative professionals. - Powered by RSSHub",
       "errorAt": "2025-06-03T14:17:45.714Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'name')\n",
+      "errorMessage": "Dribbble returned an AWS WAF challenge (HTTP 202). Anonymous source access is currently blocked.\n",
       "id": "56130033776808982",
       "image": null,
       "ownerUserId": null,

@@ -91,8 +91,8 @@ _None_
     },
     {
       "description": "软件改变生活 - Powered by RSSHub",
-      "errorAt": "2025-03-06T22:40:32.067Z",
-      "errorMessage": "[GET] \"https://www.iplaysoft.com/wp-json/wp/v2/categories?slug=network\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "117435061031429120",
       "image": null,
       "ownerUserId": null,

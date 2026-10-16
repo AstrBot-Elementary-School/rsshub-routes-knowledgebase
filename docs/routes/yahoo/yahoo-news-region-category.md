@@ -112,8 +112,8 @@ For other Yahoo News, this route's RSS provides the author field. You can use RS
   "topFeeds": [
     {
       "description": "Yahoo 新聞 TW - 所有類別 - Powered by RSSHub",
-      "errorAt": "2026-10-14T01:16:43.521Z",
-      "errorMessage": "[GET] \"https://tw.news.yahoo.com/%E8%A7%80%E9%9C%A7%E6%9E%97%E6%A5%AD%E7%9A%84%E5%8F%A4%E5%BE%80%E4%BB%8A%E4%BE%86-%E8%B7%9F%E8%91%97%E8%81%B7%E4%BA%BA%E7%9C%8B%E8%A6%8B%E7%95%B6%E4%BB%A3%E6%9E%97%E6%A5%AD-091340479.html\": 404 Not Found\n",
+      "errorAt": "2026-10-15T09:00:30.488Z",
+      "errorMessage": "[GET] \"https://tw.news.yahoo.com/%E8%AE%93%E6%84%9B%E5%9C%A8%E7%A4%BE%E5%8D%80%E6%89%8E%E6%A0%B9-%E6%A1%83%E5%9C%92%E5%B8%82115%E5%B9%B4%E5%BA%A6%E5%AE%88%E8%AD%B7%E5%AE%B6%E5%BA%AD%E5%B0%8F%E8%A1%9B%E6%98%9F%E6%9C%8D%E5%8B%99%E4%BA%BA%E5%93%A1%E5%8F%8A%E5%9C%98%E9%AB%94%E8%A1%A8%E6%8F%9A-085501832.html\": 404 Not Found\n",
       "id": "58739494825370651",
       "image": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
       "ownerUserId": null,

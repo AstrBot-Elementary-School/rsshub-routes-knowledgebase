@@ -180,7 +180,7 @@ If you subscribe to [Data Points](https://www.deeplearning.ai/the-batch/tag/data
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 251,
+  "heat": 252,
   "location": "the-batch.ts",
   "maintainers": [
     "nczitzk",

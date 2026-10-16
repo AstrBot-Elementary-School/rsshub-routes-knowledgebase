@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 117,
+  "heat": 118,
   "location": "latest-tvseries.ts",
   "maintainers": [
     "tc9011"
@@ -73,14 +73,14 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "6v最新电影RSS - Powered by RSSHub",
-      "errorAt": "2026-01-08T04:57:10.678Z",
-      "errorMessage": "[GET] \"https://www.hao6v.tv/gvod/dsj.html\": 526 <none>\n",
+      "description": "6v最新电视剧RSS - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "59838106508034048",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.hao6v.tv/gvod/dsj.html",
-      "title": "6v电影-最新电影",
+      "siteUrl": "https://www.hao6v.cc/gvod/dsj.html",
+      "title": "6v电影-最新电视剧",
       "type": "feed",
       "url": "rsshub://6v123/latestTVSeries"
     }

@@ -73,8 +73,8 @@ _None_
   "topFeeds": [
     {
       "description": "上海文化广场 - 节目列表 - Powered by RSSHub",
-      "errorAt": "2026-08-26T10:32:23.347Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'tblprogram')\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "57678974871415814",
       "image": "https://static-pc.shcstheatre.com/images/logo1.png",
       "ownerUserId": null,

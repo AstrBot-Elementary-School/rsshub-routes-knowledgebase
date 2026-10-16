@@ -90,7 +90,7 @@ _None_
     {
       "description": "微纳电子技术 - Powered by RSSHub",
       "errorAt": "2026-09-02T22:51:58.641Z",
-      "errorMessage": "[GET] \"https://rss.cnki.net/kns/rss.aspx?Journal=BDTQ&Virtual=knavi\": 526 <none>\n",
+      "errorMessage": "[GET] \"https://navi.cnki.net/knavi/journals/BDTQ/detail\": 530 <none>\n",
       "id": "159265390001661952",
       "image": null,
       "ownerUserId": null,

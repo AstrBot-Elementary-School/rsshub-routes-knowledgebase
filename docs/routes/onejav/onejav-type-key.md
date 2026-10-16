@@ -156,16 +156,16 @@
       "url": "rsshub://onejav/popular"
     },
     {
-      "description": "OneJAV - favorite Ez6l7NN4hDwOwM1fPhnaNpH5yZaluczpttFHPxCnYbszcTsXqtap9S5PQMso - Powered by RSSHub",
+      "description": "OneJAV - new 30 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1279720161711882240",
+      "id": "154611732345126921",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://onejav.com/favorite/Ez6l7NN4hDwOwM1fPhnaNpH5yZaluczpttFHPxCnYbszcTsXqtap9S5PQMso",
-      "title": "OneJAV - favorite Ez6l7NN4hDwOwM1fPhnaNpH5yZaluczpttFHPxCnYbszcTsXqtap9S5PQMso",
+      "siteUrl": "https://onejav.com/new",
+      "title": "OneJAV - new 30",
       "type": "feed",
-      "url": "rsshub://onejav/favorite/Ez6l7NN4hDwOwM1fPhnaNpH5yZaluczpttFHPxCnYbszcTsXqtap9S5PQMso"
+      "url": "rsshub://onejav/new/30"
     }
   ]
 }

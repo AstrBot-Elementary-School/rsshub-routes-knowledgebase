@@ -38,7 +38,7 @@ _None_
     "programming"
   ],
   "example": "/cncf/reports",
-  "heat": 1,
+  "heat": 2,
   "location": "reports.ts",
   "maintainers": [
     "Fatpandac"

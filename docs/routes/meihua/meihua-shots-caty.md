@@ -39,7 +39,7 @@ _None_
   ],
   "description": "| 最新   | 热门 | 推荐      |\n| ------ | ---- | --------- |\n| latest | hot  | recommend |",
   "example": "/meihua/shots/latest",
-  "heat": 1,
+  "heat": 0,
   "location": "shots.ts",
   "maintainers": [
     "nczitzk"

@@ -42,7 +42,7 @@ _None_
   ],
   "description": "| 所有新聞 | 攝影器材 | 手機通訊 | 汽車熱話 | 攝影文化    | 影片攝錄    | 測試報告 | 生活科技 | 攝影技巧  |\n| -------- | -------- | -------- | -------- | ----------- | ----------- | -------- | -------- | --------- |\n|          | camera   | mobile   | auto     | photography | videography | reviews  | gadget   | technique |",
   "example": "/dcfever/news",
-  "heat": 156,
+  "heat": 157,
   "location": "news.ts",
   "maintainers": [
     "TonyRL"
@@ -65,16 +65,16 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "生活科技 - DCFever.com 香港最受歡迎數碼產品資訊互動平台 - Powered by RSSHub",
+      "description": "攝影器材 - DCFever.com 香港最受歡迎數碼產品資訊互動平台 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "98240030144483328",
+      "id": "130186322692247552",
       "image": "https://cdn10.dcfever.com/images/android_192.png",
       "ownerUserId": null,
-      "siteUrl": "https://www.dcfever.com/news/index.php?type=gadget",
-      "title": "生活科技 - DCFever.com 香港最受歡迎數碼產品資訊互動平台",
+      "siteUrl": "https://www.dcfever.com/news/index.php?type=camera",
+      "title": "攝影器材 - DCFever.com 香港最受歡迎數碼產品資訊互動平台",
       "type": "feed",
-      "url": "rsshub://dcfever/news/gadget"
+      "url": "rsshub://dcfever/news/camera"
     },
     {
       "description": "最新消息 - DCFever.com 香港最受歡迎數碼產品資訊互動平台 - Powered by RSSHub",

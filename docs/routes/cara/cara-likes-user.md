@@ -24,7 +24,7 @@ _None_
 
 
 ## Features
-_None_
+- `requireConfig`: [{"description": "A logged-in cara.app Cookie containing __Secure-next-auth.session-token. Obtain it from your own browser session; it is only sent to https://cara.app.", "name": "CARA_COOKIE"}]
 
 ## Radar
 ### Rule 1
@@ -40,6 +40,14 @@ _None_
     "social-media"
   ],
   "example": "/cara/likes/fengz",
+  "features": {
+    "requireConfig": [
+      {
+        "description": "A logged-in cara.app Cookie containing __Secure-next-auth.session-token. Obtain it from your own browser session; it is only sent to https://cara.app.",
+        "name": "CARA_COOKIE"
+      }
+    ]
+  },
   "heat": 8,
   "location": "likes.ts",
   "maintainers": [

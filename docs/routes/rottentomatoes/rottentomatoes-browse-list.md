@@ -39,7 +39,7 @@ _None_
     "multimedia"
   ],
   "example": "/rottentomatoes/browse",
-  "heat": 0,
+  "heat": 1,
   "location": "browse.tsx",
   "maintainers": [
     "DIYgod"

@@ -529,12 +529,12 @@
     },
     {
       "description": "米游社-崩坏：星穹铁道-同人榜-日榜 - Powered by RSSHub",
-      "errorAt": "2026-10-13T22:36:45.262Z",
-      "errorMessage": "503 \n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "74617383214838784",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://bbs-api.miyoushe.com/post/wapi/getImagePostList?gids=6&forum_id=56&cate_id=0&type=1&page_size=20&last_id=",
+      "siteUrl": "https://www.miyoushe.com/sr/imgRanking/56/1/0",
       "title": "米游社-崩坏：星穹铁道-同人榜-日榜",
       "type": "feed",
       "url": "rsshub://mihoyo/bbs/img-ranking/sr/forumType=tongren&rankingType=daily"

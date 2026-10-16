@@ -75,12 +75,12 @@ _None_
   "topFeeds": [
     {
       "description": "Upcoming Live Events | Bandcamp - Powered by RSSHub",
-      "errorAt": "2025-05-02T20:05:13.186Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "66076693547059200",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://bandcamp.com/live_schedule",
+      "siteUrl": "https://bandcamp.com/live",
       "title": "Upcoming Live Events | Bandcamp",
       "type": "feed",
       "url": "rsshub://bandcamp/live"

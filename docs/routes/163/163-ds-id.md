@@ -85,16 +85,16 @@ _None_
       "url": "rsshub://163/ds/a3d082651b054b4d8a79dd327f893a94"
     },
     {
-      "description": "DatahunterSora 的动态 - Powered by RSSHub",
+      "description": "二萌Alice 的动态 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "92101048147199002",
+      "id": "92101048147199003",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://ds.163.com/user/6d8b6fe852fe4dda86723c6fa24a266f",
-      "title": "DatahunterSora 的动态",
+      "siteUrl": "https://ds.163.com/user/3ccb247ef47a4a8480ad9d1b7a239a05",
+      "title": "二萌Alice 的动态",
       "type": "feed",
-      "url": "rsshub://163/ds/6d8b6fe852fe4dda86723c6fa24a266f"
+      "url": "rsshub://163/ds/3ccb247ef47a4a8480ad9d1b7a239a05"
     }
   ]
 }

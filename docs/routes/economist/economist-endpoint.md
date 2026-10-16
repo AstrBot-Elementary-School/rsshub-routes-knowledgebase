@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 913,
+  "heat": 912,
   "location": "full.ts",
   "maintainers": [
     "ImSingee"
@@ -75,7 +75,7 @@ _None_
     {
       "description": "China - Powered by RSSHub",
       "errorAt": "2025-09-05T17:22:28.529Z",
-      "errorMessage": "[GET] \"https://www.economist.com/china/2026/09/30/in-an-ai-crisis-would-china-answer-the-phone\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.economist.com/china/2026/10/08/in-china-people-get-unusually-long-public-holidays\": 403 Forbidden\n",
       "id": "41461870197170199",
       "image": null,
       "ownerUserId": null,
@@ -87,7 +87,7 @@ _None_
     {
       "description": "The most recent blogs and online articles from The Economist - Powered by RSSHub",
       "errorAt": "2025-09-05T18:15:19.885Z",
-      "errorMessage": "[GET] \"https://www.economist.com/podcasts/2026/10/14/kemi-badenoch-tries-to-unite-britains-right\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.economist.com/europe/2026/10/14/donald-trump-is-squeezing-ukraines-military-lifeline\": 403 Forbidden\n",
       "id": "54859243036899328",
       "image": null,
       "ownerUserId": null,

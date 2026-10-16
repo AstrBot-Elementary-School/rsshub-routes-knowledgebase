@@ -91,18 +91,6 @@
       "description": "Minecraft Java版游戏更新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "62456080663433216",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.minecraft.net/",
-      "title": "Minecraft Java版游戏更新",
-      "type": "feed",
-      "url": "rsshub://minecraft/version"
-    },
-    {
-      "description": "Minecraft Java版游戏更新 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "154953137410003968",
       "image": null,
       "ownerUserId": null,
@@ -110,6 +98,18 @@
       "title": "Minecraft Java版游戏更新",
       "type": "feed",
       "url": "rsshub://minecraft/version/all/official"
+    },
+    {
+      "description": "Minecraft Java版游戏更新 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "62456080663433216",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.minecraft.net/",
+      "title": "Minecraft Java版游戏更新",
+      "type": "feed",
+      "url": "rsshub://minecraft/version"
     }
   ],
   "url": "minecraft.net/",

@@ -468,8 +468,8 @@
   "topFeeds": [
     {
       "description": "飞客茶馆信用卡 - 国内信用卡 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-14T18:50:42.304Z",
+      "errorMessage": "[GET] \"https://www.flyert.com.cn/forum-creditcard-1.html\": 403 Forbidden\n",
       "id": "55873225615650816",
       "image": null,
       "ownerUserId": null,

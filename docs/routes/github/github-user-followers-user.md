@@ -74,16 +74,16 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "yihangtao's followers - Powered by RSSHub",
+      "description": "yusixian's followers - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "162676813047378944",
+      "id": "66420738803299328",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/yihangtao",
-      "title": "yihangtao's followers",
+      "siteUrl": "https://github.com/yusixian",
+      "title": "yusixian's followers",
       "type": "feed",
-      "url": "rsshub://github/user/followers/yihangtao"
+      "url": "rsshub://github/user/followers/yusixian"
     },
     {
       "description": "Shubxam's followers - Powered by RSSHub",

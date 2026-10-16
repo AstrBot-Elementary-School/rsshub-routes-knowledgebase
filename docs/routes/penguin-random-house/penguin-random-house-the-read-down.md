@@ -72,8 +72,8 @@ _None_
   "topFeeds": [
     {
       "description": "Never wonder what to read next! Check out these lists to find your next favorite book. - Powered by RSSHub",
-      "errorAt": "2026-10-14T15:51:17.939Z",
-      "errorMessage": "[GET] \"https://www.penguinrandomhouse.com/the-read-down/\": 406 Not Acceptable\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "70364924065118208",
       "image": null,
       "ownerUserId": null,

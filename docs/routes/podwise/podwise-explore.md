@@ -60,14 +60,14 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Excellent themed episodes selected by Podwise. - Powered by RSSHub",
-      "errorAt": "2025-09-15T11:17:50.392Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "description": "Podcast summaries, transcripts, mind maps, notes and translations - all in one place. The premier learning app for podcast lovers. - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "67116246290787328",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://podwise.ai/explore",
-      "title": "Collections | Podwise",
+      "title": "Collections | PodwiseXDiscordApple",
       "type": "feed",
       "url": "rsshub://podwise/explore"
     }

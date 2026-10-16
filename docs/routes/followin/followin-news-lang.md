@@ -97,8 +97,8 @@ _None_
   "topFeeds": [
     {
       "description": "快讯 - Followin - Powered by RSSHub",
-      "errorAt": "2026-08-19T09:54:04.768Z",
-      "errorMessage": "[GET] \"https://followin.io\": 429 Too Many Requests\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41419133062574080",
       "image": "https://followin.io/favicon.ico",
       "ownerUserId": null,

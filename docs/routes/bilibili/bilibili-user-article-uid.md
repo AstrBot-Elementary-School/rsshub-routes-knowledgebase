@@ -89,7 +89,7 @@ _None_
     {
       "description": "undefined 的 bilibili 图文 - Powered by RSSHub",
       "errorAt": "2026-09-19T21:08:19.477Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://api.bilibili.com/x/polymer/web-dynamic/v1/opus/feed/space?host_mid=57276677\": 412 Precondition Failed\n",
+      "errorMessage": "Failed to fetch\n[GET] \"https://api.bilibili.com/x/web-interface/card?mid=57276677\": 412 Precondition Failed\n",
       "id": "55126637717323776",
       "image": null,
       "ownerUserId": null,

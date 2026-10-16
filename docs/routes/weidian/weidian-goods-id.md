@@ -51,28 +51,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "HOTSHOT BLACKSWAN STORE 商铺上新 - Powered by RSSHub",
+      "description": "丘比特Club新店 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264524582266470400",
+      "id": "1264526158519468032",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1666710580",
-      "title": "HOTSHOT BLACKSWAN STORE 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1813266244",
+      "title": "丘比特Club新店 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1666710580"
+      "url": "rsshub://weidian/goods/1813266244"
     },
     {
-      "description": "白菜制造 商铺上新 - Powered by RSSHub",
+      "description": "byvovo 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264526906061881344",
+      "id": "1264525518451900416",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1875967188",
-      "title": "白菜制造 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1771961812",
+      "title": "byvovo 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1875967188"
+      "url": "rsshub://weidian/goods/1771961812"
     }
   ]
 }

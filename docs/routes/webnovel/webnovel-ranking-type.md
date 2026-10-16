@@ -24,7 +24,8 @@ _None_
 
 
 ## Features
-_None_
+- `requirePuppeteer`: true
+- `antiCrawler`: true
 
 ## Radar
 ### Rule 1
@@ -39,6 +40,10 @@ _None_
     "reading"
   ],
   "example": "/webnovel/ranking",
+  "features": {
+    "antiCrawler": true,
+    "requirePuppeteer": true
+  },
   "heat": 0,
   "location": "ranking.tsx",
   "maintainers": [

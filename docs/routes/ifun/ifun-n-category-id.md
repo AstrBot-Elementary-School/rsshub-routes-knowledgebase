@@ -177,12 +177,12 @@
   "topFeeds": [
     {
       "description": "趣集 - Powered by RSSHub",
-      "errorAt": "2025-01-19T17:37:36.683Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'find')\nCannot read properties of undefined (reading 'find')\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "86604116820537344",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://n.ifun.cool/",
+      "siteUrl": "https://iread.life/articles",
       "title": "趣集",
       "type": "feed",
       "url": "rsshub://ifun/n/category"

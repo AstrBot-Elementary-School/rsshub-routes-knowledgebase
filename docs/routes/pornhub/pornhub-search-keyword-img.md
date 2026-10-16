@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4499,
+  "heat": 4502,
   "location": "search.ts",
   "maintainers": [
     "nczitzk"
@@ -76,7 +76,7 @@ _None_
       "id": "60825844649447424",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.pornhub.com/webmasters/search?search=%E5%9B%BD%E4%BA%A7",
+      "siteUrl": "https://www.pornhub.com/video/search?search=%E5%9B%BD%E4%BA%A7",
       "title": "Pornhub - 国产",
       "type": "feed",
       "url": "rsshub://pornhub/search/%E5%9B%BD%E4%BA%A7"

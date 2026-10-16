@@ -72,7 +72,7 @@ _None_
     {
       "description": "Asia - Powered by RSSHub",
       "errorAt": "2026-01-19T11:08:49.376Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "[GET] \"https://www.cfr.org/articles/the-limits-of-trump-and-xis-photo-op-summit\": 429 Too Many Requests\n",
       "id": "58007926096163902",
       "image": null,
       "ownerUserId": null,

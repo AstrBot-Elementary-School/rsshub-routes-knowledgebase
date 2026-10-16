@@ -83,6 +83,18 @@ Language
       "description": "News - WHO - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
+      "id": "62422466958723072",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.who.int/zh/news",
+      "title": "News - WHO",
+      "type": "feed",
+      "url": "rsshub://who/news/zh"
+    },
+    {
+      "description": "News - WHO - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "80542799527249920",
       "image": null,
       "ownerUserId": null,
@@ -90,18 +102,6 @@ Language
       "title": "News - WHO",
       "type": "feed",
       "url": "rsshub://who/news"
-    },
-    {
-      "description": "News - WHO - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "59442632641000448",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.who.int/news",
-      "title": "News - WHO",
-      "type": "feed",
-      "url": "rsshub://who/news/en"
     }
   ],
   "url": "who.int/news"

@@ -59,8 +59,8 @@ _None_
   "topFeeds": [
     {
       "description": "Trending page - PubMed - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-15T16:26:08.744Z",
+      "errorMessage": "503 \n",
       "id": "84477021375684608",
       "image": null,
       "ownerUserId": null,

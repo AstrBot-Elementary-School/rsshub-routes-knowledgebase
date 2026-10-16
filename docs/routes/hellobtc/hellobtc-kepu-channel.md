@@ -81,8 +81,8 @@ _None_
     },
     {
       "description": "白话区块链 - 科普 最新 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-15T09:51:21.089Z",
+      "errorMessage": "[GET] \"https://www.hellobtc.com/kepu.html\": 522 <none>\n",
       "id": "52357479509098526",
       "image": null,
       "ownerUserId": null,

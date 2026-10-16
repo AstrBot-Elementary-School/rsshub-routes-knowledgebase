@@ -87,7 +87,7 @@ _None_
     {
       "description": "大麦网票务 - 杭州 - 全部分类 - Powered by RSSHub",
       "errorAt": "2025-11-12T12:09:44.623Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'resultData')\n",
+      "errorMessage": "Damai did not return ticket search results. The source may require verification or login.\n",
       "id": "68567136601187328",
       "image": null,
       "ownerUserId": null,

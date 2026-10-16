@@ -77,8 +77,8 @@
   "topFeeds": [
     {
       "description": "深圳市住房和建设局 - 通知公告 - Powered by RSSHub",
-      "errorAt": "2026-10-14T15:15:33.608Z",
-      "errorMessage": "[GET] \"http://zjj.sz.gov.cn/xxgk/tzgg/\": 520 <none>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "69966067980854272",
       "image": null,
       "ownerUserId": null,

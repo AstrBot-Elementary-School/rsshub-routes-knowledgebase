@@ -82,7 +82,7 @@ _None_
       "id": "153319458878542848",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://docs.rsshub.app/",
+      "siteUrl": "https://www.google.com/alerts",
       "title": "Google Alerts - 中国经营报",
       "type": "feed",
       "url": "rsshub://google/alerts/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E8%90%A5%E6%8A%A5"

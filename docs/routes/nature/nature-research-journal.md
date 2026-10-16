@@ -70,7 +70,7 @@
     "supportPodcast": false,
     "supportScihub": true
   },
-  "heat": 55646,
+  "heat": 55746,
   "location": "research.ts",
   "maintainers": [
     "y9c",
@@ -97,20 +97,8 @@
   "topFeeds": [
     {
       "description": "Read the latest Research articles from Nature - Powered by RSSHub",
-      "errorAt": "2026-10-14T15:31:18.338Z",
-      "errorMessage": "[GET] \"https://www.nature.com/articles/s41586-026-11242-8\": 404 \n[GET] \"https://www.nature.com/articles/s41586-026-11242-8\": 404 Not Found\n",
-      "id": "79390237537101824",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.nature.com/nature/research-articles",
-      "title": "Nature (Nature) | Latest Research",
-      "type": "feed",
-      "url": "rsshub://nature/research"
-    },
-    {
-      "description": "Read the latest Research articles from Nature - Powered by RSSHub",
-      "errorAt": "2026-10-14T15:41:22.795Z",
-      "errorMessage": "[GET] \"https://www.nature.com/articles/s41586-026-11158-3\": 404 Not Found\nCannot read properties of null (reading '1')\n[GET] \"https://www.nature.com/articles/s41586-026-11242-8\": 404 Not Found\n[GET] \"https://www.nature.com/articles/s41586-026-11242-8\": 404 \nCannot read properties of null (reading '1')\n[GET] \"https://www.nature.com/articles/s41586-026-11242-8\": 404 Not Found\n[GET] \"https://www.nature.com/articles/s41586-026-11242-8\": 404 Not Found\nCannot read properties of null (reading '1')\nCannot read properties of null (reading '1')\n[GET] \"https://www.nature.com/articles/s41586-026-11242-8\": 404 Not Found\n[GET] \"https://www.nature.com/articles/s41586-026-11242-8\": 404 \n[GET] \"https://www.nature.com/articles/s41586-026-11242-8\": 404 Not Found\nCannot read properties of null (reading '1')\n[GET] \"https://www.nature.com/articles/s41586-026-11158-3\": 404 Not Found\nMISCONF Redis is configured to save RDB snapshots, but it's currently unable to persist to disk. Commands that may modify the data set are disabled, because this instance is configured to report errors during writes if RDB snapshotting fails (stop-writes-on-bgsave-error option). Please check the Redis logs for details about the RDB error.\n[GET] \"https://www.nature.com/articles/s41586-026-11109-y\": 404 \n[GET] \"https://www.nature.com/articles/s41586-026-11162-7\": 404 \nCannot read properties of null (reading '1')\nCannot read properties of null (reading '1')\n[GET] \"https://www.nature.com/articles/s41586-026-11162-7\": 404 \nCannot read properties of null (reading '1')\nCannot read properties of null (reading '1')\n[GET] \"https://www.nature.com/articles/s41586-026-11158-3\": 404 Not Found\nCannot read properties of null (reading '1')\n[GET] \"https://www.nature.com/articles/s41586-026-11162-7\": 404 \n[GET] \"https://www.nature.com/articles/s41586-026-11158-3\": 404 Not Found\nCannot read properties of null (reading '1')\n[GET] \"https://www.nature.com/articles/s41586-026-11158-3\": 404 \nCannot read properties of null (reading '1')\nCannot read properties of null (reading '1')\nFailed to fetch\nCannot read properties of null (reading '1')\n[GET] \"https://www.nature.com/articles/s41586-026-11162-7\": 404 \n[GET] \"https://www.nature.com/articles/s41586-026-11162-7\": 404 \nCannot read properties of null (reading '1')\n[GET] \"https://www.nature.com/articles/s41586-026-11162-7\": 404 Not Found\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "73606009950742535",
       "image": null,
       "ownerUserId": null,
@@ -118,6 +106,18 @@
       "title": "Nature (Nature) | Latest Research",
       "type": "feed",
       "url": "rsshub://nature/research/nature"
+    },
+    {
+      "description": "Read the latest Research articles from Nature - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "79390237537101824",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.nature.com/nature/research-articles",
+      "title": "Nature (Nature) | Latest Research",
+      "type": "feed",
+      "url": "rsshub://nature/research"
     }
   ]
 }

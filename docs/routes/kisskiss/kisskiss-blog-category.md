@@ -79,8 +79,8 @@ _None_
   "topFeeds": [
     {
       "description": "KISS ブログ - Powered by RSSHub",
-      "errorAt": "2025-12-09T20:19:56.802Z",
-      "errorMessage": "Cannot read properties of null (reading '0')\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "65292416725202944",
       "image": null,
       "ownerUserId": null,

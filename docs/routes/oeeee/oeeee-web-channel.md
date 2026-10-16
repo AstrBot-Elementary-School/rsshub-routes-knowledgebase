@@ -80,7 +80,7 @@ _None_
     {
       "description": "南方都市报奥一网 - Powered by RSSHub",
       "errorAt": "2026-10-14T14:46:26.834Z",
-      "errorMessage": "[GET] \"https://m.mp.oeeee.com/oe/BAAFRD0000202610141682363.html\": 525 <none>\n",
+      "errorMessage": "[GET] \"https://m.mp.oeeee.com/oe/BAAFRD0000202610151682679.html\": 530 <none>\n",
       "id": "150755089712076808",
       "image": null,
       "ownerUserId": null,

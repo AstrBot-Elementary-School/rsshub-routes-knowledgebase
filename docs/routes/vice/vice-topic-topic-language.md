@@ -41,7 +41,7 @@ _None_
     "traditional-media"
   ],
   "example": "/vice/topic/politics/en",
-  "heat": 0,
+  "heat": 1,
   "location": "topic.tsx",
   "maintainers": [
     "K33k0"

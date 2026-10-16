@@ -41,7 +41,7 @@
 
 ## Features
 - `requireConfig`: false
-- `requirePuppeteer`: false
+- `requirePuppeteer`: true
 - `antiCrawler`: false
 - `supportBT`: false
 - `supportPodcast`: false
@@ -61,7 +61,7 @@ _None_
   "features": {
     "antiCrawler": false,
     "requireConfig": false,
-    "requirePuppeteer": false,
+    "requirePuppeteer": true,
     "supportBT": false,
     "supportPodcast": false,
     "supportScihub": false
@@ -84,7 +84,7 @@ _None_
     {
       "description": "智通财经 - 推荐 - Powered by RSSHub",
       "errorAt": "2026-10-14T15:30:54.944Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'slice')\n[GET] \"https://www.zhitongcaijing.com/content/detail/1507366.html\": 503 Service Unavailable\n",
+      "errorMessage": "Cannot read properties of undefined (reading 'slice')\n[GET] \"https://www.zhitongcaijing.com/content/detail/1507771.html\": 503 Service Unavailable\n",
       "id": "63376992073142278",
       "image": null,
       "ownerUserId": null,
@@ -95,8 +95,8 @@ _None_
     },
     {
       "description": "智通财经 - 推荐 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-15T00:30:39.972Z",
+      "errorMessage": "[GET] \"https://www.zhitongcaijing.com/content/detail/1507575.html\": 503 Service Unavailable\n",
       "id": "72559122759839744",
       "image": null,
       "ownerUserId": null,

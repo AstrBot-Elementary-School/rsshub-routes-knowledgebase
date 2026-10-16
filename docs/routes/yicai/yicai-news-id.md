@@ -105,8 +105,8 @@
   "topFeeds": [
     {
       "description": "第一财经 - 科技 - Powered by RSSHub",
-      "errorAt": "2025-11-04T08:38:03.960Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'slug')\nCannot read properties of undefined (reading 'slug')\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "69953039798669312",
       "image": null,
       "ownerUserId": null,

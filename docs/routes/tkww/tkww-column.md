@@ -230,12 +230,12 @@
   "topFeeds": [
     {
       "description": "香港新聞，香港時事，資訊更新更快、聲音更全面、解讀更權威。 - Powered by RSSHub",
-      "errorAt": "2025-12-23T14:16:46.461Z",
-      "errorMessage": "Invalid Column: hong_kong\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "71128480939804672",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.tkww.hk/hong_kong",
+      "siteUrl": "https://www.tkww.hk/top_news/hong_kong",
       "title": "香港 - 大公文匯網",
       "type": "feed",
       "url": "rsshub://tkww/hong_kong"

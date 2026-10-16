@@ -137,18 +137,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "bilibili 排行榜-全站 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "79067786101345280",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.bilibili.com/v/popular/rank/all",
-      "title": "bilibili 排行榜-全站",
-      "type": "feed",
-      "url": "rsshub://bilibili/ranking/0/1"
-    },
-    {
       "description": "bilibili 排行榜-科技 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -159,6 +147,18 @@ _None_
       "title": "bilibili 排行榜-科技",
       "type": "feed",
       "url": "rsshub://bilibili/ranking/10"
+    },
+    {
+      "description": "bilibili 排行榜-全站 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "79067786101345280",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.bilibili.com/v/popular/rank/all",
+      "title": "bilibili 排行榜-全站",
+      "type": "feed",
+      "url": "rsshub://bilibili/ranking/0/1"
     }
   ],
   "view": 3

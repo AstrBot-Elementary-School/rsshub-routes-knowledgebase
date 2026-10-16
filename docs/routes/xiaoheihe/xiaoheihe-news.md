@@ -49,7 +49,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 810,
+  "heat": 809,
   "location": "news.ts",
   "maintainers": [
     "tssujt"
@@ -63,8 +63,8 @@ _None_
   "topFeeds": [
     {
       "description": "小黑盒游戏新闻 - Powered by RSSHub",
-      "errorAt": "2026-04-03T12:44:54.464Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'content')\nCannot read properties of undefined (reading 'content')\nCannot read properties of undefined (reading 'content')\nCannot read properties of undefined (reading 'content')\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41374762779449344",
       "image": null,
       "ownerUserId": null,

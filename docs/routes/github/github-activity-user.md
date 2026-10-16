@@ -54,7 +54,7 @@ Get the activities of a user on GitHub, based on the GitHub official RSS feed
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4815,
+  "heat": 4814,
   "location": "activity.ts",
   "maintainers": [
     "hyoban"
@@ -81,7 +81,7 @@ Get the activities of a user on GitHub, based on the GitHub official RSS feed
       "errorAt": null,
       "errorMessage": null,
       "id": "41236863782248448",
-      "image": "https://avatars.githubusercontent.com/u/8266075?s=30&amp;v=4",
+      "image": "https://avatars.githubusercontent.com/u/8266075?s=30&v=4",
       "ownerUserId": null,
       "siteUrl": "https://github.com/DIYgod",
       "title": "DIYgod's GitHub activities",

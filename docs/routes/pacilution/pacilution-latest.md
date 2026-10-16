@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 24,
+  "heat": 25,
   "location": "latest.ts",
   "maintainers": [
     "PrinOrange"
@@ -73,7 +73,7 @@ _None_
     {
       "description": "普世社会科学研究网首页上不同板块的最新文章汇总集合 - Powered by RSSHub",
       "errorAt": "2025-04-07T15:03:34.897Z",
-      "errorMessage": "[GET] \"http://www.pacilution.com/\": 530 \n",
+      "errorMessage": "[GET] \"http://www.pacilution.com/\": 530 <none>\n",
       "id": "97986765433683968",
       "image": "http://www.pacilution.com/img/top_banner.jpg",
       "ownerUserId": null,

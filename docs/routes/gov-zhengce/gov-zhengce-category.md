@@ -109,20 +109,20 @@
   "topFeeds": [
     {
       "description": "中国政府网政策与法主栏目下解读国务院法规,政策,部门规章等有关文件的栏目页 - Powered by RSSHub",
-      "errorAt": "2026-01-26T16:57:03.541Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "85521092373168149",
       "image": "https://www.gov.cn/images/gtrs_logo_rt.png",
       "ownerUserId": null,
-      "siteUrl": "https://www.gov.cn/zhengce/jiedu/",
+      "siteUrl": "https://www.gov.cn/zhengce/jiedu/index.htm",
       "title": "中国政府网 - 政策解读",
       "type": "feed",
       "url": "rsshub://gov/zhengce/jiedu"
     },
     {
       "description": "中共中央和国务院最近发布的政策 - Powered by RSSHub",
-      "errorAt": "2026-02-04T15:59:01.539Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "63695474853662720",
       "image": "https://www.gov.cn/images/gtrs_logo_rt.png",
       "ownerUserId": null,

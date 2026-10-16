@@ -26,7 +26,7 @@ _None_
 
 
 ## Features
-_None_
+- `requireConfig`: [{"description": "Required for the latest events of a single issue or pull request whose timeline exceeds one REST API page. Optional for smaller public timelines and repository-wide comments.", "name": "GITHUB_ACCESS_TOKEN", "optional": true}]
 
 ## Radar
 ### Rule 1
@@ -42,6 +42,15 @@ _None_
     "programming"
   ],
   "example": "/github/comments/DIYgod/RSSHub/8116",
+  "features": {
+    "requireConfig": [
+      {
+        "description": "Required for the latest events of a single issue or pull request whose timeline exceeds one REST API page. Optional for smaller public timelines and repository-wide comments.",
+        "name": "GITHUB_ACCESS_TOKEN",
+        "optional": true
+      }
+    ]
+  },
   "heat": 291,
   "location": "comments.ts",
   "maintainers": [
@@ -69,16 +78,16 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "comfyanonymous/ComfyUI: Issue & Pull request comments - Powered by RSSHub",
+      "description": "RSSNext/Folo: Issue & Pull request comments - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "68377703545822208",
+      "id": "128737368338530304",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/comfyanonymous/ComfyUI",
-      "title": "comfyanonymous/ComfyUI: Issue & Pull request comments",
+      "siteUrl": "https://github.com/RSSNext/Folo",
+      "title": "RSSNext/Folo: Issue & Pull request comments",
       "type": "feed",
-      "url": "rsshub://github/comments/comfyanonymous/ComfyUI"
+      "url": "rsshub://github/comments/RSSNext/Folo"
     },
     {
       "description": "521xueweihan/HelloGitHub: Issue & Pull request comments - Powered by RSSHub",

@@ -104,16 +104,16 @@
   },
   "topFeeds": [
     {
-      "description": "A lightweight but feature rich & multi-currency trade plugin with a simple configuration. - Powered by RSSHub",
+      "description": "Lets you play Fabric mods on NeoForge - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "114582838985083904",
+      "id": "120750482624892928",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/nZSk44a8",
-      "title": "AxTrade Modrinth versions",
+      "siteUrl": "https://modrinth.com/project/connector",
+      "title": "Sinytra Connector Modrinth versions",
       "type": "feed",
-      "url": "rsshub://modrinth/project/nZSk44a8/versions"
+      "url": "rsshub://modrinth/project/connector/versions"
     },
     {
       "description": "Aesthetic Technology that empowers the Player - Powered by RSSHub",

@@ -73,13 +73,13 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "1. 苹果推出全新智能家居配件系列 Apple Home Collection 2. DeepSeek 拟完成约千亿元融资，投前估值约 5000 亿元 3. 月之暗面完成 Pre-IPO 轮融资 估值 500 亿美元冲刺港股上市 4. 懂车帝相关负责人连发 4 条微博，质疑尊界检测结果 5. LVMH 称起诉茉莉奶白有负面影响 Q3 中国客群需求降 15% 6. 千问将推出 Personal Agent「千问 Go」 7. 字节跳动 Seed 单独设立大模型安全与对齐部门 8. 阿里组织近百人开发千问办公电商版 计划双十一预售前发布 9. Character.AI 申请破产，迪士尼 2000 万美元接手部分资产 10. 消息称 OpenAI 计划复活 Sora 换赛道进军 AI 专业影视工具 11. 重庆市原市长黄奇帆被查 12. 报告称国内 AI 六小龙 AI 相关收入合计约为 OpenAI 与 Anthropic 的 10% 13. 网易云音乐与宇树科技达成深度合作 14. 雅思因技术原因取消多场考试 将安排复考并增设免费专场 15. 阿里千问发布全新 AI 眼镜、AI 耳机，1099 元起开售 16. 微软推进 AI 架构改革 重组 Azure 云业务部门 - Powered by RSSHub",
+      "description": "1. 153 款应用拒豆包手机助手自动化操作 含腾讯阿里美团等产品 2. 苹果 iPhone 15 Pro 及后续机型国行版备案大模型编号：Apple 智能、通义万相、通义千问 3. 中国汽研回应尊界 V800 检测报告：仅对送检样件负责 不对量产产品保证 4. 田柯宇回应字节模型相关争议：称非投毒系以暴制暴 5. 安徽省委书记李乐成调研长鑫科技并主持召开座谈会 6. OpenAI 指控前员工跳槽苹果前转移逾百份未发布产品文件 7. 苹果称未在系统中找到 OpenAI 所确认的相关文件 8. 谷歌向 Google AI 订阅用户推出 Gemini 4 Argon 9. 美媒关注长鑫存储技术突破 相关消息致全球存储巨头股价集体下挫 10. 腾讯将发债融资近 57 亿美元，支持 AI 投资 11. OpenAI：一员工在办公室安装录音设备 已解雇并知会 FBI 12. 英伟达黄仁勋欧洲行：未来一周将宣布 20 亿美元投资，力推开源模式助欧洲入局 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "52347176714948614",
       "image": "https://readhub.cn/icons/icon-192x192.png",
       "ownerUserId": null,
-      "siteUrl": "https://api.readhub.cn/daily",
+      "siteUrl": "https://readhub.cn/daily",
       "title": "Readhub - 每日早报",
       "type": "feed",
       "url": "rsshub://readhub/daily"

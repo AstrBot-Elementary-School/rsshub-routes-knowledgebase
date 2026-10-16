@@ -26,7 +26,7 @@
 
 
 ## Features
-_None_
+- `requireConfig`: [{"description": "Your own www.tgb.cn Cookie for articles that require login. Anonymous excerpts remain available without it.", "name": "TAOGUBA_COOKIE", "optional": true}]
 
 ## Radar
 _None_
@@ -39,6 +39,15 @@ _None_
   ],
   "description": "| 淘股论坛 | 社区总版 | 精华加油 | 网友点赞 |\n| -------- | -------- | -------- | -------- |\n| bbs      | zongban  | jinghua  | dianzan  |",
   "example": "/taoguba",
+  "features": {
+    "requireConfig": [
+      {
+        "description": "Your own www.tgb.cn Cookie for articles that require login. Anonymous excerpts remain available without it.",
+        "name": "TAOGUBA_COOKIE",
+        "optional": true
+      }
+    ]
+  },
   "heat": 249,
   "location": "index.ts",
   "maintainers": [
@@ -67,8 +76,8 @@ _None_
     },
     {
       "description": "淘股吧股票论坛总版 - Powered by RSSHub",
-      "errorAt": "2026-06-24T21:12:43.752Z",
-      "errorMessage": "[GET] \"https://www.tgb.cn//a/2vPOgcQ4Gg6\": 404 Not Found\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "101439531051305984",
       "image": null,
       "ownerUserId": null,

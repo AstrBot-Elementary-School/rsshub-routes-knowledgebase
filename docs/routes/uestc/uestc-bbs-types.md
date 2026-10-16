@@ -21,7 +21,7 @@
 仅支持自建，您需要设置以下配置才能正常使用：
 
 - 河畔 cookie: `UESTC_BBS_COOKIE`
-- Header 中的授权字段: `UESTC_BBS_AUTH_KEY`
+- Header 中的授权字段: `UESTC_BBS_AUTH_STR`
 
 :::
 
@@ -30,7 +30,7 @@
 
 
 ## Features
-- `requireConfig`: [{"description": "河畔的cookie", "name": "UESTC_BBS_COOKIE", "optional": false}, {"description": "河畔Header中的authorization字段", "name": "UESTC_BBS_AUTH_KEY", "optional": false}]
+- `requireConfig`: [{"description": "河畔的cookie", "name": "UESTC_BBS_COOKIE", "optional": false}, {"description": "河畔Header中的authorization字段", "name": "UESTC_BBS_AUTH_STR", "optional": false}]
 - `requirePuppeteer`: false
 - `antiCrawler`: false
 - `supportBT`: false
@@ -49,7 +49,7 @@
   "categories": [
     "university"
   ],
-  "description": "::: tip\n仅支持自建，您需要设置以下配置才能正常使用：\n\n- 河畔 cookie: `UESTC_BBS_COOKIE`\n- Header 中的授权字段: `UESTC_BBS_AUTH_KEY`\n\n:::",
+  "description": "::: tip\n仅支持自建，您需要设置以下配置才能正常使用：\n\n- 河畔 cookie: `UESTC_BBS_COOKIE`\n- Header 中的授权字段: `UESTC_BBS_AUTH_STR`\n\n:::",
   "example": "/uestc/bbs/newthread",
   "features": {
     "antiCrawler": false,
@@ -61,7 +61,7 @@
       },
       {
         "description": "河畔Header中的authorization字段",
-        "name": "UESTC_BBS_AUTH_KEY",
+        "name": "UESTC_BBS_AUTH_STR",
         "optional": false
       }
     ],

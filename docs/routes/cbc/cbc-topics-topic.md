@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 50,
+  "heat": 51,
   "location": "topics.ts",
   "maintainers": [
     "wb14123"
@@ -87,14 +87,14 @@ _None_
       "url": "rsshub://cbc/topics"
     },
     {
-      "description": "Ottawa - CBC NewsMenuTelevisionheadphoneclosed captionclosed captionclosed captionclosed captionclosed captionclosed captionclosed captionclosed captionclosed caption - Powered by RSSHub",
+      "description": "Ottawa - CBC News - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "60766614420573184",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.cbc.ca/news/canada/ottawa",
-      "title": "Ottawa - CBC NewsMenuTelevisionheadphoneclosed captionclosed captionclosed captionclosed captionclosed captionclosed captionclosed captionclosed captionclosed caption",
+      "title": "Ottawa - CBC News",
       "type": "feed",
       "url": "rsshub://cbc/topics/canada-ottawa"
     }

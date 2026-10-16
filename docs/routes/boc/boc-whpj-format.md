@@ -84,18 +84,6 @@
       "description": "中国银行外汇牌价 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "56690436420659200",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.boc.cn/sourcedb/whpj/",
-      "title": "中国银行外汇牌价",
-      "type": "feed",
-      "url": "rsshub://boc/whpj/zs"
-    },
-    {
-      "description": "中国银行外汇牌价 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "75015471600032768",
       "image": null,
       "ownerUserId": null,
@@ -103,6 +91,18 @@
       "title": "中国银行外汇牌价",
       "type": "feed",
       "url": "rsshub://boc/whpj/xh"
+    },
+    {
+      "description": "中国银行外汇牌价 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "56690436420659200",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.boc.cn/sourcedb/whpj/",
+      "title": "中国银行外汇牌价",
+      "type": "feed",
+      "url": "rsshub://boc/whpj/zs"
     }
   ],
   "url": "boc.cn/sourcedb/whpj"

@@ -24,7 +24,7 @@ _None_
 
 
 ## Features
-_None_
+- `requirePuppeteer`: true
 
 ## Radar
 ### Rule 1
@@ -38,6 +38,9 @@ _None_
     "programming"
   ],
   "example": "/tencent/cloud/developer/column/1",
+  "features": {
+    "requirePuppeteer": true
+  },
   "heat": 139,
   "location": "cloud/developer/column.ts",
   "maintainers": [

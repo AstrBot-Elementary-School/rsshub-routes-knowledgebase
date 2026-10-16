@@ -77,12 +77,12 @@ _None_
     },
     {
       "description": "金灿荣教授 的个人主页 - Powered by RSSHub",
-      "errorAt": "2026-10-14T16:02:02.963Z",
-      "errorMessage": "Failed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "172228390272024576",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://app.guancha.cn/user/get-published-list?page_size=20&page_no=1&uid=210048",
+      "siteUrl": "https://user.guancha.cn/user/personal-homepage?uid=210048",
       "title": "金灿荣教授-观察者-风闻社区",
       "type": "feed",
       "url": "rsshub://guancha/personalpage/210048"

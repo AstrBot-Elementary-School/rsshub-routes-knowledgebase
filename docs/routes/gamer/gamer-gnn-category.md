@@ -11,7 +11,7 @@
 - Example: `/gamer/gnn/1`
 - URL: `acg.gamer.com.tw`
 - Language: `_None_`
-- Categories: `anime`
+- Categories: `anime, popular`
 - Maintainers: `Arracc, ladeng07, pseudoyu`
 - Source Location: `gnn-index.ts`
 - Source Module: `_None_`
@@ -38,7 +38,8 @@ _None_
 ```json
 {
   "categories": [
-    "anime"
+    "anime",
+    "popular"
   ],
   "description": "缺省為首頁",
   "example": "/gamer/gnn/1",
@@ -50,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1336,
+  "heat": 1338,
   "location": "gnn-index.ts",
   "maintainers": [
     "Arracc",

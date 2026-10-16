@@ -2300,18 +2300,6 @@ To subscribe to [Artificial Intelligence (cs.AI)](https://papers.cool/arxiv/cs.A
   },
   "topFeeds": [
     {
-      "description": "The list of papers for Artificial Intelligence category on arXiv, including titles, authors, and abstracts, with support for paper interpretation based on Kimi AI. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "111428132263361536",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://papers.cool/arxiv/cs.AI?show=50",
-      "title": "Artificial Intelligence | Cool Papers - Immersive Paper Discovery",
-      "type": "feed",
-      "url": "rsshub://papers/category/arxiv/cs.AI"
-    },
-    {
       "description": "The list of papers for Robotics category on arXiv, including titles, authors, and abstracts, with support for paper interpretation based on Kimi AI. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -2322,6 +2310,18 @@ To subscribe to [Artificial Intelligence (cs.AI)](https://papers.cool/arxiv/cs.A
       "title": "Robotics | Cool Papers - Immersive Paper Discovery",
       "type": "feed",
       "url": "rsshub://papers/category/arxiv/cs.RO"
+    },
+    {
+      "description": "The list of papers for Artificial Intelligence category on arXiv, including titles, authors, and abstracts, with support for paper interpretation based on Kimi AI. - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "111428132263361536",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://papers.cool/arxiv/cs.AI?show=50",
+      "title": "Artificial Intelligence | Cool Papers - Immersive Paper Discovery",
+      "type": "feed",
+      "url": "rsshub://papers/category/arxiv/cs.AI"
     }
   ],
   "url": "papers.cool",

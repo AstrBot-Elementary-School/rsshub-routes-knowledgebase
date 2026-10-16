@@ -57,6 +57,19 @@ _None_
       "target": "/original"
     }
   ],
-  "topFeeds": []
+  "topFeeds": [
+    {
+      "description": "Cool18 - 热门泛原创 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "1332195803111751680",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.cool18.com/indexorgposts.php",
+      "title": "Cool18 - 热门泛原创",
+      "type": "feed",
+      "url": "rsshub://cool18/original"
+    }
+  ]
 }
 ```

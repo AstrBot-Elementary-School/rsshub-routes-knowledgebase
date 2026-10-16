@@ -41,7 +41,7 @@ _None_
   ],
   "description": "| 新着        | Switch | PS5 | PS4 | PC ゲーム | ニュース | 動画   | 特集・企画記事  | インタビュー | 取材・リポート | レビュー | インディーゲーム |\n| ----------- | ------ | --- | --- | --------- | -------- | ------ | --------------- | ------------ | -------------- | -------- | ---------------- |\n| new-article | switch | ps5 | ps4 | pc-game   | news     | videos | special-article | interview    | event-report   | review   | indie-game       |",
   "example": "/famitsu/category/new-article",
-  "heat": 42,
+  "heat": 43,
   "location": "category.tsx",
   "maintainers": [
     "TonyRL"

@@ -9,7 +9,7 @@
 - Route Path: `/cloudnative/blog`
 - Route Name: `博客`
 - Example: `/cloudnative/blog`
-- URL: `cloudnative.to`
+- URL: `cloudnative.jimmysong.io`
 - Language: `_None_`
 - Categories: `blog`
 - Maintainers: `aneasystone`

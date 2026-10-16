@@ -3,9 +3,9 @@
 ## Namespace
 - Namespace: `hubu`
 - Display Name: `湖北大学`
-- URL: `hubu.edu.cn`
+- URL: `www.hubu.edu.cn`
 - Language: `_None_`
-- Aliases: `hubu, hubu.edu.cn, 湖北大学`
+- Aliases: `hubu, hubu.edu.cn, www, www.hubu.edu.cn, 湖北大学`
 - Route Count: `2`
 
 ## Routes

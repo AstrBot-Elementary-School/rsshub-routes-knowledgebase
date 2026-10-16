@@ -24,7 +24,8 @@ _None_
 
 
 ## Features
-_None_
+- `requirePuppeteer`: true
+- `antiCrawler`: true
 
 ## Radar
 ### Rule 1
@@ -38,6 +39,10 @@ _None_
     "anime"
   ],
   "example": "/bakamh/manga/最强家丁",
+  "features": {
+    "antiCrawler": true,
+    "requirePuppeteer": true
+  },
   "heat": 4,
   "location": "manga.ts",
   "maintainers": [

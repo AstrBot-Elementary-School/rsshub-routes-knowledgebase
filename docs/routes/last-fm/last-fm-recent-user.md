@@ -17,14 +17,15 @@
 - Source Module: `_None_`
 
 ## Description
-_None_
+未配置 LASTFM\_API\_KEY 时使用公开页面，公开页面的时间精度为分钟。
 
 ## Parameters
 - `user`: Last.fm 用户名
 
 
 ## Features
-- `requireConfig`: [{"description": "Last.fm API key", "name": "LASTFM_API_KEY", "optional": false}]
+- `requirePuppeteer`: true
+- `requireConfig`: [{"description": "Last.fm API key", "name": "LASTFM_API_KEY", "optional": true}]
 
 ## Radar
 ### Rule 1
@@ -38,15 +39,17 @@ _None_
   "categories": [
     "multimedia"
   ],
+  "description": "未配置 LASTFM\\_API\\_KEY 时使用公开页面，公开页面的时间精度为分钟。",
   "example": "/last.fm/recent/yeFoenix",
   "features": {
     "requireConfig": [
       {
         "description": "Last.fm API key",
         "name": "LASTFM_API_KEY",
-        "optional": false
+        "optional": true
       }
-    ]
+    ],
+    "requirePuppeteer": true
   },
   "heat": 0,
   "location": "recent.ts",

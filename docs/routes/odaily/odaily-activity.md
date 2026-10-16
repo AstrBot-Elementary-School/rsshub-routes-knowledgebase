@@ -77,12 +77,12 @@ _None_
   "topFeeds": [
     {
       "description": "活动 - Odaily星球日报 - Powered by RSSHub",
-      "errorAt": "2025-07-24T19:01:13.578Z",
-      "errorMessage": "[GET] \"https://www.odaily.news/service/scheme/group/8?page=1&per_page=25\": 404 Not Found\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "59954233475243008",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.odaily.news/activityPage",
+      "siteUrl": "https://www.odaily.news/zh-CN/activity",
       "title": "活动 - Odaily星球日报",
       "type": "feed",
       "url": "rsshub://odaily/activity"

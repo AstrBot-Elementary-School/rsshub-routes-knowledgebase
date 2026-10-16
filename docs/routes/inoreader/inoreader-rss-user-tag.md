@@ -67,8 +67,8 @@ _None_
   "topFeeds": [
     {
       "description": "Yifan's favorite articles on Inoreader - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-14T16:25:31.974Z",
+      "errorMessage": "Inoreader has suspended this RSS export. Ask the feed owner to enable RSS exports with their Inoreader plan.\n",
       "id": "60319382185805824",
       "image": "https://www.inoreader.com/brand/img/ino_app_icon.png",
       "ownerUserId": null,

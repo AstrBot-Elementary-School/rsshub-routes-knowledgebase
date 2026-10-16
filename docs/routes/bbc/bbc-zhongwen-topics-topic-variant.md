@@ -39,7 +39,7 @@ _None_
     "traditional-media"
   ],
   "example": "/bbc/zhongwen/topics/ckr7mn6r003t",
-  "heat": 52,
+  "heat": 54,
   "location": "topic-zhongwen.ts",
   "maintainers": [
     "TonyRL"
@@ -76,8 +76,8 @@ _None_
   "topFeeds": [
     {
       "description": "中國 - BBC News 中文 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-14T19:07:59.202Z",
+      "errorMessage": "Cannot read properties of undefined (reading 'undefined')\n",
       "id": "249427201828975616",
       "image": "https://www.bbc.com/favicon.ico",
       "ownerUserId": null,
@@ -88,8 +88,8 @@ _None_
     },
     {
       "description": "中国 - BBC News 中文 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-14T21:58:58.786Z",
+      "errorMessage": "[GET] \"https://www.bbc.com/zhongwen/topics/ckr7mn6r003t/simp\": 403 \nCannot read properties of undefined (reading 'undefined')\n",
       "id": "247863825203096576",
       "image": "https://www.bbc.com/favicon.ico",
       "ownerUserId": null,

@@ -27,6 +27,7 @@
 
 ## Features
 - `antiCrawler`: true
+- `requirePuppeteer`: true
 
 ## Radar
 _None_
@@ -40,7 +41,8 @@ _None_
   "description": "| 电影 | 电视剧 | 动漫 | 综艺 | 短剧 | 网飞 |\n| ---- | ------ | ---- | ---- | ---- | ---- |\n| 1    | 2      | 3    | 4    | 5    | 30   |",
   "example": "/secshi",
   "features": {
-    "antiCrawler": true
+    "antiCrawler": true,
+    "requirePuppeteer": true
   },
   "heat": 0,
   "location": "index.ts",

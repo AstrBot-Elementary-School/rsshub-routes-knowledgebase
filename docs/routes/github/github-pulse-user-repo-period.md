@@ -91,16 +91,16 @@ _None_
       "url": "rsshub://github/pulse/massCodeIO/massCode"
     },
     {
-      "description": "wood3n/biu weekly Pulse - Powered by RSSHub",
+      "description": "openai/whisper weekly Pulse - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "215344700650354688",
+      "id": "220767323256864796",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/wood3n/biu/pulse/weekly",
-      "title": "wood3n/biu weekly Pulse",
+      "siteUrl": "https://github.com/openai/whisper/pulse/weekly",
+      "title": "openai/whisper weekly Pulse",
       "type": "feed",
-      "url": "rsshub://github/pulse/wood3n/biu"
+      "url": "rsshub://github/pulse/openai/whisper/weekly"
     }
   ]
 }

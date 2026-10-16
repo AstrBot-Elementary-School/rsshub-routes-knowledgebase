@@ -86,7 +86,7 @@ _None_
     {
       "description": "Akinokoe 的 bilibili 合集 - Powered by RSSHub",
       "errorAt": "2026-09-07T10:51:16.348Z",
-      "errorMessage": "[GET] \"https://api.bilibili.com/x/polymer/web-space/seasons_archives_list?mid=103118875&season_id=1982480&sort_reverse=true&page_num=1&page_size=25\": 412 Precondition Failed\n",
+      "errorMessage": "[GET] \"https://api.bilibili.com/x/web-interface/card?mid=103118875\": 412 Precondition Failed\n",
       "id": "59067606177976320",
       "image": "https://i1.hdslb.com/bfs/face/5da869c71ba65e598f296b5ad2c10af52aea5392.jpg",
       "ownerUserId": null,

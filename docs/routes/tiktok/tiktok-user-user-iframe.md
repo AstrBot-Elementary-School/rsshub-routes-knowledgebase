@@ -89,16 +89,16 @@ _None_
       "url": "rsshub://tiktok/user/@policiadecolombia"
     },
     {
-      "description": "26 | collab: chicgirlmoment@gmail.com Instagram/tumblr/pinterest: chicgirlmoment - Powered by RSSHub",
+      "description": "Pony artist 🎠 ENG/FR I use Clip Studio Paint EX for animation and illustration ! ❌️ COMMISSIONS CLOSED ! Active on Insta and YT - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1330206939031666688",
-      "image": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-avt-0068-euttp/ace9e4888f2a72858a085be8127fd3a2~tplv-tiktokx-cropcenter:100:100.jpeg?dr=10399&refresh_token=6dcf55bc&x-expires=1792159200&x-signature=H0hcvTCytbiTimKOU3dgWj9PuRo%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=no1a",
+      "id": "1278674266593558528",
+      "image": "https://p19-common-sign.tiktokcdn-eu.com/tos-no1a-avt-0068c001-no/82316f4012310163929176be868d7ed7~tplv-tiktokx-cropcenter:100:100.jpeg?dr=10399&refresh_token=94339e65&x-expires=1792227600&x-signature=iHEleLS0g2nIBzcaCPMwMIbCAE0%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=no1a",
       "ownerUserId": null,
-      "siteUrl": "https://www.tiktok.com/@chicgirlmoment",
-      "title": "𝓘 (@chicgirlmoment) | TikTok",
+      "siteUrl": "https://www.tiktok.com/@lovely.brew",
+      "title": "💕 LovelyBrew ☕️ (@lovely.brew) | TikTok",
       "type": "feed",
-      "url": "rsshub://tiktok/user/chicgirlmoment"
+      "url": "rsshub://tiktok/user/@lovely.brew/true"
     }
   ]
 }

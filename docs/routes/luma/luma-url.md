@@ -86,18 +86,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Comunidad de Innovación LATAM - Powered by RSSHub",
-      "errorAt": "2026-10-08T02:31:15.825Z",
-      "errorMessage": "[GET] \"https://api.lu.ma/url?url=comunidadinnovacion\": 429 Too Many Requests\n",
-      "id": "265966889769333760",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://lu.ma/comunidadinnovacion",
-      "title": "Comunidad de Innovación LATAM",
-      "type": "feed",
-      "url": "rsshub://luma/comunidadinnovacion"
-    },
-    {
       "description": "LangChain Events - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -108,6 +96,18 @@ _None_
       "title": "LangChain Events",
       "type": "feed",
       "url": "rsshub://luma/langchain"
+    },
+    {
+      "description": "Reading Rhythms Global - Powered by RSSHub",
+      "errorAt": "2026-10-08T02:31:19.621Z",
+      "errorMessage": "[GET] \"https://api.lu.ma/url?url=readingrhythms-global\": 429 Too Many Requests\n",
+      "id": "265967037132484608",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://lu.ma/readingrhythms-global",
+      "title": "Reading Rhythms Global",
+      "type": "feed",
+      "url": "rsshub://luma/readingrhythms-global"
     }
   ],
   "url": "luma.com"

@@ -91,8 +91,8 @@
     },
     {
       "description": "懂球帝 - 头条 - Powered by RSSHub",
-      "errorAt": "2026-10-14T16:10:35.982Z",
-      "errorMessage": "[GET] \"https://www.dongqiudi.com/articles/6487499.html\": 403 Forbidden\n",
+      "errorAt": "2026-10-15T14:17:16.631Z",
+      "errorMessage": "[GET] \"https://www.dongqiudi.com/articles/6492499.html\": 403 Forbidden\n",
       "id": "73989204856510464",
       "image": null,
       "ownerUserId": null,

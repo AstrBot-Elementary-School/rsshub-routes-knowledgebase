@@ -57,7 +57,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4510,
+  "heat": 4511,
   "location": "xwlb.ts",
   "maintainers": [
     "zengxs"
@@ -93,7 +93,7 @@
     {
       "description": "undefined - Powered by RSSHub",
       "errorAt": "2026-08-31T13:51:53.781Z",
-      "errorMessage": "Invalid RSSHub JSON Feed from default\n",
+      "errorMessage": "Unsupported broadcast route. Use /cctv/tv/lm/xwlb.\n",
       "id": "152525246751160320",
       "image": null,
       "ownerUserId": null,

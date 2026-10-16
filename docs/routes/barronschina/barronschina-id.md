@@ -89,14 +89,14 @@
   },
   "topFeeds": [
     {
-      "description": "《巴伦周刊》中文版-快讯 - Powered by RSSHub",
-      "errorAt": "2024-10-14T17:38:39.161Z",
-      "errorMessage": "[GET] \"http://www.barronschina.com.cn/index/shortNews\": 530 \n",
+      "description": "巴伦中文网 - 快报 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "59951258674929664",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "http://www.barronschina.com.cn/index/shortNews",
-      "title": "《巴伦周刊》中文版-快讯",
+      "siteUrl": "https://www.barrons.com.cn/news",
+      "title": "巴伦中文网 - 快报",
       "type": "feed",
       "url": "rsshub://barronschina"
     }

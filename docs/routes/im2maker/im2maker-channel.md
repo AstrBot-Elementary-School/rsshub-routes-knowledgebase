@@ -26,7 +26,7 @@
 
 
 ## Features
-_None_
+- `requirePuppeteer`: true
 
 ## Radar
 _None_
@@ -39,6 +39,9 @@ _None_
   ],
   "description": "| 最新文章 | 行业快讯 | 行业观察 | 镁客请讲 | 硬科技 100 人 | 投融界   | 万象       |\n| -------- | -------- | -------- | -------- | ------------- | -------- | ---------- |\n|          | fresh    | industry | talk     | intech        | investor | everything |",
   "example": "/im2maker",
+  "features": {
+    "requirePuppeteer": true
+  },
   "heat": 2,
   "location": "index.ts",
   "maintainers": [

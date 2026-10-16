@@ -25,7 +25,7 @@ _None_
 
 ## Features
 - `requireConfig`: [{"description": "需要登录才能访问的专栏请配置雪球登录 Cookie。", "name": "XUEQIU_COOKIES", "optional": true}]
-- `requirePuppeteer`: false
+- `requirePuppeteer`: true
 - `antiCrawler`: true
 - `supportBT`: false
 - `supportPodcast`: false
@@ -52,7 +52,7 @@ _None_
         "optional": true
       }
     ],
-    "requirePuppeteer": false,
+    "requirePuppeteer": true,
     "supportBT": false,
     "supportPodcast": false,
     "supportScihub": false

@@ -123,14 +123,14 @@
   },
   "topFeeds": [
     {
-      "description": "News & Views That Matter - Powered by RSSHub",
-      "errorAt": "2026-09-07T09:32:19.566Z",
-      "errorMessage": "[GET] \"https://www.malaysiakini.com/api/content/https://www.malaysiakini.com/news/886878-tuanku-muhriz-denies-receiving-invite-to-conference-of-rulers-meeting-says-not-attending\": 404 Not Found\n",
+      "description": "Latest articles from News - Powered by RSSHub",
+      "errorAt": "2026-10-15T11:47:38.946Z",
+      "errorMessage": "Cannot find the public article content on https://www.malaysiakini.com/news/887193-we-have-done-everything-we-can-anwar-defends-haze-response.\n",
       "id": "61840955600323584",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.malaysiakini.com/",
-      "title": "Malaysiakini",
+      "siteUrl": "https://www.malaysiakini.com/en/latest/news",
+      "title": "News - Malaysiakini",
       "type": "feed",
       "url": "rsshub://malaysiakini/en"
     },

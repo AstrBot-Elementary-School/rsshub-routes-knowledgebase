@@ -76,12 +76,12 @@ _None_
   "topFeeds": [
     {
       "description": "Product news and best practices for teams building with Claude. - Powered by RSSHub",
-      "errorAt": "2026-10-06T15:41:00.986Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "254514272394244096",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://claude.com/blog",
+      "siteUrl": "https://claude.com/resources/articles",
       "title": "Claude Blog",
       "type": "feed",
       "url": "rsshub://claude/blog"

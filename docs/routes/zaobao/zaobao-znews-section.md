@@ -72,7 +72,7 @@ _None_
       "errorAt": null,
       "errorMessage": null,
       "id": "41511702474276899",
-      "image": "https://rsstt-img-relay-8ee.pages.dev/https://www.zaobao.com.sg/favicon.ico",
+      "image": "https://www.zaobao.com.sg/favicon.ico",
       "ownerUserId": null,
       "siteUrl": "https://www.zaobao.com/news/world",
       "title": "《联合早报》-国际-新闻",

@@ -76,8 +76,8 @@ _None_
   "topFeeds": [
     {
       "description": "快讯_经济观察网 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-15T13:14:04.880Z",
+      "errorMessage": "[GET] \"https://www.eeo.com.cn/kuaixun/\": 525 <none>\n",
       "id": "194919237802284032",
       "image": "https://img.eeo.com.cn/2024/images/logo.jpg",
       "ownerUserId": null,

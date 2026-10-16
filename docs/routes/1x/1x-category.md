@@ -63,7 +63,7 @@ If you subscribe to [Wildlife Published](https://1x.com/gallery/wildlife/publish
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 55565,
+  "heat": 55666,
   "location": "index.tsx",
   "maintainers": [
     "nczitzk"
@@ -100,8 +100,8 @@ If you subscribe to [Wildlife Published](https://1x.com/gallery/wildlife/publish
     },
     {
       "description": "1x.com is the world's biggest curated photo gallery online. Each photo is selected by professional curators. 1x.com • In Pursuit of the Sublime - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-15T15:30:50.481Z",
+      "errorMessage": "An internal error occurred while refreshing the feed.",
       "id": "59581478522199040",
       "image": "https://1x.com/assets/img/1x-logo-1.png",
       "ownerUserId": null,

@@ -81,12 +81,12 @@ _None_
   "topFeeds": [
     {
       "description": "ImageMagick - ChangeLog - Powered by RSSHub",
-      "errorAt": "2026-07-08T01:20:29.008Z",
-      "errorMessage": "[GET] \"https://raw.githubusercontent.com/ImageMagick/Website/main/ChangeLog.md\": 404 Not Found\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "74365916922083328",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://imagemagick.org/script/download.php",
+      "siteUrl": "https://imagemagick.org/download/",
       "title": "ImageMagick - ChangeLog",
       "type": "feed",
       "url": "rsshub://imagemagick/changelog"

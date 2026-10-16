@@ -3,9 +3,9 @@
 ## Namespace
 - Namespace: `bbcnewslabs`
 - Display Name: `BBC News Labs`
-- URL: `bbcnewslabs.co.uk`
+- URL: `www.bbc.co.uk/rdnewslabs`
 - Language: `_None_`
-- Aliases: `bbc news labs, bbcnewslabs, bbcnewslabs.co.uk`
+- Aliases: `bbc news labs, bbc.co.uk/rdnewslabs, bbcnewslabs, www, www.bbc.co.uk/rdnewslabs`
 - Route Count: `1`
 
 ## Routes

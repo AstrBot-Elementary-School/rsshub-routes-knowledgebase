@@ -58,7 +58,7 @@ _None_
     {
       "description": "技术爬爬虾 的 bilibili 所有视频 - Powered by RSSHub",
       "errorAt": "2026-08-25T07:54:26.811Z",
-      "errorMessage": "[GET] \"https://space.bilibili.com/316183842/video?tid=0&page=1&keyword=&order=pubdate\": 412 Precondition Failed\n",
+      "errorMessage": "[GET] \"https://api.bilibili.com/x/web-interface/card?mid=316183842\": 412 Precondition Failed\n",
       "id": "82801159002601472",
       "image": null,
       "ownerUserId": null,
@@ -70,7 +70,7 @@ _None_
     {
       "description": "小Lin说 的 bilibili 所有视频 - Powered by RSSHub",
       "errorAt": "2026-08-26T23:43:23.393Z",
-      "errorMessage": "Could not find Chrome (ver. 123.0.6312.86). This can occur if either\n 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or\n 2. your cache path is incorrectly configured (which is: /app/node_modules/.cache/puppeteer).\nFor (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.\n[GET] \"https://space.bilibili.com/520819684/video?tid=0&page=1&keyword=&order=pubdate\": 412 Precondition Failed\n",
+      "errorMessage": "Could not find Chrome (ver. 123.0.6312.86). This can occur if either\n 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or\n 2. your cache path is incorrectly configured (which is: /app/node_modules/.cache/puppeteer).\nFor (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.\n[GET] \"https://api.bilibili.com/x/web-interface/card?mid=520819684\": 412 Precondition Failed\n",
       "id": "69028952282503168",
       "image": null,
       "ownerUserId": null,

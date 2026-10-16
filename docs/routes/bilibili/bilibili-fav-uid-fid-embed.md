@@ -68,16 +68,16 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "EPICUREANISMkkk 的 bilibili 收藏夹 稍后再看 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "86654869974487040",
+      "description": "某咯可冷可冷 的 bilibili 收藏夹 医学导引术 - Powered by RSSHub",
+      "errorAt": "2025-05-23T11:26:46.180Z",
+      "errorMessage": "Cannot read properties of null (reading 'upper')\n",
+      "id": "148611905193199616",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://space.bilibili.com/1353583845/#/favlist?fid=3350045845",
-      "title": "EPICUREANISMkkk 的 bilibili 收藏夹 稍后再看",
+      "siteUrl": "https://space.bilibili.com/520161643/#/favlist?fid=3454283343",
+      "title": "某咯可冷可冷 的 bilibili 收藏夹 医学导引术",
       "type": "feed",
-      "url": "rsshub://bilibili/fav/1353583845/3350045845"
+      "url": "rsshub://bilibili/fav/520161643/3454283343"
     },
     {
       "description": "观海聽风声 的 bilibili 收藏夹 二次元 - Powered by RSSHub",

@@ -67,8 +67,8 @@ _None_
   "topFeeds": [
     {
       "description": "Watch documentaries online, including films and videos featuring true stories, character and artist profiles, and more. - Powered by RSSHub",
-      "errorAt": "2025-11-14T01:11:29.498Z",
-      "errorMessage": "[GET] \"https://api.vimeo.com/categories/documentary/videos?page=1&per_page=18&direction=desc&sort=date&filter=conditional_featured\": 406 Not Acceptable\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "60197856983408640",
       "image": null,
       "ownerUserId": null,
@@ -79,8 +79,8 @@ _None_
     },
     {
       "description": "Watch documentaries online, including films and videos featuring true stories, character and artist profiles, and more. - Powered by RSSHub",
-      "errorAt": "2025-11-14T00:40:29.030Z",
-      "errorMessage": "[GET] \"https://api.vimeo.com/categories/documentary/videos?page=1&per_page=18&direction=desc&sort=date\": 406 Not Acceptable\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "67892393839925248",
       "image": null,
       "ownerUserId": null,
