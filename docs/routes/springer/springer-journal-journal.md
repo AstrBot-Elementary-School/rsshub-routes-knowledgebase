@@ -94,7 +94,7 @@ _None_
     {
       "description": "Virtual Reality - Powered by RSSHub",
       "errorAt": "2026-02-03T17:46:17.963Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'replace')\n",
+      "errorMessage": "503 \n",
       "id": "70715894280141824",
       "image": null,
       "ownerUserId": null,
@@ -105,8 +105,8 @@ _None_
     },
     {
       "description": "Journal of Happiness Studies - Powered by RSSHub",
-      "errorAt": "2026-02-03T16:31:01.622Z",
-      "errorMessage": "503 \n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "42411432461774848",
       "image": null,
       "ownerUserId": null,

@@ -73,8 +73,8 @@ _None_
   "topFeeds": [
     {
       "description": "Paradigm - Writing - Powered by RSSHub",
-      "errorAt": "2024-09-10T18:52:57.497Z",
-      "errorMessage": "Unexpected end of JSON input\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "41691330851083264",
       "image": null,
       "ownerUserId": null,

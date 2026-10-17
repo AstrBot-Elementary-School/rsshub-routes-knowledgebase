@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 47,
+  "heat": 48,
   "location": "index.ts",
   "maintainers": [
     "hoilc"
@@ -81,14 +81,14 @@ _None_
       "url": "rsshub://clickme/r18/category/new"
     },
     {
-      "description": "ClickMe R18 - 女優 - Powered by RSSHub",
+      "description": "ClickMe R18 - A片 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "154786575534138368",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://r18.clickme.net/c/av",
-      "title": "ClickMe R18 - 女優",
+      "title": "ClickMe R18 - A片",
       "type": "feed",
       "url": "rsshub://clickme/r18/category/av"
     }

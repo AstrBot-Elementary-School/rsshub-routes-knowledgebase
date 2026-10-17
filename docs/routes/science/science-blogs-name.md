@@ -78,7 +78,7 @@ To subscribe to [IN THE PIPELINE by Derek Lowe’s](https://science.org/blogs/pi
     {
       "description": "A Science.org blog called In the Pipeline - Powered by RSSHub",
       "errorAt": "2026-10-14T01:20:25.381Z",
-      "errorMessage": "page.goto: net::ERR_TIMED_OUT at https://www.science.org/blogs/pipeline/feed\nCall log:\n  - navigating to \"https://www.science.org/blogs/pipeline/feed\", waiting until \"domcontentloaded\"\n\n[GET] \"https://www.science.org/blogs/pipeline/feed\": 403 Forbidden\n",
+      "errorMessage": "Failed to fetch\n[GET] \"https://www.science.org/blogs/pipeline/feed\": 403 Forbidden\n",
       "id": "94573901566286848",
       "image": "https://www.science.org/apple-touch-icon.png",
       "ownerUserId": null,

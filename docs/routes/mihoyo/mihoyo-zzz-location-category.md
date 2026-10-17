@@ -96,8 +96,8 @@
     },
     {
       "description": "最新-绝区零 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-16T09:26:51.269Z",
+      "errorMessage": "[GET] \"https://api-takumi-static.mihoyo.com/content_v2_user/app/706fd13a87294881/getContentList?iPageSize=50&iPage=1&sLangKey=zh-cn&isPreview=0&iChanId=273\": 522 <none>\n",
       "id": "205175880713752576",
       "image": null,
       "ownerUserId": null,

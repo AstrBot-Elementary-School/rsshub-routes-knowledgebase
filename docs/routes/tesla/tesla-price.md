@@ -75,7 +75,7 @@ _None_
     {
       "description": "Tesla Model 系列价格更新 - Powered by RSSHub",
       "errorAt": "2026-10-14T13:55:39.350Z",
-      "errorMessage": "Dealer prices are unavailable at https://www.dongchedi.com/auto/series/1255. Dongchedi may require login to view this page.\n",
+      "errorMessage": "Dealer prices are unavailable at https://www.dongchedi.com/auto/series/1254. Dongchedi may require login to view this page.\n",
       "id": "59083231915003931",
       "image": null,
       "ownerUserId": null,

@@ -130,7 +130,7 @@
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 312,
+  "heat": 311,
   "location": "index.ts",
   "maintainers": [
     "nczitzk",
@@ -235,7 +235,7 @@
       "errorAt": null,
       "errorMessage": null,
       "id": "43417089717578752",
-      "image": "https://mississippi.river.to/dight/07/zYkxFTAzGv0195.jpg",
+      "image": "https://mississippi.river.to/dight/07/zYkxFTAzGv0031.jpg",
       "ownerUserId": null,
       "siteUrl": "https://river.to/occasus/",
       "title": "江河日下 – 日下无有新事 - 江河日下",

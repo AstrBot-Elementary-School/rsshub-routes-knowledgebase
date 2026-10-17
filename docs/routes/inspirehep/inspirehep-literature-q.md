@@ -54,25 +54,25 @@ _None_
       "description": "Literature Search - INSPIRE - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "69965125338796044",
+      "id": "69965125338796039",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20Geoffrey.R.Penington.",
+      "siteUrl": "https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20G.Compere.1",
       "title": "Literature Search - INSPIRE",
       "type": "feed",
-      "url": "rsshub://inspirehep/literature/a%20Geoffrey.R.Penington."
+      "url": "rsshub://inspirehep/literature/a%20G.Compere.1"
     },
     {
       "description": "Literature Search - INSPIRE - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "69965125338796036",
+      "id": "69965125338796034",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20H.Casini.1",
+      "siteUrl": "https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=holography%20or%20gauge%20gravity%20duality%20or%20ads%20cft%20or%20holographic%20or%20bulk%20boundary%20duality",
       "title": "Literature Search - INSPIRE",
       "type": "feed",
-      "url": "rsshub://inspirehep/literature/a%20H.Casini.1"
+      "url": "rsshub://inspirehep/literature/holography%20or%20gauge%20gravity%20duality%20or%20ads%20cft%20or%20holographic%20or%20bulk%20boundary%20duality"
     }
   ]
 }

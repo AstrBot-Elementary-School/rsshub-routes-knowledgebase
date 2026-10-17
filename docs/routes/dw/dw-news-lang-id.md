@@ -81,18 +81,6 @@ For the site <https://www.dw.com/de/deutschland/s-12321> the language code would
   },
   "topFeeds": [
     {
-      "description": "德国之声中文频道通过文字、音频、视频相结合的多媒体方式提供以德国和欧洲为主同时包括世界政经资讯。我们的报道重点也包括中国政治、经济、社会的发展以及我们的中国受众群最关心感兴趣的各类话题。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "82823881871653888",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.dw.com/zh/%E5%9C%A8%E7%BA%BF%E6%8A%A5%E5%AF%BC/s-9058",
-      "title": "DW | 在线报导",
-      "type": "feed",
-      "url": "rsshub://dw/news/zh/s-9058"
-    },
-    {
       "description": "News, off-beat stories and analysis of German and international affairs. Dive deeper with our features from Europe and beyond. Watch our 24/7 TV stream. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -103,6 +91,18 @@ For the site <https://www.dw.com/de/deutschland/s-12321> the language code would
       "title": "DW | News and current affairs from Germany and around the world",
       "type": "feed",
       "url": "rsshub://dw/news"
+    },
+    {
+      "description": "德国之声中文频道通过文字、音频、视频相结合的多媒体方式提供以德国和欧洲为主同时包括世界政经资讯。我们的报道重点也包括中国政治、经济、社会的发展以及我们的中国受众群最关心感兴趣的各类话题。 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "82823881871653888",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.dw.com/zh/%E5%9C%A8%E7%BA%BF%E6%8A%A5%E5%AF%BC/s-9058",
+      "title": "DW | 在线报导",
+      "type": "feed",
+      "url": "rsshub://dw/news/zh/s-9058"
     }
   ]
 }

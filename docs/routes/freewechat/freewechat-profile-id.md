@@ -74,8 +74,8 @@ _None_
   "topFeeds": [
     {
       "description": "刑法库 | 自由微信 | FreeWeChat - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-15T20:23:25.752Z",
+      "errorMessage": "[GET] \"https://freewechat.com/profile/MzI5NTUxNzk3OA==\": 403 Forbidden\n",
       "id": "60004603567114240",
       "image": "https://freewechat.com/favicon.ico",
       "ownerUserId": null,

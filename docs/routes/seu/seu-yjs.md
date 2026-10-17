@@ -75,8 +75,8 @@ _None_
   "topFeeds": [
     {
       "description": "东南大学研究生公告 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-16T11:51:05.842Z",
+      "errorMessage": "[GET] \"https://seugs.seu.edu.cnhttps://seugs.seu.edu.cn/28948/list.htm\": 530 <none>\n",
       "id": "153459055825771520",
       "image": null,
       "ownerUserId": null,

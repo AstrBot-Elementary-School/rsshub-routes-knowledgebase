@@ -75,8 +75,8 @@ _None_
   "topFeeds": [
     {
       "description": "Find out the cover story of some Nature journals. - Powered by RSSHub",
-      "errorAt": "2026-10-14T09:21:09.165Z",
-      "errorMessage": "[GET] \"https://www.nature.com/nsmb/current-issue\": 429 Too Many Requests\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "78348485116004352",
       "image": null,
       "ownerUserId": null,

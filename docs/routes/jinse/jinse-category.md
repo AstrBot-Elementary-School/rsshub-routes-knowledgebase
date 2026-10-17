@@ -56,7 +56,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 206,
+  "heat": 205,
   "location": "catalogue.ts",
   "maintainers": [
     "nczitzk",
@@ -73,13 +73,13 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "金色财经是集行业新闻、资讯、行情、数据等一站式区块链产业服务平台，我们追求及时、全面、专业、准确的资讯与数据，致力于为区块链创业者以及数字货币投资者提供最好的产品和服务。 - Powered by RSSHub",
-      "errorAt": "2025-12-23T11:28:11.575Z",
-      "errorMessage": "[GET] \"https://www.jinse.com/blockchain/3732584.html\": 525 <none>\n",
+      "description": "金色财经 - 技术 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "73947446139746304",
       "image": "https://staticn.jinse.cn/w/img/b6900fe.png",
       "ownerUserId": null,
-      "siteUrl": "https://www.jinse.cn/",
+      "siteUrl": "https://www.jinse.com.cn/",
       "title": "金色财经 - 技术",
       "type": "feed",
       "url": "rsshub://jinse/tech"

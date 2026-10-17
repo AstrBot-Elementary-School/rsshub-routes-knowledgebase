@@ -96,7 +96,7 @@
     "nsfw": true,
     "supportBT": true
   },
-  "heat": 4,
+  "heat": 6,
   "location": "one.ts",
   "maintainers": [
     "monsterxcn"
@@ -156,16 +156,16 @@
       "url": "rsshub://onejav/popular"
     },
     {
-      "description": "OneJAV - new 30 - Powered by RSSHub",
+      "description": "OneJAV - popular 30 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "154611732345126921",
+      "id": "172357781240781825",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://onejav.com/new",
-      "title": "OneJAV - new 30",
+      "siteUrl": "https://onejav.com/popular/30",
+      "title": "OneJAV - popular 30",
       "type": "feed",
-      "url": "rsshub://onejav/new/30"
+      "url": "rsshub://onejav/popular/30"
     }
   ]
 }

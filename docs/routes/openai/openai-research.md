@@ -65,7 +65,7 @@ _None_
     {
       "description": "OpenAI Research - Powered by RSSHub",
       "errorAt": "2026-10-06T23:15:54.530Z",
-      "errorMessage": "[GET] \"https://openai.com/index/sharing-ai-progress-in-mathematics/\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://openai.com/index/navier-stokes-solution/\": 403 Forbidden\n",
       "id": "163361629454837803",
       "image": null,
       "ownerUserId": null,

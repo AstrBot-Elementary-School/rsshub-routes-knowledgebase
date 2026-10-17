@@ -108,14 +108,14 @@ _None_
       "url": "rsshub://bbc/learningenglish/authentic-real-english"
     },
     {
-      "description": "Learningenglish-take-away-english-BBC - Powered by RSSHub",
+      "description": "BBC英语学习-随身英语 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "144885709556739072",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.bbc.co.uk/learningenglish/chinese/features/take-away-english",
-      "title": "Learningenglish-take-away-english-BBC",
+      "title": "BBC英语学习-随身英语",
       "type": "feed",
       "url": "rsshub://bbc/learningenglish/take-away-english"
     }

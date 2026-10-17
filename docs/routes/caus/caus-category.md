@@ -68,6 +68,18 @@ _None_
   },
   "topFeeds": [
     {
+      "description": "快讯 - 加美财经 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "1252436407264083968",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://caus.com/category/lifestyle/",
+      "title": "快讯 - 加美财经",
+      "type": "feed",
+      "url": "rsshub://caus/3"
+    },
+    {
       "description": "全部 - 加美财经 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -78,18 +90,6 @@ _None_
       "title": "全部 - 加美财经",
       "type": "feed",
       "url": "rsshub://caus"
-    },
-    {
-      "description": "商业 - 加美财经 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "1252434568716091392",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://caus.com/category/finance/",
-      "title": "商业 - 加美财经",
-      "type": "feed",
-      "url": "rsshub://caus/2"
     }
   ]
 }

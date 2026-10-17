@@ -94,16 +94,16 @@ UP 主关注用户现在需要 b 站登录后的 Cookie 值，所以只能自建
       "url": "rsshub://bilibili/user/followings/36084148/114145696"
     },
     {
-      "description": "家宁丰 的 bilibili 关注 - Powered by RSSHub",
-      "errorAt": "2026-01-30T03:43:24.044Z",
+      "description": "undefined 的 bilibili 关注 - Powered by RSSHub",
+      "errorAt": "2026-01-29T21:48:41.217Z",
       "errorMessage": "缺少对应 loginUid 的 Bilibili 用户登录后的 Cookie 值 <a href=\"https://docs.rsshub.app/zh/deploy/config#route-specific-configurations\">bilibili 用户关注动态系列路由</a>\n",
-      "id": "198985692469705728",
+      "id": "152058580325734400",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://space.bilibili.com/341651253/#/fans/follow",
-      "title": "家宁丰 的 bilibili 关注",
+      "siteUrl": "https://space.bilibili.com/23643455/#/fans/follow",
+      "title": "undefined 的 bilibili 关注",
       "type": "feed",
-      "url": "rsshub://bilibili/user/followings/341651253/114145696"
+      "url": "rsshub://bilibili/user/followings/23643455/114145696"
     }
   ]
 }

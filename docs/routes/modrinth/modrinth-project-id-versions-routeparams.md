@@ -104,18 +104,6 @@
   },
   "topFeeds": [
     {
-      "description": "Lets you play Fabric mods on NeoForge - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "120750482624892928",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/connector",
-      "title": "Sinytra Connector Modrinth versions",
-      "type": "feed",
-      "url": "rsshub://modrinth/project/connector/versions"
-    },
-    {
       "description": "Aesthetic Technology that empowers the Player - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -126,6 +114,18 @@
       "title": "Create Modrinth versions",
       "type": "feed",
       "url": "rsshub://modrinth/project/create/versions"
+    },
+    {
+      "description": "Highly customizable, global player leveling plugin with many integrations. - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "113662012738039808",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://modrinth.com/project/86biV1Ic",
+      "title": "AuroraLevels Modrinth versions",
+      "type": "feed",
+      "url": "rsshub://modrinth/project/86biV1Ic/versions"
     }
   ]
 }

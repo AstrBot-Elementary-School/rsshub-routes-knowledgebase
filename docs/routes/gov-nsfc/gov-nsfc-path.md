@@ -87,18 +87,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "国家自然科学基金委员会 - 业务资讯 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "63261228706922499",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.nsfc.gov.cn/p1/3381/2822/tzsm1.html",
-      "title": "国家自然科学基金委员会 - 业务资讯",
-      "type": "feed",
-      "url": "rsshub://gov/nsfc/news/tzgg"
-    },
-    {
       "description": "科普快讯 - Powered by RSSHub",
       "errorAt": "2025-09-04T11:29:39.007Z",
       "errorMessage": "Failed to fetch\n[GET] \"https://www.nsfc.gov.cn/publish/portal0/tab446/\": 404 Not Found\n",
@@ -109,6 +97,18 @@ _None_
       "title": "国家自然科学基金委员会 - 基金要闻 - 科普快讯",
       "type": "feed",
       "url": "rsshub://gov/nsfc/news/kpkx"
+    },
+    {
+      "description": "国家自然科学基金委员会 - 业务资讯 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "63261228706922499",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.nsfc.gov.cn/p1/3381/2822/tzsm1.html",
+      "title": "国家自然科学基金委员会 - 业务资讯",
+      "type": "feed",
+      "url": "rsshub://gov/nsfc/news/tzgg"
     }
   ]
 }

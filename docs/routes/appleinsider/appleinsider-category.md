@@ -81,14 +81,14 @@
   },
   "topFeeds": [
     {
-      "description": "Apple News, Rumors, Reviews, Prices & Deals | AppleInsider - Powered by RSSHub",
-      "errorAt": "2025-07-09T04:00:55.913Z",
-      "errorMessage": "[GET] \"https://appleinsider.com\": 403 Forbidden\n",
+      "description": "AppleInsider News - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "55305053541267456",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://appleinsider.com/",
-      "title": "Apple News, Rumors, Reviews, Prices & Deals | AppleInsider",
+      "title": "AppleInsider News",
       "type": "feed",
       "url": "rsshub://appleinsider"
     },

@@ -54,7 +54,7 @@ _None_
     {
       "description": "小黑盒 STEAM 喜加一 - Powered by RSSHub",
       "errorAt": "2024-12-24T07:15:54.224Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'map')\n",
+      "errorMessage": "Xiaoheihe did not return a public free-game list. Please retry later or check whether the source is available.\n",
       "id": "65390865249901568",
       "image": null,
       "ownerUserId": null,

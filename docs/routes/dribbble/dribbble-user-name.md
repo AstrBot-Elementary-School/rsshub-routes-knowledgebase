@@ -88,7 +88,7 @@ _None_
     {
       "description": "𝔅𝔢𝔰𝔱𝔖𝔢𝔯𝔳𝔢𝔡𝔅𝔬𝔩𝔡 | Growing brands driven by Bold™ ideas. Design, Motion, 3D & Art Direction. | Connect with them on Dribbble; the global community for designers and creative professionals. - Powered by RSSHub",
       "errorAt": "2025-08-14T07:04:02.550Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'name')\n",
+      "errorMessage": "Dribbble returned an AWS WAF challenge (HTTP 202). Anonymous source access is currently blocked.\n",
       "id": "56130033776808974",
       "image": null,
       "ownerUserId": null,

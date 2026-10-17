@@ -74,12 +74,12 @@ _None_
   "topFeeds": [
     {
       "description": "北京大学软件与微电子学院 - 招生通知 - Powered by RSSHub",
-      "errorAt": "2026-01-12T07:12:25.617Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "66455824135092226",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.ss.pku.edu.cn/admission/admnotice/",
+      "siteUrl": "https://ss.pku.edu.cn/zsxx/zstz/index.htm",
       "title": "北大软微-招生通知",
       "type": "feed",
       "url": "rsshub://pku/ss/admission"

@@ -81,18 +81,6 @@ Support all channels, refer to [CNBC RSS feeds](https://www.cnbc.com/rss-feeds/)
       "description": "CNBC is the world leader in business news and real-time financial market coverage. Find fast, actionable information. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "77157605247889408",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.cnbc.com/us-top-news-and-analysis/",
-      "title": "US Top News and Analysis",
-      "type": "feed",
-      "url": "rsshub://cnbc/rss/100003114"
-    },
-    {
-      "description": "CNBC is the world leader in business news and real-time financial market coverage. Find fast, actionable information. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "59846974115348480",
       "image": null,
       "ownerUserId": null,
@@ -100,6 +88,18 @@ Support all channels, refer to [CNBC RSS feeds](https://www.cnbc.com/rss-feeds/)
       "title": "US Top News and Analysis",
       "type": "feed",
       "url": "rsshub://cnbc/rss"
+    },
+    {
+      "description": "CNBC is the world leader in business news and real-time financial market coverage. Find fast, actionable information. - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "77157605247889408",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.cnbc.com/us-top-news-and-analysis/",
+      "title": "US Top News and Analysis",
+      "type": "feed",
+      "url": "rsshub://cnbc/rss/100003114"
     }
   ]
 }

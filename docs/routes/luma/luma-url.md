@@ -86,6 +86,18 @@ _None_
   },
   "topFeeds": [
     {
+      "description": "MenteX - Powered by RSSHub",
+      "errorAt": "2026-10-11T05:11:05.561Z",
+      "errorMessage": "[GET] \"https://api.lu.ma/url?url=mentex_ecosistema\": 429 Too Many Requests\n",
+      "id": "265966986896278528",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://lu.ma/mentex_ecosistema",
+      "title": "MenteX",
+      "type": "feed",
+      "url": "rsshub://luma/mentex_ecosistema"
+    },
+    {
       "description": "LangChain Events - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -96,18 +108,6 @@ _None_
       "title": "LangChain Events",
       "type": "feed",
       "url": "rsshub://luma/langchain"
-    },
-    {
-      "description": "Reading Rhythms Global - Powered by RSSHub",
-      "errorAt": "2026-10-08T02:31:19.621Z",
-      "errorMessage": "[GET] \"https://api.lu.ma/url?url=readingrhythms-global\": 429 Too Many Requests\n",
-      "id": "265967037132484608",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://lu.ma/readingrhythms-global",
-      "title": "Reading Rhythms Global",
-      "type": "feed",
-      "url": "rsshub://luma/readingrhythms-global"
     }
   ],
   "url": "luma.com"

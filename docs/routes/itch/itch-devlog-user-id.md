@@ -72,8 +72,8 @@ _None_
   "topFeeds": [
     {
       "description": "Devlog - Agent17 (18+ Adult Game) by HEXATAIL - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-16T14:27:41.513Z",
+      "errorMessage": "[GET] \"https://hexatail.itch.io/agent17/devlog\": 522 <none>\n",
       "id": "81600518557769728",
       "image": null,
       "ownerUserId": null,

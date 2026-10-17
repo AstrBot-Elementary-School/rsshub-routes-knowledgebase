@@ -49,8 +49,8 @@ _None_
   "topFeeds": [
     {
       "description": "CNU视觉联盟 - 每日精选 - Powered by RSSHub",
-      "errorAt": "2026-10-15T12:46:19.010Z",
-      "errorMessage": "[GET] \"http://www.cnu.cc/selectedsFlow/1\": 530 <none>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "1277416685069795328",
       "image": null,
       "ownerUserId": null,

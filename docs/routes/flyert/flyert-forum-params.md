@@ -79,8 +79,8 @@
   "topFeeds": [
     {
       "description": "交流与境外信用卡,美国信用卡相关的信用卡产品、办卡申请、刷卡消费、额度提升、优惠活动、网上支付、分期付款、积分礼品、银行网银、账单还款等的各类业务。 - Powered by RSSHub",
-      "errorAt": "2026-10-14T21:32:08.628Z",
-      "errorMessage": "[GET] \"https://www.flyert.com.cn/forum.php?mod=forumdisplay&fid=228\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "126630731344783360",
       "image": "https:https://ptfg.flyertrip.com/template/comiis_nby/img/logo.png",
       "ownerUserId": null,
@@ -92,7 +92,7 @@
     {
       "description": "交流与境外信用卡,美国信用卡相关的信用卡产品、办卡申请、刷卡消费、额度提升、优惠活动、网上支付、分期付款、积分礼品、银行网银、账单还款等的各类业务。 - Powered by RSSHub",
       "errorAt": "2026-10-14T19:22:51.387Z",
-      "errorMessage": "[GET] \"https://www.flyert.com.cn/forum.php?mod=forumdisplay&fid=228&filter=lastpost&orderby=dateline&subtypeid=1222\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.flyert.com.cn/forum.php?mod=viewthread&tid=4876204&extra=page%3D1%26subtypeid%3D1222%26orderby%3Ddateline\": 493 <none>\n",
       "id": "126631276578882560",
       "image": "https:https://ptfg.flyertrip.com/template/comiis_nby/img/logo.png",
       "ownerUserId": null,

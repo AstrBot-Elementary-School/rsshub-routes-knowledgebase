@@ -471,8 +471,8 @@ For example: `daily_total`, `weekly_r`, `monthly_er`
   "topFeeds": [
     {
       "description": "小説家になろう (noc) - 日間総合ランキング BEST300 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-16T12:36:16.416Z",
+      "errorMessage": "530 \n500 \n",
       "id": "82945591703756800",
       "image": null,
       "ownerUserId": null,

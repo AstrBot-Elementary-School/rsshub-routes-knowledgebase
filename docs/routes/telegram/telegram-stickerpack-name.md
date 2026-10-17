@@ -55,7 +55,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 364,
+  "heat": 365,
   "location": "stickerpack.ts",
   "maintainers": [
     "DIYgod"

@@ -88,7 +88,7 @@ _None_
     {
       "description": "交易员的故事 每日为您连载呈现 - Powered by RSSHub",
       "errorAt": "2025-10-29T08:00:39.150Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'list')\n",
+      "errorMessage": "Jin10 topic 396 is unavailable: 内容已下架\n",
       "id": "61438939744634880",
       "image": null,
       "ownerUserId": null,

@@ -345,7 +345,7 @@
     {
       "description": "迅雷电影下载,迅雷电视剧下载,迅雷综艺下载,最好的电影下载网站 - Powered by RSSHub",
       "errorAt": "2025-05-23T13:26:02.685Z",
-      "errorMessage": "[GET] \"https://www.dydytt.net/html/gndy/dyzz\": <no response> fetch failed\n[GET] \"https://www.dydytt.net/html/gndy/dyzz\": 530 \n",
+      "errorMessage": "[GET] \"https://www.dydytt.net/html/gndy/dyzz\": <no response> fetch failed\n[GET] \"https://www.dydytt.net/html/gndy/dyzz\": 530 <none>\n",
       "id": "95293305985206272",
       "image": "https://www.dydytt.net/images/logo.gif",
       "ownerUserId": null,
@@ -357,7 +357,7 @@
     {
       "description": "迅雷电影下载,迅雷电视剧下载,迅雷综艺下载,最好的电影下载网站 - Powered by RSSHub",
       "errorAt": "2025-05-23T15:59:29.973Z",
-      "errorMessage": "[GET] \"https://www.dydytt.net/html/gndy/dyzz\": <no response> fetch failed\n[GET] \"https://www.dydytt.net/html/gndy/dyzz\": 530 \n",
+      "errorMessage": "[GET] \"https://www.dydytt.net/html/gndy/dyzz\": <no response> fetch failed\n[GET] \"https://www.dydytt.net/html/gndy/dyzz\": 530 <none>\n",
       "id": "106371402907978752",
       "image": "https://www.dydytt.net/images/logo.gif",
       "ownerUserId": null,

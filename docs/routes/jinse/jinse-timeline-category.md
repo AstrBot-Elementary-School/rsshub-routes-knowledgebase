@@ -130,26 +130,26 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "undefined - Web 3.0 - Powered by RSSHub",
+      "description": "金色财经 - Web 3.0 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "73179190070635520",
       "image": "https://staticn.jinse.cn/w/img/b6900fe.png",
       "ownerUserId": null,
       "siteUrl": "https://www.jinse.com.cn/",
-      "title": "undefined - Web 3.0",
+      "title": "金色财经 - Web 3.0",
       "type": "feed",
       "url": "rsshub://jinse/timeline/Web%203.0"
     },
     {
-      "description": "undefined - 头条 - Powered by RSSHub",
+      "description": "金色财经 - 头条 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "72573294615394304",
       "image": "https://staticn.jinse.cn/w/img/b6900fe.png",
       "ownerUserId": null,
       "siteUrl": "https://www.jinse.com.cn/",
-      "title": "undefined - 头条",
+      "title": "金色财经 - 头条",
       "type": "feed",
       "url": "rsshub://jinse/timeline/%E5%A4%B4%E6%9D%A1"
     }

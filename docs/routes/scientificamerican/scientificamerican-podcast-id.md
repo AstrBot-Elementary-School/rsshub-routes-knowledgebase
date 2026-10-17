@@ -96,8 +96,8 @@ If you subscribe to [Science Quickly](https://www.scientificamerican.com/podcast
   "topFeeds": [
     {
       "description": "Be informed and entertained with original podcasts by Scientific American - Powered by RSSHub",
-      "errorAt": "2026-08-07T03:15:44.968Z",
-      "errorMessage": "Invalid JSX tag name: null\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "179571337818491904",
       "image": "https://www.scientificamerican.com/static/sciam-mark.jpg",
       "ownerUserId": null,

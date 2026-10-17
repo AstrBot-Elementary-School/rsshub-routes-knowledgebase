@@ -39,7 +39,7 @@ _None_
   ],
   "description": "| 新闻 | 人物故事 | 视频  |\n| ---- | -------- | ----- |\n| news | figure   | video |",
   "example": "/dedao",
-  "heat": 613,
+  "heat": 612,
   "location": "index.ts",
   "maintainers": [
     "nczitzk",

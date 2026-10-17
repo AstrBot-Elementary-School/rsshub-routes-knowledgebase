@@ -6,7 +6,7 @@
 - URL: `metacritic.com`
 - Language: `_None_`
 - Aliases: `metacritic, metacritic.com`
-- Route Count: `3`
+- Route Count: `4`
 
 ## Routes
 
@@ -25,6 +25,14 @@
 - File Name: `metacritic-movie-sort-filter.md`
 - Categories: `new-media`
 - Maintainers: `nczitzk`
+
+### Game Releases
+- Route ID: `metacritic:/metacritic/release/:platform/:type?/:sort?`
+- Route Path: `/metacritic/release/:platform/:type?/:sort?`
+- File: `docs/routes/metacritic/metacritic-release-platform-type-sort.md`
+- File Name: `metacritic-release-platform-type-sort.md`
+- Categories: `game`
+- Maintainers: `HenryQW`
 
 ### TV Shows
 - Route ID: `metacritic:/metacritic/tv/:sort?/:filter?`

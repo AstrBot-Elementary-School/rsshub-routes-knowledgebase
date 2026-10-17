@@ -89,14 +89,14 @@
       "url": "rsshub://yxdzqb/popular_cn"
     },
     {
-      "description": "Steam 热门游戏历史低价-游戏打折情报 - Powered by RSSHub",
-      "errorAt": "2026-09-30T13:25:56.462Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nAuthentication failed. Access denied.\n/yxdzqb/low\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "description": "热门游戏历史低价-游戏打折情报 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "52721325092269088",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.yxdzqb.com/index_low.html",
-      "title": "Steam 热门游戏历史低价-游戏打折情报",
+      "title": "热门游戏历史低价-游戏打折情报",
       "type": "feed",
       "url": "rsshub://yxdzqb/low"
     }

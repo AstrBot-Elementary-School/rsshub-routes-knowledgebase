@@ -99,8 +99,8 @@ others = 热点新闻 + 滚动新闻
     },
     {
       "description": "观察者网 - 全部 - Powered by RSSHub",
-      "errorAt": "2026-10-15T14:47:50.856Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'replace')\n[GET] \"https://www.guancha.cn\": <no response> fetch failed (Connect Timeout Error (attempted address: 100.110.64.78:7890, timeout: 10000ms))\nFailed to fetch\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "56875843110895617",
       "image": null,
       "ownerUserId": null,

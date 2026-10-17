@@ -60,7 +60,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2157,
+  "heat": 2159,
   "location": "forum.ts",
   "maintainers": [
     "akynazh"
@@ -73,8 +73,8 @@ _None_
   "topFeeds": [
     {
       "description": "司机社国产视频论坛 - Powered by RSSHub",
-      "errorAt": "2026-10-15T01:40:35.183Z",
-      "errorMessage": "503 \n",
+      "errorAt": "2026-10-16T11:01:36.089Z",
+      "errorMessage": "530 \n503 \n",
       "id": "41708590536881152",
       "image": null,
       "ownerUserId": null,
@@ -85,8 +85,8 @@ _None_
     },
     {
       "description": "司机社日本AV论坛 - Powered by RSSHub",
-      "errorAt": "2026-10-15T05:40:27.226Z",
-      "errorMessage": "Authentication failed. Access denied.\n/xsijishe/forum/51\n[GET] \"https://xsijishe.com/forum-51-1.html\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "55159238633029632",
       "image": null,
       "ownerUserId": null,

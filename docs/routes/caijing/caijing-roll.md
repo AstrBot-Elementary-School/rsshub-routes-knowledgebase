@@ -75,12 +75,12 @@ _None_
   "topFeeds": [
     {
       "description": "滚动新闻-财经网 - Powered by RSSHub",
-      "errorAt": "2026-09-24T05:55:56.858Z",
-      "errorMessage": "503 \n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "59951906827705344",
       "image": "https://www.caijing.com.cn/favicon.ico",
       "ownerUserId": null,
-      "siteUrl": "https://roll.caijing.com.cn/",
+      "siteUrl": "http://roll.caijing.com.cn/index1.html",
       "title": "滚动新闻-财经网",
       "type": "feed",
       "url": "rsshub://caijing/roll"

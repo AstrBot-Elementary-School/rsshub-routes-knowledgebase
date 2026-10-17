@@ -86,7 +86,7 @@
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 24,
+  "heat": 23,
   "location": "information.ts",
   "maintainers": [
     "nczitzk"
@@ -165,18 +165,6 @@
       "description": "资讯|第一财经商业数据中心（CBNData）隶属于上海文化广播影视集团，是国内领先的消费研究机构及数字化增长服务商。CBNData消费站为消费行业从业者提供前沿、高效、深度的新闻资讯服务，每日提供新零售、电商直播、美妆个护、食品饮料、餐饮、家电、网红达人等行业热点及相关政策新闻，还有行业大咖独家经验分享、消费早报、营销观察、视频课、新品研究、双11和618专题等原创资讯。 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "151627344646140930",
-      "image": "//assets-oss.cbndata.com/cbndata-refactor-fe/FvLd08nxNlLXw7TRuskoy8oMo5Dt.png",
-      "ownerUserId": null,
-      "siteUrl": "https://www.cbndata.com/information?tag_id=all",
-      "title": "今日新鲜事-热点新闻-消费行业资讯 | CBNData",
-      "type": "feed",
-      "url": "rsshub://cbndata/information"
-    },
-    {
-      "description": "资讯|第一财经商业数据中心（CBNData）隶属于上海文化广播影视集团，是国内领先的消费研究机构及数字化增长服务商。CBNData消费站为消费行业从业者提供前沿、高效、深度的新闻资讯服务，每日提供新零售、电商直播、美妆个护、食品饮料、餐饮、家电、网红达人等行业热点及相关政策新闻，还有行业大咖独家经验分享、消费早报、营销观察、视频课、新品研究、双11和618专题等原创资讯。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "182706374336947200",
       "image": "//assets-oss.cbndata.com/cbndata-refactor-fe/FvLd08nxNlLXw7TRuskoy8oMo5Dt.png",
       "ownerUserId": null,
@@ -184,6 +172,18 @@
       "title": "今日新鲜事-热点新闻-消费行业资讯 | CBNData",
       "type": "feed",
       "url": "rsshub://cbndata/information/all"
+    },
+    {
+      "description": "资讯|第一财经商业数据中心（CBNData）隶属于上海文化广播影视集团，是国内领先的消费研究机构及数字化增长服务商。CBNData消费站为消费行业从业者提供前沿、高效、深度的新闻资讯服务，每日提供新零售、电商直播、美妆个护、食品饮料、餐饮、家电、网红达人等行业热点及相关政策新闻，还有行业大咖独家经验分享、消费早报、营销观察、视频课、新品研究、双11和618专题等原创资讯。 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "151627344646140930",
+      "image": "//assets-oss.cbndata.com/cbndata-refactor-fe/FvLd08nxNlLXw7TRuskoy8oMo5Dt.png",
+      "ownerUserId": null,
+      "siteUrl": "https://www.cbndata.com/information?tag_id=all",
+      "title": "今日新鲜事-热点新闻-消费行业资讯 | CBNData",
+      "type": "feed",
+      "url": "rsshub://cbndata/information"
     }
   ],
   "url": "www.cbndata.com",

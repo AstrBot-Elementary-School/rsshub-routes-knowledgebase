@@ -75,7 +75,7 @@ _None_
     "nsfw": true,
     "supportBT": true
   },
-  "heat": 806,
+  "heat": 809,
   "location": "index.tsx",
   "maintainers": [
     "cgkings",

@@ -122,8 +122,8 @@
     },
     {
       "description": "线板酷-最新 - Powered by RSSHub",
-      "errorAt": "2026-10-15T16:21:48.923Z",
-      "errorMessage": "[GET] \"http://new.xianbao.fun/plus/json/push.json\": <no response> fetch failed\n[GET] \"http://new.xianbao.fun/plus/json/push.json\": <no response> fetch failed\n[GET] \"http://new.xianbao.fun/plus/json/push.json\": <no response> Network connection lost.\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "57341806801267712",
       "image": null,
       "ownerUserId": null,

@@ -70,7 +70,7 @@ _None_
     {
       "description": null,
       "errorAt": "2025-05-23T18:45:46.957Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "The source requires a logged-in account with sufficient member permissions to view this section. Anonymous access is denied.\n",
       "id": "148757739569766458",
       "image": null,
       "ownerUserId": null,
@@ -82,7 +82,7 @@ _None_
     {
       "description": null,
       "errorAt": "2025-05-23T18:45:46.939Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "The source requires a logged-in account with sufficient member permissions to view this section. Anonymous access is denied.\n",
       "id": "148757739569766456",
       "image": null,
       "ownerUserId": null,

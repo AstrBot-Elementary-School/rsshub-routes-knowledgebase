@@ -70,7 +70,7 @@ _None_
     {
       "description": "Watch Jav made by Prestige free, with high definition, we have over 4,000 studios available for free streaming. - Powered by RSSHub",
       "errorAt": "2026-08-23T23:08:07.803Z",
-      "errorMessage": "[GET] \"https://javtrailers.com/api/studios/s1-no-1-style?page=0\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://javtrailers.com/studios/s1-no-1-style\": 403 Forbidden\n",
       "id": "80227253777350656",
       "image": null,
       "ownerUserId": null,

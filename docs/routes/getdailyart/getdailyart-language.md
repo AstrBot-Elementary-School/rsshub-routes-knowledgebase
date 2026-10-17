@@ -55,13 +55,13 @@ _None_
       "description": "DailyArt - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1302976218538049536",
+      "id": "1259807752125808640",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.getdailyart.com/",
       "title": "DailyArt",
       "type": "feed",
-      "url": "rsshub://getdailyart/en"
+      "url": "rsshub://getdailyart"
     },
     {
       "description": "DailyArt - Powered by RSSHub",

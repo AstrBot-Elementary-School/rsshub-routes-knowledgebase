@@ -75,8 +75,8 @@ _None_
   "topFeeds": [
     {
       "description": "Brave Release Notes | Brave - Powered by RSSHub",
-      "errorAt": "2026-08-27T06:55:52.989Z",
-      "errorMessage": "Cannot read properties of null (reading '1')\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "74302476579862528",
       "image": null,
       "ownerUserId": null,

@@ -92,7 +92,7 @@ _None_
     {
       "description": "《知行小酒馆》是有知有行出品的一档分享投资与生活的播客节目。我们关注投资理财，更关注怎样更好地生活。在我们看来，投资成功，是我们变成一个更好的人之后，自然的结果。 如果你对节目有任何建议，或者有推荐的嘉宾，或者只是想与我们分享你和小酒馆的故事，可以给我们发邮件，来信请寄：allinthebeer@gmail.com 如果你有长期投资的需求，非常欢迎下载 有知有行App，里面有你一定能读懂的好课程《投资第一课》，也有专业的投资观察《知行黑板报》，更有我们全员持有的好产品「长钱账户」「稳钱账户」「海外长钱」，人称「长稳海三胞胎」。 - Powered by RSSHub",
       "errorAt": "2026-06-16T17:46:33.167Z",
-      "errorMessage": "Cannot read properties of null (reading '1')\n",
+      "errorMessage": "[GET] \"https://amp-api.podcasts.apple.com/v1/catalog/cn/podcasts/1559695855/episodes?extend%5Bpodcast-channels%5D=editorialArtwork,subscriptionArtwork,subscriptionOffers&limit=25&with=entitlements&l=en-US\": 429 Too Many Requests\n",
       "id": "67618686621496320",
       "image": "https://is1-ssl.mzstatic.com/image/thumb/PodcastSource221/v4/ee/7a/b0/ee7ab0cb-6edd-fcb5-f249-601a80ab3f74/40ada4a7-0066-4934-8ccc-a4b25e69a029.png/3000x3000bb.webp",
       "ownerUserId": null,

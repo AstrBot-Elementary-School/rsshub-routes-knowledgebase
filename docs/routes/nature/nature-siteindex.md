@@ -64,8 +64,8 @@ _None_
   "topFeeds": [
     {
       "description": "Nature siteindex - Powered by RSSHub",
-      "errorAt": "2026-10-15T14:04:04.075Z",
-      "errorMessage": "503 \n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "137598992929939456",
       "image": null,
       "ownerUserId": null,

@@ -4262,6 +4262,12 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `1`
 - Index File: `index/gf-cn.md`
 
+## 广发期货
+- Namespace: `gfqh`
+- Aliases: `gfqh, rd, rd.gfqh.cn, 广发期货`
+- Route Count: `1`
+- Index File: `index/gfqh.md`
+
 ## Total Commander
 - Namespace: `ghisler`
 - Aliases: `ghisler, ghisler.com, total commander`
@@ -7331,7 +7337,7 @@ Use this file to select the target namespace before opening route documents.
 ## Metacritic
 - Namespace: `metacritic`
 - Aliases: `metacritic, metacritic.com`
-- Route Count: `3`
+- Route Count: `4`
 - Index File: `index/metacritic.md`
 
 ## meteoblue

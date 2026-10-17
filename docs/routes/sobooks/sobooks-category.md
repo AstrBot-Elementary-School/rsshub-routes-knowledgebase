@@ -95,14 +95,14 @@
   },
   "topFeeds": [
     {
-      "description": null,
-      "errorAt": "2025-06-25T00:45:21.760Z",
-      "errorMessage": "[GET] \"https://www.sobooks.net/\": 526 <none>\n",
+      "description": "SoBooks - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "160497068790603856",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": null,
-      "title": "Importing",
+      "siteUrl": "https://sobooks.cc/",
+      "title": "SoBooks",
       "type": "feed",
       "url": "rsshub://sobooks"
     }

@@ -51,28 +51,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "丘比特Club新店 商铺上新 - Powered by RSSHub",
+      "description": "Musimade 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264526158519468032",
+      "id": "1264526380733693952",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1813266244",
-      "title": "丘比特Club新店 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1838081089",
+      "title": "Musimade 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1813266244"
+      "url": "rsshub://weidian/goods/1838081089"
     },
     {
-      "description": "byvovo 商铺上新 - Powered by RSSHub",
+      "description": "2ERO 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264525518451900416",
+      "id": "1264525770093363200",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1771961812",
-      "title": "byvovo 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1781357740",
+      "title": "2ERO 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1771961812"
+      "url": "rsshub://weidian/goods/1781357740"
     }
   ]
 }

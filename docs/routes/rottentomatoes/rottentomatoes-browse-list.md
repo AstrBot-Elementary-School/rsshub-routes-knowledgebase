@@ -86,6 +86,19 @@ _None_
       "target": "/browse"
     }
   ],
-  "topFeeds": []
+  "topFeeds": [
+    {
+      "description": "Rotten Tomatoes - Popular streaming movies - Powered by RSSHub",
+      "errorAt": "2026-10-16T13:01:11.383Z",
+      "errorMessage": "503 \n",
+      "id": "1334059182004764672",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.rottentomatoes.com/browse/movies_at_home/sort:popular",
+      "title": "Rotten Tomatoes - Popular streaming movies",
+      "type": "feed",
+      "url": "rsshub://rottentomatoes/browse/popular-streaming"
+    }
+  ]
 }
 ```

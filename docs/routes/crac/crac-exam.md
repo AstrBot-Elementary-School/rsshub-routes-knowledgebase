@@ -74,12 +74,12 @@ _None_
   "topFeeds": [
     {
       "description": "考试信息-中国无线电协会业余无线电分会 - Powered by RSSHub",
-      "errorAt": "2026-02-14T01:57:22.686Z",
-      "errorMessage": "[POST] \"http://82.157.138.16:8091/CRAC/app/exam_advice/examAdviceList\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "138468429736494080",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "http://82.157.138.16:8091/CRAC/crac/pages/list_examMsg.html",
+      "siteUrl": "https://zhipu.allspectrum.cn:9528/CRAC/crac/pages/list_examMsg.html",
       "title": "考试信息-中国无线电协会业余无线电分会",
       "type": "feed",
       "url": "rsshub://crac/exam"

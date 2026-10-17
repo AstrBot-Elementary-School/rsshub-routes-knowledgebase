@@ -132,7 +132,7 @@ _None_
     {
       "description": "As determined by IMDb users - Powered by RSSHub",
       "errorAt": "2026-03-19T23:41:25.270Z",
-      "errorMessage": "IMDb did not return chart data (__NEXT_DATA__). Check whether the source is serving a verification page.\n",
+      "errorMessage": "530 \nIMDb did not return chart data (__NEXT_DATA__). Check whether the source is serving a verification page.\n",
       "id": "64117673690336339",
       "image": null,
       "ownerUserId": null,

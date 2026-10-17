@@ -67,18 +67,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "文化 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "74705665643397120",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.lifeweek.com.cn/column/4",
-      "title": "文化",
-      "type": "feed",
-      "url": "rsshub://lifeweek/channel/4"
-    },
-    {
       "description": "经济 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -89,6 +77,18 @@ _None_
       "title": "经济",
       "type": "feed",
       "url": "rsshub://lifeweek/channel/3"
+    },
+    {
+      "description": "文化 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "74705665643397120",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.lifeweek.com.cn/column/4",
+      "title": "文化",
+      "type": "feed",
+      "url": "rsshub://lifeweek/channel/4"
     }
   ]
 }

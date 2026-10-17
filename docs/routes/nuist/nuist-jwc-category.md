@@ -69,8 +69,8 @@ _None_
   "topFeeds": [
     {
       "description": "南京信息工程大学-教务处：信息通知 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-16T10:12:52.796Z",
+      "errorMessage": "[GET] \"https://jwc.nuist.edu.cn/xxtz/jwgl.htm\": 530 <none>\n",
       "id": "72519284425781248",
       "image": null,
       "ownerUserId": null,
@@ -81,8 +81,8 @@ _None_
     },
     {
       "description": "南京信息工程大学-教务处：信息通知 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-16T13:31:22.482Z",
+      "errorMessage": "[GET] \"https://jwc.nuist.edu.cn/xxtz/kszx.htm\": 530 <none>\n",
       "id": "72519556500486144",
       "image": null,
       "ownerUserId": null,

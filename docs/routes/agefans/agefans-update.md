@@ -75,12 +75,12 @@ _None_
   "topFeeds": [
     {
       "description": "一周更新 - AGE动漫 - Powered by RSSHub",
-      "errorAt": "2025-10-17T11:01:59.581Z",
-      "errorMessage": "[GET] \"https://www.agemys.org/update\": <no response> fetch failed\n[GET] \"https://www.agemys.org/update\": <no response> fetch failed\n[GET] \"https://www.agedm.io/detail/20260261\": 429 Too Many Requests\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "59083231915003932",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.agemys.org/update",
+      "siteUrl": "https://www.agedm.io/update",
       "title": "一周更新 - AGE动漫",
       "type": "feed",
       "url": "rsshub://agefans/update"

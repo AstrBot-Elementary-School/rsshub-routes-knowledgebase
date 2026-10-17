@@ -79,28 +79,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "massCodeIO/massCode weekly Pulse - Powered by RSSHub",
+      "description": "2noise/ChatTTS weekly Pulse - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "215345311459391488",
+      "id": "220767323256864792",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/massCodeIO/massCode/pulse/weekly",
-      "title": "massCodeIO/massCode weekly Pulse",
+      "siteUrl": "https://github.com/2noise/ChatTTS/pulse/weekly",
+      "title": "2noise/ChatTTS weekly Pulse",
       "type": "feed",
-      "url": "rsshub://github/pulse/massCodeIO/massCode"
+      "url": "rsshub://github/pulse/2noise/ChatTTS/weekly"
     },
     {
-      "description": "openai/whisper weekly Pulse - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "220767323256864796",
+      "description": null,
+      "errorAt": "2025-12-08T08:14:07.792Z",
+      "errorMessage": "[GET] \"https://github.com/tencent-ailab/cosyvoice/pulse/weekly\": 404 Not Found\n[GET] \"https://github.com/tencent-ailab/cosyvoice/pulse/weekly\": 404 Not Found\n",
+      "id": "220767323256864793",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/openai/whisper/pulse/weekly",
-      "title": "openai/whisper weekly Pulse",
+      "siteUrl": null,
+      "title": "Importing",
       "type": "feed",
-      "url": "rsshub://github/pulse/openai/whisper/weekly"
+      "url": "rsshub://github/pulse/tencent-ailab/cosyvoice/weekly"
     }
   ]
 }

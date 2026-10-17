@@ -67,7 +67,7 @@ _None_
     {
       "description": "意林 - 近期文章汇总 - Powered by RSSHub",
       "errorAt": "2024-10-08T03:58:34.168Z",
-      "errorMessage": "(intermediate value).flatMap is not a function\n(intermediate value).flatMap is not a function\n",
+      "errorMessage": "(intermediate value).flatMap is not a function\n503 \n",
       "id": "60546375521699840",
       "image": null,
       "ownerUserId": null,

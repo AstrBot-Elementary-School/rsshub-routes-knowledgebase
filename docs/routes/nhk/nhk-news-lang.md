@@ -166,8 +166,8 @@ _None_
   "topFeeds": [
     {
       "description": "Top | NHK WORLD-JAPAN News - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-16T16:18:26.905Z",
+      "errorMessage": "530 \nFailed to fetch\nFailed to fetch\n",
       "id": "61596371943710720",
       "image": null,
       "ownerUserId": null,

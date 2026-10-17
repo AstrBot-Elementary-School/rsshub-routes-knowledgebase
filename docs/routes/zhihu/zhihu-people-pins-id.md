@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 67,
+  "heat": 68,
   "location": "pin/people.ts",
   "maintainers": [
     "xyqfer"
@@ -86,8 +86,8 @@ _None_
     },
     {
       "description": "00后富一代的知乎想法 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-15T17:41:11.033Z",
+      "errorMessage": "[GET] \"https://api.zhihu.com/pins/mei-hao-wei-lai-9-78-87/moments?limit=10&offset=0\": 403 Forbidden\n",
       "id": "111705971907407872",
       "image": null,
       "ownerUserId": null,

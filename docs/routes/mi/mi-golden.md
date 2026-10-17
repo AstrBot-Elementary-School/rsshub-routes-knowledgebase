@@ -54,7 +54,7 @@ _None_
       "id": "58115214164304896",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://app.market.xiaomi.com/apm/subject/169449?os=1.1.1&sdk=19",
+      "siteUrl": "https://app.mi.com/subject/169449",
       "title": "金米奖 - 小米应用商店",
       "type": "feed",
       "url": "rsshub://mi/golden"
