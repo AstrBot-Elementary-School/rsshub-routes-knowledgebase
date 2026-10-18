@@ -90,15 +90,15 @@ _None_
     },
     {
       "description": "深交所官网 - Powered by RSSHub",
-      "errorAt": "2026-10-16T08:51:42.570Z",
-      "errorMessage": "503 \n",
-      "id": "243896126078777344",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "242493214939536384",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://www.szse.cn/disclosure/listed/notice",
       "title": "深圳证券交易所 - 上市公司公告",
       "type": "feed",
-      "url": "rsshub://szse/disclosure/listed/notice/stock=301081"
+      "url": "rsshub://szse/disclosure/listed/notice/stock=001222"
     }
   ],
   "url": "www.szse.cn",

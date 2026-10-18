@@ -106,18 +106,6 @@ e.g.: `/gelbooru/post?limit=20&`
   "topFeeds": [
     {
       "description": "Gelbooru post list - Powered by RSSHub",
-      "errorAt": "2025-06-15T15:32:07.406Z",
-      "errorMessage": "Gelbooru API requires authentication. Configure GELBOORU_API_KEY and GELBOORU_USER_ID.\n",
-      "id": "132064394430128128",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://gelbooru.com/index.php?page=post&s=list&tags=1girl%20rating:general",
-      "title": "1girl rating:general - gelbooru.com",
-      "type": "feed",
-      "url": "rsshub://gelbooru/post/1girl%20rating:general"
-    },
-    {
-      "description": "Gelbooru post list - Powered by RSSHub",
       "errorAt": "2025-06-15T17:36:00.154Z",
       "errorMessage": "Gelbooru API requires authentication. Configure GELBOORU_API_KEY and GELBOORU_USER_ID.\n",
       "id": "127398870895944704",
@@ -127,6 +115,18 @@ e.g.: `/gelbooru/post?limit=20&`
       "title": "sex - gelbooru.com",
       "type": "feed",
       "url": "rsshub://gelbooru/post/sex"
+    },
+    {
+      "description": "Gelbooru post list - Powered by RSSHub",
+      "errorAt": "2025-06-15T15:32:07.406Z",
+      "errorMessage": "Gelbooru API requires authentication. Configure GELBOORU_API_KEY and GELBOORU_USER_ID.\n",
+      "id": "132064394430128128",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://gelbooru.com/index.php?page=post&s=list&tags=1girl%20rating:general",
+      "title": "1girl rating:general - gelbooru.com",
+      "type": "feed",
+      "url": "rsshub://gelbooru/post/1girl%20rating:general"
     }
   ],
   "view": 2

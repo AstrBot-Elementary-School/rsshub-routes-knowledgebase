@@ -104,8 +104,8 @@
   "topFeeds": [
     {
       "description": "朝鲜中央通讯 | 最新新闻 - Powered by RSSHub",
-      "errorAt": "2026-10-16T15:51:13.583Z",
-      "errorMessage": "[GET] \"http://www.kcna.kp/cn/article/list/a666dda1282180e0ee1b4427b0574ae7\": 530 <none>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "213406943351213061",
       "image": null,
       "ownerUserId": null,

@@ -66,12 +66,12 @@ _None_
   "topFeeds": [
     {
       "description": "意林 - 近期文章汇总 - Powered by RSSHub",
-      "errorAt": "2024-10-08T03:58:34.168Z",
-      "errorMessage": "(intermediate value).flatMap is not a function\n503 \n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "60546375521699840",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.yilinzazhi.com/2024/yl20248/index.html",
+      "siteUrl": "https://www.yilinzazhi.com/2026/202610/index.html",
       "title": "意林 - 近期文章汇总",
       "type": "feed",
       "url": "rsshub://yilinzazhi/latest"

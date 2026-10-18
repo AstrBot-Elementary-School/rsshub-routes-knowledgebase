@@ -97,18 +97,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "豆瓣广播 - DIYgod - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "65438587764467712",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://m.douban.com/people/62759792/statuses",
-      "title": "豆瓣广播 - DIYgod",
-      "type": "feed",
-      "url": "rsshub://douban/people/62759792/status"
-    },
-    {
       "description": "豆瓣广播 - 豆瓣读书排行榜 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -119,6 +107,18 @@ _None_
       "title": "豆瓣广播 - 豆瓣读书排行榜",
       "type": "feed",
       "url": "rsshub://douban/people/180457410/status"
+    },
+    {
+      "description": "豆瓣广播 - DIYgod - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "65438587764467712",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://m.douban.com/people/62759792/statuses",
+      "title": "豆瓣广播 - DIYgod",
+      "type": "feed",
+      "url": "rsshub://douban/people/62759792/status"
     }
   ],
   "view": 1

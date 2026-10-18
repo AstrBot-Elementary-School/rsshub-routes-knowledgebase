@@ -66,16 +66,16 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "哔哩哔哩直播-lofigirl-人气直播 - Powered by RSSHub",
+      "description": "哔哩哔哩直播-独夫之心-人气直播 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "250094139664107520",
+      "id": "198041982872060928",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://search.bilibili.com/live?keyword=lofigirl&order=online&coverType=user_cover&page=1&search_type=live",
-      "title": "哔哩哔哩直播-lofigirl-人气直播",
+      "siteUrl": "https://search.bilibili.com/live?keyword=%E7%8B%AC%E5%A4%AB%E4%B9%8B%E5%BF%83&order=online&coverType=user_cover&page=1&search_type=live",
+      "title": "哔哩哔哩直播-独夫之心-人气直播",
       "type": "feed",
-      "url": "rsshub://bilibili/live/search/lofigirl/online"
+      "url": "rsshub://bilibili/live/search/%E7%8B%AC%E5%A4%AB%E4%B9%8B%E5%BF%83/online"
     },
     {
       "description": "哔哩哔哩直播-漫展-最新开播 - Powered by RSSHub",

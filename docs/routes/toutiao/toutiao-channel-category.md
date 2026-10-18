@@ -152,8 +152,8 @@ _None_
   "topFeeds": [
     {
       "description": "热点 - 今日头条 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-17T09:46:03.405Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "1311877517102940160",
       "image": null,
       "ownerUserId": null,

@@ -76,7 +76,7 @@ _None_
     {
       "description": "《1039新闻早报》是交通广播全力打造的一档早间新闻直播节目，节目的口号是“用新鲜资讯叫醒北京城”。节目秉承时效性、本地性、服务性的方针，力求通过自然轻松的播报方式，为听众献上一道丰盛的早间新闻大餐。 - Powered by RSSHub",
       "errorAt": "2026-10-02T03:59:25.192Z",
-      "errorMessage": "[POST] \"https://api-v3.tingtingfm.com//broadcast/get_program_v3_8?version=h5_6.3.2&client=h5_WinAiyPDS1nUI9MJv94fO4QNlq4tv1&h_program_id=EOAonLJy7G&api_sign=f94b156ea5340af25f3889c0bef21dd4\": 405 Method Not Allowed\n",
+      "errorMessage": "[POST] \"https://api-v3.tingtingfm.com//broadcast/get_program_v3_8?version=h5_6.3.2&client=h5_eJJI1UIftphNmC2Z1Y0ffPWnWgGv9q&h_program_id=EOAonLJy7G&api_sign=e9a0d474d5b8d14b0736f79bbca134e1\": 405 Method Not Allowed\n",
       "id": "73904811865636864",
       "image": "https://ttfm2018pub-oss-cdn.tingtingfm.com/cover/2021/1223/14/6d/146da2f9ecf3daf4d6734f7b6d37113c.jpg",
       "ownerUserId": null,

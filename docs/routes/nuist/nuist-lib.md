@@ -61,8 +61,8 @@ _None_
   "topFeeds": [
     {
       "description": "南京信息工程大学图书馆通知 - Powered by RSSHub",
-      "errorAt": "2026-10-16T14:28:21.213Z",
-      "errorMessage": "[GET] \"https://lib.nuist.edu.cn/index/tzgg.htm\": 530 <none>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "72519003413343232",
       "image": null,
       "ownerUserId": null,

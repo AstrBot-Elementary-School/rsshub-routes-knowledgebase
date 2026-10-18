@@ -103,8 +103,8 @@ _None_
   "topFeeds": [
     {
       "description": "S&P Global Ratings(zh) - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-17T13:02:38.282Z",
+      "errorMessage": "[GET] \"https://www.spglobal.com/ratings/zh/\": 403 Forbidden\n",
       "id": "91850787540336640",
       "image": null,
       "ownerUserId": null,

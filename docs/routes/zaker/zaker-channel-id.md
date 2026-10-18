@@ -39,7 +39,7 @@ _None_
     "other"
   ],
   "example": "/zaker/channel/13",
-  "heat": 47,
+  "heat": 48,
   "location": "channel.ts",
   "maintainers": [
     "LogicJake",

@@ -154,8 +154,8 @@ _None_
     },
     {
       "description": "NOSEC 安全讯息平台 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-17T16:36:20.727Z",
+      "errorMessage": "[GET] \"https://nosec.org/home/index\": 522 <none>\n",
       "id": "71620232578810880",
       "image": null,
       "ownerUserId": null,

@@ -89,16 +89,16 @@ _None_
       "url": "rsshub://163/music/artist/32540734"
     },
     {
-      "description": "网易云音乐歌手专辑 - 小沢健二 - Powered by RSSHub",
+      "description": "网易云音乐歌手专辑 - Les Rallizes Denudes - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "93474365887536128",
-      "image": "https://p2.music.126.net/2Fj_USVdgznJ57GD7bsauw==/109951164421213518.jpg",
+      "id": "103886134004613120",
+      "image": "https://p2.music.126.net/mVQ3i2ch8U9OG6c-NbVZ8w==/109951169989353063.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://music.163.com/#/artist/album?id=15136",
-      "title": "小沢健二",
+      "siteUrl": "https://music.163.com/#/artist/album?id=95507",
+      "title": "Les Rallizes Denudes",
       "type": "feed",
-      "url": "rsshub://163/music/artist/15136"
+      "url": "rsshub://163/music/artist/95507"
     }
   ]
 }

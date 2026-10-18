@@ -85,14 +85,14 @@ _None_
       "url": "rsshub://jinse/tech"
     },
     {
-      "description": "undefined - 研报 - Powered by RSSHub",
-      "errorAt": "2026-05-12T16:51:00.404Z",
-      "errorMessage": "[GET] \"https://www.jinse.com/blockchain/3739664.html\": 525 <none>\n",
+      "description": "金色财经 - 研报 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "67468126492383233",
       "image": "https://staticn.jinse.cn/w/img/b6900fe.png",
       "ownerUserId": null,
       "siteUrl": "https://www.jinse.com.cn/",
-      "title": "undefined - 研报",
+      "title": "金色财经 - 研报",
       "type": "feed",
       "url": "rsshub://jinse/capitalmarket"
     }

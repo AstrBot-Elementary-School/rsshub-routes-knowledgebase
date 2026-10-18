@@ -94,16 +94,16 @@ _None_
       "url": "rsshub://f95zone/post/ecksoh-collection-2026-01-01-xoxo.136515/post-9343108"
     },
     {
-      "description": "[F95zone] Collection Video Nyl Collection [2026-01-31] [Nyl2] - Powered by RSSHub",
+      "description": "[F95zone] Collection Video HydraFXX Collection [2026-05-09] [HydraFXX] - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "250524266322800640",
+      "id": "250523949050013696",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://f95zone.to/threads/nyl-collection-2026-01-01-nyl2.46099/#post-3049831",
-      "title": "[F95zone] Collection Video Nyl Collection [2026-01-31] [Nyl2]",
+      "siteUrl": "https://f95zone.to/threads/hydrafxx-collection-2026-01-01-hydrafxx.25063/#post-1544334",
+      "title": "[F95zone] Collection Video HydraFXX Collection [2026-05-09] [HydraFXX]",
       "type": "feed",
-      "url": "rsshub://f95zone/post/nyl-collection-2026-01-01-nyl2.46099/post-3049831"
+      "url": "rsshub://f95zone/post/hydrafxx-collection-2026-01-01-hydrafxx.25063/post-1544334"
     }
   ]
 }

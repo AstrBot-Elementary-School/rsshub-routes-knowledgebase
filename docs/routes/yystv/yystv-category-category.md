@@ -81,8 +81,8 @@ _None_
     },
     {
       "description": "游研社-推游 - Powered by RSSHub",
-      "errorAt": "2025-08-26T12:35:22.570Z",
-      "errorMessage": "[GET] \"https://www.yystv.cn/b/recommend\": 522 <none>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "52353637010143243",
       "image": null,
       "ownerUserId": null,

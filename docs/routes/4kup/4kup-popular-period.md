@@ -54,7 +54,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 342,
+  "heat": 341,
   "location": "popular.ts",
   "maintainers": [
     "AiraNadih"
@@ -90,8 +90,8 @@ _None_
     },
     {
       "description": "4KUP - Top views in 7 days - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-17T04:52:12.082Z",
+      "errorMessage": "502 \n4KUP has no popular posts available for this period. Please check https://4kup.net/hot-of-week/ or try another period.\n",
       "id": "109193802480859136",
       "image": null,
       "ownerUserId": null,

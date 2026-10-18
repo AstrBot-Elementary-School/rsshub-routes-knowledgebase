@@ -53,7 +53,7 @@ _None_
     "supportPodcast": true,
     "supportScihub": false
   },
-  "heat": 106,
+  "heat": 105,
   "location": "level.ts",
   "maintainers": [
     "eternasuno"

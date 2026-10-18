@@ -103,8 +103,8 @@
     },
     {
       "description": "New - pixivision - Powered by RSSHub",
-      "errorAt": "2026-10-16T12:31:43.103Z",
-      "errorMessage": "403 \n530 \n[GET] \"https://www.pixivision.net/zh-tw\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "58887079850550272",
       "image": null,
       "ownerUserId": null,

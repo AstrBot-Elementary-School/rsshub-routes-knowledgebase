@@ -81,16 +81,16 @@ _None_
       "url": "rsshub://gov/nopss/GB/219469/431027"
     },
     {
-      "description": "后期资助项目- 全国哲学社会科学工作办公室 - Powered by RSSHub",
+      "description": "重大项目- 全国哲学社会科学工作办公室 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "68892056440478837",
+      "id": "68892056440478838",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "http://www.nopss.gov.cn/GB/219469/431030",
-      "title": "后期资助项目- 全国哲学社会科学工作办公室",
+      "siteUrl": "http://www.nopss.gov.cn/GB/219469/431028",
+      "title": "重大项目- 全国哲学社会科学工作办公室",
       "type": "feed",
-      "url": "rsshub://gov/nopss/GB/219469/431030"
+      "url": "rsshub://gov/nopss/GB/219469/431028"
     }
   ]
 }

@@ -123,18 +123,6 @@ _None_
       "description": "朝日新聞社のニュースサイト、朝日新聞デジタルの社会ニュースについてのページです - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1331291105378828288",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.asahi.com/culture/food",
-      "title": "食・料理 - ライフスタイル：朝日新聞",
-      "type": "feed",
-      "url": "rsshub://asahi/life/food"
-    },
-    {
-      "description": "朝日新聞社のニュースサイト、朝日新聞デジタルの社会ニュースについてのページです - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
       "id": "1310844602264977408",
       "image": null,
       "ownerUserId": null,
@@ -142,6 +130,18 @@ _None_
       "title": "国内政治 - 政治：朝日新聞",
       "type": "feed",
       "url": "rsshub://asahi/politics/government"
+    },
+    {
+      "description": "朝日新聞社のニュースサイト、朝日新聞デジタルの社会ニュースについてのページです - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "1310846439303020544",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.asahi.com/international",
+      "title": "国際ニュース：朝日新聞",
+      "type": "feed",
+      "url": "rsshub://asahi/international"
     }
   ]
 }

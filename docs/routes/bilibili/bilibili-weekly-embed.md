@@ -50,7 +50,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 3790,
+  "heat": 3789,
   "location": "weekly-recommend.ts",
   "maintainers": [
     "ttttmr"
@@ -79,7 +79,7 @@ _None_
     {
       "description": "B站每周必看 - Powered by RSSHub",
       "errorAt": "2026-09-04T10:58:33.102Z",
-      "errorMessage": "Could not find Chrome (ver. 136.0.7103.49). This can occur if either\n 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or\n 2. your cache path is incorrectly configured (which is: /app/node_modules/.cache/puppeteer).\nFor (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.\n[GET] \"https://app.bilibili.com/x/v2/show/popular/selected/series?type=weekly_selected\": 412 Precondition Failed\n",
+      "errorMessage": "Could not find Chrome (ver. 136.0.7103.49). This can occur if either\n 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or\n 2. your cache path is incorrectly configured (which is: /app/node_modules/.cache/puppeteer).\nFor (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.\nFailed to fetch\n[GET] \"https://app.bilibili.com/x/v2/show/popular/selected/series?type=weekly_selected\": 412 Precondition Failed\n",
       "id": "59798160460396544",
       "image": null,
       "ownerUserId": null,

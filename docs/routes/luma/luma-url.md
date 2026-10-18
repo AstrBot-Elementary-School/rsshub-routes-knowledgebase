@@ -86,16 +86,16 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "MenteX - Powered by RSSHub",
-      "errorAt": "2026-10-11T05:11:05.561Z",
-      "errorMessage": "[GET] \"https://api.lu.ma/url?url=mentex_ecosistema\": 429 Too Many Requests\n",
-      "id": "265966986896278528",
+      "description": "Platzi - Powered by RSSHub",
+      "errorAt": "2026-08-01T07:59:21.642Z",
+      "errorMessage": "[GET] \"https://api.lu.ma/url?url=platzi\": 429 Too Many Requests\n",
+      "id": "265967006213506048",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://lu.ma/mentex_ecosistema",
-      "title": "MenteX",
+      "siteUrl": "https://lu.ma/platzi",
+      "title": "Platzi",
       "type": "feed",
-      "url": "rsshub://luma/mentex_ecosistema"
+      "url": "rsshub://luma/platzi"
     },
     {
       "description": "LangChain Events - Powered by RSSHub",

@@ -233,8 +233,8 @@
     },
     {
       "description": "南信大信息公告栏 - 全部 - Powered by RSSHub",
-      "errorAt": "2026-10-16T15:56:20.175Z",
-      "errorMessage": "[GET] \"https://bulletin.nuist.edu.cn/index.htm\": 530 <none>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "72519156724598784",
       "image": null,
       "ownerUserId": null,

@@ -68,16 +68,16 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "oops-L- 的 bilibili 收藏夹 大二下 - Powered by RSSHub",
+      "description": "口口相传茶业有限公司 的 bilibili 收藏夹 茶茶严选 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "121558077415311360",
+      "id": "156044018312693760",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://space.bilibili.com/102060507/#/favlist?fid=3517976807",
-      "title": "oops-L- 的 bilibili 收藏夹 大二下",
+      "siteUrl": "https://space.bilibili.com/397567956/#/favlist?fid=3468713856",
+      "title": "口口相传茶业有限公司 的 bilibili 收藏夹 茶茶严选",
       "type": "feed",
-      "url": "rsshub://bilibili/fav/102060507/3517976807"
+      "url": "rsshub://bilibili/fav/397567956/3468713856"
     },
     {
       "description": "观海聽风声 的 bilibili 收藏夹 二次元 - Powered by RSSHub",

@@ -635,8 +635,8 @@
   "topFeeds": [
     {
       "description": "最新规则 | 上海证券交易所 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-17T10:31:03.328Z",
+      "errorMessage": "[GET] \"https://www.sse.com.cn/lawandrules/sselawsrules/latest\": 403 Forbidden\n",
       "id": "60582720391817216",
       "image": "https://www.sse.com.cn/xhtml/images/logo.png",
       "ownerUserId": null,

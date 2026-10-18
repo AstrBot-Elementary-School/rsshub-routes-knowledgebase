@@ -87,7 +87,7 @@ _None_
     {
       "description": "The most recent blogs and online articles from The Economist - Powered by RSSHub",
       "errorAt": "2025-09-05T18:15:19.885Z",
-      "errorMessage": "[GET] \"https://www.economist.com/europe/2026/10/14/donald-trump-is-squeezing-ukraines-military-lifeline\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.economist.com/interactive/the-americas/2026/10/16/archive-cuba/part-3\": 403 Forbidden\n",
       "id": "54859243036899328",
       "image": null,
       "ownerUserId": null,

@@ -47,7 +47,7 @@
 - Route Path: `/gamer/gnn/:category?`
 - File: `docs/routes/gamer/gamer-gnn-category.md`
 - File Name: `gamer-gnn-category.md`
-- Categories: `anime, popular`
+- Categories: `anime`
 - Maintainers: `Arracc, ladeng07, pseudoyu`
 
 ### 本板推薦

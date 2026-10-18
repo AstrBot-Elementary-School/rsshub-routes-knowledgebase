@@ -78,8 +78,8 @@ _None_
     },
     {
       "description": "上海证券交易所 - 上市公司信息 - 公牛集团最新公告 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-17T09:37:03.365Z",
+      "errorMessage": "[GET] \"https://query.sse.com.cn/security/stock/queryCompanyBulletin.do?securityType=0101,120100,020100,020200,120200&reportType=ALL&productId=603195&isPagination=true&pageHelp.pageSize=25&pageHelp.pageCount=50&pageHelp.pageNo=1&pageHelp.beginPage=1&pageHelp.cacheSize=1&pageHelp.endPage=5&_=1792249717321\": 403 Forbidden\n",
       "id": "64944303082021888",
       "image": null,
       "ownerUserId": null,

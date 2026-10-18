@@ -89,8 +89,8 @@ _None_
     },
     {
       "description": "- 唱吧 - Powered by RSSHub",
-      "errorAt": "2026-10-05T12:42:33.245Z",
-      "errorMessage": "Changba redirected the work request: 请求过于频繁，请稍后再试\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "122101353169483776",
       "image": "https://aliimg.changba.com/cache/photo/877051009_200_200.jpg",
       "ownerUserId": null,

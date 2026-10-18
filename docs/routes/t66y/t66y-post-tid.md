@@ -72,12 +72,12 @@ _None_
   "topFeeds": [
     {
       "description": "[現代奇幻] 有一种巧合叫租在隔壁（下） - 成人文學交流區 | 草榴社區 - t66y.com - Powered by RSSHub",
-      "errorAt": "2026-07-09T12:04:23.977Z",
-      "errorMessage": "[GET] \"https://www.t66y.com/read.php?tid=3286088\": 403 Forbidden\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "60209348426006528",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://docs.rsshub.app/",
+      "siteUrl": "https://www.t66y.com/htm_data/1812/20/3286088.html",
       "title": "[現代奇幻] 有一种巧合叫租在隔壁（下） - 成人文學交流區 | 草榴社區 - t66y.com",
       "type": "feed",
       "url": "rsshub://t66y/post/3286088"

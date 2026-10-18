@@ -55,7 +55,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 795,
+  "heat": 796,
   "location": "popular.ts",
   "maintainers": [
     "WenryXu"
@@ -91,8 +91,8 @@
     },
     {
       "description": "热门文章 - 周榜 - 人人都是产品经理 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-17T14:29:48.220Z",
+      "errorMessage": "503 \n",
       "id": "62029871009936384",
       "image": null,
       "ownerUserId": null,

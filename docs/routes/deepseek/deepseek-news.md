@@ -84,7 +84,7 @@ _None_
       "id": "94620391342854144",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://api-docs.deepseek.com/zh-cn/news/news260910",
+      "siteUrl": "https://api-docs.deepseek.com/zh-cn/news/news261017",
       "title": "DeepSeek 新闻",
       "type": "feed",
       "url": "rsshub://deepseek/news"

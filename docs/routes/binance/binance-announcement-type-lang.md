@@ -42,7 +42,7 @@ _None_
   ],
   "description": "Announcement list from Binance message center with language and type selection.",
   "example": "/binance/announcement/new-cryptocurrency-listing",
-  "heat": 1744,
+  "heat": 1745,
   "location": "announcement.ts",
   "maintainers": [
     "enpitsulin",
@@ -122,6 +122,18 @@ _None_
   "topFeeds": [
     {
       "description": "Announcement list from Binance message center. - Powered by RSSHub",
+      "errorAt": "2026-10-17T11:08:12.745Z",
+      "errorMessage": "[GET] \"https://www.binance.com/bapi/apex/v1/public/apex/cms/article/list/query?type=1&pageNo=1&pageSize=20&catalogId=49\": 403 Forbidden\n",
+      "id": "56573138387473408",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.binance.com/zh-CN/messages/v2/group/announcement",
+      "title": "Binance Announcement - 币安最新动态",
+      "type": "feed",
+      "url": "rsshub://binance/announcement/latest-binance-news"
+    },
+    {
+      "description": "Announcement list from Binance message center. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "54390728350522368",
@@ -131,18 +143,6 @@ _None_
       "title": "Binance Announcement - 数字货币及交易对上新",
       "type": "feed",
       "url": "rsshub://binance/announcement/new-cryptocurrency-listing"
-    },
-    {
-      "description": "Announcement list from Binance message center. - Powered by RSSHub",
-      "errorAt": "2026-10-16T05:50:59.307Z",
-      "errorMessage": "[GET] \"https://www.binance.com/bapi/apex/v1/public/apex/cms/article/list/query?type=1&pageNo=1&pageSize=20&catalogId=49\": 403 Forbidden\n",
-      "id": "56573138387473408",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.binance.com/zh-CN/messages/v2/group/announcement",
-      "title": "Binance Announcement - 币安最新动态",
-      "type": "feed",
-      "url": "rsshub://binance/announcement/latest-binance-news"
     }
   ],
   "view": 0

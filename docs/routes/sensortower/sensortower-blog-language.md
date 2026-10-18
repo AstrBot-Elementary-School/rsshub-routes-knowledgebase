@@ -125,7 +125,7 @@
     {
       "description": null,
       "errorAt": "2025-06-22T03:49:16.822Z",
-      "errorMessage": "[GET] \"https://sensortower.com/blog/top-10-worldwide-mobile-games-by-revenue-and-downloads-in-september-2026-CN\": 404 Not Found\n",
+      "errorMessage": "[GET] \"https://sensortower.com/blog/state-of-digital-advertising-in-korea-2026-report-CN\": 404 Not Found\n",
       "id": "159455518140235781",
       "image": null,
       "ownerUserId": null,

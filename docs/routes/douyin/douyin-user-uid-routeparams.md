@@ -93,7 +93,7 @@ _None_
     {
       "description": "姜胡说 - Powered by RSSHub",
       "errorAt": "2025-11-11T16:10:38.172Z",
-      "errorMessage": "Could not find Chrome (ver. 136.0.7103.49). This can occur if either\n 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or\n 2. your cache path is incorrectly configured (which is: /app/node_modules/.cache/puppeteer).\nFor (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.\n503 \n",
+      "errorMessage": "Could not find Chrome (ver. 136.0.7103.49). This can occur if either\n 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or\n 2. your cache path is incorrectly configured (which is: /app/node_modules/.cache/puppeteer).\nFor (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.\nDouyin API returned HTTP 403. Anonymous access may be blocked by the source site.\n",
       "id": "188221989912814592",
       "image": "https://p3-pc.douyinpic.com/origin/aweme-avatar/mosaic-legacy_3149e000524a7b8745c42.jpeg",
       "ownerUserId": null,

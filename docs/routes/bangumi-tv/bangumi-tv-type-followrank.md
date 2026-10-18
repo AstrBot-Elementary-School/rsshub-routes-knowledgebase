@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 7,
+  "heat": 6,
   "location": "other/followrank.ts",
   "maintainers": [
     "honue",

@@ -253,8 +253,8 @@
   "topFeeds": [
     {
       "description": "인터넷 신문 - Powered by RSSHub",
-      "errorAt": "2026-10-16T09:20:00.444Z",
-      "errorMessage": "502 \nFailed to fetch\n[GET] \"https://chinese.joins.com/news/articleView.html?idxno=126506\": 520 <none>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "67015768687931392",
       "image": "https://chinese.joins.com/image/logo/toplogo_20200319051833.png",
       "ownerUserId": null,

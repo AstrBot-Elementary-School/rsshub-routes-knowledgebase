@@ -77,7 +77,7 @@
       "errorAt": null,
       "errorMessage": null,
       "id": "130245278681074688",
-      "image": "https://p26.douyinpic.com/origin/aweme-avatar/tos-cn-avt-0015_e8d1c5dc1085920d4e0ef2f61c57a318.jpeg",
+      "image": "https://p3.douyinpic.com/origin/aweme-avatar/tos-cn-avt-0015_e8d1c5dc1085920d4e0ef2f61c57a318.jpeg",
       "ownerUserId": null,
       "siteUrl": "https://live.douyin.com/942387616310",
       "title": "五月儿的抖音直播间 - 抖音直播",

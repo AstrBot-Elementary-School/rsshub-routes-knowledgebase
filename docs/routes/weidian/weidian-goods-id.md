@@ -51,28 +51,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Musimade 商铺上新 - Powered by RSSHub",
+      "description": "Dylan出品 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264526380733693952",
+      "id": "1264523928189927424",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1838081089",
-      "title": "Musimade 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1649084157",
+      "title": "Dylan出品 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1838081089"
+      "url": "rsshub://weidian/goods/1649084157"
     },
     {
-      "description": "2ERO 商铺上新 - Powered by RSSHub",
+      "description": "A1 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264525770093363200",
+      "id": "1264523929263669248",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1781357740",
-      "title": "2ERO 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1624885820",
+      "title": "A1 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1781357740"
+      "url": "rsshub://weidian/goods/1624885820"
     }
   ]
 }

@@ -109,8 +109,8 @@
     },
     {
       "description": "观察者网 - 国际 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-17T15:26:38.769Z",
+      "errorMessage": "503 \n",
       "id": "113028454025389056",
       "image": null,
       "ownerUserId": null,

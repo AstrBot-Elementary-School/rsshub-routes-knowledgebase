@@ -39,7 +39,7 @@ _None_
     "finance"
   ],
   "example": "/yahoo/finance/hk/latest-news",
-  "heat": 0,
+  "heat": 1,
   "location": "finance-hk.ts",
   "maintainers": [
     "pseudoyu"

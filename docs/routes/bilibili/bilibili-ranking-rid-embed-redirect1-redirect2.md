@@ -45,7 +45,7 @@ _None_
   "features": {
     "requirePuppeteer": true
   },
-  "heat": 1044,
+  "heat": 1043,
   "location": "ranking.ts",
   "maintainers": [
     "DIYgod",

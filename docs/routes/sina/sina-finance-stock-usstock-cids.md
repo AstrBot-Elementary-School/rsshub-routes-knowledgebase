@@ -56,7 +56,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 77,
+  "heat": 78,
   "location": "finance/stock/usstock.ts",
   "maintainers": [
     "TonyRL"

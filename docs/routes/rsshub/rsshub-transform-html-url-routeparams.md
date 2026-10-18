@@ -87,7 +87,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 7424,
+  "heat": 7423,
   "location": "transform/html.ts",
   "maintainers": [
     "ttttmr",
@@ -118,8 +118,8 @@ _None_
     },
     {
       "description": "Proxy https://imnks.com/ - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-17T16:36:31.725Z",
+      "errorMessage": "This RSS is disabled unless 'ALLOW_USER_SUPPLY_UNSAFE_DOMAIN' is set to 'true'.\nThis RSS is disabled unless 'ALLOW_USER_SUPPLY_UNSAFE_DOMAIN' is set to 'true'.\n[GET] \"https://imnks.com/\": 522 <none>\n",
       "id": "68731140035191863",
       "image": null,
       "ownerUserId": null,

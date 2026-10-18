@@ -97,8 +97,8 @@ _None_
   "topFeeds": [
     {
       "description": "快讯 - Followin - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-17T14:27:52.175Z",
+      "errorMessage": "KV PUT failed: 429 Too Many Requests\n",
       "id": "41419133062574080",
       "image": "https://followin.io/favicon.ico",
       "ownerUserId": null,

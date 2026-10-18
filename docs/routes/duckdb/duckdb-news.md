@@ -64,8 +64,8 @@ _None_
   "topFeeds": [
     {
       "description": "DuckDB News - Powered by RSSHub",
-      "errorAt": "2025-10-07T17:37:20.808Z",
-      "errorMessage": "503 \n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "69641222629419008",
       "image": null,
       "ownerUserId": null,
