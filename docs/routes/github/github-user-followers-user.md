@@ -74,16 +74,16 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "FerrisChi's followers - Powered by RSSHub",
+      "description": "magic-akari's followers - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "126208930954814464",
+      "id": "82667972055805952",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/FerrisChi",
-      "title": "FerrisChi's followers",
+      "siteUrl": "https://github.com/magic-akari",
+      "title": "magic-akari's followers",
       "type": "feed",
-      "url": "rsshub://github/user/followers/FerrisChi"
+      "url": "rsshub://github/user/followers/magic-akari"
     },
     {
       "description": "Shubxam's followers - Powered by RSSHub",

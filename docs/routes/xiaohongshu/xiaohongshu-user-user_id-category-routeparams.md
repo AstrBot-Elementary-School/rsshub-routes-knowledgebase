@@ -55,7 +55,7 @@ _None_
     ],
     "requirePuppeteer": true
   },
-  "heat": 1383600,
+  "heat": 1383280,
   "location": "user.ts",
   "maintainers": [
     "lotosbin",

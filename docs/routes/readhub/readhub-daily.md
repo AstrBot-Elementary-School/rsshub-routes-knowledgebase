@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4873,
+  "heat": 4875,
   "location": "daily.ts",
   "maintainers": [
     "nczitzk",
@@ -73,7 +73,7 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "1. 苹果 iPhone Duo 预售秒罄 首批现货溢价最高达 16000 元 2. 马斯克展示特斯拉第二代 Roadster：喷气弹射起飞数米，2028 年投产 3. DeepSeek 整合成立「产品部」，崔添翼担任负责人 4. 部分投资者考虑调降对 Anthropic 的 IPO 估值预期 5. 17 岁核心技术贡献者陈广宇宣布离开月之暗面 Kimi 团队 6. 张一鸣亲自督导字节世界模型项目，押注 AI 新赛道 7. 苹果已向媒体发邀请 10 月 28 日或推出多款 Mac 和 iPad 新品 8. 抖音同意三只羊在平台注销原账号、注册新账号并恢复经营 9. 四部门组织 30 余家车企座谈 加强汽车产品研发测试验证管理 10. 马斯克回应 Grok Bot 被亚马逊封禁：或考虑自建电商平台 11. Meta 推出 Muse Spark Open 模型 优化适配 Mac Studio 运行 12. 可灵 AI 新一代模型 Kling 4.0 正式上线 - Powered by RSSHub",
+      "description": "1. DeepSeek V4.1 Flash-1017 新版本发布 性能提升权重开源 2. OpenAI 宣布 ChatGPT 重大升级，可接管 Chrome 操作网页 3. 苹果称 iPhone Duo 需求非凡 正全力交付设备并持续接受线上订单 4. 抖音称将针对京东左琦造谣行为坚决维权到底 5. 腾讯评估 Agent 出现非预期行为 应对方式异于 OpenAI 等厂商 6. Claude 半小时破解二十余年 NIST 椭圆曲线种子来源谜题 7. Anthropic 称人均雇员创收是 Meta 和谷歌的 2 至 4 倍 8. iPhone Duo 黄牛溢价已有回落，经销商预计现货并不如想象稀缺 9. OpenAI 再度挖角 SpaceX AI 领域核心销售负责人 10. DeepMind 新 AI 成果登 Science 解出悬 56 年等多道数学难题 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "52347176714948614",

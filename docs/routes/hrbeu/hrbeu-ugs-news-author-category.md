@@ -408,8 +408,8 @@ category 列表：
   "topFeeds": [
     {
       "description": "哈尔滨工程大学本科生院工作通知 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-18T16:06:42.966Z",
+      "errorMessage": "[GET] \"http://ugs.hrbeu.edu.cn/jwc/list.htm\": 522 <none>\n",
       "id": "82712133983555608",
       "image": null,
       "ownerUserId": null,

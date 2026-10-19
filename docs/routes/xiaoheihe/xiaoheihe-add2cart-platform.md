@@ -66,7 +66,7 @@ _None_
     {
       "description": "小黑盒 EPIC 喜加一 - Powered by RSSHub",
       "errorAt": "2024-12-24T07:42:30.812Z",
-      "errorMessage": "522 \nXiaoheihe did not return a public free-game list. Please retry later or check whether the source is available.\n",
+      "errorMessage": "Authentication failed. Access denied.\n/xiaoheihe/add2cart/epic\nXiaoheihe did not return a public free-game list. Please retry later or check whether the source is available.\n",
       "id": "58426420603331584",
       "image": null,
       "ownerUserId": null,

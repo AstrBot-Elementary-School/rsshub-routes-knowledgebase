@@ -55,7 +55,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 57,
+  "heat": 56,
   "location": "news.ts",
   "maintainers": [
     "vzz64"
@@ -81,7 +81,7 @@
     {
       "description": "动画情报-动漫之家新闻站 - Powered by RSSHub",
       "errorAt": "2025-06-07T18:19:07.444Z",
-      "errorMessage": "[GET] \"https://news.dmzj.com/donghuaqingbao\": 530 <none>\n",
+      "errorMessage": "503 \n[GET] \"https://news.dmzj.com/donghuaqingbao\": 530 <none>\n",
       "id": "61406402714086400",
       "image": null,
       "ownerUserId": null,

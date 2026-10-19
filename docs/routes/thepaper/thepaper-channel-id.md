@@ -82,8 +82,8 @@ _None_
   "topFeeds": [
     {
       "description": "澎湃新闻频道 - 科技 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-18T15:23:01.510Z",
+      "errorMessage": "[GET] \"https://m.thepaper.cn/channel/119908\": <no response> fetch failed (Connect Timeout Error (attempted address: 100.110.64.78:7890, timeout: 10000ms))\ncheerio.load() expects a string\nFailed to fetch\n",
       "id": "42176727615320069",
       "image": "https://m.thepaper.cn/_next/static/media/logo.8d76cf45.png",
       "ownerUserId": null,
@@ -94,8 +94,8 @@ _None_
     },
     {
       "description": "澎湃新闻频道 - 时事 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-18T14:53:03.178Z",
+      "errorMessage": "cheerio.load() expects a string\n503 \n",
       "id": "63980505820024832",
       "image": "https://m.thepaper.cn/_next/static/media/logo.8d76cf45.png",
       "ownerUserId": null,

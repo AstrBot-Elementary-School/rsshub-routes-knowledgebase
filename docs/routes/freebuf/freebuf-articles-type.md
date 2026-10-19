@@ -94,8 +94,8 @@ Freebuf 的文章页面带有反爬虫机制，所以目前无法获取文章的
     },
     {
       "description": "Freebuf web - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-18T14:29:40.785Z",
+      "errorMessage": "Failed to fetch\nFreeBuf returned HTTP 405 without the arg1 required by its supported WAF challenge. The public category API is currently unavailable from this RSSHub instance.\n",
       "id": "52357479513292810",
       "image": null,
       "ownerUserId": null,

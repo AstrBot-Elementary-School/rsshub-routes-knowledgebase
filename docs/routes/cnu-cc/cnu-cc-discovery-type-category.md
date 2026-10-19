@@ -57,8 +57,8 @@ _None_
   "topFeeds": [
     {
       "description": "CNU视觉联盟 - 热门 - Powered by RSSHub",
-      "errorAt": "2026-10-17T15:46:07.052Z",
-      "errorMessage": "[GET] \"http://www.cnu.cc/discoveryPage/hot-0\": 530 <none>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "1259811719316635648",
       "image": null,
       "ownerUserId": null,

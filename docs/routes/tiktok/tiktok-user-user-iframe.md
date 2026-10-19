@@ -93,7 +93,7 @@ _None_
       "errorAt": null,
       "errorMessage": null,
       "id": "1294380702568939520",
-      "image": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-avt-0068-euttp/f449f1f942e44275d2cada2db3b64236~tplv-tiktokx-cropcenter:100:100.jpeg?dr=10399&refresh_token=2fd52dfa&x-expires=1792418400&x-signature=LdbmhcDV3psPjguakFPgtG8plPI%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=no1a",
+      "image": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-avt-0068-euttp/f449f1f942e44275d2cada2db3b64236~tplv-tiktokx-cropcenter:100:100.jpeg?dr=10399&refresh_token=ad71efac&x-expires=1792447200&x-signature=nJyq3SX96Zy%2FsmjbS8rQO4St3NU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=no1a",
       "ownerUserId": null,
       "siteUrl": "https://www.tiktok.com/@frankly_built",
       "title": "frankly_built (@frankly_built) | TikTok",

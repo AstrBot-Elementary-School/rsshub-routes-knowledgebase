@@ -101,8 +101,8 @@
   "topFeeds": [
     {
       "description": "热点 - 珠海网 - Powered by RSSHub",
-      "errorAt": "2026-10-17T05:07:27.899Z",
-      "errorMessage": "[GET] \"https://pub-zhtb.hizh.cn/a/202610/17/AP6ad37aa0e4b0b2cba2a3c330.json\": 522 <none>\n",
+      "errorAt": "2026-10-18T16:21:52.315Z",
+      "errorMessage": "[GET] \"https://www.hizh.cn/channels/zjyapp/columns/5dd92265e4b0bf88dd8c1175/stories.json\": 522 <none>\n",
       "id": "76267574626993152",
       "image": null,
       "ownerUserId": null,
@@ -113,8 +113,8 @@
     },
     {
       "description": "香洲 - 珠海网 - Powered by RSSHub",
-      "errorAt": "2026-10-17T06:41:40.435Z",
-      "errorMessage": "[GET] \"https://www.hizh.cn/channels/zjyapp/columns/5f86a3f5e4b09d75f99dde7d/stories.json\": 522 <none>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "114507281667054592",
       "image": null,
       "ownerUserId": null,

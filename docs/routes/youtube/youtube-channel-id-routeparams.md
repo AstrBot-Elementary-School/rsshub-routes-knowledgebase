@@ -110,8 +110,8 @@ YouTube provides official RSS feeds for channels, for instance <https://www.yout
     },
     {
       "description": "Hello, I'm Johnny, a passionate backpacker currently based in Africa. My journey has taken me to 39 countries worldwide, including 23 in Africa. My dream is ... - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-18T14:52:36.329Z",
+      "errorMessage": "Request to https://www.youtube.com/youtubei/v1/browse?prettyPrint=false&alt=json failed with status code 403\n",
       "id": "62110731608091648",
       "image": "https://yt3.googleusercontent.com/ytc/AIdro_nLxOCT7qrhIe50CgsatjLIkcALBlBA5b6phRdsYEH9MA=s900-c-k-c0x00ffffff-no-rj",
       "ownerUserId": null,

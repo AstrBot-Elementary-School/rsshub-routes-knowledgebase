@@ -77,8 +77,8 @@ _None_
     },
     {
       "description": "豆瓣同城-热门活动-118282 - Powered by RSSHub",
-      "errorAt": "2026-10-17T12:21:35.021Z",
-      "errorMessage": "503 \n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "61291444349201415",
       "image": null,
       "ownerUserId": null,

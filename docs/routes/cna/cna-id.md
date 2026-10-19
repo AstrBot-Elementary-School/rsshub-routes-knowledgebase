@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 461,
+  "heat": 462,
   "location": "index.ts",
   "maintainers": [
     "nczitzk"
@@ -67,18 +67,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "中央社即時報導國際、財經、科技、醫藥、生活、運動、教育、政治、影劇、社會、地方即時新聞，提供Facebook、Google+社群討論、分享功能。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "61601757267858432",
-      "image": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg",
-      "ownerUserId": null,
-      "siteUrl": "https://www.cna.com.tw/list/aall.aspx",
-      "title": "即時 | 中央社 CNA",
-      "type": "feed",
-      "url": "rsshub://cna/aall"
-    },
-    {
       "description": "想掌握中國大陸、香港、澳門即時消息，兩岸交流現況與習近平政府最新動態，反壟斷與港區國安法等重要議題，鎖定中央社兩岸新聞，掌握兩岸新趨勢。 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -89,6 +77,18 @@ _None_
       "title": "兩岸 | 中央社 CNA",
       "type": "feed",
       "url": "rsshub://cna/acn"
+    },
+    {
+      "description": "中央社即時報導國際、財經、科技、醫藥、生活、運動、教育、政治、影劇、社會、地方即時新聞，提供Facebook、Google+社群討論、分享功能。 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "61601757267858432",
+      "image": "https://imgcdn.cna.com.tw/www/images/pic_fb.jpg",
+      "ownerUserId": null,
+      "siteUrl": "https://www.cna.com.tw/list/aall.aspx",
+      "title": "即時 | 中央社 CNA",
+      "type": "feed",
+      "url": "rsshub://cna/aall"
     }
   ]
 }

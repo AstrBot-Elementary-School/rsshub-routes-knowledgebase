@@ -120,8 +120,8 @@
     },
     {
       "description": "The Straits Times - SINGAPORE - Powered by RSSHub",
-      "errorAt": "2026-10-17T15:46:15.784Z",
-      "errorMessage": "No readable article content is available at https://www.straitstimes.com/singapore/haze-in-singapore-before-and-after-photos\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "76598839880708096",
       "image": null,
       "ownerUserId": null,

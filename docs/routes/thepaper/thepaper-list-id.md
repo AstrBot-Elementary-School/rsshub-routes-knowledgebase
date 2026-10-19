@@ -148,7 +148,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 441,
+  "heat": 442,
   "location": "list.ts",
   "maintainers": [
     "nczitzk",
@@ -165,8 +165,8 @@ _None_
   "topFeeds": [
     {
       "description": "澎湃新闻栏目 - 思想市场 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-18T16:37:53.553Z",
+      "errorMessage": "[GET] \"https://m.thepaper.cn/detail/34248706\": 403 Forbidden\nFailed to fetch\n",
       "id": "57799650925552640",
       "image": "https://image.thepaper.cn/depository/image/4/158/104.png",
       "ownerUserId": null,

@@ -42,7 +42,7 @@ _None_
     "antiCrawler": true,
     "nsfw": true
   },
-  "heat": 2,
+  "heat": 3,
   "location": "index.ts",
   "maintainers": [
     "hoilc"

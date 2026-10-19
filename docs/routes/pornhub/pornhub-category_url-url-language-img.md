@@ -60,7 +60,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 132,
+  "heat": 256,
   "location": "category-url.ts",
   "maintainers": [
     "I2IMk",
@@ -79,21 +79,9 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Watch the Hottest Pornstars And Porn Movies | PornHub - Powered by RSSHub",
-      "errorAt": "2026-10-01T07:40:40.329Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
-      "id": "73689953585256448",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.pornhub.com/video?o=ht",
-      "title": "Watch the Hottest Pornstars And Porn Movies | PornHub",
-      "type": "feed",
-      "url": "rsshub://pornhub/category_url/video%3Fo%3Dht"
-    },
-    {
       "description": "Anal Creampie: Free Teen Creampies Videos | Pornhub - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-18T01:06:02.911Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "58588081077915648",
       "image": null,
       "ownerUserId": null,
@@ -101,6 +89,18 @@ _None_
       "title": "Anal Creampie: Free Teen Creampies Videos | Pornhub",
       "type": "feed",
       "url": "rsshub://pornhub/category_url/video%3Fc%3D15%26o%3Dmv%26t%3Dw%26cc%3Djp"
+    },
+    {
+      "description": "Free XXX Porn Videos: Hardcore Adult Sex Movies, Porno Hub Tube - Powered by RSSHub",
+      "errorAt": "2026-10-18T14:01:12.347Z",
+      "errorMessage": "[GET] \"https://www.pornhub.com/video\": 403 Forbidden\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "id": "149468002441700352",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.pornhub.com/video",
+      "title": "Free XXX Porn Videos: Hardcore Adult Sex Movies, Porno Hub Tube",
+      "type": "feed",
+      "url": "rsshub://pornhub/category_url"
     }
   ]
 }

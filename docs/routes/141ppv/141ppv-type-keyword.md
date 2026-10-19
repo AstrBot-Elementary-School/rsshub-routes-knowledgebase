@@ -105,7 +105,7 @@ _None_
     {
       "description": "141PPV - Popular (30 days) - Powered by RSSHub",
       "errorAt": "2026-09-30T12:51:30.633Z",
-      "errorMessage": "[GET] \"https://www.141ppv.com/popular/30\": 522 \n[GET] \"https://www.141ppv.com/popular/30\": 522 <none>\n[GET] \"https://www.141ppv.com/popular/30\": <no response> fetch failed (read ECONNRESET)\n[GET] \"https://www.141ppv.com/popular/30\": 403 Forbidden\n",
+      "errorMessage": "Failed to fetch\n[GET] \"https://www.141ppv.com/popular/30\": 522 <none>\n[GET] \"https://www.141ppv.com/popular/30\": <no response> fetch failed (read ECONNRESET)\n[GET] \"https://www.141ppv.com/popular/30\": 403 Forbidden\n",
       "id": "56440582049846272",
       "image": null,
       "ownerUserId": null,

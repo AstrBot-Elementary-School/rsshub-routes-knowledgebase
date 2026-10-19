@@ -68,7 +68,7 @@ _None_
     {
       "description": "Post Archive - AtCoder - Powered by RSSHub",
       "errorAt": "2026-10-17T06:51:55.825Z",
-      "errorMessage": "502 \n[GET] \"https://atcoder.jp/posts?lang=en\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://atcoder.jp/posts?lang=en\": 403 Forbidden\n",
       "id": "66281194474129408",
       "image": null,
       "ownerUserId": null,

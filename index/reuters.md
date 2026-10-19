@@ -6,7 +6,7 @@
 - URL: `reuters.com`
 - Language: `_None_`
 - Aliases: `reuters, reuters.com`
-- Route Count: `2`
+- Route Count: `3`
 
 ## Routes
 
@@ -25,3 +25,11 @@
 - File Name: `reuters-investigates.md`
 - Categories: `traditional-media`
 - Maintainers: `LyleLee`
+
+### My News
+- Route ID: `reuters:/reuters/my-news`
+- Route Path: `/reuters/my-news`
+- File: `docs/routes/reuters/reuters-my-news.md`
+- File Name: `reuters-my-news.md`
+- Categories: `traditional-media`
+- Maintainers: `dzx-dzx`

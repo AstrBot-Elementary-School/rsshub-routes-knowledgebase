@@ -47,7 +47,7 @@ _None_
   ],
   "description": "| language | Description |\n| -------- | ----------- |\n| zh       | 中文        |\n| en       | English     |\n| es       | Español     |\n| pt       | Português   |\n| jp       | 日本語      |\n| ru       | Русский     |\n| ar       | العربية     |",
   "example": "/spglobal/ratings/en",
-  "heat": 115,
+  "heat": 114,
   "location": "ratings.ts",
   "maintainers": [
     "Cedaric"
@@ -115,8 +115,8 @@ _None_
     },
     {
       "description": "S&P Global Ratings(en) - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-17T19:46:21.150Z",
+      "errorMessage": "[GET] \"https://www.spglobal.com/ratings/en/\": 403 Forbidden\n",
       "id": "150939418810558464",
       "image": null,
       "ownerUserId": null,

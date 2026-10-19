@@ -135,13 +135,13 @@ _None_
       "description": "朝日新聞社のニュースサイト、朝日新聞デジタルの社会ニュースについてのページです - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1310846439303020544",
+      "id": "1331288819751583744",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.asahi.com/international",
-      "title": "国際ニュース：朝日新聞",
+      "siteUrl": "https://www.asahi.com/international/list/asia.html",
+      "title": "アジア・太平洋 - 国際：朝日新聞",
       "type": "feed",
-      "url": "rsshub://asahi/international"
+      "url": "rsshub://asahi/international/asia"
     }
   ]
 }

@@ -57,6 +57,19 @@ _None_
       "target": "/finance/hk/:topic"
     }
   ],
-  "topFeeds": []
+  "topFeeds": [
+    {
+      "description": "「最新新聞」新聞 - Yahoo 財經 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "1333476649416392704",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://hk.finance.yahoo.com/topic/latest-news/",
+      "title": "「最新新聞」新聞 - Yahoo 財經",
+      "type": "feed",
+      "url": "rsshub://yahoo/finance/hk"
+    }
+  ]
 }
 ```

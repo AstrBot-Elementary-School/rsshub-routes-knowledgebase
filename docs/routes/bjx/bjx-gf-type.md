@@ -72,7 +72,7 @@ _None_
     {
       "description": "北极星太阳能光大网要闻 - Powered by RSSHub",
       "errorAt": "2026-03-24T09:51:13.872Z",
-      "errorMessage": "503 \n",
+      "errorMessage": "Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('.cc-list-content li') to be visible\n\n",
       "id": "62791268472274944",
       "image": null,
       "ownerUserId": null,

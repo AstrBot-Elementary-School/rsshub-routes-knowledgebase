@@ -48,7 +48,7 @@ _None_
       }
     ]
   },
-  "heat": 381,
+  "heat": 382,
   "location": "tieba/forum.ts",
   "maintainers": [
     "u3u",
@@ -77,7 +77,7 @@ _None_
       "url": "rsshub://baidu/tieba/forum/%E5%AD%99%E7%AC%91%E5%B7%9D"
     },
     {
-      "description": "pt吧 - Powered by RSSHub",
+      "description": "本吧热帖: 1-【250927】交易类内容提醒 2-【250628】【第六版】百度PT吧吧规 3-【百度PT吧黑名单！】 4-【261018】发老师5个 5-【250525】求助帖水楼 6-【261016】蒸3个馒头 7-【261017】发 2 个馒头 8-【20261016】馒头怎么了？打不开了？ 9-【261016】pt该怎么自动化 10-【20261017】agsv突然显示账号不存在？ - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "65268258673897472",

@@ -62,7 +62,7 @@ _None_
     {
       "description": "36氪 - 最新资讯频道 - Powered by RSSHub",
       "errorAt": "2026-08-06T00:32:51.823Z",
-      "errorMessage": "Cannot read properties of null (reading '1')\nCannot read properties of null (reading '1')\nCannot read properties of null (reading '1')\n36kr page does not contain initial state. The source may be serving an anti-bot challenge.\n",
+      "errorMessage": "Cannot read properties of null (reading '1')\nCannot read properties of null (reading '1')\n36kr page does not contain initial state. The source may be serving an anti-bot challenge.\n",
       "id": "66129443815812096",
       "image": null,
       "ownerUserId": null,

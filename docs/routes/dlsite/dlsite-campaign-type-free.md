@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 404,
+  "heat": 403,
   "location": "campaign.ts",
   "maintainers": [
     "cssxsh"

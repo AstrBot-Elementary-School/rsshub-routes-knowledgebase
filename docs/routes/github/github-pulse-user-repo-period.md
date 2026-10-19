@@ -91,16 +91,16 @@ _None_
       "url": "rsshub://github/pulse/massCodeIO/massCode"
     },
     {
-      "description": "wood3n/biu weekly Pulse - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "215344700650354688",
+      "description": null,
+      "errorAt": "2025-12-08T08:14:07.373Z",
+      "errorMessage": "[GET] \"https://github.com/fun-asr/funasr/pulse/weekly\": 404 Not Found\n[GET] \"https://github.com/fun-asr/funasr/pulse/weekly\": 404 Not Found\n",
+      "id": "220767323256864794",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/wood3n/biu/pulse/weekly",
-      "title": "wood3n/biu weekly Pulse",
+      "siteUrl": null,
+      "title": "Importing",
       "type": "feed",
-      "url": "rsshub://github/pulse/wood3n/biu"
+      "url": "rsshub://github/pulse/fun-asr/funasr/weekly"
     }
   ]
 }

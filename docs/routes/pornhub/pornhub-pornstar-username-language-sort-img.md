@@ -114,7 +114,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2676,
+  "heat": 3953,
   "location": "pornstar.ts",
   "maintainers": [
     "I2IMk",
@@ -297,7 +297,7 @@ _None_
     {
       "description": "About Get all my videos on https://onlyfans.com/juneliu ❤️ or on Spicy-Gum.com - Powered by RSSHub",
       "errorAt": "2026-10-13T10:51:08.777Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "Authentication failed. Access denied.\n/pornhub/pornstar/june-liu\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "60754322953807872",
       "image": "https://ei.phncdn.com/(m=bLWsSeKlbyaT)(mh=pKI7W133KHu0uEPf)5dbc36b7-71ee-42c2-b5bb-1a51c7e2f8cc.jpg",
       "ownerUserId": null,
@@ -307,16 +307,16 @@ _None_
       "url": "rsshub://pornhub/pornstar/june-liu"
     },
     {
-      "description": "About Hi, I'm a Korean girl! 23 years old - Powered by RSSHub",
-      "errorAt": "2026-10-16T11:41:05.857Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
-      "id": "62534515745689600",
-      "image": "https://ei.phncdn.com/(m=bLWsSeKlbyaT)(mh=URsNE9MitabJ-6Qp)aa0291a2-3441-4a60-8cb0-029dd2f53c6c.jpg",
+      "description": "About Elfieverse is out now! Go talk to me and see how far you can get. - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "60908916797167616",
+      "image": "https://ei.phncdn.com/pics/users/683/394/291/avatar1551823518/(m=ewILGCjadOf)(mh=uboK_cDkUfwM9mYu)200x200.jpg",
       "ownerUserId": null,
-      "siteUrl": "https://www.pornhub.com/pornstar/elle-lee/videos?o=mr",
-      "title": "Elle Lee",
+      "siteUrl": "https://www.pornhub.com/pornstar/eva-elfie/videos?o=mr",
+      "title": "Eva Elfie",
       "type": "feed",
-      "url": "rsshub://pornhub/pornstar/elle-lee"
+      "url": "rsshub://pornhub/pornstar/eva-elfie"
     }
   ],
   "view": 3

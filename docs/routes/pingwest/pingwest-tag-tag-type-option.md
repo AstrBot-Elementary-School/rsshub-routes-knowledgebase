@@ -82,18 +82,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "品玩 - ChinaJoy - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "69704836086005760",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.pingwest.com/tag/ChinaJoy",
-      "title": "品玩 - ChinaJoy",
-      "type": "feed",
-      "url": "rsshub://pingwest/tag/ChinaJoy/1"
-    },
-    {
       "description": "品玩 - AIGC - Powered by RSSHub",
       "errorAt": "2026-05-25T10:17:17.755Z",
       "errorMessage": "[GET] \"https://www.pingwest.com/api/tag_article_list?id=20327&type=0\": 405 Not Allowed\n",
@@ -104,6 +92,18 @@ _None_
       "title": "品玩 - AIGC",
       "type": "feed",
       "url": "rsshub://pingwest/tag/20327/1/fulltext"
+    },
+    {
+      "description": "品玩 - App - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "121129481487078400",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.pingwest.com/tag/349",
+      "title": "品玩 - App",
+      "type": "feed",
+      "url": "rsshub://pingwest/tag/349/1"
     }
   ]
 }

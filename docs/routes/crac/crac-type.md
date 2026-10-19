@@ -92,8 +92,8 @@
     },
     {
       "description": "中国无线电协会业余无线电分会 - CRAC - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-18T08:46:27.578Z",
+      "errorMessage": "[GET] \"https://www.crac.org.cn?rest_route=%2Fwp%2Fv2%2Fposts&per_page=10&_embed=true&categories=5\": 522 <none>\n",
       "id": "83759460466149376",
       "image": null,
       "ownerUserId": null,

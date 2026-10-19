@@ -136,16 +136,16 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "GitHub events received by lsy223622 - includes private events - Powered by RSSHub",
+      "description": "GitHub events received by vancaem (filtered: star) - includes private events - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "171233521959285760",
+      "id": "198776976440163328",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/lsy223622",
-      "title": "lsy223622's GitHub Private Feed - All Events",
+      "siteUrl": "https://github.com/vancaem",
+      "title": "vancaem's GitHub Private Feed - Events: star",
       "type": "feed",
-      "url": "rsshub://github/feed/lsy223622/all"
+      "url": "rsshub://github/feed/vancaem/star"
     },
     {
       "description": "GitHub events received by ardubev16 - includes private events - Powered by RSSHub",

@@ -58,7 +58,7 @@
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 183,
+  "heat": 182,
   "location": "news.ts",
   "maintainers": [
     "Fatpandac"
@@ -96,8 +96,8 @@
     },
     {
       "description": "电动邦 - 新车 - Powered by RSSHub",
-      "errorAt": "2026-10-17T14:31:18.205Z",
-      "errorMessage": "[GET] \"https://www.diandong.com/news/167901.html\": 500 Internal Server Error\n[GET] \"https://www.diandong.com/news/167902.html\": 500 Internal Server Error\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "74064527242090496",
       "image": null,
       "ownerUserId": null,

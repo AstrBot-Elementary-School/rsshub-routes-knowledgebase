@@ -64,6 +64,18 @@ _None_
   },
   "topFeeds": [
     {
+      "description": "ZAKER新闻 - Powered by RSSHub",
+      "errorAt": "2026-10-17T19:41:07.265Z",
+      "errorMessage": "[GET] \"https://www.myzaker.com/channel/660\": 522 <none>\n",
+      "id": "109858197894680576",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.myzaker.com/channel/660",
+      "title": "ZAKER新闻",
+      "type": "feed",
+      "url": "rsshub://zaker/channel/660"
+    },
+    {
       "description": "科技 - ZAKER新闻 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -74,18 +86,6 @@ _None_
       "title": "科技 - ZAKER新闻",
       "type": "feed",
       "url": "rsshub://zaker/channel/13"
-    },
-    {
-      "description": "ZAKER新闻 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "109858197894680576",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.myzaker.com/channel/660",
-      "title": "ZAKER新闻",
-      "type": "feed",
-      "url": "rsshub://zaker/channel/660"
     }
   ]
 }

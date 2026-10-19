@@ -75,7 +75,7 @@ _None_
     {
       "description": "China - Powered by RSSHub",
       "errorAt": "2025-09-05T17:22:28.529Z",
-      "errorMessage": "[GET] \"https://www.economist.com/china/2026/10/15/china-is-channelling-much-more-money-to-poor-countries\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.economist.com/china/2026/10/15/china-has-captured-the-market-for-hobbyist-3d-printers\": 403 Forbidden\n",
       "id": "41461870197170199",
       "image": null,
       "ownerUserId": null,
@@ -87,7 +87,7 @@ _None_
     {
       "description": "The most recent blogs and online articles from The Economist - Powered by RSSHub",
       "errorAt": "2025-09-05T18:15:19.885Z",
-      "errorMessage": "[GET] \"https://www.economist.com/interactive/the-americas/2026/10/16/archive-cuba/part-3\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://www.economist.com/science-and-technology/2026/10/16/can-joggers-outrun-injury\": 403 Forbidden\n",
       "id": "54859243036899328",
       "image": null,
       "ownerUserId": null,

@@ -51,28 +51,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "Dylan出品 商铺上新 - Powered by RSSHub",
+      "description": "阿寇工作室 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264523928189927424",
+      "id": "1264525081824854016",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1649084157",
-      "title": "Dylan出品 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1727854294",
+      "title": "阿寇工作室 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1649084157"
+      "url": "rsshub://weidian/goods/1727854294"
     },
     {
-      "description": "A1 商铺上新 - Powered by RSSHub",
+      "description": "热火潮天灭世纵横（新店） 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264523929263669248",
+      "id": "1264525711138226176",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1624885820",
-      "title": "A1 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1778315872",
+      "title": "热火潮天灭世纵横（新店） 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1624885820"
+      "url": "rsshub://weidian/goods/1778315872"
     }
   ]
 }

@@ -69,7 +69,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 3003,
+  "heat": 3001,
   "location": "blog.ts",
   "maintainers": [
     "nczitzk"

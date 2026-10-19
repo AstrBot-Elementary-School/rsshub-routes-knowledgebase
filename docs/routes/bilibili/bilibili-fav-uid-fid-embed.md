@@ -68,16 +68,16 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "口口相传茶业有限公司 的 bilibili 收藏夹 茶茶严选 - Powered by RSSHub",
+      "description": "观海聽风声 的 bilibili 收藏夹 账号已注销 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "156044018312693760",
+      "id": "95590701963720704",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://space.bilibili.com/397567956/#/favlist?fid=3468713856",
-      "title": "口口相传茶业有限公司 的 bilibili 收藏夹 茶茶严选",
+      "siteUrl": "https://space.bilibili.com/546711979/#/favlist?fid=3207327118",
+      "title": "观海聽风声 的 bilibili 收藏夹 账号已注销",
       "type": "feed",
-      "url": "rsshub://bilibili/fav/397567956/3468713856"
+      "url": "rsshub://bilibili/fav/546711979/3207327118"
     },
     {
       "description": "观海聽风声 的 bilibili 收藏夹 二次元 - Powered by RSSHub",

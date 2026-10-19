@@ -6992,6 +6992,12 @@ Use this file to select the target namespace before opening route documents.
 - Route Count: `1`
 - Index File: `index/lovelive-anime.md`
 
+## LowEndTalk
+- Namespace: `lowendtalk`
+- Aliases: `lowendtalk, lowendtalk.com`
+- Route Count: `2`
+- Index File: `index/lowendtalk.md`
+
 ## REPACK скачать
 - Namespace: `lrepacks`
 - Aliases: `lrepacks, lrepacks.net, repack скачать`
@@ -9209,7 +9215,7 @@ Use this file to select the target namespace before opening route documents.
 ## Reuters
 - Namespace: `reuters`
 - Aliases: `reuters, reuters.com`
-- Route Count: `2`
+- Route Count: `3`
 - Index File: `index/reuters.md`
 
 ## Radio Free Asia (RFA) 自由亚洲电台

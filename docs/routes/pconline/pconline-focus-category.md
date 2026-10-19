@@ -88,8 +88,8 @@
   "topFeeds": [
     {
       "description": "太平洋科技-全部 - Powered by RSSHub",
-      "errorAt": "2026-10-16T22:01:53.509Z",
-      "errorMessage": "[GET] \"https://www.pconline.com.cn/3g/other/focus/index.html\": 530 <none>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "59139256789618688",
       "image": null,
       "ownerUserId": null,
@@ -100,8 +100,8 @@
     },
     {
       "description": "太平洋科技-全部 - Powered by RSSHub",
-      "errorAt": "2026-10-16T22:28:54.676Z",
-      "errorMessage": "[GET] \"https:\": <no response> Failed to parse URL from https:\n[GET] \"https:\": <no response> Invalid URL: https:\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "84175249418008576",
       "image": null,
       "ownerUserId": null,
