@@ -78,7 +78,7 @@ _None_
     {
       "description": "靠谱新闻 - Powered by RSSHub",
       "errorAt": "2026-06-23T21:46:42.338Z",
-      "errorMessage": "[GET] \"https://kaopustorage.blob.core.windows.net/jsondata/news_list_beta_hans_0.json\": 530 <none>\n",
+      "errorMessage": "[GET] \"https://kaopustorage.blob.core.windows.net/jsondata/news_list_beta_hans_0.json\": 409 Conflict\n",
       "id": "70765921687286784",
       "image": null,
       "ownerUserId": null,

@@ -93,7 +93,7 @@ _None_
       "id": "54807548014042128",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.ycwb.com/",
+      "siteUrl": "https://news.ycwb.com/n_bd_gz.htm",
       "title": "羊城晚报金羊网 - 广州要闻",
       "type": "feed",
       "url": "rsshub://ycwb/5261"

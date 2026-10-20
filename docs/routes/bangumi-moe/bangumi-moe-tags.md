@@ -41,7 +41,7 @@ _None_
   "features": {
     "supportBT": true
   },
-  "heat": 0,
+  "heat": 9,
   "location": "index.ts",
   "maintainers": [
     "nczitzk"
@@ -61,7 +61,20 @@ _None_
   "test": {
     "code": 0
   },
-  "topFeeds": [],
+  "topFeeds": [
+    {
+      "description": "萌番组 Bangumi Moe - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "94265600487790592",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://bangumi.moe/",
+      "title": "萌番组 Bangumi Moe",
+      "type": "feed",
+      "url": "rsshub://bangumi.moe"
+    }
+  ],
   "url": "bangumi.moe/"
 }
 ```

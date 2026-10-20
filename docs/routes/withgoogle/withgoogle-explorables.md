@@ -59,14 +59,14 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "PAIR - AI Exploreables - Powered by RSSHub",
+      "description": "PAIR - AI Explorables - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "59548075043200000",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "https://pair.withgoogle.com/explorables",
-      "title": "PAIR - AI Exploreables",
+      "title": "PAIR - AI Explorables",
       "type": "feed",
       "url": "rsshub://withgoogle/explorables"
     }

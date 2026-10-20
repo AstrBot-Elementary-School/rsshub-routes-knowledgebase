@@ -65,7 +65,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 5600,
+  "heat": 5599,
   "location": "index.ts",
   "maintainers": [
     "bigfei"

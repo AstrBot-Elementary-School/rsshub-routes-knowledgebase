@@ -89,7 +89,7 @@
       "id": "59881623643134976",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://api-takumi-static.mihoyo.com/content_v2_user/app/1963de8dc19e461c/getContentList?iPage=1&iPageSize=50&sLangKey=zh-cn&isPreview=0&iChanId=255",
+      "siteUrl": "https://sr.mihoyo.com/news",
       "title": "最新-崩坏：星穹铁道",
       "type": "feed",
       "url": "rsshub://mihoyo/sr"
@@ -101,7 +101,7 @@
       "id": "60890429356326912",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://api-takumi-static.mihoyo.com/content_v2_user/app/1963de8dc19e461c/getContentList?iPage=1&iPageSize=50&sLangKey=zh-cn&isPreview=0&iChanId=257",
+      "siteUrl": "https://sr.mihoyo.com/news",
       "title": "公告-崩坏：星穹铁道",
       "type": "feed",
       "url": "rsshub://mihoyo/sr/zh-cn/notice"

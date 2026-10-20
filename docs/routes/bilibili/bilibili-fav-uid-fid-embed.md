@@ -68,16 +68,16 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "观海聽风声 的 bilibili 收藏夹 账号已注销 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "95590701963720704",
+      "description": "轻声惆怅 的 bilibili 收藏夹 剧情合集 - Powered by RSSHub",
+      "errorAt": "2026-09-07T17:02:19.801Z",
+      "errorMessage": "[GET] \"https://api.bilibili.com/x/v3/fav/resource/list?media_id=3604184927&ps=20\": 412 Precondition Failed\n",
+      "id": "170412661881765888",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://space.bilibili.com/546711979/#/favlist?fid=3207327118",
-      "title": "观海聽风声 的 bilibili 收藏夹 账号已注销",
+      "siteUrl": "https://space.bilibili.com/3546765649250827/#/favlist?fid=3604184927",
+      "title": "轻声惆怅 的 bilibili 收藏夹 剧情合集",
       "type": "feed",
-      "url": "rsshub://bilibili/fav/546711979/3207327118"
+      "url": "rsshub://bilibili/fav/3546765649250827/3604184927"
     },
     {
       "description": "观海聽风声 的 bilibili 收藏夹 二次元 - Powered by RSSHub",

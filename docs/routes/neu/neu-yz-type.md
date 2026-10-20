@@ -83,18 +83,6 @@
   },
   "topFeeds": [
     {
-      "description": "硕士简章 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "173456843055462400",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "http://yz.neu.edu.cn/",
-      "title": "硕士简章-东北大学研究生招生信息网",
-      "type": "feed",
-      "url": "rsshub://neu/yz/master2"
-    },
-    {
       "description": "博士公告 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -105,6 +93,18 @@
       "title": "博士公告-东北大学研究生招生信息网",
       "type": "feed",
       "url": "rsshub://neu/yz/phd1"
+    },
+    {
+      "description": "博士简章 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "177286544922054656",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "http://yz.neu.edu.cn/",
+      "title": "博士简章-东北大学研究生招生信息网",
+      "type": "feed",
+      "url": "rsshub://neu/yz/phd2"
     }
   ],
   "url": "yz.neu.edu.cn"

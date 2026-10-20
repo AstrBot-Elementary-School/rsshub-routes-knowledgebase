@@ -197,7 +197,7 @@ _None_
       "id": "58385313249043456",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "http://i.jandan.net/pic",
+      "siteUrl": "https://i.jandan.net/pic",
       "title": "无聊图 - 蛋友贴图专版",
       "type": "feed",
       "url": "rsshub://jandan/pic"
@@ -209,7 +209,7 @@ _None_
       "id": "42107730549411843",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "http://i.jandan.net/top",
+      "siteUrl": "https://i.jandan.net/top",
       "title": "热榜 - 4小时热门",
       "type": "feed",
       "url": "rsshub://jandan/top"

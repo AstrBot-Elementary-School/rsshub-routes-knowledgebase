@@ -39,7 +39,7 @@ _None_
     "other"
   ],
   "example": "/zaker/focusread",
-  "heat": 297,
+  "heat": 296,
   "location": "focus.ts",
   "maintainers": [
     "AlexdanerZe",
@@ -61,8 +61,8 @@ _None_
   "topFeeds": [
     {
       "description": "ZAKER 精读新闻 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-19T10:02:29.124Z",
+      "errorMessage": "[GET] \"https://www.myzaker.com/?pos=selected_article\": 403 Forbidden\n[GET] \"https://www.myzaker.com/article/6acf02c98e9f091d49746ebc\": 429 Too Many Requests\n",
       "id": "54945423974379534",
       "image": null,
       "ownerUserId": null,

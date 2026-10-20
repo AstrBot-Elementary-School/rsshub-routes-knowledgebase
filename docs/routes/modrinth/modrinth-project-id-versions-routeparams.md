@@ -104,18 +104,6 @@
   },
   "topFeeds": [
     {
-      "description": "Library plugin holding common code for Drak's projects for code deduplication purposes. You can use it too! - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "114583216473709568",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://modrinth.com/project/6owv5fWs",
-      "title": "BukkitOfUtils Modrinth versions",
-      "type": "feed",
-      "url": "rsshub://modrinth/project/6owv5fWs/versions"
-    },
-    {
       "description": "Aesthetic Technology that empowers the Player - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -126,6 +114,18 @@
       "title": "Create Modrinth versions",
       "type": "feed",
       "url": "rsshub://modrinth/project/create/versions"
+    },
+    {
+      "description": "A simple teleportation plugin that supports Folia, compatible with Bukkit/Spigot/Paper/Folia. - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "123852542430741504",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://modrinth.com/project/t0Xh802L",
+      "title": "TPA Modrinth versions",
+      "type": "feed",
+      "url": "rsshub://modrinth/project/t0Xh802L/versions"
     }
   ]
 }

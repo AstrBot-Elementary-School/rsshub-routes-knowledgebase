@@ -67,7 +67,7 @@ _None_
       "id": "57427185067195392",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://notion.so/releases",
+      "siteUrl": "https://www.notion.com/releases",
       "title": "Notion Releases",
       "type": "feed",
       "url": "rsshub://notion/release"

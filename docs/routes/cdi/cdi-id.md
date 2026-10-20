@@ -64,16 +64,16 @@ _None_
   "path": "/:id",
   "topFeeds": [
     {
-      "description": "综研视点 - 国家高端智库/综合开发研究院 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "69696786020684800",
+      "description": "综研国策 - 国家高端智库/综合开发研究院 - Powered by RSSHub",
+      "errorAt": "2025-12-25T10:28:48.274Z",
+      "errorMessage": "Available CDI categories: 102, 150, 154.\n",
+      "id": "69696491270238208",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "http://www.cdi.org.cn/Research/zygd/index.html",
-      "title": "综研视点 - 国家高端智库/综合开发研究院",
+      "siteUrl": "http://www.cdi.com.cn/Article/List?ColumnId=152",
+      "title": "综研国策 - 国家高端智库/综合开发研究院",
       "type": "feed",
-      "url": "rsshub://cdi/154"
+      "url": "rsshub://cdi/152"
     },
     {
       "description": "综研观察 - 国家高端智库/综合开发研究院 - Powered by RSSHub",

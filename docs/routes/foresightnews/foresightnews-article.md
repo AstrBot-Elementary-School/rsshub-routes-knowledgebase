@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 169,
+  "heat": 170,
   "location": "article.ts",
   "maintainers": [
     "nczitzk"
@@ -74,7 +74,7 @@ _None_
     {
       "description": "文章 - Foresight News - Powered by RSSHub",
       "errorAt": "2026-08-23T19:06:48.409Z",
-      "errorMessage": "browserType.launch: Executable doesn't exist at /root/.cache/ms-playwright/chromium_headless_shell-1228/chrome-headless-shell-linux64/chrome-headless-shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     npx playwright install                                 ║\n║                                                            ║\n║ <3 Patchright Team                                         ║\n╚════════════════════════════════════════════════════════════╝\n[GET] \"https://api.foresightnews.pro/v1/articles?size=50\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://api.foresightnews.pro/v1/articles?size=50\": 403 Forbidden\nbrowserType.launch: Executable doesn't exist at /root/.cache/ms-playwright/chromium_headless_shell-1228/chrome-headless-shell-linux64/chrome-headless-shell\n╔════════════════════════════════════════════════════════════╗\n║ Looks like Playwright was just installed or updated.       ║\n║ Please run the following command to download new browsers: ║\n║                                                            ║\n║     npx playwright install                                 ║\n║                                                            ║\n║ <3 Patchright Team                                         ║\n╚════════════════════════════════════════════════════════════╝\n",
       "id": "41756159863260160",
       "image": "https://img.foresightnews.pro/vertical_logo.png",
       "ownerUserId": null,

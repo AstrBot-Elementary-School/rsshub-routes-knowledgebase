@@ -150,8 +150,8 @@ _None_
     },
     {
       "description": "bilibili 排行榜-全站 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-19T13:46:58.844Z",
+      "errorMessage": "Remote Playwright WebSocket upgrade failed with HTTP 428\n",
       "id": "79067786101345280",
       "image": null,
       "ownerUserId": null,

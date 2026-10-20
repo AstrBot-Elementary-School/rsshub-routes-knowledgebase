@@ -94,7 +94,7 @@
     {
       "description": "hot video today - 91porn - Powered by RSSHub",
       "errorAt": "2026-09-19T22:02:27.701Z",
-      "errorMessage": "[POST] \"https://91porn.com/index.php\": <no response> fetch failed\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n[POST] \"https://91porn.com/index.php\": <no response> fetch failed\n",
       "id": "155957211745995777",
       "image": null,
       "ownerUserId": null,

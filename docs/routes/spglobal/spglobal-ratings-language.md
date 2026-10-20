@@ -47,7 +47,7 @@ _None_
   ],
   "description": "| language | Description |\n| -------- | ----------- |\n| zh       | 中文        |\n| en       | English     |\n| es       | Español     |\n| pt       | Português   |\n| jp       | 日本語      |\n| ru       | Русский     |\n| ar       | العربية     |",
   "example": "/spglobal/ratings/en",
-  "heat": 114,
+  "heat": 115,
   "location": "ratings.ts",
   "maintainers": [
     "Cedaric"

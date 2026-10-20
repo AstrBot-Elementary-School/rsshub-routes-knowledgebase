@@ -79,28 +79,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "massCodeIO/massCode weekly Pulse - Powered by RSSHub",
+      "description": "haoheliu/AudioLDM weekly Pulse - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "215345311459391488",
+      "id": "220767323256864791",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/massCodeIO/massCode/pulse/weekly",
-      "title": "massCodeIO/massCode weekly Pulse",
+      "siteUrl": "https://github.com/haoheliu/AudioLDM/pulse/weekly",
+      "title": "haoheliu/AudioLDM weekly Pulse",
       "type": "feed",
-      "url": "rsshub://github/pulse/massCodeIO/massCode"
+      "url": "rsshub://github/pulse/haoheliu/AudioLDM/weekly"
     },
     {
-      "description": null,
-      "errorAt": "2025-12-08T08:14:07.373Z",
-      "errorMessage": "[GET] \"https://github.com/fun-asr/funasr/pulse/weekly\": 404 Not Found\n[GET] \"https://github.com/fun-asr/funasr/pulse/weekly\": 404 Not Found\n",
-      "id": "220767323256864794",
+      "description": "openai/whisper weekly Pulse - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "220767323256864796",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": null,
-      "title": "Importing",
+      "siteUrl": "https://github.com/openai/whisper/pulse/weekly",
+      "title": "openai/whisper weekly Pulse",
       "type": "feed",
-      "url": "rsshub://github/pulse/fun-asr/funasr/weekly"
+      "url": "rsshub://github/pulse/openai/whisper/weekly"
     }
   ]
 }

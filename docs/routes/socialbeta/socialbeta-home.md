@@ -36,7 +36,7 @@ _None_
     "new-media"
   ],
   "example": "/socialbeta/home",
-  "heat": 1,
+  "heat": 2,
   "location": "home.ts",
   "maintainers": [
     "nczitzk"

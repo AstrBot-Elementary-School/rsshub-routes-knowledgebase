@@ -20,6 +20,7 @@
 ::: tip
 Due to Telegram restrictions, some channels involving pornography, copyright, and politics cannot be subscribed. You can confirm by visiting `https://t.me/s/:username`, it's recommended to deploy your own instance with telegram api configs (create your telegram application via `https://core.telegram.org/api/obtaining_api_id`, run this command `node ./lib/routes/telegram/scripts/get-telegram-session.mjs` to get `TELEGRAM_SESSION` and set it as Environment Variable).
 MTProto connections can use a SOCKS4/5 `PROXY_URI` (for example, `socks5://127.0.0.1:1080`) or the dedicated `TELEGRAM_PROXY_HOST`, `TELEGRAM_PROXY_PORT`, and `TELEGRAM_PROXY_SECRET` MTProxy settings, which take precedence. HTTP proxies only apply to the public web feed; use a SOCKS or MTProxy endpoint for authenticated MTProto feeds.
+When MTProto fails or gives no response within `REQUEST_TIMEOUT`, the route falls back to the public web feed. Cloudflare Workers deployments always use the public web feed.
 
 When a reverse proxy removes a public URL prefix (for example, `/rss`), set its `X-Forwarded-Prefix` request header to that prefix so Telegram media links include it. Access-control `key` and `code` parameters are preserved in these media links.
 :::
@@ -77,7 +78,7 @@ For backward compatibility reasons, invalid `routeParams` will be treated as `se
     "social-media",
     "popular"
   ],
-  "description": "::: tip\nDue to Telegram restrictions, some channels involving pornography, copyright, and politics cannot be subscribed. You can confirm by visiting `https://t.me/s/:username`, it's recommended to deploy your own instance with telegram api configs (create your telegram application via `https://core.telegram.org/api/obtaining_api_id`, run this command `node ./lib/routes/telegram/scripts/get-telegram-session.mjs` to get `TELEGRAM_SESSION` and set it as Environment Variable).\nMTProto connections can use a SOCKS4/5 `PROXY_URI` (for example, `socks5://127.0.0.1:1080`) or the dedicated `TELEGRAM_PROXY_HOST`, `TELEGRAM_PROXY_PORT`, and `TELEGRAM_PROXY_SECRET` MTProxy settings, which take precedence. HTTP proxies only apply to the public web feed; use a SOCKS or MTProxy endpoint for authenticated MTProto feeds.\n\nWhen a reverse proxy removes a public URL prefix (for example, `/rss`), set its `X-Forwarded-Prefix` request header to that prefix so Telegram media links include it. Access-control `key` and `code` parameters are preserved in these media links.\n:::",
+  "description": "::: tip\nDue to Telegram restrictions, some channels involving pornography, copyright, and politics cannot be subscribed. You can confirm by visiting `https://t.me/s/:username`, it's recommended to deploy your own instance with telegram api configs (create your telegram application via `https://core.telegram.org/api/obtaining_api_id`, run this command `node ./lib/routes/telegram/scripts/get-telegram-session.mjs` to get `TELEGRAM_SESSION` and set it as Environment Variable).\nMTProto connections can use a SOCKS4/5 `PROXY_URI` (for example, `socks5://127.0.0.1:1080`) or the dedicated `TELEGRAM_PROXY_HOST`, `TELEGRAM_PROXY_PORT`, and `TELEGRAM_PROXY_SECRET` MTProxy settings, which take precedence. HTTP proxies only apply to the public web feed; use a SOCKS or MTProxy endpoint for authenticated MTProto feeds.\nWhen MTProto fails or gives no response within `REQUEST_TIMEOUT`, the route falls back to the public web feed. Cloudflare Workers deployments always use the public web feed.\n\nWhen a reverse proxy removes a public URL prefix (for example, `/rss`), set its `X-Forwarded-Prefix` request header to that prefix so Telegram media links include it. Access-control `key` and `code` parameters are preserved in these media links.\n:::",
   "example": "/telegram/channel/awesomeRSSHub",
   "features": {
     "antiCrawler": false,
@@ -123,7 +124,7 @@ For backward compatibility reasons, invalid `routeParams` will be treated as `se
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 314445,
+  "heat": 314561,
   "location": "channel.ts",
   "maintainers": [
     "DIYgod",
@@ -154,7 +155,7 @@ For backward compatibility reasons, invalid `routeParams` will be treated as `se
       "errorAt": null,
       "errorMessage": null,
       "id": "55779617166007296",
-      "image": "https://cdn4.telesco.pe/file/Sba7OQPiFnGe1KUOane1IlcPkwq7C8FL1pwRYP7dNCHHvh2iK_s-WjXwXiaqQSsQvA25U6ojr9Ji3Tj2DW_IorjGJONiGOg7DPDaXovG9USfK-hj143NnVXBr7LEh2CClvrYyE2k8Xya3LlM5u7mxZDYGiD9lMy06rhzZjhonVEpDoOo6rp-zi8w5zITsd7ZOeZDcxd6h4EwXNtXI1cIkCZWUPR5jzGPDRTPUaKKBksE1nbf8PRcvr552XEwD83HUwefONMoAXh-rWMfxJPMOcw7NoA-cBqa_EIJe6f0As4IU4aGETxI8e7VkDJIW9wwfvelwI8_gGM53Q24IfSC6g.jpg",
+      "image": "https://cdn4.telesco.pe/file/i6mBunIA0uHW_W8tFCKNu3WlB7f7De1dloTR_A9LqiV_WtoqRwX_USQ8HdgJQp1Tu48XnZhifq-UFvwxcjnTAgUzclb3RagQrWVaQUsdSDzWjdvBODI-lRcn3IOoum7tZpQm8E9yN_OSgFObnHmF99l4tVahn9wUJts5-HnwFxyLgBLAC5odVr4DeW5IAXp1iAxwCz8Huai_N59Gfg3ZiJNLUjM1n108B7Gm63ASU2eF1l_UiSfjYnLaW072zR9zc2oJv87f6voS5xc9dk1_MUamarYrPctg5rV45GlLfGGSgQWjowq5EcdQVSwgTtdLp4qQMj7AH_VLxArvxJhRhQ.jpg",
       "ownerUserId": null,
       "siteUrl": "https://t.me/s/durov",
       "title": "Pavel Durov - Telegram Channel",
@@ -166,7 +167,7 @@ For backward compatibility reasons, invalid `routeParams` will be treated as `se
       "errorAt": null,
       "errorMessage": null,
       "id": "65367894677815296",
-      "image": "https://cdn5.telesco.pe/file/EuxMRsByZRcluI1QPt2RXbndIRrB3sqrAOs8E_yq1vbMb531MUpShrQ5BMf_MfYihF7kebKP4_vH0svvIDgqY_CIuJtJgO-OiV1-Y16RS2h3oTW_xt9plZGtRMk2-EUPvk_gbUEyHybT3wZz7Ah-YrthFNN8guVzqaaIr95zA_O_hZW0FJIUbKSN3F6Dx6UAUswJBvByEKFpuAJFdDSUKP4LuHUydDDStwulfcZGp00iFIndnvJ2ckq7vYuBY8nZveOCcML_mg5pY7ri9G1RlQ8ueQFUtq6Zeo_nIgjVEOloM2TjclBHo0MisY134nepAHCbmt5c_OzsMXaMrjDa_w.jpg",
+      "image": "https://cdn5.telesco.pe/file/cCePUsERZign1nqdqmrCclZpAHsS4BKqCN7Rku3UfBa6qW1x69YvDrsHlrbPknpaMxsSsoPNlSdxvEXC47ihG0Ww9mIUPUwOXJULhOrmL7LhploJgM2AXcP56Fmp5giY8nA-C2pw0YUUCdXPkSSTzcmrq7tMbSpQotL948qvnGMMkDQZEP5bzbTKacCU_wTzQmkv54zscu3VUK8Fp4IKAX7qzODvx6oTs8LsndSvNEFV-bH8ZkUTC1Co9dL4fuxwyWCH5-KVt7U7ptb2ZQfdZA14WfvQLrBDhEbXCUJ0s82m5QB_DJPqT06rYQFkcKr48QyR2jVZJ1K9e5N6NB9enA.jpg",
       "ownerUserId": "181859263110382592",
       "siteUrl": "https://t.me/s/anranbp",
       "title": "我爱白嫖 - Telegram Channel",

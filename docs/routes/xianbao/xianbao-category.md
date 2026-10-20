@@ -86,7 +86,7 @@
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 447,
+  "heat": 446,
   "location": "index.ts",
   "maintainers": [
     "nashi23"
@@ -121,14 +121,14 @@
       "url": "rsshub://xianbao/zuankeba"
     },
     {
-      "description": "线板酷-最新 - Powered by RSSHub",
+      "description": "线报酷-最新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "57341806801267712",
       "image": null,
       "ownerUserId": null,
       "siteUrl": "http://new.xianbao.fun/",
-      "title": "线板酷-最新",
+      "title": "线报酷-最新",
       "type": "feed",
       "url": "rsshub://xianbao"
     }

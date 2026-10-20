@@ -77,8 +77,8 @@ _None_
     },
     {
       "description": "金灿荣教授 的个人主页 - Powered by RSSHub",
-      "errorAt": "2026-10-18T16:11:36.770Z",
-      "errorMessage": "503 \n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "172228390272024576",
       "image": null,
       "ownerUserId": null,

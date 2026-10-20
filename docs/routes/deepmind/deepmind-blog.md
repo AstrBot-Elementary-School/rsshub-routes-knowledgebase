@@ -93,7 +93,7 @@ _None_
       "id": "42584858677137408",
       "image": "https://assets-global.website-files.com/621d30e84caf0be3291dbf1c/621d336835a91420c6a8dcf2_webclip.png",
       "ownerUserId": null,
-      "siteUrl": "https://deepmind.google/blog//blog",
+      "siteUrl": "https://deepmind.google/blog/",
       "title": "Google DeepMind News",
       "type": "feed",
       "url": "rsshub://deepmind/blog"

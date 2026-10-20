@@ -55,7 +55,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1177,
+  "heat": 1176,
   "location": "latest.ts",
   "maintainers": [
     "nczitzk",
@@ -88,7 +88,7 @@ _None_
       "id": "62722084868717571",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "http://www.chinatax.gov.cn/chinatax/n810341/n810755/index.html",
+      "siteUrl": "https://fgk.chinatax.gov.cn/zcfgk/c100027/list.html",
       "title": "国家税务总局 - 最新文件",
       "type": "feed",
       "url": "rsshub://gov/chinatax/latest"

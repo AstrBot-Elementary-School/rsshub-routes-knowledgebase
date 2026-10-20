@@ -53,7 +53,7 @@ _None_
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 1026,
+  "heat": 1025,
   "location": "tech.ts",
   "maintainers": [
     "ktKongTong",

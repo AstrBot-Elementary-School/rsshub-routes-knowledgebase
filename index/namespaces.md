@@ -7697,7 +7697,7 @@ Use this file to select the target namespace before opening route documents.
 ## 南华期货
 - Namespace: `nanhua`
 - Aliases: `mall, mall.nanhua.net, nanhua, 南华期货`
-- Route Count: `1`
+- Route Count: `2`
 - Index File: `index/nanhua.md`
 
 ## 南开大学

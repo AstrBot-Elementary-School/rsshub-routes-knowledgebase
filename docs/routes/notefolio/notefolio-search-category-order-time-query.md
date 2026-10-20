@@ -211,7 +211,7 @@
       "id": "72683914070868992",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://docs.rsshub.app/",
+      "siteUrl": "https://notefolio.net/search",
       "title": "all/pick/all/ search",
       "type": "feed",
       "url": "rsshub://notefolio/search/all/pick/all"

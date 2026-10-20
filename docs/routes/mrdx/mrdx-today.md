@@ -78,7 +78,7 @@ _None_
       "id": "64309222369856512",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "http://mrdx.cn/content/20261018/Page01BC.htm",
+      "siteUrl": "http://mrdx.cn/content/20261019/Page01BC.htm",
       "title": "新华每日电讯",
       "type": "feed",
       "url": "rsshub://mrdx/today"

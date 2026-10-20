@@ -63,14 +63,14 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "- 腾讯云开发者社区 - Powered by RSSHub",
+      "description": "分类 0 - 腾讯云开发者社区 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "56601732214516736",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://docs.rsshub.app/",
-      "title": "RSSHub",
+      "siteUrl": "https://cloud.tencent.com/developer/column",
+      "title": "分类 0",
       "type": "feed",
       "url": "rsshub://tencent/cloud/developer/column"
     },
@@ -81,7 +81,7 @@ _None_
       "id": "57690304909571072",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://docs.rsshub.app/",
+      "siteUrl": "https://cloud.tencent.com/developer/column",
       "title": "后端",
       "type": "feed",
       "url": "rsshub://tencent/cloud/developer/column/4"

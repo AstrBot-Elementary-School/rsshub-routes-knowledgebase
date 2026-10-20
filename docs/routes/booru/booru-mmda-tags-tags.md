@@ -61,7 +61,7 @@ For example:
     "supportRadar": true,
     "supportScihub": false
   },
-  "heat": 16,
+  "heat": 18,
   "location": "mmda.ts",
   "maintainers": [
     "N78Wy"

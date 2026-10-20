@@ -91,7 +91,7 @@ _None_
     {
       "description": "Contest Archive - AtCoder - Powered by RSSHub",
       "errorAt": "2026-10-17T07:11:08.142Z",
-      "errorMessage": "401 \n[GET] \"https://atcoder.jp/contests/archive?lang=en&ratedType=0&category=0\": 403 Forbidden\n",
+      "errorMessage": "[GET] \"https://atcoder.jp/contests/archive?lang=en&ratedType=0&category=0\": 403 Forbidden\n401 \n",
       "id": "56948849407992836",
       "image": null,
       "ownerUserId": null,

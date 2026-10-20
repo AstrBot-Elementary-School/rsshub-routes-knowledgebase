@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 2127,
+  "heat": 2128,
   "location": "category.ts",
   "maintainers": [
     "nczitzk"
@@ -72,7 +72,7 @@ _None_
     {
       "description": "Pornhub - chinese - Powered by RSSHub",
       "errorAt": "2026-03-14T21:31:30.822Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'category')\nCannot read properties of undefined (reading 'category')\nUnknown Pornhub category. Use a category name or ID from the categories endpoint.\n",
+      "errorMessage": "Unknown Pornhub category. Use a category name or ID from the categories endpoint.\nCannot read properties of undefined (reading 'category')\nCannot read properties of undefined (reading 'category')\n",
       "id": "64884606299366400",
       "image": null,
       "ownerUserId": null,
@@ -83,8 +83,8 @@ _None_
     },
     {
       "description": "Pornhub - japanese - Powered by RSSHub",
-      "errorAt": "2026-03-20T06:59:47.706Z",
-      "errorMessage": "Cannot read properties of undefined (reading 'map')\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "60650857313055744",
       "image": null,
       "ownerUserId": null,

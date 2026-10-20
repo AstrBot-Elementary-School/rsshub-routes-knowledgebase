@@ -73,18 +73,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "RSSHub Radar - Google Chrome Extension - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "126248073223252992",
-      "image": "https://lh3.googleusercontent.com/kub2caeSUBk0Al6xAj5zYgTYov49cU1I2FuwkoV031BKWD3g9Ynrj4ZofChlpf3Og4mCL3C8G3ahcdqq23mZMqbB3Q=s60",
-      "ownerUserId": null,
-      "siteUrl": "https://chrome.google.com/webstore/detail/kefjpfngnndepjbopdmoebkipbgkggaa",
-      "title": "RSSHub Radar - Google Chrome Extension",
-      "type": "feed",
-      "url": "rsshub://google/chrome/extension/kefjpfngnndepjbopdmoebkipbgkggaa"
-    },
-    {
       "description": "UnTrap for YouTube - Google Chrome Extension - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -95,6 +83,18 @@ _None_
       "title": "UnTrap for YouTube - Google Chrome Extension",
       "type": "feed",
       "url": "rsshub://google/chrome/extension/enboaomnljigfhfjfoalacienlhjlfil"
+    },
+    {
+      "description": "RSSHub Radar - Google Chrome Extension - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "126248073223252992",
+      "image": "https://lh3.googleusercontent.com/kub2caeSUBk0Al6xAj5zYgTYov49cU1I2FuwkoV031BKWD3g9Ynrj4ZofChlpf3Og4mCL3C8G3ahcdqq23mZMqbB3Q=s60",
+      "ownerUserId": null,
+      "siteUrl": "https://chrome.google.com/webstore/detail/kefjpfngnndepjbopdmoebkipbgkggaa",
+      "title": "RSSHub Radar - Google Chrome Extension",
+      "type": "feed",
+      "url": "rsshub://google/chrome/extension/kefjpfngnndepjbopdmoebkipbgkggaa"
     }
   ]
 }

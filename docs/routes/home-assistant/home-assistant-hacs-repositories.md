@@ -36,7 +36,7 @@ _None_
     "program-update"
   ],
   "example": "/home-assistant/hacs/repositories",
-  "heat": 30,
+  "heat": 31,
   "location": "hacs.ts",
   "maintainers": [
     "DIYgod"

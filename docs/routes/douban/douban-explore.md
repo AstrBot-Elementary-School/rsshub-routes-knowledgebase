@@ -64,8 +64,8 @@ _None_
   "topFeeds": [
     {
       "description": "豆瓣-浏览发现 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-19T12:12:09.700Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "53908061985105943",
       "image": null,
       "ownerUserId": null,

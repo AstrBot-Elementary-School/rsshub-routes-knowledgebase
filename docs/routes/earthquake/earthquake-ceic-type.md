@@ -88,8 +88,8 @@
   "topFeeds": [
     {
       "description": "最近24小时地震信息 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-18T19:01:32.616Z",
+      "errorMessage": "503 \n",
       "id": "55611775416893440",
       "image": null,
       "ownerUserId": null,

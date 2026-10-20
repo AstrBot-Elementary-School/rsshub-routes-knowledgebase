@@ -168,8 +168,8 @@ _None_
   "topFeeds": [
     {
       "description": "美股资讯 - 金融界 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-19T14:47:24.223Z",
+      "errorMessage": "[POST] \"https://gateway.jrj.com/jrj-news/news/queryNewsList\": 522 <none>\n",
       "id": "137746341036184576",
       "image": null,
       "ownerUserId": null,
@@ -180,8 +180,8 @@ _None_
     },
     {
       "description": "财经资讯 - 金融界 - Powered by RSSHub",
-      "errorAt": "2026-10-18T07:18:14.277Z",
-      "errorMessage": "[GET] \"https://finance.jrj.com.cn/2026/10/18211658766769.shtml\": 530 <none>\n",
+      "errorAt": "2026-10-19T09:35:52.854Z",
+      "errorMessage": "[GET] \"https://finance.jrj.com.cn/2026/10/19172858773853.shtml\": 530 <none>\n",
       "id": "110335328538370048",
       "image": null,
       "ownerUserId": null,

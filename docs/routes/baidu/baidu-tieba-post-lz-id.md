@@ -76,16 +76,16 @@ _None_
       "url": "rsshub://baidu/tieba/post/lz/9083587772"
     },
     {
-      "description": "回复：小颖在线交流写配置的最新回复 - Powered by RSSHub",
-      "errorAt": "2025-03-16T11:18:40.585Z",
-      "errorMessage": "[GET] \"https://tieba.baidu.com/p/7746600116?see_lz=1&pn=7000000&ajax=1\": 403 Forbidden\n",
-      "id": "73927849230557184",
+      "description": "回复：2024电脑配置新帖的最新回复 - Powered by RSSHub",
+      "errorAt": "2025-04-23T06:23:58.705Z",
+      "errorMessage": "[GET] \"https://tieba.baidu.com/p/8884338949?see_lz=1&pn=7000000&ajax=1\": 403 Forbidden\n",
+      "id": "73923057056335872",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://tieba.baidu.com/p/7746600116?see_lz=1",
-      "title": "【只看楼主】回复：小颖在线交流写配置",
+      "siteUrl": "https://tieba.baidu.com/p/8884338949?see_lz=1",
+      "title": "【只看楼主】回复：2024电脑配置新帖",
       "type": "feed",
-      "url": "rsshub://baidu/tieba/post/lz/7746600116"
+      "url": "rsshub://baidu/tieba/post/lz/8884338949"
     }
   ]
 }

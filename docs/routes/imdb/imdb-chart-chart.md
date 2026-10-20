@@ -120,7 +120,7 @@ _None_
     {
       "description": "As rated by regular IMDb voters. - Powered by RSSHub",
       "errorAt": "2026-03-19T21:35:56.023Z",
-      "errorMessage": "Unexpected end of JSON input\nUnexpected end of JSON input\nIMDb did not return chart data (__NEXT_DATA__). Check whether the source is serving a verification page.\n",
+      "errorMessage": "IMDb did not return chart data (__NEXT_DATA__). Check whether the source is serving a verification page.\nUnexpected end of JSON input\nUnexpected end of JSON input\n",
       "id": "69670759328198656",
       "image": null,
       "ownerUserId": null,

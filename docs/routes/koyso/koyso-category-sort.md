@@ -535,27 +535,27 @@
   "topFeeds": [
     {
       "description": "Free pre-installed PC games download. No speed limits, no installation required. - Powered by RSSHub",
-      "errorAt": "2026-08-30T23:05:16.774Z",
-      "errorMessage": "[GET] \"https://koyso.to/game/2808\": 404 Not Found\n",
-      "id": "196554485255595008",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://koyso.to/?category=7&sort=latest",
-      "title": "PlayZip - PC Games Free Download - R18+ - Latest",
-      "type": "feed",
-      "url": "rsshub://koyso/7/latest"
-    },
-    {
-      "description": "Free pre-installed PC games download. No speed limits, no installation required. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "186257019396793344",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://koyso.to/?sort=latest",
+      "siteUrl": "https://playzip.com/?sort=latest",
       "title": "PlayZip - PC Games Free Download - All - Latest",
       "type": "feed",
       "url": "rsshub://koyso"
+    },
+    {
+      "description": "Free pre-installed PC games download. No speed limits, no installation required. - Powered by RSSHub",
+      "errorAt": "2026-10-19T08:30:47.752Z",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "id": "185221927541489664",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://playzip.com/?sort=latest",
+      "title": "PlayZip - PC Games Free Download - All - Latest",
+      "type": "feed",
+      "url": "rsshub://koyso/0/latest"
     }
   ],
   "url": "playzip.com",

@@ -79,7 +79,7 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "This release notes page tracks what’s new and changing in the current version of GitKraken Desktop, including new features, improvements, […] - Powered by RSSHub",
+      "description": "Last updated: September 2026 This release notes page tracks what’s new and changing in the current version of GitKraken Desktop, […] - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "241250520993393664",

@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 39,
+  "heat": 41,
   "location": "series-update.ts",
   "maintainers": [
     "TonyRL"

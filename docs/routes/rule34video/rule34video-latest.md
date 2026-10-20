@@ -76,8 +76,8 @@ _None_
   "topFeeds": [
     {
       "description": "Latest updates from Rule34 Video - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-19T16:26:24.334Z",
+      "errorMessage": "[GET] \"https://rule34video.com/latest-updates/\": 522 <none>\n",
       "id": "1094754492298952704",
       "image": null,
       "ownerUserId": null,

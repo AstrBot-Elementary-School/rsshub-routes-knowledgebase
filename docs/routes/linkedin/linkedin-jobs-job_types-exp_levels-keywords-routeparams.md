@@ -128,7 +128,7 @@ For example:
       "id": "72488728159150080",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?keywords=&f_JT=&f_E=",
+      "siteUrl": "https://www.linkedin.com/jobs/search/?keywords=&f_JT=&f_E=",
       "title": "LinkedIn Job Listing",
       "type": "feed",
       "url": "rsshub://linkedin/jobs/all/all"

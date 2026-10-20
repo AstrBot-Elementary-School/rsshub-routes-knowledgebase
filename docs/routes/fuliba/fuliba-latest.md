@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 465,
+  "heat": 464,
   "location": "latest.ts",
   "maintainers": [
     "shinemoon"
@@ -74,7 +74,7 @@ _None_
     {
       "description": "福利吧 - Powered by RSSHub",
       "errorAt": "2026-06-15T11:07:58.453Z",
-      "errorMessage": "[GET] \"https://fuliba2023.net/wp-json/wp/v2/posts?per_page=100&_embed=1\": 410 Gone\nFuliba returned HTTP 410 for its configured WordPress API. The route needs a verified current article source.\nFuliba returned HTTP 410 for its configured WordPress API. The route needs a verified current article source.\n[GET] \"https://fuliba2023.net/wp-json/wp/v2/posts?per_page=100&_embed=1\": 410 Gone\n[GET] \"https://fuliba2023.net/wp-json/wp/v2/posts?per_page=100&_embed=1\": 522 <none>\n",
+      "errorMessage": "Fuliba returned HTTP 410 for its configured WordPress API. The route needs a verified current article source.\n[GET] \"https://fuliba2023.net/wp-json/wp/v2/posts?per_page=100&_embed=1\": <no response> fetch failed\nFuliba returned HTTP 410 for its configured WordPress API. The route needs a verified current article source.\nFuliba returned HTTP 410 for its configured WordPress API. The route needs a verified current article source.\n[GET] \"https://fuliba2023.net/wp-json/wp/v2/posts?per_page=100&_embed=1\": 410 Gone\n",
       "id": "55989776559142912",
       "image": null,
       "ownerUserId": null,

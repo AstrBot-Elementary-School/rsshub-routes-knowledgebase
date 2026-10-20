@@ -84,8 +84,8 @@ _None_
   "topFeeds": [
     {
       "description": "藤ちょこ（藤原） 的 pixiv 最新动态 - Powered by RSSHub",
-      "errorAt": "2026-10-18T15:41:09.118Z",
-      "errorMessage": "[GET] \"https://app-api.pixiv.net/v1/user/illusts?filter=for_ios&user_id=27517\": 400 \n",
+      "errorAt": "2026-10-19T13:35:53.236Z",
+      "errorMessage": "[POST] \"https://oauth.secure.pixiv.net/auth/token\": 403 Forbidden\n",
       "id": "41679126529608704",
       "image": "https://pixiv.rss3.workers.dev/user-profile/img/2022/02/03/15/54/20/22159592_fce9f5c7a908c9b601dc7e9da7a412a3_170.jpg",
       "ownerUserId": null,

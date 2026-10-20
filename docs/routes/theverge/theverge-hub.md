@@ -82,7 +82,7 @@ Provides a better reading experience (full text articles) over the official one.
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 310,
+  "heat": 311,
   "location": "index.ts",
   "maintainers": [
     "HenryQW",

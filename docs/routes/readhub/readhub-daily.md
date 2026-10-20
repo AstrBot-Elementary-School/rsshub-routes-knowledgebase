@@ -52,7 +52,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 4875,
+  "heat": 4874,
   "location": "daily.ts",
   "maintainers": [
     "nczitzk",
@@ -73,13 +73,13 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "1. DeepSeek V4.1 Flash-1017 新版本发布 性能提升权重开源 2. OpenAI 宣布 ChatGPT 重大升级，可接管 Chrome 操作网页 3. 苹果称 iPhone Duo 需求非凡 正全力交付设备并持续接受线上订单 4. 抖音称将针对京东左琦造谣行为坚决维权到底 5. 腾讯评估 Agent 出现非预期行为 应对方式异于 OpenAI 等厂商 6. Claude 半小时破解二十余年 NIST 椭圆曲线种子来源谜题 7. Anthropic 称人均雇员创收是 Meta 和谷歌的 2 至 4 倍 8. iPhone Duo 黄牛溢价已有回落，经销商预计现货并不如想象稀缺 9. OpenAI 再度挖角 SpaceX AI 领域核心销售负责人 10. DeepMind 新 AI 成果登 Science 解出悬 56 年等多道数学难题 - Powered by RSSHub",
+      "description": "1. DeepSeek API 已支持网页搜索和抓取，单价为每 1000 次成功请求 5 元 2. 苹果客服回应 iPhone 货轮沉没传闻：若属实不会二次流入市场 3. OpenAI 发力人形机器人研发 将 AI 大脑作为核心突破口 4. Meta 修改商业服务条款引 AI 训练数据争议 相关表述已删除 5. 演员吴越怒斥 AI 仿冒带货 微信视频号回应相关账号已永久封禁 6. 消息称三星将采用台积电 3nm 制程为英伟达生产 HBM 基底裸片 7. DeepMind 新 AI 成果登 Science 解出悬 56 年等多道数学难题 8. 京东：未来 5 年将创造超 10 万个机器人维修工程师就业岗位 9. Anthropic 计划将部分股份转入新型「公共利益」基金 10. DeepMind 宣布 4 个 Gemini 智能体自组队通关《我的世界》 11. 普林斯顿团队开发蛋白质生成 AI 模型：降低免疫原性，还能提高活性 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
       "id": "52347176714948614",
       "image": "https://readhub.cn/icons/icon-192x192.png",
       "ownerUserId": null,
-      "siteUrl": "https://api.readhub.cn/daily",
+      "siteUrl": "https://readhub.cn/daily",
       "title": "Readhub - 每日早报",
       "type": "feed",
       "url": "rsshub://readhub/daily"

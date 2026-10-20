@@ -83,8 +83,8 @@ _None_
   "topFeeds": [
     {
       "description": "智通财经 - 推荐 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-19T02:56:20.280Z",
+      "errorMessage": "503 \n",
       "id": "63376992073142278",
       "image": null,
       "ownerUserId": null,

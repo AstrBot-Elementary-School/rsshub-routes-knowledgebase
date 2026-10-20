@@ -225,8 +225,8 @@ To subscribe to [Highlights](https://www.app-sales.net/highlights/), where the s
   "topFeeds": [
     {
       "description": "Most recent discounted and temporarily free Android apps and games on Google Play - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-19T07:01:03.255Z",
+      "errorMessage": "[GET] \"https://www.app-sales.net/activesales/\": 404 Not Found\n",
       "id": "256563101508143104",
       "image": "https://www.app-sales.net/img/appsales_logo_claim.png",
       "ownerUserId": null,
@@ -237,8 +237,8 @@ To subscribe to [Highlights](https://www.app-sales.net/highlights/), where the s
     },
     {
       "description": "Android apps and games that are free for a limited time on Google Play - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-19T06:25:48.884Z",
+      "errorMessage": "[GET] \"https://www.app-sales.net/nowfree/\": 404 Not Found\n",
       "id": "198041350264348672",
       "image": "https://www.app-sales.net/img/appsales_logo_claim.png",
       "ownerUserId": null,

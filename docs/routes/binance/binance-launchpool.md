@@ -60,7 +60,7 @@ _None_
     {
       "description": null,
       "errorAt": "2025-11-05T17:49:45.597Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "[GET] \"https://www.binance.com/bapi/apex/v1/public/apex/cms/article/list/query?type=1&pageNo=1&pageSize=20&catalogId=48\": 403 Forbidden\n",
       "id": "208953371452225542",
       "image": null,
       "ownerUserId": null,

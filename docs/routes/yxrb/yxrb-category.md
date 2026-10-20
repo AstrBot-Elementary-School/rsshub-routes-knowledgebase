@@ -81,8 +81,8 @@
   "topFeeds": [
     {
       "description": "游戏资讯, 游戏日报提供最具价值行业信息。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-19T09:12:53.085Z",
+      "errorMessage": "[GET] \"http://news.yxrb.net/info/\": 522 <none>\n",
       "id": "56176972513891328",
       "image": "http://news.yxrb.net/uploadfile/2022/1008/8daa67f624b4928.png",
       "ownerUserId": null,
@@ -93,8 +93,8 @@
     },
     {
       "description": "游戏资讯, 游戏日报提供最具价值行业信息。 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-19T14:20:57.375Z",
+      "errorMessage": "[GET] \"http://news.yxrb.net/2026/1019/7709.html\": 404 Not Found\n[GET] \"http://news.yxrb.net/2026/1019/7709.html\": 404 Not Found\n",
       "id": "93963104693017600",
       "image": "http://news.yxrb.net/uploadfile/2022/1008/8daa67f624b4928.png",
       "ownerUserId": null,

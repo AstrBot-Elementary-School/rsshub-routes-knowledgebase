@@ -111,12 +111,12 @@
     },
     {
       "description": "TVB News - 要聞 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-19T12:11:14.782Z",
+      "errorMessage": "TVB could not retrieve focus news (NA01010003). Please try again later.\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
       "id": "61348313469205504",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://inews-api.tvb.com/tc/focus",
+      "siteUrl": "https://news.tvb.com/tc/focus",
       "title": "TVB News - 要聞",
       "type": "feed",
       "url": "rsshub://tvb/news"

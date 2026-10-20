@@ -222,8 +222,8 @@
   "topFeeds": [
     {
       "description": "The hottest android apps from the last 24 hours, 7 days or all-time. - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-19T06:25:46.094Z",
+      "errorMessage": "[GET] \"https://www.app-sales.net/mostwanted/\": 404 Not Found\n",
       "id": "272254035724080128",
       "image": "https://www.app-sales.net/img/appsales_logo_claim.png",
       "ownerUserId": null,

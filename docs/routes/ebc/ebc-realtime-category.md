@@ -77,8 +77,8 @@ _None_
   "topFeeds": [
     {
       "description": "東森新聞|即時 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-19T02:06:02.522Z",
+      "errorMessage": "Cannot read properties of undefined (reading 'headline')\n",
       "id": "105751285441409024",
       "image": null,
       "ownerUserId": null,

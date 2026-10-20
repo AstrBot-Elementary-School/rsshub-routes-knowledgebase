@@ -74,16 +74,16 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "magic-akari's followers - Powered by RSSHub",
+      "description": "cgw88's followers - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "82667972055805952",
+      "id": "160995085476973568",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://github.com/magic-akari",
-      "title": "magic-akari's followers",
+      "siteUrl": "https://github.com/cgw88",
+      "title": "cgw88's followers",
       "type": "feed",
-      "url": "rsshub://github/user/followers/magic-akari"
+      "url": "rsshub://github/user/followers/cgw88"
     },
     {
       "description": "Shubxam's followers - Powered by RSSHub",

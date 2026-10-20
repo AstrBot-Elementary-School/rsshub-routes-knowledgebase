@@ -151,8 +151,8 @@ To subscribe to [Repositories](https://gitstar-ranking.com/repositories), where 
     },
     {
       "description": "Repositories Ranking - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-19T13:15:55.446Z",
+      "errorMessage": "[GET] \"https://gitstar-ranking.com/repositories\": 521 <none>\n",
       "id": "183008047351892992",
       "image": null,
       "ownerUserId": null,

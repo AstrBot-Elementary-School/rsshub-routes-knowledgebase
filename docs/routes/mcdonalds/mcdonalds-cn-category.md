@@ -55,8 +55,8 @@ _None_
   "topFeeds": [
     {
       "description": "麦当劳资讯 - Powered by RSSHub",
-      "errorAt": "2026-10-18T14:21:01.340Z",
-      "errorMessage": "[GET] \"https://www.mcdonalds.com.cn/news/event\": 530 <none>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "1290162735530508288",
       "image": null,
       "ownerUserId": null,

@@ -84,7 +84,7 @@ _None_
       "image": "https://www.gov.cn/images/gtrs_logo_rt.png",
       "ownerUserId": null,
       "siteUrl": "http://www.gov.cn/zhengce/zhengceku/bmwj/",
-      "title": "- 政府文件库",
+      "title": "国务院部门文件 - 政府文件库",
       "type": "feed",
       "url": "rsshub://gov/zhengce/zhengceku/bmwj"
     }

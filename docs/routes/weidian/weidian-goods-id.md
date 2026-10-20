@@ -51,28 +51,28 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "阿寇工作室 商铺上新 - Powered by RSSHub",
+      "description": "YXING研制 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264525081824854016",
+      "id": "1264527108160225280",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1727854294",
-      "title": "阿寇工作室 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=757370870",
+      "title": "YXING研制 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1727854294"
+      "url": "rsshub://weidian/goods/757370870"
     },
     {
-      "description": "热火潮天灭世纵横（新店） 商铺上新 - Powered by RSSHub",
+      "description": "小A狗牙 商铺上新 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1264525711138226176",
+      "id": "1264525408108150784",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://weidian.com/?userid=1778315872",
-      "title": "热火潮天灭世纵横（新店） 商铺上新",
+      "siteUrl": "https://weidian.com/?userid=1750570979",
+      "title": "小A狗牙 商铺上新",
       "type": "feed",
-      "url": "rsshub://weidian/goods/1778315872"
+      "url": "rsshub://weidian/goods/1750570979"
     }
   ]
 }

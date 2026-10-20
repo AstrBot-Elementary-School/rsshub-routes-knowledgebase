@@ -51,7 +51,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 885,
+  "heat": 884,
   "location": "article.ts",
   "maintainers": [
     "lengthmin",
@@ -77,7 +77,7 @@ _None_
     {
       "description": "技术爬爬虾 的 bilibili 图文 - Powered by RSSHub",
       "errorAt": "2026-09-07T12:57:33.773Z",
-      "errorMessage": "Failed to fetch\n[GET] \"https://api.bilibili.com/x/web-interface/card?mid=316183842\": 412 Precondition Failed\n",
+      "errorMessage": "[GET] \"https://api.bilibili.com/x/web-interface/card?mid=316183842\": 412 Precondition Failed\nFailed to fetch\n",
       "id": "78446399642487808",
       "image": null,
       "ownerUserId": null,
@@ -89,7 +89,7 @@ _None_
     {
       "description": "undefined 的 bilibili 图文 - Powered by RSSHub",
       "errorAt": "2026-09-19T21:08:19.477Z",
-      "errorMessage": "502 \n[GET] \"https://api.bilibili.com/x/web-interface/card?mid=57276677\": 412 Precondition Failed\n",
+      "errorMessage": "[GET] \"https://api.bilibili.com/x/web-interface/card?mid=57276677\": 412 Precondition Failed\n",
       "id": "55126637717323776",
       "image": null,
       "ownerUserId": null,

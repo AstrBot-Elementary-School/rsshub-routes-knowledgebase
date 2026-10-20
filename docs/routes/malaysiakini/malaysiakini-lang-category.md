@@ -123,18 +123,6 @@
   },
   "topFeeds": [
     {
-      "description": "Latest articles from News - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "61840955600323584",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.malaysiakini.com/en/latest/news",
-      "title": "News - Malaysiakini",
-      "type": "feed",
-      "url": "rsshub://malaysiakini/en"
-    },
-    {
       "description": "Latest articles from 新聞 - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
@@ -145,6 +133,18 @@
       "title": "新聞 - Malaysiakini",
       "type": "feed",
       "url": "rsshub://malaysiakini/zh/news"
+    },
+    {
+      "description": "Latest articles from News - Powered by RSSHub",
+      "errorAt": "2026-10-19T06:30:50.264Z",
+      "errorMessage": "Cannot find the public article content on https://www.malaysiakini.com/news/887408-pm-1mdb-debt-not-fully-settled-new-borrowing-based-on-need.\n",
+      "id": "61840955600323584",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.malaysiakini.com/en/latest/news",
+      "title": "News - Malaysiakini",
+      "type": "feed",
+      "url": "rsshub://malaysiakini/en"
     }
   ]
 }

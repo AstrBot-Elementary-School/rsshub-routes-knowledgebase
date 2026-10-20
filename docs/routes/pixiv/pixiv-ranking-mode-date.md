@@ -58,7 +58,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 7701,
+  "heat": 7703,
   "location": "ranking.ts",
   "maintainers": [
     "EYHN"
@@ -135,21 +135,9 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "2026年10月18日 pixiv 日排行 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
-      "id": "41427688948323328",
-      "image": null,
-      "ownerUserId": null,
-      "siteUrl": "https://www.pixiv.net/ranking.php?mode=daily",
-      "title": "pixiv 日排行",
-      "type": "feed",
-      "url": "rsshub://pixiv/ranking/day"
-    },
-    {
-      "description": "2026年10月18日 pixiv 周排行 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "description": "2026年10月19日 pixiv 周排行 - Powered by RSSHub",
+      "errorAt": "2026-10-19T13:22:05.081Z",
+      "errorMessage": "[POST] \"https://oauth.secure.pixiv.net/auth/token\": 403 Forbidden\npixiv RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\npixiv RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\npixiv RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\npixiv RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\n[POST] \"https://oauth.secure.pixiv.net/auth/token\": <no response> fetch failed (Connect Timeout Error (attempted address: 100.110.64.78:7890, timeout: 10000ms))\npixiv RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\npixiv RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\npixiv RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\npixiv RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\n",
       "id": "41147805276726317",
       "image": null,
       "ownerUserId": null,
@@ -157,6 +145,18 @@ _None_
       "title": "pixiv 周排行",
       "type": "feed",
       "url": "rsshub://pixiv/ranking/week"
+    },
+    {
+      "description": "2026年10月19日 pixiv 日排行 - Powered by RSSHub",
+      "errorAt": "2026-10-19T15:08:41.858Z",
+      "errorMessage": "[POST] \"https://oauth.secure.pixiv.net/auth/token\": 403 Forbidden\npixiv RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\npixiv RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\npixiv RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\npixiv RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\n[POST] \"https://oauth.secure.pixiv.net/auth/token\": <no response> fetch failed (Connect Timeout Error (attempted address: 100.110.64.78:7890, timeout: 10000ms))\npixiv RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\npixiv RSS is disabled due to the lack of <a href=\"https://docs.rsshub.app/deploy/config#route-specific-configurations\">relevant config</a>\n",
+      "id": "41427688948323328",
+      "image": null,
+      "ownerUserId": null,
+      "siteUrl": "https://www.pixiv.net/ranking.php?mode=daily",
+      "title": "pixiv 日排行",
+      "type": "feed",
+      "url": "rsshub://pixiv/ranking/day"
     }
   ],
   "view": 2

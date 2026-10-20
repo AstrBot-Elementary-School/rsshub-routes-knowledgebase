@@ -98,16 +98,16 @@ _None_
       "url": "rsshub://luma/langchain"
     },
     {
-      "description": "Reading Rhythms Global - Powered by RSSHub",
-      "errorAt": "2026-10-08T02:31:19.621Z",
-      "errorMessage": "[GET] \"https://api.lu.ma/url?url=readingrhythms-global\": 429 Too Many Requests\n",
-      "id": "265967037132484608",
+      "description": "Google Gemma - Powered by RSSHub",
+      "errorAt": "2026-08-25T00:07:39.694Z",
+      "errorMessage": "[GET] \"https://api.lu.ma/url?url=gemma-events\": 429 Too Many Requests\n",
+      "id": "265966966744675328",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://lu.ma/readingrhythms-global",
-      "title": "Reading Rhythms Global",
+      "siteUrl": "https://lu.ma/gemma-events",
+      "title": "Google Gemma",
       "type": "feed",
-      "url": "rsshub://luma/readingrhythms-global"
+      "url": "rsshub://luma/gemma-events"
     }
   ],
   "url": "luma.com"

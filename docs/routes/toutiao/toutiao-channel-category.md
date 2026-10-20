@@ -152,7 +152,7 @@ _None_
   "topFeeds": [
     {
       "description": "热点 - 今日头条 - Powered by RSSHub",
-      "errorAt": "2026-10-18T11:20:49.871Z",
+      "errorAt": "2026-10-19T12:35:59.270Z",
       "errorMessage": "503 \n",
       "id": "1311877517102940160",
       "image": null,
@@ -164,8 +164,8 @@ _None_
     },
     {
       "description": "推荐 - 今日头条 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-19T16:53:44.714Z",
+      "errorMessage": "503 \n",
       "id": "1319372569941245952",
       "image": null,
       "ownerUserId": null,

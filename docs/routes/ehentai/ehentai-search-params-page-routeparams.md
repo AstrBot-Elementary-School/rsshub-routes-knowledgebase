@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 290,
+  "heat": 291,
   "location": "search.ts",
   "maintainers": [
     "yindaheng98",
@@ -84,8 +84,8 @@ _None_
     },
     {
       "description": "ごさいじ+language:\"chinese\" - E-Hentai Search - Powered by RSSHub",
-      "errorAt": "2026-10-18T14:36:03.363Z",
-      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "132859028606370816",
       "image": null,
       "ownerUserId": null,

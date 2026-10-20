@@ -103,7 +103,7 @@ _None_
       "id": "84293189028533248",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://aeon.co/category/science",
+      "siteUrl": "https://aeon.co/science",
       "title": "AEON | Science",
       "type": "feed",
       "url": "rsshub://aeon/category/science"

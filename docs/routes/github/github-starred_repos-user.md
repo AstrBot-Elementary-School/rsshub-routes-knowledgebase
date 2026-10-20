@@ -83,7 +83,7 @@ _None_
     {
       "description": "rcy1314's starred repositories - Powered by RSSHub",
       "errorAt": "2026-10-14T13:35:43.236Z",
-      "errorMessage": "Empty RSSHub items from 187435950575499264\nthis route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\n",
+      "errorMessage": "this route is empty, please check the original site or <a href=\"https://github.com/DIYgod/RSSHub/issues/new/choose\">create an issue</a>\nEmpty RSSHub items from 187435950575499264\n",
       "id": "54834858065047665",
       "image": null,
       "ownerUserId": null,

@@ -83,7 +83,7 @@ _None_
       "id": "70149374631526400",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://misskon.com/wp-json/wp/v2/posts",
+      "siteUrl": "https://misskon.com/",
       "title": "MissKON - Posts",
       "type": "feed",
       "url": "rsshub://misskon/posts"

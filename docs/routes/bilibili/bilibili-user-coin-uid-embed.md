@@ -77,16 +77,16 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "CLS班长 的 bilibili 投币视频 - Powered by RSSHub",
-      "errorAt": "2026-09-16T00:19:20.991Z",
-      "errorMessage": "[GET] \"https://api.bilibili.com/x/web-interface/card?mid=3546587043203707\": 412 Precondition Failed\n",
-      "id": "73238754758254592",
+      "description": "hanser 的 bilibili 投币视频 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
+      "id": "202945335506028544",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://space.bilibili.com/3546587043203707",
-      "title": "CLS班长 的 bilibili 投币视频",
+      "siteUrl": "https://space.bilibili.com/11073",
+      "title": "hanser 的 bilibili 投币视频",
       "type": "feed",
-      "url": "rsshub://bilibili/user/coin/3546587043203707"
+      "url": "rsshub://bilibili/user/coin/11073"
     },
     {
       "description": "大闲人贾白 的 bilibili 投币视频 - Powered by RSSHub",

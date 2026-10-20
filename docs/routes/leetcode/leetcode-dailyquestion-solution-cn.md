@@ -63,7 +63,7 @@ _None_
       "id": "56597410818564096",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://leetcode.cn/problems/number-of-ways-to-reorder-array-to-get-same-bst/",
+      "siteUrl": "https://leetcode.cn/problems/find-target-indices-after-sorting-array/",
       "title": "LeetCode 每日一题题解",
       "type": "feed",
       "url": "rsshub://leetcode/dailyquestion/solution/cn"

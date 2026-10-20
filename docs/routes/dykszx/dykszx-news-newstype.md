@@ -80,8 +80,8 @@
   "topFeeds": [
     {
       "description": "德阳人事考试网 考试新闻发布 (新闻中心) - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-19T08:51:59.783Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "61102289930311680",
       "image": null,
       "ownerUserId": null,

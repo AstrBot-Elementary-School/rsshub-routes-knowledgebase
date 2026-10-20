@@ -98,8 +98,8 @@ _None_
   "topFeeds": [
     {
       "description": "LPR市场公告 - 贷款市场报价利率 - 本币市场 - 中国货币网 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-19T11:57:48.637Z",
+      "errorMessage": "Failed to fetch\n",
       "id": "81597310330460160",
       "image": null,
       "ownerUserId": null,

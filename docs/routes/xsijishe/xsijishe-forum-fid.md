@@ -73,8 +73,8 @@ _None_
   "topFeeds": [
     {
       "description": "司机社国产视频论坛 - Powered by RSSHub",
-      "errorAt": "2026-10-18T11:26:43.011Z",
-      "errorMessage": "503 \n",
+      "errorAt": "2026-10-19T14:31:01.805Z",
+      "errorMessage": "Remote Playwright WebSocket upgrade failed with HTTP 428\n",
       "id": "41708590536881152",
       "image": null,
       "ownerUserId": null,
@@ -85,8 +85,8 @@ _None_
     },
     {
       "description": "司机社日本AV论坛 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-19T16:20:53.165Z",
+      "errorMessage": "Remote Playwright WebSocket upgrade failed with HTTP 428\nAuthentication failed. Access denied.\n/xsijishe/forum/51\n",
       "id": "55159238633029632",
       "image": null,
       "ownerUserId": null,

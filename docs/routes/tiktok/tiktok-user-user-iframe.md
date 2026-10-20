@@ -89,16 +89,16 @@ _None_
       "url": "rsshub://tiktok/user/@policiadecolombia"
     },
     {
-      "description": "Just out here building cool stuff and showing you how! - Powered by RSSHub",
+      "description": "Do not reupload or use my work without permission 🇻🇳 | Multishipper I post random stuff here. - Powered by RSSHub",
       "errorAt": null,
       "errorMessage": null,
-      "id": "1294380702568939520",
-      "image": "https://p16-common-sign.tiktokcdn-eu.com/tos-useast2a-avt-0068-euttp/f449f1f942e44275d2cada2db3b64236~tplv-tiktokx-cropcenter:100:100.jpeg?dr=10399&refresh_token=ad71efac&x-expires=1792447200&x-signature=nJyq3SX96Zy%2FsmjbS8rQO4St3NU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=no1a",
+      "id": "1278675630061125632",
+      "image": "https://p16-common-sign.tiktokcdn-eu.com/tos-alisg-avt-0068/0ad1a049e5c806fe762dfe9f586ed956~tplv-tiktokx-cropcenter:100:100.jpeg?dr=10399&refresh_token=e9ee621f&x-expires=1792260000&x-signature=BY7uAdb%2BDRzvWQ83Q3ssZ41wtH0%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=no1a",
       "ownerUserId": null,
-      "siteUrl": "https://www.tiktok.com/@frankly_built",
-      "title": "frankly_built (@frankly_built) | TikTok",
+      "siteUrl": "https://www.tiktok.com/@gink_armi",
+      "title": "Gin Karmi (@gink_armi) | TikTok",
       "type": "feed",
-      "url": "rsshub://tiktok/user/@frankly_built"
+      "url": "rsshub://tiktok/user/@gink_armi/true"
     }
   ]
 }

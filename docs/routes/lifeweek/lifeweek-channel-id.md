@@ -80,8 +80,8 @@ _None_
     },
     {
       "description": "文化 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-19T16:26:21.985Z",
+      "errorMessage": "503 \n",
       "id": "74705665643397120",
       "image": null,
       "ownerUserId": null,

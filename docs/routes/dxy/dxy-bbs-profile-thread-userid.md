@@ -91,7 +91,7 @@ _None_
     {
       "description": "心血管内科医师 路漫漫其修远兮，吾将上下前后左右而求索。 - Powered by RSSHub",
       "errorAt": "2025-08-12T08:05:10.572Z",
-      "errorMessage": "请求方法不存在\n",
+      "errorMessage": "请求异常，请通过验证\n",
       "id": "59116838117216256",
       "image": "https://img.dxycdn.com/avatars/120/7f/2e/ce/8335054/1.jpg",
       "ownerUserId": null,

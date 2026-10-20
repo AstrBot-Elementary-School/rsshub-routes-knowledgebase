@@ -55,7 +55,7 @@ _None_
     ],
     "requirePuppeteer": true
   },
-  "heat": 1383280,
+  "heat": 1383278,
   "location": "user.ts",
   "maintainers": [
     "lotosbin",
@@ -100,18 +100,6 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "喜欢穿搭👗 随意分享🩰 📮3790381790@qq.com 白羊座 重庆南岸 3 关注 1万+ 粉丝 1万+ 获赞与收藏 - Powered by RSSHub",
-      "errorAt": "2026-07-13T17:19:40.144Z",
-      "errorMessage": "Could not find Chrome (ver. 123.0.6312.86). This can occur if either\n 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or\n 2. your cache path is incorrectly configured (which is: /app/node_modules/.cache/puppeteer).\nFor (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.\n[GET] \"https://cloudflarebypassforscraping.rss3.workers.dev/html?url=https%3A%2F%2Fwww.xiaohongshu.com%2Fuser%2Fprofile%2F5db011250000000001002502\": 500 Internal Server Error\n",
-      "id": "67448641547187200",
-      "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo319cmu4i06c005ndg24ig8982rj4drug?imageView2/2/w/540/format/webp",
-      "ownerUserId": null,
-      "siteUrl": "https://www.xiaohongshu.com/user/profile/5db011250000000001002502",
-      "title": "shirley - 小红书笔记",
-      "type": "feed",
-      "url": "rsshub://xiaohongshu/user/5db011250000000001002502/notes"
-    },
-    {
       "description": "女摄/杭州 10+ 关注 1万+ 粉丝 1万+ 获赞与收藏 - Powered by RSSHub",
       "errorAt": "2025-12-09T12:40:34.349Z",
       "errorMessage": "[GET] \"https://cloudflarebypassforscraping.rss3.workers.dev/html?url=https%3A%2F%2Fwww.xiaohongshu.com%2Fuser%2Fprofile%2F652baa23000000002a034939\": 500 Internal Server Error\n",
@@ -122,6 +110,18 @@ _None_
       "title": "馒头豹饱 - 小红书笔记",
       "type": "feed",
       "url": "rsshub://xiaohongshu/user/652baa23000000002a034939/notes"
+    },
+    {
+      "description": "喜欢穿搭👗 随意分享🩰 📮3790381790@qq.com 白羊座 重庆南岸 3 关注 1万+ 粉丝 1万+ 获赞与收藏 - Powered by RSSHub",
+      "errorAt": "2026-07-13T17:19:40.144Z",
+      "errorMessage": "[GET] \"https://cloudflarebypassforscraping.rss3.workers.dev/html?url=https%3A%2F%2Fwww.xiaohongshu.com%2Fuser%2Fprofile%2F5db011250000000001002502\": 500 Internal Server Error\nCould not find Chrome (ver. 123.0.6312.86). This can occur if either\n 1. you did not perform an installation before running the script (e.g. `npx puppeteer browsers install chrome`) or\n 2. your cache path is incorrectly configured (which is: /app/node_modules/.cache/puppeteer).\nFor (2), check out our guide on configuring puppeteer at https://pptr.dev/guides/configuration.\n",
+      "id": "67448641547187200",
+      "image": "https://sns-avatar-qc.xhscdn.com/avatar/1040g2jo319cmu4i06c005ndg24ig8982rj4drug?imageView2/2/w/540/format/webp",
+      "ownerUserId": null,
+      "siteUrl": "https://www.xiaohongshu.com/user/profile/5db011250000000001002502",
+      "title": "shirley - 小红书笔记",
+      "type": "feed",
+      "url": "rsshub://xiaohongshu/user/5db011250000000001002502/notes"
     }
   ],
   "view": 0

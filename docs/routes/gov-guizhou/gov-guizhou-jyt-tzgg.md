@@ -77,8 +77,8 @@ _None_
   "topFeeds": [
     {
       "description": "贵州省教育厅门户网站通知公告 - Powered by RSSHub",
-      "errorAt": null,
-      "errorMessage": null,
+      "errorAt": "2026-10-19T05:51:14.830Z",
+      "errorMessage": "503 \n",
       "id": "238150952866085888",
       "image": null,
       "ownerUserId": null,

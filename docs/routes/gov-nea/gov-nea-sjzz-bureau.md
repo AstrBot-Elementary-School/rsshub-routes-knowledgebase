@@ -53,7 +53,7 @@ _None_
     "supportPodcast": false,
     "supportScihub": false
   },
-  "heat": 1437,
+  "heat": 1438,
   "location": "bureau.ts",
   "maintainers": [
     "nczitzk",
@@ -133,14 +133,14 @@ _None_
   },
   "topFeeds": [
     {
-      "description": "国家能源局 - 发展规划司工作进展 - Powered by RSSHub",
-      "errorAt": "2025-09-12T15:00:21.335Z",
-      "errorMessage": "200 ",
+      "description": "介绍规划司相关机构职责，发布最新工作进展。 - Powered by RSSHub",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "61217794276645888",
       "image": null,
       "ownerUserId": null,
-      "siteUrl": "https://www.nea.gov.cn/sjzz/ghs/",
-      "title": "国家能源局 - 发展规划司工作进展",
+      "siteUrl": "https://www.nea.gov.cn/sjzz/ghs/index.htm",
+      "title": "国家能源局-发展规划司工作进展",
       "type": "feed",
       "url": "rsshub://gov/nea/sjzz/ghs"
     }

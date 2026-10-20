@@ -75,8 +75,8 @@ _None_
   "topFeeds": [
     {
       "description": "当季新品推荐 - Powered by RSSHub",
-      "errorAt": "2025-09-15T03:51:42.607Z",
-      "errorMessage": "[POST] \"https://srv-mp.app.ikea.cn/content/search/products/advanced?keyword=%E6%96%B0%E5%93%81&moreToken\": 522 <none>\n",
+      "errorAt": null,
+      "errorMessage": null,
       "id": "66834743977124868",
       "image": null,
       "ownerUserId": null,
